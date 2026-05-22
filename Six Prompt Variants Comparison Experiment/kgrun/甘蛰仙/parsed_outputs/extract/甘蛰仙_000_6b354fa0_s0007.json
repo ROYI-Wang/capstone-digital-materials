@@ -1,0 +1,372 @@
+{
+  "metadata": {
+    "schema_version": "lite_v2.0",
+    "article_id": "甘蛰仙_000_6b354fa0",
+    "article_title": "人生观与知识论",
+    "source_author": "甘蛰仙",
+    "section_title": "鄙意欲率自由意志以通本体论与道德学之邮，犹先民所谓“为仁由己”也。我当时之见解，以为从事本体之学，务必以道德学为之辅，乃能按",
+    "section_author": "鄙意欲率自由意志以通本体论与道德学之邮，犹先民所谓“为仁由己”也。我当时之见解，以为从事本体之学，务必以道德学为之辅，乃能",
+    "segment_id": "甘蛰仙_000_6b354fa0_s0007",
+    "segment_index": 7,
+    "source_file": "E:\\1研究生\\岭南大学\\论文毕业\\capstone\\资料\\新的内容开始了\\local_upload\\input_w2\\甘蛰仙.txt"
+  },
+  "entities": [
+    {
+      "id": "e1",
+      "name": "仲尼",
+      "canonical_name": "孔子",
+      "type": "人物",
+      "evidence": "其自道其志也，愿学仲尼",
+      "confidence": 1.0
+    },
+    {
+      "id": "e2",
+      "name": "孟子",
+      "canonical_name": "孟子",
+      "type": "人物",
+      "evidence": "孟子书中所称“其为气也，至大至刚，以直养而无害，则塞乎天地之间”",
+      "confidence": 1.0
+    },
+    {
+      "id": "e3",
+      "name": "荀子",
+      "canonical_name": "荀子",
+      "type": "人物",
+      "evidence": "荀子之批评人生问题也，以消极的“解蔽”为大纲",
+      "confidence": 1.0
+    },
+    {
+      "id": "e4",
+      "name": "孔子",
+      "canonical_name": "孔子",
+      "type": "人物",
+      "evidence": "揆诸孔子“无可无不可”之人生观",
+      "confidence": 1.0
+    },
+    {
+      "id": "e5",
+      "name": "陆子",
+      "canonical_name": "陆九渊",
+      "type": "人物",
+      "evidence": "陆子之“先立其大”，得力于孟子",
+      "confidence": 1.0
+    },
+    {
+      "id": "e6",
+      "name": "朱子",
+      "canonical_name": "朱熹",
+      "type": "人物",
+      "evidence": "朱子之“真积力久”近似荀子",
+      "confidence": 1.0
+    },
+    {
+      "id": "e7",
+      "name": "北宋诸子",
+      "canonical_name": "北宋诸子",
+      "type": "阵营/群体",
+      "evidence": "北宋诸子之人生观，若者壮美，若者优美",
+      "confidence": 1.0
+    },
+    {
+      "id": "e8",
+      "name": "南宋理学界",
+      "canonical_name": "南宋理学界",
+      "type": "阵营/群体",
+      "evidence": "南宋理学界，自当推朱陆为重要代表",
+      "confidence": 1.0
+    },
+    {
+      "id": "e9",
+      "name": "人生观",
+      "canonical_name": "人生观",
+      "type": "概念",
+      "evidence": "非“为爱群之责任心所驱迫”，而能有如斯高明壮美之人生观乎",
+      "confidence": 1.0
+    },
+    {
+      "id": "e10",
+      "name": "知识论",
+      "canonical_name": "知识论",
+      "type": "概念",
+      "evidence": "盖适用荀子知识论及人生问题之批评",
+      "confidence": 1.0
+    },
+    {
+      "id": "e11",
+      "name": "解蔽",
+      "canonical_name": "解蔽",
+      "type": "概念",
+      "evidence": "荀子之批评人生问题也，以消极的“解蔽”为大纲",
+      "confidence": 1.0
+    },
+    {
+      "id": "e12",
+      "name": "壮美",
+      "canonical_name": "壮美",
+      "type": "概念",
+      "evidence": "一则为壮美的人格之表现",
+      "confidence": 1.0
+    },
+    {
+      "id": "e13",
+      "name": "优美",
+      "canonical_name": "优美",
+      "type": "概念",
+      "evidence": "一则为优美的人格之表现",
+      "confidence": 1.0
+    },
+    {
+      "id": "e14",
+      "name": "修身",
+      "canonical_name": "修身",
+      "type": "概念",
+      "evidence": "而荀子则消极的葆其“修身”之操守也",
+      "confidence": 1.0
+    },
+    {
+      "id": "e15",
+      "name": "唯美的人格主义",
+      "canonical_name": "唯美的人格主义",
+      "type": "著作",
+      "evidence": "其说已略见于拙稿“唯美的人格主义”（今年五月四日晨报副镌）篇矣",
+      "confidence": 1.0
+    },
+    {
+      "id": "e16",
+      "name": "晨报副镌",
+      "canonical_name": "晨报副镌",
+      "type": "著作",
+      "evidence": "其说已略见于拙稿“唯美的人格主义”（今年五月四日晨报副镌）篇矣",
+      "confidence": 1.0
+    },
+    {
+      "id": "e17",
+      "name": "先立其大",
+      "canonical_name": "先立其大",
+      "type": "概念",
+      "evidence": "陆子之“先立其大”，得力于孟子",
+      "confidence": 1.0
+    },
+    {
+      "id": "e18",
+      "name": "真积力久",
+      "canonical_name": "真积力久",
+      "type": "概念",
+      "evidence": "朱子之“真积力久”近似荀子",
+      "confidence": 1.0
+    }
+  ],
+  "claims": [
+    {
+      "id": "c1",
+      "speaker": "甘蛰仙",
+      "claim": "孟子之人生观为壮美的人格之表现",
+      "target": "孟子",
+      "claim_type": "价值评价",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "一则为壮美的人格之表现",
+      "confidence": 0.9
+    },
+    {
+      "id": "c2",
+      "speaker": "甘蛰仙",
+      "claim": "荀子之人生观为优美的人格之表现",
+      "target": "荀子",
+      "claim_type": "价值评价",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "一则为优美的人格之表现",
+      "confidence": 0.9
+    },
+    {
+      "id": "c3",
+      "speaker": "甘蛰仙",
+      "claim": "孟子务积极的尽其救世之责任",
+      "target": "孟子",
+      "claim_type": "历史解释",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "即孟子务积极的尽其救世之责任",
+      "confidence": 0.9
+    },
+    {
+      "id": "c4",
+      "speaker": "甘蛰仙",
+      "claim": "荀子则消极的葆其“修身”之操守",
+      "target": "荀子",
+      "claim_type": "历史解释",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "而荀子则消极的葆其“修身”之操守也",
+      "confidence": 0.9
+    },
+    {
+      "id": "c5",
+      "speaker": "甘蛰仙",
+      "claim": "陆子之“先立其大”，得力于孟子",
+      "target": "陆子",
+      "claim_type": "历史解释",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "陆子之“先立其大”，得力于孟子；此人所共见也",
+      "confidence": 0.9
+    },
+    {
+      "id": "c6",
+      "speaker": "甘蛰仙",
+      "claim": "陆子消极的克治工夫，乃多从荀子“解蔽”之说推出",
+      "target": "陆子",
+      "claim_type": "历史解释",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "其消极的克治工夫，乃多从荀子“解蔽”之说推出",
+      "confidence": 0.8
+    },
+    {
+      "id": "c7",
+      "speaker": "甘蛰仙",
+      "claim": "朱子之“真积力久”近似荀子",
+      "target": "朱子",
+      "claim_type": "历史解释",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "朱子之“真积力久”近似荀子，此亦人所易喻也",
+      "confidence": 0.9
+    },
+    {
+      "id": "c8",
+      "speaker": "甘蛰仙",
+      "claim": "朱子对于物界之知识，务积极的穷究其理，乃颇类于孟子“博学详说，将以反约”之旨",
+      "target": "朱子",
+      "claim_type": "历史解释",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "惟其对于物界之知识，务积极的穷究其理，乃颇类于孟子“博学详说，将以反约”之旨",
+      "confidence": 0.8
+    },
+    {
+      "id": "c9",
+      "speaker": "甘蛰仙",
+      "claim": "朱子以明吾心之体用为人生最后之目的",
+      "target": "朱子",
+      "claim_type": "历史解释",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "而以明吾心之体用为人生最后之目的也",
+      "confidence": 0.8
+    }
+  ],
+  "relations": [
+    {
+      "id": "r1",
+      "head": "陆子",
+      "head_type": "人物",
+      "relation": "继承",
+      "tail": "孟子",
+      "tail_type": "人物",
+      "polarity": "positive",
+      "evidence": "陆子之“先立其大”，得力于孟子",
+      "confidence": 0.9
+    },
+    {
+      "id": "r2",
+      "head": "朱子",
+      "head_type": "人物",
+      "relation": "继承",
+      "tail": "荀子",
+      "tail_type": "人物",
+      "polarity": "neutral",
+      "evidence": "朱子之“真积力久”近似荀子",
+      "confidence": 0.9
+    }
+  ],
+  "definitions": [
+    {
+      "id": "def1",
+      "term": "壮美",
+      "definition": "一种人格表现类型，与孟子积极救世之人生观相关",
+      "evidence": "一则为壮美的人格之表现",
+      "confidence": 0.7
+    },
+    {
+      "id": "def2",
+      "term": "优美",
+      "definition": "一种人格表现类型，与荀子消极修身之人生观相关",
+      "evidence": "一则为优美的人格之表现",
+      "confidence": 0.7
+    }
+  ],
+  "citations": [
+    {
+      "id": "cit1",
+      "citer": "甘蛰仙",
+      "quoted_author": "孟子",
+      "quoted_work": "",
+      "quoted_claim": "其为气也，至大至刚，以直养而无害，则塞乎天地之间",
+      "function": "援引权威支持",
+      "evidence": "孟子书中所称“其为气也，至大至刚，以直养而无害，则塞乎天地之间”",
+      "confidence": 0.9
+    },
+    {
+      "id": "cit2",
+      "citer": "甘蛰仙",
+      "quoted_author": "孔子",
+      "quoted_work": "",
+      "quoted_claim": "无可无不可",
+      "function": "援引权威支持",
+      "evidence": "揆诸孔子“无可无不可”之人生观",
+      "confidence": 0.9
+    },
+    {
+      "id": "cit3",
+      "citer": "甘蛰仙",
+      "quoted_author": "荀子",
+      "quoted_work": "",
+      "quoted_claim": "使目非是无欲见也，使耳非是无欲闻也，使口非是无欲言也，使心非是无欲虑也",
+      "function": "援引权威支持",
+      "evidence": "曰：“使目非是无欲见也，使耳非是无欲闻也，使口非是无欲言也，使心非是无欲虑也。”",
+      "confidence": 0.9
+    }
+  ],
+  "rhetorical_devices": [
+    {
+      "id": "rh1",
+      "expression": "当今天下，舍我其谁",
+      "device_type": "引用",
+      "literal_target": "孟子自述其志",
+      "function": "描述孟子之进取精神",
+      "evidence": "以为“当今天下，舍我其谁？”",
+      "confidence": 0.8
+    }
+  ],
+  "uncertainties": [
+    {
+      "item": "“为爱群之责任心所驱迫”是否引用他人观点",
+      "reason": "文本中未明确说明引用来源，可能为作者自述或转述他人观点"
+    },
+    {
+      "item": "“拙稿‘唯美的人格主义’”是否指甘蛰仙本人著作",
+      "reason": "“拙稿”通常指作者自己的文章，但文本未明确说明作者即甘蛰仙"
+    }
+  ],
+  "_meta": {
+    "status": "success",
+    "stage": "extract",
+    "model": "deepseek-ai/DeepSeek-V4-Flash",
+    "base_url": "https://api.siliconflow.cn/v1",
+    "prompt_version": "extract_prompt_v2.0",
+    "schema_version": "lite_v2.0",
+    "segment_id": "甘蛰仙_000_6b354fa0_s0007",
+    "article_id": "甘蛰仙_000_6b354fa0",
+    "char_start": 3546,
+    "char_end": 4138,
+    "raw_path": "E:\\1研究生\\岭南大学\\论文毕业\\capstone\\资料\\新的内容开始了\\local_upload\\kg_runs\\甘蛰仙\\raw_outputs\\extract\\甘蛰仙_000_6b354fa0_s0007.txt",
+    "parsed_at": "2026-05-19T21:59:39",
+    "started_at": "2026-05-19T21:53:38",
+    "elapsed_seconds": 361.119,
+    "strict_evidence_check": true,
+    "drop_unsupported_evidence": true,
+    "request_timeout_seconds": 180
+  }
+}

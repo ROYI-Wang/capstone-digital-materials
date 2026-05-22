@@ -1,0 +1,315 @@
+{
+  "metadata": {
+    "schema_version": "lite_v2.0",
+    "article_id": "丁文江2_000_e838922e",
+    "article_title": "玄学与科学——答张君劢",
+    "source_author": "丁文江",
+    "section_title": "",
+    "section_author": "",
+    "segment_id": "丁文江2_000_e838922e_s0036",
+    "segment_index": 36,
+    "source_file": "E:\\1研究生\\岭南大学\\论文毕业\\capstone\\资料\\新的内容开始了\\local_upload\\input_texts\\丁文江2.txt"
+  },
+  "entities": [
+    {
+      "id": "e1",
+      "name": "君劢",
+      "canonical_name": "张君劢",
+      "type": "Person",
+      "evidence": "幸亏君劢很体贴，他仅仅的拿了正统哲学的口头禅来驳我",
+      "confidence": 1.0
+    },
+    {
+      "id": "e2",
+      "name": "正统哲学",
+      "canonical_name": "正统哲学",
+      "type": "Concept",
+      "evidence": "他仅仅的拿了正统哲学的口头禅来驳我",
+      "confidence": 0.8
+    },
+    {
+      "id": "e3",
+      "name": "感觉",
+      "canonical_name": "感觉",
+      "type": "Concept",
+      "evidence": "以感觉为知识的原子，有许多心理学的证据",
+      "confidence": 1.0
+    },
+    {
+      "id": "e4",
+      "name": "知识",
+      "canonical_name": "知识",
+      "type": "Concept",
+      "evidence": "以感觉为知识的原子",
+      "confidence": 1.0
+    },
+    {
+      "id": "e5",
+      "name": "原子",
+      "canonical_name": "原子",
+      "type": "Metaphor",
+      "evidence": "以感觉为知识的原子",
+      "confidence": 0.9
+    },
+    {
+      "id": "e6",
+      "name": "动物心理学",
+      "canonical_name": "动物心理学",
+      "type": "Concept",
+      "evidence": "最重要的就是动物心理学同孩童心理学所研究的结果",
+      "confidence": 1.0
+    },
+    {
+      "id": "e7",
+      "name": "孩童心理学",
+      "canonical_name": "孩童心理学",
+      "type": "Concept",
+      "evidence": "最重要的就是动物心理学同孩童心理学所研究的结果",
+      "confidence": 1.0
+    },
+    {
+      "id": "e8",
+      "name": "高等动物",
+      "canonical_name": "高等动物",
+      "type": "Concept",
+      "evidence": "高等动物同孩童都有感觉，都有记忆力把感觉的印象留住",
+      "confidence": 1.0
+    },
+    {
+      "id": "e9",
+      "name": "孩童",
+      "canonical_name": "孩童",
+      "type": "Concept",
+      "evidence": "高等动物同孩童都有感觉，都有记忆力把感觉的印象留住",
+      "confidence": 1.0
+    },
+    {
+      "id": "e10",
+      "name": "记忆力",
+      "canonical_name": "记忆力",
+      "type": "Concept",
+      "evidence": "都有记忆力把感觉的印象留住",
+      "confidence": 1.0
+    },
+    {
+      "id": "e11",
+      "name": "感觉的印象",
+      "canonical_name": "感觉的印象",
+      "type": "Concept",
+      "evidence": "都有记忆力把感觉的印象留住",
+      "confidence": 1.0
+    },
+    {
+      "id": "e12",
+      "name": "论理的意义",
+      "canonical_name": "论理的意义",
+      "type": "Concept",
+      "evidence": "研究动物同孩童心理的人，都不承认感觉有论理的意义",
+      "confidence": 1.0
+    },
+    {
+      "id": "e13",
+      "name": "红色",
+      "canonical_name": "红色",
+      "type": "Concept",
+      "evidence": "就是成年人看见红色，也未尝一定对自己说，“红色如此”，“此真是红”",
+      "confidence": 1.0
+    },
+    {
+      "id": "e14",
+      "name": "无意的举动",
+      "canonical_name": "无意的举动",
+      "type": "Concept",
+      "evidence": "君劢承认不承认生理学所谓无意的举动？",
+      "confidence": 1.0
+    },
+    {
+      "id": "e15",
+      "name": "生理学",
+      "canonical_name": "生理学",
+      "type": "Concept",
+      "evidence": "君劢承认不承认生理学所谓无意的举动？",
+      "confidence": 1.0
+    }
+  ],
+  "claims": [
+    {
+      "id": "c1",
+      "speaker": "丁文江",
+      "claim": "君劢仅仅的拿了正统哲学的口头禅来驳我",
+      "target": "张君劢",
+      "claim_type": "论战策略批评",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "幸亏君劢很体贴，他仅仅的拿了正统哲学的口头禅来驳我",
+      "confidence": 1.0
+    },
+    {
+      "id": "c2",
+      "speaker": "丁文江",
+      "claim": "以感觉为知识的原子，有许多心理学的证据",
+      "target": "感觉",
+      "claim_type": "知识论主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "以感觉为知识的原子，有许多心理学的证据",
+      "confidence": 1.0
+    },
+    {
+      "id": "c3",
+      "speaker": "丁文江",
+      "claim": "最重要的就是动物心理学同孩童心理学所研究的结果",
+      "target": "感觉",
+      "claim_type": "论据",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "最重要的就是动物心理学同孩童心理学所研究的结果",
+      "confidence": 1.0
+    },
+    {
+      "id": "c4",
+      "speaker": "丁文江",
+      "claim": "高等动物同孩童都有感觉，都有记忆力把感觉的印象留住",
+      "target": "高等动物",
+      "claim_type": "知识论主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "高等动物同孩童都有感觉，都有记忆力把感觉的印象留住",
+      "confidence": 1.0
+    },
+    {
+      "id": "c5",
+      "speaker": "丁文江",
+      "claim": "研究动物同孩童心理的人，都不承认感觉有论理的意义",
+      "target": "感觉",
+      "claim_type": "知识论主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "研究动物同孩童心理的人，都不承认感觉有论理的意义",
+      "confidence": 1.0
+    },
+    {
+      "id": "c6",
+      "speaker": "丁文江",
+      "claim": "就是成年人看见红色，也未尝一定对自己说，“红色如此”，“此真是红”",
+      "target": "成年人",
+      "claim_type": "论据",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "就是成年人看见红色，也未尝一定对自己说，“红色如此”，“此真是红”",
+      "confidence": 1.0
+    },
+    {
+      "id": "c7",
+      "speaker": "丁文江",
+      "claim": "如果如此，凡人遇见极简单的感觉，都要辨别真伪，我们的生活岂不要苦死？",
+      "target": "感觉",
+      "claim_type": "归谬构造",
+      "claim_status": "作者推论",
+      "polarity": "negative",
+      "evidence": "如果如此，凡人遇见极简单的感觉，都要辨别真伪，我们的生活岂不要苦死？",
+      "confidence": 1.0
+    },
+    {
+      "id": "c8",
+      "speaker": "丁文江",
+      "claim": "君劢承认不承认生理学所谓无意的举动？",
+      "target": "张君劢",
+      "claim_type": "问题提出",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "君劢承认不承认生理学所谓无意的举动？",
+      "confidence": 1.0
+    },
+    {
+      "id": "c9",
+      "speaker": "丁文江",
+      "claim": "无意举动的动机是否是感觉？是否有论理的意义？",
+      "target": "感觉",
+      "claim_type": "问题提出",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "无意举动的动机是否是感觉？是否有论理的意义？",
+      "confidence": 1.0
+    }
+  ],
+  "relations": [
+    {
+      "id": "r1",
+      "head": "感觉",
+      "head_type": "Concept",
+      "relation": "EVIDENCE_FOR",
+      "tail": "以感觉为知识的原子",
+      "tail_type": "Viewpoint",
+      "polarity": "positive",
+      "evidence": "以感觉为知识的原子，有许多心理学的证据",
+      "confidence": 1.0
+    }
+  ],
+  "definitions": [
+    {
+      "id": "def1",
+      "term": "感觉",
+      "definition": "感觉是知识的原子，高等动物和孩童都有感觉，感觉没有论理的意义",
+      "evidence": "以感觉为知识的原子，有许多心理学的证据",
+      "confidence": 0.9
+    },
+    {
+      "id": "def2",
+      "term": "论理的意义",
+      "definition": "感觉是否有论理的意义，研究动物和孩童心理的人都不承认感觉有论理的意义",
+      "evidence": "研究动物同孩童心理的人，都不承认感觉有论理的意义",
+      "confidence": 0.8
+    }
+  ],
+  "citations": [],
+  "rhetorical_devices": [
+    {
+      "id": "rh1",
+      "expression": "以感觉为知识的原子",
+      "device_type": "比喻",
+      "literal_target": "感觉是知识的基本构成单元",
+      "function": "用原子比喻感觉，强调感觉作为知识基础的最小单位",
+      "evidence": "以感觉为知识的原子",
+      "confidence": 0.9
+    },
+    {
+      "id": "rh2",
+      "expression": "我们的生活岂不要苦死？",
+      "device_type": "反问",
+      "literal_target": "如果每次感觉都要辨别真伪，生活会很痛苦",
+      "function": "用反问加强归谬效果，反驳感觉有论理意义的观点",
+      "evidence": "如果如此，凡人遇见极简单的感觉，都要辨别真伪，我们的生活岂不要苦死？",
+      "confidence": 0.9
+    }
+  ],
+  "uncertainties": [
+    {
+      "item": "君劢所说的“论理的意义”的具体含义",
+      "reason": "文本中只提到君劢使用了“论理的意义”这一说法，但未给出其定义或具体解释"
+    },
+    {
+      "item": "“正统哲学的口头禅”具体指什么",
+      "reason": "文本未说明“正统哲学的口头禅”的具体内容"
+    }
+  ],
+  "_meta": {
+    "status": "success",
+    "stage": "extract",
+    "model": "deepseek-ai/DeepSeek-V4-Flash",
+    "base_url": "https://api.siliconflow.cn/v1",
+    "prompt_version": "extract_prompt_v2.0",
+    "schema_version": "lite_v2.0",
+    "segment_id": "丁文江2_000_e838922e_s0036",
+    "article_id": "丁文江2_000_e838922e",
+    "char_start": 9016,
+    "char_end": 9358,
+    "raw_path": "E:\\1研究生\\岭南大学\\论文毕业\\capstone\\资料\\新的内容开始了\\local_upload\\kg_runs\\丁文江_等3篇\\raw_outputs\\extract\\丁文江2_000_e838922e_s0036.txt",
+    "parsed_at": "2026-05-19T04:24:51",
+    "started_at": "2026-05-19T04:23:22",
+    "elapsed_seconds": 89.174,
+    "strict_evidence_check": true,
+    "drop_unsupported_evidence": true,
+    "request_timeout_seconds": 180
+  }
+}

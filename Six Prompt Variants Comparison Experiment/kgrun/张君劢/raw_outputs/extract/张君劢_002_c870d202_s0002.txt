@@ -1,0 +1,392 @@
+{
+  "metadata": {
+    "schema_version": "lite_v2.0",
+    "article_id": "张君劢_002_c870d202",
+    "article_title": "再论人生观与科学并答丁在君",
+    "source_author": "张君劢",
+    "section_title": "",
+    "section_author": "",
+    "segment_id": "张君劢_002_c870d202_s0002",
+    "segment_index": 2,
+    "source_file": "E:\\1研究生\\岭南大学\\论文毕业\\capstone\\资料\\新的内容开始了\\local_upload\\input_w3\\张君劢.txt"
+  },
+  "entities": [
+    {
+      "id": "e1",
+      "name": "科学家",
+      "canonical_name": "科学家",
+      "type": "阵营/群体",
+      "evidence": "科学家根据推论公例所得之“真”",
+      "confidence": 0.9
+    },
+    {
+      "id": "e2",
+      "name": "玄学",
+      "canonical_name": "玄学",
+      "type": "概念",
+      "evidence": "玄学在欧洲是否“没有地方混饭吃”",
+      "confidence": 0.9
+    },
+    {
+      "id": "e3",
+      "name": "科学",
+      "canonical_name": "科学",
+      "type": "概念",
+      "evidence": "国人迷信科学，以科学为无所不能，无所不知",
+      "confidence": 0.9
+    },
+    {
+      "id": "e4",
+      "name": "物质科学",
+      "canonical_name": "物质科学",
+      "type": "概念",
+      "evidence": "有为物质科学，有为精神科学",
+      "confidence": 0.9
+    },
+    {
+      "id": "e5",
+      "name": "精神科学",
+      "canonical_name": "精神科学",
+      "type": "概念",
+      "evidence": "有为物质科学，有为精神科学",
+      "confidence": 0.9
+    },
+    {
+      "id": "e6",
+      "name": "数学",
+      "canonical_name": "数学",
+      "type": "概念",
+      "evidence": "数学名Mathematics",
+      "confidence": 0.9
+    },
+    {
+      "id": "e7",
+      "name": "物理学",
+      "canonical_name": "物理学",
+      "type": "概念",
+      "evidence": "物理学名Physics",
+      "confidence": 0.9
+    },
+    {
+      "id": "e8",
+      "name": "生计学",
+      "canonical_name": "生计学",
+      "type": "概念",
+      "evidence": "生计学名Economics",
+      "confidence": 0.9
+    },
+    {
+      "id": "e9",
+      "name": "统计学",
+      "canonical_name": "统计学",
+      "type": "概念",
+      "evidence": "统计学名Statistics",
+      "confidence": 0.9
+    },
+    {
+      "id": "e10",
+      "name": "生物学",
+      "canonical_name": "生物学",
+      "type": "概念",
+      "evidence": "生物学名Biology",
+      "confidence": 0.9
+    },
+    {
+      "id": "e11",
+      "name": "心理学",
+      "canonical_name": "心理学",
+      "type": "概念",
+      "evidence": "心理学名Psychology",
+      "confidence": 0.9
+    },
+    {
+      "id": "e12",
+      "name": "社会学",
+      "canonical_name": "社会学",
+      "type": "概念",
+      "evidence": "社会学名Sociology",
+      "confidence": 0.9
+    },
+    {
+      "id": "e13",
+      "name": "人生观",
+      "canonical_name": "人生观",
+      "type": "概念",
+      "evidence": "科学与人生观之异同",
+      "confidence": 0.9
+    },
+    {
+      "id": "e14",
+      "name": "丁在君",
+      "canonical_name": "丁文江",
+      "type": "人物",
+      "evidence": "即以在君言之，于我所举九者之外，为之增加两项如下",
+      "confidence": 0.9
+    },
+    {
+      "id": "e15",
+      "name": "星占学",
+      "canonical_name": "星占学",
+      "type": "概念",
+      "evidence": "就我对于天象之观念——星占学，天文学",
+      "confidence": 0.9
+    },
+    {
+      "id": "e16",
+      "name": "天文学",
+      "canonical_name": "天文学",
+      "type": "概念",
+      "evidence": "就我对于天象之观念——星占学，天文学",
+      "confidence": 0.9
+    },
+    {
+      "id": "e17",
+      "name": "上帝造种",
+      "canonical_name": "上帝造种",
+      "type": "概念",
+      "evidence": "就我对于物种之由来——上帝造种，天演论",
+      "confidence": 0.9
+    },
+    {
+      "id": "e18",
+      "name": "天演论",
+      "canonical_name": "天演论",
+      "type": "概念",
+      "evidence": "就我对于物种之由来——上帝造种，天演论",
+      "confidence": 0.9
+    },
+    {
+      "id": "e19",
+      "name": "张君劢",
+      "canonical_name": "张君劢",
+      "type": "人物",
+      "evidence": "我之对于科学与玄学之态度",
+      "confidence": 0.9
+    }
+  ],
+  "claims": [
+    {
+      "id": "c1",
+      "speaker": "张君劢",
+      "claim": "国人迷信科学，以科学为无所不能，无所不知",
+      "target": "国人",
+      "claim_type": "文明批评",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "国人迷信科学，以科学为无所不能，无所不知，此数十年来耳目之习染使之然也。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c2",
+      "speaker": "张君劢",
+      "claim": "试询以何谓科学，则能为明确之答复者甚鲜",
+      "target": "国人",
+      "claim_type": "文明批评",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "虽然，试询以何谓科学，则能为明确之答复者甚鲜。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c3",
+      "speaker": "张君劢",
+      "claim": "同为科学，有为物质科学，有为精神科学，二者异同之故安在，则其能为明确之答复尤鲜矣",
+      "target": "国人",
+      "claim_type": "文明批评",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "乃至同为科学，有为物质科学，有为精神科学，二者异同之故安在，则其能为明确之答复尤鲜矣。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c4",
+      "speaker": "张君劢",
+      "claim": "国人之思想混沌若此，乃欲语以科学原理，语以科学与人生观之异同，宜其扞格而不相入",
+      "target": "国人",
+      "claim_type": "文明批评",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "国人之思想混沌若此，乃欲语以科学原理，语以科学与人生观之异同，宜其扞格而不相入。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c5",
+      "speaker": "张君劢",
+      "claim": "丁在君于我所举九者之外，为之增加两项，但全不知晓我的标准，妄为人点窜，以自鸣得意",
+      "target": "丁在君",
+      "claim_type": "论战策略批评",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "我所举之九项，其标准安在，在君全不知晓，妄为人点窜，以自鸣得意；",
+      "confidence": 0.9
+    }
+  ],
+  "relations": [
+    {
+      "id": "r1",
+      "head": "国人",
+      "head_type": "阵营/群体",
+      "relation": "批评",
+      "relation_subtype": "概念混淆批评",
+      "tail": "科学",
+      "tail_type": "概念",
+      "polarity": "negative",
+      "evidence": "国人迷信科学，以科学为无所不能，无所不知",
+      "confidence": 0.9
+    },
+    {
+      "id": "r2",
+      "head": "张君劢",
+      "head_type": "人物",
+      "relation": "批评",
+      "relation_subtype": "概念混淆批评",
+      "tail": "丁在君",
+      "tail_type": "人物",
+      "polarity": "negative",
+      "evidence": "我所举之九项，其标准安在，在君全不知晓，妄为人点窜，以自鸣得意；",
+      "confidence": 0.9
+    },
+    {
+      "id": "r3",
+      "head": "物质科学",
+      "head_type": "概念",
+      "relation": "区分",
+      "relation_subtype": "概念澄清",
+      "tail": "精神科学",
+      "tail_type": "概念",
+      "polarity": "neutral",
+      "evidence": "有为物质科学，有为精神科学，二者异同之故安在",
+      "confidence": 0.9
+    },
+    {
+      "id": "r4",
+      "head": "数学",
+      "head_type": "概念",
+      "relation": "包含",
+      "relation_subtype": "不适用",
+      "tail": "科学",
+      "tail_type": "概念",
+      "polarity": "neutral",
+      "evidence": "数学名Mathematics，物理学名Physics，生计学名Economics，统计学名Statistics，四者同以ics结尾，则以为四种科学所得之结论与其效力必相等也。",
+      "confidence": 0.9
+    },
+    {
+      "id": "r5",
+      "head": "物理学",
+      "head_type": "概念",
+      "relation": "包含",
+      "relation_subtype": "不适用",
+      "tail": "科学",
+      "tail_type": "概念",
+      "polarity": "neutral",
+      "evidence": "数学名Mathematics，物理学名Physics，生计学名Economics，统计学名Statistics，四者同以ics结尾，则以为四种科学所得之结论与其效力必相等也。",
+      "confidence": 0.9
+    },
+    {
+      "id": "r6",
+      "head": "生计学",
+      "head_type": "概念",
+      "relation": "包含",
+      "relation_subtype": "不适用",
+      "tail": "科学",
+      "tail_type": "概念",
+      "polarity": "neutral",
+      "evidence": "数学名Mathematics，物理学名Physics，生计学名Economics，统计学名Statistics，四者同以ics结尾，则以为四种科学所得之结论与其效力必相等也。",
+      "confidence": 0.9
+    },
+    {
+      "id": "r7",
+      "head": "统计学",
+      "head_type": "概念",
+      "relation": "包含",
+      "relation_subtype": "不适用",
+      "tail": "科学",
+      "tail_type": "概念",
+      "polarity": "neutral",
+      "evidence": "数学名Mathematics，物理学名Physics，生计学名Economics，统计学名Statistics，四者同以ics结尾，则以为四种科学所得之结论与其效力必相等也。",
+      "confidence": 0.9
+    },
+    {
+      "id": "r8",
+      "head": "生物学",
+      "head_type": "概念",
+      "relation": "包含",
+      "relation_subtype": "不适用",
+      "tail": "科学",
+      "tail_type": "概念",
+      "polarity": "neutral",
+      "evidence": "生物学名Biology，心理学名Psychology，社会学名Sociology，三者同以logy结尾，则以为三种科学所得之结论与其效力必相等也。",
+      "confidence": 0.9
+    },
+    {
+      "id": "r9",
+      "head": "心理学",
+      "head_type": "概念",
+      "relation": "包含",
+      "relation_subtype": "不适用",
+      "tail": "科学",
+      "tail_type": "概念",
+      "polarity": "neutral",
+      "evidence": "生物学名Biology，心理学名Psychology，社会学名Sociology，三者同以logy结尾，则以为三种科学所得之结论与其效力必相等也。",
+      "confidence": 0.9
+    },
+    {
+      "id": "r10",
+      "head": "社会学",
+      "head_type": "概念",
+      "relation": "包含",
+      "relation_subtype": "不适用",
+      "tail": "科学",
+      "tail_type": "概念",
+      "polarity": "neutral",
+      "evidence": "生物学名Biology，心理学名Psychology，社会学名Sociology，三者同以logy结尾，则以为三种科学所得之结论与其效力必相等也。",
+      "confidence": 0.9
+    },
+    {
+      "id": "r11",
+      "head": "丁在君",
+      "head_type": "人物",
+      "relation": "回应",
+      "relation_subtype": "不适用",
+      "tail": "张君劢",
+      "tail_type": "人物",
+      "polarity": "negative",
+      "evidence": "即以在君言之，于我所举九者之外，为之增加两项如下",
+      "confidence": 0.9
+    }
+  ],
+  "definitions": [],
+  "citations": [
+    {
+      "id": "cit1",
+      "citer": "张君劢",
+      "quoted_author": "丁在君",
+      "quoted_work": "",
+      "quoted_claim": "玄学在欧洲“没有地方混饭吃”",
+      "function": "作为批评对象",
+      "evidence": "玄学在欧洲是否“没有地方混饭吃”（用丁语）。",
+      "confidence": 0.9
+    }
+  ],
+  "rhetorical_devices": [
+    {
+      "id": "rh1",
+      "expression": "没有地方混饭吃",
+      "device_type": "比喻",
+      "literal_target": "玄学在欧洲没有生存空间",
+      "function": "作为批评对象，张君劢引用丁在君的说法并质疑其正确性",
+      "evidence": "玄学在欧洲是否“没有地方混饭吃”（用丁语）。",
+      "confidence": 0.9
+    }
+  ],
+  "uncertainties": [
+    {
+      "item": "张君劢所举的九项具体内容",
+      "reason": "文本中只提到丁在君增加了两项，但未列出张君劢原九项的具体内容。"
+    },
+    {
+      "item": "丁在君增加的两项是否属于对张君劢九项的补充或反驳",
+      "reason": "文本只说“为之增加两项”，未说明增加的目的或态度。"
+    }
+  ]
+}

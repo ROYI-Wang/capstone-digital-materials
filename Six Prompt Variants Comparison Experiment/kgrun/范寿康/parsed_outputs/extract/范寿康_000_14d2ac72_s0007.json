@@ -1,0 +1,379 @@
+{
+  "metadata": {
+    "schema_version": "lite_v2.0",
+    "article_id": "范寿康_000_14d2ac72",
+    "article_title": "评所谓“科学与玄学之争”",
+    "source_author": "范寿康",
+    "section_title": "",
+    "section_author": "",
+    "segment_id": "范寿康_000_14d2ac72_s0007",
+    "segment_index": 7,
+    "source_file": "E:\\1研究生\\岭南大学\\论文毕业\\capstone\\资料\\新的内容开始了\\local_upload\\input_w1\\范寿康.txt"
+  },
+  "entities": [
+    {
+      "id": "e1",
+      "name": "林宰平",
+      "canonical_name": "林宰平",
+      "type": "人物",
+      "evidence": "反对以科学方法为广义科学的本质的见解的代表则有林宰平、张东荪二氏",
+      "confidence": 1.0
+    },
+    {
+      "id": "e2",
+      "name": "张东荪",
+      "canonical_name": "张东荪",
+      "type": "人物",
+      "evidence": "反对以科学方法为广义科学的本质的见解的代表则有林宰平、张东荪二氏",
+      "confidence": 1.0
+    },
+    {
+      "id": "e3",
+      "name": "丁在君",
+      "canonical_name": "丁文江",
+      "type": "人物",
+      "evidence": "林氏在《读丁在君先生的〈玄学与科学〉》里面说",
+      "confidence": 1.0
+    },
+    {
+      "id": "e4",
+      "name": "乌尔夫",
+      "canonical_name": "乌尔夫",
+      "type": "人物",
+      "evidence": "即如乌尔夫主张凡用科学方法所研究者皆可谓为“科学的”",
+      "confidence": 1.0
+    },
+    {
+      "id": "e5",
+      "name": "广义的科学",
+      "canonical_name": "广义的科学",
+      "type": "概念",
+      "evidence": "从他的科学分类看来，是指广义的科学，这却是毫无疑义的",
+      "confidence": 1.0
+    },
+    {
+      "id": "e6",
+      "name": "科学方法",
+      "canonical_name": "科学方法",
+      "type": "概念",
+      "evidence": "反对以科学方法为广义科学的本质的见解的代表则有林宰平、张东荪二氏",
+      "confidence": 1.0
+    },
+    {
+      "id": "e7",
+      "name": "科学",
+      "canonical_name": "科学",
+      "type": "概念",
+      "evidence": "科学的究不是科学",
+      "confidence": 1.0
+    },
+    {
+      "id": "e8",
+      "name": "《读丁在君先生的〈玄学与科学〉》",
+      "canonical_name": "读丁在君先生的〈玄学与科学〉",
+      "type": "著作",
+      "evidence": "林氏在《读丁在君先生的〈玄学与科学〉》里面说",
+      "confidence": 1.0
+    },
+    {
+      "id": "e9",
+      "name": "艺术",
+      "canonical_name": "艺术",
+      "type": "概念",
+      "evidence": "学问自然不应该和艺术、宗教混为一谈",
+      "confidence": 1.0
+    },
+    {
+      "id": "e10",
+      "name": "宗教",
+      "canonical_name": "宗教",
+      "type": "概念",
+      "evidence": "学问自然不应该和艺术、宗教混为一谈",
+      "confidence": 1.0
+    },
+    {
+      "id": "e11",
+      "name": "丁氏",
+      "canonical_name": "丁文江",
+      "type": "人物",
+      "evidence": "我想丁氏的主张大概也是如此",
+      "confidence": 1.0
+    }
+  ],
+  "claims": [
+    {
+      "id": "c1",
+      "speaker": "范寿康",
+      "claim": "从他的科学分类看来，是指广义的科学，这却是毫无疑义的",
+      "target": "广义的科学",
+      "claim_type": "定义性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "从他的科学分类看来，是指广义的科学，这却是毫无疑义的",
+      "confidence": 1.0
+    },
+    {
+      "id": "c2",
+      "speaker": "范寿康",
+      "claim": "反对以科学方法为广义科学的本质的见解的代表则有林宰平、张东荪二氏",
+      "target": "林宰平、张东荪",
+      "claim_type": "历史解释",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "至于反对以科学方法为广义科学的本质的见解的代表则有林宰平、张东荪二氏",
+      "confidence": 1.0
+    },
+    {
+      "id": "c3",
+      "speaker": "乌尔夫",
+      "claim": "凡用科学方法所研究者皆可谓为“科学的”",
+      "target": "科学方法",
+      "claim_type": "定义性主张",
+      "claim_status": "直接引用",
+      "polarity": "positive",
+      "evidence": "即如乌尔夫主张凡用科学方法所研究者皆可谓为“科学的”",
+      "confidence": 1.0
+    },
+    {
+      "id": "c4",
+      "speaker": "林宰平",
+      "claim": "严格说来，科学的究不是科学，换句话说：就是科学方法，究不是科学自身",
+      "target": "科学方法",
+      "claim_type": "定义性主张",
+      "claim_status": "直接引用",
+      "polarity": "negative",
+      "evidence": "严格说来，科学的究不是科学，换句话说：就是科学方法，究不是科学自身",
+      "confidence": 1.0
+    },
+    {
+      "id": "c5",
+      "speaker": "林宰平",
+      "claim": "假如科学方法即是科学自身，然则几何学的方法应用于绘画音乐等，能否即将绘画音乐叫做几何学；数学方法应用到无线电上，能否说无线电就是数学；物理学应用到医学上，能否说医学就是物理学",
+      "target": "科学方法",
+      "claim_type": "反驳性主张",
+      "claim_status": "归谬构造",
+      "polarity": "negative",
+      "evidence": "假如科学方法即是科学自身，然则几何学的方法应用于绘画音乐等，能否即将绘画音乐叫做几何学；数学方法应用到无线电上，能否说无线电就是数学；物理学应用到医学上，能否说医学就是物理学",
+      "confidence": 1.0
+    },
+    {
+      "id": "c6",
+      "speaker": "林宰平",
+      "claim": "绘画自身，他是整的，调和的，活的，不可分析的；音乐也是如此；要说他是科学就很费解的了",
+      "target": "绘画、音乐",
+      "claim_type": "知识论主张",
+      "claim_status": "直接引用",
+      "polarity": "negative",
+      "evidence": "绘画自身，他是整的，调和的，活的，不可分析的；音乐也是如此；要说他是科学就很费解的了",
+      "confidence": 1.0
+    },
+    {
+      "id": "c7",
+      "speaker": "范寿康",
+      "claim": "林氏这种驳论未免牵强",
+      "target": "林宰平",
+      "claim_type": "论战策略批评",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "林氏这种驳论未免牵强",
+      "confidence": 1.0
+    },
+    {
+      "id": "c8",
+      "speaker": "范寿康",
+      "claim": "科学既是一种学问，那末学问自然不应该和艺术、宗教混为一谈",
+      "target": "科学、艺术、宗教",
+      "claim_type": "定义性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "科学既是一种学问，那末学问自然不应该和艺术、宗教混为一谈",
+      "confidence": 1.0
+    },
+    {
+      "id": "c9",
+      "speaker": "范寿康",
+      "claim": "我们用科学方法研究艺术或宗教的时候，我们固然可以称这一种科学做艺术学或宗教学，但是断不能称应用科学方法的艺术或宗教（假使有这一种艺术或宗教）做科学",
+      "target": "科学方法、艺术、宗教",
+      "claim_type": "定义性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "我们用科学方法研究艺术或宗教的时候，我们固然可以称这一种科学做艺术学或宗教学，但是断不能称应用科学方法的艺术或宗教（假使有这一种艺术或宗教）做科学",
+      "confidence": 1.0
+    },
+    {
+      "id": "c10",
+      "speaker": "范寿康",
+      "claim": "我想丁氏的主张大概也是如此",
+      "target": "丁氏",
+      "claim_type": "不明",
+      "claim_status": "作者推论",
+      "polarity": "neutral",
+      "evidence": "我想丁氏的主张大概也是如此",
+      "confidence": 0.8
+    }
+  ],
+  "relations": [
+    {
+      "id": "r1",
+      "head": "林宰平",
+      "head_type": "人物",
+      "relation": "反对",
+      "tail": "科学方法",
+      "tail_type": "概念",
+      "polarity": "negative",
+      "evidence": "反对以科学方法为广义科学的本质的见解的代表则有林宰平、张东荪二氏",
+      "confidence": 1.0
+    },
+    {
+      "id": "r2",
+      "head": "范寿康",
+      "head_type": "人物",
+      "relation": "区分",
+      "tail": "科学",
+      "tail_type": "概念",
+      "polarity": "positive",
+      "evidence": "科学既是一种学问，那末学问自然不应该和艺术、宗教混为一谈",
+      "confidence": 1.0
+    },
+    {
+      "id": "r3",
+      "head": "范寿康",
+      "head_type": "人物",
+      "relation": "区分",
+      "tail": "艺术",
+      "tail_type": "概念",
+      "polarity": "positive",
+      "evidence": "科学既是一种学问，那末学问自然不应该和艺术、宗教混为一谈",
+      "confidence": 1.0
+    },
+    {
+      "id": "r4",
+      "head": "范寿康",
+      "head_type": "人物",
+      "relation": "区分",
+      "tail": "宗教",
+      "tail_type": "概念",
+      "polarity": "positive",
+      "evidence": "科学既是一种学问，那末学问自然不应该和艺术、宗教混为一谈",
+      "confidence": 1.0
+    },
+    {
+      "id": "r5",
+      "head": "范寿康",
+      "head_type": "人物",
+      "relation": "区分",
+      "tail": "艺术学",
+      "tail_type": "概念",
+      "polarity": "positive",
+      "evidence": "我们用科学方法研究艺术或宗教的时候，我们固然可以称这一种科学做艺术学或宗教学，但是断不能称应用科学方法的艺术或宗教（假使有这一种艺术或宗教）做科学",
+      "confidence": 1.0
+    },
+    {
+      "id": "r6",
+      "head": "范寿康",
+      "head_type": "人物",
+      "relation": "区分",
+      "tail": "宗教学",
+      "tail_type": "概念",
+      "polarity": "positive",
+      "evidence": "我们用科学方法研究艺术或宗教的时候，我们固然可以称这一种科学做艺术学或宗教学，但是断不能称应用科学方法的艺术或宗教（假使有这一种艺术或宗教）做科学",
+      "confidence": 1.0
+    },
+    {
+      "id": "r7",
+      "head": "范寿康",
+      "head_type": "人物",
+      "relation": "支持",
+      "tail": "丁氏",
+      "tail_type": "人物",
+      "polarity": "positive",
+      "evidence": "我想丁氏的主张大概也是如此",
+      "confidence": 0.8
+    }
+  ],
+  "definitions": [
+    {
+      "id": "def1",
+      "term": "科学",
+      "definition": "科学是一种学问，不应与艺术、宗教混为一谈",
+      "evidence": "科学既是一种学问，那末学问自然不应该和艺术、宗教混为一谈",
+      "confidence": 1.0
+    },
+    {
+      "id": "def2",
+      "term": "艺术学",
+      "definition": "用科学方法研究艺术所形成的科学，但应用科学方法的艺术本身不是科学",
+      "evidence": "我们用科学方法研究艺术或宗教的时候，我们固然可以称这一种科学做艺术学或宗教学，但是断不能称应用科学方法的艺术或宗教（假使有这一种艺术或宗教）做科学",
+      "confidence": 1.0
+    },
+    {
+      "id": "def3",
+      "term": "宗教学",
+      "definition": "用科学方法研究宗教所形成的科学，但应用科学方法的宗教本身不是科学",
+      "evidence": "我们用科学方法研究艺术或宗教的时候，我们固然可以称这一种科学做艺术学或宗教学，但是断不能称应用科学方法的艺术或宗教（假使有这一种艺术或宗教）做科学",
+      "confidence": 1.0
+    }
+  ],
+  "citations": [
+    {
+      "id": "cit1",
+      "citer": "林宰平",
+      "quoted_author": "乌尔夫",
+      "quoted_work": "",
+      "quoted_claim": "凡用科学方法所研究者皆可谓为“科学的”",
+      "function": "作为批评对象",
+      "evidence": "即如乌尔夫主张凡用科学方法所研究者皆可谓为“科学的”",
+      "confidence": 1.0
+    },
+    {
+      "id": "cit2",
+      "citer": "范寿康",
+      "quoted_author": "林宰平",
+      "quoted_work": "《读丁在君先生的〈玄学与科学〉》",
+      "quoted_claim": "严格说来，科学的究不是科学，换句话说：就是科学方法，究不是科学自身",
+      "function": "作为批评对象",
+      "evidence": "林氏在《读丁在君先生的〈玄学与科学〉》里面说:……即如乌尔夫主张凡用科学方法所研究者皆可谓为“科学的”，然严格说来，科学的究不是科学，换句话说：就是科学方法，究不是科学自身",
+      "confidence": 1.0
+    }
+  ],
+  "rhetorical_devices": [
+    {
+      "id": "rh1",
+      "expression": "几何学的方法应用于绘画音乐等，能否即将绘画音乐叫做几何学；数学方法应用到无线电上，能否说无线电就是数学；物理学应用到医学上，能否说医学就是物理学",
+      "device_type": "类比",
+      "literal_target": "将科学方法等同于科学自身的观点",
+      "function": "通过类比论证科学方法不等于科学自身",
+      "evidence": "假如科学方法即是科学自身，然则几何学的方法应用于绘画音乐等，能否即将绘画音乐叫做几何学；数学方法应用到无线电上，能否说无线电就是数学；物理学应用到医学上，能否说医学就是物理学",
+      "confidence": 1.0
+    }
+  ],
+  "uncertainties": [
+    {
+      "item": "丁氏的主张具体内容",
+      "reason": "文本中仅说'我想丁氏的主张大概也是如此'，未明确说明丁氏的主张是什么"
+    },
+    {
+      "item": "“他的科学分类”中的“他”指代何人",
+      "reason": "文本未明确说明“他”是谁，可能指前文提及的某个人物"
+    }
+  ],
+  "_meta": {
+    "status": "success",
+    "stage": "extract",
+    "model": "deepseek-ai/DeepSeek-V4-Flash",
+    "base_url": "https://api.siliconflow.cn/v1",
+    "prompt_version": "extract_prompt_v2.0",
+    "schema_version": "lite_v2.0",
+    "segment_id": "范寿康_000_14d2ac72_s0007",
+    "article_id": "范寿康_000_14d2ac72",
+    "char_start": 3506,
+    "char_end": 4097,
+    "raw_path": "E:\\1研究生\\岭南大学\\论文毕业\\capstone\\资料\\新的内容开始了\\local_upload\\kg_runs\\范寿康\\raw_outputs\\extract\\范寿康_000_14d2ac72_s0007.txt",
+    "parsed_at": "2026-05-19T23:57:04",
+    "started_at": "2026-05-19T23:51:03",
+    "elapsed_seconds": 361.691,
+    "strict_evidence_check": true,
+    "drop_unsupported_evidence": true,
+    "request_timeout_seconds": 180
+  }
+}

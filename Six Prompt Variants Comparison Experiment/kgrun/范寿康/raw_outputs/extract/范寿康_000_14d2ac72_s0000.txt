@@ -1,0 +1,385 @@
+{
+  "metadata": {
+    "schema_version": "lite_v2.0",
+    "article_id": "范寿康_000_14d2ac72",
+    "article_title": "评所谓“科学与玄学之争”",
+    "source_author": "范寿康",
+    "section_title": "",
+    "section_author": "",
+    "segment_id": "范寿康_000_14d2ac72_s0000",
+    "segment_index": 0,
+    "source_file": "E:\\1研究生\\岭南大学\\论文毕业\\capstone\\资料\\新的内容开始了\\local_upload\\input_w1\\范寿康.txt"
+  },
+  "entities": [
+    {
+      "id": "e1",
+      "name": "张君劢",
+      "canonical_name": "张君劢",
+      "type": "人物",
+      "evidence": "自张君劢氏在《清华周刊》第二七二期上发表了一篇讲演稿《人生观》以后",
+      "confidence": 1.0
+    },
+    {
+      "id": "e2",
+      "name": "《清华周刊》",
+      "canonical_name": "清华周刊",
+      "type": "著作",
+      "evidence": "自张君劢氏在《清华周刊》第二七二期上发表了一篇讲演稿《人生观》以后",
+      "confidence": 1.0
+    },
+    {
+      "id": "e3",
+      "name": "《人生观》",
+      "canonical_name": "人生观",
+      "type": "著作",
+      "evidence": "自张君劢氏在《清华周刊》第二七二期上发表了一篇讲演稿《人生观》以后",
+      "confidence": 1.0
+    },
+    {
+      "id": "e4",
+      "name": "丁文江",
+      "canonical_name": "丁文江",
+      "type": "人物",
+      "evidence": "张君劢氏为了这篇文字，不久就引起了丁文江氏的驳击",
+      "confidence": 1.0
+    },
+    {
+      "id": "e5",
+      "name": "梁启超",
+      "canonical_name": "梁启超",
+      "type": "人物",
+      "evidence": "加入这一次的争论的有梁启超",
+      "confidence": 1.0
+    },
+    {
+      "id": "e6",
+      "name": "任叔永",
+      "canonical_name": "任叔永",
+      "type": "人物",
+      "evidence": "加入这一次的争论的有梁启超、任叔永",
+      "confidence": 1.0
+    },
+    {
+      "id": "e7",
+      "name": "胡适之",
+      "canonical_name": "胡适之",
+      "type": "人物",
+      "evidence": "加入这一次的争论的有梁启超、任叔永、胡适之",
+      "confidence": 1.0
+    },
+    {
+      "id": "e8",
+      "name": "孙伏园",
+      "canonical_name": "孙伏园",
+      "type": "人物",
+      "evidence": "加入这一次的争论的有梁启超、任叔永、胡适之、孙伏园",
+      "confidence": 1.0
+    },
+    {
+      "id": "e9",
+      "name": "林宰平",
+      "canonical_name": "林宰平",
+      "type": "人物",
+      "evidence": "加入这一次的争论的有梁启超、任叔永、胡适之、孙伏园、林宰平",
+      "confidence": 1.0
+    },
+    {
+      "id": "e10",
+      "name": "张东荪",
+      "canonical_name": "张东荪",
+      "type": "人物",
+      "evidence": "加入这一次的争论的有梁启超、任叔永、胡适之、孙伏园、林宰平、张东荪",
+      "confidence": 1.0
+    },
+    {
+      "id": "e11",
+      "name": "章演存",
+      "canonical_name": "章演存",
+      "type": "人物",
+      "evidence": "加入这一次的争论的有梁启超、任叔永、胡适之、孙伏园、林宰平、张东荪、章演存",
+      "confidence": 1.0
+    },
+    {
+      "id": "e12",
+      "name": "朱经农",
+      "canonical_name": "朱经农",
+      "type": "人物",
+      "evidence": "加入这一次的争论的有梁启超、任叔永、胡适之、孙伏园、林宰平、张东荪、章演存、朱经农",
+      "confidence": 1.0
+    },
+    {
+      "id": "e13",
+      "name": "唐钺",
+      "canonical_name": "唐钺",
+      "type": "人物",
+      "evidence": "加入这一次的争论的有梁启超、任叔永、胡适之、孙伏园、林宰平、张东荪、章演存、朱经农、唐钺",
+      "confidence": 1.0
+    },
+    {
+      "id": "e14",
+      "name": "甘蛰仙",
+      "canonical_name": "甘蛰仙",
+      "type": "人物",
+      "evidence": "加入这一次的争论的有梁启超、任叔永、胡适之、孙伏园、林宰平、张东荪、章演存、朱经农、唐钺、甘蛰仙",
+      "confidence": 1.0
+    },
+    {
+      "id": "e15",
+      "name": "王星拱",
+      "canonical_name": "王星拱",
+      "type": "人物",
+      "evidence": "加入这一次的争论的有梁启超、任叔永、胡适之、孙伏园、林宰平、张东荪、章演存、朱经农、唐钺、甘蛰仙、王星拱等诸氏",
+      "confidence": 1.0
+    },
+    {
+      "id": "e16",
+      "name": "范寿康",
+      "canonical_name": "范寿康",
+      "type": "人物",
+      "evidence": "所以我不顾自己学识的浅陋，以为为真理起见，为学术起见，还有出来把这笔总账清算一下的必要",
+      "confidence": 1.0
+    },
+    {
+      "id": "e17",
+      "name": "人生观",
+      "canonical_name": "人生观",
+      "type": "概念",
+      "evidence": "我看这次论争的中心要在于“人生观与科学的关系”",
+      "confidence": 1.0
+    },
+    {
+      "id": "e18",
+      "name": "科学",
+      "canonical_name": "科学",
+      "type": "概念",
+      "evidence": "我看这次论争的中心要在于“人生观与科学的关系”",
+      "confidence": 1.0
+    },
+    {
+      "id": "e19",
+      "name": "科学与玄学之争",
+      "canonical_name": "科学与玄学之争",
+      "type": "事件",
+      "evidence": "所谓“科学与玄学之争”的导火线就是这篇《人生观》",
+      "confidence": 1.0
+    },
+    {
+      "id": "e20",
+      "name": "《人生观与科学》",
+      "canonical_name": "人生观与科学",
+      "type": "著作",
+      "evidence": "梁启超氏在他那篇《人生观与科学》里面说得好",
+      "confidence": 1.0
+    }
+  ],
+  "claims": [
+    {
+      "id": "c1",
+      "speaker": "范寿康",
+      "claim": "这次讨论的内容未能十分令人满意",
+      "target": "科学与玄学之争",
+      "claim_type": "价值评价",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "我却觉得这次讨论的内容未能十分令人满意",
+      "confidence": 1.0
+    },
+    {
+      "id": "c2",
+      "speaker": "范寿康",
+      "claim": "为真理起见，为学术起见，还有出来把这笔总账清算一下的必要",
+      "target": "科学与玄学之争",
+      "claim_type": "论战策略批评",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "所以我不顾自己学识的浅陋，以为为真理起见，为学术起见，还有出来把这笔总账清算一下的必要",
+      "confidence": 1.0
+    },
+    {
+      "id": "c3",
+      "speaker": "范寿康",
+      "claim": "这次论争的中心要在于“人生观与科学的关系”",
+      "target": "科学与玄学之争",
+      "claim_type": "定义性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "我看这次论争的中心要在于“人生观与科学的关系”",
+      "confidence": 1.0
+    },
+    {
+      "id": "c4",
+      "speaker": "范寿康",
+      "claim": "关于讨论的程次和范围似应由这个中心问题而决定",
+      "target": "科学与玄学之争",
+      "claim_type": "方法论主张",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "所以关于讨论的程次和范围似应由这个中心问题而决定",
+      "confidence": 1.0
+    },
+    {
+      "id": "c5",
+      "speaker": "梁启超",
+      "claim": "凡辩论先要把辩论对象的内容确定：先公认甲是什么，乙是什么，才能说到甲和乙的关系何如",
+      "target": "科学与玄学之争",
+      "claim_type": "方法论主张",
+      "claim_status": "直接引用",
+      "polarity": "positive",
+      "evidence": "梁启超氏在他那篇《人生观与科学》里面说得好:“凡辩论先要把辩论对象的内容确定：先公认甲是什么，乙是什么，才能说到甲和乙的关系何如。否则一定闹到‘驴头不对马嘴’。当局的辩论没有结果，旁观的越发迷惑。我很可惜君劢这篇文章，不过在学校里随便讲演，未曾把‘人生观’和‘科学’给他一个定义。在君也不过拈起来就驳。究竟他们两位所谓‘人生观’，所谓‘科学’，是否同属一件东西，不惟我们观战人摸不清楚，只怕两边主将也未必能心心相印哩。”",
+      "confidence": 1.0
+    },
+    {
+      "id": "c6",
+      "speaker": "梁启超",
+      "claim": "张君劢未曾把‘人生观’和‘科学’给他一个定义",
+      "target": "张君劢",
+      "claim_type": "价值评价",
+      "claim_status": "直接引用",
+      "polarity": "negative",
+      "evidence": "我很可惜君劢这篇文章，不过在学校里随便讲演，未曾把‘人生观’和‘科学’给他一个定义",
+      "confidence": 1.0
+    },
+    {
+      "id": "c7",
+      "speaker": "梁启超",
+      "claim": "丁文江也不过拈起来就驳",
+      "target": "丁文江",
+      "claim_type": "价值评价",
+      "claim_status": "直接引用",
+      "polarity": "negative",
+      "evidence": "在君也不过拈起来就驳",
+      "confidence": 1.0
+    },
+    {
+      "id": "c8",
+      "speaker": "梁启超",
+      "claim": "究竟他们两位所谓‘人生观’，所谓‘科学’，是否同属一件东西，不惟我们观战人摸不清楚，只怕两边主将也未必能心心相印",
+      "target": "张君劢和丁文江",
+      "claim_type": "问题提出",
+      "claim_status": "直接引用",
+      "polarity": "negative",
+      "evidence": "究竟他们两位所谓‘人生观’，所谓‘科学’，是否同属一件东西，不惟我们观战人摸不清楚，只怕两边主将也未必能心心相印哩",
+      "confidence": 1.0
+    },
+    {
+      "id": "c9",
+      "speaker": "范寿康",
+      "claim": "梁氏这段评论最是确当",
+      "target": "梁启超的评论",
+      "claim_type": "价值评价",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "梁氏这段评论最是确当",
+      "confidence": 1.0
+    }
+  ],
+  "relations": [
+    {
+      "id": "r1",
+      "head": "张君劢",
+      "head_type": "人物",
+      "relation": "引用",
+      "relation_subtype": "作为批评对象",
+      "tail": "梁启超",
+      "tail_type": "人物",
+      "polarity": "negative",
+      "evidence": "我很可惜君劢这篇文章，不过在学校里随便讲演，未曾把‘人生观’和‘科学’给他一个定义",
+      "confidence": 1.0
+    },
+    {
+      "id": "r2",
+      "head": "丁文江",
+      "head_type": "人物",
+      "relation": "引用",
+      "relation_subtype": "作为批评对象",
+      "tail": "梁启超",
+      "tail_type": "人物",
+      "polarity": "negative",
+      "evidence": "在君也不过拈起来就驳",
+      "confidence": 1.0
+    },
+    {
+      "id": "r3",
+      "head": "范寿康",
+      "head_type": "人物",
+      "relation": "支持",
+      "relation_subtype": "部分肯定",
+      "tail": "梁启超",
+      "tail_type": "人物",
+      "polarity": "positive",
+      "evidence": "梁氏这段评论最是确当",
+      "confidence": 1.0
+    },
+    {
+      "id": "r4",
+      "head": "张君劢",
+      "head_type": "人物",
+      "relation": "导致",
+      "relation_subtype": "不适用",
+      "tail": "丁文江",
+      "tail_type": "人物",
+      "polarity": "neutral",
+      "evidence": "张君劢氏为了这篇文字，不久就引起了丁文江氏的驳击",
+      "confidence": 1.0
+    },
+    {
+      "id": "r5",
+      "head": "张君劢",
+      "head_type": "人物",
+      "relation": "导致",
+      "relation_subtype": "不适用",
+      "tail": "科学与玄学之争",
+      "tail_type": "事件",
+      "polarity": "neutral",
+      "evidence": "所谓“科学与玄学之争”的导火线就是这篇《人生观》",
+      "confidence": 1.0
+    }
+  ],
+  "definitions": [
+    {
+      "id": "def1",
+      "term": "科学与玄学之争",
+      "definition": "由张君劢在《清华周刊》发表《人生观》讲演稿引发的学术界大规模讨论",
+      "evidence": "自张君劢氏在《清华周刊》第二七二期上发表了一篇讲演稿《人生观》以后，引起了我国学术界年来罕见的大波澜。所谓“科学与玄学之争”的导火线就是这篇《人生观》。",
+      "confidence": 1.0
+    }
+  ],
+  "citations": [
+    {
+      "id": "cit1",
+      "citer": "范寿康",
+      "quoted_author": "梁启超",
+      "quoted_work": "《人生观与科学》",
+      "quoted_claim": "凡辩论先要把辩论对象的内容确定：先公认甲是什么，乙是什么，才能说到甲和乙的关系何如。否则一定闹到‘驴头不对马嘴’。当局的辩论没有结果，旁观的越发迷惑。我很可惜君劢这篇文章，不过在学校里随便讲演，未曾把‘人生观’和‘科学’给他一个定义。在君也不过拈起来就驳。究竟他们两位所谓‘人生观’，所谓‘科学’，是否同属一件东西，不惟我们观战人摸不清楚，只怕两边主将也未必能心心相印哩。",
+      "function": "援引权威支持",
+      "evidence": "梁启超氏在他那篇《人生观与科学》里面说得好:“凡辩论先要把辩论对象的内容确定：先公认甲是什么，乙是什么，才能说到甲和乙的关系何如。否则一定闹到‘驴头不对马嘴’。当局的辩论没有结果，旁观的越发迷惑。我很可惜君劢这篇文章，不过在学校里随便讲演，未曾把‘人生观’和‘科学’给他一个定义。在君也不过拈起来就驳。究竟他们两位所谓‘人生观’，所谓‘科学’，是否同属一件东西，不惟我们观战人摸不清楚，只怕两边主将也未必能心心相印哩。”",
+      "confidence": 1.0
+    }
+  ],
+  "rhetorical_devices": [
+    {
+      "id": "rh1",
+      "expression": "驴头不对马嘴",
+      "device_type": "比喻",
+      "literal_target": "辩论双方概念不一致导致讨论无效",
+      "function": "形象说明概念不统一会导致讨论无效",
+      "evidence": "否则一定闹到‘驴头不对马嘴’",
+      "confidence": 1.0
+    },
+    {
+      "id": "rh2",
+      "expression": "心心相印",
+      "device_type": "比喻",
+      "literal_target": "辩论双方对概念理解一致",
+      "function": "讽刺双方对基本概念缺乏共识",
+      "evidence": "只怕两边主将也未必能心心相印哩",
+      "confidence": 1.0
+    }
+  ],
+  "uncertainties": [
+    {
+      "item": "范寿康对争论的态度",
+      "reason": "文本中范寿康一方面说争论应该提倡，另一方面又说内容不满意，需要清算，态度复杂，但未明确说明具体不满之处"
+    }
+  ]
+}

@@ -1,0 +1,473 @@
+{
+  "metadata": {
+    "schema_version": "lite_v2.0",
+    "article_id": "张君劢_002_c870d202",
+    "article_title": "再论人生观与科学并答丁在君",
+    "source_author": "张君劢",
+    "section_title": "",
+    "section_author": "",
+    "segment_id": "张君劢_002_c870d202_s0020",
+    "segment_index": 20,
+    "source_file": "E:\\1研究生\\岭南大学\\论文毕业\\capstone\\资料\\新的内容开始了\\local_upload\\input_w3\\张君劢.txt"
+  },
+  "entities": [
+    {
+      "id": "e1",
+      "name": "张君劢",
+      "canonical_name": "张君劢",
+      "type": "人物",
+      "evidence": "（答）人生观超于科学以上，不能对抗，故分家之语，不能成立。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e2",
+      "name": "丁在君",
+      "canonical_name": "丁文江",
+      "type": "人物",
+      "evidence": "（问）在君曰：试问活的单是人吗？动植物难道是死的？何以又有动植物学？",
+      "confidence": 1.0
+    },
+    {
+      "id": "e3",
+      "name": "科学",
+      "canonical_name": "科学",
+      "type": "概念",
+      "evidence": "质科学与精神科学内容不同，绝对可以分别；即以科学分类，久为学者所公认一端，可以证之。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e4",
+      "name": "精神科学",
+      "canonical_name": "精神科学",
+      "type": "概念",
+      "evidence": "质科学与精神科学内容不同，绝对可以分别；即以科学分类，久为学者所公认一端，可以证之。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e5",
+      "name": "物质科学",
+      "canonical_name": "物质科学",
+      "type": "概念",
+      "evidence": "质科学与精神科学内容不同，绝对可以分别；即以科学分类，久为学者所公认一端，可以证之。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e6",
+      "name": "人生观",
+      "canonical_name": "人生观",
+      "type": "概念",
+      "evidence": "（问）人生观能否同科学分家？",
+      "confidence": 1.0
+    },
+    {
+      "id": "e7",
+      "name": "科学方法",
+      "canonical_name": "科学方法",
+      "type": "概念",
+      "evidence": "（问）在君曰：如何可以说纯粹心理上的现象不受科学方法的支配？",
+      "confidence": 1.0
+    },
+    {
+      "id": "e8",
+      "name": "纯粹心理",
+      "canonical_name": "纯粹心理",
+      "type": "概念",
+      "evidence": "（答）凡为科学方法所支配者，必其为固定之状态。纯粹心理，顷刻万变，故非科学方法所能支配。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e9",
+      "name": "人类",
+      "canonical_name": "人类",
+      "type": "阵营/群体",
+      "evidence": "人类目的，屡变不已；虽变也，不趋于恶而必趋于善；其所以然之故，至为玄妙，不可测度。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e10",
+      "name": "孔孟",
+      "canonical_name": "孔孟",
+      "type": "人物",
+      "evidence": "故以吾国言之，自孔孟以下逮于陆王，以欧洲言之，自柏拉图以下逮于所谓马克思，虽立言各有不同，然何一非舍己为人，以图人类之解放者？",
+      "confidence": 1.0
+    },
+    {
+      "id": "e11",
+      "name": "陆王",
+      "canonical_name": "陆王",
+      "type": "人物",
+      "evidence": "故以吾国言之，自孔孟以下逮于陆王，以欧洲言之，自柏拉图以下逮于所谓马克思，虽立言各有不同，然何一非舍己为人，以图人类之解放者？",
+      "confidence": 1.0
+    },
+    {
+      "id": "e12",
+      "name": "柏拉图",
+      "canonical_name": "柏拉图",
+      "type": "人物",
+      "evidence": "故以吾国言之，自孔孟以下逮于陆王，以欧洲言之，自柏拉图以下逮于所谓马克思，虽立言各有不同，然何一非舍己为人，以图人类之解放者？",
+      "confidence": 1.0
+    },
+    {
+      "id": "e13",
+      "name": "马克思",
+      "canonical_name": "马克思",
+      "type": "人物",
+      "evidence": "故以吾国言之，自孔孟以下逮于陆王，以欧洲言之，自柏拉图以下逮于所谓马克思，虽立言各有不同，然何一非舍己为人，以图人类之解放者？",
+      "confidence": 1.0
+    },
+    {
+      "id": "e14",
+      "name": "詹姆士",
+      "canonical_name": "詹姆士",
+      "type": "人物",
+      "evidence": "詹姆士有言，唯心主义者，好以全体解释部分。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e15",
+      "name": "唯心主义者",
+      "canonical_name": "唯心主义者",
+      "type": "阵营/群体",
+      "evidence": "詹姆士有言，唯心主义者，好以全体解释部分。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e16",
+      "name": "张献忠",
+      "canonical_name": "张献忠",
+      "type": "人物",
+      "evidence": "抑在君所虑者，人生观既日变而不穷，人人标举一义以为天下倡，致有张献忠之类奈何？",
+      "confidence": 1.0
+    }
+  ],
+  "claims": [
+    {
+      "id": "c1",
+      "speaker": "张君劢",
+      "claim": "质科学与精神科学内容不同，绝对可以分别",
+      "target": "科学",
+      "claim_type": "定义性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "质科学与精神科学内容不同，绝对可以分别；即以科学分类，久为学者所公认一端，可以证之。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c2",
+      "speaker": "丁在君",
+      "claim": "试问活的单是人吗？动植物难道是死的？何以又有动植物学？",
+      "target": "张君劢",
+      "claim_type": "反驳性主张",
+      "claim_status": "对手直接主张",
+      "polarity": "negative",
+      "evidence": "（问）在君曰：试问活的单是人吗？动植物难道是死的？何以又有动植物学？",
+      "confidence": 1.0
+    },
+    {
+      "id": "c3",
+      "speaker": "张君劢",
+      "claim": "人与动植物同是活的，然动植物学之研究之对象为动植物，精神科学之所研究者为人类心理与心理所生之结果，故不得相提并论",
+      "target": "丁在君",
+      "claim_type": "反驳性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "（答）人与动植物同是活的，然动植物学之研究之对象为动植物，精神科学之所研究者为人类心理与心理所生之结果，故不得相提并论。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c4",
+      "speaker": "丁在君",
+      "claim": "如何可以说纯粹心理上的现象不受科学方法的支配？",
+      "target": "张君劢",
+      "claim_type": "反驳性主张",
+      "claim_status": "对手直接主张",
+      "polarity": "negative",
+      "evidence": "（问）在君曰：如何可以说纯粹心理上的现象不受科学方法的支配？",
+      "confidence": 1.0
+    },
+    {
+      "id": "c5",
+      "speaker": "张君劢",
+      "claim": "凡为科学方法所支配者，必其为固定之状态。纯粹心理，顷刻万变，故非科学方法所能支配",
+      "target": "纯粹心理",
+      "claim_type": "知识论主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "（答）凡为科学方法所支配者，必其为固定之状态。纯粹心理，顷刻万变，故非科学方法所能支配。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c6",
+      "speaker": "丁在君",
+      "claim": "人生观能否同科学分家？",
+      "target": "人生观",
+      "claim_type": "问题提出",
+      "claim_status": "对手直接主张",
+      "polarity": "neutral",
+      "evidence": "（问）人生观能否同科学分家？",
+      "confidence": 1.0
+    },
+    {
+      "id": "c7",
+      "speaker": "张君劢",
+      "claim": "人生观超于科学以上，不能对抗，故分家之语，不能成立",
+      "target": "人生观",
+      "claim_type": "定义性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "（答）人生观超于科学以上，不能对抗，故分家之语，不能成立。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c8",
+      "speaker": "丁在君",
+      "claim": "人生观既日变而不穷，人人标举一义以为天下倡，致有张献忠之类",
+      "target": "人生观",
+      "claim_type": "反驳性主张",
+      "claim_status": "对手直接主张",
+      "polarity": "negative",
+      "evidence": "抑在君所虑者，人生观既日变而不穷，人人标举一义以为天下倡，致有张献忠之类奈何？",
+      "confidence": 1.0
+    },
+    {
+      "id": "c9",
+      "speaker": "张君劢",
+      "claim": "人生者，介于精神与物质之间者也；其所谓善者，皆精神之表现，如法制、宗教、道德、美术、学问之类也；其所谓恶者，皆物质之接触，如奸淫掳掠之类也",
+      "target": "人生",
+      "claim_type": "定义性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "曰，人生者，介于精神与物质之间者也；其所谓善者，皆精神之表现，如法制、宗教、道德、美术、学问之类也；其所谓恶者，皆物质之接触，如奸淫掳掠之类也。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c10",
+      "speaker": "张君劢",
+      "claim": "古往今来之大思想家，每于物质精神之不调和，不胜其悲悯，于是静思默索，求得一说焉，以布于众",
+      "target": "大思想家",
+      "claim_type": "历史解释",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "古往今来之大思想家，每于物质精神之不调和，不胜其悲悯，于是静思默索，求得一说焉，以布于众。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c11",
+      "speaker": "张君劢",
+      "claim": "自孔孟以下逮于陆王，以欧洲言之，自柏拉图以下逮于所谓马克思，虽立言各有不同，然何一非舍己为人，以图人类之解放者",
+      "target": "孔孟、陆王、柏拉图、马克思",
+      "claim_type": "历史解释",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "故以吾国言之，自孔孟以下逮于陆王，以欧洲言之，自柏拉图以下逮于所谓马克思，虽立言各有不同，然何一非舍己为人，以图人类之解放者？",
+      "confidence": 1.0
+    },
+    {
+      "id": "c12",
+      "speaker": "张君劢",
+      "claim": "人类目的，屡变不已；虽变也，不趋于恶而必趋于善；其所以然之故，至为玄妙，不可测度",
+      "target": "人类",
+      "claim_type": "本体论主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "人类目的，屡变不已；虽变也，不趋于恶而必趋于善；其所以然之故，至为玄妙，不可测度。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c13",
+      "speaker": "张君劢",
+      "claim": "据既往以测将来，其有持改革之说者，大抵图所以益世而非所以害世，此可以深信而不疑者也",
+      "target": "改革之说",
+      "claim_type": "结论性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "然据既往以测将来，其有持改革之说者，大抵图所以益世而非所以害世，此可以深信而不疑者也。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c14",
+      "speaker": "詹姆士",
+      "claim": "唯心主义者，好以全体解释部分",
+      "target": "唯心主义者",
+      "claim_type": "知识论主张",
+      "claim_status": "直接引用",
+      "polarity": "neutral",
+      "evidence": "詹姆士有言，唯心主义者，好以全体解释部分。",
+      "confidence": 1.0
+    }
+  ],
+  "relations": [
+    {
+      "id": "r1",
+      "head": "张君劢",
+      "head_type": "人物",
+      "relation": "主张",
+      "relation_subtype": "不适用",
+      "tail": "质科学与精神科学内容不同，绝对可以分别",
+      "tail_type": "观点",
+      "polarity": "positive",
+      "evidence": "质科学与精神科学内容不同，绝对可以分别；即以科学分类，久为学者所公认一端，可以证之。",
+      "confidence": 1.0
+    },
+    {
+      "id": "r2",
+      "head": "丁在君",
+      "head_type": "人物",
+      "relation": "质疑",
+      "relation_subtype": "事实质疑",
+      "tail": "张君劢",
+      "tail_type": "人物",
+      "polarity": "negative",
+      "evidence": "（问）在君曰：试问活的单是人吗？动植物难道是死的？何以又有动植物学？",
+      "confidence": 1.0
+    },
+    {
+      "id": "r3",
+      "head": "张君劢",
+      "head_type": "人物",
+      "relation": "回应",
+      "relation_subtype": "逻辑反驳",
+      "tail": "丁在君",
+      "tail_type": "人物",
+      "polarity": "negative",
+      "evidence": "（答）人与动植物同是活的，然动植物学之研究之对象为动植物，精神科学之所研究者为人类心理与心理所生之结果，故不得相提并论。",
+      "confidence": 1.0
+    },
+    {
+      "id": "r4",
+      "head": "丁在君",
+      "head_type": "人物",
+      "relation": "质疑",
+      "relation_subtype": "事实质疑",
+      "tail": "张君劢",
+      "tail_type": "人物",
+      "polarity": "negative",
+      "evidence": "（问）在君曰：如何可以说纯粹心理上的现象不受科学方法的支配？",
+      "confidence": 1.0
+    },
+    {
+      "id": "r5",
+      "head": "张君劢",
+      "head_type": "人物",
+      "relation": "回应",
+      "relation_subtype": "逻辑反驳",
+      "tail": "丁在君",
+      "tail_type": "人物",
+      "polarity": "negative",
+      "evidence": "（答）凡为科学方法所支配者，必其为固定之状态。纯粹心理，顷刻万变，故非科学方法所能支配。",
+      "confidence": 1.0
+    },
+    {
+      "id": "r6",
+      "head": "丁在君",
+      "head_type": "人物",
+      "relation": "质疑",
+      "relation_subtype": "事实质疑",
+      "tail": "张君劢",
+      "tail_type": "人物",
+      "polarity": "negative",
+      "evidence": "（问）人生观能否同科学分家？",
+      "confidence": 1.0
+    },
+    {
+      "id": "r7",
+      "head": "张君劢",
+      "head_type": "人物",
+      "relation": "回应",
+      "relation_subtype": "逻辑反驳",
+      "tail": "丁在君",
+      "tail_type": "人物",
+      "polarity": "negative",
+      "evidence": "（答）人生观超于科学以上，不能对抗，故分家之语，不能成立。",
+      "confidence": 1.0
+    },
+    {
+      "id": "r8",
+      "head": "丁在君",
+      "head_type": "人物",
+      "relation": "质疑",
+      "relation_subtype": "归谬",
+      "tail": "张君劢",
+      "tail_type": "人物",
+      "polarity": "negative",
+      "evidence": "抑在君所虑者，人生观既日变而不穷，人人标举一义以为天下倡，致有张献忠之类奈何？",
+      "confidence": 1.0
+    },
+    {
+      "id": "r9",
+      "head": "张君劢",
+      "head_type": "人物",
+      "relation": "回应",
+      "relation_subtype": "逻辑反驳",
+      "tail": "丁在君",
+      "tail_type": "人物",
+      "polarity": "negative",
+      "evidence": "曰，人生者，介于精神与物质之间者也；其所谓善者，皆精神之表现，如法制、宗教、道德、美术、学问之类也；其所谓恶者，皆物质之接触，如奸淫掳掠之类也。",
+      "confidence": 1.0
+    },
+    {
+      "id": "r10",
+      "head": "张君劢",
+      "head_type": "人物",
+      "relation": "引用",
+      "relation_subtype": "援引权威支持",
+      "tail": "詹姆士",
+      "tail_type": "人物",
+      "polarity": "positive",
+      "evidence": "詹姆士有言，唯心主义者，好以全体解释部分。",
+      "confidence": 1.0
+    }
+  ],
+  "definitions": [
+    {
+      "id": "def1",
+      "term": "精神科学",
+      "definition": "精神科学之所研究者为人类心理与心理所生之结果",
+      "evidence": "（答）人与动植物同是活的，然动植物学之研究之对象为动植物，精神科学之所研究者为人类心理与心理所生之结果，故不得相提并论。",
+      "confidence": 1.0
+    },
+    {
+      "id": "def2",
+      "term": "科学方法",
+      "definition": "凡为科学方法所支配者，必其为固定之状态",
+      "evidence": "（答）凡为科学方法所支配者，必其为固定之状态。纯粹心理，顷刻万变，故非科学方法所能支配。",
+      "confidence": 1.0
+    },
+    {
+      "id": "def3",
+      "term": "人生",
+      "definition": "人生者，介于精神与物质之间者也；其所谓善者，皆精神之表现，如法制、宗教、道德、美术、学问之类也；其所谓恶者，皆物质之接触，如奸淫掳掠之类也",
+      "evidence": "曰，人生者，介于精神与物质之间者也；其所谓善者，皆精神之表现，如法制、宗教、道德、美术、学问之类也；其所谓恶者，皆物质之接触，如奸淫掳掠之类也。",
+      "confidence": 1.0
+    }
+  ],
+  "citations": [
+    {
+      "id": "cit1",
+      "citer": "张君劢",
+      "quoted_author": "詹姆士",
+      "quoted_work": "",
+      "quoted_claim": "唯心主义者，好以全体解释部分",
+      "function": "援引权威支持",
+      "evidence": "詹姆士有言，唯心主义者，好以全体解释部分。",
+      "confidence": 1.0
+    }
+  ],
+  "rhetorical_devices": [
+    {
+      "id": "rh1",
+      "expression": "张献忠之类",
+      "device_type": "类比",
+      "literal_target": "人生观日变导致的不良后果",
+      "function": "归谬：将对方观点推到极端荒谬的后果",
+      "evidence": "抑在君所虑者，人生观既日变而不穷，人人标举一义以为天下倡，致有张献忠之类奈何？",
+      "confidence": 1.0
+    }
+  ],
+  "uncertainties": [
+    {
+      "item": "文本中“质科学”是否为“物质科学”的笔误或简称",
+      "reason": "原文写“质科学与精神科学”，但后文未再出现“质科学”，且通常论战中用“物质科学”，不确定是否同一概念。"
+    }
+  ]
+}

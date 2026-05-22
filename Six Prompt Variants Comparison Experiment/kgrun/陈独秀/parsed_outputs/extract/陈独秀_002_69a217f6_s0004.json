@@ -1,0 +1,294 @@
+{
+  "metadata": {
+    "schema_version": "lite_v2.0",
+    "article_id": "陈独秀_002_69a217f6",
+    "article_title": "答张君劢及梁任公",
+    "source_author": "陈独秀",
+    "section_title": "",
+    "section_author": "",
+    "segment_id": "陈独秀_002_69a217f6_s0004",
+    "segment_index": 4,
+    "source_file": "E:\\1研究生\\岭南大学\\论文毕业\\capstone\\资料\\新的内容开始了\\local_upload\\input_w2\\陈独秀.txt"
+  },
+  "entities": [
+    {
+      "id": "e1",
+      "name": "科学",
+      "canonical_name": "科学",
+      "type": "概念",
+      "evidence": "非科学公例所能一律相绳也",
+      "confidence": 1.0
+    },
+    {
+      "id": "e2",
+      "name": "因果公例",
+      "canonical_name": "因果公例",
+      "type": "概念",
+      "evidence": "夫科学之大本，曰因果公例",
+      "confidence": 1.0
+    },
+    {
+      "id": "e3",
+      "name": "因果律",
+      "canonical_name": "因果律",
+      "type": "概念",
+      "evidence": "社会现象亦必为因果律所支配",
+      "confidence": 1.0
+    },
+    {
+      "id": "e4",
+      "name": "自由意志",
+      "canonical_name": "自由意志",
+      "type": "概念",
+      "evidence": "则曰人类之自由意志为之",
+      "confidence": 1.0
+    },
+    {
+      "id": "e5",
+      "name": "社会科学",
+      "canonical_name": "社会科学",
+      "type": "概念",
+      "evidence": "社会科学亦得成为科学",
+      "confidence": 1.0
+    },
+    {
+      "id": "e6",
+      "name": "科学之方法",
+      "canonical_name": "科学之方法",
+      "type": "方法",
+      "evidence": "此非科学之方法而何",
+      "confidence": 1.0
+    },
+    {
+      "id": "e7",
+      "name": "社会现象",
+      "canonical_name": "社会现象",
+      "type": "概念",
+      "evidence": "社会现象亦必为因果律所支配",
+      "confidence": 1.0
+    },
+    {
+      "id": "e8",
+      "name": "物理公例",
+      "canonical_name": "物理公例",
+      "type": "概念",
+      "evidence": "能视为与物理公例有同等价值乎",
+      "confidence": 1.0
+    }
+  ],
+  "claims": [
+    {
+      "id": "c1",
+      "speaker": "张君劢",
+      "claim": "人类之自由意志为之，非科学公例所能一律相绳也",
+      "target": "科学公例",
+      "claim_type": "知识论主张",
+      "claim_status": "间接转述",
+      "polarity": "negative",
+      "evidence": "则曰人类之自由意志为之，非科学公例所能一律相绳也",
+      "confidence": 0.9
+    },
+    {
+      "id": "c2",
+      "speaker": "张君劢",
+      "claim": "但能关于已过者，于事后为之解释，此种过去之解释，不能视为与物理公例有同等价值",
+      "target": "科学解释",
+      "claim_type": "知识论主张",
+      "claim_status": "间接转述",
+      "polarity": "negative",
+      "evidence": "若夫人事，但能关于已过者，于事后为之解释，此种过去之解释，能视为与物理公例有同等价值乎？殆不然矣！",
+      "confidence": 0.9
+    },
+    {
+      "id": "c3",
+      "speaker": "张君劢",
+      "claim": "小家族后之家庭制度如何，谁知之乎？公有财产后之制度如何，谁知之乎？",
+      "target": "科学预测",
+      "claim_type": "知识论主张",
+      "claim_status": "间接转述",
+      "polarity": "negative",
+      "evidence": "小家族后之家庭制度如何，谁知之乎？公有财产后之制度如何，谁知之乎？",
+      "confidence": 0.9
+    },
+    {
+      "id": "c4",
+      "speaker": "张君劢",
+      "claim": "独秀虽能举尽社会家言以难吾九端之列举，然吾之根本主张，仍是一丝一毫不能动播也",
+      "target": "陈独秀",
+      "claim_type": "论战策略批评",
+      "claim_status": "间接转述",
+      "polarity": "negative",
+      "evidence": "故独秀虽能举尽社会家言以难吾九端之列举，然吾之根本主张，仍是一丝一毫不能动播也",
+      "confidence": 0.9
+    },
+    {
+      "id": "c5",
+      "speaker": "陈独秀",
+      "claim": "张先生这一篇说话，说坏点，直是遁词；说好点，他的观念，他的论点，他的文义，他使用术语，都大欠明了",
+      "target": "张君劢",
+      "claim_type": "论战策略批评",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "张先生这一篇说话，说坏点，直是遁词；说好点，他的观念，他的论点，他的文义，他使用术语，都大欠明了",
+      "confidence": 0.9
+    },
+    {
+      "id": "c6",
+      "speaker": "陈独秀",
+      "claim": "汇集各种事实而推求其由来，而为之说明，此非科学之方法而何",
+      "target": "科学之方法",
+      "claim_type": "方法论主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "汇集各种事实而推求其由来，而为之说明，此非科学之方法而何",
+      "confidence": 0.9
+    },
+    {
+      "id": "c7",
+      "speaker": "陈独秀",
+      "claim": "社会现象亦必为因果律所支配",
+      "target": "社会现象",
+      "claim_type": "知识论主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "社会现象亦必为因果律所支配",
+      "confidence": 0.9
+    },
+    {
+      "id": "c8",
+      "speaker": "陈独秀",
+      "claim": "社会科学亦得成为科学",
+      "target": "社会科学",
+      "claim_type": "知识论主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "社会科学亦得成为科学",
+      "confidence": 0.9
+    },
+    {
+      "id": "c9",
+      "speaker": "陈独秀",
+      "claim": "社会现象若不为因果律所支配，虽事后亦无法推求其现象所由来",
+      "target": "社会现象",
+      "claim_type": "知识论主张",
+      "claim_status": "作者推论",
+      "polarity": "negative",
+      "evidence": "社会现象若不为因果律所支配，虽事后亦无法推求其现象所由来",
+      "confidence": 0.9
+    },
+    {
+      "id": "c10",
+      "speaker": "陈独秀",
+      "claim": "若既为因果律所支配，则可据今果以推求前因，亦可据今因以推求后果",
+      "target": "因果律",
+      "claim_type": "知识论主张",
+      "claim_status": "作者推论",
+      "polarity": "positive",
+      "evidence": "若既为因果律所支配，则可据今果以推求前因，亦可据今因以推求后果",
+      "confidence": 0.9
+    }
+  ],
+  "relations": [
+    {
+      "id": "r1",
+      "head": "科学之方法",
+      "head_type": "方法",
+      "relation": "解释",
+      "tail": "汇集各种事实而推求其由来，而为之说明",
+      "tail_type": "方法",
+      "polarity": "positive",
+      "evidence": "汇集各种事实而推求其由来，而为之说明，此非科学之方法而何",
+      "confidence": 0.9
+    },
+    {
+      "id": "r2",
+      "head": "社会现象",
+      "head_type": "概念",
+      "relation": "属于",
+      "tail": "因果律",
+      "tail_type": "概念",
+      "polarity": "positive",
+      "evidence": "社会现象亦必为因果律所支配",
+      "confidence": 0.9
+    },
+    {
+      "id": "r3",
+      "head": "社会科学",
+      "head_type": "概念",
+      "relation": "属于",
+      "tail": "科学",
+      "tail_type": "概念",
+      "polarity": "positive",
+      "evidence": "社会科学亦得成为科学",
+      "confidence": 0.9
+    },
+    {
+      "id": "r4",
+      "head": "因果律",
+      "head_type": "概念",
+      "relation": "导致",
+      "tail": "可据今果以推求前因，亦可据今因以推求后果",
+      "tail_type": "方法",
+      "polarity": "positive",
+      "evidence": "若既为因果律所支配，则可据今果以推求前因，亦可据今因以推求后果",
+      "confidence": 0.9
+    }
+  ],
+  "definitions": [
+    {
+      "id": "def1",
+      "term": "因果公例",
+      "definition": "有同因则生同果",
+      "evidence": "夫科学之大本，曰因果公例，有同因则生同果之谓也",
+      "confidence": 0.9
+    },
+    {
+      "id": "def2",
+      "term": "科学之方法",
+      "definition": "汇集各种事实而推求其由来，而为之说明",
+      "evidence": "汇集各种事实而推求其由来，而为之说明，此非科学之方法而何",
+      "confidence": 0.9
+    }
+  ],
+  "citations": [],
+  "rhetorical_devices": [
+    {
+      "id": "rh1",
+      "expression": "遁词",
+      "device_type": "标签化",
+      "literal_target": "张君劢的说话",
+      "function": "批评对手论证为逃避问题",
+      "evidence": "张先生这一篇说话，说坏点，直是遁词",
+      "confidence": 0.9
+    }
+  ],
+  "uncertainties": [
+    {
+      "item": "张君劢原文中“九端”的具体内容",
+      "reason": "文本中仅提及“九端之列举”，未说明九端具体指什么"
+    },
+    {
+      "item": "“社会学家之关于九端之说明之文。连篇累牍”中社会学家具体指谁",
+      "reason": "文本未列出具体社会学家姓名"
+    }
+  ],
+  "_meta": {
+    "status": "success",
+    "stage": "extract",
+    "model": "deepseek-ai/DeepSeek-V4-Flash",
+    "base_url": "https://api.siliconflow.cn/v1",
+    "prompt_version": "extract_prompt_v2.0",
+    "schema_version": "lite_v2.0",
+    "segment_id": "陈独秀_002_69a217f6_s0004",
+    "article_id": "陈独秀_002_69a217f6",
+    "char_start": 1996,
+    "char_end": 2593,
+    "raw_path": "E:\\1研究生\\岭南大学\\论文毕业\\capstone\\资料\\新的内容开始了\\local_upload\\kg_runs\\陈独秀\\raw_outputs\\extract\\陈独秀_002_69a217f6_s0004.txt",
+    "parsed_at": "2026-05-20T02:48:53",
+    "started_at": "2026-05-20T02:48:26",
+    "elapsed_seconds": 27.084,
+    "strict_evidence_check": true,
+    "drop_unsupported_evidence": true,
+    "request_timeout_seconds": 180
+  }
+}

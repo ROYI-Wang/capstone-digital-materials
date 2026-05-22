@@ -1,0 +1,247 @@
+{
+  "metadata": {
+    "schema_version": "lite_v2.0",
+    "article_id": "丁文江2_000_e838922e",
+    "article_title": "玄学与科学——答张君劢",
+    "source_author": "丁文江",
+    "section_title": "",
+    "section_author": "",
+    "segment_id": "丁文江2_000_e838922e_s0021",
+    "segment_index": 21,
+    "source_file": "E:\\1研究生\\岭南大学\\论文毕业\\capstone\\资料\\新的内容开始了\\local_upload\\input_texts\\丁文江2.txt"
+  },
+  "entities": [
+    {
+      "id": "e1",
+      "name": "君劢",
+      "canonical_name": "张君劢",
+      "type": "人物",
+      "evidence": "君劢最得意的话是“牢固不拔”的物理学能“推算未来”，不是生物心理学公例所做得到的。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e2",
+      "name": "托摩生",
+      "canonical_name": "托摩生",
+      "type": "人物",
+      "evidence": "我转请君劢自己找出来的“生物学大家”托摩生（他是否是生物学大家，我下文还要说起。）来替我简单的说几句话",
+      "confidence": 1.0
+    },
+    {
+      "id": "e3",
+      "name": "达尔文主义",
+      "canonical_name": "达尔文主义",
+      "type": "主义/学说/理论",
+      "evidence": "若是我们所说的达尔文主义，是指从他的主要观念，——变迁、选择、遗传性，——里面当然发生出来的活学说，不是死守达尔文的话，一个字不改，我们可以说达尔文主义从来没有如今天这样稳固！",
+      "confidence": 1.0
+    },
+    {
+      "id": "e4",
+      "name": "物理学",
+      "canonical_name": "物理学",
+      "type": "概念",
+      "evidence": "君劢最得意的话是“牢固不拔”的物理学能“推算未来”，不是生物心理学公例所做得到的。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e5",
+      "name": "生物心理学公例",
+      "canonical_name": "生物心理学公例",
+      "type": "概念",
+      "evidence": "君劢最得意的话是“牢固不拔”的物理学能“推算未来”，不是生物心理学公例所做得到的。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e6",
+      "name": "《科学大纲》",
+      "canonical_name": "《科学大纲》",
+      "type": "著作",
+      "evidence": "（《科学大纲》第二册三六八页）",
+      "confidence": 1.0
+    },
+    {
+      "id": "e7",
+      "name": "“推算未来”",
+      "canonical_name": "推算未来",
+      "type": "概念",
+      "evidence": "君劢最得意的话是“牢固不拔”的物理学能“推算未来”，不是生物心理学公例所做得到的。他没有给“推算未来”下一个定义。",
+      "confidence": 1.0
+    }
+  ],
+  "claims": [
+    {
+      "id": "c1",
+      "speaker": "丁文江",
+      "claim": "不能瞎批评相对论，是一样的道理。",
+      "target": "相对论",
+      "claim_type": "方法论主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "不能瞎批评相对论，是一样的道理。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c2",
+      "speaker": "丁文江",
+      "claim": "为免除读者误会起见，我转请君劢自己找出来的“生物学大家”托摩生（他是否是生物学大家，我下文还要说起。）来替我简单的说几句话",
+      "target": "托摩生",
+      "claim_type": "论战策略批评",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "为免除读者误会起见，我转请君劢自己找出来的“生物学大家”托摩生（他是否是生物学大家，我下文还要说起。）来替我简单的说几句话",
+      "confidence": 1.0
+    },
+    {
+      "id": "c3",
+      "speaker": "托摩生",
+      "claim": "若是我们所说的达尔文主义，是指从他的主要观念，——变迁、选择、遗传性，——里面当然发生出来的活学说，不是死守达尔文的话，一个字不改，我们可以说达尔文主义从来没有如今天这样稳固！",
+      "target": "达尔文主义",
+      "claim_type": "定义性主张",
+      "claim_status": "直接引用",
+      "polarity": "positive",
+      "evidence": "“若是我们所说的达尔文主义，是指从他的主要观念，——变迁、选择、遗传性，——里面当然发生出来的活学说，不是死守达尔文的话，一个字不改，我们可以说达尔文主义从来没有如今天这样稳固！”（《科学大纲》第二册三六八页）",
+      "confidence": 1.0
+    },
+    {
+      "id": "c4",
+      "speaker": "托摩生",
+      "claim": "若是进化的学说自己不进化，岂非自相矛盾？",
+      "target": "进化的学说",
+      "claim_type": "问题提出",
+      "claim_status": "直接引用",
+      "polarity": "negative",
+      "evidence": "他又说：“若是进化的学说自己不进化，岂非自相矛盾？”",
+      "confidence": 1.0
+    },
+    {
+      "id": "c5",
+      "speaker": "丁文江",
+      "claim": "君劢最得意的话是“牢固不拔”的物理学能“推算未来”，不是生物心理学公例所做得到的。",
+      "target": "君劢",
+      "claim_type": "反驳性主张",
+      "claim_status": "作者概括",
+      "polarity": "negative",
+      "evidence": "君劢最得意的话是“牢固不拔”的物理学能“推算未来”，不是生物心理学公例所做得到的。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c6",
+      "speaker": "丁文江",
+      "claim": "他没有给“推算未来”下一个定义。",
+      "target": "君劢",
+      "claim_type": "论战策略批评",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "他没有给“推算未来”下一个定义。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c7",
+      "speaker": "丁文江",
+      "claim": "他只举了一个例说，“物体上左右各加一力，则其所行之路为平行方形之对角线。”",
+      "target": "君劢",
+      "claim_type": "反驳性主张",
+      "claim_status": "作者概括",
+      "polarity": "neutral",
+      "evidence": "他只举了一个例说，“物体上左右各加一力，则其所行之路为平行方形之对角线。”",
+      "confidence": 1.0
+    },
+    {
+      "id": "c8",
+      "speaker": "丁文江",
+      "claim": "他又说天文家可以预算天象。",
+      "target": "君劢",
+      "claim_type": "反驳性主张",
+      "claim_status": "作者概括",
+      "polarity": "neutral",
+      "evidence": "他又说天文家可以预算天象。",
+      "confidence": 1.0
+    }
+  ],
+  "relations": [
+    {
+      "id": "r1",
+      "head": "丁文江",
+      "head_type": "人物",
+      "relation": "引用",
+      "relation_subtype": "援引权威支持",
+      "tail": "托摩生",
+      "tail_type": "人物",
+      "polarity": "positive",
+      "evidence": "为免除读者误会起见，我转请君劢自己找出来的“生物学大家”托摩生（他是否是生物学大家，我下文还要说起。）来替我简单的说几句话",
+      "confidence": 1.0
+    },
+    {
+      "id": "r2",
+      "head": "丁文江",
+      "head_type": "人物",
+      "relation": "批评",
+      "relation_subtype": "概念混淆批评",
+      "tail": "君劢",
+      "tail_type": "人物",
+      "polarity": "negative",
+      "evidence": "他没有给“推算未来”下一个定义。",
+      "confidence": 1.0
+    },
+    {
+      "id": "r3",
+      "head": "丁文江",
+      "head_type": "人物",
+      "relation": "质疑",
+      "relation_subtype": "事实质疑",
+      "tail": "托摩生",
+      "tail_type": "人物",
+      "polarity": "negative",
+      "evidence": "我转请君劢自己找出来的“生物学大家”托摩生（他是否是生物学大家，我下文还要说起。）来替我简单的说几句话",
+      "confidence": 1.0
+    }
+  ],
+  "definitions": [
+    {
+      "id": "def1",
+      "term": "达尔文主义",
+      "definition": "是指从他的主要观念，——变迁、选择、遗传性，——里面当然发生出来的活学说，不是死守达尔文的话，一个字不改。",
+      "evidence": "“若是我们所说的达尔文主义，是指从他的主要观念，——变迁、选择、遗传性，——里面当然发生出来的活学说，不是死守达尔文的话，一个字不改，我们可以说达尔文主义从来没有如今天这样稳固！”",
+      "confidence": 1.0
+    }
+  ],
+  "citations": [
+    {
+      "id": "cit1",
+      "citer": "丁文江",
+      "quoted_author": "托摩生",
+      "quoted_work": "《科学大纲》",
+      "quoted_claim": "若是我们所说的达尔文主义，是指从他的主要观念，——变迁、选择、遗传性，——里面当然发生出来的活学说，不是死守达尔文的话，一个字不改，我们可以说达尔文主义从来没有如今天这样稳固！",
+      "function": "援引权威支持",
+      "evidence": "“若是我们所说的达尔文主义，是指从他的主要观念，——变迁、选择、遗传性，——里面当然发生出来的活学说，不是死守达尔文的话，一个字不改，我们可以说达尔文主义从来没有如今天这样稳固！”（《科学大纲》第二册三六八页）",
+      "confidence": 1.0
+    },
+    {
+      "id": "cit2",
+      "citer": "丁文江",
+      "quoted_author": "托摩生",
+      "quoted_work": "",
+      "quoted_claim": "若是进化的学说自己不进化，岂非自相矛盾？",
+      "function": "援引权威支持",
+      "evidence": "他又说：“若是进化的学说自己不进化，岂非自相矛盾？”",
+      "confidence": 1.0
+    }
+  ],
+  "rhetorical_devices": [
+    {
+      "id": "rh1",
+      "expression": "“牢固不拔”的物理学",
+      "device_type": "讽刺",
+      "literal_target": "君劢对物理学的描述",
+      "function": "讽刺君劢认为物理学绝对可靠的观点",
+      "evidence": "君劢最得意的话是“牢固不拔”的物理学能“推算未来”，不是生物心理学公例所做得到的。",
+      "confidence": 1.0
+    }
+  ],
+  "uncertainties": [
+    {
+      "item": "丁文江对托摩生是否是“生物学大家”的质疑，但当前文本未给出结论，仅说“我下文还要说起”。",
+      "reason": "证据不足，无法确定丁文江对托摩生身份的具体评价。"
+    }
+  ]
+}

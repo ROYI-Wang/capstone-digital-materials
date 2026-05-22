@@ -1,0 +1,368 @@
+{
+  "metadata": {
+    "schema_version": "lite_v2.0",
+    "article_id": "陈独秀_001_d263aca8",
+    "article_title": "答适之",
+    "source_author": "陈独秀",
+    "section_title": "方今国中竟言新文化，而文化转移之枢纽，不外乎人生观。吾有吾之文化，西洋有西洋之文化。西洋之有益者如何采之，有害者如何革除之；凡此取舍之间，皆决之于观点。观点定，而后精神上之思潮、物质上之制度，乃可按",
+    "section_author": "方今国中竟言新文化，而文化转移之枢纽，不外乎人生观。吾有吾之文化，西洋有西洋之文化。西洋之有益者如何采之，有害者如何革除之；凡此取舍之间，皆决之于观点。观点定，而后精神上之思潮、物质上之制度，乃可",
+    "segment_id": "陈独秀_001_d263aca8_s0014",
+    "segment_index": 14,
+    "source_file": "E:\\1研究生\\岭南大学\\论文毕业\\capstone\\资料\\新的内容开始了\\local_upload\\input_w2\\陈独秀.txt"
+  },
+  "entities": [
+    {
+      "id": "e1",
+      "name": "孟子",
+      "canonical_name": "孟子",
+      "type": "人物",
+      "evidence": "故孟子以男女与饮食并列",
+      "confidence": 1.0
+    },
+    {
+      "id": "e2",
+      "name": "西洋文学",
+      "canonical_name": "西洋文学",
+      "type": "概念",
+      "evidence": "而今之西洋文学，十书中无一书能出男女恋爱之外者",
+      "confidence": 1.0
+    },
+    {
+      "id": "e3",
+      "name": "我国戏剧",
+      "canonical_name": "我国戏剧",
+      "type": "概念",
+      "evidence": "与我国戏剧中，十有七八不以男女恋爱为内容者",
+      "confidence": 1.0
+    },
+    {
+      "id": "e4",
+      "name": "男女恋爱",
+      "canonical_name": "男女恋爱",
+      "type": "概念",
+      "evidence": "男女恋爱，应否作为人生第一大事",
+      "confidence": 1.0
+    },
+    {
+      "id": "e5",
+      "name": "个人",
+      "canonical_name": "个人",
+      "type": "概念",
+      "evidence": "所谓个人与社会者：重社会则轻个人之发展，重个人则害社会之公益",
+      "confidence": 1.0
+    },
+    {
+      "id": "e6",
+      "name": "社会",
+      "canonical_name": "社会",
+      "type": "概念",
+      "evidence": "所谓个人与社会者：重社会则轻个人之发展，重个人则害社会之公益",
+      "confidence": 1.0
+    },
+    {
+      "id": "e7",
+      "name": "国家主义",
+      "canonical_name": "国家主义",
+      "type": "主义/学说/理论",
+      "evidence": "至于国家主义与世界主义之争",
+      "confidence": 1.0
+    },
+    {
+      "id": "e8",
+      "name": "世界主义",
+      "canonical_name": "世界主义",
+      "type": "主义/学说/理论",
+      "evidence": "至于国家主义与世界主义之争",
+      "confidence": 1.0
+    },
+    {
+      "id": "e9",
+      "name": "国货说",
+      "canonical_name": "国货说",
+      "type": "观点",
+      "evidence": "然国中有所谓国货说，有所谓收回权利说",
+      "confidence": 1.0
+    },
+    {
+      "id": "e10",
+      "name": "收回权利说",
+      "canonical_name": "收回权利说",
+      "type": "观点",
+      "evidence": "有所谓收回权利说",
+      "confidence": 1.0
+    },
+    {
+      "id": "e11",
+      "name": "人生观",
+      "canonical_name": "人生观",
+      "type": "概念",
+      "evidence": "而文化转移之枢纽，不外乎人生观",
+      "confidence": 1.0
+    },
+    {
+      "id": "e12",
+      "name": "文化",
+      "canonical_name": "文化",
+      "type": "概念",
+      "evidence": "方今国中竟言新文化，而文化转移之枢纽，不外乎人生观",
+      "confidence": 1.0
+    },
+    {
+      "id": "e13",
+      "name": "西洋之文化",
+      "canonical_name": "西洋之文化",
+      "type": "概念",
+      "evidence": "西洋有西洋之文化",
+      "confidence": 1.0
+    },
+    {
+      "id": "e14",
+      "name": "观点",
+      "canonical_name": "观点",
+      "type": "概念",
+      "evidence": "凡此取舍之间，皆决之于观点",
+      "confidence": 1.0
+    },
+    {
+      "id": "e15",
+      "name": "陈独秀",
+      "canonical_name": "陈独秀",
+      "type": "人物",
+      "evidence": "方今国中竟言新文化",
+      "confidence": 1.0
+    }
+  ],
+  "claims": [
+    {
+      "id": "c1",
+      "speaker": "陈独秀",
+      "claim": "男女恋爱，应否作为人生第一大事，抑更有大于男女恋爱者，此不可不注意者二也",
+      "target": "男女恋爱",
+      "claim_type": "问题提出",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "男女恋爱，应否作为人生第一大事，抑更有大于男女恋爱者，此不可不注意者二也",
+      "confidence": 1.0
+    },
+    {
+      "id": "c2",
+      "speaker": "陈独秀",
+      "claim": "重社会则轻个人之发展，重个人则害社会之公益，此古今最不易解决之问题也",
+      "target": "个人与社会",
+      "claim_type": "问题提出",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "重社会则轻个人之发展，重个人则害社会之公益，此古今最不易解决之问题也",
+      "confidence": 1.0
+    },
+    {
+      "id": "c3",
+      "speaker": "陈独秀",
+      "claim": "世间本无离社会之个人，亦无离个人之社会",
+      "target": "个人与社会",
+      "claim_type": "本体论主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "世间本无离社会之个人，亦无离个人之社会",
+      "confidence": 1.0
+    },
+    {
+      "id": "c4",
+      "speaker": "陈独秀",
+      "claim": "个人社会云者，不过为学问研究之便利计，而乃设此对待名词耳",
+      "target": "个人与社会",
+      "claim_type": "定义性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "个人社会云者，不过为学问研究之便利计，而乃设此对待名词耳",
+      "confidence": 1.0
+    },
+    {
+      "id": "c5",
+      "speaker": "陈独秀",
+      "claim": "知识发展，应重个人；财产分配，应均诸社会",
+      "target": "个人与社会",
+      "claim_type": "社会理论主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "知识发展，应重个人；财产分配，应均诸社会",
+      "confidence": 1.0
+    },
+    {
+      "id": "c6",
+      "speaker": "陈独秀",
+      "claim": "我国向重平和，向爱大同，自无走入偏狭爱国主义之危险",
+      "target": "国家主义",
+      "claim_type": "历史解释",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "我国向重平和，向爱大同，自无走入偏狭爱国主义之危险",
+      "confidence": 1.0
+    },
+    {
+      "id": "c7",
+      "speaker": "陈独秀",
+      "claim": "文化转移之枢纽，不外乎人生观",
+      "target": "人生观",
+      "claim_type": "定义性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "而文化转移之枢纽，不外乎人生观",
+      "confidence": 1.0
+    },
+    {
+      "id": "c8",
+      "speaker": "陈独秀",
+      "claim": "西洋之有益者如何采之，有害者如何革除之；凡此取舍之间，皆决之于观点",
+      "target": "观点",
+      "claim_type": "方法论主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "西洋之有益者如何采之，有害者如何革除之；凡此取舍之间，皆决之于观点",
+      "confidence": 1.0
+    },
+    {
+      "id": "c9",
+      "speaker": "陈独秀",
+      "claim": "观点定，而后精神上之思潮、物质上之制度，乃可按图而索",
+      "target": "观点",
+      "claim_type": "方法论主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "观点定，而后精神上之思潮、物质上之制度，乃可按图而索",
+      "confidence": 1.0
+    },
+    {
+      "id": "c10",
+      "speaker": "陈独秀",
+      "claim": "此则人生观之关系于文化者所以若是其大也",
+      "target": "人生观",
+      "claim_type": "结论性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "此则人生观之关系于文化者所以若是其大也",
+      "confidence": 1.0
+    }
+  ],
+  "relations": [
+    {
+      "id": "r1",
+      "head": "孟子",
+      "head_type": "人物",
+      "relation": "引用",
+      "relation_subtype": "援引权威支持",
+      "tail": "男女与饮食并列",
+      "tail_type": "观点",
+      "polarity": "positive",
+      "evidence": "故孟子以男女与饮食并列，诚得其当也",
+      "confidence": 1.0
+    },
+    {
+      "id": "r2",
+      "head": "西洋文学",
+      "head_type": "概念",
+      "relation": "对比",
+      "relation_subtype": "不适用",
+      "tail": "我国戏剧",
+      "tail_type": "概念",
+      "polarity": "neutral",
+      "evidence": "而今之西洋文学，十书中无一书能出男女恋爱之外者，与我国戏剧中，十有七八不以男女恋爱为内容者，正相反对者也",
+      "confidence": 1.0
+    },
+    {
+      "id": "r3",
+      "head": "个人",
+      "head_type": "概念",
+      "relation": "区分",
+      "relation_subtype": "概念澄清",
+      "tail": "社会",
+      "tail_type": "概念",
+      "polarity": "neutral",
+      "evidence": "个人社会云者，不过为学问研究之便利计，而乃设此对待名词耳",
+      "confidence": 1.0
+    },
+    {
+      "id": "r4",
+      "head": "知识发展",
+      "head_type": "概念",
+      "relation": "主张",
+      "relation_subtype": "不适用",
+      "tail": "应重个人",
+      "tail_type": "观点",
+      "polarity": "positive",
+      "evidence": "知识发展，应重个人",
+      "confidence": 1.0
+    },
+    {
+      "id": "r5",
+      "head": "财产分配",
+      "head_type": "概念",
+      "relation": "主张",
+      "relation_subtype": "不适用",
+      "tail": "应均诸社会",
+      "tail_type": "观点",
+      "polarity": "positive",
+      "evidence": "财产分配，应均诸社会",
+      "confidence": 1.0
+    },
+    {
+      "id": "r6",
+      "head": "人生观",
+      "head_type": "概念",
+      "relation": "导致",
+      "relation_subtype": "不适用",
+      "tail": "文化转移",
+      "tail_type": "概念",
+      "polarity": "positive",
+      "evidence": "而文化转移之枢纽，不外乎人生观",
+      "confidence": 1.0
+    },
+    {
+      "id": "r7",
+      "head": "观点",
+      "head_type": "概念",
+      "relation": "导致",
+      "relation_subtype": "不适用",
+      "tail": "精神上之思潮、物质上之制度",
+      "tail_type": "概念",
+      "polarity": "positive",
+      "evidence": "观点定，而后精神上之思潮、物质上之制度，乃可按图而索",
+      "confidence": 1.0
+    }
+  ],
+  "definitions": [
+    {
+      "id": "def1",
+      "term": "个人与社会",
+      "definition": "个人与社会是学问研究便利而设的对待名词，世间本无离社会之个人，亦无离个人之社会",
+      "evidence": "世间本无离社会之个人，亦无离个人之社会。故个人社会云者，不过为学问研究之便利计，而乃设此对待名词耳",
+      "confidence": 1.0
+    },
+    {
+      "id": "def2",
+      "term": "人生观",
+      "definition": "文化转移的枢纽，决定对西洋文化取舍的观点",
+      "evidence": "而文化转移之枢纽，不外乎人生观。西洋之有益者如何采之，有害者如何革除之；凡此取舍之间，皆决之于观点",
+      "confidence": 0.9
+    }
+  ],
+  "citations": [
+    {
+      "id": "cit1",
+      "citer": "陈独秀",
+      "quoted_author": "孟子",
+      "quoted_work": "",
+      "quoted_claim": "男女与饮食并列",
+      "function": "援引权威支持",
+      "evidence": "故孟子以男女与饮食并列，诚得其当也",
+      "confidence": 1.0
+    }
+  ],
+  "rhetorical_devices": [],
+  "uncertainties": [
+    {
+      "item": "section_author 字段内容与 section_title 重复，且包含不完整句子，无法确定其确切含义",
+      "reason": "元数据中 section_author 字段内容与 section_title 字段内容相同，且句子不完整，可能为数据错误"
+    }
+  ]
+}

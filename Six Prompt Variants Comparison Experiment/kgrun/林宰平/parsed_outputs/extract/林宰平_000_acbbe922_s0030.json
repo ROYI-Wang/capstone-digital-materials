@@ -1,0 +1,390 @@
+{
+  "metadata": {
+    "schema_version": "lite_v2.0",
+    "article_id": "林宰平_000_acbbe922",
+    "article_title": "读丁在君先生的《玄学与科学》",
+    "source_author": "林宰平",
+    "section_title": "",
+    "section_author": "",
+    "segment_id": "林宰平_000_acbbe922_s0030",
+    "segment_index": 30,
+    "source_file": "E:\\1研究生\\岭南大学\\论文毕业\\capstone\\资料\\新的内容开始了\\local_upload\\input_w0\\林宰平.txt"
+  },
+  "entities": [
+    {
+      "id": "e1",
+      "name": "在君先生",
+      "canonical_name": "丁文江",
+      "type": "人物",
+      "evidence": "我对于在君先生这些话，也觉得这还从何说起。以在君先生平日之讲究做人，他的本意，我知道必不是这样。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e2",
+      "name": "适之先生",
+      "canonical_name": "胡适",
+      "type": "人物",
+      "evidence": "适之先生从前主张无后主义，他现在很喜欢他的儿子；",
+      "confidence": 1.0
+    },
+    {
+      "id": "e3",
+      "name": "君勋先生",
+      "canonical_name": "张君劢",
+      "type": "人物",
+      "evidence": "君勋先生反对科学，他却要邀集知好研究安士坦相对论；",
+      "confidence": 1.0
+    },
+    {
+      "id": "e4",
+      "name": "柏格森",
+      "canonical_name": "柏格森",
+      "type": "人物",
+      "evidence": "又像那些挖苦柏格森的话，也大可不必。柏格森主张无论是否真理，而他在今代哲学上地位，谁也不能把他一笔勾销。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e5",
+      "name": "罗素",
+      "canonical_name": "罗素",
+      "type": "人物",
+      "evidence": "何必引到罗素所说“柏格森盛名是骗巴黎的时髦妇人得来的”那几句开顽笑的话来刻薄人家。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e6",
+      "name": "科学",
+      "canonical_name": "科学",
+      "type": "概念",
+      "evidence": "科学的本身，他原没有甚么好坏的问题。利用他来求知识，乃至应用其方法于任何方面，科学自己也并没居功。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e7",
+      "name": "良心",
+      "canonical_name": "良心",
+      "type": "概念",
+      "evidence": "在君先生反对良心，恐怕也是这种矛盾性在那里作祟。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e8",
+      "name": "科学方法万能",
+      "canonical_name": "科学方法万能",
+      "type": "主义/学说/理论",
+      "evidence": "安知非由一二主张科学方法万能者之不宽厚的态度所招惹出来的反动呢?",
+      "confidence": 1.0
+    },
+    {
+      "id": "e9",
+      "name": "无后主义",
+      "canonical_name": "无后主义",
+      "type": "主义/学说/理论",
+      "evidence": "适之先生从前主张无后主义，他现在很喜欢他的儿子；",
+      "confidence": 1.0
+    },
+    {
+      "id": "e10",
+      "name": "安士坦相对论",
+      "canonical_name": "爱因斯坦相对论",
+      "type": "概念",
+      "evidence": "君勋先生反对科学，他却要邀集知好研究安士坦相对论；",
+      "confidence": 1.0
+    },
+    {
+      "id": "e11",
+      "name": "世界的大战",
+      "canonical_name": "第一次世界大战",
+      "type": "历史事件",
+      "evidence": "科学文明的结果，就是这回世界的大战，及现在欧洲财政破产的情形。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e12",
+      "name": "欧洲财政破产",
+      "canonical_name": "欧洲财政破产",
+      "type": "历史事件",
+      "evidence": "科学文明的结果，就是这回世界的大战，及现在欧洲财政破产的情形。",
+      "confidence": 1.0
+    }
+  ],
+  "claims": [
+    {
+      "id": "c1",
+      "speaker": "林宰平",
+      "claim": "在君先生反对良心，恐怕也是这种矛盾性在那里作祟。",
+      "target": "在君先生",
+      "claim_type": "价值评价",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "在君先生反对良心，恐怕也是这种矛盾性在那里作祟。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c2",
+      "speaker": "林宰平",
+      "claim": "一般青年看了，或以为科学与良心真是不两立，这种影响可就不小。",
+      "target": "在君先生",
+      "claim_type": "社会理论主张",
+      "claim_status": "作者推论",
+      "polarity": "negative",
+      "evidence": "但是一般青年看了，或以为科学与良心真是不两立，这种影响可就不小，我希望在君先生以后还是少发这种的议论。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c3",
+      "speaker": "林宰平",
+      "claim": "柏格森主张无论是否真理，而他在今代哲学上地位，谁也不能把他一笔勾销。",
+      "target": "柏格森",
+      "claim_type": "价值评价",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "柏格森主张无论是否真理，而他在今代哲学上地位，谁也不能把他一笔勾销。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c4",
+      "speaker": "林宰平",
+      "claim": "即使要非难他，也尽有从学理上攻击他的许多主张可以征引，何必引到罗素所说“柏格森盛名是骗巴黎的时髦妇人得来的”那几句开顽笑的话来刻薄人家。",
+      "target": "在君先生",
+      "claim_type": "论战策略批评",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "即使要非难他，也尽有从学理上攻击他的许多主张可以征引，何必引到罗素所说“柏格森盛名是骗巴黎的时髦妇人得来的”那几句开顽笑的话来刻薄人家。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c5",
+      "speaker": "林宰平",
+      "claim": "这种话对于女人的人格，未免太看不起了，他们果真甘心受了欺骗么?",
+      "target": "罗素",
+      "claim_type": "价值评价",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "并且这种话对于女人的人格，未免太看不起了，他们果真甘心受了欺骗么?",
+      "confidence": 0.9
+    },
+    {
+      "id": "c6",
+      "speaker": "林宰平",
+      "claim": "我们不赞成在君先生替科学吹得太过火。",
+      "target": "在君先生",
+      "claim_type": "论战策略批评",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "以上我们不赞成在君先生替科学吹得太过火。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c7",
+      "speaker": "林宰平",
+      "claim": "有许多人说：科学是完全物质的，机械的，冷酷残忍的；科学文明的结果，就是这回世界的大战，及现在欧洲财政破产的情形。这种主张，我们也不敢赞成。",
+      "target": "科学",
+      "claim_type": "价值评价",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "然一面有许多人说：科学是完全物质的，机械的，冷酷残忍的；科学文明的结果，就是这回世界的大战，及现在欧洲财政破产的情形。这种主张，我们也不敢赞成。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c8",
+      "speaker": "林宰平",
+      "claim": "此对于科学深文周内的苛论，恰恰和在君先生作践精神文明的态度是一对。",
+      "target": "科学",
+      "claim_type": "价值评价",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "然此对于科学深文周内的苛论，恰恰和在君先生作践精神文明的态度是一对。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c9",
+      "speaker": "林宰平",
+      "claim": "安知非由一二主张科学方法万能者之不宽厚的态度所招惹出来的反动呢?",
+      "target": "科学方法万能",
+      "claim_type": "社会理论主张",
+      "claim_status": "作者推论",
+      "polarity": "negative",
+      "evidence": "安知非由一二主张科学方法万能者之不宽厚的态度所招惹出来的反动呢?",
+      "confidence": 0.9
+    },
+    {
+      "id": "c10",
+      "speaker": "林宰平",
+      "claim": "科学的本身，他原没有甚么好坏的问题。",
+      "target": "科学",
+      "claim_type": "定义性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "科学的本身，他原没有甚么好坏的问题。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c11",
+      "speaker": "林宰平",
+      "claim": "利用他来求知识，乃至应用其方法于任何方面，科学自己也并没居功。",
+      "target": "科学",
+      "claim_type": "定义性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "利用他来求知识，乃至应用其方法于任何方面，科学自己也并没居功。",
+      "confidence": 0.9
+    }
+  ],
+  "relations": [
+    {
+      "id": "r1",
+      "head": "林宰平",
+      "head_type": "人物",
+      "relation": "批评",
+      "tail": "在君先生",
+      "tail_type": "人物",
+      "polarity": "negative",
+      "evidence": "在君先生反对良心，恐怕也是这种矛盾性在那里作祟。",
+      "confidence": 0.9
+    },
+    {
+      "id": "r2",
+      "head": "林宰平",
+      "head_type": "人物",
+      "relation": "批评",
+      "tail": "在君先生",
+      "tail_type": "人物",
+      "polarity": "negative",
+      "evidence": "但是一般青年看了，或以为科学与良心真是不两立，这种影响可就不小，我希望在君先生以后还是少发这种的议论。",
+      "confidence": 0.9
+    },
+    {
+      "id": "r3",
+      "head": "林宰平",
+      "head_type": "人物",
+      "relation": "批评",
+      "tail": "在君先生",
+      "tail_type": "人物",
+      "polarity": "negative",
+      "evidence": "以上我们不赞成在君先生替科学吹得太过火。",
+      "confidence": 0.9
+    },
+    {
+      "id": "r4",
+      "head": "林宰平",
+      "head_type": "人物",
+      "relation": "批评",
+      "tail": "科学",
+      "tail_type": "概念",
+      "polarity": "negative",
+      "evidence": "然一面有许多人说：科学是完全物质的，机械的，冷酷残忍的；科学文明的结果，就是这回世界的大战，及现在欧洲财政破产的情形。这种主张，我们也不敢赞成。",
+      "confidence": 0.9
+    },
+    {
+      "id": "r5",
+      "head": "林宰平",
+      "head_type": "人物",
+      "relation": "批评",
+      "tail": "科学方法万能",
+      "tail_type": "主义/学说/理论",
+      "polarity": "negative",
+      "evidence": "安知非由一二主张科学方法万能者之不宽厚的态度所招惹出来的反动呢?",
+      "confidence": 0.9
+    },
+    {
+      "id": "r6",
+      "head": "林宰平",
+      "head_type": "人物",
+      "relation": "定义",
+      "tail": "科学",
+      "tail_type": "概念",
+      "polarity": "neutral",
+      "evidence": "科学的本身，他原没有甚么好坏的问题。利用他来求知识，乃至应用其方法于任何方面，科学自己也并没居功。",
+      "confidence": 0.9
+    }
+  ],
+  "definitions": [
+    {
+      "id": "def1",
+      "term": "科学",
+      "definition": "科学本身没有好坏问题，是用来求知识、应用方法于任何方面的工具，科学自己不居功。",
+      "evidence": "科学的本身，他原没有甚么好坏的问题。利用他来求知识，乃至应用其方法于任何方面，科学自己也并没居功。",
+      "confidence": 0.9
+    }
+  ],
+  "citations": [
+    {
+      "id": "cit1",
+      "citer": "在君先生",
+      "quoted_author": "罗素",
+      "quoted_work": "",
+      "quoted_claim": "柏格森盛名是骗巴黎的时髦妇人得来的",
+      "function": "作为批评对象",
+      "evidence": "何必引到罗素所说“柏格森盛名是骗巴黎的时髦妇人得来的”那几句开顽笑的话来刻薄人家。",
+      "confidence": 0.9
+    }
+  ],
+  "rhetorical_devices": [
+    {
+      "id": "rh1",
+      "expression": "一部长夜漫漫历史中秉烛以导吾人之先路者",
+      "device_type": "比喻",
+      "literal_target": "科学或某种引导力量",
+      "function": "引用并质疑对方比喻的合理性",
+      "evidence": "‘一部长夜漫漫历史中秉烛以导吾人之先路者’，这还从何说起？”",
+      "confidence": 0.9
+    },
+    {
+      "id": "rh2",
+      "expression": "矛盾性在那里作祟",
+      "device_type": "比喻",
+      "literal_target": "在君先生言行不一致的心理原因",
+      "function": "讽刺对方自相矛盾",
+      "evidence": "在君先生反对良心，恐怕也是这种矛盾性在那里作祟。",
+      "confidence": 0.9
+    },
+    {
+      "id": "rh3",
+      "expression": "开顽笑的话",
+      "device_type": "讽刺",
+      "literal_target": "罗素对柏格森的贬低言论",
+      "function": "批评对方引用不当言论",
+      "evidence": "何必引到罗素所说“柏格森盛名是骗巴黎的时髦妇人得来的”那几句开顽笑的话来刻薄人家。",
+      "confidence": 0.9
+    },
+    {
+      "id": "rh4",
+      "expression": "作践精神文明",
+      "device_type": "比喻",
+      "literal_target": "在君先生对精神文明的贬低态度",
+      "function": "批评对方态度",
+      "evidence": "恰恰和在君先生作践精神文明的态度是一对。",
+      "confidence": 0.9
+    }
+  ],
+  "uncertainties": [
+    {
+      "item": "适之先生从前主张无后主义，他现在很喜欢他的儿子；君勋先生反对科学，他却要邀集知好研究安士坦相对论；在君先生反对良心，恐怕也是这种矛盾性在那里作祟。",
+      "reason": "此处列举三人言行矛盾，但未明确说明这些矛盾是否直接与论战主题相关，且“矛盾性”的具体含义需结合上下文理解。"
+    },
+    {
+      "item": "安知非由一二主张科学方法万能者之不宽厚的态度所招惹出来的反动呢?",
+      "reason": "此句为反问，暗示因果关系，但未明确指明“科学方法万能者”具体指谁，以及“反动”的具体所指。"
+    }
+  ],
+  "_meta": {
+    "status": "success",
+    "stage": "extract",
+    "model": "deepseek-ai/DeepSeek-V4-Flash",
+    "base_url": "https://api.siliconflow.cn/v1",
+    "prompt_version": "extract_prompt_v2.0",
+    "schema_version": "lite_v2.0",
+    "segment_id": "林宰平_000_acbbe922_s0030",
+    "article_id": "林宰平_000_acbbe922",
+    "char_start": 14773,
+    "char_end": 15355,
+    "raw_path": "E:\\1研究生\\岭南大学\\论文毕业\\capstone\\资料\\新的内容开始了\\local_upload\\kg_runs\\林宰平\\raw_outputs\\extract\\林宰平_000_acbbe922_s0030.txt",
+    "parsed_at": "2026-05-20T02:24:47",
+    "started_at": "2026-05-20T02:23:00",
+    "elapsed_seconds": 106.802,
+    "strict_evidence_check": true,
+    "drop_unsupported_evidence": true,
+    "request_timeout_seconds": 180
+  }
+}

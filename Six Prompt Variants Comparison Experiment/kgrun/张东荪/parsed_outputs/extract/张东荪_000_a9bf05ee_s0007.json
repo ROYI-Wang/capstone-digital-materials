@@ -1,0 +1,336 @@
+{
+  "metadata": {
+    "schema_version": "lite_v2.0",
+    "article_id": "张东荪_000_a9bf05ee",
+    "article_title": "劳而无功 —— 评丁在君先生口中的科学",
+    "source_author": "张东荪",
+    "section_title": "更举一个好例，这个例就是丁先生的话。丁先生说柏格森说心的绵延如雪的堆积完全是比喻，不能算数。诚然，但请问丁先生为何对于马赫所说思想和天响雷一样（按",
+    "section_author": "更举一个好例，这个例就是丁先生的话。丁先生说柏格森说心的绵延如雪的堆积完全是比喻，不能算数。诚然，但请问丁先生为何对于马赫所说思想和天响雷一样（",
+    "segment_id": "张东荪_000_a9bf05ee_s0007",
+    "segment_index": 7,
+    "source_file": "E:\\1研究生\\岭南大学\\论文毕业\\capstone\\资料\\新的内容开始了\\local_upload\\input_w0\\张东荪.txt"
+  },
+  "entities": [
+    {
+      "id": "e1",
+      "name": "丁先生",
+      "canonical_name": "丁文江",
+      "type": "人物",
+      "evidence": "丁先生这种论调，我知道是本于皮尔逊",
+      "confidence": 0.8
+    },
+    {
+      "id": "e2",
+      "name": "皮尔逊",
+      "canonical_name": "皮尔逊",
+      "type": "人物",
+      "evidence": "丁先生这种论调，我知道是本于皮尔逊",
+      "confidence": 0.9
+    },
+    {
+      "id": "e3",
+      "name": "梁任公",
+      "canonical_name": "梁启超",
+      "type": "人物",
+      "evidence": "我的话曾附载于梁任公先生文章的骥尾",
+      "confidence": 0.9
+    },
+    {
+      "id": "e4",
+      "name": "林先生",
+      "canonical_name": "林先生",
+      "type": "人物",
+      "evidence": "林先生说丁先生的论理思想太旧了",
+      "confidence": 0.8
+    },
+    {
+      "id": "e5",
+      "name": "科学",
+      "canonical_name": "科学",
+      "type": "概念",
+      "evidence": "科学乃是对于杂乱无章的经验以求其中的‘比较不变的关系’",
+      "confidence": 0.95
+    },
+    {
+      "id": "e6",
+      "name": "比较不变的关系",
+      "canonical_name": "比较不变的关系",
+      "type": "概念",
+      "evidence": "科学乃是对于杂乱无章的经验以求其中的‘比较不变的关系’",
+      "confidence": 0.9
+    },
+    {
+      "id": "e7",
+      "name": "法式",
+      "canonical_name": "法式",
+      "type": "概念",
+      "evidence": "这个即名为法式或法则（也许是暂定的）",
+      "confidence": 0.9
+    },
+    {
+      "id": "e8",
+      "name": "法则",
+      "canonical_name": "法则",
+      "type": "概念",
+      "evidence": "这个即名为法式或法则（也许是暂定的）",
+      "confidence": 0.9
+    },
+    {
+      "id": "e9",
+      "name": "关系",
+      "canonical_name": "关系",
+      "type": "概念",
+      "evidence": "科学并不十分注重于内容，而注重于方式，即是关系",
+      "confidence": 0.9
+    },
+    {
+      "id": "e10",
+      "name": "内容",
+      "canonical_name": "内容",
+      "type": "概念",
+      "evidence": "科学并不十分注重于内容，而注重于方式，即是关系",
+      "confidence": 0.9
+    },
+    {
+      "id": "e11",
+      "name": "方式",
+      "canonical_name": "方式",
+      "type": "概念",
+      "evidence": "科学并不十分注重于内容，而注重于方式，即是关系",
+      "confidence": 0.9
+    },
+    {
+      "id": "e12",
+      "name": "分类",
+      "canonical_name": "分类",
+      "type": "概念",
+      "evidence": "所以分类乃仍是初步，而不是最后的",
+      "confidence": 0.9
+    },
+    {
+      "id": "e13",
+      "name": "科学的公例",
+      "canonical_name": "科学的公例",
+      "type": "概念",
+      "evidence": "科学的公例不是概括许多事实的一个简明话",
+      "confidence": 0.9
+    },
+    {
+      "id": "e14",
+      "name": "关系者",
+      "canonical_name": "关系者",
+      "type": "概念",
+      "evidence": "上文所述的猫狗等都是关系者，都是内容",
+      "confidence": 0.9
+    },
+    {
+      "id": "e15",
+      "name": "相对论",
+      "canonical_name": "相对论",
+      "type": "概念",
+      "evidence": "相对论便是顺着这个趋向而得成功的",
+      "confidence": 0.9
+    },
+    {
+      "id": "e16",
+      "name": "形式论理",
+      "canonical_name": "形式逻辑",
+      "type": "概念",
+      "evidence": "科学不必另外求助于形式论理",
+      "confidence": 0.9
+    }
+  ],
+  "claims": [
+    {
+      "id": "c1",
+      "speaker": "张东荪",
+      "claim": "丁先生这种论调，我知道是本于皮尔逊，不过丁先生也太无抉择了罢",
+      "target": "丁先生",
+      "claim_type": "论战策略批评",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "丁先生这种论调，我知道是本于皮尔逊，不过丁先生也太无抉择了罢",
+      "confidence": 0.9
+    },
+    {
+      "id": "c2",
+      "speaker": "张东荪",
+      "claim": "科学乃是对于杂乱无章的经验以求其中的‘比较不变的关系’",
+      "target": "科学",
+      "claim_type": "定义性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "科学乃是对于杂乱无章的经验以求其中的‘比较不变的关系’",
+      "confidence": 0.95
+    },
+    {
+      "id": "c3",
+      "speaker": "张东荪",
+      "claim": "科学并不十分注重于内容，而注重于方式，即是关系，即是关系的定式",
+      "target": "科学",
+      "claim_type": "方法论主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "科学并不十分注重于内容，而注重于方式，即是关系，即是关系的定式",
+      "confidence": 0.9
+    },
+    {
+      "id": "c4",
+      "speaker": "张东荪",
+      "claim": "分类乃仍是初步，而不是最后的",
+      "target": "分类",
+      "claim_type": "方法论主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "所以分类乃仍是初步，而不是最后的",
+      "confidence": 0.9
+    },
+    {
+      "id": "c5",
+      "speaker": "张东荪",
+      "claim": "科学的公例不是概括许多事实的一个简明话，乃是表示与内容无甚关系的方式",
+      "target": "科学的公例",
+      "claim_type": "定义性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "科学的公例不是概括许多事实的一个简明话，乃是表示与内容无甚关系的方式",
+      "confidence": 0.9
+    },
+    {
+      "id": "c6",
+      "speaker": "张东荪",
+      "claim": "科学并非对于内容诿为不知，却以为一切内容都是关系所造",
+      "target": "科学",
+      "claim_type": "知识论主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "科学并非对于内容诿为不知，却以为一切内容都是关系所造",
+      "confidence": 0.9
+    },
+    {
+      "id": "c7",
+      "speaker": "张东荪",
+      "claim": "科学自身便有论理，科学不必另外求助于形式论理",
+      "target": "科学",
+      "claim_type": "方法论主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "科学自身便有论理，科学不必另外求助于形式论理",
+      "confidence": 0.9
+    },
+    {
+      "id": "c8",
+      "speaker": "张东荪",
+      "claim": "自命担负宣传科学的大责任的丁先生却没有看清楚",
+      "target": "丁先生",
+      "claim_type": "论战策略批评",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "这一点我觉得自命担负宣传科学的大责任的丁先生却没有看清楚",
+      "confidence": 0.9
+    },
+    {
+      "id": "c9",
+      "speaker": "林先生",
+      "claim": "丁先生的论理思想太旧了",
+      "target": "丁先生",
+      "claim_type": "论战策略批评",
+      "claim_status": "间接转述",
+      "polarity": "negative",
+      "evidence": "林先生说丁先生的论理思想太旧了",
+      "confidence": 0.9
+    },
+    {
+      "id": "c10",
+      "speaker": "张东荪",
+      "claim": "林先生说丁先生的论理思想太旧了，真是实获我心的话",
+      "target": "林先生",
+      "claim_type": "价值评价",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "林先生说丁先生的论理思想太旧了，真是实获我心的话",
+      "confidence": 0.9
+    }
+  ],
+  "relations": [
+    {
+      "id": "r1",
+      "head": "丁先生",
+      "head_type": "人物",
+      "relation": "批评",
+      "tail": "皮尔逊",
+      "tail_type": "人物",
+      "polarity": "negative",
+      "evidence": "丁先生这种论调，我知道是本于皮尔逊，不过丁先生也太无抉择了罢",
+      "confidence": 0.9
+    }
+  ],
+  "definitions": [
+    {
+      "id": "def1",
+      "term": "科学",
+      "definition": "科学乃是对于杂乱无章的经验以求其中的‘比较不变的关系’",
+      "evidence": "科学乃是对于杂乱无章的经验以求其中的‘比较不变的关系’",
+      "confidence": 0.95
+    },
+    {
+      "id": "def2",
+      "term": "科学的公例",
+      "definition": "科学的公例不是概括许多事实的一个简明话，乃是表示与内容无甚关系的方式",
+      "evidence": "科学的公例不是概括许多事实的一个简明话，乃是表示与内容无甚关系的方式",
+      "confidence": 0.9
+    }
+  ],
+  "citations": [
+    {
+      "id": "cit1",
+      "citer": "张东荪",
+      "quoted_author": "皮尔逊",
+      "quoted_work": "",
+      "quoted_claim": "丁先生这种论调，我知道是本于皮尔逊",
+      "function": "作为批评对象",
+      "evidence": "丁先生这种论调，我知道是本于皮尔逊",
+      "confidence": 0.8
+    },
+    {
+      "id": "cit2",
+      "citer": "张东荪",
+      "quoted_author": "林先生",
+      "quoted_work": "",
+      "quoted_claim": "丁先生的论理思想太旧了",
+      "function": "援引权威支持",
+      "evidence": "林先生说丁先生的论理思想太旧了，真是实获我心的话",
+      "confidence": 0.9
+    }
+  ],
+  "rhetorical_devices": [],
+  "uncertainties": [
+    {
+      "item": "林先生的具体身份",
+      "reason": "文本中仅出现'林先生'，未提供全名或更多背景信息"
+    },
+    {
+      "item": "梁任公先生文章的具体名称",
+      "reason": "文本仅提及'梁任公先生文章的骥尾'，未给出文章标题"
+    }
+  ],
+  "_meta": {
+    "status": "success",
+    "stage": "extract",
+    "model": "deepseek-ai/DeepSeek-V4-Flash",
+    "base_url": "https://api.siliconflow.cn/v1",
+    "prompt_version": "extract_prompt_v2.0",
+    "schema_version": "lite_v2.0",
+    "segment_id": "张东荪_000_a9bf05ee_s0007",
+    "article_id": "张东荪_000_a9bf05ee",
+    "char_start": 3340,
+    "char_end": 3910,
+    "raw_path": "E:\\1研究生\\岭南大学\\论文毕业\\capstone\\资料\\新的内容开始了\\local_upload\\kg_runs\\张东荪\\raw_outputs\\extract\\张东荪_000_a9bf05ee_s0007.txt",
+    "parsed_at": "2026-05-19T23:50:12",
+    "started_at": "2026-05-19T23:49:39",
+    "elapsed_seconds": 33.144,
+    "strict_evidence_check": true,
+    "drop_unsupported_evidence": true,
+    "request_timeout_seconds": 180
+  }
+}

@@ -1,0 +1,528 @@
+{
+  "metadata": {
+    "schema_version": "lite_v2.0",
+    "article_id": "瞿秋白_000_a4753ce4",
+    "article_title": "《自由世界与必然世界》",
+    "source_author": "瞿秋白",
+    "section_title": "资本主义时代的强有力的生产工具若能变成公共的财产，生产制度若得按",
+    "section_author": "资本主义时代的强有力的生产工具若能变成公共的财产，生产制度若得",
+    "segment_id": "瞿秋白_000_a4753ce4_s0006",
+    "segment_index": 6,
+    "source_file": "E:\\1研究生\\岭南大学\\论文毕业\\capstone\\资料\\新的内容开始了\\local_upload\\input_w2\\瞿秋白.txt"
+  },
+  "entities": [
+    {
+      "id": "e1",
+      "name": "服从自然",
+      "canonical_name": "服从自然",
+      "type": "概念",
+      "evidence": "人若服从自然则对于自然的威权反而增长",
+      "confidence": 0.9
+    },
+    {
+      "id": "e2",
+      "name": "必然",
+      "canonical_name": "必然",
+      "type": "概念",
+      "evidence": "所谓服从自然（必然）",
+      "confidence": 0.9
+    },
+    {
+      "id": "e3",
+      "name": "自然律",
+      "canonical_name": "自然律",
+      "type": "概念",
+      "evidence": "是说服从自然律",
+      "confidence": 0.9
+    },
+    {
+      "id": "e4",
+      "name": "征服自然",
+      "canonical_name": "征服自然",
+      "type": "概念",
+      "evidence": "所谓征服自然，是说征服自然本身",
+      "confidence": 0.9
+    },
+    {
+      "id": "e5",
+      "name": "自由",
+      "canonical_name": "自由",
+      "type": "概念",
+      "evidence": "人的自由亦就增长",
+      "confidence": 0.9
+    },
+    {
+      "id": "e6",
+      "name": "服从",
+      "canonical_name": "服从",
+      "type": "概念",
+      "evidence": "他的“服从”正是他的“解放”之源泉",
+      "confidence": 0.9
+    },
+    {
+      "id": "e7",
+      "name": "解放",
+      "canonical_name": "解放",
+      "type": "概念",
+      "evidence": "他的“服从”正是他的“解放”之源泉",
+      "confidence": 0.9
+    },
+    {
+      "id": "e8",
+      "name": "障碍力",
+      "canonical_name": "障碍力",
+      "type": "概念",
+      "evidence": "所谓“必然”还有“障碍力”的意思",
+      "confidence": 0.9
+    },
+    {
+      "id": "e9",
+      "name": "自由的对敌",
+      "canonical_name": "自由的对敌",
+      "type": "概念",
+      "evidence": "这种“必然”的确是人的“自由的对敌”",
+      "confidence": 0.9
+    },
+    {
+      "id": "e10",
+      "name": "外力",
+      "canonical_name": "外力",
+      "type": "概念",
+      "evidence": "外力固然足以使事实与我们的心愿相违异",
+      "confidence": 0.9
+    },
+    {
+      "id": "e11",
+      "name": "心愿",
+      "canonical_name": "心愿",
+      "type": "概念",
+      "evidence": "我们的心愿，自己能成为一种外力",
+      "confidence": 0.9
+    },
+    {
+      "id": "e12",
+      "name": "自由意志",
+      "canonical_name": "自由意志",
+      "type": "概念",
+      "evidence": "对于贫农，却是他的自由意志之表现",
+      "confidence": 0.9
+    },
+    {
+      "id": "e13",
+      "name": "历史的必然",
+      "canonical_name": "历史的必然",
+      "type": "概念",
+      "evidence": "确是很可恨的一种历史的必然",
+      "confidence": 0.9
+    },
+    {
+      "id": "e14",
+      "name": "附条件的必然",
+      "canonical_name": "附条件的必然",
+      "type": "概念",
+      "evidence": "可见“附条件的必然”和“障碍力的必然”都不是绝对与自由意志不能并立的",
+      "confidence": 0.9
+    },
+    {
+      "id": "e15",
+      "name": "障碍力的必然",
+      "canonical_name": "障碍力的必然",
+      "type": "概念",
+      "evidence": "可见“附条件的必然”和“障碍力的必然”都不是绝对与自由意志不能并立的",
+      "confidence": 0.9
+    },
+    {
+      "id": "e16",
+      "name": "因果的必然",
+      "canonical_name": "因果的必然",
+      "type": "概念",
+      "evidence": "最重要最根底的问题，便是“因果的必然”",
+      "confidence": 0.9
+    },
+    {
+      "id": "e17",
+      "name": "主观的行动",
+      "canonical_name": "主观的行动",
+      "type": "概念",
+      "evidence": "那“附条件的必然”是主观的行动",
+      "confidence": 0.9
+    },
+    {
+      "id": "e18",
+      "name": "主观的受动",
+      "canonical_name": "主观的受动",
+      "type": "概念",
+      "evidence": "“障碍力的必然”是主观的受动",
+      "confidence": 0.9
+    },
+    {
+      "id": "e19",
+      "name": "客观的解释",
+      "canonical_name": "客观的解释",
+      "type": "概念",
+      "evidence": "至于“因果的必然”才是客观的解释",
+      "confidence": 0.9
+    },
+    {
+      "id": "e20",
+      "name": "社会发展",
+      "canonical_name": "社会发展",
+      "type": "概念",
+      "evidence": "或者以为社会发展既有因果的必然",
+      "confidence": 0.9
+    }
+  ],
+  "claims": [
+    {
+      "id": "c1",
+      "speaker": "资本主义时代的强有力的生产工具若能变成公共的财产，生产制度若得",
+      "claim": "人若服从自然则对于自然的威权反而增长，人的自由亦就增长。",
+      "target": "服从自然",
+      "claim_type": "知识论主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "人若服从自然则对于自然的威权反而增长，人的自由亦就增长。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c2",
+      "speaker": "资本主义时代的强有力的生产工具若能变成公共的财产，生产制度若得",
+      "claim": "所谓服从自然（必然），是说服从自然律；所谓征服自然，是说征服自然本身。",
+      "target": "服从自然",
+      "claim_type": "定义性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "所谓服从自然（必然），是说服从自然律；所谓征服自然，是说征服自然本身。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c3",
+      "speaker": "资本主义时代的强有力的生产工具若能变成公共的财产，生产制度若得",
+      "claim": "服从技术上及经济上的某几种“必然”，人便能破毁那受自己生产品所支配的“作茧自缚”的怪现象，人便能得多量的真正自由。",
+      "target": "服从",
+      "claim_type": "知识论主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "服从技术上及经济上的某几种“必然”，人便能破毁那受自己生产品所支配的“作茧自缚”的怪现象，人便能得多量的真正自由。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c4",
+      "speaker": "资本主义时代的强有力的生产工具若能变成公共的财产，生产制度若得",
+      "claim": "他的“服从”正是他的“解放”之源泉。",
+      "target": "服从",
+      "claim_type": "知识论主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "他的“服从”正是他的“解放”之源泉。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c5",
+      "speaker": "资本主义时代的强有力的生产工具若能变成公共的财产，生产制度若得",
+      "claim": "所谓“必然”还有“障碍力”的意思：就是特别的一种力量，强迫我们不能照着自己的心愿去做，而只能做违心之举。",
+      "target": "必然",
+      "claim_type": "定义性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "所谓“必然”还有“障碍力”的意思：就是特别的一种力量，强迫我们不能照着自己的心愿去做，而只能做违心之举。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c6",
+      "speaker": "资本主义时代的强有力的生产工具若能变成公共的财产，生产制度若得",
+      "claim": "这种“必然”的确是人的“自由的对敌”。",
+      "target": "必然",
+      "claim_type": "价值评价",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "这种“必然”的确是人的“自由的对敌”。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c7",
+      "speaker": "资本主义时代的强有力的生产工具若能变成公共的财产，生产制度若得",
+      "claim": "外力固然足以使事实与我们的心愿相违异，可是他亦能使事实与我们的心愿相适合。",
+      "target": "外力",
+      "claim_type": "知识论主张",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "外力固然足以使事实与我们的心愿相违异，可是他亦能使事实与我们的心愿相适合。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c8",
+      "speaker": "资本主义时代的强有力的生产工具若能变成公共的财产，生产制度若得",
+      "claim": "我们的心愿，自己能成为一种外力。——只看我们的观点如何。",
+      "target": "心愿",
+      "claim_type": "知识论主张",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "我们的心愿，自己能成为一种外力。——只看我们的观点如何。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c9",
+      "speaker": "资本主义时代的强有力的生产工具若能变成公共的财产，生产制度若得",
+      "claim": "“强迫地主无代价移让土地权于贫农”——这是一件事实，他对于地主，确是很可恨的一种历史的必然；然而对于贫农，却是他的自由意志之表现。",
+      "target": "历史的必然",
+      "claim_type": "知识论主张",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "“强迫地主无代价移让土地权于贫农”——这是一件事实，他对于地主，确是很可恨的一种历史的必然；然而对于贫农，却是他的自由意志之表现。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c10",
+      "speaker": "资本主义时代的强有力的生产工具若能变成公共的财产，生产制度若得",
+      "claim": "“以相当报酬赎取土地于地主”，——对于地主是自由意志之表现，对于贫农便是可恨的历史的必然。",
+      "target": "历史的必然",
+      "claim_type": "知识论主张",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "“以相当报酬赎取土地于地主”，——对于地主是自由意志之表现，对于贫农便是可恨的历史的必然。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c11",
+      "speaker": "资本主义时代的强有力的生产工具若能变成公共的财产，生产制度若得",
+      "claim": "“附条件的必然”和“障碍力的必然”都不是绝对与自由意志不能并立的；却是相反相成的。",
+      "target": "附条件的必然",
+      "claim_type": "知识论主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "可见“附条件的必然”和“障碍力的必然”都不是绝对与自由意志不能并立的；却是相反相成的。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c12",
+      "speaker": "资本主义时代的强有力的生产工具若能变成公共的财产，生产制度若得",
+      "claim": "那“附条件的必然”是主观的行动，“障碍力的必然”是主观的受动。至于“因果的必然”才是客观的解释。",
+      "target": "因果的必然",
+      "claim_type": "定义性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "那“附条件的必然”是主观的行动，“障碍力的必然”是主观的受动。至于“因果的必然”才是客观的解释。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c13",
+      "speaker": "资本主义时代的强有力的生产工具若能变成公共的财产，生产制度若得",
+      "claim": "或者以为社会发展既有因果的必然，便可以绝不行动，便无从有意识地去助长某种历史的发展。",
+      "target": "社会发展",
+      "claim_type": "问题提出",
+      "claim_status": "作者概括",
+      "polarity": "neutral",
+      "evidence": "或者以为社会发展既有因果的必然，便可以绝不行动，便无从有意识地去助长某种历史的发展。",
+      "confidence": 0.9
+    }
+  ],
+  "relations": [
+    {
+      "id": "r1",
+      "head": "服从自然",
+      "head_type": "概念",
+      "relation": "定义",
+      "tail": "必然",
+      "tail_type": "概念",
+      "polarity": "neutral",
+      "evidence": "所谓服从自然（必然）",
+      "confidence": 0.9
+    },
+    {
+      "id": "r2",
+      "head": "服从自然",
+      "head_type": "概念",
+      "relation": "定义",
+      "tail": "自然律",
+      "tail_type": "概念",
+      "polarity": "neutral",
+      "evidence": "是说服从自然律",
+      "confidence": 0.9
+    },
+    {
+      "id": "r3",
+      "head": "征服自然",
+      "head_type": "概念",
+      "relation": "定义",
+      "tail": "征服自然",
+      "tail_type": "概念",
+      "polarity": "neutral",
+      "evidence": "所谓征服自然，是说征服自然本身",
+      "confidence": 0.9
+    },
+    {
+      "id": "r4",
+      "head": "服从",
+      "head_type": "概念",
+      "relation": "导致",
+      "tail": "解放",
+      "tail_type": "概念",
+      "polarity": "positive",
+      "evidence": "他的“服从”正是他的“解放”之源泉",
+      "confidence": 0.9
+    },
+    {
+      "id": "r5",
+      "head": "必然",
+      "head_type": "概念",
+      "relation": "定义",
+      "tail": "障碍力",
+      "tail_type": "概念",
+      "polarity": "neutral",
+      "evidence": "所谓“必然”还有“障碍力”的意思",
+      "confidence": 0.9
+    },
+    {
+      "id": "r6",
+      "head": "必然",
+      "head_type": "概念",
+      "relation": "相关",
+      "tail": "自由的对敌",
+      "tail_type": "概念",
+      "polarity": "negative",
+      "evidence": "这种“必然”的确是人的“自由的对敌”",
+      "confidence": 0.9
+    },
+    {
+      "id": "r7",
+      "head": "附条件的必然",
+      "head_type": "概念",
+      "relation": "定义",
+      "tail": "主观的行动",
+      "tail_type": "概念",
+      "polarity": "neutral",
+      "evidence": "那“附条件的必然”是主观的行动",
+      "confidence": 0.9
+    },
+    {
+      "id": "r8",
+      "head": "障碍力的必然",
+      "head_type": "概念",
+      "relation": "定义",
+      "tail": "主观的受动",
+      "tail_type": "概念",
+      "polarity": "neutral",
+      "evidence": "“障碍力的必然”是主观的受动",
+      "confidence": 0.9
+    },
+    {
+      "id": "r9",
+      "head": "因果的必然",
+      "head_type": "概念",
+      "relation": "定义",
+      "tail": "客观的解释",
+      "tail_type": "概念",
+      "polarity": "neutral",
+      "evidence": "至于“因果的必然”才是客观的解释",
+      "confidence": 0.9
+    },
+    {
+      "id": "r10",
+      "head": "附条件的必然",
+      "head_type": "概念",
+      "relation": "对比",
+      "tail": "障碍力的必然",
+      "tail_type": "概念",
+      "polarity": "neutral",
+      "evidence": "可见“附条件的必然”和“障碍力的必然”都不是绝对与自由意志不能并立的",
+      "confidence": 0.9
+    },
+    {
+      "id": "r11",
+      "head": "附条件的必然",
+      "head_type": "概念",
+      "relation": "对比",
+      "tail": "因果的必然",
+      "tail_type": "概念",
+      "polarity": "neutral",
+      "evidence": "那“附条件的必然”是主观的行动，“障碍力的必然”是主观的受动。至于“因果的必然”才是客观的解释。",
+      "confidence": 0.9
+    },
+    {
+      "id": "r12",
+      "head": "障碍力的必然",
+      "head_type": "概念",
+      "relation": "对比",
+      "tail": "因果的必然",
+      "tail_type": "概念",
+      "polarity": "neutral",
+      "evidence": "那“附条件的必然”是主观的行动，“障碍力的必然”是主观的受动。至于“因果的必然”才是客观的解释。",
+      "confidence": 0.9
+    }
+  ],
+  "definitions": [
+    {
+      "id": "def1",
+      "term": "服从自然",
+      "definition": "服从自然即服从自然律。",
+      "evidence": "所谓服从自然（必然），是说服从自然律",
+      "confidence": 0.9
+    },
+    {
+      "id": "def2",
+      "term": "征服自然",
+      "definition": "征服自然即征服自然本身。",
+      "evidence": "所谓征服自然，是说征服自然本身",
+      "confidence": 0.9
+    },
+    {
+      "id": "def3",
+      "term": "附条件的必然",
+      "definition": "主观的行动。",
+      "evidence": "那“附条件的必然”是主观的行动",
+      "confidence": 0.9
+    },
+    {
+      "id": "def4",
+      "term": "障碍力的必然",
+      "definition": "主观的受动。",
+      "evidence": "“障碍力的必然”是主观的受动",
+      "confidence": 0.9
+    },
+    {
+      "id": "def5",
+      "term": "因果的必然",
+      "definition": "客观的解释。",
+      "evidence": "至于“因果的必然”才是客观的解释",
+      "confidence": 0.9
+    }
+  ],
+  "citations": [],
+  "rhetorical_devices": [
+    {
+      "id": "rh1",
+      "expression": "作茧自缚",
+      "device_type": "比喻",
+      "literal_target": "受自己生产品所支配的怪现象",
+      "function": "形象化地说明人受自己生产品支配的困境",
+      "evidence": "人便能破毁那受自己生产品所支配的“作茧自缚”的怪现象",
+      "confidence": 0.9
+    }
+  ],
+  "uncertainties": [
+    {
+      "item": "“或者以为”所指的具体观点来源",
+      "reason": "文本中“或者以为社会发展既有因果的必然，便可以绝不行动”是作者概括的一种观点，但未指明具体是谁的主张，无法确定 speaker。"
+    }
+  ],
+  "_meta": {
+    "status": "success",
+    "stage": "extract",
+    "model": "deepseek-ai/DeepSeek-V4-Flash",
+    "base_url": "https://api.siliconflow.cn/v1",
+    "prompt_version": "extract_prompt_v2.0",
+    "schema_version": "lite_v2.0",
+    "segment_id": "瞿秋白_000_a4753ce4_s0006",
+    "article_id": "瞿秋白_000_a4753ce4",
+    "char_start": 3011,
+    "char_end": 3597,
+    "raw_path": "E:\\1研究生\\岭南大学\\论文毕业\\capstone\\资料\\新的内容开始了\\local_upload\\kg_runs\\瞿秋白\\raw_outputs\\extract\\瞿秋白_000_a4753ce4_s0006.txt",
+    "parsed_at": "2026-05-19T23:58:52",
+    "started_at": "2026-05-19T23:53:51",
+    "elapsed_seconds": 300.388,
+    "strict_evidence_check": true,
+    "drop_unsupported_evidence": true,
+    "request_timeout_seconds": 180
+  }
+}

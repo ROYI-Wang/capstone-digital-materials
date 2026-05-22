@@ -1,0 +1,434 @@
+{
+  "metadata": {
+    "schema_version": "lite_v2.0",
+    "article_id": "陈独秀_002_69a217f6",
+    "article_title": "答张君劢及梁任公",
+    "source_author": "陈独秀",
+    "section_title": "",
+    "section_author": "",
+    "segment_id": "陈独秀_002_69a217f6_s0002",
+    "segment_index": 2,
+    "source_file": "E:\\1研究生\\岭南大学\\论文毕业\\capstone\\资料\\新的内容开始了\\local_upload\\input_w2\\陈独秀.txt"
+  },
+  "entities": [
+    {
+      "id": "e1",
+      "name": "张君劢",
+      "canonical_name": "张君劢",
+      "type": "人物",
+      "evidence": "劢说：“且即以俄论，私有财产之废不及二年，而已许私人买卖私人土地所有权，且大招致外国银行与外国资本家，不知此等翻云覆雨之局，又遵科学的社会主义全书中何种公例乎？”",
+      "confidence": 1.0
+    },
+    {
+      "id": "e2",
+      "name": "俄国劳农革命家",
+      "canonical_name": "俄国劳农革命家",
+      "type": "阵营/群体",
+      "evidence": "俄国劳农革命家是马克思派，不是玄学家",
+      "confidence": 1.0
+    },
+    {
+      "id": "e3",
+      "name": "马克思派",
+      "canonical_name": "马克思派",
+      "type": "阵营/群体",
+      "evidence": "俄国劳农革命家是马克思派，不是玄学家",
+      "confidence": 1.0
+    },
+    {
+      "id": "e4",
+      "name": "玄学家",
+      "canonical_name": "玄学家",
+      "type": "阵营/群体",
+      "evidence": "俄国劳农革命家是马克思派，不是玄学家",
+      "confidence": 1.0
+    },
+    {
+      "id": "e5",
+      "name": "马克思",
+      "canonical_name": "马克思",
+      "type": "人物",
+      "evidence": "不过照马克思共产党宜言所指示将大企业及土地收归国有罢了",
+      "confidence": 1.0
+    },
+    {
+      "id": "e6",
+      "name": "共产党宜言",
+      "canonical_name": "共产党宣言",
+      "type": "著作",
+      "evidence": "不过照马克思共产党宜言所指示将大企业及土地收归国有罢了",
+      "confidence": 0.8
+    },
+    {
+      "id": "e7",
+      "name": "苏俄宪法",
+      "canonical_name": "苏俄宪法",
+      "type": "著作",
+      "evidence": "试问苏俄宪法第六十五条第二三项，剥夺坐食以资本生息者及私人商贩之选举权被选举权，岂不是赘文？",
+      "confidence": 1.0
+    },
+    {
+      "id": "e8",
+      "name": "私有财产",
+      "canonical_name": "私有财产",
+      "type": "概念",
+      "evidence": "非到共产社会实现，私有财产是不能完全废绝的",
+      "confidence": 1.0
+    },
+    {
+      "id": "e9",
+      "name": "共产社会",
+      "canonical_name": "共产社会",
+      "type": "概念",
+      "evidence": "非到共产社会实现，私有财产是不能完全废绝的",
+      "confidence": 1.0
+    },
+    {
+      "id": "e10",
+      "name": "新经济政策",
+      "canonical_name": "新经济政策",
+      "type": "概念",
+      "evidence": "这是因为不明白俄国新经济政策之实质与意义的缘故",
+      "confidence": 1.0
+    },
+    {
+      "id": "e11",
+      "name": "科学的社会主义",
+      "canonical_name": "科学的社会主义",
+      "type": "主义/学说/理论",
+      "evidence": "不知此等翻云覆雨之局，又遵科学的社会主义全书中何种公例乎？",
+      "confidence": 1.0
+    },
+    {
+      "id": "e12",
+      "name": "翻云覆雨",
+      "canonical_name": "翻云覆雨",
+      "type": "比喻/类比",
+      "evidence": "不知此等翻云覆雨之局，又遵科学的社会主义全书中何种公例乎？",
+      "confidence": 1.0
+    },
+    {
+      "id": "e13",
+      "name": "陈独秀",
+      "canonical_name": "陈独秀",
+      "type": "人物",
+      "evidence": "有这种疑问的人，世界上也不只张君劢先生一人，这是因为不明白俄国新经济政策之实质与意义的缘故。",
+      "confidence": 1.0
+    }
+  ],
+  "claims": [
+    {
+      "id": "c1",
+      "speaker": "张君劢",
+      "claim": "以俄论，私有财产之废不及二年，而已许私人买卖私人土地所有权，且大招致外国银行与外国资本家，不知此等翻云覆雨之局，又遵科学的社会主义全书中何种公例乎？",
+      "target": "俄国新经济政策",
+      "claim_type": "问题提出",
+      "claim_status": "直接引用",
+      "polarity": "negative",
+      "evidence": "劢说：“且即以俄论，私有财产之废不及二年，而已许私人买卖私人土地所有权，且大招致外国银行与外国资本家，不知此等翻云覆雨之局，又遵科学的社会主义全书中何种公例乎？”",
+      "confidence": 1.0
+    },
+    {
+      "id": "c2",
+      "speaker": "陈独秀",
+      "claim": "有这种疑问的人，世界上也不只张君劢先生一人，这是因为不明白俄国新经济政策之实质与意义的缘故。",
+      "target": "张君劢",
+      "claim_type": "价值评价",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "有这种疑问的人，世界上也不只张君劢先生一人，这是因为不明白俄国新经济政策之实质与意义的缘故。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c3",
+      "speaker": "陈独秀",
+      "claim": "非到共产社会实现，私有财产是不能完全废绝的，此事谈何容易",
+      "target": "私有财产",
+      "claim_type": "知识论主张",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "非到共产社会实现，私有财产是不能完全废绝的，此事谈何容易",
+      "confidence": 1.0
+    },
+    {
+      "id": "c4",
+      "speaker": "陈独秀",
+      "claim": "俄国劳农革命家是马克思派，不是玄学家，自始便未尝妄想一革命便能够将私有财产完全废绝",
+      "target": "俄国劳农革命家",
+      "claim_type": "历史解释",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "俄国劳农革命家是马克思派，不是玄学家，自始便未尝妄想一革命便能够将私有财产完全废绝",
+      "confidence": 1.0
+    },
+    {
+      "id": "c5",
+      "speaker": "陈独秀",
+      "claim": "在现在的新经济政策之下仍是这样，并未翻云覆雨。",
+      "target": "新经济政策",
+      "claim_type": "反驳性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "在现在的新经济政策之下仍是这样，并未翻云覆雨。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c6",
+      "speaker": "陈独秀",
+      "claim": "小企业初因资产阶级的怠工自己放弃，不得不由国家经管，今因他们愿意继续营业而租给他们；也无所谓翻云覆雨。",
+      "target": "新经济政策",
+      "claim_type": "历史解释",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "小企业初因资产阶级的怠工自己放弃，不得不由国家经管，今因他们愿意继续营业而租给他们；也无所谓翻云覆雨。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c7",
+      "speaker": "陈独秀",
+      "claim": "战争时军需万急，不得不禁止买卖强制征发，战后停止征发，生产力又未到能实行社会主义的分配时期，自然没有禁止私人买卖的必要，这也无所谓翻云覆雨。",
+      "target": "新经济政策",
+      "claim_type": "历史解释",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "战争时军需万急，不得不禁止买卖强制征发，战后停止征发，生产力又未到能实行社会主义的分配时期，自然没有禁止私人买卖的必要，这也无所谓翻云覆雨。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c8",
+      "speaker": "陈独秀",
+      "claim": "俄国劳农革命家果曾妄想一革命便马上能够实现共产主义的社会，便马上能够完全废绝私有财产，果如张君劢所言现在允许私人买卖是翻云覆雨，因为前此已废止私有财产已不许私人买卖，如此，试问苏俄宪法第六十五条第二三项，剥夺坐食以资本生息者及私人商贩之选举权被选举权，岂不是赘文？",
+      "target": "张君劢",
+      "claim_type": "反驳性主张",
+      "claim_status": "归谬构造",
+      "polarity": "negative",
+      "evidence": "俄国劳农革命家果曾妄想一革命便马上能够实现共产主义的社会，便马上能够完全废绝私有财产，果如张君劢所言现在允许私人买卖是翻云覆雨，因为前此已废止私有财产已不许私人买卖，如此，试问苏俄宪法第六十五条第二三项，剥夺坐食以资本生息者及私人商贩之选举权被选举权，岂不是赘文？",
+      "confidence": 1.0
+    },
+    {
+      "id": "c9",
+      "speaker": "陈独秀",
+      "claim": "在新经济政策之下，这两种人仍然没有选举权被选举权，实无所谓翻云覆雨。",
+      "target": "新经济政策",
+      "claim_type": "反驳性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "在新经济政策之下，这两种人仍然没有选举权被选举权，实无所谓翻云覆雨。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c10",
+      "speaker": "陈独秀",
+      "claim": "说他翻云覆雨的都是不明白俄国新经济政策之实质的缘故。",
+      "target": "张君劢",
+      "claim_type": "价值评价",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "说他翻云覆雨的都是不明白俄国新经济政策之实质的缘故。",
+      "confidence": 1.0
+    }
+  ],
+  "relations": [
+    {
+      "id": "r1",
+      "head": "张君劢",
+      "head_type": "人物",
+      "relation": "批评",
+      "relation_subtype": "事实质疑",
+      "tail": "新经济政策",
+      "tail_type": "概念",
+      "polarity": "negative",
+      "evidence": "劢说：“且即以俄论，私有财产之废不及二年，而已许私人买卖私人土地所有权，且大招致外国银行与外国资本家，不知此等翻云覆雨之局，又遵科学的社会主义全书中何种公例乎？”",
+      "confidence": 1.0
+    },
+    {
+      "id": "r2",
+      "head": "陈独秀",
+      "head_type": "人物",
+      "relation": "反驳",
+      "relation_subtype": "事实质疑",
+      "tail": "张君劢",
+      "tail_type": "人物",
+      "polarity": "negative",
+      "evidence": "有这种疑问的人，世界上也不只张君劢先生一人，这是因为不明白俄国新经济政策之实质与意义的缘故。",
+      "confidence": 1.0
+    },
+    {
+      "id": "r3",
+      "head": "陈独秀",
+      "head_type": "人物",
+      "relation": "反驳",
+      "relation_subtype": "逻辑反驳",
+      "tail": "张君劢",
+      "tail_type": "人物",
+      "polarity": "negative",
+      "evidence": "俄国劳农革命家是马克思派，不是玄学家，自始便未尝妄想一革命便能够将私有财产完全废绝，不过照马克思共产党宜言所指示将大企业及土地收归国有罢了，在现在的新经济政策之下仍是这样，并未翻云覆雨。",
+      "confidence": 1.0
+    },
+    {
+      "id": "r4",
+      "head": "陈独秀",
+      "head_type": "人物",
+      "relation": "反驳",
+      "relation_subtype": "逻辑反驳",
+      "tail": "张君劢",
+      "tail_type": "人物",
+      "polarity": "negative",
+      "evidence": "小企业初因资产阶级的怠工自己放弃，不得不由国家经管，今因他们愿意继续营业而租给他们；也无所谓翻云覆雨。",
+      "confidence": 1.0
+    },
+    {
+      "id": "r5",
+      "head": "陈独秀",
+      "head_type": "人物",
+      "relation": "反驳",
+      "relation_subtype": "逻辑反驳",
+      "tail": "张君劢",
+      "tail_type": "人物",
+      "polarity": "negative",
+      "evidence": "战争时军需万急，不得不禁止买卖强制征发，战后停止征发，生产力又未到能实行社会主义的分配时期，自然没有禁止私人买卖的必要，这也无所谓翻云覆雨。",
+      "confidence": 1.0
+    },
+    {
+      "id": "r6",
+      "head": "陈独秀",
+      "head_type": "人物",
+      "relation": "归谬",
+      "relation_subtype": "归谬",
+      "tail": "张君劢",
+      "tail_type": "人物",
+      "polarity": "negative",
+      "evidence": "俄国劳农革命家果曾妄想一革命便马上能够实现共产主义的社会，便马上能够完全废绝私有财产，果如张君劢所言现在允许私人买卖是翻云覆雨，因为前此已废止私有财产已不许私人买卖，如此，试问苏俄宪法第六十五条第二三项，剥夺坐食以资本生息者及私人商贩之选举权被选举权，岂不是赘文？",
+      "confidence": 1.0
+    },
+    {
+      "id": "r7",
+      "head": "陈独秀",
+      "head_type": "人物",
+      "relation": "反驳",
+      "relation_subtype": "逻辑反驳",
+      "tail": "张君劢",
+      "tail_type": "人物",
+      "polarity": "negative",
+      "evidence": "在新经济政策之下，这两种人仍然没有选举权被选举权，实无所谓翻云覆雨。",
+      "confidence": 1.0
+    },
+    {
+      "id": "r8",
+      "head": "陈独秀",
+      "head_type": "人物",
+      "relation": "批评",
+      "relation_subtype": "证据不足批评",
+      "tail": "张君劢",
+      "tail_type": "人物",
+      "polarity": "negative",
+      "evidence": "说他翻云覆雨的都是不明白俄国新经济政策之实质的缘故。",
+      "confidence": 1.0
+    },
+    {
+      "id": "r9",
+      "head": "俄国劳农革命家",
+      "head_type": "阵营/群体",
+      "relation": "属于",
+      "relation_subtype": "不适用",
+      "tail": "马克思派",
+      "tail_type": "阵营/群体",
+      "polarity": "positive",
+      "evidence": "俄国劳农革命家是马克思派，不是玄学家",
+      "confidence": 1.0
+    },
+    {
+      "id": "r10",
+      "head": "俄国劳农革命家",
+      "head_type": "阵营/群体",
+      "relation": "区分",
+      "relation_subtype": "概念澄清",
+      "tail": "玄学家",
+      "tail_type": "阵营/群体",
+      "polarity": "negative",
+      "evidence": "俄国劳农革命家是马克思派，不是玄学家",
+      "confidence": 1.0
+    },
+    {
+      "id": "r11",
+      "head": "陈独秀",
+      "head_type": "人物",
+      "relation": "引用",
+      "relation_subtype": "援引权威支持",
+      "tail": "马克思",
+      "tail_type": "人物",
+      "polarity": "positive",
+      "evidence": "不过照马克思共产党宜言所指示将大企业及土地收归国有罢了",
+      "confidence": 1.0
+    },
+    {
+      "id": "r12",
+      "head": "陈独秀",
+      "head_type": "人物",
+      "relation": "引用",
+      "relation_subtype": "作为历史证据",
+      "tail": "苏俄宪法",
+      "tail_type": "著作",
+      "polarity": "neutral",
+      "evidence": "试问苏俄宪法第六十五条第二三项，剥夺坐食以资本生息者及私人商贩之选举权被选举权，岂不是赘文？",
+      "confidence": 1.0
+    }
+  ],
+  "definitions": [
+    {
+      "id": "def1",
+      "term": "新经济政策",
+      "definition": "俄国劳农革命家实行的政策，包括将大企业及土地收归国有，小企业租给愿意继续营业的资产阶级，战争时禁止买卖强制征发，战后停止征发并允许私人买卖，但剥夺坐食以资本生息者及私人商贩之选举权被选举权。",
+      "evidence": "在现在的新经济政策之下仍是这样，并未翻云覆雨。小企业初因资产阶级的怠工自己放弃，不得不由国家经管，今因他们愿意继续营业而租给他们；也无所谓翻云覆雨。战争时军需万急，不得不禁止买卖强制征发，战后停止征发，生产力又未到能实行社会主义的分配时期，自然没有禁止私人买卖的必要，这也无所谓翻云覆雨。",
+      "confidence": 0.9
+    }
+  ],
+  "citations": [
+    {
+      "id": "cit1",
+      "citer": "陈独秀",
+      "quoted_author": "马克思",
+      "quoted_work": "共产党宜言",
+      "quoted_claim": "将大企业及土地收归国有",
+      "function": "援引权威支持",
+      "evidence": "不过照马克思共产党宜言所指示将大企业及土地收归国有罢了",
+      "confidence": 1.0
+    },
+    {
+      "id": "cit2",
+      "citer": "陈独秀",
+      "quoted_author": "苏俄宪法",
+      "quoted_work": "苏俄宪法",
+      "quoted_claim": "第六十五条第二三项，剥夺坐食以资本生息者及私人商贩之选举权被选举权",
+      "function": "作为历史证据",
+      "evidence": "试问苏俄宪法第六十五条第二三项，剥夺坐食以资本生息者及私人商贩之选举权被选举权，岂不是赘文？",
+      "confidence": 1.0
+    }
+  ],
+  "rhetorical_devices": [
+    {
+      "id": "rh1",
+      "expression": "翻云覆雨",
+      "device_type": "比喻",
+      "literal_target": "俄国新经济政策前后不一致的变化",
+      "function": "张君劢用此比喻批评俄国新经济政策前后矛盾；陈独秀则反复反驳，指出并非翻云覆雨。",
+      "evidence": "不知此等翻云覆雨之局，又遵科学的社会主义全书中何种公例乎？",
+      "confidence": 1.0
+    },
+    {
+      "id": "rh2",
+      "expression": "赘文",
+      "device_type": "比喻",
+      "literal_target": "苏俄宪法第六十五条第二三项如果在新经济政策下已无意义，则成为多余条文",
+      "function": "陈独秀用归谬法，假设张君劢的逻辑成立，则宪法条文成为赘文，从而反驳张君劢。",
+      "evidence": "试问苏俄宪法第六十五条第二三项，剥夺坐食以资本生息者及私人商贩之选举权被选举权，岂不是赘文？",
+      "confidence": 1.0
+    }
+  ],
+  "uncertainties": [
+    {
+      "item": "共产党宜言",
+      "reason": "原文写为'共产党宜言'，疑为'共产党宣言'的笔误，但当前文本中逐字出现为'宜言'，故按原文抽取。"
+    }
+  ]
+}

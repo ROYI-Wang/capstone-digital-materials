@@ -1,0 +1,178 @@
+{
+  "metadata": {
+    "schema_version": "lite_v2.0",
+    "article_id": "丁文江_000_3ba07a5e",
+    "article_title": "玄学与科学 ——评张君劢的《人生观》",
+    "source_author": "丁文江",
+    "section_title": "",
+    "section_author": "",
+    "segment_id": "丁文江_000_3ba07a5e_s0002",
+    "segment_index": 2,
+    "source_file": "E:\\1研究生\\岭南大学\\论文毕业\\capstone\\资料\\新的内容开始了\\local_upload\\input_texts\\丁文江.txt"
+  },
+  "entities": [
+    {
+      "id": "e1",
+      "name": "张君劢",
+      "canonical_name": "张君劢",
+      "type": "Person",
+      "evidence": "若是我们相信了张君劢",
+      "confidence": 1.0
+    },
+    {
+      "id": "e2",
+      "name": "人生观",
+      "canonical_name": "人生观",
+      "type": "Concept",
+      "evidence": "我们的人生观脱离了论理学的公例、定义、方法",
+      "confidence": 1.0
+    },
+    {
+      "id": "e3",
+      "name": "论理学",
+      "canonical_name": "论理学",
+      "type": "Concept",
+      "evidence": "这篇文章也是完全违背论理学的",
+      "confidence": 1.0
+    },
+    {
+      "id": "e4",
+      "name": "科学方法",
+      "canonical_name": "科学方法",
+      "type": "Concept",
+      "evidence": "他主张人生观不受科学方法支配的理由",
+      "confidence": 1.0
+    },
+    {
+      "id": "e5",
+      "name": "因果律",
+      "canonical_name": "因果律",
+      "type": "Concept",
+      "evidence": "皆为因果律所支配",
+      "confidence": 1.0
+    },
+    {
+      "id": "e6",
+      "name": "公例",
+      "canonical_name": "公例",
+      "type": "Concept",
+      "evidence": "天下事皆有公例",
+      "confidence": 1.0
+    },
+    {
+      "id": "e7",
+      "name": "人生观能否同科学分家",
+      "canonical_name": "人生观能否同科学分家",
+      "type": "Question",
+      "evidence": "人生观能否同科学分家？",
+      "confidence": 1.0
+    }
+  ],
+  "claims": [
+    {
+      "id": "c1",
+      "speaker": "丁文江",
+      "claim": "这篇文章也是完全违背论理学的。",
+      "target": "张君劢的文章",
+      "claim_type": "论战策略批评",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "这篇文章也是完全违背论理学的。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c2",
+      "speaker": "丁文江",
+      "claim": "若是我们相信了张君劢，我们的人生观脱离了论理学的公例、定义、方法，还成一个什么东西。",
+      "target": "张君劢的观点",
+      "claim_type": "归谬构造",
+      "claim_status": "作者推论",
+      "polarity": "negative",
+      "evidence": "若是我们相信了张君劢，我们的人生观脱离了论理学的公例、定义、方法，还成一个什么东西。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c3",
+      "speaker": "张君劢",
+      "claim": "人生观不受科学方法支配。",
+      "target": "人生观",
+      "claim_type": "方法论主张",
+      "claim_status": "间接转述",
+      "polarity": "negative",
+      "evidence": "他主张人生观不受科学方法支配的理由。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c4",
+      "speaker": "张君劢",
+      "claim": "天下古今之最不统一者莫若人生观。",
+      "target": "人生观",
+      "claim_type": "定义性主张",
+      "claim_status": "直接引用",
+      "polarity": "neutral",
+      "evidence": "故天下古今之最不统一者莫若人生观。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c5",
+      "speaker": "丁文江",
+      "claim": "人生观现在没有统一是一件事，永久不能统一又是一件事。",
+      "target": "张君劢的理由",
+      "claim_type": "反驳性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "但是人生观现在没有统一是一件事，永久不能统一又是一件事。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c6",
+      "speaker": "丁文江",
+      "claim": "除非你能提出事实理由来证明他是永远不能统一的，我们总有求他统一的义务。",
+      "target": "张君劢",
+      "claim_type": "反驳性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "除非你能提出事实理由来证明他是永远不能统一的，我们总有求他统一的义务。",
+      "confidence": 1.0
+    }
+  ],
+  "relations": [],
+  "definitions": [],
+  "citations": [],
+  "rhetorical_devices": [
+    {
+      "id": "rh1",
+      "expression": "还成一个什么东西",
+      "device_type": "讽刺",
+      "literal_target": "相信张君劢后的人生观",
+      "function": "通过反问和讽刺语气，强化对张君劢观点的否定",
+      "evidence": "若是我们相信了张君劢，我们的人生观脱离了论理学的公例、定义、方法，还成一个什么东西。",
+      "confidence": 1.0
+    }
+  ],
+  "uncertainties": [
+    {
+      "item": "张君劢引文中“诸君久读教科书”一段是否为直接引用，以及“甲一说，乙一说”是否为其原话",
+      "reason": "文本中张君劢的引文以引号呈现，但未明确标注出处，且“甲一说，乙一说”可能为概括性转述，需确认是否逐字引用。"
+    }
+  ],
+  "_meta": {
+    "status": "success",
+    "stage": "extract",
+    "model": "deepseek-ai/DeepSeek-V4-Flash",
+    "base_url": "https://api.siliconflow.cn/v1",
+    "prompt_version": "extract_prompt_v2.0",
+    "schema_version": "lite_v2.0",
+    "segment_id": "丁文江_000_3ba07a5e_s0002",
+    "article_id": "丁文江_000_3ba07a5e",
+    "char_start": 515,
+    "char_end": 850,
+    "raw_path": "E:\\1研究生\\岭南大学\\论文毕业\\capstone\\资料\\新的内容开始了\\local_upload\\kg_runs\\丁文江_等3篇\\raw_outputs\\extract\\丁文江_000_3ba07a5e_s0002.txt",
+    "parsed_at": "2026-05-19T02:08:29",
+    "started_at": "2026-05-19T02:07:06",
+    "elapsed_seconds": 83.073,
+    "strict_evidence_check": true,
+    "drop_unsupported_evidence": true,
+    "request_timeout_seconds": 180
+  }
+}

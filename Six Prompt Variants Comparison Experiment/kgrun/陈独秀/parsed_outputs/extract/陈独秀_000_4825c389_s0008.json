@@ -1,0 +1,413 @@
+{
+  "metadata": {
+    "schema_version": "lite_v2.0",
+    "article_id": "陈独秀_000_4825c389",
+    "article_title": "序一",
+    "source_author": "陈独秀",
+    "section_title": "",
+    "section_author": "",
+    "segment_id": "陈独秀_000_4825c389_s0008",
+    "segment_index": 8,
+    "source_file": "E:\\1研究生\\岭南大学\\论文毕业\\capstone\\资料\\新的内容开始了\\local_upload\\input_w2\\陈独秀.txt"
+  },
+  "entities": [
+    {
+      "id": "e1",
+      "name": "丁在君",
+      "canonical_name": "丁文江",
+      "type": "人物",
+      "evidence": "丁在君不但未曾说明“科学何以能支配人生观”，并且他的思想之根底，仍和张君劢走的是一条道路。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e2",
+      "name": "张君劢",
+      "canonical_name": "张君劢",
+      "type": "人物",
+      "evidence": "丁在君不但未曾说明“科学何以能支配人生观”，并且他的思想之根底，仍和张君劢走的是一条道路。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e3",
+      "name": "赫胥黎",
+      "canonical_name": "赫胥黎",
+      "type": "人物",
+      "evidence": "他自号存疑的唯心论，这是沿袭了赫胥黎、斯宾塞诸人的谬误。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e4",
+      "name": "斯宾塞",
+      "canonical_name": "斯宾塞",
+      "type": "人物",
+      "evidence": "他自号存疑的唯心论，这是沿袭了赫胥黎、斯宾塞诸人的谬误。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e5",
+      "name": "科学",
+      "canonical_name": "科学",
+      "type": "概念",
+      "evidence": "丁在君不但未曾说明“科学何以能支配人生观”，并且他的思想之根底，仍和张君劢走的是一条道路。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e6",
+      "name": "人生观",
+      "canonical_name": "人生观",
+      "type": "概念",
+      "evidence": "丁在君不但未曾说明“科学何以能支配人生观”，并且他的思想之根底，仍和张君劢走的是一条道路。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e7",
+      "name": "存疑的唯心论",
+      "canonical_name": "存疑的唯心论",
+      "type": "主义/学说/理论",
+      "evidence": "他自号存疑的唯心论，这是沿袭了赫胥黎、斯宾塞诸人的谬误。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e8",
+      "name": "玄学家",
+      "canonical_name": "玄学家",
+      "type": "阵营/群体",
+      "evidence": "你既承认宇宙间有不可知的部分而存疑，科学家站开，且让玄学家来解疑。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e9",
+      "name": "科学家",
+      "canonical_name": "科学家",
+      "type": "阵营/群体",
+      "evidence": "你既承认宇宙间有不可知的部分而存疑，科学家站开，且让玄学家来解疑。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e10",
+      "name": "玄学",
+      "canonical_name": "玄学",
+      "type": "概念",
+      "evidence": "此所以张君劢说：“既已存疑，则研究形而上界之玄学，不应有丑诋之词。”",
+      "confidence": 1.0
+    },
+    {
+      "id": "e11",
+      "name": "物质",
+      "canonical_name": "物质",
+      "type": "概念",
+      "evidence": "其实我们对于未发见的物质固然可以存疑，而对于超物质而独立存在并且可以支配物质的什么心（心即是物之一种表现),什么神灵与上帝，我们已无疑可存了。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e12",
+      "name": "心",
+      "canonical_name": "心",
+      "type": "概念",
+      "evidence": "其实我们对于未发见的物质固然可以存疑，而对于超物质而独立存在并且可以支配物质的什么心（心即是物之一种表现),什么神灵与上帝，我们已无疑可存了。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e13",
+      "name": "神灵",
+      "canonical_name": "神灵",
+      "type": "概念",
+      "evidence": "其实我们对于未发见的物质固然可以存疑，而对于超物质而独立存在并且可以支配物质的什么心（心即是物之一种表现),什么神灵与上帝，我们已无疑可存了。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e14",
+      "name": "上帝",
+      "canonical_name": "上帝",
+      "type": "概念",
+      "evidence": "其实我们对于未发见的物质固然可以存疑，而对于超物质而独立存在并且可以支配物质的什么心（心即是物之一种表现),什么神灵与上帝，我们已无疑可存了。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e15",
+      "name": "欧洲文化破产",
+      "canonical_name": "欧洲文化破产",
+      "type": "概念",
+      "evidence": "第二，把欧洲文化破产的责任归到科学与物质文明，固然是十分糊涂，但丁在君把这个责任归到玄学家、教育家、政治家身上，却也离开事实太远了。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e16",
+      "name": "物质文明",
+      "canonical_name": "物质文明",
+      "type": "概念",
+      "evidence": "第二，把欧洲文化破产的责任归到科学与物质文明，固然是十分糊涂，但丁在君把这个责任归到玄学家、教育家、政治家身上，却也离开事实太远了。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e17",
+      "name": "教育家",
+      "canonical_name": "教育家",
+      "type": "阵营/群体",
+      "evidence": "第二，把欧洲文化破产的责任归到科学与物质文明，固然是十分糊涂，但丁在君把这个责任归到玄学家、教育家、政治家身上，却也离开事实太远了。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e18",
+      "name": "政治家",
+      "canonical_name": "政治家",
+      "type": "阵营/群体",
+      "evidence": "第二，把欧洲文化破产的责任归到科学与物质文明，固然是十分糊涂，但丁在君把这个责任归到玄学家、教育家、政治家身上，却也离开事实太远了。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e19",
+      "name": "良心",
+      "canonical_name": "良心",
+      "type": "概念",
+      "evidence": "由此看来，世界上那里真有什么良心，什么直觉，什么自由意志!",
+      "confidence": 1.0
+    },
+    {
+      "id": "e20",
+      "name": "直觉",
+      "canonical_name": "直觉",
+      "type": "概念",
+      "evidence": "由此看来，世界上那里真有什么良心，什么直觉，什么自由意志!",
+      "confidence": 1.0
+    },
+    {
+      "id": "e21",
+      "name": "自由意志",
+      "canonical_name": "自由意志",
+      "type": "概念",
+      "evidence": "由此看来，世界上那里真有什么良心，什么直觉，什么自由意志!",
+      "confidence": 1.0
+    }
+  ],
+  "claims": [
+    {
+      "id": "c1",
+      "speaker": "陈独秀",
+      "claim": "世界上那里真有什么良心，什么直觉，什么自由意志",
+      "target": "良心、直觉、自由意志",
+      "claim_type": "本体论主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "由此看来，世界上那里真有什么良心，什么直觉，什么自由意志!",
+      "confidence": 1.0
+    },
+    {
+      "id": "c2",
+      "speaker": "陈独秀",
+      "claim": "丁在君不但未曾说明“科学何以能支配人生观”，并且他的思想之根底，仍和张君劢走的是一条道路",
+      "target": "丁在君",
+      "claim_type": "论战策略批评",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "丁在君不但未曾说明“科学何以能支配人生观”，并且他的思想之根底，仍和张君劢走的是一条道路。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c3",
+      "speaker": "陈独秀",
+      "claim": "他自号存疑的唯心论，这是沿袭了赫胥黎、斯宾塞诸人的谬误",
+      "target": "丁在君",
+      "claim_type": "论战策略批评",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "他自号存疑的唯心论，这是沿袭了赫胥黎、斯宾塞诸人的谬误。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c4",
+      "speaker": "陈独秀",
+      "claim": "你既承认宇宙间有不可知的部分而存疑，科学家站开，且让玄学家来解疑",
+      "target": "丁在君",
+      "claim_type": "论战策略批评",
+      "claim_status": "作者推论",
+      "polarity": "negative",
+      "evidence": "你既承认宇宙间有不可知的部分而存疑，科学家站开，且让玄学家来解疑。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c5",
+      "speaker": "张君劢",
+      "claim": "既已存疑，则研究形而上界之玄学，不应有丑诋之词",
+      "target": "丁在君",
+      "claim_type": "反驳性主张",
+      "claim_status": "直接引用",
+      "polarity": "negative",
+      "evidence": "此所以张君劢说：“既已存疑，则研究形而上界之玄学，不应有丑诋之词。”",
+      "confidence": 1.0
+    },
+    {
+      "id": "c6",
+      "speaker": "陈独秀",
+      "claim": "我们对于未发见的物质固然可以存疑，而对于超物质而独立存在并且可以支配物质的什么心（心即是物之一种表现),什么神灵与上帝，我们已无疑可存了",
+      "target": "存疑的唯心论",
+      "claim_type": "知识论主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "其实我们对于未发见的物质固然可以存疑，而对于超物质而独立存在并且可以支配物质的什么心（心即是物之一种表现),什么神灵与上帝，我们已无疑可存了。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c7",
+      "speaker": "陈独秀",
+      "claim": "若无证据给我们看，我们断然不能抛弃我们的信仰",
+      "target": "神灵与上帝",
+      "claim_type": "知识论主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "说我们武断也好，说我们专制也好，若无证据给我们看，我们断然不能抛弃我们的信仰。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c8",
+      "speaker": "陈独秀",
+      "claim": "把欧洲文化破产的责任归到科学与物质文明，固然是十分糊涂",
+      "target": "科学与物质文明",
+      "claim_type": "价值评价",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "第二，把欧洲文化破产的责任归到科学与物质文明，固然是十分糊涂，但丁在君把这个责任归到玄学家、教育家、政治家身上，却也离开事实太远了。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c9",
+      "speaker": "陈独秀",
+      "claim": "丁在君把这个责任归到玄学家、教育家、政治家身上，却也离开事实太远了",
+      "target": "丁在君",
+      "claim_type": "论战策略批评",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "第二，把欧洲文化破产的责任归到科学与物质文明，固然是十分糊涂，但丁在君把这个责任归到玄学家、教育家、政治家身上，却也离开事实太远了。",
+      "confidence": 1.0
+    }
+  ],
+  "relations": [
+    {
+      "id": "r1",
+      "head": "丁在君",
+      "head_type": "人物",
+      "relation": "批评",
+      "tail": "张君劢",
+      "tail_type": "人物",
+      "polarity": "negative",
+      "evidence": "丁在君不但未曾说明“科学何以能支配人生观”，并且他的思想之根底，仍和张君劢走的是一条道路。",
+      "confidence": 1.0
+    },
+    {
+      "id": "r2",
+      "head": "陈独秀",
+      "head_type": "人物",
+      "relation": "批评",
+      "tail": "丁在君",
+      "tail_type": "人物",
+      "polarity": "negative",
+      "evidence": "丁在君不但未曾说明“科学何以能支配人生观”，并且他的思想之根底，仍和张君劢走的是一条道路。",
+      "confidence": 1.0
+    },
+    {
+      "id": "r3",
+      "head": "存疑的唯心论",
+      "head_type": "主义/学说/理论",
+      "relation": "源自",
+      "tail": "赫胥黎",
+      "tail_type": "人物",
+      "polarity": "negative",
+      "evidence": "他自号存疑的唯心论，这是沿袭了赫胥黎、斯宾塞诸人的谬误。",
+      "confidence": 1.0
+    },
+    {
+      "id": "r4",
+      "head": "存疑的唯心论",
+      "head_type": "主义/学说/理论",
+      "relation": "源自",
+      "tail": "斯宾塞",
+      "tail_type": "人物",
+      "polarity": "negative",
+      "evidence": "他自号存疑的唯心论，这是沿袭了赫胥黎、斯宾塞诸人的谬误。",
+      "confidence": 1.0
+    },
+    {
+      "id": "r5",
+      "head": "陈独秀",
+      "head_type": "人物",
+      "relation": "相关",
+      "tail": "张君劢",
+      "tail_type": "人物",
+      "polarity": "negative",
+      "evidence": "此所以张君劢说：“既已存疑，则研究形而上界之玄学，不应有丑诋之词。”",
+      "confidence": 1.0
+    },
+    {
+      "id": "r6",
+      "head": "陈独秀",
+      "head_type": "人物",
+      "relation": "批评",
+      "tail": "丁在君",
+      "tail_type": "人物",
+      "polarity": "negative",
+      "evidence": "第二，把欧洲文化破产的责任归到科学与物质文明，固然是十分糊涂，但丁在君把这个责任归到玄学家、教育家、政治家身上，却也离开事实太远了。",
+      "confidence": 1.0
+    }
+  ],
+  "definitions": [
+    {
+      "id": "def1",
+      "term": "心",
+      "definition": "心即是物之一种表现",
+      "evidence": "其实我们对于未发见的物质固然可以存疑，而对于超物质而独立存在并且可以支配物质的什么心（心即是物之一种表现),什么神灵与上帝，我们已无疑可存了。",
+      "confidence": 1.0
+    }
+  ],
+  "citations": [
+    {
+      "id": "cit1",
+      "citer": "陈独秀",
+      "quoted_author": "张君劢",
+      "quoted_work": "",
+      "quoted_claim": "既已存疑，则研究形而上界之玄学，不应有丑诋之词",
+      "function": "援引权威反驳",
+      "evidence": "此所以张君劢说：“既已存疑，则研究形而上界之玄学，不应有丑诋之词。”",
+      "confidence": 1.0
+    }
+  ],
+  "rhetorical_devices": [
+    {
+      "id": "rh1",
+      "expression": "科学家站开，且让玄学家来解疑",
+      "device_type": "讽刺",
+      "literal_target": "丁在君的存疑论导致玄学家介入",
+      "function": "讽刺丁在君存疑论的实际后果",
+      "evidence": "你既承认宇宙间有不可知的部分而存疑，科学家站开，且让玄学家来解疑。",
+      "confidence": 1.0
+    }
+  ],
+  "uncertainties": [
+    {
+      "item": "第一段列举的多个文化习俗对比是否直接服务于论证“世界上没有良心、直觉、自由意志”",
+      "reason": "文本中列举了多个文化习俗差异，但未明确说明这些差异与结论之间的逻辑链条，仅以“由此看来”连接，可能隐含归纳推理，但未充分展开。"
+    },
+    {
+      "item": "“说我们武断也好，说我们专制也好”中的“我们”是否特指陈独秀及其所属阵营",
+      "reason": "文本中“我们”可能指陈独秀本人或其所代表的唯物论者，但未明确界定范围。"
+    }
+  ],
+  "_meta": {
+    "status": "success",
+    "stage": "extract",
+    "model": "deepseek-ai/DeepSeek-V4-Flash",
+    "base_url": "https://api.siliconflow.cn/v1",
+    "prompt_version": "extract_prompt_v2.0",
+    "schema_version": "lite_v2.0",
+    "segment_id": "陈独秀_000_4825c389_s0008",
+    "article_id": "陈独秀_000_4825c389",
+    "char_start": 3819,
+    "char_end": 4390,
+    "raw_path": "E:\\1研究生\\岭南大学\\论文毕业\\capstone\\资料\\新的内容开始了\\local_upload\\kg_runs\\陈独秀\\raw_outputs\\extract\\陈独秀_000_4825c389_s0008.txt",
+    "parsed_at": "2026-05-20T01:59:44",
+    "started_at": "2026-05-20T01:54:25",
+    "elapsed_seconds": 318.203,
+    "strict_evidence_check": true,
+    "drop_unsupported_evidence": true,
+    "request_timeout_seconds": 180
+  }
+}

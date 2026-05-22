@@ -1,0 +1,657 @@
+{
+  "metadata": {
+    "schema_version": "lite_v2.0",
+    "article_id": "张君劢_002_c870d202",
+    "article_title": "再论人生观与科学并答丁在君",
+    "source_author": "张君劢",
+    "section_title": "",
+    "section_author": "",
+    "segment_id": "张君劢_002_c870d202_s0005",
+    "segment_index": 5,
+    "source_file": "E:\\1研究生\\岭南大学\\论文毕业\\capstone\\资料\\新的内容开始了\\local_upload\\input_w3\\张君劢.txt"
+  },
+  "entities": [
+    {
+      "id": "e1",
+      "name": "达尔文",
+      "canonical_name": "达尔文",
+      "type": "人物",
+      "evidence": "自有达尔文辈，而后神意之说无所可用，而生物现象乃为科学的",
+      "confidence": 1.0
+    },
+    {
+      "id": "e2",
+      "name": "伽利略",
+      "canonical_name": "伽利略",
+      "type": "人物",
+      "evidence": "及伽利略试验于碧萨塔上",
+      "confidence": 1.0
+    },
+    {
+      "id": "e3",
+      "name": "牛顿",
+      "canonical_name": "牛顿",
+      "type": "人物",
+      "evidence": "牛顿继之，于是有力学三大公例",
+      "confidence": 1.0
+    },
+    {
+      "id": "e4",
+      "name": "开普勒",
+      "canonical_name": "开普勒",
+      "type": "人物",
+      "evidence": "如开普勒之公例，可适用于无论何种天体",
+      "confidence": 1.0
+    },
+    {
+      "id": "e5",
+      "name": "爱因斯坦",
+      "canonical_name": "爱因斯坦",
+      "type": "人物",
+      "evidence": "近年以来，则有爱因斯坦之说",
+      "confidence": 1.0
+    },
+    {
+      "id": "e6",
+      "name": "李尔",
+      "canonical_name": "李尔",
+      "type": "人物",
+      "evidence": "于是有李尔之地质学",
+      "confidence": 1.0
+    },
+    {
+      "id": "e7",
+      "name": "拉马克",
+      "canonical_name": "拉马克",
+      "type": "人物",
+      "evidence": "有拉马克之动物学",
+      "confidence": 1.0
+    },
+    {
+      "id": "e8",
+      "name": "丁在君",
+      "canonical_name": "丁在君",
+      "type": "人物",
+      "evidence": "以在君之语言之，则以为生物学之进化论皆已解决矣",
+      "confidence": 1.0
+    },
+    {
+      "id": "e9",
+      "name": "张君劢",
+      "canonical_name": "张君劢",
+      "type": "人物",
+      "evidence": "张君劢",
+      "confidence": 1.0
+    },
+    {
+      "id": "e10",
+      "name": "科学",
+      "canonical_name": "科学",
+      "type": "概念",
+      "evidence": "第一当求之科学之历史，第二当明物质科学与精神科学之异同",
+      "confidence": 1.0
+    },
+    {
+      "id": "e11",
+      "name": "人生观",
+      "canonical_name": "人生观",
+      "type": "概念",
+      "evidence": "安知人生观不亦等于天文与生物，脱离人意而为科学的",
+      "confidence": 1.0
+    },
+    {
+      "id": "e12",
+      "name": "物质科学",
+      "canonical_name": "物质科学",
+      "type": "概念",
+      "evidence": "第二当明物质科学与精神科学之异同",
+      "confidence": 1.0
+    },
+    {
+      "id": "e13",
+      "name": "精神科学",
+      "canonical_name": "精神科学",
+      "type": "概念",
+      "evidence": "第二当明物质科学与精神科学之异同",
+      "confidence": 1.0
+    },
+    {
+      "id": "e14",
+      "name": "自然公例",
+      "canonical_name": "自然公例",
+      "type": "概念",
+      "evidence": "而后所谓自然公例者乃以成立",
+      "confidence": 1.0
+    },
+    {
+      "id": "e15",
+      "name": "因果关系",
+      "canonical_name": "因果关系",
+      "type": "概念",
+      "evidence": "一曰两现象之因果关系，有甲象起，则乙象随之而至",
+      "confidence": 1.0
+    },
+    {
+      "id": "e16",
+      "name": "进化论",
+      "canonical_name": "进化论",
+      "type": "主义/学说/理论",
+      "evidence": "以在君之语言之，则以为生物学之进化论皆已解决矣",
+      "confidence": 1.0
+    },
+    {
+      "id": "e17",
+      "name": "《物种由来》",
+      "canonical_name": "物种由来",
+      "type": "著作",
+      "evidence": "至达尔文之《物种由来》一书既成",
+      "confidence": 1.0
+    },
+    {
+      "id": "e18",
+      "name": "神意之说",
+      "canonical_name": "神意之说",
+      "type": "概念",
+      "evidence": "自有达尔文辈，而后神意之说无所可用",
+      "confidence": 1.0
+    },
+    {
+      "id": "e19",
+      "name": "天文现象",
+      "canonical_name": "天文现象",
+      "type": "概念",
+      "evidence": "自有哥白尼以后，而后神意之说无所可用，而天文现象乃为科学的",
+      "confidence": 0.8
+    },
+    {
+      "id": "e20",
+      "name": "生物现象",
+      "canonical_name": "生物现象",
+      "type": "概念",
+      "evidence": "自有达尔文辈，而后神意之说无所可用，而生物现象乃为科学的",
+      "confidence": 1.0
+    },
+    {
+      "id": "e21",
+      "name": "物理学",
+      "canonical_name": "物理学",
+      "type": "概念",
+      "evidence": "可知物理学之公例，其不易动摇为何如",
+      "confidence": 1.0
+    },
+    {
+      "id": "e22",
+      "name": "生物学",
+      "canonical_name": "生物学",
+      "type": "概念",
+      "evidence": "十八世纪以降，有欲以物理学之方法施之生物现象者",
+      "confidence": 1.0
+    },
+    {
+      "id": "e23",
+      "name": "地质学",
+      "canonical_name": "地质学",
+      "type": "概念",
+      "evidence": "于是有李尔之地质学",
+      "confidence": 1.0
+    },
+    {
+      "id": "e24",
+      "name": "动物学",
+      "canonical_name": "动物学",
+      "type": "概念",
+      "evidence": "有拉马克之动物学",
+      "confidence": 1.0
+    },
+    {
+      "id": "e25",
+      "name": "哥白尼",
+      "canonical_name": "哥白尼",
+      "type": "人物",
+      "evidence": "自有哥白尼以后，而后神意之说无所可用，而天文现象乃为科学的",
+      "confidence": 0.8
+    }
+  ],
+  "claims": [
+    {
+      "id": "c1",
+      "speaker": "张君劢",
+      "claim": "由既往以推将来，安知人生观不亦等于天文与生物，脱离人意而为科学的",
+      "target": "人生观",
+      "claim_type": "问题提出",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "由既往以推将来，安知人生观不亦等于天文与生物，脱离人意而为科学的",
+      "confidence": 1.0
+    },
+    {
+      "id": "c2",
+      "speaker": "张君劢",
+      "claim": "欲知此事之能否实现，第一当求之科学之历史，第二当明物质科学与精神科学之异同",
+      "target": "科学",
+      "claim_type": "方法论主张",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "欲知此事之能否实现，第一当求之科学之历史，第二当明物质科学与精神科学之异同",
+      "confidence": 1.0
+    },
+    {
+      "id": "c3",
+      "speaker": "张君劢",
+      "claim": "自然公例之特征则有二：一曰两现象之因果关系，有甲象起，则乙象随之而至；二曰已成公例者，可以推及于一切新事实",
+      "target": "自然公例",
+      "claim_type": "定义性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "自然公例之特征则有二：一曰两现象之因果关系，有甲象起，则乙象随之而至，如物之运动，必起于外力之加，故运动与外力则有因果关系者也；二曰已成公例者，可以推及于一切新事实，如开普勒之公例，可适用于无论何种天体，是其例也",
+      "confidence": 1.0
+    },
+    {
+      "id": "c4",
+      "speaker": "张君劢",
+      "claim": "牛顿公例之至今犹能适用，一切物理学家所公认者也",
+      "target": "牛顿公例",
+      "claim_type": "历史解释",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "然牛顿公例之至今犹能适用，一切物理学家所公认者也",
+      "confidence": 1.0
+    },
+    {
+      "id": "c5",
+      "speaker": "张君劢",
+      "claim": "可知物理学之公例，其不易动摇为何如",
+      "target": "物理学",
+      "claim_type": "结论性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "由此观之，可知物理学之公例，其不易动摇为何如",
+      "confidence": 1.0
+    },
+    {
+      "id": "c6",
+      "speaker": "丁在君",
+      "claim": "生物学之进化论皆已解决矣",
+      "target": "进化论",
+      "claim_type": "知识论主张",
+      "claim_status": "间接转述",
+      "polarity": "positive",
+      "evidence": "以在君之语言之，则以为生物学之进化论皆已解决矣",
+      "confidence": 1.0
+    }
+  ],
+  "relations": [
+    {
+      "id": "r1",
+      "head": "哥白尼",
+      "head_type": "人物",
+      "relation": "导致",
+      "relation_subtype": "不适用",
+      "tail": "神意之说",
+      "tail_type": "概念",
+      "polarity": "negative",
+      "evidence": "自有哥白尼以后，而后神意之说无所可用，而天文现象乃为科学的",
+      "confidence": 0.8
+    },
+    {
+      "id": "r2",
+      "head": "达尔文",
+      "head_type": "人物",
+      "relation": "导致",
+      "relation_subtype": "不适用",
+      "tail": "神意之说",
+      "tail_type": "概念",
+      "polarity": "negative",
+      "evidence": "自有达尔文辈，而后神意之说无所可用，而生物现象乃为科学的",
+      "confidence": 1.0
+    },
+    {
+      "id": "r3",
+      "head": "伽利略",
+      "head_type": "人物",
+      "relation": "导致",
+      "relation_subtype": "不适用",
+      "tail": "自然公例",
+      "tail_type": "概念",
+      "polarity": "positive",
+      "evidence": "及伽利略试验于碧萨塔上，而后知物之重轻无择，其下降为同时；继乃求下坠体之迅速，于是得一公例",
+      "confidence": 1.0
+    },
+    {
+      "id": "r4",
+      "head": "牛顿",
+      "head_type": "人物",
+      "relation": "导致",
+      "relation_subtype": "不适用",
+      "tail": "力学三大公例",
+      "tail_type": "概念",
+      "polarity": "positive",
+      "evidence": "牛顿继之，于是有力学三大公例，且得各种公式",
+      "confidence": 1.0
+    },
+    {
+      "id": "r5",
+      "head": "自然公例",
+      "head_type": "概念",
+      "relation": "包含",
+      "relation_subtype": "不适用",
+      "tail": "因果关系",
+      "tail_type": "概念",
+      "polarity": "neutral",
+      "evidence": "一曰两现象之因果关系，有甲象起，则乙象随之而至，如物之运动，必起于外力之加，故运动与外力则有因果关系者也",
+      "confidence": 1.0
+    },
+    {
+      "id": "r6",
+      "head": "开普勒之公例",
+      "head_type": "概念",
+      "relation": "属于",
+      "relation_subtype": "不适用",
+      "tail": "自然公例",
+      "tail_type": "概念",
+      "polarity": "neutral",
+      "evidence": "如开普勒之公例，可适用于无论何种天体，是其例也",
+      "confidence": 1.0
+    },
+    {
+      "id": "r7",
+      "head": "张君劢",
+      "head_type": "人物",
+      "relation": "引用",
+      "relation_subtype": "援引权威支持",
+      "tail": "哥白尼",
+      "tail_type": "人物",
+      "polarity": "positive",
+      "evidence": "自有哥白尼以后，而后神意之说无所可用，而天文现象乃为科学的",
+      "confidence": 0.8
+    },
+    {
+      "id": "r8",
+      "head": "张君劢",
+      "head_type": "人物",
+      "relation": "引用",
+      "relation_subtype": "援引权威支持",
+      "tail": "达尔文",
+      "tail_type": "人物",
+      "polarity": "positive",
+      "evidence": "自有达尔文辈，而后神意之说无所可用，而生物现象乃为科学的",
+      "confidence": 1.0
+    },
+    {
+      "id": "r9",
+      "head": "张君劢",
+      "head_type": "人物",
+      "relation": "引用",
+      "relation_subtype": "援引权威支持",
+      "tail": "伽利略",
+      "tail_type": "人物",
+      "polarity": "positive",
+      "evidence": "及伽利略试验于碧萨塔上，而后知物之重轻无择，其下降为同时",
+      "confidence": 1.0
+    },
+    {
+      "id": "r10",
+      "head": "张君劢",
+      "head_type": "人物",
+      "relation": "引用",
+      "relation_subtype": "援引权威支持",
+      "tail": "牛顿",
+      "tail_type": "人物",
+      "polarity": "positive",
+      "evidence": "牛顿继之，于是有力学三大公例，且得各种公式",
+      "confidence": 1.0
+    },
+    {
+      "id": "r11",
+      "head": "张君劢",
+      "head_type": "人物",
+      "relation": "引用",
+      "relation_subtype": "援引权威支持",
+      "tail": "开普勒",
+      "tail_type": "人物",
+      "polarity": "positive",
+      "evidence": "如开普勒之公例，可适用于无论何种天体，是其例也",
+      "confidence": 1.0
+    },
+    {
+      "id": "r12",
+      "head": "张君劢",
+      "head_type": "人物",
+      "relation": "引用",
+      "relation_subtype": "援引权威支持",
+      "tail": "爱因斯坦",
+      "tail_type": "人物",
+      "polarity": "neutral",
+      "evidence": "近年以来，则有爱因斯坦之说，虽其公例之适用范围有不同",
+      "confidence": 1.0
+    },
+    {
+      "id": "r13",
+      "head": "张君劢",
+      "head_type": "人物",
+      "relation": "引用",
+      "relation_subtype": "援引权威支持",
+      "tail": "李尔",
+      "tail_type": "人物",
+      "polarity": "positive",
+      "evidence": "于是有李尔之地质学",
+      "confidence": 1.0
+    },
+    {
+      "id": "r14",
+      "head": "张君劢",
+      "head_type": "人物",
+      "relation": "引用",
+      "relation_subtype": "援引权威支持",
+      "tail": "拉马克",
+      "tail_type": "人物",
+      "polarity": "positive",
+      "evidence": "有拉马克之动物学",
+      "confidence": 1.0
+    },
+    {
+      "id": "r15",
+      "head": "张君劢",
+      "head_type": "人物",
+      "relation": "引用",
+      "relation_subtype": "援引权威支持",
+      "tail": "《物种由来》",
+      "tail_type": "著作",
+      "polarity": "positive",
+      "evidence": "至达尔文之《物种由来》一书既成，而后各国翕然宗之",
+      "confidence": 1.0
+    },
+    {
+      "id": "r16",
+      "head": "张君劢",
+      "head_type": "人物",
+      "relation": "引用",
+      "relation_subtype": "援引权威支持",
+      "tail": "丁在君",
+      "tail_type": "人物",
+      "polarity": "neutral",
+      "evidence": "以在君之语言之，则以为生物学之进化论皆已解决矣",
+      "confidence": 1.0
+    },
+    {
+      "id": "r17",
+      "head": "张君劢",
+      "head_type": "人物",
+      "relation": "主张",
+      "relation_subtype": "不适用",
+      "tail": "c1",
+      "tail_type": "观点",
+      "polarity": "neutral",
+      "evidence": "由既往以推将来，安知人生观不亦等于天文与生物，脱离人意而为科学的",
+      "confidence": 1.0
+    },
+    {
+      "id": "r18",
+      "head": "张君劢",
+      "head_type": "人物",
+      "relation": "主张",
+      "relation_subtype": "不适用",
+      "tail": "c2",
+      "tail_type": "观点",
+      "polarity": "neutral",
+      "evidence": "欲知此事之能否实现，第一当求之科学之历史，第二当明物质科学与精神科学之异同",
+      "confidence": 1.0
+    },
+    {
+      "id": "r19",
+      "head": "张君劢",
+      "head_type": "人物",
+      "relation": "主张",
+      "relation_subtype": "不适用",
+      "tail": "c3",
+      "tail_type": "观点",
+      "polarity": "neutral",
+      "evidence": "自然公例之特征则有二：一曰两现象之因果关系，有甲象起，则乙象随之而至；二曰已成公例者，可以推及于一切新事实",
+      "confidence": 1.0
+    },
+    {
+      "id": "r20",
+      "head": "张君劢",
+      "head_type": "人物",
+      "relation": "主张",
+      "relation_subtype": "不适用",
+      "tail": "c4",
+      "tail_type": "观点",
+      "polarity": "positive",
+      "evidence": "然牛顿公例之至今犹能适用，一切物理学家所公认者也",
+      "confidence": 1.0
+    },
+    {
+      "id": "r21",
+      "head": "张君劢",
+      "head_type": "人物",
+      "relation": "主张",
+      "relation_subtype": "不适用",
+      "tail": "c5",
+      "tail_type": "观点",
+      "polarity": "positive",
+      "evidence": "由此观之，可知物理学之公例，其不易动摇为何如",
+      "confidence": 1.0
+    },
+    {
+      "id": "r22",
+      "head": "丁在君",
+      "head_type": "人物",
+      "relation": "主张",
+      "relation_subtype": "不适用",
+      "tail": "c6",
+      "tail_type": "观点",
+      "polarity": "positive",
+      "evidence": "以在君之语言之，则以为生物学之进化论皆已解决矣",
+      "confidence": 1.0
+    }
+  ],
+  "definitions": [
+    {
+      "id": "def1",
+      "term": "自然公例",
+      "definition": "自然公例有两个特征：一是两现象之间的因果关系，有甲象起则乙象随之而至；二是已成公例可以推及于一切新事实",
+      "evidence": "自然公例之特征则有二：一曰两现象之因果关系，有甲象起，则乙象随之而至，如物之运动，必起于外力之加，故运动与外力则有因果关系者也；二曰已成公例者，可以推及于一切新事实，如开普勒之公例，可适用于无论何种天体，是其例也",
+      "confidence": 1.0
+    }
+  ],
+  "citations": [
+    {
+      "id": "cit1",
+      "citer": "张君劢",
+      "quoted_author": "哥白尼",
+      "quoted_work": "",
+      "quoted_claim": "神意之说无所可用，天文现象乃为科学的",
+      "function": "援引权威支持",
+      "evidence": "自有哥白尼以后，而后神意之说无所可用，而天文现象乃为科学的",
+      "confidence": 0.8
+    },
+    {
+      "id": "cit2",
+      "citer": "张君劢",
+      "quoted_author": "达尔文",
+      "quoted_work": "《物种由来》",
+      "quoted_claim": "神意之说无所可用，生物现象乃为科学的",
+      "function": "援引权威支持",
+      "evidence": "自有达尔文辈，而后神意之说无所可用，而生物现象乃为科学的",
+      "confidence": 1.0
+    },
+    {
+      "id": "cit3",
+      "citer": "张君劢",
+      "quoted_author": "伽利略",
+      "quoted_work": "",
+      "quoted_claim": "物之重轻无择，其下降为同时；迟速与下坠时刻为正比例",
+      "function": "援引权威支持",
+      "evidence": "及伽利略试验于碧萨塔上，而后知物之重轻无择，其下降为同时；继乃求下坠体之迅速，于是得一公例，曰迟速与下坠时刻为正比例",
+      "confidence": 1.0
+    },
+    {
+      "id": "cit4",
+      "citer": "张君劢",
+      "quoted_author": "牛顿",
+      "quoted_work": "",
+      "quoted_claim": "力学三大公例，且得各种公式",
+      "function": "援引权威支持",
+      "evidence": "牛顿继之，于是有力学三大公例，且得各种公式",
+      "confidence": 1.0
+    },
+    {
+      "id": "cit5",
+      "citer": "张君劢",
+      "quoted_author": "开普勒",
+      "quoted_work": "",
+      "quoted_claim": "开普勒之公例可适用于无论何种天体",
+      "function": "援引权威支持",
+      "evidence": "如开普勒之公例，可适用于无论何种天体，是其例也",
+      "confidence": 1.0
+    },
+    {
+      "id": "cit6",
+      "citer": "张君劢",
+      "quoted_author": "爱因斯坦",
+      "quoted_work": "",
+      "quoted_claim": "公例之适用范围有不同",
+      "function": "援引权威支持",
+      "evidence": "近年以来，则有爱因斯坦之说，虽其公例之适用范围有不同",
+      "confidence": 1.0
+    },
+    {
+      "id": "cit7",
+      "citer": "张君劢",
+      "quoted_author": "李尔",
+      "quoted_work": "",
+      "quoted_claim": "地质学",
+      "function": "援引权威支持",
+      "evidence": "于是有李尔之地质学",
+      "confidence": 1.0
+    },
+    {
+      "id": "cit8",
+      "citer": "张君劢",
+      "quoted_author": "拉马克",
+      "quoted_work": "",
+      "quoted_claim": "动物学",
+      "function": "援引权威支持",
+      "evidence": "有拉马克之动物学",
+      "confidence": 1.0
+    },
+    {
+      "id": "cit9",
+      "citer": "张君劢",
+      "quoted_author": "丁在君",
+      "quoted_work": "",
+      "quoted_claim": "生物学之进化论皆已解决矣",
+      "function": "援引权威支持",
+      "evidence": "以在君之语言之，则以为生物学之进化论皆已解决矣",
+      "confidence": 1.0
+    }
+  ],
+  "rhetorical_devices": [],
+  "uncertainties": [
+    {
+      "item": "文本中“自有哥白尼以后”一句，哥白尼的名字在提供的文本片段中并未逐字出现，但根据常识推断此处应指哥白尼。由于抽取原则要求实体名必须在evidence中逐字出现，故哥白尼相关实体和引用的置信度设为0.8。",
+      "reason": "哥白尼的名字未在当前文本片段中逐字出现，但根据上下文推断其存在。"
+    }
+  ]
+}

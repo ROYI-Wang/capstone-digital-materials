@@ -1,0 +1,250 @@
+{
+  "metadata": {
+    "schema_version": "lite_v2.0",
+    "article_id": "吴稚晖_001_b4c0e810",
+    "article_title": "一个新信仰的宇宙观及人生观",
+    "source_author": "吴稚晖",
+    "section_title": "讲到这里，第一层可先用不值钱的玄学理想，近乎游戏的，说道毛厕里的石头亦有感觉。苍蝇的感觉，非即人的感觉，他们感觉的状况，颇极差等。玫瑰树的感觉，非即苍蝇的感觉，他们的感觉，又极差等。如是焉能禁我来瞎说，毛厕里石头的感觉，非即玫瑰树的感觉，他们感觉的状况，也极差等。若欲强分高下，则石头有其寂然不动的感觉，真所谓无私心而合天理，所以贞固永寿。一块毛厕里的石头，可以阅几十代人而依然如故，见数百兆苍蝇存灭，看千万棵玫瑰树忽而芬芳，忽而萎枯。彼如曰毛厕里的石头为万物之灵，理由亦未尝不充足。彼另有彼之可感与彼之可觉，人与苍蝇及玫瑰树之感觉，皆非彼所需，故亦非彼所有，如是而已。然这种蹈空的掉枪花，我们中国古代的玄学鬼常用“孰为正色，孰为正味”等的论调，闹得甚嚣尘上。自然受过科学洗礼的玄学鬼，不肯就把这种空言，来作惟一的搪塞。所以说到第二层，他就要戴上科学面具，正正经经，板起了面孔，来断定毛厕里的石头亦有感觉。他不是说能够按",
+    "section_author": "讲到这里，第一层可先用不值钱的玄学理想，近乎游戏的，说道毛厕里的石头亦有感觉。苍蝇的感觉，非即人的感觉，他们感觉的状况，颇极差等。玫瑰树的感觉，非即苍蝇的感觉，他们的感觉，又极差等。如是焉能禁我来瞎说，毛厕里石头的感觉，非即玫瑰树的感觉，他们感觉的状况，也极差等。若欲强分高下，则石头有其寂然不动的感觉，真所谓无私心而合天理，所以贞固永寿。一块毛厕里的石头，可以阅几十代人而依然如故，见数百兆苍蝇存灭，看千万棵玫瑰树忽而芬芳，忽而萎枯。彼如曰毛厕里的石头为万物之灵，理由亦未尝不充足。彼另有彼之可感与彼之可觉，人与苍蝇及玫瑰树之感觉，皆非彼所需，故亦非彼所有，如是而已。然这种蹈空的掉枪花，我们中国古代的玄学鬼常用“孰为正色，孰为正味”等的论调，闹得甚嚣尘上。自然受过科学洗礼的玄学鬼，不肯就把这种空言，来作惟一的搪塞。所以说到第二层，他就要戴上科学面具，正正经经，板起了面孔，来断定毛厕里的石头亦有感觉。他不是说能够",
+    "segment_id": "吴稚晖_001_b4c0e810_s0053",
+    "segment_index": 53,
+    "source_file": "E:\\1研究生\\岭南大学\\论文毕业\\capstone\\资料\\新的内容开始了\\local_upload\\input_w0\\吴稚晖.txt"
+  },
+  "entities": [
+    {
+      "id": "e1",
+      "name": "我",
+      "canonical_name": "吴稚晖",
+      "type": "人物",
+      "evidence": "我们尚未发现",
+      "confidence": 0.9
+    },
+    {
+      "id": "e2",
+      "name": "我佛慈悲",
+      "canonical_name": "佛教",
+      "type": "概念",
+      "evidence": "这就是我佛慈悲，主张素食的一个办法",
+      "confidence": 0.8
+    },
+    {
+      "id": "e3",
+      "name": "和尚",
+      "canonical_name": "和尚",
+      "type": "阵营/群体",
+      "evidence": "但和尚到底不及博士",
+      "confidence": 0.9
+    },
+    {
+      "id": "e4",
+      "name": "博士",
+      "canonical_name": "博士",
+      "type": "阵营/群体",
+      "evidence": "但和尚到底不及博士",
+      "confidence": 0.8
+    },
+    {
+      "id": "e5",
+      "name": "科学博士",
+      "canonical_name": "科学博士",
+      "type": "阵营/群体",
+      "evidence": "就是科学博士要想在金石中取出蛋白质",
+      "confidence": 0.9
+    },
+    {
+      "id": "e6",
+      "name": "佛学",
+      "canonical_name": "佛学",
+      "type": "概念",
+      "evidence": "如此要想从佛学进一步，不就是科学么？",
+      "confidence": 0.9
+    },
+    {
+      "id": "e7",
+      "name": "科学",
+      "canonical_name": "科学",
+      "type": "概念",
+      "evidence": "不就是科学么？",
+      "confidence": 0.9
+    },
+    {
+      "id": "e8",
+      "name": "精虫",
+      "canonical_name": "精虫",
+      "type": "概念",
+      "evidence": "第二条的，例如精虫及子卵",
+      "confidence": 0.9
+    },
+    {
+      "id": "e9",
+      "name": "子卵",
+      "canonical_name": "子卵",
+      "type": "概念",
+      "evidence": "第二条的，例如精虫及子卵",
+      "confidence": 0.9
+    },
+    {
+      "id": "e10",
+      "name": "显微镜",
+      "canonical_name": "显微镜",
+      "type": "概念",
+      "evidence": "有显微镜片子及书本的插图可看",
+      "confidence": 0.9
+    },
+    {
+      "id": "e11",
+      "name": "精虫宇宙史",
+      "canonical_name": "精虫宇宙史",
+      "type": "概念",
+      "evidence": "这就是全部的精虫宇宙史",
+      "confidence": 0.8
+    },
+    {
+      "id": "e12",
+      "name": "痨病虫",
+      "canonical_name": "痨病虫",
+      "type": "概念",
+      "evidence": "可含痨病虫二百兆尾",
+      "confidence": 0.9
+    }
+  ],
+  "claims": [
+    {
+      "id": "c1",
+      "speaker": "吴稚晖",
+      "claim": "和尚到底不及博士",
+      "target": "和尚",
+      "claim_type": "价值评价",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "但和尚到底不及博士",
+      "confidence": 0.9
+    },
+    {
+      "id": "c2",
+      "speaker": "吴稚晖",
+      "claim": "科学博士要想在金石中取出蛋白质，乃博士使将来能实行古代风流天子辟谷饵金石的仙方",
+      "target": "科学博士",
+      "claim_type": "社会理论主张",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "就是科学博士要想在金石中取出蛋白质，乃博士使将来能实行古代风流天子辟谷饵金石的仙方",
+      "confidence": 0.8
+    },
+    {
+      "id": "c3",
+      "speaker": "吴稚晖",
+      "claim": "从佛学进一步，不就是科学么？",
+      "target": "佛学",
+      "claim_type": "问题提出",
+      "claim_status": "作者推论",
+      "polarity": "positive",
+      "evidence": "如此要想从佛学进一步，不就是科学么？",
+      "confidence": 0.8
+    },
+    {
+      "id": "c4",
+      "speaker": "吴稚晖",
+      "claim": "精虫是无用，老僧摇头不敢答",
+      "target": "精虫",
+      "claim_type": "价值评价",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "所以叫精虫是无用，老僧摇头不敢答",
+      "confidence": 0.8
+    }
+  ],
+  "relations": [
+    {
+      "id": "r1",
+      "head": "和尚",
+      "head_type": "阵营/群体",
+      "relation": "对比",
+      "tail": "博士",
+      "tail_type": "阵营/群体",
+      "polarity": "negative",
+      "evidence": "但和尚到底不及博士",
+      "confidence": 0.9
+    },
+    {
+      "id": "r2",
+      "head": "佛学",
+      "head_type": "概念",
+      "relation": "发展",
+      "tail": "科学",
+      "tail_type": "概念",
+      "polarity": "positive",
+      "evidence": "如此要想从佛学进一步，不就是科学么？",
+      "confidence": 0.8
+    }
+  ],
+  "definitions": [],
+  "citations": [],
+  "rhetorical_devices": [
+    {
+      "id": "rh1",
+      "expression": "比北京前门大街在热闹时的过客，还要繁忙",
+      "device_type": "类比",
+      "literal_target": "精虫在显微镜下的运动",
+      "function": "形象化描述精虫的活跃状态",
+      "evidence": "比北京前门大街在热闹时的过客，还要繁忙",
+      "confidence": 0.9
+    },
+    {
+      "id": "rh2",
+      "expression": "玻璃世界大约酸化了，起了超过东京地震的大灾",
+      "device_type": "比喻",
+      "literal_target": "精虫在酸性环境中死亡",
+      "function": "夸张描述精虫死亡的过程",
+      "evidence": "玻璃世界大约酸化了，起了超过东京地震的大灾",
+      "confidence": 0.9
+    },
+    {
+      "id": "rh3",
+      "expression": "一齐超入涅槃",
+      "device_type": "比喻",
+      "literal_target": "精虫全部死亡",
+      "function": "用佛教术语比喻死亡，带有讽刺意味",
+      "evidence": "一齐超入涅槃",
+      "confidence": 0.9
+    },
+    {
+      "id": "rh4",
+      "expression": "剩着粘滴滴的鼻涕一团",
+      "device_type": "比喻",
+      "literal_target": "死亡后的精虫残渣",
+      "function": "用低俗比喻降低精虫的神圣性",
+      "evidence": "剩着粘滴滴的鼻涕一团",
+      "confidence": 0.9
+    }
+  ],
+  "uncertainties": [
+    {
+      "item": "吴稚晖是否在讽刺佛教素食主张",
+      "reason": "文本中“我佛慈悲，主张素食的一个办法”等表述可能带有讽刺，但语气不够明确"
+    },
+    {
+      "item": "“老僧”是否指代特定人物或泛指",
+      "reason": "文本中“老僧摇头不敢答”未明确说明具体指代"
+    }
+  ],
+  "_meta": {
+    "status": "success",
+    "stage": "extract",
+    "model": "deepseek-ai/DeepSeek-V4-Flash",
+    "base_url": "https://api.siliconflow.cn/v1",
+    "prompt_version": "extract_prompt_v2.0",
+    "schema_version": "lite_v2.0",
+    "segment_id": "吴稚晖_001_b4c0e810_s0053",
+    "article_id": "吴稚晖_001_b4c0e810",
+    "char_start": 26289,
+    "char_end": 26887,
+    "raw_path": "E:\\1研究生\\岭南大学\\论文毕业\\capstone\\资料\\新的内容开始了\\local_upload\\kg_runs\\吴稚晖\\raw_outputs\\extract\\吴稚晖_001_b4c0e810_s0053.txt",
+    "parsed_at": "2026-05-20T04:59:32",
+    "started_at": "2026-05-20T04:58:13",
+    "elapsed_seconds": 78.234,
+    "strict_evidence_check": true,
+    "drop_unsupported_evidence": true,
+    "request_timeout_seconds": 180
+  }
+}

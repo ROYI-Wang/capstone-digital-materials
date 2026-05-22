@@ -1,0 +1,334 @@
+{
+  "metadata": {
+    "schema_version": "lite_v2.0",
+    "article_id": "张君劢_002_c870d202",
+    "article_title": "再论人生观与科学并答丁在君",
+    "source_author": "张君劢",
+    "section_title": "",
+    "section_author": "",
+    "segment_id": "张君劢_002_c870d202_s0016",
+    "segment_index": 16,
+    "source_file": "E:\\1研究生\\岭南大学\\论文毕业\\capstone\\资料\\新的内容开始了\\local_upload\\input_w3\\张君劢.txt"
+  },
+  "entities": [
+    {
+      "id": "e1",
+      "name": "张君劢",
+      "canonical_name": "张君劢",
+      "type": "人物",
+      "evidence": "依君言观之，似不绝对否认精神科学中之公例，果何以于人生观？则曰，决不为科学所支配。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e2",
+      "name": "精神科学",
+      "canonical_name": "精神科学",
+      "type": "概念",
+      "evidence": "或者读吾关于精神科学之言论，必反诘曰，依君言观之，似不绝对否认精神科学中之公例，果何以于人生观？",
+      "confidence": 1.0
+    },
+    {
+      "id": "e3",
+      "name": "人生观",
+      "canonical_name": "人生观",
+      "type": "概念",
+      "evidence": "果何以于人生观？则曰，决不为科学所支配。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e4",
+      "name": "科学",
+      "canonical_name": "科学",
+      "type": "概念",
+      "evidence": "决不为科学所支配。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e5",
+      "name": "社会科学",
+      "canonical_name": "社会科学",
+      "type": "概念",
+      "evidence": "社会科学固与人生观相表里，然社会科学，其一部对象为物质部分。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e6",
+      "name": "物质",
+      "canonical_name": "物质",
+      "type": "概念",
+      "evidence": "物质固定而凝滞，故有公例可求。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e7",
+      "name": "欧立克",
+      "canonical_name": "欧立克",
+      "type": "人物",
+      "evidence": "欧立克所谓不可测度之部分，即我之所谓人生观也。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e8",
+      "name": "精神",
+      "canonical_name": "精神",
+      "type": "概念",
+      "evidence": "内曰精神，外曰物质。内之精神变动而不居，外之物质凝滞而不进。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e9",
+      "name": "论理学上之三公例",
+      "canonical_name": "论理学上之三公例",
+      "type": "概念",
+      "evidence": "试问论理学上之三公例（曰同一，曰矛盾，曰排中），何者能证其合不合乎？",
+      "confidence": 1.0
+    },
+    {
+      "id": "e10",
+      "name": "论理学上之两大方法",
+      "canonical_name": "论理学上之两大方法",
+      "type": "概念",
+      "evidence": "论理学上之两大方法（曰内纳，曰外绎），何者能推定其前后之相生乎？",
+      "confidence": 1.0
+    }
+  ],
+  "claims": [
+    {
+      "id": "c1",
+      "speaker": "张君劢",
+      "claim": "人生观决不为科学所支配。",
+      "target": "人生观",
+      "claim_type": "定义性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "则曰，决不为科学所支配。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c2",
+      "speaker": "张君劢",
+      "claim": "社会科学固与人生观相表里，但社会科学一部分对象为物质部分，物质有公例可求。",
+      "target": "社会科学",
+      "claim_type": "定义性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "社会科学固与人生观相表里，然社会科学，其一部对象为物质部分。物质固定而凝滞，故有公例可求。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c3",
+      "speaker": "张君劢",
+      "claim": "欧立克所谓不可测度之部分，即我之所谓人生观。",
+      "target": "人生观",
+      "claim_type": "定义性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "欧立克所谓不可测度之部分，即我之所谓人生观也。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c4",
+      "speaker": "张君劢",
+      "claim": "内之精神变动而不居，外之物质凝滞而不进。",
+      "target": "精神",
+      "claim_type": "本体论主张",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "内之精神变动而不居，外之物质凝滞而不进。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c5",
+      "speaker": "张君劢",
+      "claim": "所谓物质者，凡我以外者皆属之。",
+      "target": "物质",
+      "claim_type": "定义性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "所谓物质者，凡我以外者皆属之。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c6",
+      "speaker": "张君劢",
+      "claim": "我对于我以外之物与人，常有所观察也，主张也，希望也，要求也，是之谓人生观。",
+      "target": "人生观",
+      "claim_type": "定义性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "我对于我以外之物与人，常有所观察也，主张也，希望也，要求也，是之谓人生观。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c7",
+      "speaker": "张君劢",
+      "claim": "人生者，变也，活动也，自由也，创造也。",
+      "target": "人生",
+      "claim_type": "定义性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "故曰人生者，变也，活动也，自由也，创造也。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c8",
+      "speaker": "张君劢",
+      "claim": "论理学上之三公例（同一、矛盾、排中）不能证人生观之合不合。",
+      "target": "论理学上之三公例",
+      "claim_type": "知识论主张",
+      "claim_status": "作者推论",
+      "polarity": "negative",
+      "evidence": "试问论理学上之三公例（曰同一，曰矛盾，曰排中），何者能证其合不合乎？",
+      "confidence": 1.0
+    },
+    {
+      "id": "c9",
+      "speaker": "张君劢",
+      "claim": "论理学上之两大方法（内纳、外绎）不能推定人生观前后之相生。",
+      "target": "论理学上之两大方法",
+      "claim_type": "知识论主张",
+      "claim_status": "作者推论",
+      "polarity": "negative",
+      "evidence": "论理学上之两大方法（曰内纳，曰外绎），何者能推定其前后之相生乎？",
+      "confidence": 1.0
+    }
+  ],
+  "relations": [
+    {
+      "id": "r1",
+      "head": "张君劢",
+      "head_type": "人物",
+      "relation": "回应",
+      "relation_subtype": "概念澄清",
+      "tail": "读者",
+      "tail_type": "阵营/群体",
+      "polarity": "neutral",
+      "evidence": "或者读吾关于精神科学之言论，必反诘曰，依君言观之，似不绝对否认精神科学中之公例，果何以于人生观？则曰，决不为科学所支配。",
+      "confidence": 1.0
+    },
+    {
+      "id": "r2",
+      "head": "张君劢",
+      "head_type": "人物",
+      "relation": "区分",
+      "relation_subtype": "概念澄清",
+      "tail": "人生观",
+      "tail_type": "概念",
+      "polarity": "neutral",
+      "evidence": "清华讲演为人生观与科学之对照，非精神科学与物质科学之对照，故不能以我对于社会科学之态度，反驳吾人生观绝对自由之说也。",
+      "confidence": 1.0
+    },
+    {
+      "id": "r3",
+      "head": "社会科学",
+      "head_type": "概念",
+      "relation": "包含",
+      "relation_subtype": "不适用",
+      "tail": "物质",
+      "tail_type": "概念",
+      "polarity": "neutral",
+      "evidence": "社会科学固与人生观相表里，然社会科学，其一部对象为物质部分。",
+      "confidence": 1.0
+    },
+    {
+      "id": "r4",
+      "head": "物质",
+      "head_type": "概念",
+      "relation": "导致",
+      "relation_subtype": "不适用",
+      "tail": "公例",
+      "tail_type": "概念",
+      "polarity": "positive",
+      "evidence": "物质固定而凝滞，故有公例可求。",
+      "confidence": 1.0
+    },
+    {
+      "id": "r5",
+      "head": "欧立克",
+      "head_type": "人物",
+      "relation": "定义",
+      "relation_subtype": "概念澄清",
+      "tail": "人生观",
+      "tail_type": "概念",
+      "polarity": "neutral",
+      "evidence": "欧立克所谓不可测度之部分，即我之所谓人生观也。",
+      "confidence": 1.0
+    },
+    {
+      "id": "r6",
+      "head": "精神",
+      "head_type": "概念",
+      "relation": "对比",
+      "relation_subtype": "不适用",
+      "tail": "物质",
+      "tail_type": "概念",
+      "polarity": "neutral",
+      "evidence": "内之精神变动而不居，外之物质凝滞而不进。",
+      "confidence": 1.0
+    },
+    {
+      "id": "r7",
+      "head": "人生观",
+      "head_type": "概念",
+      "relation": "属于",
+      "relation_subtype": "不适用",
+      "tail": "欧立克所谓不可测度之部分",
+      "tail_type": "概念",
+      "polarity": "neutral",
+      "evidence": "欧立克所谓不可测度之部分，即我之所谓人生观也。",
+      "confidence": 1.0
+    }
+  ],
+  "definitions": [
+    {
+      "id": "def1",
+      "term": "人生观",
+      "definition": "我对于我以外之物与人，常有所观察、主张、希望、要求，是之谓人生观。",
+      "evidence": "我对于我以外之物与人，常有所观察也，主张也，希望也，要求也，是之谓人生观。",
+      "confidence": 1.0
+    },
+    {
+      "id": "def2",
+      "term": "物质",
+      "definition": "凡我以外者皆属之，包括大地山河、衣服田宅等物，以及父母妻子、国家社会等人。",
+      "evidence": "所谓物质者，凡我以外者皆属之。如大地山河，如衣服田宅，则我以外之物也；如父母妻子，如国家社会，则我以外之人也。",
+      "confidence": 1.0
+    },
+    {
+      "id": "def3",
+      "term": "人生",
+      "definition": "人生是变、活动、自由、创造。",
+      "evidence": "故曰人生者，变也，活动也，自由也，创造也。",
+      "confidence": 1.0
+    }
+  ],
+  "citations": [
+    {
+      "id": "cit1",
+      "citer": "张君劢",
+      "quoted_author": "欧立克",
+      "quoted_work": "",
+      "quoted_claim": "不可测度之部分",
+      "function": "援引权威支持",
+      "evidence": "欧立克所谓不可测度之部分，即我之所谓人生观也。",
+      "confidence": 1.0
+    }
+  ],
+  "rhetorical_devices": [
+    {
+      "id": "rh1",
+      "expression": "精神物质之冲突",
+      "device_type": "比喻",
+      "literal_target": "精神与物质之间的对立关系",
+      "function": "形象化地描述精神与物质之间的根本矛盾",
+      "evidence": "虽谓古今以来之大问题，不出此精神物质之冲突可也。",
+      "confidence": 1.0
+    }
+  ],
+  "uncertainties": [
+    {
+      "item": "读者是否指代特定人物或群体",
+      "reason": "文本中仅出现'或者读吾关于精神科学之言论'，未明确读者身份。"
+    }
+  ]
+}

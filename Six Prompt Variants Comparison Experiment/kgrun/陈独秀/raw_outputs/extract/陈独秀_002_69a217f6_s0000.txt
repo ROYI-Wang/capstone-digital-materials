@@ -1,0 +1,363 @@
+{
+  "metadata": {
+    "schema_version": "lite_v2.0",
+    "article_id": "陈独秀_002_69a217f6",
+    "article_title": "答张君劢及梁任公",
+    "source_author": "陈独秀",
+    "section_title": "",
+    "section_author": "",
+    "segment_id": "陈独秀_002_69a217f6_s0000",
+    "segment_index": 0,
+    "source_file": "E:\\1研究生\\岭南大学\\论文毕业\\capstone\\资料\\新的内容开始了\\local_upload\\input_w2\\陈独秀.txt"
+  },
+  "entities": [
+    {
+      "id": "e1",
+      "name": "张君劢",
+      "canonical_name": "张君劢",
+      "type": "人物",
+      "evidence": "张君劢在《人生观之论战》序中，对于适之及余之意见加以驳诘",
+      "confidence": 1.0
+    },
+    {
+      "id": "e2",
+      "name": "适之",
+      "canonical_name": "胡适",
+      "type": "人物",
+      "evidence": "对于适之及余之意见加以驳诘",
+      "confidence": 1.0
+    },
+    {
+      "id": "e3",
+      "name": "余",
+      "canonical_name": "陈独秀",
+      "type": "人物",
+      "evidence": "对于适之及余之意见加以驳诘",
+      "confidence": 1.0
+    },
+    {
+      "id": "e4",
+      "name": "《人生观之论战》",
+      "canonical_name": "《人生观之论战》",
+      "type": "著作",
+      "evidence": "张君劢在《人生观之论战》序中",
+      "confidence": 1.0
+    },
+    {
+      "id": "e5",
+      "name": "马氏",
+      "canonical_name": "马克思",
+      "type": "人物",
+      "evidence": "马氏自名其主义曰科学的社会主义",
+      "confidence": 1.0
+    },
+    {
+      "id": "e6",
+      "name": "科学的社会主义",
+      "canonical_name": "科学的社会主义",
+      "type": "主义/学说/理论",
+      "evidence": "马氏自名其主义曰科学的社会主义",
+      "confidence": 1.0
+    },
+    {
+      "id": "e7",
+      "name": "翁文辈",
+      "canonical_name": "翁文辈",
+      "type": "人物",
+      "evidence": "以别于翁文辈之乌托邦的理想",
+      "confidence": 0.8
+    },
+    {
+      "id": "e8",
+      "name": "乌托邦的理想",
+      "canonical_name": "乌托邦的理想",
+      "type": "概念",
+      "evidence": "以别于翁文辈之乌托邦的理想",
+      "confidence": 0.9
+    },
+    {
+      "id": "e9",
+      "name": "惟物史观",
+      "canonical_name": "唯物史观",
+      "type": "主义/学说/理论",
+      "evidence": "遵正反合之惟物史观之原则",
+      "confidence": 1.0
+    },
+    {
+      "id": "e10",
+      "name": "资本主义",
+      "canonical_name": "资本主义",
+      "type": "概念",
+      "evidence": "资本主义之崩坏为不可逃之数",
+      "confidence": 1.0
+    },
+    {
+      "id": "e11",
+      "name": "社会科学",
+      "canonical_name": "社会科学",
+      "type": "概念",
+      "evidence": "都是因为不明白社会科学之方法论的缘故",
+      "confidence": 1.0
+    },
+    {
+      "id": "e12",
+      "name": "因果律",
+      "canonical_name": "因果律",
+      "type": "概念",
+      "evidence": "因果律虽是一切科学共通的原则",
+      "confidence": 1.0
+    },
+    {
+      "id": "e13",
+      "name": "科学",
+      "canonical_name": "科学",
+      "type": "概念",
+      "evidence": "因果律虽是一切科学共通的原则",
+      "confidence": 1.0
+    },
+    {
+      "id": "e14",
+      "name": "方法论",
+      "canonical_name": "方法论",
+      "type": "方法论原则",
+      "evidence": "各种科学之方法论却各不相同",
+      "confidence": 1.0
+    },
+    {
+      "id": "e15",
+      "name": "自然科学",
+      "canonical_name": "自然科学",
+      "type": "概念",
+      "evidence": "不但社会科学和自然科学不同",
+      "confidence": 1.0
+    },
+    {
+      "id": "e16",
+      "name": "数学",
+      "canonical_name": "数学",
+      "type": "概念",
+      "evidence": "即自然科学中，数学和化学动植物学都各不相同",
+      "confidence": 1.0
+    },
+    {
+      "id": "e17",
+      "name": "化学",
+      "canonical_name": "化学",
+      "type": "概念",
+      "evidence": "即自然科学中，数学和化学动植物学都各不相同",
+      "confidence": 1.0
+    },
+    {
+      "id": "e18",
+      "name": "动植物学",
+      "canonical_name": "动植物学",
+      "type": "概念",
+      "evidence": "即自然科学中，数学和化学动植物学都各不相同",
+      "confidence": 1.0
+    },
+    {
+      "id": "e19",
+      "name": "劳动运动",
+      "canonical_name": "劳动运动",
+      "type": "概念",
+      "evidence": "一社会中资本主义的工业发达起来，其社会中劳动运动必将因之发生",
+      "confidence": 1.0
+    },
+    {
+      "id": "e20",
+      "name": "马克思科学的社会主义",
+      "canonical_name": "马克思科学的社会主义",
+      "type": "主义/学说/理论",
+      "evidence": "马克思科学的社会主义，预料资本主义必由发达而崩坏",
+      "confidence": 1.0
+    },
+    {
+      "id": "e21",
+      "name": "社会主义",
+      "canonical_name": "社会主义",
+      "type": "概念",
+      "evidence": "崩坏后继之者必为社会主义",
+      "confidence": 1.0
+    }
+  ],
+  "claims": [
+    {
+      "id": "c1",
+      "speaker": "张君劢",
+      "claim": "马氏自名其主义曰科学的社会主义，以别于翁文辈之乌托邦的理想，且推定生计上之进化，遵正反合之惟物史观之原则，故资本主义之崩坏为不可逃之数。然自今日观之，以欧洲而言，资本主义之成熟，英远在俄上，顾劳农革命，何以不起于英而起于俄乎？以俄与德较，则德资本主义之成熟又在俄上，何以德之革命成绩，反居俄后乎？",
+      "target": "马克思科学的社会主义",
+      "claim_type": "反驳性主张",
+      "claim_status": "间接转述",
+      "polarity": "negative",
+      "evidence": "张君劢说：“马氏自名其主义曰科学的社会主义，以别于翁文辈之乌托邦的理想，且推定生计上之进化，遵正反合之惟物史观之原则，故资本主义之崩坏为不可逃之数。然自今日观之，以欧洲而言，资本主义之成熟，英远在俄上，顾劳农革命，何以不起于英而起于俄乎？以俄与德较，则德资本主义之成熟又在俄上，何以德之革命成绩，反居俄后乎？”",
+      "confidence": 1.0
+    },
+    {
+      "id": "c2",
+      "speaker": "陈独秀",
+      "claim": "怀这样疑问的人，世界上很多，不止中国张君劢一人，都是因为不明白社会科学之方法论的缘故。",
+      "target": "张君劢",
+      "claim_type": "论战策略批评",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "怀这样疑问的人，世界上很多，不止中国张君劢一人，都是因为不明白社会科学之方法论的缘故。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c3",
+      "speaker": "陈独秀",
+      "claim": "因果律虽是一切科学共通的原则，而各种科学之方法论却各不相同，不但社会科学和自然科学不同，即自然科学中，数学和化学动植物学都各不相同。",
+      "target": "方法论",
+      "claim_type": "方法论主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "因果律虽是一切科学共通的原则，而各种科学之方法论却各不相同，不但社会科学和自然科学不同，即自然科学中，数学和化学动植物学都各不相同。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c4",
+      "speaker": "陈独秀",
+      "claim": "社会上有相类的因之现象，必将有相类的果之现象；惟其果之现象之特定的时空及现象中之个体现象，则另有其因果关系，而非社会科学范围以内之事，这本是社会科学重要方法之一。",
+      "target": "社会科学",
+      "claim_type": "方法论主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "社会上有相类的因之现象，必将有相类的果之现象；惟其果之现象之特定的时空及现象中之个体现象，则另有其因果关系，而非社会科学范围以内之事，这本是社会科学重要方法之一。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c5",
+      "speaker": "陈独秀",
+      "claim": "一社会中资本主义的工业发达起来，其社会中劳动运动必将因之发生，此一社会科学之公例，在各国简直没有例外；而其劳动运动将发生于何日何地以及运动中之领袖将为何人，此事只有请问六壬卜算大家，社会科学无此神通。",
+      "target": "社会科学",
+      "claim_type": "方法论主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "一社会中资本主义的工业发达起来，其社会中劳动运动必将因之发生，此一社会科学之公例，在各国简直没有例外；而其劳动运动将发生于何日何地以及运动中之领袖将为何人，此事只有请问六壬卜算大家，社会科学无此神通。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c6",
+      "speaker": "陈独秀",
+      "claim": "马克思科学的社会主义，预料资本主义必由发达而崩坏，崩坏后继之者必为社会主义，此乃就人类社会历史的进化一般趋向而言。",
+      "target": "马克思科学的社会主义",
+      "claim_type": "历史解释",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "马克思科学的社会主义，预料资本主义必由发达而崩坏，崩坏后继之者必为社会主义，此乃就人类社会历史的进化一般趋向而言；",
+      "confidence": 1.0
+    }
+  ],
+  "relations": [
+    {
+      "id": "r1",
+      "head": "张君劢",
+      "head_type": "人物",
+      "relation": "批评",
+      "relation_subtype": "事实质疑",
+      "tail": "马克思科学的社会主义",
+      "tail_type": "主义/学说/理论",
+      "polarity": "negative",
+      "evidence": "张君劢说：“马氏自名其主义曰科学的社会主义，以别于翁文辈之乌托邦的理想，且推定生计上之进化，遵正反合之惟物史观之原则，故资本主义之崩坏为不可逃之数。然自今日观之，以欧洲而言，资本主义之成熟，英远在俄上，顾劳农革命，何以不起于英而起于俄乎？以俄与德较，则德资本主义之成熟又在俄上，何以德之革命成绩，反居俄后乎？”",
+      "confidence": 1.0
+    },
+    {
+      "id": "r2",
+      "head": "陈独秀",
+      "head_type": "人物",
+      "relation": "回应",
+      "relation_subtype": "逻辑反驳",
+      "tail": "张君劢",
+      "tail_type": "人物",
+      "polarity": "negative",
+      "evidence": "怀这样疑问的人，世界上很多，不止中国张君劢一人，都是因为不明白社会科学之方法论的缘故。",
+      "confidence": 1.0
+    },
+    {
+      "id": "r3",
+      "head": "因果律",
+      "head_type": "概念",
+      "relation": "属于",
+      "relation_subtype": "不适用",
+      "tail": "科学",
+      "tail_type": "概念",
+      "polarity": "positive",
+      "evidence": "因果律虽是一切科学共通的原则",
+      "confidence": 1.0
+    },
+    {
+      "id": "r4",
+      "head": "社会科学",
+      "head_type": "概念",
+      "relation": "区分",
+      "relation_subtype": "概念澄清",
+      "tail": "自然科学",
+      "tail_type": "概念",
+      "polarity": "neutral",
+      "evidence": "不但社会科学和自然科学不同",
+      "confidence": 1.0
+    },
+    {
+      "id": "r5",
+      "head": "资本主义的工业发达起来",
+      "head_type": "概念",
+      "relation": "导致",
+      "relation_subtype": "不适用",
+      "tail": "劳动运动必将因之发生",
+      "tail_type": "概念",
+      "polarity": "positive",
+      "evidence": "一社会中资本主义的工业发达起来，其社会中劳动运动必将因之发生",
+      "confidence": 1.0
+    },
+    {
+      "id": "r6",
+      "head": "马克思科学的社会主义",
+      "head_type": "主义/学说/理论",
+      "relation": "主张",
+      "relation_subtype": "不适用",
+      "tail": "资本主义必由发达而崩坏，崩坏后继之者必为社会主义",
+      "tail_type": "观点",
+      "polarity": "positive",
+      "evidence": "马克思科学的社会主义，预料资本主义必由发达而崩坏，崩坏后继之者必为社会主义",
+      "confidence": 1.0
+    }
+  ],
+  "definitions": [
+    {
+      "id": "def1",
+      "term": "社会科学重要方法",
+      "definition": "社会上有相类的因之现象，必将有相类的果之现象；但果之现象的特定时空及个体现象另有因果关系，不在社会科学范围内。",
+      "evidence": "社会上有相类的因之现象，必将有相类的果之现象；惟其果之现象之特定的时空及现象中之个体现象，则另有其因果关系，而非社会科学范围以内之事，这本是社会科学重要方法之一。",
+      "confidence": 1.0
+    }
+  ],
+  "citations": [
+    {
+      "id": "cit1",
+      "citer": "张君劢",
+      "quoted_author": "马氏",
+      "quoted_work": "",
+      "quoted_claim": "马氏自名其主义曰科学的社会主义，以别于翁文辈之乌托邦的理想，且推定生计上之进化，遵正反合之惟物史观之原则，故资本主义之崩坏为不可逃之数。",
+      "function": "作为批评对象",
+      "evidence": "张君劢说：“马氏自名其主义曰科学的社会主义，以别于翁文辈之乌托邦的理想，且推定生计上之进化，遵正反合之惟物史观之原则，故资本主义之崩坏为不可逃之数。",
+      "confidence": 1.0
+    }
+  ],
+  "rhetorical_devices": [
+    {
+      "id": "rh1",
+      "expression": "六壬卜算大家",
+      "device_type": "讽刺",
+      "literal_target": "占卜算命者",
+      "function": "讽刺社会科学无法预测具体时空和个体现象，以此反驳张君劢的质疑",
+      "evidence": "此事只有请问六壬卜算大家，社会科学无此神通。",
+      "confidence": 1.0
+    }
+  ],
+  "uncertainties": [
+    {
+      "item": "翁文辈的具体身份",
+      "reason": "文本中仅出现'翁文辈'，未提供更多信息，无法确定具体指代何人。"
+    }
+  ]
+}

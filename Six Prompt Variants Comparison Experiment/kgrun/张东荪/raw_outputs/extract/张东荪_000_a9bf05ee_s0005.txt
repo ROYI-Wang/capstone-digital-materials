@@ -1,0 +1,524 @@
+{
+  "metadata": {
+    "schema_version": "lite_v2.0",
+    "article_id": "张东荪_000_a9bf05ee",
+    "article_title": "劳而无功 —— 评丁在君先生口中的科学",
+    "source_author": "张东荪",
+    "section_title": "更举一个好例，这个例就是丁先生的话。丁先生说柏格森说心的绵延如雪的堆积完全是比喻，不能算数。诚然，但请问丁先生为何对于马赫所说思想和天响雷一样（按",
+    "section_author": "更举一个好例，这个例就是丁先生的话。丁先生说柏格森说心的绵延如雪的堆积完全是比喻，不能算数。诚然，但请问丁先生为何对于马赫所说思想和天响雷一样（",
+    "segment_id": "张东荪_000_a9bf05ee_s0005",
+    "segment_index": 5,
+    "source_file": "E:\\1研究生\\岭南大学\\论文毕业\\capstone\\资料\\新的内容开始了\\local_upload\\input_w0\\张东荪.txt"
+  },
+  "entities": [
+    {
+      "id": "e1",
+      "name": "丁先生",
+      "canonical_name": "丁文江",
+      "type": "人物",
+      "evidence": "丁先生对于马赫所说思想和天响雷一样",
+      "confidence": 0.9
+    },
+    {
+      "id": "e2",
+      "name": "柏格森",
+      "canonical_name": "柏格森",
+      "type": "人物",
+      "evidence": "丁先生说柏格森说心的绵延如雪的堆积完全是比喻",
+      "confidence": 0.9
+    },
+    {
+      "id": "e3",
+      "name": "马赫",
+      "canonical_name": "马赫",
+      "type": "人物",
+      "evidence": "马赫所说思想和天响雷一样",
+      "confidence": 0.9
+    },
+    {
+      "id": "e4",
+      "name": "胡适之",
+      "canonical_name": "胡适",
+      "type": "人物",
+      "evidence": "我现在亦学胡适之先生把孙行者与如来佛的比喻",
+      "confidence": 0.9
+    },
+    {
+      "id": "e5",
+      "name": "张东荪",
+      "canonical_name": "张东荪",
+      "type": "人物",
+      "evidence": "我现在亦学胡适之先生把孙行者与如来佛的比喻，用在我所敬爱的丁先生身上",
+      "confidence": 0.9
+    },
+    {
+      "id": "e6",
+      "name": "科学家",
+      "canonical_name": "科学家",
+      "type": "阵营/群体",
+      "evidence": "这种以矛攻盾，是否科学家的态度呢？",
+      "confidence": 0.9
+    },
+    {
+      "id": "e7",
+      "name": "科学",
+      "canonical_name": "科学",
+      "type": "概念",
+      "evidence": "所以我劝丁先生不必高谈科学",
+      "confidence": 0.9
+    },
+    {
+      "id": "e8",
+      "name": "哲学",
+      "canonical_name": "哲学",
+      "type": "概念",
+      "evidence": "须知“心”“物”等问题不谈则已，一谈便就到了哲学里头去了",
+      "confidence": 0.9
+    },
+    {
+      "id": "e9",
+      "name": "科学的方法",
+      "canonical_name": "科学方法",
+      "type": "概念",
+      "evidence": "科学的方法不外将世界的事实分起类来，求他们的秩序",
+      "confidence": 0.9
+    },
+    {
+      "id": "e10",
+      "name": "科学公例",
+      "canonical_name": "科学公例",
+      "type": "概念",
+      "evidence": "这叫做科学公例",
+      "confidence": 0.9
+    },
+    {
+      "id": "e11",
+      "name": "心",
+      "canonical_name": "心",
+      "type": "概念",
+      "evidence": "须知“心”“物”等问题不谈则已",
+      "confidence": 0.9
+    },
+    {
+      "id": "e12",
+      "name": "物",
+      "canonical_name": "物",
+      "type": "概念",
+      "evidence": "须知“心”“物”等问题不谈则已",
+      "confidence": 0.9
+    },
+    {
+      "id": "e13",
+      "name": "理由化",
+      "canonical_name": "理由化",
+      "type": "概念",
+      "evidence": "近来精神分析学研究人把性情志愿假装为理论以发表，名曰“理由化”",
+      "confidence": 0.9
+    },
+    {
+      "id": "e14",
+      "name": "精神分析学",
+      "canonical_name": "精神分析学",
+      "type": "主义/学说/理论",
+      "evidence": "近来精神分析学研究人把性情志愿假装为理论以发表",
+      "confidence": 0.9
+    },
+    {
+      "id": "e15",
+      "name": "比喻",
+      "canonical_name": "比喻",
+      "type": "概念",
+      "evidence": "丁先生说柏格森说心的绵延如雪的堆积完全是比喻",
+      "confidence": 0.9
+    },
+    {
+      "id": "e16",
+      "name": "孙行者与如来佛的比喻",
+      "canonical_name": "孙行者与如来佛的比喻",
+      "type": "比喻/类比",
+      "evidence": "我现在亦学胡适之先生把孙行者与如来佛的比喻",
+      "confidence": 0.9
+    },
+    {
+      "id": "e17",
+      "name": "以矛攻盾",
+      "canonical_name": "以矛攻盾",
+      "type": "比喻/类比",
+      "evidence": "这种以矛攻盾，是否科学家的态度呢？",
+      "confidence": 0.9
+    },
+    {
+      "id": "e18",
+      "name": "心的绵延如雪的堆积",
+      "canonical_name": "心的绵延如雪的堆积",
+      "type": "比喻/类比",
+      "evidence": "丁先生说柏格森说心的绵延如雪的堆积完全是比喻",
+      "confidence": 0.9
+    },
+    {
+      "id": "e19",
+      "name": "思想和天响雷一样",
+      "canonical_name": "思想和天响雷一样",
+      "type": "比喻/类比",
+      "evidence": "马赫所说思想和天响雷一样",
+      "confidence": 0.9
+    },
+    {
+      "id": "e20",
+      "name": "科学的性质",
+      "canonical_name": "科学的性质",
+      "type": "概念",
+      "evidence": "先讲科学的性质",
+      "confidence": 0.9
+    },
+    {
+      "id": "e21",
+      "name": "科学的确实性",
+      "canonical_name": "科学的确实性",
+      "type": "概念",
+      "evidence": "丁先生对于科学的性质，与科学的确实性，所说的话皆不能使我满意",
+      "confidence": 0.9
+    },
+    {
+      "id": "e22",
+      "name": "事实",
+      "canonical_name": "事实",
+      "type": "概念",
+      "evidence": "科学的方法不外将世界的事实分起类来",
+      "confidence": 0.9
+    },
+    {
+      "id": "e23",
+      "name": "秩序",
+      "canonical_name": "秩序",
+      "type": "概念",
+      "evidence": "求他们的秩序",
+      "confidence": 0.9
+    },
+    {
+      "id": "e24",
+      "name": "分类",
+      "canonical_name": "分类",
+      "type": "方法",
+      "evidence": "对于事实，分类以求其秩序",
+      "confidence": 0.9
+    }
+  ],
+  "claims": [
+    {
+      "id": "c1",
+      "speaker": "张东荪",
+      "claim": "丁先生对于柏格森的比喻存疑，对于马赫的比喻不疑，是自相矛盾的。",
+      "target": "丁先生",
+      "claim_type": "论战策略批评",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "何以对于一个比喻存而疑之，对于另一个比喻则存而不疑？何以对于一个比喻则引为攻击之的，对于另一个比喻则引为攻击之具呢？这种以矛攻盾，是否科学家的态度呢？",
+      "confidence": 0.9
+    },
+    {
+      "id": "c2",
+      "speaker": "张东荪",
+      "claim": "丁先生不必高谈科学，应自认是出于性情偏好而喜欢或厌恶某种哲学。",
+      "target": "丁先生",
+      "claim_type": "论战策略批评",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "所以我劝丁先生不必高谈科学，老老实实自认是对于某种哲学因与自己的性质相近而欢喜，对于某种哲学因性质相远而厌恶罢了。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c3",
+      "speaker": "张东荪",
+      "claim": "丁先生的科学论完全是“理由化”，即把性情志愿假装为理论。",
+      "target": "丁先生",
+      "claim_type": "论战策略批评",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "我看丁先生的这种科学论完全是理由化。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c4",
+      "speaker": "张东荪",
+      "claim": "“心”“物”等问题一谈就进入哲学领域，从正面肯定或反面否定都离不开哲学。",
+      "target": "哲学",
+      "claim_type": "知识论主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "须知“心”“物”等问题不谈则已，一谈便就到了哲学里头去了。从正面肯定，固然是哲学，而从反面否定，亦离不了哲学。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c5",
+      "speaker": "张东荪",
+      "claim": "丁先生关于科学的性质与科学的确实性所说的话不能使我满意。",
+      "target": "丁先生",
+      "claim_type": "价值评价",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "丁先生对于科学的性质，与科学的确实性，所说的话皆不能使我满意。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c6",
+      "speaker": "丁先生",
+      "claim": "科学的方法不外将世界的事实分起类来，求他们的秩序。等到分类秩序弄明白了，再想一句最简单明白话来概括这许多事实，这叫做科学公例。凡是事实都可以用科学方法研究，都可以变做科学。",
+      "target": "科学",
+      "claim_type": "定义性主张",
+      "claim_status": "直接引用",
+      "polarity": "positive",
+      "evidence": "“科学的方法不外将世界的事实分起类来，求他们的秩序。等到分类秩序弄明白了，再想一句最简单明白话来概括这许多事实，这叫做科学公例。凡是事实都可以用科学方法研究，都可以变做科学。”",
+      "confidence": 0.9
+    },
+    {
+      "id": "c7",
+      "speaker": "张东荪",
+      "claim": "丁先生对柏格森和马赫的比喻采取双重标准。",
+      "target": "丁先生",
+      "claim_type": "论战策略批评",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "何以对于一个比喻存而疑之，对于另一个比喻则存而不疑？何以对于一个比喻则引为攻击之的，对于另一个比喻则引为攻击之具呢？",
+      "confidence": 0.9
+    }
+  ],
+  "relations": [
+    {
+      "id": "r1",
+      "head": "张东荪",
+      "head_type": "人物",
+      "relation": "批评",
+      "relation_subtype": "逻辑反驳",
+      "tail": "丁先生",
+      "tail_type": "人物",
+      "polarity": "negative",
+      "evidence": "何以对于一个比喻存而疑之，对于另一个比喻则存而不疑？何以对于一个比喻则引为攻击之的，对于另一个比喻则引为攻击之具呢？这种以矛攻盾，是否科学家的态度呢？",
+      "confidence": 0.9
+    },
+    {
+      "id": "r2",
+      "head": "张东荪",
+      "head_type": "人物",
+      "relation": "批评",
+      "relation_subtype": "概念混淆批评",
+      "tail": "丁先生",
+      "tail_type": "人物",
+      "polarity": "negative",
+      "evidence": "我看丁先生的这种科学论完全是理由化。",
+      "confidence": 0.9
+    },
+    {
+      "id": "r3",
+      "head": "张东荪",
+      "head_type": "人物",
+      "relation": "引用",
+      "relation_subtype": "援引权威",
+      "tail": "胡适之",
+      "tail_type": "人物",
+      "polarity": "neutral",
+      "evidence": "我现在亦学胡适之先生把孙行者与如来佛的比喻，用在我所敬爱的丁先生身上",
+      "confidence": 0.9
+    },
+    {
+      "id": "r4",
+      "head": "张东荪",
+      "head_type": "人物",
+      "relation": "引用",
+      "relation_subtype": "援引权威",
+      "tail": "精神分析学",
+      "tail_type": "主义/学说/理论",
+      "polarity": "neutral",
+      "evidence": "近来精神分析学研究人把性情志愿假装为理论以发表，名曰“理由化”",
+      "confidence": 0.9
+    },
+    {
+      "id": "r5",
+      "head": "丁先生",
+      "head_type": "人物",
+      "relation": "批评",
+      "relation_subtype": "一般批评",
+      "tail": "柏格森",
+      "tail_type": "人物",
+      "polarity": "negative",
+      "evidence": "丁先生说柏格森说心的绵延如雪的堆积完全是比喻，不能算数",
+      "confidence": 0.9
+    },
+    {
+      "id": "r6",
+      "head": "丁先生",
+      "head_type": "人物",
+      "relation": "引用",
+      "relation_subtype": "援引权威",
+      "tail": "马赫",
+      "tail_type": "人物",
+      "polarity": "neutral",
+      "evidence": "马赫所说思想和天响雷一样",
+      "confidence": 0.9
+    },
+    {
+      "id": "r7",
+      "head": "张东荪",
+      "head_type": "人物",
+      "relation": "回应",
+      "relation_subtype": "逻辑反驳",
+      "tail": "丁先生",
+      "tail_type": "人物",
+      "polarity": "negative",
+      "evidence": "丁先生对于科学的性质，与科学的确实性，所说的话皆不能使我满意。",
+      "confidence": 0.9
+    },
+    {
+      "id": "r8",
+      "head": "张东荪",
+      "head_type": "人物",
+      "relation": "引用",
+      "relation_subtype": "援引权威",
+      "tail": "丁先生",
+      "tail_type": "人物",
+      "polarity": "neutral",
+      "evidence": "其原文如下: “科学的方法不外将世界的事实分起类来，求他们的秩序。等到分类秩序弄明白了，再想一句最简单明白话来概括这许多事实，这叫做科学公例。凡是事实都可以用科学方法研究，都可以变做科学。”",
+      "confidence": 0.9
+    },
+    {
+      "id": "r9",
+      "head": "科学的方法",
+      "head_type": "概念",
+      "relation": "定义",
+      "relation_subtype": "概念澄清",
+      "tail": "科学公例",
+      "tail_type": "概念",
+      "polarity": "positive",
+      "evidence": "科学的方法不外将世界的事实分起类来，求他们的秩序。等到分类秩序弄明白了，再想一句最简单明白话来概括这许多事实，这叫做科学公例。",
+      "confidence": 0.9
+    },
+    {
+      "id": "r10",
+      "head": "哲学",
+      "head_type": "概念",
+      "relation": "包含",
+      "relation_subtype": "不适用",
+      "tail": "心",
+      "tail_type": "概念",
+      "polarity": "positive",
+      "evidence": "须知“心”“物”等问题不谈则已，一谈便就到了哲学里头去了。",
+      "confidence": 0.9
+    },
+    {
+      "id": "r11",
+      "head": "哲学",
+      "head_type": "概念",
+      "relation": "包含",
+      "relation_subtype": "不适用",
+      "tail": "物",
+      "tail_type": "概念",
+      "polarity": "positive",
+      "evidence": "须知“心”“物”等问题不谈则已，一谈便就到了哲学里头去了。",
+      "confidence": 0.9
+    }
+  ],
+  "definitions": [
+    {
+      "id": "def1",
+      "term": "科学的方法",
+      "definition": "将世界的事实分起类来，求他们的秩序，然后用最简单明白的话概括许多事实，得出科学公例。",
+      "evidence": "科学的方法不外将世界的事实分起类来，求他们的秩序。等到分类秩序弄明白了，再想一句最简单明白话来概括这许多事实，这叫做科学公例。",
+      "confidence": 0.9
+    },
+    {
+      "id": "def2",
+      "term": "科学公例",
+      "definition": "用最简单明白的话概括许多事实的结论。",
+      "evidence": "再想一句最简单明白话来概括这许多事实，这叫做科学公例。",
+      "confidence": 0.9
+    },
+    {
+      "id": "def3",
+      "term": "理由化",
+      "definition": "人把性情志愿假装为理论以发表。",
+      "evidence": "近来精神分析学研究人把性情志愿假装为理论以发表，名曰“理由化”",
+      "confidence": 0.9
+    }
+  ],
+  "citations": [
+    {
+      "id": "cit1",
+      "citer": "丁先生",
+      "quoted_author": "柏格森",
+      "quoted_work": "",
+      "quoted_claim": "心的绵延如雪的堆积",
+      "function": "作为批评对象",
+      "evidence": "丁先生说柏格森说心的绵延如雪的堆积完全是比喻，不能算数",
+      "confidence": 0.9
+    },
+    {
+      "id": "cit2",
+      "citer": "丁先生",
+      "quoted_author": "马赫",
+      "quoted_work": "",
+      "quoted_claim": "思想和天响雷一样",
+      "function": "援引权威支持",
+      "evidence": "马赫所说思想和天响雷一样",
+      "confidence": 0.9
+    },
+    {
+      "id": "cit3",
+      "citer": "张东荪",
+      "quoted_author": "胡适之",
+      "quoted_work": "",
+      "quoted_claim": "孙行者与如来佛的比喻",
+      "function": "援引权威支持",
+      "evidence": "我现在亦学胡适之先生把孙行者与如来佛的比喻，用在我所敬爱的丁先生身上",
+      "confidence": 0.9
+    },
+    {
+      "id": "cit4",
+      "citer": "张东荪",
+      "quoted_author": "丁先生",
+      "quoted_work": "",
+      "quoted_claim": "科学的方法不外将世界的事实分起类来，求他们的秩序。等到分类秩序弄明白了，再想一句最简单明白话来概括这许多事实，这叫做科学公例。凡是事实都可以用科学方法研究，都可以变做科学。",
+      "function": "作为批评对象",
+      "evidence": "其原文如下: “科学的方法不外将世界的事实分起类来，求他们的秩序。等到分类秩序弄明白了，再想一句最简单明白话来概括这许多事实，这叫做科学公例。凡是事实都可以用科学方法研究，都可以变做科学。”",
+      "confidence": 0.9
+    }
+  ],
+  "rhetorical_devices": [
+    {
+      "id": "rh1",
+      "expression": "以矛攻盾",
+      "device_type": "比喻",
+      "literal_target": "丁先生对柏格森和马赫的比喻采取双重标准",
+      "function": "批评丁先生自相矛盾",
+      "evidence": "这种以矛攻盾，是否科学家的态度呢？",
+      "confidence": 0.9
+    },
+    {
+      "id": "rh2",
+      "expression": "孙行者与如来佛的比喻",
+      "device_type": "比喻",
+      "literal_target": "丁先生自以为超出哲学范围，实则仍在哲学之中",
+      "function": "论证哲学无法逃避",
+      "evidence": "我现在亦学胡适之先生把孙行者与如来佛的比喻，用在我所敬爱的丁先生身上：哲学就好譬如来佛的掌心，丁先生一个舫斗翻了十万八千里，以为出了哲学的范围，其实还在如来佛掌心里。",
+      "confidence": 0.9
+    },
+    {
+      "id": "rh3",
+      "expression": "一个舫斗翻了十万八千里",
+      "device_type": "比喻",
+      "literal_target": "丁先生试图摆脱哲学的努力",
+      "function": "讽刺丁先生自以为脱离哲学",
+      "evidence": "丁先生一个舫斗翻了十万八千里，以为出了哲学的范围，其实还在如来佛掌心里。",
+      "confidence": 0.9
+    }
+  ],
+  "uncertainties": [
+    {
+      "item": "丁先生是否确实引用了马赫的比喻，以及该比喻的具体内容",
+      "reason": "文本中只提到“马赫所说思想和天响雷一样”，但未提供完整原文或出处。"
+    },
+    {
+      "item": "“精神分析学”的具体所指",
+      "reason": "文本中仅提及“近来精神分析学研究人把性情志愿假装为理论以发表”，未指明具体学者或流派。"
+    }
+  ]
+}

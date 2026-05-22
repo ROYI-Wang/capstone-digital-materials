@@ -1,0 +1,364 @@
+{
+  "check_results": [
+    {
+      "segment_id": "王平陵_000_d1d9c442_s0000",
+      "high": 12,
+      "medium": 7,
+      "low": 1,
+      "issues": {
+        "type_errors": [],
+        "attribution_errors": [],
+        "direction_errors": [],
+        "missing_nodes": [
+          {
+            "node": "科学的一元论（实证论）",
+            "node_type": "主义/学说/理论",
+            "reason": "文本开头提出并批评该观点，应作为实体抽取",
+            "severity": "high"
+          },
+          {
+            "node": "补合的二元论",
+            "node_type": "主义/学说/理论",
+            "reason": "文本第二部分肯定该观点，应作为实体抽取",
+            "severity": "high"
+          },
+          {
+            "node": "科学万能的谬误",
+            "node_type": "观点",
+            "reason": "文本明确批评科学万能论，应作为观点节点",
+            "severity": "high"
+          },
+          {
+            "node": "人性统一的要求",
+            "node_type": "概念",
+            "reason": "作为论证科学万能谬误的论据，应抽取",
+            "severity": "medium"
+          },
+          {
+            "node": "科学与哲学的关系",
+            "node_type": "问题",
+            "reason": "全文围绕此问题展开，应作为问题节点",
+            "severity": "high"
+          },
+          {
+            "node": "科学",
+            "node_type": "概念",
+            "reason": "文本最后给出定义，应抽取",
+            "severity": "high"
+          },
+          {
+            "node": "哲学",
+            "node_type": "概念",
+            "reason": "文本最后给出定义，应抽取",
+            "severity": "high"
+          },
+          {
+            "node": "达尔文",
+            "node_type": "人物",
+            "reason": "作为例证出现，应抽取",
+            "severity": "medium"
+          },
+          {
+            "node": "赫胥黎",
+            "node_type": "人物",
+            "reason": "作为例证出现，应抽取",
+            "severity": "medium"
+          },
+          {
+            "node": "黑格尔（E. H. Hackel）",
+            "node_type": "人物",
+            "reason": "作为例证出现，应抽取",
+            "severity": "medium"
+          }
+        ],
+        "missing_links": [
+          {
+            "source": "科学的一元论（实证论）",
+            "relation": "被批评",
+            "target": "作者",
+            "reason": "文本明确否定该观点",
+            "severity": "high"
+          },
+          {
+            "source": "补合的二元论",
+            "relation": "被肯定",
+            "target": "作者",
+            "reason": "文本明确肯定该观点",
+            "severity": "high"
+          },
+          {
+            "source": "科学",
+            "relation": "定义",
+            "target": "分观宇宙间一部分的事实，而探究其原理的",
+            "reason": "文本给出定义",
+            "severity": "high"
+          },
+          {
+            "source": "哲学",
+            "relation": "定义",
+            "target": "合观宇宙，取天地间一切事实，合一炉而穷究其本根的",
+            "reason": "文本给出定义",
+            "severity": "high"
+          },
+          {
+            "source": "科学",
+            "relation": "是基础",
+            "target": "哲学",
+            "reason": "文本明确说“科学是哲学的基础”",
+            "severity": "high"
+          },
+          {
+            "source": "哲学",
+            "relation": "是综合",
+            "target": "科学",
+            "reason": "文本明确说“哲学是科学的综合”",
+            "severity": "high"
+          },
+          {
+            "source": "达尔文",
+            "relation": "例证",
+            "target": "科学者由科学见地发展而税驾于哲学境地",
+            "reason": "文本用达尔文作为例证",
+            "severity": "medium"
+          },
+          {
+            "source": "赫胥黎",
+            "relation": "例证",
+            "target": "科学者由科学见地发展而税驾于哲学境地",
+            "reason": "文本用赫胥黎作为例证",
+            "severity": "medium"
+          },
+          {
+            "source": "黑格尔（E. H. Hackel）",
+            "relation": "例证",
+            "target": "科学者由科学见地发展而税驾于哲学境地",
+            "reason": "文本用黑格尔作为例证",
+            "severity": "medium"
+          }
+        ],
+        "normalization_issues": [
+          {
+            "surface_forms": [
+              "黑格尔（E. H. Hackel）"
+            ],
+            "suggested_canonical": "黑格尔（E. H. Haeckel）",
+            "reason": "原文拼写有误，应为Haeckel",
+            "severity": "low"
+          }
+        ],
+        "relation_type_issues": [],
+        "polarity_issues": [],
+        "evidence_issues": [],
+        "rhetorical_device_issues": []
+      }
+    },
+    {
+      "segment_id": "王平陵_000_d1d9c442_s0001",
+      "high": 28,
+      "medium": 0,
+      "low": 0,
+      "issues": {
+        "type_errors": [],
+        "attribution_errors": [],
+        "direction_errors": [],
+        "missing_nodes": [
+          {
+            "node": "科学",
+            "node_type": "概念",
+            "reason": "文本中多次出现并定义科学，但抽取结果中无此概念节点。",
+            "severity": "high"
+          },
+          {
+            "node": "哲学",
+            "node_type": "概念",
+            "reason": "文本中多次出现并定义哲学，但抽取结果中无此概念节点。",
+            "severity": "high"
+          },
+          {
+            "node": "科学是哲学的基础",
+            "node_type": "观点",
+            "reason": "文本明确陈述此观点，应抽取为观点节点。",
+            "severity": "high"
+          },
+          {
+            "node": "哲学是科学的综合",
+            "node_type": "观点",
+            "reason": "文本明确陈述此观点，应抽取为观点节点。",
+            "severity": "high"
+          },
+          {
+            "node": "科学与哲学的对象完全不同",
+            "node_type": "观点",
+            "reason": "文本明确陈述此观点，应抽取为观点节点。",
+            "severity": "high"
+          },
+          {
+            "node": "哲学之对象是全体及具象体之实有",
+            "node_type": "定义",
+            "reason": "文本对哲学对象给出定义，应抽取为定义节点。",
+            "severity": "high"
+          },
+          {
+            "node": "科学之对象是部分及抽象体之实有",
+            "node_type": "定义",
+            "reason": "文本对科学对象给出定义，应抽取为定义节点。",
+            "severity": "high"
+          },
+          {
+            "node": "哲学的机能是兼情意作用之理知",
+            "node_type": "定义",
+            "reason": "文本对哲学机能给出定义，应抽取为定义节点。",
+            "severity": "high"
+          },
+          {
+            "node": "科学之机能是纯粹的理知",
+            "node_type": "定义",
+            "reason": "文本对科学机能给出定义，应抽取为定义节点。",
+            "severity": "high"
+          },
+          {
+            "node": "哲学的方法是思辩法论理法与直觉法之总全",
+            "node_type": "定义",
+            "reason": "文本对哲学方法给出定义，应抽取为定义节点。",
+            "severity": "high"
+          },
+          {
+            "node": "科学的方法是经验的归纳的",
+            "node_type": "定义",
+            "reason": "文本对科学方法给出定义，应抽取为定义节点。",
+            "severity": "high"
+          },
+          {
+            "node": "科学哲学为补合的二元论",
+            "node_type": "观点",
+            "reason": "文本明确陈述此观点，应抽取为观点节点。",
+            "severity": "high"
+          },
+          {
+            "node": "科学与哲学的关系为全体与部分之关系",
+            "node_type": "观点",
+            "reason": "文本明确陈述此关系观点，应抽取为观点节点。",
+            "severity": "high"
+          },
+          {
+            "node": "哲学由科学而得材料",
+            "node_type": "观点",
+            "reason": "文本明确陈述此观点，应抽取为观点节点。",
+            "severity": "high"
+          },
+          {
+            "node": "科学则由哲学而巩固其目的与基础",
+            "node_type": "观点",
+            "reason": "文本明确陈述此观点，应抽取为观点节点。",
+            "severity": "high"
+          },
+          {
+            "node": "二者的进步为相互关联的",
+            "node_type": "观点",
+            "reason": "文本明确陈述此观点，应抽取为观点节点。",
+            "severity": "high"
+          }
+        ],
+        "missing_links": [
+          {
+            "source": "科学",
+            "relation": "是",
+            "target": "哲学的基础",
+            "reason": "文本明确陈述'科学是哲学的基础'，应建立关系。",
+            "severity": "high"
+          },
+          {
+            "source": "哲学",
+            "relation": "是",
+            "target": "科学的综合",
+            "reason": "文本明确陈述'哲学是科学的综合'，应建立关系。",
+            "severity": "high"
+          },
+          {
+            "source": "科学",
+            "relation": "对象是",
+            "target": "部分及抽象体之实有",
+            "reason": "文本定义科学对象，应建立关系。",
+            "severity": "high"
+          },
+          {
+            "source": "哲学",
+            "relation": "对象是",
+            "target": "全体及具象体之实有",
+            "reason": "文本定义哲学对象，应建立关系。",
+            "severity": "high"
+          },
+          {
+            "source": "科学",
+            "relation": "机能是",
+            "target": "纯粹的理知",
+            "reason": "文本定义科学机能，应建立关系。",
+            "severity": "high"
+          },
+          {
+            "source": "哲学",
+            "relation": "机能是",
+            "target": "兼情意作用之理知",
+            "reason": "文本定义哲学机能，应建立关系。",
+            "severity": "high"
+          },
+          {
+            "source": "科学",
+            "relation": "方法是",
+            "target": "经验的归纳的",
+            "reason": "文本定义科学方法，应建立关系。",
+            "severity": "high"
+          },
+          {
+            "source": "哲学",
+            "relation": "方法是",
+            "target": "思辩法论理法与直觉法之总全",
+            "reason": "文本定义哲学方法，应建立关系。",
+            "severity": "high"
+          },
+          {
+            "source": "科学",
+            "relation": "与",
+            "target": "哲学",
+            "reason": "文本讨论二者关系，应建立关系节点。",
+            "severity": "high"
+          },
+          {
+            "source": "科学",
+            "relation": "提供材料给",
+            "target": "哲学",
+            "reason": "文本陈述'哲学由科学而得材料'，应建立关系。",
+            "severity": "high"
+          },
+          {
+            "source": "哲学",
+            "relation": "巩固目的与基础给",
+            "target": "科学",
+            "reason": "文本陈述'科学则由哲学而巩固其目的与基础'，应建立关系。",
+            "severity": "high"
+          },
+          {
+            "source": "科学",
+            "relation": "进步与",
+            "target": "哲学",
+            "reason": "文本陈述'二者的进步为相互关联的'，应建立关系。",
+            "severity": "high"
+          }
+        ],
+        "normalization_issues": [],
+        "relation_type_issues": [],
+        "polarity_issues": [],
+        "evidence_issues": [],
+        "rhetorical_device_issues": []
+      }
+    },
+    {
+      "segment_id": "王平陵_000_d1d9c442_s0002",
+      "high": 0,
+      "medium": 0,
+      "low": 0,
+      "issues": {}
+    }
+  ],
+  "total_high": 40
+}

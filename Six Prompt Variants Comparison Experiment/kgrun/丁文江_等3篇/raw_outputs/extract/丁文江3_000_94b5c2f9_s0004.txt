@@ -1,0 +1,374 @@
+{
+  "metadata": {
+    "schema_version": "lite_v2.0",
+    "article_id": "丁文江3_000_94b5c2f9",
+    "article_title": "“玄学与科学”论争的余兴",
+    "source_author": "丁文江",
+    "section_title": "",
+    "section_author": "",
+    "segment_id": "丁文江3_000_94b5c2f9_s0004",
+    "segment_index": 4,
+    "source_file": "E:\\1研究生\\岭南大学\\论文毕业\\capstone\\资料\\新的内容开始了\\local_upload\\input_texts\\丁文江3.txt"
+  },
+  "entities": [
+    {
+      "id": "e1",
+      "name": "玄学",
+      "canonical_name": "玄学",
+      "type": "概念",
+      "evidence": "许多人鄙夷玄学，说他是我们最愚蠢的盲动。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e2",
+      "name": "烟草",
+      "canonical_name": "烟草",
+      "type": "比喻/类比",
+      "evidence": "玄学同烟草一样，是对于他性情相近的人的一种最快心的嗜好。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e3",
+      "name": "宰平先生",
+      "canonical_name": "宰平",
+      "type": "人物",
+      "evidence": "宰平先生要我给玄学下一个定义",
+      "confidence": 0.9
+    },
+    {
+      "id": "e4",
+      "name": "君劢",
+      "canonical_name": "张君劢",
+      "type": "人物",
+      "evidence": "我第一篇文章是看了君劢的清华讲演做的",
+      "confidence": 0.9
+    },
+    {
+      "id": "e5",
+      "name": "《在制造中的心》",
+      "canonical_name": "《在制造中的心》",
+      "type": "著作",
+      "evidence": "（《在制造中的心》，页一〇二）",
+      "confidence": 0.9
+    },
+    {
+      "id": "e6",
+      "name": "广义的玄学",
+      "canonical_name": "广义的玄学",
+      "type": "概念",
+      "evidence": "广义的玄学是从不可证明的假设所推论出来的规律。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e7",
+      "name": "不可证明的假设",
+      "canonical_name": "不可证明的假设",
+      "type": "概念",
+      "evidence": "广义的玄学是从不可证明的假设所推论出来的规律。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e8",
+      "name": "规律",
+      "canonical_name": "规律",
+      "type": "概念",
+      "evidence": "广义的玄学是从不可证明的假设所推论出来的规律。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e9",
+      "name": "态度讲法",
+      "canonical_name": "态度讲法",
+      "type": "概念",
+      "evidence": "至于宰平先生反对我们的态度讲法，更是不成问题的了。",
+      "confidence": 0.8
+    },
+    {
+      "id": "e10",
+      "name": "激刺",
+      "canonical_name": "激刺",
+      "type": "概念",
+      "evidence": "一个人的态度讲法，是对于激刺的一种回效",
+      "confidence": 0.8
+    },
+    {
+      "id": "e11",
+      "name": "回效",
+      "canonical_name": "回效",
+      "type": "概念",
+      "evidence": "一个人的态度讲法，是对于激刺的一种回效",
+      "confidence": 0.8
+    },
+    {
+      "id": "e12",
+      "name": "清华讲演",
+      "canonical_name": "清华讲演",
+      "type": "事件",
+      "evidence": "我第一篇文章是看了君劢的清华讲演做的",
+      "confidence": 0.9
+    }
+  ],
+  "claims": [
+    {
+      "id": "c1",
+      "speaker": "丁文江",
+      "claim": "玄学同烟草一样，是对于他性情相近的人的一种最快心的嗜好。",
+      "target": "玄学",
+      "claim_type": "价值评价",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "玄学同烟草一样，是对于他性情相近的人的一种最快心的嗜好。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c2",
+      "speaker": "丁文江",
+      "claim": "好玄学的人大都不肯把他当嗜好看——他们明明是吸烟，却要骗我们说，烟草可以当饭吃。",
+      "target": "好玄学的人",
+      "claim_type": "文明批评",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "无奈好玄学的人大都不肯把他当嗜好看——他们明明是吸烟，却要骗我们说，烟草可以当饭吃。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c3",
+      "speaker": "丁文江",
+      "claim": "广义的玄学是从不可证明的假设所推论出来的规律。",
+      "target": "玄学",
+      "claim_type": "定义性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "广义的玄学是从不可证明的假设所推论出来的规律。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c4",
+      "speaker": "丁文江",
+      "claim": "一个人的态度讲法，是对于激刺的一种回效。",
+      "target": "态度讲法",
+      "claim_type": "方法论主张",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "一个人的态度讲法，是对于激刺的一种回效",
+      "confidence": 0.9
+    },
+    {
+      "id": "c5",
+      "speaker": "丁文江",
+      "claim": "我第一篇文章是看了君劢的清华讲演做的；我的态度是受了他独断论调激刺的结果。",
+      "target": "丁文江的第一篇文章",
+      "claim_type": "历史解释",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "我第一篇文章是看了君劢的清华讲演做的；我的态度是受了他独断论调激刺的结果",
+      "confidence": 0.9
+    },
+    {
+      "id": "c6",
+      "speaker": "丁文江",
+      "claim": "宰平先生反对我们的态度讲法，更是不成问题的了。",
+      "target": "宰平先生",
+      "claim_type": "价值评价",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "至于宰平先生反对我们的态度讲法，更是不成问题的了。",
+      "confidence": 0.8
+    },
+    {
+      "id": "c7",
+      "speaker": "丁文江",
+      "claim": "连宰平先生这样恳挚的人，受了我的激刺，也会说出许多俏皮话来。",
+      "target": "宰平先生",
+      "claim_type": "价值评价",
+      "claim_status": "作者直接主张",
+      "polarity": "mixed",
+      "evidence": "连宰平先生这样恳挚的人，受了我的激刺，也会说出许多俏皮话来",
+      "confidence": 0.8
+    },
+    {
+      "id": "c8",
+      "speaker": "丁文江",
+      "claim": "许多人鄙夷玄学，说他是我们最愚蠢的盲动。",
+      "target": "玄学",
+      "claim_type": "价值评价",
+      "claim_status": "间接转述",
+      "polarity": "negative",
+      "evidence": "许多人鄙夷玄学，说他是我们最愚蠢的盲动。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c9",
+      "speaker": "丁文江",
+      "claim": "玄学同烟草一样，是对于他性情相近的人的一种最快心的嗜好。当他一种嗜好看，是比较的无害的。",
+      "target": "玄学",
+      "claim_type": "价值评价",
+      "claim_status": "直接引用",
+      "polarity": "mixed",
+      "evidence": "玄学同烟草一样，是对于他性情相近的人的一种最快心的嗜好。当他一种嗜好看，是比较的无害的。”（《在制造中的心》，页一〇二）",
+      "confidence": 0.9
+    }
+  ],
+  "relations": [
+    {
+      "id": "r1",
+      "head": "丁文江",
+      "head_type": "人物",
+      "relation": "引用",
+      "relation_subtype": "援引权威",
+      "tail": "《在制造中的心》",
+      "tail_type": "著作",
+      "polarity": "neutral",
+      "evidence": "玄学同烟草一样，是对于他性情相近的人的一种最快心的嗜好。当他一种嗜好看，是比较的无害的。”（《在制造中的心》，页一〇二）",
+      "confidence": 0.9
+    },
+    {
+      "id": "r2",
+      "head": "丁文江",
+      "head_type": "人物",
+      "relation": "回应",
+      "relation_subtype": "一般批评",
+      "tail": "宰平先生",
+      "tail_type": "人物",
+      "polarity": "negative",
+      "evidence": "至于宰平先生反对我们的态度讲法，更是不成问题的了。",
+      "confidence": 0.8
+    },
+    {
+      "id": "r3",
+      "head": "丁文江",
+      "head_type": "人物",
+      "relation": "回应",
+      "relation_subtype": "概念澄清",
+      "tail": "宰平先生",
+      "tail_type": "人物",
+      "polarity": "neutral",
+      "evidence": "宰平先生要我给玄学下一个定义，我就斗胆说：",
+      "confidence": 0.9
+    },
+    {
+      "id": "r4",
+      "head": "丁文江",
+      "head_type": "人物",
+      "relation": "归因于",
+      "relation_subtype": "不适用",
+      "tail": "君劢",
+      "tail_type": "人物",
+      "polarity": "neutral",
+      "evidence": "我第一篇文章是看了君劢的清华讲演做的；我的态度是受了他独断论调激刺的结果",
+      "confidence": 0.9
+    },
+    {
+      "id": "r5",
+      "head": "丁文江",
+      "head_type": "人物",
+      "relation": "归因于",
+      "relation_subtype": "不适用",
+      "tail": "君劢的清华讲演",
+      "tail_type": "事件",
+      "polarity": "neutral",
+      "evidence": "我第一篇文章是看了君劢的清华讲演做的",
+      "confidence": 0.9
+    },
+    {
+      "id": "r6",
+      "head": "丁文江",
+      "head_type": "人物",
+      "relation": "归因于",
+      "relation_subtype": "不适用",
+      "tail": "宰平先生",
+      "tail_type": "人物",
+      "polarity": "neutral",
+      "evidence": "连宰平先生这样恳挚的人，受了我的激刺，也会说出许多俏皮话来",
+      "confidence": 0.8
+    },
+    {
+      "id": "r7",
+      "head": "玄学",
+      "head_type": "概念",
+      "relation": "类比",
+      "relation_subtype": "不适用",
+      "tail": "烟草",
+      "tail_type": "比喻/类比",
+      "polarity": "negative",
+      "evidence": "玄学同烟草一样，是对于他性情相近的人的一种最快心的嗜好。",
+      "confidence": 0.9
+    },
+    {
+      "id": "r8",
+      "head": "丁文江",
+      "head_type": "人物",
+      "relation": "定义",
+      "relation_subtype": "概念澄清",
+      "tail": "广义的玄学",
+      "tail_type": "概念",
+      "polarity": "neutral",
+      "evidence": "广义的玄学是从不可证明的假设所推论出来的规律。",
+      "confidence": 0.9
+    }
+  ],
+  "definitions": [
+    {
+      "id": "def1",
+      "term": "广义的玄学",
+      "definition": "从不可证明的假设所推论出来的规律。",
+      "evidence": "广义的玄学是从不可证明的假设所推论出来的规律。",
+      "confidence": 0.9
+    }
+  ],
+  "citations": [
+    {
+      "id": "cit1",
+      "citer": "丁文江",
+      "quoted_author": "未知",
+      "quoted_work": "《在制造中的心》",
+      "quoted_claim": "玄学同烟草一样，是对于他性情相近的人的一种最快心的嗜好。当他一种嗜好看，是比较的无害的。",
+      "function": "援引权威支持",
+      "evidence": "玄学同烟草一样，是对于他性情相近的人的一种最快心的嗜好。当他一种嗜好看，是比较的无害的。”（《在制造中的心》，页一〇二）",
+      "confidence": 0.9
+    }
+  ],
+  "rhetorical_devices": [
+    {
+      "id": "rh1",
+      "expression": "玄学同烟草一样",
+      "device_type": "类比",
+      "literal_target": "玄学",
+      "function": "将玄学比作烟草，暗示其有害但可作为一种嗜好，为后续批评好玄学的人不承认其嗜好性质做铺垫。",
+      "evidence": "玄学同烟草一样，是对于他性情相近的人的一种最快心的嗜好。",
+      "confidence": 0.9
+    },
+    {
+      "id": "rh2",
+      "expression": "他们明明是吸烟，却要骗我们说，烟草可以当饭吃",
+      "device_type": "比喻",
+      "literal_target": "好玄学的人",
+      "function": "用吸烟骗人当饭吃的比喻，讽刺好玄学的人不承认玄学的嗜好性质，反而夸大其作用。",
+      "evidence": "他们明明是吸烟，却要骗我们说，烟草可以当饭吃。",
+      "confidence": 0.9
+    },
+    {
+      "id": "rh3",
+      "expression": "俏皮话",
+      "device_type": "讽刺",
+      "literal_target": "宰平先生",
+      "function": "用“俏皮话”形容宰平先生的反驳，暗示其言论不够严肃，带有讽刺意味。",
+      "evidence": "连宰平先生这样恳挚的人，受了我的激刺，也会说出许多俏皮话来",
+      "confidence": 0.8
+    }
+  ],
+  "uncertainties": [
+    {
+      "item": "《在制造中的心》的作者",
+      "reason": "文本中未明确给出作者姓名，无法确定被引用者。"
+    },
+    {
+      "item": "“许多人鄙夷玄学”中的“许多人”具体指谁",
+      "reason": "文本未明确说明，无法确定具体人物或群体。"
+    },
+    {
+      "item": "“宰平先生反对我们的态度讲法”中的“态度讲法”具体指什么",
+      "reason": "文本未详细说明，无法确定具体内容。"
+    }
+  ]
+}

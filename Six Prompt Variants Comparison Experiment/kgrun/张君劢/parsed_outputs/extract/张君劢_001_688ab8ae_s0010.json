@@ -1,0 +1,364 @@
+{
+  "metadata": {
+    "schema_version": "lite_v2.0",
+    "article_id": "张君劢_001_688ab8ae",
+    "article_title": "人生观（中篇）",
+    "source_author": "张君劢",
+    "section_title": "",
+    "section_author": "",
+    "segment_id": "张君劢_001_688ab8ae_s0010",
+    "segment_index": 10,
+    "source_file": "E:\\1研究生\\岭南大学\\论文毕业\\capstone\\资料\\新的内容开始了\\local_upload\\input_w3\\张君劢.txt"
+  },
+  "entities": [
+    {
+      "id": "e1",
+      "name": "康德",
+      "canonical_name": "康德",
+      "type": "人物",
+      "evidence": "此康德之所长一也",
+      "confidence": 1.0
+    },
+    {
+      "id": "e2",
+      "name": "休谟",
+      "canonical_name": "休谟",
+      "type": "人物",
+      "evidence": "康氏之哲学，本取英休谟与德华尔孚而折衷之",
+      "confidence": 1.0
+    },
+    {
+      "id": "e3",
+      "name": "华尔孚",
+      "canonical_name": "华尔孚",
+      "type": "人物",
+      "evidence": "康氏之哲学，本取英休谟与德华尔孚而折衷之",
+      "confidence": 1.0
+    },
+    {
+      "id": "e4",
+      "name": "皮尔逊",
+      "canonical_name": "皮尔逊",
+      "type": "人物",
+      "evidence": "惟如皮尔逊氏以此为惟一元素，则为吾所不赞成",
+      "confidence": 1.0
+    },
+    {
+      "id": "e5",
+      "name": "适之",
+      "canonical_name": "胡适",
+      "type": "人物",
+      "evidence": "希望国中研究哲学者如适之者，不可徒执一先生之说",
+      "confidence": 1.0
+    },
+    {
+      "id": "e6",
+      "name": "概念",
+      "canonical_name": "概念",
+      "type": "概念",
+      "evidence": "有觉摄而无概念，是为盲目；有概念而无觉摄，是为空洞",
+      "confidence": 1.0
+    },
+    {
+      "id": "e7",
+      "name": "知识",
+      "canonical_name": "知识",
+      "type": "概念",
+      "evidence": "至于知识为物，是否起于感觉，抑起于理性",
+      "confidence": 1.0
+    },
+    {
+      "id": "e8",
+      "name": "理性",
+      "canonical_name": "理性",
+      "type": "概念",
+      "evidence": "至于知识为物，是否起于感觉，抑起于理性",
+      "confidence": 1.0
+    },
+    {
+      "id": "e9",
+      "name": "科学以外之知识",
+      "canonical_name": "科学以外之知识",
+      "type": "概念",
+      "evidence": "第三 科学以外之知识（一名科学之限界）",
+      "confidence": 1.0
+    },
+    {
+      "id": "e10",
+      "name": "科学之限界",
+      "canonical_name": "科学之限界",
+      "type": "概念",
+      "evidence": "第三 科学以外之知识（一名科学之限界）",
+      "confidence": 1.0
+    },
+    {
+      "id": "e11",
+      "name": "真",
+      "canonical_name": "真",
+      "type": "概念",
+      "evidence": "世间事物之“真”者，皮氏曰惟有感觉",
+      "confidence": 1.0
+    },
+    {
+      "id": "e12",
+      "name": "思想",
+      "canonical_name": "思想",
+      "type": "概念",
+      "evidence": "我以为苟无辨别真伪之思想，则并感觉之彼此而亦不辨",
+      "confidence": 1.0
+    }
+  ],
+  "claims": [
+    {
+      "id": "c1",
+      "speaker": "张君劢",
+      "claim": "康德之长在于使二义不相冲突，而后人事与知识方面各有正当之说明",
+      "target": "康德",
+      "claim_type": "价值评价",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "果二义乃不相冲突，而后人事与知识方面各有正当之说明。此康德之所长一也",
+      "confidence": 1.0
+    },
+    {
+      "id": "c2",
+      "speaker": "张君劢",
+      "claim": "康德调和感觉与理性，认为有觉摄而无概念是盲目，有概念而无觉摄是空洞",
+      "target": "康德",
+      "claim_type": "历史解释",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "至于知识为物，是否起于感觉，抑起于理性，康德则有一种调和之说，曰有觉摄而无概念，是为盲目；有概念而无觉摄，是为空洞",
+      "confidence": 1.0
+    },
+    {
+      "id": "c3",
+      "speaker": "张君劢",
+      "claim": "康德哲学折衷休谟与华尔孚，但后人不能发挥光大，致陷哲学界于分裂",
+      "target": "康德",
+      "claim_type": "历史解释",
+      "claim_status": "作者直接主张",
+      "polarity": "mixed",
+      "evidence": "康氏之哲学，本取英休谟与德华尔孚而折衷之，惜焉后人不能发挥光大，致陷哲学界于分裂",
+      "confidence": 1.0
+    },
+    {
+      "id": "c4",
+      "speaker": "张君劢",
+      "claim": "若能本康德之说施之于英德各学科，必能有所发明，而于学术界有一种新贡献",
+      "target": "康德",
+      "claim_type": "方法论主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "继今以后，诚能本康氏之说，以施之于英德之哲学，英德之伦理学，英德之生物学，英德之心理学，英德之教育学，必能有所发明，而于学术界有一种新贡献",
+      "confidence": 1.0
+    },
+    {
+      "id": "c5",
+      "speaker": "张君劢",
+      "claim": "调和英德哲学之责莫如吾国人，因少国界拘牵，不为陈言所束缚",
+      "target": "吾国人",
+      "claim_type": "社会理论主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "此责也，以谁任之为宜？曰，吾以为莫如吾国人。何也？少国界之拘牵，不为陈言所束缚，非英德人之所能也",
+      "confidence": 1.0
+    },
+    {
+      "id": "c6",
+      "speaker": "张君劢",
+      "claim": "合英德哲学二者而一之是上策，两利而俱存之是中策，执一方之言是无聊之甚",
+      "target": "英德哲学",
+      "claim_type": "方法论主张",
+      "claim_status": "作者直接主张",
+      "polarity": "mixed",
+      "evidence": "合二者而一之，斯上策也。否则两利而俱存之，犹不失为中策。若执一方之言以夸耀于国人，则无聊之甚，莫过是矣",
+      "confidence": 1.0
+    },
+    {
+      "id": "c7",
+      "speaker": "张君劢",
+      "claim": "感觉与概念同为知识构成之分子，不能并感觉而排斥之",
+      "target": "感觉",
+      "claim_type": "知识论主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "一则辨明感觉与概念同为知识构成之分子，不能并感觉而排斥之",
+      "confidence": 1.0
+    },
+    {
+      "id": "c8",
+      "speaker": "张君劢",
+      "claim": "不赞成皮尔逊以感觉为知识之惟一元素",
+      "target": "皮尔逊",
+      "claim_type": "知识论主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "惟如皮尔逊氏以此为惟一元素，则为吾所不赞成",
+      "confidence": 1.0
+    },
+    {
+      "id": "c9",
+      "speaker": "张君劢",
+      "claim": "希望胡适不可徒执一先生之说以分门别户，应以调和英德之说为己任",
+      "target": "适之",
+      "claim_type": "论战策略批评",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "希望国中研究哲学者如适之者，不可徒执一先生之说，以分门别户，若能以调和英德之说为己任，则于学术界必能自辟途径",
+      "confidence": 1.0
+    },
+    {
+      "id": "c10",
+      "speaker": "皮尔逊",
+      "claim": "世间事物之‘真’者惟有感觉",
+      "target": "真",
+      "claim_type": "知识论主张",
+      "claim_status": "间接转述",
+      "polarity": "neutral",
+      "evidence": "世间事物之“真”者，皮氏曰惟有感觉",
+      "confidence": 1.0
+    },
+    {
+      "id": "c11",
+      "speaker": "张君劢",
+      "claim": "苟无辨别真伪之思想，则并感觉之彼此而亦不辨",
+      "target": "思想",
+      "claim_type": "知识论主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "我以为苟无辨别真伪之思想，则并感觉之彼此而亦不辨",
+      "confidence": 1.0
+    }
+  ],
+  "relations": [
+    {
+      "id": "r1",
+      "head": "康德",
+      "head_type": "人物",
+      "relation": "相关",
+      "tail": "张君劢",
+      "tail_type": "人物",
+      "polarity": "positive",
+      "evidence": "此康德之所长一也",
+      "confidence": 1.0
+    },
+    {
+      "id": "r2",
+      "head": "康德",
+      "head_type": "人物",
+      "relation": "相关",
+      "tail": "张君劢",
+      "tail_type": "人物",
+      "polarity": "positive",
+      "evidence": "此康德之所长二也",
+      "confidence": 1.0
+    },
+    {
+      "id": "r3",
+      "head": "张君劢",
+      "head_type": "人物",
+      "relation": "批评",
+      "tail": "皮尔逊",
+      "tail_type": "人物",
+      "polarity": "negative",
+      "evidence": "惟如皮尔逊氏以此为惟一元素，则为吾所不赞成",
+      "confidence": 1.0
+    },
+    {
+      "id": "r4",
+      "head": "张君劢",
+      "head_type": "人物",
+      "relation": "批评",
+      "tail": "适之",
+      "tail_type": "人物",
+      "polarity": "negative",
+      "evidence": "希望国中研究哲学者如适之者，不可徒执一先生之说，以分门别户",
+      "confidence": 1.0
+    },
+    {
+      "id": "r5",
+      "head": "感觉",
+      "head_type": "概念",
+      "relation": "包含",
+      "tail": "知识",
+      "tail_type": "概念",
+      "polarity": "positive",
+      "evidence": "感觉与概念同为知识构成之分子",
+      "confidence": 1.0
+    },
+    {
+      "id": "r6",
+      "head": "概念",
+      "head_type": "概念",
+      "relation": "包含",
+      "tail": "知识",
+      "tail_type": "概念",
+      "polarity": "positive",
+      "evidence": "感觉与概念同为知识构成之分子",
+      "confidence": 1.0
+    },
+    {
+      "id": "r7",
+      "head": "思想",
+      "head_type": "概念",
+      "relation": "解释",
+      "tail": "感觉",
+      "tail_type": "概念",
+      "polarity": "positive",
+      "evidence": "我以为苟无辨别真伪之思想，则并感觉之彼此而亦不辨",
+      "confidence": 1.0
+    }
+  ],
+  "definitions": [
+    {
+      "id": "def1",
+      "term": "科学以外之知识",
+      "definition": "科学之限界，即科学不能涵盖的知识领域",
+      "evidence": "第三 科学以外之知识（一名科学之限界）",
+      "confidence": 0.9
+    }
+  ],
+  "citations": [
+    {
+      "id": "cit1",
+      "citer": "张君劢",
+      "quoted_author": "康德",
+      "quoted_work": "",
+      "quoted_claim": "有觉摄而无概念，是为盲目；有概念而无觉摄，是为空洞",
+      "function": "援引权威支持",
+      "evidence": "康德则有一种调和之说，曰有觉摄而无概念，是为盲目；有概念而无觉摄，是为空洞",
+      "confidence": 1.0
+    }
+  ],
+  "rhetorical_devices": [],
+  "uncertainties": [
+    {
+      "item": "“皮尔逊”是否指卡尔·皮尔逊（Karl Pearson）",
+      "reason": "文本仅称“皮尔逊氏”，未给出全名，无法完全确定"
+    },
+    {
+      "item": "“适之”是否确指胡适",
+      "reason": "文本仅称“适之”，未给出全名，但根据历史背景可推断，但严格按文本无法确认"
+    }
+  ],
+  "_meta": {
+    "status": "success",
+    "stage": "extract",
+    "model": "deepseek-ai/DeepSeek-V4-Flash",
+    "base_url": "https://api.siliconflow.cn/v1",
+    "prompt_version": "extract_prompt_v2.0",
+    "schema_version": "lite_v2.0",
+    "segment_id": "张君劢_001_688ab8ae_s0010",
+    "article_id": "张君劢_001_688ab8ae",
+    "char_start": 5081,
+    "char_end": 5640,
+    "raw_path": "E:\\1研究生\\岭南大学\\论文毕业\\capstone\\资料\\新的内容开始了\\local_upload\\kg_runs\\张君劢\\raw_outputs\\extract\\张君劢_001_688ab8ae_s0010.txt",
+    "parsed_at": "2026-05-20T02:44:00",
+    "started_at": "2026-05-20T02:41:09",
+    "elapsed_seconds": 170.318,
+    "strict_evidence_check": true,
+    "drop_unsupported_evidence": true,
+    "request_timeout_seconds": 180
+  }
+}

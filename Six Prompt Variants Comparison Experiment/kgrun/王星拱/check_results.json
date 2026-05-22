@@ -1,0 +1,1621 @@
+{
+  "check_results": [
+    {
+      "segment_id": "王星拱_000_4d6fdc04_s0000",
+      "high": 22,
+      "medium": 7,
+      "low": 1,
+      "issues": {
+        "type_errors": [],
+        "attribution_errors": [],
+        "direction_errors": [],
+        "missing_nodes": [
+          {
+            "node": "科学",
+            "node_type": "概念",
+            "reason": "文本明确讨论'科学'的定义，且区分广义和狭义，应作为概念节点抽取。",
+            "severity": "high"
+          },
+          {
+            "node": "人生观",
+            "node_type": "概念",
+            "reason": "文本明确将'人生观'作为与'科学'并列的关键名词，应作为概念节点。",
+            "severity": "high"
+          },
+          {
+            "node": "科学能支配人生观吗",
+            "node_type": "问题",
+            "reason": "文本开头提到'这个问题'，且后文讨论科学与人生观的关系，应抽取为争论问题节点。",
+            "severity": "high"
+          },
+          {
+            "node": "科学方法",
+            "node_type": "方法",
+            "reason": "文本详细讨论科学方法，并区分其与形式逻辑的不同，应作为方法节点。",
+            "severity": "high"
+          },
+          {
+            "node": "广义的科学",
+            "node_type": "概念",
+            "reason": "文本明确区分广义和狭义的科学，广义科学是重要子概念。",
+            "severity": "medium"
+          },
+          {
+            "node": "狭义的科学",
+            "node_type": "概念",
+            "reason": "文本明确区分广义和狭义的科学，狭义科学是重要子概念。",
+            "severity": "medium"
+          },
+          {
+            "node": "科学之所以成为科学者，以其内容，非以其方法也",
+            "node_type": "观点",
+            "reason": "这是张东荪等人的观点，被作者引用并反驳，应作为观点节点。",
+            "severity": "high"
+          },
+          {
+            "node": "科学方法是形式的逻辑",
+            "node_type": "观点",
+            "reason": "这是对科学方法的误解，被作者反驳，应作为观点节点。",
+            "severity": "high"
+          },
+          {
+            "node": "科学方法不是形式的逻辑，其中有许多精密严毅的手续",
+            "node_type": "观点",
+            "reason": "这是作者对科学方法的正面定义，应作为观点节点。",
+            "severity": "high"
+          },
+          {
+            "node": "张君劢",
+            "node_type": "人物",
+            "reason": "文本开头提到张君劢先生，是论战一方。",
+            "severity": "high"
+          },
+          {
+            "node": "丁在君",
+            "node_type": "人物",
+            "reason": "文本开头提到丁在君先生，是论战另一方。",
+            "severity": "high"
+          },
+          {
+            "node": "傅佩青",
+            "node_type": "人物",
+            "reason": "文本提到傅佩青先生找作者讲演。",
+            "severity": "medium"
+          },
+          {
+            "node": "张东荪",
+            "node_type": "人物",
+            "reason": "文本引用张东荪的《劳而无功》论文中的观点。",
+            "severity": "high"
+          },
+          {
+            "node": "《劳而无功》",
+            "node_type": "文章",
+            "reason": "文本引用张东荪的论文《劳而无功》。",
+            "severity": "medium"
+          },
+          {
+            "node": "拥护科学的战团",
+            "node_type": "阵营/群体",
+            "reason": "作者表示要加入拥护科学的战团，这是一个群体。",
+            "severity": "medium"
+          }
+        ],
+        "missing_links": [
+          {
+            "source": "科学",
+            "relation": "包含",
+            "target": "广义的科学",
+            "reason": "文本明确说'科学有两个意义：一是广义的，一是狭义的'，应建立包含关系。",
+            "severity": "high"
+          },
+          {
+            "source": "科学",
+            "relation": "包含",
+            "target": "狭义的科学",
+            "reason": "同上。",
+            "severity": "high"
+          },
+          {
+            "source": "广义的科学",
+            "relation": "定义",
+            "target": "凡由科学方法制造出来的，都是科学",
+            "reason": "文本给出广义科学的定义。",
+            "severity": "high"
+          },
+          {
+            "source": "张东荪",
+            "relation": "主张",
+            "target": "科学之所以成为科学者，以其内容，非以其方法也",
+            "reason": "文本说'他们说'，并引用张东荪的论文，表明这是张东荪的观点。",
+            "severity": "high"
+          },
+          {
+            "source": "张东荪",
+            "relation": "主张",
+            "target": "科学方法是形式的逻辑",
+            "reason": "文本说'他们的意思似乎是：科学方法是形式的逻辑'，归因于张东荪等人。",
+            "severity": "high"
+          },
+          {
+            "source": "作者",
+            "relation": "反驳",
+            "target": "科学方法是形式的逻辑",
+            "reason": "文本说'这实在是误解科学方法'，表明作者反驳此观点。",
+            "severity": "high"
+          },
+          {
+            "source": "作者",
+            "relation": "主张",
+            "target": "科学方法不是形式的逻辑，其中有许多精密严毅的手续",
+            "reason": "文本给出作者对科学方法的正面定义。",
+            "severity": "high"
+          },
+          {
+            "source": "科学方法",
+            "relation": "定义",
+            "target": "科学方法不是形式的逻辑，其中有许多精密严毅的手续",
+            "reason": "文本给出科学方法的定义。",
+            "severity": "high"
+          },
+          {
+            "source": "作者",
+            "relation": "支持",
+            "target": "拥护科学的战团",
+            "reason": "文本说'我早已也想摇旗呐喊，加入拥护科学的战团'，表明作者支持科学阵营。",
+            "severity": "high"
+          },
+          {
+            "source": "张君劢",
+            "relation": "参与",
+            "target": "科学能支配人生观吗",
+            "reason": "文本说张君劢和丁在君为此问题打了一个月的恶战。",
+            "severity": "high"
+          },
+          {
+            "source": "丁在君",
+            "relation": "参与",
+            "target": "科学能支配人生观吗",
+            "reason": "同上。",
+            "severity": "high"
+          },
+          {
+            "source": "作者",
+            "relation": "参与",
+            "target": "科学能支配人生观吗",
+            "reason": "文本说'我这一次的加入战团'，表明作者参与此问题讨论。",
+            "severity": "high"
+          }
+        ],
+        "normalization_issues": [
+          {
+            "surface_forms": [
+              "丁在君",
+              "丁文江"
+            ],
+            "suggested_canonical": "丁文江",
+            "reason": "丁在君是丁文江的字，应统一为常用名。",
+            "severity": "medium"
+          },
+          {
+            "surface_forms": [
+              "张君劢",
+              "张嘉森"
+            ],
+            "suggested_canonical": "张君劢",
+            "reason": "张君劢是常用名，张嘉森是其本名，应统一。",
+            "severity": "low"
+          }
+        ],
+        "relation_type_issues": [],
+        "polarity_issues": [],
+        "evidence_issues": [],
+        "rhetorical_device_issues": [
+          {
+            "item": "我这一次的加入战团，固然不敢比较美国的对德宣战，把德国打到落花流水，然而却希望可以比较中国的对德宣战，仅仅发出一篇宣言，而能处理中德邦交之局部问题",
+            "problem": "这是一个比喻/类比，将加入论战比作对德宣战，应作为修辞设备抽取。",
+            "suggested_fix": "添加 rhetorical_device 节点，type 为'比喻/类比'，literal_target 为'加入论战'，figurative_source 为'对德宣战'，argumentative_function 为'自谦并说明参与程度'。",
+            "severity": "medium"
+          }
+        ]
+      }
+    },
+    {
+      "segment_id": "王星拱_000_4d6fdc04_s0001",
+      "high": 0,
+      "medium": 0,
+      "low": 0,
+      "issues": {}
+    },
+    {
+      "segment_id": "王星拱_000_4d6fdc04_s0002",
+      "high": 10,
+      "medium": 6,
+      "low": 0,
+      "issues": {
+        "type_errors": [],
+        "attribution_errors": [],
+        "direction_errors": [],
+        "missing_nodes": [
+          {
+            "node": "因果之原理",
+            "node_type": "概念",
+            "reason": "文本明确提出了“因果之原理”作为科学构造的两个原理之一，并给出了定义，应抽取为概念节点。",
+            "severity": "high"
+          },
+          {
+            "node": "齐一之原理",
+            "node_type": "概念",
+            "reason": "文本明确提出了“齐一之原理”作为科学构造的两个原理之一，应抽取为概念节点。",
+            "severity": "high"
+          },
+          {
+            "node": "可分之原理",
+            "node_type": "概念",
+            "reason": "文本指出因果之原理包含可分之原理，并解释了其含义，应抽取为概念节点。",
+            "severity": "medium"
+          },
+          {
+            "node": "科学是否能应用于人生观？",
+            "node_type": "问题",
+            "reason": "文本明确提出了一个争论问题，是后续讨论的核心，应抽取为问题节点。",
+            "severity": "high"
+          },
+          {
+            "node": "科学是否能够应用以解决人生问题？",
+            "node_type": "问题",
+            "reason": "这是对上一个问题的换一种说法，同样是一个核心问题，应抽取为问题节点。",
+            "severity": "high"
+          },
+          {
+            "node": "宇宙是不可分的",
+            "node_type": "观点",
+            "reason": "文本提到“有些哲学家以为宇宙是不可分的”，这是一个被引述的观点，应抽取为观点节点。",
+            "severity": "medium"
+          },
+          {
+            "node": "布拉德烈",
+            "node_type": "人物",
+            "reason": "文本引用了布拉德烈的观点，应抽取为人物节点。",
+            "severity": "high"
+          },
+          {
+            "node": "庄子",
+            "node_type": "人物",
+            "reason": "文本引用了庄子的话作为例证，应抽取为人物节点。",
+            "severity": "high"
+          },
+          {
+            "node": "糖是甜的",
+            "node_type": "例证",
+            "reason": "文本用“糖是甜的”作为例子来阐释因果之原理和布拉德烈的观点，应抽取为例证节点。",
+            "severity": "medium"
+          }
+        ],
+        "missing_links": [
+          {
+            "source": "科学",
+            "relation": "构造于",
+            "target": "因果之原理",
+            "reason": "文本明确说“科学所凭藉以构造起来的，有两个原理:(一）是因果之原理”，应建立关系。",
+            "severity": "high"
+          },
+          {
+            "source": "科学",
+            "relation": "构造于",
+            "target": "齐一之原理",
+            "reason": "文本明确说“科学所凭藉以构造起来的，有两个原理:(二）是齐一之原理”，应建立关系。",
+            "severity": "high"
+          },
+          {
+            "source": "因果之原理",
+            "relation": "包含",
+            "target": "可分之原理",
+            "reason": "文本指出“这个原理里边，包含着可分之原理”，应建立包含关系。",
+            "severity": "medium"
+          },
+          {
+            "source": "布拉德烈",
+            "relation": "主张",
+            "target": "宇宙是不可分的",
+            "reason": "文本引述布拉德烈的观点，认为宇宙不可分，应建立主张关系。",
+            "severity": "high"
+          },
+          {
+            "source": "宇宙是不可分的",
+            "relation": "反对",
+            "target": "因果之原理",
+            "reason": "文本说“有些哲学家以为宇宙是不可分的，故对于这个原理，极端反对”，应建立反对关系。",
+            "severity": "high"
+          },
+          {
+            "source": "布拉德烈",
+            "relation": "质疑",
+            "target": "糖是甜的",
+            "reason": "文本引述布拉德烈对“糖是甜的”这一因果关系的质疑，应建立质疑关系。",
+            "severity": "medium"
+          },
+          {
+            "source": "庄子",
+            "relation": "主张",
+            "target": "宇宙是不可分的",
+            "reason": "文本引用庄子的话来佐证“宇宙不可分析”的观点，应建立主张关系。",
+            "severity": "medium"
+          }
+        ],
+        "normalization_issues": [],
+        "relation_type_issues": [],
+        "polarity_issues": [],
+        "evidence_issues": [],
+        "rhetorical_device_issues": []
+      }
+    },
+    {
+      "segment_id": "王星拱_000_4d6fdc04_s0003",
+      "high": 18,
+      "medium": 7,
+      "low": 10,
+      "issues": {
+        "type_errors": [],
+        "attribution_errors": [],
+        "direction_errors": [],
+        "missing_nodes": [
+          {
+            "node": "原来就没有糖是甜的这样一回事",
+            "node_type": "观点",
+            "reason": "这是庄子或文本中引用的一个结论性观点，应作为观点节点抽取，而非遗漏。",
+            "severity": "high"
+          },
+          {
+            "node": "宇宙不可分析",
+            "node_type": "观点",
+            "reason": "文本明确说庄子的话是“宇宙不可分析的意思”，这是一个核心观点，应抽取。",
+            "severity": "high"
+          },
+          {
+            "node": "宇宙是可分的",
+            "node_type": "观点",
+            "reason": "科学的基本前提，与“宇宙不可分析”对立，是争论焦点，应抽取。",
+            "severity": "high"
+          },
+          {
+            "node": "同因必生同果",
+            "node_type": "观点",
+            "reason": "齐一之原理的核心表述，是科学成立的基础，应作为观点节点。",
+            "severity": "high"
+          },
+          {
+            "node": "宇宙间永远没有同因的现象",
+            "node_type": "观点",
+            "reason": "柏格森创化论的核心结论，与齐一原理对立，应抽取。",
+            "severity": "high"
+          },
+          {
+            "node": "科学能支配人生观吗",
+            "node_type": "问题",
+            "reason": "虽然文本未直接出现此问题，但整个讨论围绕科学能否成立及支配人生观，此问题节点应隐含在上下文中，建议补充。",
+            "severity": "medium"
+          },
+          {
+            "node": "科学",
+            "node_type": "概念",
+            "reason": "文本中多次出现“科学”，作为核心概念，应抽取。",
+            "severity": "high"
+          },
+          {
+            "node": "宇宙",
+            "node_type": "概念",
+            "reason": "文本中“宇宙”是核心讨论对象，应抽取。",
+            "severity": "high"
+          },
+          {
+            "node": "齐一之原理",
+            "node_type": "概念",
+            "reason": "文本明确提及并解释，应作为概念或方法论原则抽取。",
+            "severity": "high"
+          },
+          {
+            "node": "因果原理",
+            "node_type": "概念",
+            "reason": "文本提及“推翻因果原理”，应作为概念抽取。",
+            "severity": "high"
+          },
+          {
+            "node": "柏格森的创化",
+            "node_type": "主义/学说/理论",
+            "reason": "文本提及并解释其观点，应作为理论节点。",
+            "severity": "high"
+          },
+          {
+            "node": "德毛克里脱司（Democritus）",
+            "node_type": "人物",
+            "reason": "文本提及，作为科学可分观点的支持者，应抽取。",
+            "severity": "medium"
+          },
+          {
+            "node": "莱柏氏（Leibniz）",
+            "node_type": "人物",
+            "reason": "文本提及，应抽取。",
+            "severity": "medium"
+          },
+          {
+            "node": "庄子",
+            "node_type": "人物",
+            "reason": "文本引用其言论，应抽取。",
+            "severity": "medium"
+          },
+          {
+            "node": "原子",
+            "node_type": "概念",
+            "reason": "作为科学可分观点的例证，应抽取。",
+            "severity": "low"
+          },
+          {
+            "node": "点",
+            "node_type": "概念",
+            "reason": "几何学中的点，作为例证，应抽取。",
+            "severity": "low"
+          },
+          {
+            "node": "单子（Monad）",
+            "node_type": "概念",
+            "reason": "作为例证，应抽取。",
+            "severity": "low"
+          },
+          {
+            "node": "力线",
+            "node_type": "概念",
+            "reason": "作为例证，应抽取。",
+            "severity": "low"
+          },
+          {
+            "node": "电子量子",
+            "node_type": "概念",
+            "reason": "作为例证，应抽取。",
+            "severity": "low"
+          },
+          {
+            "node": "分子原子",
+            "node_type": "概念",
+            "reason": "作为例证，应抽取。",
+            "severity": "low"
+          },
+          {
+            "node": "单位性质",
+            "node_type": "概念",
+            "reason": "作为例证，应抽取。",
+            "severity": "low"
+          },
+          {
+            "node": "群论",
+            "node_type": "概念",
+            "reason": "文本提及，作为支持分析无限性的理论，应抽取。",
+            "severity": "low"
+          }
+        ],
+        "missing_links": [
+          {
+            "source": "庄子",
+            "relation": "主张",
+            "target": "宇宙不可分析",
+            "reason": "文本说庄子的话是“宇宙不可分析的意思”，应建立人物与观点的关系。",
+            "severity": "high"
+          },
+          {
+            "source": "科学",
+            "relation": "主张",
+            "target": "宇宙是可分的",
+            "reason": "文本说“科学以为宇宙是可分的”，应建立概念与观点的关系。",
+            "severity": "high"
+          },
+          {
+            "source": "德毛克里脱司（Democritus）",
+            "relation": "支持",
+            "target": "宇宙是可分的",
+            "reason": "文本列举其原子论作为科学可分观点的例证，应建立支持关系。",
+            "severity": "medium"
+          },
+          {
+            "source": "莱柏氏（Leibniz）",
+            "relation": "支持",
+            "target": "宇宙是可分的",
+            "reason": "文本列举其单子论作为例证，应建立支持关系。",
+            "severity": "medium"
+          },
+          {
+            "source": "齐一之原理",
+            "relation": "定义",
+            "target": "同因必生同果",
+            "reason": "文本说“齐一之原理是说：同因必生同果”，应建立定义关系。",
+            "severity": "high"
+          },
+          {
+            "source": "科学",
+            "relation": "依赖",
+            "target": "齐一之原理",
+            "reason": "文本说“假使没有这个原理……科学也无从构造了”，应建立依赖关系。",
+            "severity": "high"
+          },
+          {
+            "source": "柏格森的创化",
+            "relation": "主张",
+            "target": "宇宙间永远没有同因的现象",
+            "reason": "文本说柏格森创化论导致此结论，应建立关系。",
+            "severity": "high"
+          },
+          {
+            "source": "柏格森的创化",
+            "relation": "反驳",
+            "target": "齐一之原理",
+            "reason": "文本说柏格森创化论是推翻齐一原理的“最时髦最有力的论调”，应建立反驳关系。",
+            "severity": "high"
+          },
+          {
+            "source": "宇宙不可分析",
+            "relation": "对立",
+            "target": "宇宙是可分的",
+            "reason": "两个观点直接对立，应建立对立关系。",
+            "severity": "high"
+          },
+          {
+            "source": "宇宙间永远没有同因的现象",
+            "relation": "对立",
+            "target": "同因必生同果",
+            "reason": "两个观点直接对立，应建立对立关系。",
+            "severity": "high"
+          }
+        ],
+        "normalization_issues": [
+          {
+            "surface_forms": [
+              "德毛克里脱司",
+              "Democritus"
+            ],
+            "suggested_canonical": "德谟克利特",
+            "reason": "同一人物，中文译名不一致，建议统一为常见译名。",
+            "severity": "low"
+          },
+          {
+            "surface_forms": [
+              "莱柏氏",
+              "Leibniz"
+            ],
+            "suggested_canonical": "莱布尼茨",
+            "reason": "同一人物，中文译名不一致，建议统一为常见译名。",
+            "severity": "low"
+          }
+        ],
+        "relation_type_issues": [],
+        "polarity_issues": [],
+        "evidence_issues": [],
+        "rhetorical_device_issues": [
+          {
+            "item": "若是宇宙是一个混沌圆软的东西，那么科学就不能成立了",
+            "problem": "这是一个假设情境或比喻，用于论证科学成立的前提，但未被识别为修辞手法。",
+            "suggested_fix": "添加 rhetorical_device 节点，type 为“假设/比喻”，literal_target 为“宇宙”，论证功能为“反证：如果宇宙是混沌圆软，则科学不成立，从而论证宇宙是可分的”。",
+            "severity": "medium"
+          }
+        ]
+      }
+    },
+    {
+      "segment_id": "王星拱_000_4d6fdc04_s0004",
+      "high": 24,
+      "medium": 1,
+      "low": 0,
+      "issues": {
+        "type_errors": [],
+        "attribution_errors": [],
+        "direction_errors": [],
+        "missing_nodes": [
+          {
+            "node": "过去的现象都是现在现象发生的原因",
+            "node_type": "观点",
+            "reason": "文本开头提出一个关于因果关系的观点，但抽取结果中未提取为观点节点。",
+            "severity": "high"
+          },
+          {
+            "node": "宇宙间永远没有同因的现象",
+            "node_type": "观点",
+            "reason": "这是作者基于前文推理得出的结论，应作为观点节点。",
+            "severity": "high"
+          },
+          {
+            "node": "同因必生同果是一句便利的虚诞",
+            "node_type": "观点",
+            "reason": "作者对传统因果观的批评，应作为观点节点。",
+            "severity": "high"
+          },
+          {
+            "node": "科学的意见却不与此相同",
+            "node_type": "观点",
+            "reason": "作者引出科学的不同看法，是重要观点转折。",
+            "severity": "high"
+          },
+          {
+            "node": "个体的性质",
+            "node_type": "概念",
+            "reason": "文本对个体的性质进行了定义，应作为概念节点。",
+            "severity": "high"
+          },
+          {
+            "node": "类的性质",
+            "node_type": "概念",
+            "reason": "文本对类的性质进行了定义，应作为概念节点。",
+            "severity": "high"
+          },
+          {
+            "node": "科学的定律是建筑在类的性质上面的",
+            "node_type": "观点",
+            "reason": "这是作者的重要主张，应作为观点节点。",
+            "severity": "high"
+          },
+          {
+            "node": "类的性质分为两种",
+            "node_type": "观点",
+            "reason": "作者对类的性质进行分类，应作为观点节点。",
+            "severity": "high"
+          },
+          {
+            "node": "形式逻辑与数学中之类的性质都归第一种",
+            "node_type": "观点",
+            "reason": "作者对第一种类的性质的应用说明，应作为观点节点。",
+            "severity": "high"
+          },
+          {
+            "node": "在沾滞物质的科学之中类之性质都归第二种",
+            "node_type": "观点",
+            "reason": "作者对第二种类的性质的应用说明，应作为观点节点。",
+            "severity": "high"
+          },
+          {
+            "node": "平均代表的类的性质又有二种",
+            "node_type": "观点",
+            "reason": "作者进一步细分，应作为观点节点。",
+            "severity": "high"
+          },
+          {
+            "node": "凡物受热则膨胀是物类之类的性质",
+            "node_type": "观点",
+            "reason": "作者举例说明定性的平均代表，应作为观点节点。",
+            "severity": "high"
+          },
+          {
+            "node": "水在零度四度之间受热则反收缩",
+            "node_type": "例证",
+            "reason": "作者用此例证说明第二种类的性质可以有例外，应作为例证节点。",
+            "severity": "high"
+          },
+          {
+            "node": "有一种镍渗金受热亦不膨胀受冷亦不收缩",
+            "node_type": "例证",
+            "reason": "作者用此例证说明第二种类的性质可以有例外，应作为例证节点。",
+            "severity": "high"
+          }
+        ],
+        "missing_links": [
+          {
+            "source": "过去的现象都是现在现象发生的原因",
+            "relation": "被反驳",
+            "target": "科学的意见却不与此相同",
+            "reason": "作者提出科学意见与前述观点不同，形成反驳关系。",
+            "severity": "high"
+          },
+          {
+            "source": "宇宙间永远没有同因的现象",
+            "relation": "推导出",
+            "target": "同因必生同果是一句便利的虚诞",
+            "reason": "前者是后者的前提。",
+            "severity": "high"
+          },
+          {
+            "source": "个体的性质",
+            "relation": "区分于",
+            "target": "类的性质",
+            "reason": "文本明确从两方面看待，形成区分关系。",
+            "severity": "high"
+          },
+          {
+            "source": "类的性质",
+            "relation": "包含",
+            "target": "一类中之分子必有的性质",
+            "reason": "文本将类的性质分为两种，此为第一种。",
+            "severity": "high"
+          },
+          {
+            "source": "类的性质",
+            "relation": "包含",
+            "target": "一类中之分子性质之平均代表",
+            "reason": "文本将类的性质分为两种，此为第二种。",
+            "severity": "high"
+          },
+          {
+            "source": "科学的定律是建筑在类的性质上面的",
+            "relation": "支持",
+            "target": "类的性质",
+            "reason": "科学定律依赖于类的性质。",
+            "severity": "high"
+          },
+          {
+            "source": "一类中之分子性质之平均代表",
+            "relation": "包含",
+            "target": "定性的平均代表",
+            "reason": "文本进一步细分。",
+            "severity": "high"
+          },
+          {
+            "source": "凡物受热则膨胀是物类之类的性质",
+            "relation": "例证",
+            "target": "定性的平均代表",
+            "reason": "此例证说明定性的平均代表。",
+            "severity": "high"
+          },
+          {
+            "source": "水在零度四度之间受热则反收缩",
+            "relation": "例外",
+            "target": "凡物受热则膨胀是物类之类的性质",
+            "reason": "此例证说明第二种类的性质可以有例外。",
+            "severity": "high"
+          },
+          {
+            "source": "有一种镍渗金受热亦不膨胀受冷亦不收缩",
+            "relation": "例外",
+            "target": "凡物受热则膨胀是物类之类的性质",
+            "reason": "此例证说明第二种类的性质可以有例外。",
+            "severity": "high"
+          }
+        ],
+        "normalization_issues": [],
+        "relation_type_issues": [],
+        "polarity_issues": [],
+        "evidence_issues": [],
+        "rhetorical_device_issues": [
+          {
+            "item": "套佛家一句话来说，就是所有过去都成现在",
+            "problem": "这是一个引用/类比，但未作为修辞设备提取。",
+            "suggested_fix": "添加 rhetorical_device 节点，type 为 '引用' 或 '类比'，literal_target 为 '所有过去都成现在'，论证功能为 '增强说服力'。",
+            "severity": "medium"
+          }
+        ]
+      }
+    },
+    {
+      "segment_id": "王星拱_000_4d6fdc04_s0005",
+      "high": 11,
+      "medium": 4,
+      "low": 0,
+      "issues": {
+        "type_errors": [],
+        "attribution_errors": [],
+        "direction_errors": [],
+        "missing_nodes": [
+          {
+            "node": "类的性质",
+            "node_type": "概念",
+            "reason": "文本核心讨论的概念，应作为概念节点抽取",
+            "severity": "high"
+          },
+          {
+            "node": "定性的平均代表",
+            "node_type": "概念",
+            "reason": "文本明确区分的两种类的性质之一，应作为概念节点",
+            "severity": "high"
+          },
+          {
+            "node": "定量的平均代表",
+            "node_type": "概念",
+            "reason": "文本明确区分的两种类的性质之一，应作为概念节点",
+            "severity": "high"
+          },
+          {
+            "node": "最终法式",
+            "node_type": "概念",
+            "reason": "亚里士多德提出的概念，用于解决类的性质问题，应作为概念节点",
+            "severity": "high"
+          },
+          {
+            "node": "平均代表之类的性质之问题",
+            "node_type": "问题",
+            "reason": "文本末尾明确提出的争论问题，应作为问题节点",
+            "severity": "high"
+          },
+          {
+            "node": "从平均代表上构造起来的定律",
+            "node_type": "概念",
+            "reason": "文本中反复讨论的对象，应作为概念节点",
+            "severity": "medium"
+          },
+          {
+            "node": "亚里士多德",
+            "node_type": "人物",
+            "reason": "文本中提及的历史人物，应作为人物节点",
+            "severity": "high"
+          },
+          {
+            "node": "国会议员",
+            "node_type": "比喻/类比",
+            "reason": "文本用国会议员比喻平均代表，应作为比喻/类比节点",
+            "severity": "medium"
+          }
+        ],
+        "missing_links": [
+          {
+            "source": "类的性质",
+            "relation": "包含",
+            "target": "定性的平均代表",
+            "reason": "文本明确说类的性质有二种，定性的平均代表是其中之一",
+            "severity": "high"
+          },
+          {
+            "source": "类的性质",
+            "relation": "包含",
+            "target": "定量的平均代表",
+            "reason": "文本明确说类的性质有二种，定量的平均代表是其中之一",
+            "severity": "high"
+          },
+          {
+            "source": "亚里士多德",
+            "relation": "提出",
+            "target": "最终法式",
+            "reason": "文本说亚里士多德想用最终法式的观念来免除困难",
+            "severity": "high"
+          },
+          {
+            "source": "最终法式",
+            "relation": "用于解决",
+            "target": "类的性质",
+            "reason": "文本说亚里士多德用最终法式来免除类的性质带来的困难",
+            "severity": "high"
+          },
+          {
+            "source": "国会议员",
+            "relation": "比喻",
+            "target": "平均代表",
+            "reason": "文本用国会议员比喻平均代表，说明代表不是本身",
+            "severity": "medium"
+          },
+          {
+            "source": "定性的平均代表",
+            "relation": "是",
+            "target": "各分子之个体的性质之一部分",
+            "reason": "文本明确说定性的平均代表就是各分子之个体的性质之一部分",
+            "severity": "high"
+          }
+        ],
+        "normalization_issues": [],
+        "relation_type_issues": [],
+        "polarity_issues": [],
+        "evidence_issues": [],
+        "rhetorical_device_issues": [
+          {
+            "item": "国会议员比喻",
+            "problem": "文本用国会议员比喻平均代表，但未抽取为修辞设备",
+            "suggested_fix": "添加 rhetorical_device 节点，type 为比喻，literal_target 为平均代表，论证功能为说明代表不是本身",
+            "severity": "medium"
+          }
+        ]
+      }
+    },
+    {
+      "segment_id": "王星拱_000_4d6fdc04_s0006",
+      "high": 0,
+      "medium": 0,
+      "low": 0,
+      "issues": {}
+    },
+    {
+      "segment_id": "王星拱_000_4d6fdc04_s0007",
+      "high": 0,
+      "medium": 0,
+      "low": 0,
+      "issues": {}
+    },
+    {
+      "segment_id": "王星拱_000_4d6fdc04_s0008",
+      "high": 0,
+      "medium": 0,
+      "low": 0,
+      "issues": {}
+    },
+    {
+      "segment_id": "王星拱_000_4d6fdc04_s0009",
+      "high": 6,
+      "medium": 8,
+      "low": 2,
+      "issues": {
+        "type_errors": [],
+        "attribution_errors": [],
+        "direction_errors": [],
+        "missing_nodes": [
+          {
+            "node": "无生命的物质可以变成有生命的",
+            "node_type": "观点",
+            "reason": "文本中明确提出了一个核心观点：无生命的物质在特定条件下可以进化成生物，这是作者的主张，应抽取为观点节点。",
+            "severity": "high"
+          },
+          {
+            "node": "波特罗的试验",
+            "node_type": "例证",
+            "reason": "文本开头描述了波特罗的试验作为支持观点的例证，应抽取为例证节点。",
+            "severity": "medium"
+          },
+          {
+            "node": "斯宾塞尔的生命是各部分之互组",
+            "node_type": "观点",
+            "reason": "文本提到斯宾塞尔的主张，是作者引用的他人观点，应抽取为观点节点并标注归属。",
+            "severity": "medium"
+          },
+          {
+            "node": "唐马森的生命力",
+            "node_type": "概念",
+            "reason": "文本提到唐马森主张的“生命力”概念，作者反对此概念，应抽取为概念节点。",
+            "severity": "medium"
+          },
+          {
+            "node": "赫克尔的万物皆有生命",
+            "node_type": "观点",
+            "reason": "文本提到赫克尔的主张，作者反对此观点，应抽取为观点节点。",
+            "severity": "medium"
+          },
+          {
+            "node": "神秘的力量",
+            "node_type": "概念",
+            "reason": "文本中作者批评了“神秘的力量”这一概念，应抽取为概念节点。",
+            "severity": "low"
+          },
+          {
+            "node": "镭类原质之放射的变迁",
+            "node_type": "例证",
+            "reason": "文本用镭类原质的例子来类比说明科学家做不到的事情，应抽取为例证节点。",
+            "severity": "low"
+          },
+          {
+            "node": "高等动物的智慧问题",
+            "node_type": "问题",
+            "reason": "文本末尾提出高等动物的智慧问题，并主张不需要灵魂来解释，应抽取为问题节点。",
+            "severity": "medium"
+          }
+        ],
+        "missing_links": [
+          {
+            "source": "波特罗的试验",
+            "relation": "支持",
+            "target": "无生命的物质可以变成有生命的",
+            "reason": "波特罗的试验被作者用作支持其观点的证据。",
+            "severity": "high"
+          },
+          {
+            "source": "作者",
+            "relation": "主张",
+            "target": "无生命的物质可以变成有生命的",
+            "reason": "作者在文本中明确主张这一观点。",
+            "severity": "high"
+          },
+          {
+            "source": "作者",
+            "relation": "反对",
+            "target": "神秘的力量",
+            "reason": "作者明确反对用神秘力量解释生命起源。",
+            "severity": "high"
+          },
+          {
+            "source": "作者",
+            "relation": "反对",
+            "target": "唐马森的生命力",
+            "reason": "作者明确反对唐马森的生命力概念。",
+            "severity": "high"
+          },
+          {
+            "source": "作者",
+            "relation": "反对",
+            "target": "赫克尔的万物皆有生命",
+            "reason": "作者明确反对赫克尔的主张。",
+            "severity": "high"
+          },
+          {
+            "source": "作者",
+            "relation": "支持",
+            "target": "斯宾塞尔的生命是各部分之互组",
+            "reason": "作者引用斯宾塞尔的主张并似乎表示赞同。",
+            "severity": "medium"
+          },
+          {
+            "source": "镭类原质之放射的变迁",
+            "relation": "类比",
+            "target": "生命起源问题",
+            "reason": "作者用镭类原质的例子类比说明科学家做不到的事情并不代表有神秘力量。",
+            "severity": "medium"
+          }
+        ],
+        "normalization_issues": [],
+        "relation_type_issues": [],
+        "polarity_issues": [],
+        "evidence_issues": [],
+        "rhetorical_device_issues": [
+          {
+            "item": "试问我们可能相信镭类原质里边，也有一个生命之力或与生命之力有同等神秘意味的力在那里主持吗？",
+            "problem": "这是一个反问句，用于讽刺和归谬，但未被识别为修辞手法。",
+            "suggested_fix": "添加 rhetorical_device 节点，type 为 '反问/归谬'，literal_target 为 '相信镭类原质中有神秘力量'，argumentative_function 为 '反驳对手观点'。",
+            "severity": "medium"
+          }
+        ]
+      }
+    },
+    {
+      "segment_id": "王星拱_000_4d6fdc04_s0010",
+      "high": 0,
+      "medium": 0,
+      "low": 0,
+      "issues": {}
+    },
+    {
+      "segment_id": "王星拱_000_4d6fdc04_s0011",
+      "high": 0,
+      "medium": 0,
+      "low": 0,
+      "issues": {}
+    },
+    {
+      "segment_id": "王星拱_000_4d6fdc04_s0012",
+      "high": 15,
+      "medium": 37,
+      "low": 4,
+      "issues": {
+        "type_errors": [],
+        "attribution_errors": [],
+        "direction_errors": [],
+        "missing_nodes": [
+          {
+            "node": "人生观由于遗传与教育而定",
+            "node_type": "观点",
+            "reason": "文本明确提出'人生观由于遗传与教育而定，这一个原理，是统一的'，这是一个核心观点，应被抽取。",
+            "severity": "high"
+          },
+          {
+            "node": "乐观者",
+            "node_type": "阵营/群体",
+            "reason": "文本中'乐观者'和'悲观者'是群体概念，应被抽取。",
+            "severity": "medium"
+          },
+          {
+            "node": "悲观者",
+            "node_type": "阵营/群体",
+            "reason": "同上。",
+            "severity": "medium"
+          },
+          {
+            "node": "仁者",
+            "node_type": "阵营/群体",
+            "reason": "文本引用'仁者见谓之仁，智者见谓之智'，'仁者'和'智者'是群体概念。",
+            "severity": "medium"
+          },
+          {
+            "node": "智者",
+            "node_type": "阵营/群体",
+            "reason": "同上。",
+            "severity": "medium"
+          },
+          {
+            "node": "张君劢先生",
+            "node_type": "人物",
+            "reason": "文本中多次提及，是重要人物。",
+            "severity": "high"
+          },
+          {
+            "node": "丁在君先生",
+            "node_type": "人物",
+            "reason": "同上。",
+            "severity": "high"
+          },
+          {
+            "node": "科学与人生观无关",
+            "node_type": "观点",
+            "reason": "文本明确说'张君劢先生说科学与人生观无关'，这是张君劢的观点。",
+            "severity": "high"
+          },
+          {
+            "node": "科学与人生观有关",
+            "node_type": "观点",
+            "reason": "文本明确说'丁在君先生说科学与人生观有关'，这是丁在君的观点。",
+            "severity": "high"
+          },
+          {
+            "node": "科学可以完全应用于人生问题",
+            "node_type": "观点",
+            "reason": "文本说'丁在君先生...主张科学可以完全应用于人生问题'，这是丁在君的观点。",
+            "severity": "high"
+          },
+          {
+            "node": "各人的人生观不同",
+            "node_type": "观点",
+            "reason": "文本说'各人的观察点不同，当然各人的人生观不同'，这是一个观点。",
+            "severity": "medium"
+          },
+          {
+            "node": "人生观不能统一",
+            "node_type": "观点",
+            "reason": "文本说'人生观虽不能统一'，这是一个观点。",
+            "severity": "medium"
+          },
+          {
+            "node": "人生观由于遗传与教育而定",
+            "node_type": "观点",
+            "reason": "文本说'人生观由于遗传与教育而定，这一个原理，是统一的'，这是作者的核心观点。",
+            "severity": "high"
+          },
+          {
+            "node": "科学里没有什么公式，把大家的意见都可以囊括而无遗",
+            "node_type": "观点",
+            "reason": "文本中明确陈述此观点。",
+            "severity": "medium"
+          },
+          {
+            "node": "各人有各人的天性，由先天遗传而得来",
+            "node_type": "观点",
+            "reason": "文本中明确陈述此观点。",
+            "severity": "medium"
+          },
+          {
+            "node": "各人有各人的学识（指所有的知识，不必是科学知识),由后天教育而得来",
+            "node_type": "观点",
+            "reason": "文本中明确陈述此观点。",
+            "severity": "medium"
+          },
+          {
+            "node": "各人的观察点不同，当然各人的人生观不同",
+            "node_type": "观点",
+            "reason": "文本中明确陈述此观点。",
+            "severity": "medium"
+          },
+          {
+            "node": "我们并不希望世界上各人的人生观，都是相同的",
+            "node_type": "观点",
+            "reason": "文本中明确陈述此观点。",
+            "severity": "medium"
+          },
+          {
+            "node": "如果世界上各人的人生观都是相同的，那样'清一色'的世界，又有什么趣味呢",
+            "node_type": "观点",
+            "reason": "这是一个反问式观点，表达对统一人生观的否定。",
+            "severity": "medium"
+          },
+          {
+            "node": "甲有如此如此的遗传与教育，所以甲有如此如此的人生观",
+            "node_type": "观点",
+            "reason": "文本中明确陈述此观点。",
+            "severity": "medium"
+          },
+          {
+            "node": "乙有如彼如彼的遗传与教育，所以乙有如彼如彼的人生观",
+            "node_type": "观点",
+            "reason": "文本中明确陈述此观点。",
+            "severity": "medium"
+          },
+          {
+            "node": "张君劢先生有他的遗传与教育，所以他主张科学与人生观无关",
+            "node_type": "观点",
+            "reason": "文本中明确陈述此观点。",
+            "severity": "medium"
+          },
+          {
+            "node": "丁在君先生有他的遗传与教育，所以他主张科学可以完全应用于人生问题",
+            "node_type": "观点",
+            "reason": "文本中明确陈述此观点。",
+            "severity": "medium"
+          },
+          {
+            "node": "凡是与张先生受过相类似的教育的，其主张大概都与张先生的相同",
+            "node_type": "观点",
+            "reason": "文本中明确陈述此观点。",
+            "severity": "medium"
+          },
+          {
+            "node": "凡是与丁先生受过相类似的教育的，其主张大概都与丁先生的相同",
+            "node_type": "观点",
+            "reason": "文本中明确陈述此观点。",
+            "severity": "medium"
+          },
+          {
+            "node": "若能将各人的遗传与教育明白底知道了，他的人生观，也可以一索而得",
+            "node_type": "观点",
+            "reason": "文本中明确陈述此观点。",
+            "severity": "medium"
+          },
+          {
+            "node": "我们所比较容易做到的是考察各人所受过的教育",
+            "node_type": "观点",
+            "reason": "文本中明确陈述此观点。",
+            "severity": "medium"
+          },
+          {
+            "node": "若能明白知道一班人所受过的教育都有大致相同的，他们的人生观，也可以测度得大致不差，而可以得一个平均代表，和在科学（狭义的）里的定律一样",
+            "node_type": "观点",
+            "reason": "文本中明确陈述此观点。",
+            "severity": "medium"
+          },
+          {
+            "node": "人生观",
+            "node_type": "概念",
+            "reason": "文本核心概念，应被抽取。",
+            "severity": "high"
+          },
+          {
+            "node": "遗传",
+            "node_type": "概念",
+            "reason": "文本中重要概念。",
+            "severity": "medium"
+          },
+          {
+            "node": "教育",
+            "node_type": "概念",
+            "reason": "文本中重要概念。",
+            "severity": "medium"
+          },
+          {
+            "node": "科学",
+            "node_type": "概念",
+            "reason": "文本中重要概念。",
+            "severity": "medium"
+          },
+          {
+            "node": "科学知识",
+            "node_type": "概念",
+            "reason": "文本中提及。",
+            "severity": "low"
+          },
+          {
+            "node": "科学（狭义的）",
+            "node_type": "概念",
+            "reason": "文本中提及。",
+            "severity": "low"
+          },
+          {
+            "node": "定律",
+            "node_type": "概念",
+            "reason": "文本中提及。",
+            "severity": "low"
+          },
+          {
+            "node": "平均代表",
+            "node_type": "概念",
+            "reason": "文本中提及。",
+            "severity": "low"
+          }
+        ],
+        "missing_links": [
+          {
+            "source": "张君劢先生",
+            "relation": "主张",
+            "target": "科学与人生观无关",
+            "reason": "文本明确说'张君劢先生说科学与人生观无关'。",
+            "severity": "high"
+          },
+          {
+            "source": "丁在君先生",
+            "relation": "主张",
+            "target": "科学与人生观有关",
+            "reason": "文本明确说'丁在君先生说科学与人生观有关'。",
+            "severity": "high"
+          },
+          {
+            "source": "丁在君先生",
+            "relation": "主张",
+            "target": "科学可以完全应用于人生问题",
+            "reason": "文本明确说'丁在君先生...主张科学可以完全应用于人生问题'。",
+            "severity": "high"
+          },
+          {
+            "source": "人生观",
+            "relation": "由...决定",
+            "target": "遗传",
+            "reason": "文本说'人生观由于遗传与教育而定'。",
+            "severity": "high"
+          },
+          {
+            "source": "人生观",
+            "relation": "由...决定",
+            "target": "教育",
+            "reason": "同上。",
+            "severity": "high"
+          },
+          {
+            "source": "各人的观察点不同",
+            "relation": "导致",
+            "target": "各人的人生观不同",
+            "reason": "文本说'各人的观察点不同，当然各人的人生观不同'。",
+            "severity": "medium"
+          },
+          {
+            "source": "遗传",
+            "relation": "决定",
+            "target": "天性",
+            "reason": "文本说'各人有各人的天性，由先天遗传而得来'。",
+            "severity": "medium"
+          },
+          {
+            "source": "教育",
+            "relation": "决定",
+            "target": "学识",
+            "reason": "文本说'各人有各人的学识...由后天教育而得来'。",
+            "severity": "medium"
+          },
+          {
+            "source": "张君劢先生",
+            "relation": "有",
+            "target": "遗传与教育",
+            "reason": "文本说'张君劢先生有他的遗传与教育'。",
+            "severity": "medium"
+          },
+          {
+            "source": "丁在君先生",
+            "relation": "有",
+            "target": "遗传与教育",
+            "reason": "文本说'丁在君先生有他的遗传与教育'。",
+            "severity": "medium"
+          },
+          {
+            "source": "张君劢先生的遗传与教育",
+            "relation": "导致",
+            "target": "张君劢先生主张科学与人生观无关",
+            "reason": "文本说'张君劢先生有他的遗传与教育，所以他主张科学与人生观无关'。",
+            "severity": "high"
+          },
+          {
+            "source": "丁在君先生的遗传与教育",
+            "relation": "导致",
+            "target": "丁在君先生主张科学可以完全应用于人生问题",
+            "reason": "文本说'丁在君先生有他的遗传与教育，所以他主张科学可以完全应用于人生问题'。",
+            "severity": "high"
+          },
+          {
+            "source": "与张先生受过相类似的教育",
+            "relation": "导致",
+            "target": "主张与张先生相同",
+            "reason": "文本说'凡是与张先生受过相类似的教育的，其主张大概都与张先生的相同'。",
+            "severity": "medium"
+          },
+          {
+            "source": "与丁先生受过相类似的教育",
+            "relation": "导致",
+            "target": "主张与丁先生相同",
+            "reason": "文本说'凡是与丁先生受过相类似的教育的，其主张大概都与丁先生的相同'。",
+            "severity": "medium"
+          },
+          {
+            "source": "知道各人的遗传与教育",
+            "relation": "导致",
+            "target": "一索而得他的人生观",
+            "reason": "文本说'若能将各人的遗传与教育明白底知道了，他的人生观，也可以一索而得'。",
+            "severity": "medium"
+          },
+          {
+            "source": "知道一班人所受过的教育大致相同",
+            "relation": "导致",
+            "target": "测度得他们的人生观大致不差",
+            "reason": "文本说'若能明白知道一班人所受过的教育都有大致相同的，他们的人生观，也可以测度得大致不差'。",
+            "severity": "medium"
+          },
+          {
+            "source": "测度得他们的人生观大致不差",
+            "relation": "导致",
+            "target": "得一个平均代表，和在科学（狭义的）里的定律一样",
+            "reason": "文本说'可以得一个平均代表，和在科学（狭义的）里的定律一样'。",
+            "severity": "medium"
+          }
+        ],
+        "normalization_issues": [
+          {
+            "surface_forms": [
+              "张君劢先生",
+              "张先生"
+            ],
+            "suggested_canonical": "张君劢",
+            "reason": "同一人物，应统一名称。",
+            "severity": "medium"
+          },
+          {
+            "surface_forms": [
+              "丁在君先生",
+              "丁先生"
+            ],
+            "suggested_canonical": "丁在君",
+            "reason": "同一人物，应统一名称。",
+            "severity": "medium"
+          }
+        ],
+        "relation_type_issues": [],
+        "polarity_issues": [],
+        "evidence_issues": [],
+        "rhetorical_device_issues": [
+          {
+            "item": "如果世界上各人的人生观都是相同的，那样'清一色'的世界，又有什么趣味呢",
+            "problem": "这是一个反问句，用于加强否定统一人生观的立场，应标注为修辞手法。",
+            "suggested_fix": "添加 rhetorical_device 节点，type 为 '反问'，literal_target 为 '统一人生观的世界'，argumentative_function 为 '否定统一人生观'。",
+            "severity": "medium"
+          }
+        ]
+      }
+    },
+    {
+      "segment_id": "王星拱_000_4d6fdc04_s0013",
+      "high": 10,
+      "medium": 14,
+      "low": 0,
+      "issues": {
+        "type_errors": [],
+        "attribution_errors": [],
+        "direction_errors": [],
+        "missing_nodes": [
+          {
+            "node": "科学可以解决人生问题",
+            "node_type": "观点",
+            "reason": "文本中明确提出了作者的结论，即科学可以解决人生问题，应作为观点节点抽取。",
+            "severity": "high"
+          },
+          {
+            "node": "科学是凭藉因果和齐一两个原理而构造起来的",
+            "node_type": "观点",
+            "reason": "这是作者对科学本质的陈述，属于观点，应抽取。",
+            "severity": "high"
+          },
+          {
+            "node": "人生问题不能逃出因果和齐一两个原理的金刚圈",
+            "node_type": "观点",
+            "reason": "这是作者论证科学能解决人生问题的关键论据，应作为观点或论据节点。",
+            "severity": "high"
+          },
+          {
+            "node": "科学之价值不能一笔抹煞",
+            "node_type": "观点",
+            "reason": "作者明确表达了对科学价值的肯定，应抽取。",
+            "severity": "medium"
+          },
+          {
+            "node": "实验主义家把价值和本质混在一处",
+            "node_type": "观点",
+            "reason": "作者对实验主义家的批评，属于观点，应抽取。",
+            "severity": "medium"
+          },
+          {
+            "node": "我们应当把这个世界上的生活切切实实的维持，一步步的改良",
+            "node_type": "观点",
+            "reason": "作者提出的主张，应作为观点节点。",
+            "severity": "medium"
+          },
+          {
+            "node": "智慧之维持生活与改良生活，总要比本能高千万倍",
+            "node_type": "观点",
+            "reason": "作者引用吴稚晖并认同的观点，应抽取。",
+            "severity": "medium"
+          },
+          {
+            "node": "科学为智慧发达之最高点",
+            "node_type": "观点",
+            "reason": "作者对科学地位的论断，应作为观点。",
+            "severity": "medium"
+          },
+          {
+            "node": "中国一班穿长衫的先生们向来欢喜偷懒逃入笼统的橡皮性的玻璃球里边",
+            "node_type": "观点",
+            "reason": "作者对中国知识分子的批评，属于观点，应抽取。",
+            "severity": "medium"
+          },
+          {
+            "node": "因果原理",
+            "node_type": "概念",
+            "reason": "文本中明确提到科学凭藉因果原理，应作为概念节点。",
+            "severity": "high"
+          },
+          {
+            "node": "齐一原理",
+            "node_type": "概念",
+            "reason": "文本中明确提到科学凭藉齐一原理，应作为概念节点。",
+            "severity": "high"
+          },
+          {
+            "node": "科学（狭义的）",
+            "node_type": "概念",
+            "reason": "文本中提到了狭义的科学的定义，应作为概念节点。",
+            "severity": "medium"
+          },
+          {
+            "node": "实验主义家",
+            "node_type": "阵营/群体",
+            "reason": "文本中明确提到实验主义家，应作为群体节点。",
+            "severity": "medium"
+          },
+          {
+            "node": "吴稚晖",
+            "node_type": "人物",
+            "reason": "文本中引用吴稚晖的话，应作为人物节点。",
+            "severity": "medium"
+          },
+          {
+            "node": "中国一班穿长衫的先生们",
+            "node_type": "阵营/群体",
+            "reason": "文本中批评的对象，应作为群体节点。",
+            "severity": "medium"
+          }
+        ],
+        "missing_links": [
+          {
+            "source": "科学",
+            "relation": "凭藉",
+            "target": "因果原理",
+            "reason": "文本明确说科学凭藉因果原理，应建立关系。",
+            "severity": "high"
+          },
+          {
+            "source": "科学",
+            "relation": "凭藉",
+            "target": "齐一原理",
+            "reason": "文本明确说科学凭藉齐一原理，应建立关系。",
+            "severity": "high"
+          },
+          {
+            "source": "科学可以解决人生问题",
+            "relation": "支持",
+            "target": "人生问题不能逃出因果和齐一两个原理的金刚圈",
+            "reason": "作者用后者论证前者，应建立支持关系。",
+            "severity": "high"
+          },
+          {
+            "source": "人生问题不能逃出因果和齐一两个原理的金刚圈",
+            "relation": "基于",
+            "target": "科学是凭藉因果和齐一两个原理而构造起来的",
+            "reason": "后者是前者的前提，应建立基于关系。",
+            "severity": "high"
+          },
+          {
+            "source": "作者",
+            "relation": "主张",
+            "target": "科学可以解决人生问题",
+            "reason": "这是作者的结论，应建立主张关系。",
+            "severity": "high"
+          },
+          {
+            "source": "作者",
+            "relation": "批评",
+            "target": "实验主义家把价值和本质混在一处",
+            "reason": "作者对实验主义家的做法提出批评，应建立批评关系。",
+            "severity": "medium"
+          },
+          {
+            "source": "作者",
+            "relation": "引用",
+            "target": "吴稚晖",
+            "reason": "作者引用吴稚晖的话，应建立引用关系。",
+            "severity": "medium"
+          },
+          {
+            "source": "作者",
+            "relation": "批评",
+            "target": "中国一班穿长衫的先生们",
+            "reason": "作者批评中国知识分子偷懒，应建立批评关系。",
+            "severity": "medium"
+          }
+        ],
+        "normalization_issues": [],
+        "relation_type_issues": [],
+        "polarity_issues": [],
+        "evidence_issues": [],
+        "rhetorical_device_issues": [
+          {
+            "item": "此天地之所以为大也一个笼统的橡皮性的玻璃球里边",
+            "problem": "这是一个比喻，将中国知识分子逃避现实的态度比作躲进橡皮性的玻璃球，应作为修辞设备抽取。",
+            "suggested_fix": "添加 rhetorical_device 节点，type 为比喻，literal_target 为逃避现实的态度，argumentative_function 为批评。",
+            "severity": "medium"
+          }
+        ]
+      }
+    },
+    {
+      "segment_id": "王星拱_000_4d6fdc04_s0014",
+      "high": 0,
+      "medium": 0,
+      "low": 0,
+      "issues": {}
+    }
+  ],
+  "total_high": 116
+}

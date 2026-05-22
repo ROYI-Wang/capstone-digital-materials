@@ -1,0 +1,409 @@
+{
+  "metadata": {
+    "schema_version": "lite_v2.0",
+    "article_id": "梁启超_001_4a5e589a",
+    "article_title": "人生观与科学",
+    "source_author": "梁启超",
+    "section_title": "",
+    "section_author": "",
+    "segment_id": "梁启超_001_4a5e589a_s0005",
+    "segment_index": 5,
+    "source_file": "E:\\1研究生\\岭南大学\\论文毕业\\capstone\\资料\\新的内容开始了\\local_upload\\input_w3\\梁启超.txt"
+  },
+  "entities": [
+    {
+      "id": "e1",
+      "name": "在君",
+      "canonical_name": "丁文江",
+      "type": "人物",
+      "evidence": "在君说“世界上的玄学家一天没有死完，自然一天人生观不能统一”",
+      "confidence": 1.0
+    },
+    {
+      "id": "e2",
+      "name": "科学家",
+      "canonical_name": "科学家",
+      "type": "阵营/群体",
+      "evidence": "似乎不应该出于科学家之口",
+      "confidence": 1.0
+    },
+    {
+      "id": "e3",
+      "name": "玄学家",
+      "canonical_name": "玄学家",
+      "type": "阵营/群体",
+      "evidence": "世界上的玄学家一天没有死完",
+      "confidence": 1.0
+    },
+    {
+      "id": "e4",
+      "name": "科学",
+      "canonical_name": "科学",
+      "type": "概念",
+      "evidence": "至于用科学来统一人生观，我更不相信有这回事。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e5",
+      "name": "人生观",
+      "canonical_name": "人生观",
+      "type": "概念",
+      "evidence": "我说人生观的统一，非惟不可能，而且不必要。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e6",
+      "name": "理智",
+      "canonical_name": "理智",
+      "type": "概念",
+      "evidence": "人类生活，固然离不了理智；但不能说理智包括尽人类生活的全内容。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e7",
+      "name": "情感",
+      "canonical_name": "情感",
+      "type": "概念",
+      "evidence": "此外还有极重要一部分——或者可以说是生活的原动力，就是“情感”。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e8",
+      "name": "爱",
+      "canonical_name": "爱",
+      "type": "概念",
+      "evidence": "内中最少有两件的确确带有神秘性的，就是“爱”和“美”。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e9",
+      "name": "美",
+      "canonical_name": "美",
+      "type": "概念",
+      "evidence": "内中最少有两件的确确带有神秘性的，就是“爱”和“美”。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e10",
+      "name": "科学帝国",
+      "canonical_name": "科学帝国",
+      "type": "比喻/类比",
+      "evidence": "“科学帝国”的版图和威权无论扩大到什么程度",
+      "confidence": 1.0
+    },
+    {
+      "id": "e11",
+      "name": "爱先生",
+      "canonical_name": "爱先生",
+      "type": "比喻/类比",
+      "evidence": "这位“爱先生”和那位“美先生”依然永远保持他们那种“上不臣天子，下不友诸侯”的身分。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e12",
+      "name": "美先生",
+      "canonical_name": "美先生",
+      "type": "比喻/类比",
+      "evidence": "这位“爱先生”和那位“美先生”依然永远保持他们那种“上不臣天子，下不友诸侯”的身分。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e13",
+      "name": "中世的基督教徒",
+      "canonical_name": "中世基督教徒",
+      "type": "阵营/群体",
+      "evidence": "除非中世的基督教徒才有这种谬见",
+      "confidence": 1.0
+    },
+    {
+      "id": "e14",
+      "name": "科学的恋爱",
+      "canonical_name": "科学的恋爱",
+      "type": "概念",
+      "evidence": "假令有两位青年男女相约为“科学的恋爱”，岂不令人喷饭？",
+      "confidence": 1.0
+    }
+  ],
+  "claims": [
+    {
+      "id": "c1",
+      "speaker": "梁启超",
+      "claim": "人生观的统一，非惟不可能，而且不必要。非惟不必要，而且有害。",
+      "target": "人生观",
+      "claim_type": "结论性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "我说人生观的统一，非惟不可能，而且不必要。非惟不必要，而且有害。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c2",
+      "speaker": "梁启超",
+      "claim": "要把人生观统一，结果岂不是“别黑白而定一尊”，不许异己者跳梁反侧？",
+      "target": "人生观",
+      "claim_type": "反驳性主张",
+      "claim_status": "作者推论",
+      "polarity": "negative",
+      "evidence": "要把人生观统一，结果岂不是“别黑白而定一尊”，不许异己者跳梁反侧？",
+      "confidence": 1.0
+    },
+    {
+      "id": "c3",
+      "speaker": "梁启超",
+      "claim": "除非中世的基督教徒才有这种谬见，似乎不应该出于科学家之口。",
+      "target": "科学家",
+      "claim_type": "文明批评",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "除非中世的基督教徒才有这种谬见，似乎不应该出于科学家之口。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c4",
+      "speaker": "梁启超",
+      "claim": "至于用科学来统一人生观，我更不相信有这回事。",
+      "target": "科学",
+      "claim_type": "反驳性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "至于用科学来统一人生观，我更不相信有这回事。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c5",
+      "speaker": "在君",
+      "claim": "世界上的玄学家一天没有死完，自然一天人生观不能统一",
+      "target": "人生观",
+      "claim_type": "反驳性主张",
+      "claim_status": "间接转述",
+      "polarity": "negative",
+      "evidence": "在君说“世界上的玄学家一天没有死完，自然一天人生观不能统一”",
+      "confidence": 1.0
+    },
+    {
+      "id": "c6",
+      "speaker": "梁启超",
+      "claim": "万能的科学，有没有方法令世界上的玄学家死完？如其不能，即此已可见科学功能是该有限制了。",
+      "target": "科学",
+      "claim_type": "反驳性主张",
+      "claim_status": "作者推论",
+      "polarity": "negative",
+      "evidence": "我倒要问：万能的科学，有没有方法令世界上的玄学家死完？如其不能，即此已可见科学功能是该有限制了。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c7",
+      "speaker": "梁启超",
+      "claim": "人类生活，固然离不了理智；但不能说理智包括尽人类生活的全内容。此外还有极重要一部分——或者可以说是生活的原动力，就是“情感”。",
+      "target": "理智",
+      "claim_type": "定义性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "人类生活，固然离不了理智；但不能说理智包括尽人类生活的全内容。此外还有极重要一部分——或者可以说是生活的原动力，就是“情感”。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c8",
+      "speaker": "梁启超",
+      "claim": "内中最少有两件的确确带有神秘性的，就是“爱”和“美”。",
+      "target": "情感",
+      "claim_type": "定义性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "内中最少有两件的确确带有神秘性的，就是“爱”和“美”。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c9",
+      "speaker": "梁启超",
+      "claim": "“科学帝国”的版图和威权无论扩大到什么程度，这位“爱先生”和那位“美先生”依然永远保持他们那种“上不臣天子，下不友诸侯”的身分。",
+      "target": "科学",
+      "claim_type": "知识论主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "“科学帝国”的版图和威权无论扩大到什么程度，这位“爱先生”和那位“美先生”依然永远保持他们那种“上不臣天子，下不友诸侯”的身分。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c10",
+      "speaker": "梁启超",
+      "claim": "请你科学家把“美”来分析研究罢，什么线，什么光，什么韵，什么调……任凭你说得如何文理密察，可有一点儿搔着痒处吗？",
+      "target": "美",
+      "claim_type": "反驳性主张",
+      "claim_status": "作者推论",
+      "polarity": "negative",
+      "evidence": "请你科学家把“美”来分析研究罢，什么线，什么光，什么韵，什么调……任凭你说得如何文理密察，可有一点儿搔着痒处吗？",
+      "confidence": 1.0
+    },
+    {
+      "id": "c11",
+      "speaker": "梁启超",
+      "claim": "至于“爱”那更“玄之又玄”了。假令有两位青年男女相约为“科学的恋爱”，岂不令人喷饭？",
+      "target": "爱",
+      "claim_type": "反驳性主张",
+      "claim_status": "作者推论",
+      "polarity": "negative",
+      "evidence": "至于“爱”那更“玄之又玄”了。假令有两位青年男女相约为“科学的恋爱”，岂不令人喷饭？",
+      "confidence": 1.0
+    },
+    {
+      "id": "c12",
+      "speaker": "梁启超",
+      "claim": "孝子割股疗亲，稍有常识的也该知道是无益。但他情急起来，完全计较不到这些。",
+      "target": "情感",
+      "claim_type": "例证",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "孝子割股疗亲，稍有常识的也该知道是无益。但他情急起来，完全计较不到这些。",
+      "confidence": 1.0
+    }
+  ],
+  "relations": [
+    {
+      "id": "r1",
+      "head": "梁启超",
+      "head_type": "人物",
+      "relation": "批评",
+      "tail": "科学家",
+      "tail_type": "阵营/群体",
+      "polarity": "negative",
+      "evidence": "除非中世的基督教徒才有这种谬见，似乎不应该出于科学家之口。",
+      "confidence": 1.0
+    },
+    {
+      "id": "r2",
+      "head": "情感",
+      "head_type": "概念",
+      "relation": "属于",
+      "tail": "人类生活",
+      "tail_type": "概念",
+      "polarity": "positive",
+      "evidence": "人类生活，固然离不了理智；但不能说理智包括尽人类生活的全内容。此外还有极重要一部分——或者可以说是生活的原动力，就是“情感”。",
+      "confidence": 1.0
+    },
+    {
+      "id": "r3",
+      "head": "科学",
+      "head_type": "概念",
+      "relation": "对比",
+      "tail": "爱",
+      "tail_type": "概念",
+      "polarity": "negative",
+      "evidence": "“科学帝国”的版图和威权无论扩大到什么程度，这位“爱先生”和那位“美先生”依然永远保持他们那种“上不臣天子，下不友诸侯”的身分。",
+      "confidence": 1.0
+    },
+    {
+      "id": "r4",
+      "head": "科学",
+      "head_type": "概念",
+      "relation": "对比",
+      "tail": "美",
+      "tail_type": "概念",
+      "polarity": "negative",
+      "evidence": "“科学帝国”的版图和威权无论扩大到什么程度，这位“爱先生”和那位“美先生”依然永远保持他们那种“上不臣天子，下不友诸侯”的身分。",
+      "confidence": 1.0
+    }
+  ],
+  "definitions": [
+    {
+      "id": "def1",
+      "term": "情感",
+      "definition": "人类生活中理智之外极重要的一部分，是生活的原动力。",
+      "evidence": "此外还有极重要一部分——或者可以说是生活的原动力，就是“情感”。",
+      "confidence": 1.0
+    },
+    {
+      "id": "def2",
+      "term": "爱",
+      "definition": "情感中带有神秘性的部分。",
+      "evidence": "内中最少有两件的确确带有神秘性的，就是“爱”和“美”。",
+      "confidence": 1.0
+    },
+    {
+      "id": "def3",
+      "term": "美",
+      "definition": "情感中带有神秘性的部分。",
+      "evidence": "内中最少有两件的确确带有神秘性的，就是“爱”和“美”。",
+      "confidence": 1.0
+    }
+  ],
+  "citations": [
+    {
+      "id": "cit1",
+      "citer": "梁启超",
+      "quoted_author": "在君",
+      "quoted_work": "",
+      "quoted_claim": "世界上的玄学家一天没有死完，自然一天人生观不能统一",
+      "function": "作为批评对象",
+      "evidence": "在君说“世界上的玄学家一天没有死完，自然一天人生观不能统一”",
+      "confidence": 1.0
+    }
+  ],
+  "rhetorical_devices": [
+    {
+      "id": "rh1",
+      "expression": "科学帝国",
+      "device_type": "比喻",
+      "literal_target": "科学",
+      "function": "将科学比作帝国，暗示其扩张性和权威性，为下文对比爱和美的不受支配做铺垫。",
+      "evidence": "“科学帝国”的版图和威权无论扩大到什么程度",
+      "confidence": 1.0
+    },
+    {
+      "id": "rh2",
+      "expression": "上不臣天子，下不友诸侯",
+      "device_type": "比喻",
+      "literal_target": "爱和美不受科学支配",
+      "function": "用君臣关系比喻爱和美与科学的关系，强调爱和美的独立性和超越性。",
+      "evidence": "这位“爱先生”和那位“美先生”依然永远保持他们那种“上不臣天子，下不友诸侯”的身分。",
+      "confidence": 1.0
+    },
+    {
+      "id": "rh3",
+      "expression": "科学的恋爱",
+      "device_type": "归谬",
+      "literal_target": "用科学方法处理恋爱",
+      "function": "通过假设“科学的恋爱”这一荒谬概念，讽刺科学万能论，证明爱不能用科学方法处理。",
+      "evidence": "假令有两位青年男女相约为“科学的恋爱”，岂不令人喷饭？",
+      "confidence": 1.0
+    },
+    {
+      "id": "rh4",
+      "expression": "岂不令人喷饭",
+      "device_type": "讽刺",
+      "literal_target": "科学的恋爱",
+      "function": "用夸张的讽刺语气否定科学可以处理恋爱。",
+      "evidence": "假令有两位青年男女相约为“科学的恋爱”，岂不令人喷饭？",
+      "confidence": 1.0
+    }
+  ],
+  "uncertainties": [
+    {
+      "item": "在君是否就是丁文江",
+      "reason": "文本中只出现“在君”，未出现全名，根据常识在君是丁文江，但严格按文本无法确认。"
+    },
+    {
+      "item": "“他把医学的进步来做比喻”中的“他”是否指在君",
+      "reason": "文本中“他把医学的进步来做比喻”紧接在转述在君观点之后，但未明确主语。"
+    }
+  ],
+  "_meta": {
+    "status": "success",
+    "stage": "extract",
+    "model": "deepseek-ai/DeepSeek-V4-Flash",
+    "base_url": "https://api.siliconflow.cn/v1",
+    "prompt_version": "extract_prompt_v2.0",
+    "schema_version": "lite_v2.0",
+    "segment_id": "梁启超_001_4a5e589a_s0005",
+    "article_id": "梁启超_001_4a5e589a",
+    "char_start": 2544,
+    "char_end": 3133,
+    "raw_path": "E:\\1研究生\\岭南大学\\论文毕业\\capstone\\资料\\新的内容开始了\\local_upload\\kg_runs\\梁启超\\raw_outputs\\extract\\梁启超_001_4a5e589a_s0005.txt",
+    "parsed_at": "2026-05-19T21:15:42",
+    "started_at": "2026-05-19T21:12:10",
+    "elapsed_seconds": 211.975,
+    "strict_evidence_check": true,
+    "drop_unsupported_evidence": true,
+    "request_timeout_seconds": 180
+  }
+}

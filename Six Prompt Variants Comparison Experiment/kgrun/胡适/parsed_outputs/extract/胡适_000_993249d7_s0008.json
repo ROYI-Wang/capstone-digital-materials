@@ -1,0 +1,442 @@
+{
+  "metadata": {
+    "schema_version": "lite_v2.0",
+    "article_id": "胡适_000_993249d7",
+    "article_title": "序二",
+    "source_author": "胡适",
+    "section_title": "",
+    "section_author": "",
+    "segment_id": "胡适_000_993249d7_s0008",
+    "segment_index": 8,
+    "source_file": "E:\\1研究生\\岭南大学\\论文毕业\\capstone\\资料\\新的内容开始了\\local_upload\\input_w3\\胡适.txt"
+  },
+  "entities": [
+    {
+      "id": "e1",
+      "name": "范寿康",
+      "canonical_name": "范寿康",
+      "type": "人物",
+      "evidence": "直到最后范寿康的《评所谓科学与玄学之争》",
+      "confidence": 1.0
+    },
+    {
+      "id": "e2",
+      "name": "《评所谓科学与玄学之争》",
+      "canonical_name": "评所谓科学与玄学之争",
+      "type": "著作",
+      "evidence": "直到最后范寿康的《评所谓科学与玄学之争》",
+      "confidence": 1.0
+    },
+    {
+      "id": "e3",
+      "name": "科学",
+      "canonical_name": "科学",
+      "type": "概念",
+      "evidence": "科学是凭藉‘因果’和‘齐一’两个原理而构造起来的",
+      "confidence": 1.0
+    },
+    {
+      "id": "e4",
+      "name": "因果",
+      "canonical_name": "因果",
+      "type": "概念",
+      "evidence": "科学是凭藉‘因果’和‘齐一’两个原理而构造起来的",
+      "confidence": 1.0
+    },
+    {
+      "id": "e5",
+      "name": "齐一",
+      "canonical_name": "齐一",
+      "type": "概念",
+      "evidence": "科学是凭藉‘因果’和‘齐一’两个原理而构造起来的",
+      "confidence": 1.0
+    },
+    {
+      "id": "e6",
+      "name": "人生问题",
+      "canonical_name": "人生问题",
+      "type": "概念",
+      "evidence": "人生问题无论为生命之观念，或生活之态度，都不能逃出这两个原理的金刚圈",
+      "confidence": 1.0
+    },
+    {
+      "id": "e7",
+      "name": "生命之观念",
+      "canonical_name": "生命之观念",
+      "type": "概念",
+      "evidence": "人生问题无论为生命之观念，或生活之态度",
+      "confidence": 1.0
+    },
+    {
+      "id": "e8",
+      "name": "生活之态度",
+      "canonical_name": "生活之态度",
+      "type": "概念",
+      "evidence": "人生问题无论为生命之观念，或生活之态度",
+      "confidence": 1.0
+    },
+    {
+      "id": "e9",
+      "name": "伦理规范",
+      "canonical_name": "伦理规范",
+      "type": "概念",
+      "evidence": "伦理规范——人生观——一部分是先天的，一部分是后天的",
+      "confidence": 1.0
+    },
+    {
+      "id": "e10",
+      "name": "人生观",
+      "canonical_name": "人生观",
+      "type": "概念",
+      "evidence": "伦理规范——人生观——一部分是先天的，一部分是后天的",
+      "confidence": 1.0
+    },
+    {
+      "id": "e11",
+      "name": "先天的形式",
+      "canonical_name": "先天的形式",
+      "type": "概念",
+      "evidence": "先天的形式是由主观的直觉而得",
+      "confidence": 1.0
+    },
+    {
+      "id": "e12",
+      "name": "主观的直觉",
+      "canonical_name": "主观的直觉",
+      "type": "概念",
+      "evidence": "先天的形式是由主观的直觉而得",
+      "confidence": 1.0
+    },
+    {
+      "id": "e13",
+      "name": "后天的内容",
+      "canonical_name": "后天的内容",
+      "type": "概念",
+      "evidence": "后天的内容应由科学的方法探讨而定",
+      "confidence": 1.0
+    },
+    {
+      "id": "e14",
+      "name": "科学的方法",
+      "canonical_name": "科学的方法",
+      "type": "方法",
+      "evidence": "后天的内容应由科学的方法探讨而定",
+      "confidence": 1.0
+    },
+    {
+      "id": "e15",
+      "name": "君劢",
+      "canonical_name": "张君劢",
+      "type": "人物",
+      "evidence": "君劢的原文不曾明白攻击科学家的人生观",
+      "confidence": 1.0
+    },
+    {
+      "id": "e16",
+      "name": "科学家的人生观",
+      "canonical_name": "科学家的人生观",
+      "type": "概念",
+      "evidence": "君劢的原文不曾明白攻击科学家的人生观",
+      "confidence": 1.0
+    },
+    {
+      "id": "e17",
+      "name": "科学的人生观",
+      "canonical_name": "科学的人生观",
+      "type": "概念",
+      "evidence": "大家规避“科学的人生观是什么”的问题",
+      "confidence": 1.0
+    },
+    {
+      "id": "e18",
+      "name": "纯物质，纯机械的人生观",
+      "canonical_name": "纯物质纯机械的人生观",
+      "type": "概念",
+      "evidence": "那具体的“纯物质，纯机械的人生观”为科学的人生观",
+      "confidence": 1.0
+    },
+    {
+      "id": "e19",
+      "name": "吴稚晖",
+      "canonical_name": "吴稚晖",
+      "type": "人物",
+      "evidence": "像吴稚晖先生那样明显坚决的信仰",
+      "confidence": 1.0
+    },
+    {
+      "id": "e20",
+      "name": "拥护科学的人",
+      "canonical_name": "拥护科学的人",
+      "type": "阵营/群体",
+      "evidence": "一班拥护科学的人虽然抽象地承认科学可以解决人生问题",
+      "confidence": 1.0
+    }
+  ],
+  "claims": [
+    {
+      "id": "c1",
+      "speaker": "被引用的某方（原文未具名）",
+      "claim": "科学是凭藉‘因果’和‘齐一’两个原理而构造起来的；人生问题无论为生命之观念，或生活之态度，都不能逃出这两个原理的金刚圈，所以科学可以解决人生问题。",
+      "target": "科学",
+      "claim_type": "定义性主张",
+      "claim_status": "直接引用",
+      "polarity": "positive",
+      "evidence": "科学是凭藉‘因果’和‘齐一’两个原理而构造起来的；人生问题无论为生命之观念，或生活之态度，都不能逃出这两个原理的金刚圈，所以科学可以解决人生问题。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c2",
+      "speaker": "范寿康",
+      "claim": "伦理规范——人生观——一部分是先天的，一部分是后天的。先天的形式是由主观的直觉而得，决不是科学所能干涉。后天的内容应由科学的方法探讨而定，决不是主观所应妄定。",
+      "target": "人生观",
+      "claim_type": "定义性主张",
+      "claim_status": "直接引用",
+      "polarity": "mixed",
+      "evidence": "伦理规范——人生观——一部分是先天的，一部分是后天的。先天的形式是由主观的直觉而得，决不是科学所能干涉。后天的内容应由科学的方法探讨而定，决不是主观所应妄定。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c3",
+      "speaker": "胡适",
+      "claim": "人人都在那里笼统地讨论科学能不能解决人生问题或人生观问题。几乎没有一个人明白指出，假使我们把科学适用到人生观上去，应该产生什么样子的人生观。",
+      "target": "各位讨论者",
+      "claim_type": "论战策略批评",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "人人都在那里笼统地讨论科学能不能解决人生问题或人生观问题。几乎没有一个人明白指出，假使我们把科学适用到人生观上去，应该产生什么样子的人生观。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c4",
+      "speaker": "胡适",
+      "claim": "这个共同的错误大都是因为君劢的原文不曾明白攻击科学家的人生观，却只悬空武断科学决不能解决人生观问题。",
+      "target": "君劢",
+      "claim_type": "论战策略批评",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "这个共同的错误大都是因为君劢的原文不曾明白攻击科学家的人生观，却只悬空武断科学决不能解决人生观问题。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c5",
+      "speaker": "胡适",
+      "claim": "我们若不先明白科学应用到人生观上去时发生的结果，我们如何能悬空评判科学能不能解决人生观呢？",
+      "target": "讨论者",
+      "claim_type": "方法论主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "我们若不先明白科学应用到人生观上去时发生的结果，我们如何能悬空评判科学能不能解决人生观呢？",
+      "confidence": 1.0
+    },
+    {
+      "id": "c6",
+      "speaker": "胡适",
+      "claim": "这个共同的错误——大家规避“科学的人生观是什么”的问题——怕还有第二个原因，就是一班拥护科学的人虽然抽象地承认科学可以解决人生问题，却终不愿公然承认那具体的“纯物质，纯机械的人生观”为科学的人生观。",
+      "target": "拥护科学的人",
+      "claim_type": "论战策略批评",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "这个共同的错误——大家规避“科学的人生观是什么”的问题——怕还有第二个原因，就是一班拥护科学的人虽然抽象地承认科学可以解决人生问题，却终不愿公然承认那具体的“纯物质，纯机械的人生观”为科学的人生观。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c7",
+      "speaker": "胡适",
+      "claim": "他们对于那科学家的人生观还不能像吴稚晖先生那样明显坚决的信仰，所以还不能公然出来主张。",
+      "target": "拥护科学的人",
+      "claim_type": "论战策略批评",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "他们对于那科学家的人生观还不能像吴稚晖先生那样明显坚决的信仰，所以还不能公然出来主张。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c8",
+      "speaker": "胡适",
+      "claim": "这一点确是这一次大论争的一个绝大的弱点。",
+      "target": "大论争",
+      "claim_type": "价值评价",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "这一点确是这一次大论争的一个绝大的弱点。",
+      "confidence": 1.0
+    }
+  ],
+  "relations": [
+    {
+      "id": "r1",
+      "head": "科学",
+      "head_type": "概念",
+      "relation": "解释",
+      "tail": "因果",
+      "tail_type": "概念",
+      "polarity": "neutral",
+      "evidence": "科学是凭藉‘因果’和‘齐一’两个原理而构造起来的",
+      "confidence": 1.0
+    },
+    {
+      "id": "r2",
+      "head": "科学",
+      "head_type": "概念",
+      "relation": "解释",
+      "tail": "齐一",
+      "tail_type": "概念",
+      "polarity": "neutral",
+      "evidence": "科学是凭藉‘因果’和‘齐一’两个原理而构造起来的",
+      "confidence": 1.0
+    },
+    {
+      "id": "r3",
+      "head": "人生问题",
+      "head_type": "概念",
+      "relation": "包含",
+      "tail": "生命之观念",
+      "tail_type": "概念",
+      "polarity": "neutral",
+      "evidence": "人生问题无论为生命之观念，或生活之态度",
+      "confidence": 1.0
+    },
+    {
+      "id": "r4",
+      "head": "人生问题",
+      "head_type": "概念",
+      "relation": "包含",
+      "tail": "生活之态度",
+      "tail_type": "概念",
+      "polarity": "neutral",
+      "evidence": "人生问题无论为生命之观念，或生活之态度",
+      "confidence": 1.0
+    },
+    {
+      "id": "r5",
+      "head": "伦理规范",
+      "head_type": "概念",
+      "relation": "包含",
+      "tail": "先天的形式",
+      "tail_type": "概念",
+      "polarity": "neutral",
+      "evidence": "伦理规范——人生观——一部分是先天的，一部分是后天的。先天的形式是由主观的直觉而得",
+      "confidence": 1.0
+    },
+    {
+      "id": "r6",
+      "head": "先天的形式",
+      "head_type": "概念",
+      "relation": "归因于",
+      "tail": "主观的直觉",
+      "tail_type": "概念",
+      "polarity": "neutral",
+      "evidence": "先天的形式是由主观的直觉而得",
+      "confidence": 1.0
+    },
+    {
+      "id": "r7",
+      "head": "后天的内容",
+      "head_type": "概念",
+      "relation": "归因于",
+      "tail": "科学的方法",
+      "tail_type": "方法",
+      "polarity": "neutral",
+      "evidence": "后天的内容应由科学的方法探讨而定",
+      "confidence": 1.0
+    },
+    {
+      "id": "r8",
+      "head": "胡适",
+      "head_type": "人物",
+      "relation": "批评",
+      "tail": "君劢",
+      "tail_type": "人物",
+      "polarity": "negative",
+      "evidence": "这个共同的错误大都是因为君劢的原文不曾明白攻击科学家的人生观，却只悬空武断科学决不能解决人生观问题。",
+      "confidence": 1.0
+    },
+    {
+      "id": "r9",
+      "head": "胡适",
+      "head_type": "人物",
+      "relation": "批评",
+      "tail": "拥护科学的人",
+      "tail_type": "阵营/群体",
+      "polarity": "negative",
+      "evidence": "一班拥护科学的人虽然抽象地承认科学可以解决人生问题，却终不愿公然承认那具体的“纯物质，纯机械的人生观”为科学的人生观。",
+      "confidence": 1.0
+    }
+  ],
+  "definitions": [
+    {
+      "id": "def1",
+      "term": "科学",
+      "definition": "科学是凭藉‘因果’和‘齐一’两个原理而构造起来的。",
+      "evidence": "科学是凭藉‘因果’和‘齐一’两个原理而构造起来的",
+      "confidence": 1.0
+    }
+  ],
+  "citations": [
+    {
+      "id": "cit1",
+      "citer": "胡适",
+      "quoted_author": "未具名（某方）",
+      "quoted_work": "",
+      "quoted_claim": "科学是凭藉‘因果’和‘齐一’两个原理而构造起来的；人生问题无论为生命之观念，或生活之态度，都不能逃出这两个原理的金刚圈，所以科学可以解决人生问题。",
+      "function": "作为批评对象",
+      "evidence": "说：\n\n> “科学是凭藉‘因果’和‘齐一’两个原理而构造起来的；人生问题无论为生命之观念，或生活之态度，都不能逃出这两个原理的金刚圈，所以科学可以解决人生问题。”",
+      "confidence": 1.0
+    },
+    {
+      "id": "cit2",
+      "citer": "胡适",
+      "quoted_author": "范寿康",
+      "quoted_work": "《评所谓科学与玄学之争》",
+      "quoted_claim": "伦理规范——人生观——一部分是先天的，一部分是后天的。先天的形式是由主观的直觉而得，决不是科学所能干涉。后天的内容应由科学的方法探讨而定，决不是主观所应妄定。",
+      "function": "作为批评对象",
+      "evidence": "直到最后范寿康的《评所谓科学与玄学之争》，也只是说：\n\n> “伦理规范——人生观——一部分是先天的，一部分是后天的。先天的形式是由主观的直觉而得，决不是科学所能干涉。后天的内容应由科学的方法探讨而定，决不是主观所应妄定。”",
+      "confidence": 1.0
+    }
+  ],
+  "rhetorical_devices": [
+    {
+      "id": "rh1",
+      "expression": "金刚圈",
+      "device_type": "比喻",
+      "literal_target": "因果和齐一两个原理的约束范围",
+      "function": "强调科学原理的不可逃脱性",
+      "evidence": "都不能逃出这两个原理的金刚圈",
+      "confidence": 1.0
+    },
+    {
+      "id": "rh2",
+      "expression": "悬空武断",
+      "device_type": "标签化",
+      "literal_target": "君劢的论证方式",
+      "function": "批评对方缺乏具体论证",
+      "evidence": "却只悬空武断科学决不能解决人生观问题",
+      "confidence": 1.0
+    }
+  ],
+  "uncertainties": [
+    {
+      "item": "第一个引用中“说”的主语未明确，无法确定被引用者是谁。",
+      "reason": "文本中仅以“说：”开头，未指明说话者姓名或身份。"
+    }
+  ],
+  "_meta": {
+    "status": "success",
+    "stage": "extract",
+    "model": "deepseek-ai/DeepSeek-V4-Flash",
+    "base_url": "https://api.siliconflow.cn/v1",
+    "prompt_version": "extract_prompt_v2.0",
+    "schema_version": "lite_v2.0",
+    "segment_id": "胡适_000_993249d7_s0008",
+    "article_id": "胡适_000_993249d7",
+    "char_start": 4023,
+    "char_end": 4587,
+    "raw_path": "E:\\1研究生\\岭南大学\\论文毕业\\capstone\\资料\\新的内容开始了\\local_upload\\kg_runs\\胡适\\raw_outputs\\extract\\胡适_000_993249d7_s0008.txt",
+    "parsed_at": "2026-05-20T01:24:56",
+    "started_at": "2026-05-20T01:22:46",
+    "elapsed_seconds": 129.465,
+    "strict_evidence_check": true,
+    "drop_unsupported_evidence": true,
+    "request_timeout_seconds": 180
+  }
+}

@@ -1,0 +1,474 @@
+{
+  "metadata": {
+    "schema_version": "lite_v2.0",
+    "article_id": "张君劢_002_c870d202",
+    "article_title": "再论人生观与科学并答丁在君",
+    "source_author": "张君劢",
+    "section_title": "",
+    "section_author": "",
+    "segment_id": "张君劢_002_c870d202_s0000",
+    "segment_index": 0,
+    "source_file": "E:\\1研究生\\岭南大学\\论文毕业\\capstone\\资料\\新的内容开始了\\local_upload\\input_w3\\张君劢.txt"
+  },
+  "entities": [
+    {
+      "id": "e1",
+      "name": "张君劢",
+      "canonical_name": "张君劢",
+      "type": "人物",
+      "evidence": "我之清华学校演讲中",
+      "confidence": 1.0
+    },
+    {
+      "id": "e2",
+      "name": "丁在君",
+      "canonical_name": "丁在君",
+      "type": "人物",
+      "evidence": "吾友丁在君，地质学家也",
+      "confidence": 1.0
+    },
+    {
+      "id": "e3",
+      "name": "科学",
+      "canonical_name": "科学",
+      "type": "概念",
+      "evidence": "科学为客观的",
+      "confidence": 1.0
+    },
+    {
+      "id": "e4",
+      "name": "人生观",
+      "canonical_name": "人生观",
+      "type": "概念",
+      "evidence": "人生观为主观的",
+      "confidence": 1.0
+    },
+    {
+      "id": "e5",
+      "name": "因果律",
+      "canonical_name": "因果律",
+      "type": "概念",
+      "evidence": "科学为因果律所支配",
+      "confidence": 1.0
+    },
+    {
+      "id": "e6",
+      "name": "自由意志",
+      "canonical_name": "自由意志",
+      "type": "概念",
+      "evidence": "人生观则为自由意志的",
+      "confidence": 1.0
+    },
+    {
+      "id": "e7",
+      "name": "直觉",
+      "canonical_name": "直觉",
+      "type": "概念",
+      "evidence": "人生观则起于直觉",
+      "confidence": 1.0
+    },
+    {
+      "id": "e8",
+      "name": "分析方法",
+      "canonical_name": "分析方法",
+      "type": "方法",
+      "evidence": "科学可以以分析方法下手",
+      "confidence": 1.0
+    },
+    {
+      "id": "e9",
+      "name": "综合",
+      "canonical_name": "综合",
+      "type": "方法",
+      "evidence": "人生规则为综合的",
+      "confidence": 1.0
+    },
+    {
+      "id": "e10",
+      "name": "人格之单一性",
+      "canonical_name": "人格之单一性",
+      "type": "概念",
+      "evidence": "人生观起于人格之单一性",
+      "confidence": 1.0
+    },
+    {
+      "id": "e11",
+      "name": "《努力周报》",
+      "canonical_name": "努力周报",
+      "type": "著作",
+      "evidence": "发表于《努力周报》",
+      "confidence": 1.0
+    },
+    {
+      "id": "e12",
+      "name": "科学万能",
+      "canonical_name": "科学万能",
+      "type": "主义/学说/理论",
+      "evidence": "二三十年来，吾国学界之中心思想，则曰科学万能",
+      "confidence": 1.0
+    },
+    {
+      "id": "e13",
+      "name": "伽利略",
+      "canonical_name": "伽利略",
+      "type": "人物",
+      "evidence": "与中世纪罗马教士之鞠讯伽利略后之宣告有何以异",
+      "confidence": 1.0
+    },
+    {
+      "id": "e14",
+      "name": "欧战",
+      "canonical_name": "欧战",
+      "type": "历史事件",
+      "evidence": "自十九世纪之末，欧美人始有怀疑之者",
+      "confidence": 0.8
+    },
+    {
+      "id": "e15",
+      "name": "青年同学",
+      "canonical_name": "青年同学",
+      "type": "阵营/群体",
+      "evidence": "我乃以科学能力有一定界限之说告我青年同学",
+      "confidence": 1.0
+    },
+    {
+      "id": "e16",
+      "name": "无赖鬼",
+      "canonical_name": "无赖鬼",
+      "type": "比喻/类比",
+      "evidence": "一则曰无赖鬼",
+      "confidence": 1.0
+    },
+    {
+      "id": "e17",
+      "name": "鬼上身",
+      "canonical_name": "鬼上身",
+      "type": "比喻/类比",
+      "evidence": "再则曰鬼上身",
+      "confidence": 1.0
+    },
+    {
+      "id": "e18",
+      "name": "义和团",
+      "canonical_name": "义和团",
+      "type": "比喻/类比",
+      "evidence": "三则曰义和团",
+      "confidence": 1.0
+    },
+    {
+      "id": "e19",
+      "name": "张献忠之妖孽",
+      "canonical_name": "张献忠之妖孽",
+      "type": "比喻/类比",
+      "evidence": "四则曰张献忠之妖孽",
+      "confidence": 1.0
+    },
+    {
+      "id": "e20",
+      "name": "科学能力有一定界限",
+      "canonical_name": "科学能力有一定界限",
+      "type": "观点",
+      "evidence": "我乃以科学能力有一定界限之说告我青年同学",
+      "confidence": 1.0
+    }
+  ],
+  "claims": [
+    {
+      "id": "c1",
+      "speaker": "张君劢",
+      "claim": "科学为客观的，人生观为主观的",
+      "target": "科学",
+      "claim_type": "定义性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "一曰，科学为客观的，人生观为主观的",
+      "confidence": 1.0
+    },
+    {
+      "id": "c2",
+      "speaker": "张君劢",
+      "claim": "科学为论理的方法所支配，而人生观则起于直觉",
+      "target": "科学",
+      "claim_type": "定义性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "二曰，科学为论理的方法所支配，而人生观则起于直觉",
+      "confidence": 1.0
+    },
+    {
+      "id": "c3",
+      "speaker": "张君劢",
+      "claim": "科学可以以分析方法下手，而人生规则为综合的",
+      "target": "科学",
+      "claim_type": "定义性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "三曰，科学可以以分析方法下手，而人生规则为综合的",
+      "confidence": 1.0
+    },
+    {
+      "id": "c4",
+      "speaker": "张君劢",
+      "claim": "科学为因果律所支配，而人生观则为自由意志的",
+      "target": "科学",
+      "claim_type": "定义性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "四曰，科学为因果律所支配，而人生观则为自由意志的",
+      "confidence": 1.0
+    },
+    {
+      "id": "c5",
+      "speaker": "张君劢",
+      "claim": "科学起于对象之相同现象，而人生观起于人格之单一性",
+      "target": "科学",
+      "claim_type": "定义性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "五曰，科学起于对象之相同现象，而人生观起于人格之单一性",
+      "confidence": 1.0
+    },
+    {
+      "id": "c6",
+      "speaker": "丁在君",
+      "claim": "诚如君言，科学而不能支配人生，则科学复有何用",
+      "target": "张君劢",
+      "claim_type": "反驳性主张",
+      "claim_status": "间接转述",
+      "polarity": "negative",
+      "evidence": "曰：诚如君言，科学而不能支配人生，则科学复有何用",
+      "confidence": 1.0
+    },
+    {
+      "id": "c7",
+      "speaker": "张君劢",
+      "claim": "科学能力有一定界限",
+      "target": "科学",
+      "claim_type": "知识论主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "我乃以科学能力有一定界限之说告我青年同学",
+      "confidence": 1.0
+    },
+    {
+      "id": "c8",
+      "speaker": "张君劢",
+      "claim": "二三十年来，吾国学界之中心思想，则曰科学万能",
+      "target": "科学万能",
+      "claim_type": "历史解释",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "盖二三十年来，吾国学界之中心思想，则曰科学万能",
+      "confidence": 1.0
+    },
+    {
+      "id": "c9",
+      "speaker": "张君劢",
+      "claim": "在此空气之中，我乃以科学能力有一定界限之说告我青年同学，其为逆耳之言",
+      "target": "科学万能",
+      "claim_type": "文明批评",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "在此空气之中，我乃以科学能力有一定界限之说告我青年同学，其为逆耳之言，复何足异",
+      "confidence": 1.0
+    },
+    {
+      "id": "c10",
+      "speaker": "丁在君",
+      "claim": "张君劢之言为异端邪说",
+      "target": "张君劢",
+      "claim_type": "价值评价",
+      "claim_status": "间接转述",
+      "polarity": "negative",
+      "evidence": "以吾友在君之聪明，乃竟以我言为异端邪说",
+      "confidence": 1.0
+    },
+    {
+      "id": "c11",
+      "speaker": "丁在君",
+      "claim": "张君劢是无赖鬼、鬼上身、义和团、张献忠之妖孽",
+      "target": "张君劢",
+      "claim_type": "价值评价",
+      "claim_status": "间接转述",
+      "polarity": "negative",
+      "evidence": "一则曰无赖鬼，再则曰鬼上身，三则曰义和团，四则曰张献忠之妖孽",
+      "confidence": 1.0
+    },
+    {
+      "id": "c12",
+      "speaker": "张君劢",
+      "claim": "丁在君的口调与中世纪罗马教士之鞠讯伽利略后之宣告无异",
+      "target": "丁在君",
+      "claim_type": "价值评价",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "此等口调，与中世纪罗马教士之鞠讯伽利略后之宣告有何以异",
+      "confidence": 1.0
+    }
+  ],
+  "relations": [
+    {
+      "id": "r1",
+      "head": "丁在君",
+      "head_type": "人物",
+      "relation": "批评",
+      "relation_subtype": "逻辑反驳",
+      "tail": "张君劢",
+      "tail_type": "人物",
+      "polarity": "negative",
+      "evidence": "曰：诚如君言，科学而不能支配人生，则科学复有何用",
+      "confidence": 1.0
+    },
+    {
+      "id": "r2",
+      "head": "丁在君",
+      "head_type": "人物",
+      "relation": "批评",
+      "relation_subtype": "道德指责",
+      "tail": "张君劢",
+      "tail_type": "人物",
+      "polarity": "negative",
+      "evidence": "一则曰无赖鬼，再则曰鬼上身，三则曰义和团，四则曰张献忠之妖孽",
+      "confidence": 1.0
+    },
+    {
+      "id": "r3",
+      "head": "张君劢",
+      "head_type": "人物",
+      "relation": "回应",
+      "relation_subtype": "逻辑反驳",
+      "tail": "丁在君",
+      "tail_type": "人物",
+      "polarity": "negative",
+      "evidence": "此等口调，与中世纪罗马教士之鞠讯伽利略后之宣告有何以异",
+      "confidence": 1.0
+    },
+    {
+      "id": "r4",
+      "head": "张君劢",
+      "head_type": "人物",
+      "relation": "主张",
+      "relation_subtype": "不适用",
+      "tail": "科学能力有一定界限",
+      "tail_type": "观点",
+      "polarity": "positive",
+      "evidence": "我乃以科学能力有一定界限之说告我青年同学",
+      "confidence": 1.0
+    },
+    {
+      "id": "r5",
+      "head": "张君劢",
+      "head_type": "人物",
+      "relation": "批评",
+      "relation_subtype": "概念混淆批评",
+      "tail": "科学万能",
+      "tail_type": "主义/学说/理论",
+      "polarity": "negative",
+      "evidence": "在此空气之中，我乃以科学能力有一定界限之说告我青年同学，其为逆耳之言",
+      "confidence": 1.0
+    },
+    {
+      "id": "r6",
+      "head": "丁在君",
+      "head_type": "人物",
+      "relation": "批评",
+      "relation_subtype": "逻辑反驳",
+      "tail": "科学能力有一定界限",
+      "tail_type": "观点",
+      "polarity": "negative",
+      "evidence": "曰：诚如君言，科学而不能支配人生，则科学复有何用",
+      "confidence": 1.0
+    }
+  ],
+  "definitions": [
+    {
+      "id": "def1",
+      "term": "科学",
+      "definition": "科学是客观的、为论理方法所支配、可用分析方法、受因果律支配、起于对象相同现象",
+      "evidence": "一曰，科学为客观的。二曰，科学为论理的方法所支配。三曰，科学可以以分析方法下手。四曰，科学为因果律所支配。五曰，科学起于对象之相同现象",
+      "confidence": 1.0
+    },
+    {
+      "id": "def2",
+      "term": "人生观",
+      "definition": "人生观是主观的、起于直觉、为综合的、属于自由意志、起于人格之单一性",
+      "evidence": "一曰，人生观为主观的。二曰，人生观则起于直觉。三曰，人生规则为综合的。四曰，人生观则为自由意志的。五曰，人生观起于人格之单一性",
+      "confidence": 1.0
+    }
+  ],
+  "citations": [
+    {
+      "id": "cit1",
+      "citer": "张君劢",
+      "quoted_author": "丁在君",
+      "quoted_work": "",
+      "quoted_claim": "诚如君言，科学而不能支配人生，则科学复有何用",
+      "function": "作为批评对象",
+      "evidence": "曰：诚如君言，科学而不能支配人生，则科学复有何用",
+      "confidence": 1.0
+    },
+    {
+      "id": "cit2",
+      "citer": "张君劢",
+      "quoted_author": "丁在君",
+      "quoted_work": "",
+      "quoted_claim": "张君劢之言为异端邪说，是无赖鬼、鬼上身、义和团、张献忠之妖孽",
+      "function": "作为批评对象",
+      "evidence": "以吾友在君之聪明，乃竟以我言为异端邪说，一则曰无赖鬼，再则曰鬼上身，三则曰义和团，四则曰张献忠之妖孽",
+      "confidence": 1.0
+    }
+  ],
+  "rhetorical_devices": [
+    {
+      "id": "rh1",
+      "expression": "无赖鬼",
+      "device_type": "标签化",
+      "literal_target": "张君劢",
+      "function": "贬低对手，进行道德指责",
+      "evidence": "一则曰无赖鬼",
+      "confidence": 1.0
+    },
+    {
+      "id": "rh2",
+      "expression": "鬼上身",
+      "device_type": "标签化",
+      "literal_target": "张君劢",
+      "function": "贬低对手，进行道德指责",
+      "evidence": "再则曰鬼上身",
+      "confidence": 1.0
+    },
+    {
+      "id": "rh3",
+      "expression": "义和团",
+      "device_type": "标签化",
+      "literal_target": "张君劢",
+      "function": "将对手比作排外暴力团体，进行道德指责",
+      "evidence": "三则曰义和团",
+      "confidence": 1.0
+    },
+    {
+      "id": "rh4",
+      "expression": "张献忠之妖孽",
+      "device_type": "标签化",
+      "literal_target": "张君劢",
+      "function": "将对手比作历史暴君，进行道德指责",
+      "evidence": "四则曰张献忠之妖孽",
+      "confidence": 1.0
+    },
+    {
+      "id": "rh5",
+      "expression": "与中世纪罗马教士之鞠讯伽利略后之宣告有何以异",
+      "device_type": "类比",
+      "literal_target": "丁在君对张君劢的批评",
+      "function": "将丁在君的批评类比为宗教迫害，进行反批评",
+      "evidence": "此等口调，与中世纪罗马教士之鞠讯伽利略后之宣告有何以异",
+      "confidence": 1.0
+    }
+  ],
+  "uncertainties": [
+    {
+      "item": "欧战是否被明确提及为事件",
+      "reason": "文本提到'自十九世纪之末，欧美人始有怀疑之者'，但未明确提及欧战，仅暗示怀疑科学万能的新说起于19世纪末，可能涉及欧战背景，但证据不足"
+    }
+  ]
+}

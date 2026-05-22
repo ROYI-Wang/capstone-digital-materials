@@ -1,0 +1,522 @@
+{
+  "metadata": {
+    "schema_version": "lite_v2.0",
+    "article_id": "张君劢_001_688ab8ae",
+    "article_title": "人生观（中篇）",
+    "source_author": "张君劢",
+    "section_title": "",
+    "section_author": "",
+    "segment_id": "张君劢_001_688ab8ae_s0016",
+    "segment_index": 16,
+    "source_file": "E:\\1研究生\\岭南大学\\论文毕业\\capstone\\资料\\新的内容开始了\\local_upload\\input_w3\\张君劢.txt"
+  },
+  "entities": [
+    {
+      "id": "e1",
+      "name": "玄学",
+      "canonical_name": "玄学",
+      "type": "概念",
+      "evidence": "曰此玄学之过。然而玄学不任受也。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e2",
+      "name": "伽利略",
+      "canonical_name": "伽利略",
+      "type": "人物",
+      "evidence": "因伽利略之发明力学",
+      "confidence": 1.0
+    },
+    {
+      "id": "e3",
+      "name": "华尔孚氏",
+      "canonical_name": "华尔孚",
+      "type": "人物",
+      "evidence": "有德人华尔孚氏之玄学",
+      "confidence": 1.0
+    },
+    {
+      "id": "e4",
+      "name": "康德",
+      "canonical_name": "康德",
+      "type": "人物",
+      "evidence": "亦早为康德所驳斥矣",
+      "confidence": 1.0
+    },
+    {
+      "id": "e5",
+      "name": "蒲脱罗氏",
+      "canonical_name": "蒲脱罗",
+      "type": "人物",
+      "evidence": "法国蒲脱罗氏《自然律之偶然性》",
+      "confidence": 1.0
+    },
+    {
+      "id": "e6",
+      "name": "倭伊铿氏",
+      "canonical_name": "倭伊铿",
+      "type": "人物",
+      "evidence": "德国倭伊铿氏《精神生活之统一》",
+      "confidence": 1.0
+    },
+    {
+      "id": "e7",
+      "name": "詹姆士氏",
+      "canonical_name": "詹姆士",
+      "type": "人物",
+      "evidence": "美国詹姆士氏《信仰之意志》",
+      "confidence": 1.0
+    },
+    {
+      "id": "e8",
+      "name": "柏格森氏",
+      "canonical_name": "柏格森",
+      "type": "人物",
+      "evidence": "法国柏格森氏《形上学序论》",
+      "confidence": 1.0
+    },
+    {
+      "id": "e9",
+      "name": "杜里舒",
+      "canonical_name": "杜里舒",
+      "type": "人物",
+      "evidence": "杜里舒之形上学《实在论》",
+      "confidence": 1.0
+    },
+    {
+      "id": "e10",
+      "name": "在君",
+      "canonical_name": "丁文江",
+      "type": "人物",
+      "evidence": "然则在君所谓“玄学在欧洲鬼混了二千多年，到近来渐渐没有地方混饭吃”",
+      "confidence": 1.0
+    },
+    {
+      "id": "e11",
+      "name": "孔德氏",
+      "canonical_name": "孔德",
+      "type": "人物",
+      "evidence": "盖惑于孔德氏人智进化三时期之说也",
+      "confidence": 1.0
+    },
+    {
+      "id": "e12",
+      "name": "《自然律之偶然性》",
+      "canonical_name": "自然律之偶然性",
+      "type": "著作",
+      "evidence": "一八七四，法国蒲脱罗氏《自然律之偶然性》。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e13",
+      "name": "《精神生活之统一》",
+      "canonical_name": "精神生活之统一",
+      "type": "著作",
+      "evidence": "一八八八，德国倭伊铿氏《精神生活之统一》。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e14",
+      "name": "《信仰之意志》",
+      "canonical_name": "信仰之意志",
+      "type": "著作",
+      "evidence": "一八九七，美国詹姆士氏《信仰之意志》。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e15",
+      "name": "《宗教之真谛》",
+      "canonical_name": "宗教之真谛",
+      "type": "著作",
+      "evidence": "一九〇一，倭氏《宗教之真谛》。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e16",
+      "name": "《宗教的经验之各样》",
+      "canonical_name": "宗教的经验之各样",
+      "type": "著作",
+      "evidence": "一九〇二，詹氏《宗教的经验之各样》。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e17",
+      "name": "《形上学序论》",
+      "canonical_name": "形上学序论",
+      "type": "著作",
+      "evidence": "一九〇三，法国柏格森氏《形上学序论》。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e18",
+      "name": "《创造的进化论》",
+      "canonical_name": "创造的进化论",
+      "type": "著作",
+      "evidence": "一九〇七，柏氏《创造的进化论》。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e19",
+      "name": "《宗教哲学根本问题》",
+      "canonical_name": "宗教哲学根本问题",
+      "type": "著作",
+      "evidence": "一九〇七，倭氏《宗教哲学根本问题》。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e20",
+      "name": "《科学与宗教》",
+      "canonical_name": "科学与宗教",
+      "type": "著作",
+      "evidence": "一九〇八，蒲氏《科学与宗教》。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e21",
+      "name": "《实在论》",
+      "canonical_name": "实在论",
+      "type": "著作",
+      "evidence": "一九一六，杜里舒之形上学《实在论》。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e22",
+      "name": "人智进化三时期",
+      "canonical_name": "人智进化三时期",
+      "type": "概念",
+      "evidence": "盖惑于孔德氏人智进化三时期之说也",
+      "confidence": 1.0
+    },
+    {
+      "id": "e23",
+      "name": "神学时代",
+      "canonical_name": "神学时代",
+      "type": "阶段",
+      "evidence": "孔氏曰，神学时代重冥想",
+      "confidence": 1.0
+    },
+    {
+      "id": "e24",
+      "name": "玄学时代",
+      "canonical_name": "玄学时代",
+      "type": "阶段",
+      "evidence": "玄学时代推究万物而归之于一源",
+      "confidence": 1.0
+    },
+    {
+      "id": "e25",
+      "name": "实证时代",
+      "canonical_name": "实证时代",
+      "type": "阶段",
+      "evidence": "至实证时代则以观察为重",
+      "confidence": 1.0
+    },
+    {
+      "id": "e26",
+      "name": "张君劢",
+      "canonical_name": "张君劢",
+      "type": "人物",
+      "evidence": "（元数据隐含出现）",
+      "confidence": 1.0
+    }
+  ],
+  "claims": [
+    {
+      "id": "c1",
+      "speaker": "张君劢",
+      "claim": "玄学不任受也",
+      "target": "玄学",
+      "claim_type": "反驳性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "然而玄学不任受也",
+      "confidence": 1.0
+    },
+    {
+      "id": "c2",
+      "speaker": "张君劢",
+      "claim": "因伽利略之发明力学，而上溯之中世纪，则有以星学占吉凶者，有以巫蛊易牛乳之色者，曰此玄学之过。然而玄学不任受也",
+      "target": "玄学",
+      "claim_type": "反驳性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "因伽利略之发明力学，而上溯之中世纪，则有以星学占吉凶者，有以巫蛊易牛乳之色者，曰此玄学之过。然而玄学不任受也",
+      "confidence": 1.0
+    },
+    {
+      "id": "c3",
+      "speaker": "张君劢",
+      "claim": "华尔孚氏之玄学，以为独恃纯粹理性可以解决上帝问题宇宙问题者，亦早为康德所驳斥矣",
+      "target": "华尔孚氏",
+      "claim_type": "历史解释",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "乃至十七八世纪之交，有德人华尔孚氏之玄学，以为独恃纯粹理性可以解决上帝问题宇宙问题者，亦早为康德所驳斥矣",
+      "confidence": 1.0
+    },
+    {
+      "id": "c4",
+      "speaker": "张君劢",
+      "claim": "自十九世纪末年以来，代表现代思潮之各大哲学，无不有玄学之著作",
+      "target": "现代哲学",
+      "claim_type": "历史解释",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "虽然，自十九世纪末年以来，代表现代思潮之各大哲学，无不有玄学之著作",
+      "confidence": 1.0
+    },
+    {
+      "id": "c5",
+      "speaker": "在君",
+      "claim": "玄学在欧洲鬼混了二千多年，到近来渐渐没有地方混饭吃",
+      "target": "玄学",
+      "claim_type": "价值评价",
+      "claim_status": "对手直接主张",
+      "polarity": "negative",
+      "evidence": "然则在君所谓“玄学在欧洲鬼混了二千多年，到近来渐渐没有地方混饭吃”",
+      "confidence": 1.0
+    },
+    {
+      "id": "c6",
+      "speaker": "在君",
+      "claim": "不怕玄学终久不投降",
+      "target": "玄学",
+      "claim_type": "价值评价",
+      "claim_status": "对手直接主张",
+      "polarity": "negative",
+      "evidence": "又曰“不怕玄学终久不投降”",
+      "confidence": 1.0
+    },
+    {
+      "id": "c7",
+      "speaker": "张君劢",
+      "claim": "在君所谓“玄学在欧洲鬼混了二千多年，到近来渐渐没有地方混饭吃”……岂不是白日说梦话",
+      "target": "在君",
+      "claim_type": "反驳性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "然则在君所谓“玄学在欧洲鬼混了二千多年，到近来渐渐没有地方混饭吃”。又曰“不怕玄学终久不投降”，岂不是白日说梦话？",
+      "confidence": 1.0
+    },
+    {
+      "id": "c8",
+      "speaker": "张君劢",
+      "claim": "国人所以闻玄学之名而恶之者，盖惑于孔德氏人智进化三时期之说也",
+      "target": "国人",
+      "claim_type": "历史解释",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "国人所以闻玄学之名而恶之者，盖惑于孔德氏人智进化三时期之说也",
+      "confidence": 1.0
+    },
+    {
+      "id": "c9",
+      "speaker": "孔德氏",
+      "claim": "神学时代重冥想；玄学时代推究万物而归之于一源，如化学力或生活力之类；至实证时代则以观察为重，弃绝对原因说，而但求现象之公例",
+      "target": "人智进化三时期",
+      "claim_type": "定义性主张",
+      "claim_status": "直接引用",
+      "polarity": "neutral",
+      "evidence": "孔氏曰，神学时代重冥想；玄学时代推究万物而归之于一源，如化学力或生活力之类；至实证时代则以观察为重，弃绝对原因说，而但求现象之公例",
+      "confidence": 1.0
+    }
+  ],
+  "relations": [
+    {
+      "id": "r1",
+      "head": "张君劢",
+      "head_type": "人物",
+      "relation": "反驳",
+      "relation_subtype": "事实质疑",
+      "tail": "在君",
+      "tail_type": "人物",
+      "polarity": "negative",
+      "evidence": "然则在君所谓“玄学在欧洲鬼混了二千多年，到近来渐渐没有地方混饭吃”。又曰“不怕玄学终久不投降”，岂不是白日说梦话？",
+      "confidence": 1.0
+    },
+    {
+      "id": "r2",
+      "head": "张君劢",
+      "head_type": "人物",
+      "relation": "反驳",
+      "relation_subtype": "概念澄清",
+      "tail": "玄学",
+      "tail_type": "概念",
+      "polarity": "negative",
+      "evidence": "然而玄学不任受也",
+      "confidence": 1.0
+    },
+    {
+      "id": "r3",
+      "head": "康德",
+      "head_type": "人物",
+      "relation": "反驳",
+      "relation_subtype": "逻辑反驳",
+      "tail": "华尔孚氏",
+      "tail_type": "人物",
+      "polarity": "negative",
+      "evidence": "亦早为康德所驳斥矣",
+      "confidence": 1.0
+    },
+    {
+      "id": "r4",
+      "head": "张君劢",
+      "head_type": "人物",
+      "relation": "引用",
+      "relation_subtype": "援引权威支持",
+      "tail": "孔德氏",
+      "tail_type": "人物",
+      "polarity": "neutral",
+      "evidence": "盖惑于孔德氏人智进化三时期之说也",
+      "confidence": 1.0
+    },
+    {
+      "id": "r5",
+      "head": "张君劢",
+      "head_type": "人物",
+      "relation": "引用",
+      "relation_subtype": "援引权威支持",
+      "tail": "蒲脱罗氏",
+      "tail_type": "人物",
+      "polarity": "positive",
+      "evidence": "一八七四，法国蒲脱罗氏《自然律之偶然性》。",
+      "confidence": 1.0
+    },
+    {
+      "id": "r6",
+      "head": "张君劢",
+      "head_type": "人物",
+      "relation": "引用",
+      "relation_subtype": "援引权威支持",
+      "tail": "倭伊铿氏",
+      "tail_type": "人物",
+      "polarity": "positive",
+      "evidence": "一八八八，德国倭伊铿氏《精神生活之统一》。",
+      "confidence": 1.0
+    },
+    {
+      "id": "r7",
+      "head": "张君劢",
+      "head_type": "人物",
+      "relation": "引用",
+      "relation_subtype": "援引权威支持",
+      "tail": "詹姆士氏",
+      "tail_type": "人物",
+      "polarity": "positive",
+      "evidence": "一八九七，美国詹姆士氏《信仰之意志》。",
+      "confidence": 1.0
+    },
+    {
+      "id": "r8",
+      "head": "张君劢",
+      "head_type": "人物",
+      "relation": "引用",
+      "relation_subtype": "援引权威支持",
+      "tail": "柏格森氏",
+      "tail_type": "人物",
+      "polarity": "positive",
+      "evidence": "一九〇三，法国柏格森氏《形上学序论》。",
+      "confidence": 1.0
+    },
+    {
+      "id": "r9",
+      "head": "张君劢",
+      "head_type": "人物",
+      "relation": "引用",
+      "relation_subtype": "援引权威支持",
+      "tail": "杜里舒",
+      "tail_type": "人物",
+      "polarity": "positive",
+      "evidence": "一九一六，杜里舒之形上学《实在论》。",
+      "confidence": 1.0
+    },
+    {
+      "id": "r10",
+      "head": "张君劢",
+      "head_type": "人物",
+      "relation": "归因于",
+      "relation_subtype": "不适用",
+      "tail": "孔德氏",
+      "tail_type": "人物",
+      "polarity": "neutral",
+      "evidence": "国人所以闻玄学之名而恶之者，盖惑于孔德氏人智进化三时期之说也",
+      "confidence": 1.0
+    }
+  ],
+  "definitions": [
+    {
+      "id": "def1",
+      "term": "神学时代",
+      "definition": "重冥想",
+      "evidence": "孔氏曰，神学时代重冥想",
+      "confidence": 1.0
+    },
+    {
+      "id": "def2",
+      "term": "玄学时代",
+      "definition": "推究万物而归之于一源，如化学力或生活力之类",
+      "evidence": "玄学时代推究万物而归之于一源，如化学力或生活力之类",
+      "confidence": 1.0
+    },
+    {
+      "id": "def3",
+      "term": "实证时代",
+      "definition": "以观察为重，弃绝对原因说，而但求现象之公例",
+      "evidence": "至实证时代则以观察为重，弃绝对原因说，而但求现象之公例",
+      "confidence": 1.0
+    }
+  ],
+  "citations": [
+    {
+      "id": "cit1",
+      "citer": "张君劢",
+      "quoted_author": "在君",
+      "quoted_work": "",
+      "quoted_claim": "玄学在欧洲鬼混了二千多年，到近来渐渐没有地方混饭吃",
+      "function": "作为批评对象",
+      "evidence": "然则在君所谓“玄学在欧洲鬼混了二千多年，到近来渐渐没有地方混饭吃”",
+      "confidence": 1.0
+    },
+    {
+      "id": "cit2",
+      "citer": "张君劢",
+      "quoted_author": "在君",
+      "quoted_work": "",
+      "quoted_claim": "不怕玄学终久不投降",
+      "function": "作为批评对象",
+      "evidence": "又曰“不怕玄学终久不投降”",
+      "confidence": 1.0
+    },
+    {
+      "id": "cit3",
+      "citer": "张君劢",
+      "quoted_author": "孔德氏",
+      "quoted_work": "",
+      "quoted_claim": "神学时代重冥想；玄学时代推究万物而归之于一源，如化学力或生活力之类；至实证时代则以观察为重，弃绝对原因说，而但求现象之公例",
+      "function": "援引权威支持",
+      "evidence": "孔氏曰，神学时代重冥想；玄学时代推究万物而归之于一源，如化学力或生活力之类；至实证时代则以观察为重，弃绝对原因说，而但求现象之公例",
+      "confidence": 1.0
+    }
+  ],
+  "rhetorical_devices": [
+    {
+      "id": "rh1",
+      "expression": "白日说梦话",
+      "device_type": "讽刺",
+      "literal_target": "在君的观点",
+      "function": "讽刺在君认为玄学没落、会投降的说法荒谬",
+      "evidence": "岂不是白日说梦话？",
+      "confidence": 1.0
+    }
+  ],
+  "uncertainties": [
+    {
+      "item": "华尔孚氏之玄学具体内容",
+      "reason": "文本仅提及“以为独恃纯粹理性可以解决上帝问题宇宙问题”，未提供更详细定义"
+    },
+    {
+      "item": "“在君”是否确指丁文江",
+      "reason": "文本中仅出现“在君”，未给出全名，但根据论战背景可推断"
+    }
+  ]
+}

@@ -1,0 +1,338 @@
+{
+  "metadata": {
+    "schema_version": "lite_v2.0",
+    "article_id": "丁文江_000_3ba07a5e",
+    "article_title": "玄学与科学 ——评张君劢的《人生观》",
+    "source_author": "丁文江",
+    "section_title": "",
+    "section_author": "",
+    "segment_id": "丁文江_000_3ba07a5e_s0038",
+    "segment_index": 38,
+    "source_file": "E:\\1研究生\\岭南大学\\论文毕业\\capstone\\资料\\新的内容开始了\\local_upload\\input_texts\\丁文江.txt"
+  },
+  "entities": [
+    {
+      "id": "e1",
+      "name": "工业",
+      "canonical_name": "工业",
+      "type": "Concept",
+      "evidence": "因为工业要利用他",
+      "confidence": 0.9
+    },
+    {
+      "id": "e2",
+      "name": "科学",
+      "canonical_name": "科学",
+      "type": "Concept",
+      "evidence": "他们不敢扫除科学，因为工业要利用他，但是天天在那里防范科学",
+      "confidence": 0.9
+    },
+    {
+      "id": "e3",
+      "name": "科学精神",
+      "canonical_name": "科学精神",
+      "type": "Concept",
+      "evidence": "他们的政治社会却绝对的缺乏科学精神",
+      "confidence": 0.9
+    },
+    {
+      "id": "e4",
+      "name": "前清的经师",
+      "canonical_name": "前清的经师",
+      "type": "Faction",
+      "evidence": "前清的经师尽管承认阎百诗推翻了伪古文《尚书》，然而科场考试仍旧有伪《尚书》在内",
+      "confidence": 0.9
+    },
+    {
+      "id": "e5",
+      "name": "阎百诗",
+      "canonical_name": "阎百诗",
+      "type": "Person",
+      "evidence": "阎百诗推翻了伪古文《尚书》",
+      "confidence": 0.9
+    },
+    {
+      "id": "e6",
+      "name": "伪古文《尚书》",
+      "canonical_name": "伪古文《尚书》",
+      "type": "Book",
+      "evidence": "阎百诗推翻了伪古文《尚书》",
+      "confidence": 0.9
+    },
+    {
+      "id": "e7",
+      "name": "人生观",
+      "canonical_name": "人生观",
+      "type": "Concept",
+      "evidence": "人生观不能统一也是为此",
+      "confidence": 0.9
+    },
+    {
+      "id": "e8",
+      "name": "战争",
+      "canonical_name": "战争",
+      "type": "Concept",
+      "evidence": "战争不能废止也是为此",
+      "confidence": 0.9
+    },
+    {
+      "id": "e9",
+      "name": "欧战",
+      "canonical_name": "欧战",
+      "type": "Event",
+      "evidence": "欧战没有发生的前几年",
+      "confidence": 0.9
+    },
+    {
+      "id": "e10",
+      "name": "安基尔",
+      "canonical_name": "安基尔",
+      "type": "Person",
+      "evidence": "安基尔做一部书，叫做《大幻影》",
+      "confidence": 0.9
+    },
+    {
+      "id": "e11",
+      "name": "《大幻影》",
+      "canonical_name": "《大幻影》",
+      "type": "Book",
+      "evidence": "安基尔做一部书，叫做《大幻影》",
+      "confidence": 0.9
+    },
+    {
+      "id": "e12",
+      "name": "科学方法",
+      "canonical_name": "科学方法",
+      "type": "Method",
+      "evidence": "用科学方法研究战争与经济的关系",
+      "confidence": 0.9
+    },
+    {
+      "id": "e13",
+      "name": "战争与经济的关系",
+      "canonical_name": "战争与经济的关系",
+      "type": "Concept",
+      "evidence": "用科学方法研究战争与经济的关系",
+      "confidence": 0.9
+    },
+    {
+      "id": "e14",
+      "name": "欧洲的政治家",
+      "canonical_name": "欧洲的政治家",
+      "type": "Faction",
+      "evidence": "当时欧洲的政治家没有不笑他迂腐的",
+      "confidence": 0.9
+    },
+    {
+      "id": "e15",
+      "name": "玄学家",
+      "canonical_name": "玄学家",
+      "type": "Faction",
+      "evidence": "一班应负责任的玄学家、教育家、政治家",
+      "confidence": 0.9
+    },
+    {
+      "id": "e16",
+      "name": "教育家",
+      "canonical_name": "教育家",
+      "type": "Faction",
+      "evidence": "一班应负责任的玄学家、教育家、政治家",
+      "confidence": 0.9
+    },
+    {
+      "id": "e17",
+      "name": "政治家",
+      "canonical_name": "政治家",
+      "type": "Faction",
+      "evidence": "一班应负责任的玄学家、教育家、政治家",
+      "confidence": 0.9
+    },
+    {
+      "id": "e18",
+      "name": "物质文明",
+      "canonical_name": "物质文明",
+      "type": "Concept",
+      "evidence": "反要把物质文明的罪名加到纯洁高尚的科学身上",
+      "confidence": 0.9
+    },
+    {
+      "id": "e19",
+      "name": "科学",
+      "canonical_name": "科学",
+      "type": "Concept",
+      "evidence": "反要把物质文明的罪名加到纯洁高尚的科学身上",
+      "confidence": 0.9
+    },
+    {
+      "id": "e20",
+      "name": "中国的“精神文明”",
+      "canonical_name": "中国的“精神文明”",
+      "type": "Concept",
+      "evidence": "### 中国的“精神文明”",
+      "confidence": 0.9
+    }
+  ],
+  "claims": [
+    {
+      "id": "c1",
+      "speaker": "丁文江",
+      "claim": "他们不敢扫除科学，因为工业要利用他，但是天天在那里防范科学，不要侵入他们的饭碗界里来。",
+      "target": "他们",
+      "claim_type": "文明批评",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "他们不敢扫除科学，因为工业要利用他，但是天天在那里防范科学，不要侵入他们的饭碗界里来。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c2",
+      "speaker": "丁文江",
+      "claim": "欧美的工业虽然是利用科学的发明，他们的政治社会却绝对的缺乏科学精神。",
+      "target": "欧美的政治社会",
+      "claim_type": "文明批评",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "所以欧美的工业虽然是利用科学的发明，他们的政治社会却绝对的缺乏科学精神。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c3",
+      "speaker": "丁文江",
+      "claim": "人生观不能统一也是为此，战争不能废止也是为此。",
+      "target": "人生观不能统一、战争不能废止",
+      "claim_type": "历史解释",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "人生观不能统一也是为此，战争不能废止也是为此。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c4",
+      "speaker": "丁文江",
+      "claim": "安基尔做一部书，叫做《大幻影》，用科学方法研究战争与经济的关系，详细证明战争的结果，战胜国也是一样的破产，苦口的反对战争。",
+      "target": "安基尔",
+      "claim_type": "历史解释",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "欧战没有发生的前几年，安基尔做一部书，叫做《大幻影》，用科学方法研究战争与经济的关系，详细证明战争的结果，战胜国也是一样的破产，苦口的反对战争。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c5",
+      "speaker": "丁文江",
+      "claim": "当时欧洲的政治家没有不笑他迂腐的。",
+      "target": "欧洲的政治家",
+      "claim_type": "历史解释",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "当时欧洲的政治家没有不笑他迂腐的。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c6",
+      "speaker": "丁文江",
+      "claim": "到了如今，欧洲的国家果然都因为战争破了产了。",
+      "target": "欧洲的国家",
+      "claim_type": "历史解释",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "到了如今，欧洲的国家果然都因为战争破了产了。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c7",
+      "speaker": "丁文江",
+      "claim": "一班应负责任的玄学家、教育家、政治家却丝毫不肯悔过，反要把物质文明的罪名加到纯洁高尚的科学身上，说他是“务外逐物”，岂不可怜！",
+      "target": "玄学家、教育家、政治家",
+      "claim_type": "文明批评",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "然而一班应负责任的玄学家、教育家、政治家却丝毫不肯悔过，反要把物质文明的罪名加到纯洁高尚的科学身上，说他是“务外逐物”，岂不可怜！",
+      "confidence": 0.9
+    }
+  ],
+  "relations": [
+    {
+      "id": "r1",
+      "head": "安基尔",
+      "head_type": "Person",
+      "relation": "PROPOSES",
+      "tail": "战争的结果，战胜国也是一样的破产",
+      "tail_type": "Viewpoint",
+      "polarity": "positive",
+      "evidence": "安基尔做一部书，叫做《大幻影》，用科学方法研究战争与经济的关系，详细证明战争的结果，战胜国也是一样的破产，苦口的反对战争。",
+      "confidence": 0.9
+    }
+  ],
+  "definitions": [],
+  "citations": [
+    {
+      "id": "cit1",
+      "citer": "丁文江",
+      "quoted_author": "安基尔",
+      "quoted_work": "《大幻影》",
+      "quoted_claim": "战争的结果，战胜国也是一样的破产",
+      "function": "作为历史证据",
+      "evidence": "欧战没有发生的前几年，安基尔做一部书，叫做《大幻影》，用科学方法研究战争与经济的关系，详细证明战争的结果，战胜国也是一样的破产，苦口的反对战争。",
+      "confidence": 0.9
+    }
+  ],
+  "rhetorical_devices": [
+    {
+      "id": "rh1",
+      "expression": "饭碗界",
+      "device_type": "比喻",
+      "literal_target": "职业领域或利益范围",
+      "function": "用具体意象讽刺对方维护自身利益而排斥科学",
+      "evidence": "不要侵入他们的饭碗界里来",
+      "confidence": 0.9
+    },
+    {
+      "id": "rh2",
+      "expression": "务外逐物",
+      "device_type": "引用",
+      "literal_target": "玄学家对科学的指责",
+      "function": "引用对手的标签化批评，并加以讽刺",
+      "evidence": "说他是“务外逐物”，岂不可怜！",
+      "confidence": 0.9
+    },
+    {
+      "id": "rh3",
+      "expression": "岂不可怜",
+      "device_type": "反语",
+      "literal_target": "玄学家、教育家、政治家的行为",
+      "function": "以反问和反语表达强烈的讽刺和批评",
+      "evidence": "岂不可怜！",
+      "confidence": 0.9
+    }
+  ],
+  "uncertainties": [
+    {
+      "item": "“他们”的具体指代对象",
+      "reason": "文本中“他们”没有明确先行词，可能指代前文提到的某些群体，但当前片段未提供明确信息。"
+    },
+    {
+      "item": "“前清的经师”与“他们”的类比关系是否完全对应",
+      "reason": "文本只说“是一样的道理”，但未详细说明类比的具体对应点。"
+    }
+  ],
+  "_meta": {
+    "status": "success",
+    "stage": "extract",
+    "model": "deepseek-ai/DeepSeek-V4-Flash",
+    "base_url": "https://api.siliconflow.cn/v1",
+    "prompt_version": "extract_prompt_v2.0",
+    "schema_version": "lite_v2.0",
+    "segment_id": "丁文江_000_3ba07a5e_s0038",
+    "article_id": "丁文江_000_3ba07a5e",
+    "char_start": 9696,
+    "char_end": 10039,
+    "raw_path": "E:\\1研究生\\岭南大学\\论文毕业\\capstone\\资料\\新的内容开始了\\local_upload\\kg_runs\\丁文江_等3篇\\raw_outputs\\extract\\丁文江_000_3ba07a5e_s0038.txt",
+    "parsed_at": "2026-05-19T03:26:27",
+    "started_at": "2026-05-19T03:24:30",
+    "elapsed_seconds": 116.867,
+    "strict_evidence_check": true,
+    "drop_unsupported_evidence": true,
+    "request_timeout_seconds": 180
+  }
+}

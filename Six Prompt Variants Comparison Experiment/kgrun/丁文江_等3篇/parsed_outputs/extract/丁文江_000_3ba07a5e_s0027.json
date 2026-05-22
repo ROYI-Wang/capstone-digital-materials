@@ -1,0 +1,440 @@
+{
+  "metadata": {
+    "schema_version": "lite_v2.0",
+    "article_id": "丁文江_000_3ba07a5e",
+    "article_title": "玄学与科学 ——评张君劢的《人生观》",
+    "source_author": "丁文江",
+    "section_title": "",
+    "section_author": "",
+    "segment_id": "丁文江_000_3ba07a5e_s0027",
+    "segment_index": 27,
+    "source_file": "E:\\1研究生\\岭南大学\\论文毕业\\capstone\\资料\\新的内容开始了\\local_upload\\input_texts\\丁文江.txt"
+  },
+  "entities": [
+    {
+      "id": "e1",
+      "name": "玄学",
+      "canonical_name": "玄学",
+      "type": "Concept",
+      "evidence": "一半由于迷信玄学",
+      "confidence": 0.9
+    },
+    {
+      "id": "e2",
+      "name": "科学",
+      "canonical_name": "科学",
+      "type": "Concept",
+      "evidence": "一半还由于误解科学，以为科学是物质的，机械的",
+      "confidence": 0.9
+    },
+    {
+      "id": "e3",
+      "name": "物质",
+      "canonical_name": "物质",
+      "type": "Concept",
+      "evidence": "以为科学是物质的，机械的",
+      "confidence": 0.8
+    },
+    {
+      "id": "e4",
+      "name": "机械",
+      "canonical_name": "机械",
+      "type": "Concept",
+      "evidence": "以为科学是物质的，机械的",
+      "confidence": 0.8
+    },
+    {
+      "id": "e5",
+      "name": "欧洲的文化",
+      "canonical_name": "欧洲文化",
+      "type": "Concept",
+      "evidence": "欧洲的文化是“物质文化”",
+      "confidence": 0.8
+    },
+    {
+      "id": "e6",
+      "name": "物质文化",
+      "canonical_name": "物质文化",
+      "type": "Concept",
+      "evidence": "欧洲的文化是“物质文化”",
+      "confidence": 0.8
+    },
+    {
+      "id": "e7",
+      "name": "欧战",
+      "canonical_name": "欧战",
+      "type": "Event",
+      "evidence": "欧战以后工商业要破产",
+      "confidence": 0.9
+    },
+    {
+      "id": "e8",
+      "name": "科学",
+      "canonical_name": "科学",
+      "type": "Concept",
+      "evidence": "所以科学是“务外逐物”",
+      "confidence": 0.9
+    },
+    {
+      "id": "e9",
+      "name": "务外逐物",
+      "canonical_name": "务外逐物",
+      "type": "Concept",
+      "evidence": "所以科学是“务外逐物”",
+      "confidence": 0.8
+    },
+    {
+      "id": "e10",
+      "name": "张君劢",
+      "canonical_name": "张君劢",
+      "type": "Person",
+      "evidence": "我再来引一引张君劢的原文",
+      "confidence": 0.9
+    },
+    {
+      "id": "e11",
+      "name": "精神与物质",
+      "canonical_name": "精神与物质",
+      "type": "Concept",
+      "evidence": "所谓精神与物质者",
+      "confidence": 0.8
+    },
+    {
+      "id": "e12",
+      "name": "科学",
+      "canonical_name": "科学",
+      "type": "Concept",
+      "evidence": "科学之为用，专注于向外",
+      "confidence": 0.9
+    },
+    {
+      "id": "e13",
+      "name": "试验室",
+      "canonical_name": "实验室",
+      "type": "Concept",
+      "evidence": "其结果则试验室与工厂遍国中也",
+      "confidence": 0.8
+    },
+    {
+      "id": "e14",
+      "name": "工厂",
+      "canonical_name": "工厂",
+      "type": "Concept",
+      "evidence": "其结果则试验室与工厂遍国中也",
+      "confidence": 0.8
+    },
+    {
+      "id": "e15",
+      "name": "人生如机械",
+      "canonical_name": "人生如机械",
+      "type": "Metaphor",
+      "evidence": "朝作夕辍，人生如机械然",
+      "confidence": 0.9
+    },
+    {
+      "id": "e16",
+      "name": "张季直",
+      "canonical_name": "张季直",
+      "type": "Person",
+      "evidence": "如张季直、聂云台之流",
+      "confidence": 0.9
+    },
+    {
+      "id": "e17",
+      "name": "聂云台",
+      "canonical_name": "聂云台",
+      "type": "Person",
+      "evidence": "如张季直、聂云台之流",
+      "confidence": 0.9
+    },
+    {
+      "id": "e18",
+      "name": "正当之人生观",
+      "canonical_name": "正当人生观",
+      "type": "Concept",
+      "evidence": "是否为正当之人生观",
+      "confidence": 0.8
+    },
+    {
+      "id": "e19",
+      "name": "正当之文化",
+      "canonical_name": "正当文化",
+      "type": "Concept",
+      "evidence": "是否为正当之文化",
+      "confidence": 0.8
+    },
+    {
+      "id": "e20",
+      "name": "物质文明",
+      "canonical_name": "物质文明",
+      "type": "Concept",
+      "evidence": "对于物质文明，不胜务外逐物之感",
+      "confidence": 0.8
+    },
+    {
+      "id": "e21",
+      "name": "中国",
+      "canonical_name": "中国",
+      "type": "Concept",
+      "evidence": "这种误解在中国现在很时髦，很流行",
+      "confidence": 0.9
+    }
+  ],
+  "claims": [
+    {
+      "id": "c1",
+      "speaker": "丁文江",
+      "claim": "这种不可通的议论的来历，一半由于迷信玄学，一半还由于误解科学，以为科学是物质的，机械的",
+      "target": "张君劢的议论",
+      "claim_type": "论战策略批评",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "这种不可通的议论的来历，一半由于迷信玄学，一半还由于误解科学，以为科学是物质的，机械的",
+      "confidence": 0.9
+    },
+    {
+      "id": "c2",
+      "speaker": "丁文江",
+      "claim": "欧洲的文化是“物质文化”",
+      "target": "欧洲文化",
+      "claim_type": "历史解释",
+      "claim_status": "作者讽刺性归纳",
+      "polarity": "negative",
+      "evidence": "欧洲的文化是“物质文化”",
+      "confidence": 0.8
+    },
+    {
+      "id": "c3",
+      "speaker": "丁文江",
+      "claim": "欧战以后工商业要破产，所以科学是“务外逐物”",
+      "target": "科学",
+      "claim_type": "论战策略批评",
+      "claim_status": "作者讽刺性归纳",
+      "polarity": "negative",
+      "evidence": "欧战以后工商业要破产，所以科学是“务外逐物”",
+      "confidence": 0.8
+    },
+    {
+      "id": "c4",
+      "speaker": "张君劢",
+      "claim": "科学之为用，专注于向外，其结果则试验室与工厂遍国中也",
+      "target": "科学",
+      "claim_type": "定义性主张",
+      "claim_status": "直接引用",
+      "polarity": "negative",
+      "evidence": "科学之为用，专注于向外，其结果则试验室与工厂遍国中也",
+      "confidence": 0.9
+    },
+    {
+      "id": "c5",
+      "speaker": "张君劢",
+      "claim": "朝作夕辍，人生如机械然，精神上之慰安所在，则不可得而知也",
+      "target": "人生",
+      "claim_type": "文明批评",
+      "claim_status": "直接引用",
+      "polarity": "negative",
+      "evidence": "朝作夕辍，人生如机械然，精神上之慰安所在，则不可得而知也",
+      "confidence": 0.9
+    },
+    {
+      "id": "c6",
+      "speaker": "张君劢",
+      "claim": "我国科学未发达，工业尤落人后，故国中有以开纱厂设铁厂创航业公司自任，如张季直、聂云台之流，则国人相率而崇拜之",
+      "target": "中国",
+      "claim_type": "历史解释",
+      "claim_status": "直接引用",
+      "polarity": "neutral",
+      "evidence": "我国科学未发达，工业尤落人后，故国中有以开纱厂设铁厂创航业公司自任，如张季直、聂云台之流，则国人相率而崇拜之",
+      "confidence": 0.9
+    },
+    {
+      "id": "c7",
+      "speaker": "张君劢",
+      "claim": "一国偏重工商，是否为正当之人生观，是否为正当之文化，在欧洲人观之，已成大疑问矣",
+      "target": "偏重工商",
+      "claim_type": "问题提出",
+      "claim_status": "直接引用",
+      "polarity": "negative",
+      "evidence": "抑知一国偏重工商，是否为正当之人生观，是否为正当之文化，在欧洲人观之，已成大疑问矣",
+      "confidence": 0.9
+    },
+    {
+      "id": "c8",
+      "speaker": "张君劢",
+      "claim": "欧战终后，有结算二三百年之总帐者，对于物质文明，不胜务外逐物之感。厌恶之论已屡见不一见矣",
+      "target": "物质文明",
+      "claim_type": "文明批评",
+      "claim_status": "直接引用",
+      "polarity": "negative",
+      "evidence": "欧战终后，有结算二三百年之总帐者，对于物质文明，不胜务外逐物之感。厌恶之论已屡见不一见矣",
+      "confidence": 0.9
+    },
+    {
+      "id": "c9",
+      "speaker": "丁文江",
+      "claim": "这种误解在中国现在很时髦，很流行",
+      "target": "对科学的误解",
+      "claim_type": "价值评价",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "这种误解在中国现在很时髦，很流行",
+      "confidence": 0.9
+    }
+  ],
+  "relations": [
+    {
+      "id": "r1",
+      "head": "丁文江",
+      "head_type": "Person",
+      "relation": "CITES",
+      "tail": "张君劢",
+      "tail_type": "Person",
+      "polarity": "negative",
+      "evidence": "我再来引一引张君劢的原文",
+      "confidence": 0.9
+    },
+    {
+      "id": "r2",
+      "head": "误解科学",
+      "head_type": "Concept",
+      "relation": "CAUSES",
+      "tail": "以为科学是物质的，机械的",
+      "tail_type": "Viewpoint",
+      "polarity": "negative",
+      "evidence": "一半还由于误解科学，以为科学是物质的，机械的",
+      "confidence": 0.8
+    },
+    {
+      "id": "r3",
+      "head": "欧战",
+      "head_type": "Event",
+      "relation": "CAUSES",
+      "tail": "工商业要破产",
+      "tail_type": "Viewpoint",
+      "polarity": "negative",
+      "evidence": "欧战以后工商业要破产",
+      "confidence": 0.8
+    },
+    {
+      "id": "r4",
+      "head": "工商业要破产",
+      "head_type": "Viewpoint",
+      "relation": "CAUSES",
+      "tail": "科学是“务外逐物”",
+      "tail_type": "Viewpoint",
+      "polarity": "negative",
+      "evidence": "欧战以后工商业要破产，所以科学是“务外逐物”",
+      "confidence": 0.8
+    },
+    {
+      "id": "r5",
+      "head": "科学",
+      "head_type": "Concept",
+      "relation": "CAUSES",
+      "tail": "试验室与工厂遍国中",
+      "tail_type": "Concept",
+      "polarity": "neutral",
+      "evidence": "科学之为用，专注于向外，其结果则试验室与工厂遍国中也",
+      "confidence": 0.9
+    },
+    {
+      "id": "r6",
+      "head": "科学未发达",
+      "head_type": "Concept",
+      "relation": "CAUSES",
+      "tail": "工业尤落人后",
+      "tail_type": "Concept",
+      "polarity": "negative",
+      "evidence": "我国科学未发达，工业尤落人后",
+      "confidence": 0.8
+    },
+    {
+      "id": "r7",
+      "head": "偏重工商",
+      "head_type": "Concept",
+      "relation": "QUESTIONS",
+      "tail": "正当之人生观",
+      "tail_type": "Concept",
+      "polarity": "negative",
+      "evidence": "抑知一国偏重工商，是否为正当之人生观",
+      "confidence": 0.8
+    },
+    {
+      "id": "r8",
+      "head": "欧战",
+      "head_type": "Event",
+      "relation": "CAUSES",
+      "tail": "对于物质文明，不胜务外逐物之感",
+      "tail_type": "Viewpoint",
+      "polarity": "negative",
+      "evidence": "欧战终后，有结算二三百年之总帐者，对于物质文明，不胜务外逐物之感",
+      "confidence": 0.8
+    }
+  ],
+  "definitions": [
+    {
+      "id": "def1",
+      "term": "科学",
+      "definition": "科学之为用，专注于向外，其结果则试验室与工厂遍国中",
+      "evidence": "科学之为用，专注于向外，其结果则试验室与工厂遍国中也",
+      "confidence": 0.9
+    },
+    {
+      "id": "def2",
+      "term": "精神与物质",
+      "definition": "所谓精神与物质者：科学之为用，专注于向外",
+      "evidence": "所谓精神与物质者：科学之为用，专注于向外",
+      "confidence": 0.8
+    }
+  ],
+  "citations": [],
+  "rhetorical_devices": [
+    {
+      "id": "rh1",
+      "expression": "人生如机械然",
+      "device_type": "比喻",
+      "literal_target": "人生",
+      "function": "批评科学导致人生机械化，缺乏精神慰安",
+      "evidence": "朝作夕辍，人生如机械然",
+      "confidence": 0.9
+    },
+    {
+      "id": "rh2",
+      "expression": "务外逐物",
+      "device_type": "标签化",
+      "literal_target": "科学",
+      "function": "给科学贴上负面标签，批评其只关注外在物质",
+      "evidence": "对于物质文明，不胜务外逐物之感",
+      "confidence": 0.8
+    }
+  ],
+  "uncertainties": [
+    {
+      "item": "张君劢原文中“有结算二三百年之总帐者”是否指特定人物或群体",
+      "reason": "文本未明确说明“结算二三百年之总帐者”的具体身份"
+    },
+    {
+      "item": "丁文江引用张君劢原文后，是否隐含对张君劢观点的进一步反驳",
+      "reason": "文本仅以“这种误解在中国现在很时髦，很流行”结尾，未展开直接反驳"
+    }
+  ],
+  "_meta": {
+    "status": "success",
+    "stage": "extract",
+    "model": "deepseek-ai/DeepSeek-V4-Flash",
+    "base_url": "https://api.siliconflow.cn/v1",
+    "prompt_version": "extract_prompt_v2.0",
+    "schema_version": "lite_v2.0",
+    "segment_id": "丁文江_000_3ba07a5e_s0027",
+    "article_id": "丁文江_000_3ba07a5e",
+    "char_start": 6865,
+    "char_end": 7213,
+    "raw_path": "E:\\1研究生\\岭南大学\\论文毕业\\capstone\\资料\\新的内容开始了\\local_upload\\kg_runs\\丁文江_等3篇\\raw_outputs\\extract\\丁文江_000_3ba07a5e_s0027.txt",
+    "parsed_at": "2026-05-19T03:05:32",
+    "started_at": "2026-05-19T03:03:22",
+    "elapsed_seconds": 129.517,
+    "strict_evidence_check": true,
+    "drop_unsupported_evidence": true,
+    "request_timeout_seconds": 180
+  }
+}

@@ -1,0 +1,288 @@
+{
+  "metadata": {
+    "schema_version": "lite_v2.0",
+    "article_id": "甘蛰仙_000_6b354fa0",
+    "article_title": "人生观与知识论",
+    "source_author": "甘蛰仙",
+    "section_title": "鄙意欲率自由意志以通本体论与道德学之邮，犹先民所谓“为仁由己”也。我当时之见解，以为从事本体之学，务必以道德学为之辅，乃能按",
+    "section_author": "鄙意欲率自由意志以通本体论与道德学之邮，犹先民所谓“为仁由己”也。我当时之见解，以为从事本体之学，务必以道德学为之辅，乃能",
+    "segment_id": "甘蛰仙_000_6b354fa0_s0001",
+    "segment_index": 1,
+    "source_file": "E:\\1研究生\\岭南大学\\论文毕业\\capstone\\资料\\新的内容开始了\\local_upload\\input_w2\\甘蛰仙.txt"
+  },
+  "entities": [
+    {
+      "id": "e1",
+      "name": "良知",
+      "canonical_name": "良知",
+      "type": "概念",
+      "evidence": "当起心动念的时候，自己便觉得那念头是善是恶。这种知善知恶的觉心，就是良知。",
+      "confidence": 0.95
+    },
+    {
+      "id": "e2",
+      "name": "善端",
+      "canonical_name": "善端",
+      "type": "概念",
+      "evidence": "其与吾所谈之善端，纯从自觉心发出者，固已迥乎不同矣。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e3",
+      "name": "至善",
+      "canonical_name": "至善",
+      "type": "概念",
+      "evidence": "以期达到至善之究极目的",
+      "confidence": 0.9
+    },
+    {
+      "id": "e4",
+      "name": "道德论",
+      "canonical_name": "道德论",
+      "type": "概念",
+      "evidence": "顾此批判的自由及选择的自由，属道德论耶？抑属本体论耶？",
+      "confidence": 0.9
+    },
+    {
+      "id": "e5",
+      "name": "知行合一",
+      "canonical_name": "知行合一",
+      "type": "概念",
+      "evidence": "就是知行合一，——就是我知我行的真自由。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e6",
+      "name": "致良知",
+      "canonical_name": "致良知",
+      "type": "概念",
+      "evidence": "按照自己固有的准则，提起来，做将去，就是致良知",
+      "confidence": 0.9
+    },
+    {
+      "id": "e7",
+      "name": "自由",
+      "canonical_name": "自由",
+      "type": "概念",
+      "evidence": "端须纯任自由，丝毫不容他界之强迫",
+      "confidence": 0.85
+    },
+    {
+      "id": "e8",
+      "name": "强迫作用",
+      "canonical_name": "强迫作用",
+      "type": "概念",
+      "evidence": "强迫作用，能使人对于善恶不知所择",
+      "confidence": 0.9
+    },
+    {
+      "id": "e9",
+      "name": "善念",
+      "canonical_name": "善念",
+      "type": "概念",
+      "evidence": "培养善念",
+      "confidence": 0.85
+    },
+    {
+      "id": "e10",
+      "name": "时事新报",
+      "canonical_name": "时事新报",
+      "type": "著作",
+      "evidence": "（十一年十四日，时事新报，学灯）",
+      "confidence": 0.95
+    },
+    {
+      "id": "e11",
+      "name": "学灯",
+      "canonical_name": "学灯",
+      "type": "著作",
+      "evidence": "（十一年十四日，时事新报，学灯）",
+      "confidence": 0.95
+    }
+  ],
+  "claims": [
+    {
+      "id": "c1",
+      "speaker": "甘蛰仙",
+      "claim": "端须著实提起良知，培养善念，向着勇于为善的途径行将去，以期达到至善之究极目的；而气拘物蔽，都无缘在心地捣乱，以为善端之累。",
+      "target": "善端",
+      "claim_type": "方法论主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "端须著实提起良知，培养善念，向着勇于为善的途径行将去，以期达到至善之究极目的；而气拘物蔽，都无缘在心地捣乱，以为善端之累。",
+      "confidence": 0.95
+    },
+    {
+      "id": "c2",
+      "speaker": "甘蛰仙",
+      "claim": "当起心动念的时候，自己便觉得那念头是善是恶。这种知善知恶的觉心，就是良知。",
+      "target": "良知",
+      "claim_type": "定义性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "当起心动念的时候，自己便觉得那念头是善是恶。这种知善知恶的觉心，就是良知。",
+      "confidence": 0.95
+    },
+    {
+      "id": "c3",
+      "speaker": "甘蛰仙",
+      "claim": "良知不是外铄的，是固有的。按照自己固有的准则，提起来，做将去，就是致良知，——就是知行合一，——就是我知我行的真自由。",
+      "target": "良知",
+      "claim_type": "定义性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "良知不是外铄的，是固有的。按照自己固有的准则，提起来，做将去，就是致良知，——就是知行合一，——就是我知我行的真自由。",
+      "confidence": 0.95
+    },
+    {
+      "id": "c4",
+      "speaker": "甘蛰仙",
+      "claim": "强迫作用，能使人对于善恶不知所择",
+      "target": "强迫作用",
+      "claim_type": "知识论主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "强迫作用，能使人对于善恶不知所择",
+      "confidence": 0.9
+    },
+    {
+      "id": "c5",
+      "speaker": "甘蛰仙",
+      "claim": "强迫作用，能使人忘其“强为善”之责任心，而无繇自下批判",
+      "target": "强迫作用",
+      "claim_type": "知识论主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "强迫作用，能使人忘其“强为善”之责任心，而无繇自下批判",
+      "confidence": 0.9
+    },
+    {
+      "id": "c6",
+      "speaker": "甘蛰仙",
+      "claim": "若必呆板地在大路旁边建立一个“至善之路从此去”的指路碑耶？万一此碑被人打倒，行者其将何所适从？似此空空悬一客观的至善之标准，终觉难免弄到漫无着落。",
+      "target": "至善",
+      "claim_type": "价值评价",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "若必呆板地在大路旁边建立一个“至善之路从此去”的指路碑耶？万一此碑被人打倒，行者其将何所适从？似此空空悬一客观的至善之标准，终觉难免弄到漫无着落。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c7",
+      "speaker": "甘蛰仙",
+      "claim": "其与吾所谈之善端，纯从自觉心发出者，固已迥乎不同矣。",
+      "target": "善端",
+      "claim_type": "定义性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "其与吾所谈之善端，纯从自觉心发出者，固已迥乎不同矣。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c8",
+      "speaker": "甘蛰仙",
+      "claim": "顾此批判的自由及选择的自由，属道德论耶？抑属本体论耶？",
+      "target": "自由",
+      "claim_type": "问题提出",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "顾此批判的自由及选择的自由，属道德论耶？抑属本体论耶？",
+      "confidence": 0.9
+    }
+  ],
+  "relations": [
+    {
+      "id": "r1",
+      "head": "强迫作用",
+      "head_type": "概念",
+      "relation": "导致",
+      "tail": "不知所择",
+      "tail_type": "概念",
+      "polarity": "negative",
+      "evidence": "强迫作用，能使人对于善恶不知所择",
+      "confidence": 0.9
+    }
+  ],
+  "definitions": [
+    {
+      "id": "def1",
+      "term": "良知",
+      "definition": "当起心动念的时候，自己便觉得那念头是善是恶。这种知善知恶的觉心，就是良知。",
+      "evidence": "当起心动念的时候，自己便觉得那念头是善是恶。这种知善知恶的觉心，就是良知。",
+      "confidence": 0.95
+    },
+    {
+      "id": "def2",
+      "term": "致良知",
+      "definition": "按照自己固有的准则，提起来，做将去，就是致良知，——就是知行合一，——就是我知我行的真自由。",
+      "evidence": "按照自己固有的准则，提起来，做将去，就是致良知，——就是知行合一，——就是我知我行的真自由。",
+      "confidence": 0.95
+    },
+    {
+      "id": "def3",
+      "term": "善端",
+      "definition": "纯从自觉心发出者",
+      "evidence": "其与吾所谈之善端，纯从自觉心发出者，固已迥乎不同矣。",
+      "confidence": 0.9
+    }
+  ],
+  "citations": [],
+  "rhetorical_devices": [
+    {
+      "id": "rh1",
+      "expression": "此条长路，恐难坦然走过",
+      "device_type": "比喻",
+      "literal_target": "修养或道德实践的过程",
+      "function": "形象化地说明修养之路的艰难",
+      "evidence": "此条长路，恐难坦然走过。",
+      "confidence": 0.85
+    },
+    {
+      "id": "rh2",
+      "expression": "呆板地在大路旁边建立一个“至善之路从此去”的指路碑",
+      "device_type": "比喻",
+      "literal_target": "客观的至善标准",
+      "function": "讽刺客观至善标准的僵化和不可靠",
+      "evidence": "若必呆板地在大路旁边建立一个“至善之路从此去”的指路碑耶？",
+      "confidence": 0.9
+    },
+    {
+      "id": "rh3",
+      "expression": "此碑被人打倒",
+      "device_type": "比喻",
+      "literal_target": "客观至善标准被质疑或推翻",
+      "function": "说明客观标准的不稳定性",
+      "evidence": "万一此碑被人打倒，行者其将何所适从？",
+      "confidence": 0.9
+    }
+  ],
+  "uncertainties": [
+    {
+      "item": "“十一年十四日”的具体含义",
+      "reason": "文本中仅出现“十一年十四日”，无法确定是民国纪年还是其他纪年，以及具体日期格式。"
+    },
+    {
+      "item": "“先民”具体指谁",
+      "reason": "文本中仅说“先民所谓‘为仁由己’”，未明确具体人物或著作。"
+    }
+  ],
+  "_meta": {
+    "status": "success",
+    "stage": "extract",
+    "model": "deepseek-ai/DeepSeek-V4-Flash",
+    "base_url": "https://api.siliconflow.cn/v1",
+    "prompt_version": "extract_prompt_v2.0",
+    "schema_version": "lite_v2.0",
+    "segment_id": "甘蛰仙_000_6b354fa0_s0001",
+    "article_id": "甘蛰仙_000_6b354fa0",
+    "char_start": 516,
+    "char_end": 1097,
+    "raw_path": "E:\\1研究生\\岭南大学\\论文毕业\\capstone\\资料\\新的内容开始了\\local_upload\\kg_runs\\甘蛰仙\\raw_outputs\\extract\\甘蛰仙_000_6b354fa0_s0001.txt",
+    "parsed_at": "2026-05-19T21:03:36",
+    "started_at": "2026-05-19T21:00:40",
+    "elapsed_seconds": 175.857,
+    "strict_evidence_check": true,
+    "drop_unsupported_evidence": true,
+    "request_timeout_seconds": 180
+  }
+}

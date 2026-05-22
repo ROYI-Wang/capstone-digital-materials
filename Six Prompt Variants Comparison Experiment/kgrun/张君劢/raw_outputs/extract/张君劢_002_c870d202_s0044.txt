@@ -1,0 +1,175 @@
+{
+  "metadata": {
+    "schema_version": "lite_v2.0",
+    "article_id": "张君劢_002_c870d202",
+    "article_title": "再论人生观与科学并答丁在君",
+    "source_author": "张君劢",
+    "section_title": "",
+    "section_author": "",
+    "segment_id": "张君劢_002_c870d202_s0044",
+    "segment_index": 44,
+    "source_file": "E:\\1研究生\\岭南大学\\论文毕业\\capstone\\资料\\新的内容开始了\\local_upload\\input_w3\\张君劢.txt"
+  },
+  "entities": [
+    {
+      "id": "e1",
+      "name": "张君劢",
+      "canonical_name": "张君劢",
+      "type": "人物",
+      "evidence": "吾心中所注意者",
+      "confidence": 1.0
+    },
+    {
+      "id": "e2",
+      "name": "丁在君",
+      "canonical_name": "丁在君",
+      "type": "人物",
+      "evidence": "而岂在君所能引为护身符者",
+      "confidence": 1.0
+    },
+    {
+      "id": "e3",
+      "name": "科学家",
+      "canonical_name": "科学家",
+      "type": "阵营/群体",
+      "evidence": "科学家虽恶玄学",
+      "confidence": 1.0
+    },
+    {
+      "id": "e4",
+      "name": "玄学",
+      "canonical_name": "玄学",
+      "type": "概念",
+      "evidence": "科学家虽恶玄学",
+      "confidence": 1.0
+    },
+    {
+      "id": "e5",
+      "name": "《戏考》",
+      "canonical_name": "戏考",
+      "type": "著作",
+      "evidence": "试查市上之《戏考》（已出三十三期，为旧剧最大之丛书）",
+      "confidence": 1.0
+    },
+    {
+      "id": "e6",
+      "name": "爱情",
+      "canonical_name": "爱情",
+      "type": "概念",
+      "evidence": "其中与男女爱情有关者，仅六十一种",
+      "confidence": 1.0
+    }
+  ],
+  "claims": [
+    {
+      "id": "c1",
+      "speaker": "张君劢",
+      "claim": "爱为内容，是正可作为吾言之左证，而岂在君所能引为护身符者",
+      "target": "丁在君",
+      "claim_type": "反驳性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "爱为内容，是正可作为吾言之左证，而岂在君所能引为护身符者",
+      "confidence": 1.0
+    },
+    {
+      "id": "c2",
+      "speaker": "张君劢",
+      "claim": "皮黄戏常演者约四百出，其中以爱情为内容者，衡诸吾所举十之二三之比例，犹为过甚言之",
+      "target": "",
+      "claim_type": "论据",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "吾心中所注意者，尤在皮黄戏常演者约四百出，其中以爱情为内容者，衡诸吾所举十之二三之比例，犹为过甚言之",
+      "confidence": 0.9
+    },
+    {
+      "id": "c3",
+      "speaker": "张君劢",
+      "claim": "前三十册，共剧三百二十五种，其中与男女爱情有关者，仅六十一种，故曰尚不逮十之二三",
+      "target": "",
+      "claim_type": "论据",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "前三十册，共剧三百二十五种，其中与男女爱情有关者，仅六十一种，故曰尚不逮十之二三",
+      "confidence": 0.9
+    },
+    {
+      "id": "c4",
+      "speaker": "张君劢",
+      "claim": "科学家虽恶玄学，其能并此证据而抹杀之",
+      "target": "科学家",
+      "claim_type": "论战策略批评",
+      "claim_status": "作者讽刺性归纳",
+      "polarity": "negative",
+      "evidence": "科学家虽恶玄学，其能并此证据而抹杀之",
+      "confidence": 0.9
+    }
+  ],
+  "relations": [
+    {
+      "id": "r1",
+      "head": "张君劢",
+      "head_type": "人物",
+      "relation": "反驳",
+      "relation_subtype": "证据不足批评",
+      "tail": "丁在君",
+      "tail_type": "人物",
+      "polarity": "negative",
+      "evidence": "爱为内容，是正可作为吾言之左证，而岂在君所能引为护身符者",
+      "confidence": 1.0
+    },
+    {
+      "id": "r2",
+      "head": "《戏考》",
+      "head_type": "著作",
+      "relation": "作为论据支持",
+      "relation_subtype": "不适用",
+      "tail": "张君劢",
+      "tail_type": "人物",
+      "polarity": "positive",
+      "evidence": "试查市上之《戏考》（已出三十三期，为旧剧最大之丛书），前三十册，共剧三百二十五种，其中与男女爱情有关者，仅六十一种，故曰尚不逮十之二三",
+      "confidence": 0.9
+    },
+    {
+      "id": "r3",
+      "head": "科学家",
+      "head_type": "阵营/群体",
+      "relation": "批评",
+      "relation_subtype": "讽刺",
+      "tail": "玄学",
+      "tail_type": "概念",
+      "polarity": "negative",
+      "evidence": "科学家虽恶玄学",
+      "confidence": 0.9
+    }
+  ],
+  "definitions": [],
+  "citations": [],
+  "rhetorical_devices": [
+    {
+      "id": "rh1",
+      "expression": "护身符",
+      "device_type": "比喻",
+      "literal_target": "丁在君引用的论据",
+      "function": "讽刺丁在君将爱情内容作为自己的论据",
+      "evidence": "而岂在君所能引为护身符者",
+      "confidence": 0.9
+    },
+    {
+      "id": "rh2",
+      "expression": "其能并此证据而抹杀之",
+      "device_type": "讽刺",
+      "literal_target": "科学家对证据的忽视",
+      "function": "讽刺科学家因厌恶玄学而可能无视证据",
+      "evidence": "科学家虽恶玄学，其能并此证据而抹杀之",
+      "confidence": 0.9
+    }
+  ],
+  "uncertainties": [
+    {
+      "item": "张君劢所举的“十之二三之比例”的具体出处和含义",
+      "reason": "文本中未明确说明该比例的具体来源和所指内容"
+    }
+  ]
+}

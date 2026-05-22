@@ -1,0 +1,452 @@
+{
+  "metadata": {
+    "schema_version": "lite_v2.0",
+    "article_id": "陈独秀_001_d263aca8",
+    "article_title": "答适之",
+    "source_author": "陈独秀",
+    "section_title": "方今国中竟言新文化，而文化转移之枢纽，不外乎人生观。吾有吾之文化，西洋有西洋之文化。西洋之有益者如何采之，有害者如何革除之；凡此取舍之间，皆决之于观点。观点定，而后精神上之思潮、物质上之制度，乃可按",
+    "section_author": "方今国中竟言新文化，而文化转移之枢纽，不外乎人生观。吾有吾之文化，西洋有西洋之文化。西洋之有益者如何采之，有害者如何革除之；凡此取舍之间，皆决之于观点。观点定，而后精神上之思潮、物质上之制度，乃可",
+    "segment_id": "陈独秀_001_d263aca8_s0010",
+    "segment_index": 10,
+    "source_file": "E:\\1研究生\\岭南大学\\论文毕业\\capstone\\资料\\新的内容开始了\\local_upload\\input_w2\\陈独秀.txt"
+  },
+  "entities": [
+    {
+      "id": "e1",
+      "name": "印度人",
+      "canonical_name": "印度人",
+      "type": "阵营/群体",
+      "evidence": "此印度人好冥想之性质为之也",
+      "confidence": 0.9
+    },
+    {
+      "id": "e2",
+      "name": "佛教",
+      "canonical_name": "佛教",
+      "type": "概念",
+      "evidence": "断定佛教之内容不过尔尔",
+      "confidence": 0.9
+    },
+    {
+      "id": "e3",
+      "name": "动机",
+      "canonical_name": "动机",
+      "type": "概念",
+      "evidence": "动机为一事，人生观又为一事",
+      "confidence": 0.9
+    },
+    {
+      "id": "e4",
+      "name": "人生观",
+      "canonical_name": "人生观",
+      "type": "概念",
+      "evidence": "动机为一事，人生观又为一事",
+      "confidence": 0.9
+    },
+    {
+      "id": "e5",
+      "name": "叔本华",
+      "canonical_name": "叔本华",
+      "type": "人物",
+      "evidence": "又如叔本华之人生观",
+      "confidence": 0.9
+    },
+    {
+      "id": "e6",
+      "name": "科学",
+      "canonical_name": "科学",
+      "type": "概念",
+      "evidence": "科学为因果律所支配",
+      "confidence": 0.9
+    },
+    {
+      "id": "e7",
+      "name": "因果律",
+      "canonical_name": "因果律",
+      "type": "概念",
+      "evidence": "科学为因果律所支配",
+      "confidence": 0.9
+    },
+    {
+      "id": "e8",
+      "name": "自由意志",
+      "canonical_name": "自由意志",
+      "type": "概念",
+      "evidence": "人生观则为自由意志的",
+      "confidence": 0.9
+    },
+    {
+      "id": "e9",
+      "name": "物质现象",
+      "canonical_name": "物质现象",
+      "type": "概念",
+      "evidence": "物质现象之第一公例，曰有因必有果",
+      "confidence": 0.9
+    },
+    {
+      "id": "e10",
+      "name": "因果",
+      "canonical_name": "因果",
+      "type": "概念",
+      "evidence": "则因果为之也",
+      "confidence": 0.9
+    },
+    {
+      "id": "e11",
+      "name": "心理的生理学",
+      "canonical_name": "心理的生理学",
+      "type": "概念",
+      "evidence": "学者所称为心理的生理学者",
+      "confidence": 0.9
+    },
+    {
+      "id": "e12",
+      "name": "心理现象",
+      "canonical_name": "心理现象",
+      "type": "概念",
+      "evidence": "纯粹之心理现象则反是",
+      "confidence": 0.9
+    },
+    {
+      "id": "e13",
+      "name": "孔",
+      "canonical_name": "孔子",
+      "type": "人物",
+      "evidence": "孔席何以不暇暖",
+      "confidence": 0.9
+    },
+    {
+      "id": "e14",
+      "name": "墨",
+      "canonical_name": "墨子",
+      "type": "人物",
+      "evidence": "墨突何以不得黔",
+      "confidence": 0.9
+    },
+    {
+      "id": "e15",
+      "name": "耶稣",
+      "canonical_name": "耶稣",
+      "type": "人物",
+      "evidence": "耶稣何以死于十字架",
+      "confidence": 0.9
+    },
+    {
+      "id": "e16",
+      "name": "释迦",
+      "canonical_name": "释迦牟尼",
+      "type": "人物",
+      "evidence": "释迦何以苦身修行",
+      "confidence": 0.9
+    },
+    {
+      "id": "e17",
+      "name": "良心",
+      "canonical_name": "良心",
+      "type": "概念",
+      "evidence": "皆出于良心之自动",
+      "confidence": 0.9
+    },
+    {
+      "id": "e18",
+      "name": "悔",
+      "canonical_name": "悔",
+      "type": "概念",
+      "evidence": "所谓悔也",
+      "confidence": 0.9
+    },
+    {
+      "id": "e19",
+      "name": "改过自新",
+      "canonical_name": "改过自新",
+      "type": "概念",
+      "evidence": "改过自新也",
+      "confidence": 0.9
+    },
+    {
+      "id": "e20",
+      "name": "责任心",
+      "canonical_name": "责任心",
+      "type": "概念",
+      "evidence": "责任心也",
+      "confidence": 0.9
+    },
+    {
+      "id": "e21",
+      "name": "人格之单一性",
+      "canonical_name": "人格之单一性",
+      "type": "概念",
+      "evidence": "人生观起于人格之单一性",
+      "confidence": 0.9
+    },
+    {
+      "id": "e22",
+      "name": "自然界变化现象之统一性",
+      "canonical_name": "自然界变化现象之统一性",
+      "type": "概念",
+      "evidence": "自然界变化现象之统一性",
+      "confidence": 0.9
+    }
+  ],
+  "claims": [
+    {
+      "id": "c1",
+      "speaker": "作者",
+      "claim": "动机为一事，人生观又为一事，人生观是全体，不容于分割中求之",
+      "target": "动机",
+      "claim_type": "定义性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "动机为一事，人生观又为一事。人生观者，全体也，不容于分割中求之也。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c2",
+      "speaker": "作者",
+      "claim": "人生观之是非，不因其所包含之动机而定",
+      "target": "人生观",
+      "claim_type": "定义性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "人生观之是非，不因其所包含之动机而定。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c3",
+      "speaker": "作者",
+      "claim": "科学为因果律所支配，而人生观则为自由意志的",
+      "target": "科学",
+      "claim_type": "定义性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "科学为因果律所支配，而人生观则为自由意志的。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c4",
+      "speaker": "作者",
+      "claim": "物质现象之第一公例，曰有因必有果",
+      "target": "物质现象",
+      "claim_type": "知识论主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "物质现象之第一公例，曰有因必有果。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c5",
+      "speaker": "作者",
+      "claim": "关于物质全部，无往而非因果之支配",
+      "target": "物质",
+      "claim_type": "知识论主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "关于物质全部，无往而非因果之支配。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c6",
+      "speaker": "作者",
+      "claim": "纯粹之心理现象则反是，而尤以人生观为甚，皆出于良心之自动，而决非有使之然者",
+      "target": "心理现象",
+      "claim_type": "知识论主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "若夫纯粹之心理现象则反是，而尤以人生观为甚。凡此者，皆出于良心之自动，而决非有使之然者也。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c7",
+      "speaker": "作者",
+      "claim": "悔、改过自新、责任心亦非因果律所能解释",
+      "target": "因果律",
+      "claim_type": "知识论主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "所谓悔也，改过自新也，责任心也，亦非因果律所能解释",
+      "confidence": 0.9
+    },
+    {
+      "id": "c8",
+      "speaker": "作者",
+      "claim": "科学起于对象之相同现象，而人生观起于人格之单一性",
+      "target": "科学",
+      "claim_type": "定义性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "科学起于对象之相同现象，而人生观起于人格之单一性。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c9",
+      "speaker": "作者",
+      "claim": "科学中有一最大之原则，曰自然界变化现象之统一性",
+      "target": "科学",
+      "claim_type": "知识论主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "科学中有一最大之原则，曰自然界变化现象之统一性。",
+      "confidence": 0.9
+    }
+  ],
+  "relations": [
+    {
+      "id": "r1",
+      "head": "动机",
+      "head_type": "概念",
+      "relation": "区分",
+      "relation_subtype": "概念澄清",
+      "tail": "人生观",
+      "tail_type": "概念",
+      "polarity": "positive",
+      "evidence": "动机为一事，人生观又为一事。",
+      "confidence": 0.9
+    },
+    {
+      "id": "r2",
+      "head": "科学",
+      "head_type": "概念",
+      "relation": "区分",
+      "relation_subtype": "概念澄清",
+      "tail": "人生观",
+      "tail_type": "概念",
+      "polarity": "positive",
+      "evidence": "科学为因果律所支配，而人生观则为自由意志的。",
+      "confidence": 0.9
+    },
+    {
+      "id": "r3",
+      "head": "科学",
+      "head_type": "概念",
+      "relation": "区分",
+      "relation_subtype": "概念澄清",
+      "tail": "人生观",
+      "tail_type": "概念",
+      "polarity": "positive",
+      "evidence": "科学起于对象之相同现象，而人生观起于人格之单一性。",
+      "confidence": 0.9
+    },
+    {
+      "id": "r4",
+      "head": "因果律",
+      "head_type": "概念",
+      "relation": "属于",
+      "relation_subtype": "不适用",
+      "tail": "科学",
+      "tail_type": "概念",
+      "polarity": "positive",
+      "evidence": "科学为因果律所支配",
+      "confidence": 0.9
+    },
+    {
+      "id": "r5",
+      "head": "自由意志",
+      "head_type": "概念",
+      "relation": "属于",
+      "relation_subtype": "不适用",
+      "tail": "人生观",
+      "tail_type": "概念",
+      "polarity": "positive",
+      "evidence": "人生观则为自由意志的",
+      "confidence": 0.9
+    },
+    {
+      "id": "r6",
+      "head": "物质现象",
+      "head_type": "概念",
+      "relation": "属于",
+      "relation_subtype": "不适用",
+      "tail": "因果",
+      "tail_type": "概念",
+      "polarity": "positive",
+      "evidence": "物质现象之第一公例，曰有因必有果。譬诸潮汐与月之关系，则因果为之也。",
+      "confidence": 0.9
+    },
+    {
+      "id": "r7",
+      "head": "心理现象",
+      "head_type": "概念",
+      "relation": "区分",
+      "relation_subtype": "概念澄清",
+      "tail": "因果",
+      "tail_type": "概念",
+      "polarity": "negative",
+      "evidence": "若夫纯粹之心理现象则反是，而尤以人生观为甚。凡此者，皆出于良心之自动，而决非有使之然者也。",
+      "confidence": 0.9
+    },
+    {
+      "id": "r8",
+      "head": "悔",
+      "head_type": "概念",
+      "relation": "区分",
+      "relation_subtype": "概念澄清",
+      "tail": "因果律",
+      "tail_type": "概念",
+      "polarity": "negative",
+      "evidence": "所谓悔也，改过自新也，责任心也，亦非因果律所能解释",
+      "confidence": 0.9
+    },
+    {
+      "id": "r9",
+      "head": "改过自新",
+      "head_type": "概念",
+      "relation": "区分",
+      "relation_subtype": "概念澄清",
+      "tail": "因果律",
+      "tail_type": "概念",
+      "polarity": "negative",
+      "evidence": "所谓悔也，改过自新也，责任心也，亦非因果律所能解释",
+      "confidence": 0.9
+    },
+    {
+      "id": "r10",
+      "head": "责任心",
+      "head_type": "概念",
+      "relation": "区分",
+      "relation_subtype": "概念澄清",
+      "tail": "因果律",
+      "tail_type": "概念",
+      "polarity": "negative",
+      "evidence": "所谓悔也，改过自新也，责任心也，亦非因果律所能解释",
+      "confidence": 0.9
+    },
+    {
+      "id": "r11",
+      "head": "科学",
+      "head_type": "概念",
+      "relation": "包含",
+      "relation_subtype": "不适用",
+      "tail": "自然界变化现象之统一性",
+      "tail_type": "概念",
+      "polarity": "positive",
+      "evidence": "科学中有一最大之原则，曰自然界变化现象之统一性。",
+      "confidence": 0.9
+    }
+  ],
+  "definitions": [
+    {
+      "id": "def1",
+      "term": "人生观",
+      "definition": "人生观是全体，不容于分割中求之，其是非不因所包含的动机而定。",
+      "evidence": "人生观者，全体也，不容于分割中求之也。人生观之是非，不因其所包含之动机而定。",
+      "confidence": 0.9
+    },
+    {
+      "id": "def2",
+      "term": "科学",
+      "definition": "科学为因果律所支配，起于对象之相同现象，其最大原则是自然界变化现象之统一性。",
+      "evidence": "科学为因果律所支配。科学起于对象之相同现象。科学中有一最大之原则，曰自然界变化现象之统一性。",
+      "confidence": 0.9
+    },
+    {
+      "id": "def3",
+      "term": "人生观",
+      "definition": "人生观是自由意志的，起于人格之单一性。",
+      "evidence": "人生观则为自由意志的。人生观起于人格之单一性。",
+      "confidence": 0.9
+    }
+  ],
+  "citations": [],
+  "rhetorical_devices": [],
+  "uncertainties": []
+}

@@ -1,0 +1,210 @@
+{
+  "metadata": {
+    "schema_version": "lite_v2.0",
+    "article_id": "陈独秀_001_d263aca8",
+    "article_title": "答适之",
+    "source_author": "陈独秀",
+    "section_title": "方今国中竟言新文化，而文化转移之枢纽，不外乎人生观。吾有吾之文化，西洋有西洋之文化。西洋之有益者如何采之，有害者如何革除之；凡此取舍之间，皆决之于观点。观点定，而后精神上之思潮、物质上之制度，乃可按",
+    "section_author": "方今国中竟言新文化，而文化转移之枢纽，不外乎人生观。吾有吾之文化，西洋有西洋之文化。西洋之有益者如何采之，有害者如何革除之；凡此取舍之间，皆决之于观点。观点定，而后精神上之思潮、物质上之制度，乃可",
+    "segment_id": "陈独秀_001_d263aca8_s0015",
+    "segment_index": 15,
+    "source_file": "E:\\1研究生\\岭南大学\\论文毕业\\capstone\\资料\\新的内容开始了\\local_upload\\input_w2\\陈独秀.txt"
+  },
+  "entities": [
+    {
+      "id": "e1",
+      "name": "人生观",
+      "canonical_name": "人生观",
+      "type": "概念",
+      "evidence": "此则人生观之关系于文化者所以若是其大也",
+      "confidence": 0.9
+    },
+    {
+      "id": "e2",
+      "name": "文化",
+      "canonical_name": "文化",
+      "type": "概念",
+      "evidence": "此则人生观之关系于文化者所以若是其大也",
+      "confidence": 0.9
+    },
+    {
+      "id": "e3",
+      "name": "观点",
+      "canonical_name": "观点",
+      "type": "概念",
+      "evidence": "凡此取舍之间，皆决之于观点",
+      "confidence": 0.9
+    },
+    {
+      "id": "e4",
+      "name": "精神上之思潮",
+      "canonical_name": "精神上之思潮",
+      "type": "概念",
+      "evidence": "观点定，而后精神上之思潮、物质上之制度，乃可按图而索",
+      "confidence": 0.8
+    },
+    {
+      "id": "e5",
+      "name": "物质上之制度",
+      "canonical_name": "物质上之制度",
+      "type": "概念",
+      "evidence": "观点定，而后精神上之思潮、物质上之制度，乃可按图而索",
+      "confidence": 0.8
+    },
+    {
+      "id": "e6",
+      "name": "诸君",
+      "canonical_name": "诸君",
+      "type": "阵营/群体",
+      "evidence": "诸君学于中国，不久即至美洲，将来沟通文化之责即在诸君之双肩上",
+      "confidence": 0.8
+    },
+    {
+      "id": "e7",
+      "name": "《清华周刊》",
+      "canonical_name": "清华周刊",
+      "type": "著作",
+      "evidence": "转录北京《清华周刊》二七二期",
+      "confidence": 0.9
+    }
+  ],
+  "claims": [
+    {
+      "id": "c1",
+      "speaker": "陈独秀",
+      "claim": "凡此取舍之间，皆决之于观点",
+      "target": "文化取舍",
+      "claim_type": "方法论主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "凡此取舍之间，皆决之于观点",
+      "confidence": 0.9
+    },
+    {
+      "id": "c2",
+      "speaker": "陈独秀",
+      "claim": "观点定，而后精神上之思潮、物质上之制度，乃可按图而索",
+      "target": "观点",
+      "claim_type": "方法论主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "观点定，而后精神上之思潮、物质上之制度，乃可按图而索",
+      "confidence": 0.9
+    },
+    {
+      "id": "c3",
+      "speaker": "陈独秀",
+      "claim": "此则人生观之关系于文化者所以若是其大也",
+      "target": "人生观与文化的关系",
+      "claim_type": "结论性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "此则人生观之关系于文化者所以若是其大也",
+      "confidence": 0.9
+    },
+    {
+      "id": "c4",
+      "speaker": "陈独秀",
+      "claim": "将来沟通文化之责即在诸君之双肩上",
+      "target": "诸君",
+      "claim_type": "价值评价",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "将来沟通文化之责即在诸君之双肩上",
+      "confidence": 0.9
+    },
+    {
+      "id": "c5",
+      "speaker": "陈独秀",
+      "claim": "所以敢望诸君对此问题时时放在心头，不可于一场演说后便尔了事也",
+      "target": "诸君",
+      "claim_type": "教育主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "所以敢望诸君对此问题时时放在心头，不可于一场演说后便尔了事也",
+      "confidence": 0.9
+    }
+  ],
+  "relations": [
+    {
+      "id": "r1",
+      "head": "观点",
+      "head_type": "概念",
+      "relation": "导致",
+      "tail": "精神上之思潮",
+      "tail_type": "概念",
+      "polarity": "positive",
+      "evidence": "观点定，而后精神上之思潮、物质上之制度，乃可按图而索",
+      "confidence": 0.8
+    },
+    {
+      "id": "r2",
+      "head": "观点",
+      "head_type": "概念",
+      "relation": "导致",
+      "tail": "物质上之制度",
+      "tail_type": "概念",
+      "polarity": "positive",
+      "evidence": "观点定，而后精神上之思潮、物质上之制度，乃可按图而索",
+      "confidence": 0.8
+    },
+    {
+      "id": "r3",
+      "head": "人生观",
+      "head_type": "概念",
+      "relation": "导致",
+      "tail": "文化",
+      "tail_type": "概念",
+      "polarity": "positive",
+      "evidence": "此则人生观之关系于文化者所以若是其大也",
+      "confidence": 0.8
+    }
+  ],
+  "definitions": [],
+  "citations": [],
+  "rhetorical_devices": [
+    {
+      "id": "rh1",
+      "expression": "在诸君之双肩上",
+      "device_type": "比喻",
+      "literal_target": "诸君承担沟通文化的责任",
+      "function": "强调责任重大",
+      "evidence": "将来沟通文化之责即在诸君之双肩上",
+      "confidence": 0.8
+    },
+    {
+      "id": "rh2",
+      "expression": "按图而索",
+      "device_type": "比喻",
+      "literal_target": "根据观点确定精神思潮和物质制度",
+      "function": "说明观点对文化要素的决定性作用",
+      "evidence": "观点定，而后精神上之思潮、物质上之制度，乃可按图而索",
+      "confidence": 0.8
+    }
+  ],
+  "uncertainties": [
+    {
+      "item": "section_author 字段内容与 section_title 重复，且包含完整句子，可能为数据错误",
+      "reason": "section_author 字段内容与 section_title 字段内容完全一致，且均为长句，不符合通常的元数据格式"
+    }
+  ],
+  "_meta": {
+    "status": "success",
+    "stage": "extract",
+    "model": "deepseek-ai/DeepSeek-V4-Flash",
+    "base_url": "https://api.siliconflow.cn/v1",
+    "prompt_version": "extract_prompt_v2.0",
+    "schema_version": "lite_v2.0",
+    "segment_id": "陈独秀_001_d263aca8_s0015",
+    "article_id": "陈独秀_001_d263aca8",
+    "char_start": 7351,
+    "char_end": 7513,
+    "raw_path": "E:\\1研究生\\岭南大学\\论文毕业\\capstone\\资料\\新的内容开始了\\local_upload\\kg_runs\\陈独秀\\raw_outputs\\extract\\陈独秀_001_d263aca8_s0015.txt",
+    "parsed_at": "2026-05-20T02:40:33",
+    "started_at": "2026-05-20T02:39:11",
+    "elapsed_seconds": 82.199,
+    "strict_evidence_check": true,
+    "drop_unsupported_evidence": true,
+    "request_timeout_seconds": 180
+  }
+}

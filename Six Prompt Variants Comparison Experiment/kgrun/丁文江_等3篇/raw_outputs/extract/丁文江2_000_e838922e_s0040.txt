@@ -1,0 +1,373 @@
+{
+  "metadata": {
+    "schema_version": "lite_v2.0",
+    "article_id": "丁文江2_000_e838922e",
+    "article_title": "玄学与科学——答张君劢",
+    "source_author": "丁文江",
+    "section_title": "",
+    "section_author": "",
+    "segment_id": "丁文江2_000_e838922e_s0040",
+    "segment_index": 40,
+    "source_file": "E:\\1研究生\\岭南大学\\论文毕业\\capstone\\资料\\新的内容开始了\\local_upload\\input_texts\\丁文江2.txt"
+  },
+  "entities": [
+    {
+      "id": "e1",
+      "name": "天才",
+      "canonical_name": "天才",
+      "type": "概念",
+      "evidence": "天才的各部分发展相称，能保存生活的常态",
+      "confidence": 0.9
+    },
+    {
+      "id": "e2",
+      "name": "常人",
+      "canonical_name": "常人",
+      "type": "概念",
+      "evidence": "天才痴子，同常人的分别，也是比较的，不是绝对的",
+      "confidence": 0.9
+    },
+    {
+      "id": "e3",
+      "name": "种族能力",
+      "canonical_name": "种族能力",
+      "type": "概念",
+      "evidence": "常人虽然长，然而他的长的程度是为种族能力所限制",
+      "confidence": 0.9
+    },
+    {
+      "id": "e4",
+      "name": "孔子",
+      "canonical_name": "孔子",
+      "type": "人物",
+      "evidence": "不相信有不学而能的孔子",
+      "confidence": 0.9
+    },
+    {
+      "id": "e5",
+      "name": "耶稣",
+      "canonical_name": "耶稣",
+      "type": "人物",
+      "evidence": "上帝产生的耶稣",
+      "confidence": 0.9
+    },
+    {
+      "id": "e6",
+      "name": "佛",
+      "canonical_name": "佛",
+      "type": "人物",
+      "evidence": "智慧无边的佛",
+      "confidence": 0.9
+    },
+    {
+      "id": "e7",
+      "name": "天才与常人的关系",
+      "canonical_name": "天才与常人的关系",
+      "type": "概念",
+      "evidence": "从天才与常人的关系，还可以推论两种重要的观念",
+      "confidence": 0.9
+    },
+    {
+      "id": "e8",
+      "name": "部分发展过度",
+      "canonical_name": "部分发展过度",
+      "type": "概念",
+      "evidence": "部分发展过度，失去了心理的平衡",
+      "confidence": 0.8
+    },
+    {
+      "id": "e9",
+      "name": "生活的常态",
+      "canonical_name": "生活的常态",
+      "type": "概念",
+      "evidence": "天才的各部分发展相称，能保存生活的常态",
+      "confidence": 0.8
+    },
+    {
+      "id": "e10",
+      "name": "长人",
+      "canonical_name": "长人",
+      "type": "概念",
+      "evidence": "长人矮子同常人是程度问题不是种类问题",
+      "confidence": 0.9
+    },
+    {
+      "id": "e11",
+      "name": "矮子",
+      "canonical_name": "矮子",
+      "type": "概念",
+      "evidence": "长人矮子同常人是程度问题不是种类问题",
+      "confidence": 0.9
+    },
+    {
+      "id": "e12",
+      "name": "痴子",
+      "canonical_name": "痴子",
+      "type": "概念",
+      "evidence": "天才痴子，同常人的分别，也是比较的，不是绝对的",
+      "confidence": 0.9
+    },
+    {
+      "id": "e13",
+      "name": "生物学",
+      "canonical_name": "生物学",
+      "type": "概念",
+      "evidence": "这是近七十年来生物学心理学的根本观念",
+      "confidence": 0.9
+    },
+    {
+      "id": "e14",
+      "name": "心理学",
+      "canonical_name": "心理学",
+      "type": "概念",
+      "evidence": "这是近七十年来生物学心理学的根本观念",
+      "confidence": 0.9
+    }
+  ],
+  "claims": [
+    {
+      "id": "c1",
+      "speaker": "丁文江",
+      "claim": "天才的各部分发展相称，能保存生活的常态",
+      "target": "天才",
+      "claim_type": "定义性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "天才的各部分发展相称，能保存生活的常态",
+      "confidence": 0.9
+    },
+    {
+      "id": "c2",
+      "speaker": "丁文江",
+      "claim": "长人矮子同常人是程度问题不是种类问题",
+      "target": "长人",
+      "claim_type": "定义性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "长人矮子同常人是程度问题不是种类问题",
+      "confidence": 0.9
+    },
+    {
+      "id": "c3",
+      "speaker": "丁文江",
+      "claim": "天才痴子，同常人的分别，也是比较的，不是绝对的",
+      "target": "天才",
+      "claim_type": "定义性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "天才痴子，同常人的分别，也是比较的，不是绝对的",
+      "confidence": 0.9
+    },
+    {
+      "id": "c4",
+      "speaker": "丁文江",
+      "claim": "常人虽然长，然而他的长的程度是为种族能力所限制",
+      "target": "常人",
+      "claim_type": "知识论主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "常人虽然长，然而他的长的程度是为种族能力所限制",
+      "confidence": 0.9
+    },
+    {
+      "id": "c5",
+      "speaker": "丁文江",
+      "claim": "世界上没有八尺九尺的长人",
+      "target": "长人",
+      "claim_type": "知识论主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "所以世界上没有八尺九尺的长人",
+      "confidence": 0.9
+    },
+    {
+      "id": "c6",
+      "speaker": "丁文江",
+      "claim": "长人的体格的系数如头骨的宽长，手臂的比例，等等，还是同寻常人一样",
+      "target": "长人",
+      "claim_type": "知识论主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "况且长人的体格的系数如头骨的宽长，手臂的比例，等等，还是同寻常人一样",
+      "confidence": 0.9
+    },
+    {
+      "id": "c7",
+      "speaker": "丁文江",
+      "claim": "天才的智慧，高出常人的程度，也是为种族能力所限制",
+      "target": "天才",
+      "claim_type": "知识论主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "天才的智慧，高出常人的程度，也是为种族能力所限制",
+      "confidence": 0.9
+    },
+    {
+      "id": "c8",
+      "speaker": "丁文江",
+      "claim": "他的心理同生理的组织也是同常人的是一类的机器",
+      "target": "天才",
+      "claim_type": "知识论主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "他的心理同生理的组织也是同常人的是一类的机器",
+      "confidence": 0.9
+    },
+    {
+      "id": "c9",
+      "speaker": "丁文江",
+      "claim": "这是近七十年来生物学心理学的根本观念，不是可以随便推翻的",
+      "target": "生物学",
+      "claim_type": "知识论主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "这是近七十年来生物学心理学的根本观念，不是可以随便推翻的",
+      "confidence": 0.9
+    },
+    {
+      "id": "c10",
+      "speaker": "丁文江",
+      "claim": "知道天才是为种族能力所限制，而且同常人的分别是程度的，不是种类的",
+      "target": "天才",
+      "claim_type": "知识论主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "知道天才是为种族能力所限制，而且同常人的分别是程度的，不是种类的",
+      "confidence": 0.9
+    },
+    {
+      "id": "c11",
+      "speaker": "丁文江",
+      "claim": "不相信有不学而能的孔子，上帝产生的耶稣，或是智慧无边的佛",
+      "target": "孔子",
+      "claim_type": "知识论主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "所以我们不相信有不学而能的孔子，上帝产生的耶稣，或是智慧无边的佛",
+      "confidence": 0.9
+    },
+    {
+      "id": "c12",
+      "speaker": "丁文江",
+      "claim": "世界上没有见过高与天齐的长人",
+      "target": "长人",
+      "claim_type": "知识论主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "正如世界上没有见过高与天齐的长人",
+      "confidence": 0.9
+    }
+  ],
+  "relations": [
+    {
+      "id": "r1",
+      "head": "天才",
+      "head_type": "概念",
+      "relation": "比较",
+      "relation_subtype": "不适用",
+      "tail": "常人",
+      "tail_type": "概念",
+      "polarity": "neutral",
+      "evidence": "天才痴子，同常人的分别，也是比较的，不是绝对的",
+      "confidence": 0.9
+    },
+    {
+      "id": "r2",
+      "head": "长人",
+      "head_type": "概念",
+      "relation": "比较",
+      "relation_subtype": "不适用",
+      "tail": "常人",
+      "tail_type": "概念",
+      "polarity": "neutral",
+      "evidence": "长人矮子同常人是程度问题不是种类问题",
+      "confidence": 0.9
+    },
+    {
+      "id": "r3",
+      "head": "天才",
+      "head_type": "概念",
+      "relation": "归因于",
+      "relation_subtype": "不适用",
+      "tail": "种族能力",
+      "tail_type": "概念",
+      "polarity": "neutral",
+      "evidence": "知道天才是为种族能力所限制",
+      "confidence": 0.9
+    },
+    {
+      "id": "r4",
+      "head": "常人",
+      "head_type": "概念",
+      "relation": "归因于",
+      "relation_subtype": "不适用",
+      "tail": "种族能力",
+      "tail_type": "概念",
+      "polarity": "neutral",
+      "evidence": "常人虽然长，然而他的长的程度是为种族能力所限制",
+      "confidence": 0.9
+    },
+    {
+      "id": "r5",
+      "head": "天才与常人的关系",
+      "head_type": "概念",
+      "relation": "导致",
+      "relation_subtype": "不适用",
+      "tail": "不相信有不学而能的孔子，上帝产生的耶稣，或是智慧无边的佛",
+      "tail_type": "观点",
+      "polarity": "positive",
+      "evidence": "从天才与常人的关系，还可以推论两种重要的观念：（一）知道天才是为种族能力所限制，而且同常人的分别是程度的，不是种类的，所以我们不相信有不学而能的孔子，上帝产生的耶稣，或是智慧无边的佛。",
+      "confidence": 0.9
+    }
+  ],
+  "definitions": [
+    {
+      "id": "def1",
+      "term": "天才",
+      "definition": "各部分发展相称，能保存生活的常态",
+      "evidence": "天才的各部分发展相称，能保存生活的常态",
+      "confidence": 0.9
+    },
+    {
+      "id": "def2",
+      "term": "天才与常人的分别",
+      "definition": "比较的，不是绝对的；程度的，不是种类的",
+      "evidence": "天才痴子，同常人的分别，也是比较的，不是绝对的",
+      "confidence": 0.9
+    },
+    {
+      "id": "def3",
+      "term": "长人矮子与常人的分别",
+      "definition": "程度问题不是种类问题",
+      "evidence": "长人矮子同常人是程度问题不是种类问题",
+      "confidence": 0.9
+    }
+  ],
+  "citations": [],
+  "rhetorical_devices": [
+    {
+      "id": "rh1",
+      "expression": "他的心理同生理的组织也是同常人的是一类的机器",
+      "device_type": "比喻",
+      "literal_target": "天才的心理与生理组织",
+      "function": "用机器比喻说明天才与常人本质相同，支持其程度差异而非种类差异的论点",
+      "evidence": "他的心理同生理的组织也是同常人的是一类的机器",
+      "confidence": 0.9
+    },
+    {
+      "id": "rh2",
+      "expression": "高与天齐的长人",
+      "device_type": "夸张",
+      "literal_target": "长人",
+      "function": "用夸张的比喻说明不存在绝对超越常人的天才，支持其程度差异的论点",
+      "evidence": "正如世界上没有见过高与天齐的长人",
+      "confidence": 0.9
+    }
+  ],
+  "uncertainties": [
+    {
+      "item": "部分发展过度，失去了心理的平衡",
+      "reason": "文本未明确说明这是指天才还是痴子，无法确定归属"
+    }
+  ]
+}

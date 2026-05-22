@@ -1,0 +1,371 @@
+{
+  "metadata": {
+    "schema_version": "lite_v2.0",
+    "article_id": "张东荪_000_a9bf05ee",
+    "article_title": "劳而无功 —— 评丁在君先生口中的科学",
+    "source_author": "张东荪",
+    "section_title": "更举一个好例，这个例就是丁先生的话。丁先生说柏格森说心的绵延如雪的堆积完全是比喻，不能算数。诚然，但请问丁先生为何对于马赫所说思想和天响雷一样（按",
+    "section_author": "更举一个好例，这个例就是丁先生的话。丁先生说柏格森说心的绵延如雪的堆积完全是比喻，不能算数。诚然，但请问丁先生为何对于马赫所说思想和天响雷一样（",
+    "segment_id": "张东荪_000_a9bf05ee_s0006",
+    "segment_index": 6,
+    "source_file": "E:\\1研究生\\岭南大学\\论文毕业\\capstone\\资料\\新的内容开始了\\local_upload\\input_w0\\张东荪.txt"
+  },
+  "entities": [
+    {
+      "id": "e1",
+      "name": "丁在君",
+      "canonical_name": "丁文江",
+      "type": "人物",
+      "evidence": "丁先生",
+      "confidence": 0.9
+    },
+    {
+      "id": "e2",
+      "name": "张东荪",
+      "canonical_name": "张东荪",
+      "type": "人物",
+      "evidence": "我",
+      "confidence": 0.9
+    },
+    {
+      "id": "e3",
+      "name": "皮尔逊",
+      "canonical_name": "皮尔逊",
+      "type": "人物",
+      "evidence": "皮尔逊",
+      "confidence": 0.9
+    },
+    {
+      "id": "e4",
+      "name": "梁任公",
+      "canonical_name": "梁启超",
+      "type": "人物",
+      "evidence": "梁任公先生",
+      "confidence": 0.9
+    },
+    {
+      "id": "e5",
+      "name": "科学",
+      "canonical_name": "科学",
+      "type": "概念",
+      "evidence": "科学",
+      "confidence": 0.9
+    },
+    {
+      "id": "e6",
+      "name": "科学公例",
+      "canonical_name": "科学公例",
+      "type": "概念",
+      "evidence": "科学公例",
+      "confidence": 0.9
+    },
+    {
+      "id": "e7",
+      "name": "事实",
+      "canonical_name": "事实",
+      "type": "概念",
+      "evidence": "事实",
+      "confidence": 0.9
+    },
+    {
+      "id": "e8",
+      "name": "分类",
+      "canonical_name": "分类",
+      "type": "概念",
+      "evidence": "分类",
+      "confidence": 0.9
+    },
+    {
+      "id": "e9",
+      "name": "秩序",
+      "canonical_name": "秩序",
+      "type": "概念",
+      "evidence": "秩序",
+      "confidence": 0.9
+    },
+    {
+      "id": "e10",
+      "name": "常识",
+      "canonical_name": "常识",
+      "type": "概念",
+      "evidence": "常识",
+      "confidence": 0.9
+    },
+    {
+      "id": "e11",
+      "name": "物理学",
+      "canonical_name": "物理学",
+      "type": "概念",
+      "evidence": "物理学",
+      "confidence": 0.9
+    },
+    {
+      "id": "e12",
+      "name": "相对论",
+      "canonical_name": "相对论",
+      "type": "概念",
+      "evidence": "相对论",
+      "confidence": 0.9
+    },
+    {
+      "id": "e13",
+      "name": "植物学",
+      "canonical_name": "植物学",
+      "type": "概念",
+      "evidence": "植物学",
+      "confidence": 0.9
+    },
+    {
+      "id": "e14",
+      "name": "动物学",
+      "canonical_name": "动物学",
+      "type": "概念",
+      "evidence": "动物学",
+      "confidence": 0.9
+    },
+    {
+      "id": "e15",
+      "name": "植物分类学",
+      "canonical_name": "植物分类学",
+      "type": "概念",
+      "evidence": "植物分类学",
+      "confidence": 0.9
+    },
+    {
+      "id": "e16",
+      "name": "代替说",
+      "canonical_name": "代替说",
+      "type": "观点",
+      "evidence": "代替说",
+      "confidence": 0.9
+    }
+  ],
+  "claims": [
+    {
+      "id": "c1",
+      "speaker": "丁在君",
+      "claim": "科学是拿简明的话概括许多事实",
+      "target": "科学",
+      "claim_type": "定义性主张",
+      "claim_status": "作者概括",
+      "polarity": "neutral",
+      "evidence": "拿简明的话概括许多事实",
+      "confidence": 0.9
+    },
+    {
+      "id": "c2",
+      "speaker": "丁在君",
+      "claim": "科学是对事实分类以求其秩序",
+      "target": "科学",
+      "claim_type": "定义性主张",
+      "claim_status": "作者概括",
+      "polarity": "neutral",
+      "evidence": "对于事实，分类以求其秩序",
+      "confidence": 0.9
+    },
+    {
+      "id": "c3",
+      "speaker": "张东荪",
+      "claim": "科学与常识相同",
+      "target": "科学",
+      "claim_type": "知识论主张",
+      "claim_status": "作者推论",
+      "polarity": "negative",
+      "evidence": "岂不是科学与常识相同么？",
+      "confidence": 0.9
+    },
+    {
+      "id": "c4",
+      "speaker": "张东荪",
+      "claim": "科学的能事仅是分类，实际上却愈分而类愈不立",
+      "target": "科学",
+      "claim_type": "知识论主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "若果科学的能事仅是分类，实际上却愈分而类愈不立",
+      "confidence": 0.9
+    },
+    {
+      "id": "c5",
+      "speaker": "张东荪",
+      "claim": "相对论的生命就在几个公式，看不出是对何种事实分类",
+      "target": "相对论",
+      "claim_type": "知识论主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "如晚近的相对论，其生命就在几个公式，我们实在看不出他是对于何种事实分类",
+      "confidence": 0.9
+    },
+    {
+      "id": "c6",
+      "speaker": "张东荪",
+      "claim": "科学发达的结果得着了一个‘有教无类’，则说科学就是分类未免太初步",
+      "target": "科学",
+      "claim_type": "知识论主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "科学发达的结果得着了一个‘有教无类’，则说科学就是分类未免太初步了罢",
+      "confidence": 0.9
+    },
+    {
+      "id": "c7",
+      "speaker": "张东荪",
+      "claim": "丁先生的论调本于皮尔逊，但丁先生太无抉择",
+      "target": "丁在君",
+      "claim_type": "论战策略批评",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "至于丁先生这种论调，我知道是本于皮尔逊，不过丁先生也太无抉择了罢",
+      "confidence": 0.9
+    },
+    {
+      "id": "c8",
+      "speaker": "张东荪",
+      "claim": "我立一个代替说以补丁先生的不足",
+      "target": "代替说",
+      "claim_type": "方法论主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "所以我不能不立一个代替说以补丁先生的不足",
+      "confidence": 0.9
+    }
+  ],
+  "relations": [
+    {
+      "id": "r1",
+      "head": "丁在君",
+      "head_type": "人物",
+      "relation": "主张",
+      "relation_subtype": "不适用",
+      "tail": "科学",
+      "tail_type": "概念",
+      "polarity": "neutral",
+      "evidence": "拿简明的话概括许多事实",
+      "confidence": 0.9
+    },
+    {
+      "id": "r2",
+      "head": "张东荪",
+      "head_type": "人物",
+      "relation": "批评",
+      "relation_subtype": "逻辑反驳",
+      "tail": "丁在君",
+      "tail_type": "人物",
+      "polarity": "negative",
+      "evidence": "岂不是科学与常识相同么？",
+      "confidence": 0.9
+    },
+    {
+      "id": "r3",
+      "head": "张东荪",
+      "head_type": "人物",
+      "relation": "批评",
+      "relation_subtype": "概念混淆批评",
+      "tail": "丁在君",
+      "tail_type": "人物",
+      "polarity": "negative",
+      "evidence": "若果科学的能事仅是分类，实际上却愈分而类愈不立",
+      "confidence": 0.9
+    },
+    {
+      "id": "r4",
+      "head": "张东荪",
+      "head_type": "人物",
+      "relation": "批评",
+      "relation_subtype": "证据不足批评",
+      "tail": "丁在君",
+      "tail_type": "人物",
+      "polarity": "negative",
+      "evidence": "至于丁先生这种论调，我知道是本于皮尔逊，不过丁先生也太无抉择了罢",
+      "confidence": 0.9
+    },
+    {
+      "id": "r5",
+      "head": "丁在君",
+      "head_type": "人物",
+      "relation": "引用",
+      "relation_subtype": "援引权威",
+      "tail": "皮尔逊",
+      "tail_type": "人物",
+      "polarity": "neutral",
+      "evidence": "至于丁先生这种论调，我知道是本于皮尔逊",
+      "confidence": 0.9
+    },
+    {
+      "id": "r6",
+      "head": "张东荪",
+      "head_type": "人物",
+      "relation": "回应",
+      "relation_subtype": "部分批评",
+      "tail": "丁在君",
+      "tail_type": "人物",
+      "polarity": "negative",
+      "evidence": "所以我不能不立一个代替说以补丁先生的不足",
+      "confidence": 0.9
+    },
+    {
+      "id": "r7",
+      "head": "张东荪",
+      "head_type": "人物",
+      "relation": "引用",
+      "relation_subtype": "援引权威",
+      "tail": "梁任公",
+      "tail_type": "人物",
+      "polarity": "neutral",
+      "evidence": "我的话曾附载于梁任公先生文章的骥尾",
+      "confidence": 0.9
+    }
+  ],
+  "definitions": [
+    {
+      "id": "def1",
+      "term": "科学",
+      "definition": "科学是拿简明的话概括许多事实，并对事实分类以求其秩序",
+      "evidence": "拿简明的话概括许多事实；对于事实，分类以求其秩序",
+      "confidence": 0.9
+    }
+  ],
+  "citations": [
+    {
+      "id": "cit1",
+      "citer": "张东荪",
+      "quoted_author": "丁在君",
+      "quoted_work": "",
+      "quoted_claim": "科学是拿简明的话概括许多事实，并对事实分类以求其秩序",
+      "function": "作为批评对象",
+      "evidence": "我现在要求读者重读的即是“对于事实，分类以求其秩序”，与“拿简明的话概括许多事实”这两句",
+      "confidence": 0.9
+    },
+    {
+      "id": "cit2",
+      "citer": "张东荪",
+      "quoted_author": "皮尔逊",
+      "quoted_work": "",
+      "quoted_claim": "丁先生的论调本于皮尔逊",
+      "function": "作为思想来源",
+      "evidence": "至于丁先生这种论调，我知道是本于皮尔逊",
+      "confidence": 0.9
+    }
+  ],
+  "rhetorical_devices": [
+    {
+      "id": "rh1",
+      "expression": "有教无类",
+      "device_type": "比喻",
+      "literal_target": "科学分类的消失",
+      "function": "讽刺科学仅被定义为分类的初步性",
+      "evidence": "科学发达的结果得着了一个‘有教无类’",
+      "confidence": 0.9
+    }
+  ],
+  "uncertainties": [
+    {
+      "item": "丁在君关于科学的具体定义原文是否完全如张东荪所概括",
+      "reason": "张东荪概括了丁在君的观点，但未直接引用原文，可能存在概括偏差"
+    },
+    {
+      "item": "张东荪的‘代替说’具体内容",
+      "reason": "文本仅提及‘代替说’但未展开其内容"
+    }
+  ]
+}

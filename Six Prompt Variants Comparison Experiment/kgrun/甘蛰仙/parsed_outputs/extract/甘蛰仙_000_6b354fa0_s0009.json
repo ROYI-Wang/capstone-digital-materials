@@ -1,0 +1,334 @@
+{
+  "metadata": {
+    "schema_version": "lite_v2.0",
+    "article_id": "甘蛰仙_000_6b354fa0",
+    "article_title": "人生观与知识论",
+    "source_author": "甘蛰仙",
+    "section_title": "鄙意欲率自由意志以通本体论与道德学之邮，犹先民所谓“为仁由己”也。我当时之见解，以为从事本体之学，务必以道德学为之辅，乃能按",
+    "section_author": "鄙意欲率自由意志以通本体论与道德学之邮，犹先民所谓“为仁由己”也。我当时之见解，以为从事本体之学，务必以道德学为之辅，乃能",
+    "segment_id": "甘蛰仙_000_6b354fa0_s0009",
+    "segment_index": 9,
+    "source_file": "E:\\1研究生\\岭南大学\\论文毕业\\capstone\\资料\\新的内容开始了\\local_upload\\input_w2\\甘蛰仙.txt"
+  },
+  "entities": [
+    {
+      "id": "e1",
+      "name": "阳明",
+      "canonical_name": "王阳明",
+      "type": "人物",
+      "evidence": "岂茫茫大宙，竟不能容阳明先生人格的量美之实现耶？",
+      "confidence": 0.9
+    },
+    {
+      "id": "e2",
+      "name": "仲尼",
+      "canonical_name": "孔子",
+      "type": "人物",
+      "evidence": "仲尼不云乎？“不愤不启，不悱不发。”",
+      "confidence": 0.9
+    },
+    {
+      "id": "e3",
+      "name": "中国先哲",
+      "canonical_name": "中国先哲",
+      "type": "阵营/群体",
+      "evidence": "则吾对于中国先哲之人生观，自仲尼以迄阳明，其所最服膺者，略可睹矣。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e4",
+      "name": "人生观",
+      "canonical_name": "人生观",
+      "type": "概念",
+      "evidence": "则吾对于中国先哲之人生观，自仲尼以迄阳明，其所最服膺者，略可睹矣。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e5",
+      "name": "良知",
+      "canonical_name": "良知",
+      "type": "概念",
+      "evidence": "（1）人生之目的——良知之完成。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e6",
+      "name": "自由论",
+      "canonical_name": "自由论",
+      "type": "主义/学说/理论",
+      "evidence": "（4）道德的自由之所从出——本体论中的自由论。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e7",
+      "name": "知识论",
+      "canonical_name": "知识论",
+      "type": "概念",
+      "evidence": "（5）由知识论略释先哲学说——以知识论为从事研究或解决人生问题者所宜知故。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e8",
+      "name": "晦庵",
+      "canonical_name": "朱熹",
+      "type": "人物",
+      "evidence": "即晦庵之高挹群言，阳明之领袖一代，亦断非余小子所敢望其万一。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e9",
+      "name": "程伊川",
+      "canonical_name": "程颐",
+      "type": "人物",
+      "evidence": "如宋之程伊川，明之王龙溪，一则晦庵学说之所从出，一则阳明学说之所赖以传",
+      "confidence": 0.9
+    },
+    {
+      "id": "e10",
+      "name": "王龙溪",
+      "canonical_name": "王畿",
+      "type": "人物",
+      "evidence": "如宋之程伊川，明之王龙溪，一则晦庵学说之所从出，一则阳明学说之所赖以传",
+      "confidence": 0.9
+    },
+    {
+      "id": "e11",
+      "name": "理学",
+      "canonical_name": "理学",
+      "type": "概念",
+      "evidence": "在“理学”界，如宋之程伊川，明之王龙溪",
+      "confidence": 0.9
+    },
+    {
+      "id": "e12",
+      "name": "中国人生哲学史",
+      "canonical_name": "中国人生哲学史",
+      "type": "概念",
+      "evidence": "其在中国人生哲学史上之建设，固已度越常人矣。",
+      "confidence": 0.9
+    }
+  ],
+  "claims": [
+    {
+      "id": "c1",
+      "speaker": "甘蛰仙",
+      "claim": "人生之目的——良知之完成。",
+      "target": "人生观",
+      "claim_type": "定义性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "（1）人生之目的——良知之完成。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c2",
+      "speaker": "甘蛰仙",
+      "claim": "人生之途径——到良知完成之路。",
+      "target": "人生观",
+      "claim_type": "定义性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "（2）人生之途径——到良知完成之路。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c3",
+      "speaker": "甘蛰仙",
+      "claim": "人生之修养——致良知之工夫，不可不做；我知我行之真自由，不可不保持：提起自觉心，运用其选择力及批判力。",
+      "target": "人生观",
+      "claim_type": "方法论主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "（3）人生之修养——致良知之工夫，不可不做；我知我行之真自由，不可不保持：提起自觉心，运用其选择力及批判力。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c4",
+      "speaker": "甘蛰仙",
+      "claim": "道德的自由之所从出——本体论中的自由论。其引伸之义，在肯定良心的自由。",
+      "target": "自由论",
+      "claim_type": "知识论主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "（4）道德的自由之所从出——本体论中的自由论。其引伸之义，在肯定良心的自由。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c5",
+      "speaker": "甘蛰仙",
+      "claim": "以知识论为从事研究或解决人生问题者所宜知故。",
+      "target": "知识论",
+      "claim_type": "方法论主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "（5）由知识论略释先哲学说——以知识论为从事研究或解决人生问题者所宜知故。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c6",
+      "speaker": "甘蛰仙",
+      "claim": "以人格态度为从事建设新人生观者所宜知故。",
+      "target": "人生观",
+      "claim_type": "方法论主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "（6）由人生观略释先哲之人格态度——以人格态度为从事建设新人生观者所宜知故。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c7",
+      "speaker": "甘蛰仙",
+      "claim": "人生之修养，每植本于治学时代。",
+      "target": "人生之修养",
+      "claim_type": "知识论主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "人生之修养，每植本于治学时代。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c8",
+      "speaker": "甘蛰仙",
+      "claim": "程伊川和王龙溪在中国人生哲学史上之建设，固已度越常人矣。",
+      "target": "程伊川",
+      "claim_type": "价值评价",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "其在中国人生哲学史上之建设，固已度越常人矣。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c9",
+      "speaker": "甘蛰仙",
+      "claim": "我甚自愧修养力与学力均极浅薄，殊不足以了解先哲之粹言懿行，及其广大精明之人生观！",
+      "target": "甘蛰仙",
+      "claim_type": "价值评价",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "我甚自愧修养力与学力均极浅薄，殊不足以了解先哲之粹言懿行，及其广大精明之人生观！",
+      "confidence": 0.9
+    },
+    {
+      "id": "c10",
+      "speaker": "甘蛰仙",
+      "claim": "晦庵之高挹群言，阳明之领袖一代，亦断非余小子所敢望其万一。",
+      "target": "晦庵",
+      "claim_type": "价值评价",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "即晦庵之高挹群言，阳明之领袖一代，亦断非余小子所敢望其万一。",
+      "confidence": 0.9
+    }
+  ],
+  "relations": [
+    {
+      "id": "r1",
+      "head": "程伊川",
+      "head_type": "人物",
+      "relation": "源自",
+      "tail": "晦庵",
+      "tail_type": "人物",
+      "polarity": "neutral",
+      "evidence": "如宋之程伊川，明之王龙溪，一则晦庵学说之所从出，一则阳明学说之所赖以传",
+      "confidence": 0.9
+    },
+    {
+      "id": "r2",
+      "head": "王龙溪",
+      "head_type": "人物",
+      "relation": "源自",
+      "tail": "阳明",
+      "tail_type": "人物",
+      "polarity": "neutral",
+      "evidence": "如宋之程伊川，明之王龙溪，一则晦庵学说之所从出，一则阳明学说之所赖以传",
+      "confidence": 0.9
+    }
+  ],
+  "definitions": [
+    {
+      "id": "def1",
+      "term": "人生之目的",
+      "definition": "良知之完成",
+      "evidence": "（1）人生之目的——良知之完成。",
+      "confidence": 0.9
+    },
+    {
+      "id": "def2",
+      "term": "人生之途径",
+      "definition": "到良知完成之路",
+      "evidence": "（2）人生之途径——到良知完成之路。",
+      "confidence": 0.9
+    },
+    {
+      "id": "def3",
+      "term": "人生之修养",
+      "definition": "致良知之工夫，不可不做；我知我行之真自由，不可不保持：提起自觉心，运用其选择力及批判力",
+      "evidence": "（3）人生之修养——致良知之工夫，不可不做；我知我行之真自由，不可不保持：提起自觉心，运用其选择力及批判力。",
+      "confidence": 0.9
+    },
+    {
+      "id": "def4",
+      "term": "道德的自由之所从出",
+      "definition": "本体论中的自由论，其引伸之义在肯定良心的自由",
+      "evidence": "（4）道德的自由之所从出——本体论中的自由论。其引伸之义，在肯定良心的自由。",
+      "confidence": 0.9
+    }
+  ],
+  "citations": [
+    {
+      "id": "cit1",
+      "citer": "甘蛰仙",
+      "quoted_author": "仲尼",
+      "quoted_work": "",
+      "quoted_claim": "不愤不启，不悱不发",
+      "function": "援引权威支持",
+      "evidence": "仲尼不云乎？“不愤不启，不悱不发。”",
+      "confidence": 0.9
+    }
+  ],
+  "rhetorical_devices": [
+    {
+      "id": "rh1",
+      "expression": "岂茫茫大宙，竟不能容阳明先生人格的量美之实现耶？",
+      "device_type": "反问",
+      "literal_target": "宇宙不能容纳阳明的人格美",
+      "function": "表达对阳明遭遇的感慨与同情",
+      "evidence": "岂茫茫大宙，竟不能容阳明先生人格的量美之实现耶？",
+      "confidence": 0.9
+    },
+    {
+      "id": "rh2",
+      "expression": "余小子",
+      "device_type": "自谦",
+      "literal_target": "甘蛰仙自称",
+      "function": "表达谦逊态度",
+      "evidence": "亦断非余小子所敢望其万一。",
+      "confidence": 0.9
+    }
+  ],
+  "uncertainties": [
+    {
+      "item": "section_title 和 section_author 字段内容重复且不完整，可能为截断错误",
+      "reason": "section_title 和 section_author 字段内容相同且以'乃能按'结尾，疑似截断"
+    }
+  ],
+  "_meta": {
+    "status": "success",
+    "stage": "extract",
+    "model": "deepseek-ai/DeepSeek-V4-Flash",
+    "base_url": "https://api.siliconflow.cn/v1",
+    "prompt_version": "extract_prompt_v2.0",
+    "schema_version": "lite_v2.0",
+    "segment_id": "甘蛰仙_000_6b354fa0_s0009",
+    "article_id": "甘蛰仙_000_6b354fa0",
+    "char_start": 4554,
+    "char_end": 5146,
+    "raw_path": "E:\\1研究生\\岭南大学\\论文毕业\\capstone\\资料\\新的内容开始了\\local_upload\\kg_runs\\甘蛰仙\\raw_outputs\\extract\\甘蛰仙_000_6b354fa0_s0009.txt",
+    "parsed_at": "2026-05-19T22:02:51",
+    "started_at": "2026-05-19T21:59:58",
+    "elapsed_seconds": 173.074,
+    "strict_evidence_check": true,
+    "drop_unsupported_evidence": true,
+    "request_timeout_seconds": 180
+  }
+}

@@ -1,0 +1,321 @@
+{
+  "metadata": {
+    "schema_version": "lite_v2.0",
+    "article_id": "陈独秀_001_d263aca8",
+    "article_title": "答适之",
+    "source_author": "陈独秀",
+    "section_title": "方今国中竟言新文化，而文化转移之枢纽，不外乎人生观。吾有吾之文化，西洋有西洋之文化。西洋之有益者如何采之，有害者如何革除之；凡此取舍之间，皆决之于观点。观点定，而后精神上之思潮、物质上之制度，乃可按",
+    "section_author": "方今国中竟言新文化，而文化转移之枢纽，不外乎人生观。吾有吾之文化，西洋有西洋之文化。西洋之有益者如何采之，有害者如何革除之；凡此取舍之间，皆决之于观点。观点定，而后精神上之思潮、物质上之制度，乃可",
+    "segment_id": "陈独秀_001_d263aca8_s0011",
+    "segment_index": 11,
+    "source_file": "E:\\1研究生\\岭南大学\\论文毕业\\capstone\\资料\\新的内容开始了\\local_upload\\input_w2\\陈独秀.txt"
+  },
+  "entities": [
+    {
+      "id": "e1",
+      "name": "科学",
+      "canonical_name": "科学",
+      "type": "概念",
+      "evidence": "科学起于对象之相同现象",
+      "confidence": 1.0
+    },
+    {
+      "id": "e2",
+      "name": "人生观",
+      "canonical_name": "人生观",
+      "type": "概念",
+      "evidence": "人生观起于人格之单一性",
+      "confidence": 1.0
+    },
+    {
+      "id": "e3",
+      "name": "自然界变化现象之统一性",
+      "canonical_name": "自然界变化现象之统一性",
+      "type": "概念",
+      "evidence": "科学中有一最大之原则，曰自然界变化现象之统一性",
+      "confidence": 1.0
+    },
+    {
+      "id": "e4",
+      "name": "智慧测验",
+      "canonical_name": "智慧测验",
+      "type": "概念",
+      "evidence": "近来心理学家，有所谓智慧测验",
+      "confidence": 1.0
+    },
+    {
+      "id": "e5",
+      "name": "犯罪统计",
+      "canonical_name": "犯罪统计",
+      "type": "概念",
+      "evidence": "社会学家，有所谓犯罪统计",
+      "confidence": 1.0
+    },
+    {
+      "id": "e6",
+      "name": "哥德",
+      "canonical_name": "歌德",
+      "type": "人物",
+      "evidence": "哥德（Goethe）之《佛乌斯脱》",
+      "confidence": 1.0
+    },
+    {
+      "id": "e7",
+      "name": "但丁",
+      "canonical_name": "但丁",
+      "type": "人物",
+      "evidence": "但丁（Dante）之《神曲》",
+      "confidence": 1.0
+    },
+    {
+      "id": "e8",
+      "name": "沙士比尔",
+      "canonical_name": "莎士比亚",
+      "type": "人物",
+      "evidence": "沙士比尔（Shakespeare）之剧本",
+      "confidence": 1.0
+    },
+    {
+      "id": "e9",
+      "name": "华格那",
+      "canonical_name": "瓦格纳",
+      "type": "人物",
+      "evidence": "华格那（Wagner）之音乐",
+      "confidence": 1.0
+    },
+    {
+      "id": "e10",
+      "name": "《佛乌斯脱》",
+      "canonical_name": "浮士德",
+      "type": "著作",
+      "evidence": "哥德（Goethe）之《佛乌斯脱》",
+      "confidence": 1.0
+    },
+    {
+      "id": "e11",
+      "name": "《神曲》",
+      "canonical_name": "神曲",
+      "type": "著作",
+      "evidence": "但丁（Dante）之《神曲》",
+      "confidence": 1.0
+    },
+    {
+      "id": "e12",
+      "name": "剧本",
+      "canonical_name": "剧本",
+      "type": "著作",
+      "evidence": "沙士比尔（Shakespeare）之剧本",
+      "confidence": 1.0
+    },
+    {
+      "id": "e13",
+      "name": "音乐",
+      "canonical_name": "音乐",
+      "type": "概念",
+      "evidence": "华格那（Wagner）之音乐",
+      "confidence": 1.0
+    },
+    {
+      "id": "e14",
+      "name": "精神分析",
+      "canonical_name": "精神分析",
+      "type": "概念",
+      "evidence": "虽主张精神分析或智慧测验者",
+      "confidence": 1.0
+    },
+    {
+      "id": "e15",
+      "name": "人格之单一性",
+      "canonical_name": "人格之单一性",
+      "type": "概念",
+      "evidence": "人生观起于人格之单一性",
+      "confidence": 1.0
+    }
+  ],
+  "claims": [
+    {
+      "id": "c1",
+      "speaker": "方今国中竟言新文化，而文化转移之枢纽，不外乎人生观。吾有吾之文化，西洋有西洋之文化。西洋之有益者如何采之，有害者如何革除之；凡此取舍之间，皆决之于观点。观点定，而后精神上之思潮、物质上之制度，乃可",
+      "claim": "科学起于对象之相同现象，而人生观起于人格之单一性。",
+      "target": "科学与人生观的区别",
+      "claim_type": "定义性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "科学起于对象之相同现象，而人生观起于人格之单一性。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c2",
+      "speaker": "方今国中竟言新文化，而文化转移之枢纽，不外乎人生观。吾有吾之文化，西洋有西洋之文化。西洋之有益者如何采之，有害者如何革除之；凡此取舍之间，皆决之于观点。观点定，而后精神上之思潮、物质上之制度，乃可",
+      "claim": "科学中有一最大之原则，曰自然界变化现象之统一性。",
+      "target": "科学",
+      "claim_type": "定义性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "科学中有一最大之原则，曰自然界变化现象之统一性。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c3",
+      "speaker": "方今国中竟言新文化，而文化转移之枢纽，不外乎人生观。吾有吾之文化，西洋有西洋之文化。西洋之有益者如何采之，有害者如何革除之；凡此取舍之间，皆决之于观点。观点定，而后精神上之思潮、物质上之制度，乃可",
+      "claim": "既有类，而其变化现象，前后一贯，故科学中乃有公例可求。",
+      "target": "科学",
+      "claim_type": "知识论主张",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "既有类，而其变化现象，前后一贯，故科学中乃有公例可求。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c4",
+      "speaker": "方今国中竟言新文化，而文化转移之枢纽，不外乎人生观。吾有吾之文化，西洋有西洋之文化。西洋之有益者如何采之，有害者如何革除之；凡此取舍之间，皆决之于观点。观点定，而后精神上之思潮、物质上之制度，乃可",
+      "claim": "智慧测验与犯罪统计施之一般群众，固无不可。若夫特别之人物，亦谓由统计或测验而得，则断断不然。",
+      "target": "智慧测验与犯罪统计的适用范围",
+      "claim_type": "方法论主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "窃以为此类测验与统计，施之一般群众，固无不可。若夫特别之人物，亦谓由统计或测验而得，则断断不然。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c5",
+      "speaker": "方今国中竟言新文化，而文化转移之枢纽，不外乎人生观。吾有吾之文化，西洋有西洋之文化。西洋之有益者如何采之，有害者如何革除之；凡此取舍之间，皆决之于观点。观点定，而后精神上之思潮、物质上之制度，乃可",
+      "claim": "人生观者，特殊的也，个性的也，有一而无二者也。",
+      "target": "人生观",
+      "claim_type": "定义性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "盖人生观者，特殊的也，个性的也，有一而无二者也。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c6",
+      "speaker": "方今国中竟言新文化，而文化转移之枢纽，不外乎人生观。吾有吾之文化，西洋有西洋之文化。西洋之有益者如何采之，有害者如何革除之；凡此取舍之间，皆决之于观点。观点定，而后精神上之思潮、物质上之制度，乃可",
+      "claim": "哥德之《佛乌斯脱》、但丁之《神曲》、沙士比尔之剧本、华格那之音乐，虽主张精神分析或智慧测验者，恐亦无法以解释其由来矣。",
+      "target": "精神分析与智慧测验的局限性",
+      "claim_type": "知识论主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "哥德（Goethe）之《佛乌斯脱》（Faust),但丁（Dante）之《神曲》（Divine Comedy),沙士比尔（Shakespeare）之剧本，华格那（Wagner）之音乐，虽主张精神分析或智慧测验者，恐亦无法以解释其由来矣。",
+      "confidence": 1.0
+    }
+  ],
+  "relations": [
+    {
+      "id": "r1",
+      "head": "科学",
+      "head_type": "概念",
+      "relation": "定义",
+      "tail": "自然界变化现象之统一性",
+      "tail_type": "概念",
+      "polarity": "neutral",
+      "evidence": "科学中有一最大之原则，曰自然界变化现象之统一性。",
+      "confidence": 1.0
+    },
+    {
+      "id": "r2",
+      "head": "科学",
+      "head_type": "概念",
+      "relation": "区分",
+      "tail": "人生观",
+      "tail_type": "概念",
+      "polarity": "neutral",
+      "evidence": "科学起于对象之相同现象，而人生观起于人格之单一性。",
+      "confidence": 1.0
+    },
+    {
+      "id": "r3",
+      "head": "人生观",
+      "head_type": "概念",
+      "relation": "定义",
+      "tail": "人格之单一性",
+      "tail_type": "概念",
+      "polarity": "neutral",
+      "evidence": "人生观起于人格之单一性。",
+      "confidence": 1.0
+    },
+    {
+      "id": "r4",
+      "head": "智慧测验",
+      "head_type": "概念",
+      "relation": "作为论据支持",
+      "tail": "智愚之别，由此可见也",
+      "tail_type": "观点",
+      "polarity": "positive",
+      "evidence": "智慧测验者，就学童之智识，而测定其高下之标准也。高者则速其卒业之期，下者则设法以促进之，智愚之别，由此可见也。",
+      "confidence": 1.0
+    },
+    {
+      "id": "r5",
+      "head": "犯罪统计",
+      "head_type": "概念",
+      "relation": "作为论据支持",
+      "tail": "国民道德之高下，可窥见也",
+      "tail_type": "观点",
+      "polarity": "positive",
+      "evidence": "犯罪统计之中所发见之现象，曰冬季则盗贼多，以失业者众也；春夏秋则盗贼少，以农事忙而失业者少也。如是，则国民道德之高下，可窥见也。",
+      "confidence": 1.0
+    },
+    {
+      "id": "r6",
+      "head": "方今国中竟言新文化，而文化转移之枢纽，不外乎人生观。吾有吾之文化，西洋有西洋之文化。西洋之有益者如何采之，有害者如何革除之；凡此取舍之间，皆决之于观点。观点定，而后精神上之思潮、物质上之制度，乃可",
+      "head_type": "人物",
+      "relation": "批评",
+      "tail": "精神分析或智慧测验者",
+      "tail_type": "阵营/群体",
+      "polarity": "negative",
+      "evidence": "虽主张精神分析或智慧测验者，恐亦无法以解释其由来矣。",
+      "confidence": 1.0
+    }
+  ],
+  "definitions": [
+    {
+      "id": "def1",
+      "term": "自然界变化现象之统一性",
+      "definition": "自然界中事物有类可分，其变化现象前后一贯，因此科学可以寻求公例。",
+      "evidence": "科学中有一最大之原则，曰自然界变化现象之统一性。（Uniformity of the Course of Nature) 植物之中，有类可言也。动物之中，有类可言也。乃至死物界中，亦有类可言也。既有类，而其变化现象，前后一贯，故科学中乃有公例可求。",
+      "confidence": 1.0
+    },
+    {
+      "id": "def2",
+      "term": "智慧测验",
+      "definition": "就学童之智识，而测定其高下之标准也。高者则速其卒业之期，下者则设法以促进之。",
+      "evidence": "智慧测验者，就学童之智识，而测定其高下之标准也。高者则速其卒业之期，下者则设法以促进之，智愚之别，由此可见也。",
+      "confidence": 1.0
+    },
+    {
+      "id": "def3",
+      "term": "人生观",
+      "definition": "特殊的、个性的、有一而无二的，起于人格之单一性。",
+      "evidence": "盖人生观者，特殊的也，个性的也，有一而无二者也。",
+      "confidence": 1.0
+    }
+  ],
+  "citations": [],
+  "rhetorical_devices": [],
+  "uncertainties": [
+    {
+      "item": "section_author 字段内容与 section_title 重复，且包含完整句子，可能为数据错误。",
+      "reason": "元数据中 section_author 字段内容与 section_title 字段内容完全一致，且均为完整句子，不符合通常的元数据格式。"
+    }
+  ],
+  "_meta": {
+    "status": "success",
+    "stage": "extract",
+    "model": "deepseek-ai/DeepSeek-V4-Flash",
+    "base_url": "https://api.siliconflow.cn/v1",
+    "prompt_version": "extract_prompt_v2.0",
+    "schema_version": "lite_v2.0",
+    "segment_id": "陈独秀_001_d263aca8_s0011",
+    "article_id": "陈独秀_001_d263aca8",
+    "char_start": 5336,
+    "char_end": 5933,
+    "raw_path": "E:\\1研究生\\岭南大学\\论文毕业\\capstone\\资料\\新的内容开始了\\local_upload\\kg_runs\\陈独秀\\raw_outputs\\extract\\陈独秀_001_d263aca8_s0011.txt",
+    "parsed_at": "2026-05-20T02:29:18",
+    "started_at": "2026-05-20T02:27:58",
+    "elapsed_seconds": 80.067,
+    "strict_evidence_check": true,
+    "drop_unsupported_evidence": true,
+    "request_timeout_seconds": 180
+  }
+}

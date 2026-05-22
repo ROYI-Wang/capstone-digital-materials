@@ -1,0 +1,379 @@
+{
+  "metadata": {
+    "schema_version": "lite_v2.0",
+    "article_id": "张君劢_002_c870d202",
+    "article_title": "再论人生观与科学并答丁在君",
+    "source_author": "张君劢",
+    "section_title": "",
+    "section_author": "",
+    "segment_id": "张君劢_002_c870d202_s0039",
+    "segment_index": 39,
+    "source_file": "E:\\1研究生\\岭南大学\\论文毕业\\capstone\\资料\\新的内容开始了\\local_upload\\input_w3\\张君劢.txt"
+  },
+  "entities": [
+    {
+      "id": "e1",
+      "name": "陆象山",
+      "canonical_name": "陆象山",
+      "type": "人物",
+      "evidence": "最明显的是陆象山一派",
+      "confidence": 1.0
+    },
+    {
+      "id": "e2",
+      "name": "王阳明",
+      "canonical_name": "王阳明",
+      "type": "人物",
+      "evidence": "明朝陆象山的嫡派是王阳明、陈白沙",
+      "confidence": 1.0
+    },
+    {
+      "id": "e3",
+      "name": "陈白沙",
+      "canonical_name": "陈白沙",
+      "type": "人物",
+      "evidence": "明朝陆象山的嫡派是王阳明、陈白沙",
+      "confidence": 1.0
+    },
+    {
+      "id": "e4",
+      "name": "顾亭林",
+      "canonical_name": "顾亭林",
+      "type": "人物",
+      "evidence": "所以顾亭林说他们",
+      "confidence": 1.0
+    },
+    {
+      "id": "e5",
+      "name": "张献忠",
+      "canonical_name": "张献忠",
+      "type": "人物",
+      "evidence": "单是张献忠在四川杀死的人",
+      "confidence": 1.0
+    },
+    {
+      "id": "e6",
+      "name": "理学家",
+      "canonical_name": "理学家",
+      "type": "阵营/群体",
+      "evidence": "提倡内功的理学家，宋朝不止一个",
+      "confidence": 1.0
+    },
+    {
+      "id": "e7",
+      "name": "士大夫",
+      "canonical_name": "士大夫",
+      "type": "阵营/群体",
+      "evidence": "士大夫不知古又不知今",
+      "confidence": 1.0
+    },
+    {
+      "id": "e8",
+      "name": "陆王学派",
+      "canonical_name": "陆王学派",
+      "type": "阵营/群体",
+      "evidence": "到了明末，陆王学派，风行天下",
+      "confidence": 1.0
+    },
+    {
+      "id": "e9",
+      "name": "前清的科学经师",
+      "canonical_name": "前清的科学经师",
+      "type": "阵营/群体",
+      "evidence": "被前清的科学经师费了九牛二虎之力",
+      "confidence": 1.0
+    },
+    {
+      "id": "e10",
+      "name": "欧洲玄学",
+      "canonical_name": "欧洲玄学",
+      "type": "主义/学说/理论",
+      "evidence": "欧洲玄学的余毒传染到中国来",
+      "confidence": 1.0
+    },
+    {
+      "id": "e11",
+      "name": "精神文明",
+      "canonical_name": "精神文明",
+      "type": "概念",
+      "evidence": "这种精神文明有什么价值？",
+      "confidence": 1.0
+    },
+    {
+      "id": "e12",
+      "name": "科学",
+      "canonical_name": "科学",
+      "type": "概念",
+      "evidence": "配不配拿来做招牌攻击科学？",
+      "confidence": 1.0
+    },
+    {
+      "id": "e13",
+      "name": "经济史观",
+      "canonical_name": "经济史观",
+      "type": "主义/学说/理论",
+      "evidence": "他们不肯承认所谓‘经济史观’",
+      "confidence": 1.0
+    },
+    {
+      "id": "e14",
+      "name": "欧战",
+      "canonical_name": "欧战",
+      "type": "历史事件",
+      "evidence": "比这一次欧战死的人已经多了一倍以上",
+      "confidence": 1.0
+    },
+    {
+      "id": "e15",
+      "name": "张君劢",
+      "canonical_name": "张君劢",
+      "type": "人物",
+      "evidence": "（隐含，作者在正文中以第一人称出现，如“我们平心想想”）",
+      "confidence": 0.8
+    }
+  ],
+  "claims": [
+    {
+      "id": "c1",
+      "speaker": "张君劢",
+      "claim": "宋朝提倡内功的理学家，最明显的是陆象山一派，不过当时的学者还主张读书，还不是完全空疏。",
+      "target": "理学家",
+      "claim_type": "历史解释",
+      "claim_status": "作者直接主张",
+      "polarity": "mixed",
+      "evidence": "提倡内功的理学家，宋朝不止一个，最明显的是陆象山一派。不过当时的学者还主张读书，还不是完全空疏。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c2",
+      "speaker": "张君劢",
+      "claim": "南渡时士大夫没有能力、没有常识，导致汉族被蒙古人统治、文化几乎灭绝。",
+      "target": "士大夫",
+      "claim_type": "历史解释",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "然而我们看南渡时士大夫的没有能力，没有常识，已经令人骇怪。其结果叫我们受野蛮蒙古人统治了一百年，江南的人被他们屠割了数百万，汉族的文化几乎绝了种。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c3",
+      "speaker": "张君劢",
+      "claim": "明末陆王学派比南宋的人更要退化：读书是玩物丧志，治事是有伤风雅。",
+      "target": "陆王学派",
+      "claim_type": "历史解释",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "到了明末，陆王学派，风行天下。他们比南宋的人更要退化：读书是玩物丧志，治事是有伤风雅。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c4",
+      "speaker": "顾亭林",
+      "claim": "陆王学派的学者聚宾客门人，与之言心言性，舍多学而识以求一贯之方，置四海之困穷不言，而终日讲危微精一之说。",
+      "target": "陆王学派",
+      "claim_type": "文明批评",
+      "claim_status": "直接引用",
+      "polarity": "negative",
+      "evidence": "所以顾亭林说他们，‘聚宾客门人之学者数十百人，……与之言心言性，舍多学而识以求一贯之方，置四海之困穷不言，而终日讲危微精一之说’。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c5",
+      "speaker": "张君劢",
+      "claim": "士大夫不知古又不知今，养成娇弱，一无所用，有起事来如痴子一般，毫无办法。",
+      "target": "士大夫",
+      "claim_type": "文明批评",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "士大夫不知古又不知今，‘养成娇弱，一无所用’，有起事来，如痴子一般，毫无办法。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c6",
+      "speaker": "张君劢",
+      "claim": "张献忠在四川杀死的人比欧战死的人多一倍以上，满洲人在南几省作的孽更大。",
+      "target": "张献忠",
+      "claim_type": "历史解释",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "单是张献忠在四川杀死的人，比这一次欧战死的人已经多了一倍以上，不要说起满洲人在南几省作的孽了！",
+      "confidence": 1.0
+    },
+    {
+      "id": "c7",
+      "speaker": "张君劢",
+      "claim": "这种精神文明没有价值，不配拿来做招牌攻击科学。",
+      "target": "精神文明",
+      "claim_type": "价值评价",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "我们平心想想，这种精神文明有什么价值？配不配拿来做招牌攻击科学？",
+      "confidence": 1.0
+    },
+    {
+      "id": "c8",
+      "speaker": "张君劢",
+      "claim": "欧洲玄学的余毒传染到中国，宋元明言心言性的余烬又有死灰复燃的样子。",
+      "target": "欧洲玄学",
+      "claim_type": "文明批评",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "不幸到了今日，欧洲玄学的余毒传染到中国来，宋、元、明言心言性的余烬又有死灰复燃的样子了！",
+      "confidence": 1.0
+    },
+    {
+      "id": "c9",
+      "speaker": "张君劢",
+      "claim": "懒惰的人不细心研究历史实际，不肯睁开眼睛看看所谓‘精神文明’究竟在什么地方，不肯想想世上可有单靠内心修养造成的‘精神文明’。",
+      "target": "懒惰的人",
+      "claim_type": "文明批评",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "懒惰的人，不细心研究历史的实际，不肯睁开眼睛看看所谓‘精神文明’究竟在什么地方，不肯想想世上可有单靠内心修养造成的‘精神文明’；",
+      "confidence": 1.0
+    },
+    {
+      "id": "c10",
+      "speaker": "张君劢",
+      "claim": "他们不肯承认‘经济史观’，难道也忘记了‘衣食足而后知礼节，仓廪实而后知荣辱’的老话。",
+      "target": "懒惰的人",
+      "claim_type": "论战策略批评",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "他们不肯承认所谓‘经济史观’，也还罢了，难道他们也忘记了那‘衣食足而后知礼节，仓廪实而后知荣辱’的老话吗？",
+      "confidence": 1.0
+    }
+  ],
+  "relations": [
+    {
+      "id": "r1",
+      "head": "南渡时士大夫的没有能力，没有常识",
+      "head_type": "观点",
+      "relation": "导致",
+      "relation_subtype": "不适用",
+      "tail": "受野蛮蒙古人统治了一百年，江南的人被屠割了数百万，汉族的文化几乎绝了种",
+      "tail_type": "观点",
+      "polarity": "negative",
+      "evidence": "其结果叫我们受野蛮蒙古人统治了一百年，江南的人被他们屠割了数百万，汉族的文化几乎绝了种。",
+      "confidence": 1.0
+    },
+    {
+      "id": "r2",
+      "head": "陆王学派",
+      "head_type": "阵营/群体",
+      "relation": "导致",
+      "relation_subtype": "不适用",
+      "tail": "士大夫不知古又不知今，养成娇弱，一无所用",
+      "tail_type": "观点",
+      "polarity": "negative",
+      "evidence": "士大夫不知古又不知今，‘养成娇弱，一无所用’，有起事来，如痴子一般，毫无办法。",
+      "confidence": 0.9
+    },
+    {
+      "id": "r3",
+      "head": "张君劢",
+      "head_type": "人物",
+      "relation": "批评",
+      "relation_subtype": "一般批评",
+      "tail": "精神文明",
+      "tail_type": "概念",
+      "polarity": "negative",
+      "evidence": "我们平心想想，这种精神文明有什么价值？配不配拿来做招牌攻击科学？",
+      "confidence": 1.0
+    },
+    {
+      "id": "r4",
+      "head": "张君劢",
+      "head_type": "人物",
+      "relation": "批评",
+      "relation_subtype": "讽刺",
+      "tail": "懒惰的人",
+      "tail_type": "阵营/群体",
+      "polarity": "negative",
+      "evidence": "懒惰的人，不细心研究历史的实际，不肯睁开眼睛看看所谓‘精神文明’究竟在什么地方，不肯想想世上可有单靠内心修养造成的‘精神文明’；",
+      "confidence": 1.0
+    },
+    {
+      "id": "r5",
+      "head": "张君劢",
+      "head_type": "人物",
+      "relation": "引用",
+      "relation_subtype": "援引权威支持",
+      "tail": "顾亭林",
+      "tail_type": "人物",
+      "polarity": "positive",
+      "evidence": "所以顾亭林说他们，‘聚宾客门人之学者数十百人，……与之言心言性，舍多学而识以求一贯之方，置四海之困穷不言，而终日讲危微精一之说’。",
+      "confidence": 1.0
+    },
+    {
+      "id": "r6",
+      "head": "张君劢",
+      "head_type": "人物",
+      "relation": "引用",
+      "relation_subtype": "援引权威支持",
+      "tail": "衣食足而后知礼节，仓廪实而后知荣辱",
+      "tail_type": "观点",
+      "polarity": "positive",
+      "evidence": "难道他们也忘记了那‘衣食足而后知礼节，仓廪实而后知荣辱’的老话吗？",
+      "confidence": 1.0
+    }
+  ],
+  "definitions": [],
+  "citations": [
+    {
+      "id": "cit1",
+      "citer": "张君劢",
+      "quoted_author": "顾亭林",
+      "quoted_work": "",
+      "quoted_claim": "聚宾客门人之学者数十百人，……与之言心言性，舍多学而识以求一贯之方，置四海之困穷不言，而终日讲危微精一之说",
+      "function": "援引权威支持",
+      "evidence": "所以顾亭林说他们，‘聚宾客门人之学者数十百人，……与之言心言性，舍多学而识以求一贯之方，置四海之困穷不言，而终日讲危微精一之说’。",
+      "confidence": 1.0
+    },
+    {
+      "id": "cit2",
+      "citer": "张君劢",
+      "quoted_author": "管仲",
+      "quoted_work": "",
+      "quoted_claim": "衣食足而后知礼节，仓廪实而后知荣辱",
+      "function": "援引权威支持",
+      "evidence": "难道他们也忘记了那‘衣食足而后知礼节，仓廪实而后知荣辱’的老话吗？",
+      "confidence": 0.9
+    }
+  ],
+  "rhetorical_devices": [
+    {
+      "id": "rh1",
+      "expression": "死灰复燃",
+      "device_type": "比喻",
+      "literal_target": "宋、元、明言心言性的余烬",
+      "function": "表达对陆王心学重新流行的负面评价，暗示其是过时有害的东西",
+      "evidence": "宋、元、明言心言性的余烬又有死灰复燃的样子了！",
+      "confidence": 1.0
+    },
+    {
+      "id": "rh2",
+      "expression": "如痴子一般",
+      "device_type": "比喻",
+      "literal_target": "士大夫",
+      "function": "讽刺士大夫面对事变时的无能",
+      "evidence": "有起事来，如痴子一般，毫无办法。",
+      "confidence": 1.0
+    },
+    {
+      "id": "rh3",
+      "expression": "余毒",
+      "device_type": "比喻",
+      "literal_target": "欧洲玄学",
+      "function": "将欧洲玄学比作有毒之物，表达负面评价",
+      "evidence": "欧洲玄学的余毒传染到中国来",
+      "confidence": 1.0
+    }
+  ],
+  "uncertainties": [
+    {
+      "item": "citations中quoted_author为管仲的置信度",
+      "reason": "文本中只提到‘老话’，未明确说出处，管仲为常见出处但非原文明确提及。"
+    }
+  ]
+}

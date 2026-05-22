@@ -1,0 +1,295 @@
+{
+  "metadata": {
+    "schema_version": "lite_v2.0",
+    "article_id": "张君劢_000_e090c0d2",
+    "article_title": "人生观",
+    "source_author": "张君劢",
+    "section_title": "方今国中竟言新文化，而文化转移之枢纽，不外乎人生观。吾有吾之文化，西洋有西洋之文化。西洋之有益者如何采之，有害者如何革除之；凡此取舍之间，皆决之于观点。观点定，而后精神上之思潮、物质上之制度，乃可按",
+    "section_author": "方今国中竟言新文化，而文化转移之枢纽，不外乎人生观。吾有吾之文化，西洋有西洋之文化。西洋之有益者如何采之，有害者如何革除之；凡此取舍之间，皆决之于观点。观点定，而后精神上之思潮、物质上之制度，乃可",
+    "segment_id": "张君劢_000_e090c0d2_s0000",
+    "segment_index": 0,
+    "source_file": "E:\\1研究生\\岭南大学\\论文毕业\\capstone\\资料\\新的内容开始了\\local_upload\\input_w3\\张君劢.txt"
+  },
+  "entities": [
+    {
+      "id": "e1",
+      "name": "科学",
+      "canonical_name": "科学",
+      "type": "概念",
+      "evidence": "诸君平日所学，皆科学也。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e2",
+      "name": "原理原则",
+      "canonical_name": "原理原则",
+      "type": "概念",
+      "evidence": "科学之中，有一定之原理原则，而此原理原则，皆有证据。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e3",
+      "name": "因果律",
+      "canonical_name": "因果律",
+      "type": "概念",
+      "evidence": "必以为天下事皆有公例，皆为因果律所支配。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e4",
+      "name": "人生观",
+      "canonical_name": "人生观",
+      "type": "概念",
+      "evidence": "此何物欤？曰，是为人生。同为人生，因彼此观察点不同，而意见各异，故天下古今之最不统一者，莫若人生观。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e5",
+      "name": "我",
+      "canonical_name": "我",
+      "type": "概念",
+      "evidence": "人生观之中心点，是曰我。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e6",
+      "name": "非我",
+      "canonical_name": "非我",
+      "type": "概念",
+      "evidence": "与我对待者，则非我也。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e7",
+      "name": "大家族主义",
+      "canonical_name": "大家族主义",
+      "type": "主义/学说/理论",
+      "evidence": "（一）就我与我之亲族之关系……大家族主义。小家族主义。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e8",
+      "name": "小家族主义",
+      "canonical_name": "小家族主义",
+      "type": "主义/学说/理论",
+      "evidence": "（一）就我与我之亲族之关系……大家族主义。小家族主义。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e9",
+      "name": "男尊女卑主义",
+      "canonical_name": "男尊女卑主义",
+      "type": "主义/学说/理论",
+      "evidence": "（二）就我与我之异性之关系……男尊女卑主义。男女平等主义。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e10",
+      "name": "男女平等主义",
+      "canonical_name": "男女平等主义",
+      "type": "主义/学说/理论",
+      "evidence": "（二）就我与我之异性之关系……男尊女卑主义。男女平等主义。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e11",
+      "name": "私有财产制",
+      "canonical_name": "私有财产制",
+      "type": "概念",
+      "evidence": "（三）就我与我之财产之关系……私有财产制。公有财产制。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e12",
+      "name": "公有财产制",
+      "canonical_name": "公有财产制",
+      "type": "概念",
+      "evidence": "（三）就我与我之财产之关系……私有财产制。公有财产制。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e13",
+      "name": "守旧主义",
+      "canonical_name": "守旧主义",
+      "type": "主义/学说/理论",
+      "evidence": "（四）就我对于社会制度之激渐态度……守旧主义。维新主义。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e14",
+      "name": "维新主义",
+      "canonical_name": "维新主义",
+      "type": "主义/学说/理论",
+      "evidence": "（四）就我对于社会制度之激渐态度……守旧主义。维新主义。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e15",
+      "name": "物质文明",
+      "canonical_name": "物质文明",
+      "type": "概念",
+      "evidence": "（五）就我对于物质精神之异见……物质文明。精神文明。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e16",
+      "name": "精神文明",
+      "canonical_name": "精神文明",
+      "type": "概念",
+      "evidence": "（五）就我对于物质精神之异见……物质文明。精神文明。",
+      "confidence": 1.0
+    }
+  ],
+  "claims": [
+    {
+      "id": "c1",
+      "speaker": "张君劢",
+      "claim": "科学之中，有一定之原理原则，而此原理原则，皆有证据。",
+      "target": "科学",
+      "claim_type": "知识论主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "科学之中，有一定之原理原则，而此原理原则，皆有证据。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c2",
+      "speaker": "张君劢",
+      "claim": "天下古今之最不统一者，莫若人生观。",
+      "target": "人生观",
+      "claim_type": "定义性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "故天下古今之最不统一者，莫若人生观。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c3",
+      "speaker": "张君劢",
+      "claim": "人生观之中心点，是曰我。",
+      "target": "人生观",
+      "claim_type": "定义性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "人生观之中心点，是曰我。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c4",
+      "speaker": "张君劢",
+      "claim": "大多数之问题，必不若是之明确。",
+      "target": "问题",
+      "claim_type": "知识论主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "实则使诸君闭目一思，则知大多数之问题，必不若是之明确。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c5",
+      "speaker": "张君劢",
+      "claim": "此类问题，并非哲学上高尚之学理，而即在于人生日用之中。",
+      "target": "问题",
+      "claim_type": "定义性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "而此类问题，并非哲学上高尚之学理，而即在于人生日用之中。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c6",
+      "speaker": "张君劢",
+      "claim": "甲一说，乙一说，漫无是非真伪之标准。",
+      "target": "人生观",
+      "claim_type": "知识论主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "甲一说，乙一说，漫无是非真伪之标准。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c7",
+      "speaker": "张君劢",
+      "claim": "凡此问题，东西古今，意见极不一致，决不如数学或物理化学问题之有一定公式。",
+      "target": "人生观",
+      "claim_type": "知识论主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "凡此问题，东西古今，意见极不一致，决不如数学或物理化学问题之有一定公式。",
+      "confidence": 1.0
+    }
+  ],
+  "relations": [
+    {
+      "id": "r1",
+      "head": "科学",
+      "head_type": "概念",
+      "relation": "包含",
+      "tail": "原理原则",
+      "tail_type": "概念",
+      "polarity": "positive",
+      "evidence": "科学之中，有一定之原理原则，而此原理原则，皆有证据。",
+      "confidence": 1.0
+    },
+    {
+      "id": "r2",
+      "head": "人生观",
+      "head_type": "概念",
+      "relation": "包含",
+      "tail": "我",
+      "tail_type": "概念",
+      "polarity": "neutral",
+      "evidence": "人生观之中心点，是曰我。",
+      "confidence": 1.0
+    },
+    {
+      "id": "r3",
+      "head": "方今国中竟言新文化，而文化转移之枢纽，不外乎人生观。吾有吾之文化，西洋有西洋之文化。西洋之有益者如何采之，有害者如何革除之；凡此取舍之间，皆决之于观点。观点定，而后精神上之思潮、物质上之制度，乃可",
+      "head_type": "概念",
+      "relation": "区分",
+      "tail": "非我",
+      "tail_type": "概念",
+      "polarity": "neutral",
+      "evidence": "与我对待者，则非我也。",
+      "confidence": 1.0
+    }
+  ],
+  "definitions": [
+    {
+      "id": "def1",
+      "term": "人生观",
+      "definition": "天下古今最不统一、意见极不一致、无是非真伪标准的问题，其中心点是“我”。",
+      "evidence": "此何物欤？曰，是为人生。同为人生，因彼此观察点不同，而意见各异，故天下古今之最不统一者，莫若人生观。人生观之中心点，是曰我。",
+      "confidence": 1.0
+    },
+    {
+      "id": "def2",
+      "term": "科学",
+      "definition": "有一定之原理原则，且原理原则皆有证据。",
+      "evidence": "科学之中，有一定之原理原则，而此原理原则，皆有证据。",
+      "confidence": 1.0
+    }
+  ],
+  "citations": [],
+  "rhetorical_devices": [],
+  "uncertainties": [],
+  "_meta": {
+    "status": "success",
+    "stage": "extract",
+    "model": "deepseek-ai/DeepSeek-V4-Flash",
+    "base_url": "https://api.siliconflow.cn/v1",
+    "prompt_version": "extract_prompt_v2.0",
+    "schema_version": "lite_v2.0",
+    "segment_id": "张君劢_000_e090c0d2_s0000",
+    "article_id": "张君劢_000_e090c0d2",
+    "char_start": 0,
+    "char_end": 600,
+    "raw_path": "E:\\1研究生\\岭南大学\\论文毕业\\capstone\\资料\\新的内容开始了\\local_upload\\kg_runs\\张君劢\\raw_outputs\\extract\\张君劢_000_e090c0d2_s0000.txt",
+    "parsed_at": "2026-05-20T02:02:55",
+    "started_at": "2026-05-20T02:01:33",
+    "elapsed_seconds": 81.941,
+    "strict_evidence_check": true,
+    "drop_unsupported_evidence": true,
+    "request_timeout_seconds": 180
+  }
+}

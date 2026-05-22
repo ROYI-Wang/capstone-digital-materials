@@ -1,0 +1,627 @@
+{
+  "metadata": {
+    "schema_version": "lite_v2.0",
+    "article_id": "张君劢_002_c870d202",
+    "article_title": "再论人生观与科学并答丁在君",
+    "source_author": "张君劢",
+    "section_title": "",
+    "section_author": "",
+    "segment_id": "张君劢_002_c870d202_s0025",
+    "segment_index": 25,
+    "source_file": "E:\\1研究生\\岭南大学\\论文毕业\\capstone\\资料\\新的内容开始了\\local_upload\\input_w3\\张君劢.txt"
+  },
+  "entities": [
+    {
+      "id": "e1",
+      "name": "科学",
+      "canonical_name": "科学",
+      "type": "概念",
+      "evidence": "科学以对待以因果为本义",
+      "confidence": 1.0
+    },
+    {
+      "id": "e2",
+      "name": "因果",
+      "canonical_name": "因果",
+      "type": "概念",
+      "evidence": "科学以对待以因果为本义",
+      "confidence": 1.0
+    },
+    {
+      "id": "e3",
+      "name": "对待",
+      "canonical_name": "对待",
+      "type": "概念",
+      "evidence": "科学以对待以因果为本义",
+      "confidence": 0.9
+    },
+    {
+      "id": "e4",
+      "name": "物理上之因果",
+      "canonical_name": "物理因果",
+      "type": "概念",
+      "evidence": "有力而后生动，物理上之因果也",
+      "confidence": 1.0
+    },
+    {
+      "id": "e5",
+      "name": "生理上心理上之因果",
+      "canonical_name": "生理心理因果",
+      "type": "概念",
+      "evidence": "思想与脑神经相表里，生理上心理上之因果也",
+      "confidence": 1.0
+    },
+    {
+      "id": "e6",
+      "name": "生物上之因果",
+      "canonical_name": "生物因果",
+      "type": "概念",
+      "evidence": "生命之基础在细胞，生物上之因果也",
+      "confidence": 1.0
+    },
+    {
+      "id": "e7",
+      "name": "历史上之因果",
+      "canonical_name": "历史因果",
+      "type": "概念",
+      "evidence": "社会进化，视其国之地理气候如何，历史上之因果也",
+      "confidence": 1.0
+    },
+    {
+      "id": "e8",
+      "name": "学生",
+      "canonical_name": "学生",
+      "type": "阵营/群体",
+      "evidence": "然学生脑中装满了此种学说",
+      "confidence": 1.0
+    },
+    {
+      "id": "e9",
+      "name": "因果网",
+      "canonical_name": "因果网",
+      "type": "比喻/类比",
+      "evidence": "视己身为因果网所缠绕",
+      "confidence": 1.0
+    },
+    {
+      "id": "e10",
+      "name": "人生",
+      "canonical_name": "人生",
+      "type": "概念",
+      "evidence": "几忘人生在宇宙间独往独来之价值",
+      "confidence": 1.0
+    },
+    {
+      "id": "e11",
+      "name": "科学智识",
+      "canonical_name": "科学知识",
+      "type": "概念",
+      "evidence": "科学智识之充满",
+      "confidence": 1.0
+    },
+    {
+      "id": "e12",
+      "name": "官觉",
+      "canonical_name": "官觉",
+      "type": "概念",
+      "evidence": "惟官觉所及者足以了之",
+      "confidence": 1.0
+    },
+    {
+      "id": "e13",
+      "name": "物质之快乐",
+      "canonical_name": "物质快乐",
+      "type": "概念",
+      "evidence": "求物质之快乐",
+      "confidence": 1.0
+    },
+    {
+      "id": "e14",
+      "name": "一时之虚荣",
+      "canonical_name": "一时虚荣",
+      "type": "概念",
+      "evidence": "求一时之虚荣",
+      "confidence": 1.0
+    },
+    {
+      "id": "e15",
+      "name": "权利义务之对照表",
+      "canonical_name": "权利义务对照表",
+      "type": "比喻/类比",
+      "evidence": "而权利义务之对照表，尤时时悬在心目之间",
+      "confidence": 1.0
+    },
+    {
+      "id": "e16",
+      "name": "对待观念",
+      "canonical_name": "对待观念",
+      "type": "概念",
+      "evidence": "皆平日之对待观念有以养成之",
+      "confidence": 1.0
+    },
+    {
+      "id": "e17",
+      "name": "分科研究",
+      "canonical_name": "分科研究",
+      "type": "方法",
+      "evidence": "科学以分科研究为下手方法",
+      "confidence": 1.0
+    },
+    {
+      "id": "e18",
+      "name": "显微镜",
+      "canonical_name": "显微镜",
+      "type": "比喻/类比",
+      "evidence": "然时时在显微镜中过生活",
+      "confidence": 1.0
+    },
+    {
+      "id": "e19",
+      "name": "教育家",
+      "canonical_name": "教育家",
+      "type": "阵营/群体",
+      "evidence": "教育家为应付社会中之生计制度计",
+      "confidence": 1.0
+    },
+    {
+      "id": "e20",
+      "name": "生计制度",
+      "canonical_name": "生计制度",
+      "type": "概念",
+      "evidence": "教育家为应付社会中之生计制度计",
+      "confidence": 1.0
+    },
+    {
+      "id": "e21",
+      "name": "无产者",
+      "canonical_name": "无产者",
+      "type": "阵营/群体",
+      "evidence": "为无产者谋生之不二法门",
+      "confidence": 1.0
+    },
+    {
+      "id": "e22",
+      "name": "全人格之活动",
+      "canonical_name": "全人格活动",
+      "type": "概念",
+      "evidence": "各得为全人格之活动",
+      "confidence": 1.0
+    },
+    {
+      "id": "e23",
+      "name": "全人格之发展",
+      "canonical_name": "全人格发展",
+      "type": "概念",
+      "evidence": "皆得享全人格之发展",
+      "confidence": 1.0
+    },
+    {
+      "id": "e24",
+      "name": "科学的教育家",
+      "canonical_name": "科学的教育家",
+      "type": "阵营/群体",
+      "evidence": "则为适应环境之科学的教育家所不敢道",
+      "confidence": 1.0
+    },
+    {
+      "id": "e25",
+      "name": "赫胥黎",
+      "canonical_name": "赫胥黎",
+      "type": "人物",
+      "evidence": "故赫胥黎辈毅然与宗教家抗",
+      "confidence": 1.0
+    },
+    {
+      "id": "e26",
+      "name": "宗教家",
+      "canonical_name": "宗教家",
+      "type": "阵营/群体",
+      "evidence": "故赫胥黎辈毅然与宗教家抗",
+      "confidence": 1.0
+    },
+    {
+      "id": "e27",
+      "name": "自然科学",
+      "canonical_name": "自然科学",
+      "type": "概念",
+      "evidence": "要求以自然科学加入学校科目中",
+      "confidence": 1.0
+    },
+    {
+      "id": "e28",
+      "name": "学校科目",
+      "canonical_name": "学校科目",
+      "type": "概念",
+      "evidence": "要求以自然科学加入学校科目中",
+      "confidence": 1.0
+    },
+    {
+      "id": "e29",
+      "name": "科学的信仰",
+      "canonical_name": "科学信仰",
+      "type": "概念",
+      "evidence": "十九世纪之初，科学的信仰，如日中天",
+      "confidence": 1.0
+    }
+  ],
+  "claims": [
+    {
+      "id": "c1",
+      "speaker": "张君劢",
+      "claim": "科学以对待以因果为本义",
+      "target": "科学",
+      "claim_type": "定义性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "科学以对待以因果为本义",
+      "confidence": 1.0
+    },
+    {
+      "id": "c2",
+      "speaker": "张君劢",
+      "claim": "学生脑中装满了此种学说，视己身为因果网所缠绕，几忘人生在宇宙间独往独来之价值",
+      "target": "学生",
+      "claim_type": "文明批评",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "然学生脑中装满了此种学说，视己身为因果网所缠绕，几忘人生在宇宙间独往独来之价值",
+      "confidence": 1.0
+    },
+    {
+      "id": "c3",
+      "speaker": "张君劢",
+      "claim": "科学智识之充满，以为人生世上之意义，惟官觉所及者足以了之，于是求物质之快乐，求一时之虚荣",
+      "target": "科学智识",
+      "claim_type": "文明批评",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "科学智识之充满，以为人生世上之意义，惟官觉所及者足以了之，于是求物质之快乐，求一时之虚荣",
+      "confidence": 1.0
+    },
+    {
+      "id": "c4",
+      "speaker": "张君劢",
+      "claim": "科学以分科研究为下手方法，故其答案常限于本范围内",
+      "target": "科学",
+      "claim_type": "方法论主张",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "科学以分科研究为下手方法，故其答案常限于本范围内",
+      "confidence": 1.0
+    },
+    {
+      "id": "c5",
+      "speaker": "张君劢",
+      "claim": "科学之所答者，非即吾人之所需，惟有令人常以“此另一事”四字了之",
+      "target": "科学",
+      "claim_type": "文明批评",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "科学之所答者，非即吾人之所需，惟有令人常以“此另一事”四字了之",
+      "confidence": 1.0
+    },
+    {
+      "id": "c6",
+      "speaker": "张君劢",
+      "claim": "时时在显微镜中过生活，致人之心思才力流于细节而不识宇宙之大",
+      "target": "科学",
+      "claim_type": "文明批评",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "然时时在显微镜中过生活，致人之心思才力流于细节而不识宇宙之大",
+      "confidence": 1.0
+    },
+    {
+      "id": "c7",
+      "speaker": "张君劢",
+      "claim": "教育家为应付社会中之生计制度计，常以现时生计制度为标准，而养育人才",
+      "target": "教育家",
+      "claim_type": "社会理论主张",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "教育家为应付社会中之生计制度计，常以现时生计制度为标准，而养育人才",
+      "confidence": 1.0
+    },
+    {
+      "id": "c8",
+      "speaker": "张君劢",
+      "claim": "变更社会之贫富阶级，使凡为人类，各得为全人格之活动，皆得享全人格之发展，则为适应环境之科学的教育家所不敢道",
+      "target": "科学的教育家",
+      "claim_type": "文明批评",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "若夫变更社会之贫富阶级，使凡为人类，各得为全人格之活动，皆得享全人格之发展，则为适应环境之科学的教育家所不敢道",
+      "confidence": 1.0
+    },
+    {
+      "id": "c9",
+      "speaker": "张君劢",
+      "claim": "十九世纪之初，科学的信仰，如日中天",
+      "target": "科学的信仰",
+      "claim_type": "历史解释",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "十九世纪之初，科学的信仰，如日中天",
+      "confidence": 1.0
+    },
+    {
+      "id": "c10",
+      "speaker": "张君劢",
+      "claim": "赫胥黎辈毅然与宗教家抗，要求以自然科学加入学校科目中",
+      "target": "赫胥黎",
+      "claim_type": "历史解释",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "故赫胥黎辈毅然与宗教家抗，要求以自然科学加入学校科目中",
+      "confidence": 1.0
+    },
+    {
+      "id": "c11",
+      "speaker": "张君劢",
+      "claim": "今其行之也，暂者数十年，久者已及百年，利害得失，皎然大明",
+      "target": "自然科学加入学校科目",
+      "claim_type": "历史解释",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "今其行之也，暂者数十年，久者已及百年，利害得失，皎然大明",
+      "confidence": 1.0
+    }
+  ],
+  "relations": [
+    {
+      "id": "r1",
+      "head": "科学",
+      "head_type": "概念",
+      "relation": "定义",
+      "tail": "对待",
+      "tail_type": "概念",
+      "polarity": "neutral",
+      "evidence": "科学以对待以因果为本义",
+      "confidence": 1.0
+    },
+    {
+      "id": "r2",
+      "head": "科学",
+      "head_type": "概念",
+      "relation": "定义",
+      "tail": "因果",
+      "tail_type": "概念",
+      "polarity": "neutral",
+      "evidence": "科学以对待以因果为本义",
+      "confidence": 1.0
+    },
+    {
+      "id": "r3",
+      "head": "因果",
+      "head_type": "概念",
+      "relation": "包含",
+      "tail": "物理上之因果",
+      "tail_type": "概念",
+      "polarity": "neutral",
+      "evidence": "有力而后生动，物理上之因果也；思想与脑神经相表里，生理上心理上之因果也；生命之基础在细胞，生物上之因果也；社会进化，视其国之地理气候如何，历史上之因果也",
+      "confidence": 1.0
+    },
+    {
+      "id": "r4",
+      "head": "因果",
+      "head_type": "概念",
+      "relation": "包含",
+      "tail": "生理上心理上之因果",
+      "tail_type": "概念",
+      "polarity": "neutral",
+      "evidence": "思想与脑神经相表里，生理上心理上之因果也",
+      "confidence": 1.0
+    },
+    {
+      "id": "r5",
+      "head": "因果",
+      "head_type": "概念",
+      "relation": "包含",
+      "tail": "生物上之因果",
+      "tail_type": "概念",
+      "polarity": "neutral",
+      "evidence": "生命之基础在细胞，生物上之因果也",
+      "confidence": 1.0
+    },
+    {
+      "id": "r6",
+      "head": "因果",
+      "head_type": "概念",
+      "relation": "包含",
+      "tail": "历史上之因果",
+      "tail_type": "概念",
+      "polarity": "neutral",
+      "evidence": "社会进化，视其国之地理气候如何，历史上之因果也",
+      "confidence": 1.0
+    },
+    {
+      "id": "r7",
+      "head": "科学智识",
+      "head_type": "概念",
+      "relation": "导致",
+      "tail": "求物质之快乐",
+      "tail_type": "概念",
+      "polarity": "negative",
+      "evidence": "科学智识之充满，以为人生世上之意义，惟官觉所及者足以了之，于是求物质之快乐",
+      "confidence": 1.0
+    },
+    {
+      "id": "r8",
+      "head": "科学智识",
+      "head_type": "概念",
+      "relation": "导致",
+      "tail": "求一时之虚荣",
+      "tail_type": "概念",
+      "polarity": "negative",
+      "evidence": "科学智识之充满，以为人生世上之意义，惟官觉所及者足以了之，于是求物质之快乐，求一时之虚荣",
+      "confidence": 1.0
+    },
+    {
+      "id": "r9",
+      "head": "对待观念",
+      "head_type": "概念",
+      "relation": "导致",
+      "tail": "权利义务之对照表",
+      "tail_type": "比喻/类比",
+      "polarity": "negative",
+      "evidence": "而权利义务之对照表，尤时时悬在心目之间，皆平日之对待观念有以养成之",
+      "confidence": 1.0
+    },
+    {
+      "id": "r10",
+      "head": "分科研究",
+      "head_type": "方法",
+      "relation": "导致",
+      "tail": "答案常限于本范围内",
+      "tail_type": "观点",
+      "polarity": "negative",
+      "evidence": "科学以分科研究为下手方法，故其答案常限于本范围内",
+      "confidence": 1.0
+    },
+    {
+      "id": "r11",
+      "head": "教育家",
+      "head_type": "阵营/群体",
+      "relation": "导致",
+      "tail": "学一艺而终身于一艺",
+      "tail_type": "观点",
+      "polarity": "negative",
+      "evidence": "教育家为应付社会中之生计制度计，常以现时生计制度为标准，而养育人才。于是学一艺而终身于一艺",
+      "confidence": 1.0
+    },
+    {
+      "id": "r12",
+      "head": "科学的教育家",
+      "head_type": "阵营/群体",
+      "relation": "批评",
+      "tail": "变更社会之贫富阶级",
+      "tail_type": "概念",
+      "polarity": "negative",
+      "evidence": "若夫变更社会之贫富阶级，使凡为人类，各得为全人格之活动，皆得享全人格之发展，则为适应环境之科学的教育家所不敢道",
+      "confidence": 1.0
+    },
+    {
+      "id": "r13",
+      "head": "赫胥黎",
+      "head_type": "人物",
+      "relation": "反对",
+      "tail": "宗教家",
+      "tail_type": "阵营/群体",
+      "polarity": "negative",
+      "evidence": "故赫胥黎辈毅然与宗教家抗",
+      "confidence": 1.0
+    }
+  ],
+  "definitions": [
+    {
+      "id": "def1",
+      "term": "科学",
+      "definition": "科学以对待和因果为本义",
+      "evidence": "科学以对待以因果为本义",
+      "confidence": 1.0
+    },
+    {
+      "id": "def2",
+      "term": "物理上之因果",
+      "definition": "有力而后生动",
+      "evidence": "有力而后生动，物理上之因果也",
+      "confidence": 1.0
+    },
+    {
+      "id": "def3",
+      "term": "生理上心理上之因果",
+      "definition": "思想与脑神经相表里",
+      "evidence": "思想与脑神经相表里，生理上心理上之因果也",
+      "confidence": 1.0
+    },
+    {
+      "id": "def4",
+      "term": "生物上之因果",
+      "definition": "生命之基础在细胞",
+      "evidence": "生命之基础在细胞，生物上之因果也",
+      "confidence": 1.0
+    },
+    {
+      "id": "def5",
+      "term": "历史上之因果",
+      "definition": "社会进化，视其国之地理气候如何",
+      "evidence": "社会进化，视其国之地理气候如何，历史上之因果也",
+      "confidence": 1.0
+    }
+  ],
+  "citations": [
+    {
+      "id": "cit1",
+      "citer": "张君劢",
+      "quoted_author": "赫胥黎",
+      "quoted_work": "",
+      "quoted_claim": "要求以自然科学加入学校科目中",
+      "function": "作为历史证据",
+      "evidence": "故赫胥黎辈毅然与宗教家抗，要求以自然科学加入学校科目中",
+      "confidence": 1.0
+    }
+  ],
+  "rhetorical_devices": [
+    {
+      "id": "rh1",
+      "expression": "因果网",
+      "device_type": "比喻",
+      "literal_target": "因果学说对学生的束缚",
+      "function": "形象化地批评科学因果观对人的束缚",
+      "evidence": "视己身为因果网所缠绕",
+      "confidence": 1.0
+    },
+    {
+      "id": "rh2",
+      "expression": "权利义务之对照表",
+      "device_type": "比喻",
+      "literal_target": "对权利义务的计较态度",
+      "function": "讽刺科学对待观念导致功利计较",
+      "evidence": "而权利义务之对照表，尤时时悬在心目之间",
+      "confidence": 1.0
+    },
+    {
+      "id": "rh3",
+      "expression": "显微镜",
+      "device_type": "比喻",
+      "literal_target": "科学分科研究的精细方法",
+      "function": "批评科学分科导致眼光狭窄",
+      "evidence": "然时时在显微镜中过生活",
+      "confidence": 1.0
+    },
+    {
+      "id": "rh4",
+      "expression": "如日中天",
+      "device_type": "比喻",
+      "literal_target": "科学的信仰非常兴盛",
+      "function": "描述科学信仰的鼎盛状态",
+      "evidence": "十九世纪之初，科学的信仰，如日中天",
+      "confidence": 1.0
+    }
+  ],
+  "uncertainties": [
+    {
+      "item": "relation r7 中 head 的实体名称",
+      "reason": "文本中'此种学说'指代前文提到的因果学说，但未明确命名，暂用'因果学说'作为概念实体，但原文未出现该词"
+    }
+  ],
+  "_meta": {
+    "status": "success",
+    "stage": "extract",
+    "model": "deepseek-ai/DeepSeek-V4-Flash",
+    "base_url": "https://api.siliconflow.cn/v1",
+    "prompt_version": "extract_prompt_v2.0",
+    "schema_version": "lite_v2.0",
+    "segment_id": "张君劢_002_c870d202_s0025",
+    "article_id": "张君劢_002_c870d202",
+    "char_start": 12546,
+    "char_end": 13123,
+    "raw_path": "E:\\1研究生\\岭南大学\\论文毕业\\capstone\\资料\\新的内容开始了\\local_upload\\kg_runs\\张君劢\\raw_outputs\\extract\\张君劢_002_c870d202_s0025.txt",
+    "parsed_at": "2026-05-20T04:00:34",
+    "started_at": "2026-05-20T03:58:13",
+    "elapsed_seconds": 140.707,
+    "strict_evidence_check": true,
+    "drop_unsupported_evidence": true,
+    "request_timeout_seconds": 180
+  }
+}

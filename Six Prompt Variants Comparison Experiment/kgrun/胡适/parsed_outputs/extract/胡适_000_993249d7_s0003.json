@@ -1,0 +1,367 @@
+{
+  "metadata": {
+    "schema_version": "lite_v2.0",
+    "article_id": "胡适_000_993249d7",
+    "article_title": "序二",
+    "source_author": "胡适",
+    "section_title": "",
+    "section_author": "",
+    "segment_id": "胡适_000_993249d7_s0003",
+    "segment_index": 3,
+    "source_file": "E:\\1研究生\\岭南大学\\论文毕业\\capstone\\资料\\新的内容开始了\\local_upload\\input_w3\\胡适.txt"
+  },
+  "entities": [
+    {
+      "id": "e1",
+      "name": "梁先生",
+      "canonical_name": "梁启超",
+      "type": "人物",
+      "evidence": "梁先生在这段文章里很动情感地指出科学家的人生观的流毒",
+      "confidence": 0.9
+    },
+    {
+      "id": "e2",
+      "name": "科学家",
+      "canonical_name": "科学家",
+      "type": "阵营/群体",
+      "evidence": "科学家的人生观的流毒",
+      "confidence": 0.9
+    },
+    {
+      "id": "e3",
+      "name": "玄学家",
+      "canonical_name": "玄学家",
+      "type": "阵营/群体",
+      "evidence": "梁先生掇拾了一些玄学家诬蔑科学人生观的话头",
+      "confidence": 0.9
+    },
+    {
+      "id": "e4",
+      "name": "科学",
+      "canonical_name": "科学",
+      "type": "概念",
+      "evidence": "科学在中国的尊严就远不如前了",
+      "confidence": 0.9
+    },
+    {
+      "id": "e5",
+      "name": "人生观",
+      "canonical_name": "人生观",
+      "type": "概念",
+      "evidence": "科学家的人生观的流毒",
+      "confidence": 0.9
+    },
+    {
+      "id": "e6",
+      "name": "科学万能",
+      "canonical_name": "科学万能",
+      "type": "观点",
+      "evidence": "时讴歌科学万能的人",
+      "confidence": 0.9
+    },
+    {
+      "id": "e7",
+      "name": "科学破产",
+      "canonical_name": "科学破产",
+      "type": "观点",
+      "evidence": "梁先生要说的是欧洲“科学破产”的喊声",
+      "confidence": 0.9
+    },
+    {
+      "id": "e8",
+      "name": "纯物质的纯机械的人生观",
+      "canonical_name": "纯物质的纯机械的人生观",
+      "type": "概念",
+      "evidence": "那“纯物质的纯机械的人生观”把欧洲全社会“都陷入怀疑沉闷畏惧之中”",
+      "confidence": 0.9
+    },
+    {
+      "id": "e9",
+      "name": "《欧游心影录》",
+      "canonical_name": "《欧游心影录》",
+      "type": "著作",
+      "evidence": "自从《欧游心影录》发表之后",
+      "confidence": 0.9
+    },
+    {
+      "id": "e10",
+      "name": "欧洲人",
+      "canonical_name": "欧洲人",
+      "type": "阵营/群体",
+      "evidence": "欧洲人做了一场科学万能的大梦",
+      "confidence": 0.9
+    },
+    {
+      "id": "e11",
+      "name": "欧洲",
+      "canonical_name": "欧洲",
+      "type": "概念",
+      "evidence": "把欧洲全社会“都陷入怀疑沉闷畏惧之中”",
+      "confidence": 0.9
+    },
+    {
+      "id": "e12",
+      "name": "这回大战争",
+      "canonical_name": "第一次世界大战",
+      "type": "历史事件",
+      "evidence": "“这回大战争，便是一个报应”",
+      "confidence": 0.9
+    },
+    {
+      "id": "e13",
+      "name": "梁任公近著",
+      "canonical_name": "梁任公近著",
+      "type": "著作",
+      "evidence": "（《梁任公近著》第一辑上卷，页一九一二三）",
+      "confidence": 0.9
+    }
+  ],
+  "claims": [
+    {
+      "id": "c1",
+      "speaker": "梁先生",
+      "claim": "科学家的人生观有流毒",
+      "target": "科学家的人生观",
+      "claim_type": "价值评价",
+      "claim_status": "作者概括",
+      "polarity": "negative",
+      "evidence": "梁先生在这段文章里很动情感地指出科学家的人生观的流毒",
+      "confidence": 0.9
+    },
+    {
+      "id": "c2",
+      "speaker": "梁先生",
+      "claim": "纯物质的纯机械的人生观把欧洲全社会都陷入怀疑沉闷畏惧之中，养成弱肉强食的现状，这回大战争便是一个报应",
+      "target": "纯物质的纯机械的人生观",
+      "claim_type": "社会理论主张",
+      "claim_status": "作者概括",
+      "polarity": "negative",
+      "evidence": "他很明显地控告那“纯物质的纯机械的人生观”把欧洲全社会“都陷入怀疑沉闷畏惧之中”，养成“弱肉强食”的现状，——“这回大战争，便是一个报应”",
+      "confidence": 0.9
+    },
+    {
+      "id": "c3",
+      "speaker": "梁先生",
+      "claim": "科学家的人生观造成抢面包吃的社会，使人生没有一毫意味，使人类没有一毫价值，没有给人类带来幸福，倒反带来许多灾难，叫人类无限悽惶失望",
+      "target": "科学家的人生观",
+      "claim_type": "社会理论主张",
+      "claim_status": "作者概括",
+      "polarity": "negative",
+      "evidence": "他很明白地控告这种科学家的人生观造成“抢面包吃”的社会，使人生没有一毫意味，使人类没有一毫价值，没有给人类带来幸福，“倒反带来许多灾难”，叫人类“无限悽惶失望”",
+      "confidence": 0.9
+    },
+    {
+      "id": "c4",
+      "speaker": "梁先生",
+      "claim": "欧洲科学破产",
+      "target": "科学",
+      "claim_type": "价值评价",
+      "claim_status": "作者概括",
+      "polarity": "negative",
+      "evidence": "梁先生要说的是欧洲“科学破产”的喊声",
+      "confidence": 0.9
+    },
+    {
+      "id": "c5",
+      "speaker": "梁先生",
+      "claim": "我绝不承认科学破产，不过也不承认科学万能罢了",
+      "target": "科学",
+      "claim_type": "定义性主张",
+      "claim_status": "直接引用",
+      "polarity": "mixed",
+      "evidence": "读者切勿误会，因此菲薄科学，我绝不承认科学破产，不过也不承认科学万能罢了",
+      "confidence": 0.9
+    },
+    {
+      "id": "c6",
+      "speaker": "胡适",
+      "claim": "梁先生掇拾了一些玄学家诬蔑科学人生观的话头，便加上了“科学破产”的恶名",
+      "target": "梁先生",
+      "claim_type": "论战策略批评",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "梁先生掇拾了一些玄学家诬蔑科学人生观的话头，便加上了“科学破产”的恶名",
+      "confidence": 0.9
+    },
+    {
+      "id": "c7",
+      "speaker": "胡适",
+      "claim": "谣言这件东西，就同野火一样，是易放而难收的。自从《欧游心影录》发表之后，科学在中国的尊严就远不如前了",
+      "target": "《欧游心影录》",
+      "claim_type": "社会理论主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "谣言这件东西，就同野火一样，是易放而难收的。自从《欧游心影录》发表之后，科学在中国的尊严就远不如前了",
+      "confidence": 0.9
+    },
+    {
+      "id": "c8",
+      "speaker": "时讴歌科学万能的人",
+      "claim": "科学成功，黄金世界便指日出现",
+      "target": "科学",
+      "claim_type": "社会理论主张",
+      "claim_status": "作者概括",
+      "polarity": "positive",
+      "evidence": "时讴歌科学万能的人，满望着科学成功，黄金世界便指日出现",
+      "confidence": 0.9
+    },
+    {
+      "id": "c9",
+      "speaker": "梁先生",
+      "claim": "人类不惟没有得着幸福，倒反带来许多灾难",
+      "target": "科学",
+      "claim_type": "价值评价",
+      "claim_status": "间接转述",
+      "polarity": "negative",
+      "evidence": "我们人类不惟没有得着幸福，倒反带来许多灾难",
+      "confidence": 0.9
+    },
+    {
+      "id": "c10",
+      "speaker": "梁先生",
+      "claim": "欧洲人做了一场科学万能的大梦，到如今却叫起科学破产来",
+      "target": "欧洲人",
+      "claim_type": "历史解释",
+      "claim_status": "间接转述",
+      "polarity": "negative",
+      "evidence": "欧洲人做了一场科学万能的大梦，到如今却叫起科学破产来",
+      "confidence": 0.9
+    }
+  ],
+  "relations": [
+    {
+      "id": "r1",
+      "head": "梁先生",
+      "head_type": "人物",
+      "relation": "批评",
+      "tail": "科学家的人生观",
+      "tail_type": "概念",
+      "polarity": "negative",
+      "evidence": "梁先生要说的是欧洲“科学破产”的喊声，而他举出的却是科学家的人生观的罪状",
+      "confidence": 0.9
+    },
+    {
+      "id": "r2",
+      "head": "梁先生",
+      "head_type": "人物",
+      "relation": "相关",
+      "tail": "玄学家",
+      "tail_type": "阵营/群体",
+      "polarity": "negative",
+      "evidence": "梁先生掇拾了一些玄学家诬蔑科学人生观的话头",
+      "confidence": 0.9
+    },
+    {
+      "id": "r3",
+      "head": "胡适",
+      "head_type": "人物",
+      "relation": "批评",
+      "tail": "梁先生",
+      "tail_type": "人物",
+      "polarity": "negative",
+      "evidence": "梁先生要说的是欧洲“科学破产”的喊声，而他举出的却是科学家的人生观的罪状",
+      "confidence": 0.9
+    },
+    {
+      "id": "r4",
+      "head": "《欧游心影录》",
+      "head_type": "著作",
+      "relation": "导致",
+      "tail": "科学在中国的尊严就远不如前了",
+      "tail_type": "观点",
+      "polarity": "negative",
+      "evidence": "自从《欧游心影录》发表之后，科学在中国的尊严就远不如前了",
+      "confidence": 0.9
+    },
+    {
+      "id": "r5",
+      "head": "纯物质的纯机械的人生观",
+      "head_type": "概念",
+      "relation": "导致",
+      "tail": "这回大战争",
+      "tail_type": "历史事件",
+      "polarity": "negative",
+      "evidence": "那“纯物质的纯机械的人生观”把欧洲全社会“都陷入怀疑沉闷畏惧之中”，养成“弱肉强食”的现状，——“这回大战争，便是一个报应”",
+      "confidence": 0.9
+    }
+  ],
+  "definitions": [
+    {
+      "id": "def1",
+      "term": "纯物质的纯机械的人生观",
+      "definition": "一种被梁先生控告为导致欧洲社会陷入怀疑沉闷畏惧、弱肉强食和世界大战的人生观",
+      "evidence": "那“纯物质的纯机械的人生观”把欧洲全社会“都陷入怀疑沉闷畏惧之中”，养成“弱肉强食”的现状，——“这回大战争，便是一个报应”",
+      "confidence": 0.9
+    }
+  ],
+  "citations": [
+    {
+      "id": "cit1",
+      "citer": "梁先生",
+      "quoted_author": "梁先生",
+      "quoted_work": "",
+      "quoted_claim": "读者切勿误会，因此菲薄科学，我绝不承认科学破产，不过也不承认科学万能罢了",
+      "function": "中性提及",
+      "evidence": "梁先生后来在这一段之后，加上两行自注道：> 读者切勿误会，因此菲薄科学，我绝不承认科学破产，不过也不承认科学万能罢了",
+      "confidence": 0.9
+    }
+  ],
+  "rhetorical_devices": [
+    {
+      "id": "rh1",
+      "expression": "好像沙漠中失路的旅人，远远望见个大黑影，拼命往前赶，以为可以靠他向导，那知赶上几程，影子却不见了，因此无限悽惶失望。影子是谁，就是这位‘科学先生’",
+      "device_type": "比喻",
+      "literal_target": "科学",
+      "function": "通过比喻将科学比作不可靠的向导，表达对科学的失望和批评",
+      "evidence": "好像沙漠中失路的旅人，远远望见个大黑影，拼命往前赶，以为可以靠他向导，那知赶上几程，影子却不见了，因此无限悽惶失望。影子是谁，就是这位‘科学先生’",
+      "confidence": 0.9
+    },
+    {
+      "id": "rh2",
+      "expression": "谣言这件东西，就同野火一样，是易放而难收的",
+      "device_type": "比喻",
+      "literal_target": "谣言",
+      "function": "通过比喻强调谣言传播的迅速和难以控制，暗示《欧游心影录》的负面影响",
+      "evidence": "谣言这件东西，就同野火一样，是易放而难收的",
+      "confidence": 0.9
+    },
+    {
+      "id": "rh3",
+      "expression": "欧洲人做了一场科学万能的大梦",
+      "device_type": "比喻",
+      "literal_target": "欧洲人对科学的信仰",
+      "function": "将欧洲人对科学的信仰比作一场梦，暗示其虚幻和不现实",
+      "evidence": "欧洲人做了一场科学万能的大梦",
+      "confidence": 0.9
+    }
+  ],
+  "uncertainties": [
+    {
+      "item": "梁先生是否明确将“科学破产”与“科学家的人生观”等同",
+      "reason": "胡适概括说梁先生举出的是科学家的人生观的罪状，但梁先生原文可能并非直接等同，需核实原文"
+    },
+    {
+      "item": "“时讴歌科学万能的人”是否特指某一群体或泛指",
+      "reason": "文本未明确说明具体指谁，仅以“时讴歌科学万能的人”表述"
+    }
+  ],
+  "_meta": {
+    "status": "success",
+    "stage": "extract",
+    "model": "deepseek-ai/DeepSeek-V4-Flash",
+    "base_url": "https://api.siliconflow.cn/v1",
+    "prompt_version": "extract_prompt_v2.0",
+    "schema_version": "lite_v2.0",
+    "segment_id": "胡适_000_993249d7_s0003",
+    "article_id": "胡适_000_993249d7",
+    "char_start": 1489,
+    "char_end": 2063,
+    "raw_path": "E:\\1研究生\\岭南大学\\论文毕业\\capstone\\资料\\新的内容开始了\\local_upload\\kg_runs\\胡适\\raw_outputs\\extract\\胡适_000_993249d7_s0003.txt",
+    "parsed_at": "2026-05-19T23:37:52",
+    "started_at": "2026-05-19T23:32:36",
+    "elapsed_seconds": 315.441,
+    "strict_evidence_check": true,
+    "drop_unsupported_evidence": true,
+    "request_timeout_seconds": 180
+  }
+}

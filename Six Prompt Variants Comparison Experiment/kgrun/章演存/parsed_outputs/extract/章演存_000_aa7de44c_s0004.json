@@ -1,0 +1,389 @@
+{
+  "metadata": {
+    "schema_version": "lite_v2.0",
+    "article_id": "章演存_000_aa7de44c",
+    "article_title": "张君劢主张的人生观对科学的五个异点",
+    "source_author": "章演存",
+    "section_title": "",
+    "section_author": "",
+    "segment_id": "章演存_000_aa7de44c_s0004",
+    "segment_index": 4,
+    "source_file": "E:\\1研究生\\岭南大学\\论文毕业\\capstone\\资料\\新的内容开始了\\local_upload\\input_retry\\章演存.txt"
+  },
+  "entities": [
+    {
+      "id": "e1",
+      "name": "因果律",
+      "canonical_name": "因果律",
+      "type": "概念",
+      "evidence": "这不是张君的人生观已经受了因果律的支配吗？",
+      "confidence": 1.0
+    },
+    {
+      "id": "e2",
+      "name": "人生观",
+      "canonical_name": "人生观",
+      "type": "概念",
+      "evidence": "这不是张君的人生观已经受了因果律的支配吗？",
+      "confidence": 1.0
+    },
+    {
+      "id": "e3",
+      "name": "科学",
+      "canonical_name": "科学",
+      "type": "概念",
+      "evidence": "第五个异点：科学起于对象之相同现象，人生观起于人格之单一性。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e4",
+      "name": "人格之单一性",
+      "canonical_name": "人格之单一性",
+      "type": "概念",
+      "evidence": "第五个异点：科学起于对象之相同现象，人生观起于人格之单一性。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e5",
+      "name": "对象之相同现象",
+      "canonical_name": "对象之相同现象",
+      "type": "概念",
+      "evidence": "第五个异点：科学起于对象之相同现象，人生观起于人格之单一性。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e6",
+      "name": "新物理学",
+      "canonical_name": "新物理学",
+      "type": "概念",
+      "evidence": "张君也知道现在新物理学里边，只是去求对象的相同原则，并没有对象的相同现象吗？",
+      "confidence": 1.0
+    },
+    {
+      "id": "e7",
+      "name": "玄学家",
+      "canonical_name": "玄学家",
+      "type": "阵营/群体",
+      "evidence": "但是我们觉得不应该把科学上的新理去和玄学家纠缠",
+      "confidence": 1.0
+    },
+    {
+      "id": "e8",
+      "name": "测验",
+      "canonical_name": "测验",
+      "type": "方法",
+      "evidence": "测验与统计施之一般群众，固无不可；若夫特别之人物，亦谓由统计或测验而得，则断断不然。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e9",
+      "name": "统计",
+      "canonical_name": "统计",
+      "type": "方法",
+      "evidence": "测验与统计施之一般群众，固无不可；若夫特别之人物，亦谓由统计或测验而得，则断断不然。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e10",
+      "name": "一般群众",
+      "canonical_name": "一般群众",
+      "type": "阵营/群体",
+      "evidence": "测验与统计施之一般群众，固无不可；若夫特别之人物，亦谓由统计或测验而得，则断断不然。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e11",
+      "name": "特别之人物",
+      "canonical_name": "特别之人物",
+      "type": "阵营/群体",
+      "evidence": "若夫特别之人物，亦谓由统计或测验而得，则断断不然。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e12",
+      "name": "先觉",
+      "canonical_name": "先觉",
+      "type": "阵营/群体",
+      "evidence": "吾国旧名词曰先觉，曰豪杰，西方之名曰创造，曰天才，无非表示人格之特性而已。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e13",
+      "name": "豪杰",
+      "canonical_name": "豪杰",
+      "type": "阵营/群体",
+      "evidence": "吾国旧名词曰先觉，曰豪杰，西方之名曰创造，曰天才，无非表示人格之特性而已。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e14",
+      "name": "创造",
+      "canonical_name": "创造",
+      "type": "阵营/群体",
+      "evidence": "吾国旧名词曰先觉，曰豪杰，西方之名曰创造，曰天才，无非表示人格之特性而已。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e15",
+      "name": "天才",
+      "canonical_name": "天才",
+      "type": "阵营/群体",
+      "evidence": "吾国旧名词曰先觉，曰豪杰，西方之名曰创造，曰天才，无非表示人格之特性而已。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e16",
+      "name": "人格之特性",
+      "canonical_name": "人格之特性",
+      "type": "概念",
+      "evidence": "吾国旧名词曰先觉，曰豪杰，西方之名曰创造，曰天才，无非表示人格之特性而已。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e17",
+      "name": "科学家",
+      "canonical_name": "科学家",
+      "type": "阵营/群体",
+      "evidence": "科学不能解决人生观，就是证明一般科学家是群众，不是先觉，豪杰，创造，天才吗？",
+      "confidence": 1.0
+    }
+  ],
+  "claims": [
+    {
+      "id": "c1",
+      "speaker": "章演存",
+      "claim": "张君的人生观已经受了因果律的支配",
+      "target": "张君劢",
+      "claim_type": "反驳性主张",
+      "claim_status": "作者推论",
+      "polarity": "negative",
+      "evidence": "这不是张君的人生观已经受了因果律的支配吗？",
+      "confidence": 1.0
+    },
+    {
+      "id": "c2",
+      "speaker": "章演存",
+      "claim": "张君一定会说“因果律是一件事，人生观又是一件事”",
+      "target": "张君劢",
+      "claim_type": "论战策略批评",
+      "claim_status": "作者讽刺性归纳",
+      "polarity": "negative",
+      "evidence": "但是我想张君一定要说“因果律是一件事，人生观又是一件事”。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c3",
+      "speaker": "张君劢",
+      "claim": "科学起于对象之相同现象，人生观起于人格之单一性",
+      "target": "科学",
+      "claim_type": "定义性主张",
+      "claim_status": "对手直接主张",
+      "polarity": "neutral",
+      "evidence": "第五个异点：科学起于对象之相同现象，人生观起于人格之单一性。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c4",
+      "speaker": "章演存",
+      "claim": "新物理学里边只是去求对象的相同原则，并没有对象的相同现象",
+      "target": "新物理学",
+      "claim_type": "知识论主张",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "张君也知道现在新物理学里边，只是去求对象的相同原则，并没有对象的相同现象吗？",
+      "confidence": 1.0
+    },
+    {
+      "id": "c5",
+      "speaker": "章演存",
+      "claim": "不应该把科学上的新理去和玄学家纠缠",
+      "target": "玄学家",
+      "claim_type": "论战策略批评",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "但是我们觉得不应该把科学上的新理去和玄学家纠缠",
+      "confidence": 1.0
+    },
+    {
+      "id": "c6",
+      "speaker": "张君劢",
+      "claim": "人生观者全体也，不容于分割中求之也",
+      "target": "人生观",
+      "claim_type": "定义性主张",
+      "claim_status": "直接引用",
+      "polarity": "neutral",
+      "evidence": "张君早已再三声明：“人生观者全体也，不容于分割中求之也。”",
+      "confidence": 1.0
+    },
+    {
+      "id": "c7",
+      "speaker": "张君劢",
+      "claim": "人生观者，殊特的也，个性的也，有一无二者也。见于甲者不得而求之于乙；见于乙者不得而求之于丙",
+      "target": "人生观",
+      "claim_type": "定义性主张",
+      "claim_status": "直接引用",
+      "polarity": "neutral",
+      "evidence": "……人生观者，殊特的也，个性的也，有一无二者也。见于甲者不得而求之于乙；见于乙者不得而求之于丙。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c8",
+      "speaker": "章演存",
+      "claim": "甲乙丙……等的人生观，还算得都是全体的吗？",
+      "target": "张君劢",
+      "claim_type": "反驳性主张",
+      "claim_status": "作者推论",
+      "polarity": "negative",
+      "evidence": "这样说来，甲乙丙……等的人生观，还算得都是全体的吗？",
+      "confidence": 1.0
+    },
+    {
+      "id": "c9",
+      "speaker": "张君劢",
+      "claim": "自然界现象之特征，则在其互同；人类界之特征，则在其互异。惟其各异，吾国旧名词曰先觉，曰豪杰，西方之名曰创造，曰天才，无非表示人格之特性而已",
+      "target": "自然界现象",
+      "claim_type": "定义性主张",
+      "claim_status": "直接引用",
+      "polarity": "neutral",
+      "evidence": "张君又说：“自然界现象之特征，则在其互同；人类界之特征，则在其互异。惟其各异，吾国旧名词曰先觉，曰豪杰，西方之名曰创造，曰天才，无非表示人格之特性而已。”",
+      "confidence": 1.0
+    },
+    {
+      "id": "c10",
+      "speaker": "章演存",
+      "claim": "张君这段文字，实在不甚明白",
+      "target": "张君劢",
+      "claim_type": "价值评价",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "张君这段文字，实在不甚明白；",
+      "confidence": 1.0
+    },
+    {
+      "id": "c11",
+      "speaker": "章演存",
+      "claim": "张君一定是把人类中之先觉，豪杰，创造，天才来代表人格的单一性",
+      "target": "张君劢",
+      "claim_type": "反驳性主张",
+      "claim_status": "作者推论",
+      "polarity": "negative",
+      "evidence": "从前后推想起来，一定是把人类中之先觉，豪杰，创造，天才来代表人格的单一性。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c12",
+      "speaker": "章演存",
+      "claim": "只许先觉，豪杰，创造，天才有人生观，不许一般群众都有人生观",
+      "target": "张君劢",
+      "claim_type": "反驳性主张",
+      "claim_status": "作者推论",
+      "polarity": "negative",
+      "evidence": "张君既说“人生观起于人格之单一性”，那末，只许先觉，豪杰，创造，天才有人生观，不许一般群众都有人生观吗？",
+      "confidence": 1.0
+    },
+    {
+      "id": "c13",
+      "speaker": "章演存",
+      "claim": "张君提倡人生观，就是证明张君是先觉，豪杰，创造，天才",
+      "target": "张君劢",
+      "claim_type": "反驳性主张",
+      "claim_status": "作者推论",
+      "polarity": "negative",
+      "evidence": "张君提倡人生观，就是证明张君是先觉，豪杰，创造，天才吗？",
+      "confidence": 1.0
+    },
+    {
+      "id": "c14",
+      "speaker": "章演存",
+      "claim": "科学不能解决人生观，就是证明一般科学家是群众，不是先觉，豪杰，创造，天才",
+      "target": "科学家",
+      "claim_type": "反驳性主张",
+      "claim_status": "作者推论",
+      "polarity": "negative",
+      "evidence": "科学不能解决人生观，就是证明一般科学家是群众，不是先觉，豪杰，创造，天才吗？",
+      "confidence": 1.0
+    }
+  ],
+  "relations": [],
+  "definitions": [],
+  "citations": [
+    {
+      "id": "cit1",
+      "citer": "章演存",
+      "quoted_author": "张君劢",
+      "quoted_work": "",
+      "quoted_claim": "人生观者全体也，不容于分割中求之也",
+      "function": "作为批评对象",
+      "evidence": "张君早已再三声明：“人生观者全体也，不容于分割中求之也。”",
+      "confidence": 1.0
+    },
+    {
+      "id": "cit2",
+      "citer": "章演存",
+      "quoted_author": "张君劢",
+      "quoted_work": "",
+      "quoted_claim": "自然界现象之特征，则在其互同；人类界之特征，则在其互异。惟其各异，吾国旧名词曰先觉，曰豪杰，西方之名曰创造，曰天才，无非表示人格之特性而已",
+      "function": "作为批评对象",
+      "evidence": "张君又说：“自然界现象之特征，则在其互同；人类界之特征，则在其互异。惟其各异，吾国旧名词曰先觉，曰豪杰，西方之名曰创造，曰天才，无非表示人格之特性而已。”",
+      "confidence": 1.0
+    }
+  ],
+  "rhetorical_devices": [
+    {
+      "id": "rh1",
+      "expression": "因果律是一件事，人生观又是一件事",
+      "device_type": "讽刺",
+      "literal_target": "张君劢可能用此说法回避因果律对人生观的适用",
+      "function": "讽刺张君劢在因果律与人生观关系上的自相矛盾",
+      "evidence": "但是我想张君一定要说“因果律是一件事，人生观又是一件事”。",
+      "confidence": 0.9
+    },
+    {
+      "id": "rh2",
+      "expression": "甲乙丙……等的人生观，还算得都是全体的吗？",
+      "device_type": "归谬",
+      "literal_target": "张君劢关于人生观全体性的主张",
+      "function": "通过归谬指出张君劢将人生观分割为个体，与其全体性主张矛盾",
+      "evidence": "这样说来，甲乙丙……等的人生观，还算得都是全体的吗？",
+      "confidence": 1.0
+    },
+    {
+      "id": "rh3",
+      "expression": "张君提倡人生观，就是证明张君是先觉，豪杰，创造，天才吗？科学不能解决人生观，就是证明一般科学家是群众，不是先觉，豪杰，创造，天才吗？",
+      "device_type": "归谬",
+      "literal_target": "张君劢关于人生观起于人格单一性的主张",
+      "function": "通过归谬揭示张君劢观点隐含的荒谬推论",
+      "evidence": "张君提倡人生观，就是证明张君是先觉，豪杰，创造，天才吗？科学不能解决人生观，就是证明一般科学家是群众，不是先觉，豪杰，创造，天才吗？",
+      "confidence": 1.0
+    }
+  ],
+  "uncertainties": [
+    {
+      "item": "张君劢是否真的说过“因果律是一件事，人生观又是一件事”",
+      "reason": "章演存说“我想张君一定要说”，这是推测，并非直接引用，不确定张君劢是否确实说过此话"
+    },
+    {
+      "item": "张君劢原文中“先觉，豪杰，创造，天才”是否确实代表人格的单一性",
+      "reason": "章演存说“从前后推想起来，一定是”，这是推论，原文未明确说明"
+    }
+  ],
+  "_meta": {
+    "status": "success",
+    "stage": "extract",
+    "model": "deepseek-ai/DeepSeek-V4-Flash",
+    "base_url": "https://api.siliconflow.cn/v1",
+    "prompt_version": "extract_prompt_v2.0",
+    "schema_version": "lite_v2.0",
+    "segment_id": "章演存_000_aa7de44c_s0004",
+    "article_id": "章演存_000_aa7de44c",
+    "char_start": 2040,
+    "char_end": 2634,
+    "raw_path": "E:\\1研究生\\岭南大学\\论文毕业\\capstone\\资料\\新的内容开始了\\local_upload\\kg_runs\\章演存\\raw_outputs\\extract\\章演存_000_aa7de44c_s0004.txt",
+    "parsed_at": "2026-05-19T16:09:32",
+    "started_at": "2026-05-19T16:06:55",
+    "elapsed_seconds": 156.234,
+    "strict_evidence_check": true,
+    "drop_unsupported_evidence": true,
+    "request_timeout_seconds": 180
+  }
+}

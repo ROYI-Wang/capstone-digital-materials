@@ -1,0 +1,256 @@
+{
+  "metadata": {
+    "schema_version": "lite_v2.0",
+    "article_id": "丁文江2_000_e838922e",
+    "article_title": "玄学与科学——答张君劢",
+    "source_author": "丁文江",
+    "section_title": "",
+    "section_author": "",
+    "segment_id": "丁文江2_000_e838922e_s0033",
+    "segment_index": 33,
+    "source_file": "E:\\1研究生\\岭南大学\\论文毕业\\capstone\\资料\\新的内容开始了\\local_upload\\input_texts\\丁文江2.txt"
+  },
+  "entities": [
+    {
+      "id": "e1",
+      "name": "柏格森",
+      "canonical_name": "柏格森",
+      "type": "人物",
+      "evidence": "用比喻猜想来假充证据，柏格森要算第一。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e2",
+      "name": "《创造的演化》",
+      "canonical_name": "创造的演化",
+      "type": "著作",
+      "evidence": "（《创造的演化》第二页）",
+      "confidence": 1.0
+    },
+    {
+      "id": "e3",
+      "name": "比喻",
+      "canonical_name": "比喻",
+      "type": "概念",
+      "evidence": "用比喻同猜想来同我说是没有用的",
+      "confidence": 1.0
+    },
+    {
+      "id": "e4",
+      "name": "猜想",
+      "canonical_name": "猜想",
+      "type": "概念",
+      "evidence": "用比喻同猜想来同我说是没有用的",
+      "confidence": 1.0
+    },
+    {
+      "id": "e5",
+      "name": "证据",
+      "canonical_name": "证据",
+      "type": "概念",
+      "evidence": "严格的不信任一切没有充分证据的东西",
+      "confidence": 1.0
+    },
+    {
+      "id": "e6",
+      "name": "时间",
+      "canonical_name": "时间",
+      "type": "概念",
+      "evidence": "在心理学上时间是觉官的感觉，在物理学上时间是空间的补充",
+      "confidence": 1.0
+    },
+    {
+      "id": "e7",
+      "name": "心理学",
+      "canonical_name": "心理学",
+      "type": "概念",
+      "evidence": "在心理学上时间是觉官的感觉",
+      "confidence": 1.0
+    },
+    {
+      "id": "e8",
+      "name": "物理学",
+      "canonical_name": "物理学",
+      "type": "概念",
+      "evidence": "在物理学上时间是空间的补充",
+      "confidence": 1.0
+    }
+  ],
+  "claims": [
+    {
+      "id": "c1",
+      "speaker": "丁文江",
+      "claim": "不是消极的；是奋斗的，不是旁观的。",
+      "target": "",
+      "claim_type": "方法论主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "不是消极的；是奋斗的，不是旁观的。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c2",
+      "speaker": "丁文江",
+      "claim": "要“严格的不信任一切没有充分证据的东西”，“用比喻同猜想来同我说是没有用的”",
+      "target": "",
+      "claim_type": "方法论主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "要“严格的不信任一切没有充分证据的东西”，“用比喻同猜想来同我说是没有用的”",
+      "confidence": 0.9
+    },
+    {
+      "id": "c3",
+      "speaker": "丁文江",
+      "claim": "他的证据不充分，我们不信他；他把比喻猜想来做证据，我们一定要戳穿了他的西洋镜，免得他蒙混人。",
+      "target": "柏格森",
+      "claim_type": "论战策略批评",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "他的证据不充分，我们不信他；他把比喻猜想来做证据，我们一定要戳穿了他的西洋镜，免得他蒙混人。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c4",
+      "speaker": "丁文江",
+      "claim": "用比喻猜想来假充证据，柏格森要算第一。",
+      "target": "柏格森",
+      "claim_type": "价值评价",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "用比喻猜想来假充证据，柏格森要算第一。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c5",
+      "speaker": "柏格森",
+      "claim": "从一种状态变到另一种状态，同固守于一种状态是没有根本的分别。",
+      "target": "",
+      "claim_type": "本体论主张",
+      "claim_status": "直接引用",
+      "polarity": "neutral",
+      "evidence": "他把说：“从一种状态变到另一种状态，同固守于一种状态是没有根本的分别。”（《创造的演化》第二页）",
+      "confidence": 0.9
+    },
+    {
+      "id": "c6",
+      "speaker": "柏格森",
+      "claim": "心理的生活是时间造成的，时间是有抵抗力的，有物质的。",
+      "target": "",
+      "claim_type": "本体论主张",
+      "claim_status": "直接引用",
+      "polarity": "neutral",
+      "evidence": "他又说：“心理的生活是时间造成的，时间是有抵抗力的，有物质的。”",
+      "confidence": 0.9
+    },
+    {
+      "id": "c7",
+      "speaker": "丁文江",
+      "claim": "在心理学上时间是觉官的感觉，在物理学上时间是空间的补充，都是根据于可以试验的事实来的，你的这种时间何从而来？你怎样来证明他是有抵抗力的，有物质的？",
+      "target": "柏格森",
+      "claim_type": "反驳性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "在心理学上时间是觉官的感觉，在物理学上时间是空间的补充，都是根据于可以试验的事实来的，你的这种时间何从而来？你怎样来证明他是有抵抗力的，有物质的？",
+      "confidence": 0.9
+    }
+  ],
+  "relations": [
+    {
+      "id": "r1",
+      "head": "丁文江",
+      "head_type": "人物",
+      "relation": "批评",
+      "relation_subtype": "证据不足批评",
+      "tail": "柏格森",
+      "tail_type": "人物",
+      "polarity": "negative",
+      "evidence": "他的证据不充分，我们不信他；他把比喻猜想来做证据，我们一定要戳穿了他的西洋镜，免得他蒙混人。",
+      "confidence": 0.9
+    },
+    {
+      "id": "r2",
+      "head": "丁文江",
+      "head_type": "人物",
+      "relation": "批评",
+      "relation_subtype": "概念混淆批评",
+      "tail": "柏格森",
+      "tail_type": "人物",
+      "polarity": "negative",
+      "evidence": "在心理学上时间是觉官的感觉，在物理学上时间是空间的补充，都是根据于可以试验的事实来的，你的这种时间何从而来？你怎样来证明他是有抵抗力的，有物质的？",
+      "confidence": 0.9
+    },
+    {
+      "id": "r3",
+      "head": "丁文江",
+      "head_type": "人物",
+      "relation": "引用",
+      "relation_subtype": "作为批评对象",
+      "tail": "柏格森",
+      "tail_type": "人物",
+      "polarity": "negative",
+      "evidence": "他把说：“从一种状态变到另一种状态，同固守于一种状态是没有根本的分别。”（《创造的演化》第二页）",
+      "confidence": 0.9
+    },
+    {
+      "id": "r4",
+      "head": "丁文江",
+      "head_type": "人物",
+      "relation": "引用",
+      "relation_subtype": "作为批评对象",
+      "tail": "柏格森",
+      "tail_type": "人物",
+      "polarity": "negative",
+      "evidence": "他又说：“心理的生活是时间造成的，时间是有抵抗力的，有物质的。”",
+      "confidence": 0.9
+    }
+  ],
+  "definitions": [
+    {
+      "id": "def1",
+      "term": "时间",
+      "definition": "在心理学上是觉官的感觉，在物理学上是空间的补充，都是根据于可以试验的事实来的。",
+      "evidence": "在心理学上时间是觉官的感觉，在物理学上时间是空间的补充，都是根据于可以试验的事实来的",
+      "confidence": 0.9
+    }
+  ],
+  "citations": [
+    {
+      "id": "cit1",
+      "citer": "丁文江",
+      "quoted_author": "柏格森",
+      "quoted_work": "《创造的演化》",
+      "quoted_claim": "从一种状态变到另一种状态，同固守于一种状态是没有根本的分别。",
+      "function": "作为批评对象",
+      "evidence": "他把说：“从一种状态变到另一种状态，同固守于一种状态是没有根本的分别。”（《创造的演化》第二页）",
+      "confidence": 0.9
+    },
+    {
+      "id": "cit2",
+      "citer": "丁文江",
+      "quoted_author": "柏格森",
+      "quoted_work": "",
+      "quoted_claim": "心理的生活是时间造成的，时间是有抵抗力的，有物质的。",
+      "function": "作为批评对象",
+      "evidence": "他又说：“心理的生活是时间造成的，时间是有抵抗力的，有物质的。”",
+      "confidence": 0.9
+    }
+  ],
+  "rhetorical_devices": [
+    {
+      "id": "rh1",
+      "expression": "戳穿了他的西洋镜",
+      "device_type": "比喻",
+      "literal_target": "揭露柏格森用比喻猜想冒充证据的欺骗行为",
+      "function": "形象化地表达对对手论证方式的否定和揭露",
+      "evidence": "我们一定要戳穿了他的西洋镜，免得他蒙混人。",
+      "confidence": 0.9
+    }
+  ],
+  "uncertainties": [
+    {
+      "item": "第一句话是：“拿证据来！”",
+      "reason": "该句是丁文江主张的方法论口号，但未明确标注引用来源，可能为丁文江自己的概括或引用他人，无法确定具体归属。"
+    }
+  ]
+}

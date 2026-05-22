@@ -1,0 +1,358 @@
+{
+  "metadata": {
+    "schema_version": "lite_v2.0",
+    "article_id": "瞿秋白_000_a4753ce4",
+    "article_title": "《自由世界与必然世界》",
+    "source_author": "瞿秋白",
+    "section_title": "资本主义时代的强有力的生产工具若能变成公共的财产，生产制度若得按",
+    "section_author": "资本主义时代的强有力的生产工具若能变成公共的财产，生产制度若得",
+    "segment_id": "瞿秋白_000_a4753ce4_s0004",
+    "segment_index": 4,
+    "source_file": "E:\\1研究生\\岭南大学\\论文毕业\\capstone\\资料\\新的内容开始了\\local_upload\\input_w2\\瞿秋白.txt"
+  },
+  "entities": [
+    {
+      "id": "e1",
+      "name": "必然",
+      "canonical_name": "必然",
+      "type": "概念",
+      "evidence": "“必然”，就决不是盲目的。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e2",
+      "name": "自由",
+      "canonical_name": "自由",
+      "type": "概念",
+      "evidence": "“自由”不在于想象里能离自然律而独立，却在于能探悉这些公律；",
+      "confidence": 0.9
+    },
+    {
+      "id": "e3",
+      "name": "自然律",
+      "canonical_name": "自然律",
+      "type": "概念",
+      "evidence": "“自由”不在于想象里能离自然律而独立，却在于能探悉这些公律；",
+      "confidence": 0.9
+    },
+    {
+      "id": "e4",
+      "name": "公律",
+      "canonical_name": "公律",
+      "type": "概念",
+      "evidence": "“自由”不在于想象里能离自然律而独立，却在于能探悉这些公律；",
+      "confidence": 0.9
+    },
+    {
+      "id": "e5",
+      "name": "意志自由",
+      "canonical_name": "意志自由",
+      "type": "概念",
+      "evidence": "因此所谓“意志自由”，当解作：“确知事实而能处置自如之自由”；",
+      "confidence": 0.9
+    },
+    {
+      "id": "e6",
+      "name": "因果律",
+      "canonical_name": "因果律",
+      "type": "概念",
+      "evidence": "若是否认因果律，就算自由，那真是盲目的真理了！",
+      "confidence": 0.9
+    },
+    {
+      "id": "e7",
+      "name": "历史发展",
+      "canonical_name": "历史发展",
+      "type": "概念",
+      "evidence": "所以“自由”本是历史发展之必然的产物。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e8",
+      "name": "社会现象",
+      "canonical_name": "社会现象",
+      "type": "概念",
+      "evidence": "欲求脱离社会现象之“自生自灭性”的压迫，而进于自由处置社会现象的威权，亦必须探悉社会现象里的“必然”的因果律。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e9",
+      "name": "资本主义时代",
+      "canonical_name": "资本主义时代",
+      "type": "阶段",
+      "evidence": "资本主义时代的强有力的生产工具若能变成公共的财产，生产制度若得按照着社会关系而组织，那时，人类方能完全克服自然，才能完全制止自己的盲动。",
+      "confidence": 0.9
+    }
+  ],
+  "claims": [
+    {
+      "id": "c1",
+      "speaker": "瞿秋白",
+      "claim": "“必然”决不是盲目的。",
+      "target": "必然",
+      "claim_type": "定义性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "“必然”，就决不是盲目的。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c2",
+      "speaker": "瞿秋白",
+      "claim": "“自由”不在于想象里能离自然律而独立，却在于能探悉这些公律。",
+      "target": "自由",
+      "claim_type": "定义性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "“自由”不在于想象里能离自然律而独立，却在于能探悉这些公律；",
+      "confidence": 0.9
+    },
+    {
+      "id": "c3",
+      "speaker": "瞿秋白",
+      "claim": "只有探悉公律之后，方才能利用这些公律，加以有规划的行动，而达某种目的。",
+      "target": "公律",
+      "claim_type": "知识论主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "因为只有探悉公律之后，方才能利用这些公律，加以有规划的行动，而达某种目的。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c4",
+      "speaker": "瞿秋白",
+      "claim": "所谓“意志自由”，当解作：“确知事实而能处置自如之自由”。",
+      "target": "意志自由",
+      "claim_type": "定义性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "因此所谓“意志自由”，当解作：“确知事实而能处置自如之自由”；",
+      "confidence": 0.9
+    },
+    {
+      "id": "c5",
+      "speaker": "瞿秋白",
+      "claim": "若是否认因果律，就算自由，那真是盲目的真理了！",
+      "target": "因果律",
+      "claim_type": "反驳性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "若是否认因果律，就算自由，那真是盲目的真理了！",
+      "confidence": 0.9
+    },
+    {
+      "id": "c6",
+      "speaker": "瞿秋白",
+      "claim": "人的意志愈根据于事实，则愈有自由；人的意志若超越因果律，愈不根据于事实，则愈不自由。",
+      "target": "意志自由",
+      "claim_type": "知识论主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "人的意志愈根据于事实，则愈有自由；人的意志若超越因果律，愈不根据于事实，则愈不自由。——因为不知因果律，便无从决定行为，只有孤注一掷的赌博的侥幸心，而绝无所谓自由意志。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c7",
+      "speaker": "瞿秋白",
+      "claim": "“自由”本是历史发展之必然的产物。",
+      "target": "自由",
+      "claim_type": "历史解释",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "所以“自由”本是历史发展之必然的产物。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c8",
+      "speaker": "瞿秋白",
+      "claim": "人类离自然而独立自由，完全在于探悉自然界的公律。",
+      "target": "自由",
+      "claim_type": "知识论主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "人类离自然而独立自由，完全在于探悉自然界的公律。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c9",
+      "speaker": "瞿秋白",
+      "claim": "人类欲求得自由，欲求脱离社会现象之“自生自灭性”的压迫，而进于自由处置社会现象的威权，亦必须探悉社会现象里的“必然”的因果律。",
+      "target": "自由",
+      "claim_type": "知识论主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "人类历史的发展里，人若欲求得自由，欲求脱离社会现象之“自生自灭性”的压迫，而进于自由处置社会现象的威权，亦必须探悉社会现象里的“必然”的因果律。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c10",
+      "speaker": "瞿秋白",
+      "claim": "空言意志自由，甚至于否认因果律以立意志自由——那简直是自相矛盾。",
+      "target": "意志自由",
+      "claim_type": "反驳性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "空言意志自由，甚至于否认因果律以立意志自由——那简直是自相矛盾。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c11",
+      "speaker": "瞿秋白",
+      "claim": "资本主义时代的强有力的生产工具若能变成公共的财产，生产制度若得按照着社会关系而组织，那时，人类方能完全克服自然，才能完全制止自己的盲动。",
+      "target": "资本主义时代",
+      "claim_type": "社会理论主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "资本主义时代的强有力的生产工具若能变成公共的财产，生产制度若得按照着社会关系而组织，那时，人类方能完全克服自然，才能完全制止自己的盲动。",
+      "confidence": 0.9
+    }
+  ],
+  "relations": [
+    {
+      "id": "r1",
+      "head": "自由",
+      "head_type": "概念",
+      "relation": "定义",
+      "tail": "自然律",
+      "tail_type": "概念",
+      "polarity": "positive",
+      "evidence": "“自由”不在于想象里能离自然律而独立，却在于能探悉这些公律；",
+      "confidence": 0.9
+    },
+    {
+      "id": "r2",
+      "head": "意志自由",
+      "head_type": "概念",
+      "relation": "定义",
+      "tail": "确知事实而能处置自如之自由",
+      "tail_type": "概念",
+      "polarity": "positive",
+      "evidence": "因此所谓“意志自由”，当解作：“确知事实而能处置自如之自由”；",
+      "confidence": 0.9
+    },
+    {
+      "id": "r3",
+      "head": "否认因果律",
+      "head_type": "概念",
+      "relation": "导致",
+      "tail": "盲目的真理",
+      "tail_type": "概念",
+      "polarity": "negative",
+      "evidence": "若是否认因果律，就算自由，那真是盲目的真理了！",
+      "confidence": 0.9
+    },
+    {
+      "id": "r4",
+      "head": "不知因果律",
+      "head_type": "概念",
+      "relation": "导致",
+      "tail": "无从决定行为",
+      "tail_type": "概念",
+      "polarity": "negative",
+      "evidence": "因为不知因果律，便无从决定行为，只有孤注一掷的赌博的侥幸心，而绝无所谓自由意志。",
+      "confidence": 0.9
+    },
+    {
+      "id": "r5",
+      "head": "自由",
+      "head_type": "概念",
+      "relation": "属于",
+      "tail": "历史发展之必然的产物",
+      "tail_type": "概念",
+      "polarity": "positive",
+      "evidence": "所以“自由”本是历史发展之必然的产物。",
+      "confidence": 0.9
+    },
+    {
+      "id": "r6",
+      "head": "人类离自然而独立自由",
+      "head_type": "概念",
+      "relation": "归因于",
+      "tail": "探悉自然界的公律",
+      "tail_type": "概念",
+      "polarity": "positive",
+      "evidence": "人类离自然而独立自由，完全在于探悉自然界的公律。",
+      "confidence": 0.9
+    },
+    {
+      "id": "r7",
+      "head": "空言意志自由",
+      "head_type": "概念",
+      "relation": "自相矛盾",
+      "tail": "否认因果律以立意志自由",
+      "tail_type": "概念",
+      "polarity": "negative",
+      "evidence": "空言意志自由，甚至于否认因果律以立意志自由——那简直是自相矛盾。",
+      "confidence": 0.9
+    }
+  ],
+  "definitions": [
+    {
+      "id": "def1",
+      "term": "自由",
+      "definition": "自由不在于想象里能离自然律而独立，而在于能探悉这些公律，并利用它们加以有规划的行动而达目的。",
+      "evidence": "“自由”不在于想象里能离自然律而独立，却在于能探悉这些公律；因为只有探悉公律之后，方才能利用这些公律，加以有规划的行动，而达某种目的。",
+      "confidence": 0.9
+    },
+    {
+      "id": "def2",
+      "term": "意志自由",
+      "definition": "意志自由是确知事实而能处置自如之自由。",
+      "evidence": "因此所谓“意志自由”，当解作：“确知事实而能处置自如之自由”；",
+      "confidence": 0.9
+    },
+    {
+      "id": "def3",
+      "term": "自由",
+      "definition": "自由是历史发展之必然的产物。",
+      "evidence": "所以“自由”本是历史发展之必然的产物。",
+      "confidence": 0.9
+    }
+  ],
+  "citations": [],
+  "rhetorical_devices": [
+    {
+      "id": "rh1",
+      "expression": "盲目的真理",
+      "device_type": "讽刺",
+      "literal_target": "否认因果律而认为自由的观点",
+      "function": "通过讽刺性反语，批评否认因果律的自由观是荒谬的。",
+      "evidence": "若是否认因果律，就算自由，那真是盲目的真理了！",
+      "confidence": 0.9
+    },
+    {
+      "id": "rh2",
+      "expression": "孤注一掷的赌博的侥幸心",
+      "device_type": "比喻",
+      "literal_target": "不知因果律时的行为决策",
+      "function": "用赌博比喻说明不知因果律时行为的盲目性和偶然性，强化论证。",
+      "evidence": "因为不知因果律，便无从决定行为，只有孤注一掷的赌博的侥幸心，而绝无所谓自由意志。",
+      "confidence": 0.9
+    }
+  ],
+  "uncertainties": [
+    {
+      "item": "section_author 字段内容与 section_title 重复，可能为数据错误，但根据规则保留原值。",
+      "reason": "元数据中 section_author 与 section_title 内容相同，不符合常规，但无法从当前文本判断，故保留原样。"
+    }
+  ],
+  "_meta": {
+    "status": "success",
+    "stage": "extract",
+    "model": "deepseek-ai/DeepSeek-V4-Flash",
+    "base_url": "https://api.siliconflow.cn/v1",
+    "prompt_version": "extract_prompt_v2.0",
+    "schema_version": "lite_v2.0",
+    "segment_id": "瞿秋白_000_a4753ce4_s0004",
+    "article_id": "瞿秋白_000_a4753ce4",
+    "char_start": 2014,
+    "char_end": 2597,
+    "raw_path": "E:\\1研究生\\岭南大学\\论文毕业\\capstone\\资料\\新的内容开始了\\local_upload\\kg_runs\\瞿秋白\\raw_outputs\\extract\\瞿秋白_000_a4753ce4_s0004.txt",
+    "parsed_at": "2026-05-19T23:48:49",
+    "started_at": "2026-05-19T23:43:01",
+    "elapsed_seconds": 348.094,
+    "strict_evidence_check": true,
+    "drop_unsupported_evidence": true,
+    "request_timeout_seconds": 180
+  }
+}

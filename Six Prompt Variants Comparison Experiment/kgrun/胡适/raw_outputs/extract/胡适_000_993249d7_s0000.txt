@@ -1,0 +1,267 @@
+{
+  "metadata": {
+    "schema_version": "lite_v2.0",
+    "article_id": "胡适_000_993249d7",
+    "article_title": "序二",
+    "source_author": "胡适",
+    "section_title": "",
+    "section_author": "",
+    "segment_id": "胡适_000_993249d7_s0000",
+    "segment_index": 0,
+    "source_file": "E:\\1研究生\\岭南大学\\论文毕业\\capstone\\资料\\新的内容开始了\\local_upload\\input_w3\\胡适.txt"
+  },
+  "entities": [
+    {
+      "id": "e1",
+      "name": "汪孟邹",
+      "canonical_name": "汪孟邹",
+      "type": "人物",
+      "evidence": "亚东图书馆主人汪孟邹先生近来把散见国内各种杂志上的讨论科学与人生观的文章搜集印行",
+      "confidence": 1.0
+    },
+    {
+      "id": "e2",
+      "name": "科学与人生观",
+      "canonical_name": "科学与人生观",
+      "type": "著作",
+      "evidence": "总名为“科学与人生观”",
+      "confidence": 1.0
+    },
+    {
+      "id": "e3",
+      "name": "《努力周报》",
+      "canonical_name": "努力周报",
+      "type": "著作",
+      "evidence": "曾想把《努力周报》停刊",
+      "confidence": 1.0
+    },
+    {
+      "id": "e4",
+      "name": "丁在君",
+      "canonical_name": "丁文江",
+      "type": "人物",
+      "evidence": "当时丁在君先生极不赞成停刊之议",
+      "confidence": 1.0
+    },
+    {
+      "id": "e5",
+      "name": "《玄学与科学》",
+      "canonical_name": "玄学与科学",
+      "type": "著作",
+      "evidence": "我看了他的《玄学与科学》",
+      "confidence": 1.0
+    },
+    {
+      "id": "e6",
+      "name": "《孙行者与张君劢》",
+      "canonical_name": "孙行者与张君劢",
+      "type": "著作",
+      "evidence": "在病中我只做了一篇很不庄重的《孙行者与张君劢》",
+      "confidence": 1.0
+    },
+    {
+      "id": "e7",
+      "name": "张君劢",
+      "canonical_name": "张君劢",
+      "type": "人物",
+      "evidence": "《孙行者与张君劢》",
+      "confidence": 1.0
+    },
+    {
+      "id": "e8",
+      "name": "胡适",
+      "canonical_name": "胡适",
+      "type": "人物",
+      "evidence": "我从烟霞洞回到上海时",
+      "confidence": 1.0
+    }
+  ],
+  "claims": [
+    {
+      "id": "c1",
+      "speaker": "胡适",
+      "claim": "在这回空前的思想界大笔战的战场上，我要算一个逃兵了",
+      "target": "胡适",
+      "claim_type": "价值评价",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "在这回空前的思想界大笔战的战场上，我要算一个逃兵了",
+      "confidence": 1.0
+    },
+    {
+      "id": "c2",
+      "speaker": "胡适",
+      "claim": "丁在君先生极不赞成停刊之议",
+      "target": "丁在君",
+      "claim_type": "不明",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "当时丁在君先生极不赞成停刊之议",
+      "confidence": 1.0
+    },
+    {
+      "id": "c3",
+      "speaker": "胡适",
+      "claim": "假使《努力》以后向这个新方向去谋发展——假使我们以后为科学作战——《努力》便有了新生命，我们也有了新兴趣",
+      "target": "《努力周报》",
+      "claim_type": "方法论主张",
+      "claim_status": "作者推论",
+      "polarity": "positive",
+      "evidence": "假使《努力》以后向这个新方向去谋发展——假使我们以后为科学作战——《努力》便有了新生命，我们也有了新兴趣",
+      "confidence": 1.0
+    },
+    {
+      "id": "c4",
+      "speaker": "胡适",
+      "claim": "我从南方回来，一定也要加入战斗的",
+      "target": "胡适",
+      "claim_type": "方法论主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "我从南方回来，一定也要加入战斗的",
+      "confidence": 1.0
+    },
+    {
+      "id": "c5",
+      "speaker": "胡适",
+      "claim": "在病中我只做了一篇很不庄重的《孙行者与张君劢》，此外竟不曾加入一拳一脚，岂不成了一个逃兵了",
+      "target": "胡适",
+      "claim_type": "价值评价",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "在病中我只做了一篇很不庄重的《孙行者与张君劢》，此外竟不曾加入一拳一脚，岂不成了一个逃兵了",
+      "confidence": 1.0
+    },
+    {
+      "id": "c6",
+      "speaker": "胡适",
+      "claim": "我如何敢以逃兵的资格来议论战场上各位武士的成绩呢",
+      "target": "胡适",
+      "claim_type": "价值评价",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "我如何敢以逃兵的资格来议论战场上各位武士的成绩呢",
+      "confidence": 1.0
+    },
+    {
+      "id": "c7",
+      "speaker": "胡适",
+      "claim": "论战的材料太多，看这部大书的人不免有“目迷五色”的感觉，多作一篇综合的序论也许可以帮助读者对于论点的了解",
+      "target": "读者",
+      "claim_type": "方法论主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "论战的材料太多，看这部大书的人不免有“目迷五色”的感觉，多作一篇综合的序论也许可以帮助读者对于论点的了解",
+      "confidence": 1.0
+    },
+    {
+      "id": "c8",
+      "speaker": "胡适",
+      "claim": "有几个重要的争点，或者不曾充分发挥，或者被埋没在这二十五万字的大海里，不容易引起读者的注意，似乎都有特别点出的需要",
+      "target": "争点",
+      "claim_type": "方法论主张",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "有几个重要的争点，或者不曾充分发挥，或者被埋没在这二十五万字的大海里，不容易引起读者的注意，似乎都有特别点出的需要",
+      "confidence": 1.0
+    },
+    {
+      "id": "c9",
+      "speaker": "胡适",
+      "claim": "这三十年来，有一个名词在国内几乎做到了无上尊严的地位",
+      "target": "一个名词",
+      "claim_type": "历史解释",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "这三十年来，有一个名词在国内几乎做到了无上尊严的地位",
+      "confidence": 1.0
+    }
+  ],
+  "relations": [
+    {
+      "id": "r1",
+      "head": "汪孟邹",
+      "head_type": "人物",
+      "relation": "主张",
+      "relation_subtype": "不适用",
+      "tail": "科学与人生观",
+      "tail_type": "著作",
+      "polarity": "neutral",
+      "evidence": "亚东图书馆主人汪孟邹先生近来把散见国内各种杂志上的讨论科学与人生观的文章搜集印行，总名为“科学与人生观”",
+      "confidence": 1.0
+    },
+    {
+      "id": "r2",
+      "head": "丁在君",
+      "head_type": "人物",
+      "relation": "反对",
+      "relation_subtype": "一般批评",
+      "tail": "《努力周报》停刊",
+      "tail_type": "事件",
+      "polarity": "negative",
+      "evidence": "当时丁在君先生极不赞成停刊之议",
+      "confidence": 1.0
+    },
+    {
+      "id": "r3",
+      "head": "胡适",
+      "head_type": "人物",
+      "relation": "主张",
+      "relation_subtype": "不适用",
+      "tail": "《孙行者与张君劢》",
+      "tail_type": "著作",
+      "polarity": "neutral",
+      "evidence": "在病中我只做了一篇很不庄重的《孙行者与张君劢》",
+      "confidence": 1.0
+    },
+    {
+      "id": "r4",
+      "head": "胡适",
+      "head_type": "人物",
+      "relation": "评价",
+      "relation_subtype": "一般批评",
+      "tail": "《孙行者与张君劢》",
+      "tail_type": "著作",
+      "polarity": "negative",
+      "evidence": "在病中我只做了一篇很不庄重的《孙行者与张君劢》",
+      "confidence": 1.0
+    }
+  ],
+  "definitions": [],
+  "citations": [],
+  "rhetorical_devices": [
+    {
+      "id": "rh1",
+      "expression": "逃兵",
+      "device_type": "比喻",
+      "literal_target": "胡适自己未积极参与论战",
+      "function": "自嘲，表达未参与论战的遗憾",
+      "evidence": "在这回空前的思想界大笔战的战场上，我要算一个逃兵了",
+      "confidence": 1.0
+    },
+    {
+      "id": "rh2",
+      "expression": "目迷五色",
+      "device_type": "比喻",
+      "literal_target": "读者面对众多论战材料感到困惑",
+      "function": "说明作序的必要性",
+      "evidence": "看这部大书的人不免有“目迷五色”的感觉",
+      "confidence": 1.0
+    },
+    {
+      "id": "rh3",
+      "expression": "大海",
+      "device_type": "比喻",
+      "literal_target": "二十五万字的论战文章",
+      "function": "强调论战材料之多，重要观点容易被淹没",
+      "evidence": "被埋没在这二十五万字的大海里",
+      "confidence": 1.0
+    }
+  ],
+  "uncertainties": [
+    {
+      "item": "“一个名词”具体指什么",
+      "reason": "文本中未明确说明该名词是什么，仅说“有一个名词在国内几乎做到了无上尊严的地位”，无法确定具体指代"
+    }
+  ]
+}

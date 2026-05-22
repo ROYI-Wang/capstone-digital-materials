@@ -1,0 +1,366 @@
+{
+  "metadata": {
+    "schema_version": "lite_v2.0",
+    "article_id": "吴稚晖_001_b4c0e810",
+    "article_title": "一个新信仰的宇宙观及人生观",
+    "source_author": "吴稚晖",
+    "section_title": "讲到这里，第一层可先用不值钱的玄学理想，近乎游戏的，说道毛厕里的石头亦有感觉。苍蝇的感觉，非即人的感觉，他们感觉的状况，颇极差等。玫瑰树的感觉，非即苍蝇的感觉，他们的感觉，又极差等。如是焉能禁我来瞎说，毛厕里石头的感觉，非即玫瑰树的感觉，他们感觉的状况，也极差等。若欲强分高下，则石头有其寂然不动的感觉，真所谓无私心而合天理，所以贞固永寿。一块毛厕里的石头，可以阅几十代人而依然如故，见数百兆苍蝇存灭，看千万棵玫瑰树忽而芬芳，忽而萎枯。彼如曰毛厕里的石头为万物之灵，理由亦未尝不充足。彼另有彼之可感与彼之可觉，人与苍蝇及玫瑰树之感觉，皆非彼所需，故亦非彼所有，如是而已。然这种蹈空的掉枪花，我们中国古代的玄学鬼常用“孰为正色，孰为正味”等的论调，闹得甚嚣尘上。自然受过科学洗礼的玄学鬼，不肯就把这种空言，来作惟一的搪塞。所以说到第二层，他就要戴上科学面具，正正经经，板起了面孔，来断定毛厕里的石头亦有感觉。他不是说能够按",
+    "section_author": "讲到这里，第一层可先用不值钱的玄学理想，近乎游戏的，说道毛厕里的石头亦有感觉。苍蝇的感觉，非即人的感觉，他们感觉的状况，颇极差等。玫瑰树的感觉，非即苍蝇的感觉，他们的感觉，又极差等。如是焉能禁我来瞎说，毛厕里石头的感觉，非即玫瑰树的感觉，他们感觉的状况，也极差等。若欲强分高下，则石头有其寂然不动的感觉，真所谓无私心而合天理，所以贞固永寿。一块毛厕里的石头，可以阅几十代人而依然如故，见数百兆苍蝇存灭，看千万棵玫瑰树忽而芬芳，忽而萎枯。彼如曰毛厕里的石头为万物之灵，理由亦未尝不充足。彼另有彼之可感与彼之可觉，人与苍蝇及玫瑰树之感觉，皆非彼所需，故亦非彼所有，如是而已。然这种蹈空的掉枪花，我们中国古代的玄学鬼常用“孰为正色，孰为正味”等的论调，闹得甚嚣尘上。自然受过科学洗礼的玄学鬼，不肯就把这种空言，来作惟一的搪塞。所以说到第二层，他就要戴上科学面具，正正经经，板起了面孔，来断定毛厕里的石头亦有感觉。他不是说能够",
+    "segment_id": "吴稚晖_001_b4c0e810_s0036",
+    "segment_index": 36,
+    "source_file": "E:\\1研究生\\岭南大学\\论文毕业\\capstone\\资料\\新的内容开始了\\local_upload\\input_w0\\吴稚晖.txt"
+  },
+  "entities": [
+    {
+      "id": "e1",
+      "name": "甲",
+      "canonical_name": "甲",
+      "type": "概念",
+      "evidence": "不如取甲的向前要求，下着棋，不断的进步为好",
+      "confidence": 0.9
+    },
+    {
+      "id": "e2",
+      "name": "乙",
+      "canonical_name": "乙",
+      "type": "概念",
+      "evidence": "乙的向后要求，反到漆黑一团，也太负气",
+      "confidence": 0.9
+    },
+    {
+      "id": "e3",
+      "name": "丙",
+      "canonical_name": "丙",
+      "type": "概念",
+      "evidence": "至于学丙的持中，弄到做成活动影戏，做成玻璃花球",
+      "confidence": 0.9
+    },
+    {
+      "id": "e4",
+      "name": "丙B",
+      "canonical_name": "丙B",
+      "type": "概念",
+      "evidence": "丙B是一个“精致玻璃花球”",
+      "confidence": 0.9
+    },
+    {
+      "id": "e5",
+      "name": "便宜玻璃花球",
+      "canonical_name": "便宜玻璃花球",
+      "type": "比喻/类比",
+      "evidence": "所以止好唤做便宜玻璃花球",
+      "confidence": 0.9
+    },
+    {
+      "id": "e6",
+      "name": "精致玻璃花球",
+      "canonical_name": "精致玻璃花球",
+      "type": "比喻/类比",
+      "evidence": "丙B是一个“精致玻璃花球”",
+      "confidence": 0.9
+    },
+    {
+      "id": "e7",
+      "name": "漆黑一团",
+      "canonical_name": "漆黑一团",
+      "type": "比喻/类比",
+      "evidence": "乙的向后要求，反到漆黑一团，也太负气",
+      "confidence": 0.9
+    },
+    {
+      "id": "e8",
+      "name": "活动影戏",
+      "canonical_name": "活动影戏",
+      "type": "比喻/类比",
+      "evidence": "弄到做成活动影戏，做成玻璃花球",
+      "confidence": 0.9
+    },
+    {
+      "id": "e9",
+      "name": "天国",
+      "canonical_name": "天国",
+      "type": "概念",
+      "evidence": "名曰天国",
+      "confidence": 0.9
+    },
+    {
+      "id": "e10",
+      "name": "仙境",
+      "canonical_name": "仙境",
+      "type": "概念",
+      "evidence": "名曰仙境",
+      "confidence": 0.9
+    },
+    {
+      "id": "e11",
+      "name": "宇宙",
+      "canonical_name": "宇宙",
+      "type": "概念",
+      "evidence": "宇宙本身的所以要变动，所以要绵延",
+      "confidence": 0.9
+    },
+    {
+      "id": "e12",
+      "name": "变动",
+      "canonical_name": "变动",
+      "type": "概念",
+      "evidence": "宇宙本身的所以要变动",
+      "confidence": 0.9
+    },
+    {
+      "id": "e13",
+      "name": "绵延",
+      "canonical_name": "绵延",
+      "type": "概念",
+      "evidence": "所以要绵延",
+      "confidence": 0.9
+    },
+    {
+      "id": "e14",
+      "name": "高兴的义务",
+      "canonical_name": "高兴的义务",
+      "type": "概念",
+      "evidence": "便应有高兴的义务",
+      "confidence": 0.8
+    },
+    {
+      "id": "e15",
+      "name": "向前要求",
+      "canonical_name": "向前要求",
+      "type": "概念",
+      "evidence": "不如取甲的向前要求",
+      "confidence": 0.9
+    },
+    {
+      "id": "e16",
+      "name": "向后要求",
+      "canonical_name": "向后要求",
+      "type": "概念",
+      "evidence": "乙的向后要求",
+      "confidence": 0.9
+    },
+    {
+      "id": "e17",
+      "name": "持中",
+      "canonical_name": "持中",
+      "type": "概念",
+      "evidence": "至于学丙的持中",
+      "confidence": 0.9
+    },
+    {
+      "id": "e18",
+      "name": "进步",
+      "canonical_name": "进步",
+      "type": "概念",
+      "evidence": "不断的进步为好",
+      "confidence": 0.9
+    }
+  ],
+  "claims": [
+    {
+      "id": "c1",
+      "speaker": "吴稚晖",
+      "claim": "不如取甲的向前要求，下着棋，不断的进步为好",
+      "target": "甲",
+      "claim_type": "价值评价",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "不如取甲的向前要求，下着棋，不断的进步为好",
+      "confidence": 0.9
+    },
+    {
+      "id": "c2",
+      "speaker": "吴稚晖",
+      "claim": "乙的向后要求，反到漆黑一团，也太负气",
+      "target": "乙",
+      "claim_type": "价值评价",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "乙的向后要求，反到漆黑一团，也太负气",
+      "confidence": 0.9
+    },
+    {
+      "id": "c3",
+      "speaker": "吴稚晖",
+      "claim": "学丙的持中，弄到做成活动影戏，做成玻璃花球，皆固定了，停滞了，变成死板板的，也就无味极了",
+      "target": "丙",
+      "claim_type": "价值评价",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "至于学丙的持中，弄到做成活动影戏，做成玻璃花球，皆固定了，停滞了，变成死板板的，也就无味极了",
+      "confidence": 0.9
+    },
+    {
+      "id": "c4",
+      "speaker": "吴稚晖",
+      "claim": "宇宙本身的所以要变动，所以要绵延，便应有高兴的义务",
+      "target": "宇宙",
+      "claim_type": "本体论主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "于是可见宇宙本身的所以要变动，所以要绵延，便应有高兴的义务",
+      "confidence": 0.9
+    },
+    {
+      "id": "c5",
+      "speaker": "吴稚晖",
+      "claim": "丙B以为真美善是有的，是要想法而赶紧结帐的",
+      "target": "丙B",
+      "claim_type": "定义性主张",
+      "claim_status": "作者概括",
+      "polarity": "neutral",
+      "evidence": "丙B以为真美善是有的，是要想法而赶紧结帐的",
+      "confidence": 0.9
+    },
+    {
+      "id": "c6",
+      "speaker": "吴稚晖",
+      "claim": "丙B的精神应用到人生，就是崇楼杰阁，玉阶瑶柱，名曰天国。奇花美草，青狮白象，名曰仙境",
+      "target": "丙B",
+      "claim_type": "社会理论主张",
+      "claim_status": "作者概括",
+      "polarity": "neutral",
+      "evidence": "这种精神，应用到人生，就是崇楼杰阁，玉阶瑶柱，名曰天国。奇花美草，青狮白象，名曰仙境",
+      "confidence": 0.9
+    },
+    {
+      "id": "c7",
+      "speaker": "吴稚晖",
+      "claim": "若说天国仙境亦尚有不断的进步，乃便显得天国仙境仍非顶点。所谓一劳永逸者何在呢？",
+      "target": "丙B",
+      "claim_type": "反驳性主张",
+      "claim_status": "作者推论",
+      "polarity": "negative",
+      "evidence": "若说天国仙境亦尚有不断的进步，乃便显得天国仙境仍非顶点。所谓一劳永逸者何在呢？",
+      "confidence": 0.9
+    },
+    {
+      "id": "c8",
+      "speaker": "吴稚晖",
+      "claim": "把苟完苟美的现实状况，定为宇宙悠久的标准。把这个现实状况，嵌在玻璃，固定不变，他也不问这个玻璃花球，到底工料如何，所以止好唤做便宜玻璃花球",
+      "target": "丙",
+      "claim_type": "价值评价",
+      "claim_status": "作者概括",
+      "polarity": "negative",
+      "evidence": "这是要把苟完苟美的现实状况，定为宇宙悠久的标准。把这个现实状况，嵌在玻璃，固定不变，他也不问这个玻璃花球，到底工料如何，所以止好唤做便宜玻璃花球",
+      "confidence": 0.9
+    }
+  ],
+  "relations": [
+    {
+      "id": "r1",
+      "head": "宇宙",
+      "head_type": "概念",
+      "relation": "归因于",
+      "tail": "变动",
+      "tail_type": "概念",
+      "polarity": "neutral",
+      "evidence": "宇宙本身的所以要变动",
+      "confidence": 0.9
+    },
+    {
+      "id": "r2",
+      "head": "丙B",
+      "head_type": "概念",
+      "relation": "包含",
+      "tail": "精致玻璃花球",
+      "tail_type": "比喻/类比",
+      "polarity": "neutral",
+      "evidence": "丙B是一个“精致玻璃花球”",
+      "confidence": 0.9
+    }
+  ],
+  "definitions": [
+    {
+      "id": "def1",
+      "term": "便宜玻璃花球",
+      "definition": "把苟完苟美的现实状况固定不变，视为宇宙悠久标准的状态",
+      "evidence": "这是要把苟完苟美的现实状况，定为宇宙悠久的标准。把这个现实状况，嵌在玻璃，固定不变，他也不问这个玻璃花球，到底工料如何，所以止好唤做便宜玻璃花球",
+      "confidence": 0.9
+    },
+    {
+      "id": "def2",
+      "term": "精致玻璃花球",
+      "definition": "认为真美善存在且可一劳永逸达到顶点，将理想状态固定不变的状态",
+      "evidence": "丙B以为真美善是有的，是要想法而赶紧结帐的。随宜泛变是纤曲了前途，不如直接的开起一笔清账来，一变就变到顶点，一劳可以永逸。这种精神，应用到人生，就是崇楼杰阁，玉阶瑶柱，名曰天国。奇花美草，青狮白象，名曰仙境。入其中可以永乐，居其间可以长生。或信仰而得救，或萧修而飞升。终之失了变动的意志，止有息肩的欲望。果然如愿以偿，亦永远的嵌在一个精致玻璃花球之中",
+      "confidence": 0.9
+    }
+  ],
+  "citations": [],
+  "rhetorical_devices": [
+    {
+      "id": "rh1",
+      "expression": "便宜玻璃花球",
+      "device_type": "比喻",
+      "literal_target": "丙所代表的持中、固定不变的状态",
+      "function": "形象化批评，将丙的立场比作廉价且固定不变的玻璃花球，暗示其肤浅和僵化",
+      "evidence": "所以止好唤做便宜玻璃花球",
+      "confidence": 0.9
+    },
+    {
+      "id": "rh2",
+      "expression": "精致玻璃花球",
+      "device_type": "比喻",
+      "literal_target": "丙B所代表的追求一劳永逸、固定不变理想状态",
+      "function": "形象化批评，将丙B的立场比作精致但固定不变的玻璃花球，暗示其最终与漆黑一团无异",
+      "evidence": "丙B是一个“精致玻璃花球”",
+      "confidence": 0.9
+    },
+    {
+      "id": "rh3",
+      "expression": "漆黑一团",
+      "device_type": "比喻",
+      "literal_target": "乙的向后要求所导致的毫无变化、混沌状态",
+      "function": "贬低乙的立场，将其描述为黑暗无望",
+      "evidence": "乙的向后要求，反到漆黑一团，也太负气",
+      "confidence": 0.9
+    },
+    {
+      "id": "rh4",
+      "expression": "活动影戏",
+      "device_type": "比喻",
+      "literal_target": "丙的持中所造成的表面变化实则固定的状态",
+      "function": "形象化批评，暗示丙的立场只是虚假的变动",
+      "evidence": "弄到做成活动影戏，做成玻璃花球",
+      "confidence": 0.9
+    },
+    {
+      "id": "rh5",
+      "expression": "死板板的",
+      "device_type": "比喻",
+      "literal_target": "丙的持中所导致的僵化状态",
+      "function": "贬低丙的立场，强调其无趣和僵化",
+      "evidence": "变成死板板的，也就无味极了",
+      "confidence": 0.9
+    }
+  ],
+  "uncertainties": [
+    {
+      "item": "甲、乙、丙、丙B的具体指代对象",
+      "reason": "文本中未明确说明甲、乙、丙、丙B分别代表何种具体立场或人物，仅从上下文可推断为三种不同的人生态度或宇宙观类型"
+    },
+    {
+      "item": "“苟完苟美的现实状况”的具体含义",
+      "reason": "文本未进一步解释“苟完苟美”的具体所指，仅从上下文可推断为一种满足于现状、不求进取的态度"
+    }
+  ],
+  "_meta": {
+    "status": "success",
+    "stage": "extract",
+    "model": "deepseek-ai/DeepSeek-V4-Flash",
+    "base_url": "https://api.siliconflow.cn/v1",
+    "prompt_version": "extract_prompt_v2.0",
+    "schema_version": "lite_v2.0",
+    "segment_id": "吴稚晖_001_b4c0e810_s0036",
+    "article_id": "吴稚晖_001_b4c0e810",
+    "char_start": 17831,
+    "char_end": 18426,
+    "raw_path": "E:\\1研究生\\岭南大学\\论文毕业\\capstone\\资料\\新的内容开始了\\local_upload\\kg_runs\\吴稚晖\\raw_outputs\\extract\\吴稚晖_001_b4c0e810_s0036.txt",
+    "parsed_at": "2026-05-20T04:31:05",
+    "started_at": "2026-05-20T04:29:10",
+    "elapsed_seconds": 115.125,
+    "strict_evidence_check": true,
+    "drop_unsupported_evidence": true,
+    "request_timeout_seconds": 180
+  }
+}

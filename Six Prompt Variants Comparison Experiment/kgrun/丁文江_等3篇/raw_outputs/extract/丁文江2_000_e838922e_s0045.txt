@@ -1,0 +1,313 @@
+{
+  "metadata": {
+    "schema_version": "lite_v2.0",
+    "article_id": "丁文江2_000_e838922e",
+    "article_title": "玄学与科学——答张君劢",
+    "source_author": "丁文江",
+    "section_title": "",
+    "section_author": "",
+    "segment_id": "丁文江2_000_e838922e_s0045",
+    "segment_index": 45,
+    "source_file": "E:\\1研究生\\岭南大学\\论文毕业\\capstone\\资料\\新的内容开始了\\local_upload\\input_texts\\丁文江2.txt"
+  },
+  "entities": [
+    {
+      "id": "e1",
+      "name": "巴尔福",
+      "canonical_name": "巴尔福",
+      "type": "人物",
+      "evidence": "我记得巴尔福有一篇文章载在惜培德杂志上。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e2",
+      "name": "惜培德杂志",
+      "canonical_name": "惜培德杂志",
+      "type": "著作",
+      "evidence": "我记得巴尔福有一篇文章载在惜培德杂志上。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e3",
+      "name": "人类有自由意向的学说",
+      "canonical_name": "自由意向学说",
+      "type": "主义/学说/理论",
+      "evidence": "他说人类有自由意向的学说，科学上的根据很薄弱，他是知道的，但是他觉得这种学说很可爱，不肯放弃他。",
+      "confidence": 0.8
+    },
+    {
+      "id": "e4",
+      "name": "科学",
+      "canonical_name": "科学",
+      "type": "概念",
+      "evidence": "科学不承认是真的",
+      "confidence": 0.9
+    },
+    {
+      "id": "e5",
+      "name": "精神科学",
+      "canonical_name": "精神科学",
+      "type": "概念",
+      "evidence": "我们说物质科学同精神科学没有根本的分别",
+      "confidence": 0.9
+    },
+    {
+      "id": "e6",
+      "name": "物质科学",
+      "canonical_name": "物质科学",
+      "type": "概念",
+      "evidence": "我们说物质科学同精神科学没有根本的分别",
+      "confidence": 0.9
+    },
+    {
+      "id": "e7",
+      "name": "现象",
+      "canonical_name": "现象",
+      "type": "概念",
+      "evidence": "因为他们所研究的材料同为现象",
+      "confidence": 0.9
+    },
+    {
+      "id": "e8",
+      "name": "归纳",
+      "canonical_name": "归纳",
+      "type": "方法",
+      "evidence": "研究的方法同为归纳",
+      "confidence": 0.9
+    },
+    {
+      "id": "e9",
+      "name": "精神",
+      "canonical_name": "精神",
+      "type": "概念",
+      "evidence": "至于精神同物质根本有无分别",
+      "confidence": 0.9
+    },
+    {
+      "id": "e10",
+      "name": "物质",
+      "canonical_name": "物质",
+      "type": "概念",
+      "evidence": "至于精神同物质根本有无分别",
+      "confidence": 0.9
+    },
+    {
+      "id": "e11",
+      "name": "内与外",
+      "canonical_name": "内与外",
+      "type": "概念",
+      "evidence": "君劢拿内与外同我与非我来说明精神物质",
+      "confidence": 0.8
+    },
+    {
+      "id": "e12",
+      "name": "我与非我",
+      "canonical_name": "我与非我",
+      "type": "概念",
+      "evidence": "君劢拿内与外同我与非我来说明精神物质",
+      "confidence": 0.8
+    },
+    {
+      "id": "e13",
+      "name": "君劢",
+      "canonical_name": "张君劢",
+      "type": "人物",
+      "evidence": "君劢拿内与外同我与非我来说明精神物质",
+      "confidence": 0.9
+    }
+  ],
+  "claims": [
+    {
+      "id": "c1",
+      "speaker": "丁文江",
+      "claim": "我说能得同样的推论，不是说一定得同样的推论，因为能不能是一件事，肯不肯又是一件事。",
+      "target": "科学不承认是真的",
+      "claim_type": "方法论主张",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "我说能得同样的推论，不是说一定得同样的推论，因为能不能是一件事，肯不肯又是一件事。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c2",
+      "speaker": "巴尔福",
+      "claim": "人类有自由意向的学说，科学上的根据很薄弱，他是知道的，但是他觉得这种学说很可爱，不肯放弃他。",
+      "target": "人类有自由意向的学说",
+      "claim_type": "知识论主张",
+      "claim_status": "间接转述",
+      "polarity": "negative",
+      "evidence": "他说人类有自由意向的学说，科学上的根据很薄弱，他是知道的，但是他觉得这种学说很可爱，不肯放弃他。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c3",
+      "speaker": "丁文江",
+      "claim": "足见得他的肯不肯是情感问题。",
+      "target": "巴尔福",
+      "claim_type": "价值评价",
+      "claim_status": "作者推论",
+      "polarity": "neutral",
+      "evidence": "足见得他的肯不肯是情感问题。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c4",
+      "speaker": "丁文江",
+      "claim": "许多人重情感而轻知识，所以往往的“非不能也，不肯也”。",
+      "target": "许多人",
+      "claim_type": "社会理论主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "许多人重情感而轻知识，所以往往的“非不能也，不肯也”。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c5",
+      "speaker": "丁文江",
+      "claim": "我们现在是就知识论知识，没有把情感计算在内。",
+      "target": "知识",
+      "claim_type": "方法论主张",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "我们现在是就知识论知识，没有把情感计算在内。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c6",
+      "speaker": "丁文江",
+      "claim": "我们说物质科学同精神科学没有根本的分别，因为他们所研究的材料同为现象，研究的方法同为归纳。",
+      "target": "物质科学同精神科学",
+      "claim_type": "知识论主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "我们说物质科学同精神科学没有根本的分别，因为他们所研究的材料同为现象，研究的方法同为归纳。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c7",
+      "speaker": "丁文江",
+      "claim": "至于精神同物质根本有无分别，如果有分别，究竟是一种什么质，本来是哲学上大问题。",
+      "target": "精神同物质",
+      "claim_type": "问题提出",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "至于精神同物质根本有无分别，如果有分别，究竟是一种什么质，本来是哲学上大问题。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c8",
+      "speaker": "丁文江",
+      "claim": "君劢拿内与外同我与非我来说明精神物质，同没有说明一样，因为内与外同我与非我本身的界限定义，也是极难解决的。",
+      "target": "君劢",
+      "claim_type": "反驳性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "君劢拿内与外同我与非我来说明精神物质，同没有说明一样，因为内与外同我与非我本身的界限定义，也是极难解决的。",
+      "confidence": 0.9
+    }
+  ],
+  "relations": [
+    {
+      "id": "r1",
+      "head": "丁文江",
+      "head_type": "人物",
+      "relation": "引用",
+      "relation_subtype": "援引权威",
+      "tail": "巴尔福",
+      "tail_type": "人物",
+      "polarity": "neutral",
+      "evidence": "我记得巴尔福有一篇文章载在惜培德杂志上。他说人类有自由意向的学说，科学上的根据很薄弱，他是知道的，但是他觉得这种学说很可爱，不肯放弃他。",
+      "confidence": 0.9
+    },
+    {
+      "id": "r2",
+      "head": "丁文江",
+      "head_type": "人物",
+      "relation": "批评",
+      "relation_subtype": "概念混淆批评",
+      "tail": "君劢",
+      "tail_type": "人物",
+      "polarity": "negative",
+      "evidence": "君劢拿内与外同我与非我来说明精神物质，同没有说明一样，因为内与外同我与非我本身的界限定义，也是极难解决的。",
+      "confidence": 0.9
+    },
+    {
+      "id": "r3",
+      "head": "物质科学",
+      "head_type": "概念",
+      "relation": "比较",
+      "relation_subtype": "不适用",
+      "tail": "精神科学",
+      "tail_type": "概念",
+      "polarity": "positive",
+      "evidence": "我们说物质科学同精神科学没有根本的分别",
+      "confidence": 0.9
+    },
+    {
+      "id": "r4",
+      "head": "物质科学同精神科学没有根本的分别",
+      "head_type": "观点",
+      "relation": "解释",
+      "relation_subtype": "不适用",
+      "tail": "他们所研究的材料同为现象，研究的方法同为归纳",
+      "tail_type": "论据",
+      "polarity": "positive",
+      "evidence": "我们说物质科学同精神科学没有根本的分别，因为他们所研究的材料同为现象，研究的方法同为归纳。",
+      "confidence": 0.9
+    },
+    {
+      "id": "r5",
+      "head": "君劢拿内与外同我与非我来说明精神物质",
+      "head_type": "观点",
+      "relation": "批评",
+      "relation_subtype": "概念混淆批评",
+      "tail": "内与外同我与非我本身的界限定义，也是极难解决的",
+      "tail_type": "论据",
+      "polarity": "negative",
+      "evidence": "君劢拿内与外同我与非我来说明精神物质，同没有说明一样，因为内与外同我与非我本身的界限定义，也是极难解决的。",
+      "confidence": 0.9
+    }
+  ],
+  "definitions": [
+    {
+      "id": "def1",
+      "term": "物质科学同精神科学没有根本的分别",
+      "definition": "物质科学与精神科学所研究的材料同为现象，研究的方法同为归纳，因此没有根本分别。",
+      "evidence": "我们说物质科学同精神科学没有根本的分别，因为他们所研究的材料同为现象，研究的方法同为归纳。",
+      "confidence": 0.9
+    }
+  ],
+  "citations": [
+    {
+      "id": "cit1",
+      "citer": "丁文江",
+      "quoted_author": "巴尔福",
+      "quoted_work": "惜培德杂志",
+      "quoted_claim": "人类有自由意向的学说，科学上的根据很薄弱，他是知道的，但是他觉得这种学说很可爱，不肯放弃他。",
+      "function": "援引权威支持",
+      "evidence": "我记得巴尔福有一篇文章载在惜培德杂志上。他说人类有自由意向的学说，科学上的根据很薄弱，他是知道的，但是他觉得这种学说很可爱，不肯放弃他。",
+      "confidence": 0.9
+    }
+  ],
+  "rhetorical_devices": [
+    {
+      "id": "rh1",
+      "expression": "非不能也，不肯也",
+      "device_type": "引用",
+      "literal_target": "许多人重情感而轻知识",
+      "function": "用古语概括现象，增强说服力",
+      "evidence": "许多人重情感而轻知识，所以往往的“非不能也，不肯也”。",
+      "confidence": 0.8
+    }
+  ],
+  "uncertainties": [
+    {
+      "item": "“得同样的推论，科学不承认是真的”这句话的完整语境和归属",
+      "reason": "文本开头“得同样的推论，科学不承认是真的”似乎是引用或转述，但未明确说明是谁说的，可能来自前文或对手观点。"
+    },
+    {
+      "item": "“惜培德杂志”的具体名称",
+      "reason": "“惜培德杂志”可能是音译，但无法确定对应英文名称。"
+    }
+  ]
+}

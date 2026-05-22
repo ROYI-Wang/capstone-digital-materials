@@ -1,0 +1,923 @@
+{
+  "metadata": {
+    "schema_version": "lite_v2.0",
+    "article_id": "张君劢_002_c870d202",
+    "article_title": "再论人生观与科学并答丁在君",
+    "source_author": "张君劢",
+    "section_title": "",
+    "section_author": "",
+    "segment_id": "张君劢_002_c870d202_s0037",
+    "segment_index": 37,
+    "source_file": "E:\\1研究生\\岭南大学\\论文毕业\\capstone\\资料\\新的内容开始了\\local_upload\\input_w3\\张君劢.txt"
+  },
+  "entities": [
+    {
+      "id": "e1",
+      "name": "休谟",
+      "canonical_name": "休谟",
+      "type": "人物",
+      "evidence": "休谟氏云：经验之往复不已，于是有习惯上之信仰。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e2",
+      "name": "王引之",
+      "canonical_name": "王引之",
+      "type": "人物",
+      "evidence": "王引之云，遍为搜讨。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e3",
+      "name": "顾亭林",
+      "canonical_name": "顾炎武",
+      "type": "人物",
+      "evidence": "顾亭林云，多学而识。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e4",
+      "name": "阮元",
+      "canonical_name": "阮元",
+      "type": "人物",
+      "evidence": "阮元云，学者……实事求是，不当空言穷理。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e5",
+      "name": "戴东原",
+      "canonical_name": "戴震",
+      "type": "人物",
+      "evidence": "戴东原云，仁义礼智，不求于所谓欲之外，不离乎血气心知。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e6",
+      "name": "章学诚",
+      "canonical_name": "章学诚",
+      "type": "人物",
+      "evidence": "章学诚云，六经皆史。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e7",
+      "name": "康德",
+      "canonical_name": "康德",
+      "type": "人物",
+      "evidence": "康德分人之理性为二：其在知识方面，曰纯粹理性，能为先天综合判断；其在人生，曰实行理性，能为自发的行动。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e8",
+      "name": "柏格森",
+      "canonical_name": "柏格森",
+      "type": "人物",
+      "evidence": "柏格森云，创造可能之处，则有自觉性之表现。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e9",
+      "name": "倭伊铿",
+      "canonical_name": "倭伊铿",
+      "type": "人物",
+      "evidence": "倭伊铿云，人生介于物质精神之间，贵乎以精神克物质。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e10",
+      "name": "孟子",
+      "canonical_name": "孟子",
+      "type": "人物",
+      "evidence": "孟子曰，人之所不学而能者，其良能也；所不虑而知者，其良知也。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e11",
+      "name": "孔子",
+      "canonical_name": "孔子",
+      "type": "人物",
+      "evidence": "孔子曰，为人由己，而由人乎哉？",
+      "confidence": 1.0
+    },
+    {
+      "id": "e12",
+      "name": "汉学家",
+      "canonical_name": "汉学家",
+      "type": "阵营/群体",
+      "evidence": "汉学家之言：",
+      "confidence": 1.0
+    },
+    {
+      "id": "e13",
+      "name": "欧洲唯心派",
+      "canonical_name": "欧洲唯心派",
+      "type": "阵营/群体",
+      "evidence": "欧洲唯心派之言：",
+      "confidence": 1.0
+    },
+    {
+      "id": "e14",
+      "name": "孔孟下逮宋明理学家",
+      "canonical_name": "孔孟下逮宋明理学家",
+      "type": "阵营/群体",
+      "evidence": "孔孟下逮宋明理学家之言：",
+      "confidence": 1.0
+    },
+    {
+      "id": "e15",
+      "name": "沿革的方法",
+      "canonical_name": "沿革的方法",
+      "type": "方法",
+      "evidence": "英美学者，好用沿革的方法。",
+      "confidence": 0.8
+    },
+    {
+      "id": "e16",
+      "name": "纯粹理性",
+      "canonical_name": "纯粹理性",
+      "type": "概念",
+      "evidence": "康德分人之理性为二：其在知识方面，曰纯粹理性，能为先天综合判断；其在人生，曰实行理性，能为自发的行动。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e17",
+      "name": "实行理性",
+      "canonical_name": "实行理性",
+      "type": "概念",
+      "evidence": "康德分人之理性为二：其在知识方面，曰纯粹理性，能为先天综合判断；其在人生，曰实行理性，能为自发的行动。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e18",
+      "name": "先天综合判断",
+      "canonical_name": "先天综合判断",
+      "type": "概念",
+      "evidence": "康德分人之理性为二：其在知识方面，曰纯粹理性，能为先天综合判断；其在人生，曰实行理性，能为自发的行动。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e19",
+      "name": "断言命令",
+      "canonical_name": "断言命令",
+      "type": "概念",
+      "evidence": "康德云，关于意志之公例，若有使之不得不然者，是为断言命令。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e20",
+      "name": "自主性",
+      "canonical_name": "自主性",
+      "type": "概念",
+      "evidence": "康德云，伦理上之特色，为自主性，为义务概念。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e21",
+      "name": "义务概念",
+      "canonical_name": "义务概念",
+      "type": "概念",
+      "evidence": "康德云，伦理上之特色，为自主性，为义务概念。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e22",
+      "name": "心之实在",
+      "canonical_name": "心之实在",
+      "type": "概念",
+      "evidence": "唯心派好言心之实在。",
+      "confidence": 0.8
+    },
+    {
+      "id": "e23",
+      "name": "自觉性",
+      "canonical_name": "自觉性",
+      "type": "概念",
+      "evidence": "柏格森云，创造可能之处，则有自觉性之表现。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e24",
+      "name": "本体",
+      "canonical_name": "本体",
+      "type": "概念",
+      "evidence": "柏格森云，本体即在变中。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e25",
+      "name": "良能",
+      "canonical_name": "良能",
+      "type": "概念",
+      "evidence": "孟子曰，人之所不学而能者，其良能也；所不虑而知者，其良知也。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e26",
+      "name": "良知",
+      "canonical_name": "良知",
+      "type": "概念",
+      "evidence": "孟子曰，人之所不学而能者，其良能也；所不虑而知者，其良知也。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e27",
+      "name": "仁义礼智",
+      "canonical_name": "仁义礼智",
+      "type": "概念",
+      "evidence": "戴东原云，仁义礼智，不求于所谓欲之外，不离乎血气心知。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e28",
+      "name": "六经皆史",
+      "canonical_name": "六经皆史",
+      "type": "观点",
+      "evidence": "章学诚云，六经皆史。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e29",
+      "name": "理必出于礼",
+      "canonical_name": "理必出于礼",
+      "type": "观点",
+      "evidence": "阮元云，理必出于礼。又云，理必附于礼以行。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e30",
+      "name": "理必附于礼以行",
+      "canonical_name": "理必附于礼以行",
+      "type": "观点",
+      "evidence": "阮元云，理必出于礼。又云，理必附于礼以行。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e31",
+      "name": "自觉的努力",
+      "canonical_name": "自觉的努力",
+      "type": "概念",
+      "evidence": "最近新唯心派提倡自觉的努力之说。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e32",
+      "name": "新唯心派",
+      "canonical_name": "新唯心派",
+      "type": "阵营/群体",
+      "evidence": "最近新唯心派提倡自觉的努力之说。",
+      "confidence": 0.9
+    }
+  ],
+  "claims": [
+    {
+      "id": "c1",
+      "speaker": "休谟",
+      "claim": "经验之往复不已，于是有习惯上之信仰。",
+      "target": "",
+      "claim_type": "知识论主张",
+      "claim_status": "直接引用",
+      "polarity": "neutral",
+      "evidence": "休谟氏云：经验之往复不已，于是有习惯上之信仰。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c2",
+      "speaker": "王引之",
+      "claim": "遍为搜讨。",
+      "target": "",
+      "claim_type": "方法论主张",
+      "claim_status": "直接引用",
+      "polarity": "neutral",
+      "evidence": "王引之云，遍为搜讨。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c3",
+      "speaker": "顾亭林",
+      "claim": "多学而识。",
+      "target": "",
+      "claim_type": "方法论主张",
+      "claim_status": "直接引用",
+      "polarity": "neutral",
+      "evidence": "顾亭林云，多学而识。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c4",
+      "speaker": "阮元",
+      "claim": "学者……实事求是，不当空言穷理。",
+      "target": "",
+      "claim_type": "方法论主张",
+      "claim_status": "直接引用",
+      "polarity": "neutral",
+      "evidence": "阮元云，学者……实事求是，不当空言穷理。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c5",
+      "speaker": "顾亭林",
+      "claim": "文之不关于……当世之务者，一切不为。",
+      "target": "",
+      "claim_type": "方法论主张",
+      "claim_status": "直接引用",
+      "polarity": "neutral",
+      "evidence": "顾亭林云，文之不关于……当世之务者，一切不为。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c6",
+      "speaker": "戴东原",
+      "claim": "仁义礼智，不求于所谓欲之外，不离乎血气心知。",
+      "target": "",
+      "claim_type": "知识论主张",
+      "claim_status": "直接引用",
+      "polarity": "neutral",
+      "evidence": "戴东原云，仁义礼智，不求于所谓欲之外，不离乎血气心知。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c7",
+      "speaker": "章学诚",
+      "claim": "六经皆史。",
+      "target": "",
+      "claim_type": "历史解释",
+      "claim_status": "直接引用",
+      "polarity": "neutral",
+      "evidence": "章学诚云，六经皆史。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c8",
+      "speaker": "阮元",
+      "claim": "理必出于礼。",
+      "target": "",
+      "claim_type": "知识论主张",
+      "claim_status": "直接引用",
+      "polarity": "neutral",
+      "evidence": "阮元云，理必出于礼。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c9",
+      "speaker": "阮元",
+      "claim": "理必附于礼以行。",
+      "target": "",
+      "claim_type": "知识论主张",
+      "claim_status": "直接引用",
+      "polarity": "neutral",
+      "evidence": "又云，理必附于礼以行。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c10",
+      "speaker": "康德",
+      "claim": "分人之理性为二：其在知识方面，曰纯粹理性，能为先天综合判断；其在人生，曰实行理性，能为自发的行动。",
+      "target": "",
+      "claim_type": "知识论主张",
+      "claim_status": "直接引用",
+      "polarity": "neutral",
+      "evidence": "康德分人之理性为二：其在知识方面，曰纯粹理性，能为先天综合判断；其在人生，曰实行理性，能为自发的行动。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c11",
+      "speaker": "康德",
+      "claim": "关于意志之公例，若有使之不得不然者，是为断言命令。",
+      "target": "",
+      "claim_type": "定义性主张",
+      "claim_status": "直接引用",
+      "polarity": "neutral",
+      "evidence": "康德云，关于意志之公例，若有使之不得不然者，是为断言命令。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c12",
+      "speaker": "康德",
+      "claim": "伦理上之特色，为自主性，为义务概念。",
+      "target": "",
+      "claim_type": "定义性主张",
+      "claim_status": "直接引用",
+      "polarity": "neutral",
+      "evidence": "康德云，伦理上之特色，为自主性，为义务概念。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c13",
+      "speaker": "柏格森",
+      "claim": "创造可能之处，则有自觉性之表现。",
+      "target": "",
+      "claim_type": "本体论主张",
+      "claim_status": "直接引用",
+      "polarity": "neutral",
+      "evidence": "柏格森云，创造可能之处，则有自觉性之表现。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c14",
+      "speaker": "柏格森",
+      "claim": "本体即在变中。",
+      "target": "",
+      "claim_type": "本体论主张",
+      "claim_status": "直接引用",
+      "polarity": "neutral",
+      "evidence": "柏格森云，本体即在变中。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c15",
+      "speaker": "倭伊铿",
+      "claim": "人生介于物质精神之间，贵乎以精神克物质。",
+      "target": "",
+      "claim_type": "本体论主张",
+      "claim_status": "直接引用",
+      "polarity": "neutral",
+      "evidence": "倭伊铿云，人生介于物质精神之间，贵乎以精神克物质。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c16",
+      "speaker": "孟子",
+      "claim": "人之所不学而能者，其良能也；所不虑而知者，其良知也。",
+      "target": "",
+      "claim_type": "知识论主张",
+      "claim_status": "直接引用",
+      "polarity": "neutral",
+      "evidence": "孟子曰，人之所不学而能者，其良能也；所不虑而知者，其良知也。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c17",
+      "speaker": "孟子",
+      "claim": "仁义礼智，非由外铄我也，我固有之也。",
+      "target": "",
+      "claim_type": "知识论主张",
+      "claim_status": "直接引用",
+      "polarity": "neutral",
+      "evidence": "又曰，仁义礼智，非由外铄我也，我固有之也。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c18",
+      "speaker": "孟子",
+      "claim": "舜之居深山之中，……闻一善言，见一善行，若决江河，沛然莫之能御也。",
+      "target": "",
+      "claim_type": "历史解释",
+      "claim_status": "直接引用",
+      "polarity": "neutral",
+      "evidence": "孟子曰，舜之居深山之中，……闻一善言，见一善行，若决江河，沛然莫之能御也。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c19",
+      "speaker": "孔子",
+      "claim": "为人由己，而由人乎哉？",
+      "target": "",
+      "claim_type": "知识论主张",
+      "claim_status": "直接引用",
+      "polarity": "neutral",
+      "evidence": "孔子曰，为人由己，而由人乎哉？",
+      "confidence": 1.0
+    },
+    {
+      "id": "c20",
+      "speaker": "孔子",
+      "claim": "古之学者为己，今之学者为人。",
+      "target": "",
+      "claim_type": "价值评价",
+      "claim_status": "直接引用",
+      "polarity": "neutral",
+      "evidence": "又曰：古之学者为己，今之学者为人。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c21",
+      "speaker": "张君劢",
+      "claim": "英美学者，好用沿革的方法。",
+      "target": "英美学者",
+      "claim_type": "方法论主张",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "英美学者，好用沿革的方法。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c22",
+      "speaker": "张君劢",
+      "claim": "唯心派好言心之实在。",
+      "target": "唯心派",
+      "claim_type": "知识论主张",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "唯心派好言心之实在。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c23",
+      "speaker": "张君劢",
+      "claim": "最近新唯心派提倡自觉的努力之说。",
+      "target": "新唯心派",
+      "claim_type": "社会理论主张",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "最近新唯心派提倡自觉的努力之说。",
+      "confidence": 0.9
+    }
+  ],
+  "relations": [
+    {
+      "id": "r1",
+      "head": "张君劢",
+      "head_type": "人物",
+      "relation": "相关",
+      "tail": "休谟",
+      "tail_type": "人物",
+      "polarity": "neutral",
+      "evidence": "休谟氏云：经验之往复不已，于是有习惯上之信仰。",
+      "confidence": 1.0
+    },
+    {
+      "id": "r2",
+      "head": "张君劢",
+      "head_type": "人物",
+      "relation": "相关",
+      "tail": "王引之",
+      "tail_type": "人物",
+      "polarity": "neutral",
+      "evidence": "王引之云，遍为搜讨。",
+      "confidence": 1.0
+    },
+    {
+      "id": "r3",
+      "head": "张君劢",
+      "head_type": "人物",
+      "relation": "相关",
+      "tail": "顾亭林",
+      "tail_type": "人物",
+      "polarity": "neutral",
+      "evidence": "顾亭林云，多学而识。",
+      "confidence": 1.0
+    },
+    {
+      "id": "r4",
+      "head": "张君劢",
+      "head_type": "人物",
+      "relation": "相关",
+      "tail": "阮元",
+      "tail_type": "人物",
+      "polarity": "neutral",
+      "evidence": "阮元云，学者……实事求是，不当空言穷理。",
+      "confidence": 1.0
+    },
+    {
+      "id": "r5",
+      "head": "张君劢",
+      "head_type": "人物",
+      "relation": "相关",
+      "tail": "戴东原",
+      "tail_type": "人物",
+      "polarity": "neutral",
+      "evidence": "戴东原云，仁义礼智，不求于所谓欲之外，不离乎血气心知。",
+      "confidence": 1.0
+    },
+    {
+      "id": "r6",
+      "head": "张君劢",
+      "head_type": "人物",
+      "relation": "相关",
+      "tail": "章学诚",
+      "tail_type": "人物",
+      "polarity": "neutral",
+      "evidence": "章学诚云，六经皆史。",
+      "confidence": 1.0
+    },
+    {
+      "id": "r7",
+      "head": "张君劢",
+      "head_type": "人物",
+      "relation": "相关",
+      "tail": "康德",
+      "tail_type": "人物",
+      "polarity": "neutral",
+      "evidence": "康德分人之理性为二：其在知识方面，曰纯粹理性，能为先天综合判断；其在人生，曰实行理性，能为自发的行动。",
+      "confidence": 1.0
+    },
+    {
+      "id": "r8",
+      "head": "张君劢",
+      "head_type": "人物",
+      "relation": "相关",
+      "tail": "柏格森",
+      "tail_type": "人物",
+      "polarity": "neutral",
+      "evidence": "柏格森云，创造可能之处，则有自觉性之表现。",
+      "confidence": 1.0
+    },
+    {
+      "id": "r9",
+      "head": "张君劢",
+      "head_type": "人物",
+      "relation": "相关",
+      "tail": "倭伊铿",
+      "tail_type": "人物",
+      "polarity": "neutral",
+      "evidence": "倭伊铿云，人生介于物质精神之间，贵乎以精神克物质。",
+      "confidence": 1.0
+    },
+    {
+      "id": "r10",
+      "head": "张君劢",
+      "head_type": "人物",
+      "relation": "相关",
+      "tail": "孟子",
+      "tail_type": "人物",
+      "polarity": "neutral",
+      "evidence": "孟子曰，人之所不学而能者，其良能也；所不虑而知者，其良知也。",
+      "confidence": 1.0
+    },
+    {
+      "id": "r11",
+      "head": "张君劢",
+      "head_type": "人物",
+      "relation": "相关",
+      "tail": "孔子",
+      "tail_type": "人物",
+      "polarity": "neutral",
+      "evidence": "孔子曰，为人由己，而由人乎哉？",
+      "confidence": 1.0
+    },
+    {
+      "id": "r12",
+      "head": "汉学家",
+      "head_type": "阵营/群体",
+      "relation": "包含",
+      "tail": "王引之",
+      "tail_type": "人物",
+      "polarity": "neutral",
+      "evidence": "汉学家之言：\n（1）王引之云，遍为搜讨。",
+      "confidence": 0.9
+    }
+  ],
+  "definitions": [
+    {
+      "id": "def1",
+      "term": "纯粹理性",
+      "definition": "在知识方面，能为先天综合判断的理性。",
+      "evidence": "康德分人之理性为二：其在知识方面，曰纯粹理性，能为先天综合判断；其在人生，曰实行理性，能为自发的行动。",
+      "confidence": 1.0
+    },
+    {
+      "id": "def2",
+      "term": "实行理性",
+      "definition": "在人生方面，能为自发行动的理性。",
+      "evidence": "康德分人之理性为二：其在知识方面，曰纯粹理性，能为先天综合判断；其在人生，曰实行理性，能为自发的行动。",
+      "confidence": 1.0
+    },
+    {
+      "id": "def3",
+      "term": "断言命令",
+      "definition": "关于意志之公例，若有使之不得不然者。",
+      "evidence": "康德云，关于意志之公例，若有使之不得不然者，是为断言命令。",
+      "confidence": 1.0
+    },
+    {
+      "id": "def4",
+      "term": "良能",
+      "definition": "人之所不学而能者。",
+      "evidence": "孟子曰，人之所不学而能者，其良能也；所不虑而知者，其良知也。",
+      "confidence": 1.0
+    },
+    {
+      "id": "def5",
+      "term": "良知",
+      "definition": "人之所不虑而知者。",
+      "evidence": "孟子曰，人之所不学而能者，其良能也；所不虑而知者，其良知也。",
+      "confidence": 1.0
+    }
+  ],
+  "citations": [
+    {
+      "id": "cit1",
+      "citer": "张君劢",
+      "quoted_author": "休谟",
+      "quoted_work": "",
+      "quoted_claim": "经验之往复不已，于是有习惯上之信仰。",
+      "function": "援引权威支持",
+      "evidence": "休谟氏云：经验之往复不已，于是有习惯上之信仰。",
+      "confidence": 1.0
+    },
+    {
+      "id": "cit2",
+      "citer": "张君劢",
+      "quoted_author": "王引之",
+      "quoted_work": "",
+      "quoted_claim": "遍为搜讨。",
+      "function": "援引权威支持",
+      "evidence": "王引之云，遍为搜讨。",
+      "confidence": 1.0
+    },
+    {
+      "id": "cit3",
+      "citer": "张君劢",
+      "quoted_author": "顾亭林",
+      "quoted_work": "",
+      "quoted_claim": "多学而识。",
+      "function": "援引权威支持",
+      "evidence": "顾亭林云，多学而识。",
+      "confidence": 1.0
+    },
+    {
+      "id": "cit4",
+      "citer": "张君劢",
+      "quoted_author": "阮元",
+      "quoted_work": "",
+      "quoted_claim": "学者……实事求是，不当空言穷理。",
+      "function": "援引权威支持",
+      "evidence": "阮元云，学者……实事求是，不当空言穷理。",
+      "confidence": 1.0
+    },
+    {
+      "id": "cit5",
+      "citer": "张君劢",
+      "quoted_author": "顾亭林",
+      "quoted_work": "",
+      "quoted_claim": "文之不关于……当世之务者，一切不为。",
+      "function": "援引权威支持",
+      "evidence": "顾亭林云，文之不关于……当世之务者，一切不为。",
+      "confidence": 1.0
+    },
+    {
+      "id": "cit6",
+      "citer": "张君劢",
+      "quoted_author": "戴东原",
+      "quoted_work": "",
+      "quoted_claim": "仁义礼智，不求于所谓欲之外，不离乎血气心知。",
+      "function": "援引权威支持",
+      "evidence": "戴东原云，仁义礼智，不求于所谓欲之外，不离乎血气心知。",
+      "confidence": 1.0
+    },
+    {
+      "id": "cit7",
+      "citer": "张君劢",
+      "quoted_author": "章学诚",
+      "quoted_work": "",
+      "quoted_claim": "六经皆史。",
+      "function": "援引权威支持",
+      "evidence": "章学诚云，六经皆史。",
+      "confidence": 1.0
+    },
+    {
+      "id": "cit8",
+      "citer": "张君劢",
+      "quoted_author": "阮元",
+      "quoted_work": "",
+      "quoted_claim": "理必出于礼。又云，理必附于礼以行。",
+      "function": "援引权威支持",
+      "evidence": "阮元云，理必出于礼。又云，理必附于礼以行。",
+      "confidence": 1.0
+    },
+    {
+      "id": "cit9",
+      "citer": "张君劢",
+      "quoted_author": "康德",
+      "quoted_work": "",
+      "quoted_claim": "分人之理性为二：其在知识方面，曰纯粹理性，能为先天综合判断；其在人生，曰实行理性，能为自发的行动。",
+      "function": "援引权威支持",
+      "evidence": "康德分人之理性为二：其在知识方面，曰纯粹理性，能为先天综合判断；其在人生，曰实行理性，能为自发的行动。",
+      "confidence": 1.0
+    },
+    {
+      "id": "cit10",
+      "citer": "张君劢",
+      "quoted_author": "康德",
+      "quoted_work": "",
+      "quoted_claim": "关于意志之公例，若有使之不得不然者，是为断言命令。",
+      "function": "援引权威支持",
+      "evidence": "康德云，关于意志之公例，若有使之不得不然者，是为断言命令。",
+      "confidence": 1.0
+    },
+    {
+      "id": "cit11",
+      "citer": "张君劢",
+      "quoted_author": "康德",
+      "quoted_work": "",
+      "quoted_claim": "伦理上之特色，为自主性，为义务概念。",
+      "function": "援引权威支持",
+      "evidence": "康德云，伦理上之特色，为自主性，为义务概念。",
+      "confidence": 1.0
+    },
+    {
+      "id": "cit12",
+      "citer": "张君劢",
+      "quoted_author": "柏格森",
+      "quoted_work": "",
+      "quoted_claim": "创造可能之处，则有自觉性之表现。",
+      "function": "援引权威支持",
+      "evidence": "柏格森云，创造可能之处，则有自觉性之表现。",
+      "confidence": 1.0
+    },
+    {
+      "id": "cit13",
+      "citer": "张君劢",
+      "quoted_author": "柏格森",
+      "quoted_work": "",
+      "quoted_claim": "本体即在变中。",
+      "function": "援引权威支持",
+      "evidence": "柏格森云，本体即在变中。",
+      "confidence": 1.0
+    },
+    {
+      "id": "cit14",
+      "citer": "张君劢",
+      "quoted_author": "倭伊铿",
+      "quoted_work": "",
+      "quoted_claim": "人生介于物质精神之间，贵乎以精神克物质。",
+      "function": "援引权威支持",
+      "evidence": "倭伊铿云，人生介于物质精神之间，贵乎以精神克物质。",
+      "confidence": 1.0
+    },
+    {
+      "id": "cit15",
+      "citer": "张君劢",
+      "quoted_author": "孟子",
+      "quoted_work": "",
+      "quoted_claim": "人之所不学而能者，其良能也；所不虑而知者，其良知也。",
+      "function": "援引权威支持",
+      "evidence": "孟子曰，人之所不学而能者，其良能也；所不虑而知者，其良知也。",
+      "confidence": 1.0
+    },
+    {
+      "id": "cit16",
+      "citer": "张君劢",
+      "quoted_author": "孟子",
+      "quoted_work": "",
+      "quoted_claim": "仁义礼智，非由外铄我也，我固有之也。",
+      "function": "援引权威支持",
+      "evidence": "又曰，仁义礼智，非由外铄我也，我固有之也。",
+      "confidence": 1.0
+    },
+    {
+      "id": "cit17",
+      "citer": "张君劢",
+      "quoted_author": "孟子",
+      "quoted_work": "",
+      "quoted_claim": "舜之居深山之中，……闻一善言，见一善行，若决江河，沛然莫之能御也。",
+      "function": "援引权威支持",
+      "evidence": "孟子曰，舜之居深山之中，……闻一善言，见一善行，若决江河，沛然莫之能御也。",
+      "confidence": 1.0
+    },
+    {
+      "id": "cit18",
+      "citer": "张君劢",
+      "quoted_author": "孔子",
+      "quoted_work": "",
+      "quoted_claim": "为人由己，而由人乎哉？",
+      "function": "援引权威支持",
+      "evidence": "孔子曰，为人由己，而由人乎哉？",
+      "confidence": 1.0
+    },
+    {
+      "id": "cit19",
+      "citer": "张君劢",
+      "quoted_author": "孔子",
+      "quoted_work": "",
+      "quoted_claim": "古之学者为己，今之学者为人。",
+      "function": "援引权威支持",
+      "evidence": "又曰：古之学者为己，今之学者为人。",
+      "confidence": 1.0
+    }
+  ],
+  "rhetorical_devices": [],
+  "uncertainties": [
+    {
+      "item": "文本中“英美学者”具体指哪些学者未明确列出。",
+      "reason": "文本仅说“英美学者，好用沿革的方法”，未给出具体人名或著作。"
+    },
+    {
+      "item": "“唯心派”具体指哪些人物或学派未明确。",
+      "reason": "文本仅说“唯心派好言心之实在”，未具体说明。"
+    },
+    {
+      "item": "“最近新唯心派”具体指哪些人物或学派未明确。",
+      "reason": "文本仅说“最近新唯心派提倡自觉的努力之说”，未具体说明。"
+    }
+  ],
+  "_meta": {
+    "status": "success",
+    "stage": "extract",
+    "model": "deepseek-ai/DeepSeek-V4-Flash",
+    "base_url": "https://api.siliconflow.cn/v1",
+    "prompt_version": "extract_prompt_v2.0",
+    "schema_version": "lite_v2.0",
+    "segment_id": "张君劢_002_c870d202_s0037",
+    "article_id": "张君劢_002_c870d202",
+    "char_start": 18597,
+    "char_end": 19194,
+    "raw_path": "E:\\1研究生\\岭南大学\\论文毕业\\capstone\\资料\\新的内容开始了\\local_upload\\kg_runs\\张君劢\\raw_outputs\\extract\\张君劢_002_c870d202_s0037.txt",
+    "parsed_at": "2026-05-20T04:21:53",
+    "started_at": "2026-05-20T04:17:49",
+    "elapsed_seconds": 243.83,
+    "strict_evidence_check": true,
+    "drop_unsupported_evidence": true,
+    "request_timeout_seconds": 180
+  }
+}

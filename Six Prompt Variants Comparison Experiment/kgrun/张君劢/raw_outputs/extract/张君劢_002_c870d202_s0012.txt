@@ -1,0 +1,351 @@
+{
+  "metadata": {
+    "schema_version": "lite_v2.0",
+    "article_id": "张君劢_002_c870d202",
+    "article_title": "再论人生观与科学并答丁在君",
+    "source_author": "张君劢",
+    "section_title": "",
+    "section_author": "",
+    "segment_id": "张君劢_002_c870d202_s0012",
+    "segment_index": 12,
+    "source_file": "E:\\1研究生\\岭南大学\\论文毕业\\capstone\\资料\\新的内容开始了\\local_upload\\input_w3\\张君劢.txt"
+  },
+  "entities": [
+    {
+      "id": "e1",
+      "name": "张君劢",
+      "canonical_name": "张君劢",
+      "type": "人物",
+      "evidence": "吾敢断言曰：必无而已。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e2",
+      "name": "爱丁敦",
+      "canonical_name": "爱丁敦",
+      "type": "人物",
+      "evidence": "当英天文学者爱丁敦氏赴南美测验日蚀之日",
+      "confidence": 1.0
+    },
+    {
+      "id": "e3",
+      "name": "鲍恩",
+      "canonical_name": "鲍恩",
+      "type": "人物",
+      "evidence": "德物理学者鲍恩询爱因斯坦曰",
+      "confidence": 1.0
+    },
+    {
+      "id": "e4",
+      "name": "爱因斯坦",
+      "canonical_name": "爱因斯坦",
+      "type": "人物",
+      "evidence": "德物理学者鲍恩询爱因斯坦曰",
+      "confidence": 1.0
+    },
+    {
+      "id": "e5",
+      "name": "物理学",
+      "canonical_name": "物理学",
+      "type": "概念",
+      "evidence": "物理现象惟有此四大原则，故日趋于正确",
+      "confidence": 1.0
+    },
+    {
+      "id": "e6",
+      "name": "生物学",
+      "canonical_name": "生物学",
+      "type": "概念",
+      "evidence": "至于生物学，有所谓种别，有所谓个性",
+      "confidence": 1.0
+    },
+    {
+      "id": "e7",
+      "name": "心理学",
+      "canonical_name": "心理学",
+      "type": "概念",
+      "evidence": "而心理学为尤甚",
+      "confidence": 1.0
+    },
+    {
+      "id": "e8",
+      "name": "精神科学",
+      "canonical_name": "精神科学",
+      "type": "概念",
+      "evidence": "精神科学之种类，前表已详",
+      "confidence": 1.0
+    },
+    {
+      "id": "e9",
+      "name": "天文学",
+      "canonical_name": "天文学",
+      "type": "概念",
+      "evidence": "天文学，世界统一者也",
+      "confidence": 1.0
+    },
+    {
+      "id": "e10",
+      "name": "数学",
+      "canonical_name": "数学",
+      "type": "概念",
+      "evidence": "数学，世界统一者也",
+      "confidence": 1.0
+    },
+    {
+      "id": "e11",
+      "name": "政治",
+      "canonical_name": "政治",
+      "type": "概念",
+      "evidence": "一言及于精神科学如政治与生计之类",
+      "confidence": 1.0
+    },
+    {
+      "id": "e12",
+      "name": "生计",
+      "canonical_name": "生计",
+      "type": "概念",
+      "evidence": "一言及于精神科学如政治与生计之类",
+      "confidence": 1.0
+    },
+    {
+      "id": "e13",
+      "name": "四大原则",
+      "canonical_name": "四大原则",
+      "type": "概念",
+      "evidence": "以有吾所谓上述之四大原则故也",
+      "confidence": 1.0
+    },
+    {
+      "id": "e14",
+      "name": "公例",
+      "canonical_name": "公例",
+      "type": "概念",
+      "evidence": "精神科学中有何种公例牢固不拔如物理学之公例者乎",
+      "confidence": 1.0
+    },
+    {
+      "id": "e15",
+      "name": "个性",
+      "canonical_name": "个性",
+      "type": "概念",
+      "evidence": "生物心理两界日为个性之差异所扰",
+      "confidence": 1.0
+    },
+    {
+      "id": "e16",
+      "name": "物理学之公例",
+      "canonical_name": "物理学之公例",
+      "type": "概念",
+      "evidence": "精神科学中有何种公例牢固不拔如物理学之公例者乎",
+      "confidence": 1.0
+    }
+  ],
+  "claims": [
+    {
+      "id": "c1",
+      "speaker": "张君劢",
+      "claim": "物理现象惟有此四大原则，故日趋于正确；生物心理现象惟无此四原则，故不能日就于正确。",
+      "target": "物理学与生物心理学之比较",
+      "claim_type": "知识论主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "物理现象惟有此四大原则，故日趋于正确；生物心理现象惟无此四原则，故不能日就于正确。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c2",
+      "speaker": "张君劢",
+      "claim": "精神科学无牢固不拔之原则，且决不能以已成之例推算未来。",
+      "target": "精神科学",
+      "claim_type": "知识论主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "精神科学无牢固不拔之原则，且决不能以已成之例推算未来也。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c3",
+      "speaker": "张君劢",
+      "claim": "精神科学中有何种公例牢固不拔如物理学之公例者乎？吾敢断言曰：必无而已。",
+      "target": "精神科学",
+      "claim_type": "问题提出",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "吾敢断言曰：必无而已。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c4",
+      "speaker": "张君劢",
+      "claim": "天文学，世界统一者也，未闻有所谓英国天文学法国天文学也。数学，世界统一者也，未闻有所谓美国数学德国数学也。",
+      "target": "天文学与数学",
+      "claim_type": "知识论主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "天文学，世界统一者也，未闻有所谓英国天文学法国天文学也。数学，世界统一者也，未闻有所谓美国数学德国数学也。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c5",
+      "speaker": "张君劢",
+      "claim": "精神科学如政治与生计之类，每曰甲国之政制，不必适于乙国；甲国之政策，不必适于乙国。",
+      "target": "精神科学",
+      "claim_type": "知识论主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "一言及于精神科学如政治与生计之类，每曰甲国之政制，不必适于乙国；甲国之政策，不必适于乙国。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c6",
+      "speaker": "张君劢",
+      "claim": "同在一国之内，忽而君主，忽而共和，果有一定之公例乎？忽而资本主义？忽而社会主义，果有一定之公例乎？",
+      "target": "政治与生计",
+      "claim_type": "问题提出",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "同在一国之内，忽而君主，忽而共和，果有一定之公例乎？忽而资本主义？忽而社会主义，果有一定之公例乎？",
+      "confidence": 1.0
+    },
+    {
+      "id": "c7",
+      "speaker": "爱因斯坦",
+      "claim": "诚如君言，吾惟有骇怪。",
+      "target": "鲍恩",
+      "claim_type": "价值评价",
+      "claim_status": "直接引用",
+      "polarity": "positive",
+      "evidence": "爱氏答曰：诚如君言，吾惟有骇怪。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c8",
+      "speaker": "张君劢",
+      "claim": "爱氏何以能自信如是？曰，以有吾所谓上述之四大原则故也。",
+      "target": "爱因斯坦",
+      "claim_type": "历史解释",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "爱氏何以能自信如是？曰，以有吾所谓上述之四大原则故也。",
+      "confidence": 1.0
+    }
+  ],
+  "relations": [
+    {
+      "id": "r1",
+      "head": "物理学",
+      "head_type": "概念",
+      "relation": "对比",
+      "relation_subtype": "不适用",
+      "tail": "生物学",
+      "tail_type": "概念",
+      "polarity": "negative",
+      "evidence": "物理现象惟有此四大原则，故日趋于正确；生物心理现象惟无此四原则，故不能日就于正确。",
+      "confidence": 1.0
+    },
+    {
+      "id": "r2",
+      "head": "物理学",
+      "head_type": "概念",
+      "relation": "对比",
+      "relation_subtype": "不适用",
+      "tail": "心理学",
+      "tail_type": "概念",
+      "polarity": "negative",
+      "evidence": "物理现象惟有此四大原则，故日趋于正确；生物心理现象惟无此四原则，故不能日就于正确。",
+      "confidence": 1.0
+    },
+    {
+      "id": "r3",
+      "head": "天文学",
+      "head_type": "概念",
+      "relation": "对比",
+      "relation_subtype": "不适用",
+      "tail": "精神科学",
+      "tail_type": "概念",
+      "polarity": "negative",
+      "evidence": "天文学，世界统一者也，未闻有所谓英国天文学法国天文学也。一言及于精神科学如政治与生计之类，每曰甲国之政制，不必适于乙国。",
+      "confidence": 1.0
+    },
+    {
+      "id": "r4",
+      "head": "数学",
+      "head_type": "概念",
+      "relation": "对比",
+      "relation_subtype": "不适用",
+      "tail": "精神科学",
+      "tail_type": "概念",
+      "polarity": "negative",
+      "evidence": "数学，世界统一者也，未闻有所谓美国数学德国数学也。一言及于精神科学如政治与生计之类，每曰甲国之政制，不必适于乙国。",
+      "confidence": 1.0
+    },
+    {
+      "id": "r5",
+      "head": "四大原则",
+      "head_type": "概念",
+      "relation": "导致",
+      "relation_subtype": "不适用",
+      "tail": "物理学",
+      "tail_type": "概念",
+      "polarity": "positive",
+      "evidence": "物理现象惟有此四大原则，故日趋于正确",
+      "confidence": 1.0
+    },
+    {
+      "id": "r6",
+      "head": "精神科学",
+      "head_type": "概念",
+      "relation": "包含",
+      "relation_subtype": "不适用",
+      "tail": "政治",
+      "tail_type": "概念",
+      "polarity": "neutral",
+      "evidence": "一言及于精神科学如政治与生计之类",
+      "confidence": 1.0
+    },
+    {
+      "id": "r7",
+      "head": "精神科学",
+      "head_type": "概念",
+      "relation": "包含",
+      "relation_subtype": "不适用",
+      "tail": "生计",
+      "tail_type": "概念",
+      "polarity": "neutral",
+      "evidence": "一言及于精神科学如政治与生计之类",
+      "confidence": 1.0
+    }
+  ],
+  "definitions": [
+    {
+      "id": "def1",
+      "term": "四大原则",
+      "definition": "物理现象所遵循的四个原则，使物理学日趋于正确。",
+      "evidence": "以有吾所谓上述之四大原则故也。",
+      "confidence": 0.8
+    }
+  ],
+  "citations": [
+    {
+      "id": "cit1",
+      "citer": "张君劢",
+      "quoted_author": "爱因斯坦",
+      "quoted_work": "",
+      "quoted_claim": "诚如君言，吾惟有骇怪。",
+      "function": "作为历史证据",
+      "evidence": "爱氏答曰：诚如君言，吾惟有骇怪。",
+      "confidence": 1.0
+    }
+  ],
+  "rhetorical_devices": [],
+  "uncertainties": [
+    {
+      "item": "四大原则的具体内容",
+      "reason": "文本中仅提及'上述之四大原则'，但未在当前片段中列出具体四项原则。"
+    },
+    {
+      "item": "精神科学之种类前表",
+      "reason": "文本提到'精神科学之种类，前表已详'，但当前片段未包含该表。"
+    }
+  ]
+}

@@ -1,0 +1,331 @@
+{
+  "metadata": {
+    "schema_version": "lite_v2.0",
+    "article_id": "丁文江2_000_e838922e",
+    "article_title": "玄学与科学——答张君劢",
+    "source_author": "丁文江",
+    "section_title": "",
+    "section_author": "",
+    "segment_id": "丁文江2_000_e838922e_s0011",
+    "segment_index": 11,
+    "source_file": "E:\\1研究生\\岭南大学\\论文毕业\\capstone\\资料\\新的内容开始了\\local_upload\\input_texts\\丁文江2.txt"
+  },
+  "entities": [
+    {
+      "id": "e1",
+      "name": "张君劢",
+      "canonical_name": "张君劢",
+      "type": "人物",
+      "evidence": "或者君劢的原意是凡我对于我以外的物同人的观察、主张、要求、希望",
+      "confidence": 1.0
+    },
+    {
+      "id": "e2",
+      "name": "人生观",
+      "canonical_name": "人生观",
+      "type": "概念",
+      "evidence": "岂不是凡有科学的材料都可以包括在人生观里面？",
+      "confidence": 1.0
+    },
+    {
+      "id": "e3",
+      "name": "科学",
+      "canonical_name": "科学",
+      "type": "概念",
+      "evidence": "岂不是凡有科学的材料都可以包括在人生观里面？",
+      "confidence": 1.0
+    },
+    {
+      "id": "e4",
+      "name": "地质学",
+      "canonical_name": "地质学",
+      "type": "概念",
+      "evidence": "即如地质学，何尝不是我对于大地河山的观察？",
+      "confidence": 1.0
+    },
+    {
+      "id": "e5",
+      "name": "星占学",
+      "canonical_name": "星占学",
+      "type": "概念",
+      "evidence": "譬如相信星占学的人，对于天象不但观察，而且有主张、希望、要求。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e6",
+      "name": "阴阳五行",
+      "canonical_name": "阴阳五行",
+      "type": "概念",
+      "evidence": "就是阴阳五行，何尝不是主观？",
+      "confidence": 1.0
+    },
+    {
+      "id": "e7",
+      "name": "主观",
+      "canonical_name": "主观",
+      "type": "概念",
+      "evidence": "就是阴阳五行，何尝不是主观？",
+      "confidence": 1.0
+    }
+  ],
+  "claims": [
+    {
+      "id": "c1",
+      "speaker": "丁文江",
+      "claim": "凡有科学的材料都可以包括在人生观里面",
+      "target": "张君劢",
+      "claim_type": "反驳性主张",
+      "claim_status": "作者推论",
+      "polarity": "negative",
+      "evidence": "范围既然这样广，岂不是凡有科学的材料都可以包括在人生观里面？",
+      "confidence": 0.9
+    },
+    {
+      "id": "c2",
+      "speaker": "丁文江",
+      "claim": "地质学也是我对于大地河山的观察",
+      "target": "",
+      "claim_type": "论据",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "即如地质学，何尝不是我对于大地河山的观察？",
+      "confidence": 0.9
+    },
+    {
+      "id": "c3",
+      "speaker": "丁文江",
+      "claim": "君劢的原意是凡我对于我以外的物同人的观察、主张、要求、希望，'可以主观作用消息其间的'叫做人生观",
+      "target": "张君劢",
+      "claim_type": "定义性主张",
+      "claim_status": "作者概括",
+      "polarity": "neutral",
+      "evidence": "或者君劢的原意是凡我对于我以外的物同人的观察、主张、要求、希望，“可以主观作用消息其间的”叫做人生观",
+      "confidence": 0.8
+    },
+    {
+      "id": "c4",
+      "speaker": "丁文江",
+      "claim": "加上'可以主观作用消息其间的'这一句，还是不甚了然",
+      "target": "张君劢",
+      "claim_type": "反驳性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "可惜就是加上这一句，还是不甚了然",
+      "confidence": 0.9
+    },
+    {
+      "id": "c5",
+      "speaker": "丁文江",
+      "claim": "从前人类以为可以主观作用消息其间的东西，现在大家承认完全不是那们一回事的很多很多",
+      "target": "",
+      "claim_type": "历史解释",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "因为从前人类以为可以主观作用消息其间的东西，现在大家承认完全不是那们一回事的很多很多。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c6",
+      "speaker": "丁文江",
+      "claim": "相信星占学的人，对于天象不但观察，而且有主张、希望、要求",
+      "target": "",
+      "claim_type": "例证",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "譬如相信星占学的人，对于天象不但观察，而且有主张、希望、要求。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c7",
+      "speaker": "丁文江",
+      "claim": "天象有变，汉朝丞相照法律应该引咎辞职，或是自杀",
+      "target": "",
+      "claim_type": "例证",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "天象有变，汉朝丞相照法律应该引咎辞职，或是自杀；",
+      "confidence": 0.9
+    },
+    {
+      "id": "c8",
+      "speaker": "丁文江",
+      "claim": "圣君贤主，修德格天，希望要求免去天变的，历史上不知道多少",
+      "target": "",
+      "claim_type": "例证",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "圣君贤主，修德格天，希望要求免去天变的，历史上不知道多少；",
+      "confidence": 0.9
+    },
+    {
+      "id": "c9",
+      "speaker": "丁文江",
+      "claim": "求雨求晴，禁屠斋戒，至今中国还是奉行",
+      "target": "",
+      "claim_type": "例证",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "求雨求晴，禁屠斋戒，至今中国还是奉行，",
+      "confidence": 0.9
+    },
+    {
+      "id": "c10",
+      "speaker": "丁文江",
+      "claim": "求雨求晴的人何尝不以为'可以主观作用消息其间'",
+      "target": "",
+      "claim_type": "例证",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "他们何尝不以为“可以主观作用消息其间”？",
+      "confidence": 0.9
+    },
+    {
+      "id": "c11",
+      "speaker": "丁文江",
+      "claim": "阴阳五行也是主观",
+      "target": "",
+      "claim_type": "例证",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "就是阴阳五行，何尝不是主观？",
+      "confidence": 0.9
+    }
+  ],
+  "relations": [
+    {
+      "id": "r1",
+      "head": "丁文江",
+      "head_type": "人物",
+      "relation": "反驳",
+      "relation_subtype": "逻辑反驳",
+      "tail": "张君劢",
+      "tail_type": "人物",
+      "polarity": "negative",
+      "evidence": "范围既然这样广，岂不是凡有科学的材料都可以包括在人生观里面？",
+      "confidence": 0.9
+    },
+    {
+      "id": "r2",
+      "head": "丁文江",
+      "head_type": "人物",
+      "relation": "反驳",
+      "relation_subtype": "概念混淆批评",
+      "tail": "张君劢",
+      "tail_type": "人物",
+      "polarity": "negative",
+      "evidence": "可惜就是加上这一句，还是不甚了然",
+      "confidence": 0.9
+    },
+    {
+      "id": "r3",
+      "head": "丁文江",
+      "head_type": "人物",
+      "relation": "作为论据支持",
+      "relation_subtype": "不适用",
+      "tail": "c5",
+      "tail_type": "观点",
+      "polarity": "positive",
+      "evidence": "因为从前人类以为可以主观作用消息其间的东西，现在大家承认完全不是那们一回事的很多很多。",
+      "confidence": 0.9
+    },
+    {
+      "id": "r4",
+      "head": "c6",
+      "head_type": "观点",
+      "relation": "作为论据支持",
+      "relation_subtype": "不适用",
+      "tail": "c5",
+      "tail_type": "观点",
+      "polarity": "positive",
+      "evidence": "譬如相信星占学的人，对于天象不但观察，而且有主张、希望、要求。",
+      "confidence": 0.9
+    },
+    {
+      "id": "r5",
+      "head": "c7",
+      "head_type": "观点",
+      "relation": "作为论据支持",
+      "relation_subtype": "不适用",
+      "tail": "c5",
+      "tail_type": "观点",
+      "polarity": "positive",
+      "evidence": "天象有变，汉朝丞相照法律应该引咎辞职，或是自杀；",
+      "confidence": 0.9
+    },
+    {
+      "id": "r6",
+      "head": "c8",
+      "head_type": "观点",
+      "relation": "作为论据支持",
+      "relation_subtype": "不适用",
+      "tail": "c5",
+      "tail_type": "观点",
+      "polarity": "positive",
+      "evidence": "圣君贤主，修德格天，希望要求免去天变的，历史上不知道多少；",
+      "confidence": 0.9
+    },
+    {
+      "id": "r7",
+      "head": "c9",
+      "head_type": "观点",
+      "relation": "作为论据支持",
+      "relation_subtype": "不适用",
+      "tail": "c5",
+      "tail_type": "观点",
+      "polarity": "positive",
+      "evidence": "求雨求晴，禁屠斋戒，至今中国还是奉行，",
+      "confidence": 0.9
+    },
+    {
+      "id": "r8",
+      "head": "c10",
+      "head_type": "观点",
+      "relation": "作为论据支持",
+      "relation_subtype": "不适用",
+      "tail": "c5",
+      "tail_type": "观点",
+      "polarity": "positive",
+      "evidence": "他们何尝不以为“可以主观作用消息其间”？",
+      "confidence": 0.9
+    },
+    {
+      "id": "r9",
+      "head": "c11",
+      "head_type": "观点",
+      "relation": "作为论据支持",
+      "relation_subtype": "不适用",
+      "tail": "c5",
+      "tail_type": "观点",
+      "polarity": "positive",
+      "evidence": "就是阴阳五行，何尝不是主观？",
+      "confidence": 0.9
+    }
+  ],
+  "definitions": [
+    {
+      "id": "def1",
+      "term": "人生观",
+      "definition": "凡我对于我以外的物同人的观察、主张、要求、希望，'可以主观作用消息其间的'叫做人生观",
+      "evidence": "或者君劢的原意是凡我对于我以外的物同人的观察、主张、要求、希望，“可以主观作用消息其间的”叫做人生观",
+      "confidence": 0.8
+    }
+  ],
+  "citations": [],
+  "rhetorical_devices": [
+    {
+      "id": "rh1",
+      "expression": "以辞害意",
+      "device_type": "比喻",
+      "literal_target": "因拘泥于字面解释而误解原意",
+      "function": "丁文江表示自己不愿因字面问题误解张君劢，体现讨论的友谊性",
+      "evidence": "我们是友谊的讨论，不必一定以辞害意的。",
+      "confidence": 0.9
+    }
+  ],
+  "uncertainties": [
+    {
+      "item": "张君劢对人生观的原始定义是否完全如丁文江所概括",
+      "reason": "丁文江说'或者君劢的原意是……'，语气为推测，并非直接引用张君劢原文"
+    }
+  ]
+}
