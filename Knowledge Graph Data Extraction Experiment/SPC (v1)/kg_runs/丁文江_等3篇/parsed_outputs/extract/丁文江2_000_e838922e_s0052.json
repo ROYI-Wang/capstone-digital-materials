@@ -1,0 +1,332 @@
+{
+  "metadata": {
+    "schema_version": "lite_v2.0",
+    "article_id": "丁文江2_000_e838922e",
+    "article_title": "玄学与科学——答张君劢",
+    "source_author": "丁文江",
+    "section_title": "",
+    "section_author": "",
+    "segment_id": "丁文江2_000_e838922e_s0052",
+    "segment_index": 52,
+    "source_file": "E:\\1研究生\\岭南大学\\论文毕业\\capstone\\资料\\新的内容开始了\\local_upload\\input_texts\\丁文江2.txt"
+  },
+  "entities": [
+    {
+      "id": "e1",
+      "name": "内省",
+      "canonical_name": "内省",
+      "type": "Concept",
+      "evidence": "内省所发现的东西同观察所发见的没有根本的分别",
+      "confidence": 0.9
+    },
+    {
+      "id": "e2",
+      "name": "观察",
+      "canonical_name": "观察",
+      "type": "Concept",
+      "evidence": "内省所发现的东西同观察所发见的没有根本的分别",
+      "confidence": 0.9
+    },
+    {
+      "id": "e3",
+      "name": "科学",
+      "canonical_name": "科学",
+      "type": "Concept",
+      "evidence": "这三派的学说虽然有许多不同，但是都可以说是科学的，因为他们都是用科学的结果同科学的方法来解决知识论的",
+      "confidence": 0.9
+    },
+    {
+      "id": "e4",
+      "name": "知识论",
+      "canonical_name": "知识论",
+      "type": "Concept",
+      "evidence": "因为他们都是用科学的结果同科学的方法来解决知识论的",
+      "confidence": 0.9
+    },
+    {
+      "id": "e5",
+      "name": "君劢",
+      "canonical_name": "张君劢",
+      "type": "Person",
+      "evidence": "同君劢所信仰的根本不能两立的",
+      "confidence": 0.9
+    },
+    {
+      "id": "e6",
+      "name": "正统的哲学",
+      "canonical_name": "正统哲学",
+      "type": "Theory",
+      "evidence": "君劢这一派的学说，普通叫做正统的哲学",
+      "confidence": 0.9
+    },
+    {
+      "id": "e7",
+      "name": "亚里士多德",
+      "canonical_name": "亚里士多德",
+      "type": "Person",
+      "evidence": "因为他们的方法是从亚里士多德一脉相传下来的",
+      "confidence": 0.9
+    },
+    {
+      "id": "e8",
+      "name": "亚里士多德的宇宙论",
+      "canonical_name": "亚里士多德宇宙论",
+      "type": "Theory",
+      "evidence": "亚里士多德的宇宙论同生物学已经完全为科学推翻",
+      "confidence": 0.9
+    },
+    {
+      "id": "e9",
+      "name": "生物学",
+      "canonical_name": "生物学",
+      "type": "Concept",
+      "evidence": "亚里士多德的宇宙论同生物学已经完全为科学推翻",
+      "confidence": 0.9
+    },
+    {
+      "id": "e10",
+      "name": "哲学方法",
+      "canonical_name": "哲学方法",
+      "type": "Principle",
+      "evidence": "若是我们仍然保守他的哲学方法",
+      "confidence": 0.9
+    },
+    {
+      "id": "e11",
+      "name": "我",
+      "canonical_name": "我",
+      "type": "Concept",
+      "evidence": "我明明白白知道有个我；你如何把‘我’变成功一束的思想，行为的动物，或是记忆情感所联合的复杂体？",
+      "confidence": 0.9
+    },
+    {
+      "id": "e12",
+      "name": "对蹠的人",
+      "canonical_name": "对蹠的人",
+      "type": "Concept",
+      "evidence": "没有许多年前，世界上不能有对蹠的人，同太阳的东升西落，都是最明最白的事",
+      "confidence": 0.9
+    },
+    {
+      "id": "e13",
+      "name": "太阳的东升西落",
+      "canonical_name": "太阳东升西落",
+      "type": "Concept",
+      "evidence": "同太阳的东升西落，都是最明最白的事",
+      "confidence": 0.9
+    }
+  ],
+  "claims": [
+    {
+      "id": "c1",
+      "speaker": "丁文江",
+      "claim": "内省所发现的东西同观察所发见的没有根本的分别",
+      "target": "",
+      "claim_type": "知识论主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "的说“内省所发现的东西同观察所发见的没有根本的分别”。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c2",
+      "speaker": "丁文江",
+      "claim": "这三派的学说虽然有许多不同，但是都可以说是科学的，因为他们都是用科学的结果同科学的方法来解决知识论的",
+      "target": "",
+      "claim_type": "知识论主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "这三派的学说虽然有许多不同，但是都可以说是科学的，因为他们都是用科学的结果同科学的方法来解决知识论的",
+      "confidence": 0.9
+    },
+    {
+      "id": "c3",
+      "speaker": "丁文江",
+      "claim": "君劢所信仰的根本不能两立的",
+      "target": "张君劢",
+      "claim_type": "论战策略批评",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "同君劢所信仰的根本不能两立的",
+      "confidence": 0.9
+    },
+    {
+      "id": "c4",
+      "speaker": "丁文江",
+      "claim": "君劢这一派的学说，普通叫做正统的哲学，因为他们的方法是从亚里士多德一脉相传下来的",
+      "target": "张君劢",
+      "claim_type": "定义性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "君劢这一派的学说，普通叫做正统的哲学，因为他们的方法是从亚里士多德一脉相传下来的",
+      "confidence": 0.9
+    },
+    {
+      "id": "c5",
+      "speaker": "丁文江",
+      "claim": "亚里士多德的宇宙论同生物学已经完全为科学推翻",
+      "target": "亚里士多德",
+      "claim_type": "历史解释",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "亚里士多德的宇宙论同生物学已经完全为科学推翻",
+      "confidence": 0.9
+    },
+    {
+      "id": "c6",
+      "speaker": "丁文江",
+      "claim": "若是我们仍然保守他的哲学方法，是不是他的哲学高出于他的宇宙论同生物学几十倍，还是我们的哲学观念太嫌幼稚一点？",
+      "target": "亚里士多德",
+      "claim_type": "问题提出",
+      "claim_status": "作者推论",
+      "polarity": "negative",
+      "evidence": "若是我们仍然保守他的哲学方法，是不是他的哲学高出于他的宇宙论同生物学几十倍，还是我们的哲学观念太嫌幼稚一点？",
+      "confidence": 0.9
+    },
+    {
+      "id": "c7",
+      "speaker": "读者",
+      "claim": "我明明白白知道有个我；你如何把‘我’变成功一束的思想，行为的动物，或是记忆情感所联合的复杂体？",
+      "target": "丁文江",
+      "claim_type": "问题提出",
+      "claim_status": "假设情境",
+      "polarity": "negative",
+      "evidence": "读者或者要对我说，“我明明白白知道有个我；你如何把‘我’变成功一束的思想，行为的动物，或是记忆情感所联合的复杂体？”",
+      "confidence": 0.9
+    },
+    {
+      "id": "c8",
+      "speaker": "丁文江",
+      "claim": "没有许多年前，世界上不能有对蹠的人，同太阳的东升西落，都是最明最白的事，现在谁也不承认是真的了",
+      "target": "",
+      "claim_type": "历史解释",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "没有许多年前，世界上不能有对蹠的人，同太阳的东升西落，都是最明最白的事，现在谁也不承认是真的了",
+      "confidence": 0.9
+    }
+  ],
+  "relations": [
+    {
+      "id": "r1",
+      "head": "这三派的学说",
+      "head_type": "Theory",
+      "relation": "SUPPORTS",
+      "tail": "科学",
+      "tail_type": "Concept",
+      "polarity": "positive",
+      "evidence": "这三派的学说虽然有许多不同，但是都可以说是科学的，因为他们都是用科学的结果同科学的方法来解决知识论的",
+      "confidence": 0.9
+    },
+    {
+      "id": "r2",
+      "head": "君劢这一派的学说",
+      "head_type": "Theory",
+      "relation": "DERIVES_FROM",
+      "tail": "亚里士多德",
+      "tail_type": "Person",
+      "polarity": "neutral",
+      "evidence": "君劢这一派的学说，普通叫做正统的哲学，因为他们的方法是从亚里士多德一脉相传下来的",
+      "confidence": 0.9
+    },
+    {
+      "id": "r3",
+      "head": "科学",
+      "head_type": "Concept",
+      "relation": "OPPOSES",
+      "tail": "亚里士多德的宇宙论",
+      "tail_type": "Theory",
+      "polarity": "negative",
+      "evidence": "亚里士多德的宇宙论同生物学已经完全为科学推翻",
+      "confidence": 0.9
+    },
+    {
+      "id": "r4",
+      "head": "科学",
+      "head_type": "Concept",
+      "relation": "OPPOSES",
+      "tail": "生物学",
+      "tail_type": "Concept",
+      "polarity": "negative",
+      "evidence": "亚里士多德的宇宙论同生物学已经完全为科学推翻",
+      "confidence": 0.9
+    },
+    {
+      "id": "r5",
+      "head": "读者",
+      "head_type": "Faction",
+      "relation": "QUESTIONS",
+      "tail": "丁文江",
+      "tail_type": "Person",
+      "polarity": "negative",
+      "evidence": "读者或者要对我说，“我明明白白知道有个我；你如何把‘我’变成功一束的思想，行为的动物，或是记忆情感所联合的复杂体？”",
+      "confidence": 0.9
+    }
+  ],
+  "definitions": [
+    {
+      "id": "def1",
+      "term": "正统的哲学",
+      "definition": "君劢这一派的学说，其方法是从亚里士多德一脉相传下来的",
+      "evidence": "君劢这一派的学说，普通叫做正统的哲学，因为他们的方法是从亚里士多德一脉相传下来的",
+      "confidence": 0.9
+    }
+  ],
+  "citations": [
+    {
+      "id": "cit1",
+      "citer": "丁文江",
+      "quoted_author": "未知",
+      "quoted_work": "",
+      "quoted_claim": "内省所发现的东西同观察所发见的没有根本的分别",
+      "function": "中性提及",
+      "evidence": "的说“内省所发现的东西同观察所发见的没有根本的分别”。",
+      "confidence": 0.7
+    }
+  ],
+  "rhetorical_devices": [
+    {
+      "id": "rh1",
+      "expression": "是不是他的哲学高出于他的宇宙论同生物学几十倍，还是我们的哲学观念太嫌幼稚一点？",
+      "device_type": "讽刺",
+      "literal_target": "保守亚里士多德哲学方法的人",
+      "function": "通过反问和讽刺，暗示保守亚里士多德哲学方法是幼稚的",
+      "evidence": "若是我们仍然保守他的哲学方法，是不是他的哲学高出于他的宇宙论同生物学几十倍，还是我们的哲学观念太嫌幼稚一点？",
+      "confidence": 0.9
+    },
+    {
+      "id": "rh2",
+      "expression": "没有许多年前，世界上不能有对蹠的人，同太阳的东升西落，都是最明最白的事，现在谁也不承认是真的了",
+      "device_type": "类比",
+      "literal_target": "读者对‘我’的直觉信念",
+      "function": "用历史上曾被当作最明白事实但后来被否定的例子，类比读者对‘我’的直觉信念可能也是错误的",
+      "evidence": "没有许多年前，世界上不能有对蹠的人，同太阳的东升西落，都是最明最白的事，现在谁也不承认是真的了",
+      "confidence": 0.9
+    }
+  ],
+  "uncertainties": [
+    {
+      "item": "citation中quoted_author",
+      "reason": "原文只说“的说”，未指明是谁说的，无法确定被引用者"
+    }
+  ],
+  "_meta": {
+    "status": "success",
+    "stage": "extract",
+    "model": "deepseek-ai/DeepSeek-V4-Flash",
+    "base_url": "https://api.siliconflow.cn/v1",
+    "prompt_version": "extract_prompt_v2.0",
+    "schema_version": "lite_v2.0",
+    "segment_id": "丁文江2_000_e838922e_s0052",
+    "article_id": "丁文江2_000_e838922e",
+    "char_start": 12945,
+    "char_end": 13271,
+    "raw_path": "E:\\1研究生\\岭南大学\\论文毕业\\capstone\\资料\\新的内容开始了\\local_upload\\kg_runs\\丁文江_等3篇\\raw_outputs\\extract\\丁文江2_000_e838922e_s0052.txt",
+    "parsed_at": "2026-05-19T04:43:49",
+    "started_at": "2026-05-19T04:43:09",
+    "elapsed_seconds": 39.89,
+    "strict_evidence_check": true,
+    "drop_unsupported_evidence": true,
+    "request_timeout_seconds": 180
+  }
+}

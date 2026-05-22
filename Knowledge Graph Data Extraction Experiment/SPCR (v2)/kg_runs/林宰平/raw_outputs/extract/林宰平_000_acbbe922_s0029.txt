@@ -1,0 +1,423 @@
+{
+  "metadata": {
+    "schema_version": "lite_v3.0",
+    "article_id": "林宰平_000_acbbe922",
+    "article_title": "读丁在君先生的《玄学与科学》",
+    "source_author": "林宰平",
+    "section_title": "",
+    "section_author": "",
+    "segment_id": "林宰平_000_acbbe922_s0029",
+    "segment_index": 29,
+    "source_file": "E:\\1研究生\\岭南大学\\论文毕业\\capstone\\资料\\新的内容开始了\\local_upload\\input_林宰平\\林宰平.txt"
+  },
+  "entities": [
+    {
+      "id": "e1",
+      "name": "东方道德",
+      "canonical_name": "东方道德",
+      "type": "概念",
+      "evidence": "看轻东方道德",
+      "confidence": 0.9
+    },
+    {
+      "id": "e2",
+      "name": "科学的教育",
+      "canonical_name": "科学的教育",
+      "type": "概念",
+      "evidence": "惟有科学的教育，才够得上讲修养",
+      "confidence": 0.9
+    },
+    {
+      "id": "e3",
+      "name": "达尔敦（Dalton）",
+      "canonical_name": "达尔敦",
+      "type": "人物",
+      "evidence": "如达尔敦（Dalton）、波赛里约（Berzelius）之固执",
+      "confidence": 0.9
+    },
+    {
+      "id": "e4",
+      "name": "波赛里约（Berzelius）",
+      "canonical_name": "波赛里约",
+      "type": "人物",
+      "evidence": "如达尔敦（Dalton）、波赛里约（Berzelius）之固执",
+      "confidence": 0.9
+    },
+    {
+      "id": "e5",
+      "name": "伦布洛梭（Rombroso）",
+      "canonical_name": "伦布洛梭",
+      "type": "人物",
+      "evidence": "伦布洛梭（Rombroso）、利赛（Richet）之迷信",
+      "confidence": 0.9
+    },
+    {
+      "id": "e6",
+      "name": "利赛（Richet）",
+      "canonical_name": "利赛",
+      "type": "人物",
+      "evidence": "伦布洛梭（Rombroso）、利赛（Richet）之迷信",
+      "confidence": 0.9
+    },
+    {
+      "id": "e7",
+      "name": "尼采",
+      "canonical_name": "尼采",
+      "type": "人物",
+      "evidence": "在君先生又不满于尼采、叔本华的人格",
+      "confidence": 0.9
+    },
+    {
+      "id": "e8",
+      "name": "叔本华",
+      "canonical_name": "叔本华",
+      "type": "人物",
+      "evidence": "在君先生又不满于尼采、叔本华的人格",
+      "confidence": 0.9
+    },
+    {
+      "id": "e9",
+      "name": "科学教育",
+      "canonical_name": "科学教育",
+      "type": "概念",
+      "evidence": "以此证明科学教育对于人格之影响",
+      "confidence": 0.9
+    },
+    {
+      "id": "e10",
+      "name": "人格",
+      "canonical_name": "人格",
+      "type": "概念",
+      "evidence": "以此证明科学教育对于人格之影响",
+      "confidence": 0.9
+    },
+    {
+      "id": "e11",
+      "name": "培根",
+      "canonical_name": "培根",
+      "type": "人物",
+      "evidence": "其实培根那样的贪墨",
+      "confidence": 0.9
+    },
+    {
+      "id": "e12",
+      "name": "霍布士",
+      "canonical_name": "霍布士",
+      "type": "人物",
+      "evidence": "霍布士那样的崇拜权力",
+      "confidence": 0.9
+    },
+    {
+      "id": "e13",
+      "name": "笛卡儿",
+      "canonical_name": "笛卡儿",
+      "type": "人物",
+      "evidence": "笛卡儿那样的害怕教会势力",
+      "confidence": 0.9
+    },
+    {
+      "id": "e14",
+      "name": "科学教育与人格不一定发生影响",
+      "canonical_name": "科学教育与人格不一定发生影响",
+      "type": "观点",
+      "evidence": "科学教育与人格不一定发生影响，这也是一种证明",
+      "confidence": 0.9
+    },
+    {
+      "id": "e15",
+      "name": "望远镜显微镜",
+      "canonical_name": "望远镜显微镜",
+      "type": "比喻/类比",
+      "evidence": "活泼泼地心境，只有拿望远镜显微镜的人",
+      "confidence": 0.9
+    },
+    {
+      "id": "e16",
+      "name": "良心",
+      "canonical_name": "良心",
+      "type": "概念",
+      "evidence": "把“良心”都看做同洪水猛兽一样",
+      "confidence": 0.9
+    },
+    {
+      "id": "e17",
+      "name": "洪水猛兽",
+      "canonical_name": "洪水猛兽",
+      "type": "比喻/类比",
+      "evidence": "把“良心”都看做同洪水猛兽一样",
+      "confidence": 0.9
+    },
+    {
+      "id": "e18",
+      "name": "张献忠",
+      "canonical_name": "张献忠",
+      "type": "人物",
+      "evidence": "假如张献忠这种妖孽",
+      "confidence": 0.9
+    },
+    {
+      "id": "e19",
+      "name": "杀人主义",
+      "canonical_name": "杀人主义",
+      "type": "概念",
+      "evidence": "他的杀人主义",
+      "confidence": 0.9
+    },
+    {
+      "id": "e20",
+      "name": "马克思",
+      "canonical_name": "马克思",
+      "type": "人物",
+      "evidence": "叔本华、马克思一类的大人物",
+      "confidence": 0.9
+    },
+    {
+      "id": "e21",
+      "name": "在君先生",
+      "canonical_name": "丁在君",
+      "type": "人物",
+      "evidence": "在君先生啊！",
+      "confidence": 0.9
+    }
+  ],
+  "claims": [
+    {
+      "id": "c1",
+      "speaker": "作者",
+      "claim": "看轻东方道德，以为惟有科学的教育，才够得上讲修养",
+      "target": "在君先生",
+      "claim_type": "描述性主张",
+      "claim_status": "作者概括",
+      "polarity": "negative",
+      "evidence": "看轻东方道德，以为惟有科学的教育，才够得上讲修养",
+      "confidence": 0.9
+    },
+    {
+      "id": "c2",
+      "speaker": "作者",
+      "claim": "科学教育与人格不一定发生影响",
+      "target": "在君先生",
+      "claim_type": "反驳性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "科学教育与人格不一定发生影响，这也是一种证明",
+      "confidence": 0.9
+    },
+    {
+      "id": "c3",
+      "speaker": "在君先生",
+      "claim": "活泼泼地心境，只有拿望远镜显微镜的人",
+      "target": "",
+      "claim_type": "描述性主张",
+      "claim_status": "间接转述",
+      "polarity": "neutral",
+      "evidence": "活泼泼地心境，只有拿望远镜显微镜的人",
+      "confidence": 0.9
+    },
+    {
+      "id": "c4",
+      "speaker": "作者",
+      "claim": "把“良心”都看做同洪水猛兽一样",
+      "target": "在君先生",
+      "claim_type": "评价性主张",
+      "claim_status": "作者概括",
+      "polarity": "negative",
+      "evidence": "在君先生又因为崇拜科学，把“良心”都看做同洪水猛兽一样",
+      "confidence": 0.9
+    },
+    {
+      "id": "c5",
+      "speaker": "在君先生",
+      "claim": "良心何以就见得:'书也不必读，字也不必求，知识经验都无用？'",
+      "target": "",
+      "claim_type": "问题提出",
+      "claim_status": "间接转述",
+      "polarity": "neutral",
+      "evidence": "良心何以就见得:'书也不必读，字也不必求，知识经验都无用？'",
+      "confidence": 0.9
+    },
+    {
+      "id": "c6",
+      "speaker": "在君先生",
+      "claim": "假如张献忠这种妖孽，忽然显起魂来，对我们说：他的杀人主义，是以'我自身良心之所命起而主张之，以为天下后世表率'，我们也只好当他是叔本华、马克思一类的大人物",
+      "target": "",
+      "claim_type": "反驳性主张",
+      "claim_status": "归谬构造",
+      "polarity": "negative",
+      "evidence": "假如张献忠这种妖孽，忽然显起魂来，对我们说：他的杀人主义，是以'我自身良心之所命起而主张之，以为天下后世表率'，我们也只好当他是叔本华、马克思一类的大人物",
+      "confidence": 0.9
+    },
+    {
+      "id": "c7",
+      "speaker": "作者",
+      "claim": "我对于在君先生这些话，也觉得这还从何说起",
+      "target": "在君先生",
+      "claim_type": "评价性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "我对于在君先生这些话，也觉得这还从何说起",
+      "confidence": 0.9
+    },
+    {
+      "id": "c8",
+      "speaker": "作者",
+      "claim": "以在君先生平日之讲究做人，他的本意，我知道必不是这样",
+      "target": "在君先生",
+      "claim_type": "评价性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "以在君先生平日之讲究做人，他的本意，我知道必不是这样",
+      "confidence": 0.9
+    }
+  ],
+  "relations": [
+    {
+      "id": "r1",
+      "head": "在君先生",
+      "head_type": "人物",
+      "relation": "主张",
+      "relation_subtype": "不适用",
+      "tail": "看轻东方道德，以为惟有科学的教育，才够得上讲修养",
+      "tail_type": "观点",
+      "polarity": "negative",
+      "stance_score": -0.8,
+      "intensity": 0.7,
+      "evidence": "看轻东方道德，以为惟有科学的教育，才够得上讲修养",
+      "confidence": 0.9
+    },
+    {
+      "id": "r2",
+      "head": "作者",
+      "head_type": "人物",
+      "relation": "反驳",
+      "relation_subtype": "逻辑反驳",
+      "tail": "在君先生",
+      "tail_type": "人物",
+      "polarity": "negative",
+      "stance_score": -0.8,
+      "intensity": 0.7,
+      "evidence": "我们也不能不举出一个反证：如达尔敦（Dalton）、波赛里约（Berzelius）之固执，他是个有名的化学家；伦布洛梭（Rombroso）、利赛（Richet）之迷信，他是个有名之人类学者及生理学者",
+      "confidence": 0.9
+    },
+    {
+      "id": "r3",
+      "head": "作者",
+      "head_type": "人物",
+      "relation": "反驳",
+      "relation_subtype": "逻辑反驳",
+      "tail": "在君先生",
+      "tail_type": "人物",
+      "polarity": "negative",
+      "stance_score": -0.8,
+      "intensity": 0.7,
+      "evidence": "科学教育与人格不一定发生影响，这也是一种证明",
+      "confidence": 0.9
+    },
+    {
+      "id": "r4",
+      "head": "作者",
+      "head_type": "人物",
+      "relation": "批评",
+      "relation_subtype": "讽刺",
+      "tail": "在君先生",
+      "tail_type": "人物",
+      "polarity": "negative",
+      "stance_score": -0.9,
+      "intensity": 0.9,
+      "evidence": "在君先生啊！你说：活泼泼地心境，只有拿望远镜显微镜的人。但是要仔细望远镜显微镜失手掉了的时候",
+      "confidence": 0.9
+    },
+    {
+      "id": "r5",
+      "head": "作者",
+      "head_type": "人物",
+      "relation": "批评",
+      "relation_subtype": "讽刺",
+      "tail": "在君先生",
+      "tail_type": "人物",
+      "polarity": "negative",
+      "stance_score": -0.9,
+      "intensity": 0.9,
+      "evidence": "在君先生又因为崇拜科学，把“良心”都看做同洪水猛兽一样，这真是我们所万想不到的了",
+      "confidence": 0.9
+    },
+    {
+      "id": "r6",
+      "head": "作者",
+      "head_type": "人物",
+      "relation": "回应",
+      "relation_subtype": "一般批评",
+      "tail": "在君先生",
+      "tail_type": "人物",
+      "polarity": "negative",
+      "stance_score": -0.7,
+      "intensity": 0.6,
+      "evidence": "我对于在君先生这些话，也觉得这还从何说起",
+      "confidence": 0.9
+    },
+    {
+      "id": "r7",
+      "head": "作者",
+      "head_type": "人物",
+      "relation": "评价",
+      "relation_subtype": "部分肯定",
+      "tail": "在君先生",
+      "tail_type": "人物",
+      "polarity": "positive",
+      "stance_score": 0.6,
+      "intensity": 0.5,
+      "evidence": "以在君先生平日之讲究做人，他的本意，我知道必不是这样",
+      "confidence": 0.9
+    }
+  ],
+  "definitions": [],
+  "citations": [],
+  "rhetorical_devices": [
+    {
+      "id": "rh1",
+      "expression": "望远镜显微镜",
+      "device_type": "比喻",
+      "literal_target": "科学方法或科学工具",
+      "function": "讽刺在君先生将科学工具等同于活泼心境",
+      "evidence": "活泼泼地心境，只有拿望远镜显微镜的人",
+      "confidence": 0.9
+    },
+    {
+      "id": "rh2",
+      "expression": "洪水猛兽",
+      "device_type": "比喻",
+      "literal_target": "良心",
+      "function": "讽刺在君先生对良心的极端排斥态度",
+      "evidence": "把“良心”都看做同洪水猛兽一样",
+      "confidence": 0.9
+    },
+    {
+      "id": "rh3",
+      "expression": "张献忠这种妖孽",
+      "device_type": "标签化",
+      "literal_target": "张献忠",
+      "function": "在君先生用贬称标签化张献忠，作为归谬的前提",
+      "evidence": "假如张献忠这种妖孽",
+      "confidence": 0.9
+    },
+    {
+      "id": "rh4",
+      "expression": "这还从何说起",
+      "device_type": "讽刺",
+      "literal_target": "在君先生的观点",
+      "function": "表达对在君先生言论的荒谬感",
+      "evidence": "我对于在君先生这些话，也觉得这还从何说起",
+      "confidence": 0.9
+    }
+  ],
+  "uncertainties": [
+    {
+      "item": "在君先生是否真的主张'良心'如洪水猛兽",
+      "reason": "文本中作者概括在君先生观点，但未直接引用原文，可能为作者解读"
+    },
+    {
+      "item": "在君先生对尼采、叔本华人格的不满是否直接引用",
+      "reason": "文本仅说'在君先生又不满于尼采、叔本华的人格'，未提供直接引语"
+    }
+  ]
+}

@@ -1,0 +1,350 @@
+{
+  "metadata": {
+    "schema_version": "lite_v3.0",
+    "article_id": "朱经农_000_bb34b81c",
+    "article_title": "读张君劢论人生观与科学的两篇 文章后所发生的疑问",
+    "source_author": "朱经农",
+    "section_title": "",
+    "section_author": "",
+    "segment_id": "朱经农_000_bb34b81c_s0003",
+    "segment_index": 3,
+    "source_file": "E:\\1研究生\\岭南大学\\论文毕业\\capstone\\资料\\新的内容开始了\\local_upload\\input_v2_w1\\朱经农.txt"
+  },
+  "entities": [
+    {
+      "id": "e1",
+      "name": "君劢",
+      "canonical_name": "张君劢",
+      "type": "人物",
+      "evidence": "现在君劢说：“人生观问题之解决决非科学所能为力，”",
+      "confidence": 1.0
+    },
+    {
+      "id": "e2",
+      "name": "人生观问题之解决决非科学所能为力",
+      "canonical_name": "人生观问题之解决决非科学所能为力",
+      "type": "观点",
+      "evidence": "现在君劢说：“人生观问题之解决决非科学所能为力，”",
+      "confidence": 1.0
+    },
+    {
+      "id": "e3",
+      "name": "科学",
+      "canonical_name": "科学",
+      "type": "概念",
+      "evidence": "一句话把科学的前程断定",
+      "confidence": 1.0
+    },
+    {
+      "id": "e4",
+      "name": "决",
+      "canonical_name": "决",
+      "type": "概念",
+      "evidence": "“决”字的意义与“尚”字不同",
+      "confidence": 1.0
+    },
+    {
+      "id": "e5",
+      "name": "尚",
+      "canonical_name": "尚",
+      "type": "概念",
+      "evidence": "“尚”字有时间的关系",
+      "confidence": 1.0
+    },
+    {
+      "id": "e6",
+      "name": "纯粹心理",
+      "canonical_name": "纯粹心理",
+      "type": "概念",
+      "evidence": "君劢说：“纯粹心理，顷刻万变，非科学方法所能支配。”",
+      "confidence": 1.0
+    },
+    {
+      "id": "e7",
+      "name": "纯粹心理，顷刻万变，非科学方法所能支配",
+      "canonical_name": "纯粹心理，顷刻万变，非科学方法所能支配",
+      "type": "观点",
+      "evidence": "君劢说：“纯粹心理，顷刻万变，非科学方法所能支配。”",
+      "confidence": 1.0
+    },
+    {
+      "id": "e8",
+      "name": "心理学",
+      "canonical_name": "心理学",
+      "type": "概念",
+      "evidence": "徒以“顷刻万变”四字把心理学一笔抹杀",
+      "confidence": 1.0
+    },
+    {
+      "id": "e9",
+      "name": "人生之所谓善者皆精神之表现",
+      "canonical_name": "人生之所谓善者皆精神之表现",
+      "type": "观点",
+      "evidence": "君劢说：“人生之所谓善者皆精神之表现……其所谓恶者皆物质之接触。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e10",
+      "name": "其所谓恶者皆物质之接触",
+      "canonical_name": "其所谓恶者皆物质之接触",
+      "type": "观点",
+      "evidence": "君劢说：“人生之所谓善者皆精神之表现……其所谓恶者皆物质之接触。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e11",
+      "name": "精神",
+      "canonical_name": "精神",
+      "type": "概念",
+      "evidence": "人生之所谓善者皆精神之表现",
+      "confidence": 1.0
+    },
+    {
+      "id": "e12",
+      "name": "物质",
+      "canonical_name": "物质",
+      "type": "概念",
+      "evidence": "其所谓恶者皆物质之接触",
+      "confidence": 1.0
+    }
+  ],
+  "claims": [
+    {
+      "id": "c1",
+      "speaker": "君劢",
+      "claim": "人生观问题之解决决非科学所能为力",
+      "target": "科学",
+      "claim_type": "反驳性主张",
+      "claim_status": "直接引用",
+      "polarity": "negative",
+      "evidence": "现在君劢说：“人生观问题之解决决非科学所能为力，”",
+      "confidence": 1.0
+    },
+    {
+      "id": "c2",
+      "speaker": "君劢",
+      "claim": "他所以能够下此断语是“但论现在不问将来”",
+      "target": "人生观问题之解决决非科学所能为力",
+      "claim_type": "描述性主张",
+      "claim_status": "间接转述",
+      "polarity": "neutral",
+      "evidence": "君劢说，他所以能够下此断语是“但论现在不问将来”。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c3",
+      "speaker": "作者",
+      "claim": "倘使“但论现在”似乎只可以用一个尚字，不能适用一个决字",
+      "target": "君劢",
+      "claim_type": "反驳性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "倘使“但论现在”似乎只可以用一个尚字，不能适用一个决字。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c4",
+      "speaker": "君劢",
+      "claim": "纯粹心理，顷刻万变，非科学方法所能支配",
+      "target": "科学方法",
+      "claim_type": "反驳性主张",
+      "claim_status": "直接引用",
+      "polarity": "negative",
+      "evidence": "君劢说：“纯粹心理，顷刻万变，非科学方法所能支配。”",
+      "confidence": 1.0
+    },
+    {
+      "id": "c5",
+      "speaker": "作者",
+      "claim": "照我们的常识看起来，一个人看见亲友死了，就发生悲哀；得遂自己的志愿，就觉得快乐；受了旁人的欺侮，就要发怒：“衣食足，而后知荣辱”；“凶岁，子弟多暴”。无论喜怒哀乐，凡是一种心理的现象，其起落必有一个原因，社会上必有一种对象引起这种心理。",
+      "target": "纯粹心理，顷刻万变，非科学方法所能支配",
+      "claim_type": "反驳性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "照我们的常识看起来，一个人看见亲友死了，就发生悲哀；得遂自己的志愿，就觉得快乐；受了旁人的欺侮，就要发怒：“衣食足，而后知荣辱”；“凶岁，子弟多暴”。无论喜怒哀乐，凡是一种心理的现象，其起落必有一个原因，社会上必有一种对象引起这种心理。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c6",
+      "speaker": "作者",
+      "claim": "这种社会上的对象，我们有法子可以研究的，不是玄妙不可思议的。",
+      "target": "纯粹心理",
+      "claim_type": "反驳性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "这种社会上的对象，我们有法子可以研究的，不是玄妙不可思议的。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c7",
+      "speaker": "作者",
+      "claim": "难道全世界的大心理学家天天在实验室里做工夫，用科学方法去研究人心，都是疯子吗?",
+      "target": "君劢",
+      "claim_type": "反驳性主张",
+      "claim_status": "作者推论",
+      "polarity": "negative",
+      "evidence": "难道全世界的大心理学家天天在实验室里做工夫，用科学方法去研究人心，都是疯子吗?",
+      "confidence": 1.0
+    },
+    {
+      "id": "c8",
+      "speaker": "君劢",
+      "claim": "人生之所谓善者皆精神之表现",
+      "target": "善",
+      "claim_type": "定义性主张",
+      "claim_status": "直接引用",
+      "polarity": "positive",
+      "evidence": "君劢说：“人生之所谓善者皆精神之表现……其所谓恶者皆物质之接触。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c9",
+      "speaker": "君劢",
+      "claim": "其所谓恶者皆物质之接触",
+      "target": "恶",
+      "claim_type": "定义性主张",
+      "claim_status": "直接引用",
+      "polarity": "negative",
+      "evidence": "君劢说：“人生之所谓善者皆精神之表现……其所谓恶者皆物质之接触。",
+      "confidence": 1.0
+    }
+  ],
+  "relations": [
+    {
+      "id": "r1",
+      "head": "君劢",
+      "head_type": "人物",
+      "relation": "主张",
+      "relation_subtype": "不适用",
+      "tail": "人生观问题之解决决非科学所能为力",
+      "tail_type": "观点",
+      "polarity": "negative",
+      "stance_score": -1.0,
+      "intensity": 0.8,
+      "evidence": "现在君劢说：“人生观问题之解决决非科学所能为力，”",
+      "confidence": 1.0
+    },
+    {
+      "id": "r2",
+      "head": "作者",
+      "head_type": "人物",
+      "relation": "质疑",
+      "relation_subtype": "逻辑反驳",
+      "tail": "君劢",
+      "tail_type": "人物",
+      "polarity": "negative",
+      "stance_score": -0.8,
+      "intensity": 0.7,
+      "evidence": "倘使“但论现在”似乎只可以用一个尚字，不能适用一个决字。但不知君劢还有别的解释没有?",
+      "confidence": 1.0
+    },
+    {
+      "id": "r3",
+      "head": "君劢",
+      "head_type": "人物",
+      "relation": "主张",
+      "relation_subtype": "不适用",
+      "tail": "纯粹心理，顷刻万变，非科学方法所能支配",
+      "tail_type": "观点",
+      "polarity": "negative",
+      "stance_score": -1.0,
+      "intensity": 0.8,
+      "evidence": "君劢说：“纯粹心理，顷刻万变，非科学方法所能支配。”",
+      "confidence": 1.0
+    },
+    {
+      "id": "r4",
+      "head": "作者",
+      "head_type": "人物",
+      "relation": "反驳",
+      "relation_subtype": "事实质疑",
+      "tail": "纯粹心理，顷刻万变，非科学方法所能支配",
+      "tail_type": "观点",
+      "polarity": "negative",
+      "stance_score": -0.8,
+      "intensity": 0.7,
+      "evidence": "照我们的常识看起来，一个人看见亲友死了，就发生悲哀；得遂自己的志愿，就觉得快乐；受了旁人的欺侮，就要发怒：“衣食足，而后知荣辱”；“凶岁，子弟多暴”。无论喜怒哀乐，凡是一种心理的现象，其起落必有一个原因，社会上必有一种对象引起这种心理。",
+      "confidence": 1.0
+    },
+    {
+      "id": "r5",
+      "head": "作者",
+      "head_type": "人物",
+      "relation": "反驳",
+      "relation_subtype": "归谬",
+      "tail": "君劢",
+      "tail_type": "人物",
+      "polarity": "negative",
+      "stance_score": -0.9,
+      "intensity": 0.9,
+      "evidence": "难道全世界的大心理学家天天在实验室里做工夫，用科学方法去研究人心，都是疯子吗?",
+      "confidence": 1.0
+    },
+    {
+      "id": "r6",
+      "head": "君劢",
+      "head_type": "人物",
+      "relation": "主张",
+      "relation_subtype": "不适用",
+      "tail": "人生之所谓善者皆精神之表现",
+      "tail_type": "观点",
+      "polarity": "positive",
+      "stance_score": 1.0,
+      "intensity": 0.8,
+      "evidence": "君劢说：“人生之所谓善者皆精神之表现……其所谓恶者皆物质之接触。",
+      "confidence": 1.0
+    },
+    {
+      "id": "r7",
+      "head": "君劢",
+      "head_type": "人物",
+      "relation": "主张",
+      "relation_subtype": "不适用",
+      "tail": "其所谓恶者皆物质之接触",
+      "tail_type": "观点",
+      "polarity": "negative",
+      "stance_score": -1.0,
+      "intensity": 0.8,
+      "evidence": "君劢说：“人生之所谓善者皆精神之表现……其所谓恶者皆物质之接触。",
+      "confidence": 1.0
+    }
+  ],
+  "definitions": [
+    {
+      "id": "def1",
+      "term": "决",
+      "definition": "决字的意义是永久不变的",
+      "evidence": "“决”字的意义与“尚”字不同，“尚”字有时间的关系，“决”字是永久不变的。",
+      "confidence": 1.0
+    },
+    {
+      "id": "def2",
+      "term": "尚",
+      "definition": "尚字有时间的关系",
+      "evidence": "“尚”字有时间的关系",
+      "confidence": 1.0
+    }
+  ],
+  "citations": [],
+  "rhetorical_devices": [
+    {
+      "id": "rh1",
+      "expression": "难道全世界的大心理学家天天在实验室里做工夫，用科学方法去研究人心，都是疯子吗?",
+      "device_type": "归谬",
+      "literal_target": "君劢认为纯粹心理非科学方法所能支配的观点",
+      "function": "通过反问和归谬，将对方观点推向荒谬，以反驳其合理性",
+      "evidence": "难道全世界的大心理学家天天在实验室里做工夫，用科学方法去研究人心，都是疯子吗?",
+      "confidence": 1.0
+    }
+  ],
+  "uncertainties": [
+    {
+      "item": "君劢所说的“但论现在不问将来”是否是其原话，文本中为间接转述",
+      "reason": "文本中写“君劢说，他所以能够下此断语是‘但论现在不问将来’”，但未明确是直接引用还是概括"
+    },
+    {
+      "item": "“纯粹心理”的定义是否明确",
+      "reason": "作者表示“倒底‘纯粹心理’的定义是什么，我不大明白”，因此无法从文本中确定其定义"
+    }
+  ]
+}

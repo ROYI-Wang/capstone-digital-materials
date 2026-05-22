@@ -1,0 +1,291 @@
+{
+  "metadata": {
+    "schema_version": "lite_v2.0",
+    "article_id": "丁文江2_000_e838922e",
+    "article_title": "玄学与科学——答张君劢",
+    "source_author": "丁文江",
+    "section_title": "",
+    "section_author": "",
+    "segment_id": "丁文江2_000_e838922e_s0042",
+    "segment_index": 42,
+    "source_file": "E:\\1研究生\\岭南大学\\论文毕业\\capstone\\资料\\新的内容开始了\\local_upload\\input_texts\\丁文江2.txt"
+  },
+  "entities": [
+    {
+      "id": "e1",
+      "name": "达尔文",
+      "canonical_name": "达尔文",
+      "type": "Person",
+      "evidence": "达尔文曰，是环境使然",
+      "confidence": 1.0
+    },
+    {
+      "id": "e2",
+      "name": "拉马克",
+      "canonical_name": "拉马克",
+      "type": "Person",
+      "evidence": "拉马克曰，是用不用使然",
+      "confidence": 1.0
+    },
+    {
+      "id": "e3",
+      "name": "牛顿",
+      "canonical_name": "牛顿",
+      "type": "Person",
+      "evidence": "牛顿曰，时空绝对",
+      "confidence": 1.0
+    },
+    {
+      "id": "e4",
+      "name": "爱因斯坦",
+      "canonical_name": "爱因斯坦",
+      "type": "Person",
+      "evidence": "爱因斯坦曰，时空相对",
+      "confidence": 1.0
+    },
+    {
+      "id": "e5",
+      "name": "在君",
+      "canonical_name": "在君",
+      "type": "Person",
+      "evidence": "果在君所谓谁为疯子谁为非疯子耶",
+      "confidence": 1.0
+    },
+    {
+      "id": "e6",
+      "name": "柏格森",
+      "canonical_name": "柏格森",
+      "type": "Person",
+      "evidence": "没有柏格森先生的直觉",
+      "confidence": 1.0
+    },
+    {
+      "id": "e7",
+      "name": "《物种由来》",
+      "canonical_name": "《物种由来》",
+      "type": "Book",
+      "evidence": "《物种由来》出版的时候",
+      "confidence": 1.0
+    },
+    {
+      "id": "e8",
+      "name": "官觉的印象相同",
+      "canonical_name": "官觉的印象相同",
+      "type": "Concept",
+      "evidence": "明明有官觉的印象相同而其所得结论则大异",
+      "confidence": 1.0
+    },
+    {
+      "id": "e9",
+      "name": "环境使然",
+      "canonical_name": "环境使然",
+      "type": "Viewpoint",
+      "evidence": "达尔文曰，是环境使然",
+      "confidence": 1.0
+    },
+    {
+      "id": "e10",
+      "name": "用不用使然",
+      "canonical_name": "用不用使然",
+      "type": "Viewpoint",
+      "evidence": "拉马克曰，是用不用使然",
+      "confidence": 1.0
+    },
+    {
+      "id": "e11",
+      "name": "时空绝对",
+      "canonical_name": "时空绝对",
+      "type": "Viewpoint",
+      "evidence": "牛顿曰，时空绝对",
+      "confidence": 1.0
+    },
+    {
+      "id": "e12",
+      "name": "时空相对",
+      "canonical_name": "时空相对",
+      "type": "Viewpoint",
+      "evidence": "爱因斯坦曰，时空相对",
+      "confidence": 1.0
+    },
+    {
+      "id": "e13",
+      "name": "以常人官觉之相同为推理相同之惟一根据",
+      "canonical_name": "以常人官觉之相同为推理相同之惟一根据",
+      "type": "Viewpoint",
+      "evidence": "以常人官觉之相同为推理相同之惟一根据，则断断乎其不可通",
+      "confidence": 1.0
+    },
+    {
+      "id": "e14",
+      "name": "直觉",
+      "canonical_name": "直觉",
+      "type": "Concept",
+      "evidence": "没有柏格森先生的直觉",
+      "confidence": 1.0
+    }
+  ],
+  "claims": [
+    {
+      "id": "c1",
+      "speaker": "张君劢",
+      "claim": "明明有官觉的印象相同而其所得结论则大异",
+      "target": "",
+      "claim_type": "论据",
+      "claim_status": "间接转述",
+      "polarity": "neutral",
+      "evidence": "明明有官觉的印象相同而其所得结论则大异",
+      "confidence": 0.9
+    },
+    {
+      "id": "c2",
+      "speaker": "张君劢",
+      "claim": "以常人官觉之相同为推理相同之惟一根据，则断断乎其不可通",
+      "target": "",
+      "claim_type": "结论性主张",
+      "claim_status": "间接转述",
+      "polarity": "negative",
+      "evidence": "以常人官觉之相同为推理相同之惟一根据，则断断乎其不可通",
+      "confidence": 0.9
+    },
+    {
+      "id": "c3",
+      "speaker": "丁文江",
+      "claim": "拉马克是达尔文的前辈",
+      "target": "",
+      "claim_type": "历史解释",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "拉马克是达尔文的前辈",
+      "confidence": 1.0
+    },
+    {
+      "id": "c4",
+      "speaker": "丁文江",
+      "claim": "《物种由来》出版的时候，拉氏已经死了三十九年",
+      "target": "",
+      "claim_type": "历史解释",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "《物种由来》出版的时候，拉氏已经死了三十九年",
+      "confidence": 1.0
+    },
+    {
+      "id": "c5",
+      "speaker": "丁文江",
+      "claim": "达尔文所举的事实，大部分是拉马克所不知道的",
+      "target": "",
+      "claim_type": "历史解释",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "达尔文所举的事实，大部分是拉马克所不知道的",
+      "confidence": 1.0
+    },
+    {
+      "id": "c6",
+      "speaker": "丁文江",
+      "claim": "牛顿死于七二七年，爱因斯坦相对论所根据的事实，牛顿没有柏格森先生的直觉，当然不能预知的",
+      "target": "",
+      "claim_type": "历史解释",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "牛顿死于七二七年，爱因斯坦相对论所根据的事实，牛顿没有柏格森先生的直觉，当然不能预知的",
+      "confidence": 1.0
+    }
+  ],
+  "relations": [
+    {
+      "id": "r1",
+      "head": "丁文江",
+      "head_type": "Person",
+      "relation": "QUESTIONS",
+      "tail": "果两氏官觉组织之不同耶？果在君所谓谁为疯子谁为非疯子耶？",
+      "tail_type": "Viewpoint",
+      "polarity": "negative",
+      "evidence": "果两氏官觉组织之不同耶？果在君所谓谁为疯子谁为非疯子耶？",
+      "confidence": 0.9
+    }
+  ],
+  "definitions": [],
+  "citations": [
+    {
+      "id": "cit1",
+      "citer": "张君劢",
+      "quoted_author": "达尔文",
+      "quoted_work": "",
+      "quoted_claim": "是环境使然",
+      "function": "作为论据",
+      "evidence": "达尔文曰，是环境使然",
+      "confidence": 0.9
+    },
+    {
+      "id": "cit2",
+      "citer": "张君劢",
+      "quoted_author": "拉马克",
+      "quoted_work": "",
+      "quoted_claim": "是用不用使然",
+      "function": "作为论据",
+      "evidence": "拉马克曰，是用不用使然",
+      "confidence": 0.9
+    },
+    {
+      "id": "cit3",
+      "citer": "张君劢",
+      "quoted_author": "牛顿",
+      "quoted_work": "",
+      "quoted_claim": "时空绝对",
+      "function": "作为论据",
+      "evidence": "牛顿曰，时空绝对",
+      "confidence": 0.9
+    },
+    {
+      "id": "cit4",
+      "citer": "张君劢",
+      "quoted_author": "爱因斯坦",
+      "quoted_work": "",
+      "quoted_claim": "时空相对",
+      "function": "作为论据",
+      "evidence": "爱因斯坦曰，时空相对",
+      "confidence": 0.9
+    }
+  ],
+  "rhetorical_devices": [
+    {
+      "id": "rh1",
+      "expression": "谁为疯子谁为非疯子耶",
+      "device_type": "讽刺",
+      "literal_target": "张君劢的论证",
+      "function": "讽刺张君劢将不同科学家的结论差异归因于官觉组织不同，暗示其逻辑荒谬",
+      "evidence": "果在君所谓谁为疯子谁为非疯子耶",
+      "confidence": 0.9
+    }
+  ],
+  "uncertainties": [
+    {
+      "item": "张君劢原文中是否直接使用了“官觉组织之不同”这一表述",
+      "reason": "当前文本中“果达氏拉氏官觉组织之不同耶”是丁文江对张君劢观点的转述和质疑，但未直接给出张君劢原文"
+    },
+    {
+      "item": "“在君”是否指丁文江本人",
+      "reason": "文本中“在君”出现两次，但未明确说明其身份，根据常识可能是丁文江自称，但当前文本未提供直接证据"
+    }
+  ],
+  "_meta": {
+    "status": "success",
+    "stage": "extract",
+    "model": "deepseek-ai/DeepSeek-V4-Flash",
+    "base_url": "https://api.siliconflow.cn/v1",
+    "prompt_version": "extract_prompt_v2.0",
+    "schema_version": "lite_v2.0",
+    "segment_id": "丁文江2_000_e838922e_s0042",
+    "article_id": "丁文江2_000_e838922e",
+    "char_start": 10561,
+    "char_end": 10880,
+    "raw_path": "E:\\1研究生\\岭南大学\\论文毕业\\capstone\\资料\\新的内容开始了\\local_upload\\kg_runs\\丁文江_等3篇\\raw_outputs\\extract\\丁文江2_000_e838922e_s0042.txt",
+    "parsed_at": "2026-05-19T04:30:20",
+    "started_at": "2026-05-19T04:29:08",
+    "elapsed_seconds": 72.212,
+    "strict_evidence_check": true,
+    "drop_unsupported_evidence": true,
+    "request_timeout_seconds": 180
+  }
+}

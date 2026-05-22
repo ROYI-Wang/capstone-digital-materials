@@ -1,0 +1,313 @@
+{
+  "metadata": {
+    "schema_version": "lite_v3.0",
+    "article_id": "丁文江_000_3ba07a5e",
+    "article_title": "玄学与科学 ——评张君劢的《人生观》",
+    "source_author": "丁文江",
+    "section_title": "",
+    "section_author": "",
+    "segment_id": "丁文江_000_3ba07a5e_s0004",
+    "segment_index": 4,
+    "source_file": "E:\\1研究生\\岭南大学\\论文毕业\\capstone\\资料\\新的内容开始了\\local_upload\\input_丁文江\\丁文江.txt"
+  },
+  "entities": [
+    {
+      "id": "e1",
+      "name": "人生观",
+      "canonical_name": "人生观",
+      "type": "概念",
+      "evidence": "不但是人生观同科学的界限分不开",
+      "confidence": 1.0
+    },
+    {
+      "id": "e2",
+      "name": "科学",
+      "canonical_name": "科学",
+      "type": "概念",
+      "evidence": "不但是人生观同科学的界限分不开",
+      "confidence": 1.0
+    },
+    {
+      "id": "e3",
+      "name": "物质科学",
+      "canonical_name": "物质科学",
+      "type": "概念",
+      "evidence": "就是他所说的物质科学同精神科学的分别也不是真能成立的",
+      "confidence": 1.0
+    },
+    {
+      "id": "e4",
+      "name": "精神科学",
+      "canonical_name": "精神科学",
+      "type": "概念",
+      "evidence": "就是他所说的物质科学同精神科学的分别也不是真能成立的",
+      "confidence": 1.0
+    },
+    {
+      "id": "e5",
+      "name": "知识论",
+      "canonical_name": "知识论",
+      "type": "概念",
+      "evidence": "不得不请读者同我研究研究知识论",
+      "confidence": 1.0
+    },
+    {
+      "id": "e6",
+      "name": "物",
+      "canonical_name": "物",
+      "type": "概念",
+      "evidence": "我们所谓物，所谓质，是从何而知道的？",
+      "confidence": 1.0
+    },
+    {
+      "id": "e7",
+      "name": "质",
+      "canonical_name": "质",
+      "type": "概念",
+      "evidence": "我们所谓物，所谓质，是从何而知道的？",
+      "confidence": 1.0
+    },
+    {
+      "id": "e8",
+      "name": "书柜子",
+      "canonical_name": "书柜子",
+      "type": "例证",
+      "evidence": "我坐在这里，看着我面前的书柜子。我晓得他是长方的，中间空的，黄漆漆的，木头做的，很坚很重的。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e9",
+      "name": "觉官感触",
+      "canonical_name": "觉官感触",
+      "type": "概念",
+      "evidence": "觉官感触是我们晓得物质的根本",
+      "confidence": 1.0
+    },
+    {
+      "id": "e10",
+      "name": "物质",
+      "canonical_name": "物质",
+      "type": "概念",
+      "evidence": "我们之所谓物质，大多数是许多记存的觉官感触，加了一点直接觉官感触",
+      "confidence": 1.0
+    },
+    {
+      "id": "e11",
+      "name": "结构",
+      "canonical_name": "结构",
+      "type": "概念",
+      "evidence": "所以冒根在他的《动物生活与聪明》那部书里边叫外界的物体为“结构”。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e12",
+      "name": "冒根",
+      "canonical_name": "冒根",
+      "type": "人物",
+      "evidence": "所以冒根在他的《动物生活与聪明》那部书里边叫外界的物体为“结构”。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e13",
+      "name": "《动物生活与聪明》",
+      "canonical_name": "《动物生活与聪明》",
+      "type": "著作",
+      "evidence": "所以冒根在他的《动物生活与聪明》那部书里边叫外界的物体为“结构”。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e14",
+      "name": "觉官的感触",
+      "canonical_name": "觉官的感触",
+      "type": "概念",
+      "evidence": "什么叫做觉官的感触？",
+      "confidence": 1.0
+    },
+    {
+      "id": "e15",
+      "name": "无意的举动",
+      "canonical_name": "无意的举动",
+      "type": "概念",
+      "evidence": "这是一种紧急的命令，接到信立刻就发的，生理上所谓无意的举动。",
+      "confidence": 1.0
+    }
+  ],
+  "claims": [
+    {
+      "id": "c1",
+      "speaker": "丁文江",
+      "claim": "人生观同科学的界限分不开",
+      "target": "人生观与科学的关系",
+      "claim_type": "描述性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "不但是人生观同科学的界限分不开",
+      "confidence": 1.0
+    },
+    {
+      "id": "c2",
+      "speaker": "丁文江",
+      "claim": "物质科学同精神科学的分别也不是真能成立的",
+      "target": "物质科学与精神科学的分别",
+      "claim_type": "反驳性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "就是他所说的物质科学同精神科学的分别也不是真能成立的",
+      "confidence": 1.0
+    },
+    {
+      "id": "c3",
+      "speaker": "丁文江",
+      "claim": "觉官感触是我们晓得物质的根本",
+      "target": "觉官感触与物质认知的关系",
+      "claim_type": "因果主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "觉官感触是我们晓得物质的根本",
+      "confidence": 1.0
+    },
+    {
+      "id": "c4",
+      "speaker": "丁文江",
+      "claim": "我们之所谓物质，大多数是许多记存的觉官感触，加了一点直接觉官感触",
+      "target": "物质的定义",
+      "claim_type": "定义性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "我们之所谓物质，大多数是许多记存的觉官感触，加了一点直接觉官感触",
+      "confidence": 1.0
+    },
+    {
+      "id": "c5",
+      "speaker": "丁文江",
+      "claim": "假如我们的觉官的组织是另外一个样子的，我们所谓物质一定也随之而变",
+      "target": "觉官组织与物质认知的关系",
+      "claim_type": "因果主张",
+      "claim_status": "作者推论",
+      "polarity": "positive",
+      "evidence": "假如我们的觉官的组织是另外一个样子的，我们所谓物质一定也随之而变",
+      "confidence": 1.0
+    },
+    {
+      "id": "c6",
+      "speaker": "冒根",
+      "claim": "外界的物体为“结构”",
+      "target": "外界物体",
+      "claim_type": "定义性主张",
+      "claim_status": "间接转述",
+      "polarity": "neutral",
+      "evidence": "所以冒根在他的《动物生活与聪明》那部书里边叫外界的物体为“结构”。",
+      "confidence": 1.0
+    }
+  ],
+  "relations": [
+    {
+      "id": "r1",
+      "head": "人生观",
+      "head_type": "概念",
+      "relation": "区分",
+      "relation_subtype": "概念澄清",
+      "tail": "科学",
+      "tail_type": "概念",
+      "polarity": "negative",
+      "stance_score": -0.5,
+      "intensity": 0.5,
+      "evidence": "不但是人生观同科学的界限分不开",
+      "confidence": 1.0
+    },
+    {
+      "id": "r2",
+      "head": "物质科学",
+      "head_type": "概念",
+      "relation": "区分",
+      "relation_subtype": "概念澄清",
+      "tail": "精神科学",
+      "tail_type": "概念",
+      "polarity": "negative",
+      "stance_score": -0.5,
+      "intensity": 0.5,
+      "evidence": "就是他所说的物质科学同精神科学的分别也不是真能成立的",
+      "confidence": 1.0
+    },
+    {
+      "id": "r3",
+      "head": "觉官感触",
+      "head_type": "概念",
+      "relation": "解释",
+      "relation_subtype": "不适用",
+      "tail": "物质",
+      "tail_type": "概念",
+      "polarity": "positive",
+      "stance_score": 1.0,
+      "intensity": 0.8,
+      "evidence": "觉官感触是我们晓得物质的根本",
+      "confidence": 1.0
+    },
+    {
+      "id": "r4",
+      "head": "冒根",
+      "head_type": "人物",
+      "relation": "引用",
+      "relation_subtype": "援引权威",
+      "tail": "结构",
+      "tail_type": "概念",
+      "polarity": "neutral",
+      "stance_score": 0.5,
+      "intensity": 0.3,
+      "evidence": "所以冒根在他的《动物生活与聪明》那部书里边叫外界的物体为“结构”。",
+      "confidence": 1.0
+    }
+  ],
+  "definitions": [
+    {
+      "id": "def1",
+      "term": "物质",
+      "definition": "大多数是许多记存的觉官感触，加了一点直接觉官感触",
+      "evidence": "我们之所谓物质，大多数是许多记存的觉官感触，加了一点直接觉官感触",
+      "confidence": 1.0
+    },
+    {
+      "id": "def2",
+      "term": "结构",
+      "definition": "冒根称外界的物体为结构",
+      "evidence": "所以冒根在他的《动物生活与聪明》那部书里边叫外界的物体为“结构”。",
+      "confidence": 1.0
+    },
+    {
+      "id": "def3",
+      "term": "无意的举动",
+      "definition": "一种紧急的命令，接到信立刻就发的，生理上所谓无意的举动",
+      "evidence": "这是一种紧急的命令，接到信立刻就发的，生理上所谓无意的举动。",
+      "confidence": 1.0
+    }
+  ],
+  "citations": [
+    {
+      "id": "cit1",
+      "citer": "丁文江",
+      "quoted_author": "冒根",
+      "quoted_work": "《动物生活与聪明》",
+      "quoted_claim": "外界的物体为“结构”",
+      "function": "援引权威支持",
+      "evidence": "所以冒根在他的《动物生活与聪明》那部书里边叫外界的物体为“结构”。",
+      "confidence": 1.0
+    }
+  ],
+  "rhetorical_devices": [
+    {
+      "id": "rh1",
+      "expression": "同科学真正分家，就知道他们本来是同气连枝的了",
+      "device_type": "比喻",
+      "literal_target": "人生观与科学的关系",
+      "function": "形象化说明人生观与科学不可分",
+      "evidence": "同科学真正分家，就知道他们本来是同气连枝的了。",
+      "confidence": 1.0
+    }
+  ],
+  "uncertainties": [
+    {
+      "item": "“他”在“就是他所说的物质科学同精神科学的分别也不是真能成立的”中的指代对象",
+      "reason": "文本未明确“他”指谁，可能指张君劢，但当前片段未出现张君劢名字"
+    }
+  ]
+}

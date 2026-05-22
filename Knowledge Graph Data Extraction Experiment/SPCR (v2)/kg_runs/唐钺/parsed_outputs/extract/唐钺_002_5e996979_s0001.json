@@ -1,0 +1,462 @@
+{
+  "metadata": {
+    "schema_version": "lite_v3.0",
+    "article_id": "唐钺_002_5e996979",
+    "article_title": "一个痴人的说梦 ——情感真是超科学的吗？",
+    "source_author": "唐钺",
+    "section_title": "",
+    "section_author": "",
+    "segment_id": "唐钺_002_5e996979_s0001",
+    "segment_index": 1,
+    "source_file": "E:\\1研究生\\岭南大学\\论文毕业\\capstone\\资料\\新的内容开始了\\local_upload\\input_唐钺\\唐钺.txt"
+  },
+  "entities": [
+    {
+      "id": "e1",
+      "name": "爱和美",
+      "canonical_name": "爱和美",
+      "type": "概念",
+      "evidence": "爱和美——爱科学的支配，人生就没的价值，那也是我们要老老实实地承认的。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e2",
+      "name": "科学",
+      "canonical_name": "科学",
+      "type": "概念",
+      "evidence": "爱和美——爱科学的支配，人生就没的价值，那也是我们要老老实实地承认的。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e3",
+      "name": "任公",
+      "canonical_name": "任公",
+      "type": "人物",
+      "evidence": "请任公不必抱杞忧。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e4",
+      "name": "牛顿",
+      "canonical_name": "牛顿",
+      "type": "人物",
+      "evidence": "我记得从前牛顿说明虹霓的物理，诗人颉兹大不高兴，以为把虹霓的美丽减少了。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e5",
+      "name": "颉兹",
+      "canonical_name": "颉兹",
+      "type": "人物",
+      "evidence": "我记得从前牛顿说明虹霓的物理，诗人颉兹大不高兴，以为把虹霓的美丽减少了。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e6",
+      "name": "美",
+      "canonical_name": "美",
+      "type": "概念",
+      "evidence": "我以为美是可以分析的。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e7",
+      "name": "线",
+      "canonical_name": "线",
+      "type": "概念",
+      "evidence": "什么线，什么光，什么韵，什么调……任凭你说得如何文理密察，可有一点儿搔着痒处吗？",
+      "confidence": 0.9
+    },
+    {
+      "id": "e8",
+      "name": "光",
+      "canonical_name": "光",
+      "type": "概念",
+      "evidence": "什么线，什么光，什么韵，什么调……任凭你说得如何文理密察，可有一点儿搔着痒处吗？",
+      "confidence": 0.9
+    },
+    {
+      "id": "e9",
+      "name": "韵",
+      "canonical_name": "韵",
+      "type": "概念",
+      "evidence": "什么线，什么光，什么韵，什么调……任凭你说得如何文理密察，可有一点儿搔着痒处吗？",
+      "confidence": 0.9
+    },
+    {
+      "id": "e10",
+      "name": "调",
+      "canonical_name": "调",
+      "type": "概念",
+      "evidence": "什么线，什么光，什么韵，什么调……任凭你说得如何文理密察，可有一点儿搔着痒处吗？",
+      "confidence": 0.9
+    },
+    {
+      "id": "e11",
+      "name": "美学",
+      "canonical_name": "美学",
+      "type": "概念",
+      "evidence": "我承认现在美学是很幼稚，对于美的分析，争论很多。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e12",
+      "name": "美感",
+      "canonical_name": "美感",
+      "type": "概念",
+      "evidence": "或者任公的意思以为线、光、韵、调等，不是美感，这话当然是对的。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e13",
+      "name": "水",
+      "canonical_name": "水",
+      "type": "概念",
+      "evidence": "二份轻气一份养气，也不是水，但是在某条件之下，合起来却会变出水来；",
+      "confidence": 0.9
+    },
+    {
+      "id": "e14",
+      "name": "轻气",
+      "canonical_name": "轻气",
+      "type": "概念",
+      "evidence": "二份轻气一份养气，也不是水，但是在某条件之下，合起来却会变出水来；",
+      "confidence": 0.9
+    },
+    {
+      "id": "e15",
+      "name": "养气",
+      "canonical_name": "养气",
+      "type": "概念",
+      "evidence": "二份轻气一份养气，也不是水，但是在某条件之下，合起来却会变出水来；",
+      "confidence": 0.9
+    }
+  ],
+  "claims": [
+    {
+      "id": "c1",
+      "speaker": "任公",
+      "claim": "爱科学的支配，人生就没的价值",
+      "target": "科学",
+      "claim_type": "因果主张",
+      "claim_status": "间接转述",
+      "polarity": "negative",
+      "evidence": "爱和美——爱科学的支配，人生就没的价值，那也是我们要老老实实地承认的。",
+      "confidence": 0.8
+    },
+    {
+      "id": "c2",
+      "speaker": "唐钺",
+      "claim": "科学支配的结果并不是这样",
+      "target": "任公",
+      "claim_type": "反驳性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "然而科学支配的结果并不是这样，请任公不必抱杞忧。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c3",
+      "speaker": "唐钺",
+      "claim": "科学方法是否有支配爱和美的能力，暂且不论；姑假定他能支配爱和美，世界只会更有秩序，人生只会更有价值，断没有任何公所害怕的结果。",
+      "target": "任公",
+      "claim_type": "假设情境",
+      "claim_status": "作者推论",
+      "polarity": "positive",
+      "evidence": "科学方法是否有支配爱和美的能力，暂且不论；姑假定他能支配爱和美，世界只会更有秩序，人生只会更有价值，断没有任何公所害怕的结果。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c4",
+      "speaker": "颉兹",
+      "claim": "牛顿说明虹霓的物理把虹霓的美丽减少了",
+      "target": "牛顿",
+      "claim_type": "评价性主张",
+      "claim_status": "间接转述",
+      "polarity": "negative",
+      "evidence": "我记得从前牛顿说明虹霓的物理，诗人颉兹大不高兴，以为把虹霓的美丽减少了。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c5",
+      "speaker": "唐钺",
+      "claim": "从别人看来，虹霓的美丽不特不减少，而且得这解释以后，反要增加。",
+      "target": "颉兹",
+      "claim_type": "反驳性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "从别人看来，虹霓的美丽不特不减少，而且得这解释以后，反要增加。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c6",
+      "speaker": "唐钺",
+      "claim": "爱和美经了分析理解以后，也要使人越觉得他们的可贵。",
+      "target": "爱和美",
+      "claim_type": "因果主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "我以为爱和美经了分析理解以后，也要使人越觉得他们的可贵。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c7",
+      "speaker": "唐钺",
+      "claim": "美是可以分析的",
+      "target": "美",
+      "claim_type": "描述性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "我以为美是可以分析的。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c8",
+      "speaker": "任公",
+      "claim": "请你科学家把‘美’来分析研究罢，什么线，什么光，什么韵，什么调……任凭你说得如何文理密察，可有一点儿搔着痒处吗？",
+      "target": "科学家",
+      "claim_type": "反驳性主张",
+      "claim_status": "间接转述",
+      "polarity": "negative",
+      "evidence": "任公说：“请你科学家把‘美’来分析研究罢，什么线，什么光，什么韵，什么调……任凭你说得如何文理密察，可有一点儿搔着痒处吗？”",
+      "confidence": 0.9
+    },
+    {
+      "id": "c9",
+      "speaker": "唐钺",
+      "claim": "美的分析当然没有这样简单，也不是单就美术品的质料研究的。",
+      "target": "任公",
+      "claim_type": "反驳性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "美的分析当然没有这样简单，也不是单就美术品的质料研究的。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c10",
+      "speaker": "唐钺",
+      "claim": "许多学者都承认美的经验是可以分析出来的。",
+      "target": "美",
+      "claim_type": "描述性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "但是许多学者都承认美的经验是可以分析出来的。",
+      "confidence": 0.8
+    },
+    {
+      "id": "c11",
+      "speaker": "唐钺",
+      "claim": "线、光、韵、调等，当然是支配美感的要素，分析出线光等，至少是分析美的一部分；岂可一笔抹杀，谓为搔不着痒？",
+      "target": "任公",
+      "claim_type": "反驳性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "就是所谓线、光、韵、调等，当然是支配美感的要素，分析出线光等，至少是分析美的一部分；岂可一笔抹杀，谓为搔不着痒？",
+      "confidence": 0.9
+    },
+    {
+      "id": "c12",
+      "speaker": "唐钺",
+      "claim": "或者任公的意思以为线、光、韵、调等，不是美感，这话当然是对的。",
+      "target": "任公",
+      "claim_type": "回应性主张",
+      "claim_status": "作者概括",
+      "polarity": "positive",
+      "evidence": "或者任公的意思以为线、光、韵、调等，不是美感，这话当然是对的。",
+      "confidence": 0.8
+    },
+    {
+      "id": "c13",
+      "speaker": "唐钺",
+      "claim": "二份轻气一份养气，也不是水，但是在某条件之下，合起来却会变出水来；线、光、韵、调等不是美，然而作某种的组织，就生出美来，这都是一样的道理。",
+      "target": "任公",
+      "claim_type": "对比性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "二份轻气一份养气，也不是水，但是在某条件之下，合起来却会变出水来；线、光、韵、调等不是美，然而作某种的组织，就生出美来，这都是一样的道理。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c14",
+      "speaker": "唐钺",
+      "claim": "科学分析的结果，并不是说水同二份轻气、一份养气，是一样的东西；当然也不说美感同线、光、韵、调等是一样的东西。",
+      "target": "任公",
+      "claim_type": "描述性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "科学分析的结果，并不是说水同二份轻气、一份养气，是一样的东西；当然也不说美感同线、光、韵、调等是一样的东西。",
+      "confidence": 0.9
+    }
+  ],
+  "relations": [
+    {
+      "id": "r1",
+      "head": "唐钺",
+      "head_type": "人物",
+      "relation": "反驳",
+      "relation_subtype": "逻辑反驳",
+      "tail": "任公",
+      "tail_type": "人物",
+      "polarity": "negative",
+      "stance_score": -0.8,
+      "intensity": 0.7,
+      "evidence": "然而科学支配的结果并不是这样，请任公不必抱杞忧。",
+      "confidence": 0.9
+    },
+    {
+      "id": "r2",
+      "head": "颉兹",
+      "head_type": "人物",
+      "relation": "相关",
+      "relation_subtype": "一般批评",
+      "tail": "牛顿",
+      "tail_type": "人物",
+      "polarity": "negative",
+      "stance_score": -0.6,
+      "intensity": 0.5,
+      "evidence": "我记得从前牛顿说明虹霓的物理，诗人颉兹大不高兴，以为把虹霓的美丽减少了。",
+      "confidence": 0.9
+    },
+    {
+      "id": "r3",
+      "head": "唐钺",
+      "head_type": "人物",
+      "relation": "主张",
+      "relation_subtype": "不适用",
+      "tail": "爱和美经了分析理解以后，也要使人越觉得他们的可贵",
+      "tail_type": "观点",
+      "polarity": "positive",
+      "stance_score": 0.8,
+      "intensity": 0.6,
+      "evidence": "我以为爱和美经了分析理解以后，也要使人越觉得他们的可贵。",
+      "confidence": 0.9
+    },
+    {
+      "id": "r4",
+      "head": "唐钺",
+      "head_type": "人物",
+      "relation": "主张",
+      "relation_subtype": "不适用",
+      "tail": "美是可以分析的",
+      "tail_type": "观点",
+      "polarity": "positive",
+      "stance_score": 0.9,
+      "intensity": 0.7,
+      "evidence": "我以为美是可以分析的。",
+      "confidence": 0.9
+    },
+    {
+      "id": "r5",
+      "head": "任公",
+      "head_type": "人物",
+      "relation": "主张",
+      "relation_subtype": "不适用",
+      "tail": "请你科学家把‘美’来分析研究罢，什么线，什么光，什么韵，什么调……任凭你说得如何文理密察，可有一点儿搔着痒处吗？",
+      "tail_type": "观点",
+      "polarity": "negative",
+      "stance_score": -0.8,
+      "intensity": 0.8,
+      "evidence": "任公说：“请你科学家把‘美’来分析研究罢，什么线，什么光，什么韵，什么调……任凭你说得如何文理密察，可有一点儿搔着痒处吗？”",
+      "confidence": 0.9
+    },
+    {
+      "id": "r6",
+      "head": "唐钺",
+      "head_type": "人物",
+      "relation": "主张",
+      "relation_subtype": "不适用",
+      "tail": "许多学者都承认美的经验是可以分析出来的",
+      "tail_type": "观点",
+      "polarity": "positive",
+      "stance_score": 0.8,
+      "intensity": 0.6,
+      "evidence": "但是许多学者都承认美的经验是可以分析出来的。",
+      "confidence": 0.8
+    },
+    {
+      "id": "r7",
+      "head": "唐钺",
+      "head_type": "人物",
+      "relation": "回应",
+      "relation_subtype": "部分肯定",
+      "tail": "任公",
+      "tail_type": "人物",
+      "polarity": "mixed",
+      "stance_score": 0.3,
+      "intensity": 0.4,
+      "evidence": "或者任公的意思以为线、光、韵、调等，不是美感，这话当然是对的。",
+      "confidence": 0.8
+    }
+  ],
+  "definitions": [],
+  "citations": [
+    {
+      "id": "cit1",
+      "citer": "唐钺",
+      "quoted_author": "任公",
+      "quoted_work": "",
+      "quoted_claim": "请你科学家把‘美’来分析研究罢，什么线，什么光，什么韵，什么调……任凭你说得如何文理密察，可有一点儿搔着痒处吗？",
+      "function": "作为批评对象",
+      "evidence": "任公说：“请你科学家把‘美’来分析研究罢，什么线，什么光，什么韵，什么调……任凭你说得如何文理密察，可有一点儿搔着痒处吗？”",
+      "confidence": 0.9
+    }
+  ],
+  "rhetorical_devices": [
+    {
+      "id": "rh1",
+      "expression": "请任公不必抱杞忧",
+      "device_type": "比喻",
+      "literal_target": "任公的担忧",
+      "function": "讽刺或淡化对手的担忧",
+      "evidence": "请任公不必抱杞忧。",
+      "confidence": 0.8
+    },
+    {
+      "id": "rh2",
+      "expression": "岂可一笔抹杀，谓为搔不着痒？",
+      "device_type": "讽刺",
+      "literal_target": "任公认为分析美搔不着痒的观点",
+      "function": "反驳对手，强调分析美是有意义的",
+      "evidence": "岂可一笔抹杀，谓为搔不着痒？",
+      "confidence": 0.9
+    },
+    {
+      "id": "rh3",
+      "expression": "二份轻气一份养气，也不是水，但是在某条件之下，合起来却会变出水来；线、光、韵、调等不是美，然而作某种的组织，就生出美来，这都是一样的道理。",
+      "device_type": "类比",
+      "literal_target": "美与线、光、韵、调的关系",
+      "function": "用化学合成类比说明美由要素组织而成，反驳任公认为分析要素无意义的观点",
+      "evidence": "二份轻气一份养气，也不是水，但是在某条件之下，合起来却会变出水来；线、光、韵、调等不是美，然而作某种的组织，就生出美来，这都是一样的道理。",
+      "confidence": 0.9
+    }
+  ],
+  "uncertainties": [
+    {
+      "item": "任公是否明确说过“爱科学的支配，人生就没的价值”这句话，还是唐钺的概括",
+      "reason": "文本中“爱和美——爱科学的支配，人生就没的价值，那也是我们要老老实实地承认的”可能是唐钺对任公观点的转述或概括，但未直接引用任公原话。"
+    },
+    {
+      "item": "“许多学者都承认美的经验是可以分析出来的”中的“许多学者”具体指谁",
+      "reason": "文本未列出具体学者姓名，无法确定。"
+    }
+  ],
+  "_meta": {
+    "status": "success",
+    "stage": "extract",
+    "model": "deepseek-ai/DeepSeek-V4-Flash",
+    "base_url": "https://api.siliconflow.cn/v1",
+    "prompt_version": "v2.0",
+    "schema_version": "lite_v3.0",
+    "segment_id": "唐钺_002_5e996979_s0001",
+    "article_id": "唐钺_002_5e996979",
+    "char_start": 496,
+    "char_end": 1086,
+    "raw_path": "E:\\1研究生\\岭南大学\\论文毕业\\capstone\\资料\\新的内容开始了\\local_upload\\kg_runs_v2\\唐钺\\raw_outputs\\extract\\唐钺_002_5e996979_s0001.txt",
+    "parsed_at": "2026-05-21T19:36:12",
+    "started_at": "2026-05-21T19:23:19",
+    "elapsed_seconds": 773.205,
+    "strict_evidence_check": true,
+    "drop_unsupported_evidence": true,
+    "request_timeout_seconds": 180
+  }
+}

@@ -1,0 +1,381 @@
+{
+  "metadata": {
+    "schema_version": "lite_v3.0",
+    "article_id": "唐钺_000_b5cd146b",
+    "article_title": "心理现象与因果律",
+    "source_author": "唐钺",
+    "section_title": "",
+    "section_author": "",
+    "segment_id": "唐钺_000_b5cd146b_s0010",
+    "segment_index": 10,
+    "source_file": "E:\\1研究生\\岭南大学\\论文毕业\\capstone\\资料\\新的内容开始了\\local_upload\\input_唐钺\\唐钺.txt"
+  },
+  "entities": [
+    {
+      "id": "e1",
+      "name": "本公例",
+      "canonical_name": "本公例",
+      "type": "概念",
+      "evidence": "本公例，是比在自然界难些。",
+      "confidence": 0.8
+    },
+    {
+      "id": "e2",
+      "name": "心理界",
+      "canonical_name": "心理界",
+      "type": "概念",
+      "evidence": "心理界有如此的一律性，是无可疑的。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e3",
+      "name": "自然界",
+      "canonical_name": "自然界",
+      "type": "概念",
+      "evidence": "本公例，是比在自然界难些。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e4",
+      "name": "一律性",
+      "canonical_name": "一律性",
+      "type": "概念",
+      "evidence": "心理界有如此的一律性，是无可疑的。",
+      "confidence": 0.8
+    },
+    {
+      "id": "e5",
+      "name": "因果性",
+      "canonical_name": "因果性",
+      "type": "概念",
+      "evidence": "自由与得正当了解的因果性，完全没有冲突的；自由不是超越法律的支配。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e6",
+      "name": "自由",
+      "canonical_name": "自由",
+      "type": "概念",
+      "evidence": "自由与得正当了解的因果性，完全没有冲突的；自由不是超越法律的支配。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e7",
+      "name": "伦理学",
+      "canonical_name": "伦理学",
+      "type": "概念",
+      "evidence": "伦理学对于一种内生活的自由，等于无定律无条贯的，实在没有趣味。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e8",
+      "name": "内生活",
+      "canonical_name": "内生活",
+      "type": "概念",
+      "evidence": "伦理学对于一种内生活的自由，等于无定律无条贯的，实在没有趣味。",
+      "confidence": 0.8
+    },
+    {
+      "id": "e9",
+      "name": "意志",
+      "canonical_name": "意志",
+      "type": "概念",
+      "evidence": "绝对不相连系的元素，与过去未来没有因果关系的孤立的意志，假如真有，就是意志的错乱；不！就是心灵生活的完全破坏。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e10",
+      "name": "心灵生活",
+      "canonical_name": "心灵生活",
+      "type": "概念",
+      "evidence": "就是心灵生活的完全破坏。",
+      "confidence": 0.8
+    },
+    {
+      "id": "e11",
+      "name": "目的性",
+      "canonical_name": "目的性",
+      "type": "概念",
+      "evidence": "没有因果性，就没有目的性。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e12",
+      "name": "F. Paulsen",
+      "canonical_name": "F. Paulsen",
+      "type": "人物",
+      "evidence": "（F. Paulsen, Introduction to Philosophy, translated by F. Thilly, P. 221）",
+      "confidence": 0.9
+    },
+    {
+      "id": "e13",
+      "name": "Introduction to Philosophy",
+      "canonical_name": "Introduction to Philosophy",
+      "type": "著作",
+      "evidence": "（F. Paulsen, Introduction to Philosophy, translated by F. Thilly, P. 221）",
+      "confidence": 0.9
+    },
+    {
+      "id": "e14",
+      "name": "F. Thilly",
+      "canonical_name": "F. Thilly",
+      "type": "人物",
+      "evidence": "（F. Paulsen, Introduction to Philosophy, translated by F. Thilly, P. 221）",
+      "confidence": 0.9
+    }
+  ],
+  "claims": [
+    {
+      "id": "c1",
+      "speaker": "作者",
+      "claim": "本公例，是比在自然界难些。",
+      "target": "本公例",
+      "claim_type": "对比性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "本公例，是比在自然界难些。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c2",
+      "speaker": "作者",
+      "claim": "心理界有如此的一律性，是无可疑的。",
+      "target": "心理界",
+      "claim_type": "描述性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "心理界有如此的一律性，是无可疑的。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c3",
+      "speaker": "作者",
+      "claim": "两界中都没有孤立或无定律的元素；每一个元素，是与前此的、同时的、及此后的许多元素有确定的关系。",
+      "target": "两界",
+      "claim_type": "描述性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "两界中都没有孤立或无定律的元素；每一个元素，是与前此的、同时的、及此后的许多元素有确定的关系。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c4",
+      "speaker": "作者",
+      "claim": "任何地方，我们不容易化这些关系为数学的公式；但是这些关系的存在，是随在明白可见的。",
+      "target": "这些关系",
+      "claim_type": "描述性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "mixed",
+      "evidence": "任何地方，我们不容易化这些关系为数学的公式；但是这些关系的存在，是随在明白可见的。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c5",
+      "speaker": "作者",
+      "claim": "人默默地假定在完全相同之内部的及外界的情境之下，一定有相同的结果：一样的观念，一样的情绪，一样的意志，必随一样的刺激而起。",
+      "target": "人",
+      "claim_type": "描述性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "人默默地假定在完全相同之内部的及外界的情境之下，一定有相同的结果：一样的观念，一样的情绪，一样的意志，必随一样的刺激而起。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c6",
+      "speaker": "作者",
+      "claim": "自由与得正当了解的因果性，完全没有冲突的；自由不是超越法律的支配。",
+      "target": "自由",
+      "claim_type": "描述性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "自由与得正当了解的因果性，完全没有冲突的；自由不是超越法律的支配。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c7",
+      "speaker": "作者",
+      "claim": "伦理学对于一种内生活的自由，等于无定律无条贯的，实在没有趣味。",
+      "target": "伦理学",
+      "claim_type": "评价性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "伦理学对于一种内生活的自由，等于无定律无条贯的，实在没有趣味。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c8",
+      "speaker": "作者",
+      "claim": "绝对不相连系的元素，与过去未来没有因果关系的孤立的意志，假如真有，就是意志的错乱；不！就是心灵生活的完全破坏。",
+      "target": "意志",
+      "claim_type": "评价性主张",
+      "claim_status": "作者推论",
+      "polarity": "negative",
+      "evidence": "绝对不相连系的元素，与过去未来没有因果关系的孤立的意志，假如真有，就是意志的错乱；不！就是心灵生活的完全破坏。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c9",
+      "speaker": "作者",
+      "claim": "假如后事一点儿不为前事所决定，那末当然不能有练习与经验这种的事情，主义与决心，教育与公共制度，也没有效力。",
+      "target": "后事",
+      "claim_type": "因果主张",
+      "claim_status": "作者推论",
+      "polarity": "negative",
+      "evidence": "假如后事一点儿不为前事所决定，那末当然不能有练习与经验这种的事情，主义与决心，教育与公共制度，也没有效力。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c10",
+      "speaker": "作者",
+      "claim": "没有因果性，就没有目的性。",
+      "target": "因果性",
+      "claim_type": "因果主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "没有因果性，就没有目的性。",
+      "confidence": 0.9
+    }
+  ],
+  "relations": [
+    {
+      "id": "r1",
+      "head": "本公例",
+      "head_type": "概念",
+      "relation": "对比",
+      "relation_subtype": "不适用",
+      "tail": "自然界",
+      "tail_type": "概念",
+      "polarity": "neutral",
+      "stance_score": 0.0,
+      "intensity": 0.3,
+      "evidence": "本公例，是比在自然界难些。",
+      "confidence": 0.9
+    },
+    {
+      "id": "r2",
+      "head": "心理界",
+      "head_type": "概念",
+      "relation": "包含",
+      "relation_subtype": "不适用",
+      "tail": "一律性",
+      "tail_type": "概念",
+      "polarity": "positive",
+      "stance_score": 1.0,
+      "intensity": 0.8,
+      "evidence": "心理界有如此的一律性，是无可疑的。",
+      "confidence": 0.9
+    },
+    {
+      "id": "r3",
+      "head": "自由",
+      "head_type": "概念",
+      "relation": "区分",
+      "relation_subtype": "概念澄清",
+      "tail": "因果性",
+      "tail_type": "概念",
+      "polarity": "positive",
+      "stance_score": 1.0,
+      "intensity": 0.7,
+      "evidence": "自由与得正当了解的因果性，完全没有冲突的；自由不是超越法律的支配。",
+      "confidence": 0.9
+    },
+    {
+      "id": "r4",
+      "head": "伦理学",
+      "head_type": "概念",
+      "relation": "评价",
+      "relation_subtype": "一般批评",
+      "tail": "内生活",
+      "tail_type": "概念",
+      "polarity": "negative",
+      "stance_score": -0.5,
+      "intensity": 0.5,
+      "evidence": "伦理学对于一种内生活的自由，等于无定律无条贯的，实在没有趣味。",
+      "confidence": 0.9
+    },
+    {
+      "id": "r5",
+      "head": "意志",
+      "head_type": "概念",
+      "relation": "导致",
+      "relation_subtype": "不适用",
+      "tail": "心灵生活",
+      "tail_type": "概念",
+      "polarity": "negative",
+      "stance_score": -1.0,
+      "intensity": 0.9,
+      "evidence": "绝对不相连系的元素，与过去未来没有因果关系的孤立的意志，假如真有，就是意志的错乱；不！就是心灵生活的完全破坏。",
+      "confidence": 0.9
+    },
+    {
+      "id": "r6",
+      "head": "后事",
+      "head_type": "概念",
+      "relation": "导致",
+      "relation_subtype": "不适用",
+      "tail": "练习与经验",
+      "tail_type": "概念",
+      "polarity": "negative",
+      "stance_score": -1.0,
+      "intensity": 0.8,
+      "evidence": "假如后事一点儿不为前事所决定，那末当然不能有练习与经验这种的事情，主义与决心，教育与公共制度，也没有效力。",
+      "confidence": 0.9
+    },
+    {
+      "id": "r7",
+      "head": "因果性",
+      "head_type": "概念",
+      "relation": "导致",
+      "relation_subtype": "不适用",
+      "tail": "目的性",
+      "tail_type": "概念",
+      "polarity": "positive",
+      "stance_score": 1.0,
+      "intensity": 0.9,
+      "evidence": "没有因果性，就没有目的性。",
+      "confidence": 0.9
+    }
+  ],
+  "definitions": [
+    {
+      "id": "def1",
+      "term": "自由",
+      "definition": "自由不是超越法律的支配，与因果性没有冲突。",
+      "evidence": "自由与得正当了解的因果性，完全没有冲突的；自由不是超越法律的支配。",
+      "confidence": 0.9
+    }
+  ],
+  "citations": [
+    {
+      "id": "cit1",
+      "citer": "作者",
+      "quoted_author": "F. Paulsen",
+      "quoted_work": "Introduction to Philosophy",
+      "quoted_claim": "没有因果性，就没有目的性。",
+      "function": "援引权威支持",
+      "evidence": "（F. Paulsen, Introduction to Philosophy, translated by F. Thilly, P. 221）",
+      "confidence": 0.9
+    }
+  ],
+  "rhetorical_devices": [
+    {
+      "id": "rh1",
+      "expression": "就是意志的错乱；不！就是心灵生活的完全破坏。",
+      "device_type": "夸张",
+      "literal_target": "孤立的意志",
+      "function": "通过夸张后果来反驳孤立意志的存在",
+      "evidence": "绝对不相连系的元素，与过去未来没有因果关系的孤立的意志，假如真有，就是意志的错乱；不！就是心灵生活的完全破坏。",
+      "confidence": 0.9
+    }
+  ],
+  "uncertainties": [
+    {
+      "item": "本公例的具体指代",
+      "reason": "文本未明确说明“本公例”指代的具体内容，可能指前文提到的某个公例。"
+    },
+    {
+      "item": "“两界”的具体指代",
+      "reason": "文本中“两界”可能指心理界和自然界，但未明确说明。"
+    }
+  ]
+}

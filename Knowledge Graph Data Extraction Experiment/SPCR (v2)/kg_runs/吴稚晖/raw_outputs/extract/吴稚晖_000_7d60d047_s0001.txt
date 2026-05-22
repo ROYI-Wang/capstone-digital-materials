@@ -1,0 +1,600 @@
+{
+  "metadata": {
+    "schema_version": "lite_v3.0",
+    "article_id": "吴稚晖_000_7d60d047",
+    "article_title": "箴洋八股化之理学",
+    "source_author": "吴稚晖",
+    "section_title": "（按",
+    "section_author": "（",
+    "segment_id": "吴稚晖_000_7d60d047_s0001",
+    "segment_index": 1,
+    "source_file": "E:\\1研究生\\岭南大学\\论文毕业\\capstone\\资料\\新的内容开始了\\local_upload\\input_吴稚晖\\吴稚晖.txt"
+  },
+  "entities": [
+    {
+      "id": "e1",
+      "name": "高粱秆子",
+      "canonical_name": "高粱秆子",
+      "type": "比喻/类比",
+      "evidence": "高粱秆子，会造起土房，他定要不安本分出个孙美瑶同临城的火车战争了。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e2",
+      "name": "孙美瑶",
+      "canonical_name": "孙美瑶",
+      "type": "人物",
+      "evidence": "他定要不安本分出个孙美瑶同临城的火车战争了。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e3",
+      "name": "临城的火车战争",
+      "canonical_name": "临城的火车战争",
+      "type": "历史事件",
+      "evidence": "他定要不安本分出个孙美瑶同临城的火车战争了。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e4",
+      "name": "张先生",
+      "canonical_name": "张先生",
+      "type": "人物",
+      "evidence": "张先生若说他长了手，也便就会读《程氏遗书》及《朱子全书》，精神亦高出于猴子。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e5",
+      "name": "《程氏遗书》",
+      "canonical_name": "程氏遗书",
+      "type": "著作",
+      "evidence": "张先生若说他长了手，也便就会读《程氏遗书》及《朱子全书》，精神亦高出于猴子。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e6",
+      "name": "《朱子全书》",
+      "canonical_name": "朱子全书",
+      "type": "著作",
+      "evidence": "张先生若说他长了手，也便就会读《程氏遗书》及《朱子全书》，精神亦高出于猴子。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e7",
+      "name": "物质",
+      "canonical_name": "物质",
+      "type": "概念",
+      "evidence": "最初便是物质进步，然后精神进步。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e8",
+      "name": "精神",
+      "canonical_name": "精神",
+      "type": "概念",
+      "evidence": "最初便是物质进步，然后精神进步。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e9",
+      "name": "程朱理学",
+      "canonical_name": "程朱理学",
+      "type": "主义/学说/理论",
+      "evidence": "他才有读程朱理学的结果。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e10",
+      "name": "社会主义",
+      "canonical_name": "社会主义",
+      "type": "主义/学说/理论",
+      "evidence": "若理想的无战争，必要经由社会主义及张先生的理想无政府主义，才可达到。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e11",
+      "name": "理想无政府主义",
+      "canonical_name": "理想无政府主义",
+      "type": "主义/学说/理论",
+      "evidence": "若理想的无战争，必要经由社会主义及张先生的理想无政府主义，才可达到。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e12",
+      "name": "哥白尼",
+      "canonical_name": "哥白尼",
+      "type": "人物",
+      "evidence": "没有哥白尼把一个物质的太阳放在中心，张先生理想的无政府名词，在宋明理学书上寻得出么？",
+      "confidence": 0.9
+    },
+    {
+      "id": "e13",
+      "name": "物质的太阳",
+      "canonical_name": "物质的太阳",
+      "type": "概念",
+      "evidence": "没有哥白尼把一个物质的太阳放在中心，张先生理想的无政府名词，在宋明理学书上寻得出么？",
+      "confidence": 0.9
+    },
+    {
+      "id": "e14",
+      "name": "宋明理学",
+      "canonical_name": "宋明理学",
+      "type": "主义/学说/理论",
+      "evidence": "在宋明理学书上寻得出么？",
+      "confidence": 0.9
+    },
+    {
+      "id": "e15",
+      "name": "玄学鬼",
+      "canonical_name": "玄学鬼",
+      "type": "概念",
+      "evidence": "他并不是撞见了玄学鬼，他乃不曾请教玄学鬼。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e16",
+      "name": "宇宙观",
+      "canonical_name": "宇宙观",
+      "type": "概念",
+      "evidence": "他的人生观，是误在他的宇宙观。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e17",
+      "name": "人生观",
+      "canonical_name": "人生观",
+      "type": "概念",
+      "evidence": "他的人生观，是误在他的宇宙观。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e18",
+      "name": "《太平洋杂志》",
+      "canonical_name": "太平洋杂志",
+      "type": "著作",
+      "evidence": "我已在《太平洋杂志》上投一文，带着批评了，现在也可以不必属说。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e19",
+      "name": "物质文明",
+      "canonical_name": "物质文明",
+      "type": "概念",
+      "evidence": "（一）张先生厌恶的物质文明，大约即指种种的所谓奇技淫巧。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e20",
+      "name": "奇技淫巧",
+      "canonical_name": "奇技淫巧",
+      "type": "概念",
+      "evidence": "（一）张先生厌恶的物质文明，大约即指种种的所谓奇技淫巧。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e21",
+      "name": "理想的无政府",
+      "canonical_name": "理想的无政府",
+      "type": "概念",
+      "evidence": "（二）从今日而到理想的无政府，至少还有比欧战大的三十六回，同欧战一样的七十二次。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e22",
+      "name": "欧战",
+      "canonical_name": "欧战",
+      "type": "历史事件",
+      "evidence": "（二）从今日而到理想的无政府，至少还有比欧战大的三十六回，同欧战一样的七十二次。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e23",
+      "name": "小学强迫",
+      "canonical_name": "小学强迫",
+      "type": "概念",
+      "evidence": "（三）小学强迫虽未普行于全世界，理论则已普遍。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e24",
+      "name": "丁先生",
+      "canonical_name": "丁先生",
+      "type": "人物",
+      "evidence": "所以张先生的人生观，现在我的见解，与丁先生又是不同。",
+      "confidence": 0.9
+    }
+  ],
+  "claims": [
+    {
+      "id": "c1",
+      "speaker": "吴稚晖",
+      "claim": "最初便是物质进步，然后精神进步。",
+      "target": "物质与精神的关系",
+      "claim_type": "因果主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "最初便是物质进步，然后精神进步。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c2",
+      "speaker": "吴稚晖",
+      "claim": "精神物质是双方并进，互相促成。",
+      "target": "物质与精神的关系",
+      "claim_type": "描述性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "精神物质是双方并进，互相促成，什么战争不战争，竟会归咎到物质呢？",
+      "confidence": 0.9
+    },
+    {
+      "id": "c3",
+      "speaker": "吴稚晖",
+      "claim": "西方物质进步，故精神亦随了进步。",
+      "target": "西方物质与精神的关系",
+      "claim_type": "因果主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "西方物质进步，故精神亦随了进步。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c4",
+      "speaker": "吴稚晖",
+      "claim": "若理想的无战争，必要经由社会主义及张先生的理想无政府主义，才可达到。",
+      "target": "理想无战争的条件",
+      "claim_type": "因果主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "若理想的无战争，必要经由社会主义及张先生的理想无政府主义，才可达到。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c5",
+      "speaker": "吴稚晖",
+      "claim": "程朱的理学，他做梦也说不上。",
+      "target": "程朱理学与理想无政府的关系",
+      "claim_type": "评价性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "程朱的理学，他做梦也说不上。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c6",
+      "speaker": "吴稚晖",
+      "claim": "没有哥白尼把一个物质的太阳放在中心，张先生理想的无政府名词，在宋明理学书上寻得出么？",
+      "target": "哥白尼与理想无政府名词的关系",
+      "claim_type": "反驳性主张",
+      "claim_status": "作者推论",
+      "polarity": "negative",
+      "evidence": "没有哥白尼把一个物质的太阳放在中心，张先生理想的无政府名词，在宋明理学书上寻得出么？",
+      "confidence": 0.9
+    },
+    {
+      "id": "c7",
+      "speaker": "吴稚晖",
+      "claim": "他并不是撞见了玄学鬼，他乃不曾请教玄学鬼。",
+      "target": "张先生与玄学鬼的关系",
+      "claim_type": "描述性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "他并不是撞见了玄学鬼，他乃不曾请教玄学鬼。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c8",
+      "speaker": "吴稚晖",
+      "claim": "他的人生观，是误在他的宇宙观。",
+      "target": "张先生的人生观与宇宙观的关系",
+      "claim_type": "因果主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "他的人生观，是误在他的宇宙观。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c9",
+      "speaker": "吴稚晖",
+      "claim": "张先生厌恶的物质文明，大约即指种种的所谓奇技淫巧。",
+      "target": "张先生对物质文明的态度",
+      "claim_type": "描述性主张",
+      "claim_status": "作者概括",
+      "polarity": "negative",
+      "evidence": "（一）张先生厌恶的物质文明，大约即指种种的所谓奇技淫巧。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c10",
+      "speaker": "吴稚晖",
+      "claim": "我说他现在所谓奇技淫巧者，过了数百年，还止同今日高粱秆子的土房一样。",
+      "target": "奇技淫巧的未来发展",
+      "claim_type": "对比性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "我说他现在所谓奇技淫巧者，过了数百年，还止同今日高粱秆子的土房一样。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c11",
+      "speaker": "吴稚晖",
+      "claim": "张先生若活到彼时，定还要气得腹大如牛，亦且瞠目不晓得如何反对。",
+      "target": "张先生对未来的反应",
+      "claim_type": "假设情境",
+      "claim_status": "假设情境",
+      "polarity": "negative",
+      "evidence": "张先生若活到彼时，定还要气得腹大如牛，亦且瞠目不晓得如何反对。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c12",
+      "speaker": "吴稚晖",
+      "claim": "从今日而到理想的无政府，至少还有比欧战大的三十六回，同欧战一样的七十二次。",
+      "target": "理想无政府实现前的战争次数",
+      "claim_type": "描述性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "（二）从今日而到理想的无政府，至少还有比欧战大的三十六回，同欧战一样的七十二次。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c13",
+      "speaker": "吴稚晖",
+      "claim": "小学强迫虽未普行于全世界，理论则已普遍。",
+      "target": "小学强迫的普及情况",
+      "claim_type": "描述性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "（三）小学强迫虽未普行于全世界，理论则已普遍。",
+      "confidence": 0.9
+    }
+  ],
+  "relations": [
+    {
+      "id": "r1",
+      "head": "物质进步",
+      "head_type": "概念",
+      "relation": "导致",
+      "relation_subtype": "不适用",
+      "tail": "精神进步",
+      "tail_type": "概念",
+      "polarity": "positive",
+      "stance_score": 1.0,
+      "intensity": 0.8,
+      "evidence": "最初便是物质进步，然后精神进步。",
+      "confidence": 0.9
+    },
+    {
+      "id": "r2",
+      "head": "精神物质",
+      "head_type": "概念",
+      "relation": "导致",
+      "relation_subtype": "不适用",
+      "tail": "互相促成",
+      "tail_type": "概念",
+      "polarity": "positive",
+      "stance_score": 1.0,
+      "intensity": 0.8,
+      "evidence": "精神物质是双方并进，互相促成，什么战争不战争，竟会归咎到物质呢？",
+      "confidence": 0.9
+    },
+    {
+      "id": "r3",
+      "head": "西方物质进步",
+      "head_type": "概念",
+      "relation": "导致",
+      "relation_subtype": "不适用",
+      "tail": "精神亦随了进步",
+      "tail_type": "概念",
+      "polarity": "positive",
+      "stance_score": 1.0,
+      "intensity": 0.8,
+      "evidence": "西方物质进步，故精神亦随了进步。",
+      "confidence": 0.9
+    },
+    {
+      "id": "r4",
+      "head": "理想的无战争",
+      "head_type": "概念",
+      "relation": "归因于",
+      "relation_subtype": "不适用",
+      "tail": "社会主义及张先生的理想无政府主义",
+      "tail_type": "主义/学说/理论",
+      "polarity": "positive",
+      "stance_score":  perm_identity 0.5,
+      "intensity": 0.6,
+      "evidence": "若理想的无战争，必要经由社会主义及张先生的理想无政府主义，才可达到。",
+      "confidence": 0.9
+    },
+    {
+      "id": "r5",
+      "head": "程朱的理学",
+      "head_type": "主义/学说/理论",
+      "relation": "评价",
+      "relation_subtype": "一般批评",
+      "tail": "理想的无政府",
+      "tail_type": "概念",
+      "polarity": "negative",
+      "stance_score": -0.8,
+      "intensity": 0.9,
+      "evidence": "程朱的理学，他做梦也说不上。",
+      "confidence": 0.9
+    },
+    {
+      "id": "r6",
+      "head": "哥白尼",
+      "head_type": "人物",
+      "relation": "导致",
+      "relation_subtype": "不适用",
+      "tail": "张先生理想的无政府名词",
+      "tail_type": "概念",
+      "polarity": "negative",
+      "stance_score": -0.5,
+      "intensity": 0.7,
+      "evidence": "没有哥白尼把一个物质的太阳放在中心，张先生理想的无政府名词，在宋明理学书上寻得出么？",
+      "confidence": 0.9
+    },
+    {
+      "id": "r7",
+      "head": "张先生",
+      "head_type": "人物",
+      "relation": "评价",
+      "relation_subtype": "一般批评",
+      "tail": "玄学鬼",
+      "tail_type": "概念",
+      "polarity": "negative",
+      "stance_score": -0.5,
+      "intensity": 0.6,
+      "evidence": "他并不是撞见了玄学鬼，他乃不曾请教玄学鬼。",
+      "confidence": 0.9
+    },
+    {
+      "id": "r8",
+      "head": "张先生的人生观",
+      "head_type": "概念",
+      "relation": "归因于",
+      "relation_subtype": "不适用",
+      "tail": "他的宇宙观",
+      "tail_type": "概念",
+      "polarity": "negative",
+      "stance_score": -0.8,
+      "intensity": 0.8,
+      "evidence": "他的人生观，是误在他的宇宙观。",
+      "confidence": 0.9
+    },
+    {
+      "id": "r9",
+      "head": "张先生",
+      "head_type": "人物",
+      "relation": "反对",
+      "relation_subtype": "一般批评",
+      "tail": "物质文明",
+      "tail_type": "概念",
+      "polarity": "negative",
+      "stance_score": -0.8,
+      "intensity": 0.7,
+      "evidence": "（一）张先生厌恶的物质文明，大约即指种种的所谓奇技淫巧。",
+      "confidence": 0.9
+    },
+    {
+      "id": "r10",
+      "head": "奇技淫巧",
+      "head_type": "概念",
+      "relation": "类比",
+      "relation_subtype": "不适用",
+      "tail": "高粱秆子的土房",
+      "tail_type": "比喻/类比",
+      "polarity": "negative",
+      "stance_score": -0.5,
+      "intensity": 0.6,
+      "evidence": "我说他现在所谓奇技淫巧者，过了数百年，还止同今日高粱秆子的土房一样。",
+      "confidence": 0.9
+    },
+    {
+      "id": "r11",
+      "head": "张先生",
+      "head_type": "人物",
+      "relation": "归谬",
+      "relation_subtype": "归谬",
+      "tail": "气得腹大如牛",
+      "tail_type": "概念",
+      "polarity": "negative",
+      "stance_score": -0.8,
+      "intensity": 0.9,
+      "evidence": "张先生若活到彼时，定还要气得腹大如牛，亦且瞠目不晓得如何反对。",
+      "confidence": 0.9
+    },
+    {
+      "id": "r12",
+      "head": "理想的无政府",
+      "head_type": "概念",
+      "relation": "导致",
+      "relation_subtype": "不适用",
+      "tail": "比欧战大的三十六回，同欧战一样的七十二次",
+      "tail_type": "概念",
+      "polarity": "negative",
+      "stance_score": -0.5,
+      "intensity": 0.7,
+      "evidence": "（二）从今日而到理想的无政府，至少还有比欧战大的三十六回，同欧战一样的七十二次。",
+      "confidence": 0.9
+    },
+    {
+      "id": "r13",
+      "head": "小学强迫",
+      "head_type": "概念",
+      "relation": "评价",
+      "relation_subtype": "部分肯定",
+      "tail": "理论则已普遍",
+      "tail_type": "概念",
+      "polarity": "positive",
+      "stance_score": 0.5,
+      "intensity": 0.5,
+      "evidence": "（三）小学强迫虽未普行于全世界，理论则已普遍。",
+      "confidence": 0.9
+    }
+  ],
+  "definitions": [
+    {
+      "id": "def1",
+      "term": "物质文明",
+      "definition": "张先生厌恶的物质文明，大约即指种种的所谓奇技淫巧。",
+      "evidence": "（一）张先生厌恶的物质文明，大约即指种种的所谓奇技淫巧。",
+      "confidence": 0.9
+    }
+  ],
+  "citations": [
+    {
+      "id": "cit1",
+      "citer": "吴稚晖",
+      "quoted_author": "吴稚晖",
+      "quoted_work": "《太平洋杂志》",
+      "quoted_claim": "带着批评了",
+      "function": "中性提及",
+      "evidence": "我已在《太平洋杂志》上投一文，带着批评了，现在也可以不必属说。",
+      "confidence": 0.9
+    }
+  ],
+  "rhetorical_devices": [
+    {
+      "id": "rh1",
+      "expression": "高粱秆子，会造起土房，他定要不安本分出个孙美瑶同临城的火车战争了。",
+      "device_type": "类比",
+      "literal_target": "物质进步可能导致战争",
+      "function": "用高粱秆子造土房类比物质进步，引出战争问题，批评张先生归咎于物质",
+      "evidence": "高粱秆子，会造起土房，他定要不安本分出个孙美瑶同临城的火车战争了。",
+      "confidence": 0.9
+    },
+    {
+      "id": "rh2",
+      "expression": "气得腹大如牛",
+      "device_type": "夸张",
+      "literal_target": "张先生对未来的愤怒反应",
+      "function": "夸张描述张先生可能的反应，讽刺其反对物质文明的态度",
+      "evidence": "张先生若活到彼时，定还要气得腹大如牛，亦且瞠目不晓得如何反对。",
+      "confidence": 0.9
+    },
+    {
+      "id": "rh3",
+      "expression": "瞠目不晓得如何反对",
+      "device_type": "讽刺",
+      "literal_target": "张先生对未来的无力反对",
+      "function": "讽刺张先生反对物质文明但未来无法应对",
+      "evidence": "张先生若活到彼时，定还要气得腹大如牛，亦且瞠目不晓得如何反对。",
+      "confidence": 0.9
+    }
+  ],
+  "uncertainties": [
+    {
+      "item": "张先生的具体身份",
+      "reason": "文本中只出现'张先生'，未明确其全名或具体身份，无法确定。"
+    },
+    {
+      "item": "丁先生的具体身份",
+      "reason": "文本中只出现'丁先生'，未明确其全名或具体身份，无法确定。"
+    },
+    {
+      "item": "《太平洋杂志》上投一文的具体内容",
+      "reason": "文本仅提及'带着批评了'，未提供具体批评内容。"
+    }
+  ]
+}

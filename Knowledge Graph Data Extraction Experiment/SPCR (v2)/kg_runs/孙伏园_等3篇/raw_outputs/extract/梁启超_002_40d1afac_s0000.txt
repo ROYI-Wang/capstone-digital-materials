@@ -1,0 +1,424 @@
+{
+  "metadata": {
+    "schema_version": "lite_v3.0",
+    "article_id": "梁启超_002_40d1afac",
+    "article_title": "东荪按",
+    "source_author": "张东荪",
+    "section_title": "",
+    "section_author": "",
+    "segment_id": "梁启超_002_40d1afac_s0000",
+    "segment_index": 0,
+    "source_file": "E:\\1研究生\\岭南大学\\论文毕业\\capstone\\资料\\新的内容开始了\\local_upload\\input_v2_w3\\梁启超.txt"
+  },
+  "entities": [
+    {
+      "id": "e1",
+      "name": "梁先生",
+      "canonical_name": "梁先生",
+      "type": "人物",
+      "evidence": "我看了梁先生这篇文章不由得想说几句",
+      "confidence": 1.0
+    },
+    {
+      "id": "e2",
+      "name": "丁先生",
+      "canonical_name": "丁先生",
+      "type": "人物",
+      "evidence": "梁先生的科学定义虽是修改丁先生的话而成",
+      "confidence": 1.0
+    },
+    {
+      "id": "e3",
+      "name": "科学",
+      "canonical_name": "科学",
+      "type": "概念",
+      "evidence": "我所要说的只是关于科学的一点",
+      "confidence": 1.0
+    },
+    {
+      "id": "e4",
+      "name": "科学的方法",
+      "canonical_name": "科学的方法",
+      "type": "方法",
+      "evidence": "科学的方法不外将世界的事实分起类来，求他们的秩序",
+      "confidence": 1.0
+    },
+    {
+      "id": "e5",
+      "name": "科学公例",
+      "canonical_name": "科学公例",
+      "type": "概念",
+      "evidence": "再想一句最简单明白话来概括这许多事实，这叫做科学公例",
+      "confidence": 1.0
+    },
+    {
+      "id": "e6",
+      "name": "经验的事实",
+      "canonical_name": "经验的事实",
+      "type": "概念",
+      "evidence": "凡对于经验的事实，分类以求其秩序，就是科学",
+      "confidence": 1.0
+    },
+    {
+      "id": "e7",
+      "name": "分类以求秩序",
+      "canonical_name": "分类以求秩序",
+      "type": "概念",
+      "evidence": "分类以求秩序只是科学的一方面",
+      "confidence": 1.0
+    },
+    {
+      "id": "e8",
+      "name": "心理学",
+      "canonical_name": "心理学",
+      "type": "概念",
+      "evidence": "试问心理学与数学是不是科学？",
+      "confidence": 1.0
+    },
+    {
+      "id": "e9",
+      "name": "数学",
+      "canonical_name": "数学",
+      "type": "概念",
+      "evidence": "试问心理学与数学是不是科学？",
+      "confidence": 1.0
+    },
+    {
+      "id": "e10",
+      "name": "冯德的科学分类表",
+      "canonical_name": "冯德的科学分类表",
+      "type": "著作",
+      "evidence": "冯德的科学分类表把数学论理学列为方式科学",
+      "confidence": 1.0
+    },
+    {
+      "id": "e11",
+      "name": "方式科学",
+      "canonical_name": "方式科学",
+      "type": "概念",
+      "evidence": "冯德的科学分类表把数学论理学列为方式科学",
+      "confidence": 1.0
+    },
+    {
+      "id": "e12",
+      "name": "植物学",
+      "canonical_name": "植物学",
+      "type": "概念",
+      "evidence": "还有反面的例，如植物学与动物学",
+      "confidence": 1.0
+    },
+    {
+      "id": "e13",
+      "name": "动物学",
+      "canonical_name": "动物学",
+      "type": "概念",
+      "evidence": "还有反面的例，如植物学与动物学",
+      "confidence": 1.0
+    },
+    {
+      "id": "e14",
+      "name": "植物分类学",
+      "canonical_name": "植物分类学",
+      "type": "概念",
+      "evidence": "植物分类学与植物系统学只是植物学的一部分",
+      "confidence": 1.0
+    },
+    {
+      "id": "e15",
+      "name": "植物系统学",
+      "canonical_name": "植物系统学",
+      "type": "概念",
+      "evidence": "植物分类学与植物系统学只是植物学的一部分",
+      "confidence": 1.0
+    },
+    {
+      "id": "e16",
+      "name": "玄学",
+      "canonical_name": "玄学",
+      "type": "概念",
+      "evidence": "其攻击玄学，未尝对于玄学下明切的定义",
+      "confidence": 1.0
+    },
+    {
+      "id": "e17",
+      "name": "皮尔逊",
+      "canonical_name": "皮尔逊",
+      "type": "人物",
+      "evidence": "本是皮尔逊一流的主张",
+      "confidence": 1.0
+    },
+    {
+      "id": "e18",
+      "name": "论理学",
+      "canonical_name": "论理学",
+      "type": "概念",
+      "evidence": "冯德的科学分类表把数学论理学列为方式科学",
+      "confidence": 1.0
+    }
+  ],
+  "claims": [
+    {
+      "id": "c1",
+      "speaker": "张东荪",
+      "claim": "梁先生的科学定义虽是修改丁先生的话而成，然在我看来，却比丁先生的原文圆满些",
+      "target": "梁先生的科学定义",
+      "claim_type": "评价性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "梁先生的科学定义虽是修改丁先生的话而成，然在我看来，却比丁先生的原文圆满些",
+      "confidence": 1.0
+    },
+    {
+      "id": "c2",
+      "speaker": "丁先生",
+      "claim": "科学的方法不外将世界的事实分起类来，求他们的秩序。等到分类秩序弄明白了，再想一句最简单明白话来概括这许多事实，这叫做科学公例。凡是事实都可以用科学方法研究，都可以变做科学",
+      "target": "科学",
+      "claim_type": "定义性主张",
+      "claim_status": "直接引用",
+      "polarity": "neutral",
+      "evidence": "丁先生的原文是“科学的方法不外将世界的事实分起类来，求他们的秩序。等到分类秩序弄明白了，再想一句最简单明白话来概括这许多事实，这叫做科学公例。凡是事实都可以用科学方法研究，都可以变做科学”",
+      "confidence": 1.0
+    },
+    {
+      "id": "c3",
+      "speaker": "张东荪",
+      "claim": "我以为“分类以求秩序”只是科学的一方面，若谓以此足以包括无余，实使我不信",
+      "target": "丁先生的科学定义",
+      "claim_type": "反驳性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "我以为“分类以求秩序”只是科学的一方面，若谓以此足以包括无余，实使我不信",
+      "confidence": 1.0
+    },
+    {
+      "id": "c4",
+      "speaker": "张东荪",
+      "claim": "试问心理学与数学是不是科学？如其是科学，是不是仅仅分类以求秩序？",
+      "target": "丁先生的科学定义",
+      "claim_type": "问题提出",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "试问心理学与数学是不是科学？如其是科学，是不是仅仅分类以求秩序？",
+      "confidence": 1.0
+    },
+    {
+      "id": "c5",
+      "speaker": "张东荪",
+      "claim": "植物分类学与植物系统学只是植物学的一部分，不能对于植物分类，即已尽研究植物的能事",
+      "target": "丁先生的科学定义",
+      "claim_type": "反驳性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "植物分类学与植物系统学只是植物学的一部分，不能对于植物分类，即已尽研究植物的能事",
+      "confidence": 1.0
+    },
+    {
+      "id": "c6",
+      "speaker": "张东荪",
+      "claim": "“分类以求秩序”这句话是不足以概括科学的性质",
+      "target": "丁先生的科学定义",
+      "claim_type": "结论性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "所以据我这个外行人看来，“分类以求秩序”这句话是不足以概括科学的性质",
+      "confidence": 1.0
+    },
+    {
+      "id": "c7",
+      "speaker": "张东荪",
+      "claim": "以科学的大忠臣的丁先生，其攻击玄学，未尝对于玄学下明切的定义，诚有可原，乃对于科学亦不能使我们满意，便不能不有些失望了",
+      "target": "丁先生",
+      "claim_type": "评价性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "mixed",
+      "evidence": "以科学的大忠臣的丁先生，其攻击玄学，未尝对于玄学下明切的定义，诚有可原，乃对于科学亦不能使我们满意，便不能不有些失望了",
+      "confidence": 1.0
+    }
+  ],
+  "relations": [
+    {
+      "id": "r1",
+      "head": "梁先生的科学定义",
+      "head_type": "概念",
+      "relation": "源自",
+      "relation_subtype": "不适用",
+      "tail": "丁先生的话",
+      "tail_type": "观点",
+      "polarity": "neutral",
+      "stance_score": 0.0,
+      "intensity": 0.0,
+      "evidence": "梁先生的科学定义虽是修改丁先生的话而成",
+      "confidence": 1.0
+    },
+    {
+      "id": "r2",
+      "head": "张东荪",
+      "head_type": "人物",
+      "relation": "评价",
+      "relation_subtype": "部分肯定",
+      "tail": "梁先生的科学定义",
+      "tail_type": "概念",
+      "polarity": "positive",
+      "stance_score": 0.5,
+      "intensity": 0.5,
+      "evidence": "梁先生的科学定义虽是修改丁先生的话而成，然在我看来，却比丁先生的原文圆满些",
+      "confidence": 1.0
+    },
+    {
+      "id": "r3",
+      "head": "张东荪",
+      "head_type": "人物",
+      "relation": "批评",
+      "relation_subtype": "概念混淆批评",
+      "tail": "丁先生的科学定义",
+      "tail_type": "观点",
+      "polarity": "negative",
+      "stance_score": -0.7,
+      "intensity": 0.7,
+      "evidence": "我以为“分类以求秩序”只是科学的一方面，若谓以此足以包括无余，实使我不信",
+      "confidence": 1.0
+    },
+    {
+      "id": "r4",
+      "head": "张东荪",
+      "head_type": "人物",
+      "relation": "反驳",
+      "relation_subtype": "逻辑反驳",
+      "tail": "丁先生的科学定义",
+      "tail_type": "观点",
+      "polarity": "negative",
+      "stance_score": -0.8,
+      "intensity": 0.8,
+      "evidence": "试问心理学与数学是不是科学？如其是科学，是不是仅仅分类以求秩序？",
+      "confidence": 1.0
+    },
+    {
+      "id": "r5",
+      "head": "张东荪",
+      "head_type": "人物",
+      "relation": "反驳",
+      "relation_subtype": "作为反例反驳",
+      "tail": "丁先生的科学定义",
+      "tail_type": "观点",
+      "polarity": "negative",
+      "stance_score": -0.8,
+      "intensity": 0.8,
+      "evidence": "还有反面的例，如植物学与动物学，宜可谓基于分类了，然而须知植物分类学与植物系统学只是植物学的一部分，不能对于植物分类，即已尽研究植物的能事",
+      "confidence": 1.0
+    },
+    {
+      "id": "r6",
+      "head": "张东荪",
+      "head_type": "人物",
+      "relation": "评价",
+      "relation_subtype": "混合评价",
+      "tail": "丁先生",
+      "tail_type": "人物",
+      "polarity": "mixed",
+      "stance_score": -0.3,
+      "intensity": 0.6,
+      "evidence": "以科学的大忠臣的丁先生，其攻击玄学，未尝对于玄学下明切的定义，诚有可原，乃对于科学亦不能使我们满意，便不能不有些失望了",
+      "confidence": 1.0
+    },
+    {
+      "id": "r7",
+      "head": "丁先生的科学定义",
+      "head_type": "观点",
+      "relation": "源自",
+      "relation_subtype": "不适用",
+      "tail": "皮尔逊",
+      "tail_type": "人物",
+      "polarity": "neutral",
+      "stance_score": 0.0,
+      "intensity": 0.0,
+      "evidence": "明晓得科学以其方法为标准，本是皮尔逊一流的主张，丁先生原有所本",
+      "confidence": 1.0
+    }
+  ],
+  "definitions": [
+    {
+      "id": "def1",
+      "term": "科学",
+      "definition": "凡对于经验的事实，分类以求其秩序，就是科学；凡用科学方法的都是科学",
+      "evidence": "这段话有两个要素：（一）凡对于经验的事实，分类以求其秩序，就是科学；（二）凡用科学方法的都是科学",
+      "confidence": 1.0
+    },
+    {
+      "id": "def2",
+      "term": "科学公例",
+      "definition": "等到分类秩序弄明白了，再想一句最简单明白话来概括这许多事实，这叫做科学公例",
+      "evidence": "再想一句最简单明白话来概括这许多事实，这叫做科学公例",
+      "confidence": 1.0
+    }
+  ],
+  "citations": [
+    {
+      "id": "cit1",
+      "citer": "张东荪",
+      "quoted_author": "丁先生",
+      "quoted_work": "",
+      "quoted_claim": "科学的方法不外将世界的事实分起类来，求他们的秩序。等到分类秩序弄明白了，再想一句最简单明白话来概括这许多事实，这叫做科学公例。凡是事实都可以用科学方法研究，都可以变做科学",
+      "function": "作为批评对象",
+      "evidence": "丁先生的原文是“科学的方法不外将世界的事实分起类来，求他们的秩序。等到分类秩序弄明白了，再想一句最简单明白话来概括这许多事实，这叫做科学公例。凡是事实都可以用科学方法研究，都可以变做科学”",
+      "confidence": 1.0
+    },
+    {
+      "id": "cit2",
+      "citer": "张东荪",
+      "quoted_author": "皮尔逊",
+      "quoted_work": "",
+      "quoted_claim": "科学以其方法为标准",
+      "function": "作为思想来源",
+      "evidence": "明晓得科学以其方法为标准，本是皮尔逊一流的主张，丁先生原有所本",
+      "confidence": 1.0
+    },
+    {
+      "id": "cit3",
+      "citer": "张东荪",
+      "quoted_author": "冯德",
+      "quoted_work": "冯德的科学分类表",
+      "quoted_claim": "把数学论理学列为方式科学",
+      "function": "援引权威反驳",
+      "evidence": "冯德的科学分类表把数学论理学列为方式科学",
+      "confidence": 1.0
+    }
+  ],
+  "rhetorical_devices": [
+    {
+      "id": "rh1",
+      "expression": "狐尾续貂之讥",
+      "device_type": "比喻",
+      "literal_target": "作者将自己的文章附在梁先生文章之后的行为",
+      "function": "自谦，表示文章短小，附于他人文章之后可能招致讥讽",
+      "evidence": "本来可以另撰一篇，只因文章太短，所以顾不到“狐尾续貂之讥”，而即附在于此",
+      "confidence": 1.0
+    },
+    {
+      "id": "rh2",
+      "expression": "科学的大忠臣",
+      "device_type": "比喻",
+      "literal_target": "丁先生",
+      "function": "以比喻方式肯定丁先生对科学的忠诚，为后续批评做铺垫",
+      "evidence": "以科学的大忠臣的丁先生，其攻击玄学，未尝对于玄学下明切的定义，诚有可原，乃对于科学亦不能使我们满意，便不能不有些失望了",
+      "confidence": 1.0
+    }
+  ],
+  "uncertainties": [
+    {
+      "item": "梁先生的具体身份",
+      "reason": "文本中仅称'梁先生'，未给出全名，无法确定具体人物"
+    },
+    {
+      "item": "丁先生的具体身份",
+      "reason": "文本中仅称'丁先生'，未给出全名，无法确定具体人物"
+    },
+    {
+      "item": "皮尔逊的具体身份",
+      "reason": "文本中仅提及'皮尔逊'，未给出全名或具体著作，无法确定具体人物"
+    },
+    {
+      "item": "冯德的具体身份",
+      "reason": "文本中仅提及'冯德'，未给出全名，无法确定具体人物"
+    }
+  ]
+}

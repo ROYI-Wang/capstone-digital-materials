@@ -1,0 +1,483 @@
+{
+  "metadata": {
+    "schema_version": "lite_v3.0",
+    "article_id": "吴稚晖_001_b4c0e810",
+    "article_title": "一个新信仰的宇宙观及人生观",
+    "source_author": "吴稚晖",
+    "section_title": "讲到这里，第一层可先用不值钱的玄学理想，近乎游戏的，说道毛厕里的石头亦有感觉。苍蝇的感觉，非即人的感觉，他们感觉的状况，颇极差等。玫瑰树的感觉，非即苍蝇的感觉，他们的感觉，又极差等。如是焉能禁我来瞎说，毛厕里石头的感觉，非即玫瑰树的感觉，他们感觉的状况，也极差等。若欲强分高下，则石头有其寂然不动的感觉，真所谓无私心而合天理，所以贞固永寿。一块毛厕里的石头，可以阅几十代人而依然如故，见数百兆苍蝇存灭，看千万棵玫瑰树忽而芬芳，忽而萎枯。彼如曰毛厕里的石头为万物之灵，理由亦未尝不充足。彼另有彼之可感与彼之可觉，人与苍蝇及玫瑰树之感觉，皆非彼所需，故亦非彼所有，如是而已。然这种蹈空的掉枪花，我们中国古代的玄学鬼常用“孰为正色，孰为正味”等的论调，闹得甚嚣尘上。自然受过科学洗礼的玄学鬼，不肯就把这种空言，来作惟一的搪塞。所以说到第二层，他就要戴上科学面具，正正经经，板起了面孔，来断定毛厕里的石头亦有感觉。他不是说能够",
+    "section_author": "讲到这里，第一层可先用不值钱的玄学理想，近乎游戏的，说道毛厕里的石头亦有感觉。苍蝇的感觉，非即人的感觉，他们感觉的状况，颇极差等。玫瑰树的感觉，非即苍蝇的感觉，他们的感觉，又极差等。如是焉能禁我来瞎说，毛厕里石头的感觉，非即玫瑰树的感觉，他们感觉的状况，也极差等。若欲强分高下，则石头有其寂然不动的感觉，真所谓无私心而合天理，所以贞固永寿。一块毛厕里的石头，可以阅几十代人而依然如故，见数百兆苍蝇存灭，看千万棵玫瑰树忽而芬芳，忽而萎枯。彼如曰毛厕里的石头为万物之灵，理由亦未尝不充足。彼另有彼之可感与彼之可觉，人与苍蝇及玫瑰树之感觉，皆非彼所需，故亦非彼所有，如是而已。然这种蹈空的掉枪花，我们中国古代的玄学鬼常用“孰为正色，孰为正味”等的论调，闹得甚嚣尘上。自然受过科学洗礼的玄学鬼，不肯就把这种空言，来作惟一的搪塞。所以说到第二层，他就要戴上科学面具，正正经经，板起了面孔，来断定毛厕里的石头亦有感觉。他不是说能够",
+    "segment_id": "吴稚晖_001_b4c0e810_s0042",
+    "segment_index": 42,
+    "source_file": "E:\\1研究生\\岭南大学\\论文毕业\\capstone\\资料\\新的内容开始了\\local_upload\\input_吴稚晖\\吴稚晖.txt"
+  },
+  "entities": [
+    {
+      "id": "e1",
+      "name": "人",
+      "canonical_name": "人",
+      "type": "概念",
+      "evidence": "人是怎样有呢？最便当，就是请人来自己创造。",
+      "confidence": Locked
+    },
+    {
+      "id": "e2",
+      "name": "甲人",
+      "canonical_name": "甲人",
+      "type": "人物",
+      "evidence": "甲人创造乙人，乙人创造丙人，平均三十年创出一个。",
+      "confidence": Locked
+    },
+    {
+      "id": "e3",
+      "name": "乙人",
+      "canonical_name": "乙人",
+      "type": "人物",
+      "evidence": "甲人创造乙人，乙人创造丙人，平均三十年创出一个。",
+      "confidence": Locked
+    },
+    {
+      "id": "e4",
+      "name": "丙人",
+      "canonical_name": "丙人",
+      "type": "人物",
+      "evidence": "甲人创造乙人，乙人创造丙人，平均三十年创出一个。",
+      "confidence": Locked
+    },
+    {
+      "id": "e5",
+      "name": "我",
+      "canonical_name": "我",
+      "type": "人物",
+      "evidence": "从甲人创造到我，已有三百万年，我便是第三十万次的一个，那三十万次的老人，都已尽过创造义务，叫做生小孩。",
+      "confidence": Locked
+    },
+    {
+      "id": "e6",
+      "name": "超人",
+      "canonical_name": "超人",
+      "type": "概念",
+      "evidence": "从我创造到超人，还有三十万次。",
+      "confidence": Locked
+    },
+    {
+      "id": "e7",
+      "name": "生小孩",
+      "canonical_name": "生小孩",
+      "type": "概念",
+      "evidence": "那三十万次的老人，都已尽过创造义务，叫做生小孩。",
+      "confidence": Locked
+    },
+    {
+      "id": "e8",
+      "name": "存在六百万年的人",
+      "canonical_name": "存在六百万年的人",
+      "type": "概念",
+      "evidence": "生小孩便是存在六百万年的人。",
+      "confidence": Locked
+    },
+    {
+      "id": "e9",
+      "name": "宇宙",
+      "canonical_name": "宇宙",
+      "type": "概念",
+      "evidence": "在一百年里，宇宙也不是专门止要一个我。",
+      "confidence": Locked
+    },
+    {
+      "id": "e10",
+      "name": "非人的我",
+      "canonical_name": "非人的我",
+      "type": "概念",
+      "evidence": "又要更数不清的“非人的”我。",
+      "confidence": Locked
+    },
+    {
+      "id": "e11",
+      "name": "我他",
+      "canonical_name": "我他",
+      "type": "概念",
+      "evidence": "止有“我他”与“我伊”，及所生的小孩存在，无异反到漆黑一团，还那里还有什么宇宙。",
+      "confidence": Locked
+    },
+    {
+      "id": "e12",
+      "name": "我伊",
+      "canonical_name": "我伊",
+      "type": "概念",
+      "evidence": "止有“我他”与“我伊”，及所生的小孩存在，无异反到漆黑一团，还那里还有什么宇宙。",
+      "confidence": Locked
+    },
+    {
+      "id": "e13",
+      "name": "漆黑一团",
+      "canonical_name": "漆黑一团",
+      "type": "概念",
+      "evidence": "无异反到漆黑一团，还那里还有什么宇宙。",
+      "confidence": Locked
+    },
+    {
+      "id": "e14",
+      "name": "老祖爷爷——漆黑一团先生",
+      "canonical_name": "老祖爷爷——漆黑一团先生",
+      "type": "概念",
+      "evidence": "招呼朋友便是存在老祖爷爷——漆黑一团先生所爱变的宇宙。",
+      "confidence": Locked
+    },
+    {
+      "id": "e15",
+      "name": "万有",
+      "canonical_name": "万有",
+      "type": "概念",
+      "evidence": "就是存在万有。",
+      "confidence": Locked
+    },
+    {
+      "id": "e16",
+      "name": "食的性",
+      "canonical_name": "食的性",
+      "type": "概念",
+      "evidence": "食的性，色的性，恻隐、羞恶、辞让、是非的性，并没有什么善恶，无非漆黑一团先生变动绵延，要扮演万有的作用罢了。",
+      "confidence": Locked
+    },
+    {
+      "id": "e17",
+      "name": "色的性",
+      "canonical_name": "色的性",
+      "type": "概念",
+      "evidence": "食的性，色的性，恻隐、羞恶、辞让、是非的性，并没有什么善恶，无非漆黑一团先生变动绵延，要扮演万有的作用罢了。",
+      "confidence": Locked
+    },
+    {
+      "id": "e18",
+      "name": "恻隐、羞恶、辞让、是非的性",
+      "canonical_name": "恻隐、羞恶、辞让、是非的性",
+      "type": "概念",
+      "evidence": "食的性，色的性，恻隐、羞恶、辞让、是非的性，并没有什么善恶，无非漆黑一团先生变动绵延，要扮演万有的作用罢了。",
+      "confidence": Locked
+    },
+    {
+      "id": "e19",
+      "name": "善恶",
+      "canonical_name": "善恶",
+      "type": "概念",
+      "evidence": "食的性，色的性，恻隐、羞恶、辞让、是非的性，并没有什么善恶，无非漆黑一团先生变动绵延，要扮演万有的作用罢了。",
+      "confidence": Locked
+    },
+    {
+      "id": "e20",
+      "name": "漆黑一团先生",
+      "canonical_name": "漆黑一团先生",
+      "type": "概念",
+      "evidence": "无非漆黑一团先生变动绵延，要扮演万有的作用罢了。",
+      "confidence": Locked
+    }
+  ],
+  "claims": [
+    {
+      "id": "c1",
+      "speaker": "作者",
+      "claim": "人是怎样有呢？最便当，就是请人来自己创造。",
+      "target": "人",
+      "claim_type": "描述性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "人是怎样有呢？最便当，就是请人来自己创造。",
+      "confidence": Locked
+    },
+    {
+      "id": "c2",
+      "speaker": "作者",
+      "claim": "甲人创造乙人，乙人创造丙人，平均三十年创出一个。",
+      "target": "人",
+      "claim_type": "描述性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "甲人创造乙人，乙人创造丙人，平均三十年创出一个。",
+      "confidence": Locked
+    },
+    {
+      "id": "c3",
+      "speaker": "作者",
+      "claim": "从甲人创造到我，已有三百万年，我便是第三十万次的一个，那三十万次的老人，都已尽过创造义务，叫做生小孩。",
+      "target": "我",
+      "claim_type": "描述性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "从甲人创造到我，已有三百万年，我便是第三十万次的一个，那三十万次的老人，都已尽过创造义务，叫做生小孩。",
+      "confidence": Locked
+    },
+    {
+      "id": "c4",
+      "speaker": "作者",
+      "claim": "从我创造到超人，还有三十万次。",
+      "target": "超人",
+      "claim_type": "描述性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "从我创造到超人，还有三十万次。",
+      "confidence": Locked
+    },
+    {
+      "id": "c5",
+      "speaker": "作者",
+      "claim": "生小孩便是存在六百万年的人。",
+      "target": "生小孩",
+      "claim_type": "定义性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "生小孩便是存在六百万年的人。",
+      "confidence": Locked
+    },
+    {
+      "id": "c6",
+      "speaker": "作者",
+      "claim": "在一百年里，宇宙也不是专门止要一个我。",
+      "target": "宇宙",
+      "claim_type": "描述性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "在一百年里，宇宙也不是专门止要一个我。",
+      "confidence": Locked
+    },
+    {
+      "id": "c7",
+      "speaker": "作者",
+      "claim": "在六百万年里，宇宙又不是专门止要我来生小孩，或止要我生的小孩来生小孩。",
+      "target": "宇宙",
+      "claim_type": "描述性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "在六百万年里，宇宙又不是专门止要我来生小孩，或止要我生的小孩来生小孩。",
+      "confidence": Locked
+    },
+    {
+      "id": "c8",
+      "speaker": "作者",
+      "claim": "同一百年里，应要数不清的我。又要更数不清的“非人的”我。",
+      "target": "我",
+      "claim_type": "描述性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "同一百年里，应要数不清的我。又要更数不清的“非人的”我。",
+      "confidence": Locked
+    },
+    {
+      "id": "c9",
+      "speaker": "作者",
+      "claim": "同六百万年里，数不清的我，都要生小孩。数不清的“非人的”我，也都要生小孩。",
+      "target": "我",
+      "claim_type": "描述性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "同六百万年里，数不清的我，都要生小孩。数不清的“非人的”我，也都要生小孩。",
+      "confidence": Locked
+    },
+    {
+      "id": "c10",
+      "speaker": "作者",
+      "claim": "倘若我竟不讲理性，简直止好有我，止好让我生小孩，那就盘天际地，一物无有，止有“我他”与“我伊”，及所生的小孩存在，无异反到漆黑一团，还那里还有什么宇宙。",
+      "target": "我",
+      "claim_type": "假设情境",
+      "claim_status": "作者推论",
+      "polarity": "negative",
+      "evidence": "倘若我竟不讲理性，简直止好有我，止好让我生小孩，那就盘天际地，一物无有，止有“我他”与“我伊”，及所生的小孩存在，无异反到漆黑一团，还那里还有什么宇宙。",
+      "confidence": Locked
+    },
+    {
+      "id": "c11",
+      "speaker": "作者",
+      "claim": "招呼朋友便是存在老祖爷爷——漆黑一团先生所爱变的宇宙。换言之，就是存在万有。",
+      "target": "招呼朋友",
+      "claim_type": "定义性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "招呼朋友便是存在老祖爷爷——漆黑一团先生所爱变的宇宙。换言之，就是存在万有。",
+      "confidence": Locked
+    },
+    {
+      "id": "c12",
+      "speaker": "作者",
+      "claim": "食的性，色的性，恻隐、羞恶、辞让、是非的性，并没有什么善恶，无非漆黑一团先生变动绵延，要扮演万有的作用罢了。",
+      "target": "食的性",
+      "claim_type": "描述性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "食的性，色的性，恻隐、羞恶、辞让、是非的性，并没有什么善恶，无非漆黑一团先生变动绵延，要扮演万有的作用罢了。",
+      "confidence": Locked
+    }
+  ],
+  "relations": [
+    {
+      "id": "r1",
+      "head": "甲人",
+      "head_type": "人物",
+      "relation": "导致",
+      "relation_subtype": "不适用",
+      "tail": "乙人",
+      "tail_type": "人物",
+      "polarity": "neutral",
+      "stance_score": 0.0,
+      "intensity": 0.0,
+      "evidence": "甲人创造乙人，乙人创造丙人，平均三十年创出一个。",
+      "confidence": Locked
+    },
+    {
+      "id": "r2",
+      "head": "乙人",
+      "head_type": "人物",
+      "relation": "导致",
+      "relation_subtype": "不适用",
+      "tail": "丙人",
+      "tail_type": "人物",
+      "polarity": "neutral",
+      "stance_score": 0.0,
+      "intensity": 0.0,
+      "evidence": "甲人创造乙人，乙人创造丙人，平均三十年创出一个。",
+      "confidence": Locked
+    },
+    {
+      "id": "r3",
+      "head": "生小孩",
+      "head_type": "概念",
+      "relation": "定义",
+      "relation_subtype": "概念澄清",
+      "tail": "存在六百万年的人",
+      "tail_type": "概念",
+      "polarity": "neutral",
+      "stance_score": 0.0,
+      "intensity": 0.0,
+      "evidence": "生小孩便是存在六百万年的人。",
+      "confidence": Locked
+    },
+    {
+      "id": "r4",
+      "head": "招呼朋友",
+      "head_type": "概念",
+      "relation": "定义",
+      "relation_subtype": "概念澄清",
+      "tail": "存在老祖爷爷——漆黑一团先生所爱变的宇宙",
+      "tail_type": "概念",
+      "polarity": "neutral",
+      "stance_score": 0.0,
+      "intensity": 0.0,
+      "evidence": "招呼朋友便是存在老祖爷爷——漆黑一团先生所爱变的宇宙。",
+      "confidence": Locked
+    },
+    {
+      "id": "r5",
+      "head": "招呼朋友",
+      "head_type": "概念",
+      "relation": "定义",
+      "relation_subtype": "概念澄清",
+      "tail": "存在万有",
+      "tail_type": "概念",
+      "polarity": "neutral",
+      "stance_score": 0.0,
+      "intensity": 0.0,
+      "evidence": "换言之，就是存在万有。",
+      "confidence": Locked
+    },
+    {
+      "id": "r6",
+      "head": "食的性",
+      "head_type": "概念",
+      "relation": "属于",
+      "relation_subtype": "不适用",
+      "tail": "漆黑一团先生变动绵延，要扮演万有的作用",
+      "tail_type": "概念",
+      "polarity": "neutral",
+      "stance_score": 0.0,
+      "intensity": 0.0,
+      "evidence": "食的性，色的性，恻隐、羞恶、辞让、是非的性，并没有什么善恶，无非漆黑一团先生变动绵延，要扮演万有的作用罢了。",
+      "confidence": Locked
+    },
+    {
+      "id": "r7",
+      "head": "色的性",
+      "head_type": "概念",
+      "relation": "属于",
+      "relation_subtype": "不适用",
+      "tail": "漆黑一团先生变动绵延，要扮演万有的作用",
+      "tail_type": "概念",
+      "polarity": "neutral",
+      "stance_score": 0.0,
+      "intensity": 0.0,
+      "evidence": "食的性，色的性，恻隐、羞恶、辞让、是非的性，并没有什么善恶，无非漆黑一团先生变动绵延，要扮演万有的作用罢了。",
+      "confidence": Locked
+    },
+    {
+      "id": "r8",
+      "head": "恻隐、羞恶、辞让、是非的性",
+      "head_type": "概念",
+      "relation": "属于",
+      "relation_subtype": "不适用",
+      "tail": "漆黑一团先生变动绵延，要扮演万有的作用",
+      "tail_type": "概念",
+      "polarity": "neutral",
+      "stance_score": 0.0,
+      "intensity": 0.0,
+      "evidence": "食的性，色的性，恻隐、羞恶、辞让、是非的性，并没有什么善恶，无非漆黑一团先生变动绵延，要扮演万有的作用罢了。",
+      "confidence": Locked
+    }
+  ],
+  "definitions": [
+    {
+      "id": "def1",
+      "term": "生小孩",
+      "definition": "存在六百万年的人",
+      "evidence": "生小孩便是存在六百万年的人。",
+      "confidence": Locked
+    },
+    {
+      "id": "def2",
+      "term": "招呼朋友",
+      "definition": "存在老祖爷爷——漆黑一团先生所爱变的宇宙，即存在万有",
+      "evidence": "招呼朋友便是存在老祖爷爷——漆黑一团先生所爱变的宇宙。换言之，就是存在万有。",
+      "confidence": Locked
+    }
+  ],
+  "citations": [],
+  "rhetorical_devices": [
+    {
+      "id": "rh1",
+      "expression": "漆黑一团",
+      "device_type": "比喻",
+      "literal_target": "宇宙的原始混沌状态",
+      "function": "形象化描述宇宙的原始状态",
+      "evidence": "无异反到漆黑一团，还那里还有什么宇宙。",
+      "confidence": Locked
+    },
+    {
+      "id": "rh2",
+      "expression": "老祖爷爷——漆黑一团先生",
+      "device_type": "比喻",
+      "literal_target": "宇宙的原始动力或本体",
+      "function": "拟人化比喻宇宙的创造力量",
+      "evidence": "招呼朋友便是存在老祖爷爷——漆黑一团先生所爱变的宇宙。",
+      "confidence": Locked
+    },
+    {
+      "id": "rh3",
+      "expression": "漆黑一团先生变动绵延，要扮演万有的作用",
+      "device_type": "比喻",
+      "literal_target": "宇宙的演化过程",
+      "function": "用戏剧表演比喻宇宙的演化",
+      "evidence": "无非漆黑一团先生变动绵延，要扮演万有的作用罢了。",
+      "confidence": Locked
+    }
+  ],
+  "uncertainties": [
+    {
+      "item": "文本中“兆兆兆的六百万年里有一个六百万年”含义不明确，无法确定具体数值或指代。",
+      "reason": "原文未解释“兆兆兆”的具体含义，且与后文“六百万年”的关系不清晰。"
+    },
+    {
+      "item": "“（或从国家起义，名曰造百姓，一笑。）”中的“国家起义”和“造百姓”含义模糊，可能为戏谑或特定语境用语。",
+      "reason": "原文未提供足够上下文解释其确切含义。"
+    },
+    {
+      "item": "“（三）在一百年里，宇宙也不是专门止要一个我。”中的“（三）”可能为编号或标记，但上下文未说明其指代。",
+      "reason": "原文未解释“（三）”的含义。"
+    }
+  ]
+}

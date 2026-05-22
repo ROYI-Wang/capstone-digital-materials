@@ -1,0 +1,13 @@
+SP-C 全部22位作者 — 度中心性 Top 10
+总节点: 1,914  总边: 2,044
+
+ 1. 张君劢                   (人物        )  degree=  161  centrality=0.0842
+ 2. 科学                    (概念        )  degree=  138  centrality=0.0721
+ 3. 丁文江                   (人物        )  degree=  137  centrality=0.0716
+ 4. 作者                    (人物        )  degree=   90  centrality=0.0470
+ 5. 人生观                   (著作        )  degree=   78  centrality=0.0408
+ 6. 唐钺                    (人物        )  degree=   55  centrality=0.0288
+ 7. 吴稚晖                   (人物        )  degree=   52  centrality=0.0272
+ 8. 王星拱                   (人物        )  degree=   43  centrality=0.0225
+ 9. 林宰平                   (人物        )  degree=   39  centrality=0.0204
+10. 范寿康                   (人物        )  degree=   38  centrality=0.0199

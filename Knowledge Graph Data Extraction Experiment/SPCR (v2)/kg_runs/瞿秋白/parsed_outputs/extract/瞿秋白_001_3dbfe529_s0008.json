@@ -1,0 +1,250 @@
+{
+  "metadata": {
+    "schema_version": "lite_v3.0",
+    "article_id": "瞿秋白_001_3dbfe529",
+    "article_title": "实验主义与革命哲学",
+    "source_author": "瞿秋白",
+    "section_title": "",
+    "section_author": "",
+    "segment_id": "瞿秋白_001_3dbfe529_s0008",
+    "segment_index": 8,
+    "source_file": "E:\\1研究生\\岭南大学\\论文毕业\\capstone\\资料\\新的内容开始了\\local_upload\\input_瞿秋白\\瞿秋白.txt"
+  },
+  "entities": [
+    {
+      "id": "e1",
+      "name": "实验主义",
+      "canonical_name": "实验主义",
+      "type": "主义/学说/理论",
+      "evidence": "实验主义既然只承认有益的方是真理",
+      "confidence": 1.0
+    },
+    {
+      "id": "e2",
+      "name": "真理",
+      "canonical_name": "真理",
+      "type": "概念",
+      "evidence": "某种意见是真理，并不因为他对于我们有益；这种意见对于我们有益，却因为他是真理",
+      "confidence": 1.0
+    },
+    {
+      "id": "e3",
+      "name": "客观的现实世界",
+      "canonical_name": "客观的现实世界",
+      "type": "概念",
+      "evidence": "客观的现实世界确是变易不息的",
+      "confidence": 1.0
+    },
+    {
+      "id": "e4",
+      "name": "科学的真理",
+      "canonical_name": "科学的真理",
+      "type": "概念",
+      "evidence": "我们得了科学的真理、客观世界的定律之后",
+      "confidence": 1.0
+    },
+    {
+      "id": "e5",
+      "name": "客观世界的定律",
+      "canonical_name": "客观世界的定律",
+      "type": "概念",
+      "evidence": "我们得了科学的真理、客观世界的定律之后",
+      "confidence": 1.0
+    },
+    {
+      "id": "e6",
+      "name": "妥协主义",
+      "canonical_name": "妥协主义",
+      "type": "主义/学说/理论",
+      "evidence": "实验主义既然只承认有益的方是真理，他便能暗示社会意识以近视的浅见的妥协主义",
+      "confidence": 1.0
+    },
+    {
+      "id": "e7",
+      "name": "革命的哲学",
+      "canonical_name": "革命的哲学",
+      "type": "概念",
+      "evidence": "他决不是革命的哲学",
+      "confidence": 1.0
+    }
+  ],
+  "claims": [
+    {
+      "id": "c1",
+      "speaker": "瞿秋白",
+      "claim": "我们的观念反映客观的现实很正确的时候，我们的行动便不致于和现实相冲突，不致于“碰顶子”。",
+      "target": "",
+      "claim_type": "因果主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "我们的观念反映客观的现实很正确的时候，我们的行动便不致于和现实相冲突，不致于“碰顶子”。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c2",
+      "speaker": "瞿秋白",
+      "claim": "某种意见是真理，并不因为他对于我们有益；这种意见对于我们有益，却因为他是真理。",
+      "target": "",
+      "claim_type": "定义性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "某种意见是真理，并不因为他对于我们有益；这种意见对于我们有益，却因为他是真理。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c3",
+      "speaker": "瞿秋白",
+      "claim": "不能像实验主义那样，只能暂时有益于我们的算真理。",
+      "target": "实验主义",
+      "claim_type": "反驳性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "不能像实验主义那样，只能暂时有益于我们的算真理。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c4",
+      "speaker": "瞿秋白",
+      "claim": "我们得了科学的真理、客观世界的定律之后，才能彻底的改造社会，不能安于琐屑的应付。",
+      "target": "",
+      "claim_type": "因果主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "我们得了科学的真理、客观世界的定律之后，才能彻底的改造社会，不能安于琐屑的应付。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c5",
+      "speaker": "瞿秋白",
+      "claim": "实验主义既然只承认有益的方是真理，他便能暗示社会意识以近视的浅见的妥协主义，他决不是革命的哲学。",
+      "target": "实验主义",
+      "claim_type": "评价性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "实验主义既然只承认有益的方是真理，他便能暗示社会意识以近视的浅见的妥协主义，他决不是革命的哲学。",
+      "confidence": 1.0
+    }
+  ],
+  "relations": [
+    {
+      "id": "r1",
+      "head": "我们的观念反映客观的现实很正确的时候",
+      "head_type": "观点",
+      "relation": "导致",
+      "relation_subtype": "不适用",
+      "tail": "我们的行动便不致于和现实相冲突",
+      "tail_type": "观点",
+      "polarity": "positive",
+      "stance_score": 1.0,
+      "intensity": 0.5,
+      "evidence": "我们的观念反映客观的现实很正确的时候，我们的行动便不致于和现实相冲突，不致于“碰顶子”。",
+      "confidence": 1.0
+    },
+    {
+      "id": "r2",
+      "head": "某种意见是真理",
+      "head_type": "观点",
+      "relation": "归因于",
+      "relation_subtype": "不适用",
+      "tail": "他切合于客观的现实世界",
+      "tail_type": "观点",
+      "polarity": "positive",
+      "stance_score": 1.0,
+      "intensity": 0.5,
+      "evidence": "某种意见是真理，并不因为他对于我们有益；这种意见对于我们有益，却因为他是真理。换句话说，就是因为他切合于客观的现实世界。",
+      "confidence": 1.0
+    },
+    {
+      "id": "r3",
+      "head": "瞿秋白",
+      "head_type": "人物",
+      "relation": "反对",
+      "relation_subtype": "逻辑反驳",
+      "tail": "实验主义",
+      "tail_type": "主义/学说/理论",
+      "polarity": "negative",
+      "stance_score": -1.0,
+      "intensity": 0.8,
+      "evidence": "不能像实验主义那样，只能暂时有益于我们的算真理。",
+      "confidence": 1.0
+    },
+    {
+      "id": "r4",
+      "head": "我们得了科学的真理、客观世界的定律之后",
+      "head_type": "观点",
+      "relation": "导致",
+      "relation_subtype": "不适用",
+      "tail": "才能彻底的改造社会",
+      "tail_type": "观点",
+      "polarity": "positive",
+      "stance_score": 1.0,
+      "intensity": 0.5,
+      "evidence": "我们得了科学的真理、客观世界的定律之后，才能彻底的改造社会，不能安于琐屑的应付。",
+      "confidence": 1.0
+    },
+    {
+      "id": "r5",
+      "head": "实验主义既然只承认有益的方是真理",
+      "head_type": "观点",
+      "relation": "导致",
+      "relation_subtype": "不适用",
+      "tail": "他便能暗示社会意识以近视的浅见的妥协主义",
+      "tail_type": "观点",
+      "polarity": "negative",
+      "stance_score": -1.0,
+      "intensity": 0.8,
+      "evidence": "实验主义既然只承认有益的方是真理，他便能暗示社会意识以近视的浅见的妥协主义，他决不是革命的哲学。",
+      "confidence": 1.0
+    }
+  ],
+  "definitions": [
+    {
+      "id": "def1",
+      "term": "真理",
+      "definition": "真理是切合于客观的现实世界的意见，并非因为有益而成为真理。",
+      "evidence": "某种意见是真理，并不因为他对于我们有益；这种意见对于我们有益，却因为他是真理。换句话说，就是因为他切合于客观的现实世界。",
+      "confidence": 1.0
+    }
+  ],
+  "citations": [],
+  "rhetorical_devices": [
+    {
+      "id": "rh1",
+      "expression": "碰顶子",
+      "device_type": "比喻",
+      "literal_target": "行动与现实的冲突",
+      "function": "形象化地说明行动与客观现实相冲突的后果",
+      "evidence": "我们的行动便不致于和现实相冲突，不致于“碰顶子”。",
+      "confidence": 1.0
+    },
+    {
+      "id": "rh2",
+      "expression": "近视的浅见的妥协主义",
+      "device_type": "标签化",
+      "literal_target": "实验主义暗示的社会意识",
+      "function": "贬低实验主义，将其定性为短视和妥协",
+      "evidence": "实验主义既然只承认有益的方是真理，他便能暗示社会意识以近视的浅见的妥协主义",
+      "confidence": 1.0
+    }
+  ],
+  "uncertainties": [],
+  "_meta": {
+    "status": "success",
+    "stage": "extract",
+    "model": "deepseek-ai/DeepSeek-V4-Flash",
+    "base_url": "https://api.siliconflow.cn/v1",
+    "prompt_version": "v2.0",
+    "schema_version": "lite_v3.0",
+    "segment_id": "瞿秋白_001_3dbfe529_s0008",
+    "article_id": "瞿秋白_001_3dbfe529",
+    "char_start": 4083,
+    "char_end": 4381,
+    "raw_path": "E:\\1研究生\\岭南大学\\论文毕业\\capstone\\资料\\新的内容开始了\\local_upload\\kg_runs_v2\\瞿秋白\\raw_outputs\\extract\\瞿秋白_001_3dbfe529_s0008.txt",
+    "parsed_at": "2026-05-21T21:11:54",
+    "started_at": "2026-05-21T21:10:30",
+    "elapsed_seconds": 84.653,
+    "strict_evidence_check": true,
+    "drop_unsupported_evidence": true,
+    "request_timeout_seconds": 180
+  }
+}

@@ -1,0 +1,369 @@
+{
+  "metadata": {
+    "schema_version": "lite_v2.0",
+    "article_id": "王星拱_000_4d6fdc04",
+    "article_title": "科学与人生观",
+    "source_author": "王星拱",
+    "section_title": "",
+    "section_author": "",
+    "segment_id": "王星拱_000_4d6fdc04_s0000",
+    "segment_index": 0,
+    "source_file": "E:\\1研究生\\岭南大学\\论文毕业\\capstone\\资料\\新的内容开始了\\local_upload\\input_w1\\王星拱.txt"
+  },
+  "entities": [
+    {
+      "id": "e1",
+      "name": "张君劢",
+      "canonical_name": "张君劢",
+      "type": "人物",
+      "evidence": "张君劢先生和丁在君先生为了这个问题，打了一个月的恶战",
+      "confidence": 1.0
+    },
+    {
+      "id": "e2",
+      "name": "丁在君",
+      "canonical_name": "丁文江",
+      "type": "人物",
+      "evidence": "张君劢先生和丁在君先生为了这个问题，打了一个月的恶战",
+      "confidence": 1.0
+    },
+    {
+      "id": "e3",
+      "name": "傅佩青",
+      "canonical_name": "傅佩青",
+      "type": "人物",
+      "evidence": "今天因为傅佩青先生找我来讲演",
+      "confidence": 1.0
+    },
+    {
+      "id": "e4",
+      "name": "张东荪",
+      "canonical_name": "张东荪",
+      "type": "人物",
+      "evidence": "见张东荪先生的《劳而无功》论文",
+      "confidence": 1.0
+    },
+    {
+      "id": "e5",
+      "name": "科学",
+      "canonical_name": "科学",
+      "type": "概念",
+      "evidence": "这个问题中有两个名词，一是“科学”，二是“人生观”",
+      "confidence": 1.0
+    },
+    {
+      "id": "e6",
+      "name": "人生观",
+      "canonical_name": "人生观",
+      "type": "概念",
+      "evidence": "这个问题中有两个名词，一是“科学”，二是“人生观”",
+      "confidence": 1.0
+    },
+    {
+      "id": "e7",
+      "name": "科学方法",
+      "canonical_name": "科学方法",
+      "type": "方法",
+      "evidence": "广义的科学是：凡由科学方法制造出来的，都是科学",
+      "confidence": 1.0
+    },
+    {
+      "id": "e8",
+      "name": "《劳而无功》",
+      "canonical_name": "劳而无功",
+      "type": "著作",
+      "evidence": "见张东荪先生的《劳而无功》论文",
+      "confidence": 1.0
+    },
+    {
+      "id": "e9",
+      "name": "形式的逻辑",
+      "canonical_name": "形式的逻辑",
+      "type": "概念",
+      "evidence": "科学方法是形式的逻辑，这个形式的逻辑，宗教中也用它，小说中也用它",
+      "confidence": 1.0
+    },
+    {
+      "id": "e10",
+      "name": "宗教",
+      "canonical_name": "宗教",
+      "type": "概念",
+      "evidence": "宗教中也用它，小说中也用它，难道宗教小说都可以叫做科学吗",
+      "confidence": 1.0
+    },
+    {
+      "id": "e11",
+      "name": "小说",
+      "canonical_name": "小说",
+      "type": "概念",
+      "evidence": "宗教中也用它，小说中也用它，难道宗教小说都可以叫做科学吗",
+      "confidence": 1.0
+    }
+  ],
+  "claims": [
+    {
+      "id": "c1",
+      "speaker": "王星拱",
+      "claim": "张君劢和丁在君关于科学与人生观的争论，打了一个月，没有决定的结果，或者纵令打到无限年也不会有决定的结果",
+      "target": "张君劢和丁在君的争论",
+      "claim_type": "历史解释",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "张君劢先生和丁在君先生为了这个问题，打了一个月的恶战，并且引起许多人加入战团，于是战线因之而延长，战地亦因之而扩大，所争论的问题，愈弄愈复杂了。一直到了旧历的端阳佳节，还没有打得一个决定的结果出来，或者纵令打到无限年的端阳佳节，也不能有一个决定的结果出来",
+      "confidence": 1.0
+    },
+    {
+      "id": "c2",
+      "speaker": "王星拱",
+      "claim": "我早已想加入拥护科学的战团，但因授课忙碌没有做到",
+      "target": "王星拱自己",
+      "claim_type": "论战策略批评",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "我早已也想摇旗呐喊，加入拥护科学的战团；但是因授课过于忙碌，没有做到这一层",
+      "confidence": 1.0
+    },
+    {
+      "id": "c3",
+      "speaker": "王星拱",
+      "claim": "我这次加入战团，希望可以比较中国的对德宣战，处理中德邦交之局部问题",
+      "target": "王星拱的加入战团",
+      "claim_type": "论战策略批评",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "我这一次的加入战团，固然不敢比较美国的对德宣战，把德国打到落花流水，然而却希望可以比较中国的对德宣战，仅仅发出一篇宣言，而能处理中德邦交之局部问题",
+      "confidence": 1.0
+    },
+    {
+      "id": "c4",
+      "speaker": "王星拱",
+      "claim": "先把科学和人生观两个名词的意义确定下来，然后讨论它们有无关系及其关系如何",
+      "target": "科学和人生观",
+      "claim_type": "方法论主张",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "我们先把这两个名词的意义确定下来，然后来讨论它俩有无关系及其关系若何",
+      "confidence": 1.0
+    },
+    {
+      "id": "c5",
+      "speaker": "王星拱",
+      "claim": "广义的科学是：凡由科学方法制造出来的，都是科学",
+      "target": "科学",
+      "claim_type": "定义性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "广义的科学是：凡由科学方法制造出来的，都是科学",
+      "confidence": 1.0
+    },
+    {
+      "id": "c6",
+      "speaker": "一些人不承认",
+      "claim": "科学之所以成为科学者，以其内容，非以其方法也",
+      "target": "科学",
+      "claim_type": "定义性主张",
+      "claim_status": "间接转述",
+      "polarity": "negative",
+      "evidence": "这句话有一些人不承认。他们说：“科学之所以成为科学者，以其内容，非以其方法也。”",
+      "confidence": 1.0
+    },
+    {
+      "id": "c7",
+      "speaker": "一些人不承认",
+      "claim": "科学方法是形式的逻辑，宗教和小说中也用它，难道宗教小说都可以叫做科学吗",
+      "target": "科学方法",
+      "claim_type": "反驳性主张",
+      "claim_status": "作者讽刺性归纳",
+      "polarity": "negative",
+      "evidence": "他们的意思似乎是：科学方法是形式的逻辑，这个形式的逻辑，宗教中也用它，小说中也用它，难道宗教小说都可以叫做科学吗",
+      "confidence": 0.9
+    },
+    {
+      "id": "c8",
+      "speaker": "王星拱",
+      "claim": "科学方法不是形式的逻辑，其中有许多精密严毅的手续",
+      "target": "科学方法",
+      "claim_type": "定义性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "这实在是误解科学方法。科学方法不是形式的逻辑，其中有许多精密严毅的手续",
+      "confidence": 1.0
+    },
+    {
+      "id": "c9",
+      "speaker": "王星拱",
+      "claim": "所谓精密者，是层层不漏空；所谓严毅者，是不以感情而定去取",
+      "target": "科学方法",
+      "claim_type": "定义性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "所谓精密者，是层层不漏空；所谓严毅者，是不以感情而定去取",
+      "confidence": 1.0
+    },
+    {
+      "id": "c10",
+      "speaker": "王星拱",
+      "claim": "宗教家小说家实在没有过这个方法",
+      "target": "宗教家小说家",
+      "claim_type": "知识论主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "宗教家小说家实在没有过这个方法",
+      "confidence": 1.0
+    }
+  ],
+  "relations": [
+    {
+      "id": "r1",
+      "head": "张君劢",
+      "head_type": "人物",
+      "relation": "相关",
+      "tail": "丁在君",
+      "tail_type": "人物",
+      "polarity": "negative",
+      "evidence": "张君劢先生和丁在君先生为了这个问题，打了一个月的恶战",
+      "confidence": 1.0
+    },
+    {
+      "id": "r2",
+      "head": "王星拱",
+      "head_type": "人物",
+      "relation": "支持",
+      "tail": "科学",
+      "tail_type": "概念",
+      "polarity": "positive",
+      "evidence": "我早已也想摇旗呐喊，加入拥护科学的战团",
+      "confidence": 1.0
+    },
+    {
+      "id": "r3",
+      "head": "王星拱",
+      "head_type": "人物",
+      "relation": "回应",
+      "tail": "傅佩青",
+      "tail_type": "人物",
+      "polarity": "neutral",
+      "evidence": "今天因为傅佩青先生找我来讲演",
+      "confidence": 1.0
+    },
+    {
+      "id": "r4",
+      "head": "王星拱",
+      "head_type": "人物",
+      "relation": "定义",
+      "tail": "科学",
+      "tail_type": "概念",
+      "polarity": "neutral",
+      "evidence": "广义的科学是：凡由科学方法制造出来的，都是科学",
+      "confidence": 1.0
+    },
+    {
+      "id": "r5",
+      "head": "一些人不承认",
+      "head_type": "阵营/群体",
+      "relation": "反对",
+      "tail": "王星拱",
+      "tail_type": "人物",
+      "polarity": "negative",
+      "evidence": "这句话有一些人不承认。他们说：“科学之所以成为科学者，以其内容，非以其方法也。”",
+      "confidence": 0.9
+    },
+    {
+      "id": "r6",
+      "head": "王星拱",
+      "head_type": "人物",
+      "relation": "相关",
+      "tail": "张东荪",
+      "tail_type": "人物",
+      "polarity": "negative",
+      "evidence": "见张东荪先生的《劳而无功》论文",
+      "confidence": 1.0
+    },
+    {
+      "id": "r7",
+      "head": "王星拱",
+      "head_type": "人物",
+      "relation": "区分",
+      "tail": "科学方法",
+      "tail_type": "方法",
+      "polarity": "neutral",
+      "evidence": "科学方法不是形式的逻辑，其中有许多精密严毅的手续",
+      "confidence": 1.0
+    }
+  ],
+  "definitions": [
+    {
+      "id": "def1",
+      "term": "广义的科学",
+      "definition": "凡由科学方法制造出来的，都是科学",
+      "evidence": "广义的科学是：凡由科学方法制造出来的，都是科学",
+      "confidence": 1.0
+    },
+    {
+      "id": "def2",
+      "term": "科学方法",
+      "definition": "不是形式的逻辑，而是有许多精密严毅的手续，精密是层层不漏空，严毅是不以感情而定去取",
+      "evidence": "科学方法不是形式的逻辑，其中有许多精密严毅的手续。所谓精密者，是层层不漏空；所谓严毅者，是不以感情而定去取",
+      "confidence": 1.0
+    }
+  ],
+  "citations": [],
+  "rhetorical_devices": [
+    {
+      "id": "rh1",
+      "expression": "摇旗呐喊",
+      "device_type": "比喻",
+      "literal_target": "加入论战并支持科学",
+      "function": "形象化表达作者参与论战的意愿",
+      "evidence": "我早已也想摇旗呐喊，加入拥护科学的战团",
+      "confidence": 1.0
+    },
+    {
+      "id": "rh2",
+      "expression": "比较美国的对德宣战，把德国打到落花流水",
+      "device_type": "类比",
+      "literal_target": "作者加入论战的效果",
+      "function": "通过对比说明自己加入论战的效果有限",
+      "evidence": "我这一次的加入战团，固然不敢比较美国的对德宣战，把德国打到落花流水，然而却希望可以比较中国的对德宣战，仅仅发出一篇宣言，而能处理中德邦交之局部问题",
+      "confidence": 1.0
+    },
+    {
+      "id": "rh3",
+      "expression": "比较中国的对德宣战，仅仅发出一篇宣言",
+      "device_type": "类比",
+      "literal_target": "作者加入论战的方式",
+      "function": "自谦地说明自己只做局部贡献",
+      "evidence": "我这一次的加入战团，固然不敢比较美国的对德宣战，把德国打到落花流水，然而却希望可以比较中国的对德宣战，仅仅发出一篇宣言，而能处理中德邦交之局部问题",
+      "confidence": 1.0
+    }
+  ],
+  "uncertainties": [
+    {
+      "item": "一些人不承认中的“一些人”具体指谁",
+      "reason": "文本中只写了“有一些人不承认”，未明确具体人物，仅后文提到张东荪，但不确定是否就是同一批人"
+    },
+    {
+      "item": "张东荪的《劳而无功》论文中是否确实主张“科学方法是形式的逻辑”",
+      "reason": "文本中“他们的意思似乎是”表明这是王星拱对张东荪等人观点的归纳，可能不是直接引用"
+    }
+  ],
+  "_meta": {
+    "status": "success",
+    "stage": "extract",
+    "model": "deepseek-ai/DeepSeek-V4-Flash",
+    "base_url": "https://api.siliconflow.cn/v1",
+    "prompt_version": "extract_prompt_v2.0",
+    "schema_version": "lite_v2.0",
+    "segment_id": "王星拱_000_4d6fdc04_s0000",
+    "article_id": "王星拱_000_4d6fdc04",
+    "char_start": 0,
+    "char_end": 595,
+    "raw_path": "E:\\1研究生\\岭南大学\\论文毕业\\capstone\\资料\\新的内容开始了\\local_upload\\kg_runs\\王星拱\\raw_outputs\\extract\\王星拱_000_4d6fdc04_s0000.txt",
+    "parsed_at": "2026-05-19T21:34:12",
+    "started_at": "2026-05-19T21:32:14",
+    "elapsed_seconds": 117.792,
+    "strict_evidence_check": true,
+    "drop_unsupported_evidence": true,
+    "request_timeout_seconds": 180
+  }
+}

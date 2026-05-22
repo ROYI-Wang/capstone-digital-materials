@@ -1,0 +1,355 @@
+{
+  "metadata": {
+    "schema_version": "lite_v2.0",
+    "article_id": "唐钺_001_c4e36ba4",
+    "article_title": "“玄学与科学”论争的所给的暗示",
+    "source_author": "唐钺",
+    "section_title": "",
+    "section_author": "",
+    "segment_id": "唐钺_001_c4e36ba4_s0002",
+    "segment_index": 2,
+    "source_file": "E:\\1研究生\\岭南大学\\论文毕业\\capstone\\资料\\新的内容开始了\\local_upload\\input_w1\\唐钺.txt"
+  },
+  "entities": [
+    {
+      "id": "e1",
+      "name": "任公",
+      "canonical_name": "梁启超",
+      "type": "人物",
+      "evidence": "任公所定的国际法里头已经有了",
+      "confidence": 0.9
+    },
+    {
+      "id": "e2",
+      "name": "君劢",
+      "canonical_name": "张君劢",
+      "type": "人物",
+      "evidence": "君劢的讲演，范围已经广泛",
+      "confidence": 1.0
+    },
+    {
+      "id": "e3",
+      "name": "在君",
+      "canonical_name": "丁文江",
+      "type": "人物",
+      "evidence": "在君又把他稍微放大些",
+      "confidence": 1.0
+    },
+    {
+      "id": "e4",
+      "name": "林宰平",
+      "canonical_name": "林宰平",
+      "type": "人物",
+      "evidence": "又经林宰平先生分段辩论",
+      "confidence": 1.0
+    },
+    {
+      "id": "e5",
+      "name": "张东荪",
+      "canonical_name": "张东荪",
+      "type": "人物",
+      "evidence": "张东荪先生又提出三题来",
+      "confidence": 1.0
+    },
+    {
+      "id": "e6",
+      "name": "人生观与科学的异点",
+      "canonical_name": "人生观与科学的异点",
+      "type": "问题",
+      "evidence": "（一）人生观与科学的异点（这是君劢的原题）",
+      "confidence": 1.0
+    },
+    {
+      "id": "e7",
+      "name": "人生观与玄学的关系",
+      "canonical_name": "人生观与玄学的关系",
+      "type": "问题",
+      "evidence": "（二）人生观与玄学的关系",
+      "confidence": 1.0
+    },
+    {
+      "id": "e8",
+      "name": "科学的分类法",
+      "canonical_name": "科学的分类法",
+      "type": "问题",
+      "evidence": "（三）科学的分类法",
+      "confidence": 1.0
+    },
+    {
+      "id": "e9",
+      "name": "论理学（包概念推论等）与科学的关系",
+      "canonical_name": "论理学与科学的关系",
+      "type": "问题",
+      "evidence": "（四）论理学（包概念推论等）与科学的关系",
+      "confidence": 1.0
+    },
+    {
+      "id": "e10",
+      "name": "物和心",
+      "canonical_name": "物和心",
+      "type": "问题",
+      "evidence": "（五）物和心",
+      "confidence": 1.0
+    },
+    {
+      "id": "e11",
+      "name": "知识论",
+      "canonical_name": "知识论",
+      "type": "问题",
+      "evidence": "（六）知识论",
+      "confidence": 1.0
+    },
+    {
+      "id": "e12",
+      "name": "纯粹心理现象与因果律",
+      "canonical_name": "纯粹心理现象与因果律",
+      "type": "问题",
+      "evidence": "（七）纯粹心理现象与因果律",
+      "confidence": 1.0
+    },
+    {
+      "id": "e13",
+      "name": "科学教育和修养",
+      "canonical_name": "科学教育和修养",
+      "type": "问题",
+      "evidence": "（八）科学教育和修养",
+      "confidence": 1.0
+    },
+    {
+      "id": "e14",
+      "name": "人生观和情感的关系",
+      "canonical_name": "人生观和情感的关系",
+      "type": "问题",
+      "evidence": "（九）人生观和情感的关系",
+      "confidence": 1.0
+    },
+    {
+      "id": "e15",
+      "name": "情感和科学方法的关系",
+      "canonical_name": "情感和科学方法的关系",
+      "type": "问题",
+      "evidence": "（十）情感和科学方法的关系",
+      "confidence": 1.0
+    },
+    {
+      "id": "e16",
+      "name": "科学与哲学的分界",
+      "canonical_name": "科学与哲学的分界",
+      "type": "问题",
+      "evidence": "（十一）科学与哲学的分界",
+      "confidence": 1.0
+    },
+    {
+      "id": "e17",
+      "name": "科学的性质",
+      "canonical_name": "科学的性质",
+      "type": "问题",
+      "evidence": "（十二）科学的性质",
+      "confidence": 1.0
+    },
+    {
+      "id": "e18",
+      "name": "科学与考据学的关系",
+      "canonical_name": "科学与考据学的关系",
+      "type": "问题",
+      "evidence": "（十三）科学与考据学的关系",
+      "confidence": 1.0
+    }
+  ],
+  "claims": [
+    {
+      "id": "c1",
+      "speaker": "唐钺",
+      "claim": "辩论须紧切本题，不要旁涉枝叶",
+      "target": "论争者",
+      "claim_type": "方法论主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "辩论须紧切本题，不要旁涉枝叶",
+      "confidence": 1.0
+    },
+    {
+      "id": "c2",
+      "speaker": "唐钺",
+      "claim": "君劢的讲演，范围已经广泛。在君又把他稍微放大些。到了君劢的答复，竟放大了好几倍。此后越放越大了",
+      "target": "君劢、在君",
+      "claim_type": "论战策略批评",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "君劢的讲演，范围已经广泛。在君又把他稍微放大些。到了君劢的答复，竟放大了好几倍。此后越放越大了",
+      "confidence": 1.0
+    },
+    {
+      "id": "c3",
+      "speaker": "唐钺",
+      "claim": "林先生的分题，条理很好",
+      "target": "林宰平",
+      "claim_type": "价值评价",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "我觉得林先生的分题，条理很好",
+      "confidence": 1.0
+    },
+    {
+      "id": "c4",
+      "speaker": "唐钺",
+      "claim": "要想在一篇文中论完他们，或论完大部分，必定使读者“如堕五里雾中”，不知道论点所在",
+      "target": "论争者",
+      "claim_type": "论战策略批评",
+      "claim_status": "作者推论",
+      "polarity": "negative",
+      "evidence": "要想在一篇文中论完他们，或论完大部分，必定使读者“如堕五里雾中”，不知道论点所在",
+      "confidence": 1.0
+    },
+    {
+      "id": "c5",
+      "speaker": "唐钺",
+      "claim": "我希望以后的论争者极力缩小范围，因为问题的范围小，则讨论时不至发生误会；因之，真理容易发见",
+      "target": "论争者",
+      "claim_type": "方法论主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "我希望以后的论争者极力缩小范围，因为问题的范围小，则讨论时不至发生误会；因之，真理容易发见",
+      "confidence": 1.0
+    },
+    {
+      "id": "c6",
+      "speaker": "唐钺",
+      "claim": "话不要说得过火",
+      "target": "论争者",
+      "claim_type": "方法论主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "话不要说得过火",
+      "confidence": 1.0
+    }
+  ],
+  "relations": [
+    {
+      "id": "r1",
+      "head": "任公",
+      "head_type": "人物",
+      "relation": "定义",
+      "tail": "辩论须紧切本题，不要旁涉枝叶",
+      "tail_type": "方法论原则",
+      "polarity": "neutral",
+      "evidence": "任公所定的国际法里头已经有了，就是，辩论须紧切本题，不要旁涉枝叶",
+      "confidence": 1.0
+    },
+    {
+      "id": "r2",
+      "head": "唐钺",
+      "head_type": "人物",
+      "relation": "批评",
+      "tail": "君劢",
+      "tail_type": "人物",
+      "polarity": "negative",
+      "evidence": "君劢的讲演，范围已经广泛。在君又把他稍微放大些。到了君劢的答复，竟放大了好几倍。此后越放越大了",
+      "confidence": 1.0
+    },
+    {
+      "id": "r3",
+      "head": "唐钺",
+      "head_type": "人物",
+      "relation": "批评",
+      "tail": "在君",
+      "tail_type": "人物",
+      "polarity": "negative",
+      "evidence": "在君又把他稍微放大些",
+      "confidence": 1.0
+    },
+    {
+      "id": "r4",
+      "head": "唐钺",
+      "head_type": "人物",
+      "relation": "相关",
+      "tail": "林宰平",
+      "tail_type": "人物",
+      "polarity": "neutral",
+      "evidence": "又经林宰平先生分段辩论。我觉得林先生的分题，条理很好。我就把他分段的大概列下",
+      "confidence": 1.0
+    },
+    {
+      "id": "r5",
+      "head": "唐钺",
+      "head_type": "人物",
+      "relation": "相关",
+      "tail": "张东荪",
+      "tail_type": "人物",
+      "polarity": "neutral",
+      "evidence": "张东荪先生又提出三题来",
+      "confidence": 1.0
+    },
+    {
+      "id": "r6",
+      "head": "唐钺",
+      "head_type": "人物",
+      "relation": "相关",
+      "tail": "任公",
+      "tail_type": "人物",
+      "polarity": "neutral",
+      "evidence": "任公文中所提的问题，又稍微与上列的不同",
+      "confidence": 1.0
+    },
+    {
+      "id": "r7",
+      "head": "问题的范围小",
+      "head_type": "概念",
+      "relation": "导致",
+      "tail": "讨论时不至发生误会",
+      "tail_type": "概念",
+      "polarity": "positive",
+      "evidence": "因为问题的范围小，则讨论时不至发生误会；因之，真理容易发见",
+      "confidence": 1.0
+    },
+    {
+      "id": "r8",
+      "head": "讨论时不至发生误会",
+      "head_type": "概念",
+      "relation": "导致",
+      "tail": "真理容易发见",
+      "tail_type": "概念",
+      "polarity": "positive",
+      "evidence": "因为问题的范围小，则讨论时不至发生误会；因之，真理容易发见",
+      "confidence": 1.0
+    }
+  ],
+  "definitions": [],
+  "citations": [],
+  "rhetorical_devices": [
+    {
+      "id": "rh1",
+      "expression": "如堕五里雾中",
+      "device_type": "比喻",
+      "literal_target": "读者因问题范围过大而迷失论点",
+      "function": "形象化地批评论争范围过大导致读者困惑",
+      "evidence": "必定使读者“如堕五里雾中”，不知道论点所在",
+      "confidence": 1.0
+    }
+  ],
+  "uncertainties": [
+    {
+      "item": "任公所定的国际法",
+      "reason": "“国际法”是比喻说法，指辩论规则，但具体出处和内容未在文本中说明"
+    }
+  ],
+  "_meta": {
+    "status": "success",
+    "stage": "extract",
+    "model": "deepseek-ai/DeepSeek-V4-Flash",
+    "base_url": "https://api.siliconflow.cn/v1",
+    "prompt_version": "extract_prompt_v2.0",
+    "schema_version": "lite_v2.0",
+    "segment_id": "唐钺_001_c4e36ba4_s0002",
+    "article_id": "唐钺_001_c4e36ba4",
+    "char_start": 1039,
+    "char_end": 1630,
+    "raw_path": "E:\\1研究生\\岭南大学\\论文毕业\\capstone\\资料\\新的内容开始了\\local_upload\\kg_runs\\唐钺\\raw_outputs\\extract\\唐钺_001_c4e36ba4_s0002.txt",
+    "parsed_at": "2026-05-20T02:04:33",
+    "started_at": "2026-05-20T02:02:25",
+    "elapsed_seconds": 127.586,
+    "strict_evidence_check": true,
+    "drop_unsupported_evidence": true,
+    "request_timeout_seconds": 180
+  }
+}

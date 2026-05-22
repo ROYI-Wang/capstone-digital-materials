@@ -1,0 +1,358 @@
+{
+  "metadata": {
+    "schema_version": "lite_v3.0",
+    "article_id": "林宰平_000_acbbe922",
+    "article_title": "读丁在君先生的《玄学与科学》",
+    "source_author": "林宰平",
+    "section_title": "",
+    "section_author": "",
+    "segment_id": "林宰平_000_acbbe922_s0019",
+    "segment_index": 19,
+    "source_file": "E:\\1研究生\\岭南大学\\论文毕业\\capstone\\资料\\新的内容开始了\\local_upload\\input_林宰平\\林宰平.txt"
+  },
+  "entities": [
+    {
+      "id": "e1",
+      "name": "英国心理学界",
+      "canonical_name": "英国心理学界",
+      "type": "阵营/群体",
+      "evidence": "英国心理学界居然有“下意识学派”之发生",
+      "confidence": 1.0
+    },
+    {
+      "id": "e2",
+      "name": "下意识学派",
+      "canonical_name": "下意识学派",
+      "type": "阵营/群体",
+      "evidence": "英国心理学界居然有“下意识学派”之发生",
+      "confidence": 1.0
+    },
+    {
+      "id": "e3",
+      "name": "新南西学派",
+      "canonical_name": "新南西学派",
+      "type": "阵营/群体",
+      "evidence": "又如新南西学派（New Nancy School),对于下意识亦非常热心的予以研究",
+      "confidence": 1.0
+    },
+    {
+      "id": "e4",
+      "name": "斯底华特",
+      "canonical_name": "斯底华特",
+      "type": "人物",
+      "evidence": "如斯底华特、克路克斯都是有名之物理学者",
+      "confidence": 1.0
+    },
+    {
+      "id": "e5",
+      "name": "克路克斯",
+      "canonical_name": "克路克斯",
+      "type": "人物",
+      "evidence": "如斯底华特、克路克斯都是有名之物理学者",
+      "confidence": 1.0
+    },
+    {
+      "id": "e6",
+      "name": "哇利巴洛奇",
+      "canonical_name": "哇利巴洛奇",
+      "type": "人物",
+      "evidence": "哇利巴洛奇是个化学者",
+      "confidence": 1.0
+    },
+    {
+      "id": "e7",
+      "name": "黎休",
+      "canonical_name": "黎休",
+      "type": "人物",
+      "evidence": "黎休是个生理学者",
+      "confidence": 1.0
+    },
+    {
+      "id": "e8",
+      "name": "汤姆生",
+      "canonical_name": "汤姆生",
+      "type": "人物",
+      "evidence": "汤姆生在他《科学大纲》绪言上说",
+      "confidence": 1.0
+    },
+    {
+      "id": "e9",
+      "name": "《科学大纲》",
+      "canonical_name": "《科学大纲》",
+      "type": "著作",
+      "evidence": "汤姆生在他《科学大纲》绪言上说",
+      "confidence": 1.0
+    },
+    {
+      "id": "e10",
+      "name": "在君先生",
+      "canonical_name": "丁在君",
+      "type": "人物",
+      "evidence": "照在君先生的话",
+      "confidence": 1.0
+    },
+    {
+      "id": "e11",
+      "name": "神秘",
+      "canonical_name": "神秘",
+      "type": "概念",
+      "evidence": "只把“神秘”两字罪名",
+      "confidence": 1.0
+    },
+    {
+      "id": "e12",
+      "name": "疯人院",
+      "canonical_name": "疯人院",
+      "type": "比喻/类比",
+      "evidence": "永远把他监禁在疯人院里",
+      "confidence": 1.0
+    },
+    {
+      "id": "e13",
+      "name": "灵学的主张",
+      "canonical_name": "灵学的主张",
+      "type": "观点",
+      "evidence": "至于灵学的主张，虽然不免近于怪诞",
+      "confidence": 1.0
+    },
+    {
+      "id": "e14",
+      "name": "纯粹心理现象",
+      "canonical_name": "纯粹心理现象",
+      "type": "概念",
+      "evidence": "纯粹心理现象，是否在因果律之外",
+      "confidence": 1.0
+    },
+    {
+      "id": "e15",
+      "name": "因果律",
+      "canonical_name": "因果律",
+      "type": "概念",
+      "evidence": "纯粹心理现象，是否在因果律之外",
+      "confidence": 1.0
+    },
+    {
+      "id": "e16",
+      "name": "科学",
+      "canonical_name": "科学",
+      "type": "概念",
+      "evidence": "科学回答道，科学的材料，原都是心理的现象",
+      "confidence": 1.0
+    },
+    {
+      "id": "e17",
+      "name": "心理的现象",
+      "canonical_name": "心理的现象",
+      "type": "概念",
+      "evidence": "科学的材料，原都是心理的现象",
+      "confidence": 1.0
+    },
+    {
+      "id": "e18",
+      "name": "科学的范围",
+      "canonical_name": "科学的范围",
+      "type": "概念",
+      "evidence": "决逃不出科学的范围",
+      "confidence": 1.0
+    }
+  ],
+  "claims": [
+    {
+      "id": "c1",
+      "speaker": "林宰平",
+      "claim": "英国心理学界居然有“下意识学派”之发生；又如新南西学派（New Nancy School),对于下意识亦非常热心的予以研究。即心理学家以外之科学家，如斯底华特、克路克斯都是有名之物理学者，哇利巴洛奇是个化学者，黎休是个生理学者，他们都早已知道心的作用，在事实上决不止现在所已知的表面这种现象。",
+      "target": "",
+      "claim_type": "描述性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "英国心理学界居然有“下意识学派”之发生；又如新南西学派（New Nancy School),对于下意识亦非常热心的予以研究。即心理学家以外之科学家，如斯底华特、克路克斯都是有名之物理学者，哇利巴洛奇是个化学者，黎休是个生理学者，他们都早已知道心的作用，在事实上决不止现在所已知的表面这种现象。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c2",
+      "speaker": "林宰平",
+      "claim": "我以为像这种反常的——照在君先生的话——心理现象，正要科学家去研究他，然后许多无聊的错误或迷信，才可以逐渐减少消灭。",
+      "target": "在君先生",
+      "claim_type": "规范性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "我以为像这种反常的——照在君先生的话——心理现象，正要科学家去研究他，然后许多无聊的错误或迷信，才可以逐渐减少消灭。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c3",
+      "speaker": "林宰平",
+      "claim": "若是都照在君先生这样深闭固拒的办法，只把“神秘”两字罪名，永远把他监禁在疯人院里，似乎不是我们所应取的态度。",
+      "target": "在君先生",
+      "claim_type": "评价性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "若是都照在君先生这样深闭固拒的办法，只把“神秘”两字罪名，永远把他监禁在疯人院里，似乎不是我们所应取的态度。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c4",
+      "speaker": "林宰平",
+      "claim": "并且这种消极的办法，其结果只有把心理界弄成越萎缩越退化罢了。",
+      "target": "在君先生",
+      "claim_type": "因果主张",
+      "claim_status": "作者推论",
+      "polarity": "negative",
+      "evidence": "并且这种消极的办法，其结果只有把心理界弄成越萎缩越退化罢了。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c5",
+      "speaker": "林宰平",
+      "claim": "我想这决不是在君先生所愿意的。",
+      "target": "在君先生",
+      "claim_type": "评价性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "我想这决不是在君先生所愿意的。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c6",
+      "speaker": "汤姆生",
+      "claim": "生理学和心灵的研究之新接触，儿童和野蛮人行为之研究，以及心理分析家所用的新方法，皆吾人所当注意，因为这些都是现在新心理学所从出。至于灵学的主张，虽然不免近于怪诞，而在不成见的科学家看来，也未尝没有承认的价值。",
+      "target": "",
+      "claim_type": "描述性主张",
+      "claim_status": "直接引用",
+      "polarity": "positive",
+      "evidence": "汤姆生在他《科学大纲》绪言上说：“生理学和心灵的研究之新接触，儿童和野蛮人行为之研究，以及心理分析家所用的新方法，皆吾人所当注意，因为这些都是现在新心理学所从出。至于灵学的主张，虽然不免近于怪诞，而在不成见的科学家看来，也未尝没有承认的价值。”",
+      "confidence": 1.0
+    },
+    {
+      "id": "c7",
+      "speaker": "林宰平",
+      "claim": "至于汤姆生所持之“不存成见”的态度，实在比在君先生强得多，我们以为凡是真的科学家应当如此。",
+      "target": "汤姆生",
+      "claim_type": "评价性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "至于汤姆生所持之“不存成见”的态度，实在比在君先生强得多，我们以为凡是真的科学家应当如此。",
+      "confidence": 1.0
+    }
+  ],
+  "relations": [
+    {
+      "id": "r1",
+      "head": "林宰平",
+      "head_type": "人物",
+      "relation": "批评",
+      "relation_subtype": "概念混淆批评",
+      "tail": "在君先生",
+      "tail_type": "人物",
+      "polarity": "negative",
+      "stance_score": -0.8,
+      "intensity": 0.7,
+      "evidence": "若是都照在君先生这样深闭固拒的办法，只把“神秘”两字罪名，永远把他监禁在疯人院里，似乎不是我们所应取的态度。",
+      "confidence": 1.0
+    },
+    {
+      "id": "r2",
+      "head": "林宰平",
+      "head_type": "人物",
+      "relation": "相关",
+      "relation_subtype": "对比",
+      "tail": "汤姆生",
+      "tail_type": "人物",
+      "polarity": "positive",
+      "stance_score": 0.9,
+      "intensity": 0.8,
+      "evidence": "至于汤姆生所持之“不存成见”的态度，实在比在君先生强得多，我们以为凡是真的科学家应当如此。",
+      "confidence": 1.0
+    },
+    {
+      "id": "r3",
+      "head": "林宰平",
+      "head_type": "人物",
+      "relation": "相关",
+      "relation_subtype": "对比",
+      "tail": "在君先生",
+      "tail_type": "人物",
+      "polarity": "negative",
+      "stance_score": -0.7,
+      "intensity": 0.7,
+      "evidence": "至于汤姆生所持之“不存成见”的态度，实在比在君先生强得多，我们以为凡是真的科学家应当如此。",
+      "confidence": 1.0
+    },
+    {
+      "id": "r4",
+      "head": "林宰平",
+      "head_type": "人物",
+      "relation": "相关",
+      "relation_subtype": "援引权威支持",
+      "tail": "汤姆生",
+      "tail_type": "人物",
+      "polarity": "positive",
+      "stance_score": 0.8,
+      "intensity": 0.6,
+      "evidence": "汤姆生在他《科学大纲》绪言上说：“生理学和心灵的研究之新接触，儿童和野蛮人行为之研究，以及心理分析家所用的新方法，皆吾人所当注意，因为这些都是现在新心理学所从出。至于灵学的主张，虽然不免近于怪诞，而在不成见的科学家看来，也未尝没有承认的价值。”",
+      "confidence": 1.0
+    }
+  ],
+  "definitions": [],
+  "citations": [
+    {
+      "id": "cit1",
+      "citer": "林宰平",
+      "quoted_author": "汤姆生",
+      "quoted_work": "《科学大纲》",
+      "quoted_claim": "生理学和心灵的研究之新接触，儿童和野蛮人行为之研究，以及心理分析家所用的新方法，皆吾人所当注意，因为这些都是现在新心理学所从出。至于灵学的主张，虽然不免近于怪诞，而在不成见的科学家看来，也未尝没有承认的价值。",
+      "function": "援引权威支持",
+      "evidence": "汤姆生在他《科学大纲》绪言上说：“生理学和心灵的研究之新接触，儿童和野蛮人行为之研究，以及心理分析家所用的新方法，皆吾人所当注意，因为这些都是现在新心理学所从出。至于灵学的主张，虽然不免近于怪诞，而在不成见的科学家看来，也未尝没有承认的价值。”",
+      "confidence": 1.0
+    }
+  ],
+  "rhetorical_devices": [
+    {
+      "id": "rh1",
+      "expression": "只把“神秘”两字罪名，永远把他监禁在疯人院里",
+      "device_type": "比喻",
+      "literal_target": "在君先生对反常心理现象的态度",
+      "function": "批评在君先生将反常心理现象简单归为神秘并排斥",
+      "evidence": "只把“神秘”两字罪名，永远把他监禁在疯人院里",
+      "confidence": 1.0
+    },
+    {
+      "id": "rh2",
+      "expression": "把心理界弄成越萎缩越退化",
+      "device_type": "夸张",
+      "literal_target": "在君先生消极办法的后果",
+      "function": "强调消极办法的严重负面后果",
+      "evidence": "其结果只有把心理界弄成越萎缩越退化罢了",
+      "confidence": 1.0
+    }
+  ],
+  "uncertainties": [
+    {
+      "item": "在君先生所说的“神秘”是否指代特定概念或标签",
+      "reason": "文本中仅出现“只把‘神秘’两字罪名”，未明确说明在君先生是否正式使用此标签，需结合上下文确认。"
+    },
+    {
+      "item": "“纯粹心理现象，是否在因果律之外”这一问题的提出者",
+      "reason": "文本中“这又是一个问题”未明确主语，可能是作者提出，也可能是转述在君先生的问题，需结合上下文判断。"
+    }
+  ],
+  "_meta": {
+    "status": "success",
+    "stage": "extract",
+    "model": "deepseek-ai/DeepSeek-V4-Flash",
+    "base_url": "https://api.siliconflow.cn/v1",
+    "prompt_version": "v2.0",
+    "schema_version": "lite_v3.0",
+    "segment_id": "林宰平_000_acbbe922_s0019",
+    "article_id": "林宰平_000_acbbe922",
+    "char_start": 9460,
+    "char_end": 10060,
+    "raw_path": "E:\\1研究生\\岭南大学\\论文毕业\\capstone\\资料\\新的内容开始了\\local_upload\\kg_runs_v2\\林宰平\\raw_outputs\\extract\\林宰平_000_acbbe922_s0019.txt",
+    "parsed_at": "2026-05-21T19:48:47",
+    "started_at": "2026-05-21T19:34:40",
+    "elapsed_seconds": 847.556,
+    "strict_evidence_check": true,
+    "drop_unsupported_evidence": true,
+    "request_timeout_seconds": 180
+  }
+}

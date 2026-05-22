@@ -1,0 +1,256 @@
+{
+  "metadata": {
+    "schema_version": "lite_v2.0",
+    "article_id": "陆志韦_001_941e994c",
+    "article_title": "东荪按",
+    "source_author": "张东荪",
+    "section_title": "",
+    "section_author": "",
+    "segment_id": "陆志韦_001_941e994c_s0000",
+    "segment_index": 0,
+    "source_file": "E:\\1研究生\\岭南大学\\论文毕业\\capstone\\资料\\新的内容开始了\\local_upload\\input_w1\\陆志韦.txt"
+  },
+  "entities": [
+    {
+      "id": "e1",
+      "name": "志韦",
+      "canonical_name": "陆志韦",
+      "type": "人物",
+      "evidence": "志韦老友的话是很对",
+      "confidence": 1.0
+    },
+    {
+      "id": "e2",
+      "name": "丁先生",
+      "canonical_name": "丁文江",
+      "type": "人物",
+      "evidence": "丁先生曾对我说过这个人很好的话",
+      "confidence": 1.0
+    },
+    {
+      "id": "e3",
+      "name": "达德",
+      "canonical_name": "达德",
+      "type": "人物",
+      "evidence": "我举过达德",
+      "confidence": 0.9
+    },
+    {
+      "id": "e4",
+      "name": "专门家",
+      "canonical_name": "专门家",
+      "type": "阵营/群体",
+      "evidence": "非请专门家不可",
+      "confidence": 1.0
+    },
+    {
+      "id": "e5",
+      "name": "不学这一科的人",
+      "canonical_name": "不学这一科的人",
+      "type": "阵营/群体",
+      "evidence": "凡不学这一科的人固然不可强不知以为知",
+      "confidence": 1.0
+    },
+    {
+      "id": "e6",
+      "name": "学这一类的人",
+      "canonical_name": "学这一类的人",
+      "type": "阵营/群体",
+      "evidence": "而学这一类的人则宜大谈而特谈",
+      "confidence": 1.0
+    }
+  ],
+  "claims": [
+    {
+      "id": "c1",
+      "speaker": "张东荪",
+      "claim": "志韦老友的话是很对",
+      "target": "志韦",
+      "claim_type": "价值评价",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "志韦老友的话是很对",
+      "confidence": 1.0
+    },
+    {
+      "id": "c2",
+      "speaker": "张东荪",
+      "claim": "我说没有几本书是以我所看见的为限，不然下句便不通了",
+      "target": "志韦",
+      "claim_type": "回应性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "不过我说没有几本书是以我所看见的为限，不然下句便不通了",
+      "confidence": 0.9
+    },
+    {
+      "id": "c3",
+      "speaker": "张东荪",
+      "claim": "我举过达德是因为丁先生曾对我说过这个人很好的话，其中原有缘故，不是泛论",
+      "target": "志韦",
+      "claim_type": "历史解释",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "至于我举过达德是因为丁先生曾对我说过这个人很好的话，其中原有缘故，不是泛论",
+      "confidence": 0.9
+    },
+    {
+      "id": "c4",
+      "speaker": "张东荪",
+      "claim": "志韦先生未曾明白（我举达德的缘故）",
+      "target": "志韦",
+      "claim_type": "价值评价",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "志韦先生未曾明白，那就难怪了",
+      "confidence": 0.9
+    },
+    {
+      "id": "c5",
+      "speaker": "张东荪",
+      "claim": "志韦先生这篇文章我亦有引为遗憾的地方：即他始终只说“不是什么”，而没有说“是什么”",
+      "target": "志韦",
+      "claim_type": "论战策略批评",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "至于志韦先生这篇文章我亦有引为遗憾的地方：即他始终只说“不是什么”，而没有说“是什么”",
+      "confidence": 1.0
+    },
+    {
+      "id": "c6",
+      "speaker": "张东荪",
+      "claim": "凡不学这一科的人固然不可强不知以为知，而学这一类的人则宜大谈而特谈",
+      "target": "不学这一科的人",
+      "claim_type": "方法论主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "凡不学这一科的人固然不可强不知以为知，而学这一类的人则宜大谈而特谈",
+      "confidence": 1.0
+    },
+    {
+      "id": "c7",
+      "speaker": "张东荪",
+      "claim": "双方必相辅相成，若只是一方是不行的",
+      "target": "不学这一科的人",
+      "claim_type": "方法论主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "双方必相辅相成，若只是一方是不行的",
+      "confidence": 1.0
+    }
+  ],
+  "relations": [
+    {
+      "id": "r1",
+      "head": "张东荪",
+      "head_type": "人物",
+      "relation": "回应",
+      "tail": "志韦",
+      "tail_type": "人物",
+      "polarity": "mixed",
+      "evidence": "志韦老友的话是很对，不过我说没有几本书是以我所看见的为限，不然下句便不通了",
+      "confidence": 1.0
+    },
+    {
+      "id": "r2",
+      "head": "张东荪",
+      "head_type": "人物",
+      "relation": "批评",
+      "tail": "志韦",
+      "tail_type": "人物",
+      "polarity": "negative",
+      "evidence": "至于志韦先生这篇文章我亦有引为遗憾的地方：即他始终只说“不是什么”，而没有说“是什么”",
+      "confidence": 1.0
+    },
+    {
+      "id": "r3",
+      "head": "张东荪",
+      "head_type": "人物",
+      "relation": "相关",
+      "tail": "丁先生",
+      "tail_type": "人物",
+      "polarity": "neutral",
+      "evidence": "我举过达德是因为丁先生曾对我说过这个人很好的话",
+      "confidence": 0.9
+    },
+    {
+      "id": "r4",
+      "head": "专门家",
+      "head_type": "阵营/群体",
+      "relation": "类比",
+      "tail": "学这一类的人",
+      "tail_type": "阵营/群体",
+      "polarity": "positive",
+      "evidence": "现在用一个比喻：例如导淮，非请专门家不可。若是这个专门家来了，只说这个方案不对，那个方案又不对，始终自己不另说一个对的，而只以“是则是，非则非，无从辩论”为结果，这个淮河是导不成了。所以凡不学这一科的人固然不可强不知以为知，而学这一类的人则宜大谈而特谈",
+      "confidence": 0.9
+    },
+    {
+      "id": "r5",
+      "head": "不学这一科的人",
+      "head_type": "阵营/群体",
+      "relation": "对比",
+      "tail": "学这一类的人",
+      "tail_type": "阵营/群体",
+      "polarity": "neutral",
+      "evidence": "凡不学这一科的人固然不可强不知以为知，而学这一类的人则宜大谈而特谈",
+      "confidence": 1.0
+    }
+  ],
+  "definitions": [],
+  "citations": [
+    {
+      "id": "cit1",
+      "citer": "张东荪",
+      "quoted_author": "丁先生",
+      "quoted_work": "",
+      "quoted_claim": "这个人很好的话",
+      "function": "作为历史证据",
+      "evidence": "我举过达德是因为丁先生曾对我说过这个人很好的话",
+      "confidence": 0.9
+    }
+  ],
+  "rhetorical_devices": [
+    {
+      "id": "rh1",
+      "expression": "例如导淮，非请专门家不可。若是这个专门家来了，只说这个方案不对，那个方案又不对，始终自己不另说一个对的，而只以“是则是，非则非，无从辩论”为结果，这个淮河是导不成了",
+      "device_type": "类比",
+      "literal_target": "志韦只批评而不提出正面主张的行为",
+      "function": "通过导淮的比喻，批评志韦只破不立，论证其做法无益于解决问题",
+      "evidence": "现在用一个比喻：例如导淮，非请专门家不可。若是这个专门家来了，只说这个方案不对，那个方案又不对，始终自己不另说一个对的，而只以“是则是，非则非，无从辩论”为结果，这个淮河是导不成了",
+      "confidence": 1.0
+    }
+  ],
+  "uncertainties": [
+    {
+      "item": "达德的具体身份",
+      "reason": "文本仅提及“达德”和“丁先生曾对我说过这个人很好的话”，未说明达德是人物还是其他实体，也未提供全名或背景信息。"
+    },
+    {
+      "item": "“志韦老友的话”具体指什么",
+      "reason": "文本未引用或说明志韦说了什么话，仅评价“是很对”。"
+    },
+    {
+      "item": "“没有几本书”的具体含义",
+      "reason": "文本未说明“没有几本书”指什么书，上下文缺失。"
+    }
+  ],
+  "_meta": {
+    "status": "success",
+    "stage": "extract",
+    "model": "deepseek-ai/DeepSeek-V4-Flash",
+    "base_url": "https://api.siliconflow.cn/v1",
+    "prompt_version": "extract_prompt_v2.0",
+    "schema_version": "lite_v2.0",
+    "segment_id": "陆志韦_001_941e994c_s0000",
+    "article_id": "陆志韦_001_941e994c",
+    "char_start": 0,
+    "char_end": 307,
+    "raw_path": "E:\\1研究生\\岭南大学\\论文毕业\\capstone\\资料\\新的内容开始了\\local_upload\\kg_runs\\陆志韦\\raw_outputs\\extract\\陆志韦_001_941e994c_s0000.txt",
+    "parsed_at": "2026-05-19T14:36:44",
+    "started_at": "2026-05-19T14:30:49",
+    "elapsed_seconds": 355.113,
+    "strict_evidence_check": true,
+    "drop_unsupported_evidence": true,
+    "request_timeout_seconds": 180
+  }
+}

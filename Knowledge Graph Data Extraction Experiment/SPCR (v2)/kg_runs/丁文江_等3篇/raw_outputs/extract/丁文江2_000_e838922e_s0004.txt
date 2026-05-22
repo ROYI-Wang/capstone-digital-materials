@@ -1,0 +1,583 @@
+{
+  "metadata": {
+    "schema_version": "lite_v3.0",
+    "article_id": "丁文江2_000_e838922e",
+    "article_title": "玄学与科学——答张君劢",
+    "source_author": "丁文江",
+    "section_title": "",
+    "section_author": "",
+    "segment_id": "丁文江2_000_e838922e_s0004",
+    "segment_index": 4,
+    "source_file": "E:\\1研究生\\岭南大学\\论文毕业\\capstone\\资料\\新的内容开始了\\local_upload\\input_丁文江\\丁文江2.txt"
+  },
+  "entities": [
+    {
+      "id": "e1",
+      "name": "演化",
+      "canonical_name": "演化",
+      "type": "概念",
+      "evidence": "万把年的演化才从穴居野处的野人，变成功今日有文化的民族。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e2",
+      "name": "现在主义",
+      "canonical_name": "现在主义",
+      "type": "主义/学说/理论",
+      "evidence": "这种现在主义，反进化论的人生观，是事实上无立足之余地的！",
+      "confidence": 0.8
+    },
+    {
+      "id": "e3",
+      "name": "反进化论的人生观",
+      "canonical_name": "反进化论的人生观",
+      "type": "主义/学说/理论",
+      "evidence": "这种现在主义，反进化论的人生观，是事实上无立足之余地的！",
+      "confidence": 0.8
+    },
+    {
+      "id": "e4",
+      "name": "人生观",
+      "canonical_name": "人生观",
+      "type": "概念",
+      "evidence": "君劢的清华讲演仅列举了九条我与非我的关系，没有给人生观下正式的定义",
+      "confidence": 0.9
+    },
+    {
+      "id": "e5",
+      "name": "我与非我的关系",
+      "canonical_name": "我与非我的关系",
+      "type": "概念",
+      "evidence": "君劢的清华讲演仅列举了九条我与非我的关系",
+      "confidence": 0.9
+    },
+    {
+      "id": "e6",
+      "name": "星占学与天文学",
+      "canonical_name": "星占学与天文学",
+      "type": "概念",
+      "evidence": "譬如星占学与天文学，上帝造种与天演论，自由贸易与保护贸易，感觉主义与范畴主义，都可以照样加入。",
+      "confidence": 0.8
+    },
+    {
+      "id": "e7",
+      "name": "上帝造种与天演论",
+      "canonical_name": "上帝造种与天演论",
+      "type": "概念",
+      "evidence": "譬如星占学与天文学，上帝造种与天演论，自由贸易与保护贸易，感觉主义与范畴主义，都可以照样加入。",
+      "confidence": 0.8
+    },
+    {
+      "id": "e8",
+      "name": "自由贸易与保护贸易",
+      "canonical_name": "自由贸易与保护贸易",
+      "type": "概念",
+      "evidence": "譬如星占学与天文学，上帝造种与天演论，自由贸易与保护贸易，感觉主义与范畴主义，都可以照样加入。",
+      "confidence": 0.8
+    },
+    {
+      "id": "e9",
+      "name": "感觉主义与范畴主义",
+      "canonical_name": "感觉主义与范畴主义",
+      "type": "概念",
+      "evidence": "譬如星占学与天文学，上帝造种与天演论，自由贸易与保护贸易，感觉主义与范畴主义，都可以照样加入。",
+      "confidence": 0.8
+    },
+    {
+      "id": "e10",
+      "name": "物质科学精神科学之区别",
+      "canonical_name": "物质科学精神科学之区别",
+      "type": "概念",
+      "evidence": "君劢答文说我“昧于物质科学精神科学之区别”",
+      "confidence": 0.9
+    },
+    {
+      "id": "e11",
+      "name": "精神",
+      "canonical_name": "精神",
+      "type": "概念",
+      "evidence": "人之生于世也，内曰精神，外曰物质。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e12",
+      "name": "物质",
+      "canonical_name": "物质",
+      "type": "概念",
+      "evidence": "人之生于世也，内曰精神，外曰物质。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e13",
+      "name": "精神物质之冲突",
+      "canonical_name": "精神物质之冲突",
+      "type": "概念",
+      "evidence": "虽谓古今以来之大问题，不出此精神物质之冲突可也。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e14",
+      "name": "乙",
+      "canonical_name": "乙",
+      "type": "概念",
+      "evidence": "若是君劢的乙是指他自己",
+      "confidence": 0.7
+    },
+    {
+      "id": "e15",
+      "name": "君劢",
+      "canonical_name": "张君劢",
+      "type": "人物",
+      "evidence": "若是君劢的乙是指他自己",
+      "confidence": 0.9
+    },
+    {
+      "id": "e16",
+      "name": "白人的凌虐异种",
+      "canonical_name": "白人的凌虐异种",
+      "type": "例证",
+      "evidence": "现在白人的凌虐异种，比非洲人待俘虏如何？比中国待苗族猓猓的历史如何？欧洲的战祸比中国的“洪杨捻匪”如何？",
+      "confidence": 0.8
+    },
+    {
+      "id": "e17",
+      "name": "非洲人待俘虏",
+      "canonical_name": "非洲人待俘虏",
+      "type": "例证",
+      "evidence": "现在白人的凌虐异种，比非洲人待俘虏如何？比中国待苗族猓猓的历史如何？欧洲的战祸比中国的“洪杨捻匪”如何？",
+      "confidence": 0.8
+    },
+    {
+      "id": "e18",
+      "name": "中国待苗族猓猓的历史",
+      "canonical_name": "中国待苗族猓猓的历史",
+      "type": "例证",
+      "evidence": "现在白人的凌虐异种，比非洲人待俘虏如何？比中国待苗族猓猓的历史如何？欧洲的战祸比中国的“洪杨捻匪”如何？",
+      "confidence": 0.8
+    },
+    {
+      "id": "e19",
+      "name": "欧洲的战祸",
+      "canonical_name": "欧洲的战祸",
+      "type": "例证",
+      "evidence": "欧洲的战祸比中国的“洪杨捻匪”如何？",
+      "confidence": 0.8
+    },
+    {
+      "id": "e20",
+      "name": "洪杨捻匪",
+      "canonical_name": "洪杨捻匪",
+      "type": "例证",
+      "evidence": "欧洲的战祸比中国的“洪杨捻匪”如何？",
+      "confidence": 0.8
+    },
+    {
+      "id": "e21",
+      "name": "野蛮的根性",
+      "canonical_name": "野蛮的根性",
+      "type": "概念",
+      "evidence": "所以许多野蛮的根性至今还存在我们的血骨里头",
+      "confidence": 0.8
+    },
+    {
+      "id": "e22",
+      "name": "清华讲演",
+      "canonical_name": "清华讲演",
+      "type": "文章",
+      "evidence": "君劢的清华讲演仅列举了九条我与非我的关系",
+      "confidence": 0.9
+    },
+    {
+      "id": "e23",
+      "name": "九条",
+      "canonical_name": "九条",
+      "type": "概念",
+      "evidence": "君劢的清华讲演仅列举了九条我与非我的关系",
+      "confidence": 0.9
+    },
+    {
+      "id": "e24",
+      "name": "主观作用",
+      "canonical_name": "主观作用",
+      "type": "概念",
+      "evidence": "所举九者皆属于精神方面，皆可以主观作用消息其间。",
+      "confidence": 0.8
+    },
+    {
+      "id": "e25",
+      "name": "至善至美之境",
+      "canonical_name": "至善至美之境",
+      "type": "概念",
+      "evidence": "常求所以变革之，以达于至善至美之境。",
+      "confidence": 0.8
+    }
+  ],
+  "claims": [
+    {
+      "id": "c1",
+      "speaker": "丁文江",
+      "claim": "万把年的演化才从穴居野处的野人，变成功今日有文化的民族。",
+      "target": "",
+      "claim_type": "描述性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "万把年的演化才从穴居野处的野人，变成功今日有文化的民族。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c2",
+      "speaker": "丁文江",
+      "claim": "演化是很慢的，所以许多野蛮的根性至今还存在我们的血骨里头",
+      "target": "",
+      "claim_type": "因果主张",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "演化是很慢的，所以许多野蛮的根性至今还存在我们的血骨里头",
+      "confidence": 0.9
+    },
+    {
+      "id": "c3",
+      "speaker": "丁文江",
+      "claim": "演化一天没有停止，我们一天不必悲观",
+      "target": "",
+      "claim_type": "规范性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "但是演化一天没有停止，我们一天不必悲观",
+      "confidence": 0.9
+    },
+    {
+      "id": "c4",
+      "speaker": "丁文江",
+      "claim": "拿过去推测将来，我们决不敢自暴自弃。",
+      "target": "",
+      "claim_type": "结论性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "拿过去推测将来，我们决不敢自暴自弃。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c5",
+      "speaker": "丁文江",
+      "claim": "这种现在主义，反进化论的人生观，是事实上无立足之余地的！",
+      "target": "现在主义，反进化论的人生观",
+      "claim_type": "评价性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "这种现在主义，反进化论的人生观，是事实上无立足之余地的！",
+      "confidence": 0.9
+    },
+    {
+      "id": "c6",
+      "speaker": "丁文江",
+      "claim": "若是君劢的乙是指他自己，我不能不以郑重诚恳的态度劝他牺牲他的意见",
+      "target": "君劢",
+      "claim_type": "回应性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "若是君劢的乙是指他自己，我不能不以郑重诚恳的态度劝他牺牲他的意见",
+      "confidence": 0.9
+    },
+    {
+      "id": "c7",
+      "speaker": "丁文江",
+      "claim": "我与非我的关系决计不止九条",
+      "target": "君劢",
+      "claim_type": "反驳性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "所以我前次的讨论就以这九条为根据，以为我与非我的关系决计不止九条",
+      "confidence": 0.9
+    },
+    {
+      "id": "c8",
+      "speaker": "丁文江",
+      "claim": "星占学与天文学，上帝造种与天演论，自由贸易与保护贸易，感觉主义与范畴主义，都可以照样加入。",
+      "target": "君劢",
+      "claim_type": "反驳性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "譬如星占学与天文学，上帝造种与天演论，自由贸易与保护贸易，感觉主义与范畴主义，都可以照样加入。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c9",
+      "speaker": "君劢",
+      "claim": "丁文江昧于物质科学精神科学之区别",
+      "target": "丁文江",
+      "claim_type": "评价性主张",
+      "claim_status": "间接转述",
+      "polarity": "negative",
+      "evidence": "君劢答文说我“昧于物质科学精神科学之区别”",
+      "confidence": 0.9
+    },
+    {
+      "id": "c10",
+      "speaker": "君劢",
+      "claim": "所举九者皆属于精神方面，皆可以主观作用消息其间。",
+      "target": "",
+      "claim_type": "描述性主张",
+      "claim_status": "间接转述",
+      "polarity": "neutral",
+      "evidence": "又说“所举九者皆属于精神方面，皆可以主观作用消息其间。……此种界限至为明晰，而在君伪为不知”。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c11",
+      "speaker": "君劢",
+      "claim": "此种界限至为明晰，而在君伪为不知",
+      "target": "丁文江",
+      "claim_type": "评价性主张",
+      "claim_status": "间接转述",
+      "polarity": "negative",
+      "evidence": "又说“所举九者皆属于精神方面，皆可以主观作用消息其间。……此种界限至为明晰，而在君伪为不知”。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c12",
+      "speaker": "君劢",
+      "claim": "人之生于世也，内曰精神，外曰物质。……所谓物质者，凡我以外皆属之：如大地河山，如衣服田宅，则我以外之物也；如父母妻子，如国家社会，则我以外之人也。我对于我以外之物与人，常求所以变革之，以达于至善至美之境。虽谓古今以来之大问题，不出此精神物质之冲突可也。我对我以外之物与人，常有所观察也，主张也，希望也，要求也，是之谓人生观。",
+      "target": "",
+      "claim_type": "定义性主张",
+      "claim_status": "直接引用",
+      "polarity": "neutral",
+      "evidence": "他又为人生观下一定义道：“人之生于世也，内曰精神，外曰物质。……所谓物质者，凡我以外皆属之：如大地河山，如衣服田宅，则我以外之物也；如父母妻子，如国家社会，则我以外之人也。我对于我以外之物与人，常求所以变革之，以达于至善至美之境。虽谓古今以来之大问题，不出此精神物质之冲突可也。我对我以外之物与人，常有所观察也，主张也，希望也，要求也，是之谓人生观。”",
+      "confidence": 0.9
+    }
+  ],
+  "relations": [
+    {
+      "id": "r1",
+      "head": "演化",
+      "head_type": "概念",
+      "relation": "导致",
+      "relation_subtype": "不适用",
+      "tail": "今日有文化的民族",
+      "tail_type": "概念",
+      "polarity": "positive",
+      "stance_score": 0.5,
+      "intensity": 0.5,
+      "evidence": "万把年的演化才从穴居野处的野人，变成功今日有文化的民族。",
+      "confidence": 0.9
+    },
+    {
+      "id": "r2",
+      "head": "演化是很慢的",
+      "head_type": "观点",
+      "relation": "导致",
+      "relation_subtype": "不适用",
+      "tail": "许多野蛮的根性至今还存在我们的血骨里头",
+      "tail_type": "观点",
+      "polarity": "neutral",
+      "stance_score": 0.0,
+      "intensity": 0.5,
+      "evidence": "演化是很慢的，所以许多野蛮的根性至今还存在我们的血骨里头",
+      "confidence": 0.9
+    },
+    {
+      "id": "r3",
+      "head": "演化一天没有停止",
+      "head_type": "观点",
+      "relation": "导致",
+      "relation_subtype": "不适用",
+      "tail": "我们一天不必悲观",
+      "tail_type": "观点",
+      "polarity": "positive",
+      "stance_score": 0.5,
+      "intensity": 0.5,
+      "evidence": "但是演化一天没有停止，我们一天不必悲观",
+      "confidence": 0.9
+    },
+    {
+      "id": "r4",
+      "head": "拿过去推测将来",
+      "head_type": "观点",
+      "relation": "导致",
+      "relation_subtype": "不适用",
+      "tail": "我们决不敢自暴自弃",
+      "tail_type": "观点",
+      "polarity": "positive",
+      "stance_score": 0.5,
+      "intensity": 0.5,
+      "evidence": "拿过去推测将来，我们决不敢自暴自弃。",
+      "confidence": 0.9
+    },
+    {
+      "id": "r5",
+      "head": "丁文江",
+      "head_type": "人物",
+      "relation": "批评",
+      "relation_subtype": "一般批评",
+      "tail": "现在主义，反进化论的人生观",
+      "tail_type": "主义/学说/理论",
+      "polarity": "negative",
+      "stance_score": -1.0,
+      "intensity": 1.0,
+      "evidence": "这种现在主义，反进化论的人生观，是事实上无立足之余地的！",
+      "confidence": 0.9
+    },
+    {
+      "id": "r6",
+      "head": "丁文江",
+      "head_type": "人物",
+      "relation": "回应",
+      "relation_subtype": "一般批评",
+      "tail": "君劢",
+      "tail_type": "人物",
+      "polarity": "negative",
+      "stance_score": -0.8,
+      "intensity": 0.8,
+      "evidence": "若是君劢的乙是指他自己，我不能不以郑重诚恳的态度劝他牺牲他的意见",
+      "confidence": 0.9
+    },
+    {
+      "id": "r7",
+      "head": "丁文江",
+      "head_type": "人物",
+      "relation": "反驳",
+      "relation_subtype": "逻辑反驳",
+      "tail": "君劢",
+      "tail_type": "人物",
+      "polarity": "negative",
+      "stance_score": -0.8,
+      "intensity": 0.7,
+      "evidence": "所以我前次的讨论就以这九条为根据，以为我与非我的关系决计不止九条",
+      "confidence": 0.9
+    },
+    {
+      "id": "r8",
+      "head": "丁文江",
+      "head_type": "人物",
+      "relation": "反驳",
+      "relation_subtype": "逻辑反驳",
+      "tail": "君劢",
+      "tail_type": "人物",
+      "polarity": "negative",
+      "stance_score": -0.8,
+      "intensity": 0.7,
+      "evidence": "譬如星占学与天文学，上帝造种与天演论，自由贸易与保护贸易，感觉主义与范畴主义，都可以照样加入。",
+      "confidence": 0.9
+    },
+    {
+      "id": "r9",
+      "head": "君劢",
+      "head_type": "人物",
+      "relation": "批评",
+      "relation_subtype": "概念混淆批评",
+      "tail": "丁文江",
+      "tail_type": "人物",
+      "polarity": "negative",
+      "stance_score": -0.8,
+      "intensity": 0.7,
+      "evidence": "君劢答文说我“昧于物质科学精神科学之区别”",
+      "confidence": 0.9
+    },
+    {
+      "id": "r10",
+      "head": "君劢",
+      "head_type": "人物",
+      "relation": "批评",
+      "relation_subtype": "概念混淆批评",
+      "tail": "丁文江",
+      "tail_type": "人物",
+      "polarity": "negative",
+      "stance_score": -0.8,
+      "intensity": 0.7,
+      "evidence": "又说“所举九者皆属于精神方面，皆可以主观作用消息其间。……此种界限至为明晰，而在君伪为不知”。",
+      "confidence": 0.9
+    },
+    {
+      "id": "r11",
+      "head": "君劢",
+      "head_type": "人物",
+      "relation": "定义",
+      "relation_subtype": "概念澄清",
+      "tail": "人生观",
+      "tail_type": "概念",
+      "polarity": "neutral",
+      "stance_score": 0.0,
+      "intensity": 0.5,
+      "evidence": "他又为人生观下一定义道：“人之生于世也，内曰精神，外曰物质。……所谓物质者，凡我以外皆属之：如大地河山，如衣服田宅，则我以外之物也；如父母妻子，如国家社会，则我以外之人也。我对于我以外之物与人，常求所以变革之，以达于至善至美之境。虽谓古今以来之大问题，不出此精神物质之冲突可也。我对我以外之物与人，常有所观察也，主张也，希望也，要求也，是之谓人生观。”",
+      "confidence": 0.9
+    }
+  ],
+  "definitions": [
+    {
+      "id": "def1",
+      "term": "人生观",
+      "definition": "我对我以外之物与人，常有所观察、主张、希望、要求，是之谓人生观。",
+      "evidence": "我对我以外之物与人，常有所观察也，主张也，希望也，要求也，是之谓人生观。",
+      "confidence": 0.9
+    },
+    {
+      "id": "def2",
+      "term": "物质",
+      "definition": "凡我以外皆属之：如大地河山，如衣服田宅，则我以外之物也；如父母妻子，如国家社会，则我以外之人也。",
+      "evidence": "所谓物质者，凡我以外皆属之：如大地河山，如衣服田宅，则我以外之物也；如父母妻子，如国家社会，则我以外之人也。",
+      "confidence": 0.9
+    }
+  ],
+  "citations": [
+    {
+      "id": "cit1",
+      "citer": "丁文江",
+      "quoted_author": "君劢",
+      "quoted_work": "",
+      "quoted_claim": "丁文江昧于物质科学精神科学之区别",
+      "function": "作为批评对象",
+      "evidence": "君劢答文说我“昧于物质科学精神科学之区别”",
+      "confidence": 0.9
+    },
+    {
+      "id": "cit2",
+      "citer": "丁文江",
+      "quoted_author": "君劢",
+      "quoted_work": "",
+      "quoted_claim": "所举九者皆属于精神方面，皆可以主观作用消息其间。此种界限至为明晰，而在君伪为不知",
+      "function": "作为批评对象",
+      "evidence": "又说“所举九者皆属于精神方面，皆可以主观作用消息其间。……此种界限至为明晰，而在君伪为不知”。",
+      "confidence": 0.9
+    },
+    {
+      "id": "cit3",
+      "citer": "丁文江",
+      "quoted_author": "君劢",
+      "quoted_work": "",
+      "quoted_claim": "人之生于世也，内曰精神，外曰物质。……所谓物质者，凡我以外皆属之：如大地河山，如衣服田宅，则我以外之物也；如父母妻子，如国家社会，则我以外之人也。我对于我以外之物与人，常求所以变革之，以达于至善至美之境。虽谓古今以来之大问题，不出此精神物质之冲突可也。我对我以外之物与人，常有所观察也，主张也，希望也，要求也，是之谓人生观。",
+      "function": "作为批评对象",
+      "evidence": "他又为人生观下一定义道：“人之生于世也，内曰精神，外曰物质。……所谓物质者，凡我以外皆属之：如大地河山，如衣服田宅，则我以外之物也；如父母妻子，如国家社会，则我以外之人也。我对于我以外之物与人，常求所以变革之，以达于至善至美之境。虽谓古今以来之大问题，不出此精神物质之冲突可也。我对我以外之物与人，常有所观察也，主张也，希望也，要求也，是之谓人生观。”",
+      "confidence": 0.9
+    }
+  ],
+  "rhetorical_devices": [
+    {
+      "id": "rh1",
+      "expression": "万把年的演化才从穴居野处的野人，变成功今日有文化的民族。",
+      "device_type": "类比",
+      "literal_target": "人类文明进步缓慢",
+      "function": "通过对比野蛮与文明，强调演化缓慢，为后文批评现在主义做铺垫",
+      "evidence": "万把年的演化才从穴居野处的野人，变成功今日有文化的民族。",
+      "confidence": 0.8
+    },
+    {
+      "id": "rh2",
+      "expression": "现在白人的凌虐异种，比非洲人待俘虏如何？比中国待苗族猓猓的历史如何？欧洲的战祸比中国的“洪杨捻匪”如何？",
+      "device_type": "类比",
+      "literal_target": "人类野蛮根性依然存在",
+      "function": "通过一系列反问和类比，证明野蛮根性至今存在，支持演化缓慢的观点",
+      "evidence": "现在白人的凌虐异种，比非洲人待俘虏如何？比中国待苗族猓猓的历史如何？欧洲的战祸比中国的“洪杨捻匪”如何？",
+      "confidence": 0.8
+    }
+  ],
+  "uncertainties": [
+    {
+      "item": "乙",
+      "reason": "文本中'乙'指代不明，可能指张君劢的某种观点或分类，但上下文未明确说明。"
+    },
+    {
+      "item": "君伪为不知",
+      "reason": "原文为'君伪为不知'，但根据上下文可能是'君劢'的笔误或印刷错误，但无法确定。"
+    }
+  ]
+}

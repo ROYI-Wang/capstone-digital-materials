@@ -1,0 +1,324 @@
+{
+  "metadata": {
+    "schema_version": "lite_v2.0",
+    "article_id": "范寿康_000_14d2ac72",
+    "article_title": "评所谓“科学与玄学之争”",
+    "source_author": "范寿康",
+    "section_title": "",
+    "section_author": "",
+    "segment_id": "范寿康_000_14d2ac72_s0016",
+    "segment_index": 16,
+    "source_file": "E:\\1研究生\\岭南大学\\论文毕业\\capstone\\资料\\新的内容开始了\\local_upload\\input_w1\\范寿康.txt"
+  },
+  "entities": [
+    {
+      "id": "e1",
+      "name": "论理学",
+      "canonical_name": "论理学",
+      "type": "概念",
+      "evidence": "那末，论理学或美学难道就不能成立了么？",
+      "confidence": 0.9
+    },
+    {
+      "id": "e2",
+      "name": "美学",
+      "canonical_name": "美学",
+      "type": "概念",
+      "evidence": "那末，论理学或美学难道就不能成立了么？",
+      "confidence": 0.9
+    },
+    {
+      "id": "e3",
+      "name": "科学",
+      "canonical_name": "科学",
+      "type": "概念",
+      "evidence": "说明科学的法则固然是必然的，可是规范科学的法则是当然的，却非必然的。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e4",
+      "name": "规范科学",
+      "canonical_name": "规范科学",
+      "type": "概念",
+      "evidence": "说明科学的法则固然是必然的，可是规范科学的法则是当然的，却非必然的。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e5",
+      "name": "法则",
+      "canonical_name": "法则",
+      "type": "概念",
+      "evidence": "说明科学的法则固然是必然的，可是规范科学的法则是当然的，却非必然的。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e6",
+      "name": "人生观的科学",
+      "canonical_name": "人生观的科学",
+      "type": "概念",
+      "evidence": "我以为人生观的科学之能否成立和张氏之遵奉该科学的法则与否完全是两个问题。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e7",
+      "name": "张氏",
+      "canonical_name": "张君劢",
+      "type": "人物",
+      "evidence": "我以为人生观的科学之能否成立和张氏之遵奉该科学的法则与否完全是两个问题。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e8",
+      "name": "任氏",
+      "canonical_name": "任鸿隽",
+      "type": "人物",
+      "evidence": "任氏把来混做一起，那就未免是错误了。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e9",
+      "name": "梁启超",
+      "canonical_name": "梁启超",
+      "type": "人物",
+      "evidence": "对这个问题，梁启超氏早已发表了一篇《关于玄学与科学论战之战时国际公法》。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e10",
+      "name": "《关于玄学与科学论战之战时国际公法》",
+      "canonical_name": "关于玄学与科学论战之战时国际公法",
+      "type": "著作",
+      "evidence": "对这个问题，梁启超氏早已发表了一篇《关于玄学与科学论战之战时国际公法》。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e11",
+      "name": "唐钺",
+      "canonical_name": "唐钺",
+      "type": "人物",
+      "evidence": "唐钺氏在《玄学与科学论争所给的暗示》里面也有一段论辩论者对于对方应取的态度，唐氏说:",
+      "confidence": 0.9
+    },
+    {
+      "id": "e12",
+      "name": "《玄学与科学论争所给的暗示》",
+      "canonical_name": "玄学与科学论争所给的暗示",
+      "type": "著作",
+      "evidence": "唐钺氏在《玄学与科学论争所给的暗示》里面也有一段论辩论者对于对方应取的态度，唐氏说:",
+      "confidence": 0.9
+    },
+    {
+      "id": "e13",
+      "name": "丁在君",
+      "canonical_name": "丁文江",
+      "type": "人物",
+      "evidence": "丁在君以为《努力》是给一般读者看的，所以他就该说些顽皮话。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e14",
+      "name": "《努力》",
+      "canonical_name": "努力周报",
+      "type": "著作",
+      "evidence": "丁在君以为《努力》是给一般读者看的，所以他就该说些顽皮话。",
+      "confidence": 0.9
+    }
+  ],
+  "claims": [
+    {
+      "id": "c1",
+      "speaker": "范寿康",
+      "claim": "说明科学的法则固然是必然的，可是规范科学的法则是当然的，却非必然的。",
+      "target": "科学",
+      "claim_type": "定义性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "说明科学的法则固然是必然的，可是规范科学的法则是当然的，却非必然的。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c2",
+      "speaker": "范寿康",
+      "claim": "当然的法则，不能强人以必同，但却不失为一般所要求。",
+      "target": "规范科学",
+      "claim_type": "定义性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "当然的法则，不能强人以必同，但却不失为一般所要求。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c3",
+      "speaker": "范寿康",
+      "claim": "人生观的科学之能否成立和张氏之遵奉该科学的法则与否完全是两个问题。",
+      "target": "人生观的科学",
+      "claim_type": "方法论主张",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "我以为人生观的科学之能否成立和张氏之遵奉该科学的法则与否完全是两个问题。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c4",
+      "speaker": "范寿康",
+      "claim": "任氏把来混做一起，那就未免是错误了。",
+      "target": "任氏",
+      "claim_type": "论战策略批评",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "任氏把来混做一起，那就未免是错误了。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c5",
+      "speaker": "梁启超",
+      "claim": "我希望措词庄重恳挚，万不可有嘲笑或嫚骂语。倘若一方面偶然不检，也希望他方面别要效尤。",
+      "target": "论战参与者",
+      "claim_type": "论战策略批评",
+      "claim_status": "直接引用",
+      "polarity": "positive",
+      "evidence": "梁氏说: “我希望措词庄重恳挚，万不可有嘲笑或嫚骂语。倘若一方面偶然不检，也希望他方面别要效尤。”",
+      "confidence": 0.9
+    },
+    {
+      "id": "c6",
+      "speaker": "唐钺",
+      "claim": "文字究竟比不得谈话，大家总要庄重些为是。",
+      "target": "论战参与者",
+      "claim_type": "论战策略批评",
+      "claim_status": "直接引用",
+      "polarity": "positive",
+      "evidence": "唐氏说: “文字究竟比不得谈话，大家总要庄重些为是。”",
+      "confidence": 0.9
+    },
+    {
+      "id": "c7",
+      "speaker": "范寿康",
+      "claim": "梁唐二氏的议论是极有价值的。",
+      "target": "梁启超、唐钺",
+      "claim_type": "价值评价",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "梁唐二氏的议论是极有价值的。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c8",
+      "speaker": "丁在君",
+      "claim": "《努力》是给一般读者看的，所以他就该说些顽皮话。",
+      "target": "《努力》",
+      "claim_type": "论战策略批评",
+      "claim_status": "间接转述",
+      "polarity": "negative",
+      "evidence": "丁在君以为《努力》是给一般读者看的，所以他就该说些顽皮话。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c9",
+      "speaker": "范寿康",
+      "claim": "丁氏这种迎合心理的态度决不是学问家所应取。",
+      "target": "丁在君",
+      "claim_type": "论战策略批评",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "我以为丁氏这种迎合心理的态度决不是学问家所应取。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c10",
+      "speaker": "范寿康",
+      "claim": "丁氏对于这次参加论战者的态度恶化不得不负重大的责任。",
+      "target": "丁在君",
+      "claim_type": "论战策略批评",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "丁氏对于这次参加论战者的态度恶化不得不负重大的责任。",
+      "confidence": 0.9
+    }
+  ],
+  "relations": [
+    {
+      "id": "r1",
+      "head": "范寿康",
+      "head_type": "人物",
+      "relation": "批评",
+      "tail": "任氏",
+      "tail_type": "人物",
+      "polarity": "negative",
+      "evidence": "任氏把来混做一起，那就未免是错误了。",
+      "confidence": 0.9
+    },
+    {
+      "id": "r2",
+      "head": "范寿康",
+      "head_type": "人物",
+      "relation": "区分",
+      "tail": "人生观的科学",
+      "tail_type": "概念",
+      "polarity": "neutral",
+      "evidence": "我以为人生观的科学之能否成立和张氏之遵奉该科学的法则与否完全是两个问题。",
+      "confidence": 0.9
+    }
+  ],
+  "definitions": [
+    {
+      "id": "def1",
+      "term": "规范科学的法则",
+      "definition": "规范科学的法则是当然的，非必然的，不能强人以必同，但为一般所要求。",
+      "evidence": "说明科学的法则固然是必然的，可是规范科学的法则是当然的，却非必然的。当然的法则，不能强人以必同，但却不失为一般所要求。",
+      "confidence": 0.9
+    }
+  ],
+  "citations": [
+    {
+      "id": "cit1",
+      "citer": "范寿康",
+      "quoted_author": "梁启超",
+      "quoted_work": "《关于玄学与科学论战之战时国际公法》",
+      "quoted_claim": "我希望措词庄重恳挚，万不可有嘲笑或嫚骂语。倘若一方面偶然不检，也希望他方面别要效尤。",
+      "function": "援引权威支持",
+      "evidence": "对这个问题，梁启超氏早已发表了一篇《关于玄学与科学论战之战时国际公法》。梁氏说: “我希望措词庄重恳挚，万不可有嘲笑或嫚骂语。倘若一方面偶然不检，也希望他方面别要效尤。”",
+      "confidence": 0.9
+    },
+    {
+      "id": "cit2",
+      "citer": "范寿康",
+      "quoted_author": "唐钺",
+      "quoted_work": "《玄学与科学论争所给的暗示》",
+      "quoted_claim": "文字究竟比不得谈话，大家总要庄重些为是。",
+      "function": "援引权威支持",
+      "evidence": "唐钺氏在《玄学与科学论争所给的暗示》里面也有一段论辩论者对于对方应取的态度，唐氏说: “文字究竟比不得谈话，大家总要庄重些为是。”",
+      "confidence": 0.9
+    }
+  ],
+  "rhetorical_devices": [],
+  "uncertainties": [
+    {
+      "item": "任氏具体指谁",
+      "reason": "文本中仅出现'任氏'，未给出全名，无法确定具体人物。"
+    },
+    {
+      "item": "张氏具体指谁",
+      "reason": "文本中仅出现'张氏'，未给出全名，但根据上下文可能指张君劢，需确认。"
+    }
+  ],
+  "_meta": {
+    "status": "success",
+    "stage": "extract",
+    "model": "deepseek-ai/DeepSeek-V4-Flash",
+    "base_url": "https://api.siliconflow.cn/v1",
+    "prompt_version": "extract_prompt_v2.0",
+    "schema_version": "lite_v2.0",
+    "segment_id": "范寿康_000_14d2ac72_s0016",
+    "article_id": "范寿康_000_14d2ac72",
+    "char_start": 8012,
+    "char_end": 8522,
+    "raw_path": "E:\\1研究生\\岭南大学\\论文毕业\\capstone\\资料\\新的内容开始了\\local_upload\\kg_runs\\范寿康\\raw_outputs\\extract\\范寿康_000_14d2ac72_s0016.txt",
+    "parsed_at": "2026-05-20T00:28:24",
+    "started_at": "2026-05-20T00:26:06",
+    "elapsed_seconds": 138.327,
+    "strict_evidence_check": true,
+    "drop_unsupported_evidence": true,
+    "request_timeout_seconds": 180
+  }
+}

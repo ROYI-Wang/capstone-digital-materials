@@ -1,0 +1,589 @@
+{
+  "metadata": {
+    "schema_version": "lite_v3.0",
+    "article_id": "范寿康_000_14d2ac72",
+    "article_title": "评所谓“科学与玄学之争”",
+    "source_author": "范寿康",
+    "section_title": "",
+    "section_author": "",
+    "segment_id": "范寿康_000_14d2ac72_s0002",
+    "segment_index": 2,
+    "source_file": "E:\\1研究生\\岭南大学\\论文毕业\\capstone\\资料\\新的内容开始了\\local_upload\\input_v2_w0\\范寿康.txt"
+  },
+  "entities": [
+    {
+      "id": "e1",
+      "name": "梁氏",
+      "canonical_name": "梁氏",
+      "type": "人物",
+      "evidence": "梁氏及伏园氏而外，王星拱论《科学与人生观》，他所定的程次和范围也还不错，他对于这一层的见解，大体与梁氏相同。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e2",
+      "name": "伏园氏",
+      "canonical_name": "伏园氏",
+      "type": "人物",
+      "evidence": "梁氏及伏园氏而外，王星拱论《科学与人生观》，他所定的程次和范围也还不错，他对于这一层的见解，大体与梁氏相同。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e3",
+      "name": "王星拱",
+      "canonical_name": "王星拱",
+      "type": "人物",
+      "evidence": "梁氏及伏园氏而外，王星拱论《科学与人生观》，他所定的程次和范围也还不错，他对于这一层的见解，大体与梁氏相同。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e4",
+      "name": "《科学与人生观》",
+      "canonical_name": "《科学与人生观》",
+      "type": "文章",
+      "evidence": "梁氏及伏园氏而外，王星拱论《科学与人生观》，他所定的程次和范围也还不错，他对于这一层的见解，大体与梁氏相同。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e5",
+      "name": "人生观",
+      "canonical_name": "人生观",
+      "type": "概念",
+      "evidence": "人生观为关于人生的现实及理想两方面的见解。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e6",
+      "name": "科学",
+      "canonical_name": "科学",
+      "type": "概念",
+      "evidence": "科学是什么?",
+      "confidence": 1.0
+    },
+    {
+      "id": "e7",
+      "name": "人生观与科学的关系",
+      "canonical_name": "人生观与科学的关系",
+      "type": "问题",
+      "evidence": "这次问题的核心既是“人生观与科学的关系”，那末，讨论的程次和范围应当如下面所列:",
+      "confidence": 1.0
+    },
+    {
+      "id": "e8",
+      "name": "悲观论",
+      "canonical_name": "悲观论",
+      "type": "概念",
+      "evidence": "关于人生现实的见解有悲观论及乐观论等。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e9",
+      "name": "乐观论",
+      "canonical_name": "乐观论",
+      "type": "概念",
+      "evidence": "关于人生现实的见解有悲观论及乐观论等。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e10",
+      "name": "快乐论",
+      "canonical_name": "快乐论",
+      "type": "概念",
+      "evidence": "关于人生理想的见解有快乐论及直觉论等。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e11",
+      "name": "直觉论",
+      "canonical_name": "直觉论",
+      "type": "概念",
+      "evidence": "关于人生理想的见解有快乐论及直觉论等。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e12",
+      "name": "人生观所包含的内容",
+      "canonical_name": "人生观所包含的内容",
+      "type": "概念",
+      "evidence": "人生观所包含的内容虽分现实和理想两方面，而注重却在于理想方面。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e13",
+      "name": "人生现实的真状",
+      "canonical_name": "人生现实的真状",
+      "type": "概念",
+      "evidence": "我们对于人生想立一种完善的理想当然应以了解人生现实的真状为第一步，然而了解人生的现实完不过是为我们树立人生理想的准备；所以人生观就大体而言也可说是关于人生方面所有价值问题上的主张。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e14",
+      "name": "人生理想",
+      "canonical_name": "人生理想",
+      "type": "概念",
+      "evidence": "我们对于人生想立一种完善的理想当然应以了解人生现实的真状为第一步，然而了解人生的现实完不过是为我们树立人生理想的准备；所以人生观就大体而言也可说是关于人生方面所有价值问题上的主张。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e15",
+      "name": "人生方面所有价值问题上的主张",
+      "canonical_name": "人生方面所有价值问题上的主张",
+      "type": "概念",
+      "evidence": "所以人生观就大体而言也可说是关于人生方面所有价值问题上的主张。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e16",
+      "name": "人生方面各种价值问题",
+      "canonical_name": "人生方面各种价值问题",
+      "type": "问题",
+      "evidence": "我们对于这种人生方面各种价值问题的解决未始不能求一种共通应守的规范。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e17",
+      "name": "共通应守的规范",
+      "canonical_name": "共通应守的规范",
+      "type": "概念",
+      "evidence": "我们对于这种人生方面各种价值问题的解决未始不能求一种共通应守的规范。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e18",
+      "name": "诸氏",
+      "canonical_name": "诸氏",
+      "type": "阵营/群体",
+      "evidence": "现在我再讨论诸氏关于人生观的意见。",
+      "confidence": 1.0
+    }
+  ],
+  "claims": [
+    {
+      "id": "c1",
+      "speaker": "范寿康",
+      "claim": "他这个另论哲学的意见又未免是另生枝节了。",
+      "target": "他",
+      "claim_type": "评价性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "末，他这个另论哲学的意见又未免是另生枝节了。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c2",
+      "speaker": "范寿康",
+      "claim": "王星拱论《科学与人生观》，他所定的程次和范围也还不错，他对于这一层的见解，大体与梁氏相同。",
+      "target": "王星拱",
+      "claim_type": "评价性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "梁氏及伏园氏而外，王星拱论《科学与人生观》，他所定的程次和范围也还不错，他对于这一层的见解，大体与梁氏相同。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c3",
+      "speaker": "范寿康",
+      "claim": "至于其他诸氏中间，有的人们所实施的攻击系侧面攻击，有的人们所计画的战斗系短兵相搏，可以说树这一种堂堂正正的旗帜的差不多是没有。",
+      "target": "其他诸氏",
+      "claim_type": "评价性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "至于其他诸氏中间，有的人们所实施的攻击系侧面攻击，有的人们所计画的战斗系短兵相搏，可以说树这一种堂堂正正的旗帜的差不多是没有。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c4",
+      "speaker": "范寿康",
+      "claim": "我同梁氏一样，也以为这次问题的核心既是“人生观与科学的关系”，那末，讨论的程次和范围应当如下面所列: (一) 人生观是什么? (二）科学是什么? (三）人生观与科学研究竟有无关系？如有，他们二者的关系究是怎样?",
+      "target": "这次问题的核心",
+      "claim_type": "描述性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "照我的私见，我同梁氏一样，也以为这次问题的核心既是“人生观与科学的关系”，那末，讨论的程次和范围应当如下面所列: (一) 人生观是什么? (二）科学是什么? (三）人生观与科学研究竟有无关系？如有，他们二者的关系究是怎样?",
+      "confidence": 1.0
+    },
+    {
+      "id": "c5",
+      "speaker": "范寿康",
+      "claim": "人生观为关于人生的现实及理想两方面的见解。",
+      "target": "人生观",
+      "claim_type": "定义性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "人生观为关于人生的现实及理想两方面的见解。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c6",
+      "speaker": "范寿康",
+      "claim": "关于人生现实的见解有悲观论及乐观论等。",
+      "target": "人生现实的见解",
+      "claim_type": "描述性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "关于人生现实的见解有悲观论及乐观论等。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c7",
+      "speaker": "范寿康",
+      "claim": "关于人生理想的见解有快乐论及直觉论等。",
+      "target": "人生理想的见解",
+      "claim_type": "描述性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "关于人生理想的见解有快乐论及直觉论等。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c8",
+      "speaker": "范寿康",
+      "claim": "人生观所包含的内容虽分现实和理想两方面，而注重却在于理想方面。",
+      "target": "人生观所包含的内容",
+      "claim_type": "描述性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "人生观所包含的内容虽分现实和理想两方面，而注重却在于理想方面。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c9",
+      "speaker": "范寿康",
+      "claim": "我们对于人生想立一种完善的理想当然应以了解人生现实的真状为第一步，然而了解人生的现实完不过是为我们树立人生理想的准备；所以人生观就大体而言也可说是关于人生方面所有价值问题上的主张。",
+      "target": "人生观",
+      "claim_type": "定义性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "我们对于人生想立一种完善的理想当然应以了解人生现实的真状为第一步，然而了解人生的现实完不过是为我们树立人生理想的准备；所以人生观就大体而言也可说是关于人生方面所有价值问题上的主张。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c10",
+      "speaker": "范寿康",
+      "claim": "这一种主张，实际上虽是各人各殊，但是我们对于这种人生方面各种价值问题的解决未始不能求一种共通应守的规范。",
+      "target": "人生方面各种价值问题",
+      "claim_type": "描述性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "这一种主张，实际上虽是各人各殊，但是我们对于这种人生方面各种价值问题的解决未始不能求一种共通应守的规范。",
+      "confidence": 1.0
+    }
+  ],
+  "relations": [
+    {
+      "id": "r1",
+      "head": "范寿康",
+      "head_type": "人物",
+      "relation": "批评",
+      "relation_subtype": "一般批评",
+      "tail": "他",
+      "tail_type": "人物",
+      "polarity": "negative",
+      "stance_score": -0.8,
+      "intensity": 0.6,
+      "evidence": "末，他这个另论哲学的意见又未免是另生枝节了。",
+      "confidence": 1.0
+    },
+    {
+      "id": "r2",
+      "head": "范寿康",
+      "head_type": "人物",
+      "relation": "相关",
+      "relation_subtype": "部分肯定",
+      "tail": "王星拱",
+      "tail_type": "人物",
+      "polarity": "positive",
+      "stance_score": 0.6,
+      "intensity": 0.4,
+      "evidence": "梁氏及伏园氏而外，王星拱论《科学与人生观》，他所定的程次和范围也还不错，他对于这一层的见解，大体与梁氏相同。",
+      "confidence": 1.0
+    },
+    {
+      "id": "r3",
+      "head": "王星拱",
+      "head_type": "人物",
+      "relation": "主张",
+      "relation_subtype": "",
+      "tail": "程次和范围",
+      "tail_type": "概念",
+      "polarity": "neutral",
+      "stance_score": 0.0,
+      "intensity": 0.0,
+      "evidence": "梁氏及伏园氏而外，王星拱论《科学与人生观》，他所定的程次和范围也还不错，他对于这一层的见解，大体与梁氏相同。",
+      "confidence": 1.0
+    },
+    {
+      "id": "r4",
+      "head": "王星拱",
+      "head_type": "人物",
+      "relation": "主张",
+      "relation_subtype": "",
+      "tail": "这一层的见解",
+      "tail_type": "观点",
+      "polarity": "neutral",
+      "stance_score": 0.0,
+      "intensity": 0.0,
+      "evidence": "梁氏及伏园氏而外，王星拱论《科学与人生观》，他所定的程次和范围也还不错，他对于这一层的见解，大体与梁氏相同。",
+      "confidence": 1.0
+    },
+    {
+      "id": "r5",
+      "head": "王星拱",
+      "head_type": "人物",
+      "relation": "主张",
+      "relation_subtype": "",
+      "tail": "梁氏",
+      "tail_type": "人物",
+      "polarity": "neutral",
+      "stance_score": 0.0,
+      "intensity": 0.0,
+      "evidence": "梁氏及伏园氏而外，王星拱论《科学与人生观》，他所定的程次和范围也还不错，他对于这一层的见解，大体与梁氏相同。",
+      "confidence": 1.0
+    },
+    {
+      "id": "r6",
+      "head": "范寿康",
+      "head_type": "人物",
+      "relation": "相关",
+      "relation_subtype": "一般批评",
+      "tail": "其他诸氏",
+      "tail_type": "阵营/群体",
+      "polarity": "negative",
+      "stance_score": -0.7,
+      "intensity": 0.5,
+      "evidence": "至于其他诸氏中间，有的人们所实施的攻击系侧面攻击，有的人们所计画的战斗系短兵相搏，可以说树这一种堂堂正正的旗帜的差不多是没有。",
+      "confidence": 1.0
+    },
+    {
+      "id": "r7",
+      "head": "范寿康",
+      "head_type": "人物",
+      "relation": "主张",
+      "relation_subtype": "",
+      "tail": "这次问题的核心既是“人生观与科学的关系”",
+      "tail_type": "观点",
+      "polarity": "positive",
+      "stance_score": 0.8,
+      "intensity": 0.5,
+      "evidence": "照我的私见，我同梁氏一样，也以为这次问题的核心既是“人生观与科学的关系”，那末，讨论的程次和范围应当如下面所列: (一) 人生观是什么? (二）科学是什么? (三）人生观与科学研究竟有无关系？如有，他们二者的关系究是怎样?",
+      "confidence": 1.0
+    },
+    {
+      "id": "r8",
+      "head": "范寿康",
+      "head_type": "人物",
+      "relation": "主张",
+      "relation_subtype": "",
+      "tail": "梁氏",
+      "tail_type": "人物",
+      "polarity": "positive",
+      "stance_score": 0.8,
+      "intensity": 0.5,
+      "evidence": "照我的私见，我同梁氏一样，也以为这次问题的核心既是“人生观与科学的关系”，那末，讨论的程次和范围应当如下面所列: (一) 人生观是什么? (二）科学是什么? (三）人生观与科学研究竟有无关系？如有，他们二者的关系究是怎样?",
+      "confidence": 1.0
+    },
+    {
+      "id": "r9",
+      "head": "人生观",
+      "head_type": "概念",
+      "relation": "定义",
+      "relation_subtype": "概念澄清",
+      "tail": "关于人生的现实及理想两方面的见解",
+      "tail_type": "概念",
+      "polarity": "neutral",
+      "stance_score": 0.0,
+      "intensity": 0.0,
+      "evidence": "人生观为关于人生的现实及理想两方面的见解。",
+      "confidence": 1.0
+    },
+    {
+      "id": "r10",
+      "head": "人生观所包含的内容",
+      "head_type": "概念",
+      "relation": "包含",
+      "relation_subtype": "",
+      "tail": "现实和理想两方面",
+      "tail_type": "概念",
+      "polarity": "neutral",
+      "stance_score": 0.0,
+      "intensity": 0.0,
+      "evidence": "人生观所包含的内容虽分现实和理想两方面，而注重却在于理想方面。",
+      "confidence": 1.0
+    },
+    {
+      "id": "r11",
+      "head": "人生观所包含的内容",
+      "head_type": "概念",
+      "relation": "包含",
+      "relation_subtype": "",
+      "tail": "理想方面",
+      "tail_type": "概念",
+      "polarity": "neutral",
+      "stance_score": 0.0,
+      "intensity": 0.0,
+      "evidence": "人生观所包含的内容虽分现实和理想两方面，而注重却在于理想方面。",
+      "confidence": 1.0
+    },
+    {
+      "id": "r12",
+      "head": "了解人生现实的真状",
+      "head_type": "概念",
+      "relation": "作为论据支持",
+      "relation_subtype": "",
+      "tail": "树立人生理想的准备",
+      "tail_type": "概念",
+      "polarity": "neutral",
+      "stance_score": 0.0,
+      "intensity": 0.0,
+      "evidence": "我们对于人生想立一种完善的理想当然应以了解人生现实的真状为第一步，然而了解人生的现实完不过是为我们树立人生理想的准备；所以人生观就大体而言也可说是关于人生方面所有价值问题上的主张。",
+      "confidence": 1.0
+    },
+    {
+      "id": "r13",
+      "head": "了解人生的现实",
+      "head_type": "概念",
+      "relation": "导致",
+      "relation_subtype": "",
+      "tail": "树立人生理想的准备",
+      "tail_type": "概念",
+      "polarity": "neutral",
+      "stance_score": 0.0,
+      "intensity": 0.0,
+      "evidence": "我们对于人生想立一种完善的理想当然应以了解人生现实的真状为第一步，然而了解人生的现实完不过是为我们树立人生理想的准备；所以人生观就大体而言也可说是关于人生方面所有价值问题上的主张。",
+      "confidence": 1.0
+    },
+    {
+      "id": "r14",
+      "head": "人生观",
+      "head_type": "概念",
+      "relation": "定义",
+      "relation_subtype": "概念澄清",
+      "tail": "关于人生方面所有价值问题上的主张",
+      "tail_type": "概念",
+      "polarity": "neutral",
+      "stance_score": 0.0,
+      "intensity": 0.0,
+      "evidence": "所以人生观就大体而言也可说是关于人生方面所有价值问题上的主张。",
+      "confidence": 1.0
+    },
+    {
+      "id": "r15",
+      "head": "这一种主张",
+      "head_type": "观点",
+      "relation": "包含",
+      "relation_subtype": "",
+      "tail": "各人各殊",
+      "tail_type": "概念",
+      "polarity": "neutral",
+      "stance_score": 0.0,
+      "intensity": 0.0,
+      "evidence": "这一种主张，实际上虽是各人各殊，但是我们对于这种人生方面各种价值问题的解决未始不能求一种共通应守的规范。",
+      "confidence": 1.0
+    },
+    {
+      "id": "r16",
+      "head": "范寿康",
+      "head_type": "人物",
+      "relation": "主张",
+      "relation_subtype": "",
+      "tail": "我们对于这种人生方面各种价值问题的解决未始不能求一种共通应守的规范",
+      "tail_type": "观点",
+      "polarity": "positive",
+      "stance_score": 0.7,
+      "intensity": 0.5,
+      "evidence": "这一种主张，实际上虽是各人各殊，但是我们对于这种人生方面各种价值问题的解决未始不能求一种共通应守的规范。",
+      "confidence": 1.0
+    }
+  ],
+  "definitions": [
+    {
+      "id": "def1",
+      "term": "人生观",
+      "definition": "关于人生的现实及理想两方面的见解。",
+      "evidence": "人生观为关于人生的现实及理想两方面的见解。",
+      "confidence": 1.0
+    },
+    {
+      "id": "def2",
+      "term": "人生观",
+      "definition": "关于人生方面所有价值问题上的主张。",
+      "evidence": "所以人生观就大体而言也可说是关于人生方面所有价值问题上的主张。",
+      "confidence": 1.0
+    }
+  ],
+  "citations": [],
+  "rhetorical_devices": [
+    {
+      "id": "rh1",
+      "expression": "另生枝节",
+      "device_type": "比喻",
+      "literal_target": "他另论哲学的意见",
+      "function": "批评对方意见多余、不必要",
+      "evidence": "末，他这个另论哲学的意见又未免是另生枝节了。",
+      "confidence": 1.0
+    },
+    {
+      "id": "rh2",
+      "expression": "侧面攻击",
+      "device_type": "比喻",
+      "literal_target": "其他诸氏的攻击方式",
+      "function": "描述对方攻击方式不正面",
+      "evidence": "至于其他诸氏中间，有的人们所实施的攻击系侧面攻击，有的人们所计画的战斗系短兵相搏，可以说树这一种堂堂正正的旗帜的差不多是没有。",
+      "confidence": 1.0
+    },
+    {
+      "id": "rh3",
+      "expression": "短兵相搏",
+      "device_type": "比喻",
+      "literal_target": "其他诸氏的战斗方式",
+      "function": "描述对方战斗方式直接但缺乏旗帜",
+      "evidence": "至于其他诸氏中间，有的人们所实施的攻击系侧面攻击，有的人们所计画的战斗系短兵相搏，可以说树这一种堂堂正正的旗帜的差不多是没有。",
+      "confidence": 1.0
+    },
+    {
+      "id": "rh4",
+      "expression": "树这一种堂堂正正的旗帜",
+      "device_type": "比喻",
+      "literal_target": "其他诸氏缺乏正面的、明确的立场或主张",
+      "function": "批评对方没有树立明确的正面主张",
+      "evidence": "可以说树这一种堂堂正正的旗帜的差不多是没有。",
+      "confidence": 1.0
+    }
+  ],
+  "uncertainties": [
+    {
+      "item": "“他”的具体指代",
+      "reason": "文本中“他这个另论哲学的意见”中的“他”未明确指代前文，无法确定具体人物。"
+    },
+    {
+      "item": "“梁氏”的具体身份",
+      "reason": "文本中仅出现“梁氏”，未提供全名或更多背景信息。"
+    },
+    {
+      "item": "“伏园氏”的具体身份",
+      "reason": "文本中仅出现“伏园氏”，未提供全名或更多背景信息。"
+    },
+    {
+      "item": "“其他诸氏”的具体范围",
+      "reason": "文本中“其他诸氏”指代前文提及的论战参与者，但未明确列出具体人物。"
+    }
+  ],
+  "_meta": {
+    "status": "success",
+    "stage": "extract",
+    "model": "deepseek-ai/DeepSeek-V4-Flash",
+    "base_url": "https://api.siliconflow.cn/v1",
+    "prompt_version": "v2.0",
+    "schema_version": "lite_v3.0",
+    "segment_id": "范寿康_000_14d2ac72_s0002",
+    "article_id": "范寿康_000_14d2ac72",
+    "char_start": 1017,
+    "char_end": 1590,
+    "raw_path": "E:\\1研究生\\岭南大学\\论文毕业\\capstone\\资料\\新的内容开始了\\local_upload\\kg_runs_v2\\王平陵_等4篇\\raw_outputs\\extract\\范寿康_000_14d2ac72_s0002.txt",
+    "parsed_at": "2026-05-21T03:26:13",
+    "started_at": "2026-05-21T03:25:31",
+    "elapsed_seconds": 42.329,
+    "strict_evidence_check": true,
+    "drop_unsupported_evidence": true,
+    "request_timeout_seconds": 180
+  }
+}

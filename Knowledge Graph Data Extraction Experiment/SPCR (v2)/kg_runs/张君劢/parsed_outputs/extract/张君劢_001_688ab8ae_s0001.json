@@ -1,0 +1,561 @@
+{
+  "metadata": {
+    "schema_version": "lite_v3.0",
+    "article_id": "张君劢_001_688ab8ae",
+    "article_title": "人生观（中篇）",
+    "source_author": "张君劢",
+    "section_title": "",
+    "section_author": "",
+    "segment_id": "张君劢_001_688ab8ae_s0001",
+    "segment_index": 1,
+    "source_file": "E:\\1研究生\\岭南大学\\论文毕业\\capstone\\资料\\新的内容开始了\\local_upload\\input_张君劢\\张君劢.txt"
+  },
+  "entities": [
+    {
+      "id": "e1",
+      "name": "在君",
+      "canonical_name": "在君",
+      "type": "人物",
+      "evidence": "在君以电话接线生比脑经。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e2",
+      "name": "皮尔逊",
+      "canonical_name": "皮尔逊",
+      "type": "人物",
+      "evidence": "皮尔逊以脑为中央电话交换所。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e3",
+      "name": "电话接线生",
+      "canonical_name": "电话接线生",
+      "type": "比喻/类比",
+      "evidence": "在君以电话接线生比脑经。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e4",
+      "name": "脑经",
+      "canonical_name": "脑经",
+      "type": "概念",
+      "evidence": "在君以电话接线生比脑经。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e5",
+      "name": "中央电话交换所",
+      "canonical_name": "中央电话交换所",
+      "type": "比喻/类比",
+      "evidence": "皮尔逊以脑为中央电话交换所。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e6",
+      "name": "脑",
+      "canonical_name": "脑",
+      "type": "概念",
+      "evidence": "皮尔逊以脑为中央电话交换所。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e7",
+      "name": "袭取主义",
+      "canonical_name": "袭取主义",
+      "type": "主义/学说/理论",
+      "evidence": "惟在君既已标榜不袭取主义，而其文字不顾他人之版权至于如是，则我不能不为在君惜耳。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e8",
+      "name": "科学的知识论",
+      "canonical_name": "科学的知识论",
+      "type": "概念",
+      "evidence": "我所最不解者，则“科学的知识论”之名词是也。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e9",
+      "name": "唯心主义",
+      "canonical_name": "唯心主义",
+      "type": "主义/学说/理论",
+      "evidence": "盖古今所以有唯心主义，惟实主义，经验主义，理性主义之别者，即以智识论之漫无定说实使之然也。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e10",
+      "name": "惟实主义",
+      "canonical_name": "惟实主义",
+      "type": "主义/学说/理论",
+      "evidence": "盖古今所以有唯心主义，惟实主义，经验主义，理性主义之别者，即以智识论之漫无定说实使之然也。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e11",
+      "name": "经验主义",
+      "canonical_name": "经验主义",
+      "type": "主义/学说/理论",
+      "evidence": "盖古今所以有唯心主义，惟实主义，经验主义，理性主义之别者，即以智识论之漫无定说实使之然也。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e12",
+      "name": "理性主义",
+      "canonical_name": "理性主义",
+      "type": "主义/学说/理论",
+      "evidence": "盖古今所以有唯心主义，惟实主义，经验主义，理性主义之别者，即以智识论之漫无定说实使之然也。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e13",
+      "name": "智识论",
+      "canonical_name": "智识论",
+      "type": "概念",
+      "evidence": "即以智识论之漫无定说实使之然也。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e14",
+      "name": "赫氏",
+      "canonical_name": "赫氏",
+      "type": "人物",
+      "evidence": "不止赫氏、达氏、詹氏、杜氏、马氏数人。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e15",
+      "name": "达氏",
+      "canonical_name": "达氏",
+      "type": "人物",
+      "evidence": "不止赫氏、达氏、詹氏、杜氏、马氏数人。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e16",
+      "name": "詹氏",
+      "canonical_name": "詹氏",
+      "type": "人物",
+      "evidence": "不止赫氏、达氏、詹氏、杜氏、马氏数人。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e17",
+      "name": "杜氏",
+      "canonical_name": "杜氏",
+      "type": "人物",
+      "evidence": "不止赫氏、达氏、詹氏、杜氏、马氏数人。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e18",
+      "name": "马氏",
+      "canonical_name": "马氏",
+      "type": "人物",
+      "evidence": "不止赫氏、达氏、詹氏、杜氏、马氏数人。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e19",
+      "name": "布虚那",
+      "canonical_name": "布虚那",
+      "type": "人物",
+      "evidence": "德医学家布虚那有心为物质之说。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e20",
+      "name": "马勒蓄",
+      "canonical_name": "马勒蓄",
+      "type": "人物",
+      "evidence": "生理学家马勒蓄氏有无磷质则无思想之说。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e21",
+      "name": "适之",
+      "canonical_name": "适之",
+      "type": "人物",
+      "evidence": "适之何尝不抄袭杜威？",
+      "confidence": 1.0
+    },
+    {
+      "id": "e22",
+      "name": "杜威",
+      "canonical_name": "杜威",
+      "type": "人物",
+      "evidence": "适之何尝不抄袭杜威？",
+      "confidence": 1.0
+    },
+    {
+      "id": "e23",
+      "name": "共产党",
+      "canonical_name": "共产党",
+      "type": "阵营/群体",
+      "evidence": "共产党何尝不抄袭马克思？",
+      "confidence": 1.0
+    },
+    {
+      "id": "e24",
+      "name": "马克思",
+      "canonical_name": "马克思",
+      "type": "人物",
+      "evidence": "共产党何尝不抄袭马克思？",
+      "confidence": 1.0
+    },
+    {
+      "id": "e25",
+      "name": "抄袭",
+      "canonical_name": "抄袭",
+      "type": "概念",
+      "evidence": "大家皆抄袭外人之言耳。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e26",
+      "name": "自由选择",
+      "canonical_name": "自由选择",
+      "type": "概念",
+      "evidence": "以各人可以自由选择也。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e27",
+      "name": "心为物质之说",
+      "canonical_name": "心为物质之说",
+      "type": "观点",
+      "evidence": "德医学家布虚那有心为物质之说。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e28",
+      "name": "无磷质则无思想之说",
+      "canonical_name": "无磷质则无思想之说",
+      "type": "观点",
+      "evidence": "生理学家马勒蓄氏有无磷质则无思想之说。",
+      "confidence": 1.0
+    }
+  ],
+  "claims": [
+    {
+      "id": "c1",
+      "speaker": "张君劢",
+      "claim": "今国中号为学问家者，何一人能真有所发明，大家皆抄袭外人之言耳。",
+      "target": "国中号为学问家者",
+      "claim_type": "评价性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "今国中号为学问家者，何一人能真有所发明，大家皆抄袭外人之言耳。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c2",
+      "speaker": "张君劢",
+      "claim": "各人读书，各取其性之所近者，从而主张之。然同为抄袭，而有不抄袭者在，以各人可以自由选择也。",
+      "target": "抄袭",
+      "claim_type": "描述性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "各人读书，各取其性之所近者，从而主张之。然同为抄袭，而有不抄袭者在，以各人可以自由选择也。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c3",
+      "speaker": "张君劢",
+      "claim": "即令抄袭，不足为病。",
+      "target": "抄袭",
+      "claim_type": "评价性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "以吾观之，即令抄袭，不足为病。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c4",
+      "speaker": "张君劢",
+      "claim": "在君既已标榜不袭取主义，而其文字不顾他人之版权至于如是，则我不能不为在君惜耳。",
+      "target": "在君",
+      "claim_type": "评价性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "惟在君既已标榜不袭取主义，而其文字不顾他人之版权至于如是，则我不能不为在君惜耳。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c5",
+      "speaker": "张君劢",
+      "claim": "苟皮尔逊之言诚能于真理之发明有所补益，我并不以其出于在君之抄袭而蔑视之。",
+      "target": "皮尔逊之言",
+      "claim_type": "评价性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "苟皮尔逊之言诚能于真理之发明有所补益，我并不以其出于在君之抄袭而蔑视之。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c6",
+      "speaker": "张君劢",
+      "claim": "我所最不解者，则“科学的知识论”之名词是也。",
+      "target": "科学的知识论",
+      "claim_type": "问题提出",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "我所最不解者，则“科学的知识论”之名词是也。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c7",
+      "speaker": "张君劢",
+      "claim": "若以“科学的”三字作为已有定论解耶，则知识论应早已为一种科学，与物理学生物学等，何待于今日哲学家纷纷聚讼。",
+      "target": "科学的知识论",
+      "claim_type": "反驳性主张",
+      "claim_status": "作者推论",
+      "polarity": "negative",
+      "evidence": "若以“科学的”三字作为已有定论解耶，则知识论应早已为一种科学，与物理学生物学等，何待于今日哲学家纷纷聚讼。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c8",
+      "speaker": "张君劢",
+      "claim": "盖古今所以有唯心主义，惟实主义，经验主义，理性主义之别者，即以智识论之漫无定说实使之然也。",
+      "target": "智识论",
+      "claim_type": "因果主张",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "盖古今所以有唯心主义，惟实主义，经验主义，理性主义之别者，即以智识论之漫无定说实使之然也。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c9",
+      "speaker": "张君劢",
+      "claim": "既已无定说，而必冠以“科学的”三字，斯之谓不通。",
+      "target": "科学的知识论",
+      "claim_type": "评价性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "既已无定说，而必冠以“科学的”三字，斯之谓不通。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c10",
+      "speaker": "张君劢",
+      "claim": "若在君所引之知识论，以其为科学家之言论，乃冠以“科学的”三字耶，则古今科学家中有关于知识论之主张者，不止赫氏、达氏、詹氏、杜氏、马氏数人。",
+      "target": "在君",
+      "claim_type": "反驳性主张",
+      "claim_status": "作者推论",
+      "polarity": "negative",
+      "evidence": "若在君所引之知识论，以其为科学家之言论，乃冠以“科学的”三字耶，则古今科学家中有关于知识论之主张者，不止赫氏、达氏、詹氏、杜氏、马氏数人。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c11",
+      "speaker": "张君劢",
+      "claim": "以在君之尊重科学家，何独于布虚那氏、马勒蓄氏而薄之。",
+      "target": "在君",
+      "claim_type": "问题提出",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "以在君之尊重科学家，何独于布虚那氏、马勒蓄氏而薄之。",
+      "confidence": 1.0
+    }
+  ],
+  "relations": [
+    {
+      "id": "r1",
+      "head": "在君",
+      "head_type": "人物",
+      "relation": "类比",
+      "relation_subtype": "不适用",
+      "tail": "电话接线生",
+      "tail_type": "比喻/类比",
+      "polarity": "neutral",
+      "stance_score": 0.0,
+      "intensity": 0.0,
+      "evidence": "在君以电话接线生比脑经。",
+      "confidence": 1.0
+    },
+    {
+      "id": "r2",
+      "head": "皮尔逊",
+      "head_type": "人物",
+      "relation": "类比",
+      "relation_subtype": "不适用",
+      "tail": "中央电话交换所",
+      "tail_type": "比喻/类比",
+      "polarity": "neutral",
+      "stance_score": 0.0,
+      "intensity": 0.0,
+      "evidence": "皮尔逊以脑为中央电话交换所。",
+      "confidence": 1.0
+    },
+    {
+      "id": "r3",
+      "head": "张君劢",
+      "head_type": "人物",
+      "relation": "批评",
+      "relation_subtype": "一般批评",
+      "tail": "在君",
+      "tail_type": "人物",
+      "polarity": "negative",
+      "stance_score": -0.5,
+      "intensity": 0.5,
+      "evidence": "惟在君既已标榜不袭取主义，而其文字不顾他人之版权至于如是，则我不能不为在君惜耳。",
+      "confidence": 1.0
+    },
+    {
+      "id": "r4",
+      "head": "智识论",
+      "head_type": "概念",
+      "relation": "导致",
+      "relation_subtype": "不适用",
+      "tail": "唯心主义",
+      "tail_type": "主义/学说/理论",
+      "polarity": "neutral",
+      "stance_score": 0.0,
+      "intensity": 0.0,
+      "evidence": "盖古今所以有唯心主义，惟实主义，经验主义，理性主义之别者，即以智识论之漫无定说实使之然也。",
+      "confidence": 1.0
+    },
+    {
+      "id": "r5",
+      "head": "智识论",
+      "head_type": "概念",
+      "relation": "导致",
+      "relation_subtype": "不适用",
+      "tail": "惟实主义",
+      "tail_type": "主义/学说/理论",
+      "polarity": "neutral",
+      "stance_score": 0.0,
+      "intensity": 0.0,
+      "evidence": "盖古今所以有唯心主义，惟实主义，经验主义，理性主义之别者，即以智识论之漫无定说实使之然也。",
+      "confidence": 1.0
+    },
+    {
+      "id": "r6",
+      "head": "智识论",
+      "head_type": "概念",
+      "relation": "导致",
+      "relation_subtype": "不适用",
+      "tail": "经验主义",
+      "tail_type": "主义/学说/理论",
+      "polarity": "neutral",
+      "stance_score": 0.0,
+      "intensity": 0.0,
+      "evidence": "盖古今所以有唯心主义，惟实主义，经验主义，理性主义之别者，即以智识论之漫无定说实使之然也。",
+      "confidence": 1.0
+    },
+    {
+      "id": "r7",
+      "head": "智识论",
+      "head_type": "概念",
+      "relation": "导致",
+      "relation_subtype": "不适用",
+      "tail": "理性主义",
+      "tail_type": "主义/学说/理论",
+      "polarity": "neutral",
+      "stance_score": 0.0,
+      "intensity": 0.0,
+      "evidence": "盖古今所以有唯心主义，惟实主义，经验主义，理性主义之别者，即以智识论之漫无定说实使之然也。",
+      "confidence": 1.0
+    },
+    {
+      "id": "r8",
+      "head": "张君劢",
+      "head_type": "人物",
+      "relation": "质疑",
+      "relation_subtype": "事实质疑",
+      "tail": "在君",
+      "tail_type": "人物",
+      "polarity": "negative",
+      "stance_score": -0.5,
+      "intensity": 0.5,
+      "evidence": "以在君之尊重科学家，何独于布虚那氏、马勒蓄氏而薄之。",
+      "confidence": 1.0
+    }
+  ],
+  "definitions": [],
+  "citations": [
+    {
+      "id": "cit1",
+      "citer": "张君劢",
+      "quoted_author": "布虚那",
+      "quoted_work": "",
+      "quoted_claim": "心为物质之说",
+      "function": "作为批评对象",
+      "evidence": "德医学家布虚那有心为物质之说。",
+      "confidence": 1.0
+    },
+    {
+      "id": "cit2",
+      "citer": "张君劢",
+      "quoted_author": "马勒蓄",
+      "quoted_work": "",
+      "quoted_claim": "无磷质则无思想之说",
+      "function": "作为批评对象",
+      "evidence": "生理学家马勒蓄氏有无磷质则无思想之说。",
+      "confidence": 1.0
+    }
+  ],
+  "rhetorical_devices": [
+    {
+      "id": "rh1",
+      "expression": "在君以电话接线生比脑经",
+      "device_type": "类比",
+      "literal_target": "脑经的功能",
+      "function": "用电话接线生类比脑经的功能，可能用于论证科学方法",
+      "evidence": "在君以电话接线生比脑经。",
+      "confidence": 1.0
+    },
+    {
+      "id": "rh2",
+      "expression": "皮尔逊以脑为中央电话交换所",
+      "device_type": "类比",
+      "literal_target": "脑的功能",
+      "function": "用中央电话交换所类比脑的功能，可能用于论证科学方法",
+      "evidence": "皮尔逊以脑为中央电话交换所。",
+      "confidence": 1.0
+    },
+    {
+      "id": "rh3",
+      "expression": "斯之谓不通",
+      "device_type": "讽刺",
+      "literal_target": "科学的知识论这一名词",
+      "function": "讽刺性地批评“科学的知识论”这一名词的不合理",
+      "evidence": "既已无定说，而必冠以“科学的”三字，斯之谓不通。",
+      "confidence": 1.0
+    }
+  ],
+  "uncertainties": [
+    {
+      "item": "乃以手压住，乃去求药为喻",
+      "reason": "文本开头不完整，无法确定此比喻的完整内容和上下文"
+    },
+    {
+      "item": "在君之袭取之定义如何，我不得而知之",
+      "reason": "作者表示不知道在君对‘袭取’的定义，无法从文本中确定"
+    },
+    {
+      "item": "上所列举者，亦应视为袭取否耶？",
+      "reason": "作者提出疑问，但未明确回答，无法确定是否应视为袭取"
+    }
+  ],
+  "_meta": {
+    "status": "success",
+    "stage": "extract",
+    "model": "deepseek-ai/DeepSeek-V4-Flash",
+    "base_url": "https://api.siliconflow.cn/v1",
+    "prompt_version": "v2.0",
+    "schema_version": "lite_v3.0",
+    "segment_id": "张君劢_001_688ab8ae_s0001",
+    "article_id": "张君劢_001_688ab8ae",
+    "char_start": 511,
+    "char_end": 1110,
+    "raw_path": "E:\\1研究生\\岭南大学\\论文毕业\\capstone\\资料\\新的内容开始了\\local_upload\\kg_runs_v2\\张君劢\\raw_outputs\\extract\\张君劢_001_688ab8ae_s0001.txt",
+    "parsed_at": "2026-05-21T17:59:48",
+    "started_at": "2026-05-21T17:54:37",
+    "elapsed_seconds": 311.363,
+    "strict_evidence_check": true,
+    "drop_unsupported_evidence": true,
+    "request_timeout_seconds": 180
+  }
+}

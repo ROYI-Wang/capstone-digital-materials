@@ -1,0 +1,285 @@
+{
+  "metadata": {
+    "schema_version": "lite_v2.0",
+    "article_id": "唐钺_004_0712956a",
+    "article_title": "读了《评所谓“科学与玄学之争”》以后",
+    "source_author": "唐钺",
+    "section_title": "",
+    "section_author": "",
+    "segment_id": "唐钺_004_0712956a_s0006",
+    "segment_index": 6,
+    "source_file": "E:\\1研究生\\岭南大学\\论文毕业\\capstone\\资料\\新的内容开始了\\local_upload\\input_w1\\唐钺.txt"
+  },
+  "entities": [
+    {
+      "id": "e1",
+      "name": "意志",
+      "canonical_name": "意志",
+      "type": "概念",
+      "evidence": "意志有因不悖于负责原理",
+      "confidence": 1.0
+    },
+    {
+      "id": "e2",
+      "name": "我",
+      "canonical_name": "我",
+      "type": "概念",
+      "evidence": "所谓我者是什么东西",
+      "confidence": 1.0
+    },
+    {
+      "id": "e3",
+      "name": "性格习惯",
+      "canonical_name": "性格习惯",
+      "type": "概念",
+      "evidence": "意志和意志的原因（即性格习惯等）不是我吗",
+      "confidence": 1.0
+    },
+    {
+      "id": "e4",
+      "name": "遗传",
+      "canonical_name": "遗传",
+      "type": "概念",
+      "evidence": "性格习惯等，都是遗传和从前环境的结果",
+      "confidence": 1.0
+    },
+    {
+      "id": "e5",
+      "name": "环境",
+      "canonical_name": "环境",
+      "type": "概念",
+      "evidence": "性格习惯等，都是遗传和从前环境的结果",
+      "confidence": 1.0
+    },
+    {
+      "id": "e6",
+      "name": "佛法小乘教",
+      "canonical_name": "佛法小乘教",
+      "type": "主义/学说/理论",
+      "evidence": "像佛法小乘教所主张的",
+      "confidence": 1.0
+    }
+  ],
+  "claims": [
+    {
+      "id": "c1",
+      "speaker": "唐钺",
+      "claim": "社会的对治，也是因果的必然关系",
+      "target": "社会对治",
+      "claim_type": "社会理论主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "社会的对治，也是因果的必然关系",
+      "confidence": 1.0
+    },
+    {
+      "id": "c2",
+      "speaker": "唐钺",
+      "claim": "意志有因不悖于负责原理",
+      "target": "意志",
+      "claim_type": "知识论主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "意志有因不悖于负责原理",
+      "confidence": 1.0
+    },
+    {
+      "id": "c3",
+      "speaker": "唐钺",
+      "claim": "所谓我者，就是这些意志和意志的原因（即性格习惯等）",
+      "target": "我",
+      "claim_type": "定义性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "难道这些意志和意志的原因（即性格习惯等）不是我吗",
+      "confidence": 1.0
+    },
+    {
+      "id": "c4",
+      "speaker": "唐钺",
+      "claim": "许多原因的成绩，就是我的成绩",
+      "target": "成绩",
+      "claim_type": "知识论主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "所谓许多原因的成绩，不就是我的成绩吗",
+      "confidence": 1.0
+    },
+    {
+      "id": "c5",
+      "speaker": "唐钺",
+      "claim": "自今推后，我却是许多非我的结果的原动力",
+      "target": "我",
+      "claim_type": "本体论主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "自今推后，我却是许多非我的结果的原动力",
+      "confidence": 1.0
+    },
+    {
+      "id": "c6",
+      "speaker": "唐钺",
+      "claim": "我觉得这将来的意味正无穷哩",
+      "target": "将来",
+      "claim_type": "价值评价",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "我觉得这将来的意味正无穷哩",
+      "confidence": 1.0
+    },
+    {
+      "id": "c7",
+      "speaker": "唐钺",
+      "claim": "除却此我，却没有别的我，此我是我惟一的所有",
+      "target": "我",
+      "claim_type": "本体论主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "除却此我，却没有别的我，此我是我惟一的所有",
+      "confidence": 1.0
+    },
+    {
+      "id": "c8",
+      "speaker": "唐钺",
+      "claim": "我何至觉得他的活动毫无意味呢",
+      "target": "我",
+      "claim_type": "价值评价",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "我何至觉得他的活动毫无意味呢",
+      "confidence": 1.0
+    },
+    {
+      "id": "c9",
+      "speaker": "唐钺",
+      "claim": "大多数人都不作如是观，并不因为此我是因缘和合而成遂对于学问事业等失掉兴味了",
+      "target": "大多数人",
+      "claim_type": "社会理论主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "大多数人都不作如是观，并不因为此我是因缘和合而成遂对于学问事业等失掉兴味了",
+      "confidence": 1.0
+    },
+    {
+      "id": "c10",
+      "speaker": "唐钺",
+      "claim": "以上拉拉杂杂说了许多话，不过要说明我前此几篇议论的立脚点",
+      "target": "唐钺",
+      "claim_type": "论战策略批评",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "以上拉拉杂杂说了许多话，不过要说明我前此几篇议论的立脚点",
+      "confidence": 1.0
+    }
+  ],
+  "relations": [
+    {
+      "id": "r1",
+      "head": "意志",
+      "head_type": "概念",
+      "relation": "包含",
+      "tail": "性格习惯",
+      "tail_type": "概念",
+      "polarity": "positive",
+      "evidence": "意志和意志的原因（即性格习惯等）",
+      "confidence": 1.0
+    },
+    {
+      "id": "r2",
+      "head": "性格习惯",
+      "head_type": "概念",
+      "relation": "归因于",
+      "tail": "遗传",
+      "tail_type": "概念",
+      "polarity": "positive",
+      "evidence": "性格习惯等，都是遗传和从前环境的结果",
+      "confidence": 1.0
+    },
+    {
+      "id": "r3",
+      "head": "性格习惯",
+      "head_type": "概念",
+      "relation": "归因于",
+      "tail": "环境",
+      "tail_type": "概念",
+      "polarity": "positive",
+      "evidence": "性格习惯等，都是遗传和从前环境的结果",
+      "confidence": 1.0
+    },
+    {
+      "id": "r4",
+      "head": "唐钺",
+      "head_type": "概念",
+      "relation": "归因于",
+      "tail": "遗传",
+      "tail_type": "概念",
+      "polarity": "positive",
+      "evidence": "我之为我，固然是遗传及从前环境的结果",
+      "confidence": 1.0
+    },
+    {
+      "id": "r5",
+      "head": "唐钺",
+      "head_type": "概念",
+      "relation": "归因于",
+      "tail": "环境",
+      "tail_type": "概念",
+      "polarity": "positive",
+      "evidence": "我之为我，固然是遗传及从前环境的结果",
+      "confidence": 1.0
+    },
+    {
+      "id": "r6",
+      "head": "唐钺",
+      "head_type": "概念",
+      "relation": "导致",
+      "tail": "非我的结果",
+      "tail_type": "概念",
+      "polarity": "positive",
+      "evidence": "自今推后，我却是许多非我的结果的原动力",
+      "confidence": 1.0
+    }
+  ],
+  "definitions": [],
+  "citations": [],
+  "rhetorical_devices": [
+    {
+      "id": "rh1",
+      "expression": "拉拉杂杂",
+      "device_type": "比喻",
+      "literal_target": "唐钺自己的议论",
+      "function": "自谦，表示论述不系统",
+      "evidence": "以上拉拉杂杂说了许多话",
+      "confidence": 1.0
+    }
+  ],
+  "uncertainties": [
+    {
+      "item": "文本开头'，何以要对治'缺少前文，无法确定'对治'的具体所指",
+      "reason": "文本片段以逗号开头，缺少完整句子"
+    },
+    {
+      "item": "文本中'（丙）'之前的内容缺失，无法确定'以上所说'具体指什么",
+      "reason": "文本片段从'（丙）'开始，缺少前文"
+    }
+  ],
+  "_meta": {
+    "status": "success",
+    "stage": "extract",
+    "model": "deepseek-ai/DeepSeek-V4-Flash",
+    "base_url": "https://api.siliconflow.cn/v1",
+    "prompt_version": "extract_prompt_v2.0",
+    "schema_version": "lite_v2.0",
+    "segment_id": "唐钺_004_0712956a_s0006",
+    "article_id": "唐钺_004_0712956a",
+    "char_start": 2908,
+    "char_end": 3475,
+    "raw_path": "E:\\1研究生\\岭南大学\\论文毕业\\capstone\\资料\\新的内容开始了\\local_upload\\kg_runs\\唐钺\\raw_outputs\\extract\\唐钺_004_0712956a_s0006.txt",
+    "parsed_at": "2026-05-20T02:45:54",
+    "started_at": "2026-05-20T02:44:27",
+    "elapsed_seconds": 87.476,
+    "strict_evidence_check": true,
+    "drop_unsupported_evidence": true,
+    "request_timeout_seconds": 180
+  }
+}

@@ -1,0 +1,477 @@
+{
+  "metadata": {
+    "schema_version": "lite_v3.0",
+    "article_id": "唐钺_002_5e996979",
+    "article_title": "一个痴人的说梦 ——情感真是超科学的吗？",
+    "source_author": "唐钺",
+    "section_title": "",
+    "section_author": "",
+    "segment_id": "唐钺_002_5e996979_s0007",
+    "segment_index": 7,
+    "source_file": "E:\\1研究生\\岭南大学\\论文毕业\\capstone\\资料\\新的内容开始了\\local_upload\\input_唐钺\\唐钺.txt"
+  },
+  "entities": [
+    {
+      "id": "e1",
+      "name": "热情脱离理智的羁绊",
+      "canonical_name": "热情脱离理智的羁绊",
+      "type": "概念",
+      "evidence": "因为热情脱离理智的羁绊的结果。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e2",
+      "name": "爱",
+      "canonical_name": "爱",
+      "type": "概念",
+      "evidence": "我们所以看得爱这样神秘，是：（一）因为他的成因比别的心理事项复杂，一时不能分析得精密；（二）因为爱是最强度的快感，我们不肯用理智分析他的心理条件，因而消灭他；（三）因为他是人类最高的快感，所以许多文学家把他理想化，弄得我们以为爱是“玄之又玄”，而且“神圣不可侵犯”的东西。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e3",
+      "name": "爱是“玄之又玄”，而且“神圣不可侵犯”",
+      "canonical_name": "爱是玄之又玄神圣不可侵犯",
+      "type": "观点",
+      "evidence": "弄得我们以为爱是“玄之又玄”，而且“神圣不可侵犯”的东西。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e4",
+      "name": "爱同火差不多",
+      "canonical_name": "爱同火差不多",
+      "type": "比喻/类比",
+      "evidence": "其实爱同火差不多：他的本体没有什么好坏，而他的结果是可以好可以坏的。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e5",
+      "name": "爱是神秘，是绝对超理智的",
+      "canonical_name": "爱是神秘是绝对超理智的",
+      "type": "观点",
+      "evidence": "近年青年男女，因为信仰爱是神秘，是绝对超理智的，而弄得身败名裂，贻祸他人的，已经不少了。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e6",
+      "name": "爱的本身",
+      "canonical_name": "爱的本身",
+      "type": "概念",
+      "evidence": "至于爱的本身，是经验的“所与”，是不可分析而且不必分析的，同美一样。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e7",
+      "name": "经验的“所与”",
+      "canonical_name": "经验的所与",
+      "type": "概念",
+      "evidence": "至于爱的本身，是经验的“所与”，是不可分析而且不必分析的，同美一样。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e8",
+      "name": "美",
+      "canonical_name": "美",
+      "type": "概念",
+      "evidence": "至于爱的本身，是经验的“所与”，是不可分析而且不必分析的，同美一样。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e9",
+      "name": "情感的事项",
+      "canonical_name": "情感的事项",
+      "type": "概念",
+      "evidence": "关于情感的事项，要就我们的知识所及，尽量用科学方法来解决的。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e10",
+      "name": "科学方法",
+      "canonical_name": "科学方法",
+      "type": "方法",
+      "evidence": "关于情感的事项，要就我们的知识所及，尽量用科学方法来解决的。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e11",
+      "name": "情感的事项的“超科学”的方面",
+      "canonical_name": "情感的事项的超科学的方面",
+      "type": "概念",
+      "evidence": "至于情感的事项的“超科学”的方面，不过是“所与性”，是理智事项及一切其他经验所共有的，是科学的起点；",
+      "confidence": 0.9
+    },
+    {
+      "id": "e12",
+      "name": "“所与性”",
+      "canonical_name": "所与性",
+      "type": "概念",
+      "evidence": "至于情感的事项的“超科学”的方面，不过是“所与性”，是理智事项及一切其他经验所共有的，是科学的起点；",
+      "confidence": 0.9
+    },
+    {
+      "id": "e13",
+      "name": "理智事项",
+      "canonical_name": "理智事项",
+      "type": "概念",
+      "evidence": "是理智事项及一切其他经验所共有的，是科学的起点；",
+      "confidence": 0.9
+    },
+    {
+      "id": "e14",
+      "name": "科学的起点",
+      "canonical_name": "科学的起点",
+      "type": "概念",
+      "evidence": "是理智事项及一切其他经验所共有的，是科学的起点；",
+      "confidence": 0.9
+    },
+    {
+      "id": "e15",
+      "name": "“神秘”",
+      "canonical_name": "神秘",
+      "type": "概念",
+      "evidence": "我们叫他做“神秘”，也未尝不可；不过这种的“神秘”，同“平常”的意义无别罢了。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e16",
+      "name": "“平常”",
+      "canonical_name": "平常",
+      "type": "概念",
+      "evidence": "不过这种的“神秘”，同“平常”的意义无别罢了。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e17",
+      "name": "十七八岁男女",
+      "canonical_name": "十七八岁男女",
+      "type": "阵营/群体",
+      "evidence": "凡诚实不自欺的人，一定不肯同十七八岁男女一般见识，把爱看做神秘而至尊无上的东西。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e18",
+      "name": "青年男女",
+      "canonical_name": "青年男女",
+      "type": "阵营/群体",
+      "evidence": "近年青年男女，因为信仰爱是神秘，是绝对超理智的，而弄得身败名裂，贻祸他人的，已经不少了。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e19",
+      "name": "文学家",
+      "canonical_name": "文学家",
+      "type": "阵营/群体",
+      "evidence": "因为他是人类最高的快感，所以许多文学家把他理想化，弄得我们以为爱是“玄之又玄”，而且“神圣不可侵犯”的东西。",
+      "confidence": 0.9
+    }
+  ],
+  "claims": [
+    {
+      "id": "c1",
+      "speaker": "作者",
+      "claim": "热情脱离理智的羁绊的结果是“脱羁”的情绪，我们不必去鼓励他们。",
+      "target": "热情脱离理智的羁绊",
+      "claim_type": "规范性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "因为热情脱离理智的羁绊的结果。这种“脱羁”的情绪，我们不必去鼓励他们。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c2",
+      "speaker": "作者",
+      "claim": "我们所以看得爱这样神秘，是因为成因复杂、不肯用理智分析、文学家理想化。",
+      "target": "爱",
+      "claim_type": "因果主张",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "我们所以看得爱这样神秘，是：（一）因为他的成因比别的心理事项复杂，一时不能分析得精密；（二）因为爱是最强度的快感，我们不肯用理智分析他的心理条件，因而消灭他；（三）因为他是人类最高的快感，所以许多文学家把他理想化，弄得我们以为爱是“玄之又玄”，而且“神圣不可侵犯”的东西。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c3",
+      "speaker": "作者",
+      "claim": "爱同火差不多：他的本体没有什么好坏，而他的结果是可以好可以坏的。",
+      "target": "爱",
+      "claim_type": "描述性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "其实爱同火差不多：他的本体没有什么好坏，而他的结果是可以好可以坏的。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c4",
+      "speaker": "作者",
+      "claim": "爱受理智的支配的程度愈大，他的结果愈好。反之，结果就愈坏。",
+      "target": "爱",
+      "claim_type": "因果主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "他受理智的支配的程度愈大，他的结果愈好。反之，结果就愈坏。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c5",
+      "speaker": "作者",
+      "claim": "世间许多罪恶，是由不受理智支配的爱情发生。",
+      "target": "爱情",
+      "claim_type": "因果主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "世间许多罪恶，是由不受理智支配的爱情发生，",
+      "confidence": 0.9
+    },
+    {
+      "id": "c6",
+      "speaker": "作者",
+      "claim": "凡诚实不自欺的人，一定不肯同十七八岁男女一般见识，把爱看做神秘而至尊无上的东西。",
+      "target": "爱",
+      "claim_type": "规范性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "凡诚实不自欺的人，一定不肯同十七八岁男女一般见识，把爱看做神秘而至尊无上的东西。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c7",
+      "speaker": "作者",
+      "claim": "近年青年男女，因为信仰爱是神秘，是绝对超理智的，而弄得身败名裂，贻祸他人的，已经不少了。",
+      "target": "青年男女",
+      "claim_type": "因果主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "近年青年男女，因为信仰爱是神秘，是绝对超理智的，而弄得身败名裂，贻祸他人的，已经不少了。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c8",
+      "speaker": "作者",
+      "claim": "爱的本身，是经验的“所与”，是不可分析而且不必分析的，同美一样。",
+      "target": "爱的本身",
+      "claim_type": "定义性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "至于爱的本身，是经验的“所与”，是不可分析而且不必分析的，同美一样。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c9",
+      "speaker": "作者",
+      "claim": "关于情感的事项，要就我们的知识所及，尽量用科学方法来解决的。",
+      "target": "情感的事项",
+      "claim_type": "规范性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "关于情感的事项，要就我们的知识所及，尽量用科学方法来解决的。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c10",
+      "speaker": "作者",
+      "claim": "情感的事项的“超科学”的方面，不过是“所与性”，是理智事项及一切其他经验所共有的，是科学的起点。",
+      "target": "情感的事项的“超科学”的方面",
+      "claim_type": "定义性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "至于情感的事项的“超科学”的方面，不过是“所与性”，是理智事项及一切其他经验所共有的，是科学的起点；",
+      "confidence": 0.9
+    },
+    {
+      "id": "c11",
+      "speaker": "作者",
+      "claim": "我们叫他做“神秘”，也未尝不可；不过这种的“神秘”，同“平常”的意义无别罢了。",
+      "target": "“神秘”",
+      "claim_type": "定义性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "我们叫他做“神秘”，也未尝不可；不过这种的“神秘”，同“平常”的意义无别罢了。",
+      "confidence": 0.9
+    }
+  ],
+  "relations": [
+    {
+      "id": "r1",
+      "head": "热情脱离理智的羁绊",
+      "head_type": "概念",
+      "relation": "导致",
+      "relation_subtype": "不适用",
+      "tail": "“脱羁”的情绪",
+      "tail_type": "概念",
+      "polarity": "negative",
+      "stance_score": -0.5,
+      "intensity": 0.5,
+      "evidence": "因为热情脱离理智的羁绊的结果。这种“脱羁”的情绪，我们不必去鼓励他们。",
+      "confidence": 0.9
+    },
+    {
+      "id": "r2",
+      "head": "爱",
+      "head_type": "概念",
+      "relation": "类比",
+      "relation_subtype": "不适用",
+      "tail": "火",
+      "tail_type": "比喻/类比",
+      "polarity": "neutral",
+      "stance_score": 0.0,
+      "intensity": 0.5,
+      "evidence": "其实爱同火差不多：他的本体没有什么好坏，而他的结果是可以好可以坏的。",
+      "confidence": 0.9
+    },
+    {
+      "id": "r3",
+      "head": "爱受理智的支配的程度愈大",
+      "head_type": "概念",
+      "relation": "导致",
+      "relation_subtype": "不适用",
+      "tail": "他的结果愈好",
+      "tail_type": "概念",
+      "polarity": "positive",
+      "stance_score": 0.8,
+      "intensity": 0.7,
+      "evidence": "他受理智的支配的程度愈大，他的结果愈好。反之，结果就愈坏。",
+      "confidence": 0.9
+    },
+    {
+      "id": "r4",
+      "head": "不受理智支配的爱情",
+      "head_type": "概念",
+      "relation": "导致",
+      "relation_subtype": "不适用",
+      "tail": "世间许多罪恶",
+      "tail_type": "概念",
+      "polarity": "negative",
+      "stance_score": -0.8,
+      "intensity": 0.7,
+      "evidence": "世间许多罪恶，是由不受理智支配的爱情发生，",
+      "confidence": 0.9
+    },
+    {
+      "id": "r5",
+      "head": "信仰爱是神秘，是绝对超理智的",
+      "head_type": "观点",
+      "relation": "导致",
+      "relation_subtype": "不适用",
+      "tail": "青年男女身败名裂，贻祸他人",
+      "tail_type": "概念",
+      "polarity": "negative",
+      "stance_score": -0.9,
+      "intensity": 0.8,
+      "evidence": "近年青年男女，因为信仰爱是神秘，是绝对超理智的，而弄得身败名裂，贻祸他人的，已经不少了。",
+      "confidence": 0.9
+    },
+    {
+      "id": "r6",
+      "head": "爱的本身",
+      "head_type": "概念",
+      "relation": "定义",
+      "relation_subtype": "概念澄清",
+      "tail": "经验的“所与”",
+      "tail_type": "概念",
+      "polarity": "neutral",
+      "stance_score": 0.0,
+      "intensity": 0.5,
+      "evidence": "至于爱的本身，是经验的“所与”，是不可分析而且不必分析的，同美一样。",
+      "confidence": 0.9
+    },
+    {
+      "id": "r7",
+      "head": "情感的事项的“超科学”的方面",
+      "head_type": "概念",
+      "relation": "定义",
+      "relation_subtype": "概念澄清",
+      "tail": "“所与性”",
+      "tail_type": "概念",
+      "polarity": "neutral",
+      "stance_score": 0.0,
+      "intensity": 0.5,
+      "evidence": "至于情感的事项的“超科学”的方面，不过是“所与性”，是理智事项及一切其他经验所共有的，是科学的起点；",
+      "confidence": 0.9
+    },
+    {
+      "id": "r8",
+      "head": "“神秘”",
+      "head_type": "概念",
+      "relation": "定义",
+      "relation_subtype": "概念澄清",
+      "tail": "“平常”",
+      "tail_type": "概念",
+      "polarity": "neutral",
+      "stance_score": 0.0,
+      "intensity": 0.5,
+      "evidence": "不过这种的“神秘”，同“平常”的意义无别罢了。",
+      "confidence": 0.9
+    },
+    {
+      "id": "r9",
+      "head": "作者",
+      "head_type": "人物",
+      "relation": "主张",
+      "relation_subtype": "不适用",
+      "tail": "关于情感的事项，要就我们的知识所及，尽量用科学方法来解决的。",
+      "tail_type": "观点",
+      "polarity": "positive",
+      "stance_score": 1.0,
+      "intensity": 0.8,
+      "evidence": "关于情感的事项，要就我们的知识所及，尽量用科学方法来解决的。",
+      "confidence": 0.9
+    }
+  ],
+  "definitions": [
+    {
+      "id": "def1",
+      "term": "爱的本身",
+      "definition": "爱的本身是经验的“所与”，是不可分析而且不必分析的。",
+      "evidence": "至于爱的本身，是经验的“所与”，是不可分析而且不必分析的，同美一样。",
+      "confidence": 0.9
+    },
+    {
+      "id": "def2",
+      "term": "情感的事项的“超科学”的方面",
+      "definition": "情感的事项的“超科学”的方面不过是“所与性”，是理智事项及一切其他经验所共有的，是科学的起点。",
+      "evidence": "至于情感的事项的“超科学”的方面，不过是“所与性”，是理智事项及一切其他经验所共有的，是科学的起点；",
+      "confidence": 0.9
+    },
+    {
+      "id": "def3",
+      "term": "“神秘”",
+      "definition": "这种“神秘”同“平常”的意义无别。",
+      "evidence": "不过这种的“神秘”，同“平常”的意义无别罢了。",
+      "confidence": 0.9
+    }
+  ],
+  "citations": [],
+  "rhetorical_devices": [
+    {
+      "id": "rh1",
+      "expression": "爱同火差不多",
+      "device_type": "类比",
+      "literal_target": "爱",
+      "function": "说明爱的本体无好坏，结果可好可坏",
+      "evidence": "其实爱同火差不多：他的本体没有什么好坏，而他的结果是可以好可以坏的。",
+      "confidence": 0.9
+    },
+    {
+      "id": "rh2",
+      "expression": "“玄之又玄”",
+      "device_type": "引用",
+      "literal_target": "爱",
+      "function": "描述文学家对爱的理想化描述",
+      "evidence": "弄得我们以为爱是“玄之又玄”，而且“神圣不可侵犯”的东西。",
+      "confidence": 0.9
+    },
+    {
+      "id": "rh3",
+      "expression": "“神圣不可侵犯”",
+      "device_type": "引用",
+      "literal_target": "爱",
+      "function": "描述文学家对爱的理想化描述",
+      "evidence": "弄得我们以为爱是“玄之又玄”，而且“神圣不可侵犯”的东西。",
+      "confidence": 0.9
+    }
+  ],
+  "uncertainties": [
+    {
+      "item": "“上文说美的话可以类推，恕不重提了”中的“上文”具体内容",
+      "reason": "当前文本未提供上文内容，无法抽取具体信息。"
+    }
+  ]
+}

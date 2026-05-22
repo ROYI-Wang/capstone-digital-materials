@@ -1,0 +1,294 @@
+{
+  "metadata": {
+    "schema_version": "lite_v2.0",
+    "article_id": "瞿秋白_000_a4753ce4",
+    "article_title": "《自由世界与必然世界》",
+    "source_author": "瞿秋白",
+    "section_title": "资本主义时代的强有力的生产工具若能变成公共的财产，生产制度若得按",
+    "section_author": "资本主义时代的强有力的生产工具若能变成公共的财产，生产制度若得",
+    "segment_id": "瞿秋白_000_a4753ce4_s0003",
+    "segment_index": 3,
+    "source_file": "E:\\1研究生\\岭南大学\\论文毕业\\capstone\\资料\\新的内容开始了\\local_upload\\input_w2\\瞿秋白.txt"
+  },
+  "entities": [
+    {
+      "id": "e1",
+      "name": "瞿秋白",
+      "canonical_name": "瞿秋白",
+      "type": "人物",
+      "evidence": "（如中国之五四运动时之群众心理）",
+      "confidence": 0.9
+    },
+    {
+      "id": "e2",
+      "name": "五四运动",
+      "canonical_name": "五四运动",
+      "type": "历史事件",
+      "evidence": "（如中国之五四运动时之群众心理）",
+      "confidence": 0.9
+    },
+    {
+      "id": "e3",
+      "name": "群众动机",
+      "canonical_name": "群众动机",
+      "type": "概念",
+      "evidence": "个人的动机无论如何重要，总敌不过群众的动机，或是民族的，或是阶级的；所以研究历史的原因，必须追究群众动机的根源。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e4",
+      "name": "历史进化里的公律",
+      "canonical_name": "历史进化里的公律",
+      "type": "概念",
+      "evidence": "如此，方能发见历史进化里的公律以及某一时代或某一地域之特别公律。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e5",
+      "name": "自由",
+      "canonical_name": "自由",
+      "type": "概念",
+      "evidence": "所谓“自由”（绝无因果）仅仅是尚未了解的“必然”。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e6",
+      "name": "必然",
+      "canonical_name": "必然",
+      "type": "概念",
+      "evidence": "所谓“自由”（绝无因果）仅仅是尚未了解的“必然”。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e7",
+      "name": "自然律",
+      "canonical_name": "自然律",
+      "type": "概念",
+      "evidence": "“自由”不在于想象里能离自然律而独立，却在于能探悉这些公律；因为只有探悉公律之后，方才能利用这些公律，加以有规划的行动，而达某种目的。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e8",
+      "name": "历史的偶然",
+      "canonical_name": "历史的偶然",
+      "type": "概念",
+      "evidence": "一切历史现象都是必然的。——所谓历史的偶然，仅仅因为人类还不能完全探悉其中的因果，所以纯粹是主观的说法。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e9",
+      "name": "因果",
+      "canonical_name": "因果",
+      "type": "概念",
+      "evidence": "所谓历史的偶然，仅仅因为人类还不能完全探悉其中的因果，所以纯粹是主观的说法。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e10",
+      "name": "意志",
+      "canonical_name": "意志",
+      "type": "概念",
+      "evidence": "一切动机（意志）都不是自由的而是有所联系的；一切历史现象都是必然的。",
+      "confidence": 0.9
+    }
+  ],
+  "claims": [
+    {
+      "id": "c1",
+      "speaker": "瞿秋白",
+      "claim": "个人的动机无论如何重要，总敌不过群众的动机，或是民族的，或是阶级的；所以研究历史的原因，必须追究群众动机的根源。",
+      "target": "历史研究的方法",
+      "claim_type": "方法论主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "个人的动机无论如何重要，总敌不过群众的动机，或是民族的，或是阶级的；所以研究历史的原因，必须追究群众动机的根源。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c2",
+      "speaker": "瞿秋白",
+      "claim": "一切动机（意志）都不是自由的而是有所联系的；一切历史现象都是必然的。",
+      "target": "意志与历史现象",
+      "claim_type": "本体论主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "一切动机（意志）都不是自由的而是有所联系的；一切历史现象都是必然的。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c3",
+      "speaker": "瞿秋白",
+      "claim": "所谓历史的偶然，仅仅因为人类还不能完全探悉其中的因果，所以纯粹是主观的说法。",
+      "target": "历史的偶然",
+      "claim_type": "知识论主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "所谓历史的偶然，仅仅因为人类还不能完全探悉其中的因果，所以纯粹是主观的说法。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c4",
+      "speaker": "瞿秋白",
+      "claim": "决不能因为“不知因果”便说“没有因果”。",
+      "target": "因果律",
+      "claim_type": "知识论主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "决不能因为“不知因果”便说“没有因果”。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c5",
+      "speaker": "瞿秋白",
+      "claim": "所谓“自由”（绝无因果）仅仅是尚未了解的“必然”。",
+      "target": "自由与必然的关系",
+      "claim_type": "定义性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "所谓“自由”（绝无因果）仅仅是尚未了解的“必然”。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c6",
+      "speaker": "瞿秋白",
+      "claim": "“自由”不在于想象里能离自然律而独立，却在于能探悉这些公律；因为只有探悉公律之后，方才能利用这些公律，加以有规划的行动，而达某种目的。",
+      "target": "自由",
+      "claim_type": "定义性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "“自由”不在于想象里能离自然律而独立，却在于能探悉这些公律；因为只有探悉公律之后，方才能利用这些公律，加以有规划的行动，而达某种目的。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c7",
+      "speaker": "瞿秋白",
+      "claim": "凡是可以了解的“必然”，就决不是盲目的。",
+      "target": "必然",
+      "claim_type": "知识论主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "凡是可以了解的“必然”，就决不是盲目的。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c8",
+      "speaker": "有人",
+      "claim": "若是承认一切现象，甚至于精神现象都是必然的，那就人的行为都成了盲目的不自由的了！",
+      "target": "必然与自由的关系",
+      "claim_type": "反驳性主张",
+      "claim_status": "间接转述",
+      "polarity": "negative",
+      "evidence": "或者有人说：“若是承认一切现象，甚至于精神现象都是必然的，那就人的行为都成了盲目的不自由的了！”",
+      "confidence": 0.9
+    }
+  ],
+  "relations": [
+    {
+      "id": "r1",
+      "head": "研究历史的原因",
+      "head_type": "概念",
+      "relation": "归因于",
+      "relation_subtype": "不适用",
+      "tail": "群众动机的根源",
+      "tail_type": "概念",
+      "polarity": "positive",
+      "evidence": "个人的动机无论如何重要，总敌不过群众的动机，或是民族的，或是阶级的；所以研究历史的原因，必须追究群众动机的根源。",
+      "confidence": 0.9
+    },
+    {
+      "id": "r2",
+      "head": "历史的偶然",
+      "head_type": "概念",
+      "relation": "归因于",
+      "relation_subtype": "不适用",
+      "tail": "人类还不能完全探悉其中的因果",
+      "tail_type": "概念",
+      "polarity": "positive",
+      "evidence": "所谓历史的偶然，仅仅因为人类还不能完全探悉其中的因果，所以纯粹是主观的说法。",
+      "confidence": 0.9
+    },
+    {
+      "id": "r3",
+      "head": "自由",
+      "head_type": "概念",
+      "relation": "定义",
+      "relation_subtype": "概念澄清",
+      "tail": "尚未了解的必然",
+      "tail_type": "概念",
+      "polarity": "positive",
+      "evidence": "所谓“自由”（绝无因果）仅仅是尚未了解的“必然”。",
+      "confidence": 0.9
+    },
+    {
+      "id": "r4",
+      "head": "自由",
+      "head_type": "概念",
+      "relation": "定义",
+      "relation_subtype": "概念澄清",
+      "tail": "能探悉这些公律",
+      "tail_type": "概念",
+      "polarity": "positive",
+      "evidence": "“自由”不在于想象里能离自然律而独立，却在于能探悉这些公律；因为只有探悉公律之后，方才能利用这些公律，加以有规划的行动，而达某种目的。",
+      "confidence": 0.9
+    },
+    {
+      "id": "r5",
+      "head": "瞿秋白",
+      "head_type": "人物",
+      "relation": "反驳",
+      "relation_subtype": "逻辑反驳",
+      "tail": "有人",
+      "tail_type": "人物",
+      "polarity": "negative",
+      "evidence": "或者有人说：“若是承认一切现象，甚至于精神现象都是必然的，那就人的行为都成了盲目的不自由的了！”其实，所谓“自由”（绝无因果）仅仅是尚未了解的“必然”。",
+      "confidence": 0.9
+    },
+    {
+      "id": "r6",
+      "head": "探悉公律",
+      "head_type": "概念",
+      "relation": "导致",
+      "relation_subtype": "不适用",
+      "tail": "利用这些公律，加以有规划的行动，而达某种目的",
+      "tail_type": "概念",
+      "polarity": "positive",
+      "evidence": "因为只有探悉公律之后，方才能利用这些公律，加以有规划的行动，而达某种目的。",
+      "confidence": 0.9
+    }
+  ],
+  "definitions": [
+    {
+      "id": "def1",
+      "term": "历史的偶然",
+      "definition": "历史的偶然仅仅因为人类还不能完全探悉其中的因果，是主观的说法。",
+      "evidence": "所谓历史的偶然，仅仅因为人类还不能完全探悉其中的因果，所以纯粹是主观的说法。",
+      "confidence": 0.9
+    },
+    {
+      "id": "def2",
+      "term": "自由",
+      "definition": "自由是尚未了解的必然，不在于想象里能离自然律而独立，而在于能探悉公律并利用之。",
+      "evidence": "所谓“自由”（绝无因果）仅仅是尚未了解的“必然”。",
+      "confidence": 0.9
+    },
+    {
+      "id": "def3",
+      "term": "必然",
+      "definition": "必然的所以显着是盲目的，仅仅因为暂时不可了解；凡是可以了解的必然就不是盲目的。",
+      "evidence": "“必然”的所以显着是盲目的，亦仅仅因为暂时不可了解。凡是可以了解的“必然”，就决不是盲目的。",
+      "confidence": 0.9
+    }
+  ],
+  "citations": [],
+  "rhetorical_devices": [],
+  "uncertainties": [
+    {
+      "item": "“有人”的具体身份",
+      "reason": "文本中仅以“或者有人说”引出，未指明具体人物或阵营，无法确定其身份。"
+    },
+    {
+      "item": "“最后原因”的具体含义",
+      "reason": "文本中多次出现“最后原因”，但未给出明确定义，仅从上下文可推断其与因果律相关。"
+    }
+  ]
+}

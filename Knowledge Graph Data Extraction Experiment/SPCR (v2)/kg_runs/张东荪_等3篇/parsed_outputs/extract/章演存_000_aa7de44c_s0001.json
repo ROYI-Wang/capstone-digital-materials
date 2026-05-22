@@ -1,0 +1,474 @@
+{
+  "metadata": {
+    "schema_version": "lite_v3.0",
+    "article_id": "章演存_000_aa7de44c",
+    "article_title": "张君劢主张的人生观对科学的五个异点",
+    "source_author": "章演存",
+    "section_title": "",
+    "section_author": "",
+    "segment_id": "章演存_000_aa7de44c_s0001",
+    "segment_index": 1,
+    "source_file": "E:\\1研究生\\岭南大学\\论文毕业\\capstone\\资料\\新的内容开始了\\local_upload\\input_v2_w2\\章演存.txt"
+  },
+  "entities": [
+    {
+      "id": "e1",
+      "name": "张君",
+      "canonical_name": "张君劢",
+      "type": "人物",
+      "evidence": "张君说：“同为人生，因彼此观察点不同而意见各异；”",
+      "confidence": 1.0
+    },
+    {
+      "id": "e2",
+      "name": "人生观",
+      "canonical_name": "人生观",
+      "type": "概念",
+      "evidence": "人生观里最不容易统一的，就是一种情感作用；",
+      "confidence": 1.0
+    },
+    {
+      "id": "e3",
+      "name": "科学",
+      "canonical_name": "科学",
+      "type": "概念",
+      "evidence": "科学里边也有一种不容易统一的，就是广义的重力作用。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e4",
+      "name": "情感作用",
+      "canonical_name": "情感作用",
+      "type": "概念",
+      "evidence": "人生观里最不容易统一的，就是一种情感作用；",
+      "confidence": 1.0
+    },
+    {
+      "id": "e5",
+      "name": "广义的重力作用",
+      "canonical_name": "广义的重力作用",
+      "type": "概念",
+      "evidence": "科学里边也有一种不容易统一的，就是广义的重力作用。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e6",
+      "name": "庄子",
+      "canonical_name": "庄子",
+      "type": "人物",
+      "evidence": "庄子说：“有人之形，无人之情，”",
+      "confidence": 1.0
+    },
+    {
+      "id": "e7",
+      "name": "意见",
+      "canonical_name": "意见",
+      "type": "概念",
+      "evidence": "其实意见自意见，原则自原则，不能相提并论的",
+      "confidence": 1.0
+    },
+    {
+      "id": "e8",
+      "name": "原则",
+      "canonical_name": "原则",
+      "type": "概念",
+      "evidence": "其实意见自意见，原则自原则，不能相提并论的",
+      "confidence": 1.0
+    },
+    {
+      "id": "e9",
+      "name": "九项问题",
+      "canonical_name": "九项问题",
+      "type": "问题",
+      "evidence": "至张君罗举的九项问题，还只是各个意见。",
+      "confidence": 1.0
+    }
+  ],
+  "claims": [
+    {
+      "id": "c1",
+      "speaker": "张君",
+      "claim": "同为人生，因彼此观察点不同而意见各异",
+      "target": "",
+      "claim_type": "描述性主张",
+      "claim_status": "直接引用",
+      "polarity": "neutral",
+      "evidence": "张君说：“同为人生，因彼此观察点不同而意见各异；”",
+      "confidence": 1.0
+    },
+    {
+      "id": "c2",
+      "speaker": "章演存",
+      "claim": "人生观里最不容易统一的，就是一种情感作用",
+      "target": "人生观",
+      "claim_type": "描述性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "人生观里最不容易统一的，就是一种情感作用；",
+      "confidence": 1.0
+    },
+    {
+      "id": "c3",
+      "speaker": "章演存",
+      "claim": "科学里边也有一种不容易统一的，就是广义的重力作用",
+      "target": "科学",
+      "claim_type": "描述性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "科学里边也有一种不容易统一的，就是广义的重力作用。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c4",
+      "speaker": "章演存",
+      "claim": "在一切重力作用场里，要能分析到和没有重力一样的地步，原则还是存在",
+      "target": "相对论",
+      "claim_type": "描述性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "但依“相对论”，在一切重力作用场里，要能分析到和没有重力一样的地步，原则还是存在；",
+      "confidence": 1.0
+    },
+    {
+      "id": "c5",
+      "speaker": "章演存",
+      "claim": "人生观在一切情感作用场里，要能分析到和没有情感一样的地步，原则也一定还是存在",
+      "target": "人生观",
+      "claim_type": "因果主张",
+      "claim_status": "作者推论",
+      "polarity": "positive",
+      "evidence": "那末，人生观在一切情感作用场里，要能分析到和没有情感一样的地步，原则也一定还是存在。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c6",
+      "speaker": "庄子",
+      "claim": "有人之形，无人之情",
+      "target": "",
+      "claim_type": "描述性主张",
+      "claim_status": "直接引用",
+      "polarity": "neutral",
+      "evidence": "庄子说：“有人之形，无人之情，”",
+      "confidence": 1.0
+    },
+    {
+      "id": "c7",
+      "speaker": "章演存",
+      "claim": "这就是去求人生原则的方法",
+      "target": "庄子",
+      "claim_type": "定义性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "这就是去求人生原则的方法。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c8",
+      "speaker": "章演存",
+      "claim": "我们不是提倡无情的人生观，不过人生的原则不能不用这样方法去求的",
+      "target": "人生观",
+      "claim_type": "规范性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "mixed",
+      "evidence": "我们不是提倡无情的人生观，不过人生的原则不能不用这样方法去求的。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c9",
+      "speaker": "章演存",
+      "claim": "张君往往把对于人生的意见和科学的原则去比较，其实意见自意见，原则自原则，不能相提并论的",
+      "target": "张君",
+      "claim_type": "反驳性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "张君往往把对于人生的意见和科学的原则去比较，其实意见自意见，原则自原则，不能相提并论的",
+      "confidence": 1.0
+    },
+    {
+      "id": "c10",
+      "speaker": "张君",
+      "claim": "常求所以变革之，以达于至善之境",
+      "target": "",
+      "claim_type": "描述性主张",
+      "claim_status": "直接引用",
+      "polarity": "neutral",
+      "evidence": "张君说：“常求所以变革之，以达于至善之境。”",
+      "confidence": 1.0
+    },
+    {
+      "id": "c11",
+      "speaker": "张君",
+      "claim": "人类目的屡变不已；虽变也，不趋于恶而必趋于善",
+      "target": "",
+      "claim_type": "描述性主张",
+      "claim_status": "直接引用",
+      "polarity": "positive",
+      "evidence": "“人类目的屡变不已；虽变也，不趋于恶而必趋于善。”",
+      "confidence": 1.0
+    },
+    {
+      "id": "c12",
+      "speaker": "张君",
+      "claim": "据既往以测将来，其有持改革之说者，大抵图所以益世而非所以害世",
+      "target": "",
+      "claim_type": "描述性主张",
+      "claim_status": "直接引用",
+      "polarity": "positive",
+      "evidence": "“据既往以测将来，其有持改革之说者，大抵图所以益世而非所以害世。”",
+      "confidence": 1.0
+    },
+    {
+      "id": "c13",
+      "speaker": "章演存",
+      "claim": "这都可以算张君假定的人生的原则",
+      "target": "张君",
+      "claim_type": "评价性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "这都可以算张君假定的人生的原则。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c14",
+      "speaker": "章演存",
+      "claim": "至张君罗举的九项问题，还只是各个意见",
+      "target": "张君",
+      "claim_type": "评价性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "至张君罗举的九项问题，还只是各个意见。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c15",
+      "speaker": "章演存",
+      "claim": "意见和原则，性质完全不是一样的，所以不能比较",
+      "target": "",
+      "claim_type": "结论性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "意见和原则，性质完全不是一样的，所以不能比较。",
+      "confidence": 1.0
+    }
+  ],
+  "relations": [
+    {
+      "id": "r1",
+      "head": "张君",
+      "head_type": "人物",
+      "relation": "主张",
+      "relation_subtype": "不适用",
+      "tail": "同为人生，因彼此观察点不同而意见各异",
+      "tail_type": "观点",
+      "polarity": "neutral",
+      "stance_score": 0.0,
+      "intensity": 0.0,
+      "evidence": "张君说：“同为人生，因彼此观察点不同而意见各异；”",
+      "confidence": 1.0
+    },
+    {
+      "id": "r2",
+      "head": "章演存",
+      "head_type": "人物",
+      "relation": "类比",
+      "relation_subtype": "不适用",
+      "tail": "人生观里最不容易统一的，就是一种情感作用；科学里边也有一种不容易统一的，就是广义的重力作用",
+      "tail_type": "观点",
+      "polarity": "neutral",
+      "stance_score": 0.0,
+      "intensity": 0.5,
+      "evidence": "人生观里最不容易统一的，就是一种情感作用；科学里边也有一种不容易统一的，就是广义的重力作用。",
+      "confidence": 1.0
+    },
+    {
+      "id": "r3",
+      "head": "章演存",
+      "head_type": "人物",
+      "relation": "类比",
+      "relation_subtype": "不适用",
+      "tail": "在一切重力作用场里，要能分析到和没有重力一样的地步，原则还是存在；那末，人生观在一切情感作用场里，要能分析到和没有情感一样的地步，原则也一定还是存在",
+      "tail_type": "观点",
+      "polarity": "positive",
+      "stance_score": 0.8,
+      "intensity": 0.7,
+      "evidence": "但依“相对论”，在一切重力作用场里，要能分析到和没有重力一样的地步，原则还是存在；那末，人生观在一切情感作用场里，要能分析到和没有情感一样的地步，原则也一定还是存在。",
+      "confidence": 1.0
+    },
+    {
+      "id": "r4",
+      "head": "章演存",
+      "head_type": "人物",
+      "relation": "相关",
+      "relation_subtype": "援引权威支持",
+      "tail": "庄子",
+      "tail_type": "人物",
+      "polarity": "positive",
+      "stance_score": 0.8,
+      "intensity": 0.5,
+      "evidence": "庄子说：“有人之形，无人之情，”这就是去求人生原则的方法。",
+      "confidence": 1.0
+    },
+    {
+      "id": "r5",
+      "head": "章演存",
+      "head_type": "人物",
+      "relation": "批评",
+      "relation_subtype": "概念混淆批评",
+      "tail": "张君",
+      "tail_type": "人物",
+      "polarity": "negative",
+      "stance_score": -0.8,
+      "intensity": 0.7,
+      "evidence": "张君往往把对于人生的意见和科学的原则去比较，其实意见自意见，原则自原则，不能相提并论的",
+      "confidence": 1.0
+    },
+    {
+      "id": "r6",
+      "head": "章演存",
+      "head_type": "人物",
+      "relation": "相关",
+      "relation_subtype": "作为批评对象",
+      "tail": "张君",
+      "tail_type": "人物",
+      "polarity": "neutral",
+      "stance_score": 0.0,
+      "intensity": 0.0,
+      "evidence": "我们可以用张君答在君的话来说明：张君说：“常求所以变革之，以达于至善之境。”",
+      "confidence": 1.0
+    },
+    {
+      "id": "r7",
+      "head": "章演存",
+      "head_type": "人物",
+      "relation": "相关",
+      "relation_subtype": "部分肯定",
+      "tail": "张君",
+      "tail_type": "人物",
+      "polarity": "mixed",
+      "stance_score": 0.3,
+      "intensity": 0.4,
+      "evidence": "这都可以算张君假定的人生的原则。至张君罗举的九项问题，还只是各个意见。",
+      "confidence": 1.0
+    },
+    {
+      "id": "r8",
+      "head": "章演存",
+      "head_type": "人物",
+      "relation": "区分",
+      "relation_subtype": "概念澄清",
+      "tail": "意见和原则",
+      "tail_type": "概念",
+      "polarity": "negative",
+      "stance_score": -0.7,
+      "intensity": 0.6,
+      "evidence": "意见和原则，性质完全不是一样的，所以不能比较。",
+      "confidence": 1.0
+    }
+  ],
+  "definitions": [
+    {
+      "id": "def1",
+      "term": "去求人生原则的方法",
+      "definition": "分析到和没有情感一样的地步",
+      "evidence": "庄子说：“有人之形，无人之情，”这就是去求人生原则的方法。",
+      "confidence": 1.0
+    }
+  ],
+  "citations": [
+    {
+      "id": "cit1",
+      "citer": "章演存",
+      "quoted_author": "张君",
+      "quoted_work": "",
+      "quoted_claim": "同为人生，因彼此观察点不同而意见各异",
+      "function": "作为批评对象",
+      "evidence": "张君说：“同为人生，因彼此观察点不同而意见各异；”",
+      "confidence": 1.0
+    },
+    {
+      "id": "cit2",
+      "citer": "章演存",
+      "quoted_author": "庄子",
+      "quoted_work": "",
+      "quoted_claim": "有人之形，无人之情",
+      "function": "援引权威支持",
+      "evidence": "庄子说：“有人之形，无人之情，”",
+      "confidence": 1.0
+    },
+    {
+      "id": "cit3",
+      "citer": "章演存",
+      "quoted_author": "张君",
+      "quoted_work": "",
+      "quoted_claim": "常求所以变革之，以达于至善之境",
+      "function": "作为批评对象",
+      "evidence": "张君说：“常求所以变革之，以达于至善之境。”",
+      "confidence": 1.0
+    },
+    {
+      "id": "cit4",
+      "citer": "章演存",
+      "quoted_author": "张君",
+      "quoted_work": "",
+      "quoted_claim": "人类目的屡变不已；虽变也，不趋于恶而必趋于善",
+      "function": "作为批评对象",
+      "evidence": "“人类目的屡变不已；虽变也，不趋于恶而必趋于善。”",
+      "confidence": 1.0
+    },
+    {
+      "id": "cit5",
+      "citer": "章演存",
+      "quoted_author": "张君",
+      "quoted_work": "",
+      "quoted_claim": "据既往以测将来，其有持改革之说者，大抵图所以益世而非所以害世",
+      "function": "作为批评对象",
+      "evidence": "“据既往以测将来，其有持改革之说者，大抵图所以益世而非所以害世。”",
+      "confidence": 1.0
+    }
+  ],
+  "rhetorical_devices": [
+    {
+      "id": "rh1",
+      "expression": "人生观里最不容易统一的，就是一种情感作用；科学里边也有一种不容易统一的，就是广义的重力作用",
+      "device_type": "类比",
+      "literal_target": "将人生观中的情感作用与科学中的重力作用进行类比",
+      "function": "论证人生观和科学在统一性上具有相似性",
+      "evidence": "人生观里最不容易统一的，就是一种情感作用；科学里边也有一种不容易统一的，就是广义的重力作用。",
+      "confidence": 1.0
+    },
+    {
+      "id": "rh2",
+      "expression": "在一切重力作用场里，要能分析到和没有重力一样的地步，原则还是存在；那末，人生观在一切情感作用场里，要能分析到和没有情感一样的地步，原则也一定还是存在",
+      "device_type": "类比",
+      "literal_target": "将科学中分析重力作用的方法类比到人生观中分析情感作用",
+      "function": "通过类比论证人生观也可以像科学一样找到统一原则",
+      "evidence": "但依“相对论”，在一切重力作用场里，要能分析到和没有重力一样的地步，原则还是存在；那末，人生观在一切情感作用场里，要能分析到和没有情感一样的地步，原则也一定还是存在。",
+      "confidence": 1.0
+    }
+  ],
+  "uncertainties": [
+    {
+      "item": "张君答在君的话",
+      "reason": "文本中只提到“张君答在君的话”，但未提供具体内容，无法确定其完整含义。"
+    }
+  ],
+  "_meta": {
+    "status": "success",
+    "stage": "extract",
+    "model": "deepseek-ai/DeepSeek-V4-Flash",
+    "base_url": "https://api.siliconflow.cn/v1",
+    "prompt_version": "v2.0",
+    "schema_version": "lite_v3.0",
+    "segment_id": "章演存_000_aa7de44c_s0001",
+    "article_id": "章演存_000_aa7de44c",
+    "char_start": 504,
+    "char_end": 1088,
+    "raw_path": "E:\\1研究生\\岭南大学\\论文毕业\\capstone\\资料\\新的内容开始了\\local_upload\\kg_runs_v2\\张东荪_等3篇\\raw_outputs\\extract\\章演存_000_aa7de44c_s0001.txt",
+    "parsed_at": "2026-05-21T02:13:37",
+    "started_at": "2026-05-21T02:03:41",
+    "elapsed_seconds": 595.554,
+    "strict_evidence_check": true,
+    "drop_unsupported_evidence": true,
+    "request_timeout_seconds": 180
+  }
+}

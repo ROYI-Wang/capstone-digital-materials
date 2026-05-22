@@ -1,0 +1,570 @@
+{
+  "metadata": {
+    "schema_version": "lite_v3.0",
+    "article_id": "瞿秋白_000_a4753ce4",
+    "article_title": "《自由世界与必然世界》",
+    "source_author": "瞿秋白",
+    "section_title": "资本主义时代的强有力的生产工具若能变成公共的财产，生产制度若得按",
+    "section_author": "资本主义时代的强有力的生产工具若能变成公共的财产，生产制度若得",
+    "segment_id": "瞿秋白_000_a4753ce4_s0008",
+    "segment_index": 8,
+    "source_file": "E:\\1研究生\\岭南大学\\论文毕业\\capstone\\资料\\新的内容开始了\\local_upload\\input_瞿秋白\\瞿秋白.txt"
+  },
+  "entities": [
+    {
+      "id": "e1",
+      "name": "历史的必然",
+      "canonical_name": "历史的必然",
+      "type": "概念",
+      "evidence": "既然知道历史的必然，人的行动就更可以“自由些”",
+      "confidence": 0.9
+    },
+    {
+      "id": "e2",
+      "name": "有意识的行动",
+      "canonical_name": "有意识的行动",
+      "type": "概念",
+      "evidence": "所以决不能因为既有历史的必然便不要有意识的行动",
+      "confidence": 0.9
+    },
+    {
+      "id": "e3",
+      "name": "社会学",
+      "canonical_name": "社会学",
+      "type": "概念",
+      "evidence": "只有否认历史的必然时，方才真正否认社会学，否认社会科学",
+      "confidence": 0.9
+    },
+    {
+      "id": "e4",
+      "name": "社会科学",
+      "canonical_name": "社会科学",
+      "type": "概念",
+      "evidence": "只有否认历史的必然时，方才真正否认社会学，否认社会科学",
+      "confidence": 0.9
+    },
+    {
+      "id": "e5",
+      "name": "理想",
+      "canonical_name": "理想",
+      "type": "概念",
+      "evidence": "理想是什么？普通人的答案是：“理想是目的，是我们道德上所不得不立的目的，可是因为太高了，我们不能达到。”",
+      "confidence": 0.9
+    },
+    {
+      "id": "e6",
+      "name": "信仰理想",
+      "canonical_name": "信仰理想",
+      "type": "概念",
+      "evidence": "所以有所谓“信仰理想”。其实“信仰”与理想绝对不相关涉。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e7",
+      "name": "社会主义的理想",
+      "canonical_name": "社会主义的理想",
+      "type": "概念",
+      "evidence": "现在许多中国人都说社会主义的理想是好极了，可惜不能实行。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e8",
+      "name": "现实世界",
+      "canonical_name": "现实世界",
+      "type": "概念",
+      "evidence": "反而是对社会主义怀疑的人，还想着些现实世界。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e9",
+      "name": "章士钊的农村立国",
+      "canonical_name": "章士钊的农村立国",
+      "type": "概念",
+      "evidence": "假使没有联系，那种理想便是幻象。譬如章士钊的农村立国之类，就是这种东西。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e10",
+      "name": "真正的社会主义的理想",
+      "canonical_name": "真正的社会主义的理想",
+      "type": "概念",
+      "evidence": "真正的社会主义的理想却密切联系着现实生活。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e11",
+      "name": "明天的现实",
+      "canonical_name": "明天的现实",
+      "type": "概念",
+      "evidence": "真正的理想就是明天的现实。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e12",
+      "name": "公律",
+      "canonical_name": "公律",
+      "type": "概念",
+      "evidence": "现实是流变不居的；既有流变，便有公律",
+      "confidence": 0.9
+    },
+    {
+      "id": "e13",
+      "name": "将来的现实",
+      "canonical_name": "将来的现实",
+      "type": "概念",
+      "evidence": "依此现实流变不居的里面公律而后能预见将来的现实",
+      "confidence": 0.9
+    },
+    {
+      "id": "e14",
+      "name": "必然的公律",
+      "canonical_name": "必然的公律",
+      "type": "概念",
+      "evidence": "假使没有这种必然的公律，那里能发生对于将来的理想呢？",
+      "confidence": 0.9
+    },
+    {
+      "id": "e15",
+      "name": "普通人",
+      "canonical_name": "普通人",
+      "type": "阵营/群体",
+      "evidence": "普通人的答案是：“理想是目的，是我们道德上所不得不立的目的，可是因为太高了，我们不能达到。”",
+      "confidence": 0.9
+    },
+    {
+      "id": "e16",
+      "name": "许多中国人",
+      "canonical_name": "许多中国人",
+      "type": "阵营/群体",
+      "evidence": "现在许多中国人都说社会主义的理想是好极了，可惜不能实行。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e17",
+      "name": "对社会主义怀疑的人",
+      "canonical_name": "对社会主义怀疑的人",
+      "type": "阵营/群体",
+      "evidence": "反而是对社会主义怀疑的人，还想着些现实世界。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e18",
+      "name": "颂扬社会主义的人",
+      "canonical_name": "颂扬社会主义的人",
+      "type": "阵营/群体",
+      "evidence": "那种颂扬社会主义的人，比警察可怕万倍。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e19",
+      "name": "章士钊",
+      "canonical_name": "章士钊",
+      "type": "人物",
+      "evidence": "譬如章士钊的农村立国之类，就是这种东西。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e20",
+      "name": "农村立国",
+      "canonical_name": "农村立国",
+      "type": "主义/学说/理论",
+      "evidence": "譬如章士钊的农村立国之类，就是这种东西。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e21",
+      "name": "幻象",
+      "canonical_name": "幻象",
+      "type": "概念",
+      "evidence": "假使没有联系，那种理想便是幻象。",
+      "confidence": 0.9
+    }
+  ],
+  "claims": [
+    {
+      "id": "c1",
+      "speaker": "瞿秋白",
+      "claim": "既然知道历史的必然，人的行动就更可以“自由些”，——更容易达到目的些",
+      "target": "",
+      "claim_type": "因果主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "既然知道历史的必然，人的行动就更可以“自由些”，——更容易达到目的些",
+      "confidence": 0.9
+    },
+    {
+      "id": "c2",
+      "speaker": "瞿秋白",
+      "claim": "决不能因为既有历史的必然便不要有意识的行动",
+      "target": "",
+      "claim_type": "规范性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "所以决不能因为既有历史的必然便不要有意识的行动",
+      "confidence": 0.9
+    },
+    {
+      "id": "c3",
+      "speaker": "瞿秋白",
+      "claim": "只有否认历史的必然时，方才真正否认社会学，否认社会科学，而一切社会运动都成盲目的无意识的侥幸行动",
+      "target": "",
+      "claim_type": "因果主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "只有否认历史的必然时，方才真正否认社会学，否认社会科学，而一切社会运动都成盲目的无意识的侥幸行动",
+      "confidence": 0.9
+    },
+    {
+      "id": "c4",
+      "speaker": "普通人",
+      "claim": "理想是目的，是我们道德上所不得不立的目的，可是因为太高了，我们不能达到",
+      "target": "",
+      "claim_type": "定义性主张",
+      "claim_status": "间接转述",
+      "polarity": "neutral",
+      "evidence": "普通人的答案是：“理想是目的，是我们道德上所不得不立的目的，可是因为太高了，我们不能达到。”",
+      "confidence": 0.9
+    },
+    {
+      "id": "c5",
+      "speaker": "瞿秋白",
+      "claim": "“信仰”与理想绝对不相关涉",
+      "target": "",
+      "claim_type": "描述性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "其实“信仰”与理想绝对不相关涉。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c6",
+      "speaker": "瞿秋白",
+      "claim": "只有与现实毫不相关的理想，容得人家信仰",
+      "target": "",
+      "claim_type": "描述性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "只有与现实毫不相关的理想，容得人家信仰。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c7",
+      "speaker": "许多中国人",
+      "claim": "社会主义的理想是好极了，可惜不能实行",
+      "target": "",
+      "claim_type": "评价性主张",
+      "claim_status": "间接转述",
+      "polarity": "mixed",
+      "evidence": "现在许多中国人都说社会主义的理想是好极了，可惜不能实行。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c8",
+      "speaker": "瞿秋白",
+      "claim": "这种人是最信仰社会主义的理想的",
+      "target": "许多中国人",
+      "claim_type": "评价性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "这种人是最信仰社会主义的理想的。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c9",
+      "speaker": "瞿秋白",
+      "claim": "反而是对社会主义怀疑的人，还想着些现实世界",
+      "target": "对社会主义怀疑的人",
+      "claim_type": "评价性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "反而是对社会主义怀疑的人，还想着些现实世界。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c10",
+      "speaker": "瞿秋白",
+      "claim": "那种颂扬社会主义的人，比警察可怕万倍",
+      "target": "颂扬社会主义的人",
+      "claim_type": "评价性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "那种颂扬社会主义的人，比警察可怕万倍。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c11",
+      "speaker": "瞿秋白",
+      "claim": "理想与现实之间必须有密切的联系",
+      "target": "",
+      "claim_type": "规范性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "理想与现实之间必须有密切的联系。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c12",
+      "speaker": "瞿秋白",
+      "claim": "假使没有联系，那种理想便是幻象",
+      "target": "",
+      "claim_type": "因果主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "假使没有联系，那种理想便是幻象。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c13",
+      "speaker": "瞿秋白",
+      "claim": "章士钊的农村立国之类，就是这种东西",
+      "target": "章士钊的农村立国",
+      "claim_type": "评价性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "譬如章士钊的农村立国之类，就是这种东西。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c14",
+      "speaker": "瞿秋白",
+      "claim": "真正的社会主义的理想却密切联系着现实生活",
+      "target": "",
+      "claim_type": "描述性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "真正的社会主义的理想却密切联系着现实生活。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c15",
+      "speaker": "瞿秋白",
+      "claim": "真正的理想就是明天的现实",
+      "target": "",
+      "claim_type": "定义性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "真正的理想就是明天的现实。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c16",
+      "speaker": "瞿秋白",
+      "claim": "现实是流变不居的；既有流变，便有公律",
+      "target": "",
+      "claim_type": "因果主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "现实是流变不居的；既有流变，便有公律",
+      "confidence": 0.9
+    },
+    {
+      "id": "c17",
+      "speaker": "瞿秋白",
+      "claim": "依此现实流变不居的里面公律而后能预见将来的现实",
+      "target": "",
+      "claim_type": "因果主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "依此现实流变不居的里面公律而后能预见将来的现实",
+      "confidence": 0.9
+    },
+    {
+      "id": "c18",
+      "speaker": "瞿秋白",
+      "claim": "这种将来的现实对于现在便是理想",
+      "target": "",
+      "claim_type": "定义性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "这种将来的现实对于现在便是理想",
+      "confidence": 0.9
+    },
+    {
+      "id": "c19",
+      "speaker": "瞿秋白",
+      "claim": "假使没有这种必然的公律，那里能发生对于将来的理想呢？",
+      "target": "",
+      "claim_type": "问题提出",
+      "claim_status": "作者推论",
+      "polarity": "negative",
+      "evidence": "假使没有这种必然的公律，那里能发生对于将来的理想呢？",
+      "confidence": 0.9
+    }
+  ],
+  "relations": [
+    {
+      "id": "r1",
+      "head": "知道历史的必然",
+      "head_type": "概念",
+      "relation": "导致",
+      "relation_subtype": "不适用",
+      "tail": "人的行动就更可以“自由些”",
+      "tail_type": "概念",
+      "polarity": "positive",
+      "stance_score": 1.0,
+      "intensity": 0.7,
+      "evidence": "既然知道历史的必然，人的行动就更可以“自由些”，——更容易达到目的些",
+      "confidence": 0.9
+    },
+    {
+      "id": "r2",
+      "head": "否认历史的必然",
+      "head_type": "概念",
+      "relation": "导致",
+      "relation_subtype": "不适用",
+      "tail": "真正否认社会学，否认社会科学，而一切社会运动都成盲目的无意识的侥幸行动",
+      "tail_type": "观点",
+      "polarity": "negative",
+      "stance_score": -1.0,
+      "intensity": 0.9,
+      "evidence": "只有否认历史的必然时，方才真正否认社会学，否认社会科学，而一切社会运动都成盲目的无意识的侥幸行动",
+      "confidence": 0.9
+    },
+    {
+      "id": "r3",
+      "head": "现实是流变不居的",
+      "head_type": "观点",
+      "relation": "导致",
+      "relation_subtype": "不适用",
+      "tail": "便有公律",
+      "tail_type": "概念",
+      "polarity": "positive",
+      "stance_score": 1.0,
+      "intensity": 0.6,
+      "evidence": "现实是流变不居的；既有流变，便有公律",
+      "confidence": 0.9
+    },
+    {
+      "id": "r4",
+      "head": "公律",
+      "head_type": "概念",
+      "relation": "导致",
+      "relation_subtype": "不适用",
+      "tail": "能预见将来的现实",
+      "tail_type": "概念",
+      "polarity": "positive",
+      "stance_score": 1.0,
+      "intensity": 0.6,
+      "evidence": "依此现实流变不居的里面公律而后能预见将来的现实",
+      "confidence": 0.9
+    },
+    {
+      "id": "r5",
+      "head": "将来的现实",
+      "head_type": "概念",
+      "relation": "定义",
+      "relation_subtype": "概念澄清",
+      "tail": "理想",
+      "tail_type": "概念",
+      "polarity": "positive",
+      "stance_score": 1.0,
+      "intensity": 0.6,
+      "evidence": "这种将来的现实对于现在便是理想",
+      "confidence": 0.9
+    },
+    {
+      "id": "r6",
+      "head": "必然的公律",
+      "head_type": "概念",
+      "relation": "导致",
+      "relation_subtype": "不适用",
+      "tail": "发生对于将来的理想",
+      "tail_type": "概念",
+      "polarity": "positive",
+      "stance_score": 1.0,
+      "intensity": 0.7,
+      "evidence": "假使没有这种必然的公律，那里能发生对于将来的理想呢？",
+      "confidence": 0.9
+    }
+  ],
+  "definitions": [
+    {
+      "id": "def1",
+      "term": "理想",
+      "definition": "理想是目的，是我们道德上所不得不立的目的，可是因为太高了，我们不能达到",
+      "evidence": "普通人的答案是：“理想是目的，是我们道德上所不得不立的目的，可是因为太高了，我们不能达到。”",
+      "confidence": 0.9
+    },
+    {
+      "id": "def2",
+      "term": "真正的理想",
+      "definition": "真正的理想就是明天的现实",
+      "evidence": "真正的理想就是明天的现实。",
+      "confidence": 0.9
+    },
+    {
+      "id": "def3",
+      "term": "理想",
+      "definition": "这种将来的现实对于现在便是理想",
+      "evidence": "这种将来的现实对于现在便是理想",
+      "confidence": 0.9
+    }
+  ],
+  "citations": [
+    {
+      "id": "cit1",
+      "citer": "瞿秋白",
+      "quoted_author": "普通人",
+      "quoted_work": "",
+      "quoted_claim": "理想是目的，是我们道德上所不得不立的目的，可是因为太高了，我们不能达到",
+      "function": "作为批评对象",
+      "evidence": "普通人的答案是：“理想是目的，是我们道德上所不得不立的目的，可是因为太高了，我们不能达到。”",
+      "confidence": 0.9
+    },
+    {
+      "id": "cit2",
+      "citer": "瞿秋白",
+      "quoted_author": "许多中国人",
+      "quoted_work": "",
+      "quoted_claim": "社会主义的理想是好极了，可惜不能实行",
+      "function": "作为批评对象",
+      "evidence": "现在许多中国人都说社会主义的理想是好极了，可惜不能实行。",
+      "confidence": 0.9
+    }
+  ],
+  "rhetorical_devices": [
+    {
+      "id": "rh1",
+      "expression": "比警察可怕万倍",
+      "device_type": "夸张",
+      "literal_target": "颂扬社会主义的人",
+      "function": "通过夸张表达对颂扬社会主义者的强烈批评",
+      "evidence": "那种颂扬社会主义的人，比警察可怕万倍。",
+      "confidence": 0.9
+    },
+    {
+      "id": "rh2",
+      "expression": "这种人是最信仰社会主义的理想的",
+      "device_type": "讽刺",
+      "literal_target": "许多中国人",
+      "function": "讽刺那些口头上颂扬社会主义却认为不能实行的人",
+      "evidence": "这种人是最信仰社会主义的理想的。",
+      "confidence": 0.9
+    }
+  ],
+  "uncertainties": [
+    {
+      "item": "“社会的目的是社会发展过程之必然的果，追寻他最后的原因，却在于经济发展”这句话中“他”的指代对象",
+      "reason": "原文中“他”可能指代“社会的目的”或“社会发展过程”，但文本未明确说明，需结合上下文判断。"
+    }
+  ],
+  "_meta": {
+    "status": "success",
+    "stage": "extract",
+    "model": "deepseek-ai/DeepSeek-V4-Flash",
+    "base_url": "https://api.siliconflow.cn/v1",
+    "prompt_version": "v2.0",
+    "schema_version": "lite_v3.0",
+    "segment_id": "瞿秋白_000_a4753ce4_s0008",
+    "article_id": "瞿秋白_000_a4753ce4",
+    "char_start": 4005,
+    "char_end": 4596,
+    "raw_path": "E:\\1研究生\\岭南大学\\论文毕业\\capstone\\资料\\新的内容开始了\\local_upload\\kg_runs_v2\\瞿秋白\\raw_outputs\\extract\\瞿秋白_000_a4753ce4_s0008.txt",
+    "parsed_at": "2026-05-21T21:46:25",
+    "started_at": "2026-05-21T21:43:30",
+    "elapsed_seconds": 175.022,
+    "strict_evidence_check": true,
+    "drop_unsupported_evidence": true,
+    "request_timeout_seconds": 180
+  }
+}

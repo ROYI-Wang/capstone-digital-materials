@@ -1,0 +1,451 @@
+{
+  "metadata": {
+    "schema_version": "lite_v3.0",
+    "article_id": "任叔永_000_7ab49e99",
+    "article_title": "人生观的科学或科学的人生观",
+    "source_author": "任叔永",
+    "section_title": "",
+    "section_author": "",
+    "segment_id": "任叔永_000_7ab49e99_s0005",
+    "segment_index": 5,
+    "source_file": "E:\\1研究生\\岭南大学\\论文毕业\\capstone\\资料\\新的内容开始了\\local_upload\\input_v2_w1\\任叔永.txt"
+  },
+  "entities": [
+    {
+      "id": "e1",
+      "name": "物理或算学上的荆棘",
+      "canonical_name": "物理或算学上的荆棘",
+      "type": "比喻/类比",
+      "evidence": "就可把物理或算学上的荆棘变成康庄",
+      "confidence": 0.9
+    },
+    {
+      "id": "e2",
+      "name": "康庄",
+      "canonical_name": "康庄",
+      "type": "比喻/类比",
+      "evidence": "就可把物理或算学上的荆棘变成康庄",
+      "confidence": 0.9
+    },
+    {
+      "id": "e3",
+      "name": "研究中的不毛",
+      "canonical_name": "研究中的不毛",
+      "type": "比喻/类比",
+      "evidence": "研究中的不毛，变成智识及权力的泉源",
+      "confidence": 0.9
+    },
+    {
+      "id": "e4",
+      "name": "智识及权力的泉源",
+      "canonical_name": "智识及权力的泉源",
+      "type": "比喻/类比",
+      "evidence": "研究中的不毛，变成智识及权力的泉源",
+      "confidence": 0.9
+    },
+    {
+      "id": "e5",
+      "name": "人类",
+      "canonical_name": "人类",
+      "type": "阵营/群体",
+      "evidence": "说人类的现在及将来是一个无望可悲的结果",
+      "confidence": 0.9
+    },
+    {
+      "id": "e6",
+      "name": "科学家",
+      "canonical_name": "科学家",
+      "type": "阵营/群体",
+      "evidence": "有些科学家，竟能把荣名界限及一切社会阶级打破",
+      "confidence": 0.9
+    },
+    {
+      "id": "e7",
+      "name": "科学家的人生观",
+      "canonical_name": "科学家的人生观",
+      "type": "概念",
+      "evidence": "科学家的人生观，是超乎这些以上的",
+      "confidence": 0.9
+    },
+    {
+      "id": "e8",
+      "name": "科学",
+      "canonical_name": "科学",
+      "type": "概念",
+      "evidence": "科学所研究的是事物的关系",
+      "confidence": 0.9
+    },
+    {
+      "id": "e9",
+      "name": "事物的关系",
+      "canonical_name": "事物的关系",
+      "type": "概念",
+      "evidence": "科学所研究的是事物的关系",
+      "confidence": 0.9
+    },
+    {
+      "id": "e10",
+      "name": "公式",
+      "canonical_name": "公式",
+      "type": "概念",
+      "evidence": "明白了关系，才能发见公式",
+      "confidence": 0.9
+    },
+    {
+      "id": "e11",
+      "name": "因果观念",
+      "canonical_name": "因果观念",
+      "type": "概念",
+      "evidence": "这种关系的研究，公式的发见，都可以给人一种因果的观念",
+      "confidence": 0.9
+    },
+    {
+      "id": "e12",
+      "name": "经验世界",
+      "canonical_name": "经验世界",
+      "type": "概念",
+      "evidence": "这个因果观念，在经验世界里面，是有绝对的普遍性的",
+      "confidence": 0.9
+    },
+    {
+      "id": "e13",
+      "name": "合理的人生观",
+      "canonical_name": "合理的人生观",
+      "type": "概念",
+      "evidence": "这种合理的人生观，也是研究科学的结果",
+      "confidence": 0.9
+    },
+    {
+      "id": "e14",
+      "name": "亚当降种的尊贵",
+      "canonical_name": "亚当降种的尊贵",
+      "type": "观点",
+      "evidence": "我们何以不信亚当降种的尊贵，而自甘动物进化的卑贱，因为前说不合理的原故",
+      "confidence": 0.9
+    },
+    {
+      "id": "e15",
+      "name": "动物进化的卑贱",
+      "canonical_name": "动物进化的卑贱",
+      "type": "观点",
+      "evidence": "我们何以不信亚当降种的尊贵，而自甘动物进化的卑贱，因为前说不合理的原故",
+      "confidence": 0.9
+    },
+    {
+      "id": "e16",
+      "name": "五行风水的说话",
+      "canonical_name": "五行风水的说话",
+      "type": "观点",
+      "evidence": "我们何以不信五行风水的说话，而主张人能主宰自己的运命，也因为前者不合理的原故",
+      "confidence": 0.9
+    },
+    {
+      "id": "e17",
+      "name": "人能主宰自己的运命",
+      "canonical_name": "人能主宰自己的运命",
+      "type": "观点",
+      "evidence": "我们何以不信五行风水的说话，而主张人能主宰自己的运命，也因为前者不合理的原故",
+      "confidence": 0.9
+    },
+    {
+      "id": "e18",
+      "name": "前人的名论或社会的成见",
+      "canonical_name": "前人的名论或社会的成见",
+      "type": "观点",
+      "evidence": "他们因为要求一个合理的结论，所以不惮和前人的名论或社会的成见宣战",
+      "confidence": 0.9
+    }
+  ],
+  "claims": [
+    {
+      "id": "c1",
+      "speaker": "作者",
+      "claim": "见惯了这些事体的人，若有人告诉他，说人类的现在及将来是一个无望可悲的结果，他一定不相信",
+      "target": "人类",
+      "claim_type": "描述性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "见惯了这些事体的人，若有人告诉他，说人类的现在及将来是一个无望可悲的结果，他一定不相信",
+      "confidence": 0.9
+    },
+    {
+      "id": "c2",
+      "speaker": "作者",
+      "claim": "科学家的人生观，是超乎这些以上的",
+      "target": "科学家的人生观",
+      "claim_type": "描述性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "这是因为科学家的人生观，是超乎这些以上的",
+      "confidence": 0.9
+    },
+    {
+      "id": "c3",
+      "speaker": "作者",
+      "claim": "科学所研究的是事物的关系，明白了关系，才能发见公式",
+      "target": "科学",
+      "claim_type": "定义性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "科学所研究的是事物的关系，明白了关系，才能发见公式",
+      "confidence": 0.9
+    },
+    {
+      "id": "c4",
+      "speaker": "作者",
+      "claim": "这种关系的研究，公式的发见，都可以给人一种因果的观念",
+      "target": "因果观念",
+      "claim_type": "因果主张",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "这种关系的研究，公式的发见，都可以给人一种因果的观念",
+      "confidence": 0.9
+    },
+    {
+      "id": "c5",
+      "speaker": "作者",
+      "claim": "这个因果观念，在经验世界里面，是有绝对的普遍性的",
+      "target": "因果观念",
+      "claim_type": "描述性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "这个因果观念，在经验世界里面，是有绝对的普遍性的",
+      "confidence": 0.9
+    },
+    {
+      "id": "c6",
+      "speaker": "作者",
+      "claim": "研究科学的人，把因果观念应用到人生观上去，事事都要求一个合理的，这种合理的人生观，也是研究科学的结果",
+      "target": "合理的人生观",
+      "claim_type": "因果主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "研究科学的人，把因果观念应用到人生观上去，事事都要求一个合理的，这种合理的人生观，也是研究科学的结果",
+      "confidence": 0.9
+    },
+    {
+      "id": "c7",
+      "speaker": "作者",
+      "claim": "我们何以不信亚当降种的尊贵，而自甘动物进化的卑贱，因为前说不合理的原故",
+      "target": "亚当降种的尊贵",
+      "claim_type": "因果主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "我们何以不信亚当降种的尊贵，而自甘动物进化的卑贱，因为前说不合理的原故",
+      "confidence": 0.9
+    },
+    {
+      "id": "c8",
+      "speaker": "作者",
+      "claim": "我们何以不信五行风水的说话，而主张人能主宰自己的运命，也因为前者不合理的原故",
+      "target": "五行风水的说话",
+      "claim_type": "因果主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "我们何以不信五行风水的说话，而主张人能主宰自己的运命，也因为前者不合理的原故",
+      "confidence": 0.9
+    },
+    {
+      "id": "c9",
+      "speaker": "作者",
+      "claim": "科学家因为要求一个合理的关系，所以不惮用精确的观察去求事实，精确的论理去做推论",
+      "target": "科学家",
+      "claim_type": "因果主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "科学家因为要求一个合理的关系，所以不惮用精确的观察去求事实，精确的论理去做推论",
+      "confidence": 0.9
+    },
+    {
+      "id": "c10",
+      "speaker": "作者",
+      "claim": "他们因为要求一个合理的结论，所以不惮和前人的名论或社会的成见宣战",
+      "target": "前人的名论或社会的成见",
+      "claim_type": "因果主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "他们因为要求一个合理的结论，所以不惮和前人的名论或社会的成见宣战",
+      "confidence": 0.9
+    }
+  ],
+  "relations": [
+    {
+      "id": "r1",
+      "head": "物理或算学上的荆棘",
+      "head_type": "比喻/类比",
+      "relation": "类比",
+      "relation_subtype": "不适用",
+      "tail": "康庄",
+      "tail_type": "比喻/类比",
+      "polarity": "positive",
+      "stance_score": 1.0,
+      "intensity": 0.8,
+      "evidence": "就可把物理或算学上的荆棘变成康庄",
+      "confidence": 0.9
+    },
+    {
+      "id": "r2",
+      "head": "研究中的不毛",
+      "head_type": "比喻/类比",
+      "relation": "类比",
+      "relation_subtype": "不适用",
+      "tail": "智识及权力的泉源",
+      "tail_type": "比喻/类比",
+      "polarity": "positive",
+      "stance_score": 1.0,
+      "intensity": 0.8,
+      "evidence": "研究中的不毛，变成智识及权力的泉源",
+      "confidence": 0.9
+    },
+    {
+      "id": "r3",
+      "head": "科学家的人生观",
+      "head_type": "概念",
+      "relation": "评价",
+      "relation_subtype": "一般批评",
+      "tail": "荣名界限及一切社会阶级",
+      "tail_type": "概念",
+      "polarity": "positive",
+      "stance_score": 1.0,
+      "intensity": 0.7,
+      "evidence": "有些科学家，竟能把荣名界限及一切社会阶级打破。这是因为科学家的人生观，是超乎这些以上的",
+      "confidence": 0.9
+    },
+    {
+      "id": "r4",
+      "head": "科学",
+      "head_type": "概念",
+      "relation": "定义",
+      "relation_subtype": "概念澄清",
+      "tail": "事物的关系",
+      "tail_type": "概念",
+      "polarity": "neutral",
+      "stance_score": 0.0,
+      "intensity": 0.5,
+      "evidence": "科学所研究的是事物的关系",
+      "confidence": 0.9
+    },
+    {
+      "id": "r5",
+      "head": "关系的研究",
+      "head_type": "概念",
+      "relation": "导致",
+      "relation_subtype": "不适用",
+      "tail": "因果观念",
+      "tail_type": "概念",
+      "polarity": "neutral",
+      "stance_score": 0.0,
+      "intensity": 0.5,
+      "evidence": "这种关系的研究，公式的发见，都可以给人一种因果的观念",
+      "confidence": 0.9
+    },
+    {
+      "id": "r6",
+      "head": "因果观念",
+      "head_type": "概念",
+      "relation": "导致",
+      "relation_subtype": "不适用",
+      "tail": "合理的人生观",
+      "tail_type": "概念",
+      "polarity": "positive",
+      "stance_score":  perm_1.0,
+      "intensity": 0.7,
+      "evidence": "研究科学的人，把因果观念应用到人生观上去，事事都要求一个合理的，这种合理的人生观，也是研究科学的结果",
+      "confidence": 0.9
+    },
+    {
+      "id": "r7",
+      "head": "亚当降种的尊贵",
+      "head_type": "观点",
+      "relation": "归因于",
+      "relation_subtype": "不适用",
+      "tail": "不合理",
+      "tail_type": "概念",
+      "polarity": "negative",
+      "stance_score": -0.8,
+      "intensity": 0.7,
+      "evidence": "我们何以不信亚当降种的尊贵，而自甘动物进化的卑贱，因为前说不合理的原故",
+      "confidence": 0.9
+    },
+    {
+      "id": "r8",
+      "head": "五行风水的说话",
+      "head_type": "观点",
+      "relation": "归因于",
+      "relation_subtype": "不适用",
+      "tail": "不合理",
+      "tail_type": "概念",
+      "polarity": "negative",
+      "stance_score": -0.8,
+      "intensity": 0.7,
+      "evidence": "我们何以不信五行风水的说话，而主张人能主宰自己的运命，也因为前者不合理的原故",
+      "confidence": 0.9
+    },
+    {
+      "id": "r9",
+      "head": "科学家",
+      "head_type": "阵营/群体",
+      "relation": "归因于",
+      "relation_subtype": "不适用",
+      "tail": "要求一个合理的关系",
+      "tail_type": "观点",
+      "polarity": "positive",
+      "stance_score": 1.0,
+      "intensity": 0.7,
+      "evidence": "科学家因为要求一个合理的关系，所以不惮用精确的观察去求事实，精确的论理去做推论",
+      "confidence": 0.9
+    },
+    {
+      "id": "r10",
+      "head": "科学家",
+      "head_type": "阵营/群体",
+      "relation": "归因于",
+      "relation_subtype": "不适用",
+      "tail": "要求一个合理的结论",
+      "tail_type": "观点",
+      "polarity": "positive",
+      "stance_score": 1.0,
+      "intensity": 0.7,
+      "evidence": "他们因为要求一个合理的结论，所以不惮和前人的名论或社会的成见宣战",
+      "confidence": 0.9
+    }
+  ],
+  "definitions": [
+    {
+      "id": "def1",
+      "term": "科学",
+      "definition": "科学所研究的是事物的关系",
+      "evidence": "科学所研究的是事物的关系",
+      "confidence": 0.9
+    },
+    {
+      "id": "def2",
+      "term": "因果观念",
+      "definition": "因果观念在经验世界里面是有绝对的普遍性的",
+      "evidence": "这个因果观念，在经验世界里面，是有绝对的普遍性的",
+      "confidence": 0.9
+    }
+  ],
+  "citations": [],
+  "rhetorical_devices": [
+    {
+      "id": "rh1",
+      "expression": "物理或算学上的荆棘变成康庄",
+      "device_type": "比喻",
+      "literal_target": "物理或算学上的困难变成顺利",
+      "function": "形象化地说明科学方法能克服困难",
+      "evidence": "就可把物理或算学上的荆棘变成康庄",
+      "confidence": 0.9
+    },
+    {
+      "id": "rh2",
+      "expression": "研究中的不毛，变成智识及权力的泉源",
+      "device_type": "比喻",
+      "literal_target": "研究中的贫瘠领域变成知识和力量的来源",
+      "function": "形象化地说明科学研究能产生知识和力量",
+      "evidence": "研究中的不毛，变成智识及权力的泉源",
+      "confidence": 0.9
+    }
+  ],
+  "uncertainties": []
+}

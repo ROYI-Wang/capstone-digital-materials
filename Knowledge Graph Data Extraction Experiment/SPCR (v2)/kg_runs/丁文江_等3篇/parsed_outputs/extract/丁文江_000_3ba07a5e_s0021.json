@@ -1,0 +1,41 @@
+{
+  "metadata": {
+    "schema_version": "lite_v3.0",
+    "article_id": "丁文江_000_3ba07a5e",
+    "article_title": "玄学与科学 ——评张君劢的《人生观》",
+    "source_author": "丁文江",
+    "section_title": "",
+    "section_author": "",
+    "segment_id": "丁文江_000_3ba07a5e_s0021",
+    "segment_index": 21,
+    "source_file": "E:\\1研究生\\岭南大学\\论文毕业\\capstone\\资料\\新的内容开始了\\local_upload\\input_丁文江\\丁文江.txt"
+  },
+  "entities": [],
+  "claims": [],
+  "relations": [],
+  "definitions": [],
+  "citations": [],
+  "rhetorical_devices": [],
+  "uncertainties": [],
+  "_meta": {
+    "status": "failed",
+    "stage": "extract",
+    "model": "deepseek-ai/DeepSeek-V4-Flash",
+    "base_url": "https://api.siliconflow.cn/v1",
+    "prompt_version": "v2.0",
+    "schema_version": "lite_v3.0",
+    "segment_id": "丁文江_000_3ba07a5e_s0021",
+    "article_id": "丁文江_000_3ba07a5e",
+    "char_start": 10641,
+    "char_end": 11237,
+    "raw_path": "E:\\1研究生\\岭南大学\\论文毕业\\capstone\\资料\\新的内容开始了\\local_upload\\kg_runs_v2\\丁文江_等3篇\\raw_outputs\\extract\\丁文江_000_3ba07a5e_s0021.txt",
+    "parsed_at": "2026-05-22T07:10:20",
+    "started_at": "2026-05-22T07:09:53",
+    "elapsed_seconds": 27.428,
+    "error": "ValueError('模型输出中 JSON 对象括号不完整')",
+    "traceback": "Traceback (most recent call last):\n  File \"E:\\1研究生\\岭南大学\\论文毕业\\capstone\\资料\\新的内容开始了\\local_upload\\pipeline_v2\\workflow_complete.py\", line 1434, in process_one_segment\n    parsed = parse_model_json(raw_text)\n  File \"E:\\1研究生\\岭南大学\\论文毕业\\capstone\\资料\\新的内容开始了\\local_upload\\pipeline_v2\\workflow_complete.py\", line 1027, in parse_model_json\n    candidate = extract_first_json_object(raw_text)\n  File \"E:\\1研究生\\岭南大学\\论文毕业\\capstone\\资料\\新的内容开始了\\local_upload\\pipeline_v2\\workflow_complete.py\", line 1023, in extract_first_json_object\n    raise ValueError(\"模型输出中 JSON 对象括号不完整\")\nValueError: 模型输出中 JSON 对象括号不完整\n",
+    "strict_evidence_check": true,
+    "drop_unsupported_evidence": true,
+    "request_timeout_seconds": 60
+  }
+}

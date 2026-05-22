@@ -1,0 +1,419 @@
+{
+  "metadata": {
+    "schema_version": "lite_v3.0",
+    "article_id": "甘蛰仙_000_6b354fa0",
+    "article_title": "人生观与知识论",
+    "source_author": "甘蛰仙",
+    "section_title": "鄙意欲率自由意志以通本体论与道德学之邮，犹先民所谓“为仁由己”也。我当时之见解，以为从事本体之学，务必以道德学为之辅，乃能按",
+    "section_author": "鄙意欲率自由意志以通本体论与道德学之邮，犹先民所谓“为仁由己”也。我当时之见解，以为从事本体之学，务必以道德学为之辅，乃能",
+    "segment_id": "甘蛰仙_000_6b354fa0_s0004",
+    "segment_index": 4,
+    "source_file": "E:\\1研究生\\岭南大学\\论文毕业\\capstone\\资料\\新的内容开始了\\local_upload\\input_v2_w3\\甘蛰仙.txt"
+  },
+  "entities": [
+    {
+      "id": "e1",
+      "name": "荀子",
+      "canonical_name": "荀子",
+      "type": "人物",
+      "evidence": "荀子的知识论",
+      "confidence": 1.0
+    },
+    {
+      "id": "e2",
+      "name": "知识论",
+      "canonical_name": "知识论",
+      "type": "概念",
+      "evidence": "荀子的知识论",
+      "confidence": 1.0
+    },
+    {
+      "id": "e3",
+      "name": "劝学篇",
+      "canonical_name": "劝学篇",
+      "type": "著作",
+      "evidence": "劝学篇云",
+      "confidence": 1.0
+    },
+    {
+      "id": "e4",
+      "name": "亲知",
+      "canonical_name": "亲知",
+      "type": "概念",
+      "evidence": "这由登高临深得来的经验，就是觉官的亲知",
+      "confidence": 1.0
+    },
+    {
+      "id": "e5",
+      "name": "闻知",
+      "canonical_name": "闻知",
+      "type": "概念",
+      "evidence": "由闻先王之遗言得来的知识，就是传授的闻知",
+      "confidence": 1.0
+    },
+    {
+      "id": "e6",
+      "name": "非相篇",
+      "canonical_name": "非相篇",
+      "type": "著作",
+      "evidence": "非相篇云",
+      "confidence": 1.0
+    },
+    {
+      "id": "e7",
+      "name": "说知",
+      "canonical_name": "说知",
+      "type": "概念",
+      "evidence": "这种由审度计数得来的知识，就是一种说知",
+      "confidence": 1.0
+    },
+    {
+      "id": "e8",
+      "name": "晦庵",
+      "canonical_name": "晦庵",
+      "type": "人物",
+      "evidence": "晦庵的知识论",
+      "confidence": 1.0
+    },
+    {
+      "id": "e9",
+      "name": "知识论",
+      "canonical_name": "知识论",
+      "type": "概念",
+      "evidence": "晦庵的知识论",
+      "confidence": 1.0
+    },
+    {
+      "id": "e10",
+      "name": "即物穷理",
+      "canonical_name": "即物穷理",
+      "type": "概念",
+      "evidence": "即物穷理，就是亲知",
+      "confidence": 1.0
+    },
+    {
+      "id": "e11",
+      "name": "朱子补大学",
+      "canonical_name": "朱子补大学",
+      "type": "著作",
+      "evidence": "朱子补大学",
+      "confidence": 1.0
+    },
+    {
+      "id": "e12",
+      "name": "墨学",
+      "canonical_name": "墨学",
+      "type": "主义/学说/理论",
+      "evidence": "戴一副墨学的色镜",
+      "confidence": 1.0
+    },
+    {
+      "id": "e13",
+      "name": "荀朱",
+      "canonical_name": "荀朱",
+      "type": "阵营/群体",
+      "evidence": "以观察荀朱",
+      "confidence": 1.0
+    },
+    {
+      "id": "e14",
+      "name": "经验",
+      "canonical_name": "经验",
+      "type": "概念",
+      "evidence": "经验有时必待习惯联想而后真",
+      "confidence": 1.0
+    },
+    {
+      "id": "e15",
+      "name": "习惯",
+      "canonical_name": "习惯",
+      "type": "概念",
+      "evidence": "闻知有时凭于习惯",
+      "confidence": 1.0
+    },
+    {
+      "id": "e16",
+      "name": "联想",
+      "canonical_name": "联想",
+      "type": "概念",
+      "evidence": "说知有时靠着联想",
+      "confidence": 1.0
+    },
+    {
+      "id": "e17",
+      "name": "伊川",
+      "canonical_name": "伊川",
+      "type": "人物",
+      "evidence": "晦庵尝推本伊川",
+      "confidence": 1.0
+    },
+    {
+      "id": "e18",
+      "name": "孟陆阳明",
+      "canonical_name": "孟陆阳明",
+      "type": "阵营/群体",
+      "evidence": "孟陆阳明之说",
+      "confidence": 1.0
+    }
+  ],
+  "claims": [
+    {
+      "id": "c1",
+      "speaker": "鄙意欲率自由意志以通本体论与道德学之邮，犹先民所谓“为仁由己”也。我当时之见解，以为从事本体之学，务必以道德学为之辅，乃能",
+      "claim": "荀子的知识论，我们从它书里开宗明义第一篇就可看出个头绪来。劝学篇云：‘不登高山，不知天之高也；不临深谿，不知地之厚也；不闻先王之遗言，不知学问之大也。’这由登高临深得来的经验，就是觉官的亲知；由闻先王之遗言得来的知识，就是传授的闻知。又非相篇云：‘欲观千岁，则数今日；欲知亿万，则审一二；欲知上世，则审周道。’这种由审度计数得来的知识，就是一种说知……。",
+      "target": "荀子的知识论",
+      "claim_type": "描述性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "荀子的知识论，我们从它书里开宗明义第一篇就可看出个头绪来。劝学篇云：‘不登高山，不知天之高也；不临深谿，不知地之厚也；不闻先王之遗言，不知学问之大也。’这由登高临深得来的经验，就是觉官的亲知；由闻先王之遗言得来的知识，就是传授的闻知。又非相篇云：‘欲观千岁，则数今日；欲知亿万，则审一二；欲知上世，则审周道。’这种由审度计数得来的知识，就是一种说知……。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c2",
+      "speaker": "鄙意欲率自由意志以通本体论与道德学之邮，犹先民所谓“为仁由己”也。我当时之见解，以为从事本体之学，务必以道德学为之辅，乃能",
+      "claim": "至于晦庵的知识论，更是以前的人们，大家‘童而习之’的了。他说：‘欲致吾之知，在即物而穷其理。……必使即凡天下之物，莫不因其已知之理而益穷之，以求至乎其极。’——朱子补大学——由我下个解释：即物穷理，就是亲知；简言之，即物便有了耳目之实了。因其已知之理得来的知识，就是闻知；益穷以求至极，这便是说知。",
+      "target": "晦庵的知识论",
+      "claim_type": "描述性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "至于晦庵的知识论，更是以前的人们，大家‘童而习之’的了。他说：‘欲致吾之知，在即物而穷其理。……必使即凡天下之物，莫不因其已知之理而益穷之，以求至乎其极。’——朱子补大学——由我下个解释：即物穷理，就是亲知；简言之，即物便有了耳目之实了。因其已知之理得来的知识，就是闻知；益穷以求至极，这便是说知。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c3",
+      "speaker": "鄙意欲率自由意志以通本体论与道德学之邮，犹先民所谓“为仁由己”也。我当时之见解，以为从事本体之学，务必以道德学为之辅，乃能",
+      "claim": "戴一副墨学的色镜，以观察荀朱，似非纯客观之研究法也",
+      "target": "以墨学观察荀朱的方法",
+      "claim_type": "评价性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "戴一副墨学的色镜，以观察荀朱，似非纯客观之研究法也",
+      "confidence": 1.0
+    },
+    {
+      "id": "c4",
+      "speaker": "鄙意欲率自由意志以通本体论与道德学之邮，犹先民所谓“为仁由己”也。我当时之见解，以为从事本体之学，务必以道德学为之辅，乃能",
+      "claim": "特引伸发明，亦我辈后学所应从事",
+      "target": "引伸发明",
+      "claim_type": "规范性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "特引伸发明，亦我辈后学所应从事",
+      "confidence": 1.0
+    },
+    {
+      "id": "c5",
+      "speaker": "鄙意欲率自由意志以通本体论与道德学之邮，犹先民所谓“为仁由己”也。我当时之见解，以为从事本体之学，务必以道德学为之辅，乃能",
+      "claim": "我看闻知有时凭于习惯，说知有时靠着联想；而亲知仍复根于经验。经验有时必待习惯联想而后真；犹亲知有时必待闻知说知之补助，才靠得住。",
+      "target": "亲知、闻知、说知三者之交互关系",
+      "claim_type": "描述性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "我看闻知有时凭于习惯，说知有时靠着联想；而亲知仍复根于经验。经验有时必待习惯联想而后真；犹亲知有时必待闻知说知之补助，才靠得住。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c6",
+      "speaker": "鄙意欲率自由意志以通本体论与道德学之邮，犹先民所谓“为仁由己”也。我当时之见解，以为从事本体之学，务必以道德学为之辅，乃能",
+      "claim": "荀学或亦有类于斯",
+      "target": "荀学",
+      "claim_type": "对比性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "荀学或亦有类于斯",
+      "confidence": 0.8
+    },
+    {
+      "id": "c7",
+      "speaker": "鄙意欲率自由意志以通本体论与道德学之邮，犹先民所谓“为仁由己”也。我当时之见解，以为从事本体之学，务必以道德学为之辅，乃能",
+      "claim": "荀朱之说，非必无关于经验之论据，明矣",
+      "target": "荀朱之说",
+      "claim_type": "结论性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "然则荀朱之说，非必无关于经验之论据，明矣",
+      "confidence": 1.0
+    },
+    {
+      "id": "c8",
+      "speaker": "鄙意欲率自由意志以通本体论与道德学之邮，犹先民所谓“为仁由己”也。我当时之见解，以为从事本体之学，务必以道德学为之辅，乃能",
+      "claim": "乃若关于唯理之论据，则孟陆阳明之说，尤其杰出者也",
+      "target": "孟陆阳明之说",
+      "claim_type": "评价性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "乃若关于唯理之论据，则孟陆阳明之说，尤其杰出者也",
+      "confidence": 1.0
+    }
+  ],
+  "relations": [
+    {
+      "id": "r1",
+      "head": "鄙意欲率自由意志以通本体论与道德学之邮，犹先民所谓“为仁由己”也。我当时之见解，以为从事本体之学，务必以道德学为之辅，乃能",
+      "head_type": "人物",
+      "relation": "相关",
+      "relation_subtype": "作为历史证据",
+      "tail": "劝学篇",
+      "tail_type": "著作",
+      "polarity": "neutral",
+      "stance_score": 0.0,
+      "intensity": 0.0,
+      "evidence": "劝学篇云：‘不登高山，不知天之高也；不临深谿，不知地之厚也；不闻先王之遗言，不知学问之大也。’",
+      "confidence": 1.0
+    },
+    {
+      "id": "r2",
+      "head": "鄙意欲率自由意志以通本体论与道德学之邮，犹先民所谓“为仁由己”也。我当时之见解，以为从事本体之学，务必以道德学为之辅，乃能",
+      "head_type": "人物",
+      "relation": "相关",
+      "relation_subtype": "作为历史证据",
+      "tail": "非相篇",
+      "tail_type": "著作",
+      "polarity": "neutral",
+      "stance_score": 0.0,
+      "intensity": 0.0,
+      "evidence": "非相篇云：‘欲观千岁，则数今日；欲知亿万，则审一二；欲知上世，则审周道。’",
+      "confidence": 1.0
+    },
+    {
+      "id": "r3",
+      "head": "鄙意欲率自由意志以通本体论与道德学之邮，犹先民所谓“为仁由己”也。我当时之见解，以为从事本体之学，务必以道德学为之辅，乃能",
+      "head_type": "人物",
+      "relation": "相关",
+      "relation_subtype": "作为历史证据",
+      "tail": "朱子补大学",
+      "tail_type": "著作",
+      "polarity": "neutral",
+      "stance_score": 0.0,
+      "intensity": 0.0,
+      "evidence": "他说：‘欲致吾之知，在即物而穷其理。……必使即凡天下之物，莫不因其已知之理而益穷之，以求至乎其极。’——朱子补大学",
+      "confidence": 1.0
+    },
+    {
+      "id": "r4",
+      "head": "鄙意欲率自由意志以通本体论与道德学之邮，犹先民所谓“为仁由己”也。我当时之见解，以为从事本体之学，务必以道德学为之辅，乃能",
+      "head_type": "人物",
+      "relation": "相关",
+      "relation_subtype": "部分肯定",
+      "tail": "荀朱之说",
+      "tail_type": "观点",
+      "polarity": "positive",
+      "stance_score": 0.5,
+      "intensity": 0.5,
+      "evidence": "然则荀朱之说，非必无关于经验之论据，明矣",
+      "confidence": 1.0
+    },
+    {
+      "id": "r5",
+      "head": "鄙意欲率自由意志以通本体论与道德学之邮，犹先民所谓“为仁由己”也。我当时之见解，以为从事本体之学，务必以道德学为之辅，乃能",
+      "head_type": "人物",
+      "relation": "相关",
+      "relation_subtype": "部分肯定",
+      "tail": "孟陆阳明之说",
+      "tail_type": "观点",
+      "polarity": "positive",
+      "stance_score": 0.8,
+      "intensity": 0.7,
+      "evidence": "乃若关于唯理之论据，则孟陆阳明之说，尤其杰出者也",
+      "confidence": 1.0
+    }
+  ],
+  "definitions": [
+    {
+      "id": "def1",
+      "term": "亲知",
+      "definition": "由登高临深得来的经验，就是觉官的亲知",
+      "evidence": "这由登高临深得来的经验，就是觉官的亲知",
+      "confidence": 1.0
+    },
+    {
+      "id": "def2",
+      "term": "闻知",
+      "definition": "由闻先王之遗言得来的知识，就是传授的闻知",
+      "evidence": "由闻先王之遗言得来的知识，就是传授的闻知",
+      "confidence": 1.0
+    },
+    {
+      "id": "def3",
+      "term": "说知",
+      "definition": "由审度计数得来的知识，就是一种说知",
+      "evidence": "这种由审度计数得来的知识，就是一种说知",
+      "confidence": 1.0
+    },
+    {
+      "id": "def4",
+      "term": "即物穷理",
+      "definition": "即物穷理，就是亲知；简言之，即物便有了耳目之实了",
+      "evidence": "即物穷理，就是亲知；简言之，即物便有了耳目之实了",
+      "confidence": 1.0
+    }
+  ],
+  "citations": [
+    {
+      "id": "cit1",
+      "citer": "鄙意欲率自由意志以通本体论与道德学之邮，犹先民所谓“为仁由己”也。我当时之见解，以为从事本体之学，务必以道德学为之辅，乃能",
+      "quoted_author": "荀子",
+      "quoted_work": "劝学篇",
+      "quoted_claim": "不登高山，不知天之高也；不临深谿，不知地之厚也；不闻先王之遗言，不知学问之大也",
+      "function": "作为历史证据",
+      "evidence": "劝学篇云：‘不登高山，不知天之高也；不临深谿，不知地之厚也；不闻先王之遗言，不知学问之大也。’",
+      "confidence": 1.0
+    },
+    {
+      "id": "cit2",
+      "citer": "鄙意欲率自由意志以通本体论与道德学之邮，犹先民所谓“为仁由己”也。我当时之见解，以为从事本体之学，务必以道德学为之辅，乃能",
+      "quoted_author": "荀子",
+      "quoted_work": "非相篇",
+      "quoted_claim": "欲观千岁，则数今日；欲知亿万，则审一二；欲知上世，则审周道",
+      "function": "作为历史证据",
+      "evidence": "非相篇云：‘欲观千岁，则数今日；欲知亿万，则审一二；欲知上世，则审周道。’",
+      "confidence": 1.0
+    },
+    {
+      "id": "cit3",
+      "citer": "鄙意欲率自由意志以通本体论与道德学之邮，犹先民所谓“为仁由己”也。我当时之见解，以为从事本体之学，务必以道德学为之辅，乃能",
+      "quoted_author": "晦庵",
+      "quoted_work": "朱子补大学",
+      "quoted_claim": "欲致吾之知，在即物而穷其理。……必使即凡天下之物，莫不因其已知之理而益穷之，以求至乎其极",
+      "function": "作为历史证据",
+      "evidence": "他说：‘欲致吾之知，在即物而穷其理。……必使即凡天下之物，莫不因其已知之理而益穷之，以求至乎其极。’——朱子补大学",
+      "confidence": 1.0
+    }
+  ],
+  "rhetorical_devices": [
+    {
+      "id": "rh1",
+      "expression": "戴一副墨学的色镜",
+      "device_type": "比喻",
+      "literal_target": "以墨学的视角或框架",
+      "function": "批评以墨学视角观察荀朱的方法不够客观",
+      "evidence": "戴一副墨学的色镜，以观察荀朱，似非纯客观之研究法也",
+      "confidence": 1.0
+    }
+  ],
+  "uncertainties": [
+    {
+      "item": "荀学或亦有类于斯",
+      "reason": "‘斯’指代不明，可能指前文晦庵注重亲知，但未明确说明"
+    }
+  ],
+  "_meta": {
+    "status": "success",
+    "stage": "extract",
+    "model": "deepseek-ai/DeepSeek-V4-Flash",
+    "base_url": "https://api.siliconflow.cn/v1",
+    "prompt_version": "v2.0",
+    "schema_version": "lite_v3.0",
+    "segment_id": "甘蛰仙_000_6b354fa0_s0004",
+    "article_id": "甘蛰仙_000_6b354fa0",
+    "char_start": 2037,
+    "char_end": 2617,
+    "raw_path": "E:\\1研究生\\岭南大学\\论文毕业\\capstone\\资料\\新的内容开始了\\local_upload\\kg_runs_v2\\孙伏园_等3篇\\raw_outputs\\extract\\甘蛰仙_000_6b354fa0_s0004.txt",
+    "parsed_at": "2026-05-21T02:26:01",
+    "started_at": "2026-05-21T02:24:27",
+    "elapsed_seconds": 93.659,
+    "strict_evidence_check": true,
+    "drop_unsupported_evidence": true,
+    "request_timeout_seconds": 180
+  }
+}

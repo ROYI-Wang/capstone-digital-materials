@@ -1,0 +1,261 @@
+{
+  "metadata": {
+    "schema_version": "lite_v2.0",
+    "article_id": "张君劢_003_cd868ad5",
+    "article_title": "科学之评价",
+    "source_author": "张君劢",
+    "section_title": "",
+    "section_author": "",
+    "segment_id": "张君劢_003_cd868ad5_s0000",
+    "segment_index": 0,
+    "source_file": "E:\\1研究生\\岭南大学\\论文毕业\\capstone\\资料\\新的内容开始了\\local_upload\\input_w3\\张君劢.txt"
+  },
+  "entities": [
+    {
+      "id": "e1",
+      "name": "张君劢",
+      "canonical_name": "张君劢",
+      "type": "人物",
+      "evidence": "张君劢先生在中国大学讲",
+      "confidence": 1.0
+    },
+    {
+      "id": "e2",
+      "name": "科学",
+      "canonical_name": "科学",
+      "type": "概念",
+      "evidence": "科学能支配人生",
+      "confidence": 1.0
+    },
+    {
+      "id": "e3",
+      "name": "人生",
+      "canonical_name": "人生",
+      "type": "概念",
+      "evidence": "科学能支配人生",
+      "confidence": 1.0
+    },
+    {
+      "id": "e4",
+      "name": "科学公例",
+      "canonical_name": "科学公例",
+      "type": "概念",
+      "evidence": "这都是科学公例",
+      "confidence": 1.0
+    },
+    {
+      "id": "e5",
+      "name": "法国",
+      "canonical_name": "法国",
+      "type": "阵营/群体",
+      "evidence": "法国人怀疑最烈",
+      "confidence": 1.0
+    },
+    {
+      "id": "e6",
+      "name": "布旦",
+      "canonical_name": "布旦",
+      "type": "人物",
+      "evidence": "创自十六世纪之布旦",
+      "confidence": 1.0
+    },
+    {
+      "id": "e7",
+      "name": "主权不可分之说",
+      "canonical_name": "主权不可分之说",
+      "type": "概念",
+      "evidence": "主权不可分之说",
+      "confidence": 1.0
+    }
+  ],
+  "claims": [
+    {
+      "id": "c1",
+      "speaker": "张君劢",
+      "claim": "科学能支配人生",
+      "target": "科学",
+      "claim_type": "知识论主张",
+      "claim_status": "对手直接主张",
+      "polarity": "negative",
+      "evidence": "有人说科学能支配人生",
+      "confidence": 0.9
+    },
+    {
+      "id": "c2",
+      "speaker": "张君劢",
+      "claim": "科学是为人所用，而非人为科学所用",
+      "target": "科学",
+      "claim_type": "知识论主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "可以证科学是为人所用，而非人为科学所用",
+      "confidence": 0.9
+    },
+    {
+      "id": "c3",
+      "speaker": "张君劢",
+      "claim": "科学既是人造的，故亦不能逃人类好恶范围以外",
+      "target": "科学",
+      "claim_type": "知识论主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "科学既是人造的，故亦不能逃人类好恶范围以外",
+      "confidence": 0.9
+    },
+    {
+      "id": "c4",
+      "speaker": "张君劢",
+      "claim": "科学能否解决人生，已可想见",
+      "target": "科学",
+      "claim_type": "结论性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "即此一端，科学能否解决人生，已可想见",
+      "confidence": 0.9
+    },
+    {
+      "id": "c5",
+      "speaker": "张君劢",
+      "claim": "科学自产生到现在，其于人生的利害究竟如何呢？在吾国人或不觉得此是问题，因为认科学一定有益的；在欧洲则成为问题，已有数十年之久了",
+      "target": "科学",
+      "claim_type": "问题提出",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "但是科学自产生到现在，其于人生的利害究竟如何呢？在吾国人或不觉得此是问题，因为认科学一定有益的；在欧洲则成为问题，已有数十年之久了",
+      "confidence": 0.9
+    },
+    {
+      "id": "c6",
+      "speaker": "张君劢",
+      "claim": "自从文艺复兴后，以为用科学就可以发现宇宙真理",
+      "target": "科学",
+      "claim_type": "历史解释",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "自从文艺复兴后，以为用科学就可以发现宇宙真理",
+      "confidence": 0.9
+    },
+    {
+      "id": "c7",
+      "speaker": "张君劢",
+      "claim": "自有实验的科学，而后有真正明确的条件，——公例——这就是科学的成绩",
+      "target": "科学",
+      "claim_type": "定义性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "自有实验的科学，而后有真正明确的条件，——公例——这就是科学的成绩",
+      "confidence": 0.9
+    },
+    {
+      "id": "c8",
+      "speaker": "张君劢",
+      "claim": "科学的目的也就在此",
+      "target": "科学",
+      "claim_type": "定义性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "科学的目的也就在此",
+      "confidence": 0.9
+    },
+    {
+      "id": "c9",
+      "speaker": "张君劢",
+      "claim": "自十九世纪下半期后，对于科学，渐由信仰而趋于怀疑，尤其是法国人怀疑最烈",
+      "target": "科学",
+      "claim_type": "历史解释",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "但是，自十九世纪下半期后，对于科学，渐由信仰而趋于怀疑，尤其是法国人怀疑最烈",
+      "confidence": 0.9
+    },
+    {
+      "id": "c10",
+      "speaker": "张君劢",
+      "claim": "盖世界各国中感觉最锐之民族，莫如法国",
+      "target": "法国",
+      "claim_type": "价值评价",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "盖世界各国中感觉最锐之民族，莫如法国",
+      "confidence": 0.9
+    }
+  ],
+  "relations": [
+    {
+      "id": "r1",
+      "head": "张君劢",
+      "head_type": "人物",
+      "relation": "反驳",
+      "tail": "科学能支配人生",
+      "tail_type": "观点",
+      "polarity": "negative",
+      "evidence": "有人说科学能支配人生；然即就人类对于科学，研究其成绩得失一端，可以证科学是为人所用，而非人为科学所用",
+      "confidence": 0.9
+    },
+    {
+      "id": "r2",
+      "head": "科学",
+      "head_type": "概念",
+      "relation": "归因于",
+      "tail": "人类好恶",
+      "tail_type": "概念",
+      "polarity": "neutral",
+      "evidence": "科学既是人造的，故亦不能逃人类好恶范围以外",
+      "confidence": 0.9
+    },
+    {
+      "id": "r3",
+      "head": "布旦",
+      "head_type": "人物",
+      "relation": "主张",
+      "tail": "主权不可分之说",
+      "tail_type": "概念",
+      "polarity": "neutral",
+      "evidence": "主权不可分之说，创自十六世纪之布旦",
+      "confidence": 0.9
+    }
+  ],
+  "definitions": [],
+  "citations": [
+    {
+      "id": "cit1",
+      "citer": "张君劢",
+      "quoted_author": "布旦",
+      "quoted_work": "",
+      "quoted_claim": "主权不可分之说",
+      "function": "作为历史证据",
+      "evidence": "主权不可分之说，创自十六世纪之布旦",
+      "confidence": 0.9
+    }
+  ],
+  "rhetorical_devices": [],
+  "uncertainties": [
+    {
+      "item": "张君劢在文本中自称“我”，但未明确出现“张君劢”三字，仅标题有“张君劢先生”，是否将“我”视为张君劢？",
+      "reason": "文本开头“今天讲题是近来我和人家开战的中心问题”中的“我”未直接出现作者名，但根据元数据source_author为张君劢，且标题有“张君劢先生”，可推断“我”即张君劢。"
+    },
+    {
+      "item": "“有人说科学能支配人生”中的“有人”具体指谁？",
+      "reason": "文本未明确指明，无法确定具体人物。"
+    }
+  ],
+  "_meta": {
+    "status": "success",
+    "stage": "extract",
+    "model": "deepseek-ai/DeepSeek-V4-Flash",
+    "base_url": "https://api.siliconflow.cn/v1",
+    "prompt_version": "extract_prompt_v2.0",
+    "schema_version": "lite_v2.0",
+    "segment_id": "张君劢_003_cd868ad5_s0000",
+    "article_id": "张君劢_003_cd868ad5",
+    "char_start": 0,
+    "char_end": 591,
+    "raw_path": "E:\\1研究生\\岭南大学\\论文毕业\\capstone\\资料\\新的内容开始了\\local_upload\\kg_runs\\张君劢\\raw_outputs\\extract\\张君劢_003_cd868ad5_s0000.txt",
+    "parsed_at": "2026-05-20T04:33:52",
+    "started_at": "2026-05-20T04:32:03",
+    "elapsed_seconds": 108.583,
+    "strict_evidence_check": true,
+    "drop_unsupported_evidence": true,
+    "request_timeout_seconds": 180
+  }
+}

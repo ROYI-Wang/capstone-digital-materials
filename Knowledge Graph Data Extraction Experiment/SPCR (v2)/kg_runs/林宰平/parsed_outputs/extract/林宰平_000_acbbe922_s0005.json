@@ -1,0 +1,377 @@
+{
+  "metadata": {
+    "schema_version": "lite_v3.0",
+    "article_id": "林宰平_000_acbbe922",
+    "article_title": "读丁在君先生的《玄学与科学》",
+    "source_author": "林宰平",
+    "section_title": "",
+    "section_author": "",
+    "segment_id": "林宰平_000_acbbe922_s0005",
+    "segment_index": 5,
+    "source_file": "E:\\1研究生\\岭南大学\\论文毕业\\capstone\\资料\\新的内容开始了\\local_upload\\input_林宰平\\林宰平.txt"
+  },
+  "entities": [
+    {
+      "id": "e1",
+      "name": "物理学",
+      "canonical_name": "物理学",
+      "type": "概念",
+      "evidence": "学就是物理学？",
+      "confidence": 1.0
+    },
+    {
+      "id": "e2",
+      "name": "科学方法",
+      "canonical_name": "科学方法",
+      "type": "概念",
+      "evidence": "科学方法应用在其他科学上",
+      "confidence": 1.0
+    },
+    {
+      "id": "e3",
+      "name": "人生观等问题",
+      "canonical_name": "人生观等问题",
+      "type": "概念",
+      "evidence": "何况应用到人生观等问题",
+      "confidence": 1.0
+    },
+    {
+      "id": "e4",
+      "name": "绘画",
+      "canonical_name": "绘画",
+      "type": "概念",
+      "evidence": "绘画等虽不能说他即是几何学",
+      "confidence": 1.0
+    },
+    {
+      "id": "e5",
+      "name": "几何学",
+      "canonical_name": "几何学",
+      "type": "概念",
+      "evidence": "绘画等虽不能说他即是几何学",
+      "confidence": 1.0
+    },
+    {
+      "id": "e6",
+      "name": "科学",
+      "canonical_name": "科学",
+      "type": "概念",
+      "evidence": "总可谓之科学",
+      "confidence": 1.0
+    },
+    {
+      "id": "e7",
+      "name": "音乐",
+      "canonical_name": "音乐",
+      "type": "概念",
+      "evidence": "音乐也是如此",
+      "confidence": 1.0
+    },
+    {
+      "id": "e8",
+      "name": "基督教科学",
+      "canonical_name": "基督教科学",
+      "type": "概念",
+      "evidence": "现在基督教科学，利用暗示方法",
+      "confidence": 1.0
+    },
+    {
+      "id": "e9",
+      "name": "暗示方法",
+      "canonical_name": "暗示方法",
+      "type": "方法",
+      "evidence": "利用暗示方法",
+      "confidence": 1.0
+    },
+    {
+      "id": "e10",
+      "name": "英国心灵学会",
+      "canonical_name": "英国心灵学会",
+      "type": "阵营/群体",
+      "evidence": "英国心灵学会，搜集许多神异的事实",
+      "confidence": 1.0
+    },
+    {
+      "id": "e11",
+      "name": "日本井上圆了",
+      "canonical_name": "日本井上圆了",
+      "type": "人物",
+      "evidence": "日本井上圆了研究所谓妖怪学",
+      "confidence": 1.0
+    },
+    {
+      "id": "e12",
+      "name": "妖怪学",
+      "canonical_name": "妖怪学",
+      "type": "概念",
+      "evidence": "研究所谓妖怪学",
+      "confidence": 1.0
+    },
+    {
+      "id": "e13",
+      "name": "在君先生",
+      "canonical_name": "丁在君",
+      "type": "人物",
+      "evidence": "若照在君先生的主张",
+      "confidence": 1.0
+    },
+    {
+      "id": "e14",
+      "name": "胡适之讲《红楼梦》",
+      "canonical_name": "胡适之讲《红楼梦》",
+      "type": "例证",
+      "evidence": "胡适之讲《红楼梦》也是科学",
+      "confidence": 1.0
+    },
+    {
+      "id": "e15",
+      "name": "《红楼梦》",
+      "canonical_name": "《红楼梦》",
+      "type": "著作",
+      "evidence": "胡适之讲《红楼梦》也是科学",
+      "confidence": 1.0
+    },
+    {
+      "id": "e16",
+      "name": "西人",
+      "canonical_name": "西人",
+      "type": "阵营/群体",
+      "evidence": "西人对于思想之应用，比我们发达的多",
+      "confidence": 1.0
+    },
+    {
+      "id": "e17",
+      "name": "德国学者",
+      "canonical_name": "德国学者",
+      "type": "人物",
+      "evidence": "我在德国时候看见有一个德国学者",
+      "confidence": 1.0
+    },
+    {
+      "id": "e18",
+      "name": "公法学",
+      "canonical_name": "公法学",
+      "type": "概念",
+      "evidence": "他是研究公法学的",
+      "confidence": 1.0
+    },
+    {
+      "id": "e19",
+      "name": "胡塞尔（Husserl）的现象学",
+      "canonical_name": "胡塞尔的现象学",
+      "type": "主义/学说/理论",
+      "evidence": "他把胡塞尔（Husserl）的现象学，应用到法理学讲义上",
+      "confidence": 1.0
+    },
+    {
+      "id": "e20",
+      "name": "法理学讲义",
+      "canonical_name": "法理学讲义",
+      "type": "著作",
+      "evidence": "应用到法理学讲义上",
+      "confidence": 1.0
+    },
+    {
+      "id": "e21",
+      "name": "名词",
+      "canonical_name": "名词",
+      "type": "概念",
+      "evidence": "每每一个范围很谨严的名词",
+      "confidence": 1.0
+    }
+  ],
+  "claims": [
+    {
+      "id": "c1",
+      "speaker": "林宰平",
+      "claim": "科学方法应用在其他科学上，尚且有各自地位之不同，何况应用到人生观等问题，硬要说他们不能分家，这种理由岂不很近于牵强么？",
+      "target": "丁在君",
+      "claim_type": "反驳性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "科学方法应用在其他科学上，尚且有各自地位之不同，何况应用到人生观等问题，硬要说他们不能分家，这种理由岂不很近于牵强么？",
+      "confidence": 1.0
+    },
+    {
+      "id": "c2",
+      "speaker": "林宰平",
+      "claim": "绘画自身，他是整的，调和的，活的，不可分析的；音乐也是如此，要说他是科学，就很费解的了。",
+      "target": "绘画、音乐",
+      "claim_type": "描述性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "绘画自身，他是整的，调和的，活的，不可分析的；音乐也是如此，要说他是科学，就很费解的了。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c3",
+      "speaker": "林宰平",
+      "claim": "若照在君先生的主张，这些东西是否亦认为科学？",
+      "target": "丁在君",
+      "claim_type": "问题提出",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "若照在君先生的主张，这些东西是否亦认为科学？",
+      "confidence": 1.0
+    },
+    {
+      "id": "c4",
+      "speaker": "林宰平",
+      "claim": "凡主张科学方法与科学不分者，当然弄成“胡适之讲《红楼梦》也是科学”，其结果必至天地间无一不是科学罢了。",
+      "target": "主张科学方法与科学不分者",
+      "claim_type": "结论性主张",
+      "claim_status": "作者推论",
+      "polarity": "negative",
+      "evidence": "凡主张科学方法与科学不分者，当然弄成“胡适之讲《红楼梦》也是科学”，其结果必至天地间无一不是科学罢了。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c5",
+      "speaker": "林宰平",
+      "claim": "西人对于思想之应用，比我们发达的多",
+      "target": "西人",
+      "claim_type": "描述性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "西人对于思想之应用，比我们发达的多",
+      "confidence": 1.0
+    },
+    {
+      "id": "c6",
+      "speaker": "林宰平",
+      "claim": "诸如此类的辗转应用，一方面固然是思想的进步，而一方面也未始不是学术的毛病",
+      "target": "辗转应用",
+      "claim_type": "评价性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "mixed",
+      "evidence": "诸如此类的辗转应用，一方面固然是思想的进步，而一方面也未始不是学术的毛病",
+      "confidence": 1.0
+    },
+    {
+      "id": "c7",
+      "speaker": "林宰平",
+      "claim": "每每一个范围很谨严的名词，应用又应用后来渐渐失其本意，甚至有与原意义完全相反的。",
+      "target": "名词",
+      "claim_type": "描述性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "每每一个范围很谨严的名词，应用又应用后来渐渐失其本意，甚至有与原意义完全相反的。",
+      "confidence": 1.0
+    }
+  ],
+  "relations": [
+    {
+      "id": "r1",
+      "head": "绘画",
+      "head_type": "概念",
+      "relation": "反驳",
+      "relation_subtype": "概念澄清",
+      "tail": "科学",
+      "tail_type": "概念",
+      "polarity": "negative",
+      "stance_score": -0.9,
+      "intensity": 0.8,
+      "evidence": "绘画自身，他是整的，调和的，活的，不可分析的；音乐也是如此，要说他是科学，就很费解的了。",
+      "confidence": 1.0
+    },
+    {
+      "id": "r2",
+      "head": "林宰平",
+      "head_type": "人物",
+      "relation": "归谬",
+      "relation_subtype": "归谬",
+      "tail": "主张科学方法与科学不分者",
+      "tail_type": "阵营/群体",
+      "polarity": "negative",
+      "stance_score": -0.9,
+      "intensity": 0.9,
+      "evidence": "凡主张科学方法与科学不分者，当然弄成“胡适之讲《红楼梦》也是科学”，其结果必至天地间无一不是科学罢了。",
+      "confidence": 1.0
+    },
+    {
+      "id": "r3",
+      "head": "名词",
+      "head_type": "概念",
+      "relation": "导致",
+      "relation_subtype": "不适用",
+      "tail": "失其本意",
+      "tail_type": "概念",
+      "polarity": "negative",
+      "stance_score": -0.6,
+      "intensity": 0.6,
+      "evidence": "每每一个范围很谨严的名词，应用又应用后来渐渐失其本意，甚至有与原意义完全相反的。",
+      "confidence": 1.0
+    }
+  ],
+  "definitions": [
+    {
+      "id": "def1",
+      "term": "绘画",
+      "definition": "整的，调和的，活的，不可分析的",
+      "evidence": "绘画自身，他是整的，调和的，活的，不可分析的",
+      "confidence": 1.0
+    },
+    {
+      "id": "def2",
+      "term": "科学",
+      "definition": "科学不在他的材料，而在他的方法",
+      "evidence": "科学不在他的材料，而在他的方法",
+      "confidence": 1.0
+    }
+  ],
+  "citations": [],
+  "rhetorical_devices": [
+    {
+      "id": "rh1",
+      "expression": "这种举例，原是笑话",
+      "device_type": "讽刺",
+      "literal_target": "举例",
+      "function": "贬低对方举例的合理性",
+      "evidence": "这种举例，原是笑话",
+      "confidence": 1.0
+    },
+    {
+      "id": "rh2",
+      "expression": "胡适之讲《红楼梦》也是科学",
+      "device_type": "归谬",
+      "literal_target": "主张科学方法与科学不分者",
+      "function": "通过归谬揭示对方主张的荒谬后果",
+      "evidence": "凡主张科学方法与科学不分者，当然弄成“胡适之讲《红楼梦》也是科学”",
+      "confidence": 1.0
+    },
+    {
+      "id": "rh3",
+      "expression": "天地间无一不是科学罢了",
+      "device_type": "夸张",
+      "literal_target": "主张科学方法与科学不分者",
+      "function": "夸张地描述对方主张的后果，增强反驳力度",
+      "evidence": "其结果必至天地间无一不是科学罢了",
+      "confidence": 1.0
+    }
+  ],
+  "uncertainties": [
+    {
+      "item": "德国学者研究公法学并将胡塞尔现象学应用到法理学讲义的具体姓名",
+      "reason": "文本未给出该德国学者的姓名，仅描述为'有一个德国学者'"
+    }
+  ],
+  "_meta": {
+    "status": "success",
+    "stage": "extract",
+    "model": "deepseek-ai/DeepSeek-V4-Flash",
+    "base_url": "https://api.siliconflow.cn/v1",
+    "prompt_version": "v2.0",
+    "schema_version": "lite_v3.0",
+    "segment_id": "林宰平_000_acbbe922_s0005",
+    "article_id": "林宰平_000_acbbe922",
+    "char_start": 2506,
+    "char_end": 3105,
+    "raw_path": "E:\\1研究生\\岭南大学\\论文毕业\\capstone\\资料\\新的内容开始了\\local_upload\\kg_runs_v2\\林宰平\\raw_outputs\\extract\\林宰平_000_acbbe922_s0005.txt",
+    "parsed_at": "2026-05-21T21:32:39",
+    "started_at": "2026-05-21T21:23:43",
+    "elapsed_seconds": 536.484,
+    "strict_evidence_check": true,
+    "drop_unsupported_evidence": true,
+    "request_timeout_seconds": 180
+  }
+}

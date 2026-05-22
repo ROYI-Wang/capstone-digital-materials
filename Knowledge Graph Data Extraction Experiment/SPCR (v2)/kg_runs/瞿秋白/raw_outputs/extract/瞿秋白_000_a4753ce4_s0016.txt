@@ -1,0 +1,839 @@
+{
+  "metadata": {
+    "schema_version": "lite_v3.0",
+    "article_id": "瞿秋白_000_a4753ce4",
+    "article_title": "《自由世界与必然世界》",
+    "source_author": "瞿秋白",
+    "section_title": "资本主义时代的强有力的生产工具若能变成公共的财产，生产制度若得按",
+    "section_author": "资本主义时代的强有力的生产工具若能变成公共的财产，生产制度若得按",
+    "segment_id": "瞿秋白_000_a4753ce4_s0016",
+    "segment_index": 16,
+    "source_file": "E:\\1研究生\\岭南大学\\论文毕业\\capstone\\资料\\新的内容开始了\\local_upload\\input_瞿秋白\\瞿秋白.txt"
+  },
+  "entities": [
+    {
+      "id": "e1",
+      "name": "社会现象的规律性",
+      "canonical_name": "社会现象的规律性",
+      "type": "概念",
+      "evidence": "社会现象的规律性应当先求之于社会的最后原因",
+      "confidence": 0.9
+    },
+    {
+      "id": "e2",
+      "name": "社会的最后原因",
+      "canonical_name": "社会的最后原因",
+      "type": "概念",
+      "evidence": "社会现象的规律性应当先求之于社会的最后原因",
+      "confidence": 0.9
+    },
+    {
+      "id": "e3",
+      "name": "个人动机",
+      "canonical_name": "个人动机",
+      "type": "概念",
+      "evidence": "不能以个人动机或群众动机作为社会现象的唯一因素",
+      "confidence": 0.9
+    },
+    {
+      "id": "e4",
+      "name": "群众动机",
+      "canonical_name": "群众动机",
+      "type": "概念",
+      "evidence": "不能以个人动机或群众动机作为社会现象的唯一因素",
+      "confidence": 0.9
+    },
+    {
+      "id": "e5",
+      "name": "社会现象",
+      "canonical_name": "社会现象",
+      "type": "概念",
+      "evidence": "不能以个人动机或群众动机作为社会现象的唯一因素",
+      "confidence": 0.9
+    },
+    {
+      "id": "e6",
+      "name": "因果律",
+      "canonical_name": "因果律",
+      "type": "概念",
+      "evidence": "社会现象确有因果律可寻",
+      "confidence": 0.9
+    },
+    {
+      "id": "e7",
+      "name": "必然",
+      "canonical_name": "必然",
+      "type": "概念",
+      "evidence": "唯知此因果律之“必然”，方能得应用此因果律之“自由”",
+      "confidence": 0.9
+    },
+    {
+      "id": "e8",
+      "name": "自由",
+      "canonical_name": "自由",
+      "type": "概念",
+      "evidence": "唯知此因果律之“必然”，方能得应用此因果律之“自由”",
+      "confidence": 0.9
+    },
+    {
+      "id": "e9",
+      "name": "人的意识",
+      "canonical_name": "人的意识",
+      "type": "概念",
+      "evidence": "人的意识是社会发展之果",
+      "confidence": 0.9
+    },
+    {
+      "id": "e10",
+      "name": "社会发展",
+      "canonical_name": "社会发展",
+      "type": "概念",
+      "evidence": "人的意识是社会发展之果",
+      "confidence": 0.9
+    },
+    {
+      "id": "e11",
+      "name": "社会力量",
+      "canonical_name": "社会力量",
+      "type": "概念",
+      "evidence": "既成社会力量之后亦能为社会现象之因",
+      "confidence": 0.9
+    },
+    {
+      "id": "e12",
+      "name": "因果联系",
+      "canonical_name": "因果联系",
+      "type": "概念",
+      "evidence": "然必自知此因果联系，人的意志方能成社会现象之有意识的因",
+      "confidence": 0.9
+    },
+    {
+      "id": "e13",
+      "name": "人的意志",
+      "canonical_name": "人的意志",
+      "type": "概念",
+      "evidence": "人的意志方能成社会现象之有意识的因",
+      "confidence": 0.9
+    },
+    {
+      "id": "e14",
+      "name": "社会的有定论",
+      "canonical_name": "社会的有定论",
+      "type": "主义/学说/理论",
+      "evidence": "社会的有定论以科学方法断定社会现象里有因果律",
+      "confidence": 0.9
+    },
+    {
+      "id": "e15",
+      "name": "科学方法",
+      "canonical_name": "科学方法",
+      "type": "方法",
+      "evidence": "社会的有定论以科学方法断定社会现象里有因果律",
+      "confidence": 0.9
+    },
+    {
+      "id": "e16",
+      "name": "将来之现实",
+      "canonical_name": "将来之现实",
+      "type": "概念",
+      "evidence": "然后能据此公律推测“将来之现实”——就是“现时之理想”",
+      "confidence": 0.9
+    },
+    {
+      "id": "e17",
+      "name": "现时之理想",
+      "canonical_name": "现时之理想",
+      "type": "概念",
+      "evidence": "然后能据此公律推测“将来之现实”——就是“现时之理想”",
+      "confidence": 0.9
+    },
+    {
+      "id": "e18",
+      "name": "社会发展之最后动力",
+      "canonical_name": "社会发展之最后动力",
+      "type": "概念",
+      "evidence": "社会发展之最后动力在于“社会的实质”——经济",
+      "confidence": 0.9
+    },
+    {
+      "id": "e19",
+      "name": "社会的实质",
+      "canonical_name": "社会的实质",
+      "type": "概念",
+      "evidence": "社会发展之最后动力在于“社会的实质”——经济",
+      "confidence": 0.9
+    },
+    {
+      "id": "e20",
+      "name": "经济",
+      "canonical_name": "经济",
+      "type": "概念",
+      "evidence": "社会发展之最后动力在于“社会的实质”——经济",
+      "confidence": 0.9
+    },
+    {
+      "id": "e21",
+      "name": "群众的人生观",
+      "canonical_name": "群众的人生观",
+      "type": "概念",
+      "evidence": "由此而有时代的群众人生观，以至于个性的社会理想",
+      "confidence": 0.9
+    },
+    {
+      "id": "e22",
+      "name": "个性的社会理想",
+      "canonical_name": "个性的社会理想",
+      "type": "概念",
+      "evidence": "由此而有时代的群众人生观，以至于个性的社会理想",
+      "confidence": 0.9
+    },
+    {
+      "id": "e23",
+      "name": "客观公律",
+      "canonical_name": "客观公律",
+      "type": "概念",
+      "evidence": "因经济顺其客观公律而流变",
+      "confidence": 0.9
+    },
+    {
+      "id": "e24",
+      "name": "群众的人生观",
+      "canonical_name": "群众的人生观",
+      "type": "概念",
+      "evidence": "于是群众的人生观渐渐有变革的要求",
+      "confidence": 0.9
+    },
+    {
+      "id": "e25",
+      "name": "伟人",
+      "canonical_name": "伟人",
+      "type": "概念",
+      "evidence": "所以涌出适当的个性，——此种“伟人”必定是某一时代或某一阶级的历史工具",
+      "confidence": 0.9
+    },
+    {
+      "id": "e26",
+      "name": "历史工具",
+      "canonical_name": "历史工具",
+      "type": "概念",
+      "evidence": "此种“伟人”必定是某一时代或某一阶级的历史工具",
+      "confidence": 0.9
+    },
+    {
+      "id": "e27",
+      "name": "必然世界",
+      "canonical_name": "必然世界",
+      "type": "概念",
+      "evidence": "于是方开始从“必然世界”进于“自由世界”的伟业",
+      "confidence": 0.9
+    },
+    {
+      "id": "e28",
+      "name": "自由世界",
+      "canonical_name": "自由世界",
+      "type": "概念",
+      "evidence": "于是方开始从“必然世界”进于“自由世界”的伟业",
+      "confidence": 0.9
+    },
+    {
+      "id": "e29",
+      "name": "自然之奴",
+      "canonical_name": "自然之奴",
+      "type": "概念",
+      "evidence": "人要从“自然之奴”进于“自然之王”必须知道自然律",
+      "confidence": 0.9
+    },
+    {
+      "id": "e30",
+      "name": "自然之王",
+      "canonical_name": "自然之王",
+      "type": "概念",
+      "evidence": "人要从“自然之奴”进于“自然之王”必须知道自然律",
+      "confidence": 0.9
+    },
+    {
+      "id": "e31",
+      "name": "自然律",
+      "canonical_name": "自然律",
+      "type": "概念",
+      "evidence": "人要从“自然之奴”进于“自然之王”必须知道自然律",
+      "confidence": 0.9
+    },
+    {
+      "id": "e32",
+      "name": "社会律",
+      "canonical_name": "社会律",
+      "type": "概念",
+      "evidence": "人要克服社会的自生自灭性必须知道社会律",
+      "confidence": 0.9
+    },
+    {
+      "id": "e33",
+      "name": "社会的自生自灭性",
+      "canonical_name": "社会的自生自灭性",
+      "type": "概念",
+      "evidence": "人要克服社会的自生自灭性必须知道社会律",
+      "confidence": 0.9
+    },
+    {
+      "id": "e34",
+      "name": "群众",
+      "canonical_name": "群众",
+      "type": "阵营/群体",
+      "evidence": "由此而有时代的群众人生观",
+      "confidence": 0.9
+    },
+    {
+      "id": "e35",
+      "name": "个性",
+      "canonical_name": "个性",
+      "type": "概念",
+      "evidence": "以至于个性的社会理想",
+      "confidence": 0.9
+    },
+    {
+      "id": "e36",
+      "name": "阶级",
+      "canonical_name": "阶级",
+      "type": "阵营/群体",
+      "evidence": "此种“伟人”必定是某一时代或某一阶级的历史工具",
+      "confidence": 0.9
+    },
+    {
+      "id": "e37",
+      "name": "人类",
+      "canonical_name": "人类",
+      "type": "阵营/群体",
+      "evidence": "由个性而阶级而人类",
+      "confidence": 0.9
+    },
+    {
+      "id": "e38",
+      "name": "历史的工具",
+      "canonical_name": "历史的工具",
+      "type": "概念",
+      "evidence": "历史的工具运用“必然”的公律——由个性而阶级而人类，由无意识而有意识——成为群众的实际运动",
+      "confidence": 0.9
+    },
+    {
+      "id": "e39",
+      "name": "群众的实际运动",
+      "canonical_name": "群众的实际运动",
+      "type": "概念",
+      "evidence": "成为群众的实际运动",
+      "confidence": 0.9
+    }
+  ],
+  "claims": [
+    {
+      "id": "c1",
+      "speaker": "瞿秋白",
+      "claim": "社会现象的规律性应当先求之于社会的最后原因",
+      "target": "",
+      "claim_type": "规范性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "社会现象的规律性应当先求之于社会的最后原因",
+      "confidence": 0.9
+    },
+    {
+      "id": "c2",
+      "speaker": "瞿秋白",
+      "claim": "不能以个人动机或群众动机作为社会现象的唯一因素，当再求此因素之因素",
+      "target": "",
+      "claim_type": "规范性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "不能以个人动机或群众动机作为社会现象的唯一因素，当再求此因素之因素",
+      "confidence": 0.9
+    },
+    {
+      "id": "c3",
+      "speaker": "瞿秋白",
+      "claim": "社会现象确有因果律可寻",
+      "target": "",
+      "claim_type": "描述性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "社会现象确有因果律可寻",
+      "confidence": 0.9
+    },
+    {
+      "id": "c4",
+      "speaker": "瞿秋白",
+      "claim": "唯知此因果律之“必然”，方能得应用此因果律之“自由”",
+      "target": "",
+      "claim_type": "因果主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "唯知此因果律之“必然”，方能得应用此因果律之“自由”",
+      "confidence": 0.9
+    },
+    {
+      "id": "c5",
+      "speaker": "瞿秋白",
+      "claim": "人的意识是社会发展之果",
+      "target": "",
+      "claim_type": "因果主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "人的意识是社会发展之果",
+      "confidence": 0.9
+    },
+    {
+      "id": "c6",
+      "speaker": "瞿秋白",
+      "claim": "既成社会力量之后亦能为社会现象之因",
+      "target": "",
+      "claim_type": "因果主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "既成社会力量之后亦能为社会现象之因",
+      "confidence": 0.9
+    },
+    {
+      "id": "c7",
+      "speaker": "瞿秋白",
+      "claim": "然必自知此因果联系，人的意志方能成社会现象之有意识的因",
+      "target": "",
+      "claim_type": "因果主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "然必自知此因果联系，人的意志方能成社会现象之有意识的因",
+      "confidence": 0.9
+    },
+    {
+      "id": "c8",
+      "speaker": "瞿秋白",
+      "claim": "社会的有定论以科学方法断定社会现象里有因果律",
+      "target": "",
+      "claim_type": "描述性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "社会的有定论以科学方法断定社会现象里有因果律",
+      "confidence": 0.9
+    },
+    {
+      "id": "c9",
+      "speaker": "瞿秋白",
+      "claim": "然后能据此公律推测“将来之现实”——就是“现时之理想”",
+      "target": "",
+      "claim_type": "因果主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "然后能据此公律推测“将来之现实”——就是“现时之理想”",
+      "confidence": 0.9
+    },
+    {
+      "id": "c10",
+      "speaker": "瞿秋白",
+      "claim": "社会发展之最后动力在于“社会的实质”——经济",
+      "target": "",
+      "claim_type": "因果主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "社会发展之最后动力在于“社会的实质”——经济",
+      "confidence": 0.9
+    },
+    {
+      "id": "c11",
+      "speaker": "瞿秋白",
+      "claim": "由此而有时代的群众人生观，以至于个性的社会理想",
+      "target": "",
+      "claim_type": "因果主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "由此而有时代的群众人生观，以至于个性的社会理想",
+      "confidence": 0.9
+    },
+    {
+      "id": "c12",
+      "speaker": "瞿秋白",
+      "claim": "因经济顺其客观公律而流变，于是群众的人生观渐渐有变革的要求，所以涌出适当的个性，——此种“伟人”必定是某一时代或某一阶级的历史工具",
+      "target": "",
+      "claim_type": "因果主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "因经济顺其客观公律而流变，于是群众的人生观渐渐有变革的要求，所以涌出适当的个性，——此种“伟人”必定是某一时代或某一阶级的历史工具",
+      "confidence": 0.9
+    },
+    {
+      "id": "c13",
+      "speaker": "瞿秋白",
+      "claim": "历史的工具运用“必然”的公律——由个性而阶级而人类，由无意识而有意识——成为群众的实际运动",
+      "target": "",
+      "claim_type": "描述性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "历史的工具运用“必然”的公律——由个性而阶级而人类，由无意识而有意识——成为群众的实际运动",
+      "confidence": 0.9
+    },
+    {
+      "id": "c14",
+      "speaker": "瞿秋白",
+      "claim": "群众运动的斗争正需要此历史的工具，社会的实质亦已能产生此历史的工具，于是方开始从“必然世界”进于“自由世界”的伟业",
+      "target": "",
+      "claim_type": "因果主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "群众运动的斗争正需要此历史的工具，社会的实质亦已能产生此历史的工具，于是方开始从“必然世界”进于“自由世界”的伟业",
+      "confidence": 0.9
+    },
+    {
+      "id": "c15",
+      "speaker": "瞿秋白",
+      "claim": "人要从“自然之奴”进于“自然之王”必须知道自然律",
+      "target": "",
+      "claim_type": "规范性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "人要从“自然之奴”进于“自然之王”必须知道自然律",
+      "confidence": 0.9
+    },
+    {
+      "id": "c16",
+      "speaker": "瞿秋白",
+      "claim": "人要克服社会的自生自灭性必须知道社会律",
+      "target": "",
+      "claim_type": "规范性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "人要克服社会的自生自灭性必须知道社会律",
+      "confidence": 0.9
+    }
+  ],
+  "relations": [
+    {
+      "id": "r1",
+      "head": "社会现象的规律性",
+      "head_type": "概念",
+      "relation": "归因于",
+      "relation_subtype": "不适用",
+      "tail": "社会的最后原因",
+      "tail_type": "概念",
+      "polarity": "positive",
+      "stance_score": 1.0,
+      "intensity": 0.5,
+      "evidence": "社会现象的规律性应当先求之于社会的最后原因",
+      "confidence": 0.9
+    },
+    {
+      "id": "r2",
+      "head": "个人动机",
+      "head_type": "概念",
+      "relation": "反对",
+      "relation_subtype": "一般批评",
+      "tail": "社会现象的唯一因素",
+      "tail_type": "概念",
+      "polarity": "negative",
+      "stance_score": -0.8,
+      "intensity": 0.6,
+      "evidence": "不能以个人动机或群众动机作为社会现象的唯一因素",
+      "confidence": 0.9
+    },
+    {
+      "id": "r3",
+      "head": "群众动机",
+      "head_type": "概念",
+      "relation": "反对",
+      "relation_subtype": "一般批评",
+      "tail": "社会现象的唯一因素",
+      "tail_type": "概念",
+      "polarity": "negative",
+      "stance_score": -0.8,
+      "intensity": 0.6,
+      "evidence": "不能以个人动机或群众动机作为社会现象的唯一因素",
+      "confidence": 0.9
+    },
+    {
+      "id": "r4",
+      "head": "知此因果律之“必然”",
+      "head_type": "概念",
+      "relation": "导致",
+      "relation_subtype": "不适用",
+      "tail": "应用此因果律之“自由”",
+      "tail_type": "概念",
+      "polarity": "positive",
+      "stance_score": 1.0,
+      "intensity": 0.5,
+      "evidence": "唯知此因果律之“必然”，方能得应用此因果律之“自由”",
+      "confidence": 0.9
+    },
+    {
+      "id": "r5",
+      "head": "人的意识",
+      "head_type": "概念",
+      "relation": "归因于",
+      "relation_subtype": "不适用",
+      "tail": "社会发展",
+      "tail_type": "概念",
+      "polarity": "positive",
+      "stance_score": 1.0,
+      "intensity": 0.5,
+      "evidence": "人的意识是社会发展之果",
+      "confidence": 0.9
+    },
+    {
+      "id": "r6",
+      "head": "社会力量",
+      "head_type": "概念",
+      "relation": "导致",
+      "relation_subtype": "不适用",
+      "tail": "社会现象",
+      "tail_type": "概念",
+      "polarity": "positive",
+      "stance_score": 1.0,
+      "intensity": 0.5,
+      "evidence": "既成社会力量之后亦能为社会现象之因",
+      "confidence": 0.9
+    },
+    {
+      "id": "r7",
+      "head": "自知此因果联系",
+      "head_type": "概念",
+      "relation": "导致",
+      "relation_subtype": "不适用",
+      "tail": "人的意志成社会现象之有意识的因",
+      "tail_type": "概念",
+      "polarity": "positive",
+      "stance_score": 1.0,
+      "intensity": 0.5,
+      "evidence": "然必自知此因果联系，人的意志方能成社会现象之有意识的因",
+      "confidence": 0.9
+    },
+    {
+      "id": "r8",
+      "head": "社会的有定论",
+      "head_type": "主义/学说/理论",
+      "relation": "主张",
+      "relation_subtype": "不适用",
+      "tail": "社会现象里有因果律",
+      "tail_type": "概念",
+      "polarity": "positive",
+      "stance_score": 1.0,
+      "intensity": 0.5,
+      "evidence": "社会的有定论以科学方法断定社会现象里有因果律",
+      "confidence": 0.9
+    },
+    {
+      "id": "r9",
+      "head": "据此公律推测",
+      "head_type": "概念",
+      "relation": "导致",
+      "relation_subtype": "不适用",
+      "tail": "将来之现实",
+      "tail_type": "概念",
+      "polarity": "positive",
+      "stance_score": 1.0,
+      "intensity": 0.5,
+      "evidence": "然后能据此公律推测“将来之现实”——就是“现时之理想”",
+      "confidence": 0.9
+    },
+    {
+      "id": "r10",
+      "head": "社会发展之最后动力",
+      "head_type": "概念",
+      "relation": "属于",
+      "relation_subtype": "不适用",
+      "tail": "社会的实质——经济",
+      "tail_type": "概念",
+      "polarity": "positive",
+      "stance_score": 1.0,
+      "intensity": 0.5,
+      "evidence": "社会发展之最后动力在于“社会的实质”——经济",
+      "confidence": 0.9
+    },
+    {
+      "id": "r11",
+      "head": "经济",
+      "head_type": "概念",
+      "relation": "导致",
+      "relation_subtype": "不适用",
+      "tail": "群众的人生观",
+      "tail_type": "概念",
+      "polarity": "positive",
+      "stance_score": 1.0,
+      "intensity": 0.5,
+      "evidence": "由此而有时代的群众人生观，以至于个性的社会理想",
+      "confidence": 0.9
+    },
+    {
+      "id": "r12",
+      "head": "经济",
+      "head_type": "概念",
+      "relation": "导致",
+      "relation_subtype": "不适用",
+      "tail": "个性的社会理想",
+      "tail_type": "概念",
+      "polarity": "positive",
+      "stance_score": 1.0,
+      "intensity": 0.5,
+      "evidence": "由此而有时代的群众人生观，以至于个性的社会理想",
+      "confidence": 0.9
+    },
+    {
+      "id": "r13",
+      "head": "经济顺其客观公律而流变",
+      "head_type": "概念",
+      "relation": "导致",
+      "relation_subtype": "不适用",
+      "tail": "群众的人生观渐渐有变革的要求",
+      "tail_type": "概念",
+      "polarity": "positive",
+      "stance_score": 1.0,
+      "intensity": 0.5,
+      "evidence": "因经济顺其客观公律而流变，于是群众的人生观渐渐有变革的要求",
+      "confidence": 0.9
+    },
+    {
+      "id": "r14",
+      "head": "群众的人生观渐渐有变革的要求",
+      "head_type": "概念",
+      "relation": "导致",
+      "relation_subtype": "不适用",
+      "tail": "涌出适当的个性",
+      "tail_type": "概念",
+      "polarity": "positive",
+      "stance_score": 1.0,
+      "intensity": 0.5,
+      "evidence": "于是群众的人生观渐渐有变革的要求，所以涌出适当的个性",
+      "confidence": 0.9
+    },
+    {
+      "id": "r15",
+      "head": "涌出适当的个性",
+      "head_type": "概念",
+      "relation": "导致",
+      "relation_subtype": "不适用",
+      "tail": "伟人",
+      "tail_type": "概念",
+      "polarity": "positive",
+      "stance_score": 1.0,
+      "intensity": 0.5,
+      "evidence": "所以涌出适当的个性，——此种“伟人”必定是某一时代或某一阶级的历史工具",
+      "confidence": 0.9
+    },
+    {
+      "id": "r16",
+      "head": "伟人",
+      "head_type": "概念",
+      "relation": "属于",
+      "relation_subtype": "不适用",
+      "tail": "历史工具",
+      "tail_type": "概念",
+      "polarity": "positive",
+      "stance_score": 1.0,
+      "intensity": 0.5,
+      "evidence": "此种“伟人”必定是某一时代或某一阶级的历史工具",
+      "confidence": 0.9
+    },
+    {
+      "id": "r17",
+      "head": "历史的工具",
+      "head_type": "概念",
+      "relation": "导致",
+      "relation_subtype": "不适用",
+      "tail": "群众的实际运动",
+      "tail_type": "概念",
+      "polarity": "positive",
+      "stance_score": 1.0,
+      "intensity": 0.5,
+      "evidence": "历史的工具运用“必然”的公律——由个性而阶级而人类，由无意识而有意识——成为群众的实际运动",
+      "confidence": 0.9
+    },
+    {
+      "id": "r18",
+      "head": "群众运动的斗争",
+      "head_type": "概念",
+      "relation": "导致",
+      "relation_subtype": "不适用",
+      "tail": "从“必然世界”进于“自由世界”的伟业",
+      "tail_type": "概念",
+      "polarity": "positive",
+      "stance_score": 1.0,
+      "intensity": 0.5,
+      "evidence": "群众运动的斗争正需要此历史的工具，社会的实质亦已能产生此历史的工具，于是方开始从“必然世界”进于“自由世界”的伟业",
+      "confidence": 0.9
+    },
+    {
+      "id": "r19",
+      "head": "知道自然律",
+      "head_type": "概念",
+      "relation": "导致",
+      "relation_subtype": "不适用",
+      "tail": "从“自然之奴”进于“自然之王”",
+      "tail_type": "概念",
+      "polarity": "positive",
+      "stance_score": 1.0,
+      "intensity": 0.5,
+      "evidence": "人要从“自然之奴”进于“自然之王”必须知道自然律",
+      "confidence": 0.9
+    },
+    {
+      "id": "r20",
+      "head": "知道社会律",
+      "head_type": "概念",
+      "relation": "导致",
+      "relation_subtype": "不适用",
+      "tail": "克服社会的自生自灭性",
+      "tail_type": "概念",
+      "polarity": "positive",
+      "stance_score": 1.0,
+      "intensity": 0.5,
+      "evidence": "人要克服社会的自生自灭性必须知道社会律",
+      "confidence": 0.9
+    }
+  ],
+  "definitions": [
+    {
+      "id": "def1",
+      "term": "社会的有定论",
+      "definition": "以科学方法断定社会现象里有因果律的理论",
+      "evidence": "社会的有定论以科学方法断定社会现象里有因果律",
+      "confidence": 0.9
+    },
+    {
+      "id": "def2",
+      "term": "将来之现实",
+      "definition": "现时之理想",
+      "evidence": "然后能据此公律推测“将来之现实”——就是“现时之理想”",
+      "confidence": 0.9
+    },
+    {
+      "id": "def3",
+      "term": "社会发展之最后动力",
+      "definition": "社会的实质——经济",
+      "evidence": "社会发展之最后动力在于“社会的实质”——经济",
+      "confidence": 0.9
+    },
+    {
+      "id": "def4",
+      "term": "伟人",
+      "definition": "某一时代或某一阶级的历史工具",
+      "evidence": "此种“伟人”必定是某一时代或某一阶级的历史工具",
+      "confidence": 0.9
+    }
+  ],
+  "citations": [],
+  "rhetorical_devices": [
+    {
+      "id": "rh1",
+      "expression": "自然之奴",
+      "device_type": "比喻",
+      "literal_target": "受自然规律支配、没有自由的人",
+      "function": "形象化地说明人受自然规律支配的状态",
+      "evidence": "人要从“自然之奴”进于“自然之王”必须知道自然律",
+      "confidence": 0.9
+    },
+    {
+      "id": "rh2",
+      "expression": "自然之王",
+      "device_type": "比喻",
+      "literal_target": "掌握自然规律、获得自由的人",
+      "function": "形象化地说明人通过认识自然律获得自由的状态",
+      "evidence": "人要从“自然之奴”进于“自然之王”必须知道自然律",
+      "confidence": 0.9
+    }
+  ],
+  "uncertainties": []
+}

@@ -1,0 +1,230 @@
+{
+  "metadata": {
+    "schema_version": "lite_v2.0",
+    "article_id": "颂皋_000_0fffa40d",
+    "article_title": "玄学上之问题",
+    "source_author": "颂皋",
+    "section_title": "",
+    "section_author": "",
+    "segment_id": "颂皋_000_0fffa40d_s0000",
+    "segment_index": 0,
+    "source_file": "E:\\1研究生\\岭南大学\\论文毕业\\capstone\\资料\\新的内容开始了\\local_upload\\input_w2\\颂皋.txt"
+  },
+  "entities": [
+    {
+      "id": "e1",
+      "name": "在君",
+      "canonical_name": "丁文江",
+      "type": "人物",
+      "evidence": "近来了在君先生与张君劢先生为科学与玄学之争",
+      "confidence": 0.9
+    },
+    {
+      "id": "e2",
+      "name": "张君劢",
+      "canonical_name": "张君劢",
+      "type": "人物",
+      "evidence": "近来了在君先生与张君劢先生为科学与玄学之争",
+      "confidence": 0.9
+    },
+    {
+      "id": "e3",
+      "name": "科学",
+      "canonical_name": "科学",
+      "type": "概念",
+      "evidence": "近来了在君先生与张君劢先生为科学与玄学之争",
+      "confidence": 0.9
+    },
+    {
+      "id": "e4",
+      "name": "玄学",
+      "canonical_name": "玄学",
+      "type": "概念",
+      "evidence": "近来了在君先生与张君劢先生为科学与玄学之争",
+      "confidence": 0.9
+    },
+    {
+      "id": "e5",
+      "name": "乾姆斯（James）",
+      "canonical_name": "威廉·詹姆斯",
+      "type": "人物",
+      "evidence": "因忆旧读乾姆斯（James）所著哲学问题（Some Problems of Philosophy）书中",
+      "confidence": 0.9
+    },
+    {
+      "id": "e6",
+      "name": "哲学问题（Some Problems of Philosophy）",
+      "canonical_name": "哲学问题",
+      "type": "著作",
+      "evidence": "因忆旧读乾姆斯（James）所著哲学问题（Some Problems of Philosophy）书中",
+      "confidence": 0.9
+    },
+    {
+      "id": "e7",
+      "name": "颂皋",
+      "canonical_name": "颂皋",
+      "type": "人物",
+      "evidence": "颂皋。七，二，苏州。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e8",
+      "name": "科学与玄学之争",
+      "canonical_name": "科玄论战",
+      "type": "历史事件",
+      "evidence": "近来了在君先生与张君劢先生为科学与玄学之争",
+      "confidence": 0.9
+    },
+    {
+      "id": "e9",
+      "name": "玄学上之问题",
+      "canonical_name": "玄学上之问题",
+      "type": "概念",
+      "evidence": "有专论“玄学上之问题”一章",
+      "confidence": 0.9
+    }
+  ],
+  "claims": [
+    {
+      "id": "c1",
+      "speaker": "颂皋",
+      "claim": "近来了在君先生与张君劢先生为科学与玄学之争，发表许多文章，引起学术界之注意。",
+      "target": "科学与玄学之争",
+      "claim_type": "历史解释",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "近来了在君先生与张君劢先生为科学与玄学之争，发表许多文章，引起学术界之注意。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c2",
+      "speaker": "颂皋",
+      "claim": "一时起而招辩者，类皆国内知名之士，对于专门之学，皆有深造，故其所发言论，自多价值。",
+      "target": "参与论战者",
+      "claim_type": "价值评价",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "一时起而招辩者，类皆国内知名之士，对于专门之学，皆有深造，故其所发言论，自多价值。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c3",
+      "speaker": "颂皋",
+      "claim": "但亦有主张偏激，思想之间，发生绝大缺陷者，考其所以致此之由，大率对于玄学之所以为玄学，不无稍欠了解。",
+      "target": "部分论战者",
+      "claim_type": "论战策略批评",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "但亦有主张偏激，思想之间，发生绝大缺陷者，考其所以致此之由，大率对于玄学之所以为玄学，不无稍欠了解。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c4",
+      "speaker": "颂皋",
+      "claim": "欲于玄学（Metaphysics）一词，加以明确之定义，诚为不可能之事。",
+      "target": "玄学",
+      "claim_type": "定义性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "欲于玄学（Metaphysics）一词，加以明确之定义，诚为不可能之事。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c5",
+      "speaker": "颂皋",
+      "claim": "如欲将玄学所涉及之问题，一一加以说明，则最妙方法，莫如即先探索其意义之所在。",
+      "target": "玄学",
+      "claim_type": "方法论主张",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "如欲将玄学所涉及之问题，一一加以说明，则最妙方法，莫如即先探索其意义之所在。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c6",
+      "speaker": "颂皋",
+      "claim": "原夫玄学，乃所以讨论各种空虚的（Obscure）抽象的（Abstract）普遍的（General）问题，而为科学与人生所未能解决者。",
+      "target": "玄学",
+      "claim_type": "定义性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "原夫玄学，乃所以讨论各种空虚的（Obscure）抽象的（Abstract）普遍的（General）问题，而为科学与人生所未能解决者。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c7",
+      "speaker": "颂皋",
+      "claim": "易言之：即此种悬而未解决，玄而且深，关于事物之全体或其永久的原素之问题也。",
+      "target": "玄学",
+      "claim_type": "定义性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "易言之：即此种悬而未解决，玄而且深，关于事物之全体或其永久的原素之问题也。",
+      "confidence": 0.9
+    }
+  ],
+  "relations": [
+    {
+      "id": "r1",
+      "head": "颂皋",
+      "head_type": "人物",
+      "relation": "相关",
+      "tail": "乾姆斯（James）",
+      "tail_type": "人物",
+      "polarity": "positive",
+      "evidence": "因忆旧读乾姆斯（James）所著哲学问题（Some Problems of Philosophy）书中，有专论“玄学上之问题”一章，颇能将玄学之界说，与夫玄学的问题之性质阐明无遗，爱节译之，以供读者之评览焉。",
+      "confidence": 0.9
+    },
+    {
+      "id": "r2",
+      "head": "颂皋",
+      "head_type": "人物",
+      "relation": "相关",
+      "tail": "哲学问题（Some Problems of Philosophy）",
+      "tail_type": "著作",
+      "polarity": "positive",
+      "evidence": "因忆旧读乾姆斯（James）所著哲学问题（Some Problems of Philosophy）书中，有专论“玄学上之问题”一章，颇能将玄学之界说，与夫玄学的问题之性质阐明无遗，爱节译之，以供读者之评览焉。",
+      "confidence": 0.9
+    }
+  ],
+  "definitions": [
+    {
+      "id": "def1",
+      "term": "玄学",
+      "definition": "玄学是讨论各种空虚的、抽象的、普遍的问题，而为科学与人生所未能解决者；即悬而未解决，玄而且深，关于事物之全体或其永久的原素之问题。",
+      "evidence": "原夫玄学，乃所以讨论各种空虚的（Obscure）抽象的（Abstract）普遍的（General）问题，而为科学与人生所未能解决者。易言之：即此种悬而未解决，玄而且深，关于事物之全体或其永久的原素之问题也。",
+      "confidence": 0.9
+    }
+  ],
+  "citations": [],
+  "rhetorical_devices": [],
+  "uncertainties": [
+    {
+      "item": "部分论战者具体指谁",
+      "reason": "文本中仅说'但亦有主张偏激，思想之间，发生绝大缺陷者'，未指明具体人物或群体名称。"
+    },
+    {
+      "item": "乾姆斯（James）是否确指威廉·詹姆斯",
+      "reason": "文本中写'乾姆斯（James）'，通常指威廉·詹姆斯，但未提供全名，需确认。"
+    }
+  ],
+  "_meta": {
+    "status": "success",
+    "stage": "extract",
+    "model": "deepseek-ai/DeepSeek-V4-Flash",
+    "base_url": "https://api.siliconflow.cn/v1",
+    "prompt_version": "extract_prompt_v2.0",
+    "schema_version": "lite_v2.0",
+    "segment_id": "颂皋_000_0fffa40d_s0000",
+    "article_id": "颂皋_000_0fffa40d",
+    "char_start": 0,
+    "char_end": 586,
+    "raw_path": "E:\\1研究生\\岭南大学\\论文毕业\\capstone\\资料\\新的内容开始了\\local_upload\\kg_runs\\颂皋\\raw_outputs\\extract\\颂皋_000_0fffa40d_s0000.txt",
+    "parsed_at": "2026-05-19T14:20:20",
+    "started_at": "2026-05-19T14:19:58",
+    "elapsed_seconds": 21.526,
+    "strict_evidence_check": true,
+    "drop_unsupported_evidence": true,
+    "request_timeout_seconds": 180
+  }
+}

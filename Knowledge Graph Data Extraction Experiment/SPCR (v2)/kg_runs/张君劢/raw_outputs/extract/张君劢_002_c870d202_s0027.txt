@@ -1,0 +1,573 @@
+{
+  "metadata": {
+    "schema_version": "lite_v3.0",
+    "article_id": "张君劢_002_c870d202",
+    "article_title": "再论人生观与科学并答丁在君",
+    "source_author": "张君劢",
+    "section_title": "",
+    "section_author": "",
+    "segment_id": "张君劢_002_c870d202_s0027",
+    "segment_index": 27,
+    "source_file": "E:\\1研究生\\岭南大学\\论文毕业\\capstone\\资料\\新的内容开始了\\local_upload\\input_张君劢\\张君劢.txt"
+  },
+  "entities": [
+    {
+      "id": "e1",
+      "name": "自由意志之教义",
+      "canonical_name": "自由意志之教义",
+      "type": "主义/学说/理论",
+      "evidence": "以云自由意志之教义，世界之社会革命党已行之而大奏功",
+      "confidence": 0.9
+    },
+    {
+      "id": "e2",
+      "name": "世界之社会革命党",
+      "canonical_name": "世界之社会革命党",
+      "type": "阵营/群体",
+      "evidence": "世界之社会革命党已行之而大奏功",
+      "confidence": 0.9
+    },
+    {
+      "id": "e3",
+      "name": "德俄两帝国之推翻",
+      "canonical_name": "德俄两帝国之推翻",
+      "type": "历史事件",
+      "evidence": "德俄两帝国之推翻，皆此种教育为之也",
+      "confidence": 0.9
+    },
+    {
+      "id": "e4",
+      "name": "科学的教育家",
+      "canonical_name": "科学的教育家",
+      "type": "阵营/群体",
+      "evidence": "十九世纪以降，所谓科学的教育家，诏其学生曰",
+      "confidence": 0.9
+    },
+    {
+      "id": "e5",
+      "name": "因果",
+      "canonical_name": "因果",
+      "type": "概念",
+      "evidence": "一切现象皆有因果",
+      "confidence": 0.9
+    },
+    {
+      "id": "e6",
+      "name": "人类进化",
+      "canonical_name": "人类进化",
+      "type": "概念",
+      "evidence": "人类进化为自然律所支配",
+      "confidence": 0.9
+    },
+    {
+      "id": "e7",
+      "name": "自然律",
+      "canonical_name": "自然律",
+      "type": "概念",
+      "evidence": "人类进化为自然律所支配",
+      "confidence": 0.9
+    },
+    {
+      "id": "e8",
+      "name": "社会革命家",
+      "canonical_name": "社会革命家",
+      "type": "阵营/群体",
+      "evidence": "其社会革命家告其同志曰",
+      "confidence": 0.9
+    },
+    {
+      "id": "e9",
+      "name": "人事变迁",
+      "canonical_name": "人事变迁",
+      "type": "概念",
+      "evidence": "人事变迁，无所谓因果",
+      "confidence": 0.9
+    },
+    {
+      "id": "e10",
+      "name": "自由意志说",
+      "canonical_name": "自由意志说",
+      "type": "主义/学说/理论",
+      "evidence": "与自由意志说相辅而行者",
+      "confidence": 0.9
+    },
+    {
+      "id": "e11",
+      "name": "行动",
+      "canonical_name": "行动",
+      "type": "概念",
+      "evidence": "一则曰行动，再则曰直接行动",
+      "confidence": 0.9
+    },
+    {
+      "id": "e12",
+      "name": "直接行动",
+      "canonical_name": "直接行动",
+      "type": "概念",
+      "evidence": "一则曰行动，再则曰直接行动",
+      "confidence": 0.9
+    },
+    {
+      "id": "e13",
+      "name": "法国索勒尔",
+      "canonical_name": "法国索勒尔",
+      "type": "人物",
+      "evidence": "此为法国索勒尔之说",
+      "confidence": 0.9
+    },
+    {
+      "id": "e14",
+      "name": "德之社会民主党",
+      "canonical_name": "德之社会民主党",
+      "type": "阵营/群体",
+      "evidence": "德之社会民主党本此种方法宣传于国人",
+      "confidence": 0.9
+    },
+    {
+      "id": "e15",
+      "name": "俄之鲍尔雪维党",
+      "canonical_name": "俄之鲍尔雪维党",
+      "type": "阵营/群体",
+      "evidence": "俄之鲍尔雪维党亦然",
+      "confidence": 0.9
+    },
+    {
+      "id": "e16",
+      "name": "德俄之革命",
+      "canonical_name": "德俄之革命",
+      "type": "历史事件",
+      "evidence": "吾以为德俄之革命，不啻对于科学的教育为明著之反证也",
+      "confidence": 0.9
+    },
+    {
+      "id": "e17",
+      "name": "科学的教育",
+      "canonical_name": "科学的教育",
+      "type": "概念",
+      "evidence": "不啻对于科学的教育为明著之反证也",
+      "confidence": 0.9
+    },
+    {
+      "id": "e18",
+      "name": "社会革命党",
+      "canonical_name": "社会革命党",
+      "type": "阵营/群体",
+      "evidence": "以社会革命党之贫弱，独本其热心毅力，而转移一国之风气者至于如是",
+      "confidence": 0.9
+    },
+    {
+      "id": "e19",
+      "name": "德国革命",
+      "canonical_name": "德国革命",
+      "type": "历史事件",
+      "evidence": "德国革命既成",
+      "confidence": 0.9
+    },
+    {
+      "id": "e20",
+      "name": "西欧组织共产党",
+      "canonical_name": "西欧组织共产党",
+      "type": "阵营/群体",
+      "evidence": "俄鲍尔雪维党用其法，在西欧组织共产党",
+      "confidence": 0.9
+    },
+    {
+      "id": "e21",
+      "name": "共产主义之青年",
+      "canonical_name": "共产主义之青年",
+      "type": "阵营/群体",
+      "evidence": "每星期日召集共产主义之青年",
+      "confidence": 0.9
+    },
+    {
+      "id": "e22",
+      "name": "共产主义青年运动",
+      "canonical_name": "共产主义青年运动",
+      "type": "概念",
+      "evidence": "在俄法有共产主义青年运动",
+      "confidence": 0.9
+    },
+    {
+      "id": "e23",
+      "name": "马克思学校",
+      "canonical_name": "马克思学校",
+      "type": "概念",
+      "evidence": "有马克思学校",
+      "confidence": 0.9
+    },
+    {
+      "id": "e24",
+      "name": "劳动学校",
+      "canonical_name": "劳动学校",
+      "type": "概念",
+      "evidence": "在英有劳动学校",
+      "confidence": 0.9
+    },
+    {
+      "id": "e25",
+      "name": "钦定教育",
+      "canonical_name": "钦定教育",
+      "type": "概念",
+      "evidence": "其一曰钦定教育，教人以因果说，教人以适应环境，教人为现状之奴隶",
+      "confidence": 0.9
+    },
+    {
+      "id": "e26",
+      "name": "社会改造派之教育",
+      "canonical_name": "社会改造派之教育",
+      "type": "概念",
+      "evidence": "其二曰社会改造派之教育，教人以无因果说，教人以自由创造说，教人以冲破环境",
+      "confidence": 0.9
+    },
+    {
+      "id": "e27",
+      "name": "因果说",
+      "canonical_name": "因果说",
+      "type": "主义/学说/理论",
+      "evidence": "教人以因果说",
+      "confidence": 0.9
+    },
+    {
+      "id": "e28",
+      "name": "无因果说",
+      "canonical_name": "无因果说",
+      "type": "主义/学说/理论",
+      "evidence": "教人以无因果说",
+      "confidence": 0.9
+    },
+    {
+      "id": "e29",
+      "name": "自由创造说",
+      "canonical_name": "自由创造说",
+      "type": "主义/学说/理论",
+      "evidence": "教人以自由创造说",
+      "confidence": 0.9
+    }
+  ],
+  "claims": [
+    {
+      "id": "c1",
+      "speaker": "张君劢",
+      "claim": "自由意志之教义，世界之社会革命党已行之而大奏功",
+      "target": "自由意志之教义",
+      "claim_type": "描述性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "以云自由意志之教义，世界之社会革命党已行之而大奏功",
+      "confidence": 0.9
+    },
+    {
+      "id": "c2",
+      "speaker": "张君劢",
+      "claim": "德俄两帝国之推翻，皆此种教育为之也",
+      "target": "德俄两帝国之推翻",
+      "claim_type": "因果主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "德俄两帝国之推翻，皆此种教育为之也",
+      "confidence": 0.9
+    },
+    {
+      "id": "c3",
+      "speaker": "科学的教育家",
+      "claim": "一切现象皆有因果，人类进化为自然律所支配，故只能求所以适应于其环境",
+      "target": "人类进化",
+      "claim_type": "因果主张",
+      "claim_status": "间接转述",
+      "polarity": "neutral",
+      "evidence": "所谓科学的教育家，诏其学生曰，一切现象皆有因果，人类进化为自然律所支配，故只能求所以适应于其环境",
+      "confidence": 0.9
+    },
+    {
+      "id": "c4",
+      "speaker": "社会革命家",
+      "claim": "人事变迁，无所谓因果，视吾人之意志何如：意志力强，则环境可以冲破；反是者，人类为环境之奴隶",
+      "target": "人事变迁",
+      "claim_type": "因果主张",
+      "claim_status": "间接转述",
+      "polarity": "neutral",
+      "evidence": "其社会革命家告其同志曰，人事变迁，无所谓因果，视吾人之意志何如：意志力强，则环境可以冲破；反是者，人类为环境之奴隶",
+      "confidence": 0.9
+    },
+    {
+      "id": "c5",
+      "speaker": "社会革命家",
+      "claim": "理智之为用，长于思辩，短于实行",
+      "target": "理智",
+      "claim_type": "评价性主张",
+      "claim_status": "间接转述",
+      "polarity": "negative",
+      "evidence": "彼辈又以为理智之为用，长于思辩，短于实行",
+      "confidence": 0.9
+    },
+    {
+      "id": "c6",
+      "speaker": "张君劢",
+      "claim": "德俄之革命，不啻对于科学的教育为明著之反证也",
+      "target": "科学的教育",
+      "claim_type": "评价性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "吾以为德俄之革命，不啻对于科学的教育为明著之反证也",
+      "confidence": 0.9
+    },
+    {
+      "id": "c7",
+      "speaker": "张君劢",
+      "claim": "以社会革命党之贫弱，独本其热心毅力，而转移一国之风气者至于如是",
+      "target": "社会革命党",
+      "claim_type": "描述性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "以社会革命党之贫弱，独本其热心毅力，而转移一国之风气者至于如是",
+      "confidence": 0.9
+    },
+    {
+      "id": "c8",
+      "speaker": "张君劢",
+      "claim": "今日欧洲之国民教育两派对立",
+      "target": "欧洲之国民教育",
+      "claim_type": "描述性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "故今日欧洲之国民教育两派对立",
+      "confidence": 0.9
+    },
+    {
+      "id": "c9",
+      "speaker": "张君劢",
+      "claim": "钦定教育，教人以因果说，教人以适应环境，教人为现状之奴隶",
+      "target": "钦定教育",
+      "claim_type": "描述性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "其一曰钦定教育，教人以因果说，教人以适应环境，教人为现状之奴隶",
+      "confidence": 0.9
+    },
+    {
+      "id": "c10",
+      "speaker": "张君劢",
+      "claim": "社会改造派之教育，教人以无因果说，教人以自由创造说，教人以冲破环境",
+      "target": "社会改造派之教育",
+      "claim_type": "描述性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "其二曰社会改造派之教育，教人以无因果说，教人以自由创造说，教人以冲破环境",
+      "confidence": 0.9
+    }
+  ],
+  "relations": [
+    {
+      "id": "r1",
+      "head": "自由意志之教义",
+      "head_type": "主义/学说/理论",
+      "relation": "导致",
+      "relation_subtype": "不适用",
+      "tail": "德俄两帝国之推翻",
+      "tail_type": "历史事件",
+      "polarity": "positive",
+      "stance_score": 1.0,
+      "intensity": 0.8,
+      "evidence": "以云自由意志之教义，世界之社会革命党已行之而大奏功，德俄两帝国之推翻，皆此种教育为之也",
+      "confidence": 0.9
+    },
+    {
+      "id": "r2",
+      "head": "科学的教育家",
+      "head_type": "阵营/群体",
+      "relation": "主张",
+      "relation_subtype": "不适用",
+      "tail": "一切现象皆有因果，人类进化为自然律所支配，故只能求所以适应于其环境",
+      "tail_type": "观点",
+      "polarity": "neutral",
+      "stance_score": 0.0,
+      "intensity": 0.5,
+      "evidence": "所谓科学的教育家，诏其学生曰，一切现象皆有因果，人类进化为自然律所支配，故只能求所以适应于其环境",
+      "confidence": 0.9
+    },
+    {
+      "id": "r3",
+      "head": "社会革命家",
+      "head_type": "阵营/群体",
+      "relation": "主张",
+      "relation_subtype": "不适用",
+      "tail": "人事变迁，无所谓因果，视吾人之意志何如：意志力强，则环境可以冲破；反是者，人类为环境之奴隶",
+      "tail_type": "观点",
+      "polarity": "neutral",
+      "stance_score": 0.0,
+      "intensity": 0.5,
+      "evidence": "其社会革命家告其同志曰，人事变迁，无所谓因果，视吾人之意志何如：意志力强，则环境可以冲破；反是者，人类为环境之奴隶",
+      "confidence": 0.9
+    },
+    {
+      "id": "r4",
+      "head": "社会革命家",
+      "head_type": "阵营/群体",
+      "relation": "主张",
+      "relation_subtype": "不适用",
+      "tail": "理智之为用，长于思辩，短于实行",
+      "tail_type": "观点",
+      "polarity": "negative",
+      "stance_score": -0.5,
+      "intensity": 0.5,
+      "evidence": "彼辈又以为理智之为用，长于思辩，短于实行",
+      "confidence": 0.9
+    },
+    {
+      "id": "r5",
+      "head": "德俄之革命",
+      "head_type": "历史事件",
+      "relation": "作为反例反驳",
+      "relation_subtype": "事实质疑",
+      "tail": "科学的教育",
+      "tail_type": "概念",
+      "polarity": "negative",
+      "stance_score": -1.0,
+      "intensity": 0.9,
+      "evidence": "吾以为德俄之革命，不啻对于科学的教育为明著之反证也",
+      "confidence": 0.9
+    },
+    {
+      "id": "r6",
+      "head": "社会革命党",
+      "head_type": "阵营/群体",
+      "relation": "导致",
+      "relation_subtype": "不适用",
+      "tail": "转移一国之风气",
+      "tail_type": "概念",
+      "polarity": "positive",
+      "stance_score": 1.0,
+      "intensity": 0.8,
+      "evidence": "以社会革命党之贫弱，独本其热心毅力，而转移一国之风气者至于如是",
+      "confidence": 0.9
+    },
+    {
+      "id": "r7",
+      "head": "德国革命",
+      "head_type": "历史事件",
+      "relation": "导致",
+      "relation_subtype": "不适用",
+      "tail": "俄鲍尔雪维党用其法，在西欧组织共产党",
+      "tail_type": "概念",
+      "polarity": "neutral",
+      "stance_score": 0.0,
+      "intensity": 0.5,
+      "evidence": "德国革命既成，俄鲍尔雪维党用其法，在西欧组织共产党",
+      "confidence": 0.9
+    },
+    {
+      "id": "r8",
+      "head": "钦定教育",
+      "head_type": "概念",
+      "relation": "包含",
+      "relation_subtype": "不适用",
+      "tail": "因果说",
+      "tail_type": "主义/学说/理论",
+      "polarity": "neutral",
+      "stance_score": 0.0,
+      "intensity": 0.5,
+      "evidence": "其一曰钦定教育，教人以因果说，教人以适应环境，教人为现状之奴隶",
+      "confidence": 0.9
+    },
+    {
+      "id": "r9",
+      "head": "社会改造派之教育",
+      "head_type": "概念",
+      "relation": "包含",
+      "relation_subtype": "不适用",
+      "tail": "无因果说",
+      "tail_type": "主义/学说/理论",
+      "polarity": "neutral",
+      "stance_score": 0.0,
+      "intensity": 0.5,
+      "evidence": "其二曰社会改造派之教育，教人以无因果说，教人以自由创造说，教人以冲破环境",
+      "confidence": 0.9
+    },
+    {
+      "id": "r10",
+      "head": "社会改造派之教育",
+      "head_type": "概念",
+      "relation": "包含",
+      "relation_subtype": "不适用",
+      "tail": "自由创造说",
+      "tail_type": "主义/学说/理论",
+      "polarity": "neutral",
+      "stance_score": 0.0,
+      "intensity": 0.5,
+      "evidence": "其二曰社会改造派之教育，教人以无因果说，教人以自由创造说，教人以冲破环境",
+      "confidence": 0.9
+    },
+    {
+      "id": "r11",
+      "head": "钦定教育",
+      "head_type": "概念",
+      "relation": "对比",
+      "relation_subtype": "不适用",
+      "tail": "社会改造派之教育",
+      "tail_type": "概念",
+      "polarity": "negative",
+      "stance_score": -1.0,
+      "intensity": 0.9,
+      "evidence": "故今日欧洲之国民教育两派对立，其一曰钦定教育，教人以因果说，教人以适应环境，教人为现状之奴隶；其二曰社会改造派之教育，教人以无因果说，教人以自由创造说，教人以冲破环境",
+      "confidence": 0.9
+    }
+  ],
+  "definitions": [
+    {
+      "id": "def1",
+      "term": "钦定教育",
+      "definition": "教人以因果说，教人以适应环境，教人为现状之奴隶的教育",
+      "evidence": "其一曰钦定教育，教人以因果说，教人以适应环境，教人为现状之奴隶",
+      "confidence": 0.9
+    },
+    {
+      "id": "def2",
+      "term": "社会改造派之教育",
+      "definition": "教人以无因果说，教人以自由创造说，教人以冲破环境的教育",
+      "evidence": "其二曰社会改造派之教育，教人以无因果说，教人以自由创造说，教人以冲破环境",
+      "confidence": 0.9
+    }
+  ],
+  "citations": [
+    {
+      "id": "cit1",
+      "citer": "张君劢",
+      "quoted_author": "法国索勒尔",
+      "quoted_work": "",
+      "quoted_claim": "与自由意志说相辅而行者，一则曰行动，再则曰直接行动",
+      "function": "作为思想来源",
+      "evidence": "此为法国索勒尔之说",
+      "confidence": 0.9
+    }
+  ],
+  "rhetorical_devices": [
+    {
+      "id": "rh1",
+      "expression": "教人为现状之奴隶",
+      "device_type": "标签化",
+      "literal_target": "钦定教育",
+      "function": "贬低对手，强化对立",
+      "evidence": "其一曰钦定教育，教人以因果说，教人以适应环境，教人为现状之奴隶",
+      "confidence": 0.9
+    },
+    {
+      "id": "rh2",
+      "expression": "教人以冲破环境",
+      "device_type": "标签化",
+      "literal_target": "社会改造派之教育",
+      "function": "正面褒扬，强化对立",
+      "evidence": "其二曰社会改造派之教育，教人以无因果说，教人以自由创造说，教人以冲破环境",
+      "confidence": 0.9
+    }
+  ],
+  "uncertainties": [
+    {
+      "item": "“此种教育”具体指代何种教育",
+      "reason": "前文提到“自由意志之教义”，但“此种教育”可能指社会革命党的教育方式，原文未明确界定"
+    },
+    {
+      "item": "“学校中蹈常习故之教育”是否与“科学的教育家”的教育相同",
+      "reason": "原文说“所谓学校中蹈常习故之教育则如是”，但未明确说明两者关系"
+    }
+  ]
+}

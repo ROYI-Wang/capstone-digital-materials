@@ -1,0 +1,543 @@
+{
+  "metadata": {
+    "schema_version": "lite_v3.0",
+    "article_id": "唐钺_002_5e996979",
+    "article_title": "一个痴人的说梦 ——情感真是超科学的吗？",
+    "source_author": "唐钺",
+    "section_title": "",
+    "section_author": "",
+    "segment_id": "唐钺_002_5e996979_s0006",
+    "segment_index": 6,
+    "source_file": "E:\\1研究生\\岭南大学\\论文毕业\\capstone\\资料\\新的内容开始了\\local_upload\\input_唐钺\\唐钺.txt"
+  },
+  "entities": [
+    {
+      "id": "e1",
+      "name": "康有为",
+      "canonical_name": "康有为",
+      "type": "人物",
+      "evidence": "最受知遇的康有为却没有攀龙髯而去",
+      "confidence": 1.0
+    },
+    {
+      "id": "e2",
+      "name": "田横岛上五百人的自杀",
+      "canonical_name": "田横岛上五百人的自杀",
+      "type": "历史事件",
+      "evidence": "田横岛上五百人的自杀，动机无可取，方法更无论，岂可看做极优的人生观？",
+      "confidence": 1.0
+    },
+    {
+      "id": "e3",
+      "name": "孔席不暖，墨突不黔，释迦割臂饲鹰，基督钉十字架替人赎罪",
+      "canonical_name": "孔席不暖，墨突不黔，释迦割臂饲鹰，基督钉十字架替人赎罪",
+      "type": "例证",
+      "evidence": "至于“孔席不暖，墨突不黔，释迦割臂饲鹰（这是无稽的神话，我只是不相信），基督钉十字架替人赎罪（替人赎罪也是神话）”",
+      "confidence": 1.0
+    },
+    {
+      "id": "e4",
+      "name": "这四个人",
+      "canonical_name": "孔子、墨子、释迦、基督",
+      "type": "人物",
+      "evidence": "这四个人是理智极高，感情极富的",
+      "confidence": 0.8
+    },
+    {
+      "id": "e5",
+      "name": "民胞物与",
+      "canonical_name": "民胞物与",
+      "type": "概念",
+      "evidence": "于“民胞物与”的道理见得深切",
+      "confidence": 1.0
+    },
+    {
+      "id": "e6",
+      "name": "极伟大的人物",
+      "canonical_name": "极伟大的人物",
+      "type": "阵营/群体",
+      "evidence": "这种极伟大的人物同冥顽不灵及穷凶极恶的人，一样是变态的",
+      "confidence": 1.0
+    },
+    {
+      "id": "e7",
+      "name": "冥顽不灵及穷凶极恶的人",
+      "canonical_name": "冥顽不灵及穷凶极恶的人",
+      "type": "阵营/群体",
+      "evidence": "这种极伟大的人物同冥顽不灵及穷凶极恶的人，一样是变态的",
+      "confidence": 1.0
+    },
+    {
+      "id": "e8",
+      "name": "《论衡·实知篇》",
+      "canonical_name": "《论衡·实知篇》",
+      "type": "著作",
+      "evidence": "请看《论衡·实知篇》，就知道汉时已经把孔子当做神人",
+      "confidence": 1.0
+    },
+    {
+      "id": "e9",
+      "name": "孔子",
+      "canonical_name": "孔子",
+      "type": "人物",
+      "evidence": "汉时已经把孔子当做神人",
+      "confidence": 1.0
+    },
+    {
+      "id": "e10",
+      "name": "耶稣",
+      "canonical_name": "耶稣",
+      "type": "人物",
+      "evidence": "耶稣、释迦的理想化，当然是更厉害",
+      "confidence": 1.0
+    },
+    {
+      "id": "e11",
+      "name": "释迦",
+      "canonical_name": "释迦",
+      "type": "人物",
+      "evidence": "耶稣、释迦的理想化，当然是更厉害",
+      "confidence": 1.0
+    },
+    {
+      "id": "e12",
+      "name": "人类活历史",
+      "canonical_name": "人类活历史",
+      "type": "概念",
+      "evidence": "至于“人类活历史，却什有八九从这种神秘（指‘一个人对于所信仰的宗教，对于所崇拜的人或主义，那种狂热情绪’）中创造出来”",
+      "confidence": 1.0
+    },
+    {
+      "id": "e13",
+      "name": "神秘",
+      "canonical_name": "神秘",
+      "type": "概念",
+      "evidence": "至于“人类活历史，却什有八九从这种神秘（指‘一个人对于所信仰的宗教，对于所崇拜的人或主义，那种狂热情绪’）中创造出来”",
+      "confidence": 1.0
+    },
+    {
+      "id": "e14",
+      "name": "热情",
+      "canonical_name": "热情",
+      "type": "概念",
+      "evidence": "热情生出活历史，固然是事实；但是，热情不可分析，又是一个问题",
+      "confidence": 1.0
+    },
+    {
+      "id": "e15",
+      "name": "中国历朝的女祸",
+      "canonical_name": "中国历朝的女祸",
+      "type": "历史事件",
+      "evidence": "中国历朝的女祸，欧洲宗教的残杀史，就是因为热情脱离理智的羁绊的结果",
+      "confidence": 1.0
+    },
+    {
+      "id": "e16",
+      "name": "欧洲宗教的残杀史",
+      "canonical_name": "欧洲宗教的残杀史",
+      "type": "历史事件",
+      "evidence": "中国历朝的女祸，欧洲宗教的残杀史，就是因为热情脱离理智的羁绊的结果",
+      "confidence": 1.0
+    },
+    {
+      "id": "e17",
+      "name": "热情脱离理智的羁绊",
+      "canonical_name": "热情脱离理智的羁绊",
+      "type": "概念",
+      "evidence": "就是因为热情脱离理智的羁绊的结果",
+      "confidence": 1.0
+    },
+    {
+      "id": "e18",
+      "name": "爱",
+      "canonical_name": "爱",
+      "type": "概念",
+      "evidence": "我们所以看得爱这样神秘",
+      "confidence": 1.0
+    }
+  ],
+  "claims": [
+    {
+      "id": "c1",
+      "speaker": "作者",
+      "claim": "康有为没有攀龙髯而去，这一点不是他的坏处",
+      "target": "康有为",
+      "claim_type": "评价性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "死的时候，最受知遇的康有为却没有攀龙髯而去；康氏的为人不必论，但是这一点却不是他的坏处",
+      "confidence": 1.0
+    },
+    {
+      "id": "c2",
+      "speaker": "作者",
+      "claim": "田横岛上五百人的自杀，动机无可取，方法更无论，不可看做极优的人生观",
+      "target": "田横岛上五百人的自杀",
+      "claim_type": "评价性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "田横岛上五百人的自杀，动机无可取，方法更无论，岂可看做极优的人生观？",
+      "confidence": 1.0
+    },
+    {
+      "id": "c3",
+      "speaker": "作者",
+      "claim": "孔子、墨子、释迦、基督这四个人是理智极高，感情极富的，于民胞物与的道理见得深切，所以有偌大的愿力，并没有什么不可思议的地方",
+      "target": "孔子、墨子、释迦、基督",
+      "claim_type": "描述性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "这四个人是理智极高，感情极富的，于“民胞物与”的道理见得深切，所以有偌大的愿力，并没有什么不可思议的地方",
+      "confidence": 1.0
+    },
+    {
+      "id": "c4",
+      "speaker": "作者",
+      "claim": "释迦割臂饲鹰是无稽的神话，我不相信",
+      "target": "释迦割臂饲鹰",
+      "claim_type": "评价性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "释迦割臂饲鹰（这是无稽的神话，我只是不相信）",
+      "confidence": 1.0
+    },
+    {
+      "id": "c5",
+      "speaker": "作者",
+      "claim": "基督钉十字架替人赎罪也是神话",
+      "target": "基督钉十字架替人赎罪",
+      "claim_type": "评价性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "基督钉十字架替人赎罪（替人赎罪也是神话）",
+      "confidence": 1.0
+    },
+    {
+      "id": "c6",
+      "speaker": "作者",
+      "claim": "极伟大的人物同冥顽不灵及穷凶极恶的人一样是变态的，一样可以分析他的成因的；不过现有的史料不够做根据罢了",
+      "target": "极伟大的人物",
+      "claim_type": "描述性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "这种极伟大的人物同冥顽不灵及穷凶极恶的人，一样是变态的，一样是可以分析他的成因的；不过现有的史料不够做根据罢了",
+      "confidence": 1.0
+    },
+    {
+      "id": "c7",
+      "speaker": "作者",
+      "claim": "这些人是经过后人多量的理想化的，所以我们觉得他们有神妙不可测的地方",
+      "target": "孔子、释迦、耶稣等",
+      "claim_type": "因果主张",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "这些人是经过后人多量的理想化的，所以我们觉得他们有神妙不可测的地方",
+      "confidence": 1.0
+    },
+    {
+      "id": "c8",
+      "speaker": "作者",
+      "claim": "汉时已经把孔子当做神人，能后知万世的了",
+      "target": "孔子",
+      "claim_type": "描述性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "请看《论衡·实知篇》，就知道汉时已经把孔子当做神人，能后知万世的了",
+      "confidence": 1.0
+    },
+    {
+      "id": "c9",
+      "speaker": "作者",
+      "claim": "耶稣、释迦的理想化，当然是更厉害",
+      "target": "耶稣、释迦",
+      "claim_type": "评价性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "耶稣、释迦的理想化，当然是更厉害",
+      "confidence": 1.0
+    },
+    {
+      "id": "c10",
+      "speaker": "作者",
+      "claim": "“人类活历史，却什有八九从这种神秘中创造出来”不能成为一种理由",
+      "target": "人类活历史从神秘中创造出来",
+      "claim_type": "反驳性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "至于“人类活历史，却什有八九从这种神秘（指‘一个人对于所信仰的宗教，对于所崇拜的人或主义，那种狂热情绪’）中创造出来”，这不能成为一种理由",
+      "confidence": 1.0
+    },
+    {
+      "id": "c11",
+      "speaker": "作者",
+      "claim": "热情生出活历史，固然是事实；但是，热情不可分析，又是一个问题，不能以前者证后者",
+      "target": "热情",
+      "claim_type": "反驳性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "热情生出活历史，固然是事实；但是，热情不可分析，又是一个问题，不能以前者证后者",
+      "confidence": 1.0
+    },
+    {
+      "id": "c12",
+      "speaker": "作者",
+      "claim": "这些热情所创造的活历史，至少一半是糟糕的",
+      "target": "热情所创造的活历史",
+      "claim_type": "评价性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "就是这些热情所创造的活历史，至少一半是糟糕的",
+      "confidence": 1.0
+    },
+    {
+      "id": "c13",
+      "speaker": "作者",
+      "claim": "中国历朝的女祸，欧洲宗教的残杀史，就是因为热情脱离理智的羁绊的结果",
+      "target": "中国历朝的女祸、欧洲宗教的残杀史",
+      "claim_type": "因果主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "中国历朝的女祸，欧洲宗教的残杀史，就是因为热情脱离理智的羁绊的结果",
+      "confidence": 1.0
+    },
+    {
+      "id": "c14",
+      "speaker": "作者",
+      "claim": "这种“脱羁”的情绪，我们不必去鼓励他们",
+      "target": "热情脱离理智的羁绊",
+      "claim_type": "规范性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "这种“脱羁”的情绪，我们不必去鼓励他们",
+      "confidence": 1.0
+    },
+    {
+      "id": "c15",
+      "speaker": "作者",
+      "claim": "我们所以看得爱这样神秘，是因为他的成因比别的心理事项复杂，一时不能分析得精密",
+      "target": "爱",
+      "claim_type": "因果主张",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "我们所以看得爱这样神秘，是：（一）因为他的成因比别的心理事项复杂，一时不能分析得精密",
+      "confidence": 1.0
+    }
+  ],
+  "relations": [
+    {
+      "id": "r1",
+      "head": "作者",
+      "head_type": "人物",
+      "relation": "评价",
+      "relation_subtype": "部分肯定",
+      "tail": "康有为",
+      "tail_type": "人物",
+      "polarity": "positive",
+      "stance_score": 0.5,
+      "intensity": 0.3,
+      "evidence": "康氏的为人不必论，但是这一点却不是他的坏处",
+      "confidence": 1.0
+    },
+    {
+      "id": "r2",
+      "head": "作者",
+      "head_type": "人物",
+      "relation": "评价",
+      "relation_subtype": "一般批评",
+      "tail": "田横岛上五百人的自杀",
+      "tail_type": "历史事件",
+      "polarity": "negative",
+      "stance_score": -0.8,
+      "intensity": 0.7,
+      "evidence": "田横岛上五百人的自杀，动机无可取，方法更无论，岂可看做极优的人生观？",
+      "confidence": 1.0
+    },
+    {
+      "id": "r3",
+      "head": "作者",
+      "head_type": "人物",
+      "relation": "评价",
+      "relation_subtype": "部分肯定",
+      "tail": "孔子、墨子、释迦、基督",
+      "tail_type": "人物",
+      "polarity": "positive",
+      "stance_score": 0.8,
+      "intensity": 0.6,
+      "evidence": "这四个人是理智极高，感情极富的，于“民胞物与”的道理见得深切，所以有偌大的愿力，并没有什么不可思议的地方",
+      "confidence": 1.0
+    },
+    {
+      "id": "r4",
+      "head": "作者",
+      "head_type": "人物",
+      "relation": "评价",
+      "relation_subtype": "一般批评",
+      "tail": "释迦割臂饲鹰",
+      "tail_type": "例证",
+      "polarity": "negative",
+      "stance_score": -1.0,
+      "intensity": 0.8,
+      "evidence": "释迦割臂饲鹰（这是无稽的神话，我只是不相信）",
+      "confidence": 1.0
+    },
+    {
+      "id": "r5",
+      "head": "作者",
+      "head_type": "人物",
+      "relation": "评价",
+      "relation_subtype": "一般批评",
+      "tail": "基督钉十字架替人赎罪",
+      "tail_type": "例证",
+      "polarity": "negative",
+      "stance_score": -1.0,
+      "intensity": 0.8,
+      "evidence": "基督钉十字架替人赎罪（替人赎罪也是神话）",
+      "confidence": 1.0
+    },
+    {
+      "id": "r6",
+      "head": "作者",
+      "head_type": "人物",
+      "relation": "反驳",
+      "relation_subtype": "逻辑反驳",
+      "tail": "人类活历史从神秘中创造出来",
+      "tail_type": "观点",
+      "polarity": "negative",
+      "stance_score": -0.8,
+      "intensity": 0.6,
+      "evidence": "至于“人类活历史，却什有八九从这种神秘（指‘一个人对于所信仰的宗教，对于所崇拜的人或主义，那种狂热情绪’）中创造出来”，这不能成为一种理由",
+      "confidence": 1.0
+    },
+    {
+      "id": "r7",
+      "head": "作者",
+      "head_type": "人物",
+      "relation": "反驳",
+      "relation_subtype": "逻辑反驳",
+      "tail": "热情不可分析",
+      "tail_type": "观点",
+      "polarity": "negative",
+      "stance_score": -0.5,
+      "intensity": 0.5,
+      "evidence": "热情生出活历史，固然是事实；但是，热情不可分析，又是一个问题，不能以前者证后者",
+      "confidence": 1.0
+    },
+    {
+      "id": "r8",
+      "head": "作者",
+      "head_type": "人物",
+      "relation": "评价",
+      "relation_subtype": "一般批评",
+      "tail": "热情所创造的活历史",
+      "tail_type": "概念",
+      "polarity": "negative",
+      "stance_score": -0.6,
+      "intensity": 0.5,
+      "evidence": "就是这些热情所创造的活历史，至少一半是糟糕的",
+      "confidence": 1.0
+    },
+    {
+      "id": "r9",
+      "head": "热情脱离理智的羁绊",
+      "head_type": "概念",
+      "relation": "导致",
+      "relation_subtype": "不适用",
+      "tail": "中国历朝的女祸、欧洲宗教的残杀史",
+      "tail_type": "历史事件",
+      "polarity": "negative",
+      "stance_score": -0.8,
+      "intensity": 0.7,
+      "evidence": "中国历朝的女祸，欧洲宗教的残杀史，就是因为热情脱离理智的羁绊的结果",
+      "confidence": 1.0
+    },
+    {
+      "id": "r10",
+      "head": "作者",
+      "head_type": "人物",
+      "relation": "主张",
+      "relation_subtype": "不适用",
+      "tail": "这种“脱羁”的情绪，我们不必去鼓励他们",
+      "tail_type": "观点",
+      "polarity": "negative",
+      "stance_score": -0.8,
+      "intensity": 0.6,
+      "evidence": "这种“脱羁”的情绪，我们不必去鼓励他们",
+      "confidence": 1.0
+    },
+    {
+      "id": "r11",
+      "head": "爱的成因比别的心理事项复杂，一时不能分析得精密",
+      "head_type": "观点",
+      "relation": "解释",
+      "relation_subtype": "不适用",
+      "tail": "我们所以看得爱这样神秘",
+      "tail_type": "观点",
+      "polarity": "neutral",
+      "stance_score": 0.0,
+      "intensity": 0.3,
+      "evidence": "我们所以看得爱这样神秘，是：（一）因为他的成因比别的心理事项复杂，一时不能分析得精密",
+      "confidence": 1.0
+    }
+  ],
+  "definitions": [
+    {
+      "id": "def1",
+      "term": "神秘",
+      "definition": "一个人对于所信仰的宗教，对于所崇拜的人或主义，那种狂热情绪",
+      "evidence": "至于“人类活历史，却什有八九从这种神秘（指‘一个人对于所信仰的宗教，对于所崇拜的人或主义，那种狂热情绪’）中创造出来”",
+      "confidence": 1.0
+    }
+  ],
+  "citations": [
+    {
+      "id": "cit1",
+      "citer": "作者",
+      "quoted_author": "对手",
+      "quoted_work": "",
+      "quoted_claim": "人类活历史，却什有八九从这种神秘中创造出来",
+      "function": "作为批评对象",
+      "evidence": "至于“人类活历史，却什有八九从这种神秘（指‘一个人对于所信仰的宗教，对于所崇拜的人或主义，那种狂热情绪’）中创造出来”",
+      "confidence": 1.0
+    },
+    {
+      "id": "cit2",
+      "citer": "作者",
+      "quoted_author": "王充",
+      "quoted_work": "《论衡·实知篇》",
+      "quoted_claim": "汉时已经把孔子当做神人，能后知万世的了",
+      "function": "作为历史证据",
+      "evidence": "请看《论衡·实知篇》，就知道汉时已经把孔子当做神人，能后知万世的了",
+      "confidence": 1.0
+    }
+  ],
+  "rhetorical_devices": [
+    {
+      "id": "rh1",
+      "expression": "攀龙髯而去",
+      "device_type": "比喻",
+      "literal_target": "追随皇帝而死",
+      "function": "形象化描述康有为没有殉死的行为",
+      "evidence": "死的时候，最受知遇的康有为却没有攀龙髯而去",
+      "confidence": 1.0
+    },
+    {
+      "id": "rh2",
+      "expression": "岂可看做极优的人生观？",
+      "device_type": "反语",
+      "literal_target": "田横岛上五百人的自杀不可视为极优的人生观",
+      "function": "以反问形式表达否定评价",
+      "evidence": "田横岛上五百人的自杀，动机无可取，方法更无论，岂可看做极优的人生观？",
+      "confidence": 1.0
+    }
+  ],
+  "uncertainties": [
+    {
+      "item": "“孔席不暖，墨突不黔，释迦割臂饲鹰，基督钉十字架替人赎罪”这一例证中，孔子、墨子、释迦、基督的具体身份是否应分别标为人物实体",
+      "reason": "文本中未直接出现孔子、墨子、释迦、基督的名字，而是以“孔”“墨”“释迦”“基督”指代，且“这四个人”的指代需结合常识判断"
+    },
+    {
+      "item": "“对手”的具体身份",
+      "reason": "文本中引用了“人类活历史，却什有八九从这种神秘中创造出来”这一观点，但未指明该观点的持有者是谁"
+    }
+  ]
+}

@@ -1,0 +1,367 @@
+{
+  "metadata": {
+    "schema_version": "lite_v3.0",
+    "article_id": "胡适_000_993249d7",
+    "article_title": "序二",
+    "source_author": "胡适",
+    "section_title": "",
+    "section_author": "",
+    "segment_id": "胡适_000_993249d7_s0009",
+    "segment_index": 9,
+    "source_file": "E:\\1研究生\\岭南大学\\论文毕业\\capstone\\资料\\新的内容开始了\\local_upload\\input_胡适\\胡适.txt"
+  },
+  "entities": [
+    {
+      "id": "e1",
+      "name": "科学家的人生观",
+      "canonical_name": "科学家的人生观",
+      "type": "概念",
+      "evidence": "他们对于那科学家的人生观还不能像吴稚晖先生那样明显坚决的信仰",
+      "confidence": 0.9
+    },
+    {
+      "id": "e2",
+      "name": "吴稚晖",
+      "canonical_name": "吴稚晖",
+      "type": "人物",
+      "evidence": "吴稚晖先生",
+      "confidence": 1.0
+    },
+    {
+      "id": "e3",
+      "name": "陈独秀",
+      "canonical_name": "陈独秀",
+      "type": "人物",
+      "evidence": "陈独秀先生的序里也有一段话",
+      "confidence": 1.0
+    },
+    {
+      "id": "e4",
+      "name": "丁在君",
+      "canonical_name": "丁在君",
+      "type": "人物",
+      "evidence": "对于作战的先锋大将丁在君先生表示不满意",
+      "confidence": 1.0
+    },
+    {
+      "id": "e5",
+      "name": "存疑的唯心论",
+      "canonical_name": "存疑的唯心论",
+      "type": "概念",
+      "evidence": "他（丁先生）自号存疑的唯心论",
+      "confidence": 0.9
+    },
+    {
+      "id": "e6",
+      "name": "赫胥黎",
+      "canonical_name": "赫胥黎",
+      "type": "人物",
+      "evidence": "沿袭了赫胥黎、斯宾塞诸人的谬误",
+      "confidence": 1.0
+    },
+    {
+      "id": "e7",
+      "name": "斯宾塞",
+      "canonical_name": "斯宾塞",
+      "type": "人物",
+      "evidence": "沿袭了赫胥黎、斯宾塞诸人的谬误",
+      "confidence": 1.0
+    },
+    {
+      "id": "e8",
+      "name": "张君劢",
+      "canonical_name": "张君劢",
+      "type": "人物",
+      "evidence": "此所以张君劢说",
+      "confidence": 1.0
+    },
+    {
+      "id": "e9",
+      "name": "玄学家",
+      "canonical_name": "玄学家",
+      "type": "阵营/群体",
+      "evidence": "且让玄学家来解疑",
+      "confidence": 0.9
+    },
+    {
+      "id": "e10",
+      "name": "科学家",
+      "canonical_name": "科学家",
+      "type": "阵营/群体",
+      "evidence": "科学家站开",
+      "confidence": 0.9
+    },
+    {
+      "id": "e11",
+      "name": "存疑主义",
+      "canonical_name": "存疑主义",
+      "type": "主义/学说/理论",
+      "evidence": "关于存疑主义的积极的精神",
+      "confidence": 0.9
+    },
+    {
+      "id": "e12",
+      "name": "在君",
+      "canonical_name": "在君",
+      "type": "人物",
+      "evidence": "在君自己也曾有明白的声明",
+      "confidence": 1.0
+    },
+    {
+      "id": "e13",
+      "name": "《答张君劢》",
+      "canonical_name": "《答张君劢》",
+      "type": "文章",
+      "evidence": "（《答张君劢》，页二一一二三。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e14",
+      "name": "无神论者",
+      "canonical_name": "无神论者",
+      "type": "阵营/群体",
+      "evidence": "明明是无神论者也不得不挂一个“存疑”的招牌",
+      "confidence": 0.9
+    }
+  ],
+  "claims": [
+    {
+      "id": "c1",
+      "speaker": "胡适",
+      "claim": "这一点确是这一次大论争的一个绝大的弱点",
+      "target": "对于那科学家的人生观还不能像吴稚晖先生那样明显坚决的信仰",
+      "claim_type": "评价性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "这一点确是这一次大论争的一个绝大的弱点",
+      "confidence": 0.9
+    },
+    {
+      "id": "c2",
+      "speaker": "胡适",
+      "claim": "若没有吴老先生把他的“漆黑一团”的宇宙观和“人欲横流”的人生观提出来做个押阵大将，这一场大战争真成了一场混战，只闹得个一哄散场",
+      "target": "吴稚晖的宇宙观和人生观",
+      "claim_type": "因果主张",
+      "claim_status": "作者推论",
+      "polarity": "positive",
+      "evidence": "若没有吴老先生把他的“漆黑一团”的宇宙观和“人欲横流”的人生观提出来做个押阵大将，这一场大战争真成了一场混战，只闹得个一哄散场",
+      "confidence": 0.9
+    },
+    {
+      "id": "c3",
+      "speaker": "陈独秀",
+      "claim": "他（丁先生）自号存疑的唯心论，这是沿袭了赫胥黎、斯宾塞诸人的谬误",
+      "target": "丁在君的存疑的唯心论",
+      "claim_type": "评价性主张",
+      "claim_status": "间接转述",
+      "polarity": "negative",
+      "evidence": "他（丁先生）自号存疑的唯心论，这是沿袭了赫胥黎、斯宾塞诸人的谬误",
+      "confidence": 0.9
+    },
+    {
+      "id": "c4",
+      "speaker": "陈独秀",
+      "claim": "你既承认宇宙间有不可知的部分而存疑，科学家站开，且让玄学家来解疑",
+      "target": "丁在君的存疑态度",
+      "claim_type": "反驳性主张",
+      "claim_status": "间接转述",
+      "polarity": "negative",
+      "evidence": "你既承认宇宙间有不可知的部分而存疑，科学家站开，且让玄学家来解疑",
+      "confidence": 0.9
+    },
+    {
+      "id": "c5",
+      "speaker": "陈独秀",
+      "claim": "我们对于未发见的物质固然可以存疑，而对于超物质而独立存在并且可以支配物质的什么心（心即是物之一种表现），什么神灵与上帝，我们已无疑可存了",
+      "target": "存疑的范围",
+      "claim_type": "定义性主张",
+      "claim_status": "间接转述",
+      "polarity": "positive",
+      "evidence": "其实我们对于未发见的物质固然可以存疑，而对于超物质而独立存在并且可以支配物质的什么心（心即是物之一种表现），什么神灵与上帝，我们已无疑可存了",
+      "confidence": 0.9
+    },
+    {
+      "id": "c6",
+      "speaker": "陈独秀",
+      "claim": "说我们武断也好，说我们专制也好，若无证据给我们看，我们断然不能抛弃我们的信仰",
+      "target": "反对者",
+      "claim_type": "回应性主张",
+      "claim_status": "间接转述",
+      "polarity": "positive",
+      "evidence": "说我们武断也好，说我们专制也好，若无证据给我们看，我们断然不能抛弃我们的信仰",
+      "confidence": 0.9
+    },
+    {
+      "id": "c7",
+      "speaker": "胡适",
+      "claim": "关于存疑主义的积极的精神，在君自己也曾有明白的声明",
+      "target": "存疑主义的积极精神",
+      "claim_type": "描述性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "关于存疑主义的积极的精神，在君自己也曾有明白的声明",
+      "confidence": 0.9
+    },
+    {
+      "id": "c8",
+      "speaker": "胡适",
+      "claim": "“拿证据来！”一句话确然是有积极精神的",
+      "target": "“拿证据来！”",
+      "claim_type": "评价性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "“拿证据来！”一句话确然是有积极精神的",
+      "confidence": 0.9
+    },
+    {
+      "id": "c9",
+      "speaker": "胡适",
+      "claim": "赫胥黎等在当用这种武器时，究竟还只是消极的防御居多",
+      "target": "赫胥黎等使用“拿证据来”的方式",
+      "claim_type": "评价性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "但赫胥黎等在当用这种武器时，究竟还只是消极的防御居多",
+      "confidence": 0.9
+    },
+    {
+      "id": "c10",
+      "speaker": "胡适",
+      "claim": "在十九世纪的英国，在那宗教的权威不曾打破的时代，明明是无神论者也不得不挂一个“存疑”的招牌",
+      "target": "无神论者",
+      "claim_type": "描述性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "在十九世纪的英国，在那宗教的权威不曾打破的时代，明明是无神论者也不得不挂一个“存疑”的招牌",
+      "confidence": 0.9
+    }
+  ],
+  "relations": [
+    {
+      "id": "r1",
+      "head": "胡适",
+      "head_type": "人物",
+      "relation": "相关",
+      "relation_subtype": "部分肯定",
+      "tail": "“拿证据来！”",
+      "tail_type": "观点",
+      "polarity": "positive",
+      "stance_score": 0.7,
+      "intensity": 0.6,
+      "evidence": "“拿证据来！”一句话确然是有积极精神的",
+      "confidence": 0.9
+    },
+    {
+      "id": "r2",
+      "head": "胡适",
+      "head_type": "人物",
+      "relation": "相关",
+      "relation_subtype": "一般批评",
+      "tail": "丁在君",
+      "tail_type": "人物",
+      "polarity": "negative",
+      "stance_score": -0.5,
+      "intensity": 0.4,
+      "evidence": "对于作战的先锋大将丁在君先生表示不满意",
+      "confidence": 0.9
+    }
+  ],
+  "definitions": [
+    {
+      "id": "def1",
+      "term": "存疑的唯心论",
+      "definition": "丁在君自号的一种理论，被陈独秀批评为沿袭赫胥黎、斯宾塞的谬误",
+      "evidence": "他（丁先生）自号存疑的唯心论，这是沿袭了赫胥黎、斯宾塞诸人的谬误",
+      "confidence": 0.8
+    }
+  ],
+  "citations": [
+    {
+      "id": "cit1",
+      "citer": "陈独秀",
+      "quoted_author": "丁在君",
+      "quoted_work": "",
+      "quoted_claim": "自号存疑的唯心论",
+      "function": "作为批评对象",
+      "evidence": "他（丁先生）自号存疑的唯心论",
+      "confidence": 0.9
+    },
+    {
+      "id": "cit2",
+      "citer": "胡适",
+      "quoted_author": "在君",
+      "quoted_work": "《答张君劢》",
+      "quoted_claim": "关于存疑主义的积极的精神",
+      "function": "援引权威支持",
+      "evidence": "关于存疑主义的积极的精神，在君自己也曾有明白的声明。（《答张君劢》，页二一一二三。",
+      "confidence": 0.9
+    }
+  ],
+  "rhetorical_devices": [
+    {
+      "id": "rh1",
+      "expression": "押阵大将",
+      "device_type": "比喻",
+      "literal_target": "吴稚晖的宇宙观和人生观",
+      "function": "强调吴稚晖观点在论争中的关键作用",
+      "evidence": "若没有吴老先生把他的“漆黑一团”的宇宙观和“人欲横流”的人生观提出来做个押阵大将",
+      "confidence": 0.9
+    },
+    {
+      "id": "rh2",
+      "expression": "混战",
+      "device_type": "比喻",
+      "literal_target": "大论争",
+      "function": "形容论争缺乏明确方向和核心观点",
+      "evidence": "这一场大战争真成了一场混战",
+      "confidence": 0.9
+    },
+    {
+      "id": "rh3",
+      "expression": "一哄散场",
+      "device_type": "比喻",
+      "literal_target": "论争的结局",
+      "function": "形容论争无果而终",
+      "evidence": "只闹得个一哄散场",
+      "confidence": 0.9
+    },
+    {
+      "id": "rh4",
+      "expression": "挂一个“存疑”的招牌",
+      "device_type": "比喻",
+      "literal_target": "无神论者使用存疑主义作为掩饰",
+      "function": "说明存疑主义在当时被用作策略性标签",
+      "evidence": "明明是无神论者也不得不挂一个“存疑”的招牌",
+      "confidence": 0.9
+    }
+  ],
+  "uncertainties": [
+    {
+      "item": "陈独秀的序中是否直接引用丁在君的话",
+      "reason": "文本中陈独秀的引文是间接转述，未明确标注直接引用"
+    },
+    {
+      "item": "“赫胥黎等在当用这种武器时”中的“武器”具体指什么",
+      "reason": "前文提到“拿证据来”，但此处未明确说明"
+    }
+  ],
+  "_meta": {
+    "status": "success",
+    "stage": "extract",
+    "model": "deepseek-ai/DeepSeek-V4-Flash",
+    "base_url": "https://api.siliconflow.cn/v1",
+    "prompt_version": "v2.0",
+    "schema_version": "lite_v3.0",
+    "segment_id": "胡适_000_993249d7_s0009",
+    "article_id": "胡适_000_993249d7",
+    "char_start": 4507,
+    "char_end": 5049,
+    "raw_path": "E:\\1研究生\\岭南大学\\论文毕业\\capstone\\资料\\新的内容开始了\\local_upload\\kg_runs_v2\\胡适\\raw_outputs\\extract\\胡适_000_993249d7_s0009.txt",
+    "parsed_at": "2026-05-21T22:04:30",
+    "started_at": "2026-05-21T21:55:41",
+    "elapsed_seconds": 528.392,
+    "strict_evidence_check": true,
+    "drop_unsupported_evidence": true,
+    "request_timeout_seconds": 180
+  }
+}

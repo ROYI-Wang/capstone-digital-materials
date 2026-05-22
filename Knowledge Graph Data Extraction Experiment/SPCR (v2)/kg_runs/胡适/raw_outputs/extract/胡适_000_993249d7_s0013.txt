@@ -1,0 +1,764 @@
+{
+  "metadata": {
+    "schema_version": "lite_v3.0",
+    "article_id": "胡适_000_993249d7",
+    "article_title": "序二",
+    "source_author": "胡适",
+    "section_title": "",
+    "section_author": "",
+    "segment_id": "胡适_000_993249d7_s0013",
+    "segment_index": 13,
+    "source_file": "E:\\1研究生\\岭南大学\\论文毕业\\capstone\\资料\\新的内容开始了\\local_upload\\input_胡适\\胡适.txt"
+  },
+  "entities": [
+    {
+      "id": "e1",
+      "name": "上帝",
+      "canonical_name": "上帝",
+      "type": "概念",
+      "evidence": "开除了上帝的名额，放逐了精神元素的灵魂",
+      "confidence": 1.0
+    },
+    {
+      "id": "e2",
+      "name": "精神元素",
+      "canonical_name": "精神元素",
+      "type": "概念",
+      "evidence": "放逐了精神元素的灵魂",
+      "confidence": 1.0
+    },
+    {
+      "id": "e3",
+      "name": "灵魂",
+      "canonical_name": "灵魂",
+      "type": "概念",
+      "evidence": "放逐了精神元素的灵魂",
+      "confidence": 1.0
+    },
+    {
+      "id": "e4",
+      "name": "动植物",
+      "canonical_name": "动植物",
+      "type": "概念",
+      "evidence": "我以为动植物且本无感觉，皆止有其质力交推，有其辐射反应，如是而已",
+      "confidence": 1.0
+    },
+    {
+      "id": "e5",
+      "name": "感觉",
+      "canonical_name": "感觉",
+      "type": "概念",
+      "evidence": "我以为动植物且本无感觉",
+      "confidence": 1.0
+    },
+    {
+      "id": "e6",
+      "name": "质力交推",
+      "canonical_name": "质力交推",
+      "type": "概念",
+      "evidence": "皆止有其质力交推，有其辐射反应，如是而已",
+      "confidence": 1.0
+    },
+    {
+      "id": "e7",
+      "name": "辐射反应",
+      "canonical_name": "辐射反应",
+      "type": "概念",
+      "evidence": "有其辐射反应",
+      "confidence": 1.0
+    },
+    {
+      "id": "e8",
+      "name": "神经系",
+      "canonical_name": "神经系",
+      "type": "概念",
+      "evidence": "其质构而为如是之神经系，即其力生如是之反应",
+      "confidence": 1.0
+    },
+    {
+      "id": "e9",
+      "name": "情感",
+      "canonical_name": "情感",
+      "type": "概念",
+      "evidence": "所谓情感、思想、意志等等，就种种反应而强为之名",
+      "confidence": 1.0
+    },
+    {
+      "id": "e10",
+      "name": "思想",
+      "canonical_name": "思想",
+      "type": "概念",
+      "evidence": "所谓情感、思想、意志等等，就种种反应而强为之名",
+      "confidence": 1.0
+    },
+    {
+      "id": "e11",
+      "name": "意志",
+      "canonical_name": "意志",
+      "type": "概念",
+      "evidence": "所谓情感、思想、意志等等，就种种反应而强为之名",
+      "confidence": 1.0
+    },
+    {
+      "id": "e12",
+      "name": "心理",
+      "canonical_name": "心理",
+      "type": "概念",
+      "evidence": "美其名曰心理",
+      "confidence": 1.0
+    },
+    {
+      "id": "e13",
+      "name": "灵魂",
+      "canonical_name": "灵魂",
+      "type": "概念",
+      "evidence": "神其事曰灵魂",
+      "confidence": 1.0
+    },
+    {
+      "id": "e14",
+      "name": "质力之相应",
+      "canonical_name": "质力之相应",
+      "type": "概念",
+      "evidence": "其实统不过质力之相应",
+      "confidence": 1.0
+    },
+    {
+      "id": "e15",
+      "name": "人",
+      "canonical_name": "人",
+      "type": "概念",
+      "evidence": "人便是外面止剩两只脚，却得到了两只手，内面有三斤二两脑髓，五千零四十八根脑筋，比较占有多额神经系质的动物",
+      "confidence": 1.0
+    },
+    {
+      "id": "e16",
+      "name": "动物",
+      "canonical_name": "动物",
+      "type": "概念",
+      "evidence": "人便是外面止剩两只脚，却得到了两只手，内面有三斤二两脑髓，五千零四十八根脑筋，比较占有多额神经系质的动物",
+      "confidence": 1.0
+    },
+    {
+      "id": "e17",
+      "name": "生",
+      "canonical_name": "生",
+      "type": "概念",
+      "evidence": "生者，演之谓也，如是云尔",
+      "confidence": 1.0
+    },
+    {
+      "id": "e18",
+      "name": "演",
+      "canonical_name": "演",
+      "type": "概念",
+      "evidence": "生者，演之谓也",
+      "confidence": 1.0
+    },
+    {
+      "id": "e19",
+      "name": "人生",
+      "canonical_name": "人生",
+      "type": "概念",
+      "evidence": "所谓人生，便是用手用脑的一种动物，轮到‘宇宙大剧场’的第亿垓八京六兆五万七千幕，正在那里出台演唱",
+      "confidence": 1.0
+    },
+    {
+      "id": "e20",
+      "name": "宇宙大剧场",
+      "canonical_name": "宇宙大剧场",
+      "type": "比喻/类比",
+      "evidence": "所谓人生，便是用手用脑的一种动物，轮到‘宇宙大剧场’的第亿垓八京六兆五万七千幕，正在那里出台演唱",
+      "confidence": 1.0
+    },
+    {
+      "id": "e21",
+      "name": "新信仰的宇宙观及人生观",
+      "canonical_name": "新信仰的宇宙观及人生观",
+      "type": "观点",
+      "evidence": "他老先生五年的思想和讨论的结果，给我们这样一个“新信仰的宇宙观及人生观”",
+      "confidence": 1.0
+    },
+    {
+      "id": "e22",
+      "name": "机械主义",
+      "canonical_name": "机械主义",
+      "type": "主义/学说/理论",
+      "evidence": "他这个新信仰正是张君劢先生所谓“机械主义”",
+      "confidence": 1.0
+    },
+    {
+      "id": "e23",
+      "name": "纯物质的纯机械的人生观",
+      "canonical_name": "纯物质的纯机械的人生观",
+      "type": "观点",
+      "evidence": "正是梁任公先生所谓“纯物质的纯机械的人生观”",
+      "confidence": 1.0
+    },
+    {
+      "id": "e24",
+      "name": "上帝",
+      "canonical_name": "上帝",
+      "type": "概念",
+      "evidence": "他一笔勾销了上帝",
+      "confidence": 1.0
+    },
+    {
+      "id": "e25",
+      "name": "灵魂",
+      "canonical_name": "灵魂",
+      "type": "概念",
+      "evidence": "抹煞了灵魂",
+      "confidence": 1.0
+    },
+    {
+      "id": "e26",
+      "name": "人为万物之灵",
+      "canonical_name": "人为万物之灵",
+      "type": "观点",
+      "evidence": "戳穿了“人为万物之灵”的玄秘",
+      "confidence": 1.0
+    },
+    {
+      "id": "e27",
+      "name": "两手动物演戏",
+      "canonical_name": "两手动物演戏",
+      "type": "比喻/类比",
+      "evidence": "我们要看那些信仰人生的神秘的人们出来向这“两手动物演戏”的人生观作战",
+      "confidence": 1.0
+    },
+    {
+      "id": "e28",
+      "name": "人生观",
+      "canonical_name": "人生观",
+      "type": "观点",
+      "evidence": "我们要看那些信仰人生的神秘的人们出来向这“两手动物演戏”的人生观作战",
+      "confidence": 1.0
+    },
+    {
+      "id": "e29",
+      "name": "张君劢",
+      "canonical_name": "张君劢",
+      "type": "人物",
+      "evidence": "他这个新信仰正是张君劢先生所谓“机械主义”",
+      "confidence": 1.0
+    },
+    {
+      "id": "e30",
+      "name": "梁任公",
+      "canonical_name": "梁任公",
+      "type": "人物",
+      "evidence": "正是梁任公先生所谓“纯物质的纯机械的人生观”",
+      "confidence": 1.0
+    },
+    {
+      "id": "e31",
+      "name": "吴老先生",
+      "canonical_name": "吴老先生",
+      "type": "人物",
+      "evidence": "我们要看那些信仰上帝的人们出来替上帝向吴老先生作战",
+      "confidence": 1.0
+    },
+    {
+      "id": "e32",
+      "name": "信仰上帝的人们",
+      "canonical_name": "信仰上帝的人们",
+      "type": "阵营/群体",
+      "evidence": "我们要看那些信仰上帝的人们出来替上帝向吴老先生作战",
+      "confidence": 1.0
+    },
+    {
+      "id": "e33",
+      "name": "信仰灵魂的人们",
+      "canonical_name": "信仰灵魂的人们",
+      "type": "阵营/群体",
+      "evidence": "我们要看那些信仰灵魂的人们出来替灵魂向吴老先生作战",
+      "confidence": 1.0
+    },
+    {
+      "id": "e34",
+      "name": "信仰人生的神秘的人们",
+      "canonical_name": "信仰人生的神秘的人们",
+      "type": "阵营/群体",
+      "evidence": "我们要看那些信仰人生的神秘的人们出来向这“两手动物演戏”的人生观作战",
+      "confidence": 1.0
+    }
+  ],
+  "claims": [
+    {
+      "id": "c1",
+      "speaker": "吴老先生",
+      "claim": "开除了上帝的名额，放逐了精神元素的灵魂",
+      "target": "",
+      "claim_type": "描述性主张",
+      "claim_status": "直接引用",
+      "polarity": "negative",
+      "evidence": "开除了上帝的名额，放逐了精神元素的灵魂",
+      "confidence": 1.0
+    },
+    {
+      "id": "c2",
+      "speaker": "吴老先生",
+      "claim": "我以为动植物且本无感觉，皆止有其质力交推，有其辐射反应，如是而已",
+      "target": "",
+      "claim_type": "描述性主张",
+      "claim_status": "直接引用",
+      "polarity": "negative",
+      "evidence": "我以为动植物且本无感觉，皆止有其质力交推，有其辐射反应，如是而已",
+      "confidence": 1.0
+    },
+    {
+      "id": "c3",
+      "speaker": "吴老先生",
+      "claim": "所谓情感、思想、意志等等，就种种反应而强为之名，美其名曰心理，神其事曰灵魂，质直言之曰感觉，其实统不过质力之相应",
+      "target": "",
+      "claim_type": "定义性主张",
+      "claim_status": "直接引用",
+      "polarity": "negative",
+      "evidence": "所谓情感、思想、意志等等，就种种反应而强为之名，美其名曰心理，神其事曰灵魂，质直言之曰感觉，其实统不过质力之相应",
+      "confidence": 1.0
+    },
+    {
+      "id": "c4",
+      "speaker": "吴老先生",
+      "claim": "人便是外面止剩两只脚，却得到了两只手，内面有三斤二两脑髓，五千零四十八根脑筋，比较占有多额神经系质的动物",
+      "target": "",
+      "claim_type": "定义性主张",
+      "claim_status": "直接引用",
+      "polarity": "negative",
+      "evidence": "人便是外面止剩两只脚，却得到了两只手，内面有三斤二两脑髓，五千零四十八根脑筋，比较占有多额神经系质的动物",
+      "confidence": 1.0
+    },
+    {
+      "id": "c5",
+      "speaker": "吴老先生",
+      "claim": "生者，演之谓也，如是云尔",
+      "target": "",
+      "claim_type": "定义性主张",
+      "claim_status": "直接引用",
+      "polarity": "neutral",
+      "evidence": "生者，演之谓也，如是云尔",
+      "confidence": 1.0
+    },
+    {
+      "id": "c6",
+      "speaker": "吴老先生",
+      "claim": "所谓人生，便是用手用脑的一种动物，轮到‘宇宙大剧场’的第亿垓八京六兆五万七千幕，正在那里出台演唱",
+      "target": "",
+      "claim_type": "定义性主张",
+      "claim_status": "直接引用",
+      "polarity": "negative",
+      "evidence": "所谓人生，便是用手用脑的一种动物，轮到‘宇宙大剧场’的第亿垓八京六兆五万七千幕，正在那里出台演唱",
+      "confidence": 1.0
+    },
+    {
+      "id": "c7",
+      "speaker": "胡适",
+      "claim": "他老先生五年的思想和讨论的结果，给我们这样一个“新信仰的宇宙观及人生观”",
+      "target": "吴老先生",
+      "claim_type": "描述性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "他老先生五年的思想和讨论的结果，给我们这样一个“新信仰的宇宙观及人生观”",
+      "confidence": 1.0
+    },
+    {
+      "id": "c8",
+      "speaker": "张君劢",
+      "claim": "他这个新信仰正是张君劢先生所谓“机械主义”",
+      "target": "吴老先生",
+      "claim_type": "评价性主张",
+      "claim_status": "间接转述",
+      "polarity": "negative",
+      "evidence": "他这个新信仰正是张君劢先生所谓“机械主义”",
+      "confidence": 1.0
+    },
+    {
+      "id": "c9",
+      "speaker": "梁任公",
+      "claim": "正是梁任公先生所谓“纯物质的纯机械的人生观”",
+      "target": "吴老先生",
+      "claim_type": "评价性主张",
+      "claim_status": "间接转述",
+      "polarity": "negative",
+      "evidence": "正是梁任公先生所谓“纯物质的纯机械的人生观”",
+      "confidence": 1.0
+    },
+    {
+      "id": "c10",
+      "speaker": "胡适",
+      "claim": "他一笔勾销了上帝，抹煞了灵魂，戳穿了“人为万物之灵”的玄秘",
+      "target": "吴老先生",
+      "claim_type": "描述性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "他一笔勾销了上帝，抹煞了灵魂，戳穿了“人为万物之灵”的玄秘",
+      "confidence": 1.0
+    },
+    {
+      "id": "c11",
+      "speaker": "胡适",
+      "claim": "这才是真正的挑战",
+      "target": "吴老先生",
+      "claim_type": "评价性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "这才是真正的挑战",
+      "confidence": 1.0
+    },
+    {
+      "id": "c12",
+      "speaker": "胡适",
+      "claim": "我们要看那些信仰上帝的人们出来替上帝向吴老先生作战",
+      "target": "信仰上帝的人们",
+      "claim_type": "回应性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "我们要看那些信仰上帝的人们出来替上帝向吴老先生作战",
+      "confidence": 1.0
+    },
+    {
+      "id": "c13",
+      "speaker": "胡适",
+      "claim": "我们要看那些信仰灵魂的人们出来替灵魂向吴老先生作战",
+      "target": "信仰灵魂的人们",
+      "claim_type": "回应性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "我们要看那些信仰灵魂的人们出来替灵魂向吴老先生作战",
+      "confidence": 1.0
+    },
+    {
+      "id": "c14",
+      "speaker": "胡适",
+      "claim": "我们要看那些信仰人生的神秘的人们出来向这“两手动物演戏”的人生观作战",
+      "target": "信仰人生的神秘的人们",
+      "claim_type": "回应性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "我们要看那些信仰人生的神秘的人们出来向这“两手动物演戏”的人生观作战",
+      "confidence": 1.0
+    }
+  ],
+  "relations": [
+    {
+      "id": "r1",
+      "head": "吴老先生",
+      "head_type": "人物",
+      "relation": "主张",
+      "relation_subtype": "不适用",
+      "tail": "开除了上帝的名额，放逐了精神元素的灵魂",
+      "tail_type": "观点",
+      "polarity": "negative",
+      "stance_score": -1.0,
+      "intensity": 0.8,
+      "evidence": "开除了上帝的名额，放逐了精神元素的灵魂",
+      "confidence": 1.0
+    },
+    {
+      "id": "r2",
+      "head": "吴老先生",
+      "head_type": "人物",
+      "relation": "主张",
+      "relation_subtype": "不适用",
+      "tail": "我以为动植物且本无感觉，皆止有其质力交推，有其辐射反应，如是而已",
+      "tail_type": "观点",
+      "polarity": "negative",
+      "stance_score": -1.0,
+      "intensity": 0.8,
+      "evidence": "我以为动植物且本无感觉，皆止有其质力交推，有其辐射反应，如是而已",
+      "confidence": 1.0
+    },
+    {
+      "id": "r3",
+      "head": "吴老先生",
+      "head_type": "人物",
+      "relation": "主张",
+      "relation_subtype": "不适用",
+      "tail": "所谓情感、思想、意志等等，就种种反应而强为之名，美其名曰心理，神其事曰灵魂，质直言之曰感觉，其实统不过质力之相应",
+      "tail_type": "观点",
+      "polarity": "negative",
+      "stance_score": -1.0,
+      "intensity": 0.8,
+      "evidence": "所谓情感、思想、意志等等，就种种反应而强为之名，美其名曰心理，神其事曰灵魂，质直言之曰感觉，其实统不过质力之相应",
+      "confidence": 1.0
+    },
+    {
+      "id": "r4",
+      "head": "吴老先生",
+      "head_type": "人物",
+      "relation": "主张",
+      "relation_subtype": "不适用",
+      "tail": "人便是外面止剩两只脚，却得到了两只手，内面有三斤二两脑髓，五千零四十八根脑筋，比较占有多额神经系质的动物",
+      "tail_type": "观点",
+      "polarity": "negative",
+      "stance_score": -1.0,
+      "intensity": 0.8,
+      "evidence": "人便是外面止剩两只脚，却得到了两只手，内面有三斤二两脑髓，五千零四十八根脑筋，比较占有多额神经系质的动物",
+      "confidence": 1.0
+    },
+    {
+      "id": "r5",
+      "head": "吴老先生",
+      "head_type": "人物",
+      "relation": "主张",
+      "relation_subtype": "不适用",
+      "tail": "生者，演之谓也，如是云尔",
+      "tail_type": "观点",
+      "polarity": "neutral",
+      "stance_score": 0.0,
+      "intensity": 0.5,
+      "evidence": "生者，演之谓也，如是云尔",
+      "confidence": 1.0
+    },
+    {
+      "id": "r6",
+      "head": "吴老先生",
+      "head_type": "人物",
+      "relation": "主张",
+      "relation_subtype": "不适用",
+      "tail": "所谓人生，便是用手用脑的一种动物，轮到‘宇宙大剧场’的第亿垓八京六兆五万七千幕，正在那里出台演唱",
+      "tail_type": "观点",
+      "polarity": "negative",
+      "stance_score": -1.0,
+      "intensity": 0.8,
+      "evidence": "所谓人生，便是用手用脑的一种动物，轮到‘宇宙大剧场’的第亿垓八京六兆五万七千幕，正在那里出台演唱",
+      "confidence": 1.0
+    },
+    {
+      "id": "r7",
+      "head": "胡适",
+      "head_type": "人物",
+      "relation": "评价",
+      "relation_subtype": "一般批评",
+      "tail": "吴老先生",
+      "tail_type": "人物",
+      "polarity": "positive",
+      "stance_score": 0.8,
+      "intensity": 0.7,
+      "evidence": "这才是真正的挑战",
+      "confidence": 1.0
+    },
+    {
+      "id": "r8",
+      "head": "张君劢",
+      "head_type": "人物",
+      "relation": "评价",
+      "relation_subtype": "一般批评",
+      "tail": "吴老先生",
+      "tail_type": "人物",
+      "polarity": "negative",
+      "stance_score": -0.8,
+      "intensity": 0.7,
+      "evidence": "他这个新信仰正是张君劢先生所谓“机械主义”",
+      "confidence": 1.0
+    },
+    {
+      "id": "r9",
+      "head": "梁任公",
+      "head_type": "人物",
+      "relation": "评价",
+      "relation_subtype": "一般批评",
+      "tail": "吴老先生",
+      "tail_type": "人物",
+      "polarity": "negative",
+      "stance_score": -0.8,
+      "intensity": 0.7,
+      "evidence": "正是梁任公先生所谓“纯物质的纯机械的人生观”",
+      "confidence": 1.0
+    },
+    {
+      "id": "r10",
+      "head": "胡适",
+      "head_type": "人物",
+      "relation": "回应",
+      "relation_subtype": "不适用",
+      "tail": "信仰上帝的人们",
+      "tail_type": "阵营/群体",
+      "polarity": "neutral",
+      "stance_score": 0.0,
+      "intensity": 0.5,
+      "evidence": "我们要看那些信仰上帝的人们出来替上帝向吴老先生作战",
+      "confidence": 1.0
+    },
+    {
+      "id": "r11",
+      "head": "胡适",
+      "head_type": "人物",
+      "relation": "回应",
+      "relation_subtype": "不适用",
+      "tail": "信仰灵魂的人们",
+      "tail_type": "阵营/群体",
+      "polarity": "neutral",
+      "stance_score": 0.0,
+      "intensity": 0.5,
+      "evidence": "我们要看那些信仰灵魂的人们出来替灵魂向吴老先生作战",
+      "confidence": 1.0
+    },
+    {
+      "id": "r12",
+      "head": "胡适",
+      "head_type": "人物",
+      "relation": "回应",
+      "relation_subtype": "不适用",
+      "tail": "信仰人生的神秘的人们",
+      "tail_type": "阵营/群体",
+      "polarity": "neutral",
+      "stance_score": 0.0,
+      "intensity": 0.5,
+      "evidence": "我们要看那些信仰人生的神秘的人们出来向这“两手动物演戏”的人生观作战",
+      "confidence": 1.0
+    }
+  ],
+  "definitions": [
+    {
+      "id": "def1",
+      "term": "感觉",
+      "definition": "情感、思想、意志等，就种种反应而强为之名，其实统不过质力之相应",
+      "evidence": "所谓情感、思想、意志等等，就种种反应而强为之名，美其名曰心理，神其事曰灵魂，质直言之曰感觉，其实统不过质力之相应",
+      "confidence": 1.0
+    },
+    {
+      "id": "def2",
+      "term": "人",
+      "definition": "外面止剩两只脚，却得到了两只手，内面有三斤二两脑髓，五千零四十八根脑筋，比较占有多额神经系质的动物",
+      "evidence": "人便是外面止剩两只脚，却得到了两只手，内面有三斤二两脑髓，五千零四十八根脑筋，比较占有多额神经系质的动物",
+      "confidence": 1.0
+    },
+    {
+      "id": "def3",
+      "term": "生",
+      "definition": "演之谓也",
+      "evidence": "生者，演之谓也，如是云尔",
+      "confidence": 1.0
+    },
+    {
+      "id": "def4",
+      "term": "人生",
+      "definition": "用手用脑的一种动物，轮到‘宇宙大剧场’的第亿垓八京六兆五万七千幕，正在那里出台演唱",
+      "evidence": "所谓人生，便是用手用脑的一种动物，轮到‘宇宙大剧场’的第亿垓八京六兆五万七千幕，正在那里出台演唱",
+      "confidence": 1.0
+    }
+  ],
+  "citations": [
+    {
+      "id": "cit1",
+      "citer": "胡适",
+      "quoted_author": "吴老先生",
+      "quoted_work": "",
+      "quoted_claim": "开除了上帝的名额，放逐了精神元素的灵魂",
+      "function": "作为批评对象",
+      "evidence": "开除了上帝的名额，放逐了精神元素的灵魂",
+      "confidence": 1.0
+    },
+    {
+      "id": "cit2",
+      "citer": "胡适",
+      "quoted_author": "吴老先生",
+      "quoted_work": "",
+      "quoted_claim": "我以为动植物且本无感觉，皆止有其质力交推，有其辐射反应，如是而已",
+      "function": "作为批评对象",
+      "evidence": "我以为动植物且本无感觉，皆止有其质力交推，有其辐射反应，如是而已",
+      "confidence": 1.0
+    },
+    {
+      "id": "cit3",
+      "citer": "胡适",
+      "quoted_author": "吴老先生",
+      "quoted_work": "",
+      "quoted_claim": "所谓情感、思想、意志等等，就种种反应而强为之名，美其名曰心理，神其事曰灵魂，质直言之曰感觉，其实统不过质力之相应",
+      "function": "作为批评对象",
+      "evidence": "所谓情感、思想、意志等等，就种种反应而强为之名，美其名曰心理，神其事曰灵魂，质直言之曰感觉，其实统不过质力之相应",
+      "confidence": 1.0
+    },
+    {
+      "id": "cit4",
+      "citer": "胡适",
+      "quoted_author": "吴老先生",
+      "quoted_work": "",
+      "quoted_claim": "人便是外面止剩两只脚，却得到了两只手，内面有三斤二两脑髓，五千零四十八根脑筋，比较占有多额神经系质的动物",
+      "function": "作为批评对象",
+      "evidence": "人便是外面止剩两只脚，却得到了两只手，内面有三斤二两脑髓，五千零四十八根脑筋，比较占有多额神经系质的动物",
+      "confidence": 1.0
+    },
+    {
+      "id": "cit5",
+      "citer": "胡适",
+      "quoted_author": "吴老先生",
+      "quoted_work": "",
+      "quoted_claim": "生者，演之谓也，如是云尔",
+      "function": "作为批评对象",
+      "evidence": "生者，演之谓也，如是云尔",
+      "confidence": 1.0
+    },
+    {
+      "id": "cit6",
+      "citer": "胡适",
+      "quoted_author": "吴老先生",
+      "quoted_work": "",
+      "quoted_claim": "所谓人生，便是用手用脑的一种动物，轮到‘宇宙大剧场’的第亿垓八京六兆五万七千幕，正在那里出台演唱",
+      "function": "作为批评对象",
+      "evidence": "所谓人生，便是用手用脑的一种动物，轮到‘宇宙大剧场’的第亿垓八京六兆五万七千幕，正在那里出台演唱",
+      "confidence": 1.0
+    },
+    {
+      "id": "cit7",
+      "citer": "胡适",
+      "quoted_author": "张君劢",
+      "quoted_work": "",
+      "quoted_claim": "机械主义",
+      "function": "援引权威反驳",
+      "evidence": "他这个新信仰正是张君劢先生所谓“机械主义”",
+      "confidence": 1.0
+    },
+    {
+      "id": "cit8",
+      "citer": "胡适",
+      "quoted_author": "梁任公",
+      "quoted_work": "",
+      "quoted_claim": "纯物质的纯机械的人生观",
+      "function": "援引权威反驳",
+      "evidence": "正是梁任公先生所谓“纯物质的纯机械的人生观”",
+      "confidence": 1.0
+    }
+  ],
+  "rhetorical_devices": [
+    {
+      "id": "rh1",
+      "expression": "开除了上帝的名额，放逐了精神元素的灵魂",
+      "device_type": "比喻",
+      "literal_target": "否定上帝和精神元素的存在",
+      "function": "形象化地表达吴老先生的唯物主义观点",
+      "evidence": "开除了上帝的名额，放逐了精神元素的灵魂",
+      "confidence": 1.0
+    },
+    {
+      "id": "rh2",
+      "expression": "宇宙大剧场",
+      "device_type": "比喻",
+      "literal_target": "宇宙",
+      "function": "将宇宙比作剧场，以说明人生的戏剧性",
+      "evidence": "所谓人生，便是用手用脑的一种动物，轮到‘宇宙大剧场’的第亿垓八京六兆五万七千幕，正在那里出台演唱",
+      "confidence": 1.0
+    },
+    {
+      "id": "rh3",
+      "expression": "两手动物演戏",
+      "device_type": "比喻",
+      "literal_target": "人生",
+      "function": "用比喻概括吴老先生的人生观，以激发反对者的回应",
+      "evidence": "我们要看那些信仰人生的神秘的人们出来向这“两手动物演戏”的人生观作战",
+      "confidence": 1.0
+    }
+  ],
+  "uncertainties": [
+    {
+      "item": "吴老先生的具体身份",
+      "reason": "文本中只出现'吴老先生'，未给出全名，无法确定具体人物"
+    },
+    {
+      "item": "张君劢和梁任公对吴老先生观点的具体态度",
+      "reason": "文本仅转述了他们的标签，未提供完整评价语境"
+    }
+  ]
+}

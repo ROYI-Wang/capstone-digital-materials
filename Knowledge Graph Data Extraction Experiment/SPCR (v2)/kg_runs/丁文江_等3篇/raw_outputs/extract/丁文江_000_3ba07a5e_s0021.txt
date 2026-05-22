@@ -1,0 +1,403 @@
+{
+  "metadata": {
+    "schema_version": "lite_v3.0",
+    "article_id": "丁文江_000_3ba07a5e",
+    "article_title": "玄学与科学 ——评张君劢的《人生观》",
+    "source_author": "丁文江",
+    "section_title": "",
+    "section_author": "",
+    "segment_id": "丁文江_000_3ba07a5e_s0021",
+    "segment_index": 21,
+    "source_file": "E:\\1研究生\\岭南大学\\论文毕业\\capstone\\资料\\新的内容开始了\\local_upload\\input_丁文江\\丁文江.txt"
+  },
+  "entities": [
+    {
+      "id": "e1",
+      "name": "信仰的宗教",
+      "canonical_name": "信仰的宗教",
+      "type": "概念",
+      "evidence": "信仰的宗教，无方法的哲学，被前清的科学经师费了九牛二虎之力，还不曾完全打倒",
+      "confidence": 0.9
+    },
+    {
+      "id": "e2",
+      "name": "无方法的哲学",
+      "canonical_name": "无方法的哲学",
+      "type": "概念",
+      "evidence": "信仰的宗教，无方法的哲学，被前清的科学经师费了九牛二虎之力，还不曾完全打倒",
+      "confidence": 0.9
+    },
+    {
+      "id": "e3",
+      "name": "前清的科学经师",
+      "canonical_name": "前清的科学经师",
+      "type": "阵营/群体",
+      "evidence": "被前清的科学经师费了九牛二虎之力，还不曾完全打倒",
+      "confidence": 0.9
+    },
+    {
+      "id": "e4",
+      "name": "欧洲玄学的余毒",
+      "canonical_name": "欧洲玄学的余毒",
+      "type": "概念",
+      "evidence": "不幸到了今日，欧洲玄学的余毒传染到中国来",
+      "confidence": 0.9
+    },
+    {
+      "id": "e5",
+      "name": "宋元明言心言性的余烬",
+      "canonical_name": "宋元明言心言性的余烬",
+      "type": "概念",
+      "evidence": "宋元明言心言性的余烬又有死灰复燃的样子了",
+      "confidence": 0.9
+    },
+    {
+      "id": "e6",
+      "name": "懒惰的人",
+      "canonical_name": "懒惰的人",
+      "type": "阵营/群体",
+      "evidence": "懒惰的人，不细心研究历史的实际，不肯睁开眼睛看看所谓“精神文明”究竟在什么地方",
+      "confidence": 0.9
+    },
+    {
+      "id": "e7",
+      "name": "所谓“精神文明”",
+      "canonical_name": "所谓“精神文明”",
+      "type": "概念",
+      "evidence": "不肯睁开眼睛看看所谓“精神文明”究竟在什么地方",
+      "confidence": 0.9
+    },
+    {
+      "id": "e8",
+      "name": "“经济史观”",
+      "canonical_name": "“经济史观”",
+      "type": "主义/学说/理论",
+      "evidence": "他们不肯承认所谓“经济史观”",
+      "confidence": 0.9
+    },
+    {
+      "id": "e9",
+      "name": "言心言性的玄学",
+      "canonical_name": "言心言性的玄学",
+      "type": "概念",
+      "evidence": "言心言性的玄学，“内心生活之修养”所以能这样哄动一般人",
+      "confidence": 0.9
+    },
+    {
+      "id": "e10",
+      "name": "“内心生活之修养”",
+      "canonical_name": "“内心生活之修养”",
+      "type": "概念",
+      "evidence": "言心言性的玄学，“内心生活之修养”所以能这样哄动一般人",
+      "confidence": 0.9
+    },
+    {
+      "id": "e11",
+      "name": "一班玄学崇拜者",
+      "canonical_name": "一班玄学崇拜者",
+      "type": "阵营/群体",
+      "evidence": "来形容今日一班玄学崇拜者的心理",
+      "confidence": 0.9
+    },
+    {
+      "id": "e12",
+      "name": "柏格森、杜里舒之玄学",
+      "canonical_name": "柏格森、杜里舒之玄学",
+      "type": "概念",
+      "evidence": "语之以柏格森、杜里舒之玄学，则欣然矣",
+      "confidence": 0.9
+    },
+    {
+      "id": "e13",
+      "name": "科学方法",
+      "canonical_name": "科学方法",
+      "type": "方法",
+      "evidence": "科学方法，我恐怕读者听厌了。我现在只举一个例来，使诸君知道科学与玄学的区别",
+      "confidence": 0.9
+    },
+    {
+      "id": "e14",
+      "name": "科学与玄学的区别",
+      "canonical_name": "科学与玄学的区别",
+      "type": "问题",
+      "evidence": "使诸君知道科学与玄学的区别",
+      "confidence": 0.9
+    },
+    {
+      "id": "e15",
+      "name": "张君劢讲男女问题",
+      "canonical_name": "张君劢讲男女问题",
+      "type": "观点",
+      "evidence": "张君劢讲男女问题，说“我国戏剧中十有七八不以男女恋爱为内容”",
+      "confidence": 0.9
+    },
+    {
+      "id": "e16",
+      "name": "顾亭林",
+      "canonical_name": "顾亭林",
+      "type": "人物",
+      "evidence": "顾亭林说的好",
+      "confidence": 0.9
+    },
+    {
+      "id": "e17",
+      "name": "胡适之",
+      "canonical_name": "胡适之",
+      "type": "人物",
+      "evidence": "我要引胡适之《五十年世界之哲学》上的一句话来做一个结论",
+      "confidence": 0.9
+    },
+    {
+      "id": "e18",
+      "name": "《五十年世界之哲学》",
+      "canonical_name": "《五十年世界之哲学》",
+      "type": "著作",
+      "evidence": "我要引胡适之《五十年世界之哲学》上的一句话来做一个结论",
+      "confidence": 0.9
+    }
+  ],
+  "claims": [
+    {
+      "id": "c1",
+      "speaker": "丁文江",
+      "claim": "信仰的宗教，无方法的哲学，被前清的科学经师费了九牛二虎之力，还不曾完全打倒",
+      "target": "信仰的宗教，无方法的哲学",
+      "claim_type": "描述性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "信仰的宗教，无方法的哲学，被前清的科学经师费了九牛二虎之力，还不曾完全打倒",
+      "confidence": 0.9
+    },
+    {
+      "id": "c2",
+      "speaker": "丁文江",
+      "claim": "欧洲玄学的余毒传染到中国来，宋元明言心言性的余烬又有死灰复燃的样子了",
+      "target": "欧洲玄学的余毒，宋元明言心言性的余烬",
+      "claim_type": "描述性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "不幸到了今日，欧洲玄学的余毒传染到中国来，宋元明言心言性的余烬又有死灰复燃的样子了",
+      "confidence": 0.9
+    },
+    {
+      "id": "c3",
+      "speaker": "丁文江",
+      "claim": "懒惰的人，不细心研究历史的实际，不肯睁开眼睛看看所谓“精神文明”究竟在什么地方，不肯想想世上可有单靠内心修养造成的“精神文明”",
+      "target": "懒惰的人",
+      "claim_type": "评价性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "懒惰的人，不细心研究历史的实际，不肯睁开眼睛看看所谓“精神文明”究竟在什么地方，不肯想想世上可有单靠内心修养造成的“精神文明”",
+      "confidence": 0.9
+    },
+    {
+      "id": "c4",
+      "speaker": "丁文江",
+      "claim": "他们不肯承认所谓“经济史观”，也还罢了，难道他们也忘记了那“衣食足而后知礼节，仓廪实而后知荣辱”的老话吗？",
+      "target": "懒惰的人",
+      "claim_type": "反驳性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "他们不肯承认所谓“经济史观”，也还罢了，难道他们也忘记了那“衣食足而后知礼节，仓廪实而后知荣辱”的老话吗？",
+      "confidence": 0.9
+    },
+    {
+      "id": "c5",
+      "speaker": "丁文江",
+      "claim": "言心言性的玄学，“内心生活之修养”所以能这样哄动一般人，都因为这种玄谈最合懒惰的心理，一切都靠内心，可以否认事实，可以否认论理与分析",
+      "target": "言心言性的玄学，“内心生活之修养”",
+      "claim_type": "因果主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "言心言性的玄学，“内心生活之修养”所以能这样哄动一般人，都因为这种玄谈最合懒惰的心理，一切都靠内心，可以否认事实，可以否认论理与分析",
+      "confidence": 0.9
+    },
+    {
+      "id": "c6",
+      "speaker": "顾亭林",
+      "claim": "躁竟之徒，欲速成以名于世，语之以五经，则不愿学；语之以白沙、阳明之语录，则欣然矣。以其袭而取之易也",
+      "target": "躁竟之徒",
+      "claim_type": "描述性主张",
+      "claim_status": "直接引用",
+      "polarity": "negative",
+      "evidence": "顾亭林说的好：“……躁竟之徒，欲速成以名于世，语之以五经，则不愿学；语之以白沙、阳明之语录，则欣然矣。以其袭而取之易也。”",
+      "confidence": 0.9
+    },
+    {
+      "id": "c7",
+      "speaker": "丁文江",
+      "claim": "今之君子，欲速成以名于世，语之以科学，则不愿学；语之以柏格森、杜里舒之玄学，则欣然矣。以其袭而取之易也",
+      "target": "今日一班玄学崇拜者",
+      "claim_type": "评价性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "我们也可套他的话，稍微改动几个字，来形容今日一班玄学崇拜者的心理：“今之君子，欲速成以名于世，语之以科学，则不愿学；语之以柏格森、杜里舒之玄学，则欣然矣。以其袭而取之易也。”",
+      "confidence": 0.9
+    },
+    {
+      "id": "c8",
+      "speaker": "胡适之",
+      "claim": "我们观察我们这个时代的要求，不能不承认人类今日最大的责任与需要是把科学方法应用到人生问题上去",
+      "target": "人类",
+      "claim_type": "规范性主张",
+      "claim_status": "直接引用",
+      "polarity": "positive",
+      "evidence": "他说：“我们观察我们这个时代的要求，不能不承认人类今日最大的责任与需要是把科学方法应用到人生问题上去。”",
+      "confidence": 0.9
+    },
+    {
+      "id": "c9",
+      "speaker": "丁文江",
+      "claim": "张君劢讲男女问题，说“我国戏剧中十有七八不以男女恋爱为内容”。他并没有举出什么证据",
+      "target": "张君劢",
+      "claim_type": "评价性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "张君劢讲男女问题，说“我国戏剧中十有七八不以男女恋爱为内容”。他并没有举出什么证据",
+      "confidence": 0.9
+    }
+  ],
+  "relations": [
+    {
+      "id": "r1",
+      "head": "欧洲玄学的余毒",
+      "head_type": "概念",
+      "relation": "归因于",
+      "relation_subtype": "不适用",
+      "tail": "宋元明言心言性的余烬又有死灰复燃的样子了",
+      "tail_type": "概念",
+      "polarity": "negative",
+      "stance_score": -0.8,
+      "intensity": 0.7,
+      "evidence": "不幸到了今日，欧洲玄学的余毒传染到中国来，宋元明言心言性的余烬又有死灰复燃的样子了",
+      "confidence": 0.9
+    },
+    {
+      "id": "r2",
+      "head": "言心言性的玄学，“内心生活之修养”所以能这样哄动一般人",
+      "head_type": "观点",
+      "relation": "归因于",
+      "relation_subtype": "不适用",
+      "tail": "这种玄谈最合懒惰的心理，一切都靠内心，可以否认事实，可以否认论理与分析",
+      "tail_type": "观点",
+      "polarity": "negative",
+      "stance_score": -0.9,
+      "intensity": 0.8,
+      "evidence": "言心言性的玄学，“内心生活之修养”所以能这样哄动一般人，都因为这种玄谈最合懒惰的心理，一切都靠内心，可以否认事实，可以否认论理与分析",
+      "confidence": 0.9
+    },
+    {
+      "id": "r3",
+      "head": "丁文江",
+      "head_type": "人物",
+      "relation": "引用",
+      "relation_subtype": "援引权威支持",
+      "tail": "顾亭林",
+      "tail_type": "人物",
+      "polarity": "positive",
+      "stance_score":  rentang_score": 0.8,
+      "intensity": 0.6,
+      "evidence": "顾亭林说的好：“……躁竟之徒，欲速成以名于世，语之以五经，则不愿学；语之以白沙、阳明之语录，则欣然矣。以其袭而取之易也。”",
+      "confidence": 0.9
+    },
+    {
+      "id": "r4",
+      "head": "丁文江",
+      "head_type": "人物",
+      "relation": "引用",
+      "relation_subtype": "援引权威支持",
+      "tail": "胡适之",
+      "tail_type": "人物",
+      "polarity": "positive",
+      "stance_score": 0.9,
+      "intensity": 0.7,
+      "evidence": "我要引胡适之《五十年世界之哲学》上的一句话来做一个结论。他说：“我们观察我们这个时代的要求，不能不承认人类今日最大的责任与需要是把科学方法应用到人生问题上去。”",
+      "confidence": 0.9
+    },
+    {
+      "id": "r5",
+      "head": "丁文江",
+      "head_type": "人物",
+      "relation": "批评",
+      "relation_subtype": "证据不足批评",
+      "tail": "张君劢",
+      "tail_type": "人物",
+      "polarity": "negative",
+      "stance_score": -0.7,
+      "intensity": 0.5,
+      "evidence": "张君劢讲男女问题，说“我国戏剧中十有七八不以男女恋爱为内容”。他并没有举出什么证据",
+      "confidence": 0.9
+    }
+  ],
+  "definitions": [],
+  "citations": [
+    {
+      "id": "cit1",
+      "citer": "丁文江",
+      "quoted_author": "顾亭林",
+      "quoted_work": "",
+      "quoted_claim": "躁竟之徒，欲速成以名于世，语之以五经，则不愿学；语之以白沙、阳明之语录，则欣然矣。以其袭而取之易也",
+      "function": "援引权威支持",
+      "evidence": "顾亭林说的好：“……躁竟之徒，欲速成以名于世，语之以五经，则不愿学；语之以白沙、阳明之语录，则欣然矣。以其袭而取之易也。”",
+      "confidence": 0.9
+    },
+    {
+      "id": "cit2",
+      "citer": "丁文江",
+      "quoted_author": "胡适之",
+      "quoted_work": "《五十年世界之哲学》",
+      "quoted_claim": "我们观察我们这个时代的要求，不能不承认人类今日最大的责任与需要是把科学方法应用到人生问题上去",
+      "function": "援引权威支持",
+      "evidence": "我要引胡适之《五十年世界之哲学》上的一句话来做一个结论。他说：“我们观察我们这个时代的要求，不能不承认人类今日最大的责任与需要是把科学方法应用到人生问题上去。”",
+      "confidence": 0.9
+    }
+  ],
+  "rhetorical_devices": [
+    {
+      "id": "rh1",
+      "expression": "欧洲玄学的余毒传染到中国来",
+      "device_type": "比喻",
+      "literal_target": "欧洲玄学思想传入中国",
+      "function": "贬低玄学，将其比作有害的毒素",
+      "evidence": "不幸到了今日，欧洲玄学的余毒传染到中国来",
+      "confidence": 0.9
+    },
+    {
+      "id": "rh2",
+      "expression": "宋元明言心言性的余烬又有死灰复燃的样子了",
+      "device_type": "比喻",
+      "literal_target": "宋元明心性之学重新兴起",
+      "function": "贬低玄学复兴，将其比作余烬复燃，暗示其陈旧且有害",
+      "evidence": "宋元明言心言性的余烬又有死灰复燃的样子了",
+      "confidence": 0.9
+    },
+    {
+      "id": "rh3",
+      "expression": "懒惰的人，不细心研究历史的实际，不肯睁开眼睛看看所谓“精神文明”究竟在什么地方",
+      "device_type": "标签化",
+      "literal_target": "玄学支持者",
+      "function": "将玄学支持者标签化为懒惰、不研究实际的人，进行道德指责",
+      "evidence": "懒惰的人，不细心研究历史的实际，不肯睁开眼睛看看所谓“精神文明”究竟在什么地方",
+      "confidence": 0.9
+    },
+    {
+      "id": "rh4",
+      "expression": "今之君子，欲速成以名于世，语之以科学，则不愿学；语之以柏格森、杜里舒之玄学，则欣然矣。以其袭而取之易也",
+      "device_type": "讽刺",
+      "literal_target": "今日一班玄学崇拜者",
+      "function": "讽刺玄学崇拜者追求速成、不愿学习科学，而轻易接受玄学",
+      "evidence": "我们也可套他的话，稍微改动几个字，来形容今日一班玄学崇拜者的心理：“今之君子，欲速成以名于世，语之以科学，则不愿学；语之以柏格森、杜里舒之玄学，则欣然矣。以其袭而取之易也。”",
+      "confidence": 0.9
+    }
+  ],
+  "uncertainties": [
+    {
+      "item": "“前清的科学经师”具体指哪些人物或群体",
+      "reason": "文本未具体说明，无法确定"
+    },
+    {
+      "item": "“懒惰的人”是否特指某一具体群体或泛指所有玄学支持者",
+      "reason": "文本未明确界定，可能泛指"
+    }
+  ]
+}

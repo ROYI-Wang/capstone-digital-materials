@@ -1,0 +1,582 @@
+{
+  "metadata": {
+    "schema_version": "lite_v3.0",
+    "article_id": "菊农_000_b90d5dfb",
+    "article_title": "人格与教育",
+    "source_author": "菊农",
+    "section_title": "",
+    "section_author": "",
+    "segment_id": "菊农_000_b90d5dfb_s0007",
+    "segment_index": 7,
+    "source_file": "E:\\1研究生\\岭南大学\\论文毕业\\capstone\\资料\\新的内容开始了\\local_upload\\input_v2_w1\\菊农.txt"
+  },
+  "entities": [
+    {
+      "id": "e1",
+      "name": "社会",
+      "canonical_name": "社会",
+      "type": "概念",
+      "evidence": "社会和个人是一全体的两方面。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e2",
+      "name": "个人",
+      "canonical_name": "个人",
+      "type": "概念",
+      "evidence": "社会和个人是一全体的两方面。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e3",
+      "name": "人生",
+      "canonical_name": "人生",
+      "type": "概念",
+      "evidence": "这件事便是人生。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e4",
+      "name": "人类生活之集合方面",
+      "canonical_name": "人类生活之集合方面",
+      "type": "概念",
+      "evidence": "人类生活之集合方面便是社会，特指方面便是个人。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e5",
+      "name": "特指方面",
+      "canonical_name": "特指方面",
+      "type": "概念",
+      "evidence": "人类生活之集合方面便是社会，特指方面便是个人。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e6",
+      "name": "全体",
+      "canonical_name": "全体",
+      "type": "概念",
+      "evidence": "实在是一件有生机、有目的、有自由、无时不创造的全体的表现。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e7",
+      "name": "社会压迫个性",
+      "canonical_name": "社会压迫个性",
+      "type": "概念",
+      "evidence": "注重所谓社会一方面便构成了社会压迫个性的状态",
+      "confidence": 1.0
+    },
+    {
+      "id": "e8",
+      "name": "自大的个人主义",
+      "canonical_name": "自大的个人主义",
+      "type": "概念",
+      "evidence": "注重个人一方面便又构成自大的个人主义。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e9",
+      "name": "畸形的发展",
+      "canonical_name": "畸形的发展",
+      "type": "概念",
+      "evidence": "教育的结果，便是畸形的发展。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e10",
+      "name": "机械的宇宙观",
+      "canonical_name": "机械的宇宙观",
+      "type": "主义/学说/理论",
+      "evidence": "在机械的宇宙观之下，几乎认宇宙为敌",
+      "confidence": 1.0
+    },
+    {
+      "id": "e11",
+      "name": "宇宙",
+      "canonical_name": "宇宙",
+      "type": "概念",
+      "evidence": "在机械的宇宙观之下，几乎认宇宙为敌",
+      "confidence": 1.0
+    },
+    {
+      "id": "e12",
+      "name": "科学之发达",
+      "canonical_name": "科学之发达",
+      "type": "概念",
+      "evidence": "科学之发达，这也是一个原因",
+      "confidence": 1.0
+    },
+    {
+      "id": "e13",
+      "name": "狭义的个人主义",
+      "canonical_name": "狭义的个人主义",
+      "type": "概念",
+      "evidence": "因此而狭义的个人主义极发达。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e14",
+      "name": "超越世界",
+      "canonical_name": "超越世界",
+      "type": "概念",
+      "evidence": "个人与宇宙在超越世界里并主客之分而亦无之",
+      "confidence": 1.0
+    },
+    {
+      "id": "e15",
+      "name": "一大调和",
+      "canonical_name": "一大调和",
+      "type": "概念",
+      "evidence": "只是一大调和。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e16",
+      "name": "小己人格",
+      "canonical_name": "小己人格",
+      "type": "概念",
+      "evidence": "小己人格充分实现时，便与宇宙融合无间了。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e17",
+      "name": "我们的理想",
+      "canonical_name": "我们的理想",
+      "type": "概念",
+      "evidence": "这正是我们的理想。",
+      "confidence": 1.0
+    }
+  ],
+  "claims": [
+    {
+      "id": "c1",
+      "speaker": "作者",
+      "claim": "社会和个人是一全体的两方面。",
+      "target": "",
+      "claim_type": "定义性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "社会和个人是一全体的两方面。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c2",
+      "speaker": "作者",
+      "claim": "人类生活之集合方面便是社会，特指方面便是个人。",
+      "target": "",
+      "claim_type": "定义性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "人类生活之集合方面便是社会，特指方面便是个人。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c3",
+      "speaker": "作者",
+      "claim": "社会和个人并不是不同的现象，不过因人们观点的不同，便当做两件东西一般。",
+      "target": "",
+      "claim_type": "描述性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "社会和个人并不是不同的现象，不过因人们观点的不同，便当做两件东西一般。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c4",
+      "speaker": "作者",
+      "claim": "实在是一件有生机、有目的、有自由、无时不创造的全体的表现。",
+      "target": "",
+      "claim_type": "描述性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "实在是一件有生机、有目的、有自由、无时不创造的全体的表现。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c5",
+      "speaker": "作者",
+      "claim": "如果自己要造出一堵墙来，要隔开两方面，注重所谓社会一方面便构成了社会压迫个性的状态；注重个人一方面便又构成自大的个人主义。",
+      "target": "",
+      "claim_type": "因果主张",
+      "claim_status": "作者推论",
+      "polarity": "negative",
+      "evidence": "如果自己要造出一堵墙来，要隔开两方面，注重所谓社会一方面便构成了社会压迫个性的状态；注重个人一方面便又构成自大的个人主义。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c6",
+      "speaker": "作者",
+      "claim": "无论是那一方面上占上风，人类生活的全体，却受了莫大的痛苦。",
+      "target": "",
+      "claim_type": "因果主张",
+      "claim_status": "作者推论",
+      "polarity": "negative",
+      "evidence": "无论是那一方面上占上风，人类生活的全体，却受了莫大的痛苦。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c7",
+      "speaker": "作者",
+      "claim": "教育的结果，便是畸形的发展。",
+      "target": "",
+      "claim_type": "因果主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "教育的结果，便是畸形的发展。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c8",
+      "speaker": "作者",
+      "claim": "我们根本认定生活是一全体。",
+      "target": "",
+      "claim_type": "描述性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "因为我们根本认定生活是一全体。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c9",
+      "speaker": "作者",
+      "claim": "社会是个人的全体，个人是全体的部分。",
+      "target": "",
+      "claim_type": "定义性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "社会是个人的全体，个人是全体的部分。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c10",
+      "speaker": "作者",
+      "claim": "部分的活动的全体，便是全体的创造。",
+      "target": "",
+      "claim_type": "定义性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "部分的活动的全体，便是全体的创造。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c11",
+      "speaker": "作者",
+      "claim": "在机械的宇宙观之下，几乎认宇宙为敌，努力以求克制之道，科学之发达，这也是一个原因；但是为人之道却太苦；人生无时无刻不在防御自然压迫之中；个人无时无刻不在与自然为敌，因此而狭义的个人主义极发达。",
+      "target": "机械的宇宙观",
+      "claim_type": "因果主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "在机械的宇宙观之下，几乎认宇宙为敌，努力以求克制之道，科学之发达，这也是一个原因；但是为人之道却太苦；人生无时无刻不在防御自然压迫之中；个人无时无刻不在与自然为敌，因此而狭义的个人主义极发达。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c12",
+      "speaker": "作者",
+      "claim": "个人与宇宙在超越世界里并主客之分而亦无之；只是一大调和。",
+      "target": "",
+      "claim_type": "描述性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "但是我们以为个人与宇宙在超越世界里并主客之分而亦无之；只是一大调和。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c13",
+      "speaker": "作者",
+      "claim": "自然界一切事物，对于我都有精神的意义。",
+      "target": "",
+      "claim_type": "描述性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "自然界一切事物，对于我都有精神的意义。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c14",
+      "speaker": "作者",
+      "claim": "个人不是要克制自然乃是要与自然和洽。",
+      "target": "",
+      "claim_type": "规范性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "个人不是要克制自然乃是要与自然和洽。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c15",
+      "speaker": "作者",
+      "claim": "小己人格充分实现时，便与宇宙融合无间了。",
+      "target": "",
+      "claim_type": "因果主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "小己人格充分实现时，便与宇宙融合无间了。",
+      "confidence": 1.0
+    }
+  ],
+  "relations": [
+    {
+      "id": "r1",
+      "head": "社会",
+      "head_type": "概念",
+      "relation": "定义",
+      "relation_subtype": "概念澄清",
+      "tail": "人类生活之集合方面",
+      "tail_type": "概念",
+      "polarity": "positive",
+      "stance_score": 1.0,
+      "intensity": 0.8,
+      "evidence": "人类生活之集合方面便是社会，特指方面便是个人。",
+      "confidence": 1.0
+    },
+    {
+      "id": "r2",
+      "head": "个人",
+      "head_type": "概念",
+      "relation": "定义",
+      "relation_subtype": "概念澄清",
+      "tail": "特指方面",
+      "tail_type": "概念",
+      "polarity": "positive",
+      "stance_score": 1.0,
+      "intensity": 0.8,
+      "evidence": "人类生活之集合方面便是社会，特指方面便是个人。",
+      "confidence": 1.0
+    },
+    {
+      "id": "r3",
+      "head": "社会和个人",
+      "head_type": "概念",
+      "relation": "区分",
+      "relation_subtype": "概念澄清",
+      "tail": "不同的现象",
+      "tail_type": "概念",
+      "polarity": "negative",
+      "stance_score": -1.0,
+      "intensity": 0.9,
+      "evidence": "社会和个人并不是不同的现象，不过因人们观点的不同，便当做两件东西一般。",
+      "confidence": 1.0
+    },
+    {
+      "id": "r4",
+      "head": "注重所谓社会一方面",
+      "head_type": "概念",
+      "relation": "导致",
+      "relation_subtype": "不适用",
+      "tail": "社会压迫个性的状态",
+      "tail_type": "概念",
+      "polarity": "negative",
+      "stance_score": -1.0,
+      "intensity": 0.9,
+      "evidence": "注重所谓社会一方面便构成了社会压迫个性的状态",
+      "confidence": 1.0
+    },
+    {
+      "id": "r5",
+      "head": "注重个人一方面",
+      "head_type": "概念",
+      "relation": "导致",
+      "relation_subtype": "不适用",
+      "tail": "自大的个人主义",
+      "tail_type": "概念",
+      "polarity": "negative",
+      "stance_score": -1.0,
+      "intensity": 0.9,
+      "evidence": "注重个人一方面便又构成自大的个人主义。",
+      "confidence": 1.0
+    },
+    {
+      "id": "r6",
+      "head": "隔开两方面",
+      "head_type": "概念",
+      "relation": "导致",
+      "relation_subtype": "不适用",
+      "tail": "人类生活的全体，却受了莫大的痛苦",
+      "tail_type": "概念",
+      "polarity": "negative",
+      "stance_score": -1.0,
+      "intensity": 0.9,
+      "evidence": "无论是那一方面上占上风，人类生活的全体，却受了莫大的痛苦。",
+      "confidence": 1.0
+    },
+    {
+      "id": "r7",
+      "head": "教育",
+      "head_type": "概念",
+      "relation": "导致",
+      "relation_subtype": "不适用",
+      "tail": "畸形的发展",
+      "tail_type": "概念",
+      "polarity": "negative",
+      "stance_score": -1.0,
+      "intensity": 0.9,
+      "evidence": "教育的结果，便是畸形的发展。",
+      "confidence": 1.0
+    },
+    {
+      "id": "r8",
+      "head": "社会",
+      "head_type": "概念",
+      "relation": "定义",
+      "relation_subtype": "概念澄清",
+      "tail": "个人的全体",
+      "tail_type": "概念",
+      "polarity": "positive",
+      "stance_score": 1.0,
+      "intensity": 0.8,
+      "evidence": "社会是个人的全体，个人是全体的部分。",
+      "confidence": 1.0
+    },
+    {
+      "id": "r9",
+      "head": "个人",
+      "head_type": "概念",
+      "relation": "定义",
+      "relation_subtype": "概念澄清",
+      "tail": "全体的部分",
+      "tail_type": "概念",
+      "polarity": "positive",
+      "stance_score": 1.0,
+      "intensity": 0.8,
+      "evidence": "社会是个人的全体，个人是全体的部分。",
+      "confidence": 1.0
+    },
+    {
+      "id": "r10",
+      "head": "机械的宇宙观",
+      "head_type": "主义/学说/理论",
+      "relation": "导致",
+      "relation_subtype": "不适用",
+      "tail": "认宇宙为敌",
+      "tail_type": "概念",
+      "polarity": "negative",
+      "stance_score": -1.0,
+      "intensity": 0.9,
+      "evidence": "在机械的宇宙观之下，几乎认宇宙为敌",
+      "confidence": 1.0
+    },
+    {
+      "id": "r11",
+      "head": "机械的宇宙观",
+      "head_type": "主义/学说/理论",
+      "relation": "导致",
+      "relation_subtype": "不适用",
+      "tail": "科学之发达",
+      "tail_type": "概念",
+      "polarity": "neutral",
+      "stance_score": 0.0,
+      "intensity": 0.5,
+      "evidence": "科学之发达，这也是一个原因",
+      "confidence": 1.0
+    },
+    {
+      "id": "r12",
+      "head": "机械的宇宙观",
+      "head_type": "主义/学说/理论",
+      "relation": "导致",
+      "relation_subtype": "不适用",
+      "tail": "狭义的个人主义极发达",
+      "tail_type": "概念",
+      "polarity": "negative",
+      "stance_score": -1.0,
+      "intensity": 0.9,
+      "evidence": "因此而狭义的个人主义极发达。",
+      "confidence": 1.0
+    },
+    {
+      "id": "r13",
+      "head": "个人与宇宙",
+      "head_type": "概念",
+      "relation": "定义",
+      "relation_subtype": "概念澄清",
+      "tail": "一大调和",
+      "tail_type": "概念",
+      "polarity": "positive",
+      "stance_score": 1.0,
+      "intensity": 0.9,
+      "evidence": "但是我们以为个人与宇宙在超越世界里并主客之分而亦无之；只是一大调和。",
+      "confidence": 1.0
+    },
+    {
+      "id": "r14",
+      "head": "小己人格充分实现",
+      "head_type": "概念",
+      "relation": "导致",
+      "relation_subtype": "不适用",
+      "tail": "与宇宙融合无间",
+      "tail_type": "概念",
+      "polarity": "positive",
+      "stance_score": 1.0,
+      "intensity": 0.9,
+      "evidence": "小己人格充分实现时，便与宇宙融合无间了。",
+      "confidence": 1.0
+    }
+  ],
+  "definitions": [
+    {
+      "id": "def1",
+      "term": "社会",
+      "definition": "人类生活之集合方面",
+      "evidence": "人类生活之集合方面便是社会，特指方面便是个人。",
+      "confidence": 1.0
+    },
+    {
+      "id": "def2",
+      "term": "个人",
+      "definition": "人类生活之特指方面",
+      "evidence": "人类生活之集合方面便是社会，特指方面便是个人。",
+      "confidence": 1.0
+    },
+    {
+      "id": "def3",
+      "term": "社会",
+      "definition": "个人的全体",
+      "evidence": "社会是个人的全体，个人是全体的部分。",
+      "confidence": 1.0
+    },
+    {
+      "id": "def4",
+      "term": "个人",
+      "definition": "全体的部分",
+      "evidence": "社会是个人的全体，个人是全体的部分。",
+      "confidence": 1.0
+    },
+    {
+      "id": "def5",
+      "term": "全体",
+      "definition": "有生机、有目的、有自由、无时不创造的表现",
+      "evidence": "实在是一件有生机、有目的、有自由、无时不创造的全体的表现。",
+      "confidence": 1.0
+    },
+    {
+      "id": "def6",
+      "term": "个人与宇宙的关系",
+      "definition": "在超越世界里并主客之分而亦无之，只是一大调和",
+      "evidence": "但是我们以为个人与宇宙在超越世界里并主客之分而亦无之；只是一大调和。",
+      "confidence": 1.0
+    }
+  ],
+  "citations": [],
+  "rhetorical_devices": [
+    {
+      "id": "rh1",
+      "expression": "造出一堵墙来",
+      "device_type": "比喻",
+      "literal_target": "人为地割裂社会与个人的联系",
+      "function": "形象化地说明割裂社会与个人关系的错误做法",
+      "evidence": "如果自己要造出一堵墙来，要隔开两方面",
+      "confidence": 1.0
+    }
+  ],
+  "uncertainties": [
+    {
+      "item": "“我们这些话并不是什么特别的话”中的“我们”是否特指某个群体或作者本人？",
+      "reason": "文本中未明确说明“我们”的具体指代，可能指作者及其所属群体，但无法从当前文本确定。"
+    },
+    {
+      "item": "“机械的宇宙观”是否特指某种具体的哲学或科学理论？",
+      "reason": "文本中未给出“机械的宇宙观”的明确定义或出处，仅描述了其后果。"
+    }
+  ]
+}

@@ -1,0 +1,610 @@
+{
+  "metadata": {
+    "schema_version": "lite_v3.0",
+    "article_id": "林宰平_000_acbbe922",
+    "article_title": "读丁在君先生的《玄学与科学》",
+    "source_author": "林宰平",
+    "section_title": "",
+    "section_author": "",
+    "segment_id": "林宰平_000_acbbe922_s0020",
+    "segment_index": 20,
+    "source_file": "E:\\1研究生\\岭南大学\\论文毕业\\capstone\\资料\\新的内容开始了\\local_upload\\input_林宰平\\林宰平.txt"
+  },
+  "entities": [
+    {
+      "id": "e1",
+      "name": "纯粹心理现象",
+      "canonical_name": "纯粹心理现象",
+      "type": "概念",
+      "evidence": "纯粹心理现象，是否在因果律之外，这又是一个问题。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e2",
+      "name": "因果律",
+      "canonical_name": "因果律",
+      "type": "概念",
+      "evidence": "纯粹心理现象，是否在因果律之外，这又是一个问题。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e3",
+      "name": "在君先生",
+      "canonical_name": "丁在君",
+      "type": "人物",
+      "evidence": "在君先生但说:",
+      "confidence": 0.9
+    },
+    {
+      "id": "e4",
+      "name": "科学",
+      "canonical_name": "科学",
+      "type": "概念",
+      "evidence": "科学回答道，科学的材料，原都是心理的现象，若是你所说的现象是真的，决逃不出科学的范围。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e5",
+      "name": "心理的现象",
+      "canonical_name": "心理现象",
+      "type": "概念",
+      "evidence": "科学的材料，原都是心理的现象",
+      "confidence": 0.9
+    },
+    {
+      "id": "e6",
+      "name": "因果的关系",
+      "canonical_name": "因果关系",
+      "type": "概念",
+      "evidence": "因果的关系，并不在其物之自身，而在人的信仰。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e7",
+      "name": "休姆",
+      "canonical_name": "休姆",
+      "type": "人物",
+      "evidence": "休姆所主张的提出研究一下",
+      "confidence": 0.9
+    },
+    {
+      "id": "e8",
+      "name": "康德",
+      "canonical_name": "康德",
+      "type": "人物",
+      "evidence": "康德以为主观用于自然界仍然有效，故认因果为范畴之一。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e9",
+      "name": "因果",
+      "canonical_name": "因果",
+      "type": "概念",
+      "evidence": "康德以为主观用于自然界仍然有效，故认因果为范畴之一。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e10",
+      "name": "范畴",
+      "canonical_name": "范畴",
+      "type": "概念",
+      "evidence": "康德以为主观用于自然界仍然有效，故认因果为范畴之一。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e11",
+      "name": "主观",
+      "canonical_name": "主观",
+      "type": "概念",
+      "evidence": "休姆则谓主观用于自然界是无效的，因果属于主观，故只好说是人的一种信仰。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e12",
+      "name": "信仰",
+      "canonical_name": "信仰",
+      "type": "概念",
+      "evidence": "休姆则谓主观用于自然界是无效的，因果属于主观，故只好说是人的一种信仰。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e13",
+      "name": "批评休姆的人",
+      "canonical_name": "批评休姆的人",
+      "type": "阵营/群体",
+      "evidence": "批评休姆的人，以为：如此则知识成为不可能的东西，休姆如果是彻底的，他一定毫无知识了。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e14",
+      "name": "知识",
+      "canonical_name": "知识",
+      "type": "概念",
+      "evidence": "如此则知识成为不可能的东西",
+      "confidence": 0.9
+    },
+    {
+      "id": "e15",
+      "name": "关系",
+      "canonical_name": "关系",
+      "type": "概念",
+      "evidence": "他明说“关系”是有的。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e16",
+      "name": "论理的关系",
+      "canonical_name": "论理关系",
+      "type": "概念",
+      "evidence": "因果的关系，并非纯依论理的关系",
+      "confidence": 0.9
+    },
+    {
+      "id": "e17",
+      "name": "矛盾律",
+      "canonical_name": "矛盾律",
+      "type": "概念",
+      "evidence": "因果之推理，和论理上矛盾律之推断，全然不同",
+      "confidence": 0.9
+    },
+    {
+      "id": "e18",
+      "name": "经验事实",
+      "canonical_name": "经验事实",
+      "type": "概念",
+      "evidence": "因果关系乃以经验事实为根据。",
+      "confidence": 0.9
+    }
+  ],
+  "claims": [
+    {
+      "id": "c1",
+      "speaker": "在君先生",
+      "claim": "科学的材料，原都是心理的现象，若是你所说的现象是真的，决逃不出科学的范围。",
+      "target": "纯粹心理现象",
+      "claim_type": "回应性主张",
+      "claim_status": "直接引用",
+      "polarity": "positive",
+      "evidence": "科学回答道，科学的材料，原都是心理的现象，若是你所说的现象是真的，决逃不出科学的范围。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c2",
+      "speaker": "休姆",
+      "claim": "因果的关系，并不在其物之自身，而在人的信仰。",
+      "target": "因果的关系",
+      "claim_type": "定义性主张",
+      "claim_status": "间接转述",
+      "polarity": "neutral",
+      "evidence": "他说的大意以为因果的关系，并不在其物之自身，而在人的信仰。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c3",
+      "speaker": "休姆",
+      "claim": "物对人并无表示这个是因那个是果，所以物的自身丝毫没有因果的关系。",
+      "target": "因果的关系",
+      "claim_type": "因果主张",
+      "claim_status": "间接转述",
+      "polarity": "neutral",
+      "evidence": "物对人并无表示这个是因那个是果，所以物的自身丝毫没有因果的关系。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c4",
+      "speaker": "休姆",
+      "claim": "我们看见有了这个，就有那个，这种关系叫做因果，天天这种看法，就是天天的信仰。",
+      "target": "因果",
+      "claim_type": "定义性主张",
+      "claim_status": "间接转述",
+      "polarity": "neutral",
+      "evidence": "我们看见有了这个，就有那个，这种关系叫做因果，天天这种看法，就是天天的信仰。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c5",
+      "speaker": "休姆",
+      "claim": "今天的因果，未必是明天的因果，不过我们的主观这样看法罢了。",
+      "target": "因果",
+      "claim_type": "描述性主张",
+      "claim_status": "间接转述",
+      "polarity": "neutral",
+      "evidence": "其实今天的因果，未必是明天的因果，不过我们的主观这样看法罢了。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c6",
+      "speaker": "康德",
+      "claim": "主观用于自然界仍然有效，故认因果为范畴之一。",
+      "target": "因果",
+      "claim_type": "因果主张",
+      "claim_status": "间接转述",
+      "polarity": "positive",
+      "evidence": "康德以为主观用于自然界仍然有效，故认因果为范畴之一。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c7",
+      "speaker": "休姆",
+      "claim": "主观用于自然界是无效的，因果属于主观，故只好说是人的一种信仰。",
+      "target": "主观",
+      "claim_type": "因果主张",
+      "claim_status": "间接转述",
+      "polarity": "negative",
+      "evidence": "休姆则谓主观用于自然界是无效的，因果属于主观，故只好说是人的一种信仰。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c8",
+      "speaker": "休姆",
+      "claim": "因果是没有的。",
+      "target": "因果",
+      "claim_type": "描述性主张",
+      "claim_status": "作者概括",
+      "polarity": "negative",
+      "evidence": "休姆简直主张因果是没有的。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c9",
+      "speaker": "批评休姆的人",
+      "claim": "如此则知识成为不可能的东西，休姆如果是彻底的，他一定毫无知识了。",
+      "target": "休姆",
+      "claim_type": "反驳性主张",
+      "claim_status": "间接转述",
+      "polarity": "negative",
+      "evidence": "批评休姆的人，以为：如此则知识成为不可能的东西，休姆如果是彻底的，他一定毫无知识了。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c10",
+      "speaker": "休姆",
+      "claim": "“关系”是有的。",
+      "target": "关系",
+      "claim_type": "描述性主张",
+      "claim_status": "间接转述",
+      "polarity": "positive",
+      "evidence": "他明说“关系”是有的。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c11",
+      "speaker": "休姆",
+      "claim": "因果的关系，并非纯依论理的关系，因为因果之推理，和论理上矛盾律之推断，全然不同，故因果关系乃以经验事实为根据。",
+      "target": "因果的关系",
+      "claim_type": "因果主张",
+      "claim_status": "间接转述",
+      "polarity": "neutral",
+      "evidence": "不过他认为因果的关系，并非纯依论理的关系，因为因果之推理，和论理上矛盾律之推断，全然不同，故因果关系乃以经验事实为根据。",
+      "confidence": 0.9
+    }
+  ],
+  "relations": [
+    {
+      "id": "r1",
+      "head": "纯粹心理现象",
+      "head_type": "概念",
+      "relation": "质疑",
+      "relation_subtype": "事实质疑",
+      "tail": "因果律",
+      "tail_type": "概念",
+      "polarity": "neutral",
+      "stance_score": 0.0,
+      "intensity": 0.3,
+      "evidence": "纯粹心理现象，是否在因果律之外，这又是一个问题。",
+      "confidence": 0.9
+    },
+    {
+      "id": "r2",
+      "head": "在君先生",
+      "head_type": "人物",
+      "relation": "主张",
+      "relation_subtype": "不适用",
+      "tail": "c1",
+      "tail_type": "观点",
+      "polarity": "positive",
+      "stance_score": 1.0,
+      "intensity": 0.8,
+      "evidence": "在君先生但说: “科学回答道，科学的材料，原都是心理的现象，若是你所说的现象是真的，决逃不出科学的范围。”",
+      "confidence": 0.9
+    },
+    {
+      "id": "r3",
+      "head": "休姆",
+      "head_type": "人物",
+      "relation": "主张",
+      "relation_subtype": "不适用",
+      "tail": "c2",
+      "tail_type": "观点",
+      "polarity": "neutral",
+      "stance_score": 0.0,
+      "intensity": 0.5,
+      "evidence": "他说的大意以为因果的关系，并不在其物之自身，而在人的信仰。",
+      "confidence": 0.9
+    },
+    {
+      "id": "r4",
+      "head": "休姆",
+      "head_type": "人物",
+      "relation": "主张",
+      "relation_subtype": "不适用",
+      "tail": "c3",
+      "tail_type": "观点",
+      "polarity": "neutral",
+      "stance_score": 0.0,
+      "intensity": 0.5,
+      "evidence": "物对人并无表示这个是因那个是果，所以物的自身丝毫没有因果的关系。",
+      "confidence": 0.9
+    },
+    {
+      "id": "r5",
+      "head": "休姆",
+      "head_type": "人物",
+      "relation": "主张",
+      "relation_subtype": "不适用",
+      "tail": "c4",
+      "tail_type": "观点",
+      "polarity": "neutral",
+      "stance_score": 0.0,
+      "intensity": 0.5,
+      "evidence": "我们看见有了这个，就有那个，这种关系叫做因果，天天这种看法，就是天天的信仰。",
+      "confidence": 0.9
+    },
+    {
+      "id": "r6",
+      "head": "休姆",
+      "head_type": "人物",
+      "relation": "主张",
+      "relation_subtype": "不适用",
+      "tail": "c5",
+      "tail_type": "观点",
+      "polarity": "neutral",
+      "stance_score": 0.0,
+      "intensity": 0.5,
+      "evidence": "其实今天的因果，未必是明天的因果，不过我们的主观这样看法罢了。",
+      "confidence": 0.9
+    },
+    {
+      "id": "r7",
+      "head": "康德",
+      "head_type": "人物",
+      "relation": "主张",
+      "relation_subtype": "不适用",
+      "tail": "c6",
+      "tail_type": "观点",
+      "polarity": "positive",
+      "stance_score":  perm_identity 0.5,
+      "intensity": 0.6,
+      "evidence": "康德以为主观用于自然界仍然有效，故认因果为范畴之一。",
+      "confidence": 0.9
+    },
+    {
+      "id": "r8",
+      "head": "休姆",
+      "head_type": "人物",
+      "relation": "主张",
+      "relation_subtype": "不适用",
+      "tail": "c7",
+      "tail_type": "观点",
+      "polarity": "negative",
+      "stance_score": -0.5,
+      "intensity": 0.6,
+      "evidence": "休姆则谓主观用于自然界是无效的，因果属于主观，故只好说是人的一种信仰。",
+      "confidence": 0.9
+    },
+    {
+      "id": "r9",
+      "head": "休姆",
+      "head_type": "人物",
+      "relation": "主张",
+      "relation_subtype": "不适用",
+      "tail": "c8",
+      "tail_type": "观点",
+      "polarity": "negative",
+      "stance_score": -0.8,
+      "intensity": 0.7,
+      "evidence": "休姆简直主张因果是没有的。",
+      "confidence": 0.9
+    },
+    {
+      "id": "r10",
+      "head": "批评休姆的人",
+      "head_type": "阵营/群体",
+      "relation": "批评",
+      "relation_subtype": "逻辑反驳",
+      "tail": "休姆",
+      "tail_type": "人物",
+      "polarity": "negative",
+      "stance_score": -0.8,
+      "intensity": 0.7,
+      "evidence": "批评休姆的人，以为：如此则知识成为不可能的东西，休姆如果是彻底的，他一定毫无知识了。",
+      "confidence": 0.9
+    },
+    {
+      "id": "r11",
+      "head": "休姆",
+      "head_type": "人物",
+      "relation": "主张",
+      "relation_subtype": "不适用",
+      "tail": "c10",
+      "tail_type": "观点",
+      "polarity": "positive",
+      "stance_score": 0.5,
+      "intensity": 0.5,
+      "evidence": "他明说“关系”是有的。",
+      "confidence": 0.9
+    },
+    {
+      "id": "r12",
+      "head": "休姆",
+      "head_type": "人物",
+      "relation": "主张",
+      "relation_subtype": "不适用",
+      "tail": "c11",
+      "tail_type": "观点",
+      "polarity": "neutral",
+      "stance_score": 0.0,
+      "intensity": 0.5,
+      "evidence": "不过他认为因果的关系，并非纯依论理的关系，因为因果之推理，和论理上矛盾律之推断，全然不同，故因果关系乃以经验事实为根据。",
+      "confidence": 0.9
+    },
+    {
+      "id": "r13",
+      "head": "因果的关系",
+      "head_type": "概念",
+      "relation": "区分",
+      "relation_subtype": "概念澄清",
+      "tail": "论理的关系",
+      "tail_type": "概念",
+      "polarity": "neutral",
+      "stance_score": 0.0,
+      "intensity": 0.5,
+      "evidence": "因果的关系，并非纯依论理的关系",
+      "confidence": 0.9
+    },
+    {
+      "id": "r14",
+      "head": "因果之推理",
+      "head_type": "概念",
+      "relation": "区分",
+      "relation_subtype": "概念澄清",
+      "tail": "矛盾律之推断",
+      "tail_type": "概念",
+      "polarity": "neutral",
+      "stance_score": 0.0,
+      "intensity": 0.5,
+      "evidence": "因果之推理，和论理上矛盾律之推断，全然不同",
+      "confidence": 0.9
+    },
+    {
+      "id": "r15",
+      "head": "因果关系",
+      "head_type": "概念",
+      "relation": "归因于",
+      "relation_subtype": "不适用",
+      "tail": "经验事实",
+      "tail_type": "概念",
+      "polarity": "neutral",
+      "stance_score": 0.0,
+      "intensity": 0.5,
+      "evidence": "因果关系乃以经验事实为根据。",
+      "confidence": 0.9
+    }
+  ],
+  "definitions": [
+    {
+      "id": "def1",
+      "term": "因果的关系",
+      "definition": "因果的关系，并不在其物之自身，而在人的信仰。",
+      "evidence": "他说的大意以为因果的关系，并不在其物之自身，而在人的信仰。",
+      "confidence": 0.9
+    },
+    {
+      "id": "def2",
+      "term": "因果",
+      "definition": "我们看见有了这个，就有那个，这种关系叫做因果。",
+      "evidence": "我们看见有了这个，就有那个，这种关系叫做因果",
+      "confidence": 0.9
+    },
+    {
+      "id": "def3",
+      "term": "因果",
+      "definition": "康德认因果为范畴之一。",
+      "evidence": "康德以为主观用于自然界仍然有效，故认因果为范畴之一。",
+      "confidence": 0.9
+    },
+    {
+      "id": "def4",
+      "term": "因果",
+      "definition": "休姆则谓因果属于主观，故只好说是人的一种信仰。",
+      "evidence": "休姆则谓主观用于自然界是无效的，因果属于主观，故只好说是人的一种信仰。",
+      "confidence": 0.9
+    },
+    {
+      "id": "def5",
+      "term": "因果关系",
+      "definition": "因果关系乃以经验事实为根据。",
+      "evidence": "因果关系乃以经验事实为根据。",
+      "confidence": 0.9
+    }
+  ],
+  "citations": [
+    {
+      "id": "cit1",
+      "citer": "林宰平",
+      "quoted_author": "在君先生",
+      "quoted_work": "",
+      "quoted_claim": "科学的材料，原都是心理的现象，若是你所说的现象是真的，决逃不出科学的范围。",
+      "function": "作为批评对象",
+      "evidence": "在君先生但说: “科学回答道，科学的材料，原都是心理的现象，若是你所说的现象是真的，决逃不出科学的范围。”",
+      "confidence": 0.9
+    },
+    {
+      "id": "cit2",
+      "citer": "林宰平",
+      "quoted_author": "休姆",
+      "quoted_work": "",
+      "quoted_claim": "因果的关系，并不在其物之自身，而在人的信仰。",
+      "function": "作为思想来源",
+      "evidence": "他说的大意以为因果的关系，并不在其物之自身，而在人的信仰。",
+      "confidence": 0.9
+    },
+    {
+      "id": "cit3",
+      "citer": "林宰平",
+      "quoted_author": "康德",
+      "quoted_work": "",
+      "quoted_claim": "主观用于自然界仍然有效，故认因果为范畴之一。",
+      "function": "作为思想来源",
+      "evidence": "康德以为主观用于自然界仍然有效，故认因果为范畴之一。",
+      "confidence": 0.9
+    },
+    {
+      "id": "cit4",
+      "citer": "林宰平",
+      "quoted_author": "休姆",
+      "quoted_work": "",
+      "quoted_claim": "主观用于自然界是无效的，因果属于主观，故只好说是人的一种信仰。",
+      "function": "作为思想来源",
+      "evidence": "休姆则谓主观用于自然界是无效的，因果属于主观，故只好说是人的一种信仰。",
+      "confidence": 0.9
+    },
+    {
+      "id": "cit5",
+      "citer": "林宰平",
+      "quoted_author": "批评休姆的人",
+      "quoted_work": "",
+      "quoted_claim": "如此则知识成为不可能的东西，休姆如果是彻底的，他一定毫无知识了。",
+      "function": "作为批评对象",
+      "evidence": "批评休姆的人，以为：如此则知识成为不可能的东西，休姆如果是彻底的，他一定毫无知识了。",
+      "confidence": 0.9
+    },
+    {
+      "id": "cit6",
+      "citer": "林宰平",
+      "quoted_author": "休姆",
+      "quoted_work": "",
+      "quoted_claim": "因果的关系，并非纯依论理的关系，因为因果之推理，和论理上矛盾律之推断，全然不同，故因果关系乃以经验事实为根据。",
+      "function": "作为思想来源",
+      "evidence": "不过他认为因果的关系，并非纯依论理的关系，因为因果之推理，和论理上矛盾律之推断，全然不同，故因果关系乃以经验事实为根据。",
+      "confidence": 0.9
+    }
+  ],
+  "rhetorical_devices": [
+    {
+      "id": "rh1",
+      "expression": "这句话岂不骇人听闻么？",
+      "device_type": "反问",
+      "literal_target": "休姆主张因果是没有的",
+      "function": "强调休姆观点的惊世骇俗，引起读者注意",
+      "evidence": "这句话岂不骇人听闻么？",
+      "confidence": 0.9
+    }
+  ],
+  "uncertainties": [
+    {
+      "item": "rhetorical_devices 中 device_type 是否应包含'反问'，但允许列表中无此类型，故暂用'不明'或忽略。",
+      "reason": "允许的 device_type 列表中没有'反问'，但 evidence 中明显是反问句。"
+    }
+  ]
+}

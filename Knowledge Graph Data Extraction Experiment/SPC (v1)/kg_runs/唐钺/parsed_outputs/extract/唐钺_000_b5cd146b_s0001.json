@@ -1,0 +1,412 @@
+{
+  "metadata": {
+    "schema_version": "lite_v2.0",
+    "article_id": "唐钺_000_b5cd146b",
+    "article_title": "心理现象与因果律",
+    "source_author": "唐钺",
+    "section_title": "",
+    "section_author": "",
+    "segment_id": "唐钺_000_b5cd146b_s0001",
+    "segment_index": 1,
+    "source_file": "E:\\1研究生\\岭南大学\\论文毕业\\capstone\\资料\\新的内容开始了\\local_upload\\input_w1\\唐钺.txt"
+  },
+  "entities": [
+    {
+      "id": "e1",
+      "name": "因果律",
+      "canonical_name": "因果律",
+      "type": "概念",
+      "evidence": "因果律是从经验得来的。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e2",
+      "name": "初民",
+      "canonical_name": "初民",
+      "type": "阵营/群体",
+      "evidence": "初民及幼儿每每不知道有因果律",
+      "confidence": 1.0
+    },
+    {
+      "id": "e3",
+      "name": "幼儿",
+      "canonical_name": "幼儿",
+      "type": "阵营/群体",
+      "evidence": "初民及幼儿每每不知道有因果律",
+      "confidence": 1.0
+    },
+    {
+      "id": "e4",
+      "name": "无因论者",
+      "canonical_name": "无因论者",
+      "type": "阵营/群体",
+      "evidence": "无因论者（为便利起见，我称主张心理现象是不受因果律所支配的人做无因论者；下文仿此）",
+      "confidence": 1.0
+    },
+    {
+      "id": "e5",
+      "name": "因果律是理性中所固有的",
+      "canonical_name": "因果律是理性中所固有的",
+      "type": "观点",
+      "evidence": "说因果律是理性中所固有的，是先乎经验的范畴。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e6",
+      "name": "心理现象",
+      "canonical_name": "心理现象",
+      "type": "概念",
+      "evidence": "心理现象当然不能除外",
+      "confidence": 1.0
+    },
+    {
+      "id": "e7",
+      "name": "本体",
+      "canonical_name": "本体",
+      "type": "概念",
+      "evidence": "因为他主张本体不可经验",
+      "confidence": 1.0
+    },
+    {
+      "id": "e8",
+      "name": "现象",
+      "canonical_name": "现象",
+      "type": "概念",
+      "evidence": "所经验者都是现象",
+      "confidence": 1.0
+    },
+    {
+      "id": "e9",
+      "name": "因果范畴",
+      "canonical_name": "因果范畴",
+      "type": "概念",
+      "evidence": "一切现象，都是受因果范畴的支配",
+      "confidence": 1.0
+    },
+    {
+      "id": "e10",
+      "name": "罗素",
+      "canonical_name": "罗素",
+      "type": "人物",
+      "evidence": "若用罗素的说法",
+      "confidence": 1.0
+    },
+    {
+      "id": "e11",
+      "name": "因果的关系",
+      "canonical_name": "因果关系",
+      "type": "概念",
+      "evidence": "因果的关系，不是说同一个因必有同一个果，乃说同一种的因必有同一种的果。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e12",
+      "name": "力学公式",
+      "canonical_name": "力学公式",
+      "type": "概念",
+      "evidence": "这种浪花，我们知道是依着力学公式的",
+      "confidence": 1.0
+    },
+    {
+      "id": "e13",
+      "name": "力学专家",
+      "canonical_name": "力学专家",
+      "type": "阵营/群体",
+      "evidence": "就是力学专家，要预断所喷出百千点浪花的大小、方向、速度，恐怕也只好敬谢不敏了。",
+      "confidence": 1.0
+    }
+  ],
+  "claims": [
+    {
+      "id": "c1",
+      "speaker": "唐钺",
+      "claim": "因果律是从经验得来的。",
+      "target": "因果律",
+      "claim_type": "知识论主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "因果律是从经验得来的。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c2",
+      "speaker": "唐钺",
+      "claim": "初民及幼儿每每不知道有因果律",
+      "target": "初民",
+      "claim_type": "历史解释",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "初民及幼儿每每不知道有因果律，所以往往有可笑的幻想同奢望。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c3",
+      "speaker": "康德",
+      "claim": "一切现象，都是受因果范畴的支配",
+      "target": "现象",
+      "claim_type": "知识论主张",
+      "claim_status": "直接引用",
+      "polarity": "positive",
+      "evidence": "因为康德说一切现象，都是受因果范畴的支配",
+      "confidence": 1.0
+    },
+    {
+      "id": "c4",
+      "speaker": "康德",
+      "claim": "本体不可经验，所经验者都是现象",
+      "target": "本体",
+      "claim_type": "知识论主张",
+      "claim_status": "直接引用",
+      "polarity": "positive",
+      "evidence": "因为他主张本体不可经验，所经验者都是现象",
+      "confidence": 1.0
+    },
+    {
+      "id": "c5",
+      "speaker": "唐钺",
+      "claim": "心理现象，是经验内的事，当然不是本体",
+      "target": "心理现象",
+      "claim_type": "知识论主张",
+      "claim_status": "作者推论",
+      "polarity": "positive",
+      "evidence": "心理现象，是经验内的事，当然不是本体。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c6",
+      "speaker": "唐钺",
+      "claim": "因果律的来源，与本题无大关系",
+      "target": "因果律",
+      "claim_type": "论战策略批评",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "但是，因果律的来源，与本题无大关系",
+      "confidence": 1.0
+    },
+    {
+      "id": "c7",
+      "speaker": "唐钺",
+      "claim": "我不赞成康德的因果观",
+      "target": "康德",
+      "claim_type": "价值评价",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "并且我不赞成康德的因果观",
+      "confidence": 1.0
+    },
+    {
+      "id": "c8",
+      "speaker": "唐钺",
+      "claim": "我们知道甲因生乙果，并用不着知道甲乙的详情细节。",
+      "target": "因果律",
+      "claim_type": "知识论主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "我们知道甲因生乙果，并用不着知道甲乙的详情细节。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c9",
+      "speaker": "唐钺",
+      "claim": "火因必有烧纸之果",
+      "target": "因果律",
+      "claim_type": "例证",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "一张纸放在火里头，是要烧着的。火焰的顷刻万变，纸被烧的状态和速度，我们不用知道，而可以断定火因必有烧纸之果。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c10",
+      "speaker": "罗素",
+      "claim": "因果的关系，不是说同一个因必有同一个果，乃说同一种的因必有同一种的果。",
+      "target": "因果的关系",
+      "claim_type": "定义性主张",
+      "claim_status": "直接引用",
+      "polarity": "positive",
+      "evidence": "若用罗素的说法，就是因果的关系，不是说同一个因必有同一个果，乃说同一种的因必有同一种的果。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c11",
+      "speaker": "唐钺",
+      "claim": "有时我们明明知道一现象有因果，而不能由因推果或由果推因：这是因为因果过于复杂的缘故。",
+      "target": "因果律",
+      "claim_type": "知识论主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "有时我们明明知道一现象有因果，而不能由因推果或由果推因：这是因为因果过于复杂的缘故。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c12",
+      "speaker": "唐钺",
+      "claim": "不能以我们不会推知为该现象无因的理由",
+      "target": "因果律",
+      "claim_type": "方法论主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "所以不能以我们不会推知为该现象无因的理由。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c13",
+      "speaker": "唐钺",
+      "claim": "浪花的情状是有因的",
+      "target": "因果律",
+      "claim_type": "知识论主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "然而我却不能因此说浪花的情状是无因的。",
+      "confidence": 1.0
+    }
+  ],
+  "relations": [
+    {
+      "id": "r1",
+      "head": "康德",
+      "head_type": "人物",
+      "relation": "主张",
+      "tail": "一切现象，都是受因果范畴的支配",
+      "tail_type": "观点",
+      "polarity": "positive",
+      "evidence": "因为康德说一切现象，都是受因果范畴的支配",
+      "confidence": 1.0
+    },
+    {
+      "id": "r2",
+      "head": "唐钺",
+      "head_type": "人物",
+      "relation": "批评",
+      "tail": "康德",
+      "tail_type": "人物",
+      "polarity": "negative",
+      "evidence": "并且我不赞成康德的因果观，也不屑把他来驳无因论。",
+      "confidence": 1.0
+    },
+    {
+      "id": "r3",
+      "head": "唐钺",
+      "head_type": "人物",
+      "relation": "相关",
+      "tail": "罗素",
+      "tail_type": "人物",
+      "polarity": "positive",
+      "evidence": "若用罗素的说法，就是因果的关系，不是说同一个因必有同一个果，乃说同一种的因必有同一种的果。",
+      "confidence": 1.0
+    },
+    {
+      "id": "r4",
+      "head": "因果过于复杂",
+      "head_type": "概念",
+      "relation": "导致",
+      "tail": "不能由因推果或由果推因",
+      "tail_type": "概念",
+      "polarity": "neutral",
+      "evidence": "有时我们明明知道一现象有因果，而不能由因推果或由果推因：这是因为因果过于复杂的缘故。",
+      "confidence": 1.0
+    }
+  ],
+  "definitions": [
+    {
+      "id": "def1",
+      "term": "无因论者",
+      "definition": "主张心理现象是不受因果律所支配的人",
+      "evidence": "我称主张心理现象是不受因果律所支配的人做无因论者",
+      "confidence": 1.0
+    },
+    {
+      "id": "def2",
+      "term": "因果的关系",
+      "definition": "不是说同一个因必有同一个果，乃说同一种的因必有同一种的果",
+      "evidence": "若用罗素的说法，就是因果的关系，不是说同一个因必有同一个果，乃说同一种的因必有同一种的果。",
+      "confidence": 1.0
+    }
+  ],
+  "citations": [
+    {
+      "id": "cit1",
+      "citer": "唐钺",
+      "quoted_author": "康德",
+      "quoted_work": "",
+      "quoted_claim": "一切现象，都是受因果范畴的支配",
+      "function": "援引权威反驳",
+      "evidence": "因为康德说一切现象，都是受因果范畴的支配，心理现象当然不能除外。",
+      "confidence": 1.0
+    },
+    {
+      "id": "cit2",
+      "citer": "唐钺",
+      "quoted_author": "康德",
+      "quoted_work": "",
+      "quoted_claim": "本体不可经验，所经验者都是现象",
+      "function": "援引权威反驳",
+      "evidence": "因为他主张本体不可经验，所经验者都是现象。心理现象，是经验内的事，当然不是本体。",
+      "confidence": 1.0
+    },
+    {
+      "id": "cit3",
+      "citer": "唐钺",
+      "quoted_author": "罗素",
+      "quoted_work": "",
+      "quoted_claim": "因果的关系，不是说同一个因必有同一个果，乃说同一种的因必有同一种的果",
+      "function": "援引权威支持",
+      "evidence": "若用罗素的说法，就是因果的关系，不是说同一个因必有同一个果，乃说同一种的因必有同一种的果。",
+      "confidence": 1.0
+    }
+  ],
+  "rhetorical_devices": [
+    {
+      "id": "rh1",
+      "expression": "可笑的幻想同奢望",
+      "device_type": "讽刺",
+      "literal_target": "初民及幼儿不知道因果律时的想法",
+      "function": "通过贬低性描述强化因果律普遍性的论证",
+      "evidence": "初民及幼儿每每不知道有因果律，所以往往有可笑的幻想同奢望。",
+      "confidence": 1.0
+    },
+    {
+      "id": "rh2",
+      "expression": "自讨苦吃",
+      "device_type": "讽刺",
+      "literal_target": "无因论者引用康德主张可能带来的后果",
+      "function": "讽刺无因论者引用康德反而会自相矛盾",
+      "evidence": "无因论者恐怕要自讨苦吃。",
+      "confidence": 1.0
+    },
+    {
+      "id": "rh3",
+      "expression": "敬谢不敏",
+      "device_type": "讽刺",
+      "literal_target": "力学专家无法预断浪花细节",
+      "function": "以谦辞反讽，说明不能推知不等于无因",
+      "evidence": "就是力学专家，要预断所喷出百千点浪花的大小、方向、速度，恐怕也只好敬谢不敏了。",
+      "confidence": 1.0
+    }
+  ],
+  "uncertainties": [
+    {
+      "item": "唐钺对康德因果观的具体批评内容",
+      "reason": "文本只说'我不赞成康德的因果观，也不屑把他来驳无因论'，但未说明不赞成的具体理由。"
+    }
+  ],
+  "_meta": {
+    "status": "success",
+    "stage": "extract",
+    "model": "deepseek-ai/DeepSeek-V4-Flash",
+    "base_url": "https://api.siliconflow.cn/v1",
+    "prompt_version": "extract_prompt_v2.0",
+    "schema_version": "lite_v2.0",
+    "segment_id": "唐钺_000_b5cd146b_s0001",
+    "article_id": "唐钺_000_b5cd146b",
+    "char_start": 484,
+    "char_end": 1073,
+    "raw_path": "E:\\1研究生\\岭南大学\\论文毕业\\capstone\\资料\\新的内容开始了\\local_upload\\kg_runs\\唐钺\\raw_outputs\\extract\\唐钺_000_b5cd146b_s0001.txt",
+    "parsed_at": "2026-05-20T01:32:41",
+    "started_at": "2026-05-20T01:29:45",
+    "elapsed_seconds": 175.782,
+    "strict_evidence_check": true,
+    "drop_unsupported_evidence": true,
+    "request_timeout_seconds": 180
+  }
+}

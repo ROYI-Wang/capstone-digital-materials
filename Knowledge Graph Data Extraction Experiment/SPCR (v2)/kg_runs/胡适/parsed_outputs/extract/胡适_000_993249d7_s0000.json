@@ -1,0 +1,253 @@
+{
+  "metadata": {
+    "schema_version": "lite_v3.0",
+    "article_id": "胡适_000_993249d7",
+    "article_title": "序二",
+    "source_author": "胡适",
+    "section_title": "",
+    "section_author": "",
+    "segment_id": "胡适_000_993249d7_s0000",
+    "segment_index": 0,
+    "source_file": "E:\\1研究生\\岭南大学\\论文毕业\\capstone\\资料\\新的内容开始了\\local_upload\\input_胡适\\胡适.txt"
+  },
+  "entities": [
+    {
+      "id": "e1",
+      "name": "亚东图书馆主人汪孟邹先生",
+      "canonical_name": "汪孟邹",
+      "type": "人物",
+      "evidence": "亚东图书馆主人汪孟邹先生近来把散见国内各种杂志上的讨论科学与人生观的文章搜集印行，总名为“科学与人生观”。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e2",
+      "name": "科学与人生观",
+      "canonical_name": "科学与人生观",
+      "type": "著作",
+      "evidence": "亚东图书馆主人汪孟邹先生近来把散见国内各种杂志上的讨论科学与人生观的文章搜集印行，总名为“科学与人生观”。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e3",
+      "name": "丁在君先生",
+      "canonical_name": "丁在君",
+      "type": "人物",
+      "evidence": "当时丁在君先生极不赞成停刊之议，他自己做了几篇长文，使我好往南方休息一会。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e4",
+      "name": "《玄学与科学》",
+      "canonical_name": "玄学与科学",
+      "type": "文章",
+      "evidence": "我看了他的《玄学与科学》，心里很高兴，曾对他说，假使《努力》以后向这个新方向去谋发展——假使我们以后为科学作战——《努力》便有了新生命，我们也有了新兴趣，我从南方回来，一定也要加入战斗的。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e5",
+      "name": "《努力》",
+      "canonical_name": "努力周报",
+      "type": "著作",
+      "evidence": "我看了他的《玄学与科学》，心里很高兴，曾对他说，假使《努力》以后向这个新方向去谋发展——假使我们以后为科学作战——《努力》便有了新生命，我们也有了新兴趣，我从南方回来，一定也要加入战斗的。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e6",
+      "name": "《孙行者与张君劢》",
+      "canonical_name": "孙行者与张君劢",
+      "type": "文章",
+      "evidence": "在病中我只做了一篇很不庄重的《孙行者与张君劢》，此外竟不曾加入一拳一脚，岂不成了一个逃兵了。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e7",
+      "name": "张君劢",
+      "canonical_name": "张君劢",
+      "type": "人物",
+      "evidence": "在病中我只做了一篇很不庄重的《孙行者与张君劢》，此外竟不曾加入一拳一脚，岂不成了一个逃兵了。",
+      "confidence": 1.0
+    }
+  ],
+  "claims": [
+    {
+      "id": "c1",
+      "speaker": "胡适",
+      "claim": "在这回空前的思想界大笔战的战场上，我要算一个逃兵了。",
+      "target": "",
+      "claim_type": "评价性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "在这回空前的思想界大笔战的战场上，我要算一个逃兵了。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c2",
+      "speaker": "胡适",
+      "claim": "假使《努力》以后向这个新方向去谋发展——假使我们以后为科学作战——《努力》便有了新生命，我们也有了新兴趣，我从南方回来，一定也要加入战斗的。",
+      "target": "",
+      "claim_type": "假设情境",
+      "claim_status": "作者推论",
+      "polarity": "positive",
+      "evidence": "假使《努力》以后向这个新方向去谋发展——假使我们以后为科学作战——《努力》便有了新生命，我们也有了新兴趣，我从南方回来，一定也要加入战斗的。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c3",
+      "speaker": "胡适",
+      "claim": "我如何敢以逃兵的资格来议论战场上各位武士的成绩呢？",
+      "target": "",
+      "claim_type": "问题提出",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "我如何敢以逃兵的资格来议论战场上各位武士的成绩呢？",
+      "confidence": 1.0
+    },
+    {
+      "id": "c4",
+      "speaker": "胡适",
+      "claim": "论战的材料太多，看这部大书的人不免有“目迷五色”的感觉，多作一篇综合的序论也许可以帮助读者对于论点的了解。",
+      "target": "",
+      "claim_type": "描述性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "因为论战的材料太多，看这部大书的人不免有“目迷五色”的感觉，多作一篇综合的序论也许可以帮助读者对于论点的了解。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c5",
+      "speaker": "胡适",
+      "claim": "有几个重要的争点，或者不曾充分发挥，或者被埋没在这二十五万字的大海里，不容易引起读者的注意，似乎都有特别点出的需要。",
+      "target": "",
+      "claim_type": "描述性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "有几个重要的争点，或者不曾充分发挥，或者被埋没在这二十五万字的大海里，不容易引起读者的注意，似乎都有特别点出的需要。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c6",
+      "speaker": "胡适",
+      "claim": "这三十年来，有一个名词在国内几乎做到了无上尊严的地位；",
+      "target": "",
+      "claim_type": "描述性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "这三十年来，有一个名词在国内几乎做到了无上尊严的地位；",
+      "confidence": 0.8
+    }
+  ],
+  "relations": [
+    {
+      "id": "r1",
+      "head": "汪孟邹",
+      "head_type": "人物",
+      "relation": "主张",
+      "relation_subtype": "不适用",
+      "tail": "科学与人生观",
+      "tail_type": "著作",
+      "polarity": "neutral",
+      "stance_score": 0.0,
+      "intensity": 0.0,
+      "evidence": "亚东图书馆主人汪孟邹先生近来把散见国内各种杂志上的讨论科学与人生观的文章搜集印行，总名为“科学与人生观”。",
+      "confidence": 1.0
+    },
+    {
+      "id": "r2",
+      "head": "丁在君",
+      "head_type": "人物",
+      "relation": "反对",
+      "relation_subtype": "一般批评",
+      "tail": "停刊之议",
+      "tail_type": "观点",
+      "polarity": "negative",
+      "stance_score": -0.5,
+      "intensity": 0.5,
+      "evidence": "当时丁在君先生极不赞成停刊之议，他自己做了几篇长文，使我好往南方休息一会。",
+      "confidence": 1.0
+    },
+    {
+      "id": "r3",
+      "head": "胡适",
+      "head_type": "人物",
+      "relation": "相关",
+      "relation_subtype": "一般批评",
+      "tail": "《孙行者与张君劢》",
+      "tail_type": "文章",
+      "polarity": "negative",
+      "stance_score": -0.5,
+      "intensity": 0.5,
+      "evidence": "在病中我只做了一篇很不庄重的《孙行者与张君劢》，此外竟不曾加入一拳一脚，岂不成了一个逃兵了。",
+      "confidence": 1.0
+    },
+    {
+      "id": "r4",
+      "head": "胡适",
+      "head_type": "人物",
+      "relation": "解释",
+      "relation_subtype": "不适用",
+      "tail": "作这篇序",
+      "tail_type": "观点",
+      "polarity": "neutral",
+      "stance_score": 0.0,
+      "intensity": 0.0,
+      "evidence": "因此，我就大胆地作这篇序了。",
+      "confidence": 1.0
+    }
+  ],
+  "definitions": [],
+  "citations": [],
+  "rhetorical_devices": [
+    {
+      "id": "rh1",
+      "expression": "逃兵",
+      "device_type": "比喻",
+      "literal_target": "胡适自己",
+      "function": "自嘲，表达未参与论战",
+      "evidence": "在这回空前的思想界大笔战的战场上，我要算一个逃兵了。",
+      "confidence": 1.0
+    },
+    {
+      "id": "rh2",
+      "expression": "武士",
+      "device_type": "比喻",
+      "literal_target": "参与论战的人",
+      "function": "比喻论战参与者为武士，突出战斗性",
+      "evidence": "我如何敢以逃兵的资格来议论战场上各位武士的成绩呢？",
+      "confidence": 1.0
+    },
+    {
+      "id": "rh3",
+      "expression": "目迷五色",
+      "device_type": "比喻",
+      "literal_target": "读者因材料多而困惑",
+      "function": "形容材料繁多导致读者难以分辨",
+      "evidence": "因为论战的材料太多，看这部大书的人不免有“目迷五色”的感觉，多作一篇综合的序论也许可以帮助读者对于论点的了解。",
+      "confidence": 1.0
+    }
+  ],
+  "uncertainties": [
+    {
+      "item": "“有一个名词”具体指什么",
+      "reason": "文本未明确说明该名词是什么，仅说“有一个名词”，可能指“科学”，但证据不足。"
+    }
+  ],
+  "_meta": {
+    "status": "success",
+    "stage": "extract",
+    "model": "deepseek-ai/DeepSeek-V4-Flash",
+    "base_url": "https://api.siliconflow.cn/v1",
+    "prompt_version": "v2.0",
+    "schema_version": "lite_v3.0",
+    "segment_id": "胡适_000_993249d7_s0000",
+    "article_id": "胡适_000_993249d7",
+    "char_start": 0,
+    "char_end": 585,
+    "raw_path": "E:\\1研究生\\岭南大学\\论文毕业\\capstone\\资料\\新的内容开始了\\local_upload\\kg_runs_v2\\胡适\\raw_outputs\\extract\\胡适_000_993249d7_s0000.txt",
+    "parsed_at": "2026-05-21T15:58:44",
+    "started_at": "2026-05-21T15:56:23",
+    "elapsed_seconds": 141.238,
+    "strict_evidence_check": true,
+    "drop_unsupported_evidence": true,
+    "request_timeout_seconds": 180
+  }
+}

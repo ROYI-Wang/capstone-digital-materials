@@ -1,0 +1,435 @@
+{
+  "metadata": {
+    "schema_version": "lite_v3.0",
+    "article_id": "菊农_000_b90d5dfb",
+    "article_title": "人格与教育",
+    "source_author": "菊农",
+    "section_title": "",
+    "section_author": "",
+    "segment_id": "菊农_000_b90d5dfb_s0001",
+    "segment_index": 1,
+    "source_file": "E:\\1研究生\\岭南大学\\论文毕业\\capstone\\资料\\新的内容开始了\\local_upload\\input_v2_w1\\菊农.txt"
+  },
+  "entities": [
+    {
+      "id": "e1",
+      "name": "文艺复兴",
+      "canonical_name": "文艺复兴",
+      "type": "历史事件",
+      "evidence": "文艺复兴在艺术、文学与哲学，乃至于科学上的成功我们不能亦不愿意否认。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e2",
+      "name": "经济方面",
+      "canonical_name": "经济方面",
+      "type": "概念",
+      "evidence": "吃苦最利害的当然要算经济方面和教育方面了。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e3",
+      "name": "教育方面",
+      "canonical_name": "教育方面",
+      "type": "概念",
+      "evidence": "吃苦最利害的当然要算经济方面和教育方面了。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e4",
+      "name": "自由竞争的经济制度",
+      "canonical_name": "自由竞争的经济制度",
+      "type": "概念",
+      "evidence": "在自由竞争的经济制度上那里能有真幸福与真自由；",
+      "confidence": 1.0
+    },
+    {
+      "id": "e5",
+      "name": "欧洲的大战",
+      "canonical_name": "欧洲的大战",
+      "type": "历史事件",
+      "evidence": "欧洲的大战和近十余年来猛烈的社会改造运动，以及劳动界的不安宁，都是“不打自招的供状”。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e6",
+      "name": "社会改造运动",
+      "canonical_name": "社会改造运动",
+      "type": "历史事件",
+      "evidence": "欧洲的大战和近十余年来猛烈的社会改造运动，以及劳动界的不安宁，都是“不打自招的供状”。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e7",
+      "name": "劳动界的不安宁",
+      "canonical_name": "劳动界的不安宁",
+      "type": "历史事件",
+      "evidence": "欧洲的大战和近十余年来猛烈的社会改造运动，以及劳动界的不安宁，都是“不打自招的供状”。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e8",
+      "name": "教育问题",
+      "canonical_name": "教育问题",
+      "type": "问题",
+      "evidence": "现在要研究的便是教育问题。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e9",
+      "name": "时代的人生哲学",
+      "canonical_name": "时代的人生哲学",
+      "type": "概念",
+      "evidence": "前面已经略略提到各种社会活动，大部分是由时代的人生哲学所形成，教育亦不能外此。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e10",
+      "name": "现代教育",
+      "canonical_name": "现代教育",
+      "type": "概念",
+      "evidence": "所以如果对于现代教育怀疑时，应当从根本上研究明了其所以致此之由，不应当仅仅在表面上批评他的制度乃至于课程，这样的批评，一定是搔痒不着。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e11",
+      "name": "个人主义机械主义",
+      "canonical_name": "个人主义机械主义",
+      "type": "主义/学说/理论",
+      "evidence": "现在教育是个人主义机械主义的教育；",
+      "confidence": 1.0
+    },
+    {
+      "id": "e12",
+      "name": "个人主义机械主义的人生观",
+      "canonical_name": "个人主义机械主义的人生观",
+      "type": "主义/学说/理论",
+      "evidence": "须要根本上打破个人主义机械主义的人生观，建设新的人生哲学，从这新的人生哲学上出发，教育乃可以言改革。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e13",
+      "name": "新的人生哲学",
+      "canonical_name": "新的人生哲学",
+      "type": "主义/学说/理论",
+      "evidence": "须要根本上打破个人主义机械主义的人生观，建设新的人生哲学，从这新的人生哲学上出发，教育乃可以言改革。",
+      "confidence": 1.0
+    }
+  ],
+  "claims": [
+    {
+      "id": "c1",
+      "speaker": "菊农",
+      "claim": "文艺复兴在艺术、文学与哲学，乃至于科学上的成功我们不能亦不愿意否认。",
+      "target": "文艺复兴",
+      "claim_type": "评价性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "文艺复兴在艺术、文学与哲学，乃至于科学上的成功我们不能亦不愿意否认。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c2",
+      "speaker": "菊农",
+      "claim": "他所酿成的痛苦与烦闷却亦不容不承认。",
+      "target": "文艺复兴",
+      "claim_type": "评价性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "但是他所酿成的痛苦与烦闷却亦不容不承认。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c3",
+      "speaker": "菊农",
+      "claim": "在自由竞争的经济制度上那里能有真幸福与真自由；",
+      "target": "自由竞争的经济制度",
+      "claim_type": "评价性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "在自由竞争的经济制度上那里能有真幸福与真自由；",
+      "confidence": 1.0
+    },
+    {
+      "id": "c4",
+      "speaker": "菊农",
+      "claim": "欧洲的大战和近十余年来猛烈的社会改造运动，以及劳动界的不安宁，都是“不打自招的供状”。",
+      "target": "欧洲的大战",
+      "claim_type": "评价性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "欧洲的大战和近十余年来猛烈的社会改造运动，以及劳动界的不安宁，都是“不打自招的供状”。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c5",
+      "speaker": "菊农",
+      "claim": "教育方面呢，虽然“纸糊老虎”远看似乎看不出丝毫破绽来，但近看已经有无数的破洞了。",
+      "target": "教育方面",
+      "claim_type": "评价性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "教育方面呢，虽然“纸糊老虎”远看似乎看不出丝毫破绽来，但近看已经有无数的破洞了。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c6",
+      "speaker": "菊农",
+      "claim": "各种社会活动，大部分是由时代的人生哲学所形成，教育亦不能外此。",
+      "target": "时代的人生哲学",
+      "claim_type": "因果主张",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "前面已经略略提到各种社会活动，大部分是由时代的人生哲学所形成，教育亦不能外此。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c7",
+      "speaker": "菊农",
+      "claim": "如果对于现代教育怀疑时，应当从根本上研究明了其所以致此之由，不应当仅仅在表面上批评他的制度乃至于课程，这样的批评，一定是搔痒不着。",
+      "target": "现代教育",
+      "claim_type": "规范性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "所以如果对于现代教育怀疑时，应当从根本上研究明了其所以致此之由，不应当仅仅在表面上批评他的制度乃至于课程，这样的批评，一定是搔痒不着。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c8",
+      "speaker": "菊农",
+      "claim": "现代教育是文艺复兴后的产物，有好处呢，固然要谢文艺复兴；但是如果有坏处呢，亦是文艺复兴的责任。",
+      "target": "现代教育",
+      "claim_type": "因果主张",
+      "claim_status": "作者直接主张",
+      "polarity": "mixed",
+      "evidence": "现代教育是文艺复兴后的产物，有好处呢，固然要谢文艺复兴；但是如果有坏处呢，亦是文艺复兴的责任。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c9",
+      "speaker": "菊农",
+      "claim": "现在教育是个人主义机械主义的教育；好处或者固然亦有，但是这两种人生态度的坏处，现代的教育却完全承受了。",
+      "target": "现代教育",
+      "claim_type": "评价性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "现在教育是个人主义机械主义的教育；好处或者固然亦有，但是这两种人生态度的坏处，现代的教育却完全承受了。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c10",
+      "speaker": "菊农",
+      "claim": "在个人主义机械主义之下，当然发生这样的教育；",
+      "target": "个人主义机械主义",
+      "claim_type": "因果主张",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "在个人主义机械主义之下，当然发生这样的教育；",
+      "confidence": 1.0
+    },
+    {
+      "id": "c11",
+      "speaker": "菊农",
+      "claim": "改良现代的教育决不仅是形式的改革，科目的增删；须要根本上打破个人主义机械主义的人生观，建设新的人生哲学，从这新的人生哲学上出发，教育乃可以言改革。",
+      "target": "现代教育",
+      "claim_type": "规范性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "所以我们可以断言，改良现代的教育决不仅是形式的改革，科目的增删；须要根本上打破个人主义机械主义的人生观，建设新的人生哲学，从这新的人生哲学上出发，教育乃可以言改革。",
+      "confidence": 1.0
+    }
+  ],
+  "relations": [
+    {
+      "id": "r1",
+      "head": "文艺复兴",
+      "head_type": "历史事件",
+      "relation": "导致",
+      "relation_subtype": "不适用",
+      "tail": "痛苦与烦闷",
+      "tail_type": "概念",
+      "polarity": "negative",
+      "stance_score": -0.5,
+      "intensity": 0.6,
+      "evidence": "但是他所酿成的痛苦与烦闷却亦不容不承认。",
+      "confidence": 1.0
+    },
+    {
+      "id": "r2",
+      "head": "自由竞争的经济制度",
+      "head_type": "概念",
+      "relation": "导致",
+      "relation_subtype": "不适用",
+      "tail": "欧洲的大战",
+      "tail_type": "历史事件",
+      "polarity": "negative",
+      "stance_score": -0.8,
+      "intensity": 0.8,
+      "evidence": "欧洲的大战和近十余年来猛烈的社会改造运动，以及劳动界的不安宁，都是“不打自招的供状”。",
+      "confidence": Locked
+    },
+    {
+      "id": "r3",
+      "head": "自由竞争的经济制度",
+      "head_type": "概念",
+      "relation": "导致",
+      "relation_subtype": "不适用",
+      "tail": "社会改造运动",
+      "tail_type": "历史事件",
+      "polarity": "negative",
+      "stance_score": -0.8,
+      "intensity": 0.8,
+      "evidence": "欧洲的大战和近十余年来猛烈的社会改造运动，以及劳动界的不安宁，都是“不打自招的供状”。",
+      "confidence": 1.0
+    },
+    {
+      "id": "r4",
+      "head": "自由竞争的经济制度",
+      "head_type": "概念",
+      "relation": "导致",
+      "relation_subtype": "不适用",
+      "tail": "劳动界的不安宁",
+      "tail_type": "历史事件",
+      "polarity": "negative",
+      "stance_score": -0.8,
+      "intensity": 0.8,
+      "evidence": "欧洲的大战和近十余年来猛烈的社会改造运动，以及劳动界的不安宁，都是“不打自招的供状”。",
+      "confidence": 1.0
+    },
+    {
+      "id": "r5",
+      "head": "时代的人生哲学",
+      "head_type": "概念",
+      "relation": "导致",
+      "relation_subtype": "不适用",
+      "tail": "各种社会活动",
+      "tail_type": "概念",
+      "polarity": "neutral",
+      "stance_score": 0.0,
+      "intensity": 0.5,
+      "evidence": "前面已经略略提到各种社会活动，大部分是由时代的人生哲学所形成，教育亦不能外此。",
+      "confidence": 1.0
+    },
+    {
+      "id": "r6",
+      "head": "时代的人生哲学",
+      "head_type": "概念",
+      "relation": "导致",
+      "relation_subtype": "不适用",
+      "tail": "教育",
+      "tail_type": "概念",
+      "polarity": "neutral",
+      "stance_score": 0.0,
+      "intensity": 0.5,
+      "evidence": "前面已经略略提到各种社会活动，大部分是由时代的人生哲学所形成，教育亦不能外此。",
+      "confidence": 1.0
+    },
+    {
+      "id": "r7",
+      "head": "现代教育",
+      "head_type": "概念",
+      "relation": "归因于",
+      "relation_subtype": "不适用",
+      "tail": "文艺复兴",
+      "tail_type": "历史事件",
+      "polarity": "neutral",
+      "stance_score": 0.0,
+      "intensity": 0.5,
+      "evidence": "现代教育是文艺复兴后的产物，有好处呢，固然要谢文艺复兴；但是如果有坏处呢，亦是文艺复兴的责任。",
+      "confidence": 1.0
+    },
+    {
+      "id": "r8",
+      "head": "现代教育",
+      "head_type": "概念",
+      "relation": "归因于",
+      "relation_subtype": "不适用",
+      "tail": "个人主义机械主义",
+      "tail_type": "主义/学说/理论",
+      "polarity": "negative",
+      "stance_score": -0.7,
+      "intensity": 0.7,
+      "evidence": "现在教育是个人主义机械主义的教育；好处或者固然亦有，但是这两种人生态度的坏处，现代的教育却完全承受了。",
+      "confidence": 1.0
+    },
+    {
+      "id": "r9",
+      "head": "个人主义机械主义",
+      "head_type": "主义/学说/理论",
+      "relation": "导致",
+      "relation_subtype": "不适用",
+      "tail": "这样的教育",
+      "tail_type": "概念",
+      "polarity": "neutral",
+      "stance_score": 0.0,
+      "intensity": 0.5,
+      "evidence": "在个人主义机械主义之下，当然发生这样的教育；",
+      "confidence": 1.0
+    },
+    {
+      "id": "r10",
+      "head": "改良现代的教育",
+      "head_type": "概念",
+      "relation": "主张",
+      "relation_subtype": "不适用",
+      "tail": "打破个人主义机械主义的人生观",
+      "tail_type": "主义/学说/理论",
+      "polarity": "positive",
+      "stance_score": 1.0,
+      "intensity": 0.9,
+      "evidence": "所以我们可以断言，改良现代的教育决不仅是形式的改革，科目的增删；须要根本上打破个人主义机械主义的人生观，建设新的人生哲学，从这新的人生哲学上出发，教育乃可以言改革。",
+      "confidence": 1.0
+    },
+    {
+      "id": "r11",
+      "head": "改良现代的教育",
+      "head_type": "概念",
+      "relation": "主张",
+      "relation_subtype": "不适用",
+      "tail": "建设新的人生哲学",
+      "tail_type": "主义/学说/理论",
+      "polarity": "positive",
+      "stance_score": 1.0,
+      "intensity": 0.9,
+      "evidence": "所以我们可以断言，改良现代的教育决不仅是形式的改革，科目的增删；须要根本上打破个人主义机械主义的人生观，建设新的人生哲学，从这新的人生哲学上出发，教育乃可以言改革。",
+      "confidence": 1.0
+    }
+  ],
+  "definitions": [],
+  "citations": [],
+  "rhetorical_devices": [
+    {
+      "id": "rh1",
+      "expression": "不打自招的供状",
+      "device_type": "比喻",
+      "literal_target": "欧洲的大战、社会改造运动、劳动界的不安宁",
+      "function": "形象化地说明自由竞争经济制度的弊端已经暴露无遗",
+      "evidence": "欧洲的大战和近十余年来猛烈的社会改造运动，以及劳动界的不安宁，都是“不打自招的供状”。",
+      "confidence": 1.0
+    },
+    {
+      "id": "rh2",
+      "expression": "纸糊老虎",
+      "device_type": "比喻",
+      "literal_target": "教育方面",
+      "function": "形象化地说明教育表面看似完好，实则问题重重",
+      "evidence": "教育方面呢，虽然“纸糊老虎”远看似乎看不出丝毫破绽来，但近看已经有无数的破洞了。",
+      "confidence": 1.0
+    },
+    {
+      "id": "rh3",
+      "expression": "搔痒不着",
+      "device_type": "比喻",
+      "literal_target": "仅仅在表面上批评教育的制度乃至于课程",
+      "function": "批评表面批评无法触及根本问题",
+      "evidence": "不应当仅仅在表面上批评他的制度乃至于课程，这样的批评，一定是搔痒不着。",
+      "confidence": 1.0
+    }
+  ],
+  "uncertainties": [
+    {
+      "item": "r2 的 confidence 字段被错误地写为 'Locked'，应为数值",
+      "reason": "输出时笔误，应修正为 1.0"
+    }
+  ]
+}

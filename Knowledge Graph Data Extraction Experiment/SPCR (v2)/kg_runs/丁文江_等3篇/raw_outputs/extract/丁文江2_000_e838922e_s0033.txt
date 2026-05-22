@@ -1,0 +1,421 @@
+{
+  "metadata": {
+    "schema_version": "lite_v3.0",
+    "article_id": "丁文江2_000_e838922e",
+    "article_title": "玄学与科学——答张君劢",
+    "source_author": "丁文江",
+    "section_title": "",
+    "section_author": "",
+    "segment_id": "丁文江2_000_e838922e_s0033",
+    "segment_index": 33,
+    "source_file": "E:\\1研究生\\岭南大学\\论文毕业\\capstone\\资料\\新的内容开始了\\local_upload\\input_丁文江\\丁文江2.txt"
+  },
+  "entities": [
+    {
+      "id": "e1",
+      "name": "作者",
+      "canonical_name": "作者",
+      "type": "人物",
+      "evidence": "这就是作者的人生观，究竟比张君劢的那一个适宜于现在的世界，请读者自择！",
+      "confidence": 1.0
+    },
+    {
+      "id": "e2",
+      "name": "张君劢",
+      "canonical_name": "张君劢",
+      "type": "人物",
+      "evidence": "这就是作者的人生观，究竟比张君劢的那一个适宜于现在的世界，请读者自择！",
+      "confidence": 1.0
+    },
+    {
+      "id": "e3",
+      "name": "读者",
+      "canonical_name": "读者",
+      "type": "阵营/群体",
+      "evidence": "这就是作者的人生观，究竟比张君劢的那一个适宜于现在的世界，请读者自择！",
+      "confidence": 1.0
+    },
+    {
+      "id": "e4",
+      "name": "君劢",
+      "canonical_name": "君劢",
+      "type": "人物",
+      "evidence": "君劢答词里面的枝叶是千头万绪，驳不胜驳。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e5",
+      "name": "武断与事实",
+      "canonical_name": "武断与事实",
+      "type": "概念",
+      "evidence": "（一）武断与事实",
+      "confidence": 1.0
+    },
+    {
+      "id": "e6",
+      "name": "学术上的天经地义",
+      "canonical_name": "学术上的天经地义",
+      "type": "概念",
+      "evidence": "我不知道君劢的文章里面有几条“不容动摇”的“学术上的天经地义”（中篇，第三，第一段）",
+      "confidence": 1.0
+    },
+    {
+      "id": "e7",
+      "name": "武断之分析",
+      "canonical_name": "武断之分析",
+      "type": "概念",
+      "evidence": "我没有功夫做一个完备的“武断之分析”",
+      "confidence": 1.0
+    },
+    {
+      "id": "e8",
+      "name": "国人",
+      "canonical_name": "国人",
+      "type": "阵营/群体",
+      "evidence": "（例一）“国人迷信科学”，“国人之思想混沌若此”；请问君劢的“国人”是指的谁？",
+      "confidence": 1.0
+    },
+    {
+      "id": "e9",
+      "name": "科学",
+      "canonical_name": "科学",
+      "type": "概念",
+      "evidence": "（例一）“国人迷信科学”",
+      "confidence": 1.0
+    },
+    {
+      "id": "e10",
+      "name": "玄学",
+      "canonical_name": "玄学",
+      "type": "概念",
+      "evidence": "最奇怪的是他说，“国人所以闻玄学之名而恶之者，盖惑于孔德氏人智进化三时期之说也。”",
+      "confidence": 1.0
+    },
+    {
+      "id": "e11",
+      "name": "孔德氏人智进化三时期之说",
+      "canonical_name": "孔德氏人智进化三时期之说",
+      "type": "主义/学说/理论",
+      "evidence": "最奇怪的是他说，“国人所以闻玄学之名而恶之者，盖惑于孔德氏人智进化三时期之说也。”",
+      "confidence": 1.0
+    },
+    {
+      "id": "e12",
+      "name": "孔德",
+      "canonical_name": "孔德",
+      "type": "人物",
+      "evidence": "只可惜我并没有读过孔德的书。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e13",
+      "name": "今国中号为学问家者",
+      "canonical_name": "今国中号为学问家者",
+      "type": "阵营/群体",
+      "evidence": "（例二）“今国中号为学问家者，何一人能真有发明，大家皆抄袭外人之言耳”。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e14",
+      "name": "地质调查所",
+      "canonical_name": "地质调查所",
+      "type": "阵营/群体",
+      "evidence": "我请君劢看看地质调查所出版的书",
+      "confidence": 1.0
+    },
+    {
+      "id": "e15",
+      "name": "翁文灏",
+      "canonical_name": "翁文灏",
+      "type": "人物",
+      "evidence": "其中翁文灏的《矿产区域论》同《地震与地质构造》，这一次国际地质学会的外国人，都说他“真有发明”。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e16",
+      "name": "《矿产区域论》",
+      "canonical_name": "《矿产区域论》",
+      "type": "著作",
+      "evidence": "其中翁文灏的《矿产区域论》同《地震与地质构造》",
+      "confidence": 1.0
+    },
+    {
+      "id": "e17",
+      "name": "《地震与地质构造》",
+      "canonical_name": "《地震与地质构造》",
+      "type": "著作",
+      "evidence": "其中翁文灏的《矿产区域论》同《地震与地质构造》",
+      "confidence": 1.0
+    },
+    {
+      "id": "e18",
+      "name": "国际地质学会的外国人",
+      "canonical_name": "国际地质学会的外国人",
+      "type": "阵营/群体",
+      "evidence": "这一次国际地质学会的外国人，都说他“真有发明”。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e19",
+      "name": "《扬子江下游之地质》",
+      "canonical_name": "《扬子江下游之地质》",
+      "type": "著作",
+      "evidence": "就是作者的《扬子江下游之地质》同《云南东部之地层构造》",
+      "confidence": 1.0
+    },
+    {
+      "id": "e20",
+      "name": "《云南东部之地层构造》",
+      "canonical_name": "《云南东部之地层构造》",
+      "type": "著作",
+      "evidence": "就是作者的《扬子江下游之地质》同《云南东部之地层构造》",
+      "confidence": 1.0
+    }
+  ],
+  "claims": [
+    {
+      "id": "c1",
+      "speaker": "作者",
+      "claim": "这就是作者的人生观，究竟比张君劢的那一个适宜于现在的世界，请读者自择！",
+      "target": "读者",
+      "claim_type": "结论性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "这就是作者的人生观，究竟比张君劢的那一个适宜于现在的世界，请读者自择！",
+      "confidence": 1.0
+    },
+    {
+      "id": "c2",
+      "speaker": "作者",
+      "claim": "君劢答词里面的枝叶是千头万绪，驳不胜驳。",
+      "target": "君劢",
+      "claim_type": "评价性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "君劢答词里面的枝叶是千头万绪，驳不胜驳。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c3",
+      "speaker": "作者",
+      "claim": "学术上本来就没有“天经地义”；你越不容人家动摇他，他自己越会得摇动",
+      "target": "学术上的天经地义",
+      "claim_type": "描述性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "学术上本来就没有“天经地义”；你越不容人家动摇他，他自己越会得摇动",
+      "confidence": 1.0
+    },
+    {
+      "id": "c4",
+      "speaker": "君劢",
+      "claim": "国人迷信科学",
+      "target": "国人",
+      "claim_type": "描述性主张",
+      "claim_status": "间接转述",
+      "polarity": "negative",
+      "evidence": "（例一）“国人迷信科学”",
+      "confidence": 1.0
+    },
+    {
+      "id": "c5",
+      "speaker": "君劢",
+      "claim": "国人之思想混沌若此",
+      "target": "国人",
+      "claim_type": "评价性主张",
+      "claim_status": "间接转述",
+      "polarity": "negative",
+      "evidence": "“国人之思想混沌若此”",
+      "confidence": 1.0
+    },
+    {
+      "id": "c6",
+      "speaker": "君劢",
+      "claim": "国人所以闻玄学之名而恶之者，盖惑于孔德氏人智进化三时期之说也。",
+      "target": "国人",
+      "claim_type": "因果主张",
+      "claim_status": "间接转述",
+      "polarity": "negative",
+      "evidence": "最奇怪的是他说，“国人所以闻玄学之名而恶之者，盖惑于孔德氏人智进化三时期之说也。”",
+      "confidence": 1.0
+    },
+    {
+      "id": "c7",
+      "speaker": "作者",
+      "claim": "我并没有读过孔德的书。",
+      "target": "孔德",
+      "claim_type": "描述性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "只可惜我并没有读过孔德的书。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c8",
+      "speaker": "君劢",
+      "claim": "今国中号为学问家者，何一人能真有发明，大家皆抄袭外人之言耳。",
+      "target": "今国中号为学问家者",
+      "claim_type": "评价性主张",
+      "claim_status": "间接转述",
+      "polarity": "negative",
+      "evidence": "（例二）“今国中号为学问家者，何一人能真有发明，大家皆抄袭外人之言耳”。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c9",
+      "speaker": "作者",
+      "claim": "翁文灏的《矿产区域论》同《地震与地质构造》，这一次国际地质学会的外国人，都说他“真有发明”。",
+      "target": "翁文灏",
+      "claim_type": "描述性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "其中翁文灏的《矿产区域论》同《地震与地质构造》，这一次国际地质学会的外国人，都说他“真有发明”。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c10",
+      "speaker": "作者",
+      "claim": "作者的《扬子江下游之地质》同《云南东部之地层构造》，虽不能真有发明，也还不至于“抄袭外人之言”。",
+      "target": "作者",
+      "claim_type": "评价性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "mixed",
+      "evidence": "就是作者的《扬子江下游之地质》同《云南东部之地层构造》，虽不能真有发明，也还不至于“抄袭外人之言”。",
+      "confidence": 1.0
+    }
+  ],
+  "relations": [
+    {
+      "id": "r1",
+      "head": "作者",
+      "head_type": "人物",
+      "relation": "主张",
+      "relation_subtype": "不适用",
+      "tail": "这就是作者的人生观，究竟比张君劢的那一个适宜于现在的世界，请读者自择！",
+      "tail_type": "观点",
+      "polarity": "neutral",
+      "stance_score": 0.0,
+      "intensity": 0.5,
+      "evidence": "这就是作者的人生观，究竟比张君劢的那一个适宜于现在的世界，请读者自择！",
+      "confidence": 1.0
+    },
+    {
+      "id": "r2",
+      "head": "作者",
+      "head_type": "人物",
+      "relation": "批评",
+      "relation_subtype": "一般批评",
+      "tail": "君劢",
+      "tail_type": "人物",
+      "polarity": "negative",
+      "stance_score": -0.5,
+      "intensity": 0.5,
+      "evidence": "君劢答词里面的枝叶是千头万绪，驳不胜驳。",
+      "confidence": 1.0
+    },
+    {
+      "id": "r3",
+      "head": "作者",
+      "head_type": "人物",
+      "relation": "反驳",
+      "relation_subtype": "逻辑反驳",
+      "tail": "君劢",
+      "tail_type": "人物",
+      "polarity": "negative",
+      "stance_score": -0.8,
+      "intensity": 0.7,
+      "evidence": "学术上本来就没有“天经地义”；你越不容人家动摇他，他自己越会得摇动",
+      "confidence": 1.0
+    },
+    {
+      "id": "r4",
+      "head": "作者",
+      "head_type": "人物",
+      "relation": "质疑",
+      "relation_subtype": "事实质疑",
+      "tail": "君劢",
+      "tail_type": "人物",
+      "polarity": "negative",
+      "stance_score": -0.8,
+      "intensity": 0.7,
+      "evidence": "（例一）“国人迷信科学”，“国人之思想混沌若此”；请问君劢的“国人”是指的谁？",
+      "confidence": 1.0
+    },
+    {
+      "id": "r5",
+      "head": "作者",
+      "head_type": "人物",
+      "relation": "质疑",
+      "relation_subtype": "事实质疑",
+      "tail": "君劢",
+      "tail_type": "人物",
+      "polarity": "negative",
+      "stance_score": -0.8,
+      "intensity": 0.7,
+      "evidence": "最奇怪的是他说，“国人所以闻玄学之名而恶之者，盖惑于孔德氏人智进化三时期之说也。”要是他的话果然是真的，作者可以代表“国人”，应该有做总统的希望。只可惜我并没有读过孔德的书。",
+      "confidence": 1.0
+    },
+    {
+      "id": "r6",
+      "head": "作者",
+      "head_type": "人物",
+      "relation": "反驳",
+      "relation_subtype": "事实质疑",
+      "tail": "君劢",
+      "tail_type": "人物",
+      "polarity": "negative",
+      "stance_score": -0.9,
+      "intensity": 0.8,
+      "evidence": "（例二）“今国中号为学问家者，何一人能真有发明，大家皆抄袭外人之言耳”。旁人的学问，我不知道；我请君劢看看地质调查所出版的书：其中翁文灏的《矿产区域论》同《地震与地质构造》，这一次国际地质学会的外国人，都说他“真有发明”。",
+      "confidence": 1.0
+    },
+    {
+      "id": "r7",
+      "head": "作者",
+      "head_type": "人物",
+      "relation": "反驳",
+      "relation_subtype": "事实质疑",
+      "tail": "君劢",
+      "tail_type": "人物",
+      "polarity": "negative",
+      "stance_score": -0.7,
+      "intensity": 0.6,
+      "evidence": "就是作者的《扬子江下游之地质》同《云南东部之地层构造》，虽不能真有发明，也还不至于“抄袭外人之言”。",
+      "confidence": 1.0
+    }
+  ],
+  "definitions": [],
+  "citations": [
+    {
+      "id": "cit1",
+      "citer": "君劢",
+      "quoted_author": "孔德",
+      "quoted_work": "",
+      "quoted_claim": "孔德氏人智进化三时期之说",
+      "function": "作为批评对象",
+      "evidence": "最奇怪的是他说，“国人所以闻玄学之名而恶之者，盖惑于孔德氏人智进化三时期之说也。”",
+      "confidence": 1.0
+    }
+  ],
+  "rhetorical_devices": [
+    {
+      "id": "rh1",
+      "expression": "要是他的话果然是真的，作者可以代表“国人”，应该有做总统的希望。",
+      "device_type": "讽刺",
+      "literal_target": "君劢关于国人迷信科学的说法",
+      "function": "通过讽刺性假设，指出君劢的说法荒谬，因为作者本人并未读过孔德的书，无法代表国人。",
+      "evidence": "要是他的话果然是真的，作者可以代表“国人”，应该有做总统的希望。",
+      "confidence": 1.0
+    }
+  ],
+  "uncertainties": [
+    {
+      "item": "君劢的“不容动摇”的“学术上的天经地义”具体指哪些内容",
+      "reason": "文本中只提到君劢文章中有此说法，但未列出具体条目。"
+    },
+    {
+      "item": "“枝叶”的具体含义",
+      "reason": "文本中“枝叶”可能指君劢答词中的次要论点或细节，但未明确定义。"
+    }
+  ]
+}

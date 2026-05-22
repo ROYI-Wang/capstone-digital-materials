@@ -1,0 +1,456 @@
+{
+  "metadata": {
+    "schema_version": "lite_v2.0",
+    "article_id": "任叔永_000_7ab49e99",
+    "article_title": "人生观的科学或科学的人生观",
+    "source_author": "任叔永",
+    "section_title": "",
+    "section_author": "",
+    "segment_id": "任叔永_000_7ab49e99_s0002",
+    "segment_index": 2,
+    "source_file": "E:\\1研究生\\岭南大学\\论文毕业\\capstone\\资料\\新的内容开始了\\local_upload\\input_retry\\任叔永.txt"
+  },
+  "entities": [
+    {
+      "id": "e1",
+      "name": "张君劢",
+      "canonical_name": "张君劢",
+      "type": "人物",
+      "evidence": "张君是不曾学过科学的人",
+      "confidence": 1.0
+    },
+    {
+      "id": "e2",
+      "name": "丁文江",
+      "canonical_name": "丁文江",
+      "type": "人物",
+      "evidence": "丁君乃研究地质的科学家",
+      "confidence": 1.0
+    },
+    {
+      "id": "e3",
+      "name": "任叔永",
+      "canonical_name": "任叔永",
+      "type": "人物",
+      "evidence": "我们的意见",
+      "confidence": 0.9
+    },
+    {
+      "id": "e4",
+      "name": "杜里舒",
+      "canonical_name": "杜里舒",
+      "type": "人物",
+      "evidence": "张君并且引杜里舒的话来证明达尔文学说的不成立",
+      "confidence": 1.0
+    },
+    {
+      "id": "e5",
+      "name": "达尔文",
+      "canonical_name": "达尔文",
+      "type": "人物",
+      "evidence": "达尔文的学说",
+      "confidence": 1.0
+    },
+    {
+      "id": "e6",
+      "name": "科学家",
+      "canonical_name": "科学家",
+      "type": "阵营/群体",
+      "evidence": "不是唯物论的科学家才如此的",
+      "confidence": 1.0
+    },
+    {
+      "id": "e7",
+      "name": "唯物论",
+      "canonical_name": "唯物论",
+      "type": "主义/学说/理论",
+      "evidence": "不是唯物论的科学家才如此的",
+      "confidence": 1.0
+    },
+    {
+      "id": "e8",
+      "name": "唯心论",
+      "canonical_name": "唯心论",
+      "type": "主义/学说/理论",
+      "evidence": "唯心论的哲学家大半都是如此的",
+      "confidence": 1.0
+    },
+    {
+      "id": "e9",
+      "name": "科学",
+      "canonical_name": "科学",
+      "type": "概念",
+      "evidence": "科学方法自然用不上去",
+      "confidence": 1.0
+    },
+    {
+      "id": "e10",
+      "name": "人生观",
+      "canonical_name": "人生观",
+      "type": "概念",
+      "evidence": "浑沌复杂的人生观",
+      "confidence": 1.0
+    },
+    {
+      "id": "e11",
+      "name": "进化论",
+      "canonical_name": "进化论",
+      "type": "概念",
+      "evidence": "生物学上的进化论",
+      "confidence": 1.0
+    },
+    {
+      "id": "e12",
+      "name": "达尔文学说",
+      "canonical_name": "达尔文学说",
+      "type": "主义/学说/理论",
+      "evidence": "达尔文的学说",
+      "confidence": 1.0
+    },
+    {
+      "id": "e13",
+      "name": "人生观的科学",
+      "canonical_name": "人生观的科学",
+      "type": "概念",
+      "evidence": "人生观的科学是不可能的事",
+      "confidence": 1.0
+    },
+    {
+      "id": "e14",
+      "name": "科学的人生观",
+      "canonical_name": "科学的人生观",
+      "type": "概念",
+      "evidence": "科学的人生观却是可能的事",
+      "confidence": 1.0
+    },
+    {
+      "id": "e15",
+      "name": "物质世界",
+      "canonical_name": "物质世界",
+      "type": "概念",
+      "evidence": "外面的物质世界",
+      "confidence": 1.0
+    },
+    {
+      "id": "e16",
+      "name": "外物",
+      "canonical_name": "外物",
+      "type": "概念",
+      "evidence": "外物的对象",
+      "confidence": 1.0
+    },
+    {
+      "id": "e17",
+      "name": "内心",
+      "canonical_name": "内心",
+      "type": "概念",
+      "evidence": "内面的我",
+      "confidence": 1.0
+    },
+    {
+      "id": "e18",
+      "name": "调和",
+      "canonical_name": "调和",
+      "type": "概念",
+      "evidence": "要求外物与内心的调和",
+      "confidence": 1.0
+    },
+    {
+      "id": "e19",
+      "name": "物质界的智识",
+      "canonical_name": "物质界的智识",
+      "type": "概念",
+      "evidence": "物质界的智识愈进",
+      "confidence": 1.0
+    }
+  ],
+  "claims": [
+    {
+      "id": "c1",
+      "speaker": "任叔永",
+      "claim": "浑沌复杂的人生观，当然不受科学的支配",
+      "target": "人生观",
+      "claim_type": "知识论主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "上面所说的，是要证明浑沌复杂的人生观，当然不受科学的支配",
+      "confidence": 1.0
+    },
+    {
+      "id": "c2",
+      "speaker": "任叔永",
+      "claim": "人生观的科学是不可能的事",
+      "target": "人生观的科学",
+      "claim_type": "知识论主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "人生观的科学是不可能的事",
+      "confidence": 1.0
+    },
+    {
+      "id": "c3",
+      "speaker": "任叔永",
+      "claim": "科学的人生观却是可能的事",
+      "target": "科学的人生观",
+      "claim_type": "知识论主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "科学的人生观却是可能的事",
+      "confidence": 1.0
+    },
+    {
+      "id": "c4",
+      "speaker": "任叔永",
+      "claim": "人生观既然不能离物质世界而独立，所以物质界的智识愈进，人生观当然亦从而生变动",
+      "target": "人生观",
+      "claim_type": "知识论主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "人生观既然不能离物质世界而独立，所以物质界的智识愈进，人生观当然亦从而生变动",
+      "confidence": 1.0
+    },
+    {
+      "id": "c5",
+      "speaker": "任叔永",
+      "claim": "物质界的智识愈进于科学事，而人生观之进于科学的，亦与之为比例",
+      "target": "人生观",
+      "claim_type": "知识论主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "物质界的智识愈进于科学事，而人生观之进于科学的，亦与之为比例",
+      "confidence": 1.0
+    },
+    {
+      "id": "c6",
+      "speaker": "任叔永",
+      "claim": "达尔文的学说成立与否为一事，进化论的成立与否又为一事",
+      "target": "进化论",
+      "claim_type": "知识论主张",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "但达尔文的学说成立与否为一事，进化论的成立与否又为一事",
+      "confidence": 1.0
+    },
+    {
+      "id": "c7",
+      "speaker": "张君劢",
+      "claim": "达尔文学说不完全成立",
+      "target": "达尔文学说",
+      "claim_type": "知识论主张",
+      "claim_status": "间接转述",
+      "polarity": "negative",
+      "evidence": "达尔文的学说，是张君所不认为完全成立的",
+      "confidence": 1.0
+    },
+    {
+      "id": "c8",
+      "speaker": "张君劢",
+      "claim": "杜里舒的话证明达尔文学说不成立",
+      "target": "达尔文学说",
+      "claim_type": "知识论主张",
+      "claim_status": "间接转述",
+      "polarity": "negative",
+      "evidence": "张君并且引杜里舒的话来证明达尔文学说的不成立",
+      "confidence": 1.0
+    },
+    {
+      "id": "c9",
+      "speaker": "任叔永",
+      "claim": "张君是不曾学过科学的人，不明白科学的性质",
+      "target": "张君劢",
+      "claim_type": "价值评价",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "张君是不曾学过科学的人，不明白科学的性质",
+      "confidence": 1.0
+    },
+    {
+      "id": "c10",
+      "speaker": "任叔永",
+      "claim": "丁文江拿科学来和张君的人生观捣乱，真是牛头不对马嘴",
+      "target": "丁文江",
+      "claim_type": "论战策略批评",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "丁君乃研究地质的科学家，偏要拿科学来和张君的人生观捣乱，真是“牛头不对马嘴”了",
+      "confidence": 1.0
+    },
+    {
+      "id": "c11",
+      "speaker": "任叔永",
+      "claim": "人生观有一个公共的出发点，就是要求外物与内心的调和",
+      "target": "人生观",
+      "claim_type": "定义性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "人生观的种类，虽然很多，但有一个公共的出发点，就是要求外物与内心的调和",
+      "confidence": 1.0
+    },
+    {
+      "id": "c12",
+      "speaker": "任叔永",
+      "claim": "这种说法，不是唯物论的科学家才如此的，唯心论的哲学家大半都是如此的",
+      "target": "人生观",
+      "claim_type": "知识论主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "这种说法，不是唯物论的科学家才如此的，唯心论的哲学家大半都是如此的",
+      "confidence": 1.0
+    }
+  ],
+  "relations": [
+    {
+      "id": "r1",
+      "head": "任叔永",
+      "head_type": "人物",
+      "relation": "批评",
+      "relation_subtype": "概念混淆批评",
+      "tail": "丁文江",
+      "tail_type": "人物",
+      "polarity": "negative",
+      "evidence": "丁君乃研究地质的科学家，偏要拿科学来和张君的人生观捣乱，真是“牛头不对马嘴”了",
+      "confidence": 1.0
+    },
+    {
+      "id": "r2",
+      "head": "任叔永",
+      "head_type": "人物",
+      "relation": "批评",
+      "relation_subtype": "一般批评",
+      "tail": "张君劢",
+      "tail_type": "人物",
+      "polarity": "negative",
+      "evidence": "张君是不曾学过科学的人，不明白科学的性质",
+      "confidence": 1.0
+    },
+    {
+      "id": "r3",
+      "head": "任叔永",
+      "head_type": "人物",
+      "relation": "主张",
+      "relation_subtype": "不适用",
+      "tail": "人生观的科学",
+      "tail_type": "概念",
+      "polarity": "negative",
+      "evidence": "人生观的科学是不可能的事",
+      "confidence": 1.0
+    },
+    {
+      "id": "r4",
+      "head": "任叔永",
+      "head_type": "人物",
+      "relation": "主张",
+      "relation_subtype": "不适用",
+      "tail": "科学的人生观",
+      "tail_type": "概念",
+      "polarity": "positive",
+      "evidence": "科学的人生观却是可能的事",
+      "confidence": 1.0
+    },
+    {
+      "id": "r5",
+      "head": "物质界的智识",
+      "head_type": "概念",
+      "relation": "导致",
+      "relation_subtype": "不适用",
+      "tail": "人生观",
+      "tail_type": "概念",
+      "polarity": "positive",
+      "evidence": "物质界的智识愈进，人生观当然亦从而生变动",
+      "confidence": 1.0
+    },
+    {
+      "id": "r6",
+      "head": "张君劢",
+      "head_type": "人物",
+      "relation": "引用",
+      "relation_subtype": "援引权威反驳",
+      "tail": "杜里舒",
+      "tail_type": "人物",
+      "polarity": "negative",
+      "evidence": "张君并且引杜里舒的话来证明达尔文学说的不成立",
+      "confidence": 1.0
+    },
+    {
+      "id": "r7",
+      "head": "张君劢",
+      "head_type": "人物",
+      "relation": "反对",
+      "relation_subtype": "不适用",
+      "tail": "达尔文学说",
+      "tail_type": "主义/学说/理论",
+      "polarity": "negative",
+      "evidence": "达尔文的学说，是张君所不认为完全成立的",
+      "confidence": 1.0
+    },
+    {
+      "id": "r8",
+      "head": "任叔永",
+      "head_type": "人物",
+      "relation": "区分",
+      "relation_subtype": "概念澄清",
+      "tail": "达尔文学说",
+      "tail_type": "主义/学说/理论",
+      "polarity": "neutral",
+      "evidence": "但达尔文的学说成立与否为一事，进化论的成立与否又为一事",
+      "confidence": 1.0
+    },
+    {
+      "id": "r9",
+      "head": "任叔永",
+      "head_type": "人物",
+      "relation": "区分",
+      "relation_subtype": "概念澄清",
+      "tail": "进化论",
+      "tail_type": "概念",
+      "polarity": "neutral",
+      "evidence": "但达尔文的学说成立与否为一事，进化论的成立与否又为一事",
+      "confidence": 1.0
+    }
+  ],
+  "definitions": [
+    {
+      "id": "def1",
+      "term": "人生观",
+      "definition": "人生观有一个公共的出发点，就是要求外物与内心的调和",
+      "evidence": "人生观的种类，虽然很多，但有一个公共的出发点，就是要求外物与内心的调和",
+      "confidence": 1.0
+    },
+    {
+      "id": "def2",
+      "term": "调和",
+      "definition": "在内面的我和外面的物质世界中间，求一个恰好满足的关系",
+      "evidence": "要在内面的我，和外面的物质世界中间，求一个恰好满足的关系",
+      "confidence": 1.0
+    }
+  ],
+  "citations": [
+    {
+      "id": "cit1",
+      "citer": "张君劢",
+      "quoted_author": "杜里舒",
+      "quoted_work": "",
+      "quoted_claim": "达尔文学说不成立",
+      "function": "援引权威反驳",
+      "evidence": "张君并且引杜里舒的话来证明达尔文学说的不成立",
+      "confidence": 1.0
+    }
+  ],
+  "rhetorical_devices": [
+    {
+      "id": "rh1",
+      "expression": "牛头不对马嘴",
+      "device_type": "比喻",
+      "literal_target": "丁文江用科学来讨论人生观",
+      "function": "讽刺丁文江的做法不恰当",
+      "evidence": "偏要拿科学来和张君的人生观捣乱，真是“牛头不对马嘴”了",
+      "confidence": 1.0
+    }
+  ],
+  "uncertainties": [
+    {
+      "item": "任叔永是否在正文中以第一人称自称",
+      "reason": "文本中出现了'我们的意见'，但未出现'我'或'任叔永'，无法完全确定'我们'是否指代作者本人"
+    }
+  ]
+}

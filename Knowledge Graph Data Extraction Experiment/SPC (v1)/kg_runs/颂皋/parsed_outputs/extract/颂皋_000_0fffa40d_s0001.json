@@ -1,0 +1,284 @@
+{
+  "metadata": {
+    "schema_version": "lite_v2.0",
+    "article_id": "颂皋_000_0fffa40d",
+    "article_title": "玄学上之问题",
+    "source_author": "颂皋",
+    "section_title": "",
+    "section_author": "",
+    "segment_id": "颂皋_000_0fffa40d_s0001",
+    "segment_index": 1,
+    "source_file": "E:\\1研究生\\岭南大学\\论文毕业\\capstone\\资料\\新的内容开始了\\local_upload\\input_w2\\颂皋.txt"
+  },
+  "entities": [
+    {
+      "id": "e1",
+      "name": "玄学上之问题",
+      "canonical_name": "玄学上之问题",
+      "type": "概念",
+      "evidence": "类此形式之问题，是谓玄学上之问题。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e2",
+      "name": "世界",
+      "canonical_name": "世界",
+      "type": "概念",
+      "evidence": "(4) 世界究竟由何而来？",
+      "confidence": 1.0
+    },
+    {
+      "id": "e3",
+      "name": "本体",
+      "canonical_name": "本体",
+      "type": "概念",
+      "evidence": "(5) 何者为本体中之最真实者?",
+      "confidence": 1.0
+    },
+    {
+      "id": "e4",
+      "name": "整一",
+      "canonical_name": "整一",
+      "type": "概念",
+      "evidence": "(7) 整一（Unity）与分异（Diversity）孰为根本的?",
+      "confidence": 1.0
+    },
+    {
+      "id": "e5",
+      "name": "分异",
+      "canonical_name": "分异",
+      "type": "概念",
+      "evidence": "(7) 整一（Unity）与分异（Diversity）孰为根本的?",
+      "confidence": 1.0
+    },
+    {
+      "id": "e6",
+      "name": "前定",
+      "canonical_name": "前定",
+      "type": "概念",
+      "evidence": "(9) 一切事物均为前定的欤，抑有数种事物为自由的欤？——例如吾人之意志然。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e7",
+      "name": "自由",
+      "canonical_name": "自由",
+      "type": "概念",
+      "evidence": "(9) 一切事物均为前定的欤，抑有数种事物为自由的欤？——例如吾人之意志然。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e8",
+      "name": "意志",
+      "canonical_name": "意志",
+      "type": "概念",
+      "evidence": "(9) 一切事物均为前定的欤，抑有数种事物为自由的欤？——例如吾人之意志然。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e9",
+      "name": "无限止",
+      "canonical_name": "无限止",
+      "type": "概念",
+      "evidence": "(10) 试由全部以观，世界是否无限止的（Infinite), 抑为有限止的（Finite)?",
+      "confidence": 1.0
+    },
+    {
+      "id": "e10",
+      "name": "有限止",
+      "canonical_name": "有限止",
+      "type": "概念",
+      "evidence": "(10) 试由全部以观，世界是否无限止的（Infinite), 抑为有限止的（Finite)?",
+      "confidence": 1.0
+    },
+    {
+      "id": "e11",
+      "name": "上帝",
+      "canonical_name": "上帝",
+      "type": "概念",
+      "evidence": "(12) 上帝是谁？一切神又是谁?",
+      "confidence": 1.0
+    },
+    {
+      "id": "e12",
+      "name": "神",
+      "canonical_name": "神",
+      "type": "概念",
+      "evidence": "(12) 上帝是谁？一切神又是谁?",
+      "confidence": 1.0
+    },
+    {
+      "id": "e13",
+      "name": "身",
+      "canonical_name": "身",
+      "type": "概念",
+      "evidence": "(13) 身与心果如何连合者？二者是否相互发生动作?",
+      "confidence": 1.0
+    },
+    {
+      "id": "e14",
+      "name": "心",
+      "canonical_name": "心",
+      "type": "概念",
+      "evidence": "(13) 身与心果如何连合者？二者是否相互发生动作?",
+      "confidence": 1.0
+    },
+    {
+      "id": "e15",
+      "name": "空间",
+      "canonical_name": "空间",
+      "type": "概念",
+      "evidence": "(16) 空间与时间果为“真有”乎？藉曰否，则二者果作何解?",
+      "confidence": 1.0
+    },
+    {
+      "id": "e16",
+      "name": "时间",
+      "canonical_name": "时间",
+      "type": "概念",
+      "evidence": "(16) 空间与时间果为“真有”乎？藉曰否，则二者果作何解?",
+      "confidence": 1.0
+    },
+    {
+      "id": "e17",
+      "name": "真有",
+      "canonical_name": "真有",
+      "type": "概念",
+      "evidence": "(16) 空间与时间果为“真有”乎？藉曰否，则二者果作何解?",
+      "confidence": 1.0
+    },
+    {
+      "id": "e18",
+      "name": "知识",
+      "canonical_name": "知识",
+      "type": "概念",
+      "evidence": "(17) 就知识言，物体如何感入心中？心又如何触及物体?",
+      "confidence": 1.0
+    },
+    {
+      "id": "e19",
+      "name": "物体",
+      "canonical_name": "物体",
+      "type": "概念",
+      "evidence": "(17) 就知识言，物体如何感入心中？心又如何触及物体?",
+      "confidence": 1.0
+    },
+    {
+      "id": "e20",
+      "name": "普遍的观念",
+      "canonical_name": "普遍的观念",
+      "type": "概念",
+      "evidence": "(18）吾人藉普遍的观念而知一切，然则此种普遍的观念果为真实乎？藉曰否，则是否只有特殊的观念真实?",
+      "confidence": 1.0
+    },
+    {
+      "id": "e21",
+      "name": "特殊的观念",
+      "canonical_name": "特殊的观念",
+      "type": "概念",
+      "evidence": "(18）吾人藉普遍的观念而知一切，然则此种普遍的观念果为真实乎？藉曰否，则是否只有特殊的观念真实?",
+      "confidence": 1.0
+    },
+    {
+      "id": "e22",
+      "name": "事物",
+      "canonical_name": "事物",
+      "type": "概念",
+      "evidence": "(19) 何谓事物?",
+      "confidence": 1.0
+    },
+    {
+      "id": "e23",
+      "name": "推考之种种原则",
+      "canonical_name": "推考之种种原则",
+      "type": "概念",
+      "evidence": "(20) 推考之种种原则为天赋者乎，抑为后天所得者乎?",
+      "confidence": 1.0
+    },
+    {
+      "id": "e24",
+      "name": "天赋",
+      "canonical_name": "天赋",
+      "type": "概念",
+      "evidence": "(20) 推考之种种原则为天赋者乎，抑为后天所得者乎?",
+      "confidence": 1.0
+    },
+    {
+      "id": "e25",
+      "name": "后天所得",
+      "canonical_name": "后天所得",
+      "type": "概念",
+      "evidence": "(20) 推考之种种原则为天赋者乎，抑为后天所得者乎?",
+      "confidence": 1.0
+    },
+    {
+      "id": "e26",
+      "name": "美",
+      "canonical_name": "美",
+      "type": "概念",
+      "evidence": "(21) 美与善是否只系一种意见，有否一种客观的证实（Objective Validity)?",
+      "confidence": 1.0
+    },
+    {
+      "id": "e27",
+      "name": "善",
+      "canonical_name": "善",
+      "type": "概念",
+      "evidence": "(21) 美与善是否只系一种意见，有否一种客观的证实（Objective Validity)?",
+      "confidence": 1.0
+    },
+    {
+      "id": "e28",
+      "name": "客观的证实",
+      "canonical_name": "客观的证实",
+      "type": "概念",
+      "evidence": "(21) 美与善是否只系一种意见，有否一种客观的证实（Objective Validity)? 设曰然，则所谓客观的证实，又作何解?",
+      "confidence": 1.0
+    }
+  ],
+  "claims": [
+    {
+      "id": "c1",
+      "speaker": "颂皋",
+      "claim": "类此形式之问题，是谓玄学上之问题。",
+      "target": "玄学上之问题",
+      "claim_type": "定义性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "类此形式之问题，是谓玄学上之问题。",
+      "confidence": 1.0
+    }
+  ],
+  "relations": [],
+  "definitions": [
+    {
+      "id": "def1",
+      "term": "玄学上之问题",
+      "definition": "以列举形式提出的关于世界、本体、整一与分异、前定与自由、无限与有限、上帝与神、身心关系、空间时间、知识、普遍与特殊观念、事物、推考原则、美善客观性等根本性问题的总称。",
+      "evidence": "类此形式之问题，是谓玄学上之问题。",
+      "confidence": 1.0
+    }
+  ],
+  "citations": [],
+  "rhetorical_devices": [],
+  "uncertainties": [],
+  "_meta": {
+    "status": "success",
+    "stage": "extract",
+    "model": "deepseek-ai/DeepSeek-V4-Flash",
+    "base_url": "https://api.siliconflow.cn/v1",
+    "prompt_version": "extract_prompt_v2.0",
+    "schema_version": "lite_v2.0",
+    "segment_id": "颂皋_000_0fffa40d_s0001",
+    "article_id": "颂皋_000_0fffa40d",
+    "char_start": 508,
+    "char_end": 1108,
+    "raw_path": "E:\\1研究生\\岭南大学\\论文毕业\\capstone\\资料\\新的内容开始了\\local_upload\\kg_runs\\颂皋\\raw_outputs\\extract\\颂皋_000_0fffa40d_s0001.txt",
+    "parsed_at": "2026-05-19T14:24:27",
+    "started_at": "2026-05-19T14:20:20",
+    "elapsed_seconds": 246.618,
+    "strict_evidence_check": true,
+    "drop_unsupported_evidence": true,
+    "request_timeout_seconds": 180
+  }
+}

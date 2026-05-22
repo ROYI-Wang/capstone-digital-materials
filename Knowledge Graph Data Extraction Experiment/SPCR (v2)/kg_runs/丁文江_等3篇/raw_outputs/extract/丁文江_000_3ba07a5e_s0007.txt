@@ -1,0 +1,444 @@
+{
+  "metadata": {
+    "schema_version": "lite_v3.0",
+    "article_id": "丁文江_000_3ba07a5e",
+    "article_title": "玄学与科学 ——评张君劢的《人生观》",
+    "source_author": "丁文江",
+    "section_title": "",
+    "section_author": "",
+    "segment_id": "丁文江_000_3ba07a5e_s0007",
+    "segment_index": 7,
+    "source_file": "E:\\1研究生\\岭南大学\\论文毕业\\capstone\\资料\\新的内容开始了\\local_upload\\input_丁文江\\丁文江.txt"
+  },
+  "entities": [
+    {
+      "id": "e1",
+      "name": "科学的真相",
+      "canonical_name": "科学的真相",
+      "type": "概念",
+      "evidence": "科学的真相，才能为人所公认。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e2",
+      "name": "创造的天才",
+      "canonical_name": "创造的天才",
+      "type": "概念",
+      "evidence": "上边所说的，并不是否认创造的天才，先觉的豪杰。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e3",
+      "name": "先觉的豪杰",
+      "canonical_name": "先觉的豪杰",
+      "type": "概念",
+      "evidence": "上边所说的，并不是否认创造的天才，先觉的豪杰。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e4",
+      "name": "天才豪杰",
+      "canonical_name": "天才豪杰",
+      "type": "概念",
+      "evidence": "天才豪杰是人类进化的大原动力。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e5",
+      "name": "人类进化的大原动力",
+      "canonical_name": "人类进化的大原动力",
+      "type": "概念",
+      "evidence": "天才豪杰是人类进化的大原动力。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e6",
+      "name": "牛顿",
+      "canonical_name": "牛顿",
+      "type": "人物",
+      "evidence": "人人看见苹果从树上向下落，惟有牛顿才发明重心吸力；",
+      "confidence": 0.9
+    },
+    {
+      "id": "e7",
+      "name": "重心吸力",
+      "canonical_name": "重心吸力",
+      "type": "概念",
+      "evidence": "人人看见苹果从树上向下落，惟有牛顿才发明重心吸力；",
+      "confidence": 0.9
+    },
+    {
+      "id": "e8",
+      "name": "罗任治的公式",
+      "canonical_name": "罗任治的公式",
+      "type": "概念",
+      "evidence": "许多人知道罗任治的公式，惟有爱因斯坦才发明相对论，",
+      "confidence": 0.9
+    },
+    {
+      "id": "e9",
+      "name": "爱因斯坦",
+      "canonical_name": "爱因斯坦",
+      "type": "人物",
+      "evidence": "许多人知道罗任治的公式，惟有爱因斯坦才发明相对论，",
+      "confidence": 0.9
+    },
+    {
+      "id": "e10",
+      "name": "相对论",
+      "canonical_name": "相对论",
+      "type": "主义/学说/理论",
+      "evidence": "许多人知道罗任治的公式，惟有爱因斯坦才发明相对论，",
+      "confidence": 0.9
+    },
+    {
+      "id": "e11",
+      "name": "《红楼梦》",
+      "canonical_name": "《红楼梦》",
+      "type": "著作",
+      "evidence": "人人都看《红楼梦》、《西游记》，胡适之才拿来做白话文学的材料；",
+      "confidence": 0.9
+    },
+    {
+      "id": "e12",
+      "name": "《西游记》",
+      "canonical_name": "《西游记》",
+      "type": "著作",
+      "evidence": "人人都看《红楼梦》、《西游记》，胡适之才拿来做白话文学的材料；",
+      "confidence": 0.9
+    },
+    {
+      "id": "e13",
+      "name": "胡适之",
+      "canonical_name": "胡适之",
+      "type": "人物",
+      "evidence": "人人都看《红楼梦》、《西游记》，胡适之才拿来做白话文学的材料；",
+      "confidence": 0.9
+    },
+    {
+      "id": "e14",
+      "name": "白话文学",
+      "canonical_name": "白话文学",
+      "type": "概念",
+      "evidence": "人人都看《红楼梦》、《西游记》，胡适之才拿来做白话文学的材料；",
+      "confidence": 0.9
+    },
+    {
+      "id": "e15",
+      "name": "科学发明",
+      "canonical_name": "科学发明",
+      "type": "概念",
+      "evidence": "科学发明上这种例不知道多少。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e16",
+      "name": "天才豪杰同常人的分别",
+      "canonical_name": "天才豪杰同常人的分别",
+      "type": "概念",
+      "evidence": "但是天才豪杰同常人的分别，是快慢的火车，不是人力车同飞机。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e17",
+      "name": "快慢的火车",
+      "canonical_name": "快慢的火车",
+      "type": "比喻/类比",
+      "evidence": "但是天才豪杰同常人的分别，是快慢的火车，不是人力车同飞机。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e18",
+      "name": "人力车同飞机",
+      "canonical_name": "人力车同飞机",
+      "type": "比喻/类比",
+      "evidence": "但是天才豪杰同常人的分别，是快慢的火车，不是人力车同飞机。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e19",
+      "name": "概念推论",
+      "canonical_name": "概念推论",
+      "type": "概念",
+      "evidence": "根据这两条原则，我们来审查概念推论：",
+      "confidence": 0.9
+    },
+    {
+      "id": "e20",
+      "name": "自相矛盾",
+      "canonical_name": "自相矛盾",
+      "type": "概念",
+      "evidence": "第一，凡概念推论若是自相矛盾，科学不承认他是真的。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e21",
+      "name": "推论",
+      "canonical_name": "推论",
+      "type": "概念",
+      "evidence": "第三，凡推论不能使寻常有论理训练的人依了所根据的概念，也能得同样的推论，科学不承认他是真的。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e22",
+      "name": "有论理训练",
+      "canonical_name": "有论理训练",
+      "type": "概念",
+      "evidence": "我们审查推论，加了“有论理训练”几个字的资格，因为推论是最容易错误的。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e23",
+      "name": "戒文士的《科学原则》",
+      "canonical_name": "戒文士的《科学原则》",
+      "type": "著作",
+      "evidence": "戒文士的《科学原则》讲得最详细。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e24",
+      "name": "证据责任问题",
+      "canonical_name": "证据责任问题",
+      "type": "问题",
+      "evidence": "我单举一件极普通的错误，请读者注意。就是所谓证据责任问题。",
+      "confidence": 0.9
+    }
+  ],
+  "claims": [
+    {
+      "id": "c1",
+      "speaker": "丁文江",
+      "claim": "科学的真相，才能为人所公认。",
+      "target": "科学的真相",
+      "claim_type": "描述性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "科学的真相，才能为人所公认。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c2",
+      "speaker": "丁文江",
+      "claim": "天才豪杰是人类进化的大原动力。",
+      "target": "天才豪杰",
+      "claim_type": "描述性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "天才豪杰是人类进化的大原动力。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c3",
+      "speaker": "丁文江",
+      "claim": "天才豪杰同常人的分别，是快慢的火车，不是人力车同飞机。",
+      "target": "天才豪杰同常人的分别",
+      "claim_type": "对比性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "但是天才豪杰同常人的分别，是快慢的火车，不是人力车同飞机。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c4",
+      "speaker": "丁文江",
+      "claim": "凡概念推论若是自相矛盾，科学不承认他是真的。",
+      "target": "概念推论",
+      "claim_type": "规范性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "第一，凡概念推论若是自相矛盾，科学不承认他是真的。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c5",
+      "speaker": "丁文江",
+      "claim": "凡概念不能从不反常的人的知觉推断出来的，科学不承认他是真的。",
+      "target": "概念",
+      "claim_type": "规范性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "第二，凡概念不能从不反常的人的知觉推断出来的，科学不承认他是真的。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c6",
+      "speaker": "丁文江",
+      "claim": "凡推论不能使寻常有论理训练的人依了所根据的概念，也能得同样的推论，科学不承认他是真的。",
+      "target": "推论",
+      "claim_type": "规范性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "第三，凡推论不能使寻常有论理训练的人依了所根据的概念，也能得同样的推论，科学不承认他是真的。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c7",
+      "speaker": "丁文江",
+      "claim": "推论是最容易错误的。",
+      "target": "推论",
+      "claim_type": "描述性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "因为推论是最容易错误的。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c8",
+      "speaker": "丁文江",
+      "claim": "没有论理的训练，很容易以伪为真。",
+      "target": "论理的训练",
+      "claim_type": "因果主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "没有论理的训练，很容易以伪为真。",
+      "confidence": 0.9
+    }
+  ],
+  "relations": [
+    {
+      "id": "r1",
+      "head": "科学的真相",
+      "head_type": "概念",
+      "relation": "导致",
+      "relation_subtype": "不适用",
+      "tail": "为人所公认",
+      "tail_type": "概念",
+      "polarity": "positive",
+      "stance_score": 1.0,
+      "intensity": 0.5,
+      "evidence": "科学的真相，才能为人所公认。",
+      "confidence": 0.9
+    },
+    {
+      "id": "r2",
+      "head": "天才豪杰",
+      "head_type": "概念",
+      "relation": "导致",
+      "relation_subtype": "不适用",
+      "tail": "人类进化的大原动力",
+      "tail_type": "概念",
+      "polarity": "positive",
+      "stance_score": 1.0,
+      "intensity": 0.5,
+      "evidence": "天才豪杰是人类进化的大原动力。",
+      "confidence": 0.9
+    },
+    {
+      "id": "r3",
+      "head": "天才豪杰同常人的分别",
+      "head_type": "概念",
+      "relation": "类比",
+      "relation_subtype": "不适用",
+      "tail": "快慢的火车",
+      "tail_type": "比喻/类比",
+      "polarity": "positive",
+      "stance_score": 1.0,
+      "intensity": 0.5,
+      "evidence": "但是天才豪杰同常人的分别，是快慢的火车，不是人力车同飞机。",
+      "confidence": 0.9
+    },
+    {
+      "id": "r4",
+      "head": "天才豪杰同常人的分别",
+      "head_type": "概念",
+      "relation": "区分",
+      "relation_subtype": "概念澄清",
+      "tail": "人力车同飞机",
+      "tail_type": "比喻/类比",
+      "polarity": "negative",
+      "stance_score": -1.0,
+      "intensity": 0.5,
+      "evidence": "但是天才豪杰同常人的分别，是快慢的火车，不是人力车同飞机。",
+      "confidence": 0.9
+    },
+    {
+      "id": "r5",
+      "head": "概念推论",
+      "head_type": "概念",
+      "relation": "属于",
+      "relation_subtype": "不适用",
+      "tail": "自相矛盾",
+      "tail_type": "概念",
+      "polarity": "negative",
+      "stance_score": -1.0,
+      "intensity": 0.5,
+      "evidence": "第一，凡概念推论若是自相矛盾，科学不承认他是真的。",
+      "confidence": 0.9
+    },
+    {
+      "id": "r6",
+      "head": "推论",
+      "head_type": "概念",
+      "relation": "归因于",
+      "relation_subtype": "不适用",
+      "tail": "最容易错误的",
+      "tail_type": "概念",
+      "polarity": "negative",
+      "stance_score": -1.0,
+      "intensity": 0.5,
+      "evidence": "因为推论是最容易错误的。",
+      "confidence": 0.9
+    },
+    {
+      "id": "r7",
+      "head": "没有论理的训练",
+      "head_type": "概念",
+      "relation": "导致",
+      "relation_subtype": "不适用",
+      "tail": "以伪为真",
+      "tail_type": "概念",
+      "polarity": "negative",
+      "stance_score": -1.0,
+      "intensity": 0.5,
+      "evidence": "没有论理的训练，很容易以伪为真。",
+      "confidence": 0.9
+    }
+  ],
+  "definitions": [
+    {
+      "id": "def1",
+      "term": "天才豪杰同常人的分别",
+      "definition": "是快慢的火车，不是人力车同飞机",
+      "evidence": "但是天才豪杰同常人的分别，是快慢的火车，不是人力车同飞机。",
+      "confidence": 0.9
+    }
+  ],
+  "citations": [
+    {
+      "id": "cit1",
+      "citer": "丁文江",
+      "quoted_author": "戒文士",
+      "quoted_work": "《科学原则》",
+      "quoted_claim": "戒文士的《科学原则》讲得最详细。",
+      "function": "援引权威支持",
+      "evidence": "戒文士的《科学原则》讲得最详细。",
+      "confidence": 0.9
+    }
+  ],
+  "rhetorical_devices": [
+    {
+      "id": "rh1",
+      "expression": "快慢的火车",
+      "device_type": "比喻",
+      "literal_target": "天才豪杰同常人的分别",
+      "function": "说明天才与常人只有程度差异，没有本质不同",
+      "evidence": "但是天才豪杰同常人的分别，是快慢的火车，不是人力车同飞机。",
+      "confidence": 0.9
+    },
+    {
+      "id": "rh2",
+      "expression": "人力车同飞机",
+      "device_type": "比喻",
+      "literal_target": "天才与常人本质不同的观点",
+      "function": "否定天才与常人有本质差异的观点",
+      "evidence": "但是天才豪杰同常人的分别，是快慢的火车，不是人力车同飞机。",
+      "confidence": 0.9
+    }
+  ],
+  "uncertainties": [
+    {
+      "item": "戒文士的《科学原则》",
+      "reason": "文本中仅提及书名，未提供具体内容或引用细节，无法进一步抽取。"
+    }
+  ]
+}

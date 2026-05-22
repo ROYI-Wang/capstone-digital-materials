@@ -1,0 +1,455 @@
+{
+  "metadata": {
+    "schema_version": "lite_v2.0",
+    "article_id": "丁文江2_000_e838922e",
+    "article_title": "玄学与科学——答张君劢",
+    "source_author": "丁文江",
+    "section_title": "",
+    "section_author": "",
+    "segment_id": "丁文江2_000_e838922e_s0061",
+    "segment_index": 61,
+    "source_file": "E:\\1研究生\\岭南大学\\论文毕业\\capstone\\资料\\新的内容开始了\\local_upload\\input_texts\\丁文江2.txt"
+  },
+  "entities": [
+    {
+      "id": "e1",
+      "name": "物质与精神的冲突",
+      "canonical_name": "物质与精神的冲突",
+      "type": "概念",
+      "evidence": "他所说的“物质与精神的冲突”，就是我所说的不适宜于合群的根性。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e2",
+      "name": "不适宜于合群的根性",
+      "canonical_name": "不适宜于合群的根性",
+      "type": "概念",
+      "evidence": "他所说的“物质与精神的冲突”，就是我所说的不适宜于合群的根性。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e3",
+      "name": "人性",
+      "canonical_name": "人性",
+      "type": "概念",
+      "evidence": "他以为人性是善的，物质与他冲突所以人才为恶；",
+      "confidence": 0.9
+    },
+    {
+      "id": "e4",
+      "name": "物质",
+      "canonical_name": "物质",
+      "type": "概念",
+      "evidence": "他以为人性是善的，物质与他冲突所以人才为恶；",
+      "confidence": 0.9
+    },
+    {
+      "id": "e5",
+      "name": "耶教里面的苹果",
+      "canonical_name": "耶教里面的苹果",
+      "type": "比喻/类比",
+      "evidence": "把物质变成功耶教里面的苹果。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e6",
+      "name": "善恶",
+      "canonical_name": "善恶",
+      "type": "概念",
+      "evidence": "一个人的善恶（一）是看他先天的秉赋，（二）是看他后天的环境。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e7",
+      "name": "先天的秉赋",
+      "canonical_name": "先天的秉赋",
+      "type": "概念",
+      "evidence": "一个人的善恶（一）是看他先天的秉赋，（二）是看他后天的环境。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e8",
+      "name": "后天的环境",
+      "canonical_name": "后天的环境",
+      "type": "概念",
+      "evidence": "一个人的善恶（一）是看他先天的秉赋，（二）是看他后天的环境。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e9",
+      "name": "优生学",
+      "canonical_name": "优生学",
+      "type": "概念",
+      "evidence": "优生学是想改良先天的，教育是想利用后天的。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e10",
+      "name": "教育",
+      "canonical_name": "教育",
+      "type": "概念",
+      "evidence": "优生学是想改良先天的，教育是想利用后天的。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e11",
+      "name": "宗教心",
+      "canonical_name": "宗教心",
+      "type": "概念",
+      "evidence": "那一种环境最能使宗教心的冲动的发展适宜于人类的生活，是教育上最大的问题。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e12",
+      "name": "科学教育",
+      "canonical_name": "科学教育",
+      "type": "概念",
+      "evidence": "我们所以极力提倡科学教育的原故，是因为科学教育能使宗教性的冲动，从盲目的变成功自觉的，从黑暗的变成功光明的，从笼统的变成功分析的。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e13",
+      "name": "宗教性的冲动",
+      "canonical_name": "宗教性的冲动",
+      "type": "概念",
+      "evidence": "我们所以极力提倡科学教育的原故，是因为科学教育能使宗教性的冲动，从盲目的变成功自觉的，从黑暗的变成功光明的，从笼统的变成功分析的。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e14",
+      "name": "回教徒",
+      "canonical_name": "回教徒",
+      "type": "阵营/群体",
+      "evidence": "回教徒同耶教徒都想进天堂，冲突起来，使世界变成地狱；",
+      "confidence": 0.9
+    },
+    {
+      "id": "e15",
+      "name": "耶教徒",
+      "canonical_name": "耶教徒",
+      "type": "阵营/群体",
+      "evidence": "回教徒同耶教徒都想进天堂，冲突起来，使世界变成地狱；",
+      "confidence": 0.9
+    },
+    {
+      "id": "e16",
+      "name": "天堂",
+      "canonical_name": "天堂",
+      "type": "概念",
+      "evidence": "回教徒同耶教徒都想进天堂，冲突起来，使世界变成地狱；",
+      "confidence": 0.9
+    },
+    {
+      "id": "e17",
+      "name": "地狱",
+      "canonical_name": "地狱",
+      "type": "概念",
+      "evidence": "回教徒同耶教徒都想进天堂，冲突起来，使世界变成地狱；",
+      "confidence": 0.9
+    }
+  ],
+  "claims": [
+    {
+      "id": "c1",
+      "speaker": "丁文江",
+      "claim": "他所说的“物质与精神的冲突”，就是我所说的不适宜于合群的根性。",
+      "target": "张君劢",
+      "claim_type": "定义性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "他所说的“物质与精神的冲突”，就是我所说的不适宜于合群的根性。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c2",
+      "speaker": "丁文江",
+      "claim": "我们根本不同的点是，他以为人性是善的，物质与他冲突所以人才为恶；把物质变成功耶教里面的苹果。",
+      "target": "张君劢",
+      "claim_type": "论战策略批评",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "我们根本不同的点是，他以为人性是善的，物质与他冲突所以人才为恶；把物质变成功耶教里面的苹果。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c3",
+      "speaker": "张君劢",
+      "claim": "人性是善的，物质与他冲突所以人才为恶",
+      "target": "",
+      "claim_type": "本体论主张",
+      "claim_status": "间接转述",
+      "polarity": "negative",
+      "evidence": "他以为人性是善的，物质与他冲突所以人才为恶；",
+      "confidence": 0.9
+    },
+    {
+      "id": "c4",
+      "speaker": "丁文江",
+      "claim": "我说人性有一部分是适宜于合群的，一部分是相冲突的，都是要受物质的影响的。",
+      "target": "",
+      "claim_type": "本体论主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "我说人性有一部分是适宜于合群的，一部分是相冲突的，都是要受物质的影响的。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c5",
+      "speaker": "丁文江",
+      "claim": "一个人的善恶（一）是看他先天的秉赋，（二）是看他后天的环境。",
+      "target": "",
+      "claim_type": "定义性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "一个人的善恶（一）是看他先天的秉赋，（二）是看他后天的环境。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c6",
+      "speaker": "丁文江",
+      "claim": "优生学是想改良先天的，教育是想利用后天的。",
+      "target": "",
+      "claim_type": "定义性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "优生学是想改良先天的，教育是想利用后天的。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c7",
+      "speaker": "丁文江",
+      "claim": "那一种环境最能使宗教心的冲动的发展适宜于人类的生活，是教育上最大的问题。",
+      "target": "",
+      "claim_type": "问题提出",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "那一种环境最能使宗教心的冲动的发展适宜于人类的生活，是教育上最大的问题。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c8",
+      "speaker": "丁文江",
+      "claim": "我们所以极力提倡科学教育的原故，是因为科学教育能使宗教性的冲动，从盲目的变成功自觉的，从黑暗的变成功光明的，从笼统的变成功分析的。",
+      "target": "",
+      "claim_type": "方法论主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "我们所以极力提倡科学教育的原故，是因为科学教育能使宗教性的冲动，从盲目的变成功自觉的，从黑暗的变成功光明的，从笼统的变成功分析的。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c9",
+      "speaker": "丁文江",
+      "claim": "我们不单是要使宗教性发展，而且要使他发展的方向适宜于人生。",
+      "target": "",
+      "claim_type": "方法论主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "我们不单是要使宗教性发展，而且要使他发展的方向适宜于人生。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c10",
+      "speaker": "丁文江",
+      "claim": "人类的冲突往往不是因为目的，是因为方法：回教徒同耶教徒都想进天堂，冲突起来，使世界变成地狱；",
+      "target": "",
+      "claim_type": "社会理论主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "况且人类的冲突往往不是因为目的，是因为方法：回教徒同耶教徒都想进天堂，冲突起来，使世界变成地狱；",
+      "confidence": 0.9
+    }
+  ],
+  "relations": [
+    {
+      "id": "r1",
+      "head": "物质与精神的冲突",
+      "head_type": "概念",
+      "relation": "等同于",
+      "relation_subtype": "不适用",
+      "tail": "不适宜于合群的根性",
+      "tail_type": "概念",
+      "polarity": "neutral",
+      "evidence": "他所说的“物质与精神的冲突”，就是我所说的不适宜于合群的根性。",
+      "confidence": 0.9
+    },
+    {
+      "id": "r2",
+      "head": "丁文江",
+      "head_type": "人物",
+      "relation": "批评",
+      "relation_subtype": "概念混淆批评",
+      "tail": "张君劢",
+      "tail_type": "人物",
+      "polarity": "negative",
+      "evidence": "我们根本不同的点是，他以为人性是善的，物质与他冲突所以人才为恶；把物质变成功耶教里面的苹果。",
+      "confidence": 0.9
+    },
+    {
+      "id": "r3",
+      "head": "张君劢",
+      "head_type": "人物",
+      "relation": "主张",
+      "relation_subtype": "不适用",
+      "tail": "人性是善的，物质与他冲突所以人才为恶",
+      "tail_type": "观点",
+      "polarity": "negative",
+      "evidence": "他以为人性是善的，物质与他冲突所以人才为恶；",
+      "confidence": 0.9
+    },
+    {
+      "id": "r4",
+      "head": "丁文江",
+      "head_type": "人物",
+      "relation": "主张",
+      "relation_subtype": "不适用",
+      "tail": "我说人性有一部分是适宜于合群的，一部分是相冲突的，都是要受物质的影响的。",
+      "tail_type": "观点",
+      "polarity": "positive",
+      "evidence": "我说人性有一部分是适宜于合群的，一部分是相冲突的，都是要受物质的影响的。",
+      "confidence": 0.9
+    },
+    {
+      "id": "r5",
+      "head": "丁文江",
+      "head_type": "人物",
+      "relation": "主张",
+      "relation_subtype": "不适用",
+      "tail": "一个人的善恶（一）是看他先天的秉赋，（二）是看他后天的环境。",
+      "tail_type": "观点",
+      "polarity": "positive",
+      "evidence": "一个人的善恶（一）是看他先天的秉赋，（二）是看他后天的环境。",
+      "confidence": 0.9
+    },
+    {
+      "id": "r6",
+      "head": "优生学",
+      "head_type": "概念",
+      "relation": "属于",
+      "relation_subtype": "不适用",
+      "tail": "改良先天的",
+      "tail_type": "概念",
+      "polarity": "neutral",
+      "evidence": "优生学是想改良先天的，教育是想利用后天的。",
+      "confidence": 0.9
+    },
+    {
+      "id": "r7",
+      "head": "教育",
+      "head_type": "概念",
+      "relation": "属于",
+      "relation_subtype": "不适用",
+      "tail": "利用后天的",
+      "tail_type": "概念",
+      "polarity": "neutral",
+      "evidence": "优生学是想改良先天的，教育是想利用后天的。",
+      "confidence": 0.9
+    },
+    {
+      "id": "r8",
+      "head": "科学教育",
+      "head_type": "概念",
+      "relation": "导致",
+      "relation_subtype": "不适用",
+      "tail": "宗教性的冲动从盲目的变成功自觉的，从黑暗的变成功光明的，从笼统的变成功分析的",
+      "tail_type": "观点",
+      "polarity": "positive",
+      "evidence": "我们所以极力提倡科学教育的原故，是因为科学教育能使宗教性的冲动，从盲目的变成功自觉的，从黑暗的变成功光明的，从笼统的变成功分析的。",
+      "confidence": 0.9
+    },
+    {
+      "id": "r9",
+      "head": "丁文江",
+      "head_type": "人物",
+      "relation": "主张",
+      "relation_subtype": "不适用",
+      "tail": "我们不单是要使宗教性发展，而且要使他发展的方向适宜于人生。",
+      "tail_type": "观点",
+      "polarity": "positive",
+      "evidence": "我们不单是要使宗教性发展，而且要使他发展的方向适宜于人生。",
+      "confidence": 0.9
+    },
+    {
+      "id": "r10",
+      "head": "人类的冲突往往不是因为目的，是因为方法",
+      "head_type": "观点",
+      "relation": "作为论据支持",
+      "relation_subtype": "不适用",
+      "tail": "回教徒同耶教徒都想进天堂，冲突起来，使世界变成地狱",
+      "tail_type": "例证",
+      "polarity": "negative",
+      "evidence": "况且人类的冲突往往不是因为目的，是因为方法：回教徒同耶教徒都想进天堂，冲突起来，使世界变成地狱；",
+      "confidence": 0.9
+    }
+  ],
+  "definitions": [
+    {
+      "id": "def1",
+      "term": "善恶",
+      "definition": "一个人的善恶由先天的秉赋和后天的环境决定。",
+      "evidence": "一个人的善恶（一）是看他先天的秉赋，（二）是看他后天的环境。",
+      "confidence": 0.9
+    },
+    {
+      "id": "def2",
+      "term": "优生学",
+      "definition": "优生学是想改良先天的。",
+      "evidence": "优生学是想改良先天的，教育是想利用后天的。",
+      "confidence": 0.9
+    },
+    {
+      "id": "def3",
+      "term": "教育",
+      "definition": "教育是想利用后天的。",
+      "evidence": "优生学是想改良先天的，教育是想利用后天的。",
+      "confidence": 0.9
+    },
+    {
+      "id": "def4",
+      "term": "科学教育",
+      "definition": "科学教育能使宗教性的冲动，从盲目的变成功自觉的，从黑暗的变成功光明的，从笼统的变成功分析的。",
+      "evidence": "我们所以极力提倡科学教育的原故，是因为科学教育能使宗教性的冲动，从盲目的变成功自觉的，从黑暗的变成功光明的，从笼统的变成功分析的。",
+      "confidence": 0.9
+    }
+  ],
+  "citations": [],
+  "rhetorical_devices": [
+    {
+      "id": "rh1",
+      "expression": "把物质变成功耶教里面的苹果",
+      "device_type": "比喻",
+      "literal_target": "张君劢将物质视为导致人作恶的根源",
+      "function": "讽刺张君劢将物质比作圣经中引诱人堕落的苹果，暗示其观点幼稚、宗教化",
+      "evidence": "把物质变成功耶教里面的苹果。",
+      "confidence": 0.9
+    },
+    {
+      "id": "rh2",
+      "expression": "从盲目的变成功自觉的，从黑暗的变成功光明的，从笼统的变成功分析的",
+      "device_type": "比喻",
+      "literal_target": "科学教育对宗教性冲动的改造作用",
+      "function": "通过排比和对比，强调科学教育的积极转化效果",
+      "evidence": "科学教育能使宗教性的冲动，从盲目的变成功自觉的，从黑暗的变成功光明的，从笼统的变成功分析的。",
+      "confidence": 0.9
+    },
+    {
+      "id": "rh3",
+      "expression": "回教徒同耶教徒都想进天堂，冲突起来，使世界变成地狱",
+      "device_type": "类比",
+      "literal_target": "人类因方法不同而非目的不同导致冲突",
+      "function": "用宗教冲突的极端例子论证方法分歧的破坏性，支持“冲突往往不是因为目的，是因为方法”的观点",
+      "evidence": "回教徒同耶教徒都想进天堂，冲突起来，使世界变成地狱；",
+      "confidence": 0.9
+    }
+  ],
+  "uncertainties": [
+    {
+      "item": "文本开头“教性”一词不完整，可能为“宗教性”或“耶教性”，无法确定其准确含义。",
+      "reason": "当前文本片段以“教性”开头，缺少前文，无法判断完整词语和上下文。"
+    },
+    {
+      "item": "“他”指代的人物身份未在文本中明确说明，根据上下文推测为张君劢，但文本未直接点名。",
+      "reason": "文本中多次出现“他”，但未给出姓名，需结合元数据或更广上下文确认。"
+    }
+  ]
+}

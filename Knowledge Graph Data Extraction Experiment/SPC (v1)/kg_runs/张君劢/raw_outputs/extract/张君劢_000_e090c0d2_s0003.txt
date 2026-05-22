@@ -1,0 +1,405 @@
+{
+  "metadata": {
+    "schema_version": "lite_v2.0",
+    "article_id": "张君劢_000_e090c0d2",
+    "article_title": "人生观",
+    "source_author": "张君劢",
+    "section_title": "方今国中竟言新文化，而文化转移之枢纽，不外乎人生观。吾有吾之文化，西洋有西洋之文化。西洋之有益者如何采之，有害者如何革除之；凡此取舍之间，皆决之于观点。观点定，而后精神上之思潮、物质上之制度，乃可按",
+    "section_author": "方今国中竟言新文化，而文化转移之枢纽，不外乎人生观。吾有吾之文化，西洋有西洋之文化。西洋之有益者如何采之，有害者如何革除之；凡此取舍之间，皆决之于观点。观点定，而后精神上之思潮、物质上之制度，乃可",
+    "segment_id": "张君劢_000_e090c0d2_s0003",
+    "segment_index": 3,
+    "source_file": "E:\\1研究生\\岭南大学\\论文毕业\\capstone\\资料\\新的内容开始了\\local_upload\\input_w3\\张君劢.txt"
+  },
+  "entities": [
+    {
+      "id": "e1",
+      "name": "人生观",
+      "canonical_name": "人生观",
+      "type": "概念",
+      "evidence": "若夫人生观，或为叔本华、哈德门的悲观主义，或为兰勃尼擎、黑格尔之乐观主义，或为孔子之修身齐家主义，或为释迦之出世主义，或为孔孟之亲疏远近等级分明，或为墨子耶稣之泛爱。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e2",
+      "name": "科学",
+      "canonical_name": "科学",
+      "type": "概念",
+      "evidence": "第三，科学可以以分析方法下手，而人生观则为综合的。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e3",
+      "name": "叔本华",
+      "canonical_name": "叔本华",
+      "type": "人物",
+      "evidence": "若夫人生观，或为叔本华、哈德门的悲观主义",
+      "confidence": 1.0
+    },
+    {
+      "id": "e4",
+      "name": "哈德门",
+      "canonical_name": "哈德门",
+      "type": "人物",
+      "evidence": "若夫人生观，或为叔本华、哈德门的悲观主义",
+      "confidence": 1.0
+    },
+    {
+      "id": "e5",
+      "name": "兰勃尼擎",
+      "canonical_name": "兰勃尼擎",
+      "type": "人物",
+      "evidence": "或为兰勃尼擎、黑格尔之乐观主义",
+      "confidence": 1.0
+    },
+    {
+      "id": "e6",
+      "name": "黑格尔",
+      "canonical_name": "黑格尔",
+      "type": "人物",
+      "evidence": "或为兰勃尼擎、黑格尔之乐观主义",
+      "confidence": 1.0
+    },
+    {
+      "id": "e7",
+      "name": "孔子",
+      "canonical_name": "孔子",
+      "type": "人物",
+      "evidence": "或为孔子之修身齐家主义",
+      "confidence": 1.0
+    },
+    {
+      "id": "e8",
+      "name": "释迦",
+      "canonical_name": "释迦",
+      "type": "人物",
+      "evidence": "或为释迦之出世主义",
+      "confidence": 1.0
+    },
+    {
+      "id": "e9",
+      "name": "孔孟",
+      "canonical_name": "孔孟",
+      "type": "人物",
+      "evidence": "或为孔孟之亲疏远近等级分明",
+      "confidence": 1.0
+    },
+    {
+      "id": "e10",
+      "name": "墨子",
+      "canonical_name": "墨子",
+      "type": "人物",
+      "evidence": "或为墨子耶稣之泛爱",
+      "confidence": 1.0
+    },
+    {
+      "id": "e11",
+      "name": "耶稣",
+      "canonical_name": "耶稣",
+      "type": "人物",
+      "evidence": "或为墨子耶稣之泛爱",
+      "confidence": 1.0
+    },
+    {
+      "id": "e12",
+      "name": "罗素",
+      "canonical_name": "罗素",
+      "type": "人物",
+      "evidence": "譬如罗素氏以为心理元素有二：曰感觉，曰意象。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e13",
+      "name": "杜里舒",
+      "canonical_name": "杜里舒",
+      "type": "人物",
+      "evidence": "至于杜里舒氏，则以为有六类，其说甚长，兹不赘述。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e14",
+      "name": "悲观主义",
+      "canonical_name": "悲观主义",
+      "type": "主义/学说/理论",
+      "evidence": "若夫人生观，或为叔本华、哈德门的悲观主义",
+      "confidence": 1.0
+    },
+    {
+      "id": "e15",
+      "name": "乐观主义",
+      "canonical_name": "乐观主义",
+      "type": "主义/学说/理论",
+      "evidence": "或为兰勃尼擎、黑格尔之乐观主义",
+      "confidence": 1.0
+    },
+    {
+      "id": "e16",
+      "name": "修身齐家主义",
+      "canonical_name": "修身齐家主义",
+      "type": "主义/学说/理论",
+      "evidence": "或为孔子之修身齐家主义",
+      "confidence": 1.0
+    },
+    {
+      "id": "e17",
+      "name": "出世主义",
+      "canonical_name": "出世主义",
+      "type": "主义/学说/理论",
+      "evidence": "或为释迦之出世主义",
+      "confidence": 1.0
+    },
+    {
+      "id": "e18",
+      "name": "泛爱",
+      "canonical_name": "泛爱",
+      "type": "概念",
+      "evidence": "或为墨子耶稣之泛爱",
+      "confidence": 1.0
+    },
+    {
+      "id": "e19",
+      "name": "分析方法",
+      "canonical_name": "分析方法",
+      "type": "方法",
+      "evidence": "第三，科学可以以分析方法下手，而人生观则为综合的。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e20",
+      "name": "直觉",
+      "canonical_name": "直觉",
+      "type": "概念",
+      "evidence": "皆其自身良心之所命起而主张之，以为天下后世表率，故曰直觉的也。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e21",
+      "name": "感觉",
+      "canonical_name": "感觉",
+      "type": "概念",
+      "evidence": "譬如罗素氏以为心理元素有二：曰感觉，曰意象。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e22",
+      "name": "意象",
+      "canonical_name": "意象",
+      "type": "概念",
+      "evidence": "譬如罗素氏以为心理元素有二：曰感觉，曰意象。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e23",
+      "name": "张君劢",
+      "canonical_name": "张君劢",
+      "type": "人物",
+      "evidence": "张君劢",
+      "confidence": 1.0
+    }
+  ],
+  "claims": [
+    {
+      "id": "c1",
+      "speaker": "张君劢",
+      "claim": "人生观是直觉的。",
+      "target": "人生观",
+      "claim_type": "定义性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "皆其自身良心之所命起而主张之，以为天下后世表率，故曰直觉的也。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c2",
+      "speaker": "张君劢",
+      "claim": "科学可以以分析方法下手，而人生观则为综合的。",
+      "target": "科学",
+      "claim_type": "定义性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "第三，科学可以以分析方法下手，而人生观则为综合的。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c3",
+      "speaker": "张君劢",
+      "claim": "人生观是综合的，包括一切的，若强为分析，则必失其真义。",
+      "target": "人生观",
+      "claim_type": "定义性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "至于人生观，则为综合的，包括一切的，若强为分析，则必失其真义。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c4",
+      "speaker": "罗素",
+      "claim": "心理元素有二：曰感觉，曰意象。",
+      "target": "心理元素",
+      "claim_type": "知识论主张",
+      "claim_status": "间接转述",
+      "polarity": "neutral",
+      "evidence": "譬如罗素氏以为心理元素有二：曰感觉，曰意象。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c5",
+      "speaker": "杜里舒",
+      "claim": "心理元素有六类。",
+      "target": "心理元素",
+      "claim_type": "知识论主张",
+      "claim_status": "间接转述",
+      "polarity": "neutral",
+      "evidence": "至于杜里舒氏，则以为有六类，其说甚长，兹不赘述。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c6",
+      "speaker": "张君劢",
+      "claim": "若强为分析人生观，则必失其真义。",
+      "target": "人生观",
+      "claim_type": "方法论主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "至于人生观，则为综合的，包括一切的，若强为分析，则必失其真义。",
+      "confidence": 1.0
+    }
+  ],
+  "relations": [
+    {
+      "id": "r1",
+      "head": "人生观",
+      "head_type": "概念",
+      "relation": "区分",
+      "relation_subtype": "概念澄清",
+      "tail": "科学",
+      "tail_type": "概念",
+      "polarity": "neutral",
+      "evidence": "第三，科学可以以分析方法下手，而人生观则为综合的。",
+      "confidence": 1.0
+    },
+    {
+      "id": "r2",
+      "head": "人生观",
+      "head_type": "概念",
+      "relation": "属于",
+      "relation_subtype": "不适用",
+      "tail": "直觉",
+      "tail_type": "概念",
+      "polarity": "positive",
+      "evidence": "皆其自身良心之所命起而主张之，以为天下后世表率，故曰直觉的也。",
+      "confidence": 1.0
+    },
+    {
+      "id": "r3",
+      "head": "科学",
+      "head_type": "概念",
+      "relation": "包含",
+      "relation_subtype": "不适用",
+      "tail": "分析方法",
+      "tail_type": "方法",
+      "polarity": "positive",
+      "evidence": "第三，科学可以以分析方法下手，而人生观则为综合的。",
+      "confidence": 1.0
+    },
+    {
+      "id": "r4",
+      "head": "罗素",
+      "head_type": "人物",
+      "relation": "主张",
+      "relation_subtype": "不适用",
+      "tail": "感觉",
+      "tail_type": "概念",
+      "polarity": "neutral",
+      "evidence": "譬如罗素氏以为心理元素有二：曰感觉，曰意象。",
+      "confidence": 1.0
+    },
+    {
+      "id": "r5",
+      "head": "罗素",
+      "head_type": "人物",
+      "relation": "主张",
+      "relation_subtype": "不适用",
+      "tail": "意象",
+      "tail_type": "概念",
+      "polarity": "neutral",
+      "evidence": "譬如罗素氏以为心理元素有二：曰感觉，曰意象。",
+      "confidence": 1.0
+    },
+    {
+      "id": "r6",
+      "head": "杜里舒",
+      "head_type": "人物",
+      "relation": "主张",
+      "relation_subtype": "不适用",
+      "tail": "心理元素",
+      "tail_type": "概念",
+      "polarity": "neutral",
+      "evidence": "至于杜里舒氏，则以为有六类，其说甚长，兹不赘述。",
+      "confidence": 1.0
+    }
+  ],
+  "definitions": [
+    {
+      "id": "def1",
+      "term": "人生观",
+      "definition": "人生观是直觉的、综合的、包括一切的，若强为分析则失其真义。",
+      "evidence": "皆其自身良心之所命起而主张之，以为天下后世表率，故曰直觉的也。至于人生观，则为综合的，包括一切的，若强为分析，则必失其真义。",
+      "confidence": 1.0
+    },
+    {
+      "id": "def2",
+      "term": "科学",
+      "definition": "科学可以以分析方法下手，关键在分析。",
+      "evidence": "第三，科学可以以分析方法下手，而人生观则为综合的。科学关键，厥在分析。",
+      "confidence": 1.0
+    }
+  ],
+  "citations": [
+    {
+      "id": "cit1",
+      "citer": "张君劢",
+      "quoted_author": "罗素",
+      "quoted_work": "",
+      "quoted_claim": "心理元素有二：曰感觉，曰意象。",
+      "function": "作为例证",
+      "evidence": "譬如罗素氏以为心理元素有二：曰感觉，曰意象。",
+      "confidence": 1.0
+    },
+    {
+      "id": "cit2",
+      "citer": "张君劢",
+      "quoted_author": "杜里舒",
+      "quoted_work": "",
+      "quoted_claim": "心理元素有六类。",
+      "function": "作为例证",
+      "evidence": "至于杜里舒氏，则以为有六类，其说甚长，兹不赘述。",
+      "confidence": 1.0
+    }
+  ],
+  "rhetorical_devices": [
+    {
+      "id": "rh1",
+      "expression": "譬诸以政治学言之",
+      "device_type": "类比",
+      "literal_target": "以政治学系统为例说明人生观与科学的不同",
+      "function": "通过政治学系统的方法限制，类比说明人生观不受方法限制。",
+      "evidence": "譬诸以政治学言之，先立国家之定义，继之以主权、权利、义务之基本概念，又继之以政府内阁之执掌。若夫既采君主大权说于先，则不能再采国民主权说于后；既主张社会主义于先，不能主张个人主义于后。何也？为方法所限也，为系统所限也。",
+      "confidence": 1.0
+    },
+    {
+      "id": "rh2",
+      "expression": "譬诸释迦之人生观，曰普渡众生。苟求其动机所在，曰，此印度人好冥想之性质为之也；曰，此印度之气候为之也。如此分析，未尝无一种理由，然即此所分析之动机，而断定佛教之内容不过尔尔，则误矣。",
+      "device_type": "归谬",
+      "literal_target": "对释迦人生观进行动机分析",
+      "function": "通过假设对释迦人生观进行动机分析，归谬出若据此断定佛教内容则错误，从而论证人生观不可强为分析。",
+      "evidence": "譬诸释迦之人生观，曰普渡众生。苟求其动机所在，曰，此印度人好冥想之性质为之也；曰，此印度之气候为之也。如此分析，未尝无一种理由，然即此所分析之动机，而断定佛教之内容不过尔尔，则误矣。",
+      "confidence": 1.0
+    }
+  ],
+  "uncertainties": [
+    {
+      "item": "section_author 字段内容与 section_title 重复，且包含完整句子，可能为数据错误。",
+      "reason": "section_author 字段内容与 section_title 字段内容完全一致，且均为完整句子，不符合通常的元数据格式。"
+    }
+  ]
+}

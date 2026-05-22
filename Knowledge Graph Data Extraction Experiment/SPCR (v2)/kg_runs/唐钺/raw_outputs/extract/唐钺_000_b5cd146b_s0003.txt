@@ -1,0 +1,502 @@
+{
+  "metadata": {
+    "schema_version": "lite_v3.0",
+    "article_id": "唐钺_000_b5cd146b",
+    "article_title": "心理现象与因果律",
+    "source_author": "唐钺",
+    "section_title": "",
+    "section_author": "",
+    "segment_id": "唐钺_000_b5cd146b_s0003",
+    "segment_index": 3,
+    "source_file": "E:\\1研究生\\岭南大学\\论文毕业\\capstone\\资料\\新的内容开始了\\local_upload\\input_唐钺\\唐钺.txt"
+  },
+  "entities": [
+    {
+      "id": "e1",
+      "name": "火会烫伤皮肤",
+      "canonical_name": "火会烫伤皮肤",
+      "type": "例证",
+      "evidence": "比方，火会烫伤皮肤，是完全证实的。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e2",
+      "name": "一切心理现象都是有因的",
+      "canonical_name": "一切心理现象都是有因的",
+      "type": "观点",
+      "evidence": "因此我们可以相信一切心理现象都是如此。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e3",
+      "name": "一切物质现象有因的根据",
+      "canonical_name": "一切物质现象有因的根据",
+      "type": "概念",
+      "evidence": "其实一切物质现象有因的根据，也不过如是，而我们都深信不疑，何以独独疑到心理现象呢？",
+      "confidence": 1.0
+    },
+    {
+      "id": "e4",
+      "name": "譬喻",
+      "canonical_name": "譬喻",
+      "type": "比喻/类比",
+      "evidence": "我可以设一譬喻。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e5",
+      "name": "路与树的譬喻",
+      "canonical_name": "路与树的譬喻",
+      "type": "比喻/类比",
+      "evidence": "假如我们在一条长路上走，据已往的经验，那条路每距一丈就有一棵树。我们走了几百里，都是这样。现在我们望见前路远处还有排列整齐，像树的样子的东西。我们就预测他们也是树了。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e6",
+      "name": "无因论者",
+      "canonical_name": "无因论者",
+      "type": "阵营/群体",
+      "evidence": "所以除非无因论者能举实在的例，证明某种心理现象没有一点原因，我们总相信一切心理现象是有因的。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e7",
+      "name": "无因论者的主张",
+      "canonical_name": "无因论者的主张",
+      "type": "观点",
+      "evidence": "无因论者当然以为他们的主张是有证据的。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e8",
+      "name": "心理现象的大部分，现在还不知道他们的原因",
+      "canonical_name": "心理现象的大部分，现在还不知道他们的原因",
+      "type": "观点",
+      "evidence": "无因论者说，心理现象的大部分，现在还不知道他们的原因。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e9",
+      "name": "直接经验觉得他们是无因的",
+      "canonical_name": "直接经验觉得他们是无因的",
+      "type": "观点",
+      "evidence": "他们又说，我们的直接经验，觉得他们是无因的。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e10",
+      "name": "心理现象的因果",
+      "canonical_name": "心理现象的因果",
+      "type": "概念",
+      "evidence": "心理现象的因果，当然是比物质现象的因果复杂得多。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e11",
+      "name": "物质现象的因果",
+      "canonical_name": "物质现象的因果",
+      "type": "概念",
+      "evidence": "心理现象的因果，当然是比物质现象的因果复杂得多。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e12",
+      "name": "物质界的因果",
+      "canonical_name": "物质界的因果",
+      "type": "概念",
+      "evidence": "物质界的因果，如瀑布喷沫，都有时不能推测，何况心理界的因果呢？",
+      "confidence": 1.0
+    },
+    {
+      "id": "e13",
+      "name": "心理界的因果",
+      "canonical_name": "心理界的因果",
+      "type": "概念",
+      "evidence": "物质界的因果，如瀑布喷沫，都有时不能推测，何况心理界的因果呢？",
+      "confidence": 1.0
+    },
+    {
+      "id": "e14",
+      "name": "瀑布喷沫",
+      "canonical_name": "瀑布喷沫",
+      "type": "例证",
+      "evidence": "物质界的因果，如瀑布喷沫，都有时不能推测，何况心理界的因果呢？",
+      "confidence": 1.0
+    }
+  ],
+  "claims": [
+    {
+      "id": "c1",
+      "speaker": "唐钺",
+      "claim": "火会烫伤皮肤，是完全证实的。",
+      "target": "",
+      "claim_type": "描述性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "比方，火会烫伤皮肤，是完全证实的。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c2",
+      "speaker": "唐钺",
+      "claim": "许多心理现象是有因的；也有前此以为无因的，后来知识进步，也找出他的因来；因此我们可以相信一切心理现象都是如此。",
+      "target": "",
+      "claim_type": "结论性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "但是，虽然我们没有证实一切心理现象都是有因的，然而据我们的经验，许多心理现象是有因的；也有前此以为无因的，后来知识进步，也找出他的因来；因此我们可以相信一切心理现象都是如此。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c3",
+      "speaker": "唐钺",
+      "claim": "一切物质现象有因的根据，也不过如是，而我们都深信不疑，何以独独疑到心理现象呢？",
+      "target": "",
+      "claim_type": "反驳性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "其实一切物质现象有因的根据，也不过如是，而我们都深信不疑，何以独独疑到心理现象呢？",
+      "confidence": 1.0
+    },
+    {
+      "id": "c4",
+      "speaker": "唐钺",
+      "claim": "除非无因论者能举实在的例，证明某种心理现象没有一点原因，我们总相信一切心理现象是有因的。",
+      "target": "无因论者",
+      "claim_type": "结论性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "所以除非无因论者能举实在的例，证明某种心理现象没有一点原因，我们总相信一切心理现象是有因的。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c5",
+      "speaker": "无因论者",
+      "claim": "他们的主张是有证据的。",
+      "target": "",
+      "claim_type": "描述性主张",
+      "claim_status": "间接转述",
+      "polarity": "positive",
+      "evidence": "无因论者当然以为他们的主张是有证据的。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c6",
+      "speaker": "无因论者",
+      "claim": "心理现象的大部分，现在还不知道他们的原因。",
+      "target": "",
+      "claim_type": "描述性主张",
+      "claim_status": "间接转述",
+      "polarity": "neutral",
+      "evidence": "无因论者说，心理现象的大部分，现在还不知道他们的原因。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c7",
+      "speaker": "无因论者",
+      "claim": "既然不知道，何以知他们一定有原因呢？",
+      "target": "",
+      "claim_type": "问题提出",
+      "claim_status": "间接转述",
+      "polarity": "neutral",
+      "evidence": "既然不知道，何以知他们一定有原因呢？",
+      "confidence": 1.0
+    },
+    {
+      "id": "c8",
+      "speaker": "唐钺",
+      "claim": "心理现象的因果，当然是比物质现象的因果复杂得多。",
+      "target": "",
+      "claim_type": "描述性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "心理现象的因果，当然是比物质现象的因果复杂得多。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c9",
+      "speaker": "唐钺",
+      "claim": "物质界的因果，如瀑布喷沫，都有时不能推测，何况心理界的因果呢？",
+      "target": "",
+      "claim_type": "反驳性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "物质界的因果，如瀑布喷沫，都有时不能推测，何况心理界的因果呢？",
+      "confidence": 1.0
+    },
+    {
+      "id": "c10",
+      "speaker": "唐钺",
+      "claim": "许多心理现象，虽然不知道他们的原因，然而据既往的经验，可以说他们一定有因的。",
+      "target": "",
+      "claim_type": "结论性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "许多心理现象，虽然不知道他们的原因，然而据既往的经验，可以说他们一定有因的。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c11",
+      "speaker": "唐钺",
+      "claim": "以为他们一定是无因的，一点根据都没有。",
+      "target": "无因论者",
+      "claim_type": "反驳性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "至于以为他们一定是无因的，一点根据都没有。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c12",
+      "speaker": "无因论者",
+      "claim": "我们的直接经验，觉得他们是无因的。",
+      "target": "",
+      "claim_type": "描述性主张",
+      "claim_status": "间接转述",
+      "polarity": "neutral",
+      "evidence": "他们又说，我们的直接经验，觉得他们是无因的。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c13",
+      "speaker": "唐钺",
+      "claim": "这“觉得”是靠不住的。",
+      "target": "无因论者",
+      "claim_type": "评价性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "这“觉得”是靠不住的。",
+      "confidence": 1.0
+    }
+  ],
+  "relations": [
+    {
+      "id": "r1",
+      "head": "火会烫伤皮肤",
+      "head_type": "例证",
+      "relation": "作为论据支持",
+      "relation_subtype": "不适用",
+      "tail": "一切心理现象都是有因的",
+      "tail_type": "观点",
+      "polarity": "positive",
+      "stance_score": 1.0,
+      "intensity": 0.5,
+      "evidence": "比方，火会烫伤皮肤，是完全证实的。",
+      "confidence": 1.0
+    },
+    {
+      "id": "r2",
+      "head": "许多心理现象是有因的；也有前此以为无因的，后来知识进步，也找出他的因来",
+      "head_type": "论据",
+      "relation": "作为论据支持",
+      "relation_subtype": "不适用",
+      "tail": "因此我们可以相信一切心理现象都是如此",
+      "tail_type": "结论",
+      "polarity": "positive",
+      "stance_score": 1.0,
+      "intensity": 0.5,
+      "evidence": "但是，虽然我们没有证实一切心理现象都是有因的，然而据我们的经验，许多心理现象是有因的；也有前此以为无因的，后来知识进步，也找出他的因来；因此我们可以相信一切心理现象都是如此。",
+      "confidence": 1.0
+    },
+    {
+      "id": "r3",
+      "head": "一切物质现象有因的根据，也不过如是，而我们都深信不疑",
+      "head_type": "论据",
+      "relation": "作为论据支持",
+      "relation_subtype": "不适用",
+      "tail": "何以独独疑到心理现象呢？",
+      "tail_type": "问题",
+      "polarity": "negative",
+      "stance_score": -0.5,
+      "intensity": 0.5,
+      "evidence": "其实一切物质现象有因的根据，也不过如是，而我们都深信不疑，何以独独疑到心理现象呢？",
+      "confidence": 1.0
+    },
+    {
+      "id": "r4",
+      "head": "路与树的譬喻",
+      "head_type": "比喻/类比",
+      "relation": "类比",
+      "relation_subtype": "不适用",
+      "tail": "一切心理现象都是有因的",
+      "tail_type": "观点",
+      "polarity": "positive",
+      "stance_score": 1.0,
+      "intensity": 0.5,
+      "evidence": "我可以设一譬喻。假如我们在一条长路上走，据已往的经验，那条路每距一丈就有一棵树。我们走了几百里，都是这样。现在我们望见前路远处还有排列整齐，像树的样子的东西。我们就预测他们也是树了。",
+      "confidence": 1.0
+    },
+    {
+      "id": "r5",
+      "head": "路与树的譬喻",
+      "head_type": "比喻/类比",
+      "relation": "作为论据支持",
+      "relation_subtype": "不适用",
+      "tail": "所以除非无因论者能举实在的例，证明某种心理现象没有一点原因，我们总相信一切心理现象是有因的。",
+      "tail_type": "结论",
+      "polarity": "positive",
+      "stance_score": 1.0,
+      "intensity": 0.5,
+      "evidence": "这假定当然不是一定不错的；但是比说他们一定不是树的，他的根据强固得多了。所以除非无因论者能举实在的例，证明某种心理现象没有一点原因，我们总相信一切心理现象是有因的。",
+      "confidence": 1.0
+    },
+    {
+      "id": "r6",
+      "head": "无因论者",
+      "head_type": "阵营/群体",
+      "relation": "主张",
+      "relation_subtype": "不适用",
+      "tail": "他们的主张是有证据的",
+      "tail_type": "观点",
+      "polarity": "positive",
+      "stance_score": 0.5,
+      "intensity": 0.3,
+      "evidence": "无因论者当然以为他们的主张是有证据的。",
+      "confidence": 1.0
+    },
+    {
+      "id": "r7",
+      "head": "无因论者",
+      "head_type": "阵营/群体",
+      "relation": "主张",
+      "relation_subtype": "不适用",
+      "tail": "心理现象的大部分，现在还不知道他们的原因",
+      "tail_type": "观点",
+      "polarity": "neutral",
+      "stance_score": 0.0,
+      "intensity": 0.3,
+      "evidence": "无因论者说，心理现象的大部分，现在还不知道他们的原因。",
+      "confidence": 1.0
+    },
+    {
+      "id": "r8",
+      "head": "无因论者",
+      "head_type": "阵营/群体",
+      "relation": "主张",
+      "relation_subtype": "不适用",
+      "tail": "既然不知道，何以知他们一定有原因呢？",
+      "tail_type": "问题",
+      "polarity": "neutral",
+      "stance_score": 0.0,
+      "intensity": 0.3,
+      "evidence": "既然不知道，何以知他们一定有原因呢？",
+      "confidence": 1.0
+    },
+    {
+      "id": "r9",
+      "head": "唐钺",
+      "head_type": "人物",
+      "relation": "回应",
+      "relation_subtype": "逻辑反驳",
+      "tail": "无因论者",
+      "tail_type": "阵营/群体",
+      "polarity": "negative",
+      "stance_score": -0.8,
+      "intensity": 0.7,
+      "evidence": "我们可以回答他如下：心理现象的因果，当然是比物质现象的因果复杂得多。",
+      "confidence": 1.0
+    },
+    {
+      "id": "r10",
+      "head": "心理现象的因果",
+      "head_type": "概念",
+      "relation": "对比",
+      "relation_subtype": "不适用",
+      "tail": "物质现象的因果",
+      "tail_type": "概念",
+      "polarity": "neutral",
+      "stance_score": 0.0,
+      "intensity": 0.3,
+      "evidence": "心理现象的因果，当然是比物质现象的因果复杂得多。",
+      "confidence": 1.0
+    },
+    {
+      "id": "r11",
+      "head": "物质界的因果",
+      "head_type": "概念",
+      "relation": "作为论据支持",
+      "relation_subtype": "不适用",
+      "tail": "心理界的因果",
+      "tail_type": "概念",
+      "polarity": "negative",
+      "stance_score": -0.5,
+      "intensity": 0.5,
+      "evidence": "物质界的因果，如瀑布喷沫，都有时不能推测，何况心理界的因果呢？",
+      "confidence": 1.0
+    },
+    {
+      "id": "r12",
+      "head": "唐钺",
+      "head_type": "人物",
+      "relation": "反驳",
+      "relation_subtype": "逻辑反驳",
+      "tail": "无因论者",
+      "tail_type": "阵营/群体",
+      "polarity": "negative",
+      "stance_score": -0.8,
+      "intensity": 0.7,
+      "evidence": "至于以为他们一定是无因的，一点根据都没有。",
+      "confidence": 1.0
+    },
+    {
+      "id": "r13",
+      "head": "无因论者",
+      "head_type": "阵营/群体",
+      "relation": "主张",
+      "relation_subtype": "不适用",
+      "tail": "我们的直接经验，觉得他们是无因的",
+      "tail_type": "观点",
+      "polarity": "neutral",
+      "stance_score": 0.0,
+      "intensity": 0.3,
+      "evidence": "他们又说，我们的直接经验，觉得他们是无因的。",
+      "confidence": 1.0
+    },
+    {
+      "id": "r14",
+      "head": "唐钺",
+      "head_type": "人物",
+      "relation": "反驳",
+      "relation_subtype": "证据不足批评",
+      "tail": "无因论者",
+      "tail_type": "阵营/群体",
+      "polarity": "negative",
+      "stance_score": -0.8,
+      "intensity": 0.7,
+      "evidence": "这“觉得”是靠不住的。",
+      "confidence": 1.0
+    }
+  ],
+  "definitions": [],
+  "citations": [],
+  "rhetorical_devices": [
+    {
+      "id": "rh1",
+      "expression": "火会烫伤皮肤，是完全证实的。假如有人不相信，我就请他自己去实验。",
+      "device_type": "类比",
+      "literal_target": "通过实验验证因果",
+      "function": "作为论据支持，类比心理现象也有因",
+      "evidence": "比方，火会烫伤皮肤，是完全证实的。假如有人不相信，我就请他自己去实验。",
+      "confidence": 1.0
+    },
+    {
+      "id": "rh2",
+      "expression": "假如我们在一条长路上走，据已往的经验，那条路每距一丈就有一棵树。我们走了几百里，都是这样。现在我们望见前路远处还有排列整齐，像树的样子的东西。我们就预测他们也是树了。",
+      "device_type": "类比",
+      "literal_target": "根据经验预测未知现象",
+      "function": "作为论据支持，类比心理现象也有因",
+      "evidence": "我可以设一譬喻。假如我们在一条长路上走，据已往的经验，那条路每距一丈就有一棵树。我们走了几百里，都是这样。现在我们望见前路远处还有排列整齐，像树的样子的东西。我们就预测他们也是树了。",
+      "confidence": 1.0
+    },
+    {
+      "id": "rh3",
+      "expression": "物质界的因果，如瀑布喷沫，都有时不能推测，何况心理界的因果呢？",
+      "device_type": "类比",
+      "literal_target": "物质界因果有时难测，心理界更难",
+      "function": "作为论据支持，反驳无因论者",
+      "evidence": "物质界的因果，如瀑布喷沫，都有时不能推测，何况心理界的因果呢？",
+      "confidence": 1.0
+    }
+  ],
+  "uncertainties": []
+}

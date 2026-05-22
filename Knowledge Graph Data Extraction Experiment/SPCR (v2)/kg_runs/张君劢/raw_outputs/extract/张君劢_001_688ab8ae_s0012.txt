@@ -1,0 +1,463 @@
+{
+  "metadata": {
+    "schema_version": "lite_v3.0",
+    "article_id": "张君劢_001_688ab8ae",
+    "article_title": "人生观（中篇）",
+    "source_author": "张君劢",
+    "section_title": "",
+    "section_author": "",
+    "segment_id": "张君劢_001_688ab8ae_s0012",
+    "segment_index": 12,
+    "source_file": "E:\\1研究生\\岭南大学\\论文毕业\\capstone\\资料\\新的内容开始了\\local_upload\\input_张君劢\\张君劢.txt"
+  },
+  "entities": [
+    {
+      "id": "e1",
+      "name": "曾子",
+      "canonical_name": "曾子",
+      "type": "人物",
+      "evidence": "曾子曰：“吾日三省吾身，为人谋而不忠乎？与朋友交而不信乎？传不习乎？”",
+      "confidence": 1.0
+    },
+    {
+      "id": "e2",
+      "name": "在君",
+      "canonical_name": "在君",
+      "type": "人物",
+      "evidence": "而与在君所举之三标准无涉焉",
+      "confidence": 1.0
+    },
+    {
+      "id": "e3",
+      "name": "三标准",
+      "canonical_name": "三标准",
+      "type": "概念",
+      "evidence": "而与在君所举之三标准无涉焉",
+      "confidence": 1.0
+    },
+    {
+      "id": "e4",
+      "name": "道德之知",
+      "canonical_name": "道德之知",
+      "type": "概念",
+      "evidence": "此关于道德之知一",
+      "confidence": 1.0
+    },
+    {
+      "id": "e5",
+      "name": "美术之知",
+      "canonical_name": "美术之知",
+      "type": "概念",
+      "evidence": "此关于美术之知二",
+      "confidence": 1.0
+    },
+    {
+      "id": "e6",
+      "name": "形上界之知",
+      "canonical_name": "形上界之知",
+      "type": "概念",
+      "evidence": "此关于形上界之知三",
+      "confidence": 1.0
+    },
+    {
+      "id": "e7",
+      "name": "皮尔逊",
+      "canonical_name": "皮尔逊",
+      "type": "人物",
+      "evidence": "幸焉科学家中，非必人人狭小如皮尔逊",
+      "confidence": 1.0
+    },
+    {
+      "id": "e8",
+      "name": "托摩生",
+      "canonical_name": "托摩生",
+      "type": "人物",
+      "evidence": "则英生物学家托摩生其人也",
+      "confidence": 1.0
+    },
+    {
+      "id": "e9",
+      "name": "哲学",
+      "canonical_name": "哲学",
+      "type": "概念",
+      "evidence": "曰哲学，曰美术，曰宗教",
+      "confidence": 1.0
+    },
+    {
+      "id": "e10",
+      "name": "美术",
+      "canonical_name": "美术",
+      "type": "概念",
+      "evidence": "曰哲学，曰美术，曰宗教",
+      "confidence": 1.0
+    },
+    {
+      "id": "e11",
+      "name": "宗教",
+      "canonical_name": "宗教",
+      "type": "概念",
+      "evidence": "曰哲学，曰美术，曰宗教",
+      "confidence": 1.0
+    },
+    {
+      "id": "e12",
+      "name": "科学方法",
+      "canonical_name": "科学方法",
+      "type": "方法",
+      "evidence": "科学方法所适用之知识",
+      "confidence": 1.0
+    },
+    {
+      "id": "e13",
+      "name": "达坦",
+      "canonical_name": "达坦",
+      "type": "概念",
+      "evidence": "各科学以一定之达坦为出发点",
+      "confidence": 1.0
+    },
+    {
+      "id": "e14",
+      "name": "物质",
+      "canonical_name": "物质",
+      "type": "概念",
+      "evidence": "物理学以物质以爱纳涅为宇宙之本",
+      "confidence": 1.0
+    },
+    {
+      "id": "e15",
+      "name": "爱纳涅",
+      "canonical_name": "爱纳涅",
+      "type": "概念",
+      "evidence": "物理学以物质以爱纳涅为宇宙之本",
+      "confidence": 1.0
+    },
+    {
+      "id": "e16",
+      "name": "宇宙",
+      "canonical_name": "宇宙",
+      "type": "概念",
+      "evidence": "一若有此二者，则宇宙可以立就",
+      "confidence": 1.0
+    }
+  ],
+  "claims": [
+    {
+      "id": "c1",
+      "speaker": "作者",
+      "claim": "事之大部分，皆不得以知识名之",
+      "target": "",
+      "claim_type": "描述性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "事之大部分，皆不得以知识名之",
+      "confidence": 1.0
+    },
+    {
+      "id": "c2",
+      "speaker": "作者",
+      "claim": "忠不忠信不信之辨，惟已知之最深，而与在君所举之三标准无涉焉",
+      "target": "在君",
+      "claim_type": "反驳性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "忠不忠信不信之辨，惟已知之最深，而与在君所举之三标准无涉焉",
+      "confidence": 1.0
+    },
+    {
+      "id": "c3",
+      "speaker": "作者",
+      "claim": "乐之美不美，亦惟一己能知之，而与在君所举之三标准无涉焉",
+      "target": "在君",
+      "claim_type": "反驳性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "乐之美不美，亦惟一己能知之，而与在君所举之三标准无涉焉",
+      "confidence": 1.0
+    },
+    {
+      "id": "c4",
+      "speaker": "作者",
+      "claim": "此生死之知不知，可知与不可知之界限已为一种科学知识与非科学知识之界线，亦与在君所举之三标准无涉焉",
+      "target": "在君",
+      "claim_type": "反驳性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "此生死之知不知，可知与不可知之界限已为一种科学知识与非科学知识之界线，亦与在君所举之三标准无涉焉",
+      "confidence": 1.0
+    },
+    {
+      "id": "c5",
+      "speaker": "作者",
+      "claim": "苟以其非科学之技所能施，乃并其为知识之性质而亦否认之，适足以证科学家自知其力之有限，乃于其力之所不及者，闭目而不欲见，充耳而不欲闻耳",
+      "target": "科学家",
+      "claim_type": "评价性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "苟以其非科学之技所能施，乃并其为知识之性质而亦否认之，适足以证科学家自知其力之有限，乃于其力之所不及者，闭目而不欲见，充耳而不欲闻耳",
+      "confidence": 1.0
+    },
+    {
+      "id": "c6",
+      "speaker": "作者",
+      "claim": "幸焉科学家中，非必人人狭小如皮尔逊",
+      "target": "皮尔逊",
+      "claim_type": "评价性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "幸焉科学家中，非必人人狭小如皮尔逊",
+      "confidence": 1.0
+    },
+    {
+      "id": "c7",
+      "speaker": "作者",
+      "claim": "有直认科学之力之所不及，而以哲学、美术、宗教三者为辅佐，则英生物学家托摩生其人也",
+      "target": "托摩生",
+      "claim_type": "描述性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "有直认科学之力之所不及，而以哲学、美术、宗教三者为辅佐，则英生物学家托摩生其人也",
+      "confidence": 1.0
+    },
+    {
+      "id": "c8",
+      "speaker": "托摩生",
+      "claim": "各科学以一定之达坦为出发点，至达坦之是否正确，不暇细究",
+      "target": "",
+      "claim_type": "描述性主张",
+      "claim_status": "间接转述",
+      "polarity": "neutral",
+      "evidence": "托氏所以承认哲学者有二故。各科学以一定之达坦为出发点，至达坦之是否正确，不暇细究",
+      "confidence": 1.0
+    },
+    {
+      "id": "c9",
+      "speaker": "托摩生",
+      "claim": "物理学以物质以爱纳涅为宇宙之本，一若有此二者，则宇宙可以立就。抑知所谓物质所谓爱纳涅，其在大宇宙中，应作何解，不可不加研究",
+      "target": "",
+      "claim_type": "描述性主张",
+      "claim_status": "间接转述",
+      "polarity": "neutral",
+      "evidence": "物理学以物质以爱纳涅为宇宙之本，一若有此二者，则宇宙可以立就。抑知所谓物质所谓爱纳涅，其在大宇宙中，应作何解，不可不加研究",
+      "confidence": 1.0
+    }
+  ],
+  "relations": [
+    {
+      "id": "r1",
+      "head": "作者",
+      "head_type": "人物",
+      "relation": "反驳",
+      "relation_subtype": "概念混淆批评",
+      "tail": "在君",
+      "tail_type": "人物",
+      "polarity": "negative",
+      "stance_score": -0.8,
+      "intensity": 0.7,
+      "evidence": "忠不忠信不信之辨，惟已知之最深，而与在君所举之三标准无涉焉",
+      "confidence": 1.0
+    },
+    {
+      "id": "r2",
+      "head": "作者",
+      "head_type": "人物",
+      "relation": "反驳",
+      "relation_subtype": "概念混淆批评",
+      "tail": "在君",
+      "tail_type": "人物",
+      "polarity": "negative",
+      "stance_score": -0.8,
+      "intensity": 0.7,
+      "evidence": "乐之美不美，亦惟一己能知之，而与在君所举之三标准无涉焉",
+      "confidence": 1.0
+    },
+    {
+      "id": "r3",
+      "head": "作者",
+      "head_type": "人物",
+      "relation": "反驳",
+      "relation_subtype": "概念混淆批评",
+      "tail": "在君",
+      "tail_type": "人物",
+      "polarity": "negative",
+      "stance_score": -0.8,
+      "intensity": 0.7,
+      "evidence": "此生死之知不知，可知与不可知之界限已为一种科学知识与非科学知识之界线，亦与在君所举之三标准无涉焉",
+      "confidence": 1.0
+    },
+    {
+      "id": "r4",
+      "head": "作者",
+      "head_type": "人物",
+      "relation": "批评",
+      "relation_subtype": "一般批评",
+      "tail": "科学家",
+      "tail_type": "阵营/群体",
+      "polarity": "negative",
+      "stance_score": -0.9,
+      "intensity": 0.9,
+      "evidence": "苟以其非科学之技所能施，乃并其为知识之性质而亦否认之，适足以证科学家自知其力之有限，乃于其力之所不及者，闭目而不欲见，充耳而不欲闻耳",
+      "confidence": 1.0
+    },
+    {
+      "id": "r5",
+      "head": "作者",
+      "head_type": "人物",
+      "relation": "评价",
+      "relation_subtype": "一般批评",
+      "tail": "皮尔逊",
+      "tail_type": "人物",
+      "polarity": "negative",
+      "stance_score": -0.7,
+      "intensity": 0.6,
+      "evidence": "幸焉科学家中，非必人人狭小如皮尔逊",
+      "confidence": 1.0
+    },
+    {
+      "id": "r6",
+      "head": "作者",
+      "head_type": "人物",
+      "relation": "评价",
+      "relation_subtype": "部分肯定",
+      "tail": "托摩生",
+      "tail_type": "人物",
+      "polarity": "positive",
+      "stance_score": 0.8,
+      "intensity": 0.6,
+      "evidence": "有直认科学之力之所不及，而以哲学、美术、宗教三者为辅佐，则英生物学家托摩生其人也",
+      "confidence": 1.0
+    },
+    {
+      "id": "r7",
+      "head": "托摩生",
+      "head_type": "人物",
+      "relation": "主张",
+      "relation_subtype": "不适用",
+      "tail": "各科学以一定之达坦为出发点，至达坦之是否正确，不暇细究",
+      "tail_type": "观点",
+      "polarity": "neutral",
+      "stance_score": 0.0,
+      "intensity": 0.3,
+      "evidence": "托氏所以承认哲学者有二故。各科学以一定之达坦为出发点，至达坦之是否正确，不暇细究",
+      "confidence": 1.0
+    },
+    {
+      "id": "r8",
+      "head": "托摩生",
+      "head_type": "人物",
+      "relation": "主张",
+      "relation_subtype": "不适用",
+      "tail": "物理学以物质以爱纳涅为宇宙之本，一若有此二者，则宇宙可以立就。抑知所谓物质所谓爱纳涅，其在大宇宙中，应作何解，不可不加研究",
+      "tail_type": "观点",
+      "polarity": "neutral",
+      "stance_score": 0.0,
+      "intensity": 0.3,
+      "evidence": "物理学以物质以爱纳涅为宇宙之本，一若有此二者，则宇宙可以立就。抑知所谓物质所谓爱纳涅，其在大宇宙中，应作何解，不可不加研究",
+      "confidence": 1.0
+    }
+  ],
+  "definitions": [
+    {
+      "id": "def1",
+      "term": "道德之知",
+      "definition": "关于忠信等道德判断的知识，由个人内心自知，与科学标准无关",
+      "evidence": "忠不忠信不信之辨，惟已知之最深，而与在君所举之三标准无涉焉。此关于道德之知一",
+      "confidence": 1.0
+    },
+    {
+      "id": "def2",
+      "term": "美术之知",
+      "definition": "关于音乐美丑的知识，由个人内心自知，与科学标准无关",
+      "evidence": "乐之美不美，亦惟一己能知之，而与在君所举之三标准无涉焉。此关于美术之知二",
+      "confidence": 1.0
+    },
+    {
+      "id": "def3",
+      "term": "形上界之知",
+      "definition": "关于生死、可知与不可知界限的知识，属于科学知识与非科学知识的界线，与科学标准无关",
+      "evidence": "此生死之知不知，可知与不可知之界限已为一种科学知识与非科学知识之界线，亦与在君所举之三标准无涉焉。此关于形上界之知三",
+      "confidence": 1.0
+    }
+  ],
+  "citations": [
+    {
+      "id": "cit1",
+      "citer": "作者",
+      "quoted_author": "曾子",
+      "quoted_work": "",
+      "quoted_claim": "吾日三省吾身，为人谋而不忠乎？与朋友交而不信乎？传不习乎？",
+      "function": "作为论据支持",
+      "evidence": "曾子曰：“吾日三省吾身，为人谋而不忠乎？与朋友交而不信乎？传不习乎？”",
+      "confidence": 1.0
+    },
+    {
+      "id": "cit2",
+      "citer": "作者",
+      "quoted_author": "孔子",
+      "quoted_work": "",
+      "quoted_claim": "乐其可知也",
+      "function": "作为论据支持",
+      "evidence": "子语鲁太师乐曰，乐其可知也",
+      "confidence": 1.0
+    },
+    {
+      "id": "cit3",
+      "citer": "作者",
+      "quoted_author": "孔子",
+      "quoted_work": "",
+      "quoted_claim": "未知生，焉知死？",
+      "function": "作为论据支持",
+      "evidence": "子曰：“未知生，焉知死？”",
+      "confidence": 1.0
+    },
+    {
+      "id": "cit4",
+      "citer": "作者",
+      "quoted_author": "孔子",
+      "quoted_work": "",
+      "quoted_claim": "知之为知之，不知为不知，是知也",
+      "function": "作为论据支持",
+      "evidence": "又曰：“知之为知之，不知为不知，是知也。”",
+      "confidence": 1.0
+    },
+    {
+      "id": "cit5",
+      "citer": "作者",
+      "quoted_author": "托摩生",
+      "quoted_work": "",
+      "quoted_claim": "承认哲学、美术、宗教为科学方法所适用之知识外的三项",
+      "function": "援引权威支持",
+      "evidence": "有直认科学之力之所不及，而以哲学、美术、宗教三者为辅佐，则英生物学家托摩生其人也。托氏于所谓科学方法所适用之知识外，同时承认三项，曰哲学，曰美术，曰宗教",
+      "confidence": 1.0
+    }
+  ],
+  "rhetorical_devices": [
+    {
+      "id": "rh1",
+      "expression": "闭目而不欲见，充耳而不欲闻",
+      "device_type": "比喻",
+      "literal_target": "科学家对科学方法无法处理的知识领域采取回避态度",
+      "function": "批评科学家否认非科学知识的性质",
+      "evidence": "适足以证科学家自知其力之有限，乃于其力之所不及者，闭目而不欲见，充耳而不欲闻耳",
+      "confidence": 1.0
+    },
+    {
+      "id": "rh2",
+      "expression": "狭小如皮尔逊",
+      "device_type": "标签化",
+      "literal_target": "皮尔逊",
+      "function": "贬低皮尔逊的学术视野",
+      "evidence": "幸焉科学家中，非必人人狭小如皮尔逊",
+      "confidence": 1.0
+    }
+  ],
+  "uncertainties": [
+    {
+      "item": "在君所举之三标准的具体内容",
+      "reason": "文本中未说明三标准是什么，仅提及与在君有关"
+    },
+    {
+      "item": "托摩生承认哲学的两故中第二故的具体内容",
+      "reason": "文本只给出了第一故，第二故未完整呈现"
+    }
+  ]
+}

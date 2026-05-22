@@ -1,0 +1,379 @@
+{
+  "metadata": {
+    "schema_version": "lite_v3.0",
+    "article_id": "胡适_000_993249d7",
+    "article_title": "序二",
+    "source_author": "胡适",
+    "section_title": "",
+    "section_author": "",
+    "segment_id": "胡适_000_993249d7_s0020",
+    "segment_index": 20,
+    "source_file": "E:\\1研究生\\岭南大学\\论文毕业\\capstone\\资料\\新的内容开始了\\local_upload\\input_胡适\\胡适.txt"
+  },
+  "entities": [
+    {
+      "id": "e1",
+      "name": "因果律",
+      "canonical_name": "因果律",
+      "type": "概念",
+      "evidence": "因果律的笼罩一切",
+      "confidence": 1.0
+    },
+    {
+      "id": "e2",
+      "name": "自由",
+      "canonical_name": "自由",
+      "type": "概念",
+      "evidence": "并不见得束缚他的自由",
+      "confidence": 1.0
+    },
+    {
+      "id": "e3",
+      "name": "生存竞争的观念",
+      "canonical_name": "生存竞争的观念",
+      "type": "概念",
+      "evidence": "生存竞争的观念也并不见得就使他成为一个冷酷无情的畜生",
+      "confidence": 1.0
+    },
+    {
+      "id": "e4",
+      "name": "自然主义的人生观",
+      "canonical_name": "自然主义的人生观",
+      "type": "概念",
+      "evidence": "这个自然主义的人生观里，未尝没有美，未尝没有诗意，未尝没有道德的责任，未尝没有充分运用“创造的智慧”的机会。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e5",
+      "name": "创造的智慧",
+      "canonical_name": "创造的智慧",
+      "type": "概念",
+      "evidence": "充分运用“创造的智慧”的机会",
+      "confidence": 1.0
+    },
+    {
+      "id": "e6",
+      "name": "这个新人生观",
+      "canonical_name": "这个新人生观",
+      "type": "概念",
+      "evidence": "这个新人生观的满意的叙述与发挥，那正是这本书和这篇序所期望能引起的。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e7",
+      "name": "这本书",
+      "canonical_name": "这本书",
+      "type": "著作",
+      "evidence": "那正是这本书和这篇序所期望能引起的",
+      "confidence": 1.0
+    },
+    {
+      "id": "e8",
+      "name": "这篇序",
+      "canonical_name": "这篇序",
+      "type": "文章",
+      "evidence": "那正是这本书和这篇序所期望能引起的",
+      "confidence": 1.0
+    },
+    {
+      "id": "e9",
+      "name": "他",
+      "canonical_name": "他",
+      "type": "人物",
+      "evidence": "束缚他的自由",
+      "confidence": 0.8
+    },
+    {
+      "id": "e10",
+      "name": "同类",
+      "canonical_name": "同类",
+      "type": "阵营/群体",
+      "evidence": "对于同类的同情心",
+      "confidence": 1.0
+    },
+    {
+      "id": "e11",
+      "name": "信仰的读者",
+      "canonical_name": "信仰的读者",
+      "type": "阵营/群体",
+      "evidence": "定然不能使信仰的读者满意",
+      "confidence": 1.0
+    },
+    {
+      "id": "e12",
+      "name": "不信仰的读者",
+      "canonical_name": "不信仰的读者",
+      "type": "阵营/群体",
+      "evidence": "或使不信仰的读者心服",
+      "confidence": 1.0
+    }
+  ],
+  "claims": [
+    {
+      "id": "c1",
+      "speaker": "胡适",
+      "claim": "因果律的笼罩一切，也并不见得束缚他的自由",
+      "target": "因果律",
+      "claim_type": "反驳性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "因果律的笼罩一切，也并不见得束缚他的自由",
+      "confidence": 1.0
+    },
+    {
+      "id": "c2",
+      "speaker": "胡适",
+      "claim": "因果律的作用一方面使他可以由因求果，由果推因，解释过去，预测未来；一方面又使他可以运用他的智慧，创造新因以求新果。",
+      "target": "因果律",
+      "claim_type": "描述性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "因为因果律的作用一方面使他可以由因求果，由果推因，解释过去，预测未来；一方面又使他可以运用他的智慧，创造新因以求新果。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c3",
+      "speaker": "胡适",
+      "claim": "生存竞争的观念也并不见得就使他成为一个冷酷无情的畜生",
+      "target": "生存竞争的观念",
+      "claim_type": "反驳性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "生存竞争的观念也并不见得就使他成为一个冷酷无情的畜生",
+      "confidence": 1.0
+    },
+    {
+      "id": "c4",
+      "speaker": "胡适",
+      "claim": "也许还可以格外增加他对于同类的同情心，格外使他深信互助的重要，格外使他注重人为的努力以减免天然竞争的惨酷与浪费。",
+      "target": "生存竞争的观念",
+      "claim_type": "描述性主张",
+      "claim_status": "作者推论",
+      "polarity": "positive",
+      "evidence": "也许还可以格外增加他对于同类的同情心，格外使他深信互助的重要，格外使他注重人为的努力以减免天然竞争的惨酷与浪费。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c5",
+      "speaker": "胡适",
+      "claim": "这个自然主义的人生观里，未尝没有美，未尝没有诗意，未尝没有道德的责任，未尝没有充分运用“创造的智慧”的机会。",
+      "target": "自然主义的人生观",
+      "claim_type": "评价性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "这个自然主义的人生观里，未尝没有美，未尝没有诗意，未尝没有道德的责任，未尝没有充分运用“创造的智慧”的机会。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c6",
+      "speaker": "胡适",
+      "claim": "我这样粗枝大叶的叙述，定然不能使信仰的读者满意，或使不信仰的读者心服。",
+      "target": "我这样粗枝大叶的叙述",
+      "claim_type": "评价性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "我这样粗枝大叶的叙述，定然不能使信仰的读者满意，或使不信仰的读者心服。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c7",
+      "speaker": "胡适",
+      "claim": "这个新人生观的满意的叙述与发挥，那正是这本书和这篇序所期望能引起的。",
+      "target": "这个新人生观",
+      "claim_type": "结论性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "这个新人生观的满意的叙述与发挥，那正是这本书和这篇序所期望能引起的。",
+      "confidence": 1.0
+    }
+  ],
+  "relations": [
+    {
+      "id": "r1",
+      "head": "因果律的笼罩一切",
+      "head_type": "概念",
+      "relation": "反驳",
+      "relation_subtype": "逻辑反驳",
+      "tail": "束缚他的自由",
+      "tail_type": "概念",
+      "polarity": "negative",
+      "stance_score": -0.8,
+      "intensity": 0.6,
+      "evidence": "因果律的笼罩一切，也并不见得束缚他的自由",
+      "confidence": 1.0
+    },
+    {
+      "id": "r2",
+      "head": "因果律的作用",
+      "head_type": "概念",
+      "relation": "解释",
+      "relation_subtype": "不适用",
+      "tail": "使他可以由因求果，由果推因，解释过去，预测未来",
+      "tail_type": "观点",
+      "polarity": "positive",
+      "stance_score": 1.0,
+      "intensity": 0.8,
+      "evidence": "因为因果律的作用一方面使他可以由因求果，由果推因，解释过去，预测未来；一方面又使他可以运用他的智慧，创造新因以求新果。",
+      "confidence": 1.0
+    },
+    {
+      "id": "r3",
+      "head": "因果律的作用",
+      "head_type": "概念",
+      "relation": "解释",
+      "relation_subtype": "不适用",
+      "tail": "使他可以运用他的智慧，创造新因以求新果",
+      "tail_type": "观点",
+      "polarity": "positive",
+      "stance_score": 1.0,
+      "intensity": 0.8,
+      "evidence": "因为因果律的作用一方面使他可以由因求果，由果推因，解释过去，预测未来；一方面又使他可以运用他的智慧，创造新因以求新果。",
+      "confidence": 1.0
+    },
+    {
+      "id": "r4",
+      "head": "生存竞争的观念",
+      "head_type": "概念",
+      "relation": "反驳",
+      "relation_subtype": "逻辑反驳",
+      "tail": "使他成为一个冷酷无情的畜生",
+      "tail_type": "观点",
+      "polarity": "negative",
+      "stance_score": -0.8,
+      "intensity": 0.6,
+      "evidence": "生存竞争的观念也并不见得就使他成为一个冷酷无情的畜生",
+      "confidence": 1.0
+    },
+    {
+      "id": "r5",
+      "head": "生存竞争的观念",
+      "head_type": "概念",
+      "relation": "导致",
+      "relation_subtype": "不适用",
+      "tail": "格外增加他对于同类的同情心",
+      "tail_type": "观点",
+      "polarity": "positive",
+      "stance_score": 0.5,
+      "intensity": 0.4,
+      "evidence": "也许还可以格外增加他对于同类的同情心，格外使他深信互助的重要，格外使他注重人为的努力以减免天然竞争的惨酷与浪费。",
+      "confidence": 1.0
+    },
+    {
+      "id": "r6",
+      "head": "生存竞争的观念",
+      "head_type": "概念",
+      "relation": "导致",
+      "relation_subtype": "不适用",
+      "tail": "格外使他深信互助的重要",
+      "tail_type": "观点",
+      "polarity": "positive",
+      "stance_score": 0.5,
+      "intensity": 0.4,
+      "evidence": "也许还可以格外增加他对于同类的同情心，格外使他深信互助的重要，格外使他注重人为的努力以减免天然竞争的惨酷与浪费。",
+      "confidence": 1.0
+    },
+    {
+      "id": "r7",
+      "head": "生存竞争的观念",
+      "head_type": "概念",
+      "relation": "导致",
+      "relation_subtype": "不适用",
+      "tail": "格外使他注重人为的努力以减免天然竞争的惨酷与浪费",
+      "tail_type": "观点",
+      "polarity": "positive",
+      "stance_score": 0.5,
+      "intensity": 0.4,
+      "evidence": "也许还可以格外增加他对于同类的同情心，格外使他深信互助的重要，格外使他注重人为的努力以减免天然竞争的惨酷与浪费。",
+      "confidence": 1.0
+    },
+    {
+      "id": "r8",
+      "head": "自然主义的人生观",
+      "head_type": "概念",
+      "relation": "包含",
+      "relation_subtype": "不适用",
+      "tail": "美",
+      "tail_type": "概念",
+      "polarity": "positive",
+      "stance_score": 1.0,
+      "intensity": 0.8,
+      "evidence": "这个自然主义的人生观里，未尝没有美，未尝没有诗意，未尝没有道德的责任，未尝没有充分运用“创造的智慧”的机会。",
+      "confidence": 1.0
+    },
+    {
+      "id": "r9",
+      "head": "自然主义的人生观",
+      "head_type": "概念",
+      "relation": "包含",
+      "relation_subtype": "不适用",
+      "tail": "诗意",
+      "tail_type": "概念",
+      "polarity": "positive",
+      "stance_score": 1.0,
+      "intensity": 0.8,
+      "evidence": "这个自然主义的人生观里，未尝没有美，未尝没有诗意，未尝没有道德的责任，未尝没有充分运用“创造的智慧”的机会。",
+      "confidence": 1.0
+    },
+    {
+      "id": "r10",
+      "head": "自然主义的人生观",
+      "head_type": "概念",
+      "relation": "包含",
+      "relation_subtype": "不适用",
+      "tail": "道德的责任",
+      "tail_type": "概念",
+      "polarity": "positive",
+      "stance_score": 1.0,
+      "intensity": 0.8,
+      "evidence": "这个自然主义的人生观里，未尝没有美，未尝没有诗意，未尝没有道德的责任，未尝没有充分运用“创造的智慧”的机会。",
+      "confidence": 1.0
+    },
+    {
+      "id": "r11",
+      "head": "自然主义的人生观",
+      "head_type": "概念",
+      "relation": "包含",
+      "relation_subtype": "不适用",
+      "tail": "充分运用“创造的智慧”的机会",
+      "tail_type": "概念",
+      "polarity": "positive",
+      "stance_score": 1.0,
+      "intensity": 0.8,
+      "evidence": "这个自然主义的人生观里，未尝没有美，未尝没有诗意，未尝没有道德的责任，未尝没有充分运用“创造的智慧”的机会。",
+      "confidence": 1.0
+    },
+    {
+      "id": "r12",
+      "head": "这本书和这篇序",
+      "head_type": "著作",
+      "relation": "作为论据支持",
+      "relation_subtype": "不适用",
+      "tail": "这个新人生观的满意的叙述与发挥",
+      "tail_type": "观点",
+      "polarity": "positive",
+      "stance_score": 1.0,
+      "intensity": 0.8,
+      "evidence": "这个新人生观的满意的叙述与发挥，那正是这本书和这篇序所期望能引起的。",
+      "confidence": 1.0
+    }
+  ],
+  "definitions": [],
+  "citations": [],
+  "rhetorical_devices": [
+    {
+      "id": "rh1",
+      "expression": "冷酷无情的畜生",
+      "device_type": "标签化",
+      "literal_target": "冷酷无情的人",
+      "function": "通过贬称强化反驳效果",
+      "evidence": "生存竞争的观念也并不见得就使他成为一个冷酷无情的畜生",
+      "confidence": 1.0
+    }
+  ],
+  "uncertainties": [
+    {
+      "item": "entity '他' 的具体指代对象",
+      "reason": "文本中未明确说明'他'指代谁，可能指人类或个体，但无法从当前片段确定。"
+    }
+  ]
+}

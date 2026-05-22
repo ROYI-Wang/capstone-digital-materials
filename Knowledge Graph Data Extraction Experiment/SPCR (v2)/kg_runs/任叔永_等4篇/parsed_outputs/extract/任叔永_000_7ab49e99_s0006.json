@@ -1,0 +1,417 @@
+{
+  "metadata": {
+    "schema_version": "lite_v3.0",
+    "article_id": "任叔永_000_7ab49e99",
+    "article_title": "人生观的科学或科学的人生观",
+    "source_author": "任叔永",
+    "section_title": "",
+    "section_author": "",
+    "segment_id": "任叔永_000_7ab49e99_s0006",
+    "segment_index": 6,
+    "source_file": "E:\\1研究生\\岭南大学\\论文毕业\\capstone\\资料\\新的内容开始了\\local_upload\\input_v2_w1\\任叔永.txt"
+  },
+  "entities": [
+    {
+      "id": "e1",
+      "name": "科学家",
+      "canonical_name": "科学家",
+      "type": "阵营/群体",
+      "evidence": "科学家因为要求一个合理的关系，所以不惮用精确的观察去求事实，精确的论理去做推论。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e2",
+      "name": "赫胥黎",
+      "canonical_name": "赫胥黎",
+      "type": "人物",
+      "evidence": "赫胥黎说：“要我相信在某时以前宇宙不曾存在，忽然有一个先在的神人，在六天中间（或者说立刻也可）就把他造成功来，也不是很难的事体。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e3",
+      "name": "科学",
+      "canonical_name": "科学",
+      "type": "概念",
+      "evidence": "科学有他的限界，凡笼统浑沌的思想，或未经分析的事实，都非科学所能支配。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e4",
+      "name": "人生观",
+      "canonical_name": "人生观",
+      "type": "概念",
+      "evidence": "人生观若就是一个笼统的观念，自然不在科学范围以内。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e5",
+      "name": "科学方法",
+      "canonical_name": "科学方法",
+      "type": "方法",
+      "evidence": "若分析起来，有一大部分或全部分，都可以用科学方法去变更或解决。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e6",
+      "name": "科学的人生观",
+      "canonical_name": "科学的人生观",
+      "type": "概念",
+      "evidence": "上面略举三种科学的人生观以见一斑，其余的不多说了。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e7",
+      "name": "证据",
+      "canonical_name": "证据",
+      "type": "概念",
+      "evidence": "他们不敢信怎样隆古重要的传说，只是要求一个证据，因为他们晓得只有由证据推出的结论，是合理的。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e8",
+      "name": "结论",
+      "canonical_name": "结论",
+      "type": "结论",
+      "evidence": "他们因为要求一个合理的结论，所以不惮和前人的名论或社会的成见宣战。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e9",
+      "name": "前人的名论或社会的成见",
+      "canonical_name": "前人的名论或社会的成见",
+      "type": "概念",
+      "evidence": "他们因为要求一个合理的结论，所以不惮和前人的名论或社会的成见宣战。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e10",
+      "name": "笼统浑沌的思想",
+      "canonical_name": "笼统浑沌的思想",
+      "type": "概念",
+      "evidence": "科学有他的限界，凡笼统浑沌的思想，或未经分析的事实，都非科学所能支配。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e11",
+      "name": "未经分析的事实",
+      "canonical_name": "未经分析的事实",
+      "type": "概念",
+      "evidence": "科学有他的限界，凡笼统浑沌的思想，或未经分析的事实，都非科学所能支配。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e12",
+      "name": "笼统的观念",
+      "canonical_name": "笼统的观念",
+      "type": "概念",
+      "evidence": "人生观若就是一个笼统的观念，自然不在科学范围以内。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e13",
+      "name": "伟大高尚的人生观",
+      "canonical_name": "伟大高尚的人生观",
+      "type": "概念",
+      "evidence": "科学自身可以发生各种伟大高尚的人生观。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e14",
+      "name": "人生观的景界",
+      "canonical_name": "人生观的景界",
+      "type": "概念",
+      "evidence": "因为不曾研究过科学的，看不到这种人生观的景界，我们应该多提倡科学以改良人生观，不当因为注重人生观而忽视科学。",
+      "confidence": 1.0
+    }
+  ],
+  "claims": [
+    {
+      "id": "c1",
+      "speaker": "任叔永",
+      "claim": "科学家因为要求一个合理的关系，所以不惮用精确的观察去求事实，精确的论理去做推论。",
+      "target": "科学家",
+      "claim_type": "描述性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "科学家因为要求一个合理的关系，所以不惮用精确的观察去求事实，精确的论理去做推论。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c2",
+      "speaker": "任叔永",
+      "claim": "他们因为要求一个合理的结论，所以不惮和前人的名论或社会的成见宣战。",
+      "target": "科学家",
+      "claim_type": "描述性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "他们因为要求一个合理的结论，所以不惮和前人的名论或社会的成见宣战。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c3",
+      "speaker": "赫胥黎",
+      "claim": "要我相信在某时以前宇宙不曾存在，忽然有一个先在的神人，在六天中间（或者说立刻也可）就把他造成功来，也不是很难的事体。我不说凡不能的都是不真。我所提出的只是最低微而最有理的要求，要求现在所有动植物的种类由那样创造出来的一点证据。这一点证据是我要相信觉得极不可能的说话的唯一条件。",
+      "target": "创造论",
+      "claim_type": "描述性主张",
+      "claim_status": "直接引用",
+      "polarity": "negative",
+      "evidence": "赫胥黎说：“要我相信在某时以前宇宙不曾存在，忽然有一个先在的神人，在六天中间（或者说立刻也可）就把他造成功来，也不是很难的事体。我不说凡不能的都是不真。我所提出的只是最低微而最有理的要求，要求现在所有动植物的种类由那样创造出来的一点证据。这一点证据是我要相信觉得极不可能的说话的唯一条件。”",
+      "confidence": 1.0
+    },
+    {
+      "id": "c4",
+      "speaker": "任叔永",
+      "claim": "他们不敢信怎样隆古重要的传说，只是要求一个证据，因为他们晓得只有由证据推出的结论，是合理的。",
+      "target": "科学家",
+      "claim_type": "描述性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "他们不敢信怎样隆古重要的传说，只是要求一个证据，因为他们晓得只有由证据推出的结论，是合理的。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c5",
+      "speaker": "任叔永",
+      "claim": "科学有他的限界，凡笼统浑沌的思想，或未经分析的事实，都非科学所能支配。",
+      "target": "科学",
+      "claim_type": "定义性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "科学有他的限界，凡笼统浑沌的思想，或未经分析的事实，都非科学所能支配。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c6",
+      "speaker": "任叔永",
+      "claim": "科学的职务，就在要分析及弄清楚这些思想事实上。",
+      "target": "科学",
+      "claim_type": "定义性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "但是科学的职务，就在要分析及弄清楚这些思想事实上。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c7",
+      "speaker": "任叔永",
+      "claim": "人生观若就是一个笼统的观念，自然不在科学范围以内。",
+      "target": "人生观",
+      "claim_type": "定义性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "人生观若就是一个笼统的观念，自然不在科学范围以内。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c8",
+      "speaker": "任叔永",
+      "claim": "若分析起来，有一大部分或全部分，都可以用科学方法去变更或解决。",
+      "target": "人生观",
+      "claim_type": "描述性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "若分析起来，有一大部分或全部分，都可以用科学方法去变更或解决。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c9",
+      "speaker": "任叔永",
+      "claim": "科学自身可以发生各种伟大高尚的人生观。",
+      "target": "科学",
+      "claim_type": "描述性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "科学自身可以发生各种伟大高尚的人生观。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c10",
+      "speaker": "任叔永",
+      "claim": "因为不曾研究过科学的，看不到这种人生观的景界，我们应该多提倡科学以改良人生观，不当因为注重人生观而忽视科学。",
+      "target": "科学",
+      "claim_type": "规范性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "因为不曾研究过科学的，看不到这种人生观的景界，我们应该多提倡科学以改良人生观，不当因为注重人生观而忽视科学。",
+      "confidence": 1.0
+    }
+  ],
+  "relations": [
+    {
+      "id": "r1",
+      "head": "科学家",
+      "head_type": "阵营/群体",
+      "relation": "归因于",
+      "relation_subtype": "不适用",
+      "tail": "要求一个合理的关系",
+      "tail_type": "概念",
+      "polarity": "positive",
+      "stance_score": 0.5,
+      "intensity": 0.5,
+      "evidence": "科学家因为要求一个合理的关系，所以不惮用精确的观察去求事实，精确的论理去做推论。",
+      "confidence": 1.0
+    },
+    {
+      "id": "r2",
+      "head": "科学",
+      "head_type": "概念",
+      "relation": "区分",
+      "relation_subtype": "概念澄清",
+      "tail": "笼统浑沌的思想",
+      "tail_type": "概念",
+      "polarity": "neutral",
+      "stance_score": 0.0,
+      "intensity": 0.5,
+      "evidence": "科学有他的限界，凡笼统浑沌的思想，或未经分析的事实，都非科学所能支配。",
+      "confidence": 1.0
+    },
+    {
+      "id": "r3",
+      "head": "科学",
+      "head_type": "概念",
+      "relation": "区分",
+      "relation_subtype": "概念澄清",
+      "tail": "未经分析的事实",
+      "tail_type": "概念",
+      "polarity": "neutral",
+      "stance_score": 0.0,
+      "intensity": 0.5,
+      "evidence": "科学有他的限界，凡笼统浑沌的思想，或未经分析的事实，都非科学所能支配。",
+      "confidence": 1.0
+    },
+    {
+      "id": "r4",
+      "head": "科学的职务",
+      "head_type": "概念",
+      "relation": "定义",
+      "relation_subtype": "概念澄清",
+      "tail": "分析及弄清楚这些思想事实",
+      "tail_type": "概念",
+      "polarity": "positive",
+      "stance_score": 0.8,
+      "intensity": 0.6,
+      "evidence": "但是科学的职务，就在要分析及弄清楚这些思想事实上。",
+      "confidence": 1.0
+    },
+    {
+      "id": "r5",
+      "head": "人生观",
+      "head_type": "概念",
+      "relation": "区分",
+      "relation_subtype": "概念澄清",
+      "tail": "笼统的观念",
+      "tail_type": "概念",
+      "polarity": "neutral",
+      "stance_score": 0.0,
+      "intensity": 0.5,
+      "evidence": "人生观若就是一个笼统的观念，自然不在科学范围以内。",
+      "confidence": 1.0
+    },
+    {
+      "id": "r6",
+      "head": "科学",
+      "head_type": "概念",
+      "relation": "导致",
+      "relation_subtype": "不适用",
+      "tail": "伟大高尚的人生观",
+      "tail_type": "概念",
+      "polarity": "positive",
+      "stance_score": 1.0,
+      "intensity": 0.8,
+      "evidence": "科学自身可以发生各种伟大高尚的人生观。",
+      "confidence": 1.0
+    },
+    {
+      "id": "r7",
+      "head": "不曾研究过科学的",
+      "head_type": "阵营/群体",
+      "relation": "归因于",
+      "relation_subtype": "不适用",
+      "tail": "看不到这种人生观的景界",
+      "tail_type": "概念",
+      "polarity": "negative",
+      "stance_score": -0.5,
+      "intensity": 0.5,
+      "evidence": "因为不曾研究过科学的，看不到这种人生观的景界，我们应该多提倡科学以改良人生观，不当因为注重人生观而忽视科学。",
+      "confidence": 1.0
+    },
+    {
+      "id": "r8",
+      "head": "任叔永",
+      "head_type": "阵营/群体",
+      "relation": "主张",
+      "relation_subtype": "不适用",
+      "tail": "多提倡科学以改良人生观",
+      "tail_type": "观点",
+      "polarity": "positive",
+      "stance_score": 1.0,
+      "intensity": 0.8,
+      "evidence": "因为不曾研究过科学的，看不到这种人生观的景界，我们应该多提倡科学以改良人生观，不当因为注重人生观而忽视科学。",
+      "confidence": 1.0
+    }
+  ],
+  "definitions": [
+    {
+      "id": "def1",
+      "term": "科学",
+      "definition": "科学有他的限界，凡笼统浑沌的思想，或未经分析的事实，都非科学所能支配。科学的职务，就在要分析及弄清楚这些思想事实上。",
+      "evidence": "科学有他的限界，凡笼统浑沌的思想，或未经分析的事实，都非科学所能支配。但是科学的职务，就在要分析及弄清楚这些思想事实上。",
+      "confidence": 1.0
+    },
+    {
+      "id": "def2",
+      "term": "人生观",
+      "definition": "人生观若就是一个笼统的观念，自然不在科学范围以内。若分析起来，有一大部分或全部分，都可以用科学方法去变更或解决。",
+      "evidence": "人生观若就是一个笼统的观念，自然不在科学范围以内。若分析起来，有一大部分或全部分，都可以用科学方法去变更或解决。",
+      "confidence": 1.0
+    }
+  ],
+  "citations": [
+    {
+      "id": "cit1",
+      "citer": "任叔永",
+      "quoted_author": "赫胥黎",
+      "quoted_work": "",
+      "quoted_claim": "要我相信在某时以前宇宙不曾存在，忽然有一个先在的神人，在六天中间（或者说立刻也可）就把他造成功来，也不是很难的事体。我不说凡不能的都是不真。我所提出的只是最低微而最有理的要求，要求现在所有动植物的种类由那样创造出来的一点证据。这一点证据是我要相信觉得极不可能的说话的唯一条件。",
+      "function": "援引权威支持",
+      "evidence": "赫胥黎说：“要我相信在某时以前宇宙不曾存在，忽然有一个先在的神人，在六天中间（或者说立刻也可）就把他造成功来，也不是很难的事体。我不说凡不能的都是不真。我所提出的只是最低微而最有理的要求，要求现在所有动植物的种类由那样创造出来的一点证据。这一点证据是我要相信觉得极不可能的说话的唯一条件。”",
+      "confidence": 1.0
+    }
+  ],
+  "rhetorical_devices": [
+    {
+      "id": "rh1",
+      "expression": "不惮和前人的名论或社会的成见宣战",
+      "device_type": "比喻",
+      "literal_target": "科学家挑战传统观点",
+      "function": "形象化描述科学家的批判精神",
+      "evidence": "他们因为要求一个合理的结论，所以不惮和前人的名论或社会的成见宣战。",
+      "confidence": 1.0
+    }
+  ],
+  "uncertainties": [
+    {
+      "item": "三种科学的人生观",
+      "reason": "文本提到'上面略举三种科学的人生观以见一斑'，但当前片段未列出具体是哪三种，无法抽取。"
+    }
+  ],
+  "_meta": {
+    "status": "success",
+    "stage": "extract",
+    "model": "deepseek-ai/DeepSeek-V4-Flash",
+    "base_url": "https://api.siliconflow.cn/v1",
+    "prompt_version": "v2.0",
+    "schema_version": "lite_v3.0",
+    "segment_id": "任叔永_000_7ab49e99_s0006",
+    "article_id": "任叔永_000_7ab49e99",
+    "char_start": 2943,
+    "char_end": 3484,
+    "raw_path": "E:\\1研究生\\岭南大学\\论文毕业\\capstone\\资料\\新的内容开始了\\local_upload\\kg_runs_v2\\任叔永_等4篇\\raw_outputs\\extract\\任叔永_000_7ab49e99_s0006.txt",
+    "parsed_at": "2026-05-21T01:37:12",
+    "started_at": "2026-05-21T01:33:33",
+    "elapsed_seconds": 219.706,
+    "strict_evidence_check": true,
+    "drop_unsupported_evidence": true,
+    "request_timeout_seconds": 180
+  }
+}

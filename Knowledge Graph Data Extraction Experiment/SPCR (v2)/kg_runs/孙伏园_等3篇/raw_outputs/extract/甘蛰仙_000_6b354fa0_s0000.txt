@@ -1,0 +1,496 @@
+{
+  "metadata": {
+    "schema_version": "lite_v3.0",
+    "article_id": "甘蛰仙_000_6b354fa0",
+    "article_title": "人生观与知识论",
+    "source_author": "甘蛰仙",
+    "section_title": "鄙意欲率自由意志以通本体论与道德学之邮，犹先民所谓“为仁由己”也。我当时之见解，以为从事本体之学，务必以道德学为之辅，乃能按",
+    "section_author": "鄙意欲率自由意志以通本体论与道德学之邮，犹先民所谓“为仁由己”也。我当时之见解，以为从事本体之学，务必以道德学为之辅，乃能",
+    "segment_id": "甘蛰仙_000_6b354fa0_s0000",
+    "segment_index": 0,
+    "source_file": "E:\\1研究生\\岭南大学\\论文毕业\\capstone\\资料\\新的内容开始了\\local_upload\\input_v2_w3\\甘蛰仙.txt"
+  },
+  "entities": [
+    {
+      "id": "e1",
+      "name": "人生问题",
+      "canonical_name": "人生问题",
+      "type": "问题",
+      "evidence": "欲解决人生问题乎？",
+      "confidence": 0.9
+    },
+    {
+      "id": "e2",
+      "name": "新人生观",
+      "canonical_name": "新人生观",
+      "type": "概念",
+      "evidence": "欲建设新人生观乎？",
+      "confidence": 0.9
+    },
+    {
+      "id": "e3",
+      "name": "人生之鹄的问题",
+      "canonical_name": "人生之鹄的问题",
+      "type": "问题",
+      "evidence": "吾以为其先决问题，殆不外乎人生之鹄的问题矣！",
+      "confidence": 0.9
+    },
+    {
+      "id": "e4",
+      "name": "人生目的问题",
+      "canonical_name": "人生目的问题",
+      "type": "问题",
+      "evidence": "（1）人生目的问题就是“活着为的什么？”",
+      "confidence": 0.9
+    },
+    {
+      "id": "e5",
+      "name": "活着为的什么",
+      "canonical_name": "活着为的什么",
+      "type": "问题",
+      "evidence": "（1）人生目的问题就是“活着为的什么？”",
+      "confidence": 0.9
+    },
+    {
+      "id": "e6",
+      "name": "良知之完成",
+      "canonical_name": "良知之完成",
+      "type": "概念",
+      "evidence": "此言良知之完成，乃人生所应求之鹄的也。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e7",
+      "name": "人生途径问题",
+      "canonical_name": "人生途径问题",
+      "type": "问题",
+      "evidence": "（2）人生途径问题就是“应该怎么干去，才不辜负了过活一辈子？”",
+      "confidence": 0.9
+    },
+    {
+      "id": "e8",
+      "name": "应该怎么干去，才不辜负了过活一辈子",
+      "canonical_name": "应该怎么干去，才不辜负了过活一辈子",
+      "type": "问题",
+      "evidence": "（2）人生途径问题就是“应该怎么干去，才不辜负了过活一辈子？”",
+      "confidence": 0.9
+    },
+    {
+      "id": "e9",
+      "name": "一到良知完成之路",
+      "canonical_name": "一到良知完成之路",
+      "type": "概念",
+      "evidence": "质言之，即‘一到良知完成之路’而已。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e10",
+      "name": "修养",
+      "canonical_name": "修养",
+      "type": "概念",
+      "evidence": "惟为实践此术，贯彻此鹄起见，不能不涉及修养，故复涉及第三步：",
+      "confidence": 0.9
+    },
+    {
+      "id": "e11",
+      "name": "人生之修养观",
+      "canonical_name": "人生之修养观",
+      "type": "概念",
+      "evidence": "（3）人生之修养观前种目的（鹄），先民辄名之曰“至善”；前种途径（术），吾亦尝名之曰“勇于为善之途径”。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e12",
+      "name": "至善",
+      "canonical_name": "至善",
+      "type": "概念",
+      "evidence": "（3）人生之修养观前种目的（鹄），先民辄名之曰“至善”；",
+      "confidence": 0.9
+    },
+    {
+      "id": "e13",
+      "name": "勇于为善之途径",
+      "canonical_name": "勇于为善之途径",
+      "type": "概念",
+      "evidence": "前种途径（术），吾亦尝名之曰“勇于为善之途径”。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e14",
+      "name": "先民",
+      "canonical_name": "先民",
+      "type": "阵营/群体",
+      "evidence": "先民辄名之曰“至善”；",
+      "confidence": 0.9
+    },
+    {
+      "id": "e15",
+      "name": "诸君",
+      "canonical_name": "诸君",
+      "type": "阵营/群体",
+      "evidence": "诸君，欲解决人生问题乎？",
+      "confidence": 0.9
+    }
+  ],
+  "claims": [
+    {
+      "id": "c1",
+      "speaker": "作者",
+      "claim": "我们为什么活着？就是为完成我们做小孩时的一片赤心——生来的良心——而活着。",
+      "target": "人生目的问题",
+      "claim_type": "定义性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "我们为什么活着？就是为完成我们做小孩时的一片赤心——生来的良心——而活着。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c2",
+      "speaker": "作者",
+      "claim": "良知之完成，乃人生所应求之鹄的也。",
+      "target": "良知之完成",
+      "claim_type": "结论性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "此言良知之完成，乃人生所应求之鹄的也。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c3",
+      "speaker": "作者",
+      "claim": "初面既说了是为完成我们做小孩时的一片赤心而活着，自然我们应走的途径，也就是自己或人们向着可能完满实现我们一团赤心底鹄的而踏实进行底了——换句话说，就是为鹄的而设出底到达目的之正当途径了。",
+      "target": "人生途径问题",
+      "claim_type": "定义性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "初面既说了是为完成我们做小孩时的一片赤心而活着，自然我们应走的途径，也就是自己或人们向着可能完满实现我们一团赤心底鹄的而踏实进行底了——换句话说，就是为鹄的而设出底到达目的之正当途径了。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c4",
+      "speaker": "作者",
+      "claim": "于可能的范围内，妥为设法，使吾良知美满实现：此种途径，乃人生所应由之术也。",
+      "target": "人生途径问题",
+      "claim_type": "规范性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "于可能的范围内，妥为设法，使吾良知美满实现：此种途径，乃人生所应由之术也。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c5",
+      "speaker": "作者",
+      "claim": "惟为实践此术，贯彻此鹄起见，不能不涉及修养",
+      "target": "修养",
+      "claim_type": "因果主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "惟为实践此术，贯彻此鹄起见，不能不涉及修养，故复涉及第三步：",
+      "confidence": 0.9
+    },
+    {
+      "id": "c6",
+      "speaker": "作者",
+      "claim": "设使不提起自力，培养自己的精神；此条长路，恐难坦然走过。",
+      "target": "修养",
+      "claim_type": "因果主张",
+      "claim_status": "作者推论",
+      "polarity": "negative",
+      "evidence": "设使不提起自力，培养自己的精神；此条长路，恐难坦然走过。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c7",
+      "speaker": "作者",
+      "claim": "设使对于自己所需之资粮，不先有充分之准备；则安知在半途上不起恐慌？",
+      "target": "修养",
+      "claim_type": "因果主张",
+      "claim_status": "作者推论",
+      "polarity": "negative",
+      "evidence": "设使对于自己所需之资粮，不先有充分之准备；则安知在半途上不起恐慌？",
+      "confidence": 0.9
+    }
+  ],
+  "relations": [
+    {
+      "id": "r1",
+      "head": "人生之鹄的问题",
+      "head_type": "问题",
+      "relation": "包含",
+      "relation_subtype": "不适用",
+      "tail": "人生目的问题",
+      "tail_type": "问题",
+      "polarity": "neutral",
+      "stance_score": 0.0,
+      "intensity": 0.0,
+      "evidence": "吾以为其先决问题，殆不外乎人生之鹄的问题矣！",
+      "confidence": 0.9
+    },
+    {
+      "id": "r2",
+      "head": "人生之鹄的问题",
+      "head_type": "问题",
+      "relation": "包含",
+      "relation_subtype": "不适用",
+      "tail": "人生途径问题",
+      "tail_type": "问题",
+      "polarity": "neutral",
+      "stance_score": 0.0,
+      "intensity": 0.0,
+      "evidence": "（2）人生途径问题就是“应该怎么干去，才不辜负了过活一辈子？”",
+      "confidence": 0.9
+    },
+    {
+      "id": "r3",
+      "head": "人生之鹄的问题",
+      "head_type": "问题",
+      "relation": "包含",
+      "relation_subtype": "不适用",
+      "tail": "人生之修养观",
+      "tail_type": "概念",
+      "polarity": "neutral",
+      "stance_score": 0.0,
+      "intensity": 0.0,
+      "evidence": "惟为实践此术，贯彻此鹄起见，不能不涉及修养，故复涉及第三步：",
+      "confidence": 0.9
+    },
+    {
+      "id": "r4",
+      "head": "作者",
+      "head_type": "人物",
+      "relation": "定义",
+      "relation_subtype": "概念澄清",
+      "tail": "人生目的问题",
+      "tail_type": "问题",
+      "polarity": "positive",
+      "stance_score": 1.0,
+      "intensity": 0.8,
+      "evidence": "我们为什么活着？就是为完成我们做小孩时的一片赤心——生来的良心——而活着。",
+      "confidence": 0.9
+    },
+    {
+      "id": "r5",
+      "head": "作者",
+      "head_type": "人物",
+      "relation": "定义",
+      "relation_subtype": "概念澄清",
+      "tail": "人生途径问题",
+      "tail_type": "问题",
+      "polarity": "positive",
+      "stance_score": 1.0,
+      "intensity": 0.8,
+      "evidence": "初面既说了是为完成我们做小孩时的一片赤心而活着，自然我们应走的途径，也就是自己或人们向着可能完满实现我们一团赤心底鹄的而踏实进行底了——换句话说，就是为鹄的而设出底到达目的之正当途径了。",
+      "confidence": 0.9
+    },
+    {
+      "id": "r6",
+      "head": "作者",
+      "head_type": "人物",
+      "relation": "定义",
+      "relation_subtype": "概念澄清",
+      "tail": "人生之修养观",
+      "tail_type": "概念",
+      "polarity": "positive",
+      "stance_score": 1.0,
+      "intensity": 0.8,
+      "evidence": "（3）人生之修养观前种目的（鹄），先民辄名之曰“至善”；前种途径（术），吾亦尝名之曰“勇于为善之途径”。",
+      "confidence": 0.9
+    },
+    {
+      "id": "r7",
+      "head": "作者",
+      "head_type": "人物",
+      "relation": "主张",
+      "relation_subtype": "不适用",
+      "tail": "c1",
+      "tail_type": "观点",
+      "polarity": "positive",
+      "stance_score": 1.0,
+      "intensity": 0.8,
+      "evidence": "我们为什么活着？就是为完成我们做小孩时的一片赤心——生来的良心——而活着。",
+      "confidence": 0.9
+    },
+    {
+      "id": "r8",
+      "head": "作者",
+      "head_type": "人物",
+      "relation": "主张",
+      "relation_subtype": "不适用",
+      "tail": "c2",
+      "tail_type": "观点",
+      "polarity": "positive",
+      "stance_score": 1.0,
+      "intensity": 0.8,
+      "evidence": "此言良知之完成，乃人生所应求之鹄的也。",
+      "confidence": 0.9
+    },
+    {
+      "id": "r9",
+      "head": "作者",
+      "head_type": "人物",
+      "relation": "主张",
+      "relation_subtype": "不适用",
+      "tail": "c3",
+      "tail_type": "观点",
+      "polarity": "positive",
+      "stance_score": 1.0,
+      "intensity": 0.8,
+      "evidence": "初面既说了是为完成我们做小孩时的一片赤心而活着，自然我们应走的途径，也就是自己或人们向着可能完满实现我们一团赤心底鹄的而踏实进行底了——换句话说，就是为鹄的而设出底到达目的之正当途径了。",
+      "confidence": 0.9
+    },
+    {
+      "id": "r10",
+      "head": "作者",
+      "head_type": "人物",
+      "relation": "主张",
+      "relation_subtype": "不适用",
+      "tail": "c4",
+      "tail_type": "观点",
+      "polarity": "positive",
+      "stance_score": 1.0,
+      "intensity": 0.8,
+      "evidence": "于可能的范围内，妥为设法，使吾良知美满实现：此种途径，乃人生所应由之术也。",
+      "confidence": 0.9
+    },
+    {
+      "id": "r11",
+      "head": "作者",
+      "head_type": "人物",
+      "relation": "主张",
+      "relation_subtype": "不适用",
+      "tail": "c5",
+      "tail_type": "观点",
+      "polarity": "positive",
+      "stance_score": 1.0,
+      "intensity": 0.8,
+      "evidence": "惟为实践此术，贯彻此鹄起见，不能不涉及修养，故复涉及第三步：",
+      "confidence": 0.9
+    },
+    {
+      "id": "r12",
+      "head": "作者",
+      "head_type": "人物",
+      "relation": "主张",
+      "relation_subtype": "不适用",
+      "tail": "c6",
+      "tail_type": "观点",
+      "polarity": "negative",
+      "stance_score": -0.5,
+      "intensity": 0.5,
+      "evidence": "设使不提起自力，培养自己的精神；此条长路，恐难坦然走过。",
+      "confidence": 0.9
+    },
+    {
+      "id": "r13",
+      "head": "作者",
+      "head_type": "人物",
+      "relation": "主张",
+      "relation_subtype": "不适用",
+      "tail": "c7",
+      "tail_type": "观点",
+      "polarity": "negative",
+      "stance_score": -0.5,
+      "intensity": 0.5,
+      "evidence": "设使对于自己所需之资粮，不先有充分之准备；则安知在半途上不起恐慌？",
+      "confidence": 0.9
+    },
+    {
+      "id": "r14",
+      "head": "c6",
+      "head_type": "观点",
+      "relation": "作为论据支持",
+      "relation_subtype": "不适用",
+      "tail": "c5",
+      "tail_type": "观点",
+      "polarity": "positive",
+      "stance_score": 0.5,
+      "intensity": 0.5,
+      "evidence": "设使不提起自力，培养自己的精神；此条长路，恐难坦然走过。",
+      "confidence": 0.9
+    },
+    {
+      "id": "r15",
+      "head": "c7",
+      "head_type": "观点",
+      "relation": "作为论据支持",
+      "relation_subtype": "不适用",
+      "tail": "c5",
+      "tail_type": "观点",
+      "polarity": "positive",
+      "stance_score": 0.5,
+      "intensity": 0.5,
+      "evidence": "设使对于自己所需之资粮，不先有充分之准备；则安知在半途上不起恐慌？",
+      "confidence": 0.9
+    }
+  ],
+  "definitions": [
+    {
+      "id": "def1",
+      "term": "人生目的",
+      "definition": "活着为的什么？为完成我们做小孩时的一片赤心——生来的良心——而活着。",
+      "evidence": "我们为什么活着？就是为完成我们做小孩时的一片赤心——生来的良心——而活着。",
+      "confidence": 0.9
+    },
+    {
+      "id": "def2",
+      "term": "人生途径",
+      "definition": "自己或人们向着可能完满实现我们一团赤心底鹄的而踏实进行底了——换句话说，就是为鹄的而设出底到达目的之正当途径了。",
+      "evidence": "初面既说了是为完成我们做小孩时的一片赤心而活着，自然我们应走的途径，也就是自己或人们向着可能完满实现我们一团赤心底鹄的而踏实进行底了——换句话说，就是为鹄的而设出底到达目的之正当途径了。",
+      "confidence": 0.9
+    },
+    {
+      "id": "def3",
+      "term": "人生之修养观",
+      "definition": "前种目的（鹄），先民辄名之曰“至善”；前种途径（术），吾亦尝名之曰“勇于为善之途径”。",
+      "evidence": "（3）人生之修养观前种目的（鹄），先民辄名之曰“至善”；前种途径（术），吾亦尝名之曰“勇于为善之途径”。",
+      "confidence": 0.9
+    }
+  ],
+  "citations": [
+    {
+      "id": "cit1",
+      "citer": "作者",
+      "quoted_author": "先民",
+      "quoted_work": "",
+      "quoted_claim": "至善",
+      "function": "中性提及",
+      "evidence": "先民辄名之曰“至善”；",
+      "confidence": 0.9
+    }
+  ],
+  "rhetorical_devices": [
+    {
+      "id": "rh1",
+      "expression": "我们做小孩时的一片赤心——生来的良心",
+      "device_type": "比喻",
+      "literal_target": "良心",
+      "function": "形象化地解释良心的来源和纯洁性",
+      "evidence": "我们为什么活着？就是为完成我们做小孩时的一片赤心——生来的良心——而活着。",
+      "confidence": 0.9
+    },
+    {
+      "id": "rh2",
+      "expression": "此条长路",
+      "device_type": "比喻",
+      "literal_target": "人生修养的历程",
+      "function": "将修养过程比喻为长途旅行，强调其艰难",
+      "evidence": "设使不提起自力，培养自己的精神；此条长路，恐难坦然走过。",
+      "confidence": 0.9
+    },
+    {
+      "id": "rh3",
+      "expression": "自己所需之资粮",
+      "device_type": "比喻",
+      "literal_target": "修养所需的精神资源",
+      "function": "将修养所需的精神准备比喻为旅途中的粮食",
+      "evidence": "设使对于自己所需之资粮，不先有充分之准备；则安知在半途上不起恐慌？",
+      "confidence": 0.9
+    }
+  ],
+  "uncertainties": [
+    {
+      "item": "section_author 字段内容与 section_title 重复，且包含完整句子，可能为数据错误",
+      "reason": "section_author 字段内容与 section_title 字段内容完全一致，且均为完整句子，不符合通常的元数据格式"
+    }
+  ]
+}

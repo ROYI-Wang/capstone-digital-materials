@@ -1,0 +1,17 @@
+﻿source_id,target_id,type,relation,polarity,stance_score,intensity,relation_subtype,evidence,confidence,article_id,segment_id
+颂皋,article:2babd95737ec,WROTE,WROTE,neutral,0,0,,,,颂皋_000_0fffa40d,
+entity:f01cd9e867bb,entity:206fbf1c96e8,RELATES_TO,相关,positive,0,0,不适用,因忆旧读乾姆斯（James）所著哲学问题（Some Problems of Philosophy）书中，有专论“玄学上之问题”一章，颇能将玄学之界说，与夫玄学的问题之性质阐明无遗，爱节译之，以供读者之评览焉。,0.9,颂皋_000_0fffa40d,s0000
+entity:8e23305c25ac,entity:6ece55762fc9,RELATES_TO,属于,neutral,0,0,不适用,美与善是否只系一种意见，有否一种客观的证实（Objective Validity)? 设曰然，则所谓客观的证实，又作何解? 类此形式之问题，是谓玄学上之问题。,0.85,颂皋_000_0fffa40d,s0002
+entity:a18dfcf3e278,entity:745d5f54e8d0,RELATES_TO,相关,neutral,0,0,不适用,诚如桓儿夫（C. Wolff）所言，可归纳于下列一句：凡论及事物之可能者，是谓玄学,0.9,颂皋_000_0fffa40d,s0002
+entity:745d5f54e8d0,entity:315f348bfef2,RELATES_TO,区分,neutral,0,0,概念澄清,凡论及事物之可能者，是谓玄学，与备及事物之实在者，显非相同。,0.9,颂皋_000_0fffa40d,s0002
+entity:5dfb929b4f64,entity:0a5d9170d332,RELATES_TO,导致,negative,0,0,不适用,由原理而完成之科学，又难有实现之望,0.8,颂皋_000_0fffa40d,s0003
+entity:ab5f008cd73e,term:a83daad4c438,RELATES_TO,定义,positive,0,0,概念澄清,玄学之最严重的职务，不在乎他，即在乎研究此种单纯问题,0.9,颂皋_000_0fffa40d,s0003
+entity:f01cd9e867bb,entity:35907fac9252,RELATES_TO,相关,neutral,0,0,不适用,斯宾塞尔尝谓世界非永久者，即为自我创造者；非自我创造者，则为外力所创造者,0.9,颂皋_000_0fffa40d,s0003
+entity:35907fac9252,term:f32bee0f0fc0,RELATES_TO,主张,neutral,0,0,不适用,斯宾塞尔尝谓世界非永久者，即为自我创造者；非自我创造者，则为外力所创造者,0.9,颂皋_000_0fffa40d,s0003
+entity:f01cd9e867bb,entity:b840a4153eb8,RELATES_TO,批评,negative,0,0,一般批评,所谓无限性，乃指无限的而言；既云无限的矣，则谓为由连续的综合而完成之，岂非一绝大之矛盾而何,0.9,颂皋_000_0fffa40d,s0004
+entity:f01cd9e867bb,entity:8180380cde7f,RELATES_TO,相关,negative,0,0,不适用,随斯氏而断定无一起源之形态为可以思议,0.8,颂皋_000_0fffa40d,s0004
+entity:6ece55762fc9,term:cf5f0a7a15fc,RELATES_TO,包含,neutral,0,0,不适用,s0000列举了玄学问题示例，s0001继续列举并总结为'类此形式之问题，是谓玄学上之问题'，形成包含关系。,0.95,,s0000
+entity:6ece55762fc9,entity:229015e1f4bc,RELATES_TO,承接,neutral,0,0,不适用,s0001结尾定义玄学上之问题，s0002开头引用康德对玄学重要问题的分类，形成承接关系。,0.9,,s0001
+entity:f01cd9e867bb,entity:f01cd9e867bb,RELATES_TO,承接,neutral,0,0,不适用,s0002结尾提出玄学职务是研究单纯问题，s0003开头继续讨论这些单纯问题，形成承接。,0.95,,s0002
+entity:f01cd9e867bb,entity:f01cd9e867bb,RELATES_TO,承接,neutral,0,0,不适用,s0003结尾讨论斯宾塞尔关于世界起源的假设，s0004开头继续讨论该假设，形成承接。,0.95,,s0003
+entity:f01cd9e867bb,term:8a104ea85865,RELATES_TO,回应,neutral,0,0,一般批评,s0000批评部分论战者对玄学缺乏了解，s0004通过翻译詹姆斯文章阐明玄学性质，回应了该批评。,0.8,,s0000

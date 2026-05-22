@@ -1,0 +1,559 @@
+{
+  "metadata": {
+    "schema_version": "lite_v3.0",
+    "article_id": "张君劢_002_c870d202",
+    "article_title": "再论人生观与科学并答丁在君",
+    "source_author": "张君劢",
+    "section_title": "",
+    "section_author": "",
+    "segment_id": "张君劢_002_c870d202_s0001",
+    "segment_index": 1,
+    "source_file": "E:\\1研究生\\岭南大学\\论文毕业\\capstone\\资料\\新的内容开始了\\local_upload\\input_张君劢\\张君劢.txt"
+  },
+  "entities": [
+    {
+      "id": "e1",
+      "name": "在君",
+      "canonical_name": "丁在君",
+      "type": "人物",
+      "evidence": "以吾友在君之聪明",
+      "confidence": 1.0
+    },
+    {
+      "id": "e2",
+      "name": "我",
+      "canonical_name": "张君劢",
+      "type": "人物",
+      "evidence": "以吾友在君之聪明，乃竟以我言为异端邪说",
+      "confidence": 1.0
+    },
+    {
+      "id": "e3",
+      "name": "异端邪说",
+      "canonical_name": "异端邪说",
+      "type": "评价",
+      "evidence": "乃竟以我言为异端邪说",
+      "confidence":  permalink0.9
+    },
+    {
+      "id": "e4",
+      "name": "无赖鬼",
+      "canonical_name": "无赖鬼",
+      "type": "评价",
+      "evidence": "一则曰无赖鬼",
+      "confidence": 0.9
+    },
+    {
+      "id": "e5",
+      "name": "鬼上身",
+      "canonical_name": "鬼上身",
+      "type": "评价",
+      "evidence": "再则曰鬼上身",
+      "confidence": 0.9
+    },
+    {
+      "id": "e6",
+      "name": "义和团",
+      "canonical_name": "义和团",
+      "type": "评价",
+      "evidence": "三则曰义和团",
+      "confidence": 0.9
+    },
+    {
+      "id": "e7",
+      "name": "张献忠之妖孽",
+      "canonical_name": "张献忠之妖孽",
+      "type": "评价",
+      "evidence": "四则曰张献忠之妖孽",
+      "confidence": 0.9
+    },
+    {
+      "id": "e8",
+      "name": "中世纪罗马教士之鞠讯伽利略后之宣告",
+      "canonical_name": "中世纪罗马教士之鞠讯伽利略后之宣告",
+      "type": "历史事件",
+      "evidence": "与中世纪罗马教士之鞠讯伽利略后之宣告有何以异？",
+      "confidence": 0.9
+    },
+    {
+      "id": "e9",
+      "name": "迷信科学之毒",
+      "canonical_name": "迷信科学之毒",
+      "type": "概念",
+      "evidence": "自己中了迷信科学之毒",
+      "confidence": 0.8
+    },
+    {
+      "id": "e10",
+      "name": "人生观无论理，无科学公例",
+      "canonical_name": "人生观无论理，无科学公例",
+      "type": "观点",
+      "evidence": "在君之文所反对者，则在人生观无论理，无科学公例一语。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e11",
+      "name": "人生观之公例",
+      "canonical_name": "人生观之公例",
+      "type": "概念",
+      "evidence": "示我以人生观之公例",
+      "confidence": 0.9
+    },
+    {
+      "id": "e12",
+      "name": "清华讲演",
+      "canonical_name": "清华讲演",
+      "type": "文章",
+      "evidence": "则我之清华讲演，拉杂摧烧可也",
+      "confidence": 0.9
+    },
+    {
+      "id": "e13",
+      "name": "妖言惑众之罪",
+      "canonical_name": "妖言惑众之罪",
+      "type": "概念",
+      "evidence": "治以妖言惑众之罪可也",
+      "confidence": 0.8
+    },
+    {
+      "id": "e14",
+      "name": "谩骂之词",
+      "canonical_name": "谩骂之词",
+      "type": "评价",
+      "evidence": "惟见谩骂之词",
+      "confidence": 0.9
+    },
+    {
+      "id": "e15",
+      "name": "号为求证之科学家",
+      "canonical_name": "号为求证之科学家",
+      "type": "阵营/群体",
+      "evidence": "号为求证之科学家，其立言乃若是乎？",
+      "confidence": 0.9
+    },
+    {
+      "id": "e16",
+      "name": "读者诸君",
+      "canonical_name": "读者诸君",
+      "type": "阵营/群体",
+      "evidence": "吾于反驳之始，先与读者诸君相约",
+      "confidence": 0.9
+    },
+    {
+      "id": "e17",
+      "name": "国人质难文字",
+      "canonical_name": "国人质难文字",
+      "type": "概念",
+      "evidence": "国人质难文字，随在而有",
+      "confidence": 0.8
+    },
+    {
+      "id": "e18",
+      "name": "彼此相诋之语",
+      "canonical_name": "彼此相诋之语",
+      "type": "概念",
+      "evidence": "然彼此相诋之语，多于辨析义理之文",
+      "confidence": 0.8
+    },
+    {
+      "id": "e19",
+      "name": "辨析义理之文",
+      "canonical_name": "辨析义理之文",
+      "type": "概念",
+      "evidence": "多于辨析义理之文",
+      "confidence": 0.8
+    },
+    {
+      "id": "e20",
+      "name": "超于官觉以上",
+      "canonical_name": "超于官觉以上",
+      "type": "概念",
+      "evidence": "超于官觉以上，在君既谓不可知，故存而不论",
+      "confidence": 0.9
+    },
+    {
+      "id": "e21",
+      "name": "存疑的唯心论",
+      "canonical_name": "存疑的唯心论",
+      "type": "主义/学说/理论",
+      "evidence": "自号曰存疑的唯心论",
+      "confidence": 0.9
+    },
+    {
+      "id": "e22",
+      "name": "形上界之玄学",
+      "canonical_name": "形上界之玄学",
+      "type": "概念",
+      "evidence": "研究形上界之玄学",
+      "confidence": 0.8
+    },
+    {
+      "id": "e23",
+      "name": "丑诋之词",
+      "canonical_name": "丑诋之词",
+      "type": "评价",
+      "evidence": "不应有丑诋之词",
+      "confidence": 0.8
+    },
+    {
+      "id": "e24",
+      "name": "自陷于矛盾",
+      "canonical_name": "自陷于矛盾",
+      "type": "评价",
+      "evidence": "此则在君先已自陷于矛盾而不自知",
+      "confidence": 0.9
+    },
+    {
+      "id": "e25",
+      "name": "物质科学中何以有公例",
+      "canonical_name": "物质科学中何以有公例",
+      "type": "问题",
+      "evidence": "第一，物质科学中何以有公例？",
+      "confidence": 1.0
+    },
+    {
+      "id": "e26",
+      "name": "精神科学公例何以不如物质科学公例之明确",
+      "canonical_name": "精神科学公例何以不如物质科学公例之明确",
+      "type": "问题",
+      "evidence": "第二，精神科学公例何以不如物质科学公例之明确？",
+      "confidence": 1.0
+    },
+    {
+      "id": "e27",
+      "name": "人生观何以不为论理方法与因果律所支配",
+      "canonical_name": "人生观何以不为论理方法与因果律所支配",
+      "type": "问题",
+      "evidence": "第三，人生观何以不为论理方法与因果律所支配？",
+      "confidence": 1.0
+    },
+    {
+      "id": "e28",
+      "name": "所谓科学的知识论是否正确",
+      "canonical_name": "所谓科学的知识论是否正确",
+      "type": "问题",
+      "evidence": "第四，所谓科学的知识论是否正确？",
+      "confidence": 1.0
+    },
+    {
+      "id": "e29",
+      "name": "科学家根据推论公例所得之“真”以外，是否尚有他项事物可认为真的",
+      "canonical_name": "科学家根据推论公例所得之“真”以外，是否尚有他项事物可认为真的",
+      "type": "问题",
+      "evidence": "第五，科学家根据推论公例所得之“真”以外，是否尚有他项事物可认为真的？",
+      "confidence": 1.0
+    },
+    {
+      "id": "e30",
+      "name": "玄学在欧洲是否“没有地方混饭吃”",
+      "canonical_name": "玄学在欧洲是否“没有地方混饭吃”",
+      "type": "问题",
+      "evidence": "第六，玄学在欧洲是否“没有地方混饭吃”（用丁语）。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e31",
+      "name": "丁语",
+      "canonical_name": "丁在君之语",
+      "type": "概念",
+      "evidence": "（用丁语）",
+      "confidence": 0.8
+    }
+  ],
+  "claims": [
+    {
+      "id": "c1",
+      "speaker": "张君劢",
+      "claim": "在君以我言为异端邪说，并加以无赖鬼、鬼上身、义和团、张献忠之妖孽等谩骂",
+      "target": "丁在君",
+      "claim_type": "描述性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "以吾友在君之聪明，乃竟以我言为异端邪说，一则曰无赖鬼，再则曰鬼上身，三则曰义和团，四则曰张献忠之妖孽。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c2",
+      "speaker": "张君劢",
+      "claim": "在君的口调与中世纪罗马教士之鞠讯伽利略后之宣告无异",
+      "target": "丁在君",
+      "claim_type": "对比性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "此等口调，与中世纪罗马教士之鞠讯伽利略后之宣告有何以异？",
+      "confidence": 0.9
+    },
+    {
+      "id": "c3",
+      "speaker": "张君劢",
+      "claim": "在君自己中了迷信科学之毒，却责人为鬼怪、荒唐，这是自己见鬼",
+      "target": "丁在君",
+      "claim_type": "评价性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "自己中了迷信科学之毒，乃责人为鬼怪，为荒唐，此真所谓自己见鬼而已。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c4",
+      "speaker": "张君劢",
+      "claim": "在君之文所反对者，在人生观无论理，无科学公例一语",
+      "target": "丁在君",
+      "claim_type": "描述性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "在君之文所反对者，则在人生观无论理，无科学公例一语。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c5",
+      "speaker": "张君劢",
+      "claim": "在君若能举出人生观之公例，则我之清华讲演可拉杂摧烧，治以妖言惑众之罪",
+      "target": "丁在君",
+      "claim_type": "假设情境",
+      "claim_status": "假设情境",
+      "polarity": "neutral",
+      "evidence": "诚能举出一二事，示我以人生观之公例，则我之清华讲演，拉杂摧烧可也，治以妖言惑众之罪可也。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c6",
+      "speaker": "张君劢",
+      "claim": "在君缕缕万言中，并一事而不能反证，字里行间惟见谩骂之词",
+      "target": "丁在君",
+      "claim_type": "评价性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "顾其缕缕万言中，乃并一事而不能反证，而字里行间，惟见谩骂之词。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c7",
+      "speaker": "张君劢",
+      "claim": "号为求证之科学家，其立言不应如此",
+      "target": "丁在君",
+      "claim_type": "评价性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "呜呼！号为求证之科学家，其立言乃若是乎？",
+      "confidence": 0.9
+    },
+    {
+      "id": "c8",
+      "speaker": "张君劢",
+      "claim": "彼此相诋之语多于辨析义理之文，此种论调非学者所宜出",
+      "target": "丁在君",
+      "claim_type": "评价性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "然彼此相诋之语，多于辨析义理之文，我认为此种论调，非学者所宜出",
+      "confidence": 0.9
+    },
+    {
+      "id": "c9",
+      "speaker": "张君劢",
+      "claim": "在君既谓超于官觉以上不可知，存而不论，自号存疑的唯心论，则不应有丑诋之词",
+      "target": "丁在君",
+      "claim_type": "反驳性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "超于官觉以上，在君既谓不可知，故存而不论，自号曰存疑的唯心论。既已存疑，则研究形上界之玄学，不应有丑诋之词。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c10",
+      "speaker": "张君劢",
+      "claim": "在君自谓存疑，实已先入为主，自陷于矛盾而不自知",
+      "target": "丁在君",
+      "claim_type": "反驳性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "不知自谓存疑，而实已先入为主，此则在君先已自陷于矛盾而不自知。",
+      "confidence": 0.9
+    }
+  ],
+  "relations": [
+    {
+      "id": "r1",
+      "head": "在君",
+      "head_type": "人物",
+      "relation": "批评",
+      "relation_subtype": "道德指责",
+      "tail": "我",
+      "tail_type": "人物",
+      "polarity": "negative",
+      "stance_score": -0.8,
+      "intensity": 0.9,
+      "evidence": "以吾友在君之聪明，乃竟以我言为异端邪说，一则曰无赖鬼，再则曰鬼上身，三则曰义和团，四则曰张献忠之妖孽。",
+      "confidence": 1.0
+    },
+    {
+      "id": "r2",
+      "head": "张君劢",
+      "head_type": "人物",
+      "relation": "批评",
+      "relation_subtype": "讽刺",
+      "tail": "在君",
+      "tail_type": "人物",
+      "polarity": "negative",
+      "stance_score": -0.9,
+      "intensity": 0.9,
+      "evidence": "此等口调，与中世纪罗马教士之鞠讯伽利略后之宣告有何以异？",
+      "confidence": 0.9
+    },
+    {
+      "id": "r3",
+      "head": "张君劢",
+      "head_type": "人物",
+      "relation": "批评",
+      "relation_subtype": "讽刺",
+      "tail": "在君",
+      "tail_type": "人物",
+      "polarity": "negative",
+      "stance_score": -0.9,
+      "intensity": 0.9,
+      "evidence": "自己中了迷信科学之毒，乃责人为鬼怪，为荒唐，此真所谓自己见鬼而已。",
+      "confidence": 0.9
+    },
+    {
+      "id": "r4",
+      "head": "在君之文",
+      "head_type": "文章",
+      "relation": "反对",
+      "relation_subtype": "不适用",
+      "tail": "人生观无论理，无科学公例",
+      "tail_type": "观点",
+      "polarity": "negative",
+      "stance_score": -0.5,
+      "intensity": 0.5,
+      "evidence": "在君之文所反对者，则在人生观无论理，无科学公例一语。",
+      "confidence": 1.0
+    },
+    {
+      "id": "r5",
+      "head": "张君劢",
+      "head_type": "人物",
+      "relation": "批评",
+      "relation_subtype": "证据不足批评",
+      "tail": "在君",
+      "tail_type": "人物",
+      "polarity": "negative",
+      "stance_score": -0.8,
+      "intensity": 0.8,
+      "evidence": "顾其缕缕万言中，乃并一事而不能反证，而字里行间，惟见谩骂之词。",
+      "confidence": 0.9
+    },
+    {
+      "id": "r6",
+      "head": "张君劢",
+      "head_type": "人物",
+      "relation": "批评",
+      "relation_subtype": "讽刺",
+      "tail": "在君",
+      "tail_type": "人物",
+      "polarity": "negative",
+      "stance_score": -0.8,
+      "intensity": 0.8,
+      "evidence": "呜呼！号为求证之科学家，其立言乃若是乎？",
+      "confidence": 0.9
+    },
+    {
+      "id": "r7",
+      "head": "张君劢",
+      "head_type": "人物",
+      "relation": "批评",
+      "relation_subtype": "一般批评",
+      "tail": "在君",
+      "tail_type": "人物",
+      "polarity": "negative",
+      "stance_score": -0.7,
+      "intensity": 0.7,
+      "evidence": "然彼此相诋之语，多于辨析义理之文，我认为此种论调，非学者所宜出",
+      "confidence": 0.9
+    },
+    {
+      "id": "r8",
+      "head": "张君劢",
+      "head_type": "人物",
+      "relation": "反驳",
+      "relation_subtype": "逻辑反驳",
+      "tail": "在君",
+      "tail_type": "人物",
+      "polarity": "negative",
+      "stance_score": -0.8,
+      "intensity": 0.8,
+      "evidence": "超于官觉以上，在君既谓不可知，故存而不论，自号曰存疑的唯心论。既已存疑，则研究形上界之玄学，不应有丑诋之词。",
+      "confidence": 0.9
+    },
+    {
+      "id": "r9",
+      "head": "张君劢",
+      "head_type": "人物",
+      "relation": "反驳",
+      "relation_subtype": "逻辑反驳",
+      "tail": "在君",
+      "tail_type": "人物",
+      "polarity": "negative",
+      "stance_score": -0.9,
+      "intensity": 0.9,
+      "evidence": "不知自谓存疑，而实已先入为主，此则在君先已自陷于矛盾而不自知。",
+      "confidence": 0.9
+    }
+  ],
+  "definitions": [
+    {
+      "id": "def1",
+      "term": "存疑的唯心论",
+      "definition": "在君自号的一种立场，认为超于官觉以上不可知，故存而不论",
+      "evidence": "超于官觉以上，在君既谓不可知，故存而不论，自号曰存疑的唯心论。",
+      "confidence": 0.9
+    }
+  ],
+  "citations": [
+    {
+      "id": "cit1",
+      "citer": "张君劢",
+      "quoted_author": "丁在君",
+      "quoted_work": "",
+      "quoted_claim": "玄学在欧洲没有地方混饭吃",
+      "function": "作为批评对象",
+      "evidence": "第六，玄学在欧洲是否“没有地方混饭吃”（用丁语）。",
+      "confidence": 0.9
+    }
+  ],
+  "rhetorical_devices": [
+    {
+      "id": "rh1",
+      "expression": "与中世纪罗马教士之鞠讯伽利略后之宣告有何以异？",
+      "device_type": "类比",
+      "literal_target": "在君的口调",
+      "function": "讽刺在君的口调与中世纪罗马教士的宣告类似，暗示其不宽容和压制",
+      "evidence": "此等口调，与中世纪罗马教士之鞠讯伽利略后之宣告有何以异？",
+      "confidence": 0.9
+    },
+    {
+      "id": "rh2",
+      "expression": "自己见鬼",
+      "device_type": "比喻",
+      "literal_target": "在君责人为鬼怪、荒唐的行为",
+      "function": "讽刺在君自己迷信科学却指责他人，是自我欺骗",
+      "evidence": "此真所谓自己见鬼而已。",
+      "confidence": 0.9
+    },
+    {
+      "id": "rh3",
+      "expression": "号为求证之科学家，其立言乃若是乎？",
+      "device_type": "讽刺",
+      "literal_target": "在君作为科学家的言行不一致",
+      "function": "讽刺在君作为科学家却缺乏证据、只有谩骂",
+      "evidence": "呜呼！号为求证之科学家，其立言乃若是乎？",
+      "confidence": 0.9
+    }
+  ],
+  "uncertainties": [
+    {
+      "item": "在君之文所反对者，则在人生观无论理，无科学公例一语。",
+      "reason": "此句可能是在君原文中的观点，也可能是张君劢对在君观点的概括，但文本未明确区分，故不确定是直接引用还是间接转述。"
+    }
+  ]
+}

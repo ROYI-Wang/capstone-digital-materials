@@ -1,0 +1,389 @@
+{
+  "metadata": {
+    "schema_version": "lite_v2.0",
+    "article_id": "张君劢_001_688ab8ae",
+    "article_title": "人生观（中篇）",
+    "source_author": "张君劢",
+    "section_title": "",
+    "section_author": "",
+    "segment_id": "张君劢_001_688ab8ae_s0017",
+    "segment_index": 17,
+    "source_file": "E:\\1研究生\\岭南大学\\论文毕业\\capstone\\资料\\新的内容开始了\\local_upload\\input_w3\\张君劢.txt"
+  },
+  "entities": [
+    {
+      "id": "e1",
+      "name": "孔德",
+      "canonical_name": "孔德",
+      "type": "人物",
+      "evidence": "孔德氏人智进化三时期之说也",
+      "confidence": 1.0
+    },
+    {
+      "id": "e2",
+      "name": "神学时代",
+      "canonical_name": "神学时代",
+      "type": "阶段",
+      "evidence": "神学时代重冥想",
+      "confidence": 1.0
+    },
+    {
+      "id": "e3",
+      "name": "玄学时代",
+      "canonical_name": "玄学时代",
+      "type": "阶段",
+      "evidence": "玄学时代推究万物而归之于一源",
+      "confidence": 1.0
+    },
+    {
+      "id": "e4",
+      "name": "实证时代",
+      "canonical_name": "实证时代",
+      "type": "阶段",
+      "evidence": "至实证时代则以观察为重",
+      "confidence": 1.0
+    },
+    {
+      "id": "e5",
+      "name": "神学",
+      "canonical_name": "神学",
+      "type": "概念",
+      "evidence": "神学形上学之讨论",
+      "confidence": 1.0
+    },
+    {
+      "id": "e6",
+      "name": "形上学",
+      "canonical_name": "形上学",
+      "type": "概念",
+      "evidence": "神学形上学之讨论",
+      "confidence": 1.0
+    },
+    {
+      "id": "e7",
+      "name": "科学",
+      "canonical_name": "科学",
+      "type": "概念",
+      "evidence": "即今日号为科学时代",
+      "confidence": 1.0
+    },
+    {
+      "id": "e8",
+      "name": "玄学运动",
+      "canonical_name": "玄学运动",
+      "type": "历史事件",
+      "evidence": "十九世纪末年以来，玄学运动之所以勃兴者",
+      "confidence": 1.0
+    },
+    {
+      "id": "e9",
+      "name": "因果律",
+      "canonical_name": "因果律",
+      "type": "概念",
+      "evidence": "科学家好以因果律为根据",
+      "confidence": 1.0
+    },
+    {
+      "id": "e10",
+      "name": "自由意志",
+      "canonical_name": "自由意志",
+      "type": "概念",
+      "evidence": "于是哲学家起而大昌自由意志之说",
+      "confidence": 1.0
+    },
+    {
+      "id": "e11",
+      "name": "倭伊铿",
+      "canonical_name": "倭伊铿",
+      "type": "人物",
+      "evidence": "有提倡耶教改革者如倭伊铿",
+      "confidence": 1.0
+    },
+    {
+      "id": "e12",
+      "name": "詹姆士",
+      "canonical_name": "詹姆士",
+      "type": "人物",
+      "evidence": "亦有自实用主义以明宗教之为用者，则曰詹姆士",
+      "confidence": 1.0
+    },
+    {
+      "id": "e13",
+      "name": "反机械主义",
+      "canonical_name": "反机械主义",
+      "type": "主义/学说/理论",
+      "evidence": "名曰反机械主义可也",
+      "confidence": 1.0
+    },
+    {
+      "id": "e14",
+      "name": "反主智主义",
+      "canonical_name": "反主智主义",
+      "type": "主义/学说/理论",
+      "evidence": "名曰反主智主义可也",
+      "confidence": 1.0
+    },
+    {
+      "id": "e15",
+      "name": "反定命主义",
+      "canonical_name": "反定命主义",
+      "type": "主义/学说/理论",
+      "evidence": "名曰反定命主义可也",
+      "confidence": 1.0
+    },
+    {
+      "id": "e16",
+      "name": "反非宗教论",
+      "canonical_name": "反非宗教论",
+      "type": "主义/学说/理论",
+      "evidence": "名曰反非宗教论亦可也",
+      "confidence": 1.0
+    },
+    {
+      "id": "e17",
+      "name": "科学家",
+      "canonical_name": "科学家",
+      "type": "阵营/群体",
+      "evidence": "科学家以官觉达坦为张本",
+      "confidence": 1.0
+    },
+    {
+      "id": "e18",
+      "name": "哲学家",
+      "canonical_name": "哲学家",
+      "type": "阵营/群体",
+      "evidence": "于是哲学家起而大昌自由意志之说",
+      "confidence": 1.0
+    },
+    {
+      "id": "e19",
+      "name": "实用主义",
+      "canonical_name": "实用主义",
+      "type": "主义/学说/理论",
+      "evidence": "亦有自实用主义以明宗教之为用者",
+      "confidence": 1.0
+    }
+  ],
+  "claims": [
+    {
+      "id": "c1",
+      "speaker": "孔德",
+      "claim": "神学时代重冥想；玄学时代推究万物而归之于一源；至实证时代则以观察为重，弃绝对原因说，但求现象之公例",
+      "target": "人智进化三时期",
+      "claim_type": "历史解释",
+      "claim_status": "直接引用",
+      "polarity": "neutral",
+      "evidence": "孔氏曰，神学时代重冥想；玄学时代推究万物而归之于一源，如化学力或生活力之类；至实证时代则以观察为重，弃绝对原因说，而但求现象之公例",
+      "confidence": 1.0
+    },
+    {
+      "id": "c2",
+      "speaker": "张君劢",
+      "claim": "孔德三时代之说初不合于进化之事实，时代与玄学有无之界线不能画定",
+      "target": "孔德人智进化三时期之说",
+      "claim_type": "历史解释",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "故孔德三时代之说，初不合于进化之事实，而时代与玄学有无之界线，乃不能画定者也",
+      "confidence": 1.0
+    },
+    {
+      "id": "c3",
+      "speaker": "张君劢",
+      "claim": "十九世纪末年以来玄学运动勃兴有四个原因",
+      "target": "玄学运动",
+      "claim_type": "历史解释",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "窃尝推之，十九世纪末年以来，玄学运动之所以勃兴者，盖有数故",
+      "confidence": 1.0
+    },
+    {
+      "id": "c4",
+      "speaker": "张君劢",
+      "claim": "科学家以官觉达坦为张本，其解释不外乎前后现象之相关，而宇宙之神秘初不之及",
+      "target": "科学家",
+      "claim_type": "知识论主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "科学家以官觉达坦为张本，苟其解释，能满足人心之要求，斯亦已矣。无如其所谓解释者，不外乎前后现象之相关，而宇宙之神秘初不之及",
+      "confidence": 1.0
+    },
+    {
+      "id": "c5",
+      "speaker": "张君劢",
+      "claim": "科学家以理智解释一切，而活社会之事实非论理或定义所能限定",
+      "target": "科学家",
+      "claim_type": "知识论主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "科学家以理智解释一切，而活社会之事实，非论理或定义所能限定",
+      "confidence": 1.0
+    },
+    {
+      "id": "c6",
+      "speaker": "张君劢",
+      "claim": "科学家好以因果律为根据，然人事出于因果外者往往而有，心灵之顷刻万变更非因果所能范围",
+      "target": "科学家",
+      "claim_type": "知识论主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "科学家好以因果律为根据，然验之人事其出于因果外者，往往而有。心灵之顷刻万变，更非因果所能范围",
+      "confidence": 1.0
+    },
+    {
+      "id": "c7",
+      "speaker": "张君劢",
+      "claim": "哲学家起而大昌自由意志之说",
+      "target": "哲学家",
+      "claim_type": "历史解释",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "于是哲学家起而大昌自由意志之说",
+      "confidence": 1.0
+    },
+    {
+      "id": "c8",
+      "speaker": "张君劢",
+      "claim": "二三十年之欧洲思潮可名曰反机械主义、反主智主义、反定命主义、反非宗教论",
+      "target": "欧洲思潮",
+      "claim_type": "历史解释",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "要之，此二三十年之欧洲思潮，名曰反机械主义可也，名曰反主智主义可也，名曰反定命主义可也，名曰反非宗教论亦可也",
+      "confidence": 1.0
+    }
+  ],
+  "relations": [
+    {
+      "id": "r1",
+      "head": "张君劢",
+      "head_type": "人物",
+      "relation": "反驳",
+      "tail": "孔德",
+      "tail_type": "人物",
+      "polarity": "negative",
+      "evidence": "故孔德三时代之说，初不合于进化之事实，而时代与玄学有无之界线，乃不能画定者也",
+      "confidence": 1.0
+    },
+    {
+      "id": "r2",
+      "head": "张君劢",
+      "head_type": "人物",
+      "relation": "批评",
+      "tail": "科学家",
+      "tail_type": "阵营/群体",
+      "polarity": "negative",
+      "evidence": "科学家以官觉达坦为张本，苟其解释，能满足人心之要求，斯亦已矣。无如其所谓解释者，不外乎前后现象之相关，而宇宙之神秘初不之及",
+      "confidence": 1.0
+    },
+    {
+      "id": "r3",
+      "head": "张君劢",
+      "head_type": "人物",
+      "relation": "批评",
+      "tail": "科学家",
+      "tail_type": "阵营/群体",
+      "polarity": "negative",
+      "evidence": "科学家以理智解释一切，而活社会之事实，非论理或定义所能限定",
+      "confidence": 1.0
+    },
+    {
+      "id": "r4",
+      "head": "张君劢",
+      "head_type": "人物",
+      "relation": "批评",
+      "tail": "科学家",
+      "tail_type": "阵营/群体",
+      "polarity": "negative",
+      "evidence": "科学家好以因果律为根据，然验之人事其出于因果外者，往往而有。心灵之顷刻万变，更非因果所能范围",
+      "confidence": 1.0
+    },
+    {
+      "id": "r5",
+      "head": "张君劢",
+      "head_type": "人物",
+      "relation": "相关",
+      "tail": "倭伊铿",
+      "tail_type": "人物",
+      "polarity": "positive",
+      "evidence": "有提倡耶教改革者如倭伊铿",
+      "confidence": 1.0
+    },
+    {
+      "id": "r6",
+      "head": "张君劢",
+      "head_type": "人物",
+      "relation": "相关",
+      "tail": "詹姆士",
+      "tail_type": "人物",
+      "polarity": "positive",
+      "evidence": "亦有自实用主义以明宗教之为用者，则曰詹姆士",
+      "confidence": 1.0
+    }
+  ],
+  "definitions": [
+    {
+      "id": "def1",
+      "term": "神学时代",
+      "definition": "重冥想的时代",
+      "evidence": "神学时代重冥想",
+      "confidence": 1.0
+    },
+    {
+      "id": "def2",
+      "term": "玄学时代",
+      "definition": "推究万物而归之于一源的时代",
+      "evidence": "玄学时代推究万物而归之于一源，如化学力或生活力之类",
+      "confidence": 1.0
+    },
+    {
+      "id": "def3",
+      "term": "实证时代",
+      "definition": "以观察为重，弃绝对原因说，但求现象之公例的时代",
+      "evidence": "至实证时代则以观察为重，弃绝对原因说，而但求现象之公例",
+      "confidence": 1.0
+    }
+  ],
+  "citations": [],
+  "rhetorical_devices": [
+    {
+      "id": "rh1",
+      "expression": "名曰反机械主义可也，名曰反主智主义可也，名曰反定命主义可也，名曰反非宗教论亦可也",
+      "device_type": "类比",
+      "literal_target": "欧洲思潮的特征",
+      "function": "通过并列多个名称来概括欧洲思潮的反抗性质",
+      "evidence": "要之，此二三十年之欧洲思潮，名曰反机械主义可也，名曰反主智主义可也，名曰反定命主义可也，名曰反非宗教论亦可也",
+      "confidence": 1.0
+    }
+  ],
+  "uncertainties": [
+    {
+      "item": "孔德氏人智进化三时期之说中“化学力或生活力”是否为孔德原话或张君劢的举例",
+      "reason": "原文中“如化学力或生活力之类”可能是张君劢的补充说明，但未明确区分"
+    },
+    {
+      "item": "“官觉达坦”一词的具体含义",
+      "reason": "该词在文本中未作解释，可能为音译或特定术语"
+    }
+  ],
+  "_meta": {
+    "status": "success",
+    "stage": "extract",
+    "model": "deepseek-ai/DeepSeek-V4-Flash",
+    "base_url": "https://api.siliconflow.cn/v1",
+    "prompt_version": "extract_prompt_v2.0",
+    "schema_version": "lite_v2.0",
+    "segment_id": "张君劢_001_688ab8ae_s0017",
+    "article_id": "张君劢_001_688ab8ae",
+    "char_start": 8573,
+    "char_end": 9154,
+    "raw_path": "E:\\1研究生\\岭南大学\\论文毕业\\capstone\\资料\\新的内容开始了\\local_upload\\kg_runs\\张君劢\\raw_outputs\\extract\\张君劢_001_688ab8ae_s0017.txt",
+    "parsed_at": "2026-05-20T03:03:09",
+    "started_at": "2026-05-20T02:57:31",
+    "elapsed_seconds": 338.309,
+    "strict_evidence_check": true,
+    "drop_unsupported_evidence": true,
+    "request_timeout_seconds": 180
+  }
+}

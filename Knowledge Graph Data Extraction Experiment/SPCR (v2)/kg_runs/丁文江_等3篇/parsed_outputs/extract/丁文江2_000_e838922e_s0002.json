@@ -1,0 +1,471 @@
+{
+  "metadata": {
+    "schema_version": "lite_v3.0",
+    "article_id": "丁文江2_000_e838922e",
+    "article_title": "玄学与科学——答张君劢",
+    "source_author": "丁文江",
+    "section_title": "",
+    "section_author": "",
+    "segment_id": "丁文江2_000_e838922e_s0002",
+    "segment_index": 2,
+    "source_file": "E:\\1研究生\\岭南大学\\论文毕业\\capstone\\资料\\新的内容开始了\\local_upload\\input_丁文江\\丁文江2.txt"
+  },
+  "entities": [
+    {
+      "id": "e1",
+      "name": "张君劢",
+      "canonical_name": "张君劢",
+      "type": "人物",
+      "evidence": "读者不要替我们担心。不过我劝读者不要跟我们学，因为世界上没有几个人有张君劢这样的雅量。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e2",
+      "name": "任公",
+      "canonical_name": "任公",
+      "type": "人物",
+      "evidence": "任公国际公法的第一条同第二条的性质完全两样。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e3",
+      "name": "国际公法",
+      "canonical_name": "国际公法",
+      "type": "概念",
+      "evidence": "任公国际公法的第一条同第二条的性质完全两样。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e4",
+      "name": "剪除枝叶",
+      "canonical_name": "剪除枝叶",
+      "type": "概念",
+      "evidence": "“剪除枝叶”，是战争的原则，与公法无关。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e5",
+      "name": "战争的原则",
+      "canonical_name": "战争的原则",
+      "type": "概念",
+      "evidence": "“剪除枝叶”，是战争的原则，与公法无关。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e6",
+      "name": "公法",
+      "canonical_name": "公法",
+      "type": "概念",
+      "evidence": "“剪除枝叶”，是战争的原则，与公法无关。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e7",
+      "name": "本题",
+      "canonical_name": "本题",
+      "type": "概念",
+      "evidence": "所以我的答辩就分成两部：第一是本题，第二是枝叶。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e8",
+      "name": "枝叶",
+      "canonical_name": "枝叶",
+      "type": "概念",
+      "evidence": "所以我的答辩就分成两部：第一是本题，第二是枝叶。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e9",
+      "name": "君劢的现在主义",
+      "canonical_name": "君劢的现在主义",
+      "type": "主义/学说/理论",
+      "evidence": "（一）君劢的现在主义",
+      "confidence": 1.0
+    },
+    {
+      "id": "e10",
+      "name": "人生观是主观的，直觉的",
+      "canonical_name": "人生观是主观的，直觉的",
+      "type": "观点",
+      "evidence": "“人生观是主观的，直觉的，……”请你用事实来证明！",
+      "confidence": 1.0
+    },
+    {
+      "id": "e11",
+      "name": "科学方法不适用于人生观",
+      "canonical_name": "科学方法不适用于人生观",
+      "type": "观点",
+      "evidence": "“科学方法不适用于人生观，”请你用理由来解说！",
+      "confidence": 1.0
+    },
+    {
+      "id": "e12",
+      "name": "人生观最不统一",
+      "canonical_name": "人生观最不统一",
+      "type": "观点",
+      "evidence": "张君劢在清华讲演所举的理由是“人生观最不统一。”",
+      "confidence": 1.0
+    },
+    {
+      "id": "e13",
+      "name": "人生观现在没有统一是一件事，永久不能统一又是一件事",
+      "canonical_name": "人生观现在没有统一是一件事，永久不能统一又是一件事",
+      "type": "观点",
+      "evidence": "我前次对他说，“人生观现在没有统一是一件事，永久不能统一又是一件事。除非你能提出事实理由来证明他是永远不能统一的，我们总有求他统一的义务。”",
+      "confidence": 1.0
+    },
+    {
+      "id": "e14",
+      "name": "人生观没有公例可举",
+      "canonical_name": "人生观没有公例可举",
+      "type": "观点",
+      "evidence": "他这一次的答词仍旧是说：“人生观没有公例可举”；同人生观最不统一是一样的用意",
+      "confidence": 1.0
+    },
+    {
+      "id": "e15",
+      "name": "事之比较当以今日为限，不得诿诸将来",
+      "canonical_name": "事之比较当以今日为限，不得诿诸将来",
+      "type": "观点",
+      "evidence": "“事之比较当以今日为限，不得诿诸将来。若诿诸将来，则无一事之能决。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e16",
+      "name": "世界为进化的",
+      "canonical_name": "世界为进化的",
+      "type": "观点",
+      "evidence": "譬诸甲曰：世界为进化的，历举种种发明与夫政治情形为之证。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e17",
+      "name": "今之世界，未必胜于古代",
+      "canonical_name": "今之世界，未必胜于古代",
+      "type": "观点",
+      "evidence": "乙则反之曰：今之世界，未必胜于古代，并举欧战情形与白人之凌虐异族为证。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e18",
+      "name": "吾人但论现在，不问将来",
+      "canonical_name": "吾人但论现在，不问将来",
+      "type": "观点",
+      "evidence": "于是乙之抱悲观主义者从而答之曰：吾人但论现在，不问将来。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e19",
+      "name": "甲",
+      "canonical_name": "甲",
+      "type": "人物",
+      "evidence": "我不知道君劢的甲是什么人；",
+      "confidence": 1.0
+    }
+  ],
+  "claims": [
+    {
+      "id": "c1",
+      "speaker": "丁文江",
+      "claim": "学科学的人最反对独断式的言论。",
+      "target": "",
+      "claim_type": "描述性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "学科学的人最反对独断式的言论。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c2",
+      "speaker": "丁文江",
+      "claim": "“人生观是主观的，直觉的，……”请你用事实来证明！",
+      "target": "张君劢",
+      "claim_type": "反驳性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "“人生观是主观的，直觉的，……”请你用事实来证明！",
+      "confidence": 1.0
+    },
+    {
+      "id": "c3",
+      "speaker": "丁文江",
+      "claim": "“科学方法不适用于人生观，”请你用理由来解说！",
+      "target": "张君劢",
+      "claim_type": "反驳性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "“科学方法不适用于人生观，”请你用理由来解说！",
+      "confidence": 1.0
+    },
+    {
+      "id": "c4",
+      "speaker": "张君劢",
+      "claim": "人生观最不统一。",
+      "target": "",
+      "claim_type": "描述性主张",
+      "claim_status": "间接转述",
+      "polarity": "neutral",
+      "evidence": "张君劢在清华讲演所举的理由是“人生观最不统一。”",
+      "confidence": 1.0
+    },
+    {
+      "id": "c5",
+      "speaker": "丁文江",
+      "claim": "人生观现在没有统一是一件事，永久不能统一又是一件事。除非你能提出事实理由来证明他是永远不能统一的，我们总有求他统一的义务。",
+      "target": "张君劢",
+      "claim_type": "反驳性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "我前次对他说，“人生观现在没有统一是一件事，永久不能统一又是一件事。除非你能提出事实理由来证明他是永远不能统一的，我们总有求他统一的义务。”",
+      "confidence": 1.0
+    },
+    {
+      "id": "c6",
+      "speaker": "张君劢",
+      "claim": "人生观没有公例可举。",
+      "target": "",
+      "claim_type": "描述性主张",
+      "claim_status": "间接转述",
+      "polarity": "neutral",
+      "evidence": "他这一次的答词仍旧是说：“人生观没有公例可举”；同人生观最不统一是一样的用意",
+      "confidence": 1.0
+    },
+    {
+      "id": "c7",
+      "speaker": "张君劢",
+      "claim": "事之比较当以今日为限，不得诿诸将来。若诿诸将来，则无一事之能决。",
+      "target": "丁文江",
+      "claim_type": "反驳性主张",
+      "claim_status": "直接引用",
+      "polarity": "negative",
+      "evidence": "“事之比较当以今日为限，不得诿诸将来。若诿诸将来，则无一事之能决。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c8",
+      "speaker": "甲",
+      "claim": "世界为进化的，历举种种发明与夫政治情形为之证。",
+      "target": "",
+      "claim_type": "描述性主张",
+      "claim_status": "假设情境",
+      "polarity": "positive",
+      "evidence": "譬诸甲曰：世界为进化的，历举种种发明与夫政治情形为之证。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c9",
+      "speaker": "乙",
+      "claim": "今之世界，未必胜于古代，并举欧战情形与白人之凌虐异族为证。",
+      "target": "",
+      "claim_type": "反驳性主张",
+      "claim_status": "假设情境",
+      "polarity": "negative",
+      "evidence": "乙则反之曰：今之世界，未必胜于古代，并举欧战情形与白人之凌虐异族为证。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c10",
+      "speaker": "乙之抱悲观主义者",
+      "claim": "吾人但论现在，不问将来。",
+      "target": "",
+      "claim_type": "规范性主张",
+      "claim_status": "假设情境",
+      "polarity": "neutral",
+      "evidence": "于是乙之抱悲观主义者从而答之曰：吾人但论现在，不问将来。",
+      "confidence": 1.0
+    }
+  ],
+  "relations": [
+    {
+      "id": "r1",
+      "head": "任公",
+      "head_type": "人物",
+      "relation": "相关",
+      "relation_subtype": "一般批评",
+      "tail": "国际公法",
+      "tail_type": "概念",
+      "polarity": "negative",
+      "stance_score": -0.5,
+      "intensity": 0.5,
+      "evidence": "任公国际公法的第一条同第二条的性质完全两样。",
+      "confidence": 1.0
+    },
+    {
+      "id": "r2",
+      "head": "剪除枝叶",
+      "head_type": "概念",
+      "relation": "区分",
+      "relation_subtype": "概念澄清",
+      "tail": "公法",
+      "tail_type": "概念",
+      "polarity": "neutral",
+      "stance_score": 0.0,
+      "intensity": 0.5,
+      "evidence": "“剪除枝叶”，是战争的原则，与公法无关。",
+      "confidence": 1.0
+    },
+    {
+      "id": "r3",
+      "head": "丁文江",
+      "head_type": "人物",
+      "relation": "批评",
+      "relation_subtype": "证据不足批评",
+      "tail": "人生观是主观的，直觉的",
+      "tail_type": "观点",
+      "polarity": "negative",
+      "stance_score": -0.8,
+      "intensity": 0.8,
+      "evidence": "“人生观是主观的，直觉的，……”请你用事实来证明！",
+      "confidence": 1.0
+    },
+    {
+      "id": "r4",
+      "head": "丁文江",
+      "head_type": "人物",
+      "relation": "批评",
+      "relation_subtype": "证据不足批评",
+      "tail": "科学方法不适用于人生观",
+      "tail_type": "观点",
+      "polarity": "negative",
+      "stance_score": -0.8,
+      "intensity": 0.8,
+      "evidence": "“科学方法不适用于人生观，”请你用理由来解说！",
+      "confidence": 1.0
+    },
+    {
+      "id": "r5",
+      "head": "甲",
+      "head_type": "人物",
+      "relation": "主张",
+      "relation_subtype": "不适用",
+      "tail": "世界为进化的",
+      "tail_type": "观点",
+      "polarity": "positive",
+      "stance_score": 1.0,
+      "intensity": 0.5,
+      "evidence": "譬诸甲曰：世界为进化的，历举种种发明与夫政治情形为之证。",
+      "confidence": 1.0
+    },
+    {
+      "id": "r6",
+      "head": "乙之抱悲观主义者",
+      "head_type": "阵营/群体",
+      "relation": "主张",
+      "relation_subtype": "不适用",
+      "tail": "吾人但论现在，不问将来",
+      "tail_type": "观点",
+      "polarity": "neutral",
+      "stance_score": 0.0,
+      "intensity": 0.5,
+      "evidence": "于是乙之抱悲观主义者从而答之曰：吾人但论现在，不问将来。",
+      "confidence": 1.0
+    }
+  ],
+  "definitions": [
+    {
+      "id": "def1",
+      "term": "剪除枝叶",
+      "definition": "战争的原则，与公法无关。",
+      "evidence": "“剪除枝叶”，是战争的原则，与公法无关。",
+      "confidence": 1.0
+    }
+  ],
+  "citations": [
+    {
+      "id": "cit1",
+      "citer": "丁文江",
+      "quoted_author": "张君劢",
+      "quoted_work": "",
+      "quoted_claim": "人生观是主观的，直觉的，……",
+      "function": "作为批评对象",
+      "evidence": "“人生观是主观的，直觉的，……”请你用事实来证明！",
+      "confidence": 1.0
+    },
+    {
+      "id": "cit2",
+      "citer": "丁文江",
+      "quoted_author": "张君劢",
+      "quoted_work": "",
+      "quoted_claim": "科学方法不适用于人生观",
+      "function": "作为批评对象",
+      "evidence": "“科学方法不适用于人生观，”请你用理由来解说！",
+      "confidence": 1.0
+    },
+    {
+      "id": "cit3",
+      "citer": "丁文江",
+      "quoted_author": "张君劢",
+      "quoted_work": "清华讲演",
+      "quoted_claim": "人生观最不统一",
+      "function": "作为批评对象",
+      "evidence": "张君劢在清华讲演所举的理由是“人生观最不统一。”",
+      "confidence": 1.0
+    },
+    {
+      "id": "cit4",
+      "citer": "丁文江",
+      "quoted_author": "张君劢",
+      "quoted_work": "",
+      "quoted_claim": "人生观没有公例可举",
+      "function": "作为批评对象",
+      "evidence": "他这一次的答词仍旧是说：“人生观没有公例可举”；同人生观最不统一是一样的用意",
+      "confidence": 1.0
+    },
+    {
+      "id": "cit5",
+      "citer": "丁文江",
+      "quoted_author": "张君劢",
+      "quoted_work": "",
+      "quoted_claim": "事之比较当以今日为限，不得诿诸将来。若诿诸将来，则无一事之能决。",
+      "function": "作为批评对象",
+      "evidence": "“事之比较当以今日为限，不得诿诸将来。若诿诸将来，则无一事之能决。",
+      "confidence": 1.0
+    }
+  ],
+  "rhetorical_devices": [
+    {
+      "id": "rh1",
+      "expression": "世界上没有几个人有张君劢这样的雅量",
+      "device_type": "讽刺",
+      "literal_target": "张君劢",
+      "function": "以反语方式称赞张君劢的雅量，实际是讽刺其固执己见",
+      "evidence": "读者不要替我们担心。不过我劝读者不要跟我们学，因为世界上没有几个人有张君劢这样的雅量。",
+      "confidence": 1.0
+    },
+    {
+      "id": "rh2",
+      "expression": "这明明是论坛老将给我的暗示",
+      "device_type": "比喻",
+      "literal_target": "任公",
+      "function": "将任公的提示比喻为论坛老将的暗示，表达对任公的尊重",
+      "evidence": "这明明是论坛老将给我的暗示，我如何肯不遵。",
+      "confidence": 1.0
+    }
+  ],
+  "uncertainties": [
+    {
+      "item": "甲的身份",
+      "reason": "文本中甲是张君劢假设情境中的人物，但作者说“我不知道君劢的甲是什么人”，无法确定甲是否指代具体人物。"
+    }
+  ],
+  "_meta": {
+    "status": "success",
+    "stage": "extract",
+    "model": "deepseek-ai/DeepSeek-V4-Flash",
+    "base_url": "https://api.siliconflow.cn/v1",
+    "prompt_version": "v2.0",
+    "schema_version": "lite_v3.0",
+    "segment_id": "丁文江2_000_e838922e_s0002",
+    "article_id": "丁文江2_000_e838922e",
+    "char_start": 974,
+    "char_end": 1549,
+    "raw_path": "E:\\1研究生\\岭南大学\\论文毕业\\capstone\\资料\\新的内容开始了\\local_upload\\kg_runs_v2\\丁文江_等3篇\\raw_outputs\\extract\\丁文江2_000_e838922e_s0002.txt",
+    "parsed_at": "2026-05-21T21:26:59",
+    "started_at": "2026-05-21T21:21:53",
+    "elapsed_seconds": 305.938,
+    "strict_evidence_check": true,
+    "drop_unsupported_evidence": true,
+    "request_timeout_seconds": 180
+  }
+}

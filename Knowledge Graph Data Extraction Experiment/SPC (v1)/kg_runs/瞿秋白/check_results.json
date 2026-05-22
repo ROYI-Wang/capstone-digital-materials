@@ -1,0 +1,1869 @@
+{
+  "check_results": [
+    {
+      "segment_id": "瞿秋白_000_a4753ce4_s0000",
+      "high": 0,
+      "medium": 0,
+      "low": 0,
+      "issues": {}
+    },
+    {
+      "segment_id": "瞿秋白_000_a4753ce4_s0002",
+      "high": 5,
+      "medium": 15,
+      "low": 1,
+      "issues": {
+        "type_errors": [],
+        "attribution_errors": [],
+        "direction_errors": [],
+        "missing_nodes": [
+          {
+            "node": "究竟是什么样的力量支配着人的意志而能使移易方向；究竟是什么样的历史原因反映于人的思想里而引起各种愿望",
+            "node_type": "问题",
+            "reason": "文本开头明确提出了一个‘新的问题’，这是争论的核心问题之一，应作为问题节点抽取。",
+            "severity": "high"
+          },
+          {
+            "node": "旧派的唯物论",
+            "node_type": "阵营/群体",
+            "reason": "文本中明确提及‘旧派的唯物论’作为一个思想阵营，应抽取为群体节点。",
+            "severity": "medium"
+          },
+          {
+            "node": "唯用主义（实验主义）",
+            "node_type": "主义/学说/理论",
+            "reason": "文本将旧派唯物论的历史观定性为‘唯用主义（实验主义）’，这是一个重要的理论标签，应抽取。",
+            "severity": "medium"
+          },
+          {
+            "node": "黑智儿（黑格尔）的历史哲学",
+            "node_type": "主义/学说/理论",
+            "reason": "文本讨论了黑格尔的历史哲学观点，并指出其‘客观的唯心论’谬误，应作为理论节点。",
+            "severity": "medium"
+          },
+          {
+            "node": "客观的唯心论",
+            "node_type": "主义/学说/理论",
+            "reason": "文本明确批评‘客观的唯心论之谬误’，这是一个关键的理论概念。",
+            "severity": "medium"
+          },
+          {
+            "node": "历史现象的研究应当更深一层",
+            "node_type": "方法论原则",
+            "reason": "文本提出‘历史现象的研究应当更深一层’，这是一个方法论原则，应抽取。",
+            "severity": "medium"
+          },
+          {
+            "node": "最后原因",
+            "node_type": "概念",
+            "reason": "文本反复讨论‘最后原因’，并区分了个人动机与最后原因，这是一个核心概念。",
+            "severity": "high"
+          },
+          {
+            "node": "思想动机后所隐匿的动机",
+            "node_type": "概念",
+            "reason": "文本批评旧派唯物论‘不追究思想动机之后的最后原因’，并提及‘隐匿的动机’，这是一个重要概念。",
+            "severity": "medium"
+          },
+          {
+            "node": "群众的动机",
+            "node_type": "概念",
+            "reason": "文本强调‘群众的动机’（民族的、阶级的）比个人动机更重要，应作为概念。",
+            "severity": "medium"
+          }
+        ],
+        "missing_links": [
+          {
+            "source": "旧派的唯物论",
+            "relation": "主张",
+            "target": "唯用主义（实验主义）",
+            "reason": "文本指出旧派唯物论的历史观是唯用主义，应建立主张关系。",
+            "severity": "medium"
+          },
+          {
+            "source": "旧派的唯物论",
+            "relation": "不设",
+            "target": "究竟是什么样的力量支配着人的意志而能使移易方向；究竟是什么样的历史原因反映于人的思想里而引起各种愿望",
+            "reason": "文本明确说‘旧派的唯物论向来不设这种问题’，应建立‘不设’关系。",
+            "severity": "high"
+          },
+          {
+            "source": "作者",
+            "relation": "批评",
+            "target": "旧派的唯物论",
+            "reason": "文本对旧派唯物论进行了批评，指出其‘自己反对唯物论’‘不一贯’，应建立批评关系。",
+            "severity": "high"
+          },
+          {
+            "source": "作者",
+            "relation": "批评",
+            "target": "客观的唯心论",
+            "reason": "文本指出‘客观的唯心论之谬误’，应建立批评关系。",
+            "severity": "high"
+          },
+          {
+            "source": "作者",
+            "relation": "主张",
+            "target": "历史现象的研究应当更深一层",
+            "reason": "文本提出这一方法论原则，应建立主张关系。",
+            "severity": "medium"
+          },
+          {
+            "source": "作者",
+            "relation": "主张",
+            "target": "最后原因",
+            "reason": "文本强调最后原因的重要性，应建立主张关系。",
+            "severity": "medium"
+          },
+          {
+            "source": "作者",
+            "relation": "主张",
+            "target": "群众的动机",
+            "reason": "文本强调群众动机的根源研究，应建立主张关系。",
+            "severity": "medium"
+          },
+          {
+            "source": "黑智儿（黑格尔）的历史哲学",
+            "relation": "属于",
+            "target": "客观的唯心论",
+            "reason": "文本将黑格尔的历史哲学归为客观的唯心论，应建立属于关系。",
+            "severity": "medium"
+          },
+          {
+            "source": "黑智儿（黑格尔）的历史哲学",
+            "relation": "不承认",
+            "target": "个人的动机是最后原因",
+            "reason": "文本指出黑格尔不承认个人动机是最后原因，应建立不承认关系。",
+            "severity": "medium"
+          },
+          {
+            "source": "黑智儿（黑格尔）的历史哲学",
+            "relation": "寻求",
+            "target": "最后原因",
+            "reason": "文本指出黑格尔寻求最后原因在历史之外，应建立寻求关系。",
+            "severity": "medium"
+          }
+        ],
+        "normalization_issues": [
+          {
+            "surface_forms": [
+              "黑智儿",
+              "黑格尔"
+            ],
+            "suggested_canonical": "黑格尔",
+            "reason": "文本中同时出现‘黑智儿’和‘黑格尔’，应统一为‘黑格尔’。",
+            "severity": "medium"
+          },
+          {
+            "surface_forms": [
+              "唯用主义",
+              "实验主义"
+            ],
+            "suggested_canonical": "实验主义",
+            "reason": "文本中‘唯用主义（实验主义）’是同一概念，应统一为‘实验主义’。",
+            "severity": "low"
+          }
+        ],
+        "relation_type_issues": [],
+        "polarity_issues": [],
+        "evidence_issues": [],
+        "rhetorical_device_issues": []
+      }
+    },
+    {
+      "segment_id": "瞿秋白_000_a4753ce4_s0004",
+      "high": 10,
+      "medium": 13,
+      "low": 2,
+      "issues": {
+        "type_errors": [],
+        "attribution_errors": [],
+        "direction_errors": [],
+        "missing_nodes": [
+          {
+            "node": "必然",
+            "node_type": "概念",
+            "reason": "文本开篇即讨论“必然”，并多次出现，是核心概念，应抽取为实体。",
+            "severity": "high"
+          },
+          {
+            "node": "自由",
+            "node_type": "概念",
+            "reason": "全文围绕“自由”展开定义和论述，是核心概念，应抽取为实体。",
+            "severity": "high"
+          },
+          {
+            "node": "意志自由",
+            "node_type": "概念",
+            "reason": "文本明确给出“意志自由”的定义，并加以讨论，应抽取为实体。",
+            "severity": "high"
+          },
+          {
+            "node": "因果律",
+            "node_type": "概念",
+            "reason": "文本多次提及因果律，并作为自由的基础，是重要概念。",
+            "severity": "high"
+          },
+          {
+            "node": "自然律",
+            "node_type": "概念",
+            "reason": "文本提到“自然律”，与因果律、公律相关，应抽取。",
+            "severity": "medium"
+          },
+          {
+            "node": "公律",
+            "node_type": "概念",
+            "reason": "文本使用“公律”指代自然规律，应抽取。",
+            "severity": "medium"
+          },
+          {
+            "node": "历史发展之必然的产物",
+            "node_type": "概念",
+            "reason": "文本将“自由”定义为历史发展之必然的产物，是重要论断。",
+            "severity": "medium"
+          },
+          {
+            "node": "人类历史的发展",
+            "node_type": "概念",
+            "reason": "文本讨论人类历史发展中的自由问题，应抽取。",
+            "severity": "low"
+          },
+          {
+            "node": "社会现象之自生自灭性",
+            "node_type": "概念",
+            "reason": "文本提到“社会现象之自生自灭性”，是重要概念。",
+            "severity": "medium"
+          },
+          {
+            "node": "资本主义时代的强有力的生产工具",
+            "node_type": "概念",
+            "reason": "文本最后一段讨论生产工具公有化，应抽取。",
+            "severity": "medium"
+          },
+          {
+            "node": "公共的财产",
+            "node_type": "概念",
+            "reason": "文本提到生产工具变成公共的财产，是重要概念。",
+            "severity": "medium"
+          },
+          {
+            "node": "生产制度",
+            "node_type": "概念",
+            "reason": "文本提到生产制度按社会关系组织，应抽取。",
+            "severity": "medium"
+          },
+          {
+            "node": "社会关系",
+            "node_type": "概念",
+            "reason": "文本提到社会关系，是组织生产制度的依据。",
+            "severity": "low"
+          },
+          {
+            "node": "火之发明",
+            "node_type": "历史事件",
+            "reason": "文本以火之发明作为人类文化进步的例子，应抽取。",
+            "severity": "medium"
+          },
+          {
+            "node": "变热力成机械的动",
+            "node_type": "历史事件",
+            "reason": "文本提到最近代文明的标志，应抽取。",
+            "severity": "medium"
+          }
+        ],
+        "missing_links": [
+          {
+            "source": "自由",
+            "relation": "定义",
+            "target": "能克制自然及自己，然必以知悉自然的必要为根据",
+            "reason": "文本明确给出自由的定义，应建立定义关系。",
+            "severity": "high"
+          },
+          {
+            "source": "意志自由",
+            "relation": "定义",
+            "target": "确知事实而能处置自如之自由",
+            "reason": "文本明确给出意志自由的定义，应建立定义关系。",
+            "severity": "high"
+          },
+          {
+            "source": "自由",
+            "relation": "是",
+            "target": "历史发展之必然的产物",
+            "reason": "文本明确说“自由本是历史发展之必然的产物”。",
+            "severity": "high"
+          },
+          {
+            "source": "自由",
+            "relation": "依赖于",
+            "target": "探悉自然界的公律",
+            "reason": "文本说“人类离自然而独立自由，完全在于探悉自然界的公律”。",
+            "severity": "high"
+          },
+          {
+            "source": "自由",
+            "relation": "依赖于",
+            "target": "因果律",
+            "reason": "文本说“必须探悉社会现象里的‘必然’的因果律”才能求得自由。",
+            "severity": "high"
+          },
+          {
+            "source": "意志自由",
+            "relation": "反对",
+            "target": "否认因果律以立意志自由",
+            "reason": "文本批评“空言意志自由，甚至于否认因果律以立意志自由——那简直是自相矛盾”。",
+            "severity": "high"
+          },
+          {
+            "source": "人类",
+            "relation": "能够",
+            "target": "完全克服自然",
+            "reason": "文本最后一段说“人类方能完全克服自然”。",
+            "severity": "medium"
+          },
+          {
+            "source": "人类",
+            "relation": "能够",
+            "target": "完全制止自己的盲动",
+            "reason": "文本最后一段说“才能完全制止自己的盲动”。",
+            "severity": "medium"
+          },
+          {
+            "source": "资本主义时代的强有力的生产工具",
+            "relation": "变成",
+            "target": "公共的财产",
+            "reason": "文本说“资本主义时代的强有力的生产工具若能变成公共的财产”。",
+            "severity": "medium"
+          },
+          {
+            "source": "生产制度",
+            "relation": "按照",
+            "target": "社会关系",
+            "reason": "文本说“生产制度若得按照着社会关系而组织”。",
+            "severity": "medium"
+          }
+        ],
+        "normalization_issues": [],
+        "relation_type_issues": [],
+        "polarity_issues": [],
+        "evidence_issues": [],
+        "rhetorical_device_issues": []
+      }
+    },
+    {
+      "segment_id": "瞿秋白_000_a4753ce4_s0006",
+      "high": 0,
+      "medium": 0,
+      "low": 0,
+      "issues": {}
+    },
+    {
+      "segment_id": "瞿秋白_000_a4753ce4_s0008",
+      "high": 0,
+      "medium": 0,
+      "low": 0,
+      "issues": {}
+    },
+    {
+      "segment_id": "瞿秋白_000_a4753ce4_s0010",
+      "high": 0,
+      "medium": 0,
+      "low": 0,
+      "issues": {}
+    },
+    {
+      "segment_id": "瞿秋白_000_a4753ce4_s0012",
+      "high": 36,
+      "medium": 0,
+      "low": 0,
+      "issues": {
+        "type_errors": [],
+        "attribution_errors": [],
+        "direction_errors": [],
+        "missing_nodes": [
+          {
+            "node": "心理",
+            "node_type": "概念",
+            "reason": "文本中多次出现'心理'、'社会心理'，是核心概念，但未抽取。",
+            "severity": "high"
+          },
+          {
+            "node": "经济关系",
+            "node_type": "概念",
+            "reason": "文本中'经济关系'是因果链条中的关键环节，未抽取。",
+            "severity": "high"
+          },
+          {
+            "node": "技术变革",
+            "node_type": "概念",
+            "reason": "文本中'技术的变革'是因果链条的起点之一，未抽取。",
+            "severity": "high"
+          },
+          {
+            "node": "政治制度",
+            "node_type": "概念",
+            "reason": "文本中'政治制度'是因果链条中的环节，未抽取。",
+            "severity": "high"
+          },
+          {
+            "node": "阶级",
+            "node_type": "概念",
+            "reason": "文本中'阶级'、'新阶级'、'旧阶级'是核心概念，未抽取。",
+            "severity": "high"
+          },
+          {
+            "node": "阶级斗争",
+            "node_type": "概念",
+            "reason": "文本中'思想上之阶级斗争'是重要概念，未抽取。",
+            "severity": "high"
+          },
+          {
+            "node": "人生观",
+            "node_type": "概念",
+            "reason": "文本中'人生观'、'新人生观'是核心概念，未抽取。",
+            "severity": "high"
+          },
+          {
+            "node": "科学",
+            "node_type": "概念",
+            "reason": "文本中'科学'是重要概念，未抽取。",
+            "severity": "high"
+          },
+          {
+            "node": "社会心理",
+            "node_type": "概念",
+            "reason": "文本中'社会心理'是核心概念，未抽取。",
+            "severity": "high"
+          },
+          {
+            "node": "个性的人生观",
+            "node_type": "概念",
+            "reason": "文本中'个性的人生观'是重要概念，未抽取。",
+            "severity": "high"
+          },
+          {
+            "node": "经济环境",
+            "node_type": "概念",
+            "reason": "文本中'经济环境'是因果链条中的因素，未抽取。",
+            "severity": "high"
+          },
+          {
+            "node": "生产工具",
+            "node_type": "概念",
+            "reason": "文本中'生产工具'是阶级划分的依据，未抽取。",
+            "severity": "high"
+          },
+          {
+            "node": "心理随着经济动象而变",
+            "node_type": "观点",
+            "reason": "这是文本的核心因果主张，应作为观点抽取。",
+            "severity": "high"
+          },
+          {
+            "node": "技术的变革必定影响于经济关系",
+            "node_type": "观点",
+            "reason": "这是因果链条中的关键主张，应作为观点抽取。",
+            "severity": "high"
+          },
+          {
+            "node": "经济关系又渐渐确定新的政治制度",
+            "node_type": "观点",
+            "reason": "这是因果链条中的关键主张，应作为观点抽取。",
+            "severity": "high"
+          },
+          {
+            "node": "政治制度较稳定的时期，大家引用当时所已得及已承认的智识，便有大致相同的对于人生及宇宙的概念，——养成当代的社会心理",
+            "node_type": "观点",
+            "reason": "这是因果链条中的关键主张，应作为观点抽取。",
+            "severity": "high"
+          },
+          {
+            "node": "至有新技术、新科学、新斗争之时，便能发生新人生观",
+            "node_type": "观点",
+            "reason": "这是因果链条中的关键主张，应作为观点抽取。",
+            "severity": "high"
+          },
+          {
+            "node": "这是人生观所以有时代的不同之原因",
+            "node_type": "结论",
+            "reason": "这是对前述因果链条的总结，应作为结论抽取。",
+            "severity": "high"
+          },
+          {
+            "node": "伟大的个性能先见此新人生观，立于新阶级的观点而与旧阶级开始思想上之阶级斗争",
+            "node_type": "观点",
+            "reason": "这是关于个性与阶级关系的核心主张，应作为观点抽取。",
+            "severity": "high"
+          },
+          {
+            "node": "这是人生观所以有个性的（实即阶级的）不同之原因",
+            "node_type": "结论",
+            "reason": "这是对前述因果链条的总结，应作为结论抽取。",
+            "severity": "high"
+          },
+          {
+            "node": "新阶级的群众对于某一问题，因其对于生产工具之关系相同，大致有同一的态度",
+            "node_type": "观点",
+            "reason": "这是关于阶级与态度关系的核心主张，应作为观点抽取。",
+            "severity": "high"
+          },
+          {
+            "node": "阶级的观点永久与经济环境相关",
+            "node_type": "观点",
+            "reason": "这是关于阶级与经济环境关系的核心主张，应作为观点抽取。",
+            "severity": "high"
+          },
+          {
+            "node": "各阶级及阶级内之各'层'的观点必不相同，解决这一问题的趋向也就各自相异",
+            "node_type": "观点",
+            "reason": "这是关于阶级内部分化的核心主张，应作为观点抽取。",
+            "severity": "high"
+          },
+          {
+            "node": "此种群众的动机在阶级内有共同的解决问题的趋向，本来亦是经济原因的必然结果",
+            "node_type": "观点",
+            "reason": "这是关于经济决定论的核心主张，应作为观点抽取。",
+            "severity": "high"
+          },
+          {
+            "node": "在各阶级之间又有各种趋向的斗争，互相牵掣而各不能达，于是又落于第二次的客观的必然结果",
+            "node_type": "观点",
+            "reason": "这是关于阶级斗争与客观结果的核心主张，应作为观点抽取。",
+            "severity": "high"
+          }
+        ],
+        "missing_links": [
+          {
+            "source": "心理",
+            "relation": "随着...而变",
+            "target": "经济动象",
+            "reason": "文本明确说'心理随着经济动象而变'，应建立因果关系。",
+            "severity": "high"
+          },
+          {
+            "source": "技术变革",
+            "relation": "影响",
+            "target": "经济关系",
+            "reason": "文本明确说'技术的变革，必定影响于经济关系'，应建立因果关系。",
+            "severity": "high"
+          },
+          {
+            "source": "经济关系",
+            "relation": "确定",
+            "target": "政治制度",
+            "reason": "文本明确说'经济关系又渐渐确定新的政治制度'，应建立因果关系。",
+            "severity": "high"
+          },
+          {
+            "source": "政治制度",
+            "relation": "影响",
+            "target": "社会心理",
+            "reason": "文本说'政治制度较稳定的时期...养成当代的社会心理'，应建立因果关系。",
+            "severity": "high"
+          },
+          {
+            "source": "新技术、新科学、新斗争",
+            "relation": "导致",
+            "target": "新人生观",
+            "reason": "文本明确说'至有新技术、新科学、新斗争之时，便能发生新人生观'，应建立因果关系。",
+            "severity": "high"
+          },
+          {
+            "source": "伟大的个性",
+            "relation": "预见",
+            "target": "新人生观",
+            "reason": "文本说'伟大的个性能先见此新人生观'，应建立关系。",
+            "severity": "high"
+          },
+          {
+            "source": "伟大的个性",
+            "relation": "代表",
+            "target": "新的社会心理之开始",
+            "reason": "文本说'可以先发现一二伟大的个性，代表新的社会心理之开始'，应建立关系。",
+            "severity": "high"
+          },
+          {
+            "source": "新阶级",
+            "relation": "有",
+            "target": "同一的态度",
+            "reason": "文本说'新阶级的群众...大致有同一的态度'，应建立关系。",
+            "severity": "high"
+          },
+          {
+            "source": "阶级的观点",
+            "relation": "相关于",
+            "target": "经济环境",
+            "reason": "文本说'阶级的观点永久与经济环境相关'，应建立关系。",
+            "severity": "high"
+          },
+          {
+            "source": "各阶级及阶级内之各'层'",
+            "relation": "有",
+            "target": "不同的观点",
+            "reason": "文本说'各阶级及阶级内之各'层'的观点必不相同'，应建立关系。",
+            "severity": "high"
+          },
+          {
+            "source": "各阶级之间的斗争",
+            "relation": "导致",
+            "target": "客观的必然结果",
+            "reason": "文本说'在各阶级之间又有各种趋向的斗争...落于第二次的客观的必然结果'，应建立因果关系。",
+            "severity": "high"
+          }
+        ],
+        "normalization_issues": [],
+        "relation_type_issues": [],
+        "polarity_issues": [],
+        "evidence_issues": [],
+        "rhetorical_device_issues": []
+      }
+    },
+    {
+      "segment_id": "瞿秋白_000_a4753ce4_s0014",
+      "high": 19,
+      "medium": 6,
+      "low": 1,
+      "issues": {
+        "type_errors": [],
+        "attribution_errors": [],
+        "direction_errors": [],
+        "missing_nodes": [
+          {
+            "node": "利己主义的人生观",
+            "node_type": "观点",
+            "reason": "文本中明确提出了'利己主义的人生观'这一概念，并对其存在条件进行了讨论，应作为观点节点抽取。",
+            "severity": "high"
+          },
+          {
+            "node": "利他主义",
+            "node_type": "概念",
+            "reason": "文本中多次提到'利他主义'、'利他互助主义'，是核心概念之一，应抽取。",
+            "severity": "high"
+          },
+          {
+            "node": "阶级的观点",
+            "node_type": "概念",
+            "reason": "文本强调个性动机最终仍是阶级的观点，是重要概念。",
+            "severity": "high"
+          },
+          {
+            "node": "历史的规律性",
+            "node_type": "概念",
+            "reason": "文本明确提到'历史的规律性便在于此'，是核心论点。",
+            "severity": "high"
+          },
+          {
+            "node": "必然的因果",
+            "node_type": "概念",
+            "reason": "文本多次提及'必然的因果律'、'必然的因果'，是解释超阶级自由选择的关键概念。",
+            "severity": "high"
+          },
+          {
+            "node": "生产力",
+            "node_type": "概念",
+            "reason": "文本以'因生产力的状态而成当代的经济关系'开始因果链，是基础概念。",
+            "severity": "high"
+          },
+          {
+            "node": "经济关系",
+            "node_type": "概念",
+            "reason": "因果链中的关键环节。",
+            "severity": "high"
+          },
+          {
+            "node": "政治制度",
+            "node_type": "概念",
+            "reason": "因果链中的关键环节。",
+            "severity": "high"
+          },
+          {
+            "node": "群众动机",
+            "node_type": "概念",
+            "reason": "因果链中的关键环节，且与个性动机对比。",
+            "severity": "high"
+          },
+          {
+            "node": "个性动机",
+            "node_type": "概念",
+            "reason": "文本核心讨论对象之一。",
+            "severity": "high"
+          },
+          {
+            "node": "阶级的社会心理",
+            "node_type": "概念",
+            "reason": "文本提到其因认识必然因果而自化为人类的社会理想。",
+            "severity": "medium"
+          },
+          {
+            "node": "人类的社会理想",
+            "node_type": "概念",
+            "reason": "文本提到阶级的社会心理自化为此。",
+            "severity": "medium"
+          },
+          {
+            "node": "共产部落",
+            "node_type": "概念",
+            "reason": "文本提到初民个人结合共产部落。",
+            "severity": "low"
+          },
+          {
+            "node": "无产阶级的'阶级个性'",
+            "node_type": "概念",
+            "reason": "文本最后提到其依利己主义向现存制度进攻。",
+            "severity": "medium"
+          }
+        ],
+        "missing_links": [
+          {
+            "source": "生产力",
+            "relation": "决定",
+            "target": "经济关系",
+            "reason": "文本明确说'因生产力的状态而成当代的经济关系'，是因果关系。",
+            "severity": "high"
+          },
+          {
+            "source": "经济关系",
+            "relation": "决定",
+            "target": "政治制度",
+            "reason": "文本明确说'因经济的关系而生政治制度'。",
+            "severity": "high"
+          },
+          {
+            "source": "政治制度",
+            "relation": "决定",
+            "target": "群众动机",
+            "reason": "文本明确说'因政治制度而定群众动机'。",
+            "severity": "high"
+          },
+          {
+            "source": "群众动机",
+            "relation": "决定",
+            "target": "个性动机",
+            "reason": "文本明确说'因群众动机而有个性动机'。",
+            "severity": "high"
+          },
+          {
+            "source": "利己主义的人生观",
+            "relation": "只能存在于",
+            "target": "无社会的矿物世界",
+            "reason": "文本说'绝对的利己主义的人生观只能存在于无社会的矿物世界里'。",
+            "severity": "high"
+          },
+          {
+            "source": "个性动机",
+            "relation": "是",
+            "target": "群众动机的先锋、阶级动机的向导",
+            "reason": "文本明确说'个性的动机仅仅是群众动机的先锋、阶级动机的向导'。",
+            "severity": "high"
+          },
+          {
+            "source": "个性动机",
+            "relation": "随",
+            "target": "阶级分化",
+            "reason": "文本说'个性动机随此阶级分化而各易其趋向'。",
+            "severity": "medium"
+          },
+          {
+            "source": "个性动机",
+            "relation": "是",
+            "target": "新时代的政治变革的种种因素中之一因素",
+            "reason": "文本明确说'足以为新时代的政治变革的种种因素中之一因素'。",
+            "severity": "high"
+          },
+          {
+            "source": "认识必然的因果",
+            "relation": "使",
+            "target": "个性超阶级而自由选择观点",
+            "reason": "文本说'能自己觉得历史流变之必然的因果，那时，他方能超阶级而自由选择观点'。",
+            "severity": "high"
+          },
+          {
+            "source": "认识必然的因果",
+            "relation": "使",
+            "target": "阶级的社会心理自化为人类的社会理想",
+            "reason": "文本说'阶级的社会心理亦因对于必然的因果之认识日益清晰，而能自化为人类的社会理想'。",
+            "severity": "high"
+          },
+          {
+            "source": "初民个人",
+            "relation": "依",
+            "target": "利己主义",
+            "reason": "文本说'初民个人依利己主义而向自然进攻'。",
+            "severity": "medium"
+          },
+          {
+            "source": "无产阶级的'阶级个性'",
+            "relation": "依",
+            "target": "利己主义",
+            "reason": "文本说'无产阶级的阶级个性依利己主义而向现存制度进攻'。",
+            "severity": "medium"
+          }
+        ],
+        "normalization_issues": [],
+        "relation_type_issues": [],
+        "polarity_issues": [],
+        "evidence_issues": [],
+        "rhetorical_device_issues": []
+      }
+    },
+    {
+      "segment_id": "瞿秋白_000_a4753ce4_s0016",
+      "high": 22,
+      "medium": 32,
+      "low": 0,
+      "issues": {
+        "type_errors": [],
+        "attribution_errors": [],
+        "direction_errors": [],
+        "missing_nodes": [
+          {
+            "node": "社会现象的规律性应当先求之于社会的最后原因",
+            "node_type": "观点",
+            "reason": "文本第一点是一个完整的方法论主张，应作为观点节点抽取。",
+            "severity": "high"
+          },
+          {
+            "node": "社会现象确有因果律可寻",
+            "node_type": "观点",
+            "reason": "文本第二点前半句是一个因果律主张，应作为观点节点。",
+            "severity": "high"
+          },
+          {
+            "node": "知此因果律之“必然”，方能得应用此因果律之“自由”",
+            "node_type": "观点",
+            "reason": "文本第二点后半句是条件关系主张，应作为观点节点。",
+            "severity": "high"
+          },
+          {
+            "node": "人的意识是社会发展之果，既成社会力量之后亦能为社会现象之因",
+            "node_type": "观点",
+            "reason": "文本第三点前半句是因果主张，应作为观点节点。",
+            "severity": "high"
+          },
+          {
+            "node": "必自知此因果联系，人的意志方能成社会现象之有意识的因",
+            "node_type": "观点",
+            "reason": "文本第三点后半句是条件主张，应作为观点节点。",
+            "severity": "high"
+          },
+          {
+            "node": "社会的有定论以科学方法断定社会现象里有因果律",
+            "node_type": "观点",
+            "reason": "文本第四点前半句是方法论主张，应作为观点节点。",
+            "severity": "high"
+          },
+          {
+            "node": "据此公律推测“将来之现实”——就是“现时之理想”",
+            "node_type": "观点",
+            "reason": "文本第四点后半句是应用主张，应作为观点节点。",
+            "severity": "high"
+          },
+          {
+            "node": "社会发展之最后动力在于“社会的实质”——经济",
+            "node_type": "观点",
+            "reason": "文本第五点第一句是核心因果主张，应作为观点节点。",
+            "severity": "high"
+          },
+          {
+            "node": "由此而有时代的群众人生观，以至于个性的社会理想",
+            "node_type": "观点",
+            "reason": "文本第五点第二句是衍生关系主张，应作为观点节点。",
+            "severity": "high"
+          },
+          {
+            "node": "因经济顺其客观公律而流变，于是群众的人生观渐渐有变革的要求，所以涌出适当的个性",
+            "node_type": "观点",
+            "reason": "文本第五点第三句是因果链主张，应作为观点节点。",
+            "severity": "high"
+          },
+          {
+            "node": "此种“伟人”必定是某一时代或某一阶级的历史工具",
+            "node_type": "观点",
+            "reason": "文本第五点第四句是定义性主张，应作为观点节点。",
+            "severity": "high"
+          },
+          {
+            "node": "历史的工具运用“必然”的公律——由个性而阶级而人类，由无意识而有意识——成为群众的实际运动",
+            "node_type": "观点",
+            "reason": "文本第六点第一句是过程主张，应作为观点节点。",
+            "severity": "high"
+          },
+          {
+            "node": "群众运动的斗争正需要此历史的工具，社会的实质亦已能产生此历史的工具，于是方开始从“必然世界”进于“自由世界”的伟业",
+            "node_type": "观点",
+            "reason": "文本第六点第二句是条件与结果主张，应作为观点节点。",
+            "severity": "high"
+          },
+          {
+            "node": "人要从“自然之奴”进于“自然之王”必须知道自然律",
+            "node_type": "观点",
+            "reason": "文本第七点第一句是类比性主张，应作为观点节点。",
+            "severity": "high"
+          },
+          {
+            "node": "人要克服社会的自生自灭性必须知道社会律",
+            "node_type": "观点",
+            "reason": "文本第七点第二句是类比性主张，应作为观点节点。",
+            "severity": "high"
+          },
+          {
+            "node": "社会现象的规律性",
+            "node_type": "概念",
+            "reason": "文本第一点中作为核心概念出现，应抽取。",
+            "severity": "medium"
+          },
+          {
+            "node": "社会的最后原因",
+            "node_type": "概念",
+            "reason": "文本第一点中作为核心概念出现，应抽取。",
+            "severity": "medium"
+          },
+          {
+            "node": "个人动机",
+            "node_type": "概念",
+            "reason": "文本第一点中作为对比概念出现，应抽取。",
+            "severity": "medium"
+          },
+          {
+            "node": "群众动机",
+            "node_type": "概念",
+            "reason": "文本第一点中作为对比概念出现，应抽取。",
+            "severity": "medium"
+          },
+          {
+            "node": "因果律",
+            "node_type": "概念",
+            "reason": "文本第二点及多处作为核心概念出现，应抽取。",
+            "severity": "medium"
+          },
+          {
+            "node": "必然",
+            "node_type": "概念",
+            "reason": "文本第二点及第六点作为关键概念出现，应抽取。",
+            "severity": "medium"
+          },
+          {
+            "node": "自由",
+            "node_type": "概念",
+            "reason": "文本第二点及第六点作为关键概念出现，应抽取。",
+            "severity": "medium"
+          },
+          {
+            "node": "人的意识",
+            "node_type": "概念",
+            "reason": "文本第三点作为核心概念出现，应抽取。",
+            "severity": "medium"
+          },
+          {
+            "node": "社会发展",
+            "node_type": "概念",
+            "reason": "文本第三点作为核心概念出现，应抽取。",
+            "severity": "medium"
+          },
+          {
+            "node": "社会力量",
+            "node_type": "概念",
+            "reason": "文本第三点作为核心概念出现，应抽取。",
+            "severity": "medium"
+          },
+          {
+            "node": "社会现象",
+            "node_type": "概念",
+            "reason": "文本第三点作为核心概念出现，应抽取。",
+            "severity": "medium"
+          },
+          {
+            "node": "意志",
+            "node_type": "概念",
+            "reason": "文本第三点作为核心概念出现，应抽取。",
+            "severity": "medium"
+          },
+          {
+            "node": "社会的有定论",
+            "node_type": "概念",
+            "reason": "文本第四点作为核心概念出现，应抽取。",
+            "severity": "medium"
+          },
+          {
+            "node": "科学方法",
+            "node_type": "概念",
+            "reason": "文本第四点作为核心概念出现，应抽取。",
+            "severity": "medium"
+          },
+          {
+            "node": "将来之现实",
+            "node_type": "概念",
+            "reason": "文本第四点作为核心概念出现，应抽取。",
+            "severity": "medium"
+          },
+          {
+            "node": "现时之理想",
+            "node_type": "概念",
+            "reason": "文本第四点作为核心概念出现，应抽取。",
+            "severity": "medium"
+          },
+          {
+            "node": "社会的实质",
+            "node_type": "概念",
+            "reason": "文本第五点作为核心概念出现，应抽取。",
+            "severity": "medium"
+          },
+          {
+            "node": "经济",
+            "node_type": "概念",
+            "reason": "文本第五点作为核心概念出现，应抽取。",
+            "severity": "medium"
+          },
+          {
+            "node": "群众人生观",
+            "node_type": "概念",
+            "reason": "文本第五点作为核心概念出现，应抽取。",
+            "severity": "medium"
+          },
+          {
+            "node": "个性的社会理想",
+            "node_type": "概念",
+            "reason": "文本第五点作为核心概念出现，应抽取。",
+            "severity": "medium"
+          },
+          {
+            "node": "伟人",
+            "node_type": "概念",
+            "reason": "文本第五点作为核心概念出现，应抽取。",
+            "severity": "medium"
+          },
+          {
+            "node": "历史工具",
+            "node_type": "概念",
+            "reason": "文本第五点及第六点作为核心概念出现，应抽取。",
+            "severity": "medium"
+          },
+          {
+            "node": "必然世界",
+            "node_type": "概念",
+            "reason": "文本第六点作为核心概念出现，应抽取。",
+            "severity": "medium"
+          },
+          {
+            "node": "自由世界",
+            "node_type": "概念",
+            "reason": "文本第六点作为核心概念出现，应抽取。",
+            "severity": "medium"
+          },
+          {
+            "node": "自然之奴",
+            "node_type": "概念",
+            "reason": "文本第七点作为核心概念出现，应抽取。",
+            "severity": "medium"
+          },
+          {
+            "node": "自然之王",
+            "node_type": "概念",
+            "reason": "文本第七点作为核心概念出现，应抽取。",
+            "severity": "medium"
+          },
+          {
+            "node": "自然律",
+            "node_type": "概念",
+            "reason": "文本第七点作为核心概念出现，应抽取。",
+            "severity": "medium"
+          },
+          {
+            "node": "社会律",
+            "node_type": "概念",
+            "reason": "文本第七点作为核心概念出现，应抽取。",
+            "severity": "medium"
+          },
+          {
+            "node": "社会的自生自灭性",
+            "node_type": "概念",
+            "reason": "文本第七点作为核心概念出现，应抽取。",
+            "severity": "medium"
+          }
+        ],
+        "missing_links": [
+          {
+            "source": "社会现象的规律性应当先求之于社会的最后原因",
+            "relation": "反对",
+            "target": "以个人动机或群众动机作为社会现象的唯一因素",
+            "reason": "文本第一点明确否定个人动机或群众动机作为唯一因素，应建立反对关系。",
+            "severity": "high"
+          },
+          {
+            "source": "社会现象的规律性应当先求之于社会的最后原因",
+            "relation": "包含",
+            "target": "当再求此因素之因素",
+            "reason": "文本第一点后半句是前半句的进一步要求，应建立包含关系。",
+            "severity": "medium"
+          },
+          {
+            "source": "知此因果律之“必然”，方能得应用此因果律之“自由”",
+            "relation": "条件",
+            "target": "社会现象确有因果律可寻",
+            "reason": "文本第二点中，后半句是前半句的条件结果关系。",
+            "severity": "high"
+          },
+          {
+            "source": "必自知此因果联系，人的意志方能成社会现象之有意识的因",
+            "relation": "条件",
+            "target": "人的意识是社会发展之果，既成社会力量之后亦能为社会现象之因",
+            "reason": "文本第三点中，后半句是前半句的条件结果关系。",
+            "severity": "high"
+          },
+          {
+            "source": "社会的有定论以科学方法断定社会现象里有因果律",
+            "relation": "条件",
+            "target": "据此公律推测“将来之现实”——就是“现时之理想”",
+            "reason": "文本第四点中，前半句是后半句的条件。",
+            "severity": "high"
+          },
+          {
+            "source": "社会发展之最后动力在于“社会的实质”——经济",
+            "relation": "因果",
+            "target": "由此而有时代的群众人生观，以至于个性的社会理想",
+            "reason": "文本第五点中，经济是原因，群众人生观和社会理想是结果。",
+            "severity": "high"
+          },
+          {
+            "source": "因经济顺其客观公律而流变，于是群众的人生观渐渐有变革的要求，所以涌出适当的个性",
+            "relation": "因果",
+            "target": "此种“伟人”必定是某一时代或某一阶级的历史工具",
+            "reason": "文本第五点中，经济流变导致群众人生观变革，进而产生伟人作为历史工具。",
+            "severity": "high"
+          },
+          {
+            "source": "历史的工具运用“必然”的公律——由个性而阶级而人类，由无意识而有意识——成为群众的实际运动",
+            "relation": "条件",
+            "target": "群众运动的斗争正需要此历史的工具，社会的实质亦已能产生此历史的工具，于是方开始从“必然世界”进于“自由世界”的伟业",
+            "reason": "文本第六点中，前半句是后半句的条件。",
+            "severity": "high"
+          },
+          {
+            "source": "人要从“自然之奴”进于“自然之王”必须知道自然律",
+            "relation": "类比",
+            "target": "人要克服社会的自生自灭性必须知道社会律",
+            "reason": "文本第七点中，两个句子是平行类比关系。",
+            "severity": "medium"
+          }
+        ],
+        "normalization_issues": [],
+        "relation_type_issues": [],
+        "polarity_issues": [],
+        "evidence_issues": [],
+        "rhetorical_device_issues": [
+          {
+            "item": "人要从“自然之奴”进于“自然之王”必须知道自然律；人要克服社会的自生自灭性必须知道社会律",
+            "problem": "文本第七点使用了比喻/类比修辞（自然之奴、自然之王），但未标注。",
+            "suggested_fix": "添加 rhetorical_device 节点，type 为 '类比'，literal_target 为 '人从被自然支配到支配自然的过程'，论证功能为 '类比论证社会律的重要性'。",
+            "severity": "medium"
+          }
+        ]
+      }
+    },
+    {
+      "segment_id": "瞿秋白_001_3dbfe529_s0001",
+      "high": 21,
+      "medium": 15,
+      "low": 3,
+      "issues": {
+        "type_errors": [],
+        "attribution_errors": [],
+        "direction_errors": [],
+        "missing_nodes": [
+          {
+            "node": "实验主义",
+            "node_type": "主义/学说/理论",
+            "reason": "文本核心讨论对象，应作为实体抽取",
+            "severity": "high"
+          },
+          {
+            "node": "实验主义在中国是革命的",
+            "node_type": "观点",
+            "reason": "文本明确主张实验主义在中国是革命的，应作为观点节点",
+            "severity": "high"
+          },
+          {
+            "node": "实验主义在欧美是反动的",
+            "node_type": "观点",
+            "reason": "文本明确主张实验主义在欧美是反动的，应作为观点节点",
+            "severity": "high"
+          },
+          {
+            "node": "实验主义是维持现状的市侩哲学",
+            "node_type": "观点",
+            "reason": "文本明确评价实验主义为市侩哲学，应作为观点节点",
+            "severity": "high"
+          },
+          {
+            "node": "实验主义否认一切理论的确定价值",
+            "node_type": "观点",
+            "reason": "文本明确描述实验主义特性，应作为观点节点",
+            "severity": "high"
+          },
+          {
+            "node": "实验主义是多元论，是改良派",
+            "node_type": "观点",
+            "reason": "文本结尾明确总结，应作为观点节点",
+            "severity": "high"
+          },
+          {
+            "node": "实验主义带着科学方法到中国是一种历史的误会",
+            "node_type": "观点",
+            "reason": "文本明确表述，应作为观点节点",
+            "severity": "high"
+          },
+          {
+            "node": "实验主义只能承认实用的科学知识及方法，而不能承认科学的真理",
+            "node_type": "观点",
+            "reason": "文本明确表述实验主义的局限，应作为观点节点",
+            "severity": "high"
+          },
+          {
+            "node": "实验主义是欧洲资本主义社会的实用哲学，尤是'美国主义'",
+            "node_type": "观点",
+            "reason": "文本明确界定实验主义的社会根源，应作为观点节点",
+            "severity": "high"
+          },
+          {
+            "node": "实验主义竭力综合整理现代市侩的心理",
+            "node_type": "观点",
+            "reason": "文本描述实验主义的功能，应作为观点节点",
+            "severity": "high"
+          },
+          {
+            "node": "市侩",
+            "node_type": "概念",
+            "reason": "文本中反复出现的关键概念，用于描述实验主义的阶级基础",
+            "severity": "medium"
+          },
+          {
+            "node": "中国的第三阶级",
+            "node_type": "阵营/群体",
+            "reason": "文本中明确提及的群体，与实验主义的革命性相关",
+            "severity": "medium"
+          },
+          {
+            "node": "欧美的资产阶级",
+            "node_type": "阵营/群体",
+            "reason": "文本中明确提及的群体，与实验主义的反动性相关",
+            "severity": "medium"
+          },
+          {
+            "node": "劳工阶级",
+            "node_type": "阵营/群体",
+            "reason": "文本中提及的群体，作为欧美资产阶级的对立面",
+            "severity": "medium"
+          },
+          {
+            "node": "军阀",
+            "node_type": "阵营/群体",
+            "reason": "文本中提及的群体，作为中国第三阶级的压迫者",
+            "severity": "low"
+          },
+          {
+            "node": "科学方法",
+            "node_type": "方法",
+            "reason": "文本中提及实验主义带来的内容，应作为实体",
+            "severity": "medium"
+          },
+          {
+            "node": "科学的真理",
+            "node_type": "概念",
+            "reason": "文本中与实用知识相对的概念，应作为实体",
+            "severity": "medium"
+          },
+          {
+            "node": "多元论",
+            "node_type": "概念",
+            "reason": "文本中用于描述实验主义的特征，应作为实体",
+            "severity": "low"
+          },
+          {
+            "node": "改良派",
+            "node_type": "概念",
+            "reason": "文本中用于描述实验主义的特征，应作为实体",
+            "severity": "low"
+          }
+        ],
+        "missing_links": [
+          {
+            "source": "实验主义",
+            "relation": "在中国是",
+            "target": "革命的",
+            "reason": "文本明确表述实验主义在中国的性质",
+            "severity": "high"
+          },
+          {
+            "source": "实验主义",
+            "relation": "在欧美是",
+            "target": "反动的",
+            "reason": "文本明确表述实验主义在欧美的性质",
+            "severity": "high"
+          },
+          {
+            "source": "实验主义",
+            "relation": "是",
+            "target": "维持现状的市侩哲学",
+            "reason": "文本明确评价实验主义",
+            "severity": "high"
+          },
+          {
+            "source": "实验主义",
+            "relation": "否认",
+            "target": "一切理论的确定价值",
+            "reason": "文本描述实验主义的特性",
+            "severity": "high"
+          },
+          {
+            "source": "实验主义",
+            "relation": "是",
+            "target": "多元论，是改良派",
+            "reason": "文本结尾总结",
+            "severity": "high"
+          },
+          {
+            "source": "实验主义带着科学方法到中国",
+            "relation": "是",
+            "target": "一种历史的误会",
+            "reason": "文本明确表述",
+            "severity": "high"
+          },
+          {
+            "source": "实验主义",
+            "relation": "只能承认",
+            "target": "实用的科学知识及方法",
+            "reason": "文本明确表述实验主义的局限",
+            "severity": "high"
+          },
+          {
+            "source": "实验主义",
+            "relation": "不能承认",
+            "target": "科学的真理",
+            "reason": "文本明确表述实验主义的局限",
+            "severity": "high"
+          },
+          {
+            "source": "实验主义",
+            "relation": "是",
+            "target": "欧洲资本主义社会的实用哲学，尤是'美国主义'",
+            "reason": "文本明确界定实验主义的社会根源",
+            "severity": "high"
+          },
+          {
+            "source": "实验主义",
+            "relation": "竭力综合整理",
+            "target": "现代市侩的心理",
+            "reason": "文本描述实验主义的功能",
+            "severity": "high"
+          },
+          {
+            "source": "实验主义",
+            "relation": "属于",
+            "target": "市侩哲学",
+            "reason": "文本将实验主义与市侩哲学关联",
+            "severity": "medium"
+          },
+          {
+            "source": "实验主义",
+            "relation": "服务于",
+            "target": "中国的第三阶级",
+            "reason": "文本指出实验主义在中国服务于第三阶级的革命需要",
+            "severity": "medium"
+          },
+          {
+            "source": "实验主义",
+            "relation": "服务于",
+            "target": "欧美的资产阶级",
+            "reason": "文本指出实验主义在欧美服务于资产阶级的反动需要",
+            "severity": "medium"
+          },
+          {
+            "source": "实验主义",
+            "relation": "反对",
+            "target": "劳工阶级",
+            "reason": "文本指出实验主义在欧美用于应付劳工阶级的反抗",
+            "severity": "medium"
+          },
+          {
+            "source": "实验主义",
+            "relation": "反对",
+            "target": "彻底改造现存制度",
+            "reason": "文本指出实验主义反对彻底改造，主张逐段应付",
+            "severity": "medium"
+          },
+          {
+            "source": "实验主义",
+            "relation": "主张",
+            "target": "现状可以改造，却不必根本更动现存的制度",
+            "reason": "文本明确表述实验主义的改良主张",
+            "severity": "high"
+          }
+        ],
+        "normalization_issues": [],
+        "relation_type_issues": [],
+        "polarity_issues": [],
+        "evidence_issues": [],
+        "rhetorical_device_issues": [
+          {
+            "item": "实验主义带着科学方法到中国。其实这是一种历史的误会。",
+            "problem": "使用了'历史的误会'这一修辞性表达，但未标注为修辞手法",
+            "suggested_fix": "添加修辞节点，类型为'比喻/类比'，literal_target为'实验主义被误认为带来科学方法'，论证功能为'否定实验主义的科学价值'",
+            "severity": "medium"
+          },
+          {
+            "item": "实验主义是欧洲资本主义社会的实用哲学，尤是'美国主义'。",
+            "problem": "使用了'美国主义'这一标签化修辞，但未标注",
+            "suggested_fix": "添加修辞节点，类型为'标签化'，literal_target为'实验主义'，论证功能为'将实验主义与美国资本主义绑定，暗示其反动性'",
+            "severity": "medium"
+          },
+          {
+            "item": "市侩所需要的是'这样亦有些，那样亦有些'：一点儿科学，一点儿宗教，一点儿道德，一点儿世故人情，一点儿技术知识，色色都全，可是色色都不彻底，这样才能与世周旋。",
+            "problem": "使用了讽刺性归纳，但未标注为修辞手法",
+            "suggested_fix": "添加修辞节点，类型为'讽刺'，literal_target为'市侩的实用主义态度'，论证功能为'批判实验主义的折中性和不彻底性'",
+            "severity": "medium"
+          },
+          {
+            "item": "不然呢，所得的结论，便是彻底改造现存制度，而且非用革命方法不可—那多么可怕呵！",
+            "problem": "使用了归谬构造，但未标注为修辞手法",
+            "suggested_fix": "添加修辞节点，类型为'归谬'，literal_target为'实验主义反对彻底改造的逻辑'，论证功能为'揭示实验主义害怕革命的心理'",
+            "severity": "medium"
+          }
+        ]
+      }
+    },
+    {
+      "segment_id": "瞿秋白_001_3dbfe529_s0003",
+      "high": 15,
+      "medium": 2,
+      "low": 0,
+      "issues": {
+        "type_errors": [],
+        "attribution_errors": [],
+        "direction_errors": [],
+        "missing_nodes": [
+          {
+            "node": "实验主义",
+            "node_type": "主义/学说/理论",
+            "reason": "文本核心讨论对象，应作为实体抽取",
+            "severity": "high"
+          },
+          {
+            "node": "实验主义的优点",
+            "node_type": "观点",
+            "reason": "文本明确列举了实验主义的优点，应作为观点节点",
+            "severity": "high"
+          },
+          {
+            "node": "实验主义的弱点",
+            "node_type": "观点",
+            "reason": "文本明确指出了实验主义的弱点，应作为观点节点",
+            "severity": "high"
+          },
+          {
+            "node": "实验主义的宇宙观是唯心论的",
+            "node_type": "观点",
+            "reason": "这是对实验主义弱点的具体说明，应作为观点",
+            "severity": "high"
+          },
+          {
+            "node": "一切理论不是解释疑谜的答案，而只是工具",
+            "node_type": "观点",
+            "reason": "这是实验主义的核心观点之一，应作为观点节点",
+            "severity": "high"
+          },
+          {
+            "node": "真理的标准是有益于我们",
+            "node_type": "观点",
+            "reason": "文本多次强调这一观点，应作为观点节点",
+            "severity": "high"
+          },
+          {
+            "node": "真理自身并无何等价值",
+            "node_type": "观点",
+            "reason": "这是实验主义关于真理的另一个重要观点",
+            "severity": "high"
+          },
+          {
+            "node": "詹姆士",
+            "node_type": "人物",
+            "reason": "文本引用了詹姆士的话，应作为人物实体",
+            "severity": "high"
+          },
+          {
+            "node": "上帝",
+            "node_type": "概念",
+            "reason": "文本中作为例子出现，应作为概念",
+            "severity": "medium"
+          },
+          {
+            "node": "宗教",
+            "node_type": "概念",
+            "reason": "文本中作为例子出现，应作为概念",
+            "severity": "medium"
+          }
+        ],
+        "missing_links": [
+          {
+            "source": "实验主义",
+            "relation": "有",
+            "target": "实验主义的优点",
+            "reason": "文本明确说这些是实验主义的优点",
+            "severity": "high"
+          },
+          {
+            "source": "实验主义",
+            "relation": "有",
+            "target": "实验主义的弱点",
+            "reason": "文本明确说这些是实验主义的弱点",
+            "severity": "high"
+          },
+          {
+            "source": "实验主义的弱点",
+            "relation": "具体表现为",
+            "target": "实验主义的宇宙观是唯心论的",
+            "reason": "文本将宇宙观唯心论作为弱点的具体内容",
+            "severity": "high"
+          },
+          {
+            "source": "实验主义",
+            "relation": "主张",
+            "target": "一切理论不是解释疑谜的答案，而只是工具",
+            "reason": "这是实验主义的主张",
+            "severity": "high"
+          },
+          {
+            "source": "实验主义",
+            "relation": "主张",
+            "target": "真理的标准是有益于我们",
+            "reason": "这是实验主义的主张",
+            "severity": "high"
+          },
+          {
+            "source": "实验主义",
+            "relation": "主张",
+            "target": "真理自身并无何等价值",
+            "reason": "这是实验主义的主张",
+            "severity": "high"
+          },
+          {
+            "source": "詹姆士",
+            "relation": "提出",
+            "target": "那一种理论对于我们最有供献...实验主义方认为是真实的",
+            "reason": "文本引用詹姆士的话作为实验主义观点的来源",
+            "severity": "high"
+          }
+        ],
+        "normalization_issues": [],
+        "relation_type_issues": [],
+        "polarity_issues": [],
+        "evidence_issues": [],
+        "rhetorical_device_issues": []
+      }
+    },
+    {
+      "segment_id": "瞿秋白_001_3dbfe529_s0005",
+      "high": 6,
+      "medium": 12,
+      "low": 2,
+      "issues": {
+        "type_errors": [],
+        "attribution_errors": [],
+        "direction_errors": [],
+        "missing_nodes": [
+          {
+            "node": "现实世界只是人的种种色色的感觉之总和",
+            "node_type": "观点",
+            "reason": "这是詹姆士（通过作者转述）的核心观点，应作为观点节点抽取",
+            "severity": "high"
+          },
+          {
+            "node": "现实世界的内容，可以由我们自己选择",
+            "node_type": "观点",
+            "reason": "这是对詹姆士观点的进一步阐述，应作为观点节点",
+            "severity": "high"
+          },
+          {
+            "node": "外物都成了我们任意造出来的东西",
+            "node_type": "观点",
+            "reason": "这是作者对詹姆士观点的归纳，应作为观点节点",
+            "severity": "high"
+          },
+          {
+            "node": "感觉方面的自由选择能力",
+            "node_type": "概念",
+            "reason": "詹姆士提出的重要概念，应作为概念节点",
+            "severity": "medium"
+          },
+          {
+            "node": "现实世界",
+            "node_type": "概念",
+            "reason": "文本中反复出现的核心概念，应作为概念节点",
+            "severity": "medium"
+          },
+          {
+            "node": "感觉",
+            "node_type": "概念",
+            "reason": "文本中关键概念，应作为概念节点",
+            "severity": "medium"
+          },
+          {
+            "node": "经验",
+            "node_type": "概念",
+            "reason": "文本中关键概念，应作为概念节点",
+            "severity": "medium"
+          },
+          {
+            "node": "观念",
+            "node_type": "概念",
+            "reason": "文本中关键概念，应作为概念节点",
+            "severity": "medium"
+          },
+          {
+            "node": "詹姆士",
+            "node_type": "人物",
+            "reason": "文本中明确引用的人物，应作为人物节点",
+            "severity": "high"
+          },
+          {
+            "node": "我们（人类）",
+            "node_type": "阵营/群体",
+            "reason": "文本中多次出现的泛指主体，应作为群体节点",
+            "severity": "low"
+          },
+          {
+            "node": "一块大理石，要自己拿来雕一个形象出来",
+            "node_type": "比喻/类比",
+            "reason": "詹姆士使用的比喻，应作为比喻/类比节点",
+            "severity": "medium"
+          }
+        ],
+        "missing_links": [
+          {
+            "source": "詹姆士",
+            "relation": "主张",
+            "target": "现实世界只是人的种种色色的感觉之总和",
+            "reason": "文本明确将这一观点归于詹姆士",
+            "severity": "high"
+          },
+          {
+            "source": "詹姆士",
+            "relation": "主张",
+            "target": "感觉方面的自由选择能力",
+            "reason": "文本引用詹姆士的话说明这一概念",
+            "severity": "high"
+          },
+          {
+            "source": "现实世界只是人的种种色色的感觉之总和",
+            "relation": "蕴含",
+            "target": "现实世界的内容，可以由我们自己选择",
+            "reason": "前者是后者的前提",
+            "severity": "medium"
+          },
+          {
+            "source": "现实世界的内容，可以由我们自己选择",
+            "relation": "蕴含",
+            "target": "外物都成了我们任意造出来的东西",
+            "reason": "后者是前者的推论",
+            "severity": "medium"
+          },
+          {
+            "source": "感觉",
+            "relation": "来源",
+            "target": "现实世界",
+            "reason": "文本认为现实世界是感觉的总和",
+            "severity": "medium"
+          },
+          {
+            "source": "经验",
+            "relation": "产生",
+            "target": "观念",
+            "reason": "文本提到经验造成观念",
+            "severity": "medium"
+          },
+          {
+            "source": "我们（人类）",
+            "relation": "具有",
+            "target": "利益和需要",
+            "reason": "文本提到人类凭利益和需要决定注意哪些感觉",
+            "severity": "low"
+          },
+          {
+            "source": "一块大理石，要自己拿来雕一个形象出来",
+            "relation": "比喻",
+            "target": "感觉方面的自由选择能力",
+            "reason": "詹姆士用大理石比喻感觉材料，雕形象比喻选择和组织",
+            "severity": "medium"
+          }
+        ],
+        "normalization_issues": [],
+        "relation_type_issues": [],
+        "polarity_issues": [],
+        "evidence_issues": [],
+        "rhetorical_device_issues": [
+          {
+            "item": "一块大理石，要自己拿来雕一个形象出来",
+            "problem": "未识别为比喻/类比节点",
+            "suggested_fix": "添加为比喻/类比节点，literal_target为'感觉方面的自由选择能力'",
+            "severity": "medium"
+          }
+        ]
+      }
+    },
+    {
+      "segment_id": "瞿秋白_001_3dbfe529_s0007",
+      "high": 18,
+      "medium": 3,
+      "low": 0,
+      "issues": {
+        "type_errors": [],
+        "attribution_errors": [],
+        "direction_errors": [],
+        "missing_nodes": [
+          {
+            "node": "马克思主义",
+            "node_type": "主义/学说/理论",
+            "reason": "文本中多次提及“马克思主义”，并阐述其观点，应作为实体抽取。",
+            "severity": "high"
+          },
+          {
+            "node": "互辩律的唯物论",
+            "node_type": "主义/学说/理论",
+            "reason": "文本中明确提及“互辩律的唯物论”，并阐述其根本观念，应作为实体。",
+            "severity": "high"
+          },
+          {
+            "node": "实验主义",
+            "node_type": "主义/学说/理论",
+            "reason": "文本提到“实验主义的积极精神早已包含在互辩律的唯物论里”，应作为实体。",
+            "severity": "high"
+          },
+          {
+            "node": "科学的真理",
+            "node_type": "概念",
+            "reason": "文本强调“马克思主义所注重的是科学的真理，而并非利益的真理”，应作为概念。",
+            "severity": "medium"
+          },
+          {
+            "node": "利益的真理",
+            "node_type": "概念",
+            "reason": "与“科学的真理”对比出现，应作为概念。",
+            "severity": "medium"
+          },
+          {
+            "node": "各种观念是由于各种感觉所引起的",
+            "node_type": "观点",
+            "reason": "文本引用马克思主义的观点，应作为观点实体。",
+            "severity": "high"
+          },
+          {
+            "node": "感觉乃是人对于外界环境直接起的反应作用",
+            "node_type": "观点",
+            "reason": "同上，是马克思主义观点的一部分。",
+            "severity": "high"
+          },
+          {
+            "node": "人的行为大致依照着自己的需要和利益而定",
+            "node_type": "观点",
+            "reason": "同上。",
+            "severity": "high"
+          },
+          {
+            "node": "每一社会阶级对于自己有益的真理格外接近",
+            "node_type": "观点",
+            "reason": "文本中“仅仅承认”的内容，是马克思主义承认但未完全肯定的观点。",
+            "severity": "high"
+          },
+          {
+            "node": "互辩律的唯物论的根本观念",
+            "node_type": "观点",
+            "reason": "文本明确阐述“互辩律的唯物论的根本观念，是承认我们对于外物的概念确与外物相符合”，应作为观点。",
+            "severity": "high"
+          },
+          {
+            "node": "现实只有一个，真理亦只有一个",
+            "node_type": "观点",
+            "reason": "文本中明确陈述的观点。",
+            "severity": "high"
+          },
+          {
+            "node": "我们的观念反映客观的现实很正确的时候，我们的行动便不致于和现实相冲突",
+            "node_type": "观点",
+            "reason": "文本中明确陈述的观点。",
+            "severity": "high"
+          }
+        ],
+        "missing_links": [
+          {
+            "source": "马克思主义",
+            "relation": "主张",
+            "target": "各种观念是由于各种感觉所引起的",
+            "reason": "文本明确说“马克思主义以为”，应建立主张关系。",
+            "severity": "high"
+          },
+          {
+            "source": "马克思主义",
+            "relation": "主张",
+            "target": "感觉乃是人对于外界环境直接起的反应作用",
+            "reason": "同上。",
+            "severity": "high"
+          },
+          {
+            "source": "马克思主义",
+            "relation": "主张",
+            "target": "人的行为大致依照着自己的需要和利益而定",
+            "reason": "同上。",
+            "severity": "high"
+          },
+          {
+            "source": "马克思主义",
+            "relation": "承认",
+            "target": "每一社会阶级对于自己有益的真理格外接近",
+            "reason": "文本说“仅仅承认”，表示马克思主义承认此观点但有限度。",
+            "severity": "high"
+          },
+          {
+            "source": "互辩律的唯物论",
+            "relation": "包含",
+            "target": "实验主义",
+            "reason": "文本说“实验主义的积极精神早已包含在互辩律的唯物论里”。",
+            "severity": "high"
+          },
+          {
+            "source": "互辩律的唯物论",
+            "relation": "主张",
+            "target": "互辩律的唯物论的根本观念",
+            "reason": "文本阐述其根本观念。",
+            "severity": "high"
+          },
+          {
+            "source": "互辩律的唯物论",
+            "relation": "主张",
+            "target": "现实只有一个，真理亦只有一个",
+            "reason": "文本中此观点属于互辩律的唯物论。",
+            "severity": "high"
+          },
+          {
+            "source": "互辩律的唯物论",
+            "relation": "主张",
+            "target": "我们的观念反映客观的现实很正确的时候，我们的行动便不致于和现实相冲突",
+            "reason": "文本中此观点属于互辩律的唯物论。",
+            "severity": "high"
+          },
+          {
+            "source": "马克思主义",
+            "relation": "区别于",
+            "target": "互辩律的唯物论",
+            "reason": "文本开头说“的唯物主义（Lo materialism dialectique）很相近。其实不然”，暗示二者有区别，但后续又强调互辩律的唯物论包含实验主义，关系复杂，需谨慎。",
+            "severity": "medium"
+          }
+        ],
+        "normalization_issues": [],
+        "relation_type_issues": [],
+        "polarity_issues": [],
+        "evidence_issues": [],
+        "rhetorical_device_issues": []
+      }
+    }
+  ],
+  "total_high": 152
+}

@@ -1,0 +1,306 @@
+{
+  "metadata": {
+    "schema_version": "lite_v2.0",
+    "article_id": "章演存_000_aa7de44c",
+    "article_title": "张君劢主张的人生观对科学的五个异点",
+    "source_author": "章演存",
+    "section_title": "",
+    "section_author": "",
+    "segment_id": "章演存_000_aa7de44c_s0003",
+    "segment_index": 3,
+    "source_file": "E:\\1研究生\\岭南大学\\论文毕业\\capstone\\资料\\新的内容开始了\\local_upload\\input_retry\\章演存.txt"
+  },
+  "entities": [
+    {
+      "id": "e1",
+      "name": "人生观",
+      "canonical_name": "人生观",
+      "type": "概念",
+      "evidence": "人生观也一样可以分析出动机和理由来的",
+      "confidence": 1.0
+    },
+    {
+      "id": "e2",
+      "name": "科学",
+      "canonical_name": "科学",
+      "type": "概念",
+      "evidence": "科学为因果律所支配",
+      "confidence": 1.0
+    },
+    {
+      "id": "e3",
+      "name": "因果律",
+      "canonical_name": "因果律",
+      "type": "概念",
+      "evidence": "科学为因果律所支配",
+      "confidence": 1.0
+    },
+    {
+      "id": "e4",
+      "name": "自由意志",
+      "canonical_name": "自由意志",
+      "type": "概念",
+      "evidence": "人生观则为自由意志的",
+      "confidence": 1.0
+    },
+    {
+      "id": "e5",
+      "name": "玄学",
+      "canonical_name": "玄学",
+      "type": "概念",
+      "evidence": "玄学原来是怕泄漏玄机的",
+      "confidence": 1.0
+    },
+    {
+      "id": "e6",
+      "name": "释迦",
+      "canonical_name": "释迦牟尼",
+      "type": "人物",
+      "evidence": "释迦的人生观",
+      "confidence": 0.9
+    },
+    {
+      "id": "e7",
+      "name": "叔本华",
+      "canonical_name": "叔本华",
+      "type": "人物",
+      "evidence": "叔本华的人生观",
+      "confidence": 1.0
+    },
+    {
+      "id": "e8",
+      "name": "孔",
+      "canonical_name": "孔子",
+      "type": "人物",
+      "evidence": "孔、墨、耶稣",
+      "confidence": 0.9
+    },
+    {
+      "id": "e9",
+      "name": "墨",
+      "canonical_name": "墨子",
+      "type": "人物",
+      "evidence": "孔、墨、耶稣",
+      "confidence": 0.9
+    },
+    {
+      "id": "e10",
+      "name": "耶稣",
+      "canonical_name": "耶稣",
+      "type": "人物",
+      "evidence": "孔、墨、耶稣",
+      "confidence": 1.0
+    },
+    {
+      "id": "e11",
+      "name": "倭伊铿",
+      "canonical_name": "倭伊铿",
+      "type": "人物",
+      "evidence": "及访倭伊铿",
+      "confidence": 1.0
+    },
+    {
+      "id": "e12",
+      "name": "在君",
+      "canonical_name": "丁文江",
+      "type": "人物",
+      "evidence": "张君答在君说",
+      "confidence": 0.8
+    }
+  ],
+  "claims": [
+    {
+      "id": "c1",
+      "speaker": "章演存",
+      "claim": "张君劢没有告诉我们人生观是全体的——不能分割的理由",
+      "target": "张君劢",
+      "claim_type": "论战策略批评",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "但张君没有告诉我们人生观是全体的——不能分割的理由",
+      "confidence": 1.0
+    },
+    {
+      "id": "c2",
+      "speaker": "章演存",
+      "claim": "玄学原来是怕泄漏玄机的",
+      "target": "玄学",
+      "claim_type": "论战策略批评",
+      "claim_status": "作者讽刺性归纳",
+      "polarity": "negative",
+      "evidence": "我们也只得说玄学原来是怕泄漏玄机的",
+      "confidence": 0.8
+    },
+    {
+      "id": "c3",
+      "speaker": "章演存",
+      "claim": "张君劢已经把释迦和叔本华的人生观分析出动机和理由，这证明人生观受因果律支配",
+      "target": "张君劢",
+      "claim_type": "反驳性主张",
+      "claim_status": "作者推论",
+      "polarity": "negative",
+      "evidence": "张君已经把释迦的人生观和叔本华的人生观分析出一种动机和理由来了，推到孔、墨、耶稣，也何尝没有动机，没有理由？动机和理由就是因，他们的人生观就是果",
+      "confidence": 0.9
+    },
+    {
+      "id": "c4",
+      "speaker": "张君劢",
+      "claim": "孔席何以不暇暖，墨突何以不得黔，耶稣何以死于十字架，释迦何以苦身修行：凡此者皆于良心之自动，而非有使之然者也。乃至就一人言之，所谓悔也，改过自新也，责任心也，亦非因果律所能解释，而为之主体者，则在自身而已",
+      "target": "因果律",
+      "claim_type": "知识论主张",
+      "claim_status": "直接引用",
+      "polarity": "negative",
+      "evidence": "但他偏又说“孔席何以不暇暖，墨突何以不得黔，耶稣何以死于十字架，释迦何以苦身修行：凡此者皆于良心之自动，而非有使之然者也。乃至就一人言之，所谓悔也，改过自新也，责任心也，亦非因果律所能解释，而为之主体者，则在自身而已。”",
+      "confidence": 1.0
+    },
+    {
+      "id": "c5",
+      "speaker": "章演存",
+      "claim": "张君劢前后自相矛盾",
+      "target": "张君劢",
+      "claim_type": "论战策略批评",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "张君竟不怕前后自相矛盾吗？",
+      "confidence": 1.0
+    },
+    {
+      "id": "c6",
+      "speaker": "章演存",
+      "claim": "玄学本来不受论理学的支配，可以说‘矛盾是一件事，人生观又是一件事’",
+      "target": "玄学",
+      "claim_type": "论战策略批评",
+      "claim_status": "作者讽刺性归纳",
+      "polarity": "negative",
+      "evidence": "或者玄学本来不受论理学的支配，可以说“矛盾是一件事，人生观又是一件事”吗？",
+      "confidence": 0.9
+    },
+    {
+      "id": "c7",
+      "speaker": "张君劢",
+      "claim": "及访倭伊铿，一见倾心，于是将吾国际政治学束之高阁。何也？胸中有所触，不发舒不快矣。自是以来，方潜心于西方学术之源流",
+      "target": "倭伊铿",
+      "claim_type": "历史解释",
+      "claim_status": "直接引用",
+      "polarity": "neutral",
+      "evidence": "张君答在君说：“及访倭伊铿，一见倾心，于是将吾国际政治学束之高阁。何也？胸中有所触，不发舒不快矣。自是以来，方潜心于西方学术之源流。”",
+      "confidence": 1.0
+    },
+    {
+      "id": "c8",
+      "speaker": "章演存",
+      "claim": "张君劢自承‘见倭伊铿’‘胸中有所触’是因：‘将国际政治学束之高阁’、‘潜心于西方学术之源流’是果，这证明张君劢的人生观已经受了因果律的支配",
+      "target": "张君劢",
+      "claim_type": "反驳性主张",
+      "claim_status": "作者推论",
+      "polarity": "negative",
+      "evidence": "张君自承“见倭伊铿”“胸中有所触”是因：“将国际政治学束之高阁”。“潜心于西方学术之源流”是果。这不是张君的人生观已经受了因果律的支配吗？",
+      "confidence": 0.9
+    }
+  ],
+  "relations": [
+    {
+      "id": "r1",
+      "head": "科学",
+      "head_type": "概念",
+      "relation": "属于",
+      "tail": "因果律",
+      "tail_type": "概念",
+      "polarity": "neutral",
+      "evidence": "科学为因果律所支配",
+      "confidence": 0.9
+    },
+    {
+      "id": "r2",
+      "head": "人生观",
+      "head_type": "概念",
+      "relation": "属于",
+      "tail": "自由意志",
+      "tail_type": "概念",
+      "polarity": "neutral",
+      "evidence": "人生观则为自由意志的",
+      "confidence": 0.9
+    }
+  ],
+  "definitions": [],
+  "citations": [
+    {
+      "id": "cit1",
+      "citer": "章演存",
+      "quoted_author": "张君劢",
+      "quoted_work": "",
+      "quoted_claim": "人生观也一样可以分析出动机和理由来的，不过分析出来还是无用的",
+      "function": "作为批评对象",
+      "evidence": "这是张君告诉我们“人生观也一样可以分析出动机和理由来的，不过分析出来还是无用的”",
+      "confidence": 1.0
+    },
+    {
+      "id": "cit2",
+      "citer": "章演存",
+      "quoted_author": "张君劢",
+      "quoted_work": "",
+      "quoted_claim": "孔席何以不暇暖，墨突何以不得黔，耶稣何以死于十字架，释迦何以苦身修行：凡此者皆于良心之自动，而非有使之然者也。乃至就一人言之，所谓悔也，改过自新也，责任心也，亦非因果律所能解释，而为之主体者，则在自身而已",
+      "function": "作为批评对象",
+      "evidence": "但他偏又说“孔席何以不暇暖，墨突何以不得黔，耶稣何以死于十字架，释迦何以苦身修行：凡此者皆于良心之自动，而非有使之然者也。乃至就一人言之，所谓悔也，改过自新也，责任心也，亦非因果律所能解释，而为之主体者，则在自身而已。”",
+      "confidence": 1.0
+    },
+    {
+      "id": "cit3",
+      "citer": "章演存",
+      "quoted_author": "张君劢",
+      "quoted_work": "",
+      "quoted_claim": "及访倭伊铿，一见倾心，于是将吾国际政治学束之高阁。何也？胸中有所触，不发舒不快矣。自是以来，方潜心于西方学术之源流",
+      "function": "作为批评对象",
+      "evidence": "张君答在君说：“及访倭伊铿，一见倾心，于是将吾国际政治学束之高阁。何也？胸中有所触，不发舒不快矣。自是以来，方潜心于西方学术之源流。”",
+      "confidence": 1.0
+    }
+  ],
+  "rhetorical_devices": [
+    {
+      "id": "rh1",
+      "expression": "玄学原来是怕泄漏玄机的",
+      "device_type": "讽刺",
+      "literal_target": "玄学",
+      "function": "讽刺玄学不愿公开其理论依据",
+      "evidence": "我们也只得说玄学原来是怕泄漏玄机的",
+      "confidence": 0.9
+    }
+  ],
+  "uncertainties": [
+    {
+      "item": "entity e13 '在君' 的 canonical_name 是否确定为 '丁文江'",
+      "reason": "文本中只出现 '在君'，未出现全名 '丁文江'，但根据论战背景可推断。"
+    },
+    {
+      "item": "entity e7 '释迦' 的 canonical_name 是否确定为 '释迦牟尼'",
+      "reason": "文本中只出现 '释迦'，未出现全名 '释迦牟尼'，但根据常识可推断。"
+    },
+    {
+      "item": "entity e9 '孔' 的 canonical_name 是否确定为 '孔子'",
+      "reason": "文本中只出现 '孔'，未出现全名 '孔子'，但根据常识可推断。"
+    },
+    {
+      "item": "entity e10 '墨' 的 canonical_name 是否确定为 '墨子'",
+      "reason": "文本中只出现 '墨'，未出现全名 '墨子'，但根据常识可推断。"
+    }
+  ],
+  "_meta": {
+    "status": "success",
+    "stage": "extract",
+    "model": "deepseek-ai/DeepSeek-V4-Flash",
+    "base_url": "https://api.siliconflow.cn/v1",
+    "prompt_version": "extract_prompt_v2.0",
+    "schema_version": "lite_v2.0",
+    "segment_id": "章演存_000_aa7de44c_s0003",
+    "article_id": "章演存_000_aa7de44c",
+    "char_start": 1521,
+    "char_end": 2118,
+    "raw_path": "E:\\1研究生\\岭南大学\\论文毕业\\capstone\\资料\\新的内容开始了\\local_upload\\kg_runs\\章演存\\raw_outputs\\extract\\章演存_000_aa7de44c_s0003.txt",
+    "parsed_at": "2026-05-19T16:06:55",
+    "started_at": "2026-05-19T16:03:22",
+    "elapsed_seconds": 212.944,
+    "strict_evidence_check": true,
+    "drop_unsupported_evidence": true,
+    "request_timeout_seconds": 180
+  }
+}

@@ -1,0 +1,266 @@
+{
+  "metadata": {
+    "schema_version": "lite_v2.0",
+    "article_id": "瞿秋白_001_3dbfe529",
+    "article_title": "实验主义与革命哲学",
+    "source_author": "瞿秋白",
+    "section_title": "",
+    "section_author": "",
+    "segment_id": "瞿秋白_001_3dbfe529_s0008",
+    "segment_index": 8,
+    "source_file": "E:\\1研究生\\岭南大学\\论文毕业\\capstone\\资料\\新的内容开始了\\local_upload\\input_w2\\瞿秋白.txt"
+  },
+  "entities": [
+    {
+      "id": "e1",
+      "name": "瞿秋白",
+      "canonical_name": "瞿秋白",
+      "type": "人物",
+      "evidence": "著客观的趋向。我们不能要做什么便做什么：现实生活处处时时矫正我们的行动。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e2",
+      "name": "实验主义",
+      "canonical_name": "实验主义",
+      "type": "主义/学说/理论",
+      "evidence": "不能像实验主义那样，只能暂时有益于我们的算真理。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e3",
+      "name": "科学",
+      "canonical_name": "科学",
+      "type": "概念",
+      "evidence": "我们因此要求科学的真理—确定的真理，求此变易之中“不易”。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e4",
+      "name": "真理",
+      "canonical_name": "真理",
+      "type": "概念",
+      "evidence": "某种意见是真理，并不因为他对于我们有益；这种意见对于我们有益，却因为他是真理。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e5",
+      "name": "客观的现实世界",
+      "canonical_name": "客观现实世界",
+      "type": "概念",
+      "evidence": "客观的现实世界确是变易不息的。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e6",
+      "name": "科学的真理",
+      "canonical_name": "科学真理",
+      "type": "概念",
+      "evidence": "我们得了科学的真理、客观世界的定律之后，才能彻底的改造社会。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e7",
+      "name": "客观世界的定律",
+      "canonical_name": "客观世界定律",
+      "type": "概念",
+      "evidence": "我们得了科学的真理、客观世界的定律之后，才能彻底的改造社会。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e8",
+      "name": "妥协主义",
+      "canonical_name": "妥协主义",
+      "type": "主义/学说/理论",
+      "evidence": "实验主义既然只承认有益的方是真理，他便能暗示社会意识以近视的浅见的妥协主义。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e9",
+      "name": "革命哲学",
+      "canonical_name": "革命哲学",
+      "type": "主义/学说/理论",
+      "evidence": "他决不是革命的哲学。",
+      "confidence": 1.0
+    }
+  ],
+  "claims": [
+    {
+      "id": "c1",
+      "speaker": "瞿秋白",
+      "claim": "我们不能要做什么便做什么：现实生活处处时时矫正我们的行动。",
+      "target": "客观现实",
+      "claim_type": "知识论主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "我们不能要做什么便做什么：现实生活处处时时矫正我们的行动。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c2",
+      "speaker": "瞿秋白",
+      "claim": "我们的观念反映客观的现实很正确的时候，我们的行动便不致于和现实相冲突，不致于“碰顶子”。",
+      "target": "观念与行动的关系",
+      "claim_type": "知识论主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "我们的观念反映客观的现实很正确的时候，我们的行动便不致于和现实相冲突，不致于“碰顶子”。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c3",
+      "speaker": "瞿秋白",
+      "claim": "某种意见是真理，并不因为他对于我们有益；这种意见对于我们有益，却因为他是真理。",
+      "target": "真理与有益的关系",
+      "claim_type": "知识论主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "某种意见是真理，并不因为他对于我们有益；这种意见对于我们有益，却因为他是真理。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c4",
+      "speaker": "瞿秋白",
+      "claim": "客观的现实世界确是变易不息的，我们因此要求科学的真理—确定的真理，求此变易之中“不易”。",
+      "target": "科学真理",
+      "claim_type": "知识论主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "客观的现实世界确是变易不息的，我们因此要求科学的真理—确定的真理，求此变易之中“不易”。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c5",
+      "speaker": "瞿秋白",
+      "claim": "不能像实验主义那样，只能暂时有益于我们的算真理。",
+      "target": "实验主义",
+      "claim_type": "反驳性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "不能像实验主义那样，只能暂时有益于我们的算真理。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c6",
+      "speaker": "瞿秋白",
+      "claim": "我们得了科学的真理、客观世界的定律之后，才能彻底的改造社会，不能安于琐屑的应付。",
+      "target": "科学真理与改造社会",
+      "claim_type": "社会理论主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "我们得了科学的真理、客观世界的定律之后，才能彻底的改造社会，不能安于琐屑的应付。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c7",
+      "speaker": "瞿秋白",
+      "claim": "实验主义既然只承认有益的方是真理，他便能暗示社会意识以近视的浅见的妥协主义，他决不是革命的哲学。",
+      "target": "实验主义",
+      "claim_type": "价值评价",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "实验主义既然只承认有益的方是真理，他便能暗示社会意识以近视的浅见的妥协主义，他决不是革命的哲学。",
+      "confidence": 1.0
+    }
+  ],
+  "relations": [
+    {
+      "id": "r1",
+      "head": "瞿秋白",
+      "head_type": "人物",
+      "relation": "批评",
+      "relation_subtype": "概念混淆批评",
+      "tail": "实验主义",
+      "tail_type": "主义/学说/理论",
+      "polarity": "negative",
+      "evidence": "不能像实验主义那样，只能暂时有益于我们的算真理。",
+      "confidence": 1.0
+    },
+    {
+      "id": "r2",
+      "head": "瞿秋白",
+      "head_type": "人物",
+      "relation": "批评",
+      "relation_subtype": "道德指责",
+      "tail": "实验主义",
+      "tail_type": "主义/学说/理论",
+      "polarity": "negative",
+      "evidence": "实验主义既然只承认有益的方是真理，他便能暗示社会意识以近视的浅见的妥协主义，他决不是革命的哲学。",
+      "confidence": 1.0
+    },
+    {
+      "id": "r3",
+      "head": "科学的真理",
+      "head_type": "概念",
+      "relation": "导致",
+      "relation_subtype": "不适用",
+      "tail": "改造社会",
+      "tail_type": "概念",
+      "polarity": "positive",
+      "evidence": "我们得了科学的真理、客观世界的定律之后，才能彻底的改造社会。",
+      "confidence": 1.0
+    },
+    {
+      "id": "r4",
+      "head": "实验主义",
+      "head_type": "主义/学说/理论",
+      "relation": "导致",
+      "relation_subtype": "不适用",
+      "tail": "妥协主义",
+      "tail_type": "主义/学说/理论",
+      "polarity": "negative",
+      "evidence": "实验主义既然只承认有益的方是真理，他便能暗示社会意识以近视的浅见的妥协主义。",
+      "confidence": 1.0
+    },
+    {
+      "id": "r5",
+      "head": "实验主义",
+      "head_type": "主义/学说/理论",
+      "relation": "反对",
+      "relation_subtype": "不适用",
+      "tail": "革命哲学",
+      "tail_type": "主义/学说/理论",
+      "polarity": "negative",
+      "evidence": "他决不是革命的哲学。",
+      "confidence": 1.0
+    }
+  ],
+  "definitions": [
+    {
+      "id": "def1",
+      "term": "真理",
+      "definition": "真理是切合于客观的现实世界的意见，其真理性不依赖于对人是否有益。",
+      "evidence": "某种意见是真理，并不因为他对于我们有益；这种意见对于我们有益，却因为他是真理。换句话说，就是因为他切合于客观的现实世界。",
+      "confidence": 1.0
+    },
+    {
+      "id": "def2",
+      "term": "科学的真理",
+      "definition": "科学的真理是确定的真理，是在变易不息的客观现实世界中求得的“不易”之真理。",
+      "evidence": "客观的现实世界确是变易不息的，我们因此要求科学的真理—确定的真理，求此变易之中“不易”。",
+      "confidence": 1.0
+    }
+  ],
+  "citations": [],
+  "rhetorical_devices": [
+    {
+      "id": "rh1",
+      "expression": "碰顶子",
+      "device_type": "比喻",
+      "literal_target": "行动与现实冲突",
+      "function": "形象化说明观念与现实冲突的后果",
+      "evidence": "我们的行动便不致于和现实相冲突，不致于“碰顶子”。",
+      "confidence": 1.0
+    },
+    {
+      "id": "rh2",
+      "expression": "近视的浅见的妥协主义",
+      "device_type": "标签化",
+      "literal_target": "实验主义导致的社会意识",
+      "function": "贬低实验主义的政治后果",
+      "evidence": "实验主义既然只承认有益的方是真理，他便能暗示社会意识以近视的浅见的妥协主义。",
+      "confidence": 1.0
+    }
+  ],
+  "uncertainties": []
+}

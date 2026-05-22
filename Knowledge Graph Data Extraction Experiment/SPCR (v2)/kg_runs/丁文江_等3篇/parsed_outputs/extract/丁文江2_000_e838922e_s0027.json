@@ -1,0 +1,468 @@
+{
+  "metadata": {
+    "schema_version": "lite_v3.0",
+    "article_id": "丁文江2_000_e838922e",
+    "article_title": "玄学与科学——答张君劢",
+    "source_author": "丁文江",
+    "section_title": "",
+    "section_author": "",
+    "segment_id": "丁文江2_000_e838922e_s0027",
+    "segment_index": 27,
+    "source_file": "E:\\1研究生\\岭南大学\\论文毕业\\capstone\\资料\\新的内容开始了\\local_upload\\input_丁文江\\丁文江2.txt"
+  },
+  "entities": [
+    {
+      "id": "e1",
+      "name": "超物质而上的精神",
+      "canonical_name": "超物质而上的精神",
+      "type": "概念",
+      "evidence": "我们决不能相信有超物质而上的精神",
+      "confidence": 0.9
+    },
+    {
+      "id": "e2",
+      "name": "外相隔绝的内",
+      "canonical_name": "外相隔绝的内",
+      "type": "概念",
+      "evidence": "与外相隔绝的内",
+      "confidence": 0.9
+    },
+    {
+      "id": "e3",
+      "name": "离非我而独立的我",
+      "canonical_name": "离非我而独立的我",
+      "type": "概念",
+      "evidence": "或是离非我而独立的我",
+      "confidence": 0.9
+    },
+    {
+      "id": "e4",
+      "name": "精神",
+      "canonical_name": "精神",
+      "type": "概念",
+      "evidence": "我的“精神”，“内”，同“我”就都不知去向",
+      "confidence": 0.9
+    },
+    {
+      "id": "e5",
+      "name": "内",
+      "canonical_name": "内",
+      "type": "概念",
+      "evidence": "我的“精神”，“内”，同“我”就都不知去向",
+      "confidence": 0.9
+    },
+    {
+      "id": "e6",
+      "name": "我",
+      "canonical_name": "我",
+      "type": "概念",
+      "evidence": "我的“精神”，“内”，同“我”就都不知去向",
+      "confidence": 0.9
+    },
+    {
+      "id": "e7",
+      "name": "身体上的营养",
+      "canonical_name": "身体上的营养",
+      "type": "概念",
+      "evidence": "管束我的精神的，有“身体上的营养，动物性的冲动，野蛮人的传说，孩童时的印象，惯例式的回效，承继来的知识”",
+      "confidence": 0.9
+    },
+    {
+      "id": "e8",
+      "name": "动物性的冲动",
+      "canonical_name": "动物性的冲动",
+      "type": "概念",
+      "evidence": "管束我的精神的，有“身体上的营养，动物性的冲动，野蛮人的传说，孩童时的印象，惯例式的回效，承继来的知识”",
+      "confidence": 0.9
+    },
+    {
+      "id": "e9",
+      "name": "野蛮人的传说",
+      "canonical_name": "野蛮人的传说",
+      "type": "概念",
+      "evidence": "管束我的精神的，有“身体上的营养，动物性的冲动，野蛮人的传说，孩童时的印象，惯例式的回效，承继来的知识”",
+      "confidence": 0.9
+    },
+    {
+      "id": "e10",
+      "name": "孩童时的印象",
+      "canonical_name": "孩童时的印象",
+      "type": "概念",
+      "evidence": "管束我的精神的，有“身体上的营养，动物性的冲动，野蛮人的传说，孩童时的印象，惯例式的回效，承继来的知识”",
+      "confidence": 0.9
+    },
+    {
+      "id": "e11",
+      "name": "惯例式的回效",
+      "canonical_name": "惯例式的回效",
+      "type": "概念",
+      "evidence": "管束我的精神的，有“身体上的营养，动物性的冲动，野蛮人的传说，孩童时的印象，惯例式的回效，承继来的知识”",
+      "confidence": 0.9
+    },
+    {
+      "id": "e12",
+      "name": "承继来的知识",
+      "canonical_name": "承继来的知识",
+      "type": "概念",
+      "evidence": "管束我的精神的，有“身体上的营养，动物性的冲动，野蛮人的传说，孩童时的印象，惯例式的回效，承继来的知识”",
+      "confidence": 0.9
+    },
+    {
+      "id": "e13",
+      "name": "自由",
+      "canonical_name": "自由",
+      "type": "概念",
+      "evidence": "我的意义是不是“自由”的？",
+      "confidence": 0.9
+    },
+    {
+      "id": "e14",
+      "name": "纯粹的心理",
+      "canonical_name": "纯粹的心理",
+      "type": "概念",
+      "evidence": "我的“纯粹的心理”，向那里找去？",
+      "confidence": 0.9
+    },
+    {
+      "id": "e15",
+      "name": "美术",
+      "canonical_name": "美术",
+      "type": "概念",
+      "evidence": "君劢答词里面最不可了解的要算他中篇的第三章，所谓“科学以外之知识”，因为他不但是滥用没有定义的名词，不但是矛盾，而且是无的放矢。我不知道他的人生观从几时起才加入美术的",
+      "confidence": 0.9
+    },
+    {
+      "id": "e16",
+      "name": "宗教",
+      "canonical_name": "宗教",
+      "type": "概念",
+      "evidence": "（七）美术，宗教，与科学",
+      "confidence": 0.9
+    },
+    {
+      "id": "e17",
+      "name": "科学",
+      "canonical_name": "科学",
+      "type": "概念",
+      "evidence": "（七）美术，宗教，与科学",
+      "confidence": 0.9
+    },
+    {
+      "id": "e18",
+      "name": "科学以外之知识",
+      "canonical_name": "科学以外之知识",
+      "type": "概念",
+      "evidence": "君劢答词里面最不可了解的要算他中篇的第三章，所谓“科学以外之知识”",
+      "confidence": 0.9
+    },
+    {
+      "id": "e19",
+      "name": "人生观",
+      "canonical_name": "人生观",
+      "type": "概念",
+      "evidence": "我不知道他的人生观从几时起才加入美术的",
+      "confidence": 0.9
+    },
+    {
+      "id": "e20",
+      "name": "九条的人生观宪法",
+      "canonical_name": "九条的人生观宪法",
+      "type": "概念",
+      "evidence": "在他九条的人生观宪法的里面找不出与美术有关的观念来",
+      "confidence": 0.9
+    },
+    {
+      "id": "e21",
+      "name": "知识",
+      "canonical_name": "知识",
+      "type": "概念",
+      "evidence": "他一面说美术是知识",
+      "confidence": 0.9
+    },
+    {
+      "id": "e22",
+      "name": "托摩生",
+      "canonical_name": "托摩生",
+      "type": "人物",
+      "evidence": "一面引托摩生的论美术话说",
+      "confidence": 0.9
+    },
+    {
+      "id": "e23",
+      "name": "人类之大目的",
+      "canonical_name": "人类之大目的",
+      "type": "概念",
+      "evidence": "人类之大目的，其于自然界，仅知之——此是科学之事——又在能享受之。人者有情感者也。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e24",
+      "name": "自然界",
+      "canonical_name": "自然界",
+      "type": "概念",
+      "evidence": "人类之大目的，其于自然界，仅知之——此是科学之事——又在能享受之。人者有情感者也。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e25",
+      "name": "科学之事",
+      "canonical_name": "科学之事",
+      "type": "概念",
+      "evidence": "人类之大目的，其于自然界，仅知之——此是科学之事——又在能享受之。人者有情感者也。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e26",
+      "name": "情感",
+      "canonical_name": "情感",
+      "type": "概念",
+      "evidence": "人者有情感者也。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e27",
+      "name": "生物学",
+      "canonical_name": "生物学",
+      "type": "概念",
+      "evidence": "只要我们不是完全不理会生物学同心理学所得的结果",
+      "confidence": 0.9
+    },
+    {
+      "id": "e28",
+      "name": "心理学",
+      "canonical_name": "心理学",
+      "type": "概念",
+      "evidence": "只要我们不是完全不理会生物学同心理学所得的结果",
+      "confidence": 0.9
+    }
+  ],
+  "claims": [
+    {
+      "id": "c1",
+      "speaker": "丁文江",
+      "claim": "我们决不能相信有超物质而上的精神，与外相隔绝的内，或是离非我而独立的我",
+      "target": "超物质而上的精神、外相隔绝的内、离非我而独立的我",
+      "claim_type": "规范性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "我们决不能相信有超物质而上的精神，与外相隔绝的内，或是离非我而独立的我",
+      "confidence": 0.9
+    },
+    {
+      "id": "c2",
+      "speaker": "丁文江",
+      "claim": "喝几杯烧酒，我就会得胡说，嗅几把淡养，我就会得狂喜，饮食消化太慢，我就会得烦躁，内腺分泌失常，我就会得恐惧。上了麻醉药，我的“精神”，“内”，同“我”就都不知去向",
+      "target": "精神、内、我",
+      "claim_type": "描述性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "喝几杯烧酒，我就会得胡说，嗅几把淡养，我就会得狂喜，饮食消化太慢，我就会得烦躁，内腺分泌失常，我就会得恐惧。上了麻醉药，我的“精神”，“内”，同“我”就都不知去向",
+      "confidence": 0.9
+    },
+    {
+      "id": "c3",
+      "speaker": "丁文江",
+      "claim": "我的行为自觉的只有一部分；所有记不得的经验，多年前的感触，不自知的欲望，都与我有密切的关系",
+      "target": "我的行为",
+      "claim_type": "描述性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "我的行为自觉的只有一部分；所有记不得的经验，多年前的感触，不自知的欲望，都与我有密切的关系",
+      "confidence": 0.9
+    },
+    {
+      "id": "c4",
+      "speaker": "丁文江",
+      "claim": "管束我的精神的，有“身体上的营养，动物性的冲动，野蛮人的传说，孩童时的印象，惯例式的回效，承继来的知识”",
+      "target": "我的精神",
+      "claim_type": "描述性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "管束我的精神的，有“身体上的营养，动物性的冲动，野蛮人的传说，孩童时的印象，惯例式的回效，承继来的知识”",
+      "confidence": 0.9
+    },
+    {
+      "id": "c5",
+      "speaker": "丁文江",
+      "claim": "我的意义是不是“自由”的？",
+      "target": "我的意义",
+      "claim_type": "问题提出",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "我的意义是不是“自由”的？",
+      "confidence": 0.9
+    },
+    {
+      "id": "c6",
+      "speaker": "丁文江",
+      "claim": "我的“纯粹的心理”，向那里找去？",
+      "target": "纯粹的心理",
+      "claim_type": "问题提出",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "我的“纯粹的心理”，向那里找去？",
+      "confidence": 0.9
+    },
+    {
+      "id": "c7",
+      "speaker": "丁文江",
+      "claim": "君劢答词里面最不可了解的要算他中篇的第三章，所谓“科学以外之知识”，因为他不但是滥用没有定义的名词，不但是矛盾，而且是无的放矢",
+      "target": "张君劢",
+      "claim_type": "评价性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "君劢答词里面最不可了解的要算他中篇的第三章，所谓“科学以外之知识”，因为他不但是滥用没有定义的名词，不但是矛盾，而且是无的放矢",
+      "confidence": 0.9
+    },
+    {
+      "id": "c8",
+      "speaker": "丁文江",
+      "claim": "我不知道他的人生观从几时起才加入美术的",
+      "target": "张君劢",
+      "claim_type": "评价性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "我不知道他的人生观从几时起才加入美术的",
+      "confidence": 0.9
+    },
+    {
+      "id": "c9",
+      "speaker": "丁文江",
+      "claim": "我攻击他的文章完全是对于他的讲演发言；那里面所说的“人生观”单是指他的九条！我并没有给人生观下定义！所以当然不提及美术",
+      "target": "张君劢",
+      "claim_type": "回应性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "我攻击他的文章完全是对于他的讲演发言；那里面所说的“人生观”单是指他的九条！我并没有给人生观下定义！所以当然不提及美术",
+      "confidence": 0.9
+    },
+    {
+      "id": "c10",
+      "speaker": "丁文江",
+      "claim": "他何以知道我是狭小，是不承认美术？这岂不是无的放矢么？",
+      "target": "张君劢",
+      "claim_type": "问题提出",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "他何以知道我是狭小，是不承认美术？这岂不是无的放矢么？",
+      "confidence": 0.9
+    },
+    {
+      "id": "c11",
+      "speaker": "丁文江",
+      "claim": "他一面说美术是知识，一面引托摩生的论美术话说：“人类之大目的，其于自然界，仅知之——此是科学之事——又在能享受之。人者有情感者也。”这岂不是矛盾么？",
+      "target": "张君劢",
+      "claim_type": "反驳性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "他一面说美术是知识，一面引托摩生的论美术话说：“人类之大目的，其于自然界，仅知之——此是科学之事——又在能享受之。人者有情感者也。”这岂不是矛盾么？",
+      "confidence": 0.9
+    }
+  ],
+  "relations": [
+    {
+      "id": "r1",
+      "head": "丁文江",
+      "head_type": "人物",
+      "relation": "反对",
+      "relation_subtype": "逻辑反驳",
+      "tail": "超物质而上的精神",
+      "tail_type": "概念",
+      "polarity": "negative",
+      "stance_score": -1.0,
+      "intensity": 0.9,
+      "evidence": "我们决不能相信有超物质而上的精神，与外相隔绝的内，或是离非我而独立的我",
+      "confidence": 0.9
+    },
+    {
+      "id": "r2",
+      "head": "丁文江",
+      "head_type": "人物",
+      "relation": "反对",
+      "relation_subtype": "逻辑反驳",
+      "tail": "外相隔绝的内",
+      "tail_type": "概念",
+      "polarity": "negative",
+      "stance_score": -1.0,
+      "intensity": 0.9,
+      "evidence": "我们决不能相信有超物质而上的精神，与外相隔绝的内，或是离非我而独立的我",
+      "confidence": 0.9
+    },
+    {
+      "id": "r3",
+      "head": "丁文江",
+      "head_type": "人物",
+      "relation": "反对",
+      "relation_subtype": "逻辑反驳",
+      "tail": "离非我而独立的我",
+      "tail_type": "概念",
+      "polarity": "negative",
+      "stance_score": -1.0,
+      "intensity": 0.9,
+      "evidence": "我们决不能相信有超物质而上的精神，与外相隔绝的内，或是离非我而独立的我",
+      "confidence": 0.9
+    }
+  ],
+  "definitions": [],
+  "citations": [
+    {
+      "id": "cit1",
+      "citer": "张君劢",
+      "quoted_author": "托摩生",
+      "quoted_work": "",
+      "quoted_claim": "人类之大目的，其于自然界，仅知之——此是科学之事——又在能享受之。人者有情感者也。",
+      "function": "援引权威支持",
+      "evidence": "一面引托摩生的论美术话说：“人类之大目的，其于自然界，仅知之——此是科学之事——又在能享受之。人者有情感者也。”",
+      "confidence": 0.9
+    }
+  ],
+  "rhetorical_devices": [
+    {
+      "id": "rh1",
+      "expression": "这岂不是无的放矢么？",
+      "device_type": "讽刺",
+      "literal_target": "张君劢的批评",
+      "function": "讽刺张君劢的批评没有根据",
+      "evidence": "他何以知道我是狭小，是不承认美术？这岂不是无的放矢么？",
+      "confidence": 0.9
+    },
+    {
+      "id": "rh2",
+      "expression": "这岂不是矛盾么？",
+      "device_type": "讽刺",
+      "literal_target": "张君劢的言论",
+      "function": "讽刺张君劢自相矛盾",
+      "evidence": "他一面说美术是知识，一面引托摩生的论美术话说：“人类之大目的，其于自然界，仅知之——此是科学之事——又在能享受之。人者有情感者也。”这岂不是矛盾么？",
+      "confidence": 0.9
+    }
+  ],
+  "uncertainties": [
+    {
+      "item": "“淡养”的具体含义",
+      "reason": "文本中未解释，可能为化学物质或方言，无法确定"
+    },
+    {
+      "item": "“托摩生”的具体身份",
+      "reason": "文本中未提供更多信息，无法确定其背景"
+    }
+  ],
+  "_meta": {
+    "status": "success",
+    "stage": "extract",
+    "model": "deepseek-ai/DeepSeek-V4-Flash",
+    "base_url": "https://api.siliconflow.cn/v1",
+    "prompt_version": "v2.0",
+    "schema_version": "lite_v3.0",
+    "segment_id": "丁文江2_000_e838922e_s0027",
+    "article_id": "丁文江2_000_e838922e",
+    "char_start": 13299,
+    "char_end": 13899,
+    "raw_path": "E:\\1研究生\\岭南大学\\论文毕业\\capstone\\资料\\新的内容开始了\\local_upload\\kg_runs_v2\\丁文江_等3篇\\raw_outputs\\extract\\丁文江2_000_e838922e_s0027.txt",
+    "parsed_at": "2026-05-22T07:34:32",
+    "started_at": "2026-05-22T07:34:01",
+    "elapsed_seconds": 31.029,
+    "strict_evidence_check": true,
+    "drop_unsupported_evidence": true,
+    "request_timeout_seconds": 60
+  }
+}

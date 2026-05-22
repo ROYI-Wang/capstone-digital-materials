@@ -1,0 +1,201 @@
+{
+  "metadata": {
+    "schema_version": "lite_v2.0",
+    "article_id": "丁文江2_000_e838922e",
+    "article_title": "玄学与科学——答张君劢",
+    "source_author": "丁文江",
+    "section_title": "",
+    "section_author": "",
+    "segment_id": "丁文江2_000_e838922e_s0044",
+    "segment_index": 44,
+    "source_file": "E:\\1研究生\\岭南大学\\论文毕业\\capstone\\资料\\新的内容开始了\\local_upload\\input_texts\\丁文江2.txt"
+  },
+  "entities": [
+    {
+      "id": "e1",
+      "name": "玄学鬼",
+      "canonical_name": "玄学鬼",
+      "type": "比喻/类比",
+      "evidence": "被玄学鬼附上身",
+      "confidence": 0.9
+    },
+    {
+      "id": "e2",
+      "name": "觉官组织",
+      "canonical_name": "觉官组织",
+      "type": "概念",
+      "evidence": "觉官组织真正和我的是两样的",
+      "confidence": 0.9
+    },
+    {
+      "id": "e3",
+      "name": "柏格森的直觉主义",
+      "canonical_name": "柏格森的直觉主义",
+      "type": "主义/学说/理论",
+      "evidence": "若是相信柏格森的直觉主义的人",
+      "confidence": 0.9
+    },
+    {
+      "id": "e4",
+      "name": "直觉",
+      "canonical_name": "直觉",
+      "type": "概念",
+      "evidence": "你说有你们的直觉，我们有我们的直觉",
+      "confidence": 0.9
+    },
+    {
+      "id": "e5",
+      "name": "推论",
+      "canonical_name": "推论",
+      "type": "概念",
+      "evidence": "凡推论不能使寻常有论理训练的人依了所根据的概念，也能得同样的推论，科学不承认是真的",
+      "confidence": 0.9
+    },
+    {
+      "id": "e6",
+      "name": "科学",
+      "canonical_name": "科学",
+      "type": "概念",
+      "evidence": "科学不承认是真的",
+      "confidence": 0.9
+    },
+    {
+      "id": "e7",
+      "name": "巴尔福",
+      "canonical_name": "巴尔福",
+      "type": "人物",
+      "evidence": "我记得巴尔福有一篇文章载在惜培德杂志上",
+      "confidence": 0.9
+    },
+    {
+      "id": "e8",
+      "name": "惜培德杂志",
+      "canonical_name": "惜培德杂志",
+      "type": "著作",
+      "evidence": "我记得巴尔福有一篇文章载在惜培德杂志上",
+      "confidence": 0.9
+    }
+  ],
+  "claims": [
+    {
+      "id": "c1",
+      "speaker": "丁文江",
+      "claim": "被玄学鬼附上身，所以觉官的印象不相同，还是他的官觉组织真正和我的是两样的？议论不相同，就是说觉官组织不相同，有什么事实的根据？",
+      "target": "玄学家",
+      "claim_type": "反驳性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "被玄学鬼附上身，所以觉官的印象不相同，还是他的官觉组织真正和我的是两样的？议论不相同，就是说觉官组织不相同，有什么事实的根据？",
+      "confidence": 0.9
+    },
+    {
+      "id": "c2",
+      "speaker": "丁文江",
+      "claim": "若是相信柏格森的直觉主义的人，真正相信他们的觉官组织与我们两样，我只好对他们说：你说有你们的直觉，我们有我们的直觉，除非你们能证明，你们的觉官组织比我们的高明，我们用不着你们的直觉！",
+      "target": "相信柏格森的直觉主义的人",
+      "claim_type": "反驳性主张",
+      "claim_status": "作者推论",
+      "polarity": "negative",
+      "evidence": "若是相信柏格森的直觉主义的人，真正相信他们的觉官组织与我们两样，我只好对他们说：你说有你们的直觉，我们有我们的直觉，除非你们能证明，你们的觉官组织比我们的高明，我们用不着你们的直觉！",
+      "confidence": 0.9
+    },
+    {
+      "id": "c3",
+      "speaker": "丁文江",
+      "claim": "凡推论不能使寻常有论理训练的人依了所根据的概念，也能得同样的推论，科学不承认是真的。",
+      "target": "推论",
+      "claim_type": "方法论主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "凡推论不能使寻常有论理训练的人依了所根据的概念，也能得同样的推论，科学不承认是真的。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c4",
+      "speaker": "丁文江",
+      "claim": "我说能得同样的推论，不是说一定得同样的推论，因为能不能是一件事，肯不肯又是一件事。",
+      "target": "推论",
+      "claim_type": "定义性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "我说能得同样的推论，不是说一定得同样的推论，因为能不能是一件事，肯不肯又是一件事。",
+      "confidence": 0.9
+    }
+  ],
+  "relations": [
+    {
+      "id": "r1",
+      "head": "丁文江",
+      "head_type": "人物",
+      "relation": "批评",
+      "relation_subtype": "事实质疑",
+      "tail": "玄学家",
+      "tail_type": "阵营/群体",
+      "polarity": "negative",
+      "evidence": "被玄学鬼附上身，所以觉官的印象不相同，还是他的官觉组织真正和我的是两样的？议论不相同，就是说觉官组织不相同，有什么事实的根据？",
+      "confidence": 0.9
+    },
+    {
+      "id": "r2",
+      "head": "丁文江",
+      "head_type": "人物",
+      "relation": "批评",
+      "relation_subtype": "归谬",
+      "tail": "相信柏格森的直觉主义的人",
+      "tail_type": "阵营/群体",
+      "polarity": "negative",
+      "evidence": "若是相信柏格森的直觉主义的人，真正相信他们的觉官组织与我们两样，我只好对他们说：你说有你们的直觉，我们有我们的直觉，除非你们能证明，你们的觉官组织比我们的高明，我们用不着你们的直觉！",
+      "confidence": 0.9
+    },
+    {
+      "id": "r3",
+      "head": "丁文江",
+      "head_type": "人物",
+      "relation": "引用",
+      "relation_subtype": "中性提及",
+      "tail": "巴尔福",
+      "tail_type": "人物",
+      "polarity": "neutral",
+      "evidence": "我记得巴尔福有一篇文章载在惜培德杂志上",
+      "confidence": 0.9
+    }
+  ],
+  "definitions": [
+    {
+      "id": "def1",
+      "term": "推论",
+      "definition": "凡推论不能使寻常有论理训练的人依了所根据的概念，也能得同样的推论，科学不承认是真的。",
+      "evidence": "凡推论不能使寻常有论理训练的人依了所根据的概念，也能得同样的推论，科学不承认是真的。",
+      "confidence": 0.9
+    }
+  ],
+  "citations": [
+    {
+      "id": "cit1",
+      "citer": "丁文江",
+      "quoted_author": "巴尔福",
+      "quoted_work": "惜培德杂志",
+      "quoted_claim": "",
+      "function": "中性提及",
+      "evidence": "我记得巴尔福有一篇文章载在惜培德杂志上",
+      "confidence": 0.8
+    }
+  ],
+  "rhetorical_devices": [
+    {
+      "id": "rh1",
+      "expression": "被玄学鬼附上身",
+      "device_type": "比喻",
+      "literal_target": "玄学家",
+      "function": "讽刺性批评，将玄学家的观点归因于非理性的附身状态",
+      "evidence": "被玄学鬼附上身",
+      "confidence": 0.9
+    }
+  ],
+  "uncertainties": [
+    {
+      "item": "巴尔福的文章具体内容未在文本中提及，无法抽取其观点。",
+      "reason": "文本仅提到巴尔福有一篇文章载在惜培德杂志上，未说明文章内容或引用观点。"
+    }
+  ]
+}

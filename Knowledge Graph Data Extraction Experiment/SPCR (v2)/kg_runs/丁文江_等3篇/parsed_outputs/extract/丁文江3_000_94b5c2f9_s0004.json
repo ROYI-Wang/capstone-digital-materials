@@ -1,0 +1,344 @@
+{
+  "metadata": {
+    "schema_version": "lite_v3.0",
+    "article_id": "丁文江3_000_94b5c2f9",
+    "article_title": "“玄学与科学”论争的余兴",
+    "source_author": "丁文江",
+    "section_title": "",
+    "section_author": "",
+    "segment_id": "丁文江3_000_94b5c2f9_s0004",
+    "segment_index": 4,
+    "source_file": "E:\\1研究生\\岭南大学\\论文毕业\\capstone\\资料\\新的内容开始了\\local_upload\\input_丁文江\\丁文江3.txt"
+  },
+  "entities": [
+    {
+      "id": "e1",
+      "name": "赛推克",
+      "canonical_name": "赛推克",
+      "type": "人物",
+      "evidence": "赛推克著《科学小史》",
+      "confidence": 1.0
+    },
+    {
+      "id": "e2",
+      "name": "《科学小史》",
+      "canonical_name": "科学小史",
+      "type": "著作",
+      "evidence": "赛推克著《科学小史》",
+      "confidence": 1.0
+    },
+    {
+      "id": "e3",
+      "name": "梅尔士",
+      "canonical_name": "梅尔士",
+      "type": "人物",
+      "evidence": "梅尔士著《十九世纪欧洲思想史》",
+      "confidence": 1.0
+    },
+    {
+      "id": "e4",
+      "name": "《十九世纪欧洲思想史》",
+      "canonical_name": "十九世纪欧洲思想史",
+      "type": "著作",
+      "evidence": "梅尔士著《十九世纪欧洲思想史》",
+      "confidence": 1.0
+    },
+    {
+      "id": "e5",
+      "name": "皮尔逊",
+      "canonical_name": "皮尔逊",
+      "type": "人物",
+      "evidence": "皮尔逊著《科学规范》",
+      "confidence": 1.0
+    },
+    {
+      "id": "e6",
+      "name": "《科学规范》",
+      "canonical_name": "科学规范",
+      "type": "著作",
+      "evidence": "皮尔逊著《科学规范》",
+      "confidence": 1.0
+    },
+    {
+      "id": "e7",
+      "name": "詹文斯",
+      "canonical_name": "詹文斯",
+      "type": "人物",
+      "evidence": "詹文斯著《科学通则》",
+      "confidence": 1.0
+    },
+    {
+      "id": "e8",
+      "name": "《科学通则》",
+      "canonical_name": "科学通则",
+      "type": "著作",
+      "evidence": "詹文斯著《科学通则》",
+      "confidence": 1.0
+    },
+    {
+      "id": "e9",
+      "name": "赫胥黎",
+      "canonical_name": "赫胥黎",
+      "type": "人物",
+      "evidence": "赫胥黎著《科学与教育》",
+      "confidence": 1.0
+    },
+    {
+      "id": "e10",
+      "name": "《科学与教育》",
+      "canonical_name": "科学与教育",
+      "type": "著作",
+      "evidence": "赫胥黎著《科学与教育》",
+      "confidence": 1.0
+    },
+    {
+      "id": "e11",
+      "name": "韦布伦",
+      "canonical_name": "韦布伦",
+      "type": "人物",
+      "evidence": "韦布伦著《近代文化中科学的地位》",
+      "confidence": 1.0
+    },
+    {
+      "id": "e12",
+      "name": "《近代文化中科学的地位》",
+      "canonical_name": "近代文化中科学的地位",
+      "type": "著作",
+      "evidence": "韦布伦著《近代文化中科学的地位》",
+      "confidence": 1.0
+    },
+    {
+      "id": "e13",
+      "name": "苏点",
+      "canonical_name": "苏点",
+      "type": "人物",
+      "evidence": "苏点著《科学与人生》",
+      "confidence": 1.0
+    },
+    {
+      "id": "e14",
+      "name": "《科学与人生》",
+      "canonical_name": "科学与人生",
+      "type": "著作",
+      "evidence": "苏点著《科学与人生》",
+      "confidence": 1.0
+    },
+    {
+      "id": "e15",
+      "name": "鲁滨孙",
+      "canonical_name": "鲁滨孙",
+      "type": "人物",
+      "evidence": "鲁滨孙著《在制造中的心》",
+      "confidence": 1.0
+    },
+    {
+      "id": "e16",
+      "name": "《在制造中的心》",
+      "canonical_name": "在制造中的心",
+      "type": "著作",
+      "evidence": "鲁滨孙著《在制造中的心》",
+      "confidence": 1.0
+    },
+    {
+      "id": "e17",
+      "name": "詹姆士",
+      "canonical_name": "詹姆士",
+      "type": "人物",
+      "evidence": "詹姆士著《心理学的通则》",
+      "confidence": 1.0
+    },
+    {
+      "id": "e18",
+      "name": "《心理学的通则》",
+      "canonical_name": "心理学的通则",
+      "type": "著作",
+      "evidence": "詹姆士著《心理学的通则》",
+      "confidence": 1.0
+    },
+    {
+      "id": "e19",
+      "name": "《心理学教科书》",
+      "canonical_name": "心理学教科书",
+      "type": "著作",
+      "evidence": "詹姆士的《心理学教科书》",
+      "confidence": 1.0
+    },
+    {
+      "id": "e20",
+      "name": "诺司峨塞",
+      "canonical_name": "诺司峨塞",
+      "type": "人物",
+      "evidence": "诺司峨塞著《孩童心理学》",
+      "confidence": 1.0
+    },
+    {
+      "id": "e21",
+      "name": "《孩童心理学》",
+      "canonical_name": "孩童心理学",
+      "type": "著作",
+      "evidence": "诺司峨塞著《孩童心理学》",
+      "confidence": 1.0
+    },
+    {
+      "id": "e22",
+      "name": "何尔姆士",
+      "canonical_name": "何尔姆士",
+      "type": "人物",
+      "evidence": "何尔姆士著《动物智慧的进化》",
+      "confidence": 1.0
+    },
+    {
+      "id": "e23",
+      "name": "《动物智慧的进化》",
+      "canonical_name": "动物智慧的进化",
+      "type": "著作",
+      "evidence": "何尔姆士著《动物智慧的进化》",
+      "confidence": 1.0
+    },
+    {
+      "id": "e24",
+      "name": "马哈",
+      "canonical_name": "马哈",
+      "type": "人物",
+      "evidence": "马哈著《感觉的分析》",
+      "confidence": 1.0
+    },
+    {
+      "id": "e25",
+      "name": "《感觉的分析》",
+      "canonical_name": "感觉的分析",
+      "type": "著作",
+      "evidence": "马哈著《感觉的分析》",
+      "confidence": 1.0
+    },
+    {
+      "id": "e26",
+      "name": "罗素",
+      "canonical_name": "罗素",
+      "type": "人物",
+      "evidence": "罗素著《心之分析》",
+      "confidence": 1.0
+    },
+    {
+      "id": "e27",
+      "name": "《心之分析》",
+      "canonical_name": "心之分析",
+      "type": "著作",
+      "evidence": "罗素著《心之分析》",
+      "confidence": 1.0
+    },
+    {
+      "id": "e28",
+      "name": "杜威",
+      "canonical_name": "杜威",
+      "type": "人物",
+      "evidence": "杜威著《哲学的改造》",
+      "confidence": 1.0
+    },
+    {
+      "id": "e29",
+      "name": "《哲学的改造》",
+      "canonical_name": "哲学的改造",
+      "type": "著作",
+      "evidence": "杜威著《哲学的改造》",
+      "confidence": 1.0
+    },
+    {
+      "id": "e30",
+      "name": "《实验论理文存》",
+      "canonical_name": "实验论理文存",
+      "type": "著作",
+      "evidence": "杜威著《实验论理文存》",
+      "confidence": 1.0
+    },
+    {
+      "id": "e31",
+      "name": "《德国的哲学与政治》",
+      "canonical_name": "德国的哲学与政治",
+      "type": "著作",
+      "evidence": "杜威著《德国的哲学与政治》",
+      "confidence": 1.0
+    },
+    {
+      "id": "e32",
+      "name": "柏格森",
+      "canonical_name": "柏格森",
+      "type": "人物",
+      "evidence": "柏格森著《创造的演化》",
+      "confidence": 1.0
+    },
+    {
+      "id": "e33",
+      "name": "《创造的演化》",
+      "canonical_name": "创造的演化",
+      "type": "著作",
+      "evidence": "柏格森著《创造的演化》",
+      "confidence": 1.0
+    },
+    {
+      "id": "e34",
+      "name": "《心理的能力》",
+      "canonical_name": "心理的能力",
+      "type": "著作",
+      "evidence": "柏格森著《心理的能力》",
+      "confidence": 1.0
+    },
+    {
+      "id": "e35",
+      "name": "开仑",
+      "canonical_name": "开仑",
+      "type": "人物",
+      "evidence": "开仑著《詹姆士与柏格森》",
+      "confidence": 1.0
+    },
+    {
+      "id": "e36",
+      "name": "《詹姆士与柏格森》",
+      "canonical_name": "詹姆士与柏格森",
+      "type": "著作",
+      "evidence": "开仑著《詹姆士与柏格森》",
+      "confidence": 1.0
+    },
+    {
+      "id": "e37",
+      "name": "哀利屋特",
+      "canonical_name": "哀利屋特",
+      "type": "人物",
+      "evidence": "哀利屋特著《近代科学与柏格森的幻想》",
+      "confidence": 1.0
+    },
+    {
+      "id": "e38",
+      "name": "《近代科学与柏格森的幻想》",
+      "canonical_name": "近代科学与柏格森的幻想",
+      "type": "著作",
+      "evidence": "哀利屋特著《近代科学与柏格森的幻想》",
+      "confidence": 1.0
+    }
+  ],
+  "claims": [],
+  "relations": [],
+  "definitions": [],
+  "citations": [],
+  "rhetorical_devices": [],
+  "uncertainties": [],
+  "_meta": {
+    "status": "success",
+    "stage": "extract",
+    "model": "deepseek-ai/DeepSeek-V4-Flash",
+    "base_url": "https://api.siliconflow.cn/v1",
+    "prompt_version": "v2.0",
+    "schema_version": "lite_v3.0",
+    "segment_id": "丁文江3_000_94b5c2f9_s0004",
+    "article_id": "丁文江3_000_94b5c2f9",
+    "char_start": 2002,
+    "char_end": 2354,
+    "raw_path": "E:\\1研究生\\岭南大学\\论文毕业\\capstone\\资料\\新的内容开始了\\local_upload\\kg_runs_v2\\丁文江_等3篇\\raw_outputs\\extract\\丁文江3_000_94b5c2f9_s0004.txt",
+    "parsed_at": "2026-05-22T08:01:15",
+    "started_at": "2026-05-22T07:59:26",
+    "elapsed_seconds": 108.757,
+    "strict_evidence_check": true,
+    "drop_unsupported_evidence": true,
+    "request_timeout_seconds": 60
+  }
+}

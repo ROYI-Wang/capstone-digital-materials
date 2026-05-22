@@ -1,0 +1,511 @@
+{
+  "metadata": {
+    "schema_version": "lite_v3.0",
+    "article_id": "陈独秀_002_69a217f6",
+    "article_title": "答张君劢及梁任公",
+    "source_author": "陈独秀",
+    "section_title": "",
+    "section_author": "",
+    "segment_id": "陈独秀_002_69a217f6_s0005",
+    "segment_index": 5,
+    "source_file": "E:\\1研究生\\岭南大学\\论文毕业\\capstone\\资料\\新的内容开始了\\local_upload\\input_陈独秀\\陈独秀.txt"
+  },
+  "entities": [
+    {
+      "id": "e1",
+      "name": "社会科学",
+      "canonical_name": "社会科学",
+      "type": "概念",
+      "evidence": "社会科学亦得成为科学",
+      "confidence": 0.9
+    },
+    {
+      "id": "e2",
+      "name": "因果律",
+      "canonical_name": "因果律",
+      "type": "概念",
+      "evidence": "社会现象若不为因果律所支配",
+      "confidence": 0.9
+    },
+    {
+      "id": "e3",
+      "name": "推背图",
+      "canonical_name": "推背图",
+      "type": "著作",
+      "evidence": "神秘的推背图、烧饼歌",
+      "confidence": 0.9
+    },
+    {
+      "id": "e4",
+      "name": "烧饼歌",
+      "canonical_name": "烧饼歌",
+      "type": "著作",
+      "evidence": "神秘的推背图、烧饼歌",
+      "confidence": 0.9
+    },
+    {
+      "id": "e5",
+      "name": "天文学",
+      "canonical_name": "天文学",
+      "type": "概念",
+      "evidence": "天文学无论如何进步",
+      "confidence": 0.9
+    },
+    {
+      "id": "e6",
+      "name": "资本制度",
+      "canonical_name": "资本制度",
+      "type": "概念",
+      "evidence": "资本制度发达，宗法制度破坏，其结果小家族制度自然发生",
+      "confidence": 0.9
+    },
+    {
+      "id": "e7",
+      "name": "宗法制度",
+      "canonical_name": "宗法制度",
+      "type": "概念",
+      "evidence": "资本制度发达，宗法制度破坏，其结果小家族制度自然发生",
+      "confidence": 0.9
+    },
+    {
+      "id": "e8",
+      "name": "小家族制度",
+      "canonical_name": "小家族制度",
+      "type": "概念",
+      "evidence": "其结果小家族制度自然发生",
+      "confidence": 0.9
+    },
+    {
+      "id": "e9",
+      "name": "共产制度",
+      "canonical_name": "共产制度",
+      "type": "概念",
+      "evidence": "共产制度实现，私产制度破坏，其结果家族制度将简之又简而至于无",
+      "confidence": 0.9
+    },
+    {
+      "id": "e10",
+      "name": "私产制度",
+      "canonical_name": "私产制度",
+      "type": "概念",
+      "evidence": "共产制度实现，私产制度破坏，其结果家族制度将简之又简而至于无",
+      "confidence": 0.9
+    },
+    {
+      "id": "e11",
+      "name": "家族制度",
+      "canonical_name": "家族制度",
+      "type": "概念",
+      "evidence": "其结果家族制度将简之又简而至于无",
+      "confidence": 0.9
+    },
+    {
+      "id": "e12",
+      "name": "生产力",
+      "canonical_name": "生产力",
+      "type": "概念",
+      "evidence": "生产力大发展，分工制度大发展，生产方法及生产工具都日趋于集合而不可分离，其结果财产制度亦必日趋公有",
+      "confidence": 0.9
+    },
+    {
+      "id": "e13",
+      "name": "分工制度",
+      "canonical_name": "分工制度",
+      "type": "概念",
+      "evidence": "生产力大发展，分工制度大发展，生产方法及生产工具都日趋于集合而不可分离，其结果财产制度亦必日趋公有",
+      "confidence": 0.9
+    },
+    {
+      "id": "e14",
+      "name": "生产方法",
+      "canonical_name": "生产方法",
+      "type": "概念",
+      "evidence": "生产方法及生产工具都日趋于集合而不可分离",
+      "confidence": 0.9
+    },
+    {
+      "id": "e15",
+      "name": "生产工具",
+      "canonical_name": "生产工具",
+      "type": "概念",
+      "evidence": "生产方法及生产工具都日趋于集合而不可分离",
+      "confidence": 0.9
+    },
+    {
+      "id": "e16",
+      "name": "财产制度",
+      "canonical_name": "财产制度",
+      "type": "概念",
+      "evidence": "其结果财产制度亦必日趋公有",
+      "confidence": 0.9
+    },
+    {
+      "id": "e17",
+      "name": "玄学大家",
+      "canonical_name": "玄学大家",
+      "type": "阵营/群体",
+      "evidence": "只待富于神秘性的玄学大家重造新推背图",
+      "confidence": 0.9
+    },
+    {
+      "id": "e18",
+      "name": "社会科学家",
+      "canonical_name": "社会科学家",
+      "type": "阵营/群体",
+      "evidence": "社会科学家惟有甘拜下风",
+      "confidence": 0.9
+    },
+    {
+      "id": "e19",
+      "name": "动因",
+      "canonical_name": "动因",
+      "type": "概念",
+      "evidence": "我真不懂他所谓“动因”，在术语上到底是何意义",
+      "confidence": 0.9
+    },
+    {
+      "id": "e20",
+      "name": "九项",
+      "canonical_name": "九项",
+      "type": "概念",
+      "evidence": "前所辨论之九项中",
+      "confidence": 0.9
+    },
+    {
+      "id": "e21",
+      "name": "张先生",
+      "canonical_name": "张君劢",
+      "type": "人物",
+      "evidence": "乃张先生一则曰“不究九端之动因”，再则日“乃问人类对于此九项之态度之变迁之动因”",
+      "confidence": 0.9
+    }
+  ],
+  "claims": [
+    {
+      "id": "c1",
+      "speaker": "陈独秀",
+      "claim": "社会科学亦得成为科学",
+      "target": "",
+      "claim_type": "描述性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "言，社会科学亦得成为科学，又何待赞言？",
+      "confidence": 0.9
+    },
+    {
+      "id": "c2",
+      "speaker": "陈独秀",
+      "claim": "社会现象若不为因果律所支配，虽事后亦无法推求其现象所由来",
+      "target": "",
+      "claim_type": "因果主张",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "社会现象若不为因果律所支配，虽事后亦无法推求其现象所由来",
+      "confidence": 0.9
+    },
+    {
+      "id": "c3",
+      "speaker": "陈独秀",
+      "claim": "若既为因果律所支配，则可据今果以推求前因，亦可据今因以推求后果",
+      "target": "",
+      "claim_type": "因果主张",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "若既为因果律所支配，则可据今果以推求前因，亦可据今因以推求后果",
+      "confidence": 0.9
+    },
+    {
+      "id": "c4",
+      "speaker": "陈独秀",
+      "claim": "张先生如欲超越吾人犹未闻见之今因，凭空推算千百年后之果，虽历久而不爽毫厘，此事大类神秘的推背图、烧饼歌，不独人事的社会科学所不许，亦物质的自然科学所难能",
+      "target": "张君劢",
+      "claim_type": "反驳性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "惟张先生如欲超越吾人犹未闻见之今因，凭空推算千百年后之果，虽历久而不爽毫厘，此事大类神秘的推背图、烧饼歌，不独人事的社会科学所不许，亦物质的自然科学所难能",
+      "confidence": 0.9
+    },
+    {
+      "id": "c5",
+      "speaker": "陈独秀",
+      "claim": "天文学无论如何进步，亦不能于气压之动象未现以前，预示数十百年或数年内某地某时风雨寒热之定象，虽历久而不爽毫厘",
+      "target": "",
+      "claim_type": "描述性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "例如天文学无论如何进步，亦不能于气压之动象未现以前，预示数十百年或数年内某地某时风雨寒热之定象，虽历久而不爽毫厘",
+      "confidence": 0.9
+    },
+    {
+      "id": "c6",
+      "speaker": "陈独秀",
+      "claim": "资本制度发达，宗法制度破坏，其结果小家族制度自然发生",
+      "target": "",
+      "claim_type": "因果主张",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "资本制度发达，宗法制度破坏，其结果小家族制度自然发生",
+      "confidence": 0.9
+    },
+    {
+      "id": "c7",
+      "speaker": "陈独秀",
+      "claim": "共产制度实现，私产制度破坏，其结果家族制度将简之又简而至于无",
+      "target": "",
+      "claim_type": "因果主张",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "共产制度实现，私产制度破坏，其结果家族制度将简之又简而至于无",
+      "confidence": 0.9
+    },
+    {
+      "id": "c8",
+      "speaker": "陈独秀",
+      "claim": "生产力大发展，分工制度大发展，生产方法及生产工具都日趋于集合而不可分离，其结果财产制度亦必日趋公有",
+      "target": "",
+      "claim_type": "因果主张",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "生产力大发展，分工制度大发展，生产方法及生产工具都日趋于集合而不可分离，其结果财产制度亦必日趋公有",
+      "confidence": 0.9
+    },
+    {
+      "id": "c9",
+      "speaker": "陈独秀",
+      "claim": "此等都可据今因以推求后果",
+      "target": "",
+      "claim_type": "结论性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "此等都可据今因以推求后果",
+      "confidence": 0.9
+    },
+    {
+      "id": "c10",
+      "speaker": "陈独秀",
+      "claim": "欲求知千年万年后的社会制度如何，只待富于神秘性的玄学大家重造新推背图，社会科学家惟有甘拜下风",
+      "target": "玄学大家",
+      "claim_type": "评价性主张",
+      "claim_status": "作者讽刺性归纳",
+      "polarity": "negative",
+      "evidence": "欲求知千年万年后的社会制度如何，只待富于神秘性的玄学大家重造新推背图，社会科学家惟有甘拜下风",
+      "confidence": 0.9
+    },
+    {
+      "id": "c11",
+      "speaker": "陈独秀",
+      "claim": "前所辨论之九项中，一部分明明是推求社会现象变迁之动因及人类态度随此变迁而变迁之动因，如第一，第二，第三，第四，第六，第九皆是；一部分明明是推求人类之人生观所以不同的动因，如第五，第七，第八皆是",
+      "target": "",
+      "claim_type": "描述性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "前所辨论之九项中，一部分明明是推求社会现象变迁之动因及人类态度随此变迁而变迁之动因，如第一，第二，第三，第四，第六，第九皆是；一部分明明是推求人类之人生观所以不同的动因，如第五，第七，第八皆是",
+      "confidence": 0.9
+    },
+    {
+      "id": "c12",
+      "speaker": "张君劢",
+      "claim": "不究九端之动因",
+      "target": "陈独秀",
+      "claim_type": "反驳性主张",
+      "claim_status": "间接转述",
+      "polarity": "negative",
+      "evidence": "乃张先生一则曰“不究九端之动因”",
+      "confidence": 0.9
+    },
+    {
+      "id": "c13",
+      "speaker": "张君劢",
+      "claim": "乃问人类对于此九项之态度之变迁之动因",
+      "target": "陈独秀",
+      "claim_type": "反驳性主张",
+      "claim_status": "间接转述",
+      "polarity": "negative",
+      "evidence": "再则日“乃问人类对于此九项之态度之变迁之动因”",
+      "confidence": 0.9
+    },
+    {
+      "id": "c14",
+      "speaker": "陈独秀",
+      "claim": "我真不懂他所谓“动因”，在术语上到底是何意义",
+      "target": "张君劢",
+      "claim_type": "问题提出",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "我真不懂他所谓“动因”，在术语上到底是何意义",
+      "confidence": 0.9
+    },
+    {
+      "id": "c15",
+      "speaker": "陈独秀",
+      "claim": "张先生所指九项，究竟是说社会现象还是说个人态度，其观念及论点实在太不明了",
+      "target": "张君劢",
+      "claim_type": "评价性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "而且张先生所指九项，究竟是说社会现象还是说个人态度，其观念及论点实在太不明了",
+      "confidence": 0.9
+    }
+  ],
+  "relations": [
+    {
+      "id": "r1",
+      "head": "社会科学",
+      "head_type": "概念",
+      "relation": "主张",
+      "relation_subtype": "不适用",
+      "tail": "科学",
+      "tail_type": "概念",
+      "polarity": "positive",
+      "stance_score": 1.0,
+      "intensity": 0.8,
+      "evidence": "言，社会科学亦得成为科学，又何待赞言？",
+      "confidence": 0.9
+    },
+    {
+      "id": "r2",
+      "head": "社会现象",
+      "head_type": "概念",
+      "relation": "归因于",
+      "relation_subtype": "不适用",
+      "tail": "因果律",
+      "tail_type": "概念",
+      "polarity": "neutral",
+      "stance_score": 0.0,
+      "intensity": 0.5,
+      "evidence": "社会现象若不为因果律所支配，虽事后亦无法推求其现象所由来；若既为因果律所支配，则可据今果以推求前因，亦可据今因以推求后果",
+      "confidence": 0.9
+    },
+    {
+      "id": "r3",
+      "head": "张先生",
+      "head_type": "人物",
+      "relation": "批评",
+      "relation_subtype": "归谬",
+      "tail": "凭空推算千百年后之果",
+      "tail_type": "观点",
+      "polarity": "negative",
+      "stance_score": -1.0,
+      "intensity": 1.0,
+      "evidence": "惟张先生如欲超越吾人犹未闻见之今因，凭空推算千百年后之果，虽历久而不爽毫厘，此事大类神秘的推背图、烧饼歌，不独人事的社会科学所不许，亦物质的自然科学所难能",
+      "confidence": 0.9
+    },
+    {
+      "id": "r4",
+      "head": "资本制度发达",
+      "head_type": "概念",
+      "relation": "导致",
+      "relation_subtype": "不适用",
+      "tail": "小家族制度自然发生",
+      "tail_type": "概念",
+      "polarity": "neutral",
+      "stance_score": 0.0,
+      "intensity": 0.5,
+      "evidence": "资本制度发达，宗法制度破坏，其结果小家族制度自然发生",
+      "confidence": 0.9
+    },
+    {
+      "id": "r5",
+      "head": "共产制度实现",
+      "head_type": "概念",
+      "relation": "导致",
+      "relation_subtype": "不适用",
+      "tail": "家族制度将简之又简而至于无",
+      "tail_type": "概念",
+      "polarity": "neutral",
+      "stance_score": 0.0,
+      "intensity": 0.5,
+      "evidence": "共产制度实现，私产制度破坏，其结果家族制度将简之又简而至于无",
+      "confidence": 0.9
+    },
+    {
+      "id": "r6",
+      "head": "生产力大发展",
+      "head_type": "概念",
+      "relation": "导致",
+      "relation_subtype": "不适用",
+      "tail": "财产制度亦必日趋公有",
+      "tail_type": "概念",
+      "polarity": "neutral",
+      "stance_score": 0.0,
+      "intensity": 0.5,
+      "evidence": "生产力大发展，分工制度大发展，生产方法及生产工具都日趋于集合而不可分离，其结果财产制度亦必日趋公有",
+      "confidence": 0.9
+    },
+    {
+      "id": "r7",
+      "head": "陈独秀",
+      "head_type": "人物",
+      "relation": "批评",
+      "relation_subtype": "概念混淆批评",
+      "tail": "张先生",
+      "tail_type": "人物",
+      "polarity": "negative",
+      "stance_score": -0.8,
+      "intensity": 0.8,
+      "evidence": "我真不懂他所谓“动因”，在术语上到底是何意义？而且张先生所指九项，究竟是说社会现象还是说个人态度，其观念及论点实在太不明了",
+      "confidence": 0.9
+    },
+    {
+      "id": "r8",
+      "head": "张先生",
+      "head_type": "人物",
+      "relation": "批评",
+      "relation_subtype": "一般批评",
+      "tail": "陈独秀",
+      "tail_type": "人物",
+      "polarity": "negative",
+      "stance_score": -0.5,
+      "intensity": 0.5,
+      "evidence": "乃张先生一则曰“不究九端之动因”，再则日“乃问人类对于此九项之态度之变迁之动因”",
+      "confidence": 0.9
+    }
+  ],
+  "definitions": [],
+  "citations": [],
+  "rhetorical_devices": [
+    {
+      "id": "rh1",
+      "expression": "此事大类神秘的推背图、烧饼歌",
+      "device_type": "类比",
+      "literal_target": "张先生凭空推算千百年后之果",
+      "function": "将张先生的主张类比为神秘的推背图、烧饼歌，以讽刺其不科学",
+      "evidence": "此事大类神秘的推背图、烧饼歌",
+      "confidence": 0.9
+    },
+    {
+      "id": "rh2",
+      "expression": "只待富于神秘性的玄学大家重造新推背图，社会科学家惟有甘拜下风",
+      "device_type": "讽刺",
+      "literal_target": "玄学大家",
+      "function": "讽刺玄学大家只能靠神秘主义预测未来，而社会科学家无法与之相比",
+      "evidence": "只待富于神秘性的玄学大家重造新推背图，社会科学家惟有甘拜下风",
+      "confidence": 0.9
+    }
+  ],
+  "uncertainties": [
+    {
+      "item": "张先生所指九项的具体内容",
+      "reason": "文本中未列出九项的具体内容，仅提及第一至第九项"
+    }
+  ],
+  "_meta": {
+    "status": "success",
+    "stage": "extract",
+    "model": "deepseek-ai/DeepSeek-V4-Flash",
+    "base_url": "https://api.siliconflow.cn/v1",
+    "prompt_version": "v2.0",
+    "schema_version": "lite_v3.0",
+    "segment_id": "陈独秀_002_69a217f6_s0005",
+    "article_id": "陈独秀_002_69a217f6",
+    "char_start": 2513,
+    "char_end": 3101,
+    "raw_path": "E:\\1研究生\\岭南大学\\论文毕业\\capstone\\资料\\新的内容开始了\\local_upload\\kg_runs_v2\\陈独秀\\raw_outputs\\extract\\陈独秀_002_69a217f6_s0005.txt",
+    "parsed_at": "2026-05-21T21:48:46",
+    "started_at": "2026-05-21T21:46:31",
+    "elapsed_seconds": 134.684,
+    "strict_evidence_check": true,
+    "drop_unsupported_evidence": true,
+    "request_timeout_seconds": 180
+  }
+}

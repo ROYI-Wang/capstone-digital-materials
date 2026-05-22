@@ -1,0 +1,260 @@
+{
+  "metadata": {
+    "schema_version": "lite_v2.0",
+    "article_id": "范寿康_000_14d2ac72",
+    "article_title": "评所谓“科学与玄学之争”",
+    "source_author": "范寿康",
+    "section_title": "",
+    "section_author": "",
+    "segment_id": "范寿康_000_14d2ac72_s0011",
+    "segment_index": 11,
+    "source_file": "E:\\1研究生\\岭南大学\\论文毕业\\capstone\\资料\\新的内容开始了\\local_upload\\input_w1\\范寿康.txt"
+  },
+  "entities": [
+    {
+      "id": "e1",
+      "name": "直觉主义",
+      "canonical_name": "直觉主义",
+      "type": "主义/学说/理论",
+      "evidence": "谓直觉主义就立脚于这一点，而且他只能够也只应该中止于这一点；可是事实上他往往还想从主观独断地演绎适用于实际生活的内容的伦理规范（指2),这是直觉主义的根本错误。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e2",
+      "name": "伦理规范",
+      "canonical_name": "伦理规范",
+      "type": "概念",
+      "evidence": "谓直觉主义就立脚于这一点，而且他只能够也只应该中止于这一点；可是事实上他往往还想从主观独断地演绎适用于实际生活的内容的伦理规范（指2),这是直觉主义的根本错误。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e3",
+      "name": "科学",
+      "canonical_name": "科学",
+      "type": "概念",
+      "evidence": "我们只能用科学的探讨方才能够获得这一种内容的伦理规范。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e4",
+      "name": "快乐主义",
+      "canonical_name": "快乐主义",
+      "type": "主义/学说/理论",
+      "evidence": "对于伦理的当为的先天形式，对于人类最可宝贵的义务意识，我们当然不应该和快乐主义的学问家一样去全忽视他——快乐主义的学问家将各种伦理的规范都看做经验的产物",
+      "confidence": 1.0
+    },
+    {
+      "id": "e5",
+      "name": "胡恩特（Wundt）",
+      "canonical_name": "胡恩特",
+      "type": "人物",
+      "evidence": "胡恩特（Wundt）的这一句话的确含有至理。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e6",
+      "name": "人生观",
+      "canonical_name": "人生观",
+      "type": "概念",
+      "evidence": "我的私见以为伦理规范——人生观——一部分是先天的，一部分是后天的。",
+      "confidence": 1.0
+    }
+  ],
+  "claims": [
+    {
+      "id": "c1",
+      "speaker": "范寿康",
+      "claim": "直觉主义往往还想从主观独断地演绎适用于实际生活的内容的伦理规范，这是直觉主义的根本错误。",
+      "target": "直觉主义",
+      "claim_type": "论战策略批评",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "可是事实上他往往还想从主观独断地演绎适用于实际生活的内容的伦理规范（指2),这是直觉主义的根本错误。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c2",
+      "speaker": "范寿康",
+      "claim": "内容的伦理法则不能单从主观直观而得到，只能用科学的探讨才能获得。",
+      "target": "伦理规范",
+      "claim_type": "方法论主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "内容的伦理法则决不是如纯粹主观形式一样，能够单从主观直观而得的，我们只能用科学的探讨方才能够获得这一种内容的伦理规范。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c3",
+      "speaker": "范寿康",
+      "claim": "由科学研究而获得的内容法则究竟有没有普遍妥当性，这实在是一个疑问。",
+      "target": "科学",
+      "claim_type": "问题提出",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "至于这一种由科学研究而获得的内容法则究竟有没有普遍妥当性，这实在是一个疑问。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c4",
+      "speaker": "范寿康",
+      "claim": "单单纯粹形式的规定对于实际科学和实际生活是不够使用的。",
+      "target": "先天形式",
+      "claim_type": "方法论主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "单单纯粹形式的规定对于实际科学和实际生活是不够使用",
+      "confidence": 1.0
+    },
+    {
+      "id": "c5",
+      "speaker": "范寿康",
+      "claim": "从主观方面独断地演绎出来的规范比从科学研究所得的规范更当少妥当性和权威。",
+      "target": "伦理规范",
+      "claim_type": "方法论主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "从主观方面独断地演绎出来的规范比从科学研究所得的规范更当少妥当性和权威。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c6",
+      "speaker": "范寿康",
+      "claim": "我们不应该和快乐主义的学问家一样去全忽视伦理的当为的先天形式和人类最可宝贵的义务意识。",
+      "target": "快乐主义",
+      "claim_type": "论战策略批评",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "对于伦理的当为的先天形式，对于人类最可宝贵的义务意识，我们当然不应该和快乐主义的学问家一样去全忽视他——快乐主义的学问家将各种伦理的规范都看做经验的产物",
+      "confidence": 1.0
+    },
+    {
+      "id": "c7",
+      "speaker": "范寿康",
+      "claim": "快乐主义的学问家将各种伦理的规范都看做经验的产物。",
+      "target": "快乐主义",
+      "claim_type": "知识论主张",
+      "claim_status": "间接转述",
+      "polarity": "negative",
+      "evidence": "快乐主义的学问家将各种伦理的规范都看做经验的产物",
+      "confidence": 1.0
+    },
+    {
+      "id": "c8",
+      "speaker": "范寿康",
+      "claim": "在先天形式以外，我们不得不根据科学研究，树立几条更切实的内容的基本法则。",
+      "target": "伦理规范",
+      "claim_type": "方法论主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "可是在这种先天形式以外，我们不得不根据科学研究，树立几条更切实的内容的基本法则。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c9",
+      "speaker": "范寿康",
+      "claim": "伦理规范——人生观——一部分是先天的，一部分是后天的。",
+      "target": "人生观",
+      "claim_type": "定义性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "我的私见以为伦理规范——人生观——一部分是先天的，一部分是后天的。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c10",
+      "speaker": "范寿康",
+      "claim": "先天的形式是由主观的直觉而得，决不是科学所能干涉。",
+      "target": "先天形式",
+      "claim_type": "定义性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "先天的形式是由主观的直觉而得，决不是科学所能干涉。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c11",
+      "speaker": "范寿康",
+      "claim": "后天的内容应由科学的方法探讨而定，决不是主观所应妄定。",
+      "target": "后天内容",
+      "claim_type": "方法论主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "后天的内容应由科学的方法探讨而定，决不是主观所应妄定。",
+      "confidence": 1.0
+    }
+  ],
+  "relations": [
+    {
+      "id": "r1",
+      "head": "范寿康",
+      "head_type": "人物",
+      "relation": "批评",
+      "tail": "直觉主义",
+      "tail_type": "主义/学说/理论",
+      "polarity": "negative",
+      "evidence": "可是事实上他往往还想从主观独断地演绎适用于实际生活的内容的伦理规范（指2),这是直觉主义的根本错误。",
+      "confidence": 1.0
+    },
+    {
+      "id": "r2",
+      "head": "范寿康",
+      "head_type": "人物",
+      "relation": "批评",
+      "tail": "快乐主义",
+      "tail_type": "主义/学说/理论",
+      "polarity": "negative",
+      "evidence": "对于伦理的当为的先天形式，对于人类最可宝贵的义务意识，我们当然不应该和快乐主义的学问家一样去全忽视他——快乐主义的学问家将各种伦理的规范都看做经验的产物",
+      "confidence": 1.0
+    },
+    {
+      "id": "r3",
+      "head": "范寿康",
+      "head_type": "人物",
+      "relation": "相关",
+      "tail": "胡恩特（Wundt）",
+      "tail_type": "人物",
+      "polarity": "positive",
+      "evidence": "胡恩特（Wundt）的这一句话的确含有至理。",
+      "confidence": 1.0
+    },
+    {
+      "id": "r4",
+      "head": "范寿康",
+      "head_type": "人物",
+      "relation": "定义",
+      "tail": "人生观",
+      "tail_type": "概念",
+      "polarity": "positive",
+      "evidence": "我的私见以为伦理规范——人生观——一部分是先天的，一部分是后天的。",
+      "confidence": 1.0
+    }
+  ],
+  "definitions": [],
+  "citations": [],
+  "rhetorical_devices": [],
+  "uncertainties": [
+    {
+      "item": "胡恩特（Wundt）的具体引文内容",
+      "reason": "文本中只提到'胡恩特（Wundt）的这一句话的确含有至理'，但未直接给出引文，无法确定具体引用的句子。"
+    }
+  ],
+  "_meta": {
+    "status": "success",
+    "stage": "extract",
+    "model": "deepseek-ai/DeepSeek-V4-Flash",
+    "base_url": "https://api.siliconflow.cn/v1",
+    "prompt_version": "extract_prompt_v2.0",
+    "schema_version": "lite_v2.0",
+    "segment_id": "范寿康_000_14d2ac72_s0011",
+    "article_id": "范寿康_000_14d2ac72",
+    "char_start": 5490,
+    "char_end": 6082,
+    "raw_path": "E:\\1研究生\\岭南大学\\论文毕业\\capstone\\资料\\新的内容开始了\\local_upload\\kg_runs\\范寿康\\raw_outputs\\extract\\范寿康_000_14d2ac72_s0011.txt",
+    "parsed_at": "2026-05-20T00:06:37",
+    "started_at": "2026-05-19T23:59:20",
+    "elapsed_seconds": 437.365,
+    "strict_evidence_check": true,
+    "drop_unsupported_evidence": true,
+    "request_timeout_seconds": 180
+  }
+}

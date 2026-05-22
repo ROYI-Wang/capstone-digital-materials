@@ -1,0 +1,233 @@
+{
+  "metadata": {
+    "schema_version": "lite_v2.0",
+    "article_id": "丁文江2_000_e838922e",
+    "article_title": "玄学与科学——答张君劢",
+    "source_author": "丁文江",
+    "section_title": "",
+    "section_author": "",
+    "segment_id": "丁文江2_000_e838922e_s0010",
+    "segment_index": 10,
+    "source_file": "E:\\1研究生\\岭南大学\\论文毕业\\capstone\\资料\\新的内容开始了\\local_upload\\input_texts\\丁文江2.txt"
+  },
+  "entities": [
+    {
+      "id": "e1",
+      "name": "物质",
+      "canonical_name": "物质",
+      "type": "Concept",
+      "evidence": "物质精神是随人而异",
+      "confidence": 0.9
+    },
+    {
+      "id": "e2",
+      "name": "精神",
+      "canonical_name": "精神",
+      "type": "Concept",
+      "evidence": "物质精神是随人而异",
+      "confidence": 0.9
+    },
+    {
+      "id": "e3",
+      "name": "人生观",
+      "canonical_name": "人生观",
+      "type": "Concept",
+      "evidence": "人生观是我对于我以外的物同人的观察、主张、要求、希望",
+      "confidence": 0.95
+    },
+    {
+      "id": "e4",
+      "name": "科学",
+      "canonical_name": "科学",
+      "type": "Concept",
+      "evidence": "凡有科学的材料都可以包括在人生观里面",
+      "confidence": 0.9
+    },
+    {
+      "id": "e5",
+      "name": "地质学",
+      "canonical_name": "地质学",
+      "type": "Concept",
+      "evidence": "即如地质学，何尝不是我对于大地河山的观察",
+      "confidence": 0.9
+    },
+    {
+      "id": "e6",
+      "name": "我",
+      "canonical_name": "我",
+      "type": "Concept",
+      "evidence": "从我这方面看起来，我是精神，非我的人是物质",
+      "confidence": 0.8
+    },
+    {
+      "id": "e7",
+      "name": "非我",
+      "canonical_name": "非我",
+      "type": "Concept",
+      "evidence": "非我的人是物质",
+      "confidence": 0.8
+    },
+    {
+      "id": "e8",
+      "name": "至善至美之境",
+      "canonical_name": "至善至美之境",
+      "type": "Concept",
+      "evidence": "常求所以变革之，以达于至善至美之境",
+      "confidence": 0.8
+    }
+  ],
+  "claims": [
+    {
+      "id": "c1",
+      "speaker": "丁文江",
+      "claim": "物质精神是随人而异，没有一定的",
+      "target": "",
+      "claim_type": "知识论主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "照这样说起来，物质精神是随人而异，没有一定的",
+      "confidence": 0.9
+    },
+    {
+      "id": "c2",
+      "speaker": "丁文江",
+      "claim": "从我这方面看起来，我是精神，非我的人是物质；从人家方面看起来，我是他的人，是物质，人是他的我，是精神",
+      "target": "",
+      "claim_type": "知识论主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "从我这方面看起来，我是精神，非我的人是物质；从人家方面看起来，我是他的人，是物质，人是他的我，是精神",
+      "confidence": 0.9
+    },
+    {
+      "id": "c3",
+      "speaker": "丁文江",
+      "claim": "我对于我以外的物同人完全是善意的，不会得想利用他，破坏他，占领他的",
+      "target": "",
+      "claim_type": "社会理论主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "我对于我以外的物同人完全是善意的，不会得想利用他，破坏他，占领他的",
+      "confidence": 0.9
+    },
+    {
+      "id": "c4",
+      "speaker": "丁文江",
+      "claim": "既然是完全善意，似乎可以不致于冲突，不知道何以又会成功古今以来的大问题",
+      "target": "",
+      "claim_type": "问题提出",
+      "claim_status": "作者推论",
+      "polarity": "neutral",
+      "evidence": "既然是完全善意，似乎可以不致于冲突，不知道何以又会成功古今以来的大问题",
+      "confidence": 0.9
+    },
+    {
+      "id": "c5",
+      "speaker": "丁文江",
+      "claim": "凡有科学的材料都可以包括在人生观里面",
+      "target": "",
+      "claim_type": "知识论主张",
+      "claim_status": "作者推论",
+      "polarity": "positive",
+      "evidence": "范围既然这样广，岂不是凡有科学的材料都可以包括在人生观里面",
+      "confidence": 0.9
+    },
+    {
+      "id": "c6",
+      "speaker": "丁文江",
+      "claim": "那一样科学不是我对于物同人的一种观察，一种主张",
+      "target": "",
+      "claim_type": "知识论主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "因为那一样科学不是我对于物同人的一种观察，一种主张",
+      "confidence": 0.9
+    },
+    {
+      "id": "c7",
+      "speaker": "丁文江",
+      "claim": "地质学何尝不是我对于大地河山的观察",
+      "target": "",
+      "claim_type": "知识论主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "即如地质学，何尝不是我对于大地河山的观察",
+      "confidence": 0.9
+    }
+  ],
+  "relations": [
+    {
+      "id": "r1",
+      "head": "人生观",
+      "head_type": "Concept",
+      "relation": "DEFINES",
+      "tail": "我对于我以外的物同人的观察、主张、要求、希望",
+      "tail_type": "Concept",
+      "polarity": "neutral",
+      "evidence": "人生观是我对于我以外的物同人的观察、主张、要求、希望",
+      "confidence": 0.95
+    },
+    {
+      "id": "r2",
+      "head": "科学",
+      "head_type": "Concept",
+      "relation": "CONTAINS",
+      "tail": "人生观",
+      "tail_type": "Concept",
+      "polarity": "positive",
+      "evidence": "凡有科学的材料都可以包括在人生观里面",
+      "confidence": 0.9
+    },
+    {
+      "id": "r3",
+      "head": "丁文江",
+      "head_type": "Concept",
+      "relation": "DISTINGUISHES",
+      "tail": "非我",
+      "tail_type": "Concept",
+      "polarity": "neutral",
+      "evidence": "从我这方面看起来，我是精神，非我的人是物质",
+      "confidence": 0.9
+    }
+  ],
+  "definitions": [
+    {
+      "id": "def1",
+      "term": "人生观",
+      "definition": "我对于我以外的物同人的观察、主张、要求、希望",
+      "evidence": "人生观是我对于我以外的物同人的观察、主张、要求、希望",
+      "confidence": 0.95
+    }
+  ],
+  "citations": [],
+  "rhetorical_devices": [],
+  "uncertainties": [
+    {
+      "item": "“这两个论断”具体指代哪两个论断",
+      "reason": "文本中未明确说明“这两个论断”的具体内容，仅提及“我对于我以外的物同人完全是善意的”等，但无法确定是哪两个论断。"
+    },
+    {
+      "item": "“我前次加的第十至第十三那四条”具体内容",
+      "reason": "文本中未提供这四条的具体内容，无法判断其与当前人生观定义的关系。"
+    }
+  ],
+  "_meta": {
+    "status": "success",
+    "stage": "extract",
+    "model": "deepseek-ai/DeepSeek-V4-Flash",
+    "base_url": "https://api.siliconflow.cn/v1",
+    "prompt_version": "extract_prompt_v2.0",
+    "schema_version": "lite_v2.0",
+    "segment_id": "丁文江2_000_e838922e_s0010",
+    "article_id": "丁文江2_000_e838922e",
+    "char_start": 2581,
+    "char_end": 2929,
+    "raw_path": "E:\\1研究生\\岭南大学\\论文毕业\\capstone\\资料\\新的内容开始了\\local_upload\\kg_runs\\丁文江_等3篇\\raw_outputs\\extract\\丁文江2_000_e838922e_s0010.txt",
+    "parsed_at": "2026-05-19T03:49:44",
+    "started_at": "2026-05-19T03:48:50",
+    "elapsed_seconds": 54.109,
+    "strict_evidence_check": true,
+    "drop_unsupported_evidence": true,
+    "request_timeout_seconds": 180
+  }
+}

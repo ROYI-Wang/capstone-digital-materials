@@ -1,0 +1,575 @@
+{
+  "metadata": {
+    "schema_version": "lite_v3.0",
+    "article_id": "林宰平_000_acbbe922",
+    "article_title": "读丁在君先生的《玄学与科学》",
+    "source_author": "林宰平",
+    "section_title": "",
+    "section_author": "",
+    "segment_id": "林宰平_000_acbbe922_s0027",
+    "segment_index": 27,
+    "source_file": "E:\\1研究生\\岭南大学\\论文毕业\\capstone\\资料\\新的内容开始了\\local_upload\\input_林宰平\\林宰平.txt"
+  },
+  "entities": [
+    {
+      "id": "e1",
+      "name": "理智",
+      "canonical_name": "理智",
+      "type": "概念",
+      "evidence": "不是仅仅理智一方面，感情的活动，意志的活动，也很占一大部分。",
+      "confidence": IE
+    },
+    {
+      "id": "e2",
+      "name": "感情的活动",
+      "canonical_name": "感情的活动",
+      "type": "概念",
+      "evidence": "不是仅仅理智一方面，感情的活动，意志的活动，也很占一大部分。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e3",
+      "name": "意志的活动",
+      "canonical_name": "意志的活动",
+      "type": "概念",
+      "evidence": "不是仅仅理智一方面，感情的活动，意志的活动，也很占一大部分。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e4",
+      "name": "人生全体的发展",
+      "canonical_name": "人生全体的发展",
+      "type": "概念",
+      "evidence": "人生全体的发展，一定要各方面调和起来方能有望，决不能单从一方面进行的。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e5",
+      "name": "理智的作用",
+      "canonical_name": "理智的作用",
+      "type": "概念",
+      "evidence": "理智的作用，专重概念的推理。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e6",
+      "name": "概念的推理",
+      "canonical_name": "概念的推理",
+      "type": "概念",
+      "evidence": "理智的作用，专重概念的推理。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e7",
+      "name": "科学",
+      "canonical_name": "科学",
+      "type": "概念",
+      "evidence": "我晓得大家一定要说科学是以经验为根据的，这话诚然不错，可是科学的材料，并不是具体经验的原状，他拿经验做的材料的时候，实在已经用过一番淘汰的工夫，把主观要素——情意——统统除去，只余下感觉的部分，这个自然是抽象的产物了，科学一步一步向前进，他的抽象性也一步一步的显著，抽象性愈大，则距人生愈远。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e8",
+      "name": "经验",
+      "canonical_name": "经验",
+      "type": "概念",
+      "evidence": "我晓得大家一定要说科学是以经验为根据的，这话诚然不错，可是科学的材料，并不是具体经验的原状，他拿经验做的材料的时候，实在已经用过一番淘汰的工夫，把主观要素——情意——统统除去，只余下感觉的部分，这个自然是抽象的产物了，科学一步一步向前进，他的抽象性也一步一步的显著，抽象性愈大，则距人生愈远。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e9",
+      "name": "主观要素——情意",
+      "canonical_name": "主观要素——情意",
+      "type": "概念",
+      "evidence": "把主观要素——情意——统统除去，只余下感觉的部分，这个自然是抽象的产物了",
+      "confidence": 0.9
+    },
+    {
+      "id": "e10",
+      "name": "感觉的部分",
+      "canonical_name": "感觉的部分",
+      "type": "概念",
+      "evidence": "只余下感觉的部分，这个自然是抽象的产物了",
+      "confidence": 0.9
+    },
+    {
+      "id": "e11",
+      "name": "抽象性",
+      "canonical_name": "抽象性",
+      "type": "概念",
+      "evidence": "科学一步一步向前进，他的抽象性也一步一步的显著，抽象性愈大，则距人生愈远。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e12",
+      "name": "人生",
+      "canonical_name": "人生",
+      "type": "概念",
+      "evidence": "抽象性愈大，则距人生愈远。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e13",
+      "name": "宇宙",
+      "canonical_name": "宇宙",
+      "type": "概念",
+      "evidence": "宇宙中有善有恶，横竖是个无所不有的。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e14",
+      "name": "善",
+      "canonical_name": "善",
+      "type": "概念",
+      "evidence": "宇宙中有善有恶，横竖是个无所不有的。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e15",
+      "name": "恶",
+      "canonical_name": "恶",
+      "type": "概念",
+      "evidence": "宇宙中有善有恶，横竖是个无所不有的。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e16",
+      "name": "人类的责任",
+      "canonical_name": "人类的责任",
+      "type": "概念",
+      "evidence": "所以人类的责任，就是要在善恶夹杂的当中，奋斗出一条生路来。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e17",
+      "name": "人类",
+      "canonical_name": "人类",
+      "type": "阵营/群体",
+      "evidence": "人类在世界里实在是很古怪的东西",
+      "confidence": 0.9
+    },
+    {
+      "id": "e18",
+      "name": "人的心理作用",
+      "canonical_name": "人的心理作用",
+      "type": "概念",
+      "evidence": "大部分即是人的心理作用。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e19",
+      "name": "各人对于人生的观念",
+      "canonical_name": "各人对于人生的观念",
+      "type": "概念",
+      "evidence": "至于各人对于人生的观念，各有他的见地，恐怕全人类中，要找出一两个他的人生观完完全全相同的，似乎很不容易。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e20",
+      "name": "情感的活动",
+      "canonical_name": "情感的活动",
+      "type": "概念",
+      "evidence": "他最为古怪的，尤其在情感的活动，不但主观性非常之重，并且有时连甚么主观非主观都说不上，他是莫名其妙而发动的。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e21",
+      "name": "主观性",
+      "canonical_name": "主观性",
+      "type": "概念",
+      "evidence": "不但主观性非常之重，并且有时连甚么主观非主观都说不上，他是莫名其妙而发动的。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e22",
+      "name": "丁在君",
+      "canonical_name": "丁在君",
+      "type": "人物",
+      "evidence": "这一段的话，不知在君先生以为如何。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e23",
+      "name": "倭伊铿",
+      "canonical_name": "倭伊铿",
+      "type": "人物",
+      "evidence": "我又记得倭伊铿对我们说过：“宇宙中有善有恶，横竖是个无所不有的。既是乱烘烘的这种世界，所以人类的责任，就是要在善恶夹杂的当中，奋斗出一条生路来。”",
+      "confidence": 0.9
+    },
+    {
+      "id": "e24",
+      "name": "《晨报》副刊",
+      "canonical_name": "《晨报》副刊",
+      "type": "著作",
+      "evidence": "（同见上引《晨报》副刊)",
+      "confidence": 0.9
+    },
+    {
+      "id": "e25",
+      "name": "《改造》第四卷五号倭伊铿《谈话录》",
+      "canonical_name": "《改造》第四卷五号倭伊铿《谈话录》",
+      "type": "著作",
+      "evidence": "（详见《改造》第四卷五号倭伊铿《谈话录》）",
+      "confidence": 0.9
+    }
+  ],
+  "claims": [
+    {
+      "id": "c1",
+      "speaker": "作者",
+      "claim": "不是仅仅理智一方面，感情的活动，意志的活动，也很占一大部分。",
+      "target": "人生全体的发展",
+      "claim_type": "描述性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "不是仅仅理智一方面，感情的活动，意志的活动，也很占一大部分。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c2",
+      "speaker": "作者",
+      "claim": "人生全体的发展，一定要各方面调和起来方能有望，决不能单从一方面进行的。",
+      "target": "人生全体的发展",
+      "claim_type": "规范性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "人生全体的发展，一定要各方面调和起来方能有望，决不能单从一方面进行的。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c3",
+      "speaker": "作者",
+      "claim": "理智的作用，专重概念的推理。",
+      "target": "理智的作用",
+      "claim_type": "描述性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "理智的作用，专重概念的推理。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c4",
+      "speaker": "大家",
+      "claim": "科学是以经验为根据的",
+      "target": "科学",
+      "claim_type": "描述性主张",
+      "claim_status": "间接转述",
+      "polarity": "positive",
+      "evidence": "我晓得大家一定要说科学是以经验为根据的，这话诚然不错",
+      "confidence": 0.9
+    },
+    {
+      "id": "c5",
+      "speaker": "作者",
+      "claim": "科学的材料，并不是具体经验的原状，他拿经验做的材料的时候，实在已经用过一番淘汰的工夫，把主观要素——情意——统统除去，只余下感觉的部分，这个自然是抽象的产物了",
+      "target": "科学",
+      "claim_type": "描述性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "可是科学的材料，并不是具体经验的原状，他拿经验做的材料的时候，实在已经用过一番淘汰的工夫，把主观要素——情意——统统除去，只余下感觉的部分，这个自然是抽象的产物了",
+      "confidence": 0.9
+    },
+    {
+      "id": "c6",
+      "speaker": "作者",
+      "claim": "科学一步一步向前进，他的抽象性也一步一步的显著，抽象性愈大，则距人生愈远。",
+      "target": "科学",
+      "claim_type": "因果主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "科学一步一步向前进，他的抽象性也一步一步的显著，抽象性愈大，则距人生愈远。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c7",
+      "speaker": "倭伊铿",
+      "claim": "宇宙中有善有恶，横竖是个无所不有的。既是乱烘烘的这种世界，所以人类的责任，就是要在善恶夹杂的当中，奋斗出一条生路来。",
+      "target": "宇宙",
+      "claim_type": "描述性主张",
+      "claim_status": "直接引用",
+      "polarity": "neutral",
+      "evidence": "我又记得倭伊铿对我们说过：“宇宙中有善有恶，横竖是个无所不有的。既是乱烘烘的这种世界，所以人类的责任，就是要在善恶夹杂的当中，奋斗出一条生路来。”",
+      "confidence": 0.9
+    },
+    {
+      "id": "c8",
+      "speaker": "作者",
+      "claim": "人类在世界里实在是很古怪的东西",
+      "target": "人类",
+      "claim_type": "评价性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "我现在所以引了这几句话，专为说明人类在世界里实在是很古怪的东西",
+      "confidence": 0.9
+    },
+    {
+      "id": "c9",
+      "speaker": "作者",
+      "claim": "能善也是他，能恶也是他！",
+      "target": "人类",
+      "claim_type": "描述性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "能善也是他，能恶也是他！",
+      "confidence": 0.9
+    },
+    {
+      "id": "c10",
+      "speaker": "作者",
+      "claim": "乱烘烘的世界，谁在那里兴风作浪呢？大部分即是人的心理作用。",
+      "target": "人的心理作用",
+      "claim_type": "因果主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "乱烘烘的世界，谁在那里兴风作浪呢？大部分即是人的心理作用。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c11",
+      "speaker": "作者",
+      "claim": "各人对于人生的观念，各有他的见地，恐怕全人类中，要找出一两个他的人生观完完全全相同的，似乎很不容易。",
+      "target": "各人对于人生的观念",
+      "claim_type": "描述性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "至于各人对于人生的观念，各有他的见地，恐怕全人类中，要找出一两个他的人生观完完全全相同的，似乎很不容易。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c12",
+      "speaker": "作者",
+      "claim": "他最为古怪的，尤其在情感的活动，不但主观性非常之重，并且有时连甚么主观非主观都说不上，他是莫名其妙而发动的。",
+      "target": "情感的活动",
+      "claim_type": "描述性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "他最为古怪的，尤其在情感的活动，不但主观性非常之重，并且有时连甚么主观非主观都说不上，他是莫名其妙而发动的。",
+      "confidence": 0.9
+    }
+  ],
+  "relations": [
+    {
+      "id": "r1",
+      "head": "人生全体的发展",
+      "head_type": "概念",
+      "relation": "主张",
+      "relation_subtype": "不适用",
+      "tail": "不是仅仅理智一方面，感情的活动，意志的活动，也很占一大部分。",
+      "tail_type": "观点",
+      "polarity": "positive",
+      "stance_score": 1.0,
+      "intensity": 0.7,
+      "evidence": "不是仅仅理智一方面，感情的活动，意志的活动，也很占一大部分。",
+      "confidence": 0.9
+    },
+    {
+      "id": "r2",
+      "head": "人生全体的发展",
+      "head_type": "概念",
+      "relation": "主张",
+      "relation_subtype": "不适用",
+      "tail": "一定要各方面调和起来方能有望，决不能单从一方面进行的。",
+      "tail_type": "观点",
+      "polarity": "positive",
+      "stance_score": 1.0,
+      "intensity": 0.8,
+      "evidence": "人生全体的发展，一定要各方面调和起来方能有望，决不能单从一方面进行的。",
+      "confidence": 0.9
+    },
+    {
+      "id": "r3",
+      "head": "理智的作用",
+      "head_type": "概念",
+      "relation": "主张",
+      "relation_subtype": "不适用",
+      "tail": "专重概念的推理",
+      "tail_type": "观点",
+      "polarity": "neutral",
+      "stance_score": 0.0,
+      "intensity": 0.3,
+      "evidence": "理智的作用，专重概念的推理。",
+      "confidence": 0.9
+    },
+    {
+      "id": "r4",
+      "head": "作者",
+      "head_type": "人物",
+      "relation": "回应",
+      "relation_subtype": "部分肯定",
+      "tail": "大家",
+      "tail_type": "阵营/群体",
+      "polarity": "mixed",
+      "stance_score": 0.0,
+      "intensity": 0.5,
+      "evidence": "我晓得大家一定要说科学是以经验为根据的，这话诚然不错，可是科学的材料，并不是具体经验的原状",
+      "confidence": 0.9
+    },
+    {
+      "id": "r5",
+      "head": "科学",
+      "head_type": "概念",
+      "relation": "主张",
+      "relation_subtype": "不适用",
+      "tail": "科学的材料，并不是具体经验的原状，他拿经验做的材料的时候，实在已经用过一番淘汰的工夫，把主观要素——情意——统统除去，只余下感觉的部分，这个自然是抽象的产物了",
+      "tail_type": "观点",
+      "polarity": "neutral",
+      "stance_score": 0.0,
+      "intensity": 0.5,
+      "evidence": "可是科学的材料，并不是具体经验的原状，他拿经验做的材料的时候，实在已经用过一番淘汰的工夫，把主观要素——情意——统统除去，只余下感觉的部分，这个自然是抽象的产物了",
+      "confidence": 0.9
+    },
+    {
+      "id": "r6",
+      "head": "科学",
+      "head_type": "概念",
+      "relation": "导致",
+      "relation_subtype": "不适用",
+      "tail": "抽象性愈大，则距人生愈远",
+      "tail_type": "观点",
+      "polarity": "negative",
+      "stance_score": -0.7,
+      "intensity": 0.7,
+      "evidence": "科学一步一步向前进，他的抽象性也一步一步的显著，抽象性愈大，则距人生愈远。",
+      "confidence": 0.9
+    },
+    {
+      "id": "r7",
+      "head": "作者",
+      "head_type": "人物",
+      "relation": "引用",
+      "relation_subtype": "援引权威支持",
+      "tail": "倭伊铿",
+      "tail_type": "人物",
+      "polarity": "positive",
+      "stance_score": 0.8,
+      "intensity": 0.6,
+      "evidence": "我又记得倭伊铿对我们说过：“宇宙中有善有恶，横竖是个无所不有的。既是乱烘烘的这种世界，所以人类的责任，就是要在善恶夹杂的当中，奋斗出一条生路来。”",
+      "confidence": 0.9
+    },
+    {
+      "id": "r8",
+      "head": "作者",
+      "head_type": "人物",
+      "relation": "解释",
+      "relation_subtype": "不适用",
+      "tail": "人类在世界里实在是很古怪的东西",
+      "tail_type": "观点",
+      "polarity": "neutral",
+      "stance_score": 0.0,
+      "intensity": 0.4,
+      "evidence": "我现在所以引了这几句话，专为说明人类在世界里实在是很古怪的东西",
+      "confidence": 0.9
+    },
+    {
+      "id": "r9",
+      "head": "乱烘烘的世界",
+      "head_type": "概念",
+      "relation": "归因于",
+      "relation_subtype": "不适用",
+      "tail": "人的心理作用",
+      "tail_type": "概念",
+      "polarity": "negative",
+      "stance_score": -0.5,
+      "intensity": 0.6,
+      "evidence": "乱烘烘的世界，谁在那里兴风作浪呢？大部分即是人的心理作用。",
+      "confidence": 0.9
+    },
+    {
+      "id": "r10",
+      "head": "作者",
+      "head_type": "人物",
+      "relation": "回应",
+      "relation_subtype": "不适用",
+      "tail": "丁在君",
+      "tail_type": "人物",
+      "polarity": "neutral",
+      "stance_score": 0.0,
+      "intensity": 0.3,
+      "evidence": "这一段的话，不知在君先生以为如何。",
+      "confidence": 0.9
+    }
+  ],
+  "definitions": [
+    {
+      "id": "def1",
+      "term": "理智的作用",
+      "definition": "专重概念的推理",
+      "evidence": "理智的作用，专重概念的推理。",
+      "confidence": 0.9
+    },
+    {
+      "id": "def2",
+      "term": "科学的材料",
+      "definition": "并不是具体经验的原状，他拿经验做的材料的时候，实在已经用过一番淘汰的工夫，把主观要素——情意——统统除去，只余下感觉的部分，这个自然是抽象的产物了",
+      "evidence": "可是科学的材料，并不是具体经验的原状，他拿经验做的材料的时候，实在已经用过一番淘汰的工夫，把主观要素——情意——统统除去，只余下感觉的部分，这个自然是抽象的产物了",
+      "confidence": 0.9
+    },
+    {
+      "id": "def3",
+      "term": "人类的责任",
+      "definition": "要在善恶夹杂的当中，奋斗出一条生路来",
+      "evidence": "所以人类的责任，就是要在善恶夹杂的当中，奋斗出一条生路来。",
+      "confidence": 0.9
+    }
+  ],
+  "citations": [
+    {
+      "id": "cit1",
+      "citer": "作者",
+      "quoted_author": "倭伊铿",
+      "quoted_work": "《改造》第四卷五号倭伊铿《谈话录》",
+      "quoted_claim": "宇宙中有善有恶，横竖是个无所不有的。既是乱烘烘的这种世界，所以人类的责任，就是要在善恶夹杂的当中，奋斗出一条生路来。",
+      "function": "援引权威支持",
+      "evidence": "我又记得倭伊铿对我们说过：“宇宙中有善有恶，横竖是个无所不有的。既是乱烘烘的这种世界，所以人类的责任，就是要在善恶夹杂的当中，奋斗出一条生路来。”（详见《改造》第四卷五号倭伊铿《谈话录》）",
+      "confidence": 0.9
+    },
+    {
+      "id": "cit2",
+      "citer": "作者",
+      "quoted_author": "",
+      "quoted_work": "《晨报》副刊",
+      "quoted_claim": "",
+      "function": "中性提及",
+      "evidence": "（同见上引《晨报》副刊)",
+      "confidence": 0.9
+    }
+  ],
+  "rhetorical_devices": [
+    {
+      "id": "rh1",
+      "expression": "乱烘烘的世界，谁在那里兴风作浪呢？",
+      "device_type": "比喻",
+      "literal_target": "世界中的混乱现象",
+      "function": "形象化地说明人的心理作用导致世界混乱",
+      "evidence": "乱烘烘的世界，谁在那里兴风作浪呢？大部分即是人的心理作用。",
+      "confidence": 0.9
+    },
+    {
+      "id": "rh2",
+      "expression": "能善也是他，能恶也是他！",
+      "device_type": "夸张",
+      "literal_target": "人类既能行善也能行恶",
+      "function": "强调人类行为的矛盾性和古怪性",
+      "evidence": "能善也是他，能恶也是他！",
+      "confidence": 0.9
+    },
+    {
+      "id": "rh3",
+      "expression": "他是莫名其妙而发动的",
+      "device_type": "比喻",
+      "literal_target": "情感的活动",
+      "function": "形象化地说明情感活动的非理性、不可预测性",
+      "evidence": "他是莫名其妙而发动的。",
+      "confidence": 0.9
+    }
+  ],
+  "uncertainties": [
+    {
+      "item": "“这一段的话”具体指代的前文内容",
+      "reason": "文本中未明确说明“这一段的话”的具体内容，仅从上下文推测可能指代前文关于科学抽象性的论述。"
+    },
+    {
+      "item": "“大家”具体指代哪些人",
+      "reason": "文本中“大家”是泛指，未明确具体人物或群体。"
+    }
+  ]
+}

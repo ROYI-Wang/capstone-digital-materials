@@ -1,0 +1,41 @@
+{
+  "metadata": {
+    "schema_version": "lite_v3.0",
+    "article_id": "张君劢_002_c870d202",
+    "article_title": "再论人生观与科学并答丁在君",
+    "source_author": "张君劢",
+    "section_title": "",
+    "section_author": "",
+    "segment_id": "张君劢_002_c870d202_s0038",
+    "segment_index": 38,
+    "source_file": "E:\\1研究生\\岭南大学\\论文毕业\\capstone\\资料\\新的内容开始了\\local_upload\\input_张君劢\\张君劢.txt"
+  },
+  "entities": [],
+  "claims": [],
+  "relations": [],
+  "definitions": [],
+  "citations": [],
+  "rhetorical_devices": [],
+  "uncertainties": [],
+  "_meta": {
+    "status": "failed",
+    "stage": "extract",
+    "model": "deepseek-ai/DeepSeek-V4-Flash",
+    "base_url": "https://api.siliconflow.cn/v1",
+    "prompt_version": "v2.0",
+    "schema_version": "lite_v3.0",
+    "segment_id": "张君劢_002_c870d202_s0038",
+    "article_id": "张君劢_002_c870d202",
+    "char_start": 19114,
+    "char_end": 19711,
+    "raw_path": "E:\\1研究生\\岭南大学\\论文毕业\\capstone\\资料\\新的内容开始了\\local_upload\\kg_runs_v2\\张君劢\\raw_outputs\\extract\\张君劢_002_c870d202_s0038.txt",
+    "parsed_at": "2026-05-22T03:46:43",
+    "started_at": "2026-05-22T03:46:14",
+    "elapsed_seconds": 29.359,
+    "error": "ValueError('模型输出中 JSON 对象括号不完整')",
+    "traceback": "Traceback (most recent call last):\n  File \"E:\\1研究生\\岭南大学\\论文毕业\\capstone\\资料\\新的内容开始了\\local_upload\\pipeline_v2\\workflow_complete.py\", line 1434, in process_one_segment\n    parsed = parse_model_json(raw_text)\n  File \"E:\\1研究生\\岭南大学\\论文毕业\\capstone\\资料\\新的内容开始了\\local_upload\\pipeline_v2\\workflow_complete.py\", line 1027, in parse_model_json\n    candidate = extract_first_json_object(raw_text)\n  File \"E:\\1研究生\\岭南大学\\论文毕业\\capstone\\资料\\新的内容开始了\\local_upload\\pipeline_v2\\workflow_complete.py\", line 1023, in extract_first_json_object\n    raise ValueError(\"模型输出中 JSON 对象括号不完整\")\nValueError: 模型输出中 JSON 对象括号不完整\n",
+    "strict_evidence_check": true,
+    "drop_unsupported_evidence": true,
+    "request_timeout_seconds": 60
+  }
+}

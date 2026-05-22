@@ -1,0 +1,559 @@
+{
+  "metadata": {
+    "schema_version": "lite_v3.0",
+    "article_id": "王星拱_000_4d6fdc04",
+    "article_title": "科学与人生观",
+    "source_author": "王星拱",
+    "section_title": "",
+    "section_author": "",
+    "segment_id": "王星拱_000_4d6fdc04_s0009",
+    "segment_index": 9,
+    "source_file": "E:\\1研究生\\岭南大学\\论文毕业\\capstone\\资料\\新的内容开始了\\local_upload\\input_v2_w0\\王星拱.txt"
+  },
+  "entities": [
+    {
+      "id": "e1",
+      "name": "波特罗 (Butler)",
+      "canonical_name": "波特罗",
+      "type": "人物",
+      "evidence": "波特罗 (Butler) 把一种胶体物质，放在极紫光中",
+      "confidence": 1.0
+    },
+    {
+      "id": "e2",
+      "name": "胶体物质",
+      "canonical_name": "胶体物质",
+      "type": "概念",
+      "evidence": "波特罗 (Butler) 把一种胶体物质，放在极紫光中",
+      "confidence": 1.0
+    },
+    {
+      "id": "e3",
+      "name": "极紫光",
+      "canonical_name": "极紫光",
+      "type": "概念",
+      "evidence": "放在极紫光中",
+      "confidence": 1.0
+    },
+    {
+      "id": "e4",
+      "name": "单细胞生命之动",
+      "canonical_name": "单细胞生命之动",
+      "type": "概念",
+      "evidence": "此胶体物质之动，颇类似单细胞生命之动",
+      "confidence": 1.0
+    },
+    {
+      "id": "e5",
+      "name": "无生命的物质",
+      "canonical_name": "无生命的物质",
+      "type": "概念",
+      "evidence": "无生命的物质，若依一定的成分之配合，再经受一定的势力之传递，是可以变成有生命的",
+      "confidence": 1.0
+    },
+    {
+      "id": "e6",
+      "name": "有生命的",
+      "canonical_name": "有生命的",
+      "type": "概念",
+      "evidence": "是可以变成有生命的",
+      "confidence": 1.0
+    },
+    {
+      "id": "e7",
+      "name": "科学家",
+      "canonical_name": "科学家",
+      "type": "阵营/群体",
+      "evidence": "现在科学家所做不到的",
+      "confidence": 1.0
+    },
+    {
+      "id": "e8",
+      "name": "神秘的力量",
+      "canonical_name": "神秘的力量",
+      "type": "概念",
+      "evidence": "就相信有一个神秘的力量在里边主持",
+      "confidence": 1.0
+    },
+    {
+      "id": "e9",
+      "name": "镭类原质",
+      "canonical_name": "镭类原质",
+      "type": "概念",
+      "evidence": "镭类原质之放射的变迁",
+      "confidence": 1.0
+    },
+    {
+      "id": "e10",
+      "name": "生命之力",
+      "canonical_name": "生命之力",
+      "type": "概念",
+      "evidence": "也有一个生命之力或与生命之力有同等神秘意味的力在那里主持吗",
+      "confidence": 1.0
+    },
+    {
+      "id": "e11",
+      "name": "斯宾塞尔",
+      "canonical_name": "斯宾塞尔",
+      "type": "人物",
+      "evidence": "斯宾塞尔虽信宗教，然而因为受了赫胥黎的影响，对于生命问题，到底主张是各部分之互组",
+      "confidence": 1.0
+    },
+    {
+      "id": "e12",
+      "name": "赫胥黎",
+      "canonical_name": "赫胥黎",
+      "type": "人物",
+      "evidence": "因为受了赫胥黎的影响",
+      "confidence": 1.0
+    },
+    {
+      "id": "e13",
+      "name": "生命问题",
+      "canonical_name": "生命问题",
+      "type": "问题",
+      "evidence": "对于生命问题，到底主张是各部分之互组",
+      "confidence": 1.0
+    },
+    {
+      "id": "e14",
+      "name": "各部分之互组 (Corroboration of Parts）",
+      "canonical_name": "各部分之互组",
+      "type": "概念",
+      "evidence": "到底主张是各部分之互组 (Corroboration of Parts）",
+      "confidence": 1.0
+    },
+    {
+      "id": "e15",
+      "name": "唐马森",
+      "canonical_name": "唐马森",
+      "type": "人物",
+      "evidence": "用不着像唐马森另外加一个生命力到生物界里边",
+      "confidence": 1.0
+    },
+    {
+      "id": "e16",
+      "name": "生命力",
+      "canonical_name": "生命力",
+      "type": "概念",
+      "evidence": "另外加一个生命力到生物界里边",
+      "confidence": 1.0
+    },
+    {
+      "id": "e17",
+      "name": "赫克尔",
+      "canonical_name": "赫克尔",
+      "type": "人物",
+      "evidence": "也用不着像赫克尔主张万物皆有生命",
+      "confidence": 1.0
+    },
+    {
+      "id": "e18",
+      "name": "万物皆有生命",
+      "canonical_name": "万物皆有生命",
+      "type": "观点",
+      "evidence": "赫克尔主张万物皆有生命",
+      "confidence": 1.0
+    },
+    {
+      "id": "e19",
+      "name": "地质历史时期",
+      "canonical_name": "地质历史时期",
+      "type": "概念",
+      "evidence": "无生命的物质，在地质历史时期中，有一定的组织，经受一种特别环境之刺激",
+      "confidence": 1.0
+    },
+    {
+      "id": "e20",
+      "name": "特别环境之刺激",
+      "canonical_name": "特别环境之刺激",
+      "type": "概念",
+      "evidence": "经受一种特别环境之刺激",
+      "confidence": 1.0
+    },
+    {
+      "id": "e21",
+      "name": "生物",
+      "canonical_name": "生物",
+      "type": "概念",
+      "evidence": "就进化而成生物",
+      "confidence": 1.0
+    },
+    {
+      "id": "e22",
+      "name": "下等动物",
+      "canonical_name": "下等动物",
+      "type": "概念",
+      "evidence": "下等动物不过用本能的反应去求生",
+      "confidence": 1.0
+    },
+    {
+      "id": "e23",
+      "name": "本能的反应",
+      "canonical_name": "本能的反应",
+      "type": "概念",
+      "evidence": "下等动物不过用本能的反应去求生",
+      "confidence": 1.0
+    },
+    {
+      "id": "e24",
+      "name": "高等动物",
+      "canonical_name": "高等动物",
+      "type": "概念",
+      "evidence": "到了高等动物，遂进化而用概念之选择与组织——即智慧的活动",
+      "confidence": 1.0
+    },
+    {
+      "id": "e25",
+      "name": "概念之选择与组织",
+      "canonical_name": "概念之选择与组织",
+      "type": "概念",
+      "evidence": "遂进化而用概念之选择与组织——即智慧的活动",
+      "confidence": 1.0
+    },
+    {
+      "id": "e26",
+      "name": "智慧的活动",
+      "canonical_name": "智慧的活动",
+      "type": "概念",
+      "evidence": "即智慧的活动",
+      "confidence": 1.0
+    },
+    {
+      "id": "e27",
+      "name": "灵魂",
+      "canonical_name": "灵魂",
+      "type": "概念",
+      "evidence": "不必另外加入一个灵魂，去解决高等动物的智慧之问题",
+      "confidence": 1.0
+    },
+    {
+      "id": "e28",
+      "name": "高等动物的智慧之问题",
+      "canonical_name": "高等动物的智慧之问题",
+      "type": "问题",
+      "evidence": "去解决高等动物的智慧之问题",
+      "confidence": 1.0
+    }
+  ],
+  "claims": [
+    {
+      "id": "c1",
+      "speaker": "作者",
+      "claim": "无生命的物质，若依一定的成分之配合，再经受一定的势力之传递，是可以变成有生命的。",
+      "target": "",
+      "claim_type": "因果主张",
+      "claim_status": "作者推论",
+      "polarity": "positive",
+      "evidence": "无生命的物质，若依一定的成分之配合，再经受一定的势力之传递，是可以变成有生命的。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c2",
+      "speaker": "作者",
+      "claim": "我们不能因为现在科学家做不到，就相信有一个神秘的力量在里边主持。",
+      "target": "",
+      "claim_type": "规范性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "我们不能因为现在科学家做不到，就相信有一个神秘的力量在里边主持。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c3",
+      "speaker": "作者",
+      "claim": "天地之间，科学家所做不到的事，还多得很咧！",
+      "target": "",
+      "claim_type": "描述性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "天地之间，科学家所做不到的事，还多得很咧！",
+      "confidence": 1.0
+    },
+    {
+      "id": "c4",
+      "speaker": "作者",
+      "claim": "我们可能相信镭类原质里边，也有一个生命之力或与生命之力有同等神秘意味的力在那里主持吗？",
+      "target": "",
+      "claim_type": "问题提出",
+      "claim_status": "作者推论",
+      "polarity": "negative",
+      "evidence": "试问我们可能相信镭类原质里边，也有一个生命之力或与生命之力有同等神秘意味的力在那里主持吗？",
+      "confidence": 1.0
+    },
+    {
+      "id": "c5",
+      "speaker": "斯宾塞尔",
+      "claim": "对于生命问题，到底主张是各部分之互组 (Corroboration of Parts）。",
+      "target": "生命问题",
+      "claim_type": "定义性主张",
+      "claim_status": "间接转述",
+      "polarity": "positive",
+      "evidence": "斯宾塞尔虽信宗教，然而因为受了赫胥黎的影响，对于生命问题，到底主张是各部分之互组 (Corroboration of Parts）。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c6",
+      "speaker": "作者",
+      "claim": "我们解决这个问题，实在用不着像唐马森另外加一个生命力到生物界里边，也用不着像赫克尔主张万物皆有生命。",
+      "target": "",
+      "claim_type": "规范性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "我们解决这个问题，实在用不着像唐马森另外加一个生命力到生物界里边，也用不着像赫克尔主张万物皆有生命。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c7",
+      "speaker": "赫克尔",
+      "claim": "万物皆有生命",
+      "target": "",
+      "claim_type": "描述性主张",
+      "claim_status": "间接转述",
+      "polarity": "positive",
+      "evidence": "赫克尔主张万物皆有生命",
+      "confidence": 1.0
+    },
+    {
+      "id": "c8",
+      "speaker": "作者",
+      "claim": "无生命的物质，在地质历史时期中，有一定的组织，经受一种特别环境之刺激，就进化而成生物，并不是不可能的事情。",
+      "target": "",
+      "claim_type": "因果主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "无生命的物质，在地质历史时期中，有一定的组织，经受一种特别环境之刺激（这个环境也许在现在和将来的地球上天然状况之中，不能重行发见了),就进化而成生物，并不是不可能的事情。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c9",
+      "speaker": "作者",
+      "claim": "我们也不必另外加入一个灵魂，去解决高等动物的智慧之问题。",
+      "target": "",
+      "claim_type": "规范性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "我们也不必另外加入一个灵魂，去解决高等动物的智慧之问题。",
+      "confidence": 1.0
+    }
+  ],
+  "relations": [
+    {
+      "id": "r1",
+      "head": "波特罗 (Butler) 把一种胶体物质，放在极紫光中",
+      "head_type": "例证",
+      "relation": "作为论据支持",
+      "relation_subtype": "不适用",
+      "tail": "无生命的物质，若依一定的成分之配合，再经受一定的势力之传递，是可以变成有生命的",
+      "tail_type": "观点",
+      "polarity": "positive",
+      "stance_score": 0.8,
+      "intensity": 0.6,
+      "evidence": "有一种试验，虽不能证明，然而却可指示生物如何从矿物进化而来之途径。波特罗 (Butler) 把一种胶体物质，放在极紫光中，此胶体物质之动，颇类似单细胞生命之动。",
+      "confidence": 1.0
+    },
+    {
+      "id": "r2",
+      "head": "作者",
+      "head_type": "人物",
+      "relation": "反驳",
+      "relation_subtype": "逻辑反驳",
+      "tail": "因为现在科学家做不到，就相信有一个神秘的力量在里边主持",
+      "tail_type": "观点",
+      "polarity": "negative",
+      "stance_score": -0.8,
+      "intensity": 0.7,
+      "evidence": "我们不能因为现在科学家做不到，就相信有一个神秘的力量在里边主持。",
+      "confidence": 1.0
+    },
+    {
+      "id": "r3",
+      "head": "作者",
+      "head_type": "人物",
+      "relation": "归谬",
+      "relation_subtype": "归谬",
+      "tail": "镭类原质里边，也有一个生命之力或与生命之力有同等神秘意味的力在那里主持",
+      "tail_type": "观点",
+      "polarity": "negative",
+      "stance_score": -0.9,
+      "intensity": 0.8,
+      "evidence": "试问我们可能相信镭类原质里边，也有一个生命之力或与生命之力有同等神秘意味的力在那里主持吗？",
+      "confidence": 1.0
+    },
+    {
+      "id": "r4",
+      "head": "斯宾塞尔",
+      "head_type": "人物",
+      "relation": "主张",
+      "relation_subtype": "不适用",
+      "tail": "对于生命问题，到底主张是各部分之互组 (Corroboration of Parts）",
+      "tail_type": "观点",
+      "polarity": "positive",
+      "stance_score": 0.5,
+      "intensity": 0.4,
+      "evidence": "斯宾塞尔虽信宗教，然而因为受了赫胥黎的影响，对于生命问题，到底主张是各部分之互组 (Corroboration of Parts）。",
+      "confidence": 1.0
+    },
+    {
+      "id": "r5",
+      "head": "赫胥黎",
+      "head_type": "人物",
+      "relation": "影响",
+      "relation_subtype": "不适用",
+      "tail": "斯宾塞尔",
+      "tail_type": "人物",
+      "polarity": "positive",
+      "stance_score": 0.5,
+      "intensity": 0.3,
+      "evidence": "因为受了赫胥黎的影响",
+      "confidence": 1.0
+    },
+    {
+      "id": "r6",
+      "head": "作者",
+      "head_type": "人物",
+      "relation": "反驳",
+      "relation_subtype": "概念混淆批评",
+      "tail": "唐马森另外加一个生命力到生物界里边",
+      "tail_type": "观点",
+      "polarity": "negative",
+      "stance_score": -0.7,
+      "intensity": 0.6,
+      "evidence": "我们解决这个问题，实在用不着像唐马森另外加一个生命力到生物界里边",
+      "confidence": 1.0
+    },
+    {
+      "id": "r7",
+      "head": "作者",
+      "head_type": "人物",
+      "relation": "反驳",
+      "relation_subtype": "概念混淆批评",
+      "tail": "赫克尔主张万物皆有生命",
+      "tail_type": "观点",
+      "polarity": "negative",
+      "stance_score": -0.7,
+      "intensity": 0.6,
+      "evidence": "也用不着像赫克尔主张万物皆有生命",
+      "confidence": 1.0
+    },
+    {
+      "id": "r8",
+      "head": "无生命的物质，在地质历史时期中，有一定的组织，经受一种特别环境之刺激",
+      "head_type": "概念",
+      "relation": "导致",
+      "relation_subtype": "不适用",
+      "tail": "就进化而成生物",
+      "tail_type": "概念",
+      "polarity": "positive",
+      "stance_score": 0.8,
+      "intensity": 0.6,
+      "evidence": "无生命的物质，在地质历史时期中，有一定的组织，经受一种特别环境之刺激（这个环境也许在现在和将来的地球上天然状况之中，不能重行发见了),就进化而成生物",
+      "confidence": 1.0
+    },
+    {
+      "id": "r9",
+      "head": "下等动物",
+      "head_type": "概念",
+      "relation": "导致",
+      "relation_subtype": "不适用",
+      "tail": "高等动物，遂进化而用概念之选择与组织——即智慧的活动",
+      "tail_type": "概念",
+      "polarity": "positive",
+      "stance_score": 0.6,
+      "intensity": 0.4,
+      "evidence": "下等动物不过用本能的反应去求生，到了高等动物，遂进化而用概念之选择与组织——即智慧的活动",
+      "confidence": 1.0
+    },
+    {
+      "id": "r10",
+      "head": "作者",
+      "head_type": "人物",
+      "relation": "反驳",
+      "relation_subtype": "概念混淆批评",
+      "tail": "另外加入一个灵魂，去解决高等动物的智慧之问题",
+      "tail_type": "观点",
+      "polarity": "negative",
+      "stance_score": -0.7,
+      "intensity": 0.5,
+      "evidence": "我们也不必另外加入一个灵魂，去解决高等动物的智慧之问题。",
+      "confidence": 1.0
+    }
+  ],
+  "definitions": [
+    {
+      "id": "def1",
+      "term": "各部分之互组 (Corroboration of Parts）",
+      "definition": "斯宾塞尔对生命问题的主张，认为生命是各部分相互配合的结果。",
+      "evidence": "斯宾塞尔虽信宗教，然而因为受了赫胥黎的影响，对于生命问题，到底主张是各部分之互组 (Corroboration of Parts）。",
+      "confidence": .src
+    }
+  ],
+  "citations": [
+    {
+      "id": "cit1",
+      "citer": "作者",
+      "quoted_author": "斯宾塞尔",
+      "quoted_work": "",
+      "quoted_claim": "对于生命问题，到底主张是各部分之互组 (Corroboration of Parts）",
+      "function": "援引权威支持",
+      "evidence": "斯宾塞尔虽信宗教，然而因为受了赫胥黎的影响，对于生命问题，到底主张是各部分之互组 (Corroboration of Parts）。",
+      "confidence": 1.0
+    },
+    {
+      "id": "cit2",
+      "citer": "作者",
+      "quoted_author": "赫胥黎",
+      "quoted_work": "",
+      "quoted_claim": "",
+      "function": "作为思想来源",
+      "evidence": "因为受了赫胥黎的影响",
+      "confidence": 1.0
+    },
+    {
+      "id": "cit3",
+      "citer": "作者",
+      "quoted_author": "唐马森",
+      "quoted_work": "",
+      "quoted_claim": "另外加一个生命力到生物界里边",
+      "function": "作为批评对象",
+      "evidence": "用不着像唐马森另外加一个生命力到生物界里边",
+      "confidence": 1.0
+    },
+    {
+      "id": "cit4",
+      "citer": "作者",
+      "quoted_author": "赫克尔",
+      "quoted_work": "",
+      "quoted_claim": "万物皆有生命",
+      "function": "作为批评对象",
+      "evidence": "也用不着像赫克尔主张万物皆有生命",
+      "confidence": 1.0
+    }
+  ],
+  "rhetorical_devices": [
+    {
+      "id": "rh1",
+      "expression": "天地之间，科学家所做不到的事，还多得很咧！",
+      "device_type": "讽刺",
+      "literal_target": "相信神秘力量的观点",
+      "function": "通过讽刺强调科学局限，反驳因科学做不到就引入神秘力量的观点。",
+      "evidence": "天地之间，科学家所做不到的事，还多得很咧！",
+      "confidence": 1.0
+    },
+    {
+      "id": "rh2",
+      "expression": "试问我们可能相信镭类原质里边，也有一个生命之力或与生命之力有同等神秘意味的力在那里主持吗？",
+      "device_type": "归谬",
+      "literal_target": "在无机物中引入生命之力的观点",
+      "function": "通过归谬，将对方逻辑推到荒谬结论，以反驳引入神秘力量的观点。",
+      "evidence": "试问我们可能相信镭类原质里边，也有一个生命之力或与生命之力有同等神秘意味的力在那里主持吗？",
+      "confidence": 1.0
+    }
+  ],
+  "uncertainties": [
+    {
+      "item": "def1 的 confidence 值",
+      "reason": "定义概括基于原文，但原文未明确给出定义，confidence 值不确定。"
+    }
+  ]
+}

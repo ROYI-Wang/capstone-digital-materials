@@ -1,0 +1,305 @@
+{
+  "metadata": {
+    "schema_version": "lite_v3.0",
+    "article_id": "丁文江2_000_e838922e",
+    "article_title": "玄学与科学——答张君劢",
+    "source_author": "丁文江",
+    "section_title": "",
+    "section_author": "",
+    "segment_id": "丁文江2_000_e838922e_s0020",
+    "segment_index": 20,
+    "source_file": "E:\\1研究生\\岭南大学\\论文毕业\\capstone\\资料\\新的内容开始了\\local_upload\\input_丁文江\\丁文江2.txt"
+  },
+  "entities": [
+    {
+      "id": "e1",
+      "name": "痴子",
+      "canonical_name": "痴子",
+      "type": "阵营/群体",
+      "evidence": "痴子的智慧是零",
+      "confidence": 0.9
+    },
+    {
+      "id": "e2",
+      "name": "天才",
+      "canonical_name": "天才",
+      "type": "阵营/群体",
+      "evidence": "天才的是一百",
+      "confidence": 0.9
+    },
+    {
+      "id": "e3",
+      "name": "常人",
+      "canonical_name": "常人",
+      "type": "阵营/群体",
+      "evidence": "常人的是五十",
+      "confidence": 0.9
+    },
+    {
+      "id": "e4",
+      "name": "长人",
+      "canonical_name": "长人",
+      "type": "比喻/类比",
+      "evidence": "肢体与高度相称的是长人",
+      "confidence": 0.9
+    },
+    {
+      "id": "e5",
+      "name": "怪人",
+      "canonical_name": "怪人",
+      "type": "比喻/类比",
+      "evidence": "若是一个人头异常的长，身异常的短，或是四肢绝对不能相称，他就是一个怪人",
+      "confidence": 0.9
+    },
+    {
+      "id": "e6",
+      "name": "疯子",
+      "canonical_name": "疯子",
+      "type": "比喻/类比",
+      "evidence": "同心理上的疯子一样",
+      "confidence": 0.9
+    },
+    {
+      "id": "e7",
+      "name": "长人矮子同常人是程度问题不是种类问题",
+      "canonical_name": "长人矮子同常人是程度问题不是种类问题",
+      "type": "观点",
+      "evidence": "长人矮子同常人是程度问题不是种类问题",
+      "confidence": 0.9
+    },
+    {
+      "id": "e8",
+      "name": "天才痴子，同常人的分别，也是比较的，不是绝对的",
+      "canonical_name": "天才痴子，同常人的分别，也是比较的，不是绝对的",
+      "type": "观点",
+      "evidence": "天才痴子，同常人的分别，也是比较的，不是绝对的",
+      "confidence": 0.9
+    },
+    {
+      "id": "e9",
+      "name": "天才是为种族能力所限制",
+      "canonical_name": "天才是为种族能力所限制",
+      "type": "观点",
+      "evidence": "知道天才是为种族能力所限制",
+      "confidence": 0.9
+    },
+    {
+      "id": "e10",
+      "name": "同常人的分别是程度的，不是种类的",
+      "canonical_name": "同常人的分别是程度的，不是种类的",
+      "type": "观点",
+      "evidence": "同常人的分别是程度的，不是种类的",
+      "confidence": 0.9
+    },
+    {
+      "id": "e11",
+      "name": "不学而能的孔子",
+      "canonical_name": "不学而能的孔子",
+      "type": "概念",
+      "evidence": "不相信有不学而能的孔子",
+      "confidence": 0.9
+    },
+    {
+      "id": "e12",
+      "name": "上帝产生的耶稣",
+      "canonical_name": "上帝产生的耶稣",
+      "type": "概念",
+      "evidence": "上帝产生的耶稣",
+      "confidence": 0.9
+    },
+    {
+      "id": "e13",
+      "name": "智慧无边的佛",
+      "canonical_name": "智慧无边的佛",
+      "type": "概念",
+      "evidence": "智慧无边的佛",
+      "confidence": 0.9
+    },
+    {
+      "id": "e14",
+      "name": "近七十年来生物学心理学的根本观念",
+      "canonical_name": "近七十年来生物学心理学的根本观念",
+      "type": "概念",
+      "evidence": "这是近七十年来生物学心理学的根本观念",
+      "confidence": 0.9
+    },
+    {
+      "id": "e15",
+      "name": "种族能力",
+      "canonical_name": "种族能力",
+      "type": "概念",
+      "evidence": "为种族能力所限制",
+      "confidence": 0.9
+    }
+  ],
+  "claims": [
+    {
+      "id": "c1",
+      "speaker": "丁文江",
+      "claim": "长人矮子同常人是程度问题不是种类问题",
+      "target": "",
+      "claim_type": "描述性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "长人矮子同常人是程度问题不是种类问题",
+      "confidence": 0.9
+    },
+    {
+      "id": "c2",
+      "speaker": "丁文江",
+      "claim": "天才痴子，同常人的分别，也是比较的，不是绝对的",
+      "target": "",
+      "claim_type": "描述性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "天才痴子，同常人的分别，也是比较的，不是绝对的",
+      "confidence": 0.9
+    },
+    {
+      "id": "c3",
+      "speaker": "丁文江",
+      "claim": "天才是为种族能力所限制，而且同常人的分别是程度的，不是种类的",
+      "target": "",
+      "claim_type": "描述性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "知道天才是为种族能力所限制，而且同常人的分别是程度的，不是种类的",
+      "confidence": 0.9
+    },
+    {
+      "id": "c4",
+      "speaker": "丁文江",
+      "claim": "我们不相信有不学而能的孔子，上帝产生的耶稣，或是智慧无边的佛",
+      "target": "",
+      "claim_type": "结论性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "我们不相信有不学而能的孔子，上帝产生的耶稣，或是智慧无边的佛",
+      "confidence": 0.9
+    },
+    {
+      "id": "c5",
+      "speaker": "丁文江",
+      "claim": "这是近七十年来生物学心理学的根本观念，不是可以随便推翻的",
+      "target": "",
+      "claim_type": "评价性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "这是近七十年来生物学心理学的根本观念，不是可以随便推翻的",
+      "confidence": 0.9
+    }
+  ],
+  "relations": [
+    {
+      "id": "r1",
+      "head": "长人矮子同常人是程度问题不是种类问题",
+      "head_type": "观点",
+      "relation": "类比",
+      "relation_subtype": "不适用",
+      "tail": "天才痴子，同常人的分别，也是比较的，不是绝对的",
+      "tail_type": "观点",
+      "polarity": "positive",
+      "stance_score": 1.0,
+      "intensity": 0.8,
+      "evidence": "长人矮子同常人是程度问题不是种类问题，天才痴子，同常人的分别，也是比较的，不是绝对的",
+      "confidence": 0.9
+    },
+    {
+      "id": "r2",
+      "head": "天才是为种族能力所限制，而且同常人的分别是程度的，不是种类的",
+      "head_type": "观点",
+      "relation": "作为论据支持",
+      "relation_subtype": "不适用",
+      "tail": "我们不相信有不学而能的孔子，上帝产生的耶稣，或是智慧无边的佛",
+      "tail_type": "结论",
+      "polarity": "positive",
+      "stance_score": 1.0,
+      "intensity": 0.8,
+      "evidence": "知道天才是为种族能力所限制，而且同常人的分别是程度的，不是种类的，所以我们不相信有不学而能的孔子，上帝产生的耶稣，或是智慧无边的佛",
+      "confidence": 0.9
+    },
+    {
+      "id": "r3",
+      "head": "近七十年来生物学心理学的根本观念",
+      "head_type": "概念",
+      "relation": "解释",
+      "relation_subtype": "不适用",
+      "tail": "天才的智慧，高出常人的程度，也是为种族能力所限制，他的心理同生理的组织也是同常人的是一类的机器",
+      "tail_type": "观点",
+      "polarity": "positive",
+      "stance_score": 1.0,
+      "intensity": 0.8,
+      "evidence": "天才的智慧，高出常人的程度，也是为种族能力所限制，他的心理同生理的组织也是同常人的是一类的机器。这是近七十年来生物学心理学的根本观念",
+      "confidence": 0.9
+    }
+  ],
+  "definitions": [
+    {
+      "id": "def1",
+      "term": "长人",
+      "definition": "肢体与高度相称的人",
+      "evidence": "肢体与高度相称的是长人",
+      "confidence": 0.9
+    },
+    {
+      "id": "def2",
+      "term": "怪人",
+      "definition": "头异常的长，身异常的短，或是四肢绝对不能相称的人",
+      "evidence": "若是一个人头异常的长，身异常的短，或是四肢绝对不能相称，他就是一个怪人",
+      "confidence": 0.9
+    },
+    {
+      "id": "def3",
+      "term": "疯子",
+      "definition": "心理上各部分发展不平衡的人",
+      "evidence": "同心理上的疯子一样",
+      "confidence": 0.8
+    }
+  ],
+  "citations": [],
+  "rhetorical_devices": [
+    {
+      "id": "rh1",
+      "expression": "肢体与高度相称的是长人；若是一个人头异常的长，身异常的短，或是四肢绝对不能相称，他就是一个怪人，同心理上的疯子一样",
+      "device_type": "类比",
+      "literal_target": "用长人、怪人、疯子类比天才、痴子、常人的关系",
+      "function": "通过身体特征的类比，论证天才与常人的区别是程度问题而非种类问题",
+      "evidence": "肢体与高度相称的是长人；若是一个人头异常的长，身异常的短，或是四肢绝对不能相称，他就是一个怪人，同心理上的疯子一样",
+      "confidence": 0.9
+    },
+    {
+      "id": "rh2",
+      "expression": "世界上没有见过高与天齐的长人",
+      "device_type": "类比",
+      "literal_target": "用高与天齐的长人比喻不学而能的孔子、上帝产生的耶稣、智慧无边的佛",
+      "function": "通过类比说明这些概念的不可能性",
+      "evidence": "世界上没有见过高与天齐的长人",
+      "confidence": 0.9
+    }
+  ],
+  "uncertainties": [
+    {
+      "item": "研究疯人心理的学者，都觉得疯子的性质一部分与天才有几分相似，因为都是感觉特别发展的原故",
+      "reason": "该句可能涉及对第三方观点的转述，但未明确指明具体学者或著作，无法确定是否为引用"
+    }
+  ],
+  "_meta": {
+    "status": "success",
+    "stage": "extract",
+    "model": "deepseek-ai/DeepSeek-V4-Flash",
+    "base_url": "https://api.siliconflow.cn/v1",
+    "prompt_version": "v2.0",
+    "schema_version": "lite_v3.0",
+    "segment_id": "丁文江2_000_e838922e_s0020",
+    "article_id": "丁文江2_000_e838922e",
+    "char_start": 9842,
+    "char_end": 10395,
+    "raw_path": "E:\\1研究生\\岭南大学\\论文毕业\\capstone\\资料\\新的内容开始了\\local_upload\\kg_runs_v2\\丁文江_等3篇\\raw_outputs\\extract\\丁文江2_000_e838922e_s0020.txt",
+    "parsed_at": "2026-05-22T07:23:55",
+    "started_at": "2026-05-22T07:23:39",
+    "elapsed_seconds": 16.303,
+    "strict_evidence_check": true,
+    "drop_unsupported_evidence": true,
+    "request_timeout_seconds": 60
+  }
+}

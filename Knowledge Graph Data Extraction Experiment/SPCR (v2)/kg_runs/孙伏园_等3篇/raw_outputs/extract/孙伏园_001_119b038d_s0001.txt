@@ -1,0 +1,378 @@
+{
+  "metadata": {
+    "schema_version": "lite_v3.0",
+    "article_id": "孙伏园_001_119b038d",
+    "article_title": "东荪按",
+    "source_author": "张东荪",
+    "section_title": "",
+    "section_author": "",
+    "segment_id": "孙伏园_001_119b038d_s0001",
+    "segment_index": 1,
+    "source_file": "E:\\1研究生\\岭南大学\\论文毕业\\capstone\\资料\\新的内容开始了\\local_upload\\input_v2_w3\\孙伏园.txt"
+  },
+  "entities": [
+    {
+      "id": "e1",
+      "name": "丁在君先生",
+      "canonical_name": "丁在君",
+      "type": "人物",
+      "evidence": "总觉得丁在君先生、张君劢先生各有先入之见",
+      "confidence": 1.0
+    },
+    {
+      "id": "e2",
+      "name": "张君劢先生",
+      "canonical_name": "张君劢",
+      "type": "人物",
+      "evidence": "总觉得丁在君先生、张君劢先生各有先入之见",
+      "confidence": 1.0
+    },
+    {
+      "id": "e3",
+      "name": "胡适之先生",
+      "canonical_name": "胡适之",
+      "type": "人物",
+      "evidence": "至于胡适之先生挑剔矛盾律，也是枝叶",
+      "confidence": 1.0
+    },
+    {
+      "id": "e4",
+      "name": "伏园先生",
+      "canonical_name": "伏园",
+      "type": "人物",
+      "evidence": "我不妨因伏园先生的唆示",
+      "confidence": 1.0
+    },
+    {
+      "id": "e5",
+      "name": "先入之见",
+      "canonical_name": "先入之见",
+      "type": "概念",
+      "evidence": "总觉得丁在君先生、张君劢先生各有先入之见",
+      "confidence": 0.9
+    },
+    {
+      "id": "e6",
+      "name": "界说",
+      "canonical_name": "界说",
+      "type": "概念",
+      "evidence": "所以来不及把界说弄清楚",
+      "confidence": 0.9
+    },
+    {
+      "id": "e7",
+      "name": "矛盾律",
+      "canonical_name": "矛盾律",
+      "type": "概念",
+      "evidence": "至于胡适之先生挑剔矛盾律，也是枝叶",
+      "confidence": 0.9
+    },
+    {
+      "id": "e8",
+      "name": "《人生观》",
+      "canonical_name": "人生观",
+      "type": "文章",
+      "evidence": "本来张君劢先生的《人生观》原文所列几条诚不免于太随便",
+      "confidence": 1.0
+    },
+    {
+      "id": "e9",
+      "name": "笔战",
+      "canonical_name": "笔战",
+      "type": "概念",
+      "evidence": "就是奉劝两位把这次笔战认为等于运动会的预赛，而不算为正赛",
+      "confidence": 0.9
+    },
+    {
+      "id": "e10",
+      "name": "预赛",
+      "canonical_name": "预赛",
+      "type": "比喻/类比",
+      "evidence": "就是奉劝两位把这次笔战认为等于运动会的预赛，而不算为正赛",
+      "confidence": 0.9
+    },
+    {
+      "id": "e11",
+      "name": "正赛",
+      "canonical_name": "正赛",
+      "type": "比喻/类比",
+      "evidence": "就是奉劝两位把这次笔战认为等于运动会的预赛，而不算为正赛",
+      "confidence": 0.9
+    }
+  ],
+  "claims": [
+    {
+      "id": "c1",
+      "speaker": "张东荪",
+      "claim": "丁在君先生、张君劢先生各有先入之见，所以来不及把界说弄清楚，而先就扭做一团了，诚不免有些遗憾",
+      "target": "丁在君先生、张君劢先生",
+      "claim_type": "评价性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "总觉得丁在君先生、张君劢先生各有先入之见，所以来不及把界说弄清楚，而先就扭做一团了，诚不免有些遗憾",
+      "confidence": 1.0
+    },
+    {
+      "id": "c2",
+      "speaker": "张东荪",
+      "claim": "这样辩论很少有结果",
+      "target": "丁在君先生、张君劢先生之间的辩论",
+      "claim_type": "评价性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "其实这样辩论很少有结果",
+      "confidence": 1.0
+    },
+    {
+      "id": "c3",
+      "speaker": "张东荪",
+      "claim": "胡适之先生挑剔矛盾律，也是枝叶",
+      "target": "胡适之先生",
+      "claim_type": "评价性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "至于胡适之先生挑剔矛盾律，也是枝叶",
+      "confidence": 1.0
+    },
+    {
+      "id": "c4",
+      "speaker": "张东荪",
+      "claim": "张君劢先生的《人生观》原文所列几条诚不免于太随便",
+      "target": "张君劢先生",
+      "claim_type": "评价性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "本来张君劢先生的《人生观》原文所列几条诚不免于太随便",
+      "confidence": 1.0
+    },
+    {
+      "id": "c5",
+      "speaker": "张东荪",
+      "claim": "丁在君的驳文牵涉也是太广，不免于支离",
+      "target": "丁在君",
+      "claim_type": "评价性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "而丁在君的驳文牵涉也是太广，不免于支离",
+      "confidence": 1.0
+    },
+    {
+      "id": "c6",
+      "speaker": "张东荪",
+      "claim": "张君劢先生的答文不曾有所集中",
+      "target": "张君劢先生",
+      "claim_type": "评价性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "以致张君劢先生的答文不曾有所集中",
+      "confidence": 1.0
+    },
+    {
+      "id": "c7",
+      "speaker": "张东荪",
+      "claim": "奉劝两位把这次笔战认为等于运动会的预赛，而不算为正赛",
+      "target": "丁在君先生、张君劢先生",
+      "claim_type": "规范性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "就是奉劝两位把这次笔战认为等于运动会的预赛，而不算为正赛",
+      "confidence": 1.0
+    },
+    {
+      "id": "c8",
+      "speaker": "张东荪",
+      "claim": "这种预赛即此而止，不再进行。于是重整旗鼓，开始正赛",
+      "target": "丁在君先生、张君劢先生",
+      "claim_type": "规范性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "这种预赛即此而止，不再进行。于是重整旗鼓，开始正赛",
+      "confidence": 1.0
+    },
+    {
+      "id": "c9",
+      "speaker": "张东荪",
+      "claim": "照这样下来，实不能不为两位惜了",
+      "target": "丁在君先生、张君劢先生",
+      "claim_type": "评价性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "否则照这样下来，实不能不为两位惜了",
+      "confidence": 1.0
+    }
+  ],
+  "relations": [
+    {
+      "id": "r1",
+      "head": "丁在君先生、张君劢先生",
+      "head_type": "人物",
+      "relation": "批评",
+      "relation_subtype": "一般批评",
+      "tail": "先入之见",
+      "tail_type": "概念",
+      "polarity": "negative",
+      "stance_score": -0.7,
+      "intensity": 0.6,
+      "evidence": "总觉得丁在君先生、张君劢先生各有先入之见",
+      "confidence": 1.0
+    },
+    {
+      "id": "r2",
+      "head": "丁在君先生、张君劢先生",
+      "head_type": "人物",
+      "relation": "批评",
+      "relation_subtype": "一般批评",
+      "tail": "来不及把界说弄清楚，而先就扭做一团了",
+      "tail_type": "观点",
+      "polarity": "negative",
+      "stance_score": -0.7,
+      "intensity": 0.6,
+      "evidence": "所以来不及把界说弄清楚，而先就扭做一团了",
+      "confidence": 1.0
+    },
+    {
+      "id": "r3",
+      "head": "张东荪",
+      "head_type": "人物",
+      "relation": "评价",
+      "relation_subtype": "一般批评",
+      "tail": "这样辩论很少有结果",
+      "tail_type": "观点",
+      "polarity": "negative",
+      "stance_score": -0.8,
+      "intensity": 0.7,
+      "evidence": "其实这样辩论很少有结果",
+      "confidence": 1.0
+    },
+    {
+      "id": "r4",
+      "head": "胡适之先生",
+      "head_type": "人物",
+      "relation": "批评",
+      "relation_subtype": "一般批评",
+      "tail": "挑剔矛盾律，也是枝叶",
+      "tail_type": "观点",
+      "polarity": "negative",
+      "stance_score": -0.6,
+      "intensity": 0.5,
+      "evidence": "至于胡适之先生挑剔矛盾律，也是枝叶",
+      "confidence": 1.0
+    },
+    {
+      "id": "r5",
+      "head": "张君劢先生",
+      "head_type": "人物",
+      "relation": "批评",
+      "relation_subtype": "一般批评",
+      "tail": "《人生观》原文所列几条诚不免于太随便",
+      "tail_type": "文章",
+      "polarity": "negative",
+      "stance_score": -0.6,
+      "intensity": 0.5,
+      "evidence": "本来张君劢先生的《人生观》原文所列几条诚不免于太随便",
+      "confidence": 1.0
+    },
+    {
+      "id": "r6",
+      "head": "丁在君",
+      "head_type": "人物",
+      "relation": "批评",
+      "relation_subtype": "一般批评",
+      "tail": "驳文牵涉也是太广，不免于支离",
+      "tail_type": "文章",
+      "polarity": "negative",
+      "stance_score": -0.6,
+      "intensity": 0.5,
+      "evidence": "而丁在君的驳文牵涉也是太广，不免于支离",
+      "confidence": 1.0
+    },
+    {
+      "id": "r7",
+      "head": "张君劢先生",
+      "head_type": "人物",
+      "relation": "批评",
+      "relation_subtype": "一般批评",
+      "tail": "答文不曾有所集中",
+      "tail_type": "文章",
+      "polarity": "negative",
+      "stance_score": -0.5,
+      "intensity": 0.4,
+      "evidence": "以致张君劢先生的答文不曾有所集中",
+      "confidence": 1.0
+    },
+    {
+      "id": "r8",
+      "head": "张东荪",
+      "head_type": "人物",
+      "relation": "主张",
+      "relation_subtype": "不适用",
+      "tail": "奉劝两位把这次笔战认为等于运动会的预赛，而不算为正赛",
+      "tail_type": "观点",
+      "polarity": "positive",
+      "stance_score": 0.8,
+      "intensity": 0.7,
+      "evidence": "就是奉劝两位把这次笔战认为等于运动会的预赛，而不算为正赛",
+      "confidence": 1.0
+    },
+    {
+      "id": "r9",
+      "head": "张东荪",
+      "head_type": "人物",
+      "relation": "主张",
+      "relation_subtype": "不适用",
+      "tail": "这种预赛即此而止，不再进行。于是重整旗鼓，开始正赛",
+      "tail_type": "观点",
+      "polarity": "positive",
+      "stance_score": 0.8,
+      "intensity": 0.7,
+      "evidence": "这种预赛即此而止，不再进行。于是重整旗鼓，开始正赛",
+      "confidence": 1.0
+    },
+    {
+      "id": "r10",
+      "head": "张东荪",
+      "head_type": "人物",
+      "relation": "评价",
+      "relation_subtype": "一般批评",
+      "tail": "照这样下来，实不能不为两位惜了",
+      "tail_type": "观点",
+      "polarity": "negative",
+      "stance_score": -0.7,
+      "intensity": 0.6,
+      "evidence": "否则照这样下来，实不能不为两位惜了",
+      "confidence": 1.0
+    }
+  ],
+  "definitions": [],
+  "citations": [],
+  "rhetorical_devices": [
+    {
+      "id": "rh1",
+      "expression": "把这次笔战认为等于运动会的预赛，而不算为正赛",
+      "device_type": "类比",
+      "literal_target": "笔战",
+      "function": "通过将笔战比作运动会预赛，建议双方停止当前辩论，重新组织更正式的辩论",
+      "evidence": "就是奉劝两位把这次笔战认为等于运动会的预赛，而不算为正赛",
+      "confidence": 1.0
+    },
+    {
+      "id": "rh2",
+      "expression": "重整旗鼓，开始正赛",
+      "device_type": "比喻",
+      "literal_target": "重新组织辩论",
+      "function": "用军事或体育比喻鼓励双方重新开始正式辩论",
+      "evidence": "于是重整旗鼓，开始正赛",
+      "confidence": 1.0
+    }
+  ],
+  "uncertainties": [
+    {
+      "item": "伏园先生的具体身份和唆示内容",
+      "reason": "文本仅提及'因伏园先生的唆示'，未说明伏园先生是谁以及唆示的具体内容"
+    },
+    {
+      "item": "丁在君先生、张君劢先生、胡适之先生之间的具体辩论内容",
+      "reason": "文本仅提及辩论、驳文、答文等，未提供具体辩论细节"
+    }
+  ]
+}

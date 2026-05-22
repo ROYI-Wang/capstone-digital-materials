@@ -1,0 +1,399 @@
+{
+  "metadata": {
+    "schema_version": "lite_v3.0",
+    "article_id": "唐钺_000_b5cd146b",
+    "article_title": "心理现象与因果律",
+    "source_author": "唐钺",
+    "section_title": "",
+    "section_author": "",
+    "segment_id": "唐钺_000_b5cd146b_s0007",
+    "segment_index": 7,
+    "source_file": "E:\\1研究生\\岭南大学\\论文毕业\\capstone\\资料\\新的内容开始了\\local_upload\\input_唐钺\\唐钺.txt"
+  },
+  "entities": [
+    {
+      "id": "e1",
+      "name": "构造派巨子铁岂纳",
+      "canonical_name": "铁岂纳",
+      "type": "人物",
+      "evidence": "他的存在（构造派巨子铁岂纳就是其中之一）",
+      "confidence": 0.9
+    },
+    {
+      "id": "e2",
+      "name": "感觉情调",
+      "canonical_name": "感觉情调",
+      "type": "概念",
+      "evidence": "也不过同感觉情调并列为心理元素罢了",
+      "confidence": 0.9
+    },
+    {
+      "id": "e3",
+      "name": "心理元素",
+      "canonical_name": "心理元素",
+      "type": "概念",
+      "evidence": "也不过同感觉情调并列为心理元素罢了",
+      "confidence": 0.9
+    },
+    {
+      "id": "e4",
+      "name": "纯粹思想",
+      "canonical_name": "纯粹思想",
+      "type": "概念",
+      "evidence": "所谓纯粹思想（我不知这个名词，是否浮子堡派原有的）",
+      "confidence": 0.9
+    },
+    {
+      "id": "e5",
+      "name": "浮子堡派",
+      "canonical_name": "浮子堡派",
+      "type": "阵营/群体",
+      "evidence": "所谓纯粹思想（我不知这个名词，是否浮子堡派原有的）",
+      "confidence": 0.9
+    },
+    {
+      "id": "e6",
+      "name": "感觉意象",
+      "canonical_name": "感觉意象",
+      "type": "概念",
+      "evidence": "纯粹当然是指非别的心理元素（如感觉意象）所合成的",
+      "confidence": 0.9
+    },
+    {
+      "id": "e7",
+      "name": "无因论者",
+      "canonical_name": "无因论者",
+      "type": "阵营/群体",
+      "evidence": "（庚）无因论者又说，若是一切心理现象都是有因的，那末，岂不是我们意志不自由吗？",
+      "confidence": 0.9
+    },
+    {
+      "id": "e8",
+      "name": "意志",
+      "canonical_name": "意志",
+      "type": "概念",
+      "evidence": "岂不是我们意志不自由吗？",
+      "confidence": 0.9
+    },
+    {
+      "id": "e9",
+      "name": "自由",
+      "canonical_name": "自由",
+      "type": "概念",
+      "evidence": "我们觉得意志是自由的",
+      "confidence": 0.9
+    },
+    {
+      "id": "e10",
+      "name": "罗素",
+      "canonical_name": "罗素",
+      "type": "人物",
+      "evidence": "这点，罗素在《科学中之哲学的方法》的《因的观念》章中曾详论",
+      "confidence": 0.9
+    },
+    {
+      "id": "e11",
+      "name": "《科学中之哲学的方法》",
+      "canonical_name": "科学中之哲学的方法",
+      "type": "著作",
+      "evidence": "罗素在《科学中之哲学的方法》的《因的观念》章中曾详论",
+      "confidence": 0.9
+    },
+    {
+      "id": "e12",
+      "name": "《因的观念》",
+      "canonical_name": "因的观念",
+      "type": "文章",
+      "evidence": "罗素在《科学中之哲学的方法》的《因的观念》章中曾详论",
+      "confidence": 0.9
+    },
+    {
+      "id": "e13",
+      "name": "个人",
+      "canonical_name": "个人",
+      "type": "概念",
+      "evidence": "意志的原因，最重要的是在个人身上的，当然个人要负责",
+      "confidence": 0.9
+    }
+  ],
+  "claims": [
+    {
+      "id": "c1",
+      "speaker": "作者",
+      "claim": "心理学者没有人不知道感觉情调是有因的，也没有人承认思想是无因的",
+      "target": "心理学者",
+      "claim_type": "描述性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "心理学者没有人不知道感觉情调是有因的，也没有人承认思想是无因的",
+      "confidence": 0.9
+    },
+    {
+      "id": "c2",
+      "speaker": "作者",
+      "claim": "所谓纯粹思想，纯粹当然是指非别的心理元素（如感觉意象）所合成的，并不是可以离神经系而独立存在或是无因而生灭的意思",
+      "target": "纯粹思想",
+      "claim_type": "定义性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "所谓纯粹思想（我不知这个名词，是否浮子堡派原有的），纯粹当然是指非别的心理元素（如感觉意象）所合成的，并不是可以离神经系而独立存在或是无因而生灭的意思",
+      "confidence": 0.9
+    },
+    {
+      "id": "c3",
+      "speaker": "作者",
+      "claim": "纯粹思想之有无及性质，与本題无涉",
+      "target": "纯粹思想",
+      "claim_type": "结论性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "所以纯粹思想之有无及性质，与本題无涉",
+      "confidence": 0.9
+    },
+    {
+      "id": "c4",
+      "speaker": "无因论者",
+      "claim": "若是一切心理现象都是有因的，那末，岂不是我们意志不自由吗？",
+      "target": "心理现象有因",
+      "claim_type": "反驳性主张",
+      "claim_status": "对手直接主张",
+      "polarity": "negative",
+      "evidence": "（庚）无因论者又说，若是一切心理现象都是有因的，那末，岂不是我们意志不自由吗？",
+      "confidence": 0.9
+    },
+    {
+      "id": "c5",
+      "speaker": "无因论者",
+      "claim": "我们的的确确觉得我们的意志是自由的",
+      "target": "意志",
+      "claim_type": "描述性主张",
+      "claim_status": "对手直接主张",
+      "polarity": "positive",
+      "evidence": "然而我们的的确确觉得我们的意志是自由的",
+      "confidence": 0.9
+    },
+    {
+      "id": "c6",
+      "speaker": "作者",
+      "claim": "我们觉得意志是自由的。这自由是没有外力强迫我们的意思，并不与意志有因的命题矛盾",
+      "target": "无因论者",
+      "claim_type": "反驳性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "（一）他们说，我们觉得意志是自由的。这自由是没有外力强迫我们的意思，并不与意志有因的命题矛盾。所以不能以觉得自由来作意志无因的理由",
+      "confidence": 0.9
+    },
+    {
+      "id": "c7",
+      "speaker": "作者",
+      "claim": "因果不过可以互从推知的关系",
+      "target": "因果",
+      "claim_type": "定义性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "我在前论已经说过，因果不过可以互从推知的关系",
+      "confidence": 0.9
+    },
+    {
+      "id": "c8",
+      "speaker": "作者",
+      "claim": "我可以推知你肚子饿时一定想吃东西，这难道是说你的意志不自由，受强迫而吃东西吗？",
+      "target": "无因论者",
+      "claim_type": "反驳性主张",
+      "claim_status": "作者推论",
+      "polarity": "negative",
+      "evidence": "例如，我可以推知你肚子饿时一定想吃东西，这难道是说你的意志不自由，受强迫而吃东西吗？",
+      "confidence": 0.9
+    },
+    {
+      "id": "c9",
+      "speaker": "无因论者",
+      "claim": "我的意志既然都是有因的，那末，我的行为都是许多因的成绩，我可以不负责任，岂不是糟了吗？",
+      "target": "意志有因",
+      "claim_type": "反驳性主张",
+      "claim_status": "对手直接主张",
+      "polarity": "negative",
+      "evidence": "（二）他们又说，我的意志既然都是有因的，那末，我的行为都是许多因的成绩，我可以不负责任，岂不是糟了吗？",
+      "confidence": 0.9
+    },
+    {
+      "id": "c10",
+      "speaker": "作者",
+      "claim": "这也是似是而非之论",
+      "target": "无因论者",
+      "claim_type": "评价性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "这也是似是而非之论",
+      "confidence": 0.9
+    },
+    {
+      "id": "c11",
+      "speaker": "作者",
+      "claim": "意志的原因，最重要的是在个人身上的，当然个人要负责",
+      "target": "无因论者",
+      "claim_type": "反驳性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "意志的原因，最重要的是在个人身上的，当然个人要负责",
+      "confidence": 0.9
+    },
+    {
+      "id": "c12",
+      "speaker": "作者",
+      "claim": "你若是打我，我也打你。我不是打你，是打消你内部的想打我的原因，使他不能继续实现",
+      "target": "无因论者",
+      "claim_type": "反驳性主张",
+      "claim_status": "假设情境",
+      "polarity": "negative",
+      "evidence": "比方，一个人对我说“我要打你；就是你受伤，我不负责，因为这是许多因做的事，不是我做的。”我就对他说，“你若是打我，我也打你。我不是打你，是打消你内部的想打我的原因，使他不能继续实现。",
+      "confidence": 0.9
+    }
+  ],
+  "relations": [
+    {
+      "id": "r1",
+      "head": "无因论者",
+      "head_type": "阵营/群体",
+      "relation": "主张",
+      "relation_subtype": "不适用",
+      "tail": "若是一切心理现象都是有因的，那末，岂不是我们意志不自由吗？",
+      "tail_type": "观点",
+      "polarity": "negative",
+      "stance_score": -0.5,
+      "intensity": 0.5,
+      "evidence": "（庚）无因论者又说，若是一切心理现象都是有因的，那末，岂不是我们意志不自由吗？",
+      "confidence": 0.9
+    },
+    {
+      "id": "r2",
+      "head": "无因论者",
+      "head_type": "阵营/群体",
+      "relation": "主张",
+      "relation_subtype": "不适用",
+      "tail": "我们的的确确觉得我们的意志是自由的",
+      "tail_type": "观点",
+      "polarity": "positive",
+      "stance_score": 0.5,
+      "intensity": 0.5,
+      "evidence": "然而我们的的确确觉得我们的意志是自由的",
+      "confidence": 0.9
+    },
+    {
+      "id": "r3",
+      "head": "作者",
+      "head_type": "人物",
+      "relation": "反驳",
+      "relation_subtype": "逻辑反驳",
+      "tail": "无因论者",
+      "tail_type": "阵营/群体",
+      "polarity": "negative",
+      "stance_score": -0.8,
+      "intensity": 0.7,
+      "evidence": "（一）他们说，我们觉得意志是自由的。这自由是没有外力强迫我们的意思，并不与意志有因的命题矛盾。所以不能以觉得自由来作意志无因的理由",
+      "confidence": 0.9
+    },
+    {
+      "id": "r4",
+      "head": "作者",
+      "head_type": "人物",
+      "relation": "反驳",
+      "relation_subtype": "逻辑反驳",
+      "tail": "无因论者",
+      "tail_type": "阵营/群体",
+      "polarity": "negative",
+      "stance_score": -0.8,
+      "intensity": 0.7,
+      "evidence": "（二）他们又说，我的意志既然都是有因的，那末，我的行为都是许多因的成绩，我可以不负责任，岂不是糟了吗？这也是似是而非之论。意志的原因，最重要的是在个人身上的，当然个人要负责",
+      "confidence": 0.9
+    },
+    {
+      "id": "r5",
+      "head": "作者",
+      "head_type": "人物",
+      "relation": "引用",
+      "relation_subtype": "援引权威支持",
+      "tail": "罗素",
+      "tail_type": "人物",
+      "polarity": "positive",
+      "stance_score": 0.8,
+      "intensity": 0.5,
+      "evidence": "这点，罗素在《科学中之哲学的方法》的《因的观念》章中曾详论，读者可以参看",
+      "confidence": 0.9
+    },
+    {
+      "id": "r6",
+      "head": "作者",
+      "head_type": "人物",
+      "relation": "归谬",
+      "relation_subtype": "归谬",
+      "tail": "无因论者",
+      "tail_type": "阵营/群体",
+      "polarity": "negative",
+      "stance_score": -0.9,
+      "intensity": 0.8,
+      "evidence": "比方，一个人对我说“我要打你；就是你受伤，我不负责，因为这是许多因做的事，不是我做的。”我就对他说，“你若是打我，我也打你。我不是打你，是打消你内部的想打我的原因，使他不能继续实现。",
+      "confidence": 0.9
+    }
+  ],
+  "definitions": [
+    {
+      "id": "def1",
+      "term": "纯粹思想",
+      "definition": "纯粹是指非别的心理元素（如感觉意象）所合成的，并不是可以离神经系而独立存在或是无因而生灭的意思",
+      "evidence": "所谓纯粹思想（我不知这个名词，是否浮子堡派原有的），纯粹当然是指非别的心理元素（如感觉意象）所合成的，并不是可以离神经系而独立存在或是无因而生灭的意思",
+      "confidence": 0.9
+    },
+    {
+      "id": "def2",
+      "term": "自由",
+      "definition": "没有外力强迫我们的意思",
+      "evidence": "这自由是没有外力强迫我们的意思",
+      "confidence": 0.9
+    },
+    {
+      "id": "def3",
+      "term": "因果",
+      "definition": "可以互从推知的关系",
+      "evidence": "因果不过可以互从推知的关系",
+      "confidence": 0.9
+    }
+  ],
+  "citations": [
+    {
+      "id": "cit1",
+      "citer": "作者",
+      "quoted_author": "罗素",
+      "quoted_work": "《科学中之哲学的方法》的《因的观念》章",
+      "quoted_claim": "",
+      "function": "援引权威支持",
+      "evidence": "这点，罗素在《科学中之哲学的方法》的《因的观念》章中曾详论，读者可以参看",
+      "confidence": 0.9
+    }
+  ],
+  "rhetorical_devices": [
+    {
+      "id": "rh1",
+      "expression": "你若是打我，我也打你。我不是打你，是打消你内部的想打我的原因，使他不能继续实现",
+      "device_type": "归谬",
+      "literal_target": "无因论者关于不负责任的主张",
+      "function": "通过假设情境归谬，反驳无因论者认为意志有因则个人可不负责任的观点",
+      "evidence": "比方，一个人对我说“我要打你；就是你受伤，我不负责，因为这是许多因做的事，不是我做的。”我就对他说，“你若是打我，我也打你。我不是打你，是打消你内部的想打我的原因，使他不能继续实现。",
+      "confidence": 0.9
+    }
+  ],
+  "uncertainties": [
+    {
+      "item": "构造派巨子铁岂纳是否就是铁钦纳（Titchener）",
+      "reason": "文本中写为“铁岂纳”，可能为音译差异，但无法从当前文本确认"
+    },
+    {
+      "item": "浮子堡派是否指符兹堡学派（Würzburg School）",
+      "reason": "文本中写为“浮子堡派”，可能为音译差异，但无法从当前文本确认"
+    },
+    {
+      "item": "“我不知这个名词，是否浮子堡派原有的”中的“我”是否指唐钺",
+      "reason": "文本中未明确说明，但根据元数据 source_author 为唐钺，推测“我”指唐钺"
+    }
+  ]
+}

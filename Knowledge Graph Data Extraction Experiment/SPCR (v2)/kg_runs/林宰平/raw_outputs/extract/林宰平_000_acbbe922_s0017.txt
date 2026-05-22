@@ -1,0 +1,580 @@
+{
+  "metadata": {
+    "schema_version": "lite_v3.0",
+    "article_id": "林宰平_000_acbbe922",
+    "article_title": "读丁在君先生的《玄学与科学》",
+    "source_author": "林宰平",
+    "section_title": "",
+    "section_author": "",
+    "segment_id": "林宰平_000_acbbe922_s0017",
+    "segment_index": 17,
+    "source_file": "E:\\1研究生\\岭南大学\\论文毕业\\capstone\\资料\\新的内容开始了\\local_upload\\input_林宰平\\林宰平.txt"
+  },
+  "entities": [
+    {
+      "id": "e1",
+      "name": "天才",
+      "canonical_name": "天才",
+      "type": "概念",
+      "evidence": "我们能承认他们是天才是豪杰，正是因为他们的知觉、概念、推论的方法，完全与我们相同。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e2",
+      "name": "豪杰",
+      "canonical_name": "豪杰",
+      "type": "概念",
+      "evidence": "我们能承认他们是天才是豪杰，正是因为他们的知觉、概念、推论的方法，完全与我们相同。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e3",
+      "name": "知觉",
+      "canonical_name": "知觉",
+      "type": "概念",
+      "evidence": "我们能承认他们是天才是豪杰，正是因为他们的知觉、概念、推论的方法，完全与我们相同。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e4",
+      "name": "概念",
+      "canonical_name": "概念",
+      "type": "概念",
+      "evidence": "我们能承认他们是天才是豪杰，正是因为他们的知觉、概念、推论的方法，完全与我们相同。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e5",
+      "name": "推论的方法",
+      "canonical_name": "推论的方法",
+      "type": "方法",
+      "evidence": "我们能承认他们是天才是豪杰，正是因为他们的知觉、概念、推论的方法，完全与我们相同。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e6",
+      "name": "反常",
+      "canonical_name": "反常",
+      "type": "概念",
+      "evidence": "不然我们安晓得自命为天才豪杰的人，不是反常，不是疯子？",
+      "confidence": 0.9
+    },
+    {
+      "id": "e7",
+      "name": "疯子",
+      "canonical_name": "疯子",
+      "type": "概念",
+      "evidence": "不然我们安晓得自命为天才豪杰的人，不是反常，不是疯子？",
+      "confidence": 0.9
+    },
+    {
+      "id": "e8",
+      "name": "前条",
+      "canonical_name": "前条",
+      "type": "概念",
+      "evidence": "这一段只是前条的说明，实在看不出是原则而且是“很重要的”。",
+      "confidence": 0.8
+    },
+    {
+      "id": "e9",
+      "name": "原则",
+      "canonical_name": "原则",
+      "type": "概念",
+      "evidence": "这一段只是前条的说明，实在看不出是原则而且是“很重要的”。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e10",
+      "name": "审查的方法",
+      "canonical_name": "审查的方法",
+      "type": "方法",
+      "evidence": "其三条审查的方法，字数不多，全抄如下:",
+      "confidence": 0.9
+    },
+    {
+      "id": "e11",
+      "name": "第一",
+      "canonical_name": "第一",
+      "type": "观点",
+      "evidence": "“第一：凡概念推论若是自相矛盾，科学不承认他是真的。”",
+      "confidence": 0.9
+    },
+    {
+      "id": "e12",
+      "name": "第二",
+      "canonical_name": "第二",
+      "type": "观点",
+      "evidence": "“第二：凡概念不能从不反常的人的知觉推断出来的，科学不承认他是真的。”",
+      "confidence": 0.9
+    },
+    {
+      "id": "e13",
+      "name": "第三",
+      "canonical_name": "第三",
+      "type": "观点",
+      "evidence": "“第三：凡推论不能使寻常有论理训练的人，依了所根据的概念也能得同样的推论，科学不承认是真的。”",
+      "confidence": 0.9
+    },
+    {
+      "id": "e14",
+      "name": "自相矛盾",
+      "canonical_name": "自相矛盾",
+      "type": "概念",
+      "evidence": "“第一：凡概念推论若是自相矛盾，科学不承认他是真的。”",
+      "confidence": 0.9
+    },
+    {
+      "id": "e15",
+      "name": "科学",
+      "canonical_name": "科学",
+      "type": "概念",
+      "evidence": "“第一：凡概念推论若是自相矛盾，科学不承认他是真的。”",
+      "confidence": 0.9
+    },
+    {
+      "id": "e16",
+      "name": "不反常的人",
+      "canonical_name": "不反常的人",
+      "type": "阵营/群体",
+      "evidence": "“第二：凡概念不能从不反常的人的知觉推断出来的，科学不承认他是真的。”",
+      "confidence": 0.9
+    },
+    {
+      "id": "e17",
+      "name": "寻常有论理训练的人",
+      "canonical_name": "寻常有论理训练的人",
+      "type": "阵营/群体",
+      "evidence": "“第三：凡推论不能使寻常有论理训练的人，依了所根据的概念也能得同样的推论，科学不承认是真的。”",
+      "confidence": 0.9
+    },
+    {
+      "id": "e18",
+      "name": "论理",
+      "canonical_name": "论理",
+      "type": "概念",
+      "evidence": "第三，推论当然离不了论理，不过论理若趋重形式理论，他和事实还是两事。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e19",
+      "name": "形式理论",
+      "canonical_name": "形式理论",
+      "type": "概念",
+      "evidence": "第三，推论当然离不了论理，不过论理若趋重形式理论，他和事实还是两事。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e20",
+      "name": "事实",
+      "canonical_name": "事实",
+      "type": "概念",
+      "evidence": "第三，推论当然离不了论理，不过论理若趋重形式理论，他和事实还是两事。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e21",
+      "name": "新康德派",
+      "canonical_name": "新康德派",
+      "type": "阵营/群体",
+      "evidence": "新康德派中如马堡学派,(Die Marburger Schule）只为要贯彻其论理的见解，他们所注重专在思想的形式，至于不承认有所谓觉官感触。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e22",
+      "name": "马堡学派",
+      "canonical_name": "马堡学派",
+      "type": "阵营/群体",
+      "evidence": "新康德派中如马堡学派,(Die Marburger Schule）只为要贯彻其论理的见解，他们所注重专在思想的形式，至于不承认有所谓觉官感触。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e23",
+      "name": "论理的见解",
+      "canonical_name": "论理的见解",
+      "type": "观点",
+      "evidence": "新康德派中如马堡学派,(Die Marburger Schule）只为要贯彻其论理的见解，他们所注重专在思想的形式，至于不承认有所谓觉官感触。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e24",
+      "name": "思想的形式",
+      "canonical_name": "思想的形式",
+      "type": "概念",
+      "evidence": "新康德派中如马堡学派,(Die Marburger Schule）只为要贯彻其论理的见解，他们所注重专在思想的形式，至于不承认有所谓觉官感触。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e25",
+      "name": "觉官感触",
+      "canonical_name": "觉官感触",
+      "type": "概念",
+      "evidence": "新康德派中如马堡学派,(Die Marburger Schule）只为要贯彻其论理的见解，他们所注重专在思想的形式，至于不承认有所谓觉官感触。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e26",
+      "name": "第一个原则",
+      "canonical_name": "第一个原则",
+      "type": "观点",
+      "evidence": "现在回过头来，要把上文所表示我们不能赞成第一个原则的意思，在这里大略一说:",
+      "confidence": 0.9
+    },
+    {
+      "id": "e27",
+      "name": "十九世纪",
+      "canonical_name": "十九世纪",
+      "type": "阶段",
+      "evidence": "科学在十九世纪，已经占了非常的势力，何以神秘的潜在意识，以及诸种变态心理，反发达于二十世纪之今日？",
+      "confidence": 0.9
+    },
+    {
+      "id": "e28",
+      "name": "二十世纪",
+      "canonical_name": "二十世纪",
+      "type": "阶段",
+      "evidence": "科学在十九世纪，已经占了非常的势力，何以神秘的潜在意识，以及诸种变态心理，反发达于二十世纪之今日？",
+      "confidence": 0.9
+    },
+    {
+      "id": "e29",
+      "name": "神秘的潜在意识",
+      "canonical_name": "神秘的潜在意识",
+      "type": "概念",
+      "evidence": "科学在十九世纪，已经占了非常的势力，何以神秘的潜在意识，以及诸种变态心理，反发达于二十世纪之今日？",
+      "confidence": 0.9
+    },
+    {
+      "id": "e30",
+      "name": "变态心理",
+      "canonical_name": "变态心理",
+      "type": "概念",
+      "evidence": "科学在十九世纪，已经占了非常的势力，何以神秘的潜在意识，以及诸种变态心理，反发达于二十世纪之今日？",
+      "confidence": 0.9
+    },
+    {
+      "id": "e31",
+      "name": "科学方法",
+      "canonical_name": "科学方法",
+      "type": "方法",
+      "evidence": "科学家正要反省是否从前科学方法对于这种现象还有不适用，或有欠缺的地方，断不是骂他疯子，不理会他，就算完事。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e32",
+      "name": "科学家",
+      "canonical_name": "科学家",
+      "type": "阵营/群体",
+      "evidence": "科学家正要反省是否从前科学方法对于这种现象还有不适用，或有欠缺的地方，断不是骂他疯子，不理会他，就算完事。",
+      "confidence": 0.9
+    }
+  ],
+  "claims": [
+    {
+      "id": "c1",
+      "speaker": "作者",
+      "claim": "我们能承认他们是天才是豪杰，正是因为他们的知觉、概念、推论的方法，完全与我们相同。",
+      "target": "",
+      "claim_type": "描述性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "我们能承认他们是天才是豪杰，正是因为他们的知觉、概念、推论的方法，完全与我们相同。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c2",
+      "speaker": "作者",
+      "claim": "不然我们安晓得自命为天才豪杰的人，不是反常，不是疯子？",
+      "target": "",
+      "claim_type": "问题提出",
+      "claim_status": "作者推论",
+      "polarity": "negative",
+      "evidence": "不然我们安晓得自命为天才豪杰的人，不是反常，不是疯子？",
+      "confidence": 0.9
+    },
+    {
+      "id": "c3",
+      "speaker": "作者",
+      "claim": "这一段只是前条的说明，实在看不出是原则而且是“很重要的”。",
+      "target": "前条",
+      "claim_type": "评价性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "这一段只是前条的说明，实在看不出是原则而且是“很重要的”。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c4",
+      "speaker": "作者",
+      "claim": "第一，无问题。",
+      "target": "第一",
+      "claim_type": "评价性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "此三条中，第一，无问题。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c5",
+      "speaker": "作者",
+      "claim": "第二，要和上文第一个原则合起来讨论。",
+      "target": "第二",
+      "claim_type": "回应性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "第二，要和上文第一个原则合起来讨论。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c6",
+      "speaker": "作者",
+      "claim": "推论当然离不了论理，不过论理若趋重形式理论，他和事实还是两事。",
+      "target": "",
+      "claim_type": "对比性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "第三，推论当然离不了论理，不过论理若趋重形式理论，他和事实还是两事。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c7",
+      "speaker": "作者",
+      "claim": "新康德派中如马堡学派,(Die Marburger Schule）只为要贯彻其论理的见解，他们所注重专在思想的形式，至于不承认有所谓觉官感触。",
+      "target": "新康德派",
+      "claim_type": "描述性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "新康德派中如马堡学派,(Die Marburger Schule）只为要贯彻其论理的见解，他们所注重专在思想的形式，至于不承认有所谓觉官感触。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c8",
+      "speaker": "作者",
+      "claim": "我们不能赞成第一个原则",
+      "target": "第一个原则",
+      "claim_type": "反驳性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "现在回过头来，要把上文所表示我们不能赞成第一个原则的意思，在这里大略一说:",
+      "confidence": 0.9
+    },
+    {
+      "id": "c9",
+      "speaker": "作者",
+      "claim": "科学在十九世纪，已经占了非常的势力，何以神秘的潜在意识，以及诸种变态心理，反发达于二十世纪之今日？",
+      "target": "",
+      "claim_type": "问题提出",
+      "claim_status": "作者推论",
+      "polarity": "negative",
+      "evidence": "科学在十九世纪，已经占了非常的势力，何以神秘的潜在意识，以及诸种变态心理，反发达于二十世纪之今日？",
+      "confidence": 0.9
+    },
+    {
+      "id": "c10",
+      "speaker": "作者",
+      "claim": "科学家正要反省是否从前科学方法对于这种现象还有不适用，或有欠缺的地方，断不是骂他疯子，不理会他，就算完事。",
+      "target": "科学家",
+      "claim_type": "规范性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "科学家正要反省是否从前科学方法对于这种现象还有不适用，或有欠缺的地方，断不是骂他疯子，不理会他，就算完事。",
+      "confidence": 0.9
+    }
+  ],
+  "relations": [
+    {
+      "id": "r1",
+      "head": "天才",
+      "head_type": "概念",
+      "relation": "解释",
+      "relation_subtype": "概念澄清",
+      "tail": "知觉、概念、推论的方法完全与我们相同",
+      "tail_type": "观点",
+      "polarity": "positive",
+      "stance_score": 1.0,
+      "intensity": 0.6,
+      "evidence": "我们能承认他们是天才是豪杰，正是因为他们的知觉、概念、推论的方法，完全与我们相同。",
+      "confidence": 0.9
+    },
+    {
+      "id": "r2",
+      "head": "作者",
+      "head_type": "人物",
+      "relation": "批评",
+      "relation_subtype": "一般批评",
+      "tail": "前条",
+      "tail_type": "概念",
+      "polarity": "negative",
+      "stance_score": -0.8,
+      "intensity": 0.7,
+      "evidence": "这一段只是前条的说明，实在看不出是原则而且是“很重要的”。",
+      "confidence": 0.9
+    },
+    {
+      "id": "r3",
+      "head": "作者",
+      "head_type": "人物",
+      "relation": "评价",
+      "relation_subtype": "部分肯定",
+      "tail": "第一",
+      "tail_type": "观点",
+      "polarity": "positive",
+      "stance_score": 1.0,
+      "intensity": 0.5,
+      "evidence": "此三条中，第一，无问题。",
+      "confidence": 0.9
+    },
+    {
+      "id": "r4",
+      "head": "作者",
+      "head_type": "人物",
+      "relation": "回应",
+      "relation_subtype": "一般批评",
+      "tail": "第二",
+      "tail_type": "观点",
+      "polarity": "neutral",
+      "stance_score": 0.0,
+      "intensity": 0.3,
+      "evidence": "第二，要和上文第一个原则合起来讨论。",
+      "confidence": 0.9
+    },
+    {
+      "id": "r5",
+      "head": "作者",
+      "head_type": "人物",
+      "relation": "批评",
+      "relation_subtype": "概念混淆批评",
+      "tail": "第三",
+      "tail_type": "观点",
+      "polarity": "negative",
+      "stance_score": -0.6,
+      "intensity": 0.6,
+      "evidence": "第三，推论当然离不了论理，不过论理若趋重形式理论，他和事实还是两事。",
+      "confidence": 0.9
+    },
+    {
+      "id": "r6",
+      "head": "新康德派",
+      "head_type": "阵营/群体",
+      "relation": "批评",
+      "relation_subtype": "概念混淆批评",
+      "tail": "觉官感触",
+      "tail_type": "概念",
+      "polarity": "negative",
+      "stance_score": -0.7,
+      "intensity": 0.6,
+      "evidence": "新康德派中如马堡学派,(Die Marburger Schule）只为要贯彻其论理的见解，他们所注重专在思想的形式，至于不承认有所谓觉官感触。",
+      "confidence": 0.9
+    },
+    {
+      "id": "r7",
+      "head": "作者",
+      "head_type": "人物",
+      "relation": "反对",
+      "relation_subtype": "逻辑反驳",
+      "tail": "第一个原则",
+      "tail_type": "观点",
+      "polarity": "negative",
+      "stance_score": -0.9,
+      "intensity": 0.8,
+      "evidence": "现在回过头来，要把上文所表示我们不能赞成第一个原则的意思，在这里大略一说:",
+      "confidence": 0.9
+    },
+    {
+      "id": "r8",
+      "head": "科学在十九世纪已经占了非常的势力",
+      "head_type": "观点",
+      "relation": "对比",
+      "relation_subtype": "不适用",
+      "tail": "神秘的潜在意识以及诸种变态心理反发达于二十世纪之今日",
+      "tail_type": "观点",
+      "polarity": "negative",
+      "stance_score": -0.5,
+      "intensity": 0.7,
+      "evidence": "科学在十九世纪，已经占了非常的势力，何以神秘的潜在意识，以及诸种变态心理，反发达于二十世纪之今日？",
+      "confidence": 0.9
+    },
+    {
+      "id": "r9",
+      "head": "作者",
+      "head_type": "人物",
+      "relation": "批评",
+      "relation_subtype": "证据不足批评",
+      "tail": "科学家",
+      "tail_type": "阵营/群体",
+      "polarity": "negative",
+      "stance_score": -0.8,
+      "intensity": 0.8,
+      "evidence": "科学家正要反省是否从前科学方法对于这种现象还有不适用，或有欠缺的地方，断不是骂他疯子，不理会他，就算完事。",
+      "confidence": 0.9
+    }
+  ],
+  "definitions": [
+    {
+      "id": "def1",
+      "term": "天才",
+      "definition": "天才和豪杰的知觉、概念、推论的方法与常人相同。",
+      "evidence": "我们能承认他们是天才是豪杰，正是因为他们的知觉、概念、推论的方法，完全与我们相同。",
+      "confidence": 0.9
+    },
+    {
+      "id": "def2",
+      "term": "论理",
+      "definition": "论理若趋重形式理论，则与事实是两事。",
+      "evidence": "第三，推论当然离不了论理，不过论理若趋重形式理论，他和事实还是两事。",
+      "confidence": 0.9
+    }
+  ],
+  "citations": [
+    {
+      "id": "cit1",
+      "citer": "作者",
+      "quoted_author": "",
+      "quoted_work": "",
+      "quoted_claim": "“第一：凡概念推论若是自相矛盾，科学不承认他是真的。”",
+      "function": "作为批评对象",
+      "evidence": "“第一：凡概念推论若是自相矛盾，科学不承认他是真的。”",
+      "confidence": 0.9
+    },
+    {
+      "id": "cit2",
+      "citer": "作者",
+      "quoted_author": "",
+      "quoted_work": "",
+      "quoted_claim": "“第二：凡概念不能从不反常的人的知觉推断出来的，科学不承认他是真的。”",
+      "function": "作为批评对象",
+      "evidence": "“第二：凡概念不能从不反常的人的知觉推断出来的，科学不承认他是真的。”",
+      "confidence": 0.9
+    },
+    {
+      "id": "cit3",
+      "citer": "作者",
+      "quoted_author": "",
+      "quoted_work": "",
+      "quoted_claim": "“第三：凡推论不能使寻常有论理训练的人，依了所根据的概念也能得同样的推论，科学不承认是真的。”",
+      "function": "作为批评对象",
+      "evidence": "“第三：凡推论不能使寻常有论理训练的人，依了所根据的概念也能得同样的推论，科学不承认是真的。”",
+      "confidence": 0.9
+    }
+  ],
+  "rhetorical_devices": [
+    {
+      "id": "rh1",
+      "expression": "骂他疯子",
+      "device_type": "标签化",
+      "literal_target": "科学家对神秘现象的态度",
+      "function": "批评科学家简单粗暴的应对方式",
+      "evidence": "科学家正要反省是否从前科学方法对于这种现象还有不适用，或有欠缺的地方，断不是骂他疯子，不理会他，就算完事。",
+      "confidence": 0.9
+    }
+  ],
+  "uncertainties": [
+    {
+      "item": "第一个原则的具体内容",
+      "reason": "文本中未明确给出第一个原则的完整表述，仅提及“第一个原则”和“上文”，但当前片段未包含其内容。"
+    },
+    {
+      "item": "“前条”的具体指代",
+      "reason": "文本中“前条”未在当前片段中明确定义，可能指前文某条原则或观点。"
+    }
+  ]
+}

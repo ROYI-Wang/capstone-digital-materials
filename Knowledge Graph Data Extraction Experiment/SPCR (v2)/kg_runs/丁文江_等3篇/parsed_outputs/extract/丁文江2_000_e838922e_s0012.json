@@ -1,0 +1,469 @@
+{
+  "metadata": {
+    "schema_version": "lite_v3.0",
+    "article_id": "丁文江2_000_e838922e",
+    "article_title": "玄学与科学——答张君劢",
+    "source_author": "丁文江",
+    "section_title": "",
+    "section_author": "",
+    "segment_id": "丁文江2_000_e838922e_s0012",
+    "segment_index": 12,
+    "source_file": "E:\\1研究生\\岭南大学\\论文毕业\\capstone\\资料\\新的内容开始了\\local_upload\\input_丁文江\\丁文江2.txt"
+  },
+  "entities": [
+    {
+      "id": "e1",
+      "name": "动物心理学",
+      "canonical_name": "动物心理学",
+      "type": "概念",
+      "evidence": "动物心理学，孩童心理学，同反常心理学近来发明很多。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e2",
+      "name": "孩童心理学",
+      "canonical_name": "孩童心理学",
+      "type": "概念",
+      "evidence": "动物心理学，孩童心理学，同反常心理学近来发明很多。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e3",
+      "name": "反常心理学",
+      "canonical_name": "反常心理学",
+      "type": "概念",
+      "evidence": "动物心理学，孩童心理学，同反常心理学近来发明很多。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e4",
+      "name": "公例",
+      "canonical_name": "公例",
+      "type": "概念",
+      "evidence": "我觉得其中的公例尽有可以“预算未来”的",
+      "confidence": 0.9
+    },
+    {
+      "id": "e5",
+      "name": "预算未来",
+      "canonical_name": "预算未来",
+      "type": "概念",
+      "evidence": "我觉得其中的公例尽有可以“预算未来”的",
+      "confidence": 0.9
+    },
+    {
+      "id": "e6",
+      "name": "生计学社会学",
+      "canonical_name": "生计学社会学",
+      "type": "概念",
+      "evidence": "就是他所最鄙夷的生计学社会学，也很有公例可以计算未来的事",
+      "confidence": 0.9
+    },
+    {
+      "id": "e7",
+      "name": "《大幻想》",
+      "canonical_name": "《大幻想》",
+      "type": "著作",
+      "evidence": "欧战以前安基尔做一部书叫做《大幻想》",
+      "confidence": 0.9
+    },
+    {
+      "id": "e8",
+      "name": "安基尔",
+      "canonical_name": "安基尔",
+      "type": "人物",
+      "evidence": "欧战以前安基尔做一部书叫做《大幻想》",
+      "confidence": 0.9
+    },
+    {
+      "id": "e9",
+      "name": "欧战",
+      "canonical_name": "欧战",
+      "type": "历史事件",
+      "evidence": "欧战以前安基尔做一部书叫做《大幻想》",
+      "confidence": 0.9
+    },
+    {
+      "id": "e10",
+      "name": "欧洲这一次大战争",
+      "canonical_name": "欧洲这一次大战争",
+      "type": "历史事件",
+      "evidence": "欧洲这一次大战争的结果，完全证明他的公例是不错的",
+      "confidence": 0.9
+    },
+    {
+      "id": "e11",
+      "name": "阚士",
+      "canonical_name": "阚士",
+      "type": "人物",
+      "evidence": "阚士的“和约的经济结果”说",
+      "confidence": 0.9
+    },
+    {
+      "id": "e12",
+      "name": "和约的经济结果",
+      "canonical_name": "和约的经济结果",
+      "type": "著作",
+      "evidence": "阚士的“和约的经济结果”说",
+      "confidence": 0.9
+    },
+    {
+      "id": "e13",
+      "name": "科学的分类",
+      "canonical_name": "科学的分类",
+      "type": "概念",
+      "evidence": "君劢对于科学第二种误解是把科学的分类当做科学的鸿沟。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e14",
+      "name": "科学的鸿沟",
+      "canonical_name": "科学的鸿沟",
+      "type": "概念",
+      "evidence": "君劢对于科学第二种误解是把科学的分类当做科学的鸿沟。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e15",
+      "name": "托摩生",
+      "canonical_name": "托摩生",
+      "type": "人物",
+      "evidence": "托摩生的《科学引论》说",
+      "confidence": 0.9
+    },
+    {
+      "id": "e16",
+      "name": "《科学引论》",
+      "canonical_name": "《科学引论》",
+      "type": "著作",
+      "evidence": "托摩生的《科学引论》说",
+      "confidence": 0.9
+    },
+    {
+      "id": "e17",
+      "name": "皮尔逊",
+      "canonical_name": "皮尔逊",
+      "type": "人物",
+      "evidence": "他又引皮尔逊的话说",
+      "confidence": 0.9
+    },
+    {
+      "id": "e18",
+      "name": "各种科学是同本的树枝",
+      "canonical_name": "各种科学是同本的树枝",
+      "type": "比喻/类比",
+      "evidence": "他又引皮尔逊的话说，“各种科学是同本的树枝。”",
+      "confidence": 0.9
+    },
+    {
+      "id": "e19",
+      "name": "论理学",
+      "canonical_name": "论理学",
+      "type": "概念",
+      "evidence": "例如论理学与生物学似乎性质绝不相类",
+      "confidence": 0.9
+    },
+    {
+      "id": "e20",
+      "name": "生物学",
+      "canonical_name": "生物学",
+      "type": "概念",
+      "evidence": "例如论理学与生物学似乎性质绝不相类",
+      "confidence": 0.9
+    },
+    {
+      "id": "e21",
+      "name": "数学",
+      "canonical_name": "数学",
+      "type": "概念",
+      "evidence": "然而由论理而数学，而物理，而化学，而生物化学，而生物学",
+      "confidence": 0.9
+    },
+    {
+      "id": "e22",
+      "name": "物理",
+      "canonical_name": "物理",
+      "type": "概念",
+      "evidence": "然而由论理而数学，而物理，而化学，而生物化学，而生物学",
+      "confidence": 0.9
+    },
+    {
+      "id": "e23",
+      "name": "化学",
+      "canonical_name": "化学",
+      "type": "概念",
+      "evidence": "然而由论理而数学，而物理，而化学，而生物化学，而生物学",
+      "confidence": 0.9
+    },
+    {
+      "id": "e24",
+      "name": "生物化学",
+      "canonical_name": "生物化学",
+      "type": "概念",
+      "evidence": "然而由论理而数学，而物理，而化学，而生物化学，而生物学",
+      "confidence": 0.9
+    },
+    {
+      "id": "e25",
+      "name": "翁特",
+      "canonical_name": "翁特",
+      "type": "人物",
+      "evidence": "我不知道君劢为什么单举翁特的分类来做标准",
+      "confidence": 0.9
+    },
+    {
+      "id": "e26",
+      "name": "翁特的分类",
+      "canonical_name": "翁特的分类",
+      "type": "概念",
+      "evidence": "我不知道君劢为什么单举翁特的分类来做标准",
+      "confidence": 0.9
+    },
+    {
+      "id": "e27",
+      "name": "论理学",
+      "canonical_name": "论理学",
+      "type": "著作",
+      "evidence": "君劢所举的是他“论理学”各章的标题",
+      "confidence": 0.9
+    }
+  ],
+  "claims": [
+    {
+      "id": "c1",
+      "speaker": "丁文江",
+      "claim": "动物心理学、孩童心理学、反常心理学中的公例尽有可以“预算未来”的",
+      "target": "张君劢",
+      "claim_type": "描述性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "我对于动物心理学比较的明白一点，我觉得其中的公例尽有可以“预算未来”的",
+      "confidence": 0.9
+    },
+    {
+      "id": "c2",
+      "speaker": "丁文江",
+      "claim": "生计学社会学也很有公例可以计算未来的事",
+      "target": "张君劢",
+      "claim_type": "描述性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "就是他所最鄙夷的生计学社会学，也很有公例可以计算未来的事",
+      "confidence": 0.9
+    },
+    {
+      "id": "c3",
+      "speaker": "丁文江",
+      "claim": "欧战以前安基尔做一部书叫做《大幻想》，罗列种种的经济事实，说近世的战争，能使得战胜国同战败国一样的破产。欧洲这一次大战争的结果，完全证明他的公例是不错的",
+      "target": "",
+      "claim_type": "描述性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "欧战以前安基尔做一部书叫做《大幻想》，罗列种种的经济事实，说近世的战争，能使得战胜国同战败国一样的破产。欧洲这一次大战争的结果，完全证明他的公例是不错的",
+      "confidence": 0.9
+    },
+    {
+      "id": "c4",
+      "speaker": "丁文江",
+      "claim": "阚士的“和约的经济结果”说，压迫战败国过度，使他不能生活，与战胜国有害无利。这四年中的欧洲不件件被阚氏说中了吗？",
+      "target": "",
+      "claim_type": "描述性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "阚士的“和约的经济结果”说，压迫战败国过度，使他不能生活，与战胜国有害无利。这四年中的欧洲不件件被阚氏说中了吗？",
+      "confidence": 0.9
+    },
+    {
+      "id": "c5",
+      "speaker": "丁文江",
+      "claim": "君劢对于科学第二种误解是把科学的分类当做科学的鸿沟",
+      "target": "张君劢",
+      "claim_type": "评价性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "君劢对于科学第二种误解是把科学的分类当做科学的鸿沟。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c6",
+      "speaker": "托摩生",
+      "claim": "科学的分类是为实际上同知识上的方便，但是满身都是困难",
+      "target": "",
+      "claim_type": "描述性主张",
+      "claim_status": "直接引用",
+      "polarity": "neutral",
+      "evidence": "托摩生的《科学引论》说：“科学的分类是为实际上同知识上的方便，但是满身都是困难。”",
+      "confidence": 0.9
+    },
+    {
+      "id": "c7",
+      "speaker": "皮尔逊",
+      "claim": "各种科学是同本的树枝",
+      "target": "",
+      "claim_type": "描述性主张",
+      "claim_status": "直接引用",
+      "polarity": "neutral",
+      "evidence": "他又引皮尔逊的话说，“各种科学是同本的树枝。”",
+      "confidence": 0.9
+    },
+    {
+      "id": "c8",
+      "speaker": "丁文江",
+      "claim": "论理学与生物学似乎性质绝不相类，然而由论理而数学，而物理，而化学，而生物化学，而生物学，彼此重复，界限不清，足见得他们本来是同气连枝的",
+      "target": "",
+      "claim_type": "描述性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "例如论理学与生物学似乎性质绝不相类，然而由论理而数学，而物理，而化学，而生物化学，而生物学，彼此重复，界限不清，足见得他们本来是同气连枝的。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c9",
+      "speaker": "丁文江",
+      "claim": "君劢所举的翁特分类是不完备，不精密的",
+      "target": "张君劢",
+      "claim_type": "评价性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "我不知道君劢为什么单举翁特的分类来做标准，因为翁特原书并没有讨论科学分类，君劢所举的是他“论理学”各章的标题，所以是不完备，不精密的！",
+      "confidence": 0.9
+    }
+  ],
+  "relations": [
+    {
+      "id": "r1",
+      "head": "丁文江",
+      "head_type": "人物",
+      "relation": "相关",
+      "relation_subtype": "援引权威支持",
+      "tail": "托摩生",
+      "tail_type": "人物",
+      "polarity": "positive",
+      "stance_score": 0.8,
+      "intensity": 0.5,
+      "evidence": "托摩生的《科学引论》说：“科学的分类是为实际上同知识上的方便，但是满身都是困难。”",
+      "confidence": 0.9
+    },
+    {
+      "id": "r2",
+      "head": "丁文江",
+      "head_type": "人物",
+      "relation": "相关",
+      "relation_subtype": "援引权威支持",
+      "tail": "皮尔逊",
+      "tail_type": "人物",
+      "polarity": "positive",
+      "stance_score": 0.8,
+      "intensity": 0.5,
+      "evidence": "他又引皮尔逊的话说，“各种科学是同本的树枝。”",
+      "confidence": 0.9
+    }
+  ],
+  "definitions": [
+    {
+      "id": "def1",
+      "term": "科学的分类",
+      "definition": "科学的分类是为实际上同知识上的方便，但是满身都是困难",
+      "evidence": "托摩生的《科学引论》说：“科学的分类是为实际上同知识上的方便，但是满身都是困难。”",
+      "confidence": 0.9
+    },
+    {
+      "id": "def2",
+      "term": "各种科学",
+      "definition": "各种科学是同本的树枝",
+      "evidence": "他又引皮尔逊的话说，“各种科学是同本的树枝。”",
+      "confidence": 0.9
+    }
+  ],
+  "citations": [
+    {
+      "id": "cit1",
+      "citer": "丁文江",
+      "quoted_author": "托摩生",
+      "quoted_work": "《科学引论》",
+      "quoted_claim": "科学的分类是为实际上同知识上的方便，但是满身都是困难",
+      "function": "援引权威支持",
+      "evidence": "托摩生的《科学引论》说：“科学的分类是为实际上同知识上的方便，但是满身都是困难。”",
+      "confidence": 0.9
+    },
+    {
+      "id": "cit2",
+      "citer": "丁文江",
+      "quoted_author": "皮尔逊",
+      "quoted_work": "",
+      "quoted_claim": "各种科学是同本的树枝",
+      "function": "援引权威支持",
+      "evidence": "他又引皮尔逊的话说，“各种科学是同本的树枝。”",
+      "confidence": 0.9
+    },
+    {
+      "id": "cit3",
+      "citer": "丁文江",
+      "quoted_author": "安基尔",
+      "quoted_work": "《大幻想》",
+      "quoted_claim": "近世的战争，能使得战胜国同战败国一样的破产",
+      "function": "作为历史证据",
+      "evidence": "欧战以前安基尔做一部书叫做《大幻想》，罗列种种的经济事实，说近世的战争，能使得战胜国同战败国一样的破产。",
+      "confidence": 0.9
+    },
+    {
+      "id": "cit4",
+      "citer": "丁文江",
+      "quoted_author": "阚士",
+      "quoted_work": "和约的经济结果",
+      "quoted_claim": "压迫战败国过度，使他不能生活，与战胜国有害无利",
+      "function": "作为历史证据",
+      "evidence": "阚士的“和约的经济结果”说，压迫战败国过度，使他不能生活，与战胜国有害无利。",
+      "confidence": 0.9
+    }
+  ],
+  "rhetorical_devices": [
+    {
+      "id": "rh1",
+      "expression": "各种科学是同本的树枝",
+      "device_type": "比喻",
+      "literal_target": "各种科学有共同根源",
+      "function": "形象化说明科学之间的关联性",
+      "evidence": "他又引皮尔逊的话说，“各种科学是同本的树枝。”",
+      "confidence": 0.9
+    },
+    {
+      "id": "rh2",
+      "expression": "同气连枝",
+      "device_type": "比喻",
+      "literal_target": "科学之间相互关联",
+      "function": "形象化说明科学之间的关联性",
+      "evidence": "足见得他们本来是同气连枝的。",
+      "confidence": 0.9
+    }
+  ],
+  "uncertainties": [
+    {
+      "item": "翁特原书并没有讨论科学分类",
+      "reason": "文本未提供翁特原书的具体信息，无法核实"
+    },
+    {
+      "item": "君劢所举的是他“论理学”各章的标题",
+      "reason": "文本未提供张君劢所举的具体标题内容"
+    }
+  ],
+  "_meta": {
+    "status": "success",
+    "stage": "extract",
+    "model": "deepseek-ai/DeepSeek-V4-Flash",
+    "base_url": "https://api.siliconflow.cn/v1",
+    "prompt_version": "v2.0",
+    "schema_version": "lite_v3.0",
+    "segment_id": "丁文江2_000_e838922e_s0012",
+    "article_id": "丁文江2_000_e838922e",
+    "char_start": 5961,
+    "char_end": 6530,
+    "raw_path": "E:\\1研究生\\岭南大学\\论文毕业\\capstone\\资料\\新的内容开始了\\local_upload\\kg_runs_v2\\丁文江_等3篇\\raw_outputs\\extract\\丁文江2_000_e838922e_s0012.txt",
+    "parsed_at": "2026-05-22T07:12:44",
+    "started_at": "2026-05-22T07:11:56",
+    "elapsed_seconds": 48.203,
+    "strict_evidence_check": true,
+    "drop_unsupported_evidence": true,
+    "request_timeout_seconds": 60
+  }
+}

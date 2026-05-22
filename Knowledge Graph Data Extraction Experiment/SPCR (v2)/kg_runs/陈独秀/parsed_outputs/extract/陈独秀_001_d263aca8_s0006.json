@@ -1,0 +1,377 @@
+{
+  "metadata": {
+    "schema_version": "lite_v3.0",
+    "article_id": "陈独秀_001_d263aca8",
+    "article_title": "答适之",
+    "source_author": "陈独秀",
+    "section_title": "方今国中竟言新文化，而文化转移之枢纽，不外乎人生观。吾有吾之文化，西洋有西洋之文化。西洋之有益者如何采之，有害者如何革除之；凡此取舍之间，皆决之于观点。观点定，而后精神上之思潮、物质上之制度，乃可按",
+    "section_author": "方今国中竟言新文化，而文化转移之枢纽，不外乎人生观。吾有吾之文化，西洋有西洋之文化。西洋之有益者如何采之，有害者如何革除之；凡此取舍之间，皆决之于观点。观点定，而后精神上之思潮、物质上之制度，乃可",
+    "segment_id": "陈独秀_001_d263aca8_s0006",
+    "segment_index": 6,
+    "source_file": "E:\\1研究生\\岭南大学\\论文毕业\\capstone\\资料\\新的内容开始了\\local_upload\\input_陈独秀\\陈独秀.txt"
+  },
+  "entities": [
+    {
+      "id": "e1",
+      "name": "张君劢",
+      "canonical_name": "张君劢",
+      "type": "人物",
+      "evidence": "张君劢必然大摇大摆的来向适之拱手道谢",
+      "confidence": 1.0
+    },
+    {
+      "id": "e2",
+      "name": "适之",
+      "canonical_name": "适之",
+      "type": "人物",
+      "evidence": "张君劢必然大摇大摆的来向适之拱手道谢",
+      "confidence": 1.0
+    },
+    {
+      "id": "e3",
+      "name": "人生观",
+      "canonical_name": "人生观",
+      "type": "概念",
+      "evidence": "天下古今之最不统一者，莫若人生观",
+      "confidence": 1.0
+    },
+    {
+      "id": "e4",
+      "name": "我",
+      "canonical_name": "我",
+      "type": "概念",
+      "evidence": "人生观之中心点，是曰我",
+      "confidence": 1.0
+    },
+    {
+      "id": "e5",
+      "name": "非我",
+      "canonical_name": "非我",
+      "type": "概念",
+      "evidence": "与我对待者，则非我也",
+      "confidence": 1.0
+    },
+    {
+      "id": "e6",
+      "name": "父母",
+      "canonical_name": "父母",
+      "type": "概念",
+      "evidence": "就其生育我者言之，则为父母",
+      "confidence": 1.0
+    },
+    {
+      "id": "e7",
+      "name": "夫妇",
+      "canonical_name": "夫妇",
+      "type": "概念",
+      "evidence": "就其与我为配偶者言之，则为夫妇",
+      "confidence": 1.0
+    },
+    {
+      "id": "e8",
+      "name": "社会",
+      "canonical_name": "社会",
+      "type": "概念",
+      "evidence": "就我所属之团体言之，则为社会为国家",
+      "confidence": 1.0
+    },
+    {
+      "id": "e9",
+      "name": "国家",
+      "canonical_name": "国家",
+      "type": "概念",
+      "evidence": "就我所属之团体言之，则为社会为国家",
+      "confidence": 1.0
+    },
+    {
+      "id": "e10",
+      "name": "私有财产制",
+      "canonical_name": "私有财产制",
+      "type": "概念",
+      "evidence": "就财产支配之方法言之，则有私有财产制公有财产制",
+      "confidence": 1.0
+    },
+    {
+      "id": "e11",
+      "name": "公有财产制",
+      "canonical_name": "公有财产制",
+      "type": "概念",
+      "evidence": "就财产支配之方法言之，则有私有财产制公有财产制",
+      "confidence": 1.0
+    },
+    {
+      "id": "e12",
+      "name": "精神文明",
+      "canonical_name": "精神文明",
+      "type": "概念",
+      "evidence": "就重物质或轻物质言之，则有精神文明与物质文明",
+      "confidence": 1.0
+    },
+    {
+      "id": "e13",
+      "name": "物质文明",
+      "canonical_name": "物质文明",
+      "type": "概念",
+      "evidence": "就重物质或轻物质言之，则有精神文明与物质文明",
+      "confidence": 1.0
+    },
+    {
+      "id": "e14",
+      "name": "大家族主义",
+      "canonical_name": "大家族主义",
+      "type": "概念",
+      "evidence": "大家族主义",
+      "confidence": 1.0
+    },
+    {
+      "id": "e15",
+      "name": "守旧主义",
+      "canonical_name": "守旧主义",
+      "type": "概念",
+      "evidence": "守旧主义",
+      "confidence": 1.0
+    },
+    {
+      "id": "e16",
+      "name": "维新主义",
+      "canonical_name": "维新主义",
+      "type": "概念",
+      "evidence": "维新主义",
+      "confidence": 1.0
+    },
+    {
+      "id": "e17",
+      "name": "科学",
+      "canonical_name": "科学",
+      "type": "概念",
+      "evidence": "诸君平日所学，皆科学也",
+      "confidence": 1.0
+    },
+    {
+      "id": "e18",
+      "name": "因果律",
+      "canonical_name": "因果律",
+      "type": "概念",
+      "evidence": "皆为因果律所支配",
+      "confidence": 1.0
+    },
+    {
+      "id": "e19",
+      "name": "人生",
+      "canonical_name": "人生",
+      "type": "概念",
+      "evidence": "是为人生",
+      "confidence": 1.0
+    },
+    {
+      "id": "e20",
+      "name": "问题",
+      "canonical_name": "问题",
+      "type": "问题",
+      "evidence": "此类问题，并非哲学上高尚之学理，而即在于人生日用之中",
+      "confidence": 1.0
+    }
+  ],
+  "claims": [
+    {
+      "id": "c1",
+      "speaker": "方今国中竟言新文化，而文化转移之枢纽，不外乎人生观。吾有吾之文化，西洋有西洋之文化。西洋之有益者如何采之，有害者如何革除之；凡此取舍之间，皆决之于观点。观点定，而后精神上之思潮、物质上之制度，乃可",
+      "claim": "张君劢必然大摇大摆的来向适之拱手道谢",
+      "target": "张君劢",
+      "claim_type": "描述性主张",
+      "claim_status": "作者讽刺性归纳",
+      "polarity": "negative",
+      "evidence": "张君劢必然大摇大摆的来向适之拱手道谢",
+      "confidence": 1.0
+    },
+    {
+      "id": "c2",
+      "speaker": "方今国中竟言新文化，而文化转移之枢纽，不外乎人生观。吾有吾之文化，西洋有西洋之文化。西洋之有益者如何采之，有害者如何革除之；凡此取舍之间，皆决之于观点。观点定，而后精神上之思潮、物质上之制度，乃可",
+      "claim": "天下古今之最不统一者，莫若人生观",
+      "target": "人生观",
+      "claim_type": "描述性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "天下古今之最不统一者，莫若人生观",
+      "confidence": 1.0
+    },
+    {
+      "id": "c3",
+      "speaker": "方今国中竟言新文化，而文化转移之枢纽，不外乎人生观。吾有吾之文化，西洋有西洋之文化。西洋之有益者如何采之，有害者如何革除之；凡此取舍之间，皆决之于观点。观点定，而后精神上之思潮、物质上之制度，乃可",
+      "claim": "人生观之中心点，是曰我",
+      "target": "人生观",
+      "claim_type": "定义性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "人生观之中心点，是曰我",
+      "confidence": 1.0
+    },
+    {
+      "id": "c4",
+      "speaker": "方今国中竟言新文化，而文化转移之枢纽，不外乎人生观。吾有吾之文化，西洋有西洋之文化。西洋之有益者如何采之，有害者如何革除之；凡此取舍之间，皆决之于观点。观点定，而后精神上之思潮、物质上之制度，乃可",
+      "claim": "与我对待者，则非我也",
+      "target": "非我",
+      "claim_type": "定义性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "与我对待者，则非我也",
+      "confidence": 1.0
+    },
+    {
+      "id": "c5",
+      "speaker": "方今国中竟言新文化，而文化转移之枢纽，不外乎人生观。吾有吾之文化，西洋有西洋之文化。西洋之有益者如何采之，有害者如何革除之；凡此取舍之间，皆决之于观点。观点定，而后精神上之思潮、物质上之制度，乃可",
+      "claim": "大多数之问题，必不若是之明确",
+      "target": "问题",
+      "claim_type": "描述性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "实则使诸君闭目一思，则知大多数之问题，必不若是之明确",
+      "confidence": 1.0
+    },
+    {
+      "id": "c6",
+      "speaker": "方今国中竟言新文化，而文化转移之枢纽，不外乎人生观。吾有吾之文化，西洋有西洋之文化。西洋之有益者如何采之，有害者如何革除之；凡此取舍之间，皆决之于观点。观点定，而后精神上之思潮、物质上之制度，乃可",
+      "claim": "此类问题，并非哲学上高尚之学理，而即在于人生日用之中",
+      "target": "问题",
+      "claim_type": "描述性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "此类问题，并非哲学上高尚之学理，而即在于人生日用之中",
+      "confidence": 1.0
+    },
+    {
+      "id": "c7",
+      "speaker": "方今国中竟言新文化，而文化转移之枢纽，不外乎人生观。吾有吾之文化，西洋有西洋之文化。西洋之有益者如何采之，有害者如何革除之；凡此取舍之间，皆决之于观点。观点定，而后精神上之思潮、物质上之制度，乃可",
+      "claim": "甲一说，乙一说，漫无是非真伪之标准",
+      "target": "人生观",
+      "claim_type": "描述性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "甲一说，乙一说，漫无是非真伪之标准",
+      "confidence": 1.0
+    },
+    {
+      "id": "c8",
+      "speaker": "方今国中竟言新文化，而文化转移之枢纽，不外乎人生观。吾有吾之文化，西洋有西洋之文化。西洋之有益者如何采之，有害者如何革除之；凡此取舍之间，皆决之于观点。观点定，而后精神上之思潮、物质上之制度，乃可",
+      "claim": "凡此问题，东西古今，意见极不一致，决不如数学或物理化学问题之有一定公式",
+      "target": "问题",
+      "claim_type": "对比性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "凡此问题，东西古今，意见极不一致，决不如数学或物理化学问题之有一定公式",
+      "confidence": 1.0
+    }
+  ],
+  "relations": [
+    {
+      "id": "r1",
+      "head": "张君劢",
+      "head_type": "人物",
+      "relation": "回应",
+      "relation_subtype": "讽刺",
+      "tail": "适之",
+      "tail_type": "人物",
+      "polarity": "negative",
+      "stance_score": -0.8,
+      "intensity": 0.9,
+      "evidence": "张君劢必然大摇大摆的来向适之拱手道谢",
+      "confidence": 1.0
+    },
+    {
+      "id": "r2",
+      "head": "人生观",
+      "head_type": "概念",
+      "relation": "定义",
+      "relation_subtype": "概念澄清",
+      "tail": "我",
+      "tail_type": "概念",
+      "polarity": "neutral",
+      "stance_score": 0.0,
+      "intensity": 0.5,
+      "evidence": "人生观之中心点，是曰我",
+      "confidence": 1.0
+    },
+    {
+      "id": "r3",
+      "head": "方今国中竟言新文化，而文化转移之枢纽，不外乎人生观。吾有吾之文化，西洋有西洋之文化。西洋之有益者如何采之，有害者如何革除之；凡此取舍之间，皆决之于观点。观点定，而后精神上之思潮、物质上之制度，乃可",
+      "head_type": "概念",
+      "relation": "区分",
+      "relation_subtype": "概念澄清",
+      "tail": "非我",
+      "tail_type": "概念",
+      "polarity": "neutral",
+      "stance_score": 0.0,
+      "intensity": 0.5,
+      "evidence": "与我对待者，则非我也",
+      "confidence": 1.0
+    }
+  ],
+  "definitions": [
+    {
+      "id": "def1",
+      "term": "人生观",
+      "definition": "天下古今之最不统一者，莫若人生观",
+      "evidence": "天下古今之最不统一者，莫若人生观",
+      "confidence": 1.0
+    },
+    {
+      "id": "def2",
+      "term": "人生观",
+      "definition": "人生观之中心点，是曰我",
+      "evidence": "人生观之中心点，是曰我",
+      "confidence": 1.0
+    },
+    {
+      "id": "def3",
+      "term": "非我",
+      "definition": "与我对待者，则非我也",
+      "evidence": "与我对待者，则非我也",
+      "confidence": 1.0
+    }
+  ],
+  "citations": [],
+  "rhetorical_devices": [
+    {
+      "id": "rh1",
+      "expression": "大摇大摆的来向适之拱手道谢",
+      "device_type": "讽刺",
+      "literal_target": "张君劢",
+      "function": "讽刺张君劢可能赞同适之观点",
+      "evidence": "张君劢必然大摇大摆的来向适之拱手道谢",
+      "confidence": 1.0
+    }
+  ],
+  "uncertainties": [
+    {
+      "item": "文本开头“论，张君劢必然大摇大摆的来向适之拱手道谢”与后续“人生观”部分的关系不明确，可能为独立段落或标题，但无法从当前片段确定。",
+      "reason": "当前文本片段中“论”字单独出现，后接感叹句，与后续内容无直接连接词，无法判断其与后文的逻辑关系。"
+    },
+    {
+      "item": "“十二，十二，九”的含义不明，可能为日期或编号，但无法从当前片段确定。",
+      "reason": "当前文本片段中“十二，十二，九”单独成行，无上下文解释。"
+    },
+    {
+      "item": "“# 人生观”可能为标题，但当前文本片段中未明确其与前后文的关系。",
+      "reason": "当前文本片段中“# 人生观”单独成行，无上下文说明其是否为标题或章节标记。"
+    }
+  ],
+  "_meta": {
+    "status": "success",
+    "stage": "extract",
+    "model": "deepseek-ai/DeepSeek-V4-Flash",
+    "base_url": "https://api.siliconflow.cn/v1",
+    "prompt_version": "v2.0",
+    "schema_version": "lite_v3.0",
+    "segment_id": "陈独秀_001_d263aca8_s0006",
+    "article_id": "陈独秀_001_d263aca8",
+    "char_start": 2802,
+    "char_end": 3377,
+    "raw_path": "E:\\1研究生\\岭南大学\\论文毕业\\capstone\\资料\\新的内容开始了\\local_upload\\kg_runs_v2\\陈独秀\\raw_outputs\\extract\\陈独秀_001_d263aca8_s0006.txt",
+    "parsed_at": "2026-05-21T19:22:16",
+    "started_at": "2026-05-21T19:19:58",
+    "elapsed_seconds": 137.808,
+    "strict_evidence_check": true,
+    "drop_unsupported_evidence": true,
+    "request_timeout_seconds": 180
+  }
+}

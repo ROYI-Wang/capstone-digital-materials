@@ -1,0 +1,400 @@
+{
+  "metadata": {
+    "schema_version": "lite_v3.0",
+    "article_id": "丁文江2_000_e838922e",
+    "article_title": "玄学与科学——答张君劢",
+    "source_author": "丁文江",
+    "section_title": "",
+    "section_author": "",
+    "segment_id": "丁文江2_000_e838922e_s0029",
+    "segment_index": 29,
+    "source_file": "E:\\1研究生\\岭南大学\\论文毕业\\capstone\\资料\\新的内容开始了\\local_upload\\input_丁文江\\丁文江2.txt"
+  },
+  "entities": [
+    {
+      "id": "e1",
+      "name": "诗人画家",
+      "canonical_name": "诗人画家",
+      "type": "阵营/群体",
+      "evidence": "诗人画家虽是常有奇怪的想像，他们最诚实，决不像玄学家拿想像来骗人的。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e2",
+      "name": "玄学家",
+      "canonical_name": "玄学家",
+      "type": "阵营/群体",
+      "evidence": "决不像玄学家拿想像来骗人的。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e3",
+      "name": "杜牧之",
+      "canonical_name": "杜牧之",
+      "type": "人物",
+      "evidence": "杜牧之说“蜡烛有心还惜别，替人垂泪到天明”。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e4",
+      "name": "柏格森",
+      "canonical_name": "柏格森",
+      "type": "人物",
+      "evidence": "若是柏格森对我们老实说，他的玄学是同诗人的诗一样，我们决不肯再反对他了。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e5",
+      "name": "玄学",
+      "canonical_name": "玄学",
+      "type": "概念",
+      "evidence": "若是柏格森对我们老实说，他的玄学是同诗人的诗一样，我们决不肯再反对他了。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e6",
+      "name": "诗人的诗",
+      "canonical_name": "诗人的诗",
+      "type": "概念",
+      "evidence": "他的玄学是同诗人的诗一样",
+      "confidence": 0.9
+    },
+    {
+      "id": "e7",
+      "name": "美术",
+      "canonical_name": "美术",
+      "type": "概念",
+      "evidence": "我岂但不反对美术，并且不反对宗教，不过我不承认神学是宗教。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e8",
+      "name": "宗教",
+      "canonical_name": "宗教",
+      "type": "概念",
+      "evidence": "我岂但不反对美术，并且不反对宗教，不过我不承认神学是宗教。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e9",
+      "name": "神学",
+      "canonical_name": "神学",
+      "type": "概念",
+      "evidence": "不过我不承认神学是宗教。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e10",
+      "name": "蚁",
+      "canonical_name": "蚁",
+      "type": "例证",
+      "evidence": "十二年前我做动物学教科书说蚁类优胜的理由",
+      "confidence": 0.9
+    },
+    {
+      "id": "e11",
+      "name": "后蚁",
+      "canonical_name": "后蚁",
+      "type": "例证",
+      "evidence": "如彼后蚁，当其初生时，无家室之累，生殖之劳，有翅能飞，来去自在，其乐何如也？",
+      "confidence": 0.9
+    },
+    {
+      "id": "e12",
+      "name": "工蚁",
+      "canonical_name": "工蚁",
+      "type": "例证",
+      "evidence": "如彼工蚁，则更不足以自慰。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e13",
+      "name": "牺牲个体之利益以图一群之利益",
+      "canonical_name": "牺牲个体之利益以图一群之利益",
+      "type": "观点",
+      "evidence": "牺牲个体之利益以图一群之利益也，牺牲一群一时之利益以图一种万世之利益也。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e14",
+      "name": "牺牲一群一时之利益以图一种万世之利益",
+      "canonical_name": "牺牲一群一时之利益以图一种万世之利益",
+      "type": "观点",
+      "evidence": "牺牲一群一时之利益以图一种万世之利益也。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e15",
+      "name": "天演",
+      "canonical_name": "天演",
+      "type": "概念",
+      "evidence": "论天演的末节我又说",
+      "confidence": 0.9
+    },
+    {
+      "id": "e16",
+      "name": "优劣成败",
+      "canonical_name": "优劣成败",
+      "type": "概念",
+      "evidence": "所谓优劣成败者，不关于个体而关于全种；不关于一时而关于万世。",
+      "confidence": 0.9
+    }
+  ],
+  "claims": [
+    {
+      "id": "c1",
+      "speaker": "丁文江",
+      "claim": "诗人画家虽是常有奇怪的想像，他们最诚实，决不像玄学家拿想像来骗人的。",
+      "target": "玄学家",
+      "claim_type": "对比性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "诗人画家虽是常有奇怪的想像，他们最诚实，决不像玄学家拿想像来骗人的。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c2",
+      "speaker": "丁文江",
+      "claim": "画地狱的人决不说我们要到他画里面去受罪。",
+      "target": "诗人画家",
+      "claim_type": "描述性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "画地狱的人决不说我们要到他画里面去受罪。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c3",
+      "speaker": "丁文江",
+      "claim": "杜牧之说“蜡烛有心还惜别，替人垂泪到天明”。决不是叫我们相信蜡烛真有惜别的心，真能替人吊眼泪。",
+      "target": "杜牧之",
+      "claim_type": "描述性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "杜牧之说“蜡烛有心还惜别，替人垂泪到天明”。决不是叫我们相信蜡烛真有惜别的心，真能替人吊眼泪。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c4",
+      "speaker": "丁文江",
+      "claim": "若是柏格森对我们老实说，他的玄学是同诗人的诗一样，我们决不肯再反对他了。",
+      "target": "柏格森",
+      "claim_type": "假设情境",
+      "claim_status": "假设情境",
+      "polarity": "negative",
+      "evidence": "若是柏格森对我们老实说，他的玄学是同诗人的诗一样，我们决不肯再反对他了。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c5",
+      "speaker": "丁文江",
+      "claim": "我岂但不反对美术，并且不反对宗教，不过我不承认神学是宗教。",
+      "target": "神学",
+      "claim_type": "评价性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "我岂但不反对美术，并且不反对宗教，不过我不承认神学是宗教。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c6",
+      "speaker": "丁文江",
+      "claim": "牺牲个体之利益以图一群之利益也，牺牲一群一时之利益以图一种万世之利益也。",
+      "target": "蚁",
+      "claim_type": "结论性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "牺牲个体之利益以图一群之利益也，牺牲一群一时之利益以图一种万世之利益也。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c7",
+      "speaker": "丁文江",
+      "claim": "所谓优劣成败者，不关于个体而关于全种；不关于一时而关于万世。",
+      "target": "优劣成败",
+      "claim_type": "定义性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "所谓优劣成败者，不关于个体而关于全种；不关于一时而关于万世。",
+      "confidence": 0.9
+    }
+  ],
+  "relations": [
+    {
+      "id": "r1",
+      "head": "诗人画家",
+      "head_type": "阵营/群体",
+      "relation": "对比",
+      "relation_subtype": "不适用",
+      "tail": "玄学家",
+      "tail_type": "阵营/群体",
+      "polarity": "negative",
+      "stance_score": -0.8,
+      "intensity": 0.8,
+      "evidence": "诗人画家虽是常有奇怪的想像，他们最诚实，决不像玄学家拿想像来骗人的。",
+      "confidence": 0.9
+    },
+    {
+      "id": "r2",
+      "head": "丁文江",
+      "head_type": "人物",
+      "relation": "批评",
+      "relation_subtype": "讽刺",
+      "tail": "玄学家",
+      "tail_type": "阵营/群体",
+      "polarity": "negative",
+      "stance_score": -0.9,
+      "intensity": 0.9,
+      "evidence": "诗人画家虽是常有奇怪的想像，他们最诚实，决不像玄学家拿想像来骗人的。",
+      "confidence": 0.9
+    },
+    {
+      "id": "r3",
+      "head": "丁文江",
+      "head_type": "人物",
+      "relation": "批评",
+      "relation_subtype": "讽刺",
+      "tail": "柏格森",
+      "tail_type": "人物",
+      "polarity": "negative",
+      "stance_score": -0.7,
+      "intensity": 0.7,
+      "evidence": "若是柏格森对我们老实说，他的玄学是同诗人的诗一样，我们决不肯再反对他了。",
+      "confidence": 0.9
+    },
+    {
+      "id": "r4",
+      "head": "丁文江",
+      "head_type": "人物",
+      "relation": "反对",
+      "relation_subtype": "概念澄清",
+      "tail": "神学",
+      "tail_type": "概念",
+      "polarity": "negative",
+      "stance_score": -0.8,
+      "intensity": 0.8,
+      "evidence": "我岂但不反对美术，并且不反对宗教，不过我不承认神学是宗教。",
+      "confidence": 0.9
+    },
+    {
+      "id": "r5",
+      "head": "丁文江",
+      "head_type": "人物",
+      "relation": "定义",
+      "relation_subtype": "概念澄清",
+      "tail": "神学",
+      "tail_type": "概念",
+      "polarity": "negative",
+      "stance_score": -0.8,
+      "intensity": 0.8,
+      "evidence": "不过我不承认神学是宗教。",
+      "confidence": 0.9
+    },
+    {
+      "id": "r6",
+      "head": "牺牲个体之利益以图一群之利益",
+      "head_type": "观点",
+      "relation": "解释",
+      "relation_subtype": "不适用",
+      "tail": "蚁",
+      "tail_type": "例证",
+      "polarity": "neutral",
+      "stance_score": 0.0,
+      "intensity": 0.5,
+      "evidence": "牺牲个体之利益以图一群之利益也，牺牲一群一时之利益以图一种万世之利益也。言群学者可以鉴矣。",
+      "confidence": 0.9
+    },
+    {
+      "id": "r7",
+      "head": "牺牲一群一时之利益以图一种万世之利益",
+      "head_type": "观点",
+      "relation": "解释",
+      "relation_subtype": "不适用",
+      "tail": "蚁",
+      "tail_type": "例证",
+      "polarity": "neutral",
+      "stance_score": 0.0,
+      "intensity": 0.5,
+      "evidence": "牺牲一群一时之利益以图一种万世之利益也。",
+      "confidence": 0.9
+    },
+    {
+      "id": "r8",
+      "head": "优劣成败",
+      "head_type": "概念",
+      "relation": "定义",
+      "relation_subtype": "概念澄清",
+      "tail": "不关于个体而关于全种；不关于一时而关于万世",
+      "tail_type": "观点",
+      "polarity": "neutral",
+      "stance_score": 0.0,
+      "intensity": 0.5,
+      "evidence": "所谓优劣成败者，不关于个体而关于全种；不关于一时而关于万世。",
+      "confidence": 0.9
+    }
+  ],
+  "definitions": [
+    {
+      "id": "def1",
+      "term": "神学",
+      "definition": "丁文江不承认神学是宗教。",
+      "evidence": "不过我不承认神学是宗教。",
+      "confidence": 0.9
+    },
+    {
+      "id": "def2",
+      "term": "优劣成败",
+      "definition": "优劣成败不关于个体而关于全种，不关于一时而关于万世。",
+      "evidence": "所谓优劣成败者，不关于个体而关于全种；不关于一时而关于万世。",
+      "confidence": 0.9
+    }
+  ],
+  "citations": [
+    {
+      "id": "cit1",
+      "citer": "丁文江",
+      "quoted_author": "杜牧之",
+      "quoted_work": "",
+      "quoted_claim": "蜡烛有心还惜别，替人垂泪到天明",
+      "function": "作为论据支持",
+      "evidence": "杜牧之说“蜡烛有心还惜别，替人垂泪到天明”。",
+      "confidence": 0.9
+    },
+    {
+      "id": "cit2",
+      "citer": "丁文江",
+      "quoted_author": "丁文江",
+      "quoted_work": "动物学教科书",
+      "quoted_claim": "牺牲个体之利益以图一群之利益也，牺牲一群一时之利益以图一种万世之利益也。",
+      "function": "作为历史证据",
+      "evidence": "十二年前我做动物学教科书说蚁类优胜的理由",
+      "confidence": 0.9
+    }
+  ],
+  "rhetorical_devices": [
+    {
+      "id": "rh1",
+      "expression": "决不像玄学家拿想像来骗人的",
+      "device_type": "讽刺",
+      "literal_target": "玄学家",
+      "function": "批评玄学家用想象欺骗人",
+      "evidence": "诗人画家虽是常有奇怪的想像，他们最诚实，决不像玄学家拿想像来骗人的。",
+      "confidence": 0.9
+    },
+    {
+      "id": "rh2",
+      "expression": "若是柏格森对我们老实说，他的玄学是同诗人的诗一样，我们决不肯再反对他了",
+      "device_type": "讽刺",
+      "literal_target": "柏格森",
+      "function": "讽刺柏格森的玄学不诚实，不像诗那样坦白",
+      "evidence": "若是柏格森对我们老实说，他的玄学是同诗人的诗一样，我们决不肯再反对他了。",
+      "confidence": 0.9
+    }
+  ],
+  "uncertainties": [
+    {
+      "item": "丁文江引用自己十二年前的动物学教科书，但未明确说明该引文是否完全代表他当前观点。",
+      "reason": "引文是十二年前所作，当前文本未明确表示是否仍然坚持，但作为论据使用暗示支持。"
+    }
+  ]
+}

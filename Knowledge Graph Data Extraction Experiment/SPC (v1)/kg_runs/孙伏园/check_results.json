@@ -1,0 +1,731 @@
+{
+  "check_results": [
+    {
+      "segment_id": "孙伏园_000_50fcd0d8_s0000",
+      "high": 12,
+      "medium": 2,
+      "low": 0,
+      "issues": {
+        "type_errors": [],
+        "attribution_errors": [],
+        "direction_errors": [],
+        "missing_nodes": [
+          {
+            "node": "玄学是什么？",
+            "node_type": "问题",
+            "reason": "原文明确提出三个问题，应作为问题节点抽取，而非仅作为概念提及。",
+            "severity": "high"
+          },
+          {
+            "node": "科学是什么？",
+            "node_type": "问题",
+            "reason": "同上，原文明确提出的问题。",
+            "severity": "high"
+          },
+          {
+            "node": "人生观是什么？",
+            "node_type": "问题",
+            "reason": "同上。",
+            "severity": "high"
+          },
+          {
+            "node": "哲学是什么？",
+            "node_type": "问题",
+            "reason": "原文明确提出第四个问题。",
+            "severity": "high"
+          },
+          {
+            "node": "玄学是整个地研究宇宙",
+            "node_type": "定义",
+            "reason": "孙伏园给出了玄学的定义，应作为定义节点。",
+            "severity": "high"
+          },
+          {
+            "node": "科学是分别地研究宇宙",
+            "node_type": "定义",
+            "reason": "孙伏园给出了科学的定义。",
+            "severity": "high"
+          },
+          {
+            "node": "人生观是某一个人（或某一派人）对于人生的见解与态度",
+            "node_type": "定义",
+            "reason": "孙伏园给出了人生观的定义。",
+            "severity": "high"
+          },
+          {
+            "node": "哲学是整个地和分别地研究人生",
+            "node_type": "定义",
+            "reason": "孙伏园给出了哲学的定义。",
+            "severity": "high"
+          },
+          {
+            "node": "哲学的内容应该是: (一) 整个地研究人生 —— 人生哲学; (二) 分别地研究人生——社会学，心理学，教育学，等等",
+            "node_type": "观点",
+            "reason": "孙伏园对哲学内容的进一步阐述，应作为观点节点。",
+            "severity": "medium"
+          }
+        ],
+        "missing_links": [
+          {
+            "source": "孙伏园_000_50fcd0d8_s0000:e2",
+            "relation": "被定义",
+            "target": "玄学是整个地研究宇宙",
+            "reason": "孙伏园给出了玄学的定义。",
+            "severity": "high"
+          },
+          {
+            "source": "孙伏园_000_50fcd0d8_s0000:e3",
+            "relation": "被定义",
+            "target": "科学是分别地研究宇宙",
+            "reason": "孙伏园给出了科学的定义。",
+            "severity": "high"
+          },
+          {
+            "source": "孙伏园_000_50fcd0d8_s0000:e4",
+            "relation": "被定义",
+            "target": "人生观是某一个人（或某一派人）对于人生的见解与态度",
+            "reason": "孙伏园给出了人生观的定义。",
+            "severity": "high"
+          },
+          {
+            "source": "孙伏园_000_50fcd0d8_s0000:e5",
+            "relation": "被定义",
+            "target": "哲学是整个地和分别地研究人生",
+            "reason": "孙伏园给出了哲学的定义。",
+            "severity": "high"
+          },
+          {
+            "source": "孙伏园_000_50fcd0d8_s0000:e5",
+            "relation": "被定义",
+            "target": "哲学的内容应该是: (一) 整个地研究人生 —— 人生哲学; (二) 分别地研究人生——社会学，心理学，教育学，等等",
+            "reason": "孙伏园对哲学内容的进一步阐述。",
+            "severity": "medium"
+          }
+        ],
+        "normalization_issues": [],
+        "relation_type_issues": [],
+        "polarity_issues": [],
+        "evidence_issues": [],
+        "rhetorical_device_issues": []
+      }
+    },
+    {
+      "segment_id": "孙伏园_000_50fcd0d8_s0001",
+      "high": 8,
+      "medium": 9,
+      "low": 0,
+      "issues": {
+        "type_errors": [],
+        "attribution_errors": [],
+        "direction_errors": [],
+        "missing_nodes": [
+          {
+            "node": "人生哲学",
+            "node_type": "概念",
+            "reason": "原文将'人生哲学'作为'整个地研究人生'的学科，是重要概念，应抽取。",
+            "severity": "medium"
+          },
+          {
+            "node": "社会学",
+            "node_type": "概念",
+            "reason": "原文列举了社会学、心理学、教育学作为'分别地研究人生'的学科，是重要概念，应抽取。",
+            "severity": "medium"
+          },
+          {
+            "node": "心理学",
+            "node_type": "概念",
+            "reason": "同上。",
+            "severity": "medium"
+          },
+          {
+            "node": "教育学",
+            "node_type": "概念",
+            "reason": "同上。",
+            "severity": "medium"
+          },
+          {
+            "node": "晚出的科学",
+            "node_type": "概念",
+            "reason": "原文用'晚出的科学'指代用自然科学方法研究人类社会的学科，是重要概念，应抽取。",
+            "severity": "medium"
+          },
+          {
+            "node": "人生观的定义",
+            "node_type": "概念",
+            "reason": "原文讨论了人生观的定义，并给出了孙伏园自己的定义，应抽取为概念或观点。",
+            "severity": "medium"
+          },
+          {
+            "node": "张君第一篇文中所举的九条",
+            "node_type": "观点",
+            "reason": "原文引用并评价了张君劢的九条，是重要论据，应抽取。",
+            "severity": "medium"
+          },
+          {
+            "node": "第八条是人生观",
+            "node_type": "观点",
+            "reason": "原文明确主张张君劢九条中只有第八条是人生观，是核心观点，应抽取。",
+            "severity": "high"
+          },
+          {
+            "node": "人生观受科学的影响",
+            "node_type": "问题",
+            "reason": "原文提出'人生观受不受科学的影响'是一个问题，应抽取为问题节点。",
+            "severity": "high"
+          },
+          {
+            "node": "人生观统一不统一",
+            "node_type": "问题",
+            "reason": "原文提出'人生观统一不统一'是另一个问题，应抽取为问题节点。",
+            "severity": "high"
+          },
+          {
+            "node": "人生观受科学方法的影响",
+            "node_type": "观点",
+            "reason": "原文引用任君的观点，并表达赞同，应抽取为观点节点。",
+            "severity": "high"
+          }
+        ],
+        "missing_links": [
+          {
+            "source": "哲学",
+            "relation": "包含",
+            "target": "人生观",
+            "reason": "原文明确说'人生观则包在哲学范围以内'，应建立包含关系。",
+            "severity": "high"
+          },
+          {
+            "source": "哲学",
+            "relation": "介于",
+            "target": "科学",
+            "reason": "原文说'哲学介乎科学与玄学之间'，应建立关系。",
+            "severity": "medium"
+          },
+          {
+            "source": "哲学",
+            "relation": "介于",
+            "target": "玄学",
+            "reason": "同上。",
+            "severity": "medium"
+          },
+          {
+            "source": "孙伏园",
+            "relation": "主张",
+            "target": "第八条是人生观",
+            "reason": "原文是孙伏园的主张，应建立归属关系。",
+            "severity": "high"
+          },
+          {
+            "source": "孙伏园",
+            "relation": "赞同",
+            "target": "人生观受科学方法的影响",
+            "reason": "原文说'如任君所论，人生观受科学方法的影响，我是极以为然的'，应建立赞同关系。",
+            "severity": "high"
+          },
+          {
+            "source": "人生观受科学方法的影响",
+            "relation": "回应",
+            "target": "人生观受科学的影响",
+            "reason": "原文将'人生观受科学方法的影响'作为对'人生观受不受科学的影响'问题的回应，应建立回应关系。",
+            "severity": "high"
+          }
+        ],
+        "normalization_issues": [],
+        "relation_type_issues": [],
+        "polarity_issues": [],
+        "evidence_issues": [],
+        "rhetorical_device_issues": []
+      }
+    },
+    {
+      "segment_id": "孙伏园_000_50fcd0d8_s0002",
+      "high": 10,
+      "medium": 9,
+      "low": 3,
+      "issues": {
+        "type_errors": [
+          {
+            "item": "e4: 陆王",
+            "problem": "陆王在文本中作为学派/思想流派被提及，而非具体人物，应标为'阵营/群体'或'主义/学说/理论'。",
+            "suggested_fix": "将类型改为'阵营/群体'或'主义/学说/理论'。",
+            "severity": "medium"
+          },
+          {
+            "item": "e5: 程、朱、陆、王",
+            "problem": "程、朱、陆、王在文本中作为'死了的名词'，指代学术史上的学派或思想流派，而非具体人物，应标为'阵营/群体'或'主义/学说/理论'。",
+            "suggested_fix": "将类型改为'阵营/群体'或'主义/学说/理论'。",
+            "severity": "medium"
+          }
+        ],
+        "attribution_errors": [],
+        "direction_errors": [],
+        "missing_nodes": [
+          {
+            "node": "人生观受科学方法的影响",
+            "node_type": "观点",
+            "reason": "文本中孙伏园明确表示'人生观受科学方法的影响，我是极以为然的'，这是一个被支持的观点，应抽取为观点节点。",
+            "severity": "high"
+          },
+          {
+            "node": "人生观将来能统一",
+            "node_type": "观点",
+            "reason": "文本中孙伏园转述丁文江的观点'人生观将来能统一的'，并表达'不很希望'，这是一个被讨论的观点，应抽取为观点节点。",
+            "severity": "high"
+          },
+          {
+            "node": "人生观受科学影响与受科学支配并不是一件事",
+            "node_type": "观点",
+            "reason": "这是孙伏园提出的一个区分性观点，是论证的关键，应抽取为观点节点。",
+            "severity": "high"
+          },
+          {
+            "node": "思想要求绝对的自由",
+            "node_type": "观点",
+            "reason": "孙伏园提出'如果人生观是思想方面的东西，那末我替他要求绝对的自由'，这是一个主张，应抽取为观点节点。",
+            "severity": "high"
+          },
+          {
+            "node": "凡属思想都要受科学的支配",
+            "node_type": "观点",
+            "reason": "孙伏园假设并批评这一观点，应抽取为观点节点。",
+            "severity": "high"
+          },
+          {
+            "node": "各个人的人生观都要统一起来",
+            "node_type": "观点",
+            "reason": "孙伏园假设并批评这一观点，应抽取为观点节点。",
+            "severity": "high"
+          },
+          {
+            "node": "玄学，哲学，科学，人生观，都是活着的名词",
+            "node_type": "观点",
+            "reason": "孙伏园提出的区分性观点，应抽取为观点节点。",
+            "severity": "high"
+          },
+          {
+            "node": "汉学，宋学，程、朱、陆、王，都是死了的名词",
+            "node_type": "观点",
+            "reason": "孙伏园提出的区分性观点，应抽取为观点节点。",
+            "severity": "high"
+          },
+          {
+            "node": "丁君于讨论玄学与科学时大骂陆王固可不必",
+            "node_type": "评价",
+            "reason": "孙伏园对丁文江行为的评价，应抽取为评价节点。",
+            "severity": "medium"
+          },
+          {
+            "node": "张君答辩时竟主张排斥汉学提倡宋学似乎更可不必",
+            "node_type": "评价",
+            "reason": "孙伏园对张君劢行为的评价，应抽取为评价节点。",
+            "severity": "medium"
+          },
+          {
+            "node": "历史上这种争论，已觉得多属无谓",
+            "node_type": "评价",
+            "reason": "孙伏园对历史争论的评价，应抽取为评价节点。",
+            "severity": "medium"
+          }
+        ],
+        "missing_links": [
+          {
+            "source": "孙伏园_000_50fcd0d8_s0002:e1",
+            "relation": "主张",
+            "target": "人生观受科学方法的影响",
+            "reason": "孙伏园转述任鸿隽的观点，应建立人物与观点的关系。",
+            "severity": "high"
+          },
+          {
+            "source": "孙伏园_000_50fcd0d8_s0002:e2",
+            "relation": "主张",
+            "target": "人生观将来能统一",
+            "reason": "孙伏园转述丁文江的观点，应建立人物与观点的关系。",
+            "severity": "high"
+          },
+          {
+            "source": "孙伏园_000_50fcd0d8_s0002:e2",
+            "relation": "批评",
+            "target": "丁君于讨论玄学与科学时大骂陆王固可不必",
+            "reason": "孙伏园批评丁文江的行为，应建立人物与评价的关系。",
+            "severity": "medium"
+          },
+          {
+            "source": "孙伏园_000_50fcd0d8_s0002:e3",
+            "relation": "批评",
+            "target": "张君答辩时竟主张排斥汉学提倡宋学似乎更可不必",
+            "reason": "孙伏园批评张君劢的行为，应建立人物与评价的关系。",
+            "severity": "medium"
+          }
+        ],
+        "normalization_issues": [
+          {
+            "surface_forms": [
+              "任君",
+              "任鸿隽"
+            ],
+            "suggested_canonical": "任鸿隽",
+            "reason": "文本中'任君'指代任鸿隽，应统一为规范名称。",
+            "severity": "low"
+          },
+          {
+            "surface_forms": [
+              "丁君",
+              "丁文江"
+            ],
+            "suggested_canonical": "丁文江",
+            "reason": "文本中'丁君'指代丁文江，应统一为规范名称。",
+            "severity": "low"
+          },
+          {
+            "surface_forms": [
+              "张君",
+              "张君劢"
+            ],
+            "suggested_canonical": "张君劢",
+            "reason": "文本中'张君'指代张君劢，应统一为规范名称。",
+            "severity": "low"
+          }
+        ],
+        "relation_type_issues": [],
+        "polarity_issues": [],
+        "evidence_issues": [],
+        "rhetorical_device_issues": [
+          {
+            "item": "风马牛不相及",
+            "problem": "这是一个比喻，用于强调玄学、科学等与汉学、宋学等毫无关系，应抽取为'比喻/类比'节点，并说明其literal_target和论证功能。",
+            "suggested_fix": "添加一个'比喻/类比'节点，literal_target为'玄学、科学、哲学、人生观与汉学、宋学、程朱陆王之间的关系'，论证功能为'强调两者无关'。",
+            "severity": "medium"
+          },
+          {
+            "item": "跳入死尸队中去参战",
+            "problem": "这是一个比喻，用于讽刺参与过时的争论，应抽取为'比喻/类比'节点，并说明其literal_target和论证功能。",
+            "suggested_fix": "添加一个'比喻/类比'节点，literal_target为'参与汉学宋学等过时争论'，论证功能为'讽刺和劝阻'。",
+            "severity": "medium"
+          }
+        ]
+      }
+    },
+    {
+      "segment_id": "孙伏园_001_119b038d_s0000",
+      "high": 14,
+      "medium": 13,
+      "low": 2,
+      "issues": {
+        "type_errors": [
+          {
+            "item": "孙伏园_001_119b038d_s0000:e5",
+            "problem": "Metaphysics 是英文原词，不应作为概念实体抽取，应作为玄学的翻译来源标注，或仅保留玄学概念。",
+            "suggested_fix": "删除 Metaphysics 实体，或将其类型改为'其他'并关联为玄学的翻译来源。",
+            "severity": "medium"
+          }
+        ],
+        "attribution_errors": [],
+        "direction_errors": [],
+        "missing_nodes": [
+          {
+            "node": "哲学",
+            "node_type": "概念",
+            "reason": "文本中明确提到'玄学与科学以外又有一个名词即是哲学'，并详细说明哲学包含认识论、本体论、宇宙论，是重要概念节点。",
+            "severity": "high"
+          },
+          {
+            "node": "认识论",
+            "node_type": "概念",
+            "reason": "文本中作为哲学的一部分被定义，是理解玄学与科学关系的关键。",
+            "severity": "medium"
+          },
+          {
+            "node": "本体论",
+            "node_type": "概念",
+            "reason": "文本中作为玄学的核心部分被定义。",
+            "severity": "medium"
+          },
+          {
+            "node": "宇宙论",
+            "node_type": "概念",
+            "reason": "文本中作为哲学的一部分被定义。",
+            "severity": "medium"
+          },
+          {
+            "node": "经验派",
+            "node_type": "阵营/群体",
+            "reason": "文本中提及'美英的经验派'，是哲学流派，应作为群体实体。",
+            "severity": "medium"
+          },
+          {
+            "node": "理性派",
+            "node_type": "阵营/群体",
+            "reason": "文本中提及'大陆的理性派'，是哲学流派，应作为群体实体。",
+            "severity": "medium"
+          },
+          {
+            "node": "丁在君",
+            "node_type": "人物",
+            "reason": "文本中明确提及'丁在君先生'，是论战参与者。",
+            "severity": "high"
+          },
+          {
+            "node": "张君劢",
+            "node_type": "人物",
+            "reason": "文本中明确提及'张君劢先生'，是论战参与者。",
+            "severity": "high"
+          },
+          {
+            "node": "胡适之",
+            "node_type": "人物",
+            "reason": "文本中提及'胡适之先生挑剔矛盾律'，是论战参与者。",
+            "severity": "high"
+          },
+          {
+            "node": "科学能支配人生观吗",
+            "node_type": "问题",
+            "reason": "文本中虽未直接提出此问题，但'玄科之战'的核心问题之一，且作者讨论定义问题，隐含此争论问题。",
+            "severity": "low"
+          }
+        ],
+        "missing_links": [
+          {
+            "source": "玄学",
+            "relation": "翻译自",
+            "target": "Metaphysics",
+            "reason": "文本明确说'玄学本来是 Metaphysics 的译语'，应建立翻译关系。",
+            "severity": "medium"
+          },
+          {
+            "source": "科学",
+            "relation": "翻译自",
+            "target": "Science",
+            "reason": "文本明确说'科学当然是 Science 的译语'，应建立翻译关系。",
+            "severity": "medium"
+          },
+          {
+            "source": "哲学",
+            "relation": "包含",
+            "target": "认识论",
+            "reason": "文本说'哲学包括三部分：一为认识论'。",
+            "severity": "high"
+          },
+          {
+            "source": "哲学",
+            "relation": "包含",
+            "target": "本体论",
+            "reason": "文本说'哲学包括三部分：二为本体论'。",
+            "severity": "high"
+          },
+          {
+            "source": "哲学",
+            "relation": "包含",
+            "target": "宇宙论",
+            "reason": "文本说'哲学包括三部分：三为宇宙论'。",
+            "severity": "high"
+          },
+          {
+            "source": "玄学",
+            "relation": "是",
+            "target": "狭义的哲学",
+            "reason": "文本说'玄学在通常讲来，即是狭义的哲学'。",
+            "severity": "high"
+          },
+          {
+            "source": "玄学",
+            "relation": "包含",
+            "target": "本体论",
+            "reason": "文本说'通常名本体论与宇宙论为玄学'，且'以本体论为中心'。",
+            "severity": "high"
+          },
+          {
+            "source": "玄学",
+            "relation": "包含",
+            "target": "宇宙论",
+            "reason": "文本说'通常名本体论与宇宙论为玄学'。",
+            "severity": "high"
+          },
+          {
+            "source": "经验派",
+            "relation": "属于",
+            "target": "哲学",
+            "reason": "文本说'哲学上有两派：一派是始终自限于认识论而不入本体论；前者以美英的经验派中为多'。",
+            "severity": "medium"
+          },
+          {
+            "source": "理性派",
+            "relation": "属于",
+            "target": "哲学",
+            "reason": "文本说'哲学上有两派：一派是由认识论而直入本体论；后者以大陆的理性派为多'。",
+            "severity": "medium"
+          },
+          {
+            "source": "经验派",
+            "relation": "对立于",
+            "target": "理性派",
+            "reason": "文本说'这两派的打架本不自今日始'，表明对立关系。",
+            "severity": "medium"
+          },
+          {
+            "source": "丁在君",
+            "relation": "参与",
+            "target": "科玄论战",
+            "reason": "文本提及丁在君先生是论战一方。",
+            "severity": "high"
+          },
+          {
+            "source": "张君劢",
+            "relation": "参与",
+            "target": "科玄论战",
+            "reason": "文本提及张君劢先生是论战一方。",
+            "severity": "high"
+          },
+          {
+            "source": "胡适之",
+            "relation": "参与",
+            "target": "科玄论战",
+            "reason": "文本提及胡适之先生挑剔矛盾律，是论战参与者。",
+            "severity": "high"
+          },
+          {
+            "source": "孙伏园",
+            "relation": "提出",
+            "target": "玄学与科学定义的问题",
+            "reason": "文本说'伏园先生独先提出玄学与科学定义的问题'。",
+            "severity": "high"
+          }
+        ],
+        "normalization_issues": [
+          {
+            "surface_forms": [
+              "丁在君",
+              "丁在君先生"
+            ],
+            "suggested_canonical": "丁文江",
+            "reason": "丁在君是丁文江的字，应统一为常用名。",
+            "severity": "medium"
+          },
+          {
+            "surface_forms": [
+              "胡适之",
+              "胡适之先生"
+            ],
+            "suggested_canonical": "胡适",
+            "reason": "胡适之是胡适的字，应统一为常用名。",
+            "severity": "medium"
+          },
+          {
+            "surface_forms": [
+              "张君劢",
+              "张君劢先生"
+            ],
+            "suggested_canonical": "张君劢",
+            "reason": "已统一，但需确认是否添加先生后缀。",
+            "severity": "low"
+          }
+        ],
+        "relation_type_issues": [],
+        "polarity_issues": [],
+        "evidence_issues": [],
+        "rhetorical_device_issues": []
+      }
+    },
+    {
+      "segment_id": "孙伏园_001_119b038d_s0001",
+      "high": 3,
+      "medium": 5,
+      "low": 3,
+      "issues": {
+        "type_errors": [],
+        "attribution_errors": [],
+        "direction_errors": [],
+        "missing_nodes": [
+          {
+            "node": "先入之见",
+            "node_type": "概念",
+            "reason": "文本中明确提到丁文江和张君劢各有'先入之见'，这是一个重要的概念，用于解释辩论无果的原因，应抽取为概念节点。",
+            "severity": "medium"
+          },
+          {
+            "node": "矛盾律",
+            "node_type": "概念",
+            "reason": "文本提到胡适之先生挑剔'矛盾律'，这是一个逻辑学概念，应抽取为概念节点。",
+            "severity": "medium"
+          },
+          {
+            "node": "预赛/正赛",
+            "node_type": "比喻/类比",
+            "reason": "作者将当前的笔战比喻为'预赛'，建议停止后开始'正赛'，这是一个重要的修辞手法，应抽取为比喻/类比节点。",
+            "severity": "high"
+          }
+        ],
+        "missing_links": [
+          {
+            "source": "丁文江",
+            "relation": "持有",
+            "target": "先入之见",
+            "reason": "文本指出丁文江有先入之见，应建立人物与概念之间的持有关系。",
+            "severity": "medium"
+          },
+          {
+            "source": "张君劢",
+            "relation": "持有",
+            "target": "先入之见",
+            "reason": "文本指出张君劢有先入之见，应建立人物与概念之间的持有关系。",
+            "severity": "medium"
+          },
+          {
+            "source": "胡适",
+            "relation": "批评",
+            "target": "矛盾律",
+            "reason": "文本提到胡适之先生'挑剔'矛盾律，'挑剔'在此语境下可理解为批评或挑剔，应建立人物与概念之间的批评关系。",
+            "severity": "medium"
+          },
+          {
+            "source": "张东荪",
+            "relation": "提出",
+            "target": "预赛/正赛",
+            "reason": "作者张东荪提出了将笔战视为预赛的比喻，应建立作者与比喻/类比之间的提出关系。",
+            "severity": "high"
+          }
+        ],
+        "normalization_issues": [
+          {
+            "surface_forms": [
+              "丁在君",
+              "丁文江"
+            ],
+            "suggested_canonical": "丁文江",
+            "reason": "文本中同时出现'丁在君'和'丁文江'，应统一为规范名'丁文江'。",
+            "severity": "low"
+          },
+          {
+            "surface_forms": [
+              "胡适之",
+              "胡适"
+            ],
+            "suggested_canonical": "胡适",
+            "reason": "文本中同时出现'胡适之'和'胡适'，应统一为规范名'胡适'。",
+            "severity": "low"
+          },
+          {
+            "surface_forms": [
+              "伏园先生",
+              "孙伏园"
+            ],
+            "suggested_canonical": "孙伏园",
+            "reason": "文本中同时出现'伏园先生'和'孙伏园'，应统一为规范名'孙伏园'。",
+            "severity": "low"
+          }
+        ],
+        "relation_type_issues": [],
+        "polarity_issues": [],
+        "evidence_issues": [],
+        "rhetorical_device_issues": [
+          {
+            "item": "预赛/正赛",
+            "problem": "未抽取为比喻/类比节点，也未说明其修辞功能和literal_target。",
+            "suggested_fix": "将'预赛/正赛'抽取为比喻/类比节点，并添加属性：literal_target='当前笔战'，rhetorical_function='建议停止当前辩论，重新开始有组织的辩论'。",
+            "severity": "high"
+          }
+        ]
+      }
+    }
+  ],
+  "total_high": 47
+}

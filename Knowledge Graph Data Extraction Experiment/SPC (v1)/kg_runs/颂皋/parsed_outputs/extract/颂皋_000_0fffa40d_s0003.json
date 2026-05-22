@@ -1,0 +1,267 @@
+{
+  "metadata": {
+    "schema_version": "lite_v2.0",
+    "article_id": "颂皋_000_0fffa40d",
+    "article_title": "玄学上之问题",
+    "source_author": "颂皋",
+    "section_title": "",
+    "section_author": "",
+    "segment_id": "颂皋_000_0fffa40d_s0003",
+    "segment_index": 3,
+    "source_file": "E:\\1研究生\\岭南大学\\论文毕业\\capstone\\资料\\新的内容开始了\\local_upload\\input_w2\\颂皋.txt"
+  },
+  "entities": [
+    {
+      "id": "e1",
+      "name": "原理",
+      "canonical_name": "原理",
+      "type": "概念",
+      "evidence": "原理之意义，既如是之复杂",
+      "confidence": 0.9
+    },
+    {
+      "id": "e2",
+      "name": "科学",
+      "canonical_name": "科学",
+      "type": "概念",
+      "evidence": "由原理而完成之科学",
+      "confidence": 0.9
+    },
+    {
+      "id": "e3",
+      "name": "玄学",
+      "canonical_name": "玄学",
+      "type": "概念",
+      "evidence": "玄学之最严重的职务，不在乎他，即在乎研究此种单纯问题",
+      "confidence": 0.9
+    },
+    {
+      "id": "e4",
+      "name": "事物",
+      "canonical_name": "事物",
+      "type": "概念",
+      "evidence": "今以“事物”而论",
+      "confidence": 0.9
+    },
+    {
+      "id": "e5",
+      "name": "物质",
+      "canonical_name": "物质",
+      "type": "概念",
+      "evidence": "是否由于一种物质所组成",
+      "confidence": 0.9
+    },
+    {
+      "id": "e6",
+      "name": "自然律",
+      "canonical_name": "自然律",
+      "type": "概念",
+      "evidence": "在自然律上，要与吾人相抵牾",
+      "confidence": 0.9
+    },
+    {
+      "id": "e7",
+      "name": "世界之起源",
+      "canonical_name": "世界之起源",
+      "type": "问题",
+      "evidence": "关于世界之起源究有若干意见",
+      "confidence": 0.9
+    },
+    {
+      "id": "e8",
+      "name": "斯宾塞尔",
+      "canonical_name": "斯宾塞尔",
+      "type": "人物",
+      "evidence": "斯宾塞尔尝谓世界非永久者，即为自我创造者",
+      "confidence": 0.9
+    }
+  ],
+  "claims": [
+    {
+      "id": "c1",
+      "speaker": "颂皋",
+      "claim": "原理之意义，既如是之复杂，由原理而完成之科学，又难有实现之望，然则此种定义，推其究竟，直等于一装饰品耳",
+      "target": "科学",
+      "claim_type": "价值评价",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "原理之意义，既如是之复杂，由原理而完成之科学，又难有实现之望，然则此种定义，推其究竟，直等于一装饰品耳",
+      "confidence": 0.9
+    },
+    {
+      "id": "c2",
+      "speaker": "颂皋",
+      "claim": "玄学之最严重的职务，不在乎他，即在乎研究此种单纯问题",
+      "target": "玄学",
+      "claim_type": "定义性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "玄学之最严重的职务，不在乎他，即在乎研究此种单纯问题",
+      "confidence": 0.9
+    },
+    {
+      "id": "c3",
+      "speaker": "颂皋",
+      "claim": "上所云之各问题，大都为真实者也",
+      "target": "问题",
+      "claim_type": "知识论主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "且夫上所云之各问题，大都为真实者也",
+      "confidence": 0.8
+    },
+    {
+      "id": "c4",
+      "speaker": "颂皋",
+      "claim": "此种问题，苟非吾人得以证实之，在自然律上，要与吾人相抵牾，则可无疑",
+      "target": "问题",
+      "claim_type": "知识论主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "此种问题，苟非吾人得以证实之，在自然律上，要与吾人相抵牾，则可无疑",
+      "confidence": 0.8
+    },
+    {
+      "id": "c5",
+      "speaker": "斯宾塞尔",
+      "claim": "世界非永久者，即为自我创造者；非自我创造者，则为外力所创造者",
+      "target": "世界之起源",
+      "claim_type": "历史解释",
+      "claim_status": "间接转述",
+      "polarity": "neutral",
+      "evidence": "斯宾塞尔尝谓世界非永久者，即为自我创造者；非自我创造者，则为外力所创造者",
+      "confidence": 0.9
+    },
+    {
+      "id": "c6",
+      "speaker": "颂皋",
+      "claim": "即使吾人随斯氏而断定无一起源之形态为可以思议，而断定全部问题为非真实，吾人亦不失为玄学家矣",
+      "target": "玄学",
+      "claim_type": "定义性主张",
+      "claim_status": "作者推论",
+      "polarity": "positive",
+      "evidence": "即使吾人随斯氏而断定无一起源之形态为可以思议，而断定全部问题为非真实，吾人亦不失为玄学家矣",
+      "confidence": 0.8
+    }
+  ],
+  "relations": [
+    {
+      "id": "r1",
+      "head": "原理",
+      "head_type": "概念",
+      "relation": "导致",
+      "tail": "科学",
+      "tail_type": "概念",
+      "polarity": "negative",
+      "evidence": "由原理而完成之科学，又难有实现之望",
+      "confidence": 0.8
+    },
+    {
+      "id": "r2",
+      "head": "玄学",
+      "head_type": "概念",
+      "relation": "定义",
+      "tail": "单纯问题",
+      "tail_type": "问题",
+      "polarity": "positive",
+      "evidence": "玄学之最严重的职务，不在乎他，即在乎研究此种单纯问题",
+      "confidence": 0.9
+    },
+    {
+      "id": "r3",
+      "head": "颂皋",
+      "head_type": "人物",
+      "relation": "相关",
+      "tail": "斯宾塞尔",
+      "tail_type": "人物",
+      "polarity": "neutral",
+      "evidence": "斯宾塞尔尝谓世界非永久者，即为自我创造者；非自我创造者，则为外力所创造者",
+      "confidence": 0.9
+    },
+    {
+      "id": "r4",
+      "head": "斯宾塞尔",
+      "head_type": "人物",
+      "relation": "主张",
+      "tail": "世界非永久者，即为自我创造者；非自我创造者，则为外力所创造者",
+      "tail_type": "观点",
+      "polarity": "neutral",
+      "evidence": "斯宾塞尔尝谓世界非永久者，即为自我创造者；非自我创造者，则为外力所创造者",
+      "confidence": 0.9
+    }
+  ],
+  "definitions": [
+    {
+      "id": "def1",
+      "term": "玄学",
+      "definition": "玄学之最严重的职务在于研究单纯问题",
+      "evidence": "玄学之最严重的职务，不在乎他，即在乎研究此种单纯问题",
+      "confidence": 0.9
+    }
+  ],
+  "citations": [
+    {
+      "id": "cit1",
+      "citer": "颂皋",
+      "quoted_author": "斯宾塞尔",
+      "quoted_work": "",
+      "quoted_claim": "世界非永久者，即为自我创造者；非自我创造者，则为外力所创造者",
+      "function": "援引权威支持",
+      "evidence": "斯宾塞尔尝谓世界非永久者，即为自我创造者；非自我创造者，则为外力所创造者",
+      "confidence": 0.9
+    }
+  ],
+  "rhetorical_devices": [
+    {
+      "id": "rh1",
+      "expression": "装饰品",
+      "device_type": "比喻",
+      "literal_target": "定义",
+      "function": "贬低科学定义的价值",
+      "evidence": "然则此种定义，推其究竟，直等于一装饰品耳",
+      "confidence": 0.9
+    },
+    {
+      "id": "rh2",
+      "expression": "深入玄学之重围，无以解脱",
+      "device_type": "比喻",
+      "literal_target": "讨论玄学问题",
+      "function": "强调玄学问题的复杂性和难以回避",
+      "evidence": "申述至斯，吾人不啻已深入玄学之重围，无以解脱",
+      "confidence": 0.9
+    }
+  ],
+  "uncertainties": [
+    {
+      "item": "“原理之意义”中的“原理”具体指什么",
+      "reason": "文本未明确说明原理的具体内涵，仅提及意义复杂"
+    },
+    {
+      "item": "“此种定义”中的“定义”具体指什么",
+      "reason": "前文未明确给出定义对象，可能指原理或科学的定义"
+    },
+    {
+      "item": "“单纯问题”的具体范围",
+      "reason": "文本仅举例“事物”相关问题，未完整列举"
+    }
+  ],
+  "_meta": {
+    "status": "success",
+    "stage": "extract",
+    "model": "deepseek-ai/DeepSeek-V4-Flash",
+    "base_url": "https://api.siliconflow.cn/v1",
+    "prompt_version": "extract_prompt_v2.0",
+    "schema_version": "lite_v2.0",
+    "segment_id": "颂皋_000_0fffa40d_s0003",
+    "article_id": "颂皋_000_0fffa40d",
+    "char_start": 1534,
+    "char_end": 2116,
+    "raw_path": "E:\\1研究生\\岭南大学\\论文毕业\\capstone\\资料\\新的内容开始了\\local_upload\\kg_runs\\颂皋\\raw_outputs\\extract\\颂皋_000_0fffa40d_s0003.txt",
+    "parsed_at": "2026-05-19T14:36:58",
+    "started_at": "2026-05-19T14:34:02",
+    "elapsed_seconds": 176.087,
+    "strict_evidence_check": true,
+    "drop_unsupported_evidence": true,
+    "request_timeout_seconds": 180
+  }
+}

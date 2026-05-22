@@ -1,0 +1,497 @@
+{
+  "metadata": {
+    "schema_version": "lite_v3.0",
+    "article_id": "甘蛰仙_000_6b354fa0",
+    "article_title": "人生观与知识论",
+    "source_author": "甘蛰仙",
+    "section_title": "“良知不是外铄的，是固有的。按",
+    "section_author": "“良知不是外铄的，是固有的。",
+    "segment_id": "甘蛰仙_000_6b354fa0_s0002",
+    "segment_index": 2,
+    "source_file": "E:\\1研究生\\岭南大学\\论文毕业\\capstone\\资料\\新的内容开始了\\local_upload\\input_v2_w3\\甘蛰仙.txt"
+  },
+  "entities": [
+    {
+      "id": "e1",
+      "name": "道德的自由论",
+      "canonical_name": "道德的自由论",
+      "type": "概念",
+      "evidence": "似乎这种自由论，是建筑在道德的基础上的，不妨说为道德的自由论。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e2",
+      "name": "良心的自由",
+      "canonical_name": "良心的自由",
+      "type": "概念",
+      "evidence": "我所自信的，是肯定良心的自由，道德上的自由，所以我的道德论底根本观念，是本体论中的自由论！",
+      "confidence": 0.9
+    },
+    {
+      "id": "e3",
+      "name": "道德上的自由",
+      "canonical_name": "道德上的自由",
+      "type": "概念",
+      "evidence": "我所自信的，是肯定良心的自由，道德上的自由，所以我的道德论底根本观念，是本体论中的自由论！",
+      "confidence": 0.9
+    },
+    {
+      "id": "e4",
+      "name": "道德论",
+      "canonical_name": "道德论",
+      "type": "概念",
+      "evidence": "我所自信的，是肯定良心的自由，道德上的自由，所以我的道德论底根本观念，是本体论中的自由论！",
+      "confidence": 0.9
+    },
+    {
+      "id": "e5",
+      "name": "本体论中的自由论",
+      "canonical_name": "本体论中的自由论",
+      "type": "概念",
+      "evidence": "我所自信的，是肯定良心的自由，道德上的自由，所以我的道德论底根本观念，是本体论中的自由论！",
+      "confidence": 0.9
+    },
+    {
+      "id": "e6",
+      "name": "自由意志",
+      "canonical_name": "自由意志",
+      "type": "概念",
+      "evidence": "鄙意欲率自由意志以通本体论与道德学之邮，犹先民所谓“为仁由己”也。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e7",
+      "name": "本体论",
+      "canonical_name": "本体论",
+      "type": "概念",
+      "evidence": "鄙意欲率自由意志以通本体论与道德学之邮，犹先民所谓“为仁由己”也。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e8",
+      "name": "道德学",
+      "canonical_name": "道德学",
+      "type": "概念",
+      "evidence": "鄙意欲率自由意志以通本体论与道德学之邮，犹先民所谓“为仁由己”也。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e9",
+      "name": "本体之学",
+      "canonical_name": "本体之学",
+      "type": "概念",
+      "evidence": "我当时之见解，以为从事本体之学，务必以道德学为之辅，乃能按切人生之实际，乃能新建一种健全的人生观。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e10",
+      "name": "人生观",
+      "canonical_name": "人生观",
+      "type": "概念",
+      "evidence": "我当时之见解，以为从事本体之学，务必以道德学为之辅，乃能按切人生之实际，乃能新建一种健全的人生观。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e11",
+      "name": "宋明时代的理学家",
+      "canonical_name": "宋明时代的理学家",
+      "type": "阵营/群体",
+      "evidence": "宋明时代的理学家，无自名其学为玄学者，由能“即体为用”；不肯披其坦荡荡之“儒者”胸襟，以当往昔清谈者流所畅之玄风也。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e12",
+      "name": "玄学",
+      "canonical_name": "玄学",
+      "type": "概念",
+      "evidence": "宋明时代的理学家，无自名其学为玄学者，由能“即体为用”；不肯披其坦荡荡之“儒者”胸襟，以当往昔清谈者流所畅之玄风也。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e13",
+      "name": "即体为用",
+      "canonical_name": "即体为用",
+      "type": "概念",
+      "evidence": "宋明时代的理学家，无自名其学为玄学者，由能“即体为用”；不肯披其坦荡荡之“儒者”胸襟，以当往昔清谈者流所畅之玄风也。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e14",
+      "name": "儒者",
+      "canonical_name": "儒者",
+      "type": "阵营/群体",
+      "evidence": "不肯披其坦荡荡之“儒者”胸襟，以当往昔清谈者流所畅之玄风也。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e15",
+      "name": "清谈者流",
+      "canonical_name": "清谈者流",
+      "type": "阵营/群体",
+      "evidence": "不肯披其坦荡荡之“儒者”胸襟，以当往昔清谈者流所畅之玄风也。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e16",
+      "name": "尊德性",
+      "canonical_name": "尊德性",
+      "type": "概念",
+      "evidence": "彼“尊德性”之说，似较“道问学”之义，为切于本体矣；然此所谓“尊”，即是对于“德性”所下的工夫：犹前所谓“致”，即是对于“良知”所下的工夫也。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e17",
+      "name": "道问学",
+      "canonical_name": "道问学",
+      "type": "概念",
+      "evidence": "彼“尊德性”之说，似较“道问学”之义，为切于本体矣；然此所谓“尊”，即是对于“德性”所下的工夫：犹前所谓“致”，即是对于“良知”所下的工夫也。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e18",
+      "name": "德性",
+      "canonical_name": "德性",
+      "type": "概念",
+      "evidence": "彼“尊德性”之说，似较“道问学”之义，为切于本体矣；然此所谓“尊”，即是对于“德性”所下的工夫：犹前所谓“致”，即是对于“良知”所下的工夫也。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e19",
+      "name": "良知",
+      "canonical_name": "良知",
+      "type": "概念",
+      "evidence": "犹前所谓“致”，即是对于“良知”所下的工夫也。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e20",
+      "name": "无所为而为",
+      "canonical_name": "无所为而为",
+      "type": "概念",
+      "evidence": "即为“良知”而“致良知”，为“德性”而“尊德性”，即本体以为工夫，亦将不外乎率其一副无所为而为的精神，以从事“学问”；而未见其所“道”者，终不能与其“尊”者，同归一致也。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e21",
+      "name": "中国先哲之人生观及其知识论底一班",
+      "canonical_name": "中国先哲之人生观及其知识论底一班",
+      "type": "文章",
+      "evidence": "**中国先哲之人生观及其知识论底一班**",
+      "confidence": 0.9
+    },
+    {
+      "id": "e22",
+      "name": "孔孟荀朱陆王",
+      "canonical_name": "孔孟荀朱陆王",
+      "type": "阵营/群体",
+      "evidence": "（5）由知识论略释孔孟荀朱陆王诸家之学说：",
+      "confidence": 0.9
+    }
+  ],
+  "claims": [
+    {
+      "id": "c1",
+      "speaker": "甘蛰仙",
+      "claim": "这种自由论，是建筑在道德的基础上的，不妨说为道德的自由论。",
+      "target": "道德的自由论",
+      "claim_type": "描述性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "似乎这种自由论，是建筑在道德的基础上的，不妨说为道德的自由论。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c2",
+      "speaker": "甘蛰仙",
+      "claim": "我所自信的，是肯定良心的自由，道德上的自由，所以我的道德论底根本观念，是本体论中的自由论！",
+      "target": "道德论",
+      "claim_type": "结论性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "我所自信的，是肯定良心的自由，道德上的自由，所以我的道德论底根本观念，是本体论中的自由论！",
+      "confidence": 0.9
+    },
+    {
+      "id": "c3",
+      "speaker": "甘蛰仙",
+      "claim": "欲率自由意志以通本体论与道德学之邮，犹先民所谓“为仁由己”也。",
+      "target": "自由意志",
+      "claim_type": "描述性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "鄙意欲率自由意志以通本体论与道德学之邮，犹先民所谓“为仁由己”也。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c4",
+      "speaker": "甘蛰仙",
+      "claim": "从事本体之学，务必以道德学为之辅，乃能按切人生之实际，乃能新建一种健全的人生观。",
+      "target": "本体之学",
+      "claim_type": "规范性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "我当时之见解，以为从事本体之学，务必以道德学为之辅，乃能按切人生之实际，乃能新建一种健全的人生观。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c5",
+      "speaker": "甘蛰仙",
+      "claim": "宋明时代的理学家，无自名其学为玄学者，由能“即体为用”；不肯披其坦荡荡之“儒者”胸襟，以当往昔清谈者流所畅之玄风也。",
+      "target": "宋明时代的理学家",
+      "claim_type": "描述性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "宋明时代的理学家，无自名其学为玄学者，由能“即体为用”；不肯披其坦荡荡之“儒者”胸襟，以当往昔清谈者流所畅之玄风也。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c6",
+      "speaker": "甘蛰仙",
+      "claim": "“尊德性”之说，似较“道问学”之义，为切于本体矣。",
+      "target": "尊德性",
+      "claim_type": "对比性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "彼“尊德性”之说，似较“道问学”之义，为切于本体矣；然此所谓“尊”，即是对于“德性”所下的工夫：犹前所谓“致”，即是对于“良知”所下的工夫也。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c7",
+      "speaker": "甘蛰仙",
+      "claim": "夫人之生也，果何所求而何所由？吾则曰：亦无所为而为之耳。",
+      "target": "人生",
+      "claim_type": "问题提出",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "夫人之生也，果何所求而何所由？吾则曰：亦无所为而为之耳。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c8",
+      "speaker": "甘蛰仙",
+      "claim": "即为“良知”而“致良知”，为“德性”而“尊德性”，即本体以为工夫，亦将不外乎率其一副无所为而为的精神，以从事“学问”；而未见其所“道”者，终不能与其“尊”者，同归一致也。",
+      "target": "良知",
+      "claim_type": "描述性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "即为“良知”而“致良知”，为“德性”而“尊德性”，即本体以为工夫，亦将不外乎率其一副无所为而为的精神，以从事“学问”；而未见其所“道”者，终不能与其“尊”者，同归一致也。",
+      "confidence": 0.9
+    }
+  ],
+  "relations": [
+    {
+      "id": "r1",
+      "head": "道德的自由论",
+      "head_type": "概念",
+      "relation": "属于",
+      "relation_subtype": "不适用",
+      "tail": "道德的基础",
+      "tail_type": "概念",
+      "polarity": "positive",
+      "stance_score": 0.8,
+      "intensity": 0.5,
+      "evidence": "似乎这种自由论，是建筑在道德的基础上的，不妨说为道德的自由论。",
+      "confidence": 0.9
+    },
+    {
+      "id": "r2",
+      "head": "道德论",
+      "head_type": "概念",
+      "relation": "属于",
+      "relation_subtype": "不适用",
+      "tail": "本体论中的自由论",
+      "tail_type": "概念",
+      "polarity": "positive",
+      "stance_score": 0.0,
+      "intensity": 0.8,
+      "evidence": "我所自信的，是肯定良心的自由，道德上的自由，所以我的道德论底根本观念，是本体论中的自由论！",
+      "confidence": 0.9
+    },
+    {
+      "id": "r3",
+      "head": "自由意志",
+      "head_type": "概念",
+      "relation": "解释",
+      "relation_subtype": "不适用",
+      "tail": "本体论与道德学",
+      "tail_type": "概念",
+      "polarity": "positive",
+      "stance_score": 0.8,
+      "intensity": 0.5,
+      "evidence": "鄙意欲率自由意志以通本体论与道德学之邮，犹先民所谓“为仁由己”也。",
+      "confidence": 0.9
+    },
+    {
+      "id": "r4",
+      "head": "本体之学",
+      "head_type": "概念",
+      "relation": "导致",
+      "relation_subtype": "不适用",
+      "tail": "新建一种健全的人生观",
+      "tail_type": "概念",
+      "polarity": "positive",
+      "stance_score": 0.8,
+      "intensity": 0.6,
+      "evidence": "我当时之见解，以为从事本体之学，务必以道德学为之辅，乃能按切人生之实际，乃能新建一种健全的人生观。",
+      "confidence": 0.9
+    },
+    {
+      "id": "r5",
+      "head": "宋明时代的理学家",
+      "head_type": "阵营/群体",
+      "relation": "区分",
+      "relation_subtype": "概念澄清",
+      "tail": "玄学",
+      "tail_type": "概念",
+      "polarity": "positive",
+      "stance_score": 0.8,
+      "intensity": 0.5,
+      "evidence": "宋明时代的理学家，无自名其学为玄学者，由能“即体为用”；不肯披其坦荡荡之“儒者”胸襟，以当往昔清谈者流所畅之玄风也。",
+      "confidence": 0.9
+    },
+    {
+      "id": "r6",
+      "head": "尊德性",
+      "head_type": "概念",
+      "relation": "对比",
+      "relation_subtype": "不适用",
+      "tail": "道问学",
+      "tail_type": "概念",
+      "polarity": "positive",
+      "stance_score": 0.5,
+      "intensity": 0.4,
+      "evidence": "彼“尊德性”之说，似较“道问学”之义，为切于本体矣；然此所谓“尊”，即是对于“德性”所下的工夫：犹前所谓“致”，即是对于“良知”所下的工夫也。",
+      "confidence": 0.9
+    },
+    {
+      "id": "r7",
+      "head": "尊",
+      "head_type": "概念",
+      "relation": "定义",
+      "relation_subtype": "概念澄清",
+      "tail": "对于“德性”所下的工夫",
+      "tail_type": "概念",
+      "polarity": "neutral",
+      "stance_score": 0.0,
+      "intensity": 0.3,
+      "evidence": "然此所谓“尊”，即是对于“德性”所下的工夫：犹前所谓“致”，即是对于“良知”所下的工夫也。",
+      "confidence": 0.9
+    },
+    {
+      "id": "r8",
+      "head": "致",
+      "head_type": "概念",
+      "relation": "定义",
+      "relation_subtype": "概念澄清",
+      "tail": "对于“良知”所下的工夫",
+      "tail_type": "概念",
+      "polarity": "neutral",
+      "stance_score": 0.0,
+      "intensity": 0.3,
+      "evidence": "犹前所谓“致”，即是对于“良知”所下的工夫也。",
+      "confidence": 0.9
+    },
+    {
+      "id": "r9",
+      "head": "无所为而为的精神",
+      "head_type": "概念",
+      "relation": "解释",
+      "relation_subtype": "不适用",
+      "tail": "从事“学问”",
+      "tail_type": "概念",
+      "polarity": "positive",
+      "stance_score": 0.8,
+      "intensity": 0.5,
+      "evidence": "即为“良知”而“致良知”，为“德性”而“尊德性”，即本体以为工夫，亦将不外乎率其一副无所为而为的精神，以从事“学问”；而未见其所“道”者，终不能与其“尊”者，同归一致也。",
+      "confidence": 0.9
+    }
+  ],
+  "definitions": [
+    {
+      "id": "def1",
+      "term": "道德的自由论",
+      "definition": "建筑在道德的基础上的自由论。",
+      "evidence": "似乎这种自由论，是建筑在道德的基础上的，不妨说为道德的自由论。",
+      "confidence": 0.9
+    },
+    {
+      "id": "def2",
+      "term": "尊",
+      "definition": "对于“德性”所下的工夫。",
+      "evidence": "然此所谓“尊”，即是对于“德性”所下的工夫：犹前所谓“致”，即是对于“良知”所下的工夫也。",
+      "confidence": 0.9
+    },
+    {
+      "id": "def3",
+      "term": "致",
+      "definition": "对于“良知”所下的工夫。",
+      "evidence": "犹前所谓“致”，即是对于“良知”所下的工夫也。",
+      "confidence": 0.9
+    }
+  ],
+  "citations": [
+    {
+      "id": "cit1",
+      "citer": "甘蛰仙",
+      "quoted_author": "先民",
+      "quoted_work": "",
+      "quoted_claim": "为仁由己",
+      "function": "援引权威支持",
+      "evidence": "鄙意欲率自由意志以通本体论与道德学之邮，犹先民所谓“为仁由己”也。",
+      "confidence": 0.9
+    }
+  ],
+  "rhetorical_devices": [
+    {
+      "id": "rh1",
+      "expression": "坦荡荡之“儒者”胸襟",
+      "device_type": "比喻",
+      "literal_target": "儒者的胸怀坦荡",
+      "function": "形象化描述宋明理学家的精神特质",
+      "evidence": "不肯披其坦荡荡之“儒者”胸襟，以当往昔清谈者流所畅之玄风也。",
+      "confidence": 0.9
+    },
+    {
+      "id": "rh2",
+      "expression": "披其坦荡荡之“儒者”胸襟",
+      "device_type": "比喻",
+      "literal_target": "展现儒者坦荡的胸怀",
+      "function": "形象化说明宋明理学家不标榜玄学",
+      "evidence": "不肯披其坦荡荡之“儒者”胸襟，以当往昔清谈者流所畅之玄风也。",
+      "confidence": 0.9
+    }
+  ],
+  "uncertainties": [
+    {
+      "item": "“善恶不知所择”（同上）故；以强迫作用，能使人忘其“强为善”之责任心，而无繇自下批判故。",
+      "reason": "此句开头有引号，但未明确引用来源，且与后文关系不清晰，可能为引用或转述，但证据不足。"
+    },
+    {
+      "item": "“顾此批判的自由及选择的自由，属道德论耶？抑属本体论耶？于是涉及第四步：”",
+      "reason": "此句提出问题，但未明确回答，且“第四步”指代不明，无法确定具体内容。"
+    },
+    {
+      "item": "“（4）道德的自由论之所从出，窃尝申论之云：”",
+      "reason": "此句为过渡，但“申论之云”后未直接给出内容，可能省略。"
+    }
+  ],
+  "_meta": {
+    "status": "success",
+    "stage": "extract",
+    "model": "deepseek-ai/DeepSeek-V4-Flash",
+    "base_url": "https://api.siliconflow.cn/v1",
+    "prompt_version": "v2.0",
+    "schema_version": "lite_v3.0",
+    "segment_id": "甘蛰仙_000_6b354fa0_s0002",
+    "article_id": "甘蛰仙_000_6b354fa0",
+    "char_start": 1019,
+    "char_end": 1599,
+    "raw_path": "E:\\1研究生\\岭南大学\\论文毕业\\capstone\\资料\\新的内容开始了\\local_upload\\kg_runs_v2\\孙伏园_等3篇\\raw_outputs\\extract\\甘蛰仙_000_6b354fa0_s0002.txt",
+    "parsed_at": "2026-05-21T02:09:10",
+    "started_at": "2026-05-21T01:56:15",
+    "elapsed_seconds": 775.193,
+    "strict_evidence_check": true,
+    "drop_unsupported_evidence": true,
+    "request_timeout_seconds": 180
+  }
+}

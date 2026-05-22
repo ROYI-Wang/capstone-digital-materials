@@ -1,0 +1,530 @@
+{
+  "metadata": {
+    "schema_version": "lite_v3.0",
+    "article_id": "张君劢_003_cd868ad5",
+    "article_title": "科学之评价",
+    "source_author": "张君劢",
+    "section_title": "",
+    "section_author": "",
+    "segment_id": "张君劢_003_cd868ad5_s0003",
+    "segment_index": 3,
+    "source_file": "E:\\1研究生\\岭南大学\\论文毕业\\capstone\\资料\\新的内容开始了\\local_upload\\input_张君劢\\张君劢.txt"
+  },
+  "entities": [
+    {
+      "id": "e1",
+      "name": "意志力强弱之由来",
+      "canonical_name": "意志力强弱之由来",
+      "type": "概念",
+      "evidence": "其意志力强弱之由来，与其因意志力之强弱而定其成功与失败。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e2",
+      "name": "文学之创作",
+      "canonical_name": "文学之创作",
+      "type": "概念",
+      "evidence": "此外如文学之创作，思想之途径，乃至个人之意志与社会进化之关系，谓其可以一一测定，这是科学家的梦语了。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e3",
+      "name": "思想之途径",
+      "canonical_name": "思想之途径",
+      "type": "概念",
+      "evidence": "此外如文学之创作，思想之途径，乃至个人之意志与社会进化之关系，谓其可以一一测定，这是科学家的梦语了。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e4",
+      "name": "个人之意志与社会进化之关系",
+      "canonical_name": "个人之意志与社会进化之关系",
+      "type": "概念",
+      "evidence": "此外如文学之创作，思想之途径，乃至个人之意志与社会进化之关系，谓其可以一一测定，这是科学家的梦语了。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e5",
+      "name": "科学家的梦语",
+      "canonical_name": "科学家的梦语",
+      "type": "评价",
+      "evidence": "谓其可以一一测定，这是科学家的梦语了。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e6",
+      "name": "科学家",
+      "canonical_name": "科学家",
+      "type": "阵营/群体",
+      "evidence": "科学家但说因果，但论官觉之所及，至于官觉之所不及则科学家所不管。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e7",
+      "name": "因果",
+      "canonical_name": "因果",
+      "type": "概念",
+      "evidence": "科学家但说因果，但论官觉之所及，至于官觉之所不及则科学家所不管。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e8",
+      "name": "官觉",
+      "canonical_name": "官觉",
+      "type": "概念",
+      "evidence": "科学家但说因果，但论官觉之所及，至于官觉之所不及则科学家所不管。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e9",
+      "name": "物理学者",
+      "canonical_name": "物理学者",
+      "type": "阵营/群体",
+      "evidence": "物理学者以物性及物性之变化为出发点，植物学者以草木为出发点，生物学者以有生之物为出发点，此皆有形的，而为人耳目所及。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e10",
+      "name": "物性及物性之变化",
+      "canonical_name": "物性及物性之变化",
+      "type": "概念",
+      "evidence": "物理学者以物性及物性之变化为出发点，植物学者以草木为出发点，生物学者以有生之物为出发点，此皆有形的，而为人耳目所及。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e11",
+      "name": "植物学者",
+      "canonical_name": "植物学者",
+      "type": "阵营/群体",
+      "evidence": "物理学者以物性及物性之变化为出发点，植物学者以草木为出发点，生物学者以有生之物为出发点，此皆有形的，而为人耳目所及。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e12",
+      "name": "草木",
+      "canonical_name": "草木",
+      "type": "概念",
+      "evidence": "物理学者以物性及物性之变化为出发点，植物学者以草木为出发点，生物学者以有生之物为出发点，此皆有形的，而为人耳目所及。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e13",
+      "name": "生物学者",
+      "canonical_name": "生物学者",
+      "type": "阵营/群体",
+      "evidence": "物理学者以物性及物性之变化为出发点，植物学者以草木为出发点，生物学者以有生之物为出发点，此皆有形的，而为人耳目所及。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e14",
+      "name": "有生之物",
+      "canonical_name": "有生之物",
+      "type": "概念",
+      "evidence": "物理学者以物性及物性之变化为出发点，植物学者以草木为出发点，生物学者以有生之物为出发点，此皆有形的，而为人耳目所及。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e15",
+      "name": "各种科学最高原则",
+      "canonical_name": "各种科学最高原则",
+      "type": "概念",
+      "evidence": "然各种科学最高原则，如论理上之公例，如因果律，已不是耳目之力所能及。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e16",
+      "name": "论理上之公例",
+      "canonical_name": "论理上之公例",
+      "type": "概念",
+      "evidence": "然各种科学最高原则，如论理上之公例，如因果律，已不是耳目之力所能及。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e17",
+      "name": "因果律",
+      "canonical_name": "因果律",
+      "type": "概念",
+      "evidence": "然各种科学最高原则，如论理上之公例，如因果律，已不是耳目之力所能及。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e18",
+      "name": "伦理学上善恶是非之标准",
+      "canonical_name": "伦理学上善恶是非之标准",
+      "type": "概念",
+      "evidence": "伦理学上善恶是非之标准，以及人类之美德如忠信笃敬之类，那一事是有形的？",
+      "confidence": 0.9
+    },
+    {
+      "id": "e19",
+      "name": "人类之美德如忠信笃敬之类",
+      "canonical_name": "人类之美德如忠信笃敬之类",
+      "type": "概念",
+      "evidence": "伦理学上善恶是非之标准，以及人类之美德如忠信笃敬之类，那一事是有形的？",
+      "confidence": 0.9
+    },
+    {
+      "id": "e20",
+      "name": "进化论之学者",
+      "canonical_name": "进化论之学者",
+      "type": "阵营/群体",
+      "evidence": "进化论之学者欲以内界之精神化为有形的，乃采所谓沿革的方法，谓人类之道德可见之于社会制度，亦是进化而来的。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e21",
+      "name": "沿革的方法",
+      "canonical_name": "沿革的方法",
+      "type": "方法",
+      "evidence": "进化论之学者欲以内界之精神化为有形的，乃采所谓沿革的方法，谓人类之道德可见之于社会制度，亦是进化而来的。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e22",
+      "name": "人类之道德",
+      "canonical_name": "人类之道德",
+      "type": "概念",
+      "evidence": "进化论之学者欲以内界之精神化为有形的，乃采所谓沿革的方法，谓人类之道德可见之于社会制度，亦是进化而来的。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e23",
+      "name": "社会制度",
+      "canonical_name": "社会制度",
+      "type": "概念",
+      "evidence": "进化论之学者欲以内界之精神化为有形的，乃采所谓沿革的方法，谓人类之道德可见之于社会制度，亦是进化而来的。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e24",
+      "name": "科学欲以有形解释无形之故",
+      "canonical_name": "科学欲以有形解释无形之故",
+      "type": "观点",
+      "evidence": "若谓论理的推理由于习惯而来，道德为环境所支配，这是科学欲以有形解释无形之故，乃将人类精神之独立一笔抹杀了。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e25",
+      "name": "人类精神之独立",
+      "canonical_name": "人类精神之独立",
+      "type": "概念",
+      "evidence": "若谓论理的推理由于习惯而来，道德为环境所支配，这是科学欲以有形解释无形之故，乃将人类精神之独立一笔抹杀了。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e26",
+      "name": "科学家对于各问题，不能为彻底的问答",
+      "canonical_name": "科学家对于各问题，不能为彻底的问答",
+      "type": "观点",
+      "evidence": "第三，科学家对于各问题，不能为彻底的问答。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e27",
+      "name": "物质",
+      "canonical_name": "物质",
+      "type": "概念",
+      "evidence": "譬如物理学家以物质为出发点，物质何自来，则为科学家所不问，此就自然科学方面言之也。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e28",
+      "name": "政治学家",
+      "canonical_name": "政治学家",
+      "type": "阵营/群体",
+      "evidence": "政治学家以国家为出发点，至国家主义与国际主义之利害比较，则非科学家所问。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e29",
+      "name": "国家",
+      "canonical_name": "国家",
+      "type": "概念",
+      "evidence": "政治学家以国家为出发点，至国家主义与国际主义之利害比较，则非科学家所问。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e30",
+      "name": "国家主义与国际主义之利害比较",
+      "canonical_name": "国家主义与国际主义之利害比较",
+      "type": "问题",
+      "evidence": "政治学家以国家为出发点，至国家主义与国际主义之利害比较，则非科学家所问。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e31",
+      "name": "生计学",
+      "canonical_name": "生计学",
+      "type": "概念",
+      "evidence": "生计学以财物之产生为出发点，至物质文明之利害问题，则非科学家所问。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e32",
+      "name": "财物之产生",
+      "canonical_name": "财物之产生",
+      "type": "概念",
+      "evidence": "生计学以财物之产生为出发点，至物质文明之利害问题，则非科学家所问。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e33",
+      "name": "物质文明之利害问题",
+      "canonical_name": "物质文明之利害问题",
+      "type": "问题",
+      "evidence": "生计学以财物之产生为出发点，至物质文明之利害问题，则非科学家所问。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e34",
+      "name": "物质之本性",
+      "canonical_name": "物质之本性",
+      "type": "问题",
+      "evidence": "夫物质之本性为何，生命何自来，此等问题，诚哉其为纷争不决。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e35",
+      "name": "生命何自来",
+      "canonical_name": "生命何自来",
+      "type": "问题",
+      "evidence": "夫物质之本性为何，生命何自来，此等问题，诚哉其为纷争不决。",
+      "confidence": 0.9
+    }
+  ],
+  "claims": [
+    {
+      "id": "c1",
+      "speaker": "张君劢",
+      "claim": "谓其可以一一测定，这是科学家的梦语了。",
+      "target": "科学家",
+      "claim_type": "评价性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "此外如文学之创作，思想之途径，乃至个人之意志与社会进化之关系，谓其可以一一测定，这是科学家的梦语了。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c2",
+      "speaker": "张君劢",
+      "claim": "科学家但说因果，但论官觉之所及，至于官觉之所不及则科学家所不管。",
+      "target": "科学家",
+      "claim_type": "描述性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "科学家但说因果，但论官觉之所及，至于官觉之所不及则科学家所不管。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c3",
+      "speaker": "张君劢",
+      "claim": "各种科学最高原则，如论理上之公例，如因果律，已不是耳目之力所能及。",
+      "target": "各种科学最高原则",
+      "claim_type": "描述性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "然各种科学最高原则，如论理上之公例，如因果律，已不是耳目之力所能及。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c4",
+      "speaker": "张君劢",
+      "claim": "伦理学上善恶是非之标准，以及人类之美德如忠信笃敬之类，那一事是有形的？",
+      "target": "伦理学上善恶是非之标准",
+      "claim_type": "问题提出",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "伦理学上善恶是非之标准，以及人类之美德如忠信笃敬之类，那一事是有形的？",
+      "confidence": 0.9
+    },
+    {
+      "id": "c5",
+      "speaker": "张君劢",
+      "claim": "若谓论理的推理由于习惯而来，道德为环境所支配，这是科学欲以有形解释无形之故，乃将人类精神之独立一笔抹杀了。",
+      "target": "科学",
+      "claim_type": "评价性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "若谓论理的推理由于习惯而来，道德为环境所支配，这是科学欲以有形解释无形之故，乃将人类精神之独立一笔抹杀了。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c6",
+      "speaker": "张君劢",
+      "claim": "科学家对于各问题，不能为彻底的问答。",
+      "target": "科学家",
+      "claim_type": "评价性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "第三，科学家对于各问题，不能为彻底的问答。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c7",
+      "speaker": "张君劢",
+      "claim": "夫物质之本性为何，生命何自来，此等问题，诚哉其为纷争不决。",
+      "target": "物质之本性",
+      "claim_type": "描述性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "夫物质之本性为何，生命何自来，此等问题，诚哉其为纷争不决。",
+      "confidence": 0.9
+    }
+  ],
+  "relations": [
+    {
+      "id": "r1",
+      "head": "科学家的梦语",
+      "head_type": "评价",
+      "relation": "相关",
+      "relation_subtype": "讽刺",
+      "tail": "科学家",
+      "tail_type": "阵营/群体",
+      "polarity": "negative",
+      "stance_score": -0.8,
+      "intensity": 0.7,
+      "evidence": "此外如文学之创作，思想之途径，乃至个人之意志与社会进化之关系，谓其可以一一测定，这是科学家的梦语了。",
+      "confidence": 0.9
+    },
+    {
+      "id": "r2",
+      "head": "张君劢",
+      "head_type": "人物",
+      "relation": "批评",
+      "relation_subtype": "一般批评",
+      "tail": "科学家",
+      "tail_type": "阵营/群体",
+      "polarity": "negative",
+      "stance_score": -0.7,
+      "intensity": 0.6,
+      "evidence": "科学家但说因果，但论官觉之所及，至于官觉之所不及则科学家所不管。",
+      "confidence": 0.9
+    },
+    {
+      "id": "r3",
+      "head": "张君劢",
+      "head_type": "人物",
+      "relation": "批评",
+      "relation_subtype": "概念混淆批评",
+      "tail": "科学",
+      "tail_type": "概念",
+      "polarity": "negative",
+      "stance_score": -0.9,
+      "intensity": 0.8,
+      "evidence": "若谓论理的推理由于习惯而来，道德为环境所支配，这是科学欲以有形解释无形之故，乃将人类精神之独立一笔抹杀了。",
+      "confidence": 0.9
+    },
+    {
+      "id": "r4",
+      "head": "张君劢",
+      "head_type": "人物",
+      "relation": "批评",
+      "relation_subtype": "一般批评",
+      "tail": "科学家",
+      "tail_type": "阵营/群体",
+      "polarity": "negative",
+      "stance_score": -0.7,
+      "intensity": 0.6,
+      "evidence": "第三，科学家对于各问题，不能为彻底的问答。",
+      "confidence": 0.9
+    },
+    {
+      "id": "r5",
+      "head": "张君劢",
+      "head_type": "人物",
+      "relation": "批评",
+      "relation_subtype": "证据不足批评",
+      "tail": "科学家",
+      "tail_type": "阵营/群体",
+      "polarity": "negative",
+      "stance_score": -0.6,
+      "intensity": 0.5,
+      "evidence": "譬如物理学家以物质为出发点，物质何自来，则为科学家所不问，此就自然科学方面言之也。",
+      "confidence": 0.9
+    },
+    {
+      "id": "r6",
+      "head": "张君劢",
+      "head_type": "人物",
+      "relation": "批评",
+      "relation_subtype": "证据不足批评",
+      "tail": "科学家",
+      "tail_type": "阵营/群体",
+      "polarity": "negative",
+      "stance_score": -0.6,
+      "intensity": 0.5,
+      "evidence": "政治学家以国家为出发点，至国家主义与国际主义之利害比较，则非科学家所问。",
+      "confidence": 0.9
+    },
+    {
+      "id": "r7",
+      "head": "张君劢",
+      "head_type": "人物",
+      "relation": "批评",
+      "relation_subtype": "证据不足批评",
+      "tail": "科学家",
+      "tail_type": "阵营/群体",
+      "polarity": "negative",
+      "stance_score": -0.6,
+      "intensity": 0.5,
+      "evidence": "生计学以财物之产生为出发点，至物质文明之利害问题，则非科学家所问。",
+      "confidence": 0.9
+    }
+  ],
+  "definitions": [],
+  "citations": [],
+  "rhetorical_devices": [
+    {
+      "id": "rh1",
+      "expression": "科学家的梦语",
+      "device_type": "讽刺",
+      "literal_target": "科学家认为可以一一测定的主张",
+      "function": "贬低科学家的主张，认为其不切实际",
+      "evidence": "此外如文学之创作，思想之途径，乃至个人之意志与社会进化之关系，谓其可以一一测定，这是科学家的梦语了。",
+      "confidence": 0.9
+    },
+    {
+      "id": "rh2",
+      "expression": "那一事是有形的？",
+      "device_type": "反语",
+      "literal_target": "伦理学上善恶是非之标准以及人类之美德",
+      "function": "强调这些事物不是有形的，反驳科学以有形解释无形的做法",
+      "evidence": "伦理学上善恶是非之标准，以及人类之美德如忠信笃敬之类，那一事是有形的？",
+      "confidence": 0.9
+    },
+    {
+      "id": "rh3",
+      "expression": "一笔抹杀了",
+      "device_type": "夸张",
+      "literal_target": "科学以有形解释无形",
+      "function": "强调科学做法对精神独立的否定程度",
+      "evidence": "若谓论理的推理由于习惯而来，道德为环境所支配，这是科学欲以有形解释无形之故，乃将人类精神之独立一笔抹杀了。",
+      "confidence": 0.9
+    }
+  ],
+  "uncertainties": [
+    {
+      "item": "沿革的方法之是非",
+      "reason": "文本中作者说'吾以为沿革的方法之是非，系另为一事'，但未展开具体评价，无法确定作者对沿革方法的态度。"
+    }
+  ],
+  "_meta": {
+    "status": "success",
+    "stage": "extract",
+    "model": "deepseek-ai/DeepSeek-V4-Flash",
+    "base_url": "https://api.siliconflow.cn/v1",
+    "prompt_version": "v2.0",
+    "schema_version": "lite_v3.0",
+    "segment_id": "张君劢_003_cd868ad5_s0003",
+    "article_id": "张君劢_003_cd868ad5",
+    "char_start": 1512,
+    "char_end": 2104,
+    "raw_path": "E:\\1研究生\\岭南大学\\论文毕业\\capstone\\资料\\新的内容开始了\\local_upload\\kg_runs_v2\\张君劢\\raw_outputs\\extract\\张君劢_003_cd868ad5_s0003.txt",
+    "parsed_at": "2026-05-22T04:04:40",
+    "started_at": "2026-05-22T04:04:12",
+    "elapsed_seconds": 28.481,
+    "strict_evidence_check": true,
+    "drop_unsupported_evidence": true,
+    "request_timeout_seconds": 60
+  }
+}

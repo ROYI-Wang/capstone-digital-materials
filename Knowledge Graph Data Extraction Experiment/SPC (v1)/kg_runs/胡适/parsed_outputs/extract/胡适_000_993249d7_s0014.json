@@ -1,0 +1,490 @@
+{
+  "metadata": {
+    "schema_version": "lite_v2.0",
+    "article_id": "胡适_000_993249d7",
+    "article_title": "序二",
+    "source_author": "胡适",
+    "section_title": "",
+    "section_author": "",
+    "segment_id": "胡适_000_993249d7_s0014",
+    "segment_index": 14,
+    "source_file": "E:\\1研究生\\岭南大学\\论文毕业\\capstone\\资料\\新的内容开始了\\local_upload\\input_w3\\胡适.txt"
+  },
+  "entities": [
+    {
+      "id": "e1",
+      "name": "上帝",
+      "canonical_name": "上帝",
+      "type": "概念",
+      "evidence": "仰上帝的人们出来替上帝向吴老先生作战",
+      "confidence": 0.9
+    },
+    {
+      "id": "e2",
+      "name": "吴老先生",
+      "canonical_name": "吴稚晖",
+      "type": "人物",
+      "evidence": "仰上帝的人们出来替上帝向吴老先生作战",
+      "confidence": 0.9
+    },
+    {
+      "id": "e3",
+      "name": "灵魂",
+      "canonical_name": "灵魂",
+      "type": "概念",
+      "evidence": "我们要看那些信仰灵魂的人们出来替灵魂向吴老先生作战",
+      "confidence": 0.9
+    },
+    {
+      "id": "e4",
+      "name": "人生",
+      "canonical_name": "人生",
+      "type": "概念",
+      "evidence": "我们要看那些信仰人生的神秘的人们出来向这“两手动物演戏”的人生观作战",
+      "confidence": 0.9
+    },
+    {
+      "id": "e5",
+      "name": "两手动物演戏",
+      "canonical_name": "两手动物演戏",
+      "type": "观点",
+      "evidence": "我们要看那些信仰人生的神秘的人们出来向这“两手动物演戏”的人生观作战",
+      "confidence": 0.9
+    },
+    {
+      "id": "e6",
+      "name": "人生观",
+      "canonical_name": "人生观",
+      "type": "概念",
+      "evidence": "我们要看那些信仰人生的神秘的人们出来向这“两手动物演戏”的人生观作战",
+      "confidence": 0.9
+    },
+    {
+      "id": "e7",
+      "name": "爱情",
+      "canonical_name": "爱情",
+      "type": "概念",
+      "evidence": "我们要看那些认爱情为玄秘的人们出来向这“全是生理作用，并无丝毫微妙”的爱情观作战",
+      "confidence": 0.9
+    },
+    {
+      "id": "e8",
+      "name": "全是生理作用，并无丝毫微妙",
+      "canonical_name": "全是生理作用，并无丝毫微妙",
+      "type": "观点",
+      "evidence": "我们要看那些认爱情为玄秘的人们出来向这“全是生理作用，并无丝毫微妙”的爱情观作战",
+      "confidence": 0.9
+    },
+    {
+      "id": "e9",
+      "name": "爱情观",
+      "canonical_name": "爱情观",
+      "type": "概念",
+      "evidence": "我们要看那些认爱情为玄秘的人们出来向这“全是生理作用，并无丝毫微妙”的爱情观作战",
+      "confidence": 0.9
+    },
+    {
+      "id": "e10",
+      "name": "科学",
+      "canonical_name": "科学",
+      "type": "概念",
+      "evidence": "这样战争的结果，不是科学能不能解决人生的问题了",
+      "confidence": 0.9
+    },
+    {
+      "id": "e11",
+      "name": "上帝的有无",
+      "canonical_name": "上帝的有无",
+      "type": "问题",
+      "evidence": "乃是上帝的有无，鬼神的有无，灵魂的有无……等等人生切要问题的解答",
+      "confidence": 0.9
+    },
+    {
+      "id": "e12",
+      "name": "鬼神的有无",
+      "canonical_name": "鬼神的有无",
+      "type": "问题",
+      "evidence": "乃是上帝的有无，鬼神的有无，灵魂的有无……等等人生切要问题的解答",
+      "confidence": 0.9
+    },
+    {
+      "id": "e13",
+      "name": "灵魂的有无",
+      "canonical_name": "灵魂的有无",
+      "type": "问题",
+      "evidence": "乃是上帝的有无，鬼神的有无，灵魂的有无……等等人生切要问题的解答",
+      "confidence": 0.9
+    },
+    {
+      "id": "e14",
+      "name": "人生切要问题",
+      "canonical_name": "人生切要问题",
+      "type": "概念",
+      "evidence": "乃是上帝的有无，鬼神的有无，灵魂的有无……等等人生切要问题的解答",
+      "confidence": 0.9
+    },
+    {
+      "id": "e15",
+      "name": "反对科学的先生们",
+      "canonical_name": "反对科学的先生们",
+      "type": "阵营/群体",
+      "evidence": "反对科学的先生们！你们以后的作战，请向吴稚晖的“新信仰的宇宙观及人生观”作战",
+      "confidence": 0.9
+    },
+    {
+      "id": "e16",
+      "name": "吴稚晖",
+      "canonical_name": "吴稚晖",
+      "type": "人物",
+      "evidence": "反对科学的先生们！你们以后的作战，请向吴稚晖的“新信仰的宇宙观及人生观”作战",
+      "confidence": 0.9
+    },
+    {
+      "id": "e17",
+      "name": "新信仰的宇宙观及人生观",
+      "canonical_name": "新信仰的宇宙观及人生观",
+      "type": "著作",
+      "evidence": "反对科学的先生们！你们以后的作战，请向吴稚晖的“新信仰的宇宙观及人生观”作战",
+      "confidence": 0.9
+    },
+    {
+      "id": "e18",
+      "name": "拥护科学的先生们",
+      "canonical_name": "拥护科学的先生们",
+      "type": "阵营/群体",
+      "evidence": "拥护科学的先生们！你们以后的作战，请先研究吴稚晖的“新信仰的宇宙观及人生观”",
+      "confidence": 0.9
+    },
+    {
+      "id": "e19",
+      "name": "赫胥黎",
+      "canonical_name": "赫胥黎",
+      "type": "人物",
+      "evidence": "像赫胥黎替达尔文辩护一样",
+      "confidence": 0.9
+    },
+    {
+      "id": "e20",
+      "name": "达尔文",
+      "canonical_name": "达尔文",
+      "type": "人物",
+      "evidence": "像赫胥黎替达尔文辩护一样",
+      "confidence": 0.9
+    },
+    {
+      "id": "e21",
+      "name": "生物学者",
+      "canonical_name": "生物学者",
+      "type": "阵营/群体",
+      "evidence": "像后来的生物学者修正达尔文主义一样",
+      "confidence": 0.9
+    },
+    {
+      "id": "e22",
+      "name": "达尔文主义",
+      "canonical_name": "达尔文主义",
+      "type": "主义/学说/理论",
+      "evidence": "像后来的生物学者修正达尔文主义一样",
+      "confidence": 0.9
+    },
+    {
+      "id": "e23",
+      "name": "张君劢",
+      "canonical_name": "张君劢",
+      "type": "人物",
+      "evidence": "张君劢说：",
+      "confidence": 0.9
+    },
+    {
+      "id": "e24",
+      "name": "丁在君",
+      "canonical_name": "丁文江",
+      "type": "人物",
+      "evidence": "丁在君说：",
+      "confidence": 0.9
+    },
+    {
+      "id": "e25",
+      "name": "人生观",
+      "canonical_name": "人生观",
+      "type": "概念",
+      "evidence": "天下古今之最不统一者，莫若人生观",
+      "confidence": 0.9
+    },
+    {
+      "id": "e26",
+      "name": "玄学与科学",
+      "canonical_name": "玄学与科学",
+      "type": "著作",
+      "evidence": "（《玄学与科学》页三）",
+      "confidence": 0.9
+    }
+  ],
+  "claims": [
+    {
+      "id": "c1",
+      "speaker": "胡适",
+      "claim": "这样的讨论，才是切题的、具体的讨论。这才是真正开火。",
+      "target": "具体的人生切要问题讨论",
+      "claim_type": "方法论主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "这样的讨论，才是切题的、具体的讨论。这才是真正开火。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c2",
+      "speaker": "胡适",
+      "claim": "这样战争的结果，不是科学能不能解决人生的问题了，乃是上帝的有无，鬼神的有无，灵魂的有无……等等人生切要问题的解答。",
+      "target": "战争结果",
+      "claim_type": "结论性主张",
+      "claim_status": "作者推论",
+      "polarity": "neutral",
+      "evidence": "这样战争的结果，不是科学能不能解决人生的问题了，乃是上帝的有无，鬼神的有无，灵魂的有无……等等人生切要问题的解答。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c3",
+      "speaker": "胡适",
+      "claim": "只有这种具体的人生切要问题的讨论才可以发生我们所希望的效果，——才可以促进思想上的刷新。",
+      "target": "具体的人生切要问题讨论",
+      "claim_type": "方法论主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "只有这种具体的人生切要问题的讨论才可以发生我们所希望的效果，——才可以促进思想上的刷新。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c4",
+      "speaker": "胡适",
+      "claim": "反对科学的先生们！你们以后的作战，请向吴稚晖的“新信仰的宇宙观及人生观”作战。",
+      "target": "反对科学的先生们",
+      "claim_type": "论战策略批评",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "反对科学的先生们！你们以后的作战，请向吴稚晖的“新信仰的宇宙观及人生观”作战。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c5",
+      "speaker": "胡适",
+      "claim": "拥护科学的先生们！你们以后的作战，请先研究吴稚晖的“新信仰的宇宙观及人生观”：完全赞成他的，请准备替他辩护，像赫胥黎替达尔文辩护一样。不能完全赞成他的，请提出修正案，像后来的生物学者修正达尔文主义一样。",
+      "target": "拥护科学的先生们",
+      "claim_type": "论战策略批评",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "拥护科学的先生们！你们以后的作战，请先研究吴稚晖的“新信仰的宇宙观及人生观”：完全赞成他的，请准备替他辩护，像赫胥黎替达尔文辩护一样。不能完全赞成他的，请提出修正案，像后来的生物学者修正达尔文主义一样。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c6",
+      "speaker": "胡适",
+      "claim": "从此以后，科学与人生观的战线上的押阵老将吴老先生要倒转来做先锋了！",
+      "target": "吴稚晖",
+      "claim_type": "价值评价",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "从此以后，科学与人生观的战线上的押阵老将吴老先生要倒转来做先锋了！",
+      "confidence": 0.9
+    },
+    {
+      "id": "c7",
+      "speaker": "张君劢",
+      "claim": "天下古今之最不统一者，莫若人生观。",
+      "target": "人生观",
+      "claim_type": "定义性主张",
+      "claim_status": "直接引用",
+      "polarity": "neutral",
+      "evidence": "张君劢说：\n\n> “天下古今之最不统一者，莫若人生观。”（《人生观》页一）",
+      "confidence": 0.9
+    },
+    {
+      "id": "c8",
+      "speaker": "丁在君",
+      "claim": "人生观现在没有统一是一件事，永久不能统一又是一件事，除非你能提出事实理由来证明他是永远不能统一的，我们总有求他统一的义务。",
+      "target": "人生观统一问题",
+      "claim_type": "反驳性主张",
+      "claim_status": "直接引用",
+      "polarity": "negative",
+      "evidence": "丁在君说：\n\n> “人生观现在没有统一是一件事，永久不能统一又是一件事，除非你能提出事实理由来证明他是永远不能统一的，我们总有求他统一的义务。”（《玄学与科学》页三）",
+      "confidence": 0.9
+    }
+  ],
+  "relations": [
+    {
+      "id": "r1",
+      "head": "胡适",
+      "head_type": "人物",
+      "relation": "主张",
+      "tail": "这样的讨论，才是切题的、具体的讨论。这才是真正开火。",
+      "tail_type": "观点",
+      "polarity": "positive",
+      "evidence": "这样的讨论，才是切题的、具体的讨论。这才是真正开火。",
+      "confidence": 0.9
+    },
+    {
+      "id": "r2",
+      "head": "胡适",
+      "head_type": "人物",
+      "relation": "主张",
+      "tail": "只有这种具体的人生切要问题的讨论才可以发生我们所希望的效果，——才可以促进思想上的刷新。",
+      "tail_type": "观点",
+      "polarity": "positive",
+      "evidence": "只有这种具体的人生切要问题的讨论才可以发生我们所希望的效果，——才可以促进思想上的刷新。",
+      "confidence": 0.9
+    },
+    {
+      "id": "r3",
+      "head": "胡适",
+      "head_type": "人物",
+      "relation": "主张",
+      "tail": "反对科学的先生们！你们以后的作战，请向吴稚晖的“新信仰的宇宙观及人生观”作战。",
+      "tail_type": "观点",
+      "polarity": "neutral",
+      "evidence": "反对科学的先生们！你们以后的作战，请向吴稚晖的“新信仰的宇宙观及人生观”作战。",
+      "confidence": 0.9
+    },
+    {
+      "id": "r4",
+      "head": "胡适",
+      "head_type": "人物",
+      "relation": "主张",
+      "tail": "拥护科学的先生们！你们以后的作战，请先研究吴稚晖的“新信仰的宇宙观及人生观”：完全赞成他的，请准备替他辩护，像赫胥黎替达尔文辩护一样。不能完全赞成他的，请提出修正案，像后来的生物学者修正达尔文主义一样。",
+      "tail_type": "观点",
+      "polarity": "neutral",
+      "evidence": "拥护科学的先生们！你们以后的作战，请先研究吴稚晖的“新信仰的宇宙观及人生观”：完全赞成他的，请准备替他辩护，像赫胥黎替达尔文辩护一样。不能完全赞成他的，请提出修正案，像后来的生物学者修正达尔文主义一样。",
+      "confidence": 0.9
+    },
+    {
+      "id": "r5",
+      "head": "丁在君",
+      "head_type": "人物",
+      "relation": "主张",
+      "tail": "人生观现在没有统一是一件事，永久不能统一又是一件事，除非你能提出事实理由来证明他是永远不能统一的，我们总有求他统一的义务。",
+      "tail_type": "观点",
+      "polarity": "neutral",
+      "evidence": "丁在君说：\n\n> “人生观现在没有统一是一件事，永久不能统一又是一件事，除非你能提出事实理由来证明他是永远不能统一的，我们总有求他统一的义务。”（《玄学与科学》页三）",
+      "confidence": 0.9
+    },
+    {
+      "id": "r6",
+      "head": "张君劢",
+      "head_type": "人物",
+      "relation": "主张",
+      "tail": "天下古今之最不统一者，莫若人生观。",
+      "tail_type": "观点",
+      "polarity": "neutral",
+      "evidence": "张君劢说：\n\n> “天下古今之最不统一者，莫若人生观。”（《人生观》页一）",
+      "confidence": 0.9
+    }
+  ],
+  "definitions": [],
+  "citations": [
+    {
+      "id": "cit1",
+      "citer": "胡适",
+      "quoted_author": "张君劢",
+      "quoted_work": "人生观",
+      "quoted_claim": "天下古今之最不统一者，莫若人生观。",
+      "function": "作为批评对象",
+      "evidence": "张君劢说：\n\n> “天下古今之最不统一者，莫若人生观。”（《人生观》页一）",
+      "confidence": 0.9
+    },
+    {
+      "id": "cit2",
+      "citer": "胡适",
+      "quoted_author": "丁在君",
+      "quoted_work": "玄学与科学",
+      "quoted_claim": "人生观现在没有统一是一件事，永久不能统一又是一件事，除非你能提出事实理由来证明他是永远不能统一的，我们总有求他统一的义务。",
+      "function": "作为批评对象",
+      "evidence": "丁在君说：\n\n> “人生观现在没有统一是一件事，永久不能统一又是一件事，除非你能提出事实理由来证明他是永远不能统一的，我们总有求他统一的义务。”（《玄学与科学》页三）",
+      "confidence": 0.9
+    },
+    {
+      "id": "cit3",
+      "citer": "胡适",
+      "quoted_author": "赫胥黎",
+      "quoted_work": "",
+      "quoted_claim": "替达尔文辩护",
+      "function": "援引权威支持",
+      "evidence": "像赫胥黎替达尔文辩护一样",
+      "confidence": 0.9
+    }
+  ],
+  "rhetorical_devices": [
+    {
+      "id": "rh1",
+      "expression": "两手动物演戏",
+      "device_type": "比喻",
+      "literal_target": "人类行为",
+      "function": "讽刺性描述，贬低人类行为为机械表演",
+      "evidence": "我们要看那些信仰人生的神秘的人们出来向这“两手动物演戏”的人生观作战",
+      "confidence": 0.9
+    },
+    {
+      "id": "rh2",
+      "expression": "真正开火",
+      "device_type": "比喻",
+      "literal_target": "激烈讨论",
+      "function": "将讨论比喻为战争，强调对抗性",
+      "evidence": "这样的讨论，才是切题的、具体的讨论。这才是真正开火。",
+      "confidence": 0.9
+    },
+    {
+      "id": "rh3",
+      "expression": "押阵老将",
+      "device_type": "比喻",
+      "literal_target": "吴稚晖",
+      "function": "将吴稚晖比喻为战争中的老将，突出其地位和角色转变",
+      "evidence": "从此以后，科学与人生观的战线上的押阵老将吴老先生要倒转来做先锋了！",
+      "confidence": 0.9
+    },
+    {
+      "id": "rh4",
+      "expression": "先锋",
+      "device_type": "比喻",
+      "literal_target": "吴稚晖",
+      "function": "将吴稚晖比喻为先锋，强调其引领作用",
+      "evidence": "从此以后，科学与人生观的战线上的押阵老将吴老先生要倒转来做先锋了！",
+      "confidence": 0.9
+    },
+    {
+      "id": "rh5",
+      "expression": "战线",
+      "device_type": "比喻",
+      "literal_target": "科学与人生观的论战",
+      "function": "将论战比喻为战争，强调对抗性",
+      "evidence": "从此以后，科学与人生观的战线上的押阵老将吴老先生要倒转来做先锋了！",
+      "confidence": 0.9
+    }
+  ],
+  "uncertainties": [
+    {
+      "item": "吴老先生是否确指吴稚晖",
+      "reason": "文本中未出现全名，仅凭上下文推断，但元数据中无直接证据"
+    },
+    {
+      "item": "丁在君是否确指丁文江",
+      "reason": "文本中仅出现'丁在君'，未出现全名，但根据论战背景可推断"
+    }
+  ],
+  "_meta": {
+    "status": "success",
+    "stage": "extract",
+    "model": "deepseek-ai/DeepSeek-V4-Flash",
+    "base_url": "https://api.siliconflow.cn/v1",
+    "prompt_version": "extract_prompt_v2.0",
+    "schema_version": "lite_v2.0",
+    "segment_id": "胡适_000_993249d7_s0014",
+    "article_id": "胡适_000_993249d7",
+    "char_start": 6985,
+    "char_end": 7572,
+    "raw_path": "E:\\1研究生\\岭南大学\\论文毕业\\capstone\\资料\\新的内容开始了\\local_upload\\kg_runs\\胡适\\raw_outputs\\extract\\胡适_000_993249d7_s0014.txt",
+    "parsed_at": "2026-05-20T00:32:02",
+    "started_at": "2026-05-20T00:29:31",
+    "elapsed_seconds": 151.586,
+    "strict_evidence_check": true,
+    "drop_unsupported_evidence": true,
+    "request_timeout_seconds": 180
+  }
+}

@@ -1,0 +1,446 @@
+{
+  "metadata": {
+    "schema_version": "lite_v3.0",
+    "article_id": "胡适_000_993249d7",
+    "article_title": "序二",
+    "source_author": "胡适",
+    "section_title": "",
+    "section_author": "",
+    "segment_id": "胡适_000_993249d7_s0017",
+    "segment_index": 17,
+    "source_file": "E:\\1研究生\\岭南大学\\论文毕业\\capstone\\资料\\新的内容开始了\\local_upload\\input_胡适\\胡适.txt"
+  },
+  "entities": [
+    {
+      "id": "e1",
+      "name": "新信仰",
+      "canonical_name": "新信仰",
+      "type": "概念",
+      "evidence": "宣传我们的“新信仰”",
+      "confidence": 0.9
+    },
+    {
+      "id": "e2",
+      "name": "旧信仰",
+      "canonical_name": "旧信仰",
+      "type": "概念",
+      "evidence": "新信仰总免不了和旧信仰冲突的事",
+      "confidence": 0.9
+    },
+    {
+      "id": "e3",
+      "name": "对方",
+      "canonical_name": "对方",
+      "type": "阵营/群体",
+      "evidence": "我们的真正敌人不是对方",
+      "confidence": 0.8
+    },
+    {
+      "id": "e4",
+      "name": "成见",
+      "canonical_name": "成见",
+      "type": "概念",
+      "evidence": "我们的真正敌人是“成见”是“不思想”",
+      "confidence": 0.9
+    },
+    {
+      "id": "e5",
+      "name": "不思想",
+      "canonical_name": "不思想",
+      "type": "概念",
+      "evidence": "我们的真正敌人是“成见”是“不思想”",
+      "confidence": 0.9
+    },
+    {
+      "id": "e6",
+      "name": "旧思想",
+      "canonical_name": "旧思想",
+      "type": "概念",
+      "evidence": "我们向旧思想和旧信仰作战",
+      "confidence": 0.9
+    },
+    {
+      "id": "e7",
+      "name": "新人生观",
+      "canonical_name": "新人生观",
+      "type": "概念",
+      "evidence": "宣传我们信仰的新人生观",
+      "confidence": 0.9
+    },
+    {
+      "id": "e8",
+      "name": "人生观",
+      "canonical_name": "人生观",
+      "type": "概念",
+      "evidence": "我所谓“人生观”，依唐钺先生的界说，包括吴稚晖先生所谓“宇宙观”",
+      "confidence": 0.9
+    },
+    {
+      "id": "e9",
+      "name": "宇宙观",
+      "canonical_name": "宇宙观",
+      "type": "概念",
+      "evidence": "包括吴稚晖先生所谓“宇宙观”",
+      "confidence": 0.9
+    },
+    {
+      "id": "e10",
+      "name": "唐钺",
+      "canonical_name": "唐钺",
+      "type": "人物",
+      "evidence": "依唐钺先生的界说",
+      "confidence": 0.9
+    },
+    {
+      "id": "e11",
+      "name": "吴稚晖",
+      "canonical_name": "吴稚晖",
+      "type": "人物",
+      "evidence": "吴稚晖先生已宣布过了",
+      "confidence": 0.9
+    },
+    {
+      "id": "e12",
+      "name": "天文学",
+      "canonical_name": "天文学",
+      "type": "概念",
+      "evidence": "根据于天文学和物理学的知识",
+      "confidence": 0.9
+    },
+    {
+      "id": "e13",
+      "name": "物理学",
+      "canonical_name": "物理学",
+      "type": "概念",
+      "evidence": "根据于天文学和物理学的知识",
+      "confidence": 0.9
+    },
+    {
+      "id": "e14",
+      "name": "地质学",
+      "canonical_name": "地质学",
+      "type": "概念",
+      "evidence": "根据于地质学及古生物学的知识",
+      "confidence": 0.9
+    },
+    {
+      "id": "e15",
+      "name": "古生物学",
+      "canonical_name": "古生物学",
+      "type": "概念",
+      "evidence": "根据于地质学及古生物学的知识",
+      "confidence": 0.9
+    },
+    {
+      "id": "e16",
+      "name": "科学",
+      "canonical_name": "科学",
+      "type": "概念",
+      "evidence": "根据于一切科学",
+      "confidence": 0.9
+    },
+    {
+      "id": "e17",
+      "name": "超自然的主宰或造物者",
+      "canonical_name": "超自然的主宰或造物者",
+      "type": "概念",
+      "evidence": "正用不着什么超自然的主宰或造物者",
+      "confidence": 0.9
+    }
+  ],
+  "claims": [
+    {
+      "id": "c1",
+      "speaker": "胡适",
+      "claim": "我们的真正敌人不是对方；我们的真正敌人是“成见”是“不思想”",
+      "target": "",
+      "claim_type": "描述性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "我们的真正敌人不是对方；我们的真正敌人是“成见”是“不思想”",
+      "confidence": 0.9
+    },
+    {
+      "id": "c2",
+      "speaker": "胡适",
+      "claim": "我们向旧思想和旧信仰作战，其实只是很诚恳地请求旧思想和旧信仰势力之下的朋友们起来向“成见”和“不思想”作战",
+      "target": "",
+      "claim_type": "描述性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "我们向旧思想和旧信仰作战，其实只是很诚恳地请求旧思想和旧信仰势力之下的朋友们起来向“成见”和“不思想”作战",
+      "confidence": 0.9
+    },
+    {
+      "id": "c3",
+      "speaker": "胡适",
+      "claim": "凡是肯用思想来考察他的成见的人，都是我们的同盟",
+      "target": "",
+      "claim_type": "描述性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "凡是肯用思想来考察他的成见的人，都是我们的同盟",
+      "confidence": 0.9
+    },
+    {
+      "id": "c4",
+      "speaker": "胡适",
+      "claim": "我们以后的作战计画是宣传我们的新信仰，是宣传我们信仰的新人生观",
+      "target": "",
+      "claim_type": "描述性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "我们以后的作战计画是宣传我们的新信仰，是宣传我们信仰的新人生观",
+      "confidence": 0.9
+    },
+    {
+      "id": "c5",
+      "speaker": "胡适",
+      "claim": "这个新人生观的大旨，吴稚晖先生已宣布过了",
+      "target": "",
+      "claim_type": "描述性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "这个新人生观的大旨，吴稚晖先生已宣布过了",
+      "confidence": 0.9
+    },
+    {
+      "id": "c6",
+      "speaker": "胡适",
+      "claim": "我们总括他的大意，加上一点扩充和补充，在这里再提出这个新人生观的轮廓",
+      "target": "",
+      "claim_type": "描述性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "我们总括他的大意，加上一点扩充和补充，在这里再提出这个新人生观的轮廓",
+      "confidence": 0.9
+    },
+    {
+      "id": "c7",
+      "speaker": "胡适",
+      "claim": "根据于天文学和物理学的知识，叫人知道空间无穷之大",
+      "target": "",
+      "claim_type": "描述性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "（1）根据于天文学和物理学的知识，叫人知道空间无穷之大",
+      "confidence": 0.9
+    },
+    {
+      "id": "c8",
+      "speaker": "胡适",
+      "claim": "根据于地质学及古生物学的知识，叫人知道时间的无穷之长",
+      "target": "",
+      "claim_type": "描述性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "（2）根据于地质学及古生物学的知识，叫人知道时间的无穷之长",
+      "confidence": 0.9
+    },
+    {
+      "id": "c9",
+      "speaker": "胡适",
+      "claim": "根据于一切科学，叫人知道宇宙及其中万物的运行变迁皆是自然的，——自己如此的，——正用不着什么超自然的主宰或造物者",
+      "target": "",
+      "claim_type": "描述性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "（3）根据于一切科学，叫人知道宇宙及其中万物的运行变迁皆是自然的，——自己如此的，——正用不着什么超自然的主宰或造物者",
+      "confidence": 0.9
+    }
+  ],
+  "relations": [
+    {
+      "id": "r1",
+      "head": "新信仰",
+      "head_type": "概念",
+      "relation": "反对",
+      "relation_subtype": "一般批评",
+      "tail": "旧信仰",
+      "tail_type": "概念",
+      "polarity": "negative",
+      "stance_score": -0.5,
+      "intensity": 0.5,
+      "evidence": "新信仰总免不了和旧信仰冲突的事",
+      "confidence": 0.9
+    },
+    {
+      "id": "r2",
+      "head": "胡适",
+      "head_type": "人物",
+      "relation": "主张",
+      "relation_subtype": "不适用",
+      "tail": "我们的真正敌人不是对方；我们的真正敌人是“成见”是“不思想”",
+      "tail_type": "观点",
+      "polarity": "negative",
+      "stance_score": -0.8,
+      "intensity": 0.8,
+      "evidence": "我们的真正敌人不是对方；我们的真正敌人是“成见”是“不思想”",
+      "confidence": 0.9
+    },
+    {
+      "id": "r3",
+      "head": "胡适",
+      "head_type": "人物",
+      "relation": "主张",
+      "relation_subtype": "不适用",
+      "tail": "凡是肯用思想来考察他的成见的人，都是我们的同盟",
+      "tail_type": "观点",
+      "polarity": "positive",
+      "stance_score": 1.0,
+      "intensity": 0.9,
+      "evidence": "凡是肯用思想来考察他的成见的人，都是我们的同盟",
+      "confidence": 0.9
+    },
+    {
+      "id": "r4",
+      "head": "胡适",
+      "head_type": "人物",
+      "relation": "相关",
+      "relation_subtype": "援引权威支持",
+      "tail": "唐钺",
+      "tail_type": "人物",
+      "polarity": "positive",
+      "stance_score": 0.5,
+      "intensity": 0.3,
+      "evidence": "我所谓“人生观”，依唐钺先生的界说，包括吴稚晖先生所谓“宇宙观”",
+      "confidence": 0.9
+    },
+    {
+      "id": "r5",
+      "head": "胡适",
+      "head_type": "人物",
+      "relation": "相关",
+      "relation_subtype": "援引权威支持",
+      "tail": "吴稚晖",
+      "tail_type": "人物",
+      "polarity": "positive",
+      "stance_score": 0.5,
+      "intensity": 0.3,
+      "evidence": "这个新人生观的大旨，吴稚晖先生已宣布过了",
+      "confidence": 0.9
+    },
+    {
+      "id": "r6",
+      "head": "天文学",
+      "head_type": "概念",
+      "relation": "作为论据支持",
+      "relation_subtype": "不适用",
+      "tail": "空间无穷之大",
+      "tail_type": "观点",
+      "polarity": "positive",
+      "stance_score": 0.5,
+      "intensity": 0.3,
+      "evidence": "根据于天文学和物理学的知识，叫人知道空间无穷之大",
+      "confidence": 0.9
+    },
+    {
+      "id": "r7",
+      "head": "物理学",
+      "head_type": "概念",
+      "relation": "作为论据支持",
+      "relation_subtype": "不适用",
+      "tail": "空间无穷之大",
+      "tail_type": "观点",
+      "polarity": "positive",
+      "stance_score": 0.5,
+      "intensity": 0.3,
+      "evidence": "根据于天文学和物理学的知识，叫人知道空间无穷之大",
+      "confidence": 0.9
+    },
+    {
+      "id": "r8",
+      "head": "地质学",
+      "head_type": "概念",
+      "relation": "作为论据支持",
+      "relation_subtype": "不适用",
+      "tail": "时间的无穷之长",
+      "tail_type": "观点",
+      "polarity": "positive",
+      "stance_score": 0.5,
+      "intensity": 0.3,
+      "evidence": "根据于地质学及古生物学的知识，叫人知道时间的无穷之长",
+      "confidence": 0.9
+    },
+    {
+      "id": "r9",
+      "head": "古生物学",
+      "head_type": "概念",
+      "relation": "作为论据支持",
+      "relation_subtype": "不适用",
+      "tail": "时间的无穷之长",
+      "tail_type": "观点",
+      "polarity": "positive",
+      "stance_score": 0.5,
+      "intensity": 0.3,
+      "evidence": "根据于地质学及古生物学的知识，叫人知道时间的无穷之长",
+      "confidence": 0.9
+    },
+    {
+      "id": "r10",
+      "head": "科学",
+      "head_type": "概念",
+      "relation": "作为论据支持",
+      "relation_subtype": "不适用",
+      "tail": "宇宙及其中万物的运行变迁皆是自然的，——自己如此的，——正用不着什么超自然的主宰或造物者",
+      "tail_type": "观点",
+      "polarity": "positive",
+      "stance_score": 0.8,
+      "intensity": 0.7,
+      "evidence": "根据于一切科学，叫人知道宇宙及其中万物的运行变迁皆是自然的，——自己如此的，——正用不着什么超自然的主宰或造物者",
+      "confidence": 0.9
+    }
+  ],
+  "definitions": [
+    {
+      "id": "def1",
+      "term": "人生观",
+      "definition": "包括吴稚晖所谓“宇宙观”",
+      "evidence": "我所谓“人生观”，依唐钺先生的界说，包括吴稚晖先生所谓“宇宙观”",
+      "confidence": 0.9
+    }
+  ],
+  "citations": [
+    {
+      "id": "cit1",
+      "citer": "胡适",
+      "quoted_author": "吴稚晖",
+      "quoted_work": "",
+      "quoted_claim": "新人生观的大旨",
+      "function": "援引权威支持",
+      "evidence": "这个新人生观的大旨，吴稚晖先生已宣布过了",
+      "confidence": 0.9
+    }
+  ],
+  "rhetorical_devices": [
+    {
+      "id": "rh1",
+      "expression": "作战",
+      "device_type": "比喻",
+      "literal_target": "宣传新信仰、与旧信仰冲突",
+      "function": "将思想宣传和冲突比喻为战争，强调斗争的激烈和策略性",
+      "evidence": "我们也可以说这是“作战”",
+      "confidence": 0.9
+    }
+  ],
+  "uncertainties": [],
+  "_meta": {
+    "status": "success",
+    "stage": "extract",
+    "model": "deepseek-ai/DeepSeek-V4-Flash",
+    "base_url": "https://api.siliconflow.cn/v1",
+    "prompt_version": "v2.0",
+    "schema_version": "lite_v3.0",
+    "segment_id": "胡适_000_993249d7_s0017",
+    "article_id": "胡适_000_993249d7",
+    "char_start": 8407,
+    "char_end": 8978,
+    "raw_path": "E:\\1研究生\\岭南大学\\论文毕业\\capstone\\资料\\新的内容开始了\\local_upload\\kg_runs_v2\\胡适\\raw_outputs\\extract\\胡适_000_993249d7_s0017.txt",
+    "parsed_at": "2026-05-21T19:40:56",
+    "started_at": "2026-05-21T19:32:19",
+    "elapsed_seconds": 517.217,
+    "strict_evidence_check": true,
+    "drop_unsupported_evidence": true,
+    "request_timeout_seconds": 180
+  }
+}

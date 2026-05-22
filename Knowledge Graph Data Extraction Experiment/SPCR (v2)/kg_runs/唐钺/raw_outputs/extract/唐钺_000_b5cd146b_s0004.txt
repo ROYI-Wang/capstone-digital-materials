@@ -1,0 +1,556 @@
+{
+  "metadata": {
+    "schema_version": "lite_v3.0",
+    "article_id": "唐钺_000_b5cd146b",
+    "article_title": "心理现象与因果律",
+    "source_author": "唐钺",
+    "section_title": "",
+    "section_author": "",
+    "segment_id": "唐钺_000_b5cd146b_s0004",
+    "segment_index": 4,
+    "source_file": "E:\\1研究生\\岭南大学\\论文毕业\\capstone\\资料\\新的内容开始了\\local_upload\\input_唐钺\\唐钺.txt"
+  },
+  "entities": [
+    {
+      "id": "e1",
+      "name": "无因论者",
+      "canonical_name": "无因论者",
+      "type": "阵营/群体",
+      "evidence": "无因论者说，物质是死的，固定的，凝滞不变的，所以有因果可言；心理现象是活的，顷刻万变的，一定没有因果可言。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e2",
+      "name": "物质",
+      "canonical_name": "物质",
+      "type": "概念",
+      "evidence": "所谓物质，不过是“常久的感觉的可能”。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e3",
+      "name": "心理现象",
+      "canonical_name": "心理现象",
+      "type": "概念",
+      "evidence": "心理现象是活的，顷刻万变的，一定没有因果可言。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e4",
+      "name": "穆勒约翰",
+      "canonical_name": "穆勒约翰",
+      "type": "人物",
+      "evidence": "这是穆勒约翰所下的定义，是现代人普遍承认的。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e5",
+      "name": "爱因斯坦的相对论",
+      "canonical_name": "爱因斯坦的相对论",
+      "type": "理论",
+      "evidence": "近来爱因斯坦的相对论出来，更可以证明物质现象就是心理现象，不是死而固定的，比如风的方向速度是顷刻变化的，但是不能说他是没有因果可言；心理现象也是这样。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e6",
+      "name": "柏格森",
+      "canonical_name": "柏格森",
+      "type": "人物",
+      "evidence": "无因论者又说，心理现象就是柏格森所谓“纯粹绵延”。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e7",
+      "name": "纯粹绵延",
+      "canonical_name": "纯粹绵延",
+      "type": "概念",
+      "evidence": "无因论者又说，心理现象就是柏格森所谓“纯粹绵延”。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e8",
+      "name": "杜里舒",
+      "canonical_name": "杜里舒",
+      "type": "人物",
+      "evidence": "杜里舒说：“以我观之，体验者乃断断续续的，而非永续的。故当比之于电光之烁闪，不得名曰河流。‘我有’、‘我体验’既为点的，则此断续势不能熔成一片，如不尽之江河。”",
+      "confidence": 1.0
+    },
+    {
+      "id": "e9",
+      "name": "意识之流",
+      "canonical_name": "意识之流",
+      "type": "概念",
+      "evidence": "所以他不容纳“意识之流”的用语。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e10",
+      "name": "杜里舒《讲演录》《近世心理问题》",
+      "canonical_name": "杜里舒《讲演录》《近世心理问题》",
+      "type": "著作",
+      "evidence": "（杜里舒《讲演录》《近世心理问题》第四期第二十一页）",
+      "confidence": 1.0
+    },
+    {
+      "id": "e11",
+      "name": "野蛮人",
+      "canonical_name": "野蛮人",
+      "type": "阵营/群体",
+      "evidence": "野蛮人觉得雷一定是天神的发脾气，信鬼的觉得一定有鬼，我们不能承认他们的“觉得”是一种理由。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e12",
+      "name": "信鬼的",
+      "canonical_name": "信鬼的",
+      "type": "阵营/群体",
+      "evidence": "野蛮人觉得雷一定是天神的发脾气，信鬼的觉得一定有鬼，我们不能承认他们的“觉得”是一种理由。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e13",
+      "name": "现代大多数思想家",
+      "canonical_name": "现代大多数思想家",
+      "type": "阵营/群体",
+      "evidence": "这种的议论现代大多数思想家已经不承认。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e14",
+      "name": "现代人",
+      "canonical_name": "现代人",
+      "type": "阵营/群体",
+      "evidence": "这是穆勒约翰所下的定义，是现代人普遍承认的。",
+      "confidence": 1.0
+    }
+  ],
+  "claims": [
+    {
+      "id": "c1",
+      "speaker": "无因论者",
+      "claim": "心理现象一定是无因的",
+      "target": "心理现象",
+      "claim_type": "描述性主张",
+      "claim_status": "对手直接主张",
+      "polarity": "negative",
+      "evidence": "至于以为他们一定是无因的，一点根据都没有。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c2",
+      "speaker": "无因论者",
+      "claim": "我们的直接经验，觉得他们是无因的",
+      "target": "心理现象",
+      "claim_type": "描述性主张",
+      "claim_status": "对手直接主张",
+      "polarity": "negative",
+      "evidence": "他们又说，我们的直接经验，觉得他们是无因的。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c3",
+      "speaker": "唐钺",
+      "claim": "这“觉得”是靠不住的",
+      "target": "无因论者的“觉得”",
+      "claim_type": "评价性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "这“觉得”是靠不住的。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c4",
+      "speaker": "唐钺",
+      "claim": "野蛮人觉得雷一定是天神的发脾气，信鬼的觉得一定有鬼，我们不能承认他们的“觉得”是一种理由",
+      "target": "无因论者的“觉得”",
+      "claim_type": "反驳性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "野蛮人觉得雷一定是天神的发脾气，信鬼的觉得一定有鬼，我们不能承认他们的“觉得”是一种理由。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c5",
+      "speaker": "无因论者",
+      "claim": "物质是死的，固定的，凝滞不变的，所以有因果可言；心理现象是活的，顷刻万变的，一定没有因果可言",
+      "target": "心理现象",
+      "claim_type": "因果主张",
+      "claim_status": "对手直接主张",
+      "polarity": "negative",
+      "evidence": "无因论者说，物质是死的，固定的，凝滞不变的，所以有因果可言；心理现象是活的，顷刻万变的，一定没有因果可言。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c6",
+      "speaker": "唐钺",
+      "claim": "这种的议论现代大多数思想家已经不承认",
+      "target": "无因论者的议论",
+      "claim_type": "评价性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "这种的议论现代大多数思想家已经不承认。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c7",
+      "speaker": "穆勒约翰",
+      "claim": "物质不过是“常久的感觉的可能”",
+      "target": "物质",
+      "claim_type": "定义性主张",
+      "claim_status": "直接引用",
+      "polarity": "neutral",
+      "evidence": "所谓物质，不过是“常久的感觉的可能”。这是穆勒约翰所下的定义，是现代人普遍承认的。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c8",
+      "speaker": "唐钺",
+      "claim": "爱因斯坦的相对论更可以证明物质现象就是心理现象，不是死而固定的",
+      "target": "物质现象",
+      "claim_type": "因果主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "近来爱因斯坦的相对论出来，更可以证明物质现象就是心理现象，不是死而固定的，比如风的方向速度是顷刻变化的，但是不能说他是没有因果可言；心理现象也是这样。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c9",
+      "speaker": "无因论者",
+      "claim": "心理现象就是柏格森所谓“纯粹绵延”。因为他是绵延，所以不能把他分作各个的状态。既然不能有各个的状态，当然不能说某状态是某别状态的因或果",
+      "target": "心理现象",
+      "claim_type": "因果主张",
+      "claim_status": "对手直接主张",
+      "polarity": "negative",
+      "evidence": "无因论者又说，心理现象就是柏格森所谓“纯粹绵延”。因为他是绵延，所以不能把他分作各个的状态。既然不能有各个的状态，当然不能说某状态是某别状态的因或果。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c10",
+      "speaker": "唐钺",
+      "claim": "这也是附会之说",
+      "target": "无因论者的说法",
+      "claim_type": "评价性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "这也是附会之说。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c11",
+      "speaker": "唐钺",
+      "claim": "心理现象不是永久绵延，也有间断的",
+      "target": "心理现象",
+      "claim_type": "描述性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "心理现象不是永久绵延，也有间断的。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c12",
+      "speaker": "杜里舒",
+      "claim": "体验者乃断断续续的，而非永续的。故当比之于电光之烁闪，不得名曰河流。‘我有’、‘我体验’既为点的，则此断续势不能熔成一片，如不尽之江河",
+      "target": "体验者",
+      "claim_type": "描述性主张",
+      "claim_status": "直接引用",
+      "polarity": "positive",
+      "evidence": "杜里舒说：“以我观之，体验者乃断断续续的，而非永续的。故当比之于电光之烁闪，不得名曰河流。‘我有’、‘我体验’既为点的，则此断续势不能熔成一片，如不尽之江河。”",
+      "confidence": 1.0
+    },
+    {
+      "id": "c13",
+      "speaker": "唐钺",
+      "claim": "据我的经验，心理现象是断续无常的",
+      "target": "心理现象",
+      "claim_type": "描述性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "据我的经验，心理现象是断续无常的。",
+      "confidence": 1.0
+    }
+  ],
+  "relations": [
+    {
+      "id": "r1",
+      "head": "无因论者",
+      "head_type": "阵营/群体",
+      "relation": "主张",
+      "relation_subtype": "不适用",
+      "tail": "心理现象一定是无因的",
+      "tail_type": "观点",
+      "polarity": "negative",
+      "stance_score": -1.0,
+      "intensity": 1.0,
+      "evidence": "至于以为他们一定是无因的，一点根据都没有。",
+      "confidence": 1.0
+    },
+    {
+      "id": "r2",
+      "head": "唐钺",
+      "head_type": "人物",
+      "relation": "反驳",
+      "relation_subtype": "证据不足批评",
+      "tail": "无因论者",
+      "tail_type": "阵营/群体",
+      "polarity": "negative",
+      "stance_score": -1.0,
+      "intensity": 1.0,
+      "evidence": "至于以为他们一定是无因的，一点根据都没有。",
+      "confidence": 1.0
+    },
+    {
+      "id": "r3",
+      "head": "无因论者",
+      "head_type": "阵营/群体",
+      "relation": "主张",
+      "relation_subtype": "不适用",
+      "tail": "我们的直接经验，觉得他们是无因的",
+      "tail_type": "观点",
+      "polarity": "negative",
+      "stance_score": -1.0,
+      "intensity": 1.0,
+      "evidence": "他们又说，我们的直接经验，觉得他们是无因的。",
+      "confidence": 1.0
+    },
+    {
+      "id": "r4",
+      "head": "唐钺",
+      "head_type": "人物",
+      "relation": "反驳",
+      "relation_subtype": "证据不足批评",
+      "tail": "无因论者",
+      "tail_type": "阵营/群体",
+      "polarity": "negative",
+      "stance_score": -1.0,
+      "intensity": 1.0,
+      "evidence": "这“觉得”是靠不住的。野蛮人觉得雷一定是天神的发脾气，信鬼的觉得一定有鬼，我们不能承认他们的“觉得”是一种理由。",
+      "confidence": 1.0
+    },
+    {
+      "id": "r5",
+      "head": "无因论者",
+      "head_type": "阵营/群体",
+      "relation": "主张",
+      "relation_subtype": "不适用",
+      "tail": "物质是死的，固定的，凝滞不变的，所以有因果可言；心理现象是活的，顷刻万变的，一定没有因果可言",
+      "tail_type": "观点",
+      "polarity": "negative",
+      "stance_score": -1.0,
+      "intensity": 1.0,
+      "evidence": "无因论者说，物质是死的，固定的，凝滞不变的，所以有因果可言；心理现象是活的，顷刻万变的，一定没有因果可言。",
+      "confidence": 1.0
+    },
+    {
+      "id": "r6",
+      "head": "唐钺",
+      "head_type": "人物",
+      "relation": "反驳",
+      "relation_subtype": "一般批评",
+      "tail": "无因论者",
+      "tail_type": "阵营/群体",
+      "polarity": "negative",
+      "stance_score": -1.0,
+      "intensity": 0.8,
+      "evidence": "这种的议论现代大多数思想家已经不承认。",
+      "confidence": 1.0
+    },
+    {
+      "id": "r7",
+      "head": "穆勒约翰",
+      "head_type": "人物",
+      "relation": "定义",
+      "relation_subtype": "概念澄清",
+      "tail": "物质",
+      "tail_type": "概念",
+      "polarity": "neutral",
+      "stance_score": 0.0,
+      "intensity": 0.5,
+      "evidence": "所谓物质，不过是“常久的感觉的可能”。这是穆勒约翰所下的定义，是现代人普遍承认的。",
+      "confidence": 1.0
+    },
+    {
+      "id": "r8",
+      "head": "唐钺",
+      "head_type": "人物",
+      "relation": "引用",
+      "relation_subtype": "援引权威支持",
+      "tail": "穆勒约翰",
+      "tail_type": "人物",
+      "polarity": "positive",
+      "stance_score": 1.0,
+      "intensity": 0.8,
+      "evidence": "这是穆勒约翰所下的定义，是现代人普遍承认的。",
+      "confidence": 1.0
+    },
+    {
+      "id": "r9",
+      "head": "爱因斯坦的相对论",
+      "head_type": "理论",
+      "relation": "证明",
+      "relation_subtype": "不适用",
+      "tail": "物质现象就是心理现象，不是死而固定的",
+      "tail_type": "观点",
+      "polarity": "positive",
+      "stance_score": 1.0,
+      "intensity": 0.8,
+      "evidence": "近来爱因斯坦的相对论出来，更可以证明物质现象就是心理现象，不是死而固定的，比如风的方向速度是顷刻变化的，但是不能说他是没有因果可言；心理现象也是这样。",
+      "confidence": 1.0
+    },
+    {
+      "id": "r10",
+      "head": "无因论者",
+      "head_type": "阵营/群体",
+      "relation": "主张",
+      "relation_subtype": "不适用",
+      "tail": "心理现象就是柏格森所谓“纯粹绵延”。因为他是绵延，所以不能把他分作各个的状态。既然不能有各个的状态，当然不能说某状态是某别状态的因或果",
+      "tail_type": "观点",
+      "polarity": "negative",
+      "stance_score": -1.0,
+      "intensity": 1.0,
+      "evidence": "无因论者又说，心理现象就是柏格森所谓“纯粹绵延”。因为他是绵延，所以不能把他分作各个的状态。既然不能有各个的状态，当然不能说某状态是某别状态的因或果。",
+      "confidence": 1.0
+    },
+    {
+      "id": "r11",
+      "head": "唐钺",
+      "head_type": "人物",
+      "relation": "反驳",
+      "relation_subtype": "概念混淆批评",
+      "tail": "无因论者",
+      "tail_type": "阵营/群体",
+      "polarity": "negative",
+      "stance_score": -1.0,
+      "intensity": 0.8,
+      "evidence": "这也是附会之说。心理现象不是永久绵延，也有间断的。",
+      "confidence": 1.0
+    },
+    {
+      "id": "r12",
+      "head": "杜里舒",
+      "head_type": "人物",
+      "relation": "反驳",
+      "relation_subtype": "概念澄清",
+      "tail": "意识之流",
+      "tail_type": "概念",
+      "polarity": "negative",
+      "stance_score": -0.8,
+      "intensity": 0.8,
+      "evidence": "杜里舒说：“以我观之，体验者乃断断续续的，而非永续的。故当比之于电光之烁闪，不得名曰河流。‘我有’、‘我体验’既为点的，则此断续势不能熔成一片，如不尽之江河。”所以他不容纳“意识之流”的用语。",
+      "confidence": 1.0
+    },
+    {
+      "id": "r13",
+      "head": "唐钺",
+      "head_type": "人物",
+      "relation": "引用",
+      "relation_subtype": "援引权威支持",
+      "tail": "杜里舒",
+      "tail_type": "人物",
+      "polarity": "positive",
+      "stance_score": 1.0,
+      "intensity": 0.8,
+      "evidence": "杜氏在别地方与柏氏同意的很多，他的话当然不是门户之见。",
+      "confidence": 1.0
+    },
+    {
+      "id": "r14",
+      "head": "唐钺",
+      "head_type": "人物",
+      "relation": "支持",
+      "relation_subtype": "部分肯定",
+      "tail": "杜里舒",
+      "tail_type": "人物",
+      "polarity": "positive",
+      "stance_score": 0.8,
+      "intensity": 0.6,
+      "evidence": "据我的经验，心理现象是断续无常的。",
+      "confidence": 1.0
+    }
+  ],
+  "definitions": [
+    {
+      "id": "def1",
+      "term": "物质",
+      "definition": "物质不过是“常久的感觉的可能”",
+      "evidence": "所谓物质，不过是“常久的感觉的可能”。这是穆勒约翰所下的定义，是现代人普遍承认的。",
+      "confidence": 1.0
+    },
+    {
+      "id": "def2",
+      "term": "纯粹绵延",
+      "definition": "柏格森所谓“纯粹绵延”",
+      "evidence": "无因论者又说，心理现象就是柏格森所谓“纯粹绵延”。",
+      "confidence": 1.0
+    }
+  ],
+  "citations": [
+    {
+      "id": "cit1",
+      "citer": "唐钺",
+      "quoted_author": "穆勒约翰",
+      "quoted_work": "",
+      "quoted_claim": "物质不过是“常久的感觉的可能”",
+      "function": "援引权威支持",
+      "evidence": "所谓物质，不过是“常久的感觉的可能”。这是穆勒约翰所下的定义，是现代人普遍承认的。",
+      "confidence": 1.0
+    },
+    {
+      "id": "cit2",
+      "citer": "唐钺",
+      "quoted_author": "杜里舒",
+      "quoted_work": "杜里舒《讲演录》《近世心理问题》",
+      "quoted_claim": "以我观之，体验者乃断断续续的，而非永续的。故当比之于电光之烁闪，不得名曰河流。‘我有’、‘我体验’既为点的，则此断续势不能熔成一片，如不尽之江河",
+      "function": "援引权威支持",
+      "evidence": "杜里舒说：“以我观之，体验者乃断断续续的，而非永续的。故当比之于电光之烁闪，不得名曰河流。‘我有’、‘我体验’既为点的，则此断续势不能熔成一片，如不尽之江河。”（杜里舒《讲演录》《近世心理问题》第四期第二十一页）",
+      "confidence": 1.0
+    }
+  ],
+  "rhetorical_devices": [
+    {
+      "id": "rh1",
+      "expression": "野蛮人觉得雷一定是天神的发脾气，信鬼的觉得一定有鬼，我们不能承认他们的“觉得”是一种理由",
+      "device_type": "类比",
+      "literal_target": "无因论者的“觉得”",
+      "function": "通过类比野蛮人和信鬼者的不可靠感觉，论证无因论者的“觉得”不可靠",
+      "evidence": "野蛮人觉得雷一定是天神的发脾气，信鬼的觉得一定有鬼，我们不能承认他们的“觉得”是一种理由。",
+      "confidence": 1.0
+    },
+    {
+      "id": "rh2",
+      "expression": "比如风的方向速度是顷刻变化的，但是不能说他是没有因果可言；心理现象也是这样",
+      "device_type": "类比",
+      "literal_target": "心理现象",
+      "function": "通过类比风的方向速度顷刻变化但有因果，论证心理现象虽变化但也有因果",
+      "evidence": "比如风的方向速度是顷刻变化的，但是不能说他是没有因果可言；心理现象也是这样。",
+      "confidence": 1.0
+    },
+    {
+      "id": "rh3",
+      "expression": "故当比之于电光之烁闪，不得名曰河流",
+      "device_type": "比喻",
+      "literal_target": "体验者",
+      "function": "用比喻说明体验是断续的，而非连续的河流",
+      "evidence": "杜里舒说：“以我观之，体验者乃断断续续的，而非永续的。故当比之于电光之烁闪，不得名曰河流。”",
+      "confidence": 1.0
+    },
+    {
+      "id": "rh4",
+      "expression": "如不尽之江河",
+      "device_type": "比喻",
+      "literal_target": "意识之流",
+      "function": "用比喻说明意识之流概念认为体验是连续的",
+      "evidence": "杜里舒说：“‘我有’、‘我体验’既为点的，则此断续势不能熔成一片，如不尽之江河。”",
+      "confidence": 1.0
+    }
+  ],
+  "uncertainties": [
+    {
+      "item": "无因论者是否包含多个不同观点持有者",
+      "reason": "文本中“无因论者”作为统一群体出现，但可能包含不同个体，无法进一步区分"
+    },
+    {
+      "item": "“信鬼的”具体指代哪个群体",
+      "reason": "文本中仅出现“信鬼的”，未明确其具体身份或背景"
+    }
+  ]
+}

@@ -1,0 +1,280 @@
+{
+  "metadata": {
+    "schema_version": "lite_v2.0",
+    "article_id": "吴稚晖_001_b4c0e810",
+    "article_title": "一个新信仰的宇宙观及人生观",
+    "source_author": "吴稚晖",
+    "section_title": "讲到这里，第一层可先用不值钱的玄学理想，近乎游戏的，说道毛厕里的石头亦有感觉。苍蝇的感觉，非即人的感觉，他们感觉的状况，颇极差等。玫瑰树的感觉，非即苍蝇的感觉，他们的感觉，又极差等。如是焉能禁我来瞎说，毛厕里石头的感觉，非即玫瑰树的感觉，他们感觉的状况，也极差等。若欲强分高下，则石头有其寂然不动的感觉，真所谓无私心而合天理，所以贞固永寿。一块毛厕里的石头，可以阅几十代人而依然如故，见数百兆苍蝇存灭，看千万棵玫瑰树忽而芬芳，忽而萎枯。彼如曰毛厕里的石头为万物之灵，理由亦未尝不充足。彼另有彼之可感与彼之可觉，人与苍蝇及玫瑰树之感觉，皆非彼所需，故亦非彼所有，如是而已。然这种蹈空的掉枪花，我们中国古代的玄学鬼常用“孰为正色，孰为正味”等的论调，闹得甚嚣尘上。自然受过科学洗礼的玄学鬼，不肯就把这种空言，来作惟一的搪塞。所以说到第二层，他就要戴上科学面具，正正经经，板起了面孔，来断定毛厕里的石头亦有感觉。他不是说能够按",
+    "section_author": "讲到这里，第一层可先用不值钱的玄学理想，近乎游戏的，说道毛厕里的石头亦有感觉。苍蝇的感觉，非即人的感觉，他们感觉的状况，颇极差等。玫瑰树的感觉，非即苍蝇的感觉，他们的感觉，又极差等。如是焉能禁我来瞎说，毛厕里石头的感觉，非即玫瑰树的感觉，他们感觉的状况，也极差等。若欲强分高下，则石头有其寂然不动的感觉，真所谓无私心而合天理，所以贞固永寿。一块毛厕里的石头，可以阅几十代人而依然如故，见数百兆苍蝇存灭，看千万棵玫瑰树忽而芬芳，忽而萎枯。彼如曰毛厕里的石头为万物之灵，理由亦未尝不充足。彼另有彼之可感与彼之可觉，人与苍蝇及玫瑰树之感觉，皆非彼所需，故亦非彼所有，如是而已。然这种蹈空的掉枪花，我们中国古代的玄学鬼常用“孰为正色，孰为正味”等的论调，闹得甚嚣尘上。自然受过科学洗礼的玄学鬼，不肯就把这种空言，来作惟一的搪塞。所以说到第二层，他就要戴上科学面具，正正经经，板起了面孔，来断定毛厕里的石头亦有感觉。他不是说能够",
+    "segment_id": "吴稚晖_001_b4c0e810_s0044",
+    "segment_index": 44,
+    "source_file": "E:\\1研究生\\岭南大学\\论文毕业\\capstone\\资料\\新的内容开始了\\local_upload\\input_w0\\吴稚晖.txt"
+  },
+  "entities": [
+    {
+      "id": "e1",
+      "name": "中华民国的八百罗汉",
+      "canonical_name": "中华民国的八百罗汉",
+      "type": "阵营/群体",
+      "evidence": "例如中华民国的八百罗汉，境况为难的，实在也居大半。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e2",
+      "name": "东京灾民",
+      "canonical_name": "东京灾民",
+      "type": "阵营/群体",
+      "evidence": "与东京灾民不相上下。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e3",
+      "name": "寄生虫的罗汉",
+      "canonical_name": "寄生虫的罗汉",
+      "type": "阵营/群体",
+      "evidence": "那些寄生虫的罗汉，并另寻正当新饭碗的勇气，完全被那鸡肋式的议席，销沉到零度以下。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e4",
+      "name": "高等流氓",
+      "canonical_name": "高等流氓",
+      "type": "阵营/群体",
+      "evidence": "老实那种高等流氓，贪吃懒做，也少有人请教。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e5",
+      "name": "黎菩萨",
+      "canonical_name": "黎菩萨",
+      "type": "人物",
+      "evidence": "又例如黎菩萨前年有句话，叫做“有饭大家吃”。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e6",
+      "name": "有饭大家吃",
+      "canonical_name": "有饭大家吃",
+      "type": "观点",
+      "evidence": "又例如黎菩萨前年有句话，叫做“有饭大家吃”。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e7",
+      "name": "吃饭问题",
+      "canonical_name": "吃饭问题",
+      "type": "问题",
+      "evidence": "又证明吃饭问题，虽够不上说是人生观里的重要问题，毕竟还算得上一个问题。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e8",
+      "name": "人生观",
+      "canonical_name": "人生观",
+      "type": "概念",
+      "evidence": "这又证明吃饭很辱没了人生观。",
+      "confidence": 0.9
+    }
+  ],
+  "claims": [
+    {
+      "id": "c1",
+      "speaker": "吴稚晖",
+      "claim": "吃饭很辱没了人生观",
+      "target": "人生观",
+      "claim_type": "价值评价",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "这又证明吃饭很辱没了人生观。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c2",
+      "speaker": "吴稚晖",
+      "claim": "吃饭问题虽够不上说是人生观里的重要问题，毕竟还算得上一个问题",
+      "target": "吃饭问题",
+      "claim_type": "价值评价",
+      "claim_status": "作者直接主张",
+      "polarity": "mixed",
+      "evidence": "又证明吃饭问题，虽够不上说是人生观里的重要问题，毕竟还算得上一个问题。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c3",
+      "speaker": "黎菩萨",
+      "claim": "有饭大家吃",
+      "target": "吃饭问题",
+      "claim_type": "社会理论主张",
+      "claim_status": "直接引用",
+      "polarity": "positive",
+      "evidence": "又例如黎菩萨前年有句话，叫做“有饭大家吃”。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c4",
+      "speaker": "吴稚晖",
+      "claim": "在狗争骨头同军阀吃人的状况中，得到这句很像体面的谈话，一时也确实感动着人心",
+      "target": "有饭大家吃",
+      "claim_type": "价值评价",
+      "claim_status": "作者直接主张",
+      "polarity": "mixed",
+      "evidence": "在狗争骨头同军阀吃人的状况中，得到这句很像体面的谈话，一时也确实感动着人心。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c5",
+      "speaker": "吴稚晖",
+      "claim": "自从得了菩萨的暗示，不但占据地盘的，偷窃高位的，公然自诉他的为着饭碗，有所不得已。余如绅士专为子弟谋差缺，学生专为父母求文恁，更看做领了菩萨法旨，十分正当",
+      "target": "有饭大家吃",
+      "claim_type": "社会理论主张",
+      "claim_status": "作者概括",
+      "polarity": "negative",
+      "evidence": "又例如自从得了菩萨的暗示，不但占据地盘的，偷窃高位的，公然自诉他的为着饭碗，有所不得已。余如绅士专为子弟谋差缺，学生专为父母求文恁，更看做领了菩萨法旨，十分正当。",
+      "confidence": 0.9
+    }
+  ],
+  "relations": [
+    {
+      "id": "r1",
+      "head": "中华民国的八百罗汉",
+      "head_type": "阵营/群体",
+      "relation": "类比",
+      "tail": "东京灾民",
+      "tail_type": "阵营/群体",
+      "polarity": "neutral",
+      "evidence": "例如中华民国的八百罗汉，境况为难的，实在也居大半。不靠南北奔驰，捧住那只饭碗，简直便有许多人，将憔悴失业，弄得室人交谪，有无穷的苦趣，与东京灾民不相上下。",
+      "confidence": 0.9
+    },
+    {
+      "id": "r2",
+      "head": "寄生虫的罗汉",
+      "head_type": "阵营/群体",
+      "relation": "对比",
+      "tail": "东京灾民",
+      "tail_type": "阵营/群体",
+      "polarity": "negative",
+      "evidence": "而且东京灾民是，等灾象过了，有从新复业，自行寻饭的希望。那些寄生虫的罗汉，并另寻正当新饭碗的勇气，完全被那鸡肋式的议席，销沉到零度以下。",
+      "confidence": 0.9
+    },
+    {
+      "id": "r3",
+      "head": "有饭大家吃",
+      "head_type": "观点",
+      "relation": "相关",
+      "tail": "黎菩萨",
+      "tail_type": "人物",
+      "polarity": "positive",
+      "evidence": "又例如黎菩萨前年有句话，叫做“有饭大家吃”。",
+      "confidence": 0.9
+    },
+    {
+      "id": "r4",
+      "head": "吃饭问题",
+      "head_type": "问题",
+      "relation": "属于",
+      "tail": "人生观",
+      "tail_type": "概念",
+      "polarity": "mixed",
+      "evidence": "又证明吃饭问题，虽够不上说是人生观里的重要问题，毕竟还算得上一个问题。",
+      "confidence": 0.9
+    }
+  ],
+  "definitions": [],
+  "citations": [
+    {
+      "id": "cit1",
+      "citer": "吴稚晖",
+      "quoted_author": "黎菩萨",
+      "quoted_work": "",
+      "quoted_claim": "有饭大家吃",
+      "function": "援引权威支持",
+      "evidence": "又例如黎菩萨前年有句话，叫做“有饭大家吃”。",
+      "confidence": 0.9
+    }
+  ],
+  "rhetorical_devices": [
+    {
+      "id": "rh1",
+      "expression": "中华民国的八百罗汉",
+      "device_type": "比喻",
+      "literal_target": "中华民国国会议员",
+      "function": "讽刺性指代，暗示议员如罗汉般寄生享乐",
+      "evidence": "例如中华民国的八百罗汉，境况为难的，实在也居大半。",
+      "confidence": 0.9
+    },
+    {
+      "id": "rh2",
+      "expression": "鸡肋式的议席",
+      "device_type": "比喻",
+      "literal_target": "议席",
+      "function": "比喻议席如鸡肋，食之无味弃之可惜，讽刺议员对议席的依赖",
+      "evidence": "完全被那鸡肋式的议席，销沉到零度以下。",
+      "confidence": 0.9
+    },
+    {
+      "id": "rh3",
+      "expression": "装饭臭皮囊",
+      "device_type": "比喻",
+      "literal_target": "身体",
+      "function": "贬低身体，强调吃饭的生理性，讽刺议员只求生存",
+      "evidence": "存在存在他的装饭臭皮囊，或兼恤他的妻子，也正与赈济东京灾民一样。",
+      "confidence": 0.9
+    },
+    {
+      "id": "rh4",
+      "expression": "狗争骨头同军阀吃人",
+      "device_type": "比喻",
+      "literal_target": "军阀混战与争夺利益",
+      "function": "将军阀争斗比作狗争骨头，讽刺其野蛮与低劣",
+      "evidence": "在狗争骨头同军阀吃人的状况中，得到这句很像体面的谈话，一时也确实感动着人心。",
+      "confidence": 0.9
+    },
+    {
+      "id": "rh5",
+      "expression": "菩萨的暗示",
+      "device_type": "比喻",
+      "literal_target": "黎菩萨的言论",
+      "function": "讽刺性比喻，将黎元洪的话比作菩萨暗示，暗示其被盲目奉为权威",
+      "evidence": "又例如自从得了菩萨的暗示，不但占据地盘的，偷窃高位的，公然自诉他的为着饭碗，有所不得已。",
+      "confidence": 0.9
+    },
+    {
+      "id": "rh6",
+      "expression": "领了菩萨法旨",
+      "device_type": "比喻",
+      "literal_target": "将黎菩萨的话当作不可违抗的命令",
+      "function": "讽刺性比喻，批评人们将“有饭大家吃”当作正当理由",
+      "evidence": "更看做领了菩萨法旨，十分正当。",
+      "confidence": 0.9
+    }
+  ],
+  "uncertainties": [
+    {
+      "item": "黎菩萨的具体身份",
+      "reason": "文本中仅出现“黎菩萨”，未明确说明其真实姓名或身份，可能指黎元洪，但需确认。"
+    },
+    {
+      "item": "中华民国的八百罗汉的具体指代",
+      "reason": "文本中未明确说明“八百罗汉”具体指代哪些人，可能指国会议员，但需结合上下文确认。"
+    }
+  ],
+  "_meta": {
+    "status": "success",
+    "stage": "extract",
+    "model": "deepseek-ai/DeepSeek-V4-Flash",
+    "base_url": "https://api.siliconflow.cn/v1",
+    "prompt_version": "extract_prompt_v2.0",
+    "schema_version": "lite_v2.0",
+    "segment_id": "吴稚晖_001_b4c0e810_s0044",
+    "article_id": "吴稚晖_001_b4c0e810",
+    "char_start": 21766,
+    "char_end": 22362,
+    "raw_path": "E:\\1研究生\\岭南大学\\论文毕业\\capstone\\资料\\新的内容开始了\\local_upload\\kg_runs\\吴稚晖\\raw_outputs\\extract\\吴稚晖_001_b4c0e810_s0044.txt",
+    "parsed_at": "2026-05-20T04:45:01",
+    "started_at": "2026-05-20T04:43:21",
+    "elapsed_seconds": 100.496,
+    "strict_evidence_check": true,
+    "drop_unsupported_evidence": true,
+    "request_timeout_seconds": 180
+  }
+}

@@ -1,0 +1,397 @@
+{
+  "metadata": {
+    "schema_version": "lite_v2.0",
+    "article_id": "吴稚晖_000_7d60d047",
+    "article_title": "箴洋八股化之理学",
+    "source_author": "吴稚晖",
+    "section_title": "（按",
+    "section_author": "（",
+    "segment_id": "吴稚晖_000_7d60d047_s0003",
+    "segment_index": 3,
+    "source_file": "E:\\1研究生\\岭南大学\\论文毕业\\capstone\\资料\\新的内容开始了\\local_upload\\input_w0\\吴稚晖.txt"
+  },
+  "entities": [
+    {
+      "id": "e1",
+      "name": "张先生",
+      "canonical_name": "张君劢",
+      "type": "人物",
+      "evidence": "中国又的确有位张先生",
+      "confidence": 0.9
+    },
+    {
+      "id": "e2",
+      "name": "程夫子",
+      "canonical_name": "程颐",
+      "type": "人物",
+      "evidence": "在灰堆里拾着一个程夫子的玩物丧志",
+      "confidence": 0.8
+    },
+    {
+      "id": "e3",
+      "name": "柏林",
+      "canonical_name": "柏林",
+      "type": "概念",
+      "evidence": "从寸布一针都要叫柏林或伦敦供给",
+      "confidence": 0.9
+    },
+    {
+      "id": "e4",
+      "name": "伦敦",
+      "canonical_name": "伦敦",
+      "type": "概念",
+      "evidence": "从寸布一针都要叫柏林或伦敦供给",
+      "confidence": 0.9
+    },
+    {
+      "id": "e5",
+      "name": "物质文明",
+      "canonical_name": "物质文明",
+      "type": "概念",
+      "evidence": "反对物质文明",
+      "confidence": 0.9
+    },
+    {
+      "id": "e6",
+      "name": "玩物丧志",
+      "canonical_name": "玩物丧志",
+      "type": "概念",
+      "evidence": "在灰堆里拾着一个程夫子的玩物丧志",
+      "confidence": 0.9
+    },
+    {
+      "id": "e7",
+      "name": "绿气炮",
+      "canonical_name": "绿气炮",
+      "type": "概念",
+      "evidence": "绿气炮便发动了",
+      "confidence": 0.8
+    },
+    {
+      "id": "e8",
+      "name": "美国",
+      "canonical_name": "美国",
+      "type": "概念",
+      "evidence": "你何不学美国将我们自造",
+      "confidence": 0.9
+    },
+    {
+      "id": "e9",
+      "name": "欧战",
+      "canonical_name": "欧战",
+      "type": "历史事件",
+      "evidence": "欧战之损失",
+      "confidence": 0.9
+    },
+    {
+      "id": "e10",
+      "name": "郭筠仙",
+      "canonical_name": "郭嵩焘",
+      "type": "人物",
+      "evidence": "这种话头是三十年前郭筠仙为了刘锡鸿说的",
+      "confidence": 0.9
+    },
+    {
+      "id": "e11",
+      "name": "刘锡鸿",
+      "canonical_name": "刘锡鸿",
+      "type": "人物",
+      "evidence": "这种话头是三十年前郭筠仙为了刘锡鸿说的",
+      "confidence": 0.9
+    },
+    {
+      "id": "e12",
+      "name": "梁卓如",
+      "canonical_name": "梁启超",
+      "type": "人物",
+      "evidence": "二十年前梁卓如为了张之洞说的",
+      "confidence": 0.9
+    },
+    {
+      "id": "e13",
+      "name": "张之洞",
+      "canonical_name": "张之洞",
+      "type": "人物",
+      "evidence": "二十年前梁卓如为了张之洞说的",
+      "confidence": 0.9
+    },
+    {
+      "id": "e14",
+      "name": "吴稚晖",
+      "canonical_name": "吴稚晖",
+      "type": "人物",
+      "evidence": "还要陈庸腐臭的叫吴稚晖为了梁启超、张嘉森说",
+      "confidence": 0.9
+    },
+    {
+      "id": "e15",
+      "name": "梁启超",
+      "canonical_name": "梁启超",
+      "type": "人物",
+      "evidence": "还要陈庸腐臭的叫吴稚晖为了梁启超、张嘉森说",
+      "confidence": 0.9
+    },
+    {
+      "id": "e16",
+      "name": "张嘉森",
+      "canonical_name": "张君劢",
+      "type": "人物",
+      "evidence": "还要陈庸腐臭的叫吴稚晖为了梁启超、张嘉森说",
+      "confidence": 0.9
+    },
+    {
+      "id": "e17",
+      "name": "玄学鬼",
+      "canonical_name": "玄学鬼",
+      "type": "概念",
+      "evidence": "张先生的玄学鬼",
+      "confidence": 0.9
+    },
+    {
+      "id": "e18",
+      "name": "梁先生",
+      "canonical_name": "梁启超",
+      "type": "人物",
+      "evidence": "张先生的玄学鬼，首先是托梁先生的《欧游心影录》带回的",
+      "confidence": 0.9
+    },
+    {
+      "id": "e19",
+      "name": "《欧游心影录》",
+      "canonical_name": "欧游心影录",
+      "type": "著作",
+      "evidence": "张先生的玄学鬼，首先是托梁先生的《欧游心影录》带回的",
+      "confidence": 0.9
+    },
+    {
+      "id": "e20",
+      "name": "胡适之",
+      "canonical_name": "胡适",
+      "type": "人物",
+      "evidence": "最近梁先生上了胡适之的恶当",
+      "confidence": 0.9
+    },
+    {
+      "id": "e21",
+      "name": "长兴学舍",
+      "canonical_name": "长兴学舍",
+      "type": "概念",
+      "evidence": "公然把他长兴学舍以前夹在书包里的一篇书目答问摘要",
+      "confidence": 0.8
+    },
+    {
+      "id": "e22",
+      "name": "书目答问摘要",
+      "canonical_name": "书目答问摘要",
+      "type": "著作",
+      "evidence": "公然把他长兴学舍以前夹在书包里的一篇书目答问摘要",
+      "confidence": 0.8
+    },
+    {
+      "id": "e23",
+      "name": "清华园",
+      "canonical_name": "清华园",
+      "type": "概念",
+      "evidence": "从西山送到清华园",
+      "confidence": 0.9
+    },
+    {
+      "id": "e24",
+      "name": "西山",
+      "canonical_name": "西山",
+      "type": "概念",
+      "evidence": "从西山送到清华园",
+      "confidence": 0.9
+    }
+  ],
+  "claims": [
+    {
+      "id": "c1",
+      "speaker": "吴稚晖",
+      "claim": "张先生反对物质文明，却又依赖物质文明（火车、轮船、风扇、电灯等），自相矛盾",
+      "target": "张先生",
+      "claim_type": "论战策略批评",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "现在张先生是理学名儒，洋烟洋钱是不要了。然而火车是要坐的，不肯坐骤车的；轮船是要坐的，不肯坐钓船的；推而至于风扇也要装的，电灯也要点的",
+      "confidence": 0.9
+    },
+    {
+      "id": "c2",
+      "speaker": "吴稚晖",
+      "claim": "张先生是物质文明提倡者，因伤心绿气炮而临时疯癫",
+      "target": "张先生",
+      "claim_type": "价值评价",
+      "claim_status": "作者直接主张",
+      "polarity": "mixed",
+      "evidence": "张先生恕罪，张先生为我们所敬畏之友，且实在是个物质文明提倡者。他是伤心着绿气炮，临时疯癫",
+      "confidence": 0.8
+    },
+    {
+      "id": "c3",
+      "speaker": "吴稚晖",
+      "claim": "世界有不进步之民族，惹起物质文明进步人之野心，乃是真理",
+      "target": "世界有不进步之民族",
+      "claim_type": "社会理论主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "至世界有不进步之民族，惹起物质文明进步人之野心，乃是真理",
+      "confidence": 0.8
+    },
+    {
+      "id": "c4",
+      "speaker": "吴稚晖",
+      "claim": "欧战之损失是中国人自己的罪过，与物质文明无关",
+      "target": "欧战",
+      "claim_type": "历史解释",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "欧战之损失，是余中国人之罪也夫，是余中国人之罪也夫，于物质文明何与",
+      "confidence": 0.9
+    },
+    {
+      "id": "c5",
+      "speaker": "吴稚晖",
+      "claim": "张先生的玄学鬼是托梁先生的《欧游心影录》带回的",
+      "target": "张先生",
+      "claim_type": "历史解释",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "张先生的玄学鬼，首先是托梁先生的《欧游心影录》带回的",
+      "confidence": 0.9
+    },
+    {
+      "id": "c6",
+      "speaker": "吴稚晖",
+      "claim": "梁先生上了胡适之的恶当，把书目答问摘要从西山送到清华园并传录",
+      "target": "梁先生",
+      "claim_type": "论战策略批评",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "最近梁先生上了胡适之的恶当，公然把他长兴学舍以前夹在书包里的一篇书目答问摘要，从西山送到清华园，又灾梨祸枣，费了许多报纸杂记的纸张传录了",
+      "confidence": 0.9
+    }
+  ],
+  "relations": [
+    {
+      "id": "r1",
+      "head": "欧战",
+      "head_type": "历史事件",
+      "relation": "归因于",
+      "tail": "中国人",
+      "tail_type": "阵营/群体",
+      "polarity": "positive",
+      "evidence": "欧战之损失，是余中国人之罪也夫",
+      "confidence": 0.9
+    },
+    {
+      "id": "r2",
+      "head": "玄学鬼",
+      "head_type": "概念",
+      "relation": "源自",
+      "tail": "《欧游心影录》",
+      "tail_type": "著作",
+      "polarity": "negative",
+      "evidence": "张先生的玄学鬼，首先是托梁先生的《欧游心影录》带回的",
+      "confidence": 0.9
+    },
+    {
+      "id": "r3",
+      "head": "梁先生",
+      "head_type": "人物",
+      "relation": "影响",
+      "tail": "胡适之",
+      "tail_type": "人物",
+      "polarity": "negative",
+      "evidence": "最近梁先生上了胡适之的恶当",
+      "confidence": 0.8
+    }
+  ],
+  "definitions": [],
+  "citations": [],
+  "rhetorical_devices": [
+    {
+      "id": "rh1",
+      "expression": "在灰堆里拾着一个程夫子的玩物丧志",
+      "device_type": "比喻",
+      "literal_target": "张先生引用程颐的玩物丧志观点",
+      "function": "讽刺张先生对程颐观点的盲目崇拜和随意拾取",
+      "evidence": "在灰堆里拾着一个程夫子的玩物丧志",
+      "confidence": 0.9
+    },
+    {
+      "id": "rh2",
+      "expression": "好像热狂的拜倒",
+      "device_type": "比喻",
+      "literal_target": "张先生对程夫子观点的态度",
+      "function": "讽刺张先生对程颐观点的狂热崇拜",
+      "evidence": "好像热狂的拜倒",
+      "confidence": 0.9
+    },
+    {
+      "id": "rh3",
+      "expression": "玄学鬼",
+      "device_type": "标签化",
+      "literal_target": "张君劢的玄学观点",
+      "function": "贬低和妖魔化对手的玄学主张",
+      "evidence": "张先生的玄学鬼",
+      "confidence": 0.9
+    },
+    {
+      "id": "rh4",
+      "expression": "上了胡适之的恶当",
+      "device_type": "讽刺",
+      "literal_target": "梁启超受胡适影响",
+      "function": "讽刺梁启超被胡适误导",
+      "evidence": "最近梁先生上了胡适之的恶当",
+      "confidence": 0.9
+    },
+    {
+      "id": "rh5",
+      "expression": "灾梨祸枣",
+      "device_type": "夸张",
+      "literal_target": "梁启超传录书目答问摘要",
+      "function": "夸张地批评梁启超浪费纸张做无意义的事",
+      "evidence": "又灾梨祸枣，费了许多报纸杂记的纸张传录了",
+      "confidence": 0.9
+    },
+    {
+      "id": "rh6",
+      "expression": "真可发一笑",
+      "device_type": "讽刺",
+      "literal_target": "梁启超的行为",
+      "function": "表达对梁启超行为的轻蔑和嘲笑",
+      "evidence": "真可发一笑",
+      "confidence": 0.9
+    }
+  ],
+  "uncertainties": [
+    {
+      "item": "张先生是否真的是物质文明提倡者",
+      "reason": "吴稚晖说张先生是物质文明提倡者，但又称其反对物质文明，前后矛盾，可能为讽刺或戏言，需结合上下文判断"
+    },
+    {
+      "item": "郭筠仙、梁卓如所说的话是否与吴稚晖引用的完全一致",
+      "reason": "吴稚晖将郭筠仙、梁卓如的话与自己的主张并列，但未提供原文，无法确认是否准确转述"
+    }
+  ],
+  "_meta": {
+    "status": "success",
+    "stage": "extract",
+    "model": "deepseek-ai/DeepSeek-V4-Flash",
+    "base_url": "https://api.siliconflow.cn/v1",
+    "prompt_version": "extract_prompt_v2.0",
+    "schema_version": "lite_v2.0",
+    "segment_id": "吴稚晖_000_7d60d047_s0003",
+    "article_id": "吴稚晖_000_7d60d047",
+    "char_start": 1526,
+    "char_end": 2122,
+    "raw_path": "E:\\1研究生\\岭南大学\\论文毕业\\capstone\\资料\\新的内容开始了\\local_upload\\kg_runs\\吴稚晖\\raw_outputs\\extract\\吴稚晖_000_7d60d047_s0003.txt",
+    "parsed_at": "2026-05-20T03:11:19",
+    "started_at": "2026-05-20T03:06:11",
+    "elapsed_seconds": 307.695,
+    "strict_evidence_check": true,
+    "drop_unsupported_evidence": true,
+    "request_timeout_seconds": 180
+  }
+}

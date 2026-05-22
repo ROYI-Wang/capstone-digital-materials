@@ -1,0 +1,569 @@
+{
+  "metadata": {
+    "schema_version": "lite_v3.0",
+    "article_id": "张君劢_001_688ab8ae",
+    "article_title": "人生观（中篇）",
+    "source_author": "张君劢",
+    "section_title": "",
+    "section_author": "",
+    "segment_id": "张君劢_001_688ab8ae_s0018",
+    "segment_index": 18,
+    "source_file": "E:\\1研究生\\岭南大学\\论文毕业\\capstone\\资料\\新的内容开始了\\local_upload\\input_张君劢\\张君劢.txt"
+  },
+  "entities": [
+    {
+      "id": "e1",
+      "name": "詹姆士",
+      "canonical_name": "詹姆士",
+      "type": "人物",
+      "evidence": "主义以明宗教之为用者，则曰詹姆士。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e2",
+      "name": "反机械主义",
+      "canonical_name": "反机械主义",
+      "type": "主义/学说/理论",
+      "evidence": "名曰反机械主义可也",
+      "confidence": 1.0
+    },
+    {
+      "id": "e3",
+      "name": "反主智主义",
+      "canonical_name": "反主智主义",
+      "type": "主义/学说/理论",
+      "evidence": "名曰反主智主义可也",
+      "confidence": 1.0
+    },
+    {
+      "id": "e4",
+      "name": "反定命主义",
+      "canonical_name": "反定命主义",
+      "type": "主义/学说/理论",
+      "evidence": "名曰反定命主义可也",
+      "confidence": 1.0
+    },
+    {
+      "id": "e5",
+      "name": "反非宗教论",
+      "canonical_name": "反非宗教论",
+      "type": "主义/学说/理论",
+      "evidence": "名曰反非宗教论亦可也",
+      "confidence": 1.0
+    },
+    {
+      "id": "e6",
+      "name": "新玄学时代",
+      "canonical_name": "新玄学时代",
+      "type": "阶段",
+      "evidence": "吾必名之曰新玄学时代",
+      "confidence": 1.0
+    },
+    {
+      "id": "e7",
+      "name": "新玄学",
+      "canonical_name": "新玄学",
+      "type": "概念",
+      "evidence": "此新玄学之特点，曰人生之自由自在，不受机械律之支配，曰自由意志说之阐发，曰人类行为可以参加宇宙实在。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e8",
+      "name": "机械主义",
+      "canonical_name": "机械主义",
+      "type": "主义/学说/理论",
+      "evidence": "盖振拔人群于机械主义之苦海中",
+      "confidence": 1.0
+    },
+    {
+      "id": "e9",
+      "name": "玄学",
+      "canonical_name": "玄学",
+      "type": "概念",
+      "evidence": "同为主张玄学，而立脚点各异。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e10",
+      "name": "韦尔斯氏",
+      "canonical_name": "韦尔斯氏",
+      "type": "人物",
+      "evidence": "如韦尔斯氏、托摩生氏是也。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e11",
+      "name": "托摩生氏",
+      "canonical_name": "托摩生氏",
+      "type": "人物",
+      "evidence": "如韦尔斯氏、托摩生氏是也。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e12",
+      "name": "柏格森",
+      "canonical_name": "柏格森",
+      "type": "人物",
+      "evidence": "有以玄学求变求实在者，柏格森是也。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e13",
+      "name": "倭伊铿",
+      "canonical_name": "倭伊铿",
+      "type": "人物",
+      "evidence": "有以玄学作为达于精神生活之境者，倭伊铿是也。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e14",
+      "name": "詹姆士",
+      "canonical_name": "詹姆士",
+      "type": "人物",
+      "evidence": "有以玄学与宗教分论之者，詹姆士是也。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e15",
+      "name": "韦尔斯",
+      "canonical_name": "韦尔斯",
+      "type": "人物",
+      "evidence": "韦尔斯曰：",
+      "confidence": 1.0
+    },
+    {
+      "id": "e16",
+      "name": "托摩生",
+      "canonical_name": "托摩生",
+      "type": "人物",
+      "evidence": "托摩生日：",
+      "confidence": 1.0
+    },
+    {
+      "id": "e17",
+      "name": "玄学的研究",
+      "canonical_name": "玄学的研究",
+      "type": "概念",
+      "evidence": "为图思想之明确计，则玄学的研究乃必要之条件也。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e18",
+      "name": "玄学",
+      "canonical_name": "玄学",
+      "type": "概念",
+      "evidence": "此玄学之事也。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e19",
+      "name": "理智",
+      "canonical_name": "理智",
+      "type": "概念",
+      "evidence": "理智之所得者，只有外表，而不反于事物之内部。",
+      "confidence": 1.0
+    }
+  ],
+  "claims": [
+    {
+      "id": "c1",
+      "speaker": "张君劢",
+      "claim": "此二三十年之欧洲思潮，名曰反机械主义可也，名曰反主智主义可也，名曰反定命主义可也，名曰反非宗教论亦可也。",
+      "target": "欧洲思潮",
+      "claim_type": "描述性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "要之，此二三十年之欧洲思潮，名曰反机械主义可也，名曰反主智主义可也，名曰反定命主义可也，名曰反非宗教论亦可也。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c2",
+      "speaker": "张君劢",
+      "claim": "吾必名之曰新玄学时代。",
+      "target": "现时代",
+      "claim_type": "定义性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "若吾人略仿孔德时代三分之法，而求现时代之特征之一，吾必名之曰新玄学时代。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c3",
+      "speaker": "张君劢",
+      "claim": "此新玄学之特点，曰人生之自由自在，不受机械律之支配，曰自由意志说之阐发，曰人类行为可以参加宇宙实在。",
+      "target": "新玄学",
+      "claim_type": "定义性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "此新玄学之特点，曰人生之自由自在，不受机械律之支配，曰自由意志说之阐发，曰人类行为可以参加宇宙实在。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c4",
+      "speaker": "张君劢",
+      "claim": "盖振拔人群于机械主义之苦海中，而鼓其努力前进之气，莫逾于此。",
+      "target": "新玄学",
+      "claim_type": "评价性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "盖振拔人群于机械主义之苦海中，而鼓其努力前进之气，莫逾于此。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c5",
+      "speaker": "张君劢",
+      "claim": "同为主张玄学，而立脚点各异。",
+      "target": "玄学",
+      "claim_type": "描述性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "虽然，同为主张玄学，而立脚点各异。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c6",
+      "speaker": "韦尔斯",
+      "claim": "流俗之见，每以玄学为无益为烦难，且事属玄妙，无关实用。",
+      "target": "流俗之见",
+      "claim_type": "描述性主张",
+      "claim_status": "间接转述",
+      "polarity": "negative",
+      "evidence": "流俗之见，每以玄学为无益为烦难，且事属玄妙，无关实用。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c7",
+      "speaker": "韦尔斯",
+      "claim": "为图思想之明确计，则玄学的研究乃必要之条件也。",
+      "target": "玄学的研究",
+      "claim_type": "评价性主张",
+      "claim_status": "直接引用",
+      "polarity": "positive",
+      "evidence": "为图思想之明确计，则玄学的研究乃必要之条件也。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c8",
+      "speaker": "韦尔斯",
+      "claim": "现代心理，须对于玄学重行研究，今正其时矣。",
+      "target": "现代心理",
+      "claim_type": "规范性主张",
+      "claim_status": "直接引用",
+      "polarity": "positive",
+      "evidence": "现代心理，须对于玄学重行研究，今正其时矣。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c9",
+      "speaker": "托摩生",
+      "claim": "各科学供给此大宇宙之部分的影片，以其影片之立脚点各异故也。",
+      "target": "各科学",
+      "claim_type": "描述性主张",
+      "claim_status": "直接引用",
+      "polarity": "neutral",
+      "evidence": "各科学供给此大宇宙之部分的影片，以其影片之立脚点各异故也。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c10",
+      "speaker": "托摩生",
+      "claim": "此种种影片，非仅依次排列已也，将合之以成立体镜中之景色，此玄学之事也。",
+      "target": "玄学",
+      "claim_type": "定义性主张",
+      "claim_status": "直接引用",
+      "polarity": "positive",
+      "evidence": "此种种影片，非仅依次排列已也，将合之以成立体镜中之景色，此玄学之事也。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c11",
+      "speaker": "托摩生",
+      "claim": "玄学建设之业，在求一首尾贯彻之宇宙观，而其所以达此目的者，不采先天的方法，而以科学为根据。",
+      "target": "玄学",
+      "claim_type": "定义性主张",
+      "claim_status": "直接引用",
+      "polarity": "positive",
+      "evidence": "玄学建设之业，在求一首尾贯彻之宇宙观，而其所以达此目的者，不采先天的方法，而以科学为根据。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c12",
+      "speaker": "张君劢",
+      "claim": "此二氏者，为图各科学之会通计，所以承认玄学之必要也。",
+      "target": "韦尔斯氏、托摩生氏",
+      "claim_type": "解释性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "此二氏者，为图各科学之会通计，所以承认玄学之必要也。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c13",
+      "speaker": "柏格森",
+      "claim": "理智之所得者，只有外表，而不反于事物之内部。",
+      "target": "理智",
+      "claim_type": "描述性主张",
+      "claim_status": "直接引用",
+      "polarity": "negative",
+      "evidence": "理智之所得者，只有外表，而不反于事物之内部。",
+      "confidence": 1.0
+    }
+  ],
+  "relations": [
+    {
+      "id": "r1",
+      "head": "詹姆士",
+      "head_type": "人物",
+      "relation": "主张",
+      "relation_subtype": "不适用",
+      "tail": "明宗教之为用",
+      "tail_type": "观点",
+      "polarity": "positive",
+      "stance_score": 0.5,
+      "intensity": 0.3,
+      "evidence": "主义以明宗教之为用者，则曰詹姆士。",
+      "confidence": 0.8
+    },
+    {
+      "id": "r2",
+      "head": "张君劢",
+      "head_type": "人物",
+      "relation": "定义",
+      "relation_subtype": "概念澄清",
+      "tail": "新玄学",
+      "tail_type": "概念",
+      "polarity": "positive",
+      "stance_score": 1.0,
+      "intensity": 0.8,
+      "evidence": "此新玄学之特点，曰人生之自由自在，不受机械律之支配，曰自由意志说之阐发，曰人类行为可以参加宇宙实在。",
+      "confidence": 1.0
+    },
+    {
+      "id": "r3",
+      "head": "韦尔斯氏",
+      "head_type": "人物",
+      "relation": "主张",
+      "relation_subtype": "不适用",
+      "tail": "玄学作为哲学解释以达科学思想一贯之目的",
+      "tail_type": "观点",
+      "polarity": "positive",
+      "stance_score": 0.5,
+      "intensity": 0.3,
+      "evidence": "有以玄学作为哲学解释以达科学思想一贯之目的者，如韦尔斯氏、托摩生氏是也。",
+      "confidence": 0.8
+    },
+    {
+      "id": "r4",
+      "head": "托摩生氏",
+      "head_type": "人物",
+      "relation": "主张",
+      "relation_subtype": "不适用",
+      "tail": "玄学作为哲学解释以达科学思想一贯之目的",
+      "tail_type": "观点",
+      "polarity": "positive",
+      "stance_score": 0.5,
+      "intensity": 0.3,
+      "evidence": "有以玄学作为哲学解释以达科学思想一贯之目的者，如韦尔斯氏、托摩生氏是也。",
+      "confidence": 0.8
+    },
+    {
+      "id": "r5",
+      "head": "柏格森",
+      "head_type": "人物",
+      "relation": "主张",
+      "relation_subtype": "不适用",
+      "tail": "玄学求变求实在",
+      "tail_type": "观点",
+      "polarity": "positive",
+      "stance_score": 0.5,
+      "intensity": 0.3,
+      "evidence": "有以玄学求变求实在者，柏格森是也。",
+      "confidence": 0.8
+    },
+    {
+      "id": "r6",
+      "head": "倭伊铿",
+      "head_type": "人物",
+      "relation": "主张",
+      "relation_subtype": "不适用",
+      "tail": "玄学作为达于精神生活之境",
+      "tail_type": "观点",
+      "polarity": "positive",
+      "stance_score": 0.5,
+      "intensity": 0.3,
+      "evidence": "有以玄学作为达于精神生活之境者，倭伊铿是也。",
+      "confidence": 0.8
+    },
+    {
+      "id": "r7",
+      "head": "詹姆士",
+      "head_type": "人物",
+      "relation": "主张",
+      "relation_subtype": "不适用",
+      "tail": "玄学与宗教分论",
+      "tail_type": "观点",
+      "polarity": "positive",
+      "stance_score": 0.5,
+      "intensity": 0.3,
+      "evidence": "有以玄学与宗教分论之者，詹姆士是也。",
+      "confidence": 0.8
+    }
+  ],
+  "definitions": [
+    {
+      "id": "def1",
+      "term": "新玄学",
+      "definition": "新玄学之特点：人生之自由自在，不受机械律之支配；自由意志说之阐发；人类行为可以参加宇宙实在。",
+      "evidence": "此新玄学之特点，曰人生之自由自在，不受机械律之支配，曰自由意志说之阐发，曰人类行为可以参加宇宙实在。",
+      "confidence": 1.0
+    },
+    {
+      "id": "def2",
+      "term": "玄学",
+      "definition": "玄学之事，是将各科学之部分影片合成立体镜中之景色。",
+      "evidence": "此种种影片，非仅依次排列已也，将合之以成立体镜中之景色，此玄学之事也。",
+      "confidence": 1.0
+    },
+    {
+      "id": "def3",
+      "term": "玄学",
+      "definition": "玄学建设之业，在求一首尾贯彻之宇宙观，不采先天的方法，而以科学为根据。",
+      "evidence": "玄学建设之业，在求一首尾贯彻之宇宙观，而其所以达此目的者，不采先天的方法，而以科学为根据。",
+      "confidence": 1.0
+    }
+  ],
+  "citations": [
+    {
+      "id": "cit1",
+      "citer": "张君劢",
+      "quoted_author": "韦尔斯",
+      "quoted_work": "",
+      "quoted_claim": "流俗之见，每以玄学为无益为烦难，且事属玄妙，无关实用。",
+      "function": "作为批评对象",
+      "evidence": "韦尔斯曰：\n\n“流俗之见，每以玄学为无益为烦难，且事属玄妙，无关实用。",
+      "confidence": 1.0
+    },
+    {
+      "id": "cit2",
+      "citer": "张君劢",
+      "quoted_author": "韦尔斯",
+      "quoted_work": "",
+      "quoted_claim": "为图思想之明确计，则玄学的研究乃必要之条件也。",
+      "function": "援引权威支持",
+      "evidence": "为图思想之明确计，则玄学的研究乃必要之条件也。",
+      "confidence": 1.0
+    },
+    {
+      "id": "cit3",
+      "citer": "张君劢",
+      "quoted_author": "韦尔斯",
+      "quoted_work": "",
+      "quoted_claim": "现代心理，须对于玄学重行研究，今正其时矣。",
+      "function": "援引权威支持",
+      "evidence": "现代心理，须对于玄学重行研究，今正其时矣。",
+      "confidence": 1.0
+    },
+    {
+      "id": "cit4",
+      "citer": "张君劢",
+      "quoted_author": "托摩生",
+      "quoted_work": "",
+      "quoted_claim": "各科学供给此大宇宙之部分的影片，以其影片之立脚点各异故也。",
+      "function": "援引权威支持",
+      "evidence": "托摩生日：\n\n“各科学供给此大宇宙之部分的影片，以其影片之立脚点各异故也。",
+      "confidence": 1.0
+    },
+    {
+      "id": "cit5",
+      "citer": "张君劢",
+      "quoted_author": "托摩生",
+      "quoted_work": "",
+      "quoted_claim": "此种种影片，非仅依次排列已也，将合之以成立体镜中之景色，此玄学之事也。",
+      "function": "援引权威支持",
+      "evidence": "此种种影片，非仅依次排列已也，将合之以成立体镜中之景色，此玄学之事也。",
+      "confidence": 1.0
+    },
+    {
+      "id": "cit6",
+      "citer": "张君劢",
+      "quoted_author": "托摩生",
+      "quoted_work": "",
+      "quoted_claim": "玄学建设之业，在求一首尾贯彻之宇宙观，而其所以达此目的者，不采先天的方法，而以科学为根据。",
+      "function": "援引权威支持",
+      "evidence": "玄学建设之业，在求一首尾贯彻之宇宙观，而其所以达此目的者，不采先天的方法，而以科学为根据。",
+      "confidence": 1.0
+    },
+    {
+      "id": "cit7",
+      "citer": "张君劢",
+      "quoted_author": "柏格森",
+      "quoted_work": "",
+      "quoted_claim": "理智之所得者，只有外表，而不反于事物之内部。",
+      "function": "援引权威支持",
+      "evidence": "柏格森日：\n\n“理智之所得者，只有外表，而不反于事物之内部。”",
+      "confidence": 1.0
+    }
+  ],
+  "rhetorical_devices": [
+    {
+      "id": "rh1",
+      "expression": "机械主义之苦海",
+      "device_type": "比喻",
+      "literal_target": "机械主义带来的困境或痛苦",
+      "function": "强调机械主义的负面后果，突出新玄学的拯救作用",
+      "evidence": "盖振拔人群于机械主义之苦海中",
+      "confidence": 1.0
+    },
+    {
+      "id": "rh2",
+      "expression": "各科学供给此大宇宙之部分的影片",
+      "device_type": "比喻",
+      "literal_target": "各科学提供关于宇宙的部分知识",
+      "function": "形象说明各科学知识的片面性",
+      "evidence": "各科学供给此大宇宙之部分的影片",
+      "confidence": 1.0
+    },
+    {
+      "id": "rh3",
+      "expression": "将合之以成立体镜中之景色",
+      "device_type": "比喻",
+      "literal_target": "将各科学知识综合成完整的宇宙观",
+      "function": "说明玄学的综合作用",
+      "evidence": "将合之以成立体镜中之景色",
+      "confidence": 1.0
+    }
+  ],
+  "uncertainties": [
+    {
+      "item": "詹姆士与后文詹姆士是否为同一人",
+      "reason": "前文出现'詹姆士'，后文又出现'詹姆士'，但未明确说明是否为同一人，且前文提及'主义以明宗教之为用者，则曰詹姆士'，后文提及'有以玄学与宗教分论之者，詹姆士是也'，可能为同一人，但文本未明确关联。"
+    },
+    {
+      "item": "韦尔斯氏与韦尔斯是否为同一人",
+      "reason": "前文出现'韦尔斯氏'，后文出现'韦尔斯'，可能为同一人，但文本未明确说明。"
+    },
+    {
+      "item": "托摩生氏与托摩生是否为同一人",
+      "reason": "前文出现'托摩生氏'，后文出现'托摩生'，可能为同一人，但文本未明确说明。"
+    }
+  ],
+  "_meta": {
+    "status": "success",
+    "stage": "extract",
+    "model": "deepseek-ai/DeepSeek-V4-Flash",
+    "base_url": "https://api.siliconflow.cn/v1",
+    "prompt_version": "v2.0",
+    "schema_version": "lite_v3.0",
+    "segment_id": "张君劢_001_688ab8ae_s0018",
+    "article_id": "张君劢_001_688ab8ae",
+    "char_start": 9074,
+    "char_end": 9655,
+    "raw_path": "E:\\1研究生\\岭南大学\\论文毕业\\capstone\\资料\\新的内容开始了\\local_upload\\kg_runs_v2\\张君劢\\raw_outputs\\extract\\张君劢_001_688ab8ae_s0018.txt",
+    "parsed_at": "2026-05-21T21:11:29",
+    "started_at": "2026-05-21T21:06:01",
+    "elapsed_seconds": 327.635,
+    "strict_evidence_check": true,
+    "drop_unsupported_evidence": true,
+    "request_timeout_seconds": 180
+  }
+}

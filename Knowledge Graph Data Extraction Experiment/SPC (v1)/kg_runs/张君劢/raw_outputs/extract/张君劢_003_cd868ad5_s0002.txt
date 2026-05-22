@@ -1,0 +1,497 @@
+{
+  "metadata": {
+    "schema_version": "lite_v2.0",
+    "article_id": "张君劢_003_cd868ad5",
+    "article_title": "科学之评价",
+    "source_author": "张君劢",
+    "section_title": "",
+    "section_author": "",
+    "segment_id": "张君劢_003_cd868ad5_s0002",
+    "segment_index": 2,
+    "source_file": "E:\\1研究生\\岭南大学\\论文毕业\\capstone\\资料\\新的内容开始了\\local_upload\\input_w3\\张君劢.txt"
+  },
+  "entities": [
+    {
+      "id": "e1",
+      "name": "科学",
+      "canonical_name": "科学",
+      "type": "概念",
+      "evidence": "科学方法最成功之地，无过于物理界",
+      "confidence": 1.0
+    },
+    {
+      "id": "e2",
+      "name": "科学方法",
+      "canonical_name": "科学方法",
+      "type": "方法",
+      "evidence": "科学方法最成功之地，无过于物理界",
+      "confidence": 1.0
+    },
+    {
+      "id": "e3",
+      "name": "物理界",
+      "canonical_name": "物理界",
+      "type": "概念",
+      "evidence": "科学方法最成功之地，无过于物理界",
+      "confidence": 1.0
+    },
+    {
+      "id": "e4",
+      "name": "分量计算",
+      "canonical_name": "分量计算",
+      "type": "方法",
+      "evidence": "我们生活于世界上，是否一切事都可以分量计算",
+      "confidence": 1.0
+    },
+    {
+      "id": "e5",
+      "name": "生物学",
+      "canonical_name": "生物学",
+      "type": "概念",
+      "evidence": "此种方法能否用在生物学与心理学上",
+      "confidence": 1.0
+    },
+    {
+      "id": "e6",
+      "name": "心理学",
+      "canonical_name": "心理学",
+      "type": "概念",
+      "evidence": "此种方法能否用在生物学与心理学上",
+      "confidence": 1.0
+    },
+    {
+      "id": "e7",
+      "name": "因果",
+      "canonical_name": "因果",
+      "type": "概念",
+      "evidence": "生物学心理学上仅言因果，已属不易",
+      "confidence": 1.0
+    },
+    {
+      "id": "e8",
+      "name": "分量的因果",
+      "canonical_name": "分量的因果",
+      "type": "概念",
+      "evidence": "又如何说得到分量的因果",
+      "confidence": 1.0
+    },
+    {
+      "id": "e9",
+      "name": "细胞",
+      "canonical_name": "细胞",
+      "type": "概念",
+      "evidence": "譬如细胞之分裂，由一而二，而四，而八，而十六，而三十二，以至于千",
+      "confidence": 1.0
+    },
+    {
+      "id": "e10",
+      "name": "生机体",
+      "canonical_name": "生机体",
+      "type": "概念",
+      "evidence": "其所以成为生机体者，学者求其原因于细胞，而细胞之中，无因可求",
+      "confidence": 1.0
+    },
+    {
+      "id": "e11",
+      "name": "杜里舒",
+      "canonical_name": "杜里舒",
+      "type": "人物",
+      "evidence": "故杜里舒氏创为生机主义以解释之",
+      "confidence": 1.0
+    },
+    {
+      "id": "e12",
+      "name": "生机主义",
+      "canonical_name": "生机主义",
+      "type": "主义/学说/理论",
+      "evidence": "故杜里舒氏创为生机主义以解释之",
+      "confidence": 1.0
+    },
+    {
+      "id": "e13",
+      "name": "智慧测验",
+      "canonical_name": "智慧测验",
+      "type": "方法",
+      "evidence": "近来有智慧测验之法，对于孩童授以若干题目，限时解答",
+      "confidence": 1.0
+    },
+    {
+      "id": "e14",
+      "name": "因果关系",
+      "canonical_name": "因果关系",
+      "type": "概念",
+      "evidence": "其意所在，无非要使心理学上的因果关系，一如物理学",
+      "confidence": 1.0
+    },
+    {
+      "id": "e15",
+      "name": "物理学",
+      "canonical_name": "物理学",
+      "type": "概念",
+      "evidence": "无非要使心理学上的因果关系，一如物理学",
+      "confidence": 1.0
+    },
+    {
+      "id": "e16",
+      "name": "人类",
+      "canonical_name": "人类",
+      "type": "阵营/群体",
+      "evidence": "人类为血肉之躯",
+      "confidence": 1.0
+    },
+    {
+      "id": "e17",
+      "name": "生理",
+      "canonical_name": "生理",
+      "type": "概念",
+      "evidence": "饥思食，寒思衣，倦思睡，皆为生理所支配",
+      "confidence": 1.0
+    },
+    {
+      "id": "e18",
+      "name": "社会",
+      "canonical_name": "社会",
+      "type": "概念",
+      "evidence": "社会之中，有种种习惯以支配之",
+      "confidence": 1.0
+    },
+    {
+      "id": "e19",
+      "name": "意志力",
+      "canonical_name": "意志力",
+      "type": "概念",
+      "evidence": "一人之心理，若其意志力强弱之由来",
+      "confidence": 1.0
+    },
+    {
+      "id": "e20",
+      "name": "文学之创作",
+      "canonical_name": "文学之创作",
+      "type": "概念",
+      "evidence": "文学之创作，思想之途径，乃至个人之意志与社会进化之关系",
+      "confidence": 1.0
+    },
+    {
+      "id": "e21",
+      "name": "思想之途径",
+      "canonical_name": "思想之途径",
+      "type": "概念",
+      "evidence": "文学之创作，思想之途径，乃至个人之意志与社会进化之关系",
+      "confidence": 1.0
+    },
+    {
+      "id": "e22",
+      "name": "个人之意志",
+      "canonical_name": "个人之意志",
+      "type": "概念",
+      "evidence": "个人之意志与社会进化之关系",
+      "confidence": 1.0
+    },
+    {
+      "id": "e23",
+      "name": "社会进化",
+      "canonical_name": "社会进化",
+      "type": "概念",
+      "evidence": "个人之意志与社会进化之关系",
+      "confidence": 1.0
+    },
+    {
+      "id": "e24",
+      "name": "科学家",
+      "canonical_name": "科学家",
+      "type": "阵营/群体",
+      "evidence": "这是科学家的梦语了",
+      "confidence": 1.0
+    },
+    {
+      "id": "e25",
+      "name": "张君劢",
+      "canonical_name": "张君劢",
+      "type": "人物",
+      "evidence": "这是我决不能相信的",
+      "confidence": 1.0
+    }
+  ],
+  "claims": [
+    {
+      "id": "c1",
+      "speaker": "张君劢",
+      "claim": "科学方法最成功之地，无过于物理界",
+      "target": "科学方法",
+      "claim_type": "方法论主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "科学方法最成功之地，无过于物理界",
+      "confidence": 1.0
+    },
+    {
+      "id": "c2",
+      "speaker": "张君劢",
+      "claim": "我们生活于世界上，是否一切事都可以分量计算",
+      "target": "分量计算",
+      "claim_type": "问题提出",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "我们生活于世界上，是否一切事都可以分量计算",
+      "confidence": 1.0
+    },
+    {
+      "id": "c3",
+      "speaker": "张君劢",
+      "claim": "此种方法能否用在生物学与心理学上",
+      "target": "科学方法",
+      "claim_type": "问题提出",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "此种方法能否用在生物学与心理学上",
+      "confidence": 1.0
+    },
+    {
+      "id": "c4",
+      "speaker": "张君劢",
+      "claim": "生物学心理学上仅言因果，已属不易，又如何说得到分量的因果",
+      "target": "生物学",
+      "claim_type": "方法论主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "生物学心理学上仅言因果，已属不易，又如何说得到分量的因果",
+      "confidence": 1.0
+    },
+    {
+      "id": "c5",
+      "speaker": "张君劢",
+      "claim": "细胞之中，无因可求",
+      "target": "细胞",
+      "claim_type": "知识论主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "细胞之中，无因可求",
+      "confidence": 1.0
+    },
+    {
+      "id": "c6",
+      "speaker": "杜里舒",
+      "claim": "生机主义",
+      "target": "生机体",
+      "claim_type": "知识论主张",
+      "claim_status": "间接转述",
+      "polarity": "positive",
+      "evidence": "故杜里舒氏创为生机主义以解释之",
+      "confidence": 1.0
+    },
+    {
+      "id": "c7",
+      "speaker": "张君劢",
+      "claim": "其意所在，无非要使心理学上的因果关系，一如物理学",
+      "target": "智慧测验",
+      "claim_type": "方法论主张",
+      "claim_status": "作者概括",
+      "polarity": "negative",
+      "evidence": "其意所在，无非要使心理学上的因果关系，一如物理学",
+      "confidence": 1.0
+    },
+    {
+      "id": "c8",
+      "speaker": "张君劢",
+      "claim": "这是我决不能相信的",
+      "target": "智慧测验",
+      "claim_type": "价值评价",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "这是我决不能相信的",
+      "confidence": 1.0
+    },
+    {
+      "id": "c9",
+      "speaker": "张君劢",
+      "claim": "人类为血肉之躯，五官之感觉，如何由耳目而传递于脑神经，当然有因果可求",
+      "target": "人类",
+      "claim_type": "知识论主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "人类为血肉之躯，五官之感觉，如何由耳目而传递于脑神经，当然有因果可求",
+      "confidence": 1.0
+    },
+    {
+      "id": "c10",
+      "speaker": "张君劢",
+      "claim": "饥思食，寒思衣，倦思睡，皆为生理所支配，是无可免的",
+      "target": "生理",
+      "claim_type": "知识论主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "饥思食，寒思衣，倦思睡，皆为生理所支配，是无可免的",
+      "confidence": 1.0
+    },
+    {
+      "id": "c11",
+      "speaker": "张君劢",
+      "claim": "社会之中，有种种习惯以支配之，见客则问姓名，由声音笑貌可以推定人之喜怒，一事之开始前与终了后，可以测定人之行为如何，凡以此故，心理学上有若干种公例",
+      "target": "社会",
+      "claim_type": "知识论主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "社会之中，有种种习惯以支配之，见客则问姓名，由声音笑貌可以推定人之喜怒，一事之开始前与终了后，可以测定人之行为如何，凡以此故，心理学上有若干种公例",
+      "confidence": 1.0
+    },
+    {
+      "id": "c12",
+      "speaker": "张君劢",
+      "claim": "谓一人之心理，若其意志力强弱之由来，与其因意志力之强弱而定其成功与失败。此外如文学之创作，思想之途径，乃至个人之意志与社会进化之关系，谓其可以一一测定，这是科学家的梦语了",
+      "target": "科学家",
+      "claim_type": "价值评价",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "谓一人之心理，若其意志力强弱之由来，与其因意志力之强弱而定其成功与失败。此外如文学之创作，思想之途径，乃至个人之意志与社会进化之关系，谓其可以一一测定，这是科学家的梦语了",
+      "confidence": 1.0
+    }
+  ],
+  "relations": [
+    {
+      "id": "r1",
+      "head": "科学方法",
+      "head_type": "方法",
+      "relation": "属于",
+      "relation_subtype": "不适用",
+      "tail": "物理界",
+      "tail_type": "概念",
+      "polarity": "positive",
+      "evidence": "科学方法最成功之地，无过于物理界",
+      "confidence": 1.0
+    },
+    {
+      "id": "r2",
+      "head": "张君劢",
+      "head_type": "人物",
+      "relation": "质疑",
+      "relation_subtype": "事实质疑",
+      "tail": "分量计算",
+      "tail_type": "方法",
+      "polarity": "negative",
+      "evidence": "我们生活于世界上，是否一切事都可以分量计算",
+      "confidence": 1.0
+    },
+    {
+      "id": "r3",
+      "head": "张君劢",
+      "head_type": "人物",
+      "relation": "质疑",
+      "relation_subtype": "事实质疑",
+      "tail": "科学方法",
+      "tail_type": "方法",
+      "polarity": "negative",
+      "evidence": "此种方法能否用在生物学与心理学上",
+      "confidence": 1.0
+    },
+    {
+      "id": "r4",
+      "head": "生物学",
+      "head_type": "概念",
+      "relation": "属于",
+      "relation_subtype": "不适用",
+      "tail": "分量的因果",
+      "tail_type": "概念",
+      "polarity": "negative",
+      "evidence": "生物学心理学上仅言因果，已属不易，又如何说得到分量的因果",
+      "confidence": 1.0
+    },
+    {
+      "id": "r5",
+      "head": "心理学",
+      "head_type": "概念",
+      "relation": "属于",
+      "relation_subtype": "不适用",
+      "tail": "分量的因果",
+      "tail_type": "概念",
+      "polarity": "negative",
+      "evidence": "生物学心理学上仅言因果，已属不易，又如何说得到分量的因果",
+      "confidence": 1.0
+    },
+    {
+      "id": "r6",
+      "head": "杜里舒",
+      "head_type": "人物",
+      "relation": "主张",
+      "relation_subtype": "不适用",
+      "tail": "生机主义",
+      "tail_type": "主义/学说/理论",
+      "polarity": "positive",
+      "evidence": "故杜里舒氏创为生机主义以解释之",
+      "confidence": 1.0
+    },
+    {
+      "id": "r7",
+      "head": "生机主义",
+      "head_type": "主义/学说/理论",
+      "relation": "解释",
+      "relation_subtype": "不适用",
+      "tail": "生机体",
+      "tail_type": "概念",
+      "polarity": "positive",
+      "evidence": "故杜里舒氏创为生机主义以解释之",
+      "confidence": 1.0
+    },
+    {
+      "id": "r8",
+      "head": "张君劢",
+      "head_type": "人物",
+      "relation": "批评",
+      "relation_subtype": "一般批评",
+      "tail": "智慧测验",
+      "tail_type": "方法",
+      "polarity": "negative",
+      "evidence": "其意所在，无非要使心理学上的因果关系，一如物理学。这是我决不能相信的",
+      "confidence": 1.0
+    },
+    {
+      "id": "r9",
+      "head": "张君劢",
+      "head_type": "人物",
+      "relation": "批评",
+      "relation_subtype": "讽刺",
+      "tail": "科学家",
+      "tail_type": "阵营/群体",
+      "polarity": "negative",
+      "evidence": "这是科学家的梦语了",
+      "confidence": 1.0
+    }
+  ],
+  "definitions": [
+    {
+      "id": "def1",
+      "term": "分量的因果",
+      "definition": "可以用数量测量的因果关系",
+      "evidence": "又如何说得到分量的因果",
+      "confidence": 0.8
+    }
+  ],
+  "citations": [
+    {
+      "id": "cit1",
+      "citer": "张君劢",
+      "quoted_author": "杜里舒",
+      "quoted_work": "",
+      "quoted_claim": "生机主义",
+      "function": "援引权威支持",
+      "evidence": "故杜里舒氏创为生机主义以解释之",
+      "confidence": 1.0
+    }
+  ],
+  "rhetorical_devices": [
+    {
+      "id": "rh1",
+      "expression": "科学家的梦语",
+      "device_type": "比喻",
+      "literal_target": "科学家认为可以一一测定的主张",
+      "function": "讽刺科学家观点不切实际",
+      "evidence": "这是科学家的梦语了",
+      "confidence": 1.0
+    }
+  ],
+  "uncertainties": [
+    {
+      "item": "左右各加一力，则所行线路为平方形之对角线，如是因有多少，则果有多少",
+      "reason": "该句出现在文本开头，但上下文不完整，无法确定其论证功能"
+    }
+  ]
+}

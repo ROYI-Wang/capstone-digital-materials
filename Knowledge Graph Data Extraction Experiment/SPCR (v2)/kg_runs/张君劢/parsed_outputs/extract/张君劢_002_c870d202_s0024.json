@@ -1,0 +1,712 @@
+{
+  "metadata": {
+    "schema_version": "lite_v3.0",
+    "article_id": "张君劢_002_c870d202",
+    "article_title": "再论人生观与科学并答丁在君",
+    "source_author": "张君劢",
+    "section_title": "",
+    "section_author": "",
+    "segment_id": "张君劢_002_c870d202_s0024",
+    "segment_index": 24,
+    "source_file": "E:\\1研究生\\岭南大学\\论文毕业\\capstone\\资料\\新的内容开始了\\local_upload\\input_张君劢\\张君劢.txt"
+  },
+  "entities": [
+    {
+      "id": "e1",
+      "name": "氏",
+      "canonical_name": "氏",
+      "type": "人物",
+      "evidence": "氏至有“科学公式者，方便也，非真理”之语。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e2",
+      "name": "科学公式",
+      "canonical_name": "科学公式",
+      "type": "概念",
+      "evidence": "氏至有“科学公式者，方便也，非真理”之语。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e3",
+      "name": "方便",
+      "canonical_name": "方便",
+      "type": "概念",
+      "evidence": "氏至有“科学公式者，方便也，非真理”之语。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e4",
+      "name": "真理",
+      "canonical_name": "真理",
+      "type": "概念",
+      "evidence": "氏至有“科学公式者，方便也，非真理”之语。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e5",
+      "name": "在君",
+      "canonical_name": "在君",
+      "type": "人物",
+      "evidence": "在君不认为向外，乃曰修养的最好工具，岂事物之观察实验，可作为向内之修养工具耶？",
+      "confidence": 0.9
+    },
+    {
+      "id": "e6",
+      "name": "修养的最好工具",
+      "canonical_name": "修养的最好工具",
+      "type": "观点",
+      "evidence": "在君不认为向外，乃曰修养的最好工具，岂事物之观察实验，可作为向内之修养工具耶？",
+      "confidence": 0.9
+    },
+    {
+      "id": "e7",
+      "name": "事物之观察实验",
+      "canonical_name": "事物之观察实验",
+      "type": "方法",
+      "evidence": "岂事物之观察实验，可作为向内之修养工具耶？",
+      "confidence": 0.9
+    },
+    {
+      "id": "e8",
+      "name": "向内之修养工具",
+      "canonical_name": "向内之修养工具",
+      "type": "概念",
+      "evidence": "岂事物之观察实验，可作为向内之修养工具耶？",
+      "confidence": 0.9
+    },
+    {
+      "id": "e9",
+      "name": "在君之二大推论原则",
+      "canonical_name": "在君之二大推论原则",
+      "type": "方法",
+      "evidence": "岂在君之二大推论原则，可作为向内之修养工具耶？",
+      "confidence": 0.9
+    },
+    {
+      "id": "e10",
+      "name": "赫胥黎氏",
+      "canonical_name": "赫胥黎氏",
+      "type": "人物",
+      "evidence": "在君理想中之科学家之模范，则为赫胥黎氏。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e11",
+      "name": "赫氏",
+      "canonical_name": "赫氏",
+      "type": "人物",
+      "evidence": "赫氏于十九世纪之后半，以科学智识普及于劳动者，同时则反抗宗教家而赞成达尔文之进化论。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e12",
+      "name": "科学智识",
+      "canonical_name": "科学智识",
+      "type": "概念",
+      "evidence": "赫氏于十九世纪之后半，以科学智识普及于劳动者，同时则反抗宗教家而赞成达尔文之进化论。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e13",
+      "name": "劳动者",
+      "canonical_name": "劳动者",
+      "type": "阵营/群体",
+      "evidence": "赫氏于十九世纪之后半，以科学智识普及于劳动者，同时则反抗宗教家而赞成达尔文之进化论。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e14",
+      "name": "宗教家",
+      "canonical_name": "宗教家",
+      "type": "阵营/群体",
+      "evidence": "赫氏于十九世纪之后半，以科学智识普及于劳动者，同时则反抗宗教家而赞成达尔文之进化论。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e15",
+      "name": "达尔文之进化论",
+      "canonical_name": "达尔文之进化论",
+      "type": "主义/学说/理论",
+      "evidence": "赫氏于十九世纪之后半，以科学智识普及于劳动者，同时则反抗宗教家而赞成达尔文之进化论。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e16",
+      "name": "理智的诚实",
+      "canonical_name": "理智的诚实",
+      "type": "概念",
+      "evidence": "惟其恶陈言而好实证，故尝以理智的诚实，为人类最高之道德。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e17",
+      "name": "人类最高之道德",
+      "canonical_name": "人类最高之道德",
+      "type": "概念",
+      "evidence": "惟其恶陈言而好实证，故尝以理智的诚实，为人类最高之道德。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e18",
+      "name": "苏格腊底氏",
+      "canonical_name": "苏格腊底氏",
+      "type": "人物",
+      "evidence": "苏格腊底氏之生，距近世科学文明之发端千八百余年矣，坚持所信，传授教义，卒以遇毒而死，视赫氏又何多让？",
+      "confidence": 0.9
+    },
+    {
+      "id": "e19",
+      "name": "近世科学文明",
+      "canonical_name": "近世科学文明",
+      "type": "概念",
+      "evidence": "苏格腊底氏之生，距近世科学文明之发端千八百余年矣，坚持所信，传授教义，卒以遇毒而死，视赫氏又何多让？",
+      "confidence": 0.9
+    },
+    {
+      "id": "e20",
+      "name": "科学教育",
+      "canonical_name": "科学教育",
+      "type": "概念",
+      "evidence": "此一人之内生活使然，与科学教育无涉焉。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e21",
+      "name": "智识欲",
+      "canonical_name": "智识欲",
+      "type": "概念",
+      "evidence": "夫智识欲者，人类之天性也，因文字意见之不同，触犯时忌，竟以身殉者，古今无代无之，安得以此独归功于科学耶？",
+      "confidence": 0.9
+    },
+    {
+      "id": "e22",
+      "name": "人类之天性",
+      "canonical_name": "人类之天性",
+      "type": "概念",
+      "evidence": "夫智识欲者，人类之天性也，因文字意见之不同，触犯时忌，竟以身殉者，古今无代无之，安得以此独归功于科学耶？",
+      "confidence": 0.9
+    },
+    {
+      "id": "e23",
+      "name": "科学",
+      "canonical_name": "科学",
+      "type": "概念",
+      "evidence": "安得以此独归功于科学耶？",
+      "confidence": 0.9
+    },
+    {
+      "id": "e24",
+      "name": "科学与教育之关系",
+      "canonical_name": "科学与教育之关系",
+      "type": "问题",
+      "evidence": "以上所云，但就求真与爱真两点言之，尚未及于科学与教育之关系。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e25",
+      "name": "科学之有益于实用",
+      "canonical_name": "科学之有益于实用",
+      "type": "观点",
+      "evidence": "夫科学之有益于实用，孰得而否认之？",
+      "confidence": 0.9
+    },
+    {
+      "id": "e26",
+      "name": "流弊",
+      "canonical_name": "流弊",
+      "type": "概念",
+      "evidence": "然其流弊所届，亦不可不研究。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e27",
+      "name": "自然科学",
+      "canonical_name": "自然科学",
+      "type": "概念",
+      "evidence": "自十九世纪后，英德各国列自然科学于学校科目之中，然物理也，生理也，博物也，同属自然现象，故同以官觉为基础。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e28",
+      "name": "官觉",
+      "canonical_name": "官觉",
+      "type": "概念",
+      "evidence": "然物理也，生理也，博物也，同属自然现象，故同以官觉为基础。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e29",
+      "name": "官觉发达之过度",
+      "canonical_name": "官觉发达之过度",
+      "type": "概念",
+      "evidence": "官觉发达之过度，其非耳之所能闻，目之所能见，则以为不足凭信。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e30",
+      "name": "因果",
+      "canonical_name": "因果",
+      "type": "概念",
+      "evidence": "科学以对待以因果为本义。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e31",
+      "name": "物理上之因果",
+      "canonical_name": "物理上之因果",
+      "type": "概念",
+      "evidence": "有力而后生动，物理上之因果也；",
+      "confidence": 0.9
+    },
+    {
+      "id": "e32",
+      "name": "生理上心理上之因果",
+      "canonical_name": "生理上心理上之因果",
+      "type": "概念",
+      "evidence": "思想与脑神经相表里，生理上心理上之因果也；",
+      "confidence": 0.9
+    }
+  ],
+  "claims": [
+    {
+      "id": "c1",
+      "speaker": "氏",
+      "claim": "科学公式者，方便也，非真理",
+      "target": "科学公式",
+      "claim_type": "定义性主张",
+      "claim_status": "直接引用",
+      "polarity": "negative",
+      "evidence": "氏至有“科学公式者，方便也，非真理”之语。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c2",
+      "speaker": "张君劢",
+      "claim": "夫诚为方便，则除我所谓向外，更又有何说？",
+      "target": "科学公式",
+      "claim_type": "反驳性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "夫诚为方便，则除我所谓向外，更又有何说？",
+      "confidence": 0.9
+    },
+    {
+      "id": "c3",
+      "speaker": "在君",
+      "claim": "修养的最好工具",
+      "target": "科学",
+      "claim_type": "评价性主张",
+      "claim_status": "间接转述",
+      "polarity": "positive",
+      "evidence": "在君不认为向外，乃曰修养的最好工具，岂事物之观察实验，可作为向内之修养工具耶？",
+      "confidence": 0.9
+    },
+    {
+      "id": "c4",
+      "speaker": "张君劢",
+      "claim": "岂事物之观察实验，可作为向内之修养工具耶？",
+      "target": "在君",
+      "claim_type": "反驳性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "岂事物之观察实验，可作为向内之修养工具耶？",
+      "confidence": 0.9
+    },
+    {
+      "id": "c5",
+      "speaker": "张君劢",
+      "claim": "岂在君之二大推论原则，可作为向内之修养工具耶？",
+      "target": "在君",
+      "claim_type": "反驳性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "岂在君之二大推论原则，可作为向内之修养工具耶？",
+      "confidence": 0.9
+    },
+    {
+      "id": "c6",
+      "speaker": "张君劢",
+      "claim": "在君理想中之科学家之模范，则为赫胥黎氏。",
+      "target": "在君",
+      "claim_type": "描述性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "在君理想中之科学家之模范，则为赫胥黎氏。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c7",
+      "speaker": "赫氏",
+      "claim": "以理智的诚实，为人类最高之道德",
+      "target": "理智的诚实",
+      "claim_type": "评价性主张",
+      "claim_status": "间接转述",
+      "polarity": "positive",
+      "evidence": "惟其恶陈言而好实证，故尝以理智的诚实，为人类最高之道德。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c8",
+      "speaker": "赫氏",
+      "claim": "即令妻子死亡，名誉扫地，然以谎语之人期我，我不为焉",
+      "target": "谎语",
+      "claim_type": "规范性主张",
+      "claim_status": "间接转述",
+      "polarity": "positive",
+      "evidence": "又曰，即令妻子死亡，名誉扫地，然以谎语之人期我，我不为焉。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c9",
+      "speaker": "张君劢",
+      "claim": "赫氏之事事必征验，吾岂不佩！然吾以为此一人之人格为之，何与于科学？",
+      "target": "赫氏",
+      "claim_type": "评价性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "mixed",
+      "evidence": "赫氏之事事必征验，吾岂不佩！然吾以为此一人之人格为之，何与于科学？",
+      "confidence": 0.9
+    },
+    {
+      "id": "c10",
+      "speaker": "张君劢",
+      "claim": "此一人之内生活使然，与科学教育无涉焉",
+      "target": "赫氏",
+      "claim_type": "因果主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "此一人之内生活使然，与科学教育无涉焉。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c11",
+      "speaker": "张君劢",
+      "claim": "夫智识欲者，人类之天性也，因文字意见之不同，触犯时忌，竟以身殉者，古今无代无之，安得以此独归功于科学耶？",
+      "target": "科学",
+      "claim_type": "反驳性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "夫智识欲者，人类之天性也，因文字意见之不同，触犯时忌，竟以身殉者，古今无代无之，安得以此独归功于科学耶？",
+      "confidence": 0.9
+    },
+    {
+      "id": "c12",
+      "speaker": "张君劢",
+      "claim": "夫科学之有益于实用，孰得而否认之？",
+      "target": "科学",
+      "claim_type": "评价性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "夫科学之有益于实用，孰得而否认之？",
+      "confidence": 0.9
+    },
+    {
+      "id": "c13",
+      "speaker": "张君劢",
+      "claim": "然其流弊所届，亦不可不研究",
+      "target": "科学",
+      "claim_type": "问题提出",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "然其流弊所届，亦不可不研究。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c14",
+      "speaker": "张君劢",
+      "claim": "官觉发达之过度，其非耳之所能闻，目之所能见，则以为不足凭信",
+      "target": "官觉",
+      "claim_type": "因果主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "官觉发达之过度，其非耳之所能闻，目之所能见，则以为不足凭信。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c15",
+      "speaker": "张君劢",
+      "claim": "科学以对待以因果为本义",
+      "target": "科学",
+      "claim_type": "定义性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "科学以对待以因果为本义。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c16",
+      "speaker": "张君劢",
+      "claim": "有力而后生动，物理上之因果也",
+      "target": "物理上之因果",
+      "claim_type": "定义性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "有力而后生动，物理上之因果也；",
+      "confidence": 0.9
+    },
+    {
+      "id": "c17",
+      "speaker": "张君劢",
+      "claim": "思想与脑神经相表里，生理上心理上之因果也",
+      "target": "生理上心理上之因果",
+      "claim_type": "定义性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "思想与脑神经相表里，生理上心理上之因果也；",
+      "confidence": 0.9
+    }
+  ],
+  "relations": [
+    {
+      "id": "r1",
+      "head": "氏",
+      "head_type": "人物",
+      "relation": "主张",
+      "relation_subtype": "不适用",
+      "tail": "科学公式者，方便也，非真理",
+      "tail_type": "观点",
+      "polarity": "negative",
+      "stance_score": -0.5,
+      "intensity": 0.5,
+      "evidence": "氏至有“科学公式者，方便也，非真理”之语。",
+      "confidence": 0.9
+    },
+    {
+      "id": "r2",
+      "head": "在君",
+      "head_type": "人物",
+      "relation": "主张",
+      "relation_subtype": "不适用",
+      "tail": "修养的最好工具",
+      "tail_type": "观点",
+      "polarity": "positive",
+      "stance_score": 0.8,
+      "intensity": 0.6,
+      "evidence": "在君不认为向外，乃曰修养的最好工具，岂事物之观察实验，可作为向内之修养工具耶？",
+      "confidence": 0.9
+    },
+    {
+      "id": "r3",
+      "head": "张君劢",
+      "head_type": "人物",
+      "relation": "反驳",
+      "relation_subtype": "逻辑反驳",
+      "tail": "在君",
+      "tail_type": "人物",
+      "polarity": "negative",
+      "stance_score": -0.9,
+      "intensity": 0.8,
+      "evidence": "岂在君之二大推论原则，可作为向内之修养工具耶？",
+      "confidence": 0.9
+    },
+    {
+      "id": "r4",
+      "head": "张君劢",
+      "head_type": "人物",
+      "relation": "相关",
+      "relation_subtype": "部分肯定",
+      "tail": "赫氏",
+      "tail_type": "人物",
+      "polarity": "mixed",
+      "stance_score": 0.2,
+      "intensity": 0.6,
+      "evidence": "赫氏之事事必征验，吾岂不佩！然吾以为此一人之人格为之，何与于科学？",
+      "confidence": 0.9
+    },
+    {
+      "id": "r5",
+      "head": "张君劢",
+      "head_type": "人物",
+      "relation": "反驳",
+      "relation_subtype": "逻辑反驳",
+      "tail": "科学",
+      "tail_type": "概念",
+      "polarity": "negative",
+      "stance_score": -0.7,
+      "intensity": 0.6,
+      "evidence": "夫智识欲者，人类之天性也，因文字意见之不同，触犯时忌，竟以身殉者，古今无代无之，安得以此独归功于科学耶？",
+      "confidence": 0.9
+    },
+    {
+      "id": "r6",
+      "head": "张君劢",
+      "head_type": "人物",
+      "relation": "相关",
+      "relation_subtype": "部分肯定",
+      "tail": "科学",
+      "tail_type": "概念",
+      "polarity": "mixed",
+      "stance_score": 0.3,
+      "intensity": 0.5,
+      "evidence": "夫科学之有益于实用，孰得而否认之？然其流弊所届，亦不可不研究。",
+      "confidence": 0.9
+    },
+    {
+      "id": "r7",
+      "head": "官觉发达之过度",
+      "head_type": "概念",
+      "relation": "导致",
+      "relation_subtype": "不适用",
+      "tail": "其非耳之所能闻，目之所能见，则以为不足凭信",
+      "tail_type": "观点",
+      "polarity": "negative",
+      "stance_score": -0.5,
+      "intensity": 0.5,
+      "evidence": "官觉发达之过度，其非耳之所能闻，目之所能见，则以为不足凭信。",
+      "confidence": 0.9
+    },
+    {
+      "id": "r8",
+      "head": "科学",
+      "head_type": "概念",
+      "relation": "定义",
+      "relation_subtype": "概念澄清",
+      "tail": "以对待以因果为本义",
+      "tail_type": "观点",
+      "polarity": "neutral",
+      "stance_score": 0.0,
+      "intensity": 0.3,
+      "evidence": "科学以对待以因果为本义。",
+      "confidence": 0.9
+    }
+  ],
+  "definitions": [
+    {
+      "id": "def1",
+      "term": "科学公式",
+      "definition": "方便，非真理",
+      "evidence": "氏至有“科学公式者，方便也，非真理”之语。",
+      "confidence": 0.9
+    },
+    {
+      "id": "def2",
+      "term": "科学",
+      "definition": "以对待以因果为本义",
+      "evidence": "科学以对待以因果为本义。",
+      "confidence": 0.9
+    },
+    {
+      "id": "def3",
+      "term": "物理上之因果",
+      "definition": "有力而后生动",
+      "evidence": "有力而后生动，物理上之因果也；",
+      "confidence": 0.9
+    },
+    {
+      "id": "def4",
+      "term": "生理上心理上之因果",
+      "definition": "思想与脑神经相表里",
+      "evidence": "思想与脑神经相表里，生理上心理上之因果也；",
+      "confidence": 0.9
+    }
+  ],
+  "citations": [
+    {
+      "id": "cit1",
+      "citer": "张君劢",
+      "quoted_author": "氏",
+      "quoted_work": "",
+      "quoted_claim": "科学公式者，方便也，非真理",
+      "function": "作为批评对象",
+      "evidence": "氏至有“科学公式者，方便也，非真理”之语。",
+      "confidence": 0.9
+    },
+    {
+      "id": "cit2",
+      "citer": "张君劢",
+      "quoted_author": "赫氏",
+      "quoted_work": "",
+      "quoted_claim": "以理智的诚实，为人类最高之道德",
+      "function": "援引权威支持",
+      "evidence": "惟其恶陈言而好实证，故尝以理智的诚实，为人类最高之道德。",
+      "confidence": 0.9
+    },
+    {
+      "id": "cit3",
+      "citer": "张君劢",
+      "quoted_author": "赫氏",
+      "quoted_work": "",
+      "quoted_claim": "即令妻子死亡，名誉扫地，然以谎语之人期我，我不为焉",
+      "function": "援引权威支持",
+      "evidence": "又曰，即令妻子死亡，名誉扫地，然以谎语之人期我，我不为焉。",
+      "confidence": 0.9
+    }
+  ],
+  "rhetorical_devices": [
+    {
+      "id": "rh1",
+      "expression": "岂事物之观察实验，可作为向内之修养工具耶？",
+      "device_type": "反问",
+      "literal_target": "在君",
+      "function": "反驳在君认为科学是修养工具的观点",
+      "evidence": "岂事物之观察实验，可作为向内之修养工具耶？",
+      "confidence": 0.9
+    },
+    {
+      "id": "rh2",
+      "expression": "岂在君之二大推论原则，可作为向内之修养工具耶？",
+      "device_type": "反问",
+      "literal_target": "在君",
+      "function": "进一步反驳在君的观点",
+      "evidence": "岂在君之二大推论原则，可作为向内之修养工具耶？",
+      "confidence": 0.9
+    },
+    {
+      "id": "rh3",
+      "expression": "视赫氏又何多让？",
+      "device_type": "反问",
+      "literal_target": "苏格腊底氏",
+      "function": "通过反问强调苏格腊底氏与赫氏同样值得敬佩",
+      "evidence": "视赫氏又何多让？",
+      "confidence": 0.9
+    },
+    {
+      "id": "rh4",
+      "expression": "安得以此独归功于科学耶？",
+      "device_type": "反问",
+      "literal_target": "科学",
+      "function": "反驳将殉道行为归功于科学的观点",
+      "evidence": "安得以此独归功于科学耶？",
+      "confidence": 0.9
+    },
+    {
+      "id": "rh5",
+      "expression": "孰得而否认之？",
+      "device_type": "反问",
+      "literal_target": "科学之有益于实用",
+      "function": "强调科学实用性的公认性",
+      "evidence": "夫科学之有益于实用，孰得而否认之？",
+      "confidence": 0.9
+    }
+  ],
+  "uncertainties": [
+    {
+      "item": "氏",
+      "reason": "文本中未明确说明'氏'具体指代何人，可能指前文已出现的人物，但当前片段未提供全名。"
+    },
+    {
+      "item": "在君之二大推论原则",
+      "reason": "文本未具体说明'二大推论原则'的内容，无法进一步抽取。"
+    }
+  ],
+  "_meta": {
+    "status": "success",
+    "stage": "extract",
+    "model": "deepseek-ai/DeepSeek-V4-Flash",
+    "base_url": "https://api.siliconflow.cn/v1",
+    "prompt_version": "v2.0",
+    "schema_version": "lite_v3.0",
+    "segment_id": "张君劢_002_c870d202_s0024",
+    "article_id": "张君劢_002_c870d202",
+    "char_start": 12028,
+    "char_end": 12626,
+    "raw_path": "E:\\1研究生\\岭南大学\\论文毕业\\capstone\\资料\\新的内容开始了\\local_upload\\kg_runs_v2\\张君劢\\raw_outputs\\extract\\张君劢_002_c870d202_s0024.txt",
+    "parsed_at": "2026-05-22T03:25:31",
+    "started_at": "2026-05-22T03:23:50",
+    "elapsed_seconds": 101.877,
+    "strict_evidence_check": true,
+    "drop_unsupported_evidence": true,
+    "request_timeout_seconds": 60
+  }
+}

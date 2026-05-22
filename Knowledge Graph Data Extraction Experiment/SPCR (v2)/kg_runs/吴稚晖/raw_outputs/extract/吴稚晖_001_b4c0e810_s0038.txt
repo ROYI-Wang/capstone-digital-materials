@@ -1,0 +1,416 @@
+{
+  "metadata": {
+    "schema_version": "lite_v3.0",
+    "article_id": "吴稚晖_001_b4c0e810",
+    "article_title": "一个新信仰的宇宙观及人生观",
+    "source_author": "吴稚晖",
+    "section_title": "讲到这里，第一层可先用不值钱的玄学理想，近乎游戏的，说道毛厕里的石头亦有感觉。苍蝇的感觉，非即人的感觉，他们感觉的状况，颇极差等。玫瑰树的感觉，非即苍蝇的感觉，他们的感觉，又极差等。如是焉能禁我来瞎说，毛厕里石头的感觉，非即玫瑰树的感觉，他们感觉的状况，也极差等。若欲强分高下，则石头有其寂然不动的感觉，真所谓无私心而合天理，所以贞固永寿。一块毛厕里的石头，可以阅几十代人而依然如故，见数百兆苍蝇存灭，看千万棵玫瑰树忽而芬芳，忽而萎枯。彼如曰毛厕里的石头为万物之灵，理由亦未尝不充足。彼另有彼之可感与彼之可觉，人与苍蝇及玫瑰树之感觉，皆非彼所需，故亦非彼所有，如是而已。然这种蹈空的掉枪花，我们中国古代的玄学鬼常用“孰为正色，孰为正味”等的论调，闹得甚嚣尘上。自然受过科学洗礼的玄学鬼，不肯就把这种空言，来作惟一的搪塞。所以说到第二层，他就要戴上科学面具，正正经经，板起了面孔，来断定毛厕里的石头亦有感觉。他不是说能够",
+    "section_author": "讲到这里，第一层可先用不值钱的玄学理想，近乎游戏的，说道毛厕里的石头亦有感觉。苍蝇的感觉，非即人的感觉，他们感觉的状况，颇极差等。玫瑰树的感觉，非即苍蝇的感觉，他们的感觉，又极差等。如是焉能禁我来瞎说，毛厕里石头的感觉，非即玫瑰树的感觉，他们感觉的状况，也极差等。若欲强分高下，则石头有其寂然不动的感觉，真所谓无私心而合天理，所以贞固永寿。一块毛厕里的石头，可以阅几十代人而依然如故，见数百兆苍蝇存灭，看千万棵玫瑰树忽而芬芳，忽而萎枯。彼如曰毛厕里的石头为万物之灵，理由亦未尝不充足。彼另有彼之可感与彼之可觉，人与苍蝇及玫瑰树之感觉，皆非彼所需，故亦非彼所有，如是而已。然这种蹈空的掉枪花，我们中国古代的玄学鬼常用“孰为正色，孰为正味”等的论调，闹得甚嚣尘上。自然受过科学洗礼的玄学鬼，不肯就把这种空言，来作惟一的搪塞。所以说到第二层，他就要戴上科学面具，正正经经，板起了面孔，来断定毛厕里的石头亦有感觉。他不是说能够",
+    "segment_id": "吴稚晖_001_b4c0e810_s0038",
+    "segment_index": 38,
+    "source_file": "E:\\1研究生\\岭南大学\\论文毕业\\capstone\\资料\\新的内容开始了\\local_upload\\input_吴稚晖\\吴稚晖.txt"
+  },
+  "entities": [
+    {
+      "id": "e1",
+      "name": "两手动物唱戏",
+      "canonical_name": "两手动物唱戏",
+      "type": "观点",
+      "evidence": "我说“人生”便是“两手动物唱戏”",
+      "confidence": 1.0
+    },
+    {
+      "id": "e2",
+      "name": "道学先生",
+      "canonical_name": "道学先生",
+      "type": "阵营/群体",
+      "evidence": "生怕有些道学先生同高明哲人听了",
+      "confidence": 1.0
+    },
+    {
+      "id": "e3",
+      "name": "高明哲人",
+      "canonical_name": "高明哲人",
+      "type": "阵营/群体",
+      "evidence": "生怕有些道学先生同高明哲人听了",
+      "confidence": 1.0
+    },
+    {
+      "id": "e4",
+      "name": "人生",
+      "canonical_name": "人生",
+      "type": "概念",
+      "evidence": "犯了他们的尊严，失了他们的高尚，嫌我游戏得太厉害，未免不敬重人生",
+      "confidence": 1.0
+    },
+    {
+      "id": "e5",
+      "name": "滑稽里头",
+      "canonical_name": "滑稽里头",
+      "type": "概念",
+      "evidence": "所以我在滑稽里头，表示出我的敬重人生",
+      "confidence": 1.0
+    },
+    {
+      "id": "e6",
+      "name": "敬重人生",
+      "canonical_name": "敬重人生",
+      "type": "观点",
+      "evidence": "表示出我的敬重人生，还要比他们迂腐",
+      "confidence": 1.0
+    },
+    {
+      "id": "e7",
+      "name": "两手动物新剧",
+      "canonical_name": "两手动物新剧",
+      "type": "概念",
+      "evidence": "我却并不以为止有两手动物的新剧，该当唱得认真",
+      "confidence": 1.0
+    },
+    {
+      "id": "e8",
+      "name": "木石戏",
+      "canonical_name": "木石戏",
+      "type": "概念",
+      "evidence": "便是什么木石戏，鹿豕戏，都该一样的认真",
+      "confidence": 1.0
+    },
+    {
+      "id": "e9",
+      "name": "鹿豕戏",
+      "canonical_name": "鹿豕戏",
+      "type": "概念",
+      "evidence": "便是什么木石戏，鹿豕戏，都该一样的认真",
+      "confidence": 1.0
+    },
+    {
+      "id": "e10",
+      "name": "两只手的人",
+      "canonical_name": "两只手的人",
+      "type": "阵营/群体",
+      "evidence": "止是个两只手的人",
+      "confidence": 1.0
+    },
+    {
+      "id": "e11",
+      "name": "两手动物戏",
+      "canonical_name": "两手动物戏",
+      "type": "概念",
+      "evidence": "两手动物戏的剧评，虽多到不可究诘",
+      "confidence": 1.0
+    },
+    {
+      "id": "e12",
+      "name": "诸子评论",
+      "canonical_name": "诸子评论",
+      "type": "著作",
+      "evidence": "我尽管把什么诸子评论，哲学史，儒学案，名人传记等，摘抄起几万纸来",
+      "confidence": 1.0
+    },
+    {
+      "id": "e13",
+      "name": "哲学史",
+      "canonical_name": "哲学史",
+      "type": "著作",
+      "evidence": "我尽管把什么诸子评论，哲学史，儒学案，名人传记等，摘抄起几万纸来",
+      "confidence": 1.0
+    },
+    {
+      "id": "e14",
+      "name": "儒学案",
+      "canonical_name": "儒学案",
+      "type": "著作",
+      "evidence": "我尽管把什么诸子评论，哲学史，儒学案，名人传记等，摘抄起几万纸来",
+      "confidence": 1.0
+    },
+    {
+      "id": "e15",
+      "name": "名人传记",
+      "canonical_name": "名人传记",
+      "type": "著作",
+      "evidence": "我尽管把什么诸子评论，哲学史，儒学案，名人传记等，摘抄起几万纸来",
+      "confidence": 1.0
+    },
+    {
+      "id": "e16",
+      "name": "《太平洋杂志》",
+      "canonical_name": "太平洋杂志",
+      "type": "著作",
+      "evidence": "登到《太平洋杂志》第一千期也登不完",
+      "confidence": 1.0
+    },
+    {
+      "id": "e17",
+      "name": "三句话",
+      "canonical_name": "三句话",
+      "type": "观点",
+      "evidence": "止把三句话表明头等名角的态度",
+      "confidence": 1.0
+    },
+    {
+      "id": "e18",
+      "name": "头等名角",
+      "canonical_name": "头等名角",
+      "type": "概念",
+      "evidence": "止把三句话表明头等名角的态度",
+      "confidence": 1.0
+    },
+    {
+      "id": "e19",
+      "name": "清风明月的嗜好",
+      "canonical_name": "清风明月的嗜好",
+      "type": "观点",
+      "evidence": "有清风明月的嗜好",
+      "confidence": 1.0
+    },
+    {
+      "id": "e20",
+      "name": "神工鬼斧的创作",
+      "canonical_name": "神工鬼斧的创作",
+      "type": "观点",
+      "evidence": "有神工鬼斧的创作",
+      "confidence": 1.0
+    },
+    {
+      "id": "e21",
+      "name": "覆天载地的仁爱",
+      "canonical_name": "覆天载地的仁爱",
+      "type": "观点",
+      "evidence": "有覆天载地的仁爱",
+      "confidence": 1.0
+    }
+  ],
+  "claims": [
+    {
+      "id": "c1",
+      "speaker": "作者",
+      "claim": "人生便是两手动物唱戏",
+      "target": "人生",
+      "claim_type": "定义性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "我说“人生”便是“两手动物唱戏”",
+      "confidence": 1.0
+    },
+    {
+      "id": "c2",
+      "speaker": "道学先生同高明哲人",
+      "claim": "嫌我游戏得太厉害，未免不敬重人生",
+      "target": "作者",
+      "claim_type": "评价性主张",
+      "claim_status": "间接转述",
+      "polarity": "negative",
+      "evidence": "生怕有些道学先生同高明哲人听了，犯了他们的尊严，失了他们的高尚，嫌我游戏得太厉害，未免不敬重人生",
+      "confidence": 1.0
+    },
+    {
+      "id": "c3",
+      "speaker": "作者",
+      "claim": "我的敬重人生，还要比他们迂腐",
+      "target": "敬重人生",
+      "claim_type": "对比性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "表示出我的敬重人生，还要比他们迂腐",
+      "confidence": 1.0
+    },
+    {
+      "id": "c4",
+      "speaker": "作者",
+      "claim": "照我的敬重人生，还比较透彻",
+      "target": "敬重人生",
+      "claim_type": "评价性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "照我的敬重人生，还比较透彻",
+      "confidence": 1.0
+    },
+    {
+      "id": "c5",
+      "speaker": "作者",
+      "claim": "并不以为止有两手动物的新剧，该当唱得认真。便是什么木石戏，鹿豕戏，都该一样的认真",
+      "target": "两手动物新剧",
+      "claim_type": "规范性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "我却并不以为止有两手动物的新剧，该当唱得认真。便是什么木石戏，鹿豕戏，都该一样的认真",
+      "confidence": 1.0
+    },
+    {
+      "id": "c6",
+      "speaker": "作者",
+      "claim": "我们应当也唱得精彩",
+      "target": "两只手的人",
+      "claim_type": "规范性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "我们应当也唱得精彩",
+      "confidence": 1.0
+    },
+    {
+      "id": "c7",
+      "speaker": "作者",
+      "claim": "两手动物戏的剧评，虽多到不可究诘",
+      "target": "两手动物戏",
+      "claim_type": "描述性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "两手动物戏的剧评，虽多到不可究诘",
+      "confidence": 1.0
+    },
+    {
+      "id": "c8",
+      "speaker": "作者",
+      "claim": "我索性不嫌疏漏，止把三句话表明头等名角的态度",
+      "target": "头等名角",
+      "claim_type": "描述性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "我索性不嫌疏漏，止把三句话表明头等名角的态度",
+      "confidence": 1.0
+    },
+    {
+      "id": "c9",
+      "speaker": "作者",
+      "claim": "三句话是，凡是两手动物戏里的头等名角，应当：有清风明月的嗜好，有神工鬼斧的创作，有覆天载地的仁爱",
+      "target": "头等名角",
+      "claim_type": "规范性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "三句话是，凡是两手动物戏里的头等名角，应当：有清风明月的嗜好，有神工鬼斧的创作，有覆天载地的仁爱",
+      "confidence": 1.0
+    }
+  ],
+  "relations": [
+    {
+      "id": "r1",
+      "head": "作者",
+      "head_type": "人物",
+      "relation": "主张",
+      "relation_subtype": "不适用",
+      "tail": "人生便是两手动物唱戏",
+      "tail_type": "观点",
+      "polarity": "positive",
+      "stance_score": 1.0,
+      "intensity": 0.8,
+      "evidence": "我说“人生”便是“两手动物唱戏”",
+      "confidence": 1.0
+    },
+    {
+      "id": "r2",
+      "head": "道学先生同高明哲人",
+      "head_type": "阵营/群体",
+      "relation": "评价",
+      "relation_subtype": "一般批评",
+      "tail": "作者",
+      "tail_type": "人物",
+      "polarity": "negative",
+      "stance_score": -0.5,
+      "intensity": 0.5,
+      "evidence": "生怕有些道学先生同高明哲人听了，犯了他们的尊严，失了他们的高尚，嫌我游戏得太厉害，未免不敬重人生",
+      "confidence": 1.0
+    },
+    {
+      "id": "r3",
+      "head": "作者",
+      "head_type": "人物",
+      "relation": "回应",
+      "relation_subtype": "部分肯定",
+      "tail": "道学先生同高明哲人",
+      "tail_type": "阵营/群体",
+      "polarity": "mixed",
+      "stance_score": 0.5,
+      "intensity": 0.6,
+      "evidence": "所以我在滑稽里头，表示出我的敬重人生，还要比他们迂腐。而且正正经经的板着一回面孔的分辨，照我的敬重人生，还比较透彻",
+      "confidence": 1.0
+    },
+    {
+      "id": "r4",
+      "head": "作者",
+      "head_type": "人物",
+      "relation": "主张",
+      "relation_subtype": "不适用",
+      "tail": "并不以为止有两手动物的新剧，该当唱得认真。便是什么木石戏，鹿豕戏，都该一样的认真",
+      "tail_type": "观点",
+      "polarity": "positive",
+      "stance_score": 1.0,
+      "intensity": 0.7,
+      "evidence": "我却并不以为止有两手动物的新剧，该当唱得认真。便是什么木石戏，鹿豕戏，都该一样的认真",
+      "confidence": 1.0
+    },
+    {
+      "id": "r5",
+      "head": "作者",
+      "head_type": "人物",
+      "relation": "主张",
+      "relation_subtype": "不适用",
+      "tail": "我们应当也唱得精彩",
+      "tail_type": "观点",
+      "polarity": "positive",
+      "stance_score": 1.0,
+      "intensity": 0.6,
+      "evidence": "我们应当也唱得精彩",
+      "confidence": 1.0
+    },
+    {
+      "id": "r6",
+      "head": "作者",
+      "head_type": "人物",
+      "relation": "主张",
+      "relation_subtype": "不适用",
+      "tail": "三句话是，凡是两手动物戏里的头等名角，应当：有清风明月的嗜好，有神工鬼斧的创作，有覆天载地的仁爱",
+      "tail_type": "观点",
+      "polarity": "positive",
+      "stance_score": 1.0,
+      "intensity": 0.8,
+      "evidence": "三句话是，凡是两手动物戏里的头等名角，应当：有清风明月的嗜好，有神工鬼斧的创作，有覆天载地的仁爱",
+      "confidence": 1.0
+    }
+  ],
+  "definitions": [],
+  "citations": [],
+  "rhetorical_devices": [
+    {
+      "id": "rh1",
+      "expression": "两手动物唱戏",
+      "device_type": "比喻",
+      "literal_target": "人生",
+      "function": "用戏剧比喻人生，强调人生需要认真扮演",
+      "evidence": "我说“人生”便是“两手动物唱戏”",
+      "confidence": 1.0
+    },
+    {
+      "id": "rh2",
+      "expression": "自己扮做跑龙套的，辛苦的出台，止算做没有呢？并且真的戏，唱不来，下场了不再上场，就完了。这是叫做物质不灭，连带着变动，连带着绵延，永远下了场，马上又要登台的呀。尽管轮到你唱，止是随随便便的敷衍，踉踉跄跄的闹笑话，叫人搜你的根脚，说道，这到底是漆黑一团的子孙，终是那漆黑一团的性气，不丢人么？",
+      "device_type": "比喻",
+      "literal_target": "人生与物质不灭的连续性",
+      "function": "用戏剧表演比喻人生，说明人生是连续不断的，敷衍了事会丢人",
+      "evidence": "自己扮做跑龙套的，辛苦的出台，止算做没有呢？并且真的戏，唱不来，下场了不再上场，就完了。这是叫做物质不灭，连带着变动，连带着绵延，永远下了场，马上又要登台的呀。尽管轮到你唱，止是随随便便的敷衍，踉踉跄跄的闹笑话，叫人搜你的根脚，说道，这到底是漆黑一团的子孙，终是那漆黑一团的性气，不丢人么？",
+      "confidence": 1.0
+    },
+    {
+      "id": "rh3",
+      "expression": "漆黑一团的子孙",
+      "device_type": "比喻",
+      "literal_target": "人类",
+      "function": "用‘漆黑一团’比喻人类起源的混沌状态，带有贬义",
+      "evidence": "这到底是漆黑一团的子孙，终是那漆黑一团的性气",
+      "confidence": 1.0
+    },
+    {
+      "id": "rh4",
+      "expression": "木石戏，鹿豕戏",
+      "device_type": "比喻",
+      "literal_target": "非人类事物的存在状态",
+      "function": "用戏剧比喻一切事物的存在，强调万物都应认真对待",
+      "evidence": "便是什么木石戏，鹿豕戏，都该一样的认真",
+      "confidence": 1.0
+    }
+  ],
+  "uncertainties": [
+    {
+      "item": "漆黑一团的子孙",
+      "reason": "‘漆黑一团’可能指代某种哲学概念（如物质、混沌），但文本未明确定义，无法确定具体指代"
+    }
+  ]
+}

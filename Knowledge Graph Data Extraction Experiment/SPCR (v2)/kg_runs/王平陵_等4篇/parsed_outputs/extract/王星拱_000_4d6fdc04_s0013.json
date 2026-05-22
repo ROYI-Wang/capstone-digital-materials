@@ -1,0 +1,535 @@
+{
+  "metadata": {
+    "schema_version": "lite_v3.0",
+    "article_id": "王星拱_000_4d6fdc04",
+    "article_title": "科学与人生观",
+    "source_author": "王星拱",
+    "section_title": "",
+    "section_author": "",
+    "segment_id": "王星拱_000_4d6fdc04_s0013",
+    "segment_index": 13,
+    "source_file": "E:\\1研究生\\岭南大学\\论文毕业\\capstone\\资料\\新的内容开始了\\local_upload\\input_v2_w0\\王星拱.txt"
+  },
+  "entities": [
+    {
+      "id": "e1",
+      "name": "教育",
+      "canonical_name": "教育",
+      "type": "概念",
+      "evidence": "是考察各人所受过的教育。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e2",
+      "name": "人生观",
+      "canonical_name": "人生观",
+      "type": "概念",
+      "evidence": "他们的人生观，也可以测度得大致不差",
+      "confidence": 0.9
+    },
+    {
+      "id": "e3",
+      "name": "科学（狭义的）",
+      "canonical_name": "科学（狭义的）",
+      "type": "概念",
+      "evidence": "和在科学（狭义的）里的定律一样。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e4",
+      "name": "因果",
+      "canonical_name": "因果",
+      "type": "概念",
+      "evidence": "科学是凭藉因果和齐一两个原理而构造起来的",
+      "confidence": 0.9
+    },
+    {
+      "id": "e5",
+      "name": "齐一",
+      "canonical_name": "齐一",
+      "type": "概念",
+      "evidence": "科学是凭藉因果和齐一两个原理而构造起来的",
+      "confidence": 0.9
+    },
+    {
+      "id": "e6",
+      "name": "人生问题",
+      "canonical_name": "人生问题",
+      "type": "概念",
+      "evidence": "人生问题无论为生命之观念，或生活之态度，都不能逃出这两个原理的金刚圈",
+      "confidence": 0.9
+    },
+    {
+      "id": "e7",
+      "name": "生命之观念",
+      "canonical_name": "生命之观念",
+      "type": "概念",
+      "evidence": "人生问题无论为生命之观念，或生活之态度",
+      "confidence": 0.9
+    },
+    {
+      "id": "e8",
+      "name": "生活之态度",
+      "canonical_name": "生活之态度",
+      "type": "概念",
+      "evidence": "人生问题无论为生命之观念，或生活之态度",
+      "confidence": 0.9
+    },
+    {
+      "id": "e9",
+      "name": "科学",
+      "canonical_name": "科学",
+      "type": "概念",
+      "evidence": "所以科学可以解决人生问题。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e10",
+      "name": "科学之本质",
+      "canonical_name": "科学之本质",
+      "type": "概念",
+      "evidence": "科学之本质已经讨论过了",
+      "confidence": 0.9
+    },
+    {
+      "id": "e11",
+      "name": "科学之价值",
+      "canonical_name": "科学之价值",
+      "type": "概念",
+      "evidence": "科学之价值也不能一笔抹煞。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e12",
+      "name": "实验主义家",
+      "canonical_name": "实验主义家",
+      "type": "阵营/群体",
+      "evidence": "实验主义家把价值和本质混在一处",
+      "confidence": 0.9
+    },
+    {
+      "id": "e13",
+      "name": "价值",
+      "canonical_name": "价值",
+      "type": "概念",
+      "evidence": "实验主义家把价值和本质混在一处",
+      "confidence": 0.9
+    },
+    {
+      "id": "e14",
+      "name": "本质",
+      "canonical_name": "本质",
+      "type": "概念",
+      "evidence": "实验主义家把价值和本质混在一处",
+      "confidence": 0.9
+    },
+    {
+      "id": "e15",
+      "name": "科学之明物致用的价值",
+      "canonical_name": "科学之明物致用的价值",
+      "type": "概念",
+      "evidence": "我们却也不能把科学之明物致用的价值，卑之无甚高论。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e16",
+      "name": "智慧",
+      "canonical_name": "智慧",
+      "type": "概念",
+      "evidence": "智慧之维持生活与改良生活，在经常的状况之下，总要比本能高千万倍。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e17",
+      "name": "本能",
+      "canonical_name": "本能",
+      "type": "概念",
+      "evidence": "智慧之维持生活与改良生活，在经常的状况之下，总要比本能高千万倍。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e18",
+      "name": "科学为智慧发达之最高点",
+      "canonical_name": "科学为智慧发达之最高点",
+      "type": "观点",
+      "evidence": "科学为智慧发达之最高点。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e19",
+      "name": "我们中国一班穿长衫的先生们",
+      "canonical_name": "我们中国一班穿长衫的先生们",
+      "type": "阵营/群体",
+      "evidence": "而且我们中国一班穿长衫的先生们，向来都欢喜偷懒逃入于“此天地之所以为大也”一个笼统的橡皮性的玻璃球里边",
+      "confidence": 0.9
+    },
+    {
+      "id": "e20",
+      "name": "此天地之所以为大也",
+      "canonical_name": "此天地之所以为大也",
+      "type": "概念",
+      "evidence": "向来都欢喜偷懒逃入于“此天地之所以为大也”一个笼统的橡皮性的玻璃球里边",
+      "confidence": 0.9
+    },
+    {
+      "id": "e21",
+      "name": "吴稚晖",
+      "canonical_name": "吴稚晖",
+      "type": "人物",
+      "evidence": "吴稚晖先生说得好：我们生活在这个世界上，是要把这个世界实现的东西，弄得很美满的",
+      "confidence": 0.9
+    },
+    {
+      "id": "e22",
+      "name": "结论",
+      "canonical_name": "结论",
+      "type": "结论",
+      "evidence": "我的结论是：科学是凭藉因果和齐一两个原理而构造起来的；人生问题无论为生命之观念，或生活之态度，都不能逃出这两个原理的金刚圈，所以科学可以解决人生问题。",
+      "confidence": 0.9
+    }
+  ],
+  "claims": [
+    {
+      "id": "c1",
+      "speaker": "王星拱",
+      "claim": "若能明白知道一班人所受过的教育都有大致相同的，他们的人生观，也可以测度得大致不差，而可以得一个平均代表，和在科学（狭义的）里的定律一样。",
+      "target": "人生观",
+      "claim_type": "描述性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "若能明白知道一班人所受过的教育都有大致相同的，他们的人生观，也可以测度得大致不差，而可以得一个平均代表，和在科学（狭义的）里的定律一样。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c2",
+      "speaker": "王星拱",
+      "claim": "科学是凭藉因果和齐一两个原理而构造起来的；人生问题无论为生命之观念，或生活之态度，都不能逃出这两个原理的金刚圈，所以科学可以解决人生问题。",
+      "target": "科学",
+      "claim_type": "结论性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "我的结论是：科学是凭藉因果和齐一两个原理而构造起来的；人生问题无论为生命之观念，或生活之态度，都不能逃出这两个原理的金刚圈，所以科学可以解决人生问题。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c3",
+      "speaker": "王星拱",
+      "claim": "实验主义家把价值和本质混在一处，固然也有可以訾议的地方。",
+      "target": "实验主义家",
+      "claim_type": "评价性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "实验主义家把价值和本质混在一处，固然也有可以訾议的地方。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c4",
+      "speaker": "王星拱",
+      "claim": "我们却也不能把科学之明物致用的价值，卑之无甚高论。",
+      "target": "科学之明物致用的价值",
+      "claim_type": "规范性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "然而我们却也不能把科学之明物致用的价值，卑之无甚高论。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c5",
+      "speaker": "王星拱",
+      "claim": "智慧之维持生活与改良生活，在经常的状况之下，总要比本能高千万倍。",
+      "target": "智慧",
+      "claim_type": "对比性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "智慧之维持生活与改良生活，在经常的状况之下，总要比本能高千万倍。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c6",
+      "speaker": "王星拱",
+      "claim": "科学为智慧发达之最高点。",
+      "target": "科学",
+      "claim_type": "描述性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "科学为智慧发达之最高点。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c7",
+      "speaker": "王星拱",
+      "claim": "我们中国一班穿长衫的先生们，向来都欢喜偷懒逃入于“此天地之所以为大也”一个笼统的橡皮性的玻璃球里边，不肯切切实实底做去。",
+      "target": "我们中国一班穿长衫的先生们",
+      "claim_type": "评价性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "而且我们中国一班穿长衫的先生们，向来都欢喜偷懒逃入于“此天地之所以为大也”一个笼统的橡皮性的玻璃球里边，不肯切切实实底做去。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c8",
+      "speaker": "吴稚晖",
+      "claim": "我们生活在这个世界上，是要把这个世界实现的东西，弄得很美满的，原来我们生活在这里就是这样的一回事。",
+      "target": "生活",
+      "claim_type": "描述性主张",
+      "claim_status": "直接引用",
+      "polarity": "positive",
+      "evidence": "吴稚晖先生说得好：我们生活在这个世界上，是要把这个世界实现的东西，弄得很美满的，原来我们生活在这里就是这样的一回事。",
+      "confidence": 0.9
+    }
+  ],
+  "relations": [
+    {
+      "id": "r1",
+      "head": "教育",
+      "head_type": "概念",
+      "relation": "导致",
+      "relation_subtype": "不适用",
+      "tail": "人生观",
+      "tail_type": "概念",
+      "polarity": "positive",
+      "stance_score": 0.5,
+      "intensity": 0.5,
+      "evidence": "若能明白知道一班人所受过的教育都有大致相同的，他们的人生观，也可以测度得大致不差",
+      "confidence": 0.9
+    },
+    {
+      "id": "r2",
+      "head": "科学",
+      "head_type": "概念",
+      "relation": "证明",
+      "relation_subtype": "不适用",
+      "tail": "科学可以解决人生问题",
+      "tail_type": "观点",
+      "polarity": "positive",
+      "stance_score": 1.0,
+      "intensity": 0.9,
+      "evidence": "我的结论是：科学是凭藉因果和齐一两个原理而构造起来的；人生问题无论为生命之观念，或生活之态度，都不能逃出这两个原理的金刚圈，所以科学可以解决人生问题。",
+      "confidence": 0.9
+    },
+    {
+      "id": "r3",
+      "head": "因果",
+      "head_type": "概念",
+      "relation": "包含",
+      "relation_subtype": "不适用",
+      "tail": "科学",
+      "tail_type": "概念",
+      "polarity": "positive",
+      "stance_score": 1.0,
+      "intensity": 0.9,
+      "evidence": "科学是凭藉因果和齐一两个原理而构造起来的",
+      "confidence": 0.9
+    },
+    {
+      "id": "r4",
+      "head": "齐一",
+      "head_type": "概念",
+      "relation": "包含",
+      "relation_subtype": "不适用",
+      "tail": "科学",
+      "tail_type": "概念",
+      "polarity": "positive",
+      "stance_score": 1.0,
+      "intensity": 0.9,
+      "evidence": "科学是凭藉因果和齐一两个原理而构造起来的",
+      "confidence": 0.9
+    },
+    {
+      "id": "r5",
+      "head": "人生问题",
+      "head_type": "概念",
+      "relation": "包含",
+      "relation_subtype": "不适用",
+      "tail": "生命之观念",
+      "tail_type": "概念",
+      "polarity": "neutral",
+      "stance_score": 0.0,
+      "intensity": 0.0,
+      "evidence": "人生问题无论为生命之观念，或生活之态度",
+      "confidence": 0.9
+    },
+    {
+      "id": "r6",
+      "head": "人生问题",
+      "head_type": "概念",
+      "relation": "包含",
+      "relation_subtype": "不适用",
+      "tail": "生活之态度",
+      "tail_type": "概念",
+      "polarity": "neutral",
+      "stance_score": 0.0,
+      "intensity": 0.0,
+      "evidence": "人生问题无论为生命之观念，或生活之态度",
+      "confidence": 0.9
+    },
+    {
+      "id": "r7",
+      "head": "王星拱",
+      "head_type": "人物",
+      "relation": "批评",
+      "relation_subtype": "概念混淆批评",
+      "tail": "实验主义家",
+      "tail_type": "阵营/群体",
+      "polarity": "negative",
+      "stance_score": -0.5,
+      "intensity": 0.5,
+      "evidence": "实验主义家把价值和本质混在一处，固然也有可以訾议的地方。",
+      "confidence": 0.9
+    },
+    {
+      "id": "r8",
+      "head": "王星拱",
+      "head_type": "人物",
+      "relation": "相关",
+      "relation_subtype": "部分肯定",
+      "tail": "科学之明物致用的价值",
+      "tail_type": "概念",
+      "polarity": "positive",
+      "stance_score": 0.8,
+      "intensity": 0.7,
+      "evidence": "然而我们却也不能把科学之明物致用的价值，卑之无甚高论。",
+      "confidence": 0.9
+    },
+    {
+      "id": "r9",
+      "head": "智慧",
+      "head_type": "概念",
+      "relation": "对比",
+      "relation_subtype": "不适用",
+      "tail": "本能",
+      "tail_type": "概念",
+      "polarity": "positive",
+      "stance_score": 0.8,
+      "intensity": 0.8,
+      "evidence": "智慧之维持生活与改良生活，在经常的状况之下，总要比本能高千万倍。",
+      "confidence": 0.9
+    },
+    {
+      "id": "r10",
+      "head": "科学",
+      "head_type": "概念",
+      "relation": "属于",
+      "relation_subtype": "不适用",
+      "tail": "智慧发达之最高点",
+      "tail_type": "观点",
+      "polarity": "positive",
+      "stance_score": 1.0,
+      "intensity": 0.9,
+      "evidence": "科学为智慧发达之最高点。",
+      "confidence": 0.9
+    },
+    {
+      "id": "r11",
+      "head": "王星拱",
+      "head_type": "人物",
+      "relation": "批评",
+      "relation_subtype": "讽刺",
+      "tail": "我们中国一班穿长衫的先生们",
+      "tail_type": "阵营/群体",
+      "polarity": "negative",
+      "stance_score": -0.9,
+      "intensity": 0.9,
+      "evidence": "而且我们中国一班穿长衫的先生们，向来都欢喜偷懒逃入于“此天地之所以为大也”一个笼统的橡皮性的玻璃球里边，不肯切切实实底做去。",
+      "confidence": 0.9
+    },
+    {
+      "id": "r12",
+      "head": "王星拱",
+      "head_type": "人物",
+      "relation": "相关",
+      "relation_subtype": "援引权威支持",
+      "tail": "吴稚晖",
+      "tail_type": "人物",
+      "polarity": "positive",
+      "stance_score": 1.0,
+      "intensity": 0.8,
+      "evidence": "吴稚晖先生说得好：我们生活在这个世界上，是要把这个世界实现的东西，弄得很美满的，原来我们生活在这里就是这样的一回事。",
+      "confidence": 0.9
+    }
+  ],
+  "definitions": [
+    {
+      "id": "def1",
+      "term": "科学（狭义的）",
+      "definition": "科学（狭义的）中的定律，与人生观的平均代表类似。",
+      "evidence": "和在科学（狭义的）里的定律一样。",
+      "confidence": 0.8
+    },
+    {
+      "id": "def2",
+      "term": "科学",
+      "definition": "科学是凭藉因果和齐一两个原理而构造起来的。",
+      "evidence": "科学是凭藉因果和齐一两个原理而构造起来的",
+      "confidence": 0.9
+    },
+    {
+      "id": "def3",
+      "term": "人生问题",
+      "definition": "人生问题包括生命之观念和生活之态度。",
+      "evidence": "人生问题无论为生命之观念，或生活之态度",
+      "confidence": 0.9
+    }
+  ],
+  "citations": [
+    {
+      "id": "cit1",
+      "citer": "王星拱",
+      "quoted_author": "吴稚晖",
+      "quoted_work": "",
+      "quoted_claim": "我们生活在这个世界上，是要把这个世界实现的东西，弄得很美满的，原来我们生活在这里就是这样的一回事。",
+      "function": "援引权威支持",
+      "evidence": "吴稚晖先生说得好：我们生活在这个世界上，是要把这个世界实现的东西，弄得很美满的，原来我们生活在这里就是这样的一回事。",
+      "confidence": 0.9
+    }
+  ],
+  "rhetorical_devices": [
+    {
+      "id": "rh1",
+      "expression": "金刚圈",
+      "device_type": "比喻",
+      "literal_target": "因果和齐一两个原理的约束范围",
+      "function": "强调科学原理的不可逃脱性",
+      "evidence": "都不能逃出这两个原理的金刚圈",
+      "confidence": 0.9
+    },
+    {
+      "id": "rh2",
+      "expression": "一个笼统的橡皮性的玻璃球",
+      "device_type": "比喻",
+      "literal_target": "此天地之所以为大也这一笼统说法",
+      "function": "讽刺中国穿长衫的先生们逃避具体问题",
+      "evidence": "向来都欢喜偷懒逃入于“此天地之所以为大也”一个笼统的橡皮性的玻璃球里边",
+      "confidence": 0.9
+    }
+  ],
+  "uncertainties": [
+    {
+      "item": "实验主义家",
+      "reason": "文本未明确实验主义家具体指谁，仅作为群体提及。"
+    },
+    {
+      "item": "消费场",
+      "reason": "文本提到'连一个消费场都没有'，但未解释'消费场'的具体含义。"
+    }
+  ],
+  "_meta": {
+    "status": "success",
+    "stage": "extract",
+    "model": "deepseek-ai/DeepSeek-V4-Flash",
+    "base_url": "https://api.siliconflow.cn/v1",
+    "prompt_version": "v2.0",
+    "schema_version": "lite_v3.0",
+    "segment_id": "王星拱_000_4d6fdc04_s0013",
+    "article_id": "王星拱_000_4d6fdc04",
+    "char_start": 6587,
+    "char_end": 7187,
+    "raw_path": "E:\\1研究生\\岭南大学\\论文毕业\\capstone\\资料\\新的内容开始了\\local_upload\\kg_runs_v2\\王平陵_等4篇\\raw_outputs\\extract\\王星拱_000_4d6fdc04_s0013.txt",
+    "parsed_at": "2026-05-21T02:48:39",
+    "started_at": "2026-05-21T02:45:06",
+    "elapsed_seconds": 212.603,
+    "strict_evidence_check": true,
+    "drop_unsupported_evidence": true,
+    "request_timeout_seconds": 180
+  }
+}

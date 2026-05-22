@@ -1,0 +1,553 @@
+{
+  "metadata": {
+    "schema_version": "lite_v3.0",
+    "article_id": "吴稚晖_000_7d60d047",
+    "article_title": "箴洋八股化之理学",
+    "source_author": "吴稚晖",
+    "section_title": "（按",
+    "section_author": "（",
+    "segment_id": "吴稚晖_000_7d60d047_s0002",
+    "segment_index": 2,
+    "source_file": "E:\\1研究生\\岭南大学\\论文毕业\\capstone\\资料\\新的内容开始了\\local_upload\\input_吴稚晖\\吴稚晖.txt"
+  },
+  "entities": [
+    {
+      "id": "e1",
+      "name": "理想的无政府",
+      "canonical_name": "理想的无政府",
+      "type": "概念",
+      "evidence": "从今日而到理想的无政府",
+      "confidence": 0.9
+    },
+    {
+      "id": "e2",
+      "name": "欧战",
+      "canonical_name": "欧战",
+      "type": "历史事件",
+      "evidence": "比欧战大的三十六回",
+      "confidence": 0.9
+    },
+    {
+      "id": "e3",
+      "name": "小学强迫",
+      "canonical_name": "小学强迫",
+      "type": "概念",
+      "evidence": "小学强迫虽未普行于全世界",
+      "confidence": 0.9
+    },
+    {
+      "id": "e4",
+      "name": "中学强迫",
+      "canonical_name": "中学强迫",
+      "type": "概念",
+      "evidence": "中学强迫，在三十年后",
+      "confidence": 0.9
+    },
+    {
+      "id": "e5",
+      "name": "大学强迫",
+      "canonical_name": "大学强迫",
+      "type": "概念",
+      "evidence": "大学强迫在世界完全实行",
+      "confidence": 0.9
+    },
+    {
+      "id": "e6",
+      "name": "张君劢先生",
+      "canonical_name": "张君劢",
+      "type": "人物",
+      "evidence": "都具有张君劢先生的智识",
+      "confidence": 0.9
+    },
+    {
+      "id": "e7",
+      "name": "物质文明",
+      "canonical_name": "物质文明",
+      "type": "概念",
+      "evidence": "算得上物质文明么",
+      "confidence": 0.9
+    },
+    {
+      "id": "e8",
+      "name": "无战争",
+      "canonical_name": "无战争",
+      "type": "概念",
+      "evidence": "世界方能至于无战争",
+      "confidence": 0.9
+    },
+    {
+      "id": "e9",
+      "name": "德国",
+      "canonical_name": "德国",
+      "type": "阵营/群体",
+      "evidence": "德国物质文明忽进步不已",
+      "confidence": 0.9
+    },
+    {
+      "id": "e10",
+      "name": "英国",
+      "canonical_name": "英国",
+      "type": "阵营/群体",
+      "evidence": "英国物质文明也进步不已",
+      "confidence": 0.9
+    },
+    {
+      "id": "e11",
+      "name": "美国",
+      "canonical_name": "美国",
+      "type": "阵营/群体",
+      "evidence": "然若世界上都同美国一样",
+      "confidence": 0.9
+    },
+    {
+      "id": "e12",
+      "name": "印度",
+      "canonical_name": "印度",
+      "type": "阵营/群体",
+      "evidence": "印度有位张先生读太谷儿的好诗",
+      "confidence": 0.9
+    },
+    {
+      "id": "e13",
+      "name": "太谷儿",
+      "canonical_name": "太谷儿",
+      "type": "人物",
+      "evidence": "印度有位张先生读太谷儿的好诗",
+      "confidence": 0.9
+    },
+    {
+      "id": "e14",
+      "name": "南洋群岛",
+      "canonical_name": "南洋群岛",
+      "type": "阵营/群体",
+      "evidence": "南洋群岛有位张先生学巫来由长老的静坐",
+      "confidence": 0.9
+    },
+    {
+      "id": "e15",
+      "name": "巫来由长老",
+      "canonical_name": "巫来由长老",
+      "type": "人物",
+      "evidence": "南洋群岛有位张先生学巫来由长老的静坐",
+      "confidence": 0.9
+    },
+    {
+      "id": "e16",
+      "name": "中国",
+      "canonical_name": "中国",
+      "type": "阵营/群体",
+      "evidence": "中国又的确有位张先生",
+      "confidence": 0.9
+    },
+    {
+      "id": "e17",
+      "name": "程夫子",
+      "canonical_name": "程夫子",
+      "type": "人物",
+      "evidence": "在灰堆里拾着一个程夫子的玩物丧志",
+      "confidence": 0.9
+    },
+    {
+      "id": "e18",
+      "name": "玩物丧志",
+      "canonical_name": "玩物丧志",
+      "type": "概念",
+      "evidence": "在灰堆里拾着一个程夫子的玩物丧志",
+      "confidence": 0.9
+    },
+    {
+      "id": "e19",
+      "name": "张先生",
+      "canonical_name": "张先生",
+      "type": "人物",
+      "evidence": "张先生反对物质文明所促成",
+      "confidence": 0.9
+    },
+    {
+      "id": "e20",
+      "name": "柏林",
+      "canonical_name": "柏林",
+      "type": "阵营/群体",
+      "evidence": "从寸布一针都要叫柏林或伦敦供给",
+      "confidence": 0.9
+    },
+    {
+      "id": "e21",
+      "name": "伦敦",
+      "canonical_name": "伦敦",
+      "type": "阵营/群体",
+      "evidence": "从寸布一针都要叫柏林或伦敦供给",
+      "confidence": 0.9
+    }
+  ],
+  "claims": [
+    {
+      "id": "c1",
+      "speaker": "吴稚晖",
+      "claim": "从今日而到理想的无政府，至少还有比欧战大的三十六回，同欧战一样的七十二次",
+      "target": "理想的无政府",
+      "claim_type": "描述性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "从今日而到理想的无政府，至少还有比欧战大的三十六回，同欧战一样的七十二次",
+      "confidence": 0.9
+    },
+    {
+      "id": "c2",
+      "speaker": "吴稚晖",
+      "claim": "这是我的最干脆最让步的批评",
+      "target": "从今日而到理想的无政府，至少还有比欧战大的三十六回，同欧战一样的七十二次",
+      "claim_type": "评价性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "这是我的最干脆最让步的批评",
+      "confidence": 0.9
+    },
+    {
+      "id": "c3",
+      "speaker": "吴稚晖",
+      "claim": "小学强迫虽未普行于全世界，理论则已普遍",
+      "target": "小学强迫",
+      "claim_type": "描述性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "小学强迫虽未普行于全世界，理论则已普遍",
+      "confidence": 0.9
+    },
+    {
+      "id": "c4",
+      "speaker": "吴稚晖",
+      "claim": "中学强迫，在三十年后，世界上必有一区首先行之",
+      "target": "中学强迫",
+      "claim_type": "描述性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "中学强迫，在三十年后，世界上必有一区首先行之",
+      "confidence": 0.9
+    },
+    {
+      "id": "c5",
+      "speaker": "吴稚晖",
+      "claim": "大学强迫在世界完全实行，克己点说三千年，放个大炮说三百年后",
+      "target": "大学强迫",
+      "claim_type": "描述性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "大学强迫在世界完全实行，克己点说三千年，放个大炮说三百年后",
+      "confidence": 0.9
+    },
+    {
+      "id": "c6",
+      "speaker": "吴稚晖",
+      "claim": "到大学强迫的时节，街上的洋车夫，灶下的老妈子，都具有张君劢先生的智识，你想他还会做洋车夫么？还会做老妈子么？他们还肯战争么？他们还会当什么飞机汽车，算得上物质文明么？",
+      "target": "大学强迫",
+      "claim_type": "问题提出",
+      "claim_status": "作者推论",
+      "polarity": "neutral",
+      "evidence": "到大学强迫的时节，街上的洋车夫，灶下的老妈子，都具有张君劢先生的智识，你想他还会做洋车夫么？还会做老妈子么？他们还肯战争么？他们还会当什么飞机汽车，算得上物质文明么？",
+      "confidence": 0.9
+    },
+    {
+      "id": "c7",
+      "speaker": "吴稚晖",
+      "claim": "唯物质文明进步到不可思议，设备强迫全世界人的大学轻而易举，世界方能至于无战争",
+      "target": "无战争",
+      "claim_type": "因果主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "唯物质文明进步到不可思议，设备强迫全世界人的大学轻而易举，世界方能至于无战争",
+      "confidence": 0.9
+    },
+    {
+      "id": "c8",
+      "speaker": "吴稚晖",
+      "claim": "如谓此次欧战，如何促成，曰：是乃张先生反对物质文明所促成",
+      "target": "欧战",
+      "claim_type": "因果主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "如谓此次欧战，如何促成，曰：是乃张先生反对物质文明所促成",
+      "confidence": 0.9
+    },
+    {
+      "id": "c9",
+      "speaker": "有人",
+      "claim": "德国物质文明忽进步不已，制造了东西太多，思往外贩卖。英国物质文明也进步不已，制造了东西太多，也思往外贩卖。因而攘夺贩卖场，就弄到战争。这战争不是明明物质文明所促成？",
+      "target": "欧战",
+      "claim_type": "因果主张",
+      "claim_status": "间接转述",
+      "polarity": "negative",
+      "evidence": "有人曰，德国物质文明忽进步不已，制造了东西太多，思往外贩卖。英国物质文明也进步不已，制造了东西太多，也思往外贩卖。因而攘夺贩卖场，就弄到战争。这战争不是明明物质文明所促成？",
+      "confidence": 0.9
+    },
+    {
+      "id": "c10",
+      "speaker": "吴稚晖",
+      "claim": "这是事实，我所承认",
+      "target": "有人曰，德国物质文明忽进步不已，制造了东西太多，思往外贩卖。英国物质文明也进步不已，制造了东西太多，也思往外贩卖。因而攘夺贩卖场，就弄到战争。这战争不是明明物质文明所促成？",
+      "claim_type": "评价性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "我说这是事实，我所承认",
+      "confidence": 0.9
+    },
+    {
+      "id": "c11",
+      "speaker": "吴稚晖",
+      "claim": "然若世界上都同美国一样，他们到那里去寻贩卖场？还不是大家收了野心，互相交易而退，各得其所，每天发明点奇技淫巧，以相娱乐么？",
+      "target": "美国",
+      "claim_type": "假设情境",
+      "claim_status": "作者推论",
+      "polarity": "positive",
+      "evidence": "然若世界上都同美国一样，他们到那里去寻贩卖场？还不是大家收了野心，互相交易而退，各得其所，每天发明点奇技淫巧，以相娱乐么？",
+      "confidence": 0.9
+    },
+    {
+      "id": "c12",
+      "speaker": "吴稚晖",
+      "claim": "惟其印度有位张先生读太谷儿的好诗，反对物质文明；南洋群岛有位张先生学巫来由长老的静坐，反对物质文明；中国又的确有位张先生，在灰堆里拾着一个程夫子的玩物丧志，好像热狂的拜倒，又反对物质文明。然而从寸布一针都要叫柏林或伦敦供给",
+      "target": "张先生",
+      "claim_type": "反驳性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "惟其印度有位张先生读太谷儿的好诗，反对物质文明；南洋群岛有位张先生学巫来由长老的静坐，反对物质文明；中国又的确有位张先生，在灰堆里拾着一个程夫子的玩物丧志，好像热狂的拜倒，又反对物质文明。然而从寸布一针都要叫柏林或伦敦供给",
+      "confidence": 0.9
+    }
+  ],
+  "relations": [
+    {
+      "id": "r1",
+      "head": "吴稚晖",
+      "head_type": "人物",
+      "relation": "主张",
+      "relation_subtype": "不适用",
+      "tail": "从今日而到理想的无政府，至少还有比欧战大的三十六回，同欧战一样的七十二次",
+      "tail_type": "观点",
+      "polarity": "neutral",
+      "stance_score": 0.0,
+      "intensity": 0.5,
+      "evidence": "从今日而到理想的无政府，至少还有比欧战大的三十六回，同欧战一样的七十二次",
+      "confidence": 0.9
+    },
+    {
+      "id": "r2",
+      "head": "吴稚晖",
+      "head_type": "人物",
+      "relation": "评价",
+      "relation_subtype": "一般批评",
+      "tail": "从今日而到理想的无政府，至少还有比欧战大的三十六回，同欧战一样的七十二次",
+      "tail_type": "观点",
+      "polarity": "positive",
+      "stance_score": 0.5,
+      "intensity": 0.5,
+      "evidence": "这是我的最干脆最让步的批评",
+      "confidence": 0.9
+    },
+    {
+      "id": "r3",
+      "head": "吴稚晖",
+      "head_type": "人物",
+      "relation": "主张",
+      "relation_subtype": "不适用",
+      "tail": "小学强迫虽未普行于全世界，理论则已普遍",
+      "tail_type": "观点",
+      "polarity": "neutral",
+      "stance_score": 0.0,
+      "intensity": 0.5,
+      "evidence": "小学强迫虽未普行于全世界，理论则已普遍",
+      "confidence": 0.9
+    },
+    {
+      "id": "r4",
+      "head": "吴稚晖",
+      "head_type": "人物",
+      "relation": "主张",
+      "relation_subtype": "不适用",
+      "tail": "中学强迫，在三十年后，世界上必有一区首先行之",
+      "tail_type": "观点",
+      "polarity": "neutral",
+      "stance_score": 0.0,
+      "intensity": 0.5,
+      "evidence": "中学强迫，在三十年后，世界上必有一区首先行之",
+      "confidence": 0.9
+    },
+    {
+      "id": "r5",
+      "head": "吴稚晖",
+      "head_type": "人物",
+      "relation": "主张",
+      "relation_subtype": "不适用",
+      "tail": "大学强迫在世界完全实行，克己点说三千年，放个大炮说三百年后",
+      "tail_type": "观点",
+      "polarity": "neutral",
+      "stance_score": 0.0,
+      "intensity": 0.5,
+      "evidence": "大学强迫在世界完全实行，克己点说三千年，放个大炮说三百年后",
+      "confidence": 0.9
+    },
+    {
+      "id": "r6",
+      "head": "吴稚晖",
+      "head_type": "人物",
+      "relation": "主张",
+      "relation_subtype": "不适用",
+      "tail": "唯物质文明进步到不可思议，设备强迫全世界人的大学轻而易举，世界方能至于无战争",
+      "tail_type": "观点",
+      "polarity": "positive",
+      "stance_score": 1.0,
+      "intensity": 0.8,
+      "evidence": "唯物质文明进步到不可思议，设备强迫全世界人的大学轻而易举，世界方能至于无战争",
+      "confidence": 0.9
+    },
+    {
+      "id": "r7",
+      "head": "吴稚晖",
+      "head_type": "人物",
+      "relation": "归因于",
+      "relation_subtype": "不适用",
+      "tail": "张先生反对物质文明",
+      "tail_type": "观点",
+      "polarity": "negative",
+      "stance_score": -0.8,
+      "intensity": 0.8,
+      "evidence": "如谓此次欧战，如何促成，曰：是乃张先生反对物质文明所促成",
+      "confidence": 0.9
+    },
+    {
+      "id": "r8",
+      "head": "有人",
+      "head_type": "阵营/群体",
+      "relation": "主张",
+      "relation_subtype": "不适用",
+      "tail": "德国物质文明忽进步不已，制造了东西太多，思往外贩卖。英国物质文明也进步不已，制造了东西太多，也思往外贩卖。因而攘夺贩卖场，就弄到战争。这战争不是明明物质文明所促成？",
+      "tail_type": "观点",
+      "polarity": "negative",
+      "stance_score": -0.5,
+      "intensity": 0.5,
+      "evidence": "有人曰，德国物质文明忽进步不已，制造了东西太多，思往外贩卖。英国物质文明也进步不已，制造了东西太多，也思往外贩卖。因而攘夺贩卖场，就弄到战争。这战争不是明明物质文明所促成？",
+      "confidence": 0.9
+    },
+    {
+      "id": "r9",
+      "head": "吴稚晖",
+      "head_type": "人物",
+      "relation": "评价",
+      "relation_subtype": "部分肯定",
+      "tail": "有人曰，德国物质文明忽进步不已，制造了东西太多，思往外贩卖。英国物质文明也进步不已，制造了东西太多，也思往外贩卖。因而攘夺贩卖场，就弄到战争。这战争不是明明物质文明所促成？",
+      "tail_type": "观点",
+      "polarity": "positive",
+      "stance_score": 0.5,
+      "intensity": 0.5,
+      "evidence": "我说这是事实，我所承认",
+      "confidence": 0.9
+    },
+    {
+      "id": "r10",
+      "head": "吴稚晖",
+      "head_type": "人物",
+      "relation": "反驳",
+      "relation_subtype": "逻辑反驳",
+      "tail": "有人曰，德国物质文明忽进步不已，制造了东西太多，思往外贩卖。英国物质文明也进步不已，制造了东西太多，也思往外贩卖。因而攘夺贩卖场，就弄到战争。这战争不是明明物质文明所促成？",
+      "tail_type": "观点",
+      "polarity": "negative",
+      "stance_score": -0.5,
+      "intensity": 0.5,
+      "evidence": "然若世界上都同美国一样，他们到那里去寻贩卖场？还不是大家收了野心，互相交易而退，各得其所，每天发明点奇技淫巧，以相娱乐么？",
+      "confidence": 0.9
+    },
+    {
+      "id": "r11",
+      "head": "吴稚晖",
+      "head_type": "人物",
+      "relation": "批评",
+      "relation_subtype": "讽刺",
+      "tail": "张先生",
+      "tail_type": "人物",
+      "polarity": "negative",
+      "stance_score": -0.9,
+      "intensity": 0.9,
+      "evidence": "惟其印度有位张先生读太谷儿的好诗，反对物质文明；南洋群岛有位张先生学巫来由长老的静坐，反对物质文明；中国又的确有位张先生，在灰堆里拾着一个程夫子的玩物丧志，好像热狂的拜倒，又反对物质文明。然而从寸布一针都要叫柏林或伦敦供给",
+      "confidence": 0.9
+    },
+    {
+      "id": "r12",
+      "head": "吴稚晖",
+      "head_type": "人物",
+      "relation": "归因于",
+      "relation_subtype": "不适用",
+      "tail": "欧战",
+      "tail_type": "历史事件",
+      "polarity": "negative",
+      "stance_score": -0.8,
+      "intensity": 0.8,
+      "evidence": "如谓此次欧战，如何促成，曰：是乃张先生反对物质文明所促成",
+      "confidence": 0.9
+    }
+  ],
+  "definitions": [],
+  "citations": [
+    {
+      "id": "cit1",
+      "citer": "吴稚晖",
+      "quoted_author": "太谷儿",
+      "quoted_work": "好诗",
+      "quoted_claim": "",
+      "function": "作为批评对象",
+      "evidence": "印度有位张先生读太谷儿的好诗，反对物质文明",
+      "confidence": 0.9
+    },
+    {
+      "id": "cit2",
+      "citer": "吴稚晖",
+      "quoted_author": "程夫子",
+      "quoted_work": "",
+      "quoted_claim": "玩物丧志",
+      "function": "作为批评对象",
+      "evidence": "在灰堆里拾着一个程夫子的玩物丧志",
+      "confidence": 0.9
+    }
+  ],
+  "rhetorical_devices": [
+    {
+      "id": "rh1",
+      "expression": "放个大炮说三百年后",
+      "device_type": "夸张",
+      "literal_target": "大学强迫在世界完全实行的时间估计",
+      "function": "强调时间估计的随意性或夸张性",
+      "evidence": "大学强迫在世界完全实行，克己点说三千年，放个大炮说三百年后",
+      "confidence": 0.9
+    },
+    {
+      "id": "rh2",
+      "expression": "在灰堆里拾着一个程夫子的玩物丧志，好像热狂的拜倒",
+      "device_type": "讽刺",
+      "literal_target": "中国张先生对程夫子玩物丧志的崇拜",
+      "function": "讽刺张先生盲目崇拜陈旧观念",
+      "evidence": "中国又的确有位张先生，在灰堆里拾着一个程夫子的玩物丧志，好像热狂的拜倒，又反对物质文明",
+      "confidence": 0.9
+    },
+    {
+      "id": "rh3",
+      "expression": "从寸布一针都要叫柏林或伦敦供给",
+      "device_type": "讽刺",
+      "literal_target": "张先生反对物质文明却依赖物质文明",
+      "function": "讽刺张先生言行矛盾",
+      "evidence": "然而从寸布一针都要叫柏林或伦敦供给",
+      "confidence": 0.9
+    }
+  ],
+  "uncertainties": [
+    {
+      "item": "张先生的具体身份",
+      "reason": "文本中多次出现'张先生'，可能指代不同人物，但未明确区分。印度、南洋群岛、中国各有一位张先生，但未给出具体姓名。"
+    },
+    {
+      "item": "巫来由长老的具体身份",
+      "reason": "文本中仅提及'巫来由长老'，未提供更多背景信息。"
+    },
+    {
+      "item": "程夫子的具体身份",
+      "reason": "文本中仅提及'程夫子'，未明确是程颐还是程颢。"
+    }
+  ]
+}

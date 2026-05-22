@@ -1,0 +1,357 @@
+{
+  "metadata": {
+    "schema_version": "lite_v3.0",
+    "article_id": "范寿康_000_14d2ac72",
+    "article_title": "评所谓“科学与玄学之争”",
+    "source_author": "范寿康",
+    "section_title": "",
+    "section_author": "",
+    "segment_id": "范寿康_000_14d2ac72_s0001",
+    "segment_index": 1,
+    "source_file": "E:\\1研究生\\岭南大学\\论文毕业\\capstone\\资料\\新的内容开始了\\local_upload\\input_v2_w0\\范寿康.txt"
+  },
+  "entities": [
+    {
+      "id": "e1",
+      "name": "梁氏",
+      "canonical_name": "梁氏",
+      "type": "人物",
+      "evidence": "梁氏这段评论最是确当。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e2",
+      "name": "人生观",
+      "canonical_name": "人生观",
+      "type": "概念",
+      "evidence": "究竟他们两位所谓‘人生观’，所谓‘科学’，是否同属一件东西",
+      "confidence": 1.0
+    },
+    {
+      "id": "e3",
+      "name": "科学",
+      "canonical_name": "科学",
+      "type": "概念",
+      "evidence": "究竟他们两位所谓‘人生观’，所谓‘科学’，是否同属一件东西",
+      "confidence": 1.0
+    },
+    {
+      "id": "e4",
+      "name": "讨论的程次和范围",
+      "canonical_name": "讨论的程次和范围",
+      "type": "概念",
+      "evidence": "这次论争的缺点我以为第一就在讨论的程次和范围问题多被忽视的一点。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e5",
+      "name": "伏园氏",
+      "canonical_name": "伏园氏",
+      "type": "人物",
+      "evidence": "梁氏而外，伏园氏也有一种提案。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e6",
+      "name": "玄学",
+      "canonical_name": "玄学",
+      "type": "概念",
+      "evidence": "玄学是什么？科学是什么？人生观是什么？",
+      "confidence": 1.0
+    },
+    {
+      "id": "e7",
+      "name": "哲学",
+      "canonical_name": "哲学",
+      "type": "概念",
+      "evidence": "还有一个更重要的定义应该明白的，就是哲学是什么？",
+      "confidence": 1.0
+    },
+    {
+      "id": "e8",
+      "name": "狭义的科学",
+      "canonical_name": "狭义的科学",
+      "type": "概念",
+      "evidence": "不是他已承认科学只能为狭义的科学（不包含哲学在内）么？",
+      "confidence": 1.0
+    },
+    {
+      "id": "e9",
+      "name": "广义的科学",
+      "canonical_name": "广义的科学",
+      "type": "概念",
+      "evidence": "但是争论者所指的科学倘是广义的科学",
+      "confidence": 1.0
+    },
+    {
+      "id": "e10",
+      "name": "王星拱",
+      "canonical_name": "王星拱",
+      "type": "人物",
+      "evidence": "王星拱论《科学与人生观》，他所定的程次和范围也还不错",
+      "confidence": 1.0
+    },
+    {
+      "id": "e11",
+      "name": "《科学与人生观》",
+      "canonical_name": "《科学与人生观》",
+      "type": "文章",
+      "evidence": "王星拱论《科学与人生观》",
+      "confidence": 1.0
+    }
+  ],
+  "claims": [
+    {
+      "id": "c1",
+      "speaker": "范寿康",
+      "claim": "梁氏这段评论最是确当。",
+      "target": "梁氏",
+      "claim_type": "评价性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "梁氏这段评论最是确当。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c2",
+      "speaker": "范寿康",
+      "claim": "这次论争的缺点我以为第一就在讨论的程次和范围问题多被忽视的一点。",
+      "target": "论争",
+      "claim_type": "评价性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "这次论争的缺点我以为第一就在讨论的程次和范围问题多被忽视的一点。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c3",
+      "speaker": "范寿康",
+      "claim": "梁氏独具只眼，对于这个问题，独能首先认定清楚，而且他又能与以相当的解决，他确不愧为论坛的老将。",
+      "target": "梁氏",
+      "claim_type": "评价性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "梁氏独具只眼，对于这个问题，独能首先认定清楚，而且他又能与以相当的解决，他确不愧为论坛的老将。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c4",
+      "speaker": "伏园氏",
+      "claim": "至少，我以为双方都应该宣布自己对这三个名词的定义。",
+      "target": "双方",
+      "claim_type": "规范性主张",
+      "claim_status": "间接转述",
+      "polarity": "neutral",
+      "evidence": "不过至少，我以为双方都应该宣布自己对这三个名词的定义。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c5",
+      "speaker": "伏园氏",
+      "claim": "要讨论这个问题，只是下了那三个定义还不够，我以为还有一个更重要的定义应该明白的，就是哲学是什么？",
+      "target": "讨论",
+      "claim_type": "问题提出",
+      "claim_status": "间接转述",
+      "polarity": "neutral",
+      "evidence": "不过要讨论这个问题，只是下了那三个定义还不够，我以为还有一个更重要的定义应该明白的，就是哲学是什么？",
+      "confidence": 1.0
+    },
+    {
+      "id": "c6",
+      "speaker": "范寿康",
+      "claim": "伏园氏这个提案虽足以证明他注意到讨论的程次和范围，然而我觉得他的见解已落梁氏之后。",
+      "target": "伏园氏",
+      "claim_type": "评价性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "mixed",
+      "evidence": "伏园氏这个提案虽足以证明他注意到讨论的程次和范围，然而我觉得他的见解已落梁氏之后。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c7",
+      "speaker": "范寿康",
+      "claim": "他于科学之外，另立一个哲学，不是他已承认科学只能为狭义的科学（不包含哲学在内）么？",
+      "target": "伏园氏",
+      "claim_type": "反驳性主张",
+      "claim_status": "作者推论",
+      "polarity": "negative",
+      "evidence": "他于科学之外，另立一个哲学，不是他已承认科学只能为狭义的科学（不包含哲学在内）么？",
+      "confidence": 1.0
+    },
+    {
+      "id": "c8",
+      "speaker": "范寿康",
+      "claim": "但是争论者所指的科学倘是广义的科学，那末，他这个另论哲学的意见又未免是另生枝节了。",
+      "target": "伏园氏",
+      "claim_type": "反驳性主张",
+      "claim_status": "作者推论",
+      "polarity": "negative",
+      "evidence": "但是争论者所指的科学倘是广义的科学，那末，他这个另论哲学的意见又未免是另生枝节了。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c9",
+      "speaker": "范寿康",
+      "claim": "王星拱论《科学与人生观》，他所定的程次和范围也还不错，他对于这一层的见解，大体与梁氏相同。",
+      "target": "王星拱",
+      "claim_type": "评价性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "王星拱论《科学与人生观》，他所定的程次和范围也还不错，他对于这一层的见解，大体与梁氏相同。",
+      "confidence": 1.0
+    }
+  ],
+  "relations": [
+    {
+      "id": "r1",
+      "head": "范寿康",
+      "head_type": "人物",
+      "relation": "相关",
+      "relation_subtype": "部分肯定",
+      "tail": "伏园氏",
+      "tail_type": "人物",
+      "polarity": "mixed",
+      "stance_score": 0.0,
+      "intensity": 0.5,
+      "evidence": "伏园氏这个提案虽足以证明他注意到讨论的程次和范围，然而我觉得他的见解已落梁氏之后。",
+      "confidence": 1.0
+    },
+    {
+      "id": "r2",
+      "head": "范寿康",
+      "head_type": "人物",
+      "relation": "相关",
+      "relation_subtype": "一般批评",
+      "tail": "论争",
+      "tail_type": "概念",
+      "polarity": "negative",
+      "stance_score": -0.5,
+      "intensity": 0.5,
+      "evidence": "这次论争的缺点我以为第一就在讨论的程次和范围问题多被忽视的一点。",
+      "confidence": 1.0
+    },
+    {
+      "id": "r3",
+      "head": "范寿康",
+      "head_type": "人物",
+      "relation": "相关",
+      "relation_subtype": "援引权威",
+      "tail": "梁氏",
+      "tail_type": "人物",
+      "polarity": "positive",
+      "stance_score": 1.0,
+      "intensity": 0.9,
+      "evidence": "梁氏这段评论最是确当。",
+      "confidence": 1.0
+    },
+    {
+      "id": "r4",
+      "head": "范寿康",
+      "head_type": "人物",
+      "relation": "相关",
+      "relation_subtype": "援引权威",
+      "tail": "梁氏",
+      "tail_type": "人物",
+      "polarity": "positive",
+      "stance_score": 1.0,
+      "intensity": 0.9,
+      "evidence": "梁氏独具只眼，对于这个问题，独能首先认定清楚，而且他又能与以相当的解决，他确不愧为论坛的老将。",
+      "confidence": 1.0
+    },
+    {
+      "id": "r5",
+      "head": "范寿康",
+      "head_type": "人物",
+      "relation": "相关",
+      "relation_subtype": "部分肯定",
+      "tail": "王星拱",
+      "tail_type": "人物",
+      "polarity": "positive",
+      "stance_score": 0.5,
+      "intensity": 0.4,
+      "evidence": "王星拱论《科学与人生观》，他所定的程次和范围也还不错，他对于这一层的见解，大体与梁氏相同。",
+      "confidence": 1.0
+    }
+  ],
+  "definitions": [
+    {
+      "id": "def1",
+      "term": "狭义的科学",
+      "definition": "不包含哲学在内的科学",
+      "evidence": "不是他已承认科学只能为狭义的科学（不包含哲学在内）么？",
+      "confidence": 1.0
+    },
+    {
+      "id": "def2",
+      "term": "广义的科学",
+      "definition": "可能包含哲学的科学",
+      "evidence": "但是争论者所指的科学倘是广义的科学",
+      "confidence": 0.8
+    }
+  ],
+  "citations": [
+    {
+      "id": "cit1",
+      "citer": "范寿康",
+      "quoted_author": "伏园氏",
+      "quoted_work": "《玄学科学论战杂话》",
+      "quoted_claim": "要讨论这个问题，只是下了那三个定义还不够，我以为还有一个更重要的定义应该明白的，就是哲学是什么？",
+      "function": "作为批评对象",
+      "evidence": "不过要讨论这个问题，只是下了那三个定义还不够，我以为还有一个更重要的定义应该明白的，就是哲学是什么？",
+      "confidence": 1.0
+    }
+  ],
+  "rhetorical_devices": [
+    {
+      "id": "rh1",
+      "expression": "拈起来就驳",
+      "device_type": "比喻",
+      "literal_target": "论战中的反驳行为",
+      "function": "形象化描述论战中的轻率反驳",
+      "evidence": "拈起来就驳。",
+      "confidence": 0.9
+    },
+    {
+      "id": "rh2",
+      "expression": "论坛的老将",
+      "device_type": "比喻",
+      "literal_target": "梁氏",
+      "function": "赞扬梁氏在论战中的经验和能力",
+      "evidence": "他确不愧为论坛的老将。",
+      "confidence": 1.0
+    }
+  ],
+  "uncertainties": [
+    {
+      "item": "梁氏具体指谁",
+      "reason": "文本中未给出全名，仅称'梁氏'，无法确定具体人物身份。"
+    },
+    {
+      "item": "伏园氏具体指谁",
+      "reason": "文本中未给出全名，仅称'伏园氏'，无法确定具体人物身份。"
+    },
+    {
+      "item": "王星拱的《科学与人生观》是否为正式文章标题",
+      "reason": "文本中写'论《科学与人生观》'，可能指文章或著作，但未明确说明。"
+    }
+  ],
+  "_meta": {
+    "status": "success",
+    "stage": "extract",
+    "model": "deepseek-ai/DeepSeek-V4-Flash",
+    "base_url": "https://api.siliconflow.cn/v1",
+    "prompt_version": "v2.0",
+    "schema_version": "lite_v3.0",
+    "segment_id": "范寿康_000_14d2ac72_s0001",
+    "article_id": "范寿康_000_14d2ac72",
+    "char_start": 504,
+    "char_end": 1095,
+    "raw_path": "E:\\1研究生\\岭南大学\\论文毕业\\capstone\\资料\\新的内容开始了\\local_upload\\kg_runs_v2\\王平陵_等4篇\\raw_outputs\\extract\\范寿康_000_14d2ac72_s0001.txt",
+    "parsed_at": "2026-05-21T03:25:30",
+    "started_at": "2026-05-21T03:22:03",
+    "elapsed_seconds": 207.333,
+    "strict_evidence_check": true,
+    "drop_unsupported_evidence": true,
+    "request_timeout_seconds": 180
+  }
+}

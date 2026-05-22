@@ -1,0 +1,596 @@
+{
+  "metadata": {
+    "schema_version": "lite_v3.0",
+    "article_id": "唐钺_003_1292971a",
+    "article_title": "科学的范围",
+    "source_author": "唐钺",
+    "section_title": "林先生说：“譬如一步一步的先搜集材料，次假定公例，又次试验证明，这样诚实有条理，固然应用到那一方面都相宜。然科学若仅指这种空空洞洞的方法，那么凡做人能够诚实有条理的（按",
+    "section_author": "林先生说：“譬如一步一步的先搜集材料，次假定公例，又次试验证明，这样诚实有条理，固然应用到那一方面都相宜。然科学若仅指这种空空洞洞的方法，那么凡做人能够诚实有条理的（",
+    "segment_id": "唐钺_003_1292971a_s0005",
+    "segment_index": 5,
+    "source_file": "E:\\1研究生\\岭南大学\\论文毕业\\capstone\\资料\\新的内容开始了\\local_upload\\input_唐钺\\唐钺.txt"
+  },
+  "entities": [
+    {
+      "id": "e1",
+      "name": "科学",
+      "canonical_name": "科学",
+      "type": "概念",
+      "evidence": "所以不能说一切科学没有惟一的共同方法。既然有惟一的共同方法，那末，当然可以说凡用这种方法的研究都是科学。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e2",
+      "name": "惟一的共同方法",
+      "canonical_name": "惟一的共同方法",
+      "type": "概念",
+      "evidence": "所以不能说一切科学没有惟一的共同方法。既然有惟一的共同方法，那末，当然可以说凡用这种方法的研究都是科学。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e3",
+      "name": "这种空空洞洞的",
+      "canonical_name": "这种空空洞洞的",
+      "type": "评价",
+      "evidence": "或者以为“这种空空洞洞的”共同方法，不是科学独到的地方；我们提倡科学，不应该仅仅指这样抽象的方法。",
+      "confidence": 0.8
+    },
+    {
+      "id": "e4",
+      "name": "科学方法",
+      "canonical_name": "科学方法",
+      "type": "概念",
+      "evidence": "因为（第一）科学方法，非文字所能满意地介绍的；（第二）今日的中国已过了提倡科学时期而应该入于实地研究的时期了。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e5",
+      "name": "今日的中国",
+      "canonical_name": "今日的中国",
+      "type": "阵营/群体",
+      "evidence": "今日的中国已过了提倡科学时期而应该入于实地研究的时期了。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e6",
+      "name": "提倡科学时期",
+      "canonical_name": "提倡科学时期",
+      "type": "阶段",
+      "evidence": "今日的中国已过了提倡科学时期而应该入于实地研究的时期了。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e7",
+      "name": "实地研究的时期",
+      "canonical_name": "实地研究的时期",
+      "type": "阶段",
+      "evidence": "今日的中国已过了提倡科学时期而应该入于实地研究的时期了。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e8",
+      "name": "科学的性质",
+      "canonical_name": "科学的性质",
+      "type": "概念",
+      "evidence": "但是，这番又翻起科学方法的问题，是由于有人误解科学的性质，并不是因为学科学者要仍旧提倡抽象的方法的缘故。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e9",
+      "name": "有人",
+      "canonical_name": "有人",
+      "type": "阵营/群体",
+      "evidence": "但是，这番又翻起科学方法的问题，是由于有人误解科学的性质，并不是因为学科学者要仍旧提倡抽象的方法的缘故。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e10",
+      "name": "学科学者",
+      "canonical_name": "学科学者",
+      "type": "阵营/群体",
+      "evidence": "但是，这番又翻起科学方法的问题，是由于有人误解科学的性质，并不是因为学科学者要仍旧提倡抽象的方法的缘故。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e11",
+      "name": "天地间没有一件不是科学的材料",
+      "canonical_name": "天地间没有一件不是科学的材料",
+      "type": "观点",
+      "evidence": "很有许多人以为既是天地间没有一件不是科学的材料，那末，岂不是人类只有科学而不用再有别的活动吗？",
+      "confidence": 1.0
+    },
+    {
+      "id": "e12",
+      "name": "人类只有科学而不用再有别的活动",
+      "canonical_name": "人类只有科学而不用再有别的活动",
+      "type": "观点",
+      "evidence": "很有许多人以为既是天地间没有一件不是科学的材料，那末，岂不是人类只有科学而不用再有别的活动吗？",
+      "confidence": 1.0
+    },
+    {
+      "id": "e13",
+      "name": "误会",
+      "canonical_name": "误会",
+      "type": "评价",
+      "evidence": "这是误会。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e14",
+      "name": "一个东西，可以同时为几种活动的材料",
+      "canonical_name": "一个东西，可以同时为几种活动的材料",
+      "type": "观点",
+      "evidence": "一个东西，可以同时为几种活动的材料。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e15",
+      "name": "解剖学",
+      "canonical_name": "解剖学",
+      "type": "概念",
+      "evidence": "就科学内举例，如解剖学与生理学都是以动物的驱体为材料。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e16",
+      "name": "生理学",
+      "canonical_name": "生理学",
+      "type": "概念",
+      "evidence": "就科学内举例，如解剖学与生理学都是以动物的驱体为材料。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e17",
+      "name": "动物的驱体",
+      "canonical_name": "动物的驱体",
+      "type": "概念",
+      "evidence": "就科学内举例，如解剖学与生理学都是以动物的驱体为材料。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e18",
+      "name": "西湖的山水",
+      "canonical_name": "西湖的山水",
+      "type": "例证",
+      "evidence": "举普通的例，如西湖的山水，既然可以为地质学研究的材料（在科学的范围内），同时可以供我们的流连欣赏（在艺术的范围内）。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e19",
+      "name": "地质学",
+      "canonical_name": "地质学",
+      "type": "概念",
+      "evidence": "举普通的例，如西湖的山水，既然可以为地质学研究的材料（在科学的范围内），同时可以供我们的流连欣赏（在艺术的范围内）。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e20",
+      "name": "艺术",
+      "canonical_name": "艺术",
+      "type": "概念",
+      "evidence": "举普通的例，如西湖的山水，既然可以为地质学研究的材料（在科学的范围内），同时可以供我们的流连欣赏（在艺术的范围内）。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e21",
+      "name": "学术界的地盘被科学占尽",
+      "canonical_name": "学术界的地盘被科学占尽",
+      "type": "观点",
+      "evidence": "所以恐怕学术界的地盘被科学占尽的人们，是心有罣碍，所以妄生恐怖；若无罣碍，就可以远离虚惊了。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e22",
+      "name": "心有罣碍",
+      "canonical_name": "心有罣碍",
+      "type": "评价",
+      "evidence": "所以恐怕学术界的地盘被科学占尽的人们，是心有罣碍，所以妄生恐怖；若无罣碍，就可以远离虚惊了。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e23",
+      "name": "妄生恐怖",
+      "canonical_name": "妄生恐怖",
+      "type": "评价",
+      "evidence": "所以恐怕学术界的地盘被科学占尽的人们，是心有罣碍，所以妄生恐怖；若无罣碍，就可以远离虚惊了。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e24",
+      "name": "虚惊",
+      "canonical_name": "虚惊",
+      "type": "评价",
+      "evidence": "所以恐怕学术界的地盘被科学占尽的人们，是心有罣碍，所以妄生恐怖；若无罣碍，就可以远离虚惊了。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e25",
+      "name": "科学范围",
+      "canonical_name": "科学范围",
+      "type": "概念",
+      "evidence": "以上是我对于科学范围的浅见。",
+      "confidence": 1.0
+    }
+  ],
+  "claims": [
+    {
+      "id": "c1",
+      "speaker": "作者",
+      "claim": "一切科学有惟一的共同方法。",
+      "target": "科学",
+      "claim_type": "描述性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "所以不能说一切科学没有惟一的共同方法。既然有惟一的共同方法，那末，当然可以说凡用这种方法的研究都是科学。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c2",
+      "speaker": "作者",
+      "claim": "凡用这种方法的研究都是科学。",
+      "target": "科学",
+      "claim_type": "定义性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "既然有惟一的共同方法，那末，当然可以说凡用这种方法的研究都是科学。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c3",
+      "speaker": "作者",
+      "claim": "这种空空洞洞的共同方法，不是科学独到的地方；我们提倡科学，不应该仅仅指这样抽象的方法。",
+      "target": "科学方法",
+      "claim_type": "反驳性主张",
+      "claim_status": "间接转述",
+      "polarity": "negative",
+      "evidence": "或者以为“这种空空洞洞的”共同方法，不是科学独到的地方；我们提倡科学，不应该仅仅指这样抽象的方法。",
+      "confidence":  permalink: 0.9
+    },
+    {
+      "id": "c4",
+      "speaker": "作者",
+      "claim": "我极表同情。",
+      "target": "这种空空洞洞的共同方法，不是科学独到的地方；我们提倡科学，不应该仅仅指这样抽象的方法。",
+      "claim_type": "评价性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "这话，我极表同情。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c5",
+      "speaker": "作者",
+      "claim": "在今日不特不必提倡科学的共同方法，就是各科的特殊方法也不必提倡。",
+      "target": "科学方法",
+      "claim_type": "规范性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "我还要进一步说，在今日不特不必提倡科学的共同方法，就是各科的特殊方法也不必提倡。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c6",
+      "speaker": "作者",
+      "claim": "科学方法，非文字所能满意地介绍的。",
+      "target": "科学方法",
+      "claim_type": "描述性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "因为（第一）科学方法，非文字所能满意地介绍的。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c7",
+      "speaker": "作者",
+      "claim": "今日的中国已过了提倡科学时期而应该入于实地研究的时期了。",
+      "target": "今日的中国",
+      "claim_type": "描述性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "今日的中国已过了提倡科学时期而应该入于实地研究的时期了。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c8",
+      "speaker": "作者",
+      "claim": "这番又翻起科学方法的问题，是由于有人误解科学的性质，并不是因为学科学者要仍旧提倡抽象的方法的缘故。",
+      "target": "科学方法",
+      "claim_type": "因果主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "但是，这番又翻起科学方法的问题，是由于有人误解科学的性质，并不是因为学科学者要仍旧提倡抽象的方法的缘故。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c9",
+      "speaker": "作者",
+      "claim": "既是天地间没有一件不是科学的材料，那末，岂不是人类只有科学而不用再有别的活动吗？这是误会。",
+      "target": "科学",
+      "claim_type": "反驳性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "很有许多人以为既是天地间没有一件不是科学的材料，那末，岂不是人类只有科学而不用再有别的活动吗？这是误会。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c10",
+      "speaker": "作者",
+      "claim": "一个东西，可以同时为几种活动的材料。",
+      "target": "科学",
+      "claim_type": "描述性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "一个东西，可以同时为几种活动的材料。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c11",
+      "speaker": "作者",
+      "claim": "解剖学与生理学都是以动物的驱体为材料。",
+      "target": "解剖学",
+      "claim_type": "描述性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "就科学内举例，如解剖学与生理学都是以动物的驱体为材料。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c12",
+      "speaker": "作者",
+      "claim": "西湖的山水，既然可以为地质学研究的材料（在科学的范围内），同时可以供我们的流连欣赏（在艺术的范围内）。",
+      "target": "西湖的山水",
+      "claim_type": "描述性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "举普通的例，如西湖的山水，既然可以为地质学研究的材料（在科学的范围内），同时可以供我们的流连欣赏（在艺术的范围内）。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c13",
+      "speaker": "作者",
+      "claim": "恐怕学术界的地盘被科学占尽的人们，是心有罣碍，所以妄生恐怖；若无罣碍，就可以远离虚惊了。",
+      "target": "科学",
+      "claim_type": "评价性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "所以恐怕学术界的地盘被科学占尽的人们，是心有罣碍，所以妄生恐怖；若无罣碍，就可以远离虚惊了。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c14",
+      "speaker": "作者",
+      "claim": "以上是我对于科学范围的浅见。",
+      "target": "科学范围",
+      "claim_type": "结论性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "以上是我对于科学范围的浅见。",
+      "confidence": 1.0
+    }
+  ],
+  "relations": [
+    {
+      "id": "r1",
+      "head": "一切科学",
+      "head_type": "概念",
+      "relation": "主张",
+      "relation_subtype": "不适用",
+      "tail": "有惟一的共同方法",
+      "tail_type": "观点",
+      "polarity": "positive",
+      "stance_score": 1.0,
+      "intensity": 0.8,
+      "evidence": "所以不能说一切科学没有惟一的共同方法。既然有惟一的共同方法，那末，当然可以说凡用这种方法的研究都是科学。",
+      "confidence": 1.0
+    },
+    {
+      "id": "r2",
+      "head": "凡用这种方法的研究",
+      "head_type": "概念",
+      "relation": "定义",
+      "relation_subtype": "概念澄清",
+      "tail": "科学",
+      "tail_type": "概念",
+      "polarity": "positive",
+      "stance_score": 1.0,
+      "intensity": 0.8,
+      "evidence": "既然有惟一的共同方法，那末，当然可以说凡用这种方法的研究都是科学。",
+      "confidence": 1.0
+    },
+    {
+      "id": "r3",
+      "head": "作者",
+      "head_type": "人物",
+      "relation": "回应",
+      "relation_subtype": "部分肯定",
+      "tail": "这种空空洞洞的共同方法，不是科学独到的地方；我们提倡科学，不应该仅仅指这样抽象的方法。",
+      "tail_type": "观点",
+      "polarity": "positive",
+      "stance_score": 0.5,
+      "intensity": 0.6,
+      "evidence": "这话，我极表同情。我还要进一步说，在今日不特不必提倡科学的共同方法，就是各科的特殊方法也不必提倡。",
+      "confidence": 1.0
+    },
+    {
+      "id": "r4",
+      "head": "作者",
+      "head_type": "人物",
+      "relation": "主张",
+      "relation_subtype": "不适用",
+      "tail": "在今日不特不必提倡科学的共同方法，就是各科的特殊方法也不必提倡。",
+      "tail_type": "观点",
+      "polarity": "negative",
+      "stance_score": -0.8,
+      "intensity": 0.7,
+      "evidence": "我还要进一步说，在今日不特不必提倡科学的共同方法，就是各科的特殊方法也不必提倡。",
+      "confidence": 1.0
+    },
+    {
+      "id": "r5",
+      "head": "科学方法",
+      "head_type": "概念",
+      "relation": "解释",
+      "relation_subtype": "不适用",
+      "tail": "非文字所能满意地介绍的",
+      "tail_type": "观点",
+      "polarity": "negative",
+      "stance_score": -0.5,
+      "intensity": 0.5,
+      "evidence": "因为（第一）科学方法，非文字所能满意地介绍的。",
+      "confidence": 1.0
+    },
+    {
+      "id": "r6",
+      "head": "今日的中国",
+      "head_type": "阵营/群体",
+      "relation": "主张",
+      "relation_subtype": "不适用",
+      "tail": "已过了提倡科学时期而应该入于实地研究的时期了",
+      "tail_type": "观点",
+      "polarity": "positive",
+      "stance_score": 0.8,
+      "intensity": 0.7,
+      "evidence": "今日的中国已过了提倡科学时期而应该入于实地研究的时期了。",
+      "confidence": 1.0
+    },
+    {
+      "id": "r7",
+      "head": "有人误解科学的性质",
+      "head_type": "观点",
+      "relation": "导致",
+      "relation_subtype": "不适用",
+      "tail": "翻起科学方法的问题",
+      "tail_type": "观点",
+      "polarity": "negative",
+      "stance_score": -0.6,
+      "intensity": 0.5,
+      "evidence": "但是，这番又翻起科学方法的问题，是由于有人误解科学的性质，并不是因为学科学者要仍旧提倡抽象的方法的缘故。",
+      "confidence": 1.0
+    },
+    {
+      "id": "r8",
+      "head": "作者",
+      "head_type": "人物",
+      "relation": "反驳",
+      "relation_subtype": "逻辑反驳",
+      "tail": "既是天地间没有一件不是科学的材料，那末，岂不是人类只有科学而不用再有别的活动吗？",
+      "tail_type": "观点",
+      "polarity": "negative",
+      "stance_score": -0.9,
+      "intensity": 0.8,
+      "evidence": "很有许多人以为既是天地间没有一件不是科学的材料，那末，岂不是人类只有科学而不用再有别的活动吗？这是误会。",
+      "confidence": 1.0
+    },
+    {
+      "id": "r9",
+      "head": "一个东西，可以同时为几种活动的材料",
+      "head_type": "观点",
+      "relation": "作为论据支持",
+      "relation_subtype": "不适用",
+      "tail": "反驳“人类只有科学而不用再有别的活动”",
+      "tail_type": "观点",
+      "polarity": "positive",
+      "stance_score": 0.9,
+      "intensity": 0.8,
+      "evidence": "一个东西，可以同时为几种活动的材料。就科学内举例，如解剖学与生理学都是以动物的驱体为材料。举普通的例，如西湖的山水，既然可以为地质学研究的材料（在科学的范围内），同时可以供我们的流连欣赏（在艺术的范围内）。",
+      "confidence": 1.0
+    },
+    {
+      "id": "r10",
+      "head": "解剖学",
+      "head_type": "概念",
+      "relation": "属于",
+      "relation_subtype": "不适用",
+      "tail": "科学",
+      "tail_type": "概念",
+      "polarity": "neutral",
+      "stance_score": 0.0,
+      "intensity": 0.0,
+      "evidence": "就科学内举例，如解剖学与生理学都是以动物的驱体为材料。",
+      "confidence": 1.0
+    },
+    {
+      "id": "r11",
+      "head": "生理学",
+      "head_type": "概念",
+      "relation": "属于",
+      "relation_subtype": "不适用",
+      "tail": "科学",
+      "tail_type": "概念",
+      "polarity": "neutral",
+      "stance_score": 0.0,
+      "intensity": 0.0,
+      "evidence": "就科学内举例，如解剖学与生理学都是以动物的驱体为材料。",
+      "confidence": 1.0
+    },
+    {
+      "id": "r12",
+      "head": "西湖的山水",
+      "head_type": "例证",
+      "relation": "属于",
+      "relation_subtype": "不适用",
+      "tail": "地质学研究的材料",
+      "tail_type": "概念",
+      "polarity": "neutral",
+      "stance_score": 0.0,
+      "intensity": 0.0,
+      "evidence": "举普通的例，如西湖的山水，既然可以为地质学研究的材料（在科学的范围内），同时可以供我们的流连欣赏（在艺术的范围内）。",
+      "confidence": 1.0
+    },
+    {
+      "id": "r13",
+      "head": "西湖的山水",
+      "head_type": "例证",
+      "relation": "属于",
+      "relation_subtype": "不适用",
+      "tail": "艺术",
+      "tail_type": "概念",
+      "polarity": "neutral",
+      "stance_score": 0.0,
+      "intensity": 0.0,
+      "evidence": "举普通的例，如西湖的山水，既然可以为地质学研究的材料（在科学的范围内），同时可以供我们的流连欣赏（在艺术的范围内）。",
+      "confidence": 1.0
+    },
+    {
+      "id": "r14",
+      "head": "作者",
+      "head_type": "人物",
+      "relation": "评价",
+      "relation_subtype": "讽刺",
+      "tail": "恐怕学术界的地盘被科学占尽的人们",
+      "tail_type": "阵营/群体",
+      "polarity": "negative",
+      "stance_score": -0.8,
+      "intensity": 0.7,
+      "evidence": "所以恐怕学术界的地盘被科学占尽的人们，是心有罣碍，所以妄生恐怖；若无罣碍，就可以远离虚惊了。",
+      "confidence": 1.0
+    }
+  ],
+  "definitions": [
+    {
+      "id": "def1",
+      "term": "科学",
+      "definition": "凡用有惟一的共同方法的研究都是科学。",
+      "evidence": "既然有惟一的共同方法，那末，当然可以说凡用这种方法的研究都是科学。",
+      "confidence": 1.0
+    }
+  ],
+  "citations": [],
+  "rhetorical_devices": [
+    {
+      "id": "rh1",
+      "expression": "心有罣碍，所以妄生恐怖；若无罣碍，就可以远离虚惊了",
+      "device_type": "比喻",
+      "literal_target": "担心科学侵占其他学术领域的人",
+      "function": "讽刺性地批评那些担心科学范围过大的观点",
+      "evidence": "所以恐怕学术界的地盘被科学占尽的人们，是心有罣碍，所以妄生恐怖；若无罣碍，就可以远离虚惊了。",
+      "confidence": 1.0
+    }
+  ],
+  "uncertainties": [
+    {
+      "item": "林先生的观点是否被完整转述",
+      "reason": "文本中只出现了林先生的部分引文，且元数据中section_title和section_author包含林先生的话，但当前文本片段未直接引用林先生，而是作者在回应或转述。"
+    }
+  ]
+}

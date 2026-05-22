@@ -1,0 +1,423 @@
+{
+  "metadata": {
+    "schema_version": "lite_v2.0",
+    "article_id": "吴稚晖_001_b4c0e810",
+    "article_title": "一个新信仰的宇宙观及人生观",
+    "source_author": "吴稚晖",
+    "section_title": "讲到这里，第一层可先用不值钱的玄学理想，近乎游戏的，说道毛厕里的石头亦有感觉。苍蝇的感觉，非即人的感觉，他们感觉的状况，颇极差等。玫瑰树的感觉，非即苍蝇的感觉，他们的感觉，又极差等。如是焉能禁我来瞎说，毛厕里石头的感觉，非即玫瑰树的感觉，他们感觉的状况，也极差等。若欲强分高下，则石头有其寂然不动的感觉，真所谓无私心而合天理，所以贞固永寿。一块毛厕里的石头，可以阅几十代人而依然如故，见数百兆苍蝇存灭，看千万棵玫瑰树忽而芬芳，忽而萎枯。彼如曰毛厕里的石头为万物之灵，理由亦未尝不充足。彼另有彼之可感与彼之可觉，人与苍蝇及玫瑰树之感觉，皆非彼所需，故亦非彼所有，如是而已。然这种蹈空的掉枪花，我们中国古代的玄学鬼常用“孰为正色，孰为正味”等的论调，闹得甚嚣尘上。自然受过科学洗礼的玄学鬼，不肯就把这种空言，来作惟一的搪塞。所以说到第二层，他就要戴上科学面具，正正经经，板起了面孔，来断定毛厕里的石头亦有感觉。他不是说能够",
+    "section_author": "讲到这里，第一层可先用不值钱的玄学理想，近乎游戏的，说道毛厕里的石头亦有感觉。苍蝇的感觉，非即人的感觉，他们感觉的状况，颇极差等。玫瑰树的感觉，非即苍蝇的感觉，他们的感觉，又极差等。如是焉能禁我来瞎说，毛厕里石头的感觉，非即玫瑰树的感觉，他们感觉的状况，也极差等。若欲强分高下，则石头有其寂然不动的感觉，真所谓无私心而合天理，所以贞固永寿。一块毛厕里的石头，可以阅几十代人而依然如故，见数百兆苍蝇存灭，看千万棵玫瑰树忽而芬芳，忽而萎枯。彼如曰毛厕里的石头为万物之灵，理由亦未尝不充足。彼另有彼之可感与彼之可觉，人与苍蝇及玫瑰树之感觉，皆非彼所需，故亦非彼所有，如是而已。然这种蹈空的掉枪花，我们中国古代的玄学鬼常用“孰为正色，孰为正味”等的论调，闹得甚嚣尘上。自然受过科学洗礼的玄学鬼，不肯就把这种空言，来作惟一的搪塞。所以说到第二层，他就要戴上科学面具，正正经经，板起了面孔，来断定毛厕里的石头亦有感觉。他不是说能够",
+    "segment_id": "吴稚晖_001_b4c0e810_s0020",
+    "segment_index": 20,
+    "source_file": "E:\\1研究生\\岭南大学\\论文毕业\\capstone\\资料\\新的内容开始了\\local_upload\\input_w0\\吴稚晖.txt"
+  },
+  "entities": [
+    {
+      "id": "e1",
+      "name": "胡适之",
+      "canonical_name": "胡适",
+      "type": "人物",
+      "evidence": "一是胡适之先生",
+      "confidence": 1.0
+    },
+    {
+      "id": "e2",
+      "name": "丁在君",
+      "canonical_name": "丁文江",
+      "type": "人物",
+      "evidence": "丁在君先生怒打玄学鬼",
+      "confidence": 1.0
+    },
+    {
+      "id": "e3",
+      "name": "朱谦之",
+      "canonical_name": "朱谦之",
+      "type": "人物",
+      "evidence": "二是朱谦之先生",
+      "confidence": 1.0
+    },
+    {
+      "id": "e4",
+      "name": "梁漱溟",
+      "canonical_name": "梁漱溟",
+      "type": "人物",
+      "evidence": "三是梁漱溟先生",
+      "confidence": 1.0
+    },
+    {
+      "id": "e5",
+      "name": "梁卓如",
+      "canonical_name": "梁启超",
+      "type": "人物",
+      "evidence": "四是那位老将梁卓如先生",
+      "confidence": 1.0
+    },
+    {
+      "id": "e6",
+      "name": "张先生",
+      "canonical_name": "张君劢",
+      "type": "人物",
+      "evidence": "张先生的人生观，就不免受了二位梁先生的暗示",
+      "confidence": 0.9
+    },
+    {
+      "id": "e7",
+      "name": "欧立克",
+      "canonical_name": "欧立克",
+      "type": "人物",
+      "evidence": "英人鼎鼎大名欧立克的“精神元素”",
+      "confidence": 1.0
+    },
+    {
+      "id": "e8",
+      "name": "玄学鬼",
+      "canonical_name": "玄学鬼",
+      "type": "阵营/群体",
+      "evidence": "丁在君先生怒打玄学鬼",
+      "confidence": 1.0
+    },
+    {
+      "id": "e9",
+      "name": "精神元素",
+      "canonical_name": "精神元素",
+      "type": "概念",
+      "evidence": "英人鼎鼎大名欧立克的“精神元素”",
+      "confidence": 1.0
+    },
+    {
+      "id": "e10",
+      "name": "灵魂",
+      "canonical_name": "灵魂",
+      "type": "概念",
+      "evidence": "这就是一个变相名词的灵魂罢了",
+      "confidence": 1.0
+    },
+    {
+      "id": "e11",
+      "name": "上帝",
+      "canonical_name": "上帝",
+      "type": "概念",
+      "evidence": "那里可以否认上帝同灵魂",
+      "confidence": 1.0
+    },
+    {
+      "id": "e12",
+      "name": "人生观",
+      "canonical_name": "人生观",
+      "type": "概念",
+      "evidence": "张先生的人生观，就不免受了二位梁先生的暗示",
+      "confidence": 1.0
+    },
+    {
+      "id": "e13",
+      "name": "吴稚晖",
+      "canonical_name": "吴稚晖",
+      "type": "人物",
+      "evidence": "我批评他是一个中国学者而有西洋思想",
+      "confidence": 1.0
+    }
+  ],
+  "claims": [
+    {
+      "id": "c1",
+      "speaker": "吴稚晖",
+      "claim": "胡适之是一个中国学者而有西洋思想",
+      "target": "胡适之",
+      "claim_type": "价值评价",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "我批评他是一个中国学者而有西洋思想",
+      "confidence": 1.0
+    },
+    {
+      "id": "c2",
+      "speaker": "吴稚晖",
+      "claim": "朱谦之是一个印度学者而有西洋思想",
+      "target": "朱谦之",
+      "claim_type": "价值评价",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "我批评他是一个印度学者而有西洋思想",
+      "confidence": 1.0
+    },
+    {
+      "id": "c3",
+      "speaker": "吴稚晖",
+      "claim": "梁漱溟是一个印度学者而有三分西洋思想，七分中国思想",
+      "target": "梁漱溟",
+      "claim_type": "价值评价",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "我批评他是一个印度学者而有三分西洋思想，七分中国思想",
+      "confidence": 1.0
+    },
+    {
+      "id": "c4",
+      "speaker": "吴稚晖",
+      "claim": "梁卓如是一个西洋学者而有中国思想",
+      "target": "梁卓如",
+      "claim_type": "价值评价",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "我批评他是一个西洋学者而有中国思想",
+      "confidence": 1.0
+    },
+    {
+      "id": "c5",
+      "speaker": "吴稚晖",
+      "claim": "张先生的人生观受了二位梁先生的暗示",
+      "target": "张先生",
+      "claim_type": "历史解释",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "张先生的人生观，就不免受了二位梁先生的暗示",
+      "confidence": 0.9
+    },
+    {
+      "id": "c6",
+      "speaker": "吴稚晖",
+      "claim": "张先生亦是一个学者里的暴徒，不应缚手缚脚到如此",
+      "target": "张先生",
+      "claim_type": "价值评价",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "否则张先生亦是一个学者里的暴徒，不应缚手缚脚到如此",
+      "confidence": 0.9
+    },
+    {
+      "id": "c7",
+      "speaker": "吴稚晖",
+      "claim": "张先生有苦衷，一则在清华学校的讲堂上，那里可以否认上帝同灵魂；二则他以为对将赴美国的学生说话，这是一股清凉散",
+      "target": "张先生",
+      "claim_type": "历史解释",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "虽然他亦有苦衷，一则在清华学校的讲堂上，那里可以否认上帝同灵魂；二则他以为对将赴美国的学生说话，这是一股清凉散",
+      "confidence": 0.9
+    },
+    {
+      "id": "c8",
+      "speaker": "吴稚晖",
+      "claim": "二位梁先生的人生观，不免大大的太可斟酌了",
+      "target": "梁漱溟、梁卓如",
+      "claim_type": "价值评价",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "二位梁先生的人生观，不免大大的太可斟酌了",
+      "confidence": 1.0
+    },
+    {
+      "id": "c9",
+      "speaker": "吴稚晖",
+      "claim": "欧立克的“精神元素”是一个变相名词的灵魂",
+      "target": "精神元素",
+      "claim_type": "定义性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "这就是一个变相名词的灵魂罢了",
+      "confidence": 1.0
+    },
+    {
+      "id": "c10",
+      "speaker": "吴稚晖",
+      "claim": "张先生引欧氏之语曰：“第三曰精神元素之作用，此为一种深远能力，非常人所能察知。”这正用得着丁先生所谓无赖玄学鬼的鬼攀谈",
+      "target": "张先生",
+      "claim_type": "论战策略批评",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "这正用得着丁先生所谓无赖玄学鬼的鬼攀谈",
+      "confidence": 1.0
+    }
+  ],
+  "relations": [
+    {
+      "id": "r1",
+      "head": "吴稚晖",
+      "head_type": "人物",
+      "relation": "批评",
+      "relation_subtype": "一般批评",
+      "tail": "胡适之",
+      "tail_type": "人物",
+      "polarity": "positive",
+      "evidence": "我批评他是一个中国学者而有西洋思想",
+      "confidence": 1.0
+    },
+    {
+      "id": "r2",
+      "head": "吴稚晖",
+      "head_type": "人物",
+      "relation": "批评",
+      "relation_subtype": "一般批评",
+      "tail": "朱谦之",
+      "tail_type": "人物",
+      "polarity": "neutral",
+      "evidence": "我批评他是一个印度学者而有西洋思想",
+      "confidence": 1.0
+    },
+    {
+      "id": "r3",
+      "head": "吴稚晖",
+      "head_type": "人物",
+      "relation": "批评",
+      "relation_subtype": "一般批评",
+      "tail": "梁漱溟",
+      "tail_type": "人物",
+      "polarity": "neutral",
+      "evidence": "我批评他是一个印度学者而有三分西洋思想，七分中国思想",
+      "confidence": 1.0
+    },
+    {
+      "id": "r4",
+      "head": "吴稚晖",
+      "head_type": "人物",
+      "relation": "批评",
+      "relation_subtype": "一般批评",
+      "tail": "梁卓如",
+      "tail_type": "人物",
+      "polarity": "neutral",
+      "evidence": "我批评他是一个西洋学者而有中国思想",
+      "confidence": 1.0
+    },
+    {
+      "id": "r5",
+      "head": "张先生",
+      "head_type": "人物",
+      "relation": "归因于",
+      "relation_subtype": "不适用",
+      "tail": "梁漱溟",
+      "tail_type": "人物",
+      "polarity": "negative",
+      "evidence": "张先生的人生观，就不免受了二位梁先生的暗示",
+      "confidence": 0.9
+    },
+    {
+      "id": "r6",
+      "head": "张先生",
+      "head_type": "人物",
+      "relation": "归因于",
+      "relation_subtype": "不适用",
+      "tail": "梁卓如",
+      "tail_type": "人物",
+      "polarity": "negative",
+      "evidence": "张先生的人生观，就不免受了二位梁先生的暗示",
+      "confidence": 0.9
+    },
+    {
+      "id": "r7",
+      "head": "吴稚晖",
+      "head_type": "人物",
+      "relation": "批评",
+      "relation_subtype": "一般批评",
+      "tail": "张先生",
+      "tail_type": "人物",
+      "polarity": "negative",
+      "evidence": "否则张先生亦是一个学者里的暴徒，不应缚手缚脚到如此",
+      "confidence": 0.9
+    },
+    {
+      "id": "r8",
+      "head": "吴稚晖",
+      "head_type": "人物",
+      "relation": "批评",
+      "relation_subtype": "一般批评",
+      "tail": "梁漱溟",
+      "tail_type": "人物",
+      "polarity": "negative",
+      "evidence": "二位梁先生的人生观，不免大大的太可斟酌了",
+      "confidence": 1.0
+    },
+    {
+      "id": "r9",
+      "head": "吴稚晖",
+      "head_type": "人物",
+      "relation": "批评",
+      "relation_subtype": "一般批评",
+      "tail": "梁卓如",
+      "tail_type": "人物",
+      "polarity": "negative",
+      "evidence": "二位梁先生的人生观，不免大大的太可斟酌了",
+      "confidence": 1.0
+    },
+    {
+      "id": "r10",
+      "head": "精神元素",
+      "head_type": "概念",
+      "relation": "属于",
+      "relation_subtype": "不适用",
+      "tail": "灵魂",
+      "tail_type": "概念",
+      "polarity": "negative",
+      "evidence": "这就是一个变相名词的灵魂罢了",
+      "confidence": 1.0
+    },
+    {
+      "id": "r11",
+      "head": "吴稚晖",
+      "head_type": "人物",
+      "relation": "引用",
+      "relation_subtype": "援引权威反驳",
+      "tail": "欧立克",
+      "tail_type": "人物",
+      "polarity": "negative",
+      "evidence": "张先生引欧氏之语曰：“第三曰精神元素之作用，此为一种深远能力，非常人所能察知。”这正用得着丁先生所谓无赖玄学鬼的鬼攀谈",
+      "confidence": 1.0
+    },
+    {
+      "id": "r12",
+      "head": "丁在君",
+      "head_type": "人物",
+      "relation": "批评",
+      "relation_subtype": "一般批评",
+      "tail": "玄学鬼",
+      "tail_type": "阵营/群体",
+      "polarity": "negative",
+      "evidence": "丁在君先生怒打玄学鬼",
+      "confidence": 1.0
+    },
+    {
+      "id": "r13",
+      "head": "丁在君",
+      "head_type": "人物",
+      "relation": "支持",
+      "relation_subtype": "不适用",
+      "tail": "胡适之",
+      "tail_type": "人物",
+      "polarity": "positive",
+      "evidence": "丁在君先生怒打玄学鬼，也定是同胡先生携手着奋斗的",
+      "confidence": 1.0
+    }
+  ],
+  "definitions": [],
+  "citations": [
+    {
+      "id": "cit1",
+      "citer": "张先生",
+      "quoted_author": "欧立克",
+      "quoted_work": "",
+      "quoted_claim": "第三曰精神元素之作用，此为一种深远能力，非常人所能察知",
+      "function": "作为批评对象",
+      "evidence": "张先生引欧氏之语曰：“第三曰精神元素之作用，此为一种深远能力，非常人所能察知。”",
+      "confidence": 1.0
+    }
+  ],
+  "rhetorical_devices": [
+    {
+      "id": "rh1",
+      "expression": "无赖玄学鬼的鬼攀谈",
+      "device_type": "标签化",
+      "literal_target": "张先生引用欧立克精神元素观点的行为",
+      "function": "讽刺批评对手的论证为鬼话",
+      "evidence": "这正用得着丁先生所谓无赖玄学鬼的鬼攀谈",
+      "confidence": 1.0
+    }
+  ],
+  "uncertainties": [
+    {
+      "item": "张先生的具体身份",
+      "reason": "文本中只称'张先生'，未给出全名，根据上下文推测为张君劢，但原文未明确"
+    },
+    {
+      "item": "二位梁先生具体指梁漱溟和梁卓如，但'二位梁先生'在文中出现两次，第一次可能指梁漱溟和梁卓如，第二次明确指梁漱溟和梁卓如",
+      "reason": "文本中'二位梁先生'指代一致，但需确认"
+    }
+  ]
+}

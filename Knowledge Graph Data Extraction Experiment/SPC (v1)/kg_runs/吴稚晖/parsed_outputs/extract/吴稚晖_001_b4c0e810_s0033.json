@@ -1,0 +1,410 @@
+{
+  "metadata": {
+    "schema_version": "lite_v2.0",
+    "article_id": "吴稚晖_001_b4c0e810",
+    "article_title": "一个新信仰的宇宙观及人生观",
+    "source_author": "吴稚晖",
+    "section_title": "讲到这里，第一层可先用不值钱的玄学理想，近乎游戏的，说道毛厕里的石头亦有感觉。苍蝇的感觉，非即人的感觉，他们感觉的状况，颇极差等。玫瑰树的感觉，非即苍蝇的感觉，他们的感觉，又极差等。如是焉能禁我来瞎说，毛厕里石头的感觉，非即玫瑰树的感觉，他们感觉的状况，也极差等。若欲强分高下，则石头有其寂然不动的感觉，真所谓无私心而合天理，所以贞固永寿。一块毛厕里的石头，可以阅几十代人而依然如故，见数百兆苍蝇存灭，看千万棵玫瑰树忽而芬芳，忽而萎枯。彼如曰毛厕里的石头为万物之灵，理由亦未尝不充足。彼另有彼之可感与彼之可觉，人与苍蝇及玫瑰树之感觉，皆非彼所需，故亦非彼所有，如是而已。然这种蹈空的掉枪花，我们中国古代的玄学鬼常用“孰为正色，孰为正味”等的论调，闹得甚嚣尘上。自然受过科学洗礼的玄学鬼，不肯就把这种空言，来作惟一的搪塞。所以说到第二层，他就要戴上科学面具，正正经经，板起了面孔，来断定毛厕里的石头亦有感觉。他不是说能够按",
+    "section_author": "讲到这里，第一层可先用不值钱的玄学理想，近乎游戏的，说道毛厕里的石头亦有感觉。苍蝇的感觉，非即人的感觉，他们感觉的状况，颇极差等。玫瑰树的感觉，非即苍蝇的感觉，他们的感觉，又极差等。如是焉能禁我来瞎说，毛厕里石头的感觉，非即玫瑰树的感觉，他们感觉的状况，也极差等。若欲强分高下，则石头有其寂然不动的感觉，真所谓无私心而合天理，所以贞固永寿。一块毛厕里的石头，可以阅几十代人而依然如故，见数百兆苍蝇存灭，看千万棵玫瑰树忽而芬芳，忽而萎枯。彼如曰毛厕里的石头为万物之灵，理由亦未尝不充足。彼另有彼之可感与彼之可觉，人与苍蝇及玫瑰树之感觉，皆非彼所需，故亦非彼所有，如是而已。然这种蹈空的掉枪花，我们中国古代的玄学鬼常用“孰为正色，孰为正味”等的论调，闹得甚嚣尘上。自然受过科学洗礼的玄学鬼，不肯就把这种空言，来作惟一的搪塞。所以说到第二层，他就要戴上科学面具，正正经经，板起了面孔，来断定毛厕里的石头亦有感觉。他不是说能够",
+    "segment_id": "吴稚晖_001_b4c0e810_s0033",
+    "segment_index": 33,
+    "source_file": "E:\\1研究生\\岭南大学\\论文毕业\\capstone\\资料\\新的内容开始了\\local_upload\\input_w0\\吴稚晖.txt"
+  },
+  "entities": [
+    {
+      "id": "e1",
+      "name": "梁漱溟",
+      "canonical_name": "梁漱溟",
+      "type": "人物",
+      "evidence": "便是梁漱溟先生所谓向前要求的",
+      "confidence": 1.0
+    },
+    {
+      "id": "e2",
+      "name": "漆黑一团",
+      "canonical_name": "漆黑一团",
+      "type": "概念",
+      "evidence": "把“漆黑一团”去说明了",
+      "confidence": 1.0
+    },
+    {
+      "id": "e3",
+      "name": "宇宙万有",
+      "canonical_name": "宇宙万有",
+      "type": "概念",
+      "evidence": "宇宙万有唱戏的季候",
+      "confidence": 1.0
+    },
+    {
+      "id": "e4",
+      "name": "人生",
+      "canonical_name": "人生",
+      "type": "概念",
+      "evidence": "“人生”也在中间占有演唱的钟点",
+      "confidence": 1.0
+    },
+    {
+      "id": "e5",
+      "name": "无始之始",
+      "canonical_name": "无始之始",
+      "type": "概念",
+      "evidence": "无始之始，我们已经不管三七二十一，把“漆黑一团”去说明了",
+      "confidence": 1.0
+    },
+    {
+      "id": "e6",
+      "name": "无终之终",
+      "canonical_name": "无终之终",
+      "type": "概念",
+      "evidence": "那无终之终又如何呢",
+      "confidence": 1.0
+    },
+    {
+      "id": "e7",
+      "name": "无外之大",
+      "canonical_name": "无外之大",
+      "type": "概念",
+      "evidence": "从“无内之小”到“无外之大”",
+      "confidence": 1.0
+    },
+    {
+      "id": "e8",
+      "name": "无内之小",
+      "canonical_name": "无内之小",
+      "type": "概念",
+      "evidence": "从“无内之小”到“无外之大”",
+      "confidence": 1.0
+    },
+    {
+      "id": "e9",
+      "name": "常常高兴者",
+      "canonical_name": "常常高兴者",
+      "type": "阵营/群体",
+      "evidence": "有的是“常常高兴者”，他愿意尽变不歇",
+      "confidence": 1.0
+    },
+    {
+      "id": "e10",
+      "name": "死不高兴者",
+      "canonical_name": "死不高兴者",
+      "type": "阵营/群体",
+      "evidence": "有的是“死不高兴者”，他到底不愿再变",
+      "confidence": 1.0
+    },
+    {
+      "id": "e11",
+      "name": "也能高兴而到底退缩者",
+      "canonical_name": "也能高兴而到底退缩者",
+      "type": "阵营/群体",
+      "evidence": "有的是“也能高兴而到底退缩者”，他很盼望不必尽变",
+      "confidence": 1.0
+    },
+    {
+      "id": "e12",
+      "name": "向前要求",
+      "canonical_name": "向前要求",
+      "type": "概念",
+      "evidence": "便是梁漱溟先生所谓向前要求的",
+      "confidence": 1.0
+    },
+    {
+      "id": "e13",
+      "name": "向后要求",
+      "canonical_name": "向后要求",
+      "type": "概念",
+      "evidence": "便是梁先生所谓向后要求的",
+      "confidence": 1.0
+    },
+    {
+      "id": "e14",
+      "name": "持中",
+      "canonical_name": "持中",
+      "type": "概念",
+      "evidence": "便是梁先生所谓持中的",
+      "confidence": 1.0
+    },
+    {
+      "id": "e15",
+      "name": "下棋",
+      "canonical_name": "下棋",
+      "type": "比喻/类比",
+      "evidence": "第一个譬况是“下棋”",
+      "confidence": 1.0
+    },
+    {
+      "id": "e16",
+      "name": "进步",
+      "canonical_name": "进步",
+      "type": "概念",
+      "evidence": "所谓进步，属甲",
+      "confidence": 1.0
+    },
+    {
+      "id": "e17",
+      "name": "真美善",
+      "canonical_name": "真美善",
+      "type": "概念",
+      "evidence": "甲以为真美善是有的，是无穷的",
+      "confidence": 1.0
+    },
+    {
+      "id": "e18",
+      "name": "宇宙观",
+      "canonical_name": "宇宙观",
+      "type": "著作",
+      "evidence": "我在《宇宙观》的结束",
+      "confidence": 1.0
+    }
+  ],
+  "claims": [
+    {
+      "id": "c1",
+      "speaker": "吴稚晖",
+      "claim": "无始之始，我们已经不管三七二十一，把“漆黑一团”去说明了",
+      "target": "无始之始",
+      "claim_type": "结论性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "无始之始，我们已经不管三七二十一，把“漆黑一团”去说明了",
+      "confidence": 1.0
+    },
+    {
+      "id": "c2",
+      "speaker": "吴稚晖",
+      "claim": "宇宙万有的众兄弟们，虽然都是那漆黑一团，所谓整个儿“一个”的分裂了的变相",
+      "target": "宇宙万有",
+      "claim_type": "本体论主张",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "说是我们宇宙万有的众兄弟们，虽然都是那漆黑一团，所谓整个儿“一个”的分裂了的变相",
+      "confidence": 1.0
+    },
+    {
+      "id": "c3",
+      "speaker": "吴稚晖",
+      "claim": "既分裂了，便自然的各有个性",
+      "target": "宇宙万有",
+      "claim_type": "本体论主张",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "然而既分裂了，便自然的各有个性",
+      "confidence": 1.0
+    },
+    {
+      "id": "c4",
+      "speaker": "吴稚晖",
+      "claim": "有的是“常常高兴者”，他愿意尽变不歇，便是梁漱溟先生所谓向前要求的",
+      "target": "常常高兴者",
+      "claim_type": "定义性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "有的是“常常高兴者”，他愿意尽变不歇，便是梁漱溟先生所谓向前要求的",
+      "confidence": 1.0
+    },
+    {
+      "id": "c5",
+      "speaker": "吴稚晖",
+      "claim": "有的是“死不高兴者”，他到底不愿再变，便是梁先生所谓向后要求的",
+      "target": "死不高兴者",
+      "claim_type": "定义性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "有的是“死不高兴者”，他到底不愿再变，便是梁先生所谓向后要求的",
+      "confidence": 1.0
+    },
+    {
+      "id": "c6",
+      "speaker": "吴稚晖",
+      "claim": "有的是“也能高兴而到底退缩者”，他很盼望不必尽变，便是梁先生所谓持中的",
+      "target": "也能高兴而到底退缩者",
+      "claim_type": "定义性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "有的是“也能高兴而到底退缩者”，他很盼望不必尽变，便是梁先生所谓持中的",
+      "confidence": 1.0
+    },
+    {
+      "id": "c7",
+      "speaker": "吴稚晖",
+      "claim": "甲以为真美善是有的，是无穷的",
+      "target": "真美善",
+      "claim_type": "价值评价",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "甲以为真美善是有的，是无穷的",
+      "confidence": 1.0
+    }
+  ],
+  "relations": [
+    {
+      "id": "r1",
+      "head": "常常高兴者",
+      "head_type": "阵营/群体",
+      "relation": "属于",
+      "tail": "向前要求",
+      "tail_type": "概念",
+      "polarity": "neutral",
+      "evidence": "有的是“常常高兴者”，他愿意尽变不歇，便是梁漱溟先生所谓向前要求的",
+      "confidence": 1.0
+    },
+    {
+      "id": "r2",
+      "head": "死不高兴者",
+      "head_type": "阵营/群体",
+      "relation": "属于",
+      "tail": "向后要求",
+      "tail_type": "概念",
+      "polarity": "neutral",
+      "evidence": "有的是“死不高兴者”，他到底不愿再变，便是梁先生所谓向后要求的",
+      "confidence": 1.0
+    },
+    {
+      "id": "r3",
+      "head": "也能高兴而到底退缩者",
+      "head_type": "阵营/群体",
+      "relation": "属于",
+      "tail": "持中",
+      "tail_type": "概念",
+      "polarity": "neutral",
+      "evidence": "有的是“也能高兴而到底退缩者”，他很盼望不必尽变，便是梁先生所谓持中的",
+      "confidence": 1.0
+    },
+    {
+      "id": "r4",
+      "head": "下棋",
+      "head_type": "比喻/类比",
+      "relation": "类比",
+      "tail": "进步",
+      "tail_type": "概念",
+      "polarity": "neutral",
+      "evidence": "第一个譬况是“下棋”得到向前要求的结果，所谓进步，属甲",
+      "confidence": 1.0
+    }
+  ],
+  "definitions": [
+    {
+      "id": "def1",
+      "term": "常常高兴者",
+      "definition": "愿意尽变不歇，即向前要求",
+      "evidence": "有的是“常常高兴者”，他愿意尽变不歇，便是梁漱溟先生所谓向前要求的",
+      "confidence": 1.0
+    },
+    {
+      "id": "def2",
+      "term": "死不高兴者",
+      "definition": "到底不愿再变，即向后要求",
+      "evidence": "有的是“死不高兴者”，他到底不愿再变，便是梁先生所谓向后要求的",
+      "confidence": 1.0
+    },
+    {
+      "id": "def3",
+      "term": "也能高兴而到底退缩者",
+      "definition": "很盼望不必尽变，即持中",
+      "evidence": "有的是“也能高兴而到底退缩者”，他很盼望不必尽变，便是梁先生所谓持中的",
+      "confidence": 1.0
+    }
+  ],
+  "citations": [
+    {
+      "id": "cit1",
+      "citer": "吴稚晖",
+      "quoted_author": "梁漱溟",
+      "quoted_work": "",
+      "quoted_claim": "向前要求",
+      "function": "援引权威支持",
+      "evidence": "便是梁漱溟先生所谓向前要求的",
+      "confidence": 1.0
+    },
+    {
+      "id": "cit2",
+      "citer": "吴稚晖",
+      "quoted_author": "梁漱溟",
+      "quoted_work": "",
+      "quoted_claim": "向后要求",
+      "function": "援引权威支持",
+      "evidence": "便是梁先生所谓向后要求的",
+      "confidence": 1.0
+    },
+    {
+      "id": "cit3",
+      "citer": "吴稚晖",
+      "quoted_author": "梁漱溟",
+      "quoted_work": "",
+      "quoted_claim": "持中",
+      "function": "援引权威支持",
+      "evidence": "便是梁先生所谓持中的",
+      "confidence": 1.0
+    }
+  ],
+  "rhetorical_devices": [
+    {
+      "id": "rh1",
+      "expression": "漆黑一团",
+      "device_type": "比喻",
+      "literal_target": "宇宙的原始状态",
+      "function": "形象化描述宇宙本源",
+      "evidence": "把“漆黑一团”去说明了",
+      "confidence": 1.0
+    },
+    {
+      "id": "rh2",
+      "expression": "宇宙万有唱戏的季候",
+      "device_type": "比喻",
+      "literal_target": "时间线",
+      "function": "将时间比喻为戏剧季节，说明宇宙万有在时间中的活动",
+      "evidence": "从“无始之始”到“无终之终”这条时间线，就是宇宙万有唱戏的季候",
+      "confidence": 1.0
+    },
+    {
+      "id": "rh3",
+      "expression": "宇宙万有唱戏的台盘",
+      "device_type": "比喻",
+      "literal_target": "空间场",
+      "function": "将空间比喻为戏剧舞台，说明宇宙万有在空间中的活动",
+      "evidence": "从“无内之小”到“无外之大”，这个空间场，就是宇宙万有唱戏的台盘",
+      "confidence": 1.0
+    },
+    {
+      "id": "rh4",
+      "expression": "下棋",
+      "device_type": "比喻",
+      "literal_target": "向前要求的过程",
+      "function": "用下棋比喻进步的过程",
+      "evidence": "第一个譬况是“下棋”得到向前要求的结果，所谓进步，属甲",
+      "confidence": 1.0
+    }
+  ],
+  "uncertainties": [
+    {
+      "item": "吴稚晖在《宇宙观》中的具体论述内容",
+      "reason": "文本仅提及“我在《宇宙观》的结束”，但未提供具体论述内容，无法抽取更多信息"
+    },
+    {
+      "item": "四个譬况中除“下棋”外的其他三个譬况",
+      "reason": "文本只给出了第一个譬况“下棋”，其余三个未在片段中出现"
+    },
+    {
+      "item": "三种结果的具体内容",
+      "reason": "文本提到“三个结果”，但只说明了第一个结果（进步），其余两个未在片段中展开"
+    }
+  ],
+  "_meta": {
+    "status": "success",
+    "stage": "extract",
+    "model": "deepseek-ai/DeepSeek-V4-Flash",
+    "base_url": "https://api.siliconflow.cn/v1",
+    "prompt_version": "extract_prompt_v2.0",
+    "schema_version": "lite_v2.0",
+    "segment_id": "吴稚晖_001_b4c0e810_s0033",
+    "article_id": "吴稚晖_001_b4c0e810",
+    "char_start": 16348,
+    "char_end": 16941,
+    "raw_path": "E:\\1研究生\\岭南大学\\论文毕业\\capstone\\资料\\新的内容开始了\\local_upload\\kg_runs\\吴稚晖\\raw_outputs\\extract\\吴稚晖_001_b4c0e810_s0033.txt",
+    "parsed_at": "2026-05-20T04:24:22",
+    "started_at": "2026-05-20T04:21:41",
+    "elapsed_seconds": 160.974,
+    "strict_evidence_check": true,
+    "drop_unsupported_evidence": true,
+    "request_timeout_seconds": 180
+  }
+}

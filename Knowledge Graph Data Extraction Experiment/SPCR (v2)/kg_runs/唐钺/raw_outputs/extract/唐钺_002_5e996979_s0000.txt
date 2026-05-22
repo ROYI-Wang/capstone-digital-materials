@@ -1,0 +1,401 @@
+{
+  "metadata": {
+    "schema_version": "lite_v3.0",
+    "article_id": "唐钺_002_5e996979",
+    "article_title": "一个痴人的说梦 ——情感真是超科学的吗？",
+    "source_author": "唐钺",
+    "section_title": "",
+    "section_author": "",
+    "segment_id": "唐钺_002_5e996979_s0000",
+    "segment_index": 0,
+    "source_file": "E:\\1研究生\\岭南大学\\论文毕业\\capstone\\资料\\新的内容开始了\\local_upload\\input_唐钺\\唐钺.txt"
+  },
+  "entities": [
+    {
+      "id": "e1",
+      "name": "梁任公",
+      "canonical_name": "梁任公",
+      "type": "人物",
+      "evidence": "梁任公在本年五月二十九日《晨报》附刊上发表一篇文章",
+      "confidence": 1.0
+    },
+    {
+      "id": "e2",
+      "name": "《人生观与科学，——对于张丁论战的批评，其一》",
+      "canonical_name": "《人生观与科学，——对于张丁论战的批评，其一》",
+      "type": "文章",
+      "evidence": "梁任公在本年五月二十九日《晨报》附刊上发表一篇文章，叫做《人生观与科学，——对于张丁论战的批评，其一》",
+      "confidence": 1.0
+    },
+    {
+      "id": "e3",
+      "name": "《晨报》",
+      "canonical_name": "《晨报》",
+      "type": "著作",
+      "evidence": "梁任公在本年五月二十九日《晨报》附刊上发表一篇文章",
+      "confidence": 1.0
+    },
+    {
+      "id": "e4",
+      "name": "科学方法",
+      "canonical_name": "科学方法",
+      "type": "方法",
+      "evidence": "人生关涉理智方面的事项，绝对要用科学方法来解决",
+      "confidence": 1.0
+    },
+    {
+      "id": "e5",
+      "name": "感情",
+      "canonical_name": "感情",
+      "type": "概念",
+      "evidence": "关于感情方面的事项，绝对的超科学",
+      "confidence": 1.0
+    },
+    {
+      "id": "e6",
+      "name": "爱",
+      "canonical_name": "爱",
+      "type": "概念",
+      "evidence": "情感……内中最少有两件的确确带有神秘性的，就是‘爱’和‘美’",
+      "confidence": 1.0
+    },
+    {
+      "id": "e7",
+      "name": "美",
+      "canonical_name": "美",
+      "type": "概念",
+      "evidence": "情感……内中最少有两件的确确带有神秘性的，就是‘爱’和‘美’",
+      "confidence": 1.0
+    },
+    {
+      "id": "e8",
+      "name": "神秘",
+      "canonical_name": "神秘",
+      "type": "概念",
+      "evidence": "他对于“神秘”的意义，没有说得明白",
+      "confidence": 1.0
+    },
+    {
+      "id": "e9",
+      "name": "不可分析",
+      "canonical_name": "不可分析",
+      "type": "概念",
+      "evidence": "据他下文所说，大抵是（甲）不可分析",
+      "confidence": 1.0
+    },
+    {
+      "id": "e10",
+      "name": "不可理解",
+      "canonical_name": "不可理解",
+      "type": "概念",
+      "evidence": "据他下文所说，大抵是（甲）不可分析，和（乙）不可理解",
+      "confidence": 1.0
+    },
+    {
+      "id": "e11",
+      "name": "价值",
+      "canonical_name": "价值",
+      "type": "概念",
+      "evidence": "美和爱可否分析与他的价值的高低无关",
+      "confidence": 1.0
+    },
+    {
+      "id": "e12",
+      "name": "痴人说梦",
+      "canonical_name": "痴人说梦",
+      "type": "比喻/类比",
+      "evidence": "任公骂要以科学方法来解释爱情的是“痴人说梦”",
+      "confidence": 1.0
+    },
+    {
+      "id": "e13",
+      "name": "杞忧",
+      "canonical_name": "杞忧",
+      "type": "比喻/类比",
+      "evidence": "请任公不必抱杞忧",
+      "confidence": 1.0
+    }
+  ],
+  "claims": [
+    {
+      "id": "c1",
+      "speaker": "梁任公",
+      "claim": "人生关涉理智方面的事项，绝对要用科学方法来解决。关于感情方面的事项，绝对的超科学。",
+      "target": "",
+      "claim_type": "结论性主张",
+      "claim_status": "直接引用",
+      "polarity": "neutral",
+      "evidence": "人生关涉理智方面的事项，绝对要用科学方法来解决。关于感情方面的事项，绝对的超科学。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c2",
+      "speaker": "唐钺",
+      "claim": "这结论的前半，我是没有闲言的。他的后半，我实在不敢赞同。",
+      "target": "梁任公",
+      "claim_type": "回应性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "这结论的前半，我是没有闲言的。他的后半，我实在不敢赞同。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c3",
+      "speaker": "唐钺",
+      "claim": "我正是主张这样解释爱情的。",
+      "target": "",
+      "claim_type": "描述性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "但是，我正是主张这样解释爱情的。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c4",
+      "speaker": "梁任公",
+      "claim": "情感……内中最少有两件的确确带有神秘性的，就是‘爱’和‘美’。",
+      "target": "",
+      "claim_type": "描述性主张",
+      "claim_status": "直接引用",
+      "polarity": "neutral",
+      "evidence": "任公说：“情感……内中最少有两件的确确带有神秘性的，就是‘爱’和‘美’。”",
+      "confidence": 1.0
+    },
+    {
+      "id": "c5",
+      "speaker": "唐钺",
+      "claim": "不可理解是因为不可分析；若是可以分析，就可以理解",
+      "target": "",
+      "claim_type": "因果主张",
+      "claim_status": "作者推论",
+      "polarity": "neutral",
+      "evidence": "但是不可理解是因为不可分析；若是可以分析，就可以理解；所以下文只就分析方面说。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c6",
+      "speaker": "唐钺",
+      "claim": "美和爱可否分析与他的价值的高低无关。",
+      "target": "",
+      "claim_type": "描述性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "美和爱可否分析与他的价值的高低无关。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c7",
+      "speaker": "梁任公",
+      "claim": "想用科学方法支配他（指爱和美），无论不可能，即能，也把人生弄成死的没有价值了。",
+      "target": "",
+      "claim_type": "反驳性主张",
+      "claim_status": "直接引用",
+      "polarity": "negative",
+      "evidence": "任公说：“……想用科学方法支配他（指爱和美），无论不可能，即能，也把人生弄成死的没有价值了。”",
+      "confidence": 1.0
+    },
+    {
+      "id": "c8",
+      "speaker": "唐钺",
+      "claim": "这种话是用不着反驳的。因为我们论事实的时候，不能羼入价值问题。",
+      "target": "梁任公",
+      "claim_type": "反驳性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "这种话是用不着反驳的。因为我们论事实的时候，不能羼入价值问题。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c9",
+      "speaker": "唐钺",
+      "claim": "科学方法是否有支配爱和美的能力，暂且不论",
+      "target": "",
+      "claim_type": "问题提出",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "科学方法是否有支配爱和美的能力，暂且不论",
+      "confidence": 1.0
+    }
+  ],
+  "relations": [
+    {
+      "id": "r1",
+      "head": "梁任公",
+      "head_type": "人物",
+      "relation": "主张",
+      "relation_subtype": "不适用",
+      "tail": "人生关涉理智方面的事项，绝对要用科学方法来解决。关于感情方面的事项，绝对的超科学。",
+      "tail_type": "观点",
+      "polarity": "neutral",
+      "stance_score": 0.0,
+      "intensity": 0.0,
+      "evidence": "梁任公在本年五月二十九日《晨报》附刊上发表一篇文章，叫做《人生观与科学，——对于张丁论战的批评，其一》。他这篇的结论是：“人生关涉理智方面的事项，绝对要用科学方法来解决。关于感情方面的事项，绝对的超科学。”",
+      "confidence": 1.0
+    },
+    {
+      "id": "r2",
+      "head": "唐钺",
+      "head_type": "人物",
+      "relation": "回应",
+      "relation_subtype": "部分批评",
+      "tail": "梁任公",
+      "tail_type": "人物",
+      "polarity": "mixed",
+      "stance_score": -0.5,
+      "intensity": 0.5,
+      "evidence": "这结论的前半，我是没有闲言的。他的后半，我实在不敢赞同。",
+      "confidence": 1.0
+    },
+    {
+      "id": "r3",
+      "head": "唐钺",
+      "head_type": "人物",
+      "relation": "反驳",
+      "relation_subtype": "逻辑反驳",
+      "tail": "梁任公",
+      "tail_type": "人物",
+      "polarity": "negative",
+      "stance_score": -0.8,
+      "intensity": 0.6,
+      "evidence": "这种话是用不着反驳的。因为我们论事实的时候，不能羼入价值问题。",
+      "confidence": 1.0
+    },
+    {
+      "id": "r4",
+      "head": "不可理解",
+      "head_type": "概念",
+      "relation": "归因于",
+      "relation_subtype": "不适用",
+      "tail": "不可分析",
+      "tail_type": "概念",
+      "polarity": "neutral",
+      "stance_score": 0.0,
+      "intensity": 0.0,
+      "evidence": "但是不可理解是因为不可分析",
+      "confidence": 1.0
+    },
+    {
+      "id": "r5",
+      "head": "可以分析",
+      "head_type": "概念",
+      "relation": "导致",
+      "relation_subtype": "不适用",
+      "tail": "可以理解",
+      "tail_type": "概念",
+      "polarity": "neutral",
+      "stance_score": 0.0,
+      "intensity": 0.0,
+      "evidence": "若是可以分析，就可以理解",
+      "confidence": 1.0
+    },
+    {
+      "id": "r6",
+      "head": "梁任公",
+      "head_type": "人物",
+      "relation": "主张",
+      "relation_subtype": "不适用",
+      "tail": "情感……内中最少有两件的确确带有神秘性的，就是‘爱’和‘美’。",
+      "tail_type": "观点",
+      "polarity": "neutral",
+      "stance_score": 0.0,
+      "intensity": 0.0,
+      "evidence": "任公说：“情感……内中最少有两件的确确带有神秘性的，就是‘爱’和‘美’。”",
+      "confidence": 1.0
+    },
+    {
+      "id": "r7",
+      "head": "梁任公",
+      "head_type": "人物",
+      "relation": "主张",
+      "relation_subtype": "不适用",
+      "tail": "想用科学方法支配他（指爱和美），无论不可能，即能，也把人生弄成死的没有价值了。",
+      "tail_type": "观点",
+      "polarity": "negative",
+      "stance_score": -1.0,
+      "intensity": 0.8,
+      "evidence": "任公说：“……想用科学方法支配他（指爱和美），无论不可能，即能，也把人生弄成死的没有价值了。”",
+      "confidence": 1.0
+    },
+    {
+      "id": "r8",
+      "head": "唐钺",
+      "head_type": "人物",
+      "relation": "评价",
+      "relation_subtype": "概念混淆批评",
+      "tail": "梁任公",
+      "tail_type": "人物",
+      "polarity": "negative",
+      "stance_score": -0.7,
+      "intensity": 0.5,
+      "evidence": "这种话是用不着反驳的。因为我们论事实的时候，不能羼入价值问题。",
+      "confidence": 1.0
+    }
+  ],
+  "definitions": [
+    {
+      "id": "def1",
+      "term": "神秘",
+      "definition": "不可分析和不可理解",
+      "evidence": "他对于“神秘”的意义，没有说得明白。据他下文所说，大抵是（甲）不可分析，和（乙）不可理解。",
+      "confidence": 0.9
+    }
+  ],
+  "citations": [
+    {
+      "id": "cit1",
+      "citer": "唐钺",
+      "quoted_author": "梁任公",
+      "quoted_work": "《人生观与科学，——对于张丁论战的批评，其一》",
+      "quoted_claim": "人生关涉理智方面的事项，绝对要用科学方法来解决。关于感情方面的事项，绝对的超科学。",
+      "function": "作为批评对象",
+      "evidence": "梁任公在本年五月二十九日《晨报》附刊上发表一篇文章，叫做《人生观与科学，——对于张丁论战的批评，其一》。他这篇的结论是：“人生关涉理智方面的事项，绝对要用科学方法来解决。关于感情方面的事项，绝对的超科学。”",
+      "confidence": 1.0
+    },
+    {
+      "id": "cit2",
+      "citer": "唐钺",
+      "quoted_author": "梁任公",
+      "quoted_work": "",
+      "quoted_claim": "情感……内中最少有两件的确确带有神秘性的，就是‘爱’和‘美’。",
+      "function": "作为批评对象",
+      "evidence": "任公说：“情感……内中最少有两件的确确带有神秘性的，就是‘爱’和‘美’。”",
+      "confidence": 1.0
+    },
+    {
+      "id": "cit3",
+      "citer": "唐钺",
+      "quoted_author": "梁任公",
+      "quoted_work": "",
+      "quoted_claim": "想用科学方法支配他（指爱和美），无论不可能，即能，也把人生弄成死的没有价值了。",
+      "function": "作为批评对象",
+      "evidence": "任公说：“……想用科学方法支配他（指爱和美），无论不可能，即能，也把人生弄成死的没有价值了。”",
+      "confidence": 1.0
+    }
+  ],
+  "rhetorical_devices": [
+    {
+      "id": "rh1",
+      "expression": "痴人说梦",
+      "device_type": "比喻",
+      "literal_target": "要以科学方法来解释爱情的人",
+      "function": "贬低对手观点",
+      "evidence": "任公骂要以科学方法来解释爱情的是“痴人说梦”",
+      "confidence": 1.0
+    },
+    {
+      "id": "rh2",
+      "expression": "杞忧",
+      "device_type": "比喻",
+      "literal_target": "任公对科学支配爱和美的担忧",
+      "function": "讽刺对手的担忧多余",
+      "evidence": "请任公不必抱杞忧",
+      "confidence": 1.0
+    }
+  ],
+  "uncertainties": [
+    {
+      "item": "梁任公对“神秘”的定义是否完全由唐钺概括",
+      "reason": "唐钺说“据他下文所说，大抵是（甲）不可分析，和（乙）不可理解”，但未直接引用原文，可能为概括"
+    }
+  ]
+}

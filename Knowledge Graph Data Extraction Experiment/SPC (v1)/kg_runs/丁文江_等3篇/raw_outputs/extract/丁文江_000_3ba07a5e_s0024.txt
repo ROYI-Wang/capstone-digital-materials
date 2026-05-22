@@ -1,0 +1,350 @@
+{
+  "metadata": {
+    "schema_version": "lite_v2.0",
+    "article_id": "丁文江_000_3ba07a5e",
+    "article_title": "玄学与科学 ——评张君劢的《人生观》",
+    "source_author": "丁文江",
+    "section_title": "",
+    "section_author": "",
+    "segment_id": "丁文江_000_3ba07a5e_s0024",
+    "segment_index": 24,
+    "source_file": "E:\\1研究生\\岭南大学\\论文毕业\\capstone\\资料\\新的内容开始了\\local_upload\\input_texts\\丁文江.txt"
+  },
+  "entities": [
+    {
+      "id": "e1",
+      "name": "柏格森",
+      "canonical_name": "柏格森",
+      "type": "人物",
+      "evidence": "怪你们为什么要请柏格森。他的盛名是骗巴黎的时髦妇人得来的。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e2",
+      "name": "张君劢",
+      "canonical_name": "张君劢",
+      "type": "人物",
+      "evidence": "然而平心而论，柏格森的主张，也没有张君劢这样鲁莽。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e3",
+      "name": "玄学鬼",
+      "canonical_name": "玄学鬼",
+      "type": "比喻/类比",
+      "evidence": "可见得西洋的玄学鬼到了中国，又联合了陆象山、王阳明、陈白沙高谈心性的一班朋友的魂灵，一齐钻进了张君劢的“我”里面。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e4",
+      "name": "陆象山",
+      "canonical_name": "陆象山",
+      "type": "人物",
+      "evidence": "可见得西洋的玄学鬼到了中国，又联合了陆象山、王阳明、陈白沙高谈心性的一班朋友的魂灵，一齐钻进了张君劢的“我”里面。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e5",
+      "name": "王阳明",
+      "canonical_name": "王阳明",
+      "type": "人物",
+      "evidence": "可见得西洋的玄学鬼到了中国，又联合了陆象山、王阳明、陈白沙高谈心性的一班朋友的魂灵，一齐钻进了张君劢的“我”里面。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e6",
+      "name": "陈白沙",
+      "canonical_name": "陈白沙",
+      "type": "人物",
+      "evidence": "可见得西洋的玄学鬼到了中国，又联合了陆象山、王阳明、陈白沙高谈心性的一班朋友的魂灵，一齐钻进了张君劢的“我”里面。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e7",
+      "name": "玄学家",
+      "canonical_name": "玄学家",
+      "type": "阵营/群体",
+      "evidence": "玄学家单讲他的本体论，我们决不肯荒废我们宝贵的光阴来攻击他。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e8",
+      "name": "青年",
+      "canonical_name": "青年",
+      "type": "阵营/群体",
+      "evidence": "但是一班的青年上了他的当，对于宗教、社会、政治、道德一切问题真以为不受论理方法支配，真正没有是非真伪；只须拿他所谓主观的，综合的，自由意志的人生观来解决他。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e9",
+      "name": "人生观",
+      "canonical_name": "人生观",
+      "type": "概念",
+      "evidence": "只须拿他所谓主观的，综合的，自由意志的人生观来解决他。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e10",
+      "name": "本体论",
+      "canonical_name": "本体论",
+      "type": "概念",
+      "evidence": "玄学家单讲他的本体论，我们决不肯荒废我们宝贵的光阴来攻击他。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e11",
+      "name": "论理方法",
+      "canonical_name": "论理方法",
+      "type": "概念",
+      "evidence": "对于宗教、社会、政治、道德一切问题真以为不受论理方法支配，真正没有是非真伪；只须拿他所谓主观的，综合的，自由意志的人生观来解决他。",
+      "confidence": 1.0
+    }
+  ],
+  "claims": [
+    {
+      "id": "c1",
+      "speaker": "丁文江",
+      "claim": "柏格森的盛名是骗巴黎的时髦妇人得来的。",
+      "target": "柏格森",
+      "claim_type": "价值评价",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "他的盛名是骗巴黎的时髦妇人得来的。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c2",
+      "speaker": "丁文江",
+      "claim": "柏格森对于哲学可谓毫无贡献；同行的人都很看不起他。",
+      "target": "柏格森",
+      "claim_type": "价值评价",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "他对于哲学可谓毫无贡献；同行的人都很看不起他。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c3",
+      "speaker": "丁文江",
+      "claim": "柏格森的主张，也没有张君劢这样鲁莽。",
+      "target": "张君劢",
+      "claim_type": "价值评价",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "然而平心而论，柏格森的主张，也没有张君劢这样鲁莽。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c4",
+      "speaker": "丁文江",
+      "claim": "西洋的玄学鬼到了中国，又联合了陆象山、王阳明、陈白沙高谈心性的一班朋友的魂灵，一齐钻进了张君劢的“我”里面。",
+      "target": "张君劢",
+      "claim_type": "文明批评",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "可见得西洋的玄学鬼到了中国，又联合了陆象山、王阳明、陈白沙高谈心性的一班朋友的魂灵，一齐钻进了张君劢的“我”里面。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c5",
+      "speaker": "丁文江",
+      "claim": "无怪他的人生观是玄而又玄的了。",
+      "target": "张君劢",
+      "claim_type": "价值评价",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "无怪他的人生观是玄而又玄的了。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c6",
+      "speaker": "丁文江",
+      "claim": "玄学家单讲他的本体论，我们决不肯荒废我们宝贵的光阴来攻击他。",
+      "target": "玄学家",
+      "claim_type": "论战策略批评",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "玄学家单讲他的本体论，我们决不肯荒废我们宝贵的光阴来攻击他。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c7",
+      "speaker": "丁文江",
+      "claim": "一班的青年上了他的当，对于宗教、社会、政治、道德一切问题真以为不受论理方法支配，真正没有是非真伪；只须拿他所谓主观的，综合的，自由意志的人生观来解决他。",
+      "target": "青年",
+      "claim_type": "社会理论主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "但是一班的青年上了他的当，对于宗教、社会、政治、道德一切问题真以为不受论理方法支配，真正没有是非真伪；只须拿他所谓主观的，综合的，自由意志的人生观来解决他。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c8",
+      "speaker": "丁文江",
+      "claim": "果然如此，我们的社会是要成一种什么社会？",
+      "target": "社会",
+      "claim_type": "问题提出",
+      "claim_status": "作者推论",
+      "polarity": "negative",
+      "evidence": "果然如此，我们的社会是要成一种什么社会？",
+      "confidence": 1.0
+    }
+  ],
+  "relations": [
+    {
+      "id": "r1",
+      "head": "丁文江",
+      "head_type": "人物",
+      "relation": "批评",
+      "relation_subtype": "讽刺",
+      "tail": "柏格森",
+      "tail_type": "人物",
+      "polarity": "negative",
+      "evidence": "他的盛名是骗巴黎的时髦妇人得来的。",
+      "confidence": 1.0
+    },
+    {
+      "id": "r2",
+      "head": "丁文江",
+      "head_type": "人物",
+      "relation": "批评",
+      "relation_subtype": "一般批评",
+      "tail": "柏格森",
+      "tail_type": "人物",
+      "polarity": "negative",
+      "evidence": "他对于哲学可谓毫无贡献；同行的人都很看不起他。",
+      "confidence": 1.0
+    },
+    {
+      "id": "r3",
+      "head": "丁文江",
+      "head_type": "人物",
+      "relation": "批评",
+      "relation_subtype": "一般批评",
+      "tail": "张君劢",
+      "tail_type": "人物",
+      "polarity": "negative",
+      "evidence": "然而平心而论，柏格森的主张，也没有张君劢这样鲁莽。",
+      "confidence": 1.0
+    },
+    {
+      "id": "r4",
+      "head": "丁文江",
+      "head_type": "人物",
+      "relation": "批评",
+      "relation_subtype": "讽刺",
+      "tail": "张君劢",
+      "tail_type": "人物",
+      "polarity": "negative",
+      "evidence": "可见得西洋的玄学鬼到了中国，又联合了陆象山、王阳明、陈白沙高谈心性的一班朋友的魂灵，一齐钻进了张君劢的“我”里面。",
+      "confidence": 1.0
+    },
+    {
+      "id": "r5",
+      "head": "丁文江",
+      "head_type": "人物",
+      "relation": "批评",
+      "relation_subtype": "讽刺",
+      "tail": "张君劢",
+      "tail_type": "人物",
+      "polarity": "negative",
+      "evidence": "无怪他的人生观是玄而又玄的了。",
+      "confidence": 1.0
+    },
+    {
+      "id": "r6",
+      "head": "丁文江",
+      "head_type": "人物",
+      "relation": "批评",
+      "relation_subtype": "概念混淆批评",
+      "tail": "青年",
+      "tail_type": "阵营/群体",
+      "polarity": "negative",
+      "evidence": "但是一班的青年上了他的当，对于宗教、社会、政治、道德一切问题真以为不受论理方法支配，真正没有是非真伪；只须拿他所谓主观的，综合的，自由意志的人生观来解决他。",
+      "confidence": 1.0
+    },
+    {
+      "id": "r7",
+      "head": "丁文江",
+      "head_type": "人物",
+      "relation": "归谬",
+      "relation_subtype": "归谬",
+      "tail": "社会",
+      "tail_type": "概念",
+      "polarity": "negative",
+      "evidence": "果然如此，我们的社会是要成一种什么社会？",
+      "confidence": 1.0
+    }
+  ],
+  "definitions": [],
+  "citations": [
+    {
+      "id": "cit1",
+      "citer": "丁文江",
+      "quoted_author": "张君劢",
+      "quoted_work": "",
+      "quoted_claim": "良心之自动",
+      "function": "作为批评对象",
+      "evidence": "我们细看他说“良心之自动”",
+      "confidence": 1.0
+    },
+    {
+      "id": "cit2",
+      "citer": "丁文江",
+      "quoted_author": "张君劢",
+      "quoted_work": "",
+      "quoted_claim": "自孔孟以至于宋元明之理学家，侧重内心生活之修养，其结果为精神文明",
+      "function": "作为批评对象",
+      "evidence": "又说“自孔孟以至于宋元明之理学家，侧重内心生活之修养，其结果为精神文明”。",
+      "confidence": 1.0
+    }
+  ],
+  "rhetorical_devices": [
+    {
+      "id": "rh1",
+      "expression": "他的盛名是骗巴黎的时髦妇人得来的",
+      "device_type": "讽刺",
+      "literal_target": "柏格森",
+      "function": "贬低柏格森的学术声誉，暗示其名声虚假",
+      "evidence": "他的盛名是骗巴黎的时髦妇人得来的。",
+      "confidence": 1.0
+    },
+    {
+      "id": "rh2",
+      "expression": "西洋的玄学鬼到了中国，又联合了陆象山、王阳明、陈白沙高谈心性的一班朋友的魂灵，一齐钻进了张君劢的“我”里面",
+      "device_type": "比喻",
+      "literal_target": "张君劢的思想来源",
+      "function": "将张君劢的思想比喻为中西玄学鬼魂的集合体，讽刺其思想混杂、非理性",
+      "evidence": "可见得西洋的玄学鬼到了中国，又联合了陆象山、王阳明、陈白沙高谈心性的一班朋友的魂灵，一齐钻进了张君劢的“我”里面。",
+      "confidence": 1.0
+    },
+    {
+      "id": "rh3",
+      "expression": "玄而又玄",
+      "device_type": "讽刺",
+      "literal_target": "张君劢的人生观",
+      "function": "讽刺张君劢的人生观过于玄虚、不可捉摸",
+      "evidence": "无怪他的人生观是玄而又玄的了。",
+      "confidence": 1.0
+    },
+    {
+      "id": "rh4",
+      "expression": "果然如此，我们的社会是要成一种什么社会？",
+      "device_type": "归谬",
+      "literal_target": "张君劢的人生观主张",
+      "function": "通过反问暗示如果按张君劢的主张，社会将陷入混乱，从而反驳其观点",
+      "evidence": "果然如此，我们的社会是要成一种什么社会？",
+      "confidence": 1.0
+    }
+  ],
+  "uncertainties": [
+    {
+      "item": "“怪你们为什么要请柏格森”中的“你们”具体指谁",
+      "reason": "文本未明确说明“你们”的指代对象，可能是张君劢或其所属群体，但无法从当前文本确定。"
+    },
+    {
+      "item": "“同行的人都很看不起他”中的“同行的人”具体指谁",
+      "reason": "文本未明确说明“同行的人”的具体身份，可能是哲学界同行，但无法从当前文本确定。"
+    }
+  ]
+}

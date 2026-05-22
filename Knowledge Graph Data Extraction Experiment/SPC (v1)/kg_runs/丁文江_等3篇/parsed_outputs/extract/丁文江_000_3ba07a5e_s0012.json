@@ -1,0 +1,425 @@
+{
+  "metadata": {
+    "schema_version": "lite_v2.0",
+    "article_id": "丁文江_000_3ba07a5e",
+    "article_title": "玄学与科学 ——评张君劢的《人生观》",
+    "source_author": "丁文江",
+    "section_title": "",
+    "section_author": "",
+    "segment_id": "丁文江_000_3ba07a5e_s0012",
+    "segment_index": 12,
+    "source_file": "E:\\1研究生\\岭南大学\\论文毕业\\capstone\\资料\\新的内容开始了\\local_upload\\input_texts\\丁文江.txt"
+  },
+  "entities": [
+    {
+      "id": "e1",
+      "name": "科学",
+      "canonical_name": "科学",
+      "type": "Concept",
+      "evidence": "科学所研究的不外乎这种概念同推论",
+      "confidence": 1.0
+    },
+    {
+      "id": "e2",
+      "name": "心理上的现象",
+      "canonical_name": "心理现象",
+      "type": "Concept",
+      "evidence": "科学既然以心理上的现象为内容",
+      "confidence": 0.9
+    },
+    {
+      "id": "e3",
+      "name": "概念",
+      "canonical_name": "概念",
+      "type": "Concept",
+      "evidence": "科学所研究的不外乎这种概念同推论",
+      "confidence": 1.0
+    },
+    {
+      "id": "e4",
+      "name": "推论",
+      "canonical_name": "推论",
+      "type": "Concept",
+      "evidence": "科学所研究的不外乎这种概念同推论",
+      "confidence": 1.0
+    },
+    {
+      "id": "e5",
+      "name": "物质",
+      "canonical_name": "物质",
+      "type": "Concept",
+      "evidence": "我们所晓得的物质，本不过是心理上的觉官感触",
+      "confidence": 1.0
+    },
+    {
+      "id": "e6",
+      "name": "觉官感触",
+      "canonical_name": "觉官感触",
+      "type": "Concept",
+      "evidence": "我们所晓得的物质，本不过是心理上的觉官感触",
+      "confidence": 1.0
+    },
+    {
+      "id": "e7",
+      "name": "精神科学",
+      "canonical_name": "精神科学",
+      "type": "Concept",
+      "evidence": "有什么精神科学、物质科学的分别？",
+      "confidence": 1.0
+    },
+    {
+      "id": "e8",
+      "name": "物质科学",
+      "canonical_name": "物质科学",
+      "type": "Concept",
+      "evidence": "有什么精神科学、物质科学的分别？",
+      "confidence": 1.0
+    },
+    {
+      "id": "e9",
+      "name": "科学方法",
+      "canonical_name": "科学方法",
+      "type": "Concept",
+      "evidence": "又如何可以说纯粹心理上的现象不受科学方法的支配？",
+      "confidence": 1.0
+    },
+    {
+      "id": "e10",
+      "name": "原子",
+      "canonical_name": "原子",
+      "type": "Concept",
+      "evidence": "理化学者说有原子，但是他们何尝能用觉官去感触原子？",
+      "confidence": 1.0
+    },
+    {
+      "id": "e11",
+      "name": "心理上的内容",
+      "canonical_name": "心理内容",
+      "type": "Concept",
+      "evidence": "心理上的内容至为丰富，并不限于同时的直接感触",
+      "confidence": 0.9
+    },
+    {
+      "id": "e12",
+      "name": "直接感触",
+      "canonical_name": "直接感触",
+      "type": "Concept",
+      "evidence": "并不限于同时的直接感触",
+      "confidence": 0.9
+    },
+    {
+      "id": "e13",
+      "name": "知觉",
+      "canonical_name": "知觉",
+      "type": "Concept",
+      "evidence": "由知觉而成概念",
+      "confidence": 1.0
+    }
+  ],
+  "claims": [
+    {
+      "id": "c1",
+      "speaker": "丁文江",
+      "claim": "自觉的研究是在科学范围之外",
+      "target": "科学",
+      "claim_type": "知识论主张",
+      "claim_status": "间接转述",
+      "polarity": "neutral",
+      "evidence": "家都说，自觉的研究是在科学范围之外。",
+      "confidence": 0.8
+    },
+    {
+      "id": "c2",
+      "speaker": "丁文江",
+      "claim": "从我的自觉现象推论起来，说旁人也有自觉，是与科学方法不违背的",
+      "target": "科学方法",
+      "claim_type": "方法论主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "我从我的自觉现象推论起来，说旁人也有自觉，是与科学方法不违背的。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c3",
+      "speaker": "丁文江",
+      "claim": "理化学者说有原子，但是他们何尝能用觉官去感触原子",
+      "target": "原子",
+      "claim_type": "论据",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "理化学者说有原子，但是他们何尝能用觉官去感触原子？",
+      "confidence": 0.9
+    },
+    {
+      "id": "c4",
+      "speaker": "丁文江",
+      "claim": "假如我们走到其他的星球上面，苹果也是要向下落；这也不是可以用觉官感触的",
+      "target": "科学",
+      "claim_type": "论据",
+      "claim_status": "作者推论",
+      "polarity": "neutral",
+      "evidence": "科学说，假如我们走到其他的星球上面，苹果也是要向下落；这也不是可以用觉官感触的。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c5",
+      "speaker": "丁文江",
+      "claim": "心理上的内容至为丰富，并不限于同时的直接感触，和可以直接感触的东西——这种心理上的内容都是科学的材料",
+      "target": "科学",
+      "claim_type": "知识论主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "心理上的内容至为丰富，并不限于同时的直接感触，和可以直接感触的东西——这种心理上的内容都是科学的材料。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c6",
+      "speaker": "丁文江",
+      "claim": "我们所晓得的物质，本不过是心理上的觉官感触，由知觉而成概念，由概念而生推论",
+      "target": "物质",
+      "claim_type": "知识论主张",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "我们所晓得的物质，本不过是心理上的觉官感触，由知觉而成概念，由概念而生推论。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c7",
+      "speaker": "丁文江",
+      "claim": "科学所研究的不外乎这种概念同推论",
+      "target": "科学",
+      "claim_type": "定义性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "科学所研究的不外乎这种概念同推论",
+      "confidence": 0.9
+    },
+    {
+      "id": "c8",
+      "speaker": "丁文江",
+      "claim": "有什么精神科学、物质科学的分别？",
+      "target": "精神科学",
+      "claim_type": "问题提出",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "有什么精神科学、物质科学的分别？",
+      "confidence": 0.9
+    },
+    {
+      "id": "c9",
+      "speaker": "丁文江",
+      "claim": "纯粹心理上的现象不受科学方法的支配",
+      "target": "科学方法",
+      "claim_type": "知识论主张",
+      "claim_status": "作者讽刺性归纳",
+      "polarity": "negative",
+      "evidence": "又如何可以说纯粹心理上的现象不受科学方法的支配？",
+      "confidence": 0.8
+    },
+    {
+      "id": "c10",
+      "speaker": "丁文江",
+      "claim": "科学既然以心理上的现象为内容，对于概念、推论，不能不有严格的审查",
+      "target": "科学",
+      "claim_type": "方法论主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "科学既然以心理上的现象为内容，对于概念、推论，不能不有严格的审查。",
+      "confidence": 0.9
+    }
+  ],
+  "relations": [
+    {
+      "id": "r1",
+      "head": "科学",
+      "head_type": "Concept",
+      "relation": "DEFINES",
+      "tail": "概念同推论",
+      "tail_type": "Concept",
+      "polarity": "neutral",
+      "evidence": "科学所研究的不外乎这种概念同推论",
+      "confidence": 0.9
+    },
+    {
+      "id": "r2",
+      "head": "物质",
+      "head_type": "Concept",
+      "relation": "DEFINES",
+      "tail": "心理上的觉官感触",
+      "tail_type": "Concept",
+      "polarity": "neutral",
+      "evidence": "我们所晓得的物质，本不过是心理上的觉官感触",
+      "confidence": 0.9
+    },
+    {
+      "id": "r3",
+      "head": "心理上的内容",
+      "head_type": "Concept",
+      "relation": "CONTAINS",
+      "tail": "直接感触",
+      "tail_type": "Concept",
+      "polarity": "neutral",
+      "evidence": "心理上的内容至为丰富，并不限于同时的直接感触",
+      "confidence": 0.9
+    },
+    {
+      "id": "r4",
+      "head": "心理上的内容",
+      "head_type": "Concept",
+      "relation": "PART_OF",
+      "tail": "科学的材料",
+      "tail_type": "Concept",
+      "polarity": "positive",
+      "evidence": "这种心理上的内容都是科学的材料",
+      "confidence": 0.9
+    },
+    {
+      "id": "r5",
+      "head": "丁文江",
+      "head_type": "Person",
+      "relation": "REBUTS",
+      "tail": "精神科学",
+      "tail_type": "Concept",
+      "polarity": "negative",
+      "evidence": "有什么精神科学、物质科学的分别？",
+      "confidence": 0.8
+    },
+    {
+      "id": "r6",
+      "head": "丁文江",
+      "head_type": "Person",
+      "relation": "REBUTS",
+      "tail": "物质科学",
+      "tail_type": "Concept",
+      "polarity": "negative",
+      "evidence": "有什么精神科学、物质科学的分别？",
+      "confidence": 0.8
+    },
+    {
+      "id": "r7",
+      "head": "丁文江",
+      "head_type": "Person",
+      "relation": "REBUTS",
+      "tail": "纯粹心理上的现象不受科学方法的支配",
+      "tail_type": "Viewpoint",
+      "polarity": "negative",
+      "evidence": "又如何可以说纯粹心理上的现象不受科学方法的支配？",
+      "confidence": 0.8
+    },
+    {
+      "id": "r8",
+      "head": "科学",
+      "head_type": "Concept",
+      "relation": "CONTAINS",
+      "tail": "心理上的现象",
+      "tail_type": "Concept",
+      "polarity": "positive",
+      "evidence": "科学既然以心理上的现象为内容",
+      "confidence": 0.9
+    }
+  ],
+  "definitions": [
+    {
+      "id": "def1",
+      "term": "科学",
+      "definition": "科学所研究的是概念和推论",
+      "evidence": "科学所研究的不外乎这种概念同推论",
+      "confidence": 0.9
+    },
+    {
+      "id": "def2",
+      "term": "物质",
+      "definition": "物质是心理上的觉官感触，由知觉而成概念，由概念而生推论",
+      "evidence": "我们所晓得的物质，本不过是心理上的觉官感触，由知觉而成概念，由概念而生推论。",
+      "confidence": 0.9
+    },
+    {
+      "id": "def3",
+      "term": "心理上的内容",
+      "definition": "心理上的内容不限于同时的直接感触和可以直接感触的东西，都是科学的材料",
+      "evidence": "心理上的内容至为丰富，并不限于同时的直接感触，和可以直接感触的东西——这种心理上的内容都是科学的材料。",
+      "confidence": 0.9
+    }
+  ],
+  "citations": [
+    {
+      "id": "cit1",
+      "citer": "丁文江",
+      "quoted_author": "家",
+      "quoted_work": "",
+      "quoted_claim": "自觉的研究是在科学范围之外",
+      "function": "作为批评对象",
+      "evidence": "家都说，自觉的研究是在科学范围之外。",
+      "confidence": 0.7
+    },
+    {
+      "id": "cit2",
+      "citer": "丁文江",
+      "quoted_author": "理化学者",
+      "quoted_work": "",
+      "quoted_claim": "有原子",
+      "function": "作为论据",
+      "evidence": "理化学者说有原子",
+      "confidence": 0.8
+    },
+    {
+      "id": "cit3",
+      "citer": "丁文江",
+      "quoted_author": "科学",
+      "quoted_work": "",
+      "quoted_claim": "假如我们走到其他的星球上面，苹果也是要向下落",
+      "function": "作为论据",
+      "evidence": "科学说，假如我们走到其他的星球上面，苹果也是要向下落",
+      "confidence": 0.8
+    }
+  ],
+  "rhetorical_devices": [
+    {
+      "id": "rh1",
+      "expression": "有什么精神科学、物质科学的分别？",
+      "device_type": "反问",
+      "literal_target": "精神科学与物质科学的区分",
+      "function": "通过反问否定精神科学与物质科学的区分，强调科学统一性",
+      "evidence": "有什么精神科学、物质科学的分别？",
+      "confidence": 0.9
+    },
+    {
+      "id": "rh2",
+      "expression": "又如何可以说纯粹心理上的现象不受科学方法的支配？",
+      "device_type": "反问",
+      "literal_target": "纯粹心理现象不受科学方法支配的观点",
+      "function": "通过反问反驳该观点，强调科学方法适用于心理现象",
+      "evidence": "又如何可以说纯粹心理上的现象不受科学方法的支配？",
+      "confidence": 0.9
+    }
+  ],
+  "uncertainties": [
+    {
+      "item": "c1 中“家都说”的“家”具体指代不明，可能指“大家”或“某家”，暂按“家”处理",
+      "reason": "原文仅写“家都说”，未明确具体人物或群体"
+    },
+    {
+      "item": "cit1 中“家”作为被引用者，其身份不明确",
+      "reason": "原文未提供更多信息"
+    }
+  ],
+  "_meta": {
+    "status": "success",
+    "stage": "extract",
+    "model": "deepseek-ai/DeepSeek-V4-Flash",
+    "base_url": "https://api.siliconflow.cn/v1",
+    "prompt_version": "extract_prompt_v2.0",
+    "schema_version": "lite_v2.0",
+    "segment_id": "丁文江_000_3ba07a5e_s0012",
+    "article_id": "丁文江_000_3ba07a5e",
+    "char_start": 3024,
+    "char_end": 3367,
+    "raw_path": "E:\\1研究生\\岭南大学\\论文毕业\\capstone\\资料\\新的内容开始了\\local_upload\\kg_runs\\丁文江_等3篇\\raw_outputs\\extract\\丁文江_000_3ba07a5e_s0012.txt",
+    "parsed_at": "2026-05-19T02:35:22",
+    "started_at": "2026-05-19T02:33:18",
+    "elapsed_seconds": 123.682,
+    "strict_evidence_check": true,
+    "drop_unsupported_evidence": true,
+    "request_timeout_seconds": 180
+  }
+}

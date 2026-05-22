@@ -1,0 +1,421 @@
+{
+  "metadata": {
+    "schema_version": "lite_v3.0",
+    "article_id": "丁文江2_000_e838922e",
+    "article_title": "玄学与科学——答张君劢",
+    "source_author": "丁文江",
+    "section_title": "",
+    "section_author": "",
+    "segment_id": "丁文江2_000_e838922e_s0018",
+    "segment_index": 18,
+    "source_file": "E:\\1研究生\\岭南大学\\论文毕业\\capstone\\资料\\新的内容开始了\\local_upload\\input_丁文江\\丁文江2.txt"
+  },
+  "entities": [
+    {
+      "id": "e1",
+      "name": "君劢",
+      "canonical_name": "张君劢",
+      "type": "人物",
+      "evidence": "这是君劢自己对“科学的”下的定义",
+      "confidence": 1.0
+    },
+    {
+      "id": "e2",
+      "name": "科学的",
+      "canonical_name": "科学的",
+      "type": "概念",
+      "evidence": "这是君劢自己对“科学的”下的定义",
+      "confidence": 0.8
+    },
+    {
+      "id": "e3",
+      "name": "知识论",
+      "canonical_name": "知识论",
+      "type": "概念",
+      "evidence": "这种知识论是根据于可以用科学方法试验的觉官感触",
+      "confidence": 1.0
+    },
+    {
+      "id": "e4",
+      "name": "正统派哲学",
+      "canonical_name": "正统派哲学",
+      "type": "主义/学说/理论",
+      "evidence": "与正统派哲学的根据不同",
+      "confidence": 1.0
+    },
+    {
+      "id": "e5",
+      "name": "新代的经验主义",
+      "canonical_name": "新代的经验主义",
+      "type": "主义/学说/理论",
+      "evidence": "新代的经验主义用经验来讲知识，用生活手续来讲思想",
+      "confidence": 1.0
+    },
+    {
+      "id": "e6",
+      "name": "新唯实主义",
+      "canonical_name": "新唯实主义",
+      "type": "主义/学说/理论",
+      "evidence": "新唯实主义用函数来讲心物的关系",
+      "confidence": 1.0
+    },
+    {
+      "id": "e7",
+      "name": "唯觉主义",
+      "canonical_name": "唯觉主义",
+      "type": "主义/学说/理论",
+      "evidence": "唯觉主义所根据的事实本来很复杂的",
+      "confidence": 1.0
+    },
+    {
+      "id": "e8",
+      "name": "感觉",
+      "canonical_name": "感觉",
+      "type": "概念",
+      "evidence": "以感觉为知识的原子",
+      "confidence": 1.0
+    },
+    {
+      "id": "e9",
+      "name": "动物心理学",
+      "canonical_name": "动物心理学",
+      "type": "概念",
+      "evidence": "最重要的就是动物心理学同孩童心理学所研究的结果",
+      "confidence": 1.0
+    },
+    {
+      "id": "e10",
+      "name": "孩童心理学",
+      "canonical_name": "孩童心理学",
+      "type": "概念",
+      "evidence": "最重要的就是动物心理学同孩童心理学所研究的结果",
+      "confidence": 1.0
+    },
+    {
+      "id": "e11",
+      "name": "论理的意义",
+      "canonical_name": "论理的意义",
+      "type": "概念",
+      "evidence": "君劢所说的“论理的意义”",
+      "confidence": 1.0
+    },
+    {
+      "id": "e12",
+      "name": "无意的举动",
+      "canonical_name": "无意的举动",
+      "type": "概念",
+      "evidence": "君劢承认不承认生理学所谓无意的举动？",
+      "confidence": 1.0
+    }
+  ],
+  "claims": [
+    {
+      "id": "c1",
+      "speaker": "丁文江",
+      "claim": "这种知识论是根据于可以用科学方法试验的觉官感触，与正统派哲学的根据不同",
+      "target": "知识论",
+      "claim_type": "描述性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "这种知识论是根据于可以用科学方法试验的觉官感触，与正统派哲学的根据不同",
+      "confidence": 1.0
+    },
+    {
+      "id": "c2",
+      "speaker": "丁文江",
+      "claim": "新代的经验主义与新唯实主义都可以说是科学的，因为都是用科学方法来研究知识论的",
+      "target": "新代的经验主义",
+      "claim_type": "评价性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "新代的经验主义用经验来讲知识，用生活手续来讲思想，新唯实主义用函数来讲心物的关系，虽与唯觉主义的人地位不同，然而都可以说是科学的，因为都是用科学方法来研究知识论的",
+      "confidence": 1.0
+    },
+    {
+      "id": "c3",
+      "speaker": "丁文江",
+      "claim": "君劢仅仅的拿了正统哲学的口头禅来驳我",
+      "target": "君劢",
+      "claim_type": "评价性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "幸亏君劢很体贴，他仅仅的拿了正统哲学的口头禅来驳我",
+      "confidence": 1.0
+    },
+    {
+      "id": "c4",
+      "speaker": "丁文江",
+      "claim": "以感觉为知识的原子，有许多心理学的证据，最重要的就是动物心理学同孩童心理学所研究的结果",
+      "target": "感觉",
+      "claim_type": "描述性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "以感觉为知识的原子，有许多心理学的证据，最重要的就是动物心理学同孩童心理学所研究的结果",
+      "confidence": 1.0
+    },
+    {
+      "id": "c5",
+      "speaker": "丁文江",
+      "claim": "高等动物同孩童都有感觉，都有记忆力把感觉的印象留住",
+      "target": "高等动物",
+      "claim_type": "描述性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "高等动物同孩童都有感觉，都有记忆力把感觉的印象留住",
+      "confidence": 1.0
+    },
+    {
+      "id": "c6",
+      "speaker": "丁文江",
+      "claim": "研究动物同孩童心理的人，都不承认感觉有论理的意义",
+      "target": "感觉",
+      "claim_type": "描述性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "研究动物同孩童心理的人，都不承认感觉有论理的意义",
+      "confidence": 1.0
+    },
+    {
+      "id": "c7",
+      "speaker": "丁文江",
+      "claim": "成年人看见红色，也未尝一定对自己说，“红色如此”，“此真是红”",
+      "target": "成年人",
+      "claim_type": "描述性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "就是成年人看见红色，也未尝一定对自己说，“红色如此”，“此真是红”",
+      "confidence": 1.0
+    },
+    {
+      "id": "c8",
+      "speaker": "丁文江",
+      "claim": "如果如此，凡人遇见极简单的感觉，都要辨别真伪，我们的生活岂不要苦死？",
+      "target": "感觉",
+      "claim_type": "反驳性主张",
+      "claim_status": "归谬构造",
+      "polarity": "negative",
+      "evidence": "如果如此，凡人遇见极简单的感觉，都要辨别真伪，我们的生活岂不要苦死？",
+      "confidence": 1.0
+    }
+  ],
+  "relations": [
+    {
+      "id": "r1",
+      "head": "君劢",
+      "head_type": "人物",
+      "relation": "定义",
+      "relation_subtype": "概念澄清",
+      "tail": "科学的",
+      "tail_type": "概念",
+      "polarity": "negative",
+      "stance_score": -0.5,
+      "intensity": 0.5,
+      "evidence": "这是君劢自己对“科学的”下的定义，与我不相干",
+      "confidence": 1.0
+    },
+    {
+      "id": "r2",
+      "head": "丁文江",
+      "head_type": "人物",
+      "relation": "区分",
+      "relation_subtype": "概念澄清",
+      "tail": "正统派哲学",
+      "tail_type": "主义/学说/理论",
+      "polarity": "negative",
+      "stance_score": -0.5,
+      "intensity": 0.5,
+      "evidence": "这种知识论是根据于可以用科学方法试验的觉官感触，与正统派哲学的根据不同",
+      "confidence": 1.0
+    },
+    {
+      "id": "r3",
+      "head": "新代的经验主义",
+      "head_type": "主义/学说/理论",
+      "relation": "属于",
+      "relation_subtype": "不适用",
+      "tail": "科学的",
+      "tail_type": "概念",
+      "polarity": "positive",
+      "stance_score": 1.0,
+      "intensity": 0.8,
+      "evidence": "新代的经验主义用经验来讲知识，用生活手续来讲思想，新唯实主义用函数来讲心物的关系，虽与唯觉主义的人地位不同，然而都可以说是科学的，因为都是用科学方法来研究知识论的",
+      "confidence": 1.0
+    },
+    {
+      "id": "r4",
+      "head": "新唯实主义",
+      "head_type": "主义/学说/理论",
+      "relation": "属于",
+      "relation_subtype": "不适用",
+      "tail": "科学的",
+      "tail_type": "概念",
+      "polarity": "positive",
+      "stance_score": 1.0,
+      "intensity": 0.8,
+      "evidence": "新代的经验主义用经验来讲知识，用生活手续来讲思想，新唯实主义用函数来讲心物的关系，虽与唯觉主义的人地位不同，然而都可以说是科学的，因为都是用科学方法来研究知识论的",
+      "confidence": 1.0
+    },
+    {
+      "id": "r5",
+      "head": "丁文江",
+      "head_type": "人物",
+      "relation": "回应",
+      "relation_subtype": "一般批评",
+      "tail": "君劢",
+      "tail_type": "人物",
+      "polarity": "negative",
+      "stance_score": -0.5,
+      "intensity": 0.5,
+      "evidence": "幸亏君劢很体贴，他仅仅的拿了正统哲学的口头禅来驳我，我只用几句简单的话就可以答复他",
+      "confidence": 1.0
+    },
+    {
+      "id": "r6",
+      "head": "感觉",
+      "head_type": "概念",
+      "relation": "作为论据支持",
+      "relation_subtype": "不适用",
+      "tail": "以感觉为知识的原子",
+      "tail_type": "观点",
+      "polarity": "positive",
+      "stance_score": 1.0,
+      "intensity": 0.8,
+      "evidence": "以感觉为知识的原子，有许多心理学的证据，最重要的就是动物心理学同孩童心理学所研究的结果",
+      "confidence": 1.0
+    },
+    {
+      "id": "r7",
+      "head": "动物心理学",
+      "head_type": "概念",
+      "relation": "作为论据支持",
+      "relation_subtype": "不适用",
+      "tail": "以感觉为知识的原子",
+      "tail_type": "观点",
+      "polarity": "positive",
+      "stance_score": 1.0,
+      "intensity": 0.8,
+      "evidence": "以感觉为知识的原子，有许多心理学的证据，最重要的就是动物心理学同孩童心理学所研究的结果",
+      "confidence": 1.0
+    },
+    {
+      "id": "r8",
+      "head": "孩童心理学",
+      "head_type": "概念",
+      "relation": "作为论据支持",
+      "relation_subtype": "不适用",
+      "tail": "以感觉为知识的原子",
+      "tail_type": "观点",
+      "polarity": "positive",
+      "stance_score": 1.0,
+      "intensity": 0.8,
+      "evidence": "以感觉为知识的原子，有许多心理学的证据，最重要的就是动物心理学同孩童心理学所研究的结果",
+      "confidence": 1.0
+    },
+    {
+      "id": "r9",
+      "head": "研究动物同孩童心理的人",
+      "head_type": "阵营/群体",
+      "relation": "主张",
+      "relation_subtype": "不适用",
+      "tail": "感觉有论理的意义",
+      "tail_type": "概念",
+      "polarity": "negative",
+      "stance_score": -0.5,
+      "intensity": 0.5,
+      "evidence": "研究动物同孩童心理的人，都不承认感觉有论理的意义",
+      "confidence": 1.0
+    },
+    {
+      "id": "r10",
+      "head": "丁文江",
+      "head_type": "人物",
+      "relation": "质疑",
+      "relation_subtype": "事实质疑",
+      "tail": "君劢",
+      "tail_type": "人物",
+      "polarity": "negative",
+      "stance_score": -0.5,
+      "intensity": 0.5,
+      "evidence": "君劢承认不承认生理学所谓无意的举动？无意举动的动机是否是感觉？是否有论理的意义？",
+      "confidence": 1.0
+    }
+  ],
+  "definitions": [
+    {
+      "id": "def1",
+      "term": "科学的",
+      "definition": "君劢自己对“科学的”下的定义",
+      "evidence": "这是君劢自己对“科学的”下的定义",
+      "confidence": 1.0
+    },
+    {
+      "id": "def2",
+      "term": "知识论",
+      "definition": "根据于可以用科学方法试验的觉官感触的知识论",
+      "evidence": "这种知识论是根据于可以用科学方法试验的觉官感触",
+      "confidence": 1.0
+    },
+    {
+      "id": "def3",
+      "term": "新代的经验主义",
+      "definition": "用经验来讲知识，用生活手续来讲思想",
+      "evidence": "新代的经验主义用经验来讲知识，用生活手续来讲思想",
+      "confidence": 1.0
+    },
+    {
+      "id": "def4",
+      "term": "新唯实主义",
+      "definition": "用函数来讲心物的关系",
+      "evidence": "新唯实主义用函数来讲心物的关系",
+      "confidence": 1.0
+    },
+    {
+      "id": "def5",
+      "term": "感觉",
+      "definition": "知识的原子",
+      "evidence": "以感觉为知识的原子",
+      "confidence": 1.0
+    }
+  ],
+  "citations": [],
+  "rhetorical_devices": [
+    {
+      "id": "rh1",
+      "expression": "我们的生活岂不要苦死？",
+      "device_type": "归谬",
+      "literal_target": "感觉有论理的意义的观点",
+      "function": "通过归谬反驳对手观点",
+      "evidence": "如果如此，凡人遇见极简单的感觉，都要辨别真伪，我们的生活岂不要苦死？",
+      "confidence": 1.0
+    }
+  ],
+  "uncertainties": [
+    {
+      "item": "君劢对“科学的”的定义的具体内容",
+      "reason": "文本中只提到君劢下了定义，但未给出定义的具体内容"
+    },
+    {
+      "item": "“新代的经验主义”中的“新代”是否为笔误或特定术语",
+      "reason": "文本中仅出现一次，无法确认是否应为“新实在论”或其他术语"
+    }
+  ],
+  "_meta": {
+    "status": "success",
+    "stage": "extract",
+    "model": "deepseek-ai/DeepSeek-V4-Flash",
+    "base_url": "https://api.siliconflow.cn/v1",
+    "prompt_version": "v2.0",
+    "schema_version": "lite_v3.0",
+    "segment_id": "丁文江2_000_e838922e_s0018",
+    "article_id": "丁文江2_000_e838922e",
+    "char_start": 8842,
+    "char_end": 9414,
+    "raw_path": "E:\\1研究生\\岭南大学\\论文毕业\\capstone\\资料\\新的内容开始了\\local_upload\\kg_runs_v2\\丁文江_等3篇\\raw_outputs\\extract\\丁文江2_000_e838922e_s0018.txt",
+    "parsed_at": "2026-05-22T07:22:11",
+    "started_at": "2026-05-22T07:21:45",
+    "elapsed_seconds": 25.984,
+    "strict_evidence_check": true,
+    "drop_unsupported_evidence": true,
+    "request_timeout_seconds": 60
+  }
+}

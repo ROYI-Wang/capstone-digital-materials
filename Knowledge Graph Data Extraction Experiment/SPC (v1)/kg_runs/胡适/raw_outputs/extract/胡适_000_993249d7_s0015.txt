@@ -1,0 +1,437 @@
+{
+  "metadata": {
+    "schema_version": "lite_v2.0",
+    "article_id": "胡适_000_993249d7",
+    "article_title": "序二",
+    "source_author": "胡适",
+    "section_title": "",
+    "section_author": "",
+    "segment_id": "胡适_000_993249d7_s0015",
+    "segment_index": 15,
+    "source_file": "E:\\1研究生\\岭南大学\\论文毕业\\capstone\\资料\\新的内容开始了\\local_upload\\input_w3\\胡适.txt"
+  },
+  "entities": [
+    {
+      "id": "e1",
+      "name": "人生观",
+      "canonical_name": "人生观",
+      "type": "概念",
+      "evidence": "人生观现在没有统一是一件事，永久不能统一又是一件事",
+      "confidence": 1.0
+    },
+    {
+      "id": "e2",
+      "name": "科学",
+      "canonical_name": "科学",
+      "type": "概念",
+      "evidence": "科学方法不适用于人生观",
+      "confidence": 1.0
+    },
+    {
+      "id": "e3",
+      "name": "玄学家",
+      "canonical_name": "玄学家",
+      "type": "阵营/群体",
+      "evidence": "玄学家先存了一个成见，说科学方法不适用于人生观",
+      "confidence": 1.0
+    },
+    {
+      "id": "e4",
+      "name": "林宰平",
+      "canonical_name": "林宰平",
+      "type": "人物",
+      "evidence": "林宰平先生就控告丁在君",
+      "confidence": 1.0
+    },
+    {
+      "id": "e5",
+      "name": "丁在君",
+      "canonical_name": "丁在君",
+      "type": "人物",
+      "evidence": "林宰平先生就控告丁在君",
+      "confidence": 1.0
+    },
+    {
+      "id": "e6",
+      "name": "君劢",
+      "canonical_name": "张君劢",
+      "type": "人物",
+      "evidence": "在君用的“统一”一个词，不过是沿用君劢文章里的话",
+      "confidence": 1.0
+    },
+    {
+      "id": "e7",
+      "name": "唐钺",
+      "canonical_name": "唐钺",
+      "type": "人物",
+      "evidence": "唐钺先生说的最好",
+      "confidence": 1.0
+    },
+    {
+      "id": "e8",
+      "name": "叔本华",
+      "canonical_name": "叔本华",
+      "type": "人物",
+      "evidence": "叔本华、哈德门的人生观是直觉的",
+      "confidence": 1.0
+    },
+    {
+      "id": "e9",
+      "name": "哈德门",
+      "canonical_name": "哈德门",
+      "type": "人物",
+      "evidence": "叔本华、哈德门的人生观是直觉的",
+      "confidence": 1.0
+    },
+    {
+      "id": "e10",
+      "name": "柯白尼太阳居中说",
+      "canonical_name": "哥白尼日心说",
+      "type": "概念",
+      "evidence": "柯白尼太阳居中说",
+      "confidence": 0.9
+    },
+    {
+      "id": "e11",
+      "name": "达尔文的人猿同祖说",
+      "canonical_name": "达尔文进化论",
+      "type": "概念",
+      "evidence": "达尔文的人猿同祖说",
+      "confidence": 0.9
+    },
+    {
+      "id": "e12",
+      "name": "科学方法",
+      "canonical_name": "科学方法",
+      "type": "方法",
+      "evidence": "科学方法不适用于人生观",
+      "confidence": 1.0
+    },
+    {
+      "id": "e13",
+      "name": "无因论者",
+      "canonical_name": "无因论者",
+      "type": "阵营/群体",
+      "evidence": "无因论者以为叔本华、哈德门的人生观是直觉的",
+      "confidence": 1.0
+    },
+    {
+      "id": "e14",
+      "name": "《玄学与科学》",
+      "canonical_name": "《玄学与科学》",
+      "type": "著作",
+      "evidence": "（《玄学与科学》页三）",
+      "confidence": 1.0
+    },
+    {
+      "id": "e15",
+      "name": "胡适",
+      "canonical_name": "胡适",
+      "type": "人物",
+      "evidence": "依我个人想起来",
+      "confidence": 1.0
+    }
+  ],
+  "claims": [
+    {
+      "id": "c1",
+      "speaker": "丁在君",
+      "claim": "人生观现在没有统一是一件事，永久不能统一又是一件事，除非你能提出事实理由来证明他是永远不能统一的，我们总有求他统一的义务。",
+      "target": "人生观",
+      "claim_type": "方法论主张",
+      "claim_status": "直接引用",
+      "polarity": "positive",
+      "evidence": "“人生观现在没有统一是一件事，永久不能统一又是一件事，除非你能提出事实理由来证明他是永远不能统一的，我们总有求他统一的义务。”",
+      "confidence": 1.0
+    },
+    {
+      "id": "c2",
+      "speaker": "丁在君",
+      "claim": "玄学家先存了一个成见，说科学方法不适用于人生观；世界上的玄学家一天没有死完，自然一天人生观不能统一。",
+      "target": "玄学家",
+      "claim_type": "反驳性主张",
+      "claim_status": "直接引用",
+      "polarity": "negative",
+      "evidence": "“玄学家先存了一个成见，说科学方法不适用于人生观；世界上的玄学家一天没有死完，自然一天人生观不能统一。”",
+      "confidence": 1.0
+    },
+    {
+      "id": "c3",
+      "speaker": "林宰平",
+      "claim": "丁在君要把科学来统一一切，想用科学的武器来包办宇宙。",
+      "target": "丁在君",
+      "claim_type": "论战策略批评",
+      "claim_status": "间接转述",
+      "polarity": "negative",
+      "evidence": "林宰平先生就控告丁在君，说他“要把科学来统一一切”，说他“想用科学的武器来包办宇宙”。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c4",
+      "speaker": "胡适",
+      "claim": "林宰平的控诉未免过于张大其词了。",
+      "target": "林宰平",
+      "claim_type": "论战策略批评",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "这种控诉，未免过于张大其词了。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c5",
+      "speaker": "胡适",
+      "claim": "在君用的“统一”一个词，不过是沿用君劢文章里的话；他们两位的意思大概都不过是大同小异的一致罢了。",
+      "target": "丁在君",
+      "claim_type": "历史解释",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "在君用的“统一”一个词，不过是沿用君劢文章里的话；他们两位的意思大概都不过是大同小异的一致罢了。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c6",
+      "speaker": "胡适",
+      "claim": "人类的人生观总应该有一个最低限度的一致的可能。",
+      "target": "人生观",
+      "claim_type": "方法论主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "依我个人想起来，人类的人生观总应该有一个最低限度的一致的可能。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c7",
+      "speaker": "唐钺",
+      "claim": "人生观不过是一个人对于世界万物同人类的态度，这种态度是随着一个人的神经构造、经验、知识等而变的。神经构造等就是人生观之因。",
+      "target": "人生观",
+      "claim_type": "定义性主张",
+      "claim_status": "直接引用",
+      "polarity": "positive",
+      "evidence": "人生观不过是一个人对于世界万物同人类的态度，这种态度是随着一个人的神经构造、经验、知识等而变的。神经构造等就是人生观之因。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c8",
+      "speaker": "无因论者",
+      "claim": "叔本华、哈德门的人生观是直觉的。",
+      "target": "叔本华",
+      "claim_type": "知识论主张",
+      "claim_status": "间接转述",
+      "polarity": "neutral",
+      "evidence": "无因论者以为叔本华、哈德门的人生观是直觉的",
+      "confidence": 0.9
+    },
+    {
+      "id": "c9",
+      "speaker": "唐钺",
+      "claim": "叔本华、哈德门自己并不承认他们的人生观是直觉的，他们都说根据经验阅历而来的。叔本华是引许多经验作证的，哈德门还要说他的哲学是从归纳法得来的。",
+      "target": "无因论者",
+      "claim_type": "反驳性主张",
+      "claim_status": "直接引用",
+      "polarity": "negative",
+      "evidence": "其实他们自己并不承认这事。他们都说根据经验阅历而来的。叔本华是引许多经验作证的，哈德门还要说他的哲学是从归纳法得来的。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c10",
+      "speaker": "唐钺",
+      "claim": "人生观是因知识而变的。",
+      "target": "人生观",
+      "claim_type": "知识论主张",
+      "claim_status": "直接引用",
+      "polarity": "positive",
+      "evidence": "人生观是因知识而变的。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c11",
+      "speaker": "唐钺",
+      "claim": "柯白尼太阳居中说同后来的达尔文的人猿同祖说发明以后，世界人类的人生观起绝大变动；这是无可疑的历史事实。",
+      "target": "人生观",
+      "claim_type": "历史解释",
+      "claim_status": "直接引用",
+      "polarity": "positive",
+      "evidence": "例如，柯白尼太阳居中说，同后来的达尔文的人猿同祖说发明以后，世界人类的人生观起绝大变动；这是无可疑的历史事实。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c12",
+      "speaker": "唐钺",
+      "claim": "若人生观是直觉的、无因的，何以随自然界的知识而变更呢？",
+      "target": "无因论者",
+      "claim_type": "问题提出",
+      "claim_status": "直接引用",
+      "polarity": "negative",
+      "evidence": "若人生观是直觉的、无因的，何以随自然界的知识而变更呢？",
+      "confidence": 1.0
+    }
+  ],
+  "relations": [
+    {
+      "id": "r1",
+      "head": "林宰平",
+      "head_type": "人物",
+      "relation": "批评",
+      "relation_subtype": "概念混淆批评",
+      "tail": "丁在君",
+      "tail_type": "人物",
+      "polarity": "negative",
+      "evidence": "林宰平先生就控告丁在君，说他“要把科学来统一一切”，说他“想用科学的武器来包办宇宙”。",
+      "confidence": 1.0
+    },
+    {
+      "id": "r2",
+      "head": "胡适",
+      "head_type": "人物",
+      "relation": "批评",
+      "relation_subtype": "一般批评",
+      "tail": "林宰平",
+      "tail_type": "人物",
+      "polarity": "negative",
+      "evidence": "这种控诉，未免过于张大其词了。",
+      "confidence": 1.0
+    },
+    {
+      "id": "r3",
+      "head": "丁在君",
+      "head_type": "人物",
+      "relation": "引用",
+      "relation_subtype": "援引权威支持",
+      "tail": "君劢",
+      "tail_type": "人物",
+      "polarity": "neutral",
+      "evidence": "在君用的“统一”一个词，不过是沿用君劢文章里的话",
+      "confidence": 0.9
+    },
+    {
+      "id": "r4",
+      "head": "胡适",
+      "head_type": "人物",
+      "relation": "支持",
+      "relation_subtype": "不适用",
+      "tail": "唐钺",
+      "tail_type": "人物",
+      "polarity": "positive",
+      "evidence": "唐钺先生说的最好",
+      "confidence": 1.0
+    },
+    {
+      "id": "r5",
+      "head": "唐钺",
+      "head_type": "人物",
+      "relation": "反驳",
+      "relation_subtype": "事实质疑",
+      "tail": "无因论者",
+      "tail_type": "阵营/群体",
+      "polarity": "negative",
+      "evidence": "其实他们自己并不承认这事。他们都说根据经验阅历而来的。",
+      "confidence": 1.0
+    },
+    {
+      "id": "r6",
+      "head": "唐钺",
+      "head_type": "人物",
+      "relation": "作为论据支持",
+      "relation_subtype": "不适用",
+      "tail": "人生观是因知识而变的",
+      "tail_type": "观点",
+      "polarity": "positive",
+      "evidence": "例如，柯白尼太阳居中说，同后来的达尔文的人猿同祖说发明以后，世界人类的人生观起绝大变动；这是无可疑的历史事实。",
+      "confidence": 1.0
+    },
+    {
+      "id": "r7",
+      "head": "唐钺",
+      "head_type": "人物",
+      "relation": "质疑",
+      "relation_subtype": "逻辑反驳",
+      "tail": "无因论者",
+      "tail_type": "阵营/群体",
+      "polarity": "negative",
+      "evidence": "若人生观是直觉的、无因的，何以随自然界的知识而变更呢？",
+      "confidence": 1.0
+    }
+  ],
+  "definitions": [
+    {
+      "id": "def1",
+      "term": "人生观",
+      "definition": "一个人对于世界万物同人类的态度，随着神经构造、经验、知识等而变，神经构造等是人生观之因。",
+      "evidence": "人生观不过是一个人对于世界万物同人类的态度，这种态度是随着一个人的神经构造、经验、知识等而变的。神经构造等就是人生观之因。",
+      "confidence": 1.0
+    }
+  ],
+  "citations": [
+    {
+      "id": "cit1",
+      "citer": "胡适",
+      "quoted_author": "丁在君",
+      "quoted_work": "《玄学与科学》",
+      "quoted_claim": "人生观现在没有统一是一件事，永久不能统一又是一件事，除非你能提出事实理由来证明他是永远不能统一的，我们总有求他统一的义务。",
+      "function": "援引权威支持",
+      "evidence": "“人生观现在没有统一是一件事，永久不能统一又是一件事，除非你能提出事实理由来证明他是永远不能统一的，我们总有求他统一的义务。”（《玄学与科学》页三）",
+      "confidence": 1.0
+    },
+    {
+      "id": "cit2",
+      "citer": "胡适",
+      "quoted_author": "丁在君",
+      "quoted_work": "《玄学与科学》",
+      "quoted_claim": "玄学家先存了一个成见，说科学方法不适用于人生观；世界上的玄学家一天没有死完，自然一天人生观不能统一。",
+      "function": "援引权威支持",
+      "evidence": "“玄学家先存了一个成见，说科学方法不适用于人生观；世界上的玄学家一天没有死完，自然一天人生观不能统一。”（页四）",
+      "confidence": 1.0
+    },
+    {
+      "id": "cit3",
+      "citer": "胡适",
+      "quoted_author": "唐钺",
+      "quoted_work": "",
+      "quoted_claim": "人生观不过是一个人对于世界万物同人类的态度，这种态度是随着一个人的神经构造、经验、知识等而变的。神经构造等就是人生观之因。",
+      "function": "援引权威支持",
+      "evidence": "唐钺先生说的最好：人生观不过是一个人对于世界万物同人类的态度，这种态度是随着一个人的神经构造、经验、知识等而变的。神经构造等就是人生观之因。",
+      "confidence": 1.0
+    },
+    {
+      "id": "cit4",
+      "citer": "唐钺",
+      "quoted_author": "叔本华",
+      "quoted_work": "",
+      "quoted_claim": "叔本华是引许多经验作证的",
+      "function": "作为历史证据",
+      "evidence": "叔本华是引许多经验作证的",
+      "confidence": 1.0
+    },
+    {
+      "id": "cit5",
+      "citer": "唐钺",
+      "quoted_author": "哈德门",
+      "quoted_work": "",
+      "quoted_claim": "他的哲学是从归纳法得来的",
+      "function": "作为历史证据",
+      "evidence": "哈德门还要说他的哲学是从归纳法得来的",
+      "confidence": 1.0
+    }
+  ],
+  "rhetorical_devices": [
+    {
+      "id": "rh1",
+      "expression": "用科学的武器来包办宇宙",
+      "device_type": "比喻",
+      "literal_target": "科学试图支配一切领域",
+      "function": "批评丁在君主张科学万能",
+      "evidence": "说他“想用科学的武器来包办宇宙”",
+      "confidence": 1.0
+    }
+  ],
+  "uncertainties": [
+    {
+      "item": "丁在君与丁文江是否为同一人",
+      "reason": "文本中只出现“丁在君”，未出现全名“丁文江”，无法确认是否同一人。"
+    },
+    {
+      "item": "君劢是否指张君劢",
+      "reason": "文本中只出现“君劢”，未出现全名“张君劢”，但根据论战背景可推断。"
+    }
+  ]
+}

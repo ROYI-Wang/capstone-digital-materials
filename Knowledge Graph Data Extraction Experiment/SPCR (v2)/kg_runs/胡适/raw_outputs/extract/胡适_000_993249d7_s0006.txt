@@ -1,0 +1,586 @@
+{
+  "metadata": {
+    "schema_version": "lite_v3.0",
+    "article_id": "胡适_000_993249d7",
+    "article_title": "序二",
+    "source_author": "胡适",
+    "section_title": "",
+    "section_author": "",
+    "segment_id": "胡适_000_993249d7_s0006",
+    "segment_index": 6,
+    "source_file": "E:\\1研究生\\岭南大学\\论文毕业\\capstone\\资料\\新的内容开始了\\local_upload\\input_胡适\\胡适.txt"
+  },
+  "entities": [
+    {
+      "id": "e1",
+      "name": "良心之自动",
+      "canonical_name": "良心之自动",
+      "type": "概念",
+      "evidence": "皆出于良心之自动，而决非有使之然者",
+      "confidence": 0.9
+    },
+    {
+      "id": "e2",
+      "name": "大论战",
+      "canonical_name": "大论战",
+      "type": "历史事件",
+      "evidence": "这样一个大论战，却用一篇处处不可捉摸的论文作起点",
+      "confidence": 0.9
+    },
+    {
+      "id": "e3",
+      "name": "一篇处处不可捉摸的论文",
+      "canonical_name": "一篇处处不可捉摸的论文",
+      "type": "文章",
+      "evidence": "却用一篇处处不可捉摸的论文作起点",
+      "confidence": 0.9
+    },
+    {
+      "id": "e4",
+      "name": "驳论与反驳",
+      "canonical_name": "驳论与反驳",
+      "type": "概念",
+      "evidence": "故驳论与反驳都容易跳出本题",
+      "confidence": 0.9
+    },
+    {
+      "id": "e5",
+      "name": "本题",
+      "canonical_name": "本题",
+      "type": "概念",
+      "evidence": "故驳论与反驳都容易跳出本题",
+      "confidence": 0.8
+    },
+    {
+      "id": "e6",
+      "name": "战线",
+      "canonical_name": "战线",
+      "type": "比喻/类比",
+      "evidence": "战线延长之后，战争的本意反不很明白了",
+      "confidence": 0.9
+    },
+    {
+      "id": "e7",
+      "name": "战争的本意",
+      "canonical_name": "战争的本意",
+      "type": "概念",
+      "evidence": "战争的本意反不很明白了",
+      "confidence": 0.8
+    },
+    {
+      "id": "e8",
+      "name": "梁任公先生",
+      "canonical_name": "梁任公",
+      "type": "人物",
+      "evidence": "假如当日我们用了梁任公先生的“科学万能之梦”一篇作讨论的基础",
+      "confidence": 0.9
+    },
+    {
+      "id": "e9",
+      "name": "科学万能之梦",
+      "canonical_name": "科学万能之梦",
+      "type": "文章",
+      "evidence": "用了梁任公先生的“科学万能之梦”一篇作讨论的基础",
+      "confidence": 0.9
+    },
+    {
+      "id": "e10",
+      "name": "这次论争",
+      "canonical_name": "这次论争",
+      "type": "历史事件",
+      "evidence": "我们定可以使这次论争的旗帜格外鲜明",
+      "confidence": 0.9
+    },
+    {
+      "id": "e11",
+      "name": "无谓的纷争",
+      "canonical_name": "无谓的纷争",
+      "type": "概念",
+      "evidence": "至少可以免去许多无谓的纷争",
+      "confidence": 0.9
+    },
+    {
+      "id": "e12",
+      "name": "这回论战的主要问题",
+      "canonical_name": "这回论战的主要问题",
+      "type": "问题",
+      "evidence": "不能不把这回论战的主要问题重说一遍",
+      "confidence": 0.9
+    },
+    {
+      "id": "e13",
+      "name": "君劢",
+      "canonical_name": "张君劢",
+      "type": "人物",
+      "evidence": "君劢的要点是“人生观问题之解决，决非科学所能为力。”",
+      "confidence": 0.9
+    },
+    {
+      "id": "e14",
+      "name": "人生观问题之解决，决非科学所能为力",
+      "canonical_name": "人生观问题之解决，决非科学所能为力",
+      "type": "观点",
+      "evidence": "君劢的要点是“人生观问题之解决，决非科学所能为力。”",
+      "confidence": 0.9
+    },
+    {
+      "id": "e15",
+      "name": "科学应用到人生观问题上去",
+      "canonical_name": "科学应用到人生观问题上去",
+      "type": "概念",
+      "evidence": "应该先说明科学应用到人生观问题上去，曾产生什么样子的人生观",
+      "confidence": 0.9
+    },
+    {
+      "id": "e16",
+      "name": "科学的人生观",
+      "canonical_name": "科学的人生观",
+      "type": "概念",
+      "evidence": "我们应该先叙述“科学的人生观”是什么",
+      "confidence": 0.9
+    },
+    {
+      "id": "e17",
+      "name": "梁先生",
+      "canonical_name": "梁任公",
+      "type": "人物",
+      "evidence": "是否像梁先生说的那样贻祸欧洲，流毒人类",
+      "confidence": 0.9
+    },
+    {
+      "id": "e18",
+      "name": "贻祸欧洲，流毒人类",
+      "canonical_name": "贻祸欧洲，流毒人类",
+      "type": "观点",
+      "evidence": "是否像梁先生说的那样贻祸欧洲，流毒人类",
+      "confidence": 0.9
+    },
+    {
+      "id": "e19",
+      "name": "这二十五万字的讨论",
+      "canonical_name": "这二十五万字的讨论",
+      "type": "文章",
+      "evidence": "我总观这二十五万字的讨论",
+      "confidence": 0.9
+    },
+    {
+      "id": "e20",
+      "name": "为科学作战的人",
+      "canonical_name": "为科学作战的人",
+      "type": "阵营/群体",
+      "evidence": "这一次为科学作战的人——除了吴稚晖先生——都有一个共同的错误",
+      "confidence": 0.9
+    },
+    {
+      "id": "e21",
+      "name": "吴稚晖先生",
+      "canonical_name": "吴稚晖",
+      "type": "人物",
+      "evidence": "除了吴稚晖先生",
+      "confidence": 0.9
+    },
+    {
+      "id": "e22",
+      "name": "共同的错误",
+      "canonical_name": "共同的错误",
+      "type": "评价",
+      "evidence": "都有一个共同的错误，就是不曾具体地说明科学的人生观是什么，却去抽象地力争科学可以解决人生观的问题",
+      "confidence": 0.9
+    },
+    {
+      "id": "e23",
+      "name": "这个共同错误的原因",
+      "canonical_name": "这个共同错误的原因",
+      "type": "概念",
+      "evidence": "这个共同错误的原因，约有两种",
+      "confidence": 0.9
+    },
+    {
+      "id": "e24",
+      "name": "张君劢的导火线的文章",
+      "canonical_name": "张君劢的导火线的文章",
+      "type": "文章",
+      "evidence": "张君劢的导火线的文章内并不曾像梁任公那样明白指斥科学家的人生观",
+      "confidence": 0.9
+    },
+    {
+      "id": "e25",
+      "name": "科学家的人生观",
+      "canonical_name": "科学家的人生观",
+      "type": "概念",
+      "evidence": "并不曾像梁任公那样明白指斥科学家的人生观",
+      "confidence": 0.9
+    },
+    {
+      "id": "e26",
+      "name": "科学对于人生观问题不能为力",
+      "canonical_name": "科学对于人生观问题不能为力",
+      "type": "观点",
+      "evidence": "只是笼统地说科学对于人生观问题不能为力",
+      "confidence": 0.9
+    },
+    {
+      "id": "e27",
+      "name": "驳论与反驳论的文章",
+      "canonical_name": "驳论与反驳论的文章",
+      "type": "文章",
+      "evidence": "驳论与反驳论的文章也都走上那可能与不可能的笼统讨论上去了",
+      "confidence": 0.9
+    },
+    {
+      "id": "e28",
+      "name": "可能与不可能的笼统讨论",
+      "canonical_name": "可能与不可能的笼统讨论",
+      "type": "概念",
+      "evidence": "也都走上那可能与不可能的笼统讨论上去了",
+      "confidence": 0.9
+    },
+    {
+      "id": "e29",
+      "name": "丁在君",
+      "canonical_name": "丁文江",
+      "type": "人物",
+      "evidence": "例如丁在君的《玄学与科学》的主要部分只是要证明",
+      "confidence": 0.9
+    },
+    {
+      "id": "e30",
+      "name": "玄学与科学",
+      "canonical_name": "玄学与科学",
+      "type": "文章",
+      "evidence": "丁在君的《玄学与科学》的主要部分只是要证明",
+      "confidence": 0.9
+    },
+    {
+      "id": "e31",
+      "name": "凡是心理的内容，真的概念推论，无一不是科学的材料",
+      "canonical_name": "凡是心理的内容，真的概念推论，无一不是科学的材料",
+      "type": "观点",
+      "evidence": "“凡是心理的内容，真的概念推论，无一不是科学的材料。”",
+      "confidence": 0.9
+    }
+  ],
+  "claims": [
+    {
+      "id": "c1",
+      "speaker": "胡适",
+      "claim": "这样一个大论战，却用一篇处处不可捉摸的论文作起点，这是一件大不幸的事",
+      "target": "一篇处处不可捉摸的论文",
+      "claim_type": "评价性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "这样一个大论战，却用一篇处处不可捉摸的论文作起点，这是一件大不幸的事",
+      "confidence": 0.9
+    },
+    {
+      "id": "c2",
+      "speaker": "胡适",
+      "claim": "因为原文处处不可捉摸，故驳论与反驳都容易跳出本题",
+      "target": "原文",
+      "claim_type": "因果主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "因为原文处处不可捉摸，故驳论与反驳都容易跳出本题",
+      "confidence": 0.9
+    },
+    {
+      "id": "c3",
+      "speaker": "胡适",
+      "claim": "战线延长之后，战争的本意反不很明白了",
+      "target": "战线",
+      "claim_type": "描述性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "战线延长之后，战争的本意反不很明白了",
+      "confidence": 0.9
+    },
+    {
+      "id": "c4",
+      "speaker": "胡适",
+      "claim": "假如当日我们用了梁任公先生的“科学万能之梦”一篇作讨论的基础，我们定可以使这次论争的旗帜格外鲜明，——至少可以免去许多无谓的纷争",
+      "target": "梁任公先生的“科学万能之梦”",
+      "claim_type": "对比性主张",
+      "claim_status": "作者推论",
+      "polarity": "positive",
+      "evidence": "我常想，假如当日我们用了梁任公先生的“科学万能之梦”一篇作讨论的基础，我们定可以使这次论争的旗帜格外鲜明，——至少可以免去许多无谓的纷争",
+      "confidence": 0.9
+    },
+    {
+      "id": "c5",
+      "speaker": "胡适",
+      "claim": "我们为读者计，不能不把这回论战的主要问题重说一遍",
+      "target": "这回论战的主要问题",
+      "claim_type": "规范性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "我们为读者计，不能不把这回论战的主要问题重说一遍",
+      "confidence": 0.9
+    },
+    {
+      "id": "c6",
+      "speaker": "张君劢",
+      "claim": "人生观问题之解决，决非科学所能为力",
+      "target": "人生观问题",
+      "claim_type": "反驳性主张",
+      "claim_status": "对手直接主张",
+      "polarity": "negative",
+      "evidence": "君劢的要点是“人生观问题之解决，决非科学所能为力。”",
+      "confidence": 0.9
+    },
+    {
+      "id": "c7",
+      "speaker": "胡适",
+      "claim": "我们要答复他，似乎应该先说明科学应用到人生观问题上去，曾产生什么样子的人生观",
+      "target": "君劢",
+      "claim_type": "回应性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "我们要答复他，似乎应该先说明科学应用到人生观问题上去，曾产生什么样子的人生观",
+      "confidence": 0.9
+    },
+    {
+      "id": "c8",
+      "speaker": "胡适",
+      "claim": "我们应该先叙述“科学的人生观”是什么，然后讨论这种人生观是否可以成立，是否可以解决人生观的问题，是否像梁先生说的那样贻祸欧洲，流毒人类",
+      "target": "科学的人生观",
+      "claim_type": "规范性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "我们应该先叙述“科学的人生观”是什么，然后讨论这种人生观是否可以成立，是否可以解决人生观的问题，是否像梁先生说的那样贻祸欧洲，流毒人类",
+      "confidence": 0.9
+    },
+    {
+      "id": "c9",
+      "speaker": "胡适",
+      "claim": "这一次为科学作战的人——除了吴稚晖先生——都有一个共同的错误，就是不曾具体地说明科学的人生观是什么，却去抽象地力争科学可以解决人生观的问题",
+      "target": "为科学作战的人",
+      "claim_type": "评价性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "我总观这二十五万字的讨论，终觉得这一次为科学作战的人——除了吴稚晖先生——都有一个共同的错误，就是不曾具体地说明科学的人生观是什么，却去抽象地力争科学可以解决人生观的问题",
+      "confidence": 0.9
+    },
+    {
+      "id": "c10",
+      "speaker": "胡适",
+      "claim": "这个共同错误的原因，约有两种",
+      "target": "这个共同错误",
+      "claim_type": "因果主张",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "这个共同错误的原因，约有两种",
+      "confidence": 0.9
+    },
+    {
+      "id": "c11",
+      "speaker": "胡适",
+      "claim": "第一，张君劢的导火线的文章内并不曾像梁任公那样明白指斥科学家的人生观，只是笼统地说科学对于人生观问题不能为力",
+      "target": "张君劢的导火线的文章",
+      "claim_type": "因果主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "第一，张君劢的导火线的文章内并不曾像梁任公那样明白指斥科学家的人生观，只是笼统地说科学对于人生观问题不能为力",
+      "confidence": 0.9
+    },
+    {
+      "id": "c12",
+      "speaker": "胡适",
+      "claim": "因此，驳论与反驳论的文章也都走上那可能与不可能的笼统讨论上去了",
+      "target": "驳论与反驳论的文章",
+      "claim_type": "因果主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "因此，驳论与反驳论的文章也都走上那可能与不可能的笼统讨论上去了",
+      "confidence": 0.9
+    },
+    {
+      "id": "c13",
+      "speaker": "丁在君",
+      "claim": "凡是心理的内容，真的概念推论，无一不是科学的材料",
+      "target": "心理的内容",
+      "claim_type": "定义性主张",
+      "claim_status": "对手直接主张",
+      "polarity": "positive",
+      "evidence": "例如丁在君的《玄学与科学》的主要部分只是要证明：“凡是心理的内容，真的概念推论，无一不是科学的材料。”",
+      "confidence": 0.9
+    }
+  ],
+  "relations": [
+    {
+      "id": "r1",
+      "head": "一篇处处不可捉摸的论文",
+      "head_type": "文章",
+      "relation": "导致",
+      "relation_subtype": "不适用",
+      "tail": "大论战",
+      "tail_type": "历史事件",
+      "polarity": "negative",
+      "stance_score": -0.8,
+      "intensity": 0.7,
+      "evidence": "这样一个大论战，却用一篇处处不可捉摸的论文作起点，这是一件大不幸的事",
+      "confidence": 0.9
+    },
+    {
+      "id": "r2",
+      "head": "原文处处不可捉摸",
+      "head_type": "评价",
+      "relation": "导致",
+      "relation_subtype": "不适用",
+      "tail": "驳论与反驳都容易跳出本题",
+      "tail_type": "概念",
+      "polarity": "negative",
+      "stance_score": -0.7,
+      "intensity": 0.6,
+      "evidence": "因为原文处处不可捉摸，故驳论与反驳都容易跳出本题",
+      "confidence": 0.9
+    },
+    {
+      "id": "r3",
+      "head": "战线延长",
+      "head_type": "概念",
+      "relation": "导致",
+      "relation_subtype": "不适用",
+      "tail": "战争的本意反不很明白了",
+      "tail_type": "概念",
+      "polarity": "negative",
+      "stance_score": -0.6,
+      "intensity": 0.5,
+      "evidence": "战线延长之后，战争的本意反不很明白了",
+      "confidence": 0.9
+    },
+    {
+      "id": "r4",
+      "head": "胡适",
+      "head_type": "人物",
+      "relation": "评价",
+      "relation_subtype": "一般批评",
+      "tail": "一篇处处不可捉摸的论文",
+      "tail_type": "文章",
+      "polarity": "negative",
+      "stance_score": -0.8,
+      "intensity": 0.7,
+      "evidence": "这样一个大论战，却用一篇处处不可捉摸的论文作起点，这是一件大不幸的事",
+      "confidence": 0.9
+    },
+    {
+      "id": "r5",
+      "head": "胡适",
+      "head_type": "人物",
+      "relation": "评价",
+      "relation_subtype": "部分肯定",
+      "tail": "梁任公先生的“科学万能之梦”",
+      "tail_type": "文章",
+      "polarity": "positive",
+      "stance_score": 0.7,
+      "intensity": 0.6,
+      "evidence": "假如当日我们用了梁任公先生的“科学万能之梦”一篇作讨论的基础，我们定可以使这次论争的旗帜格外鲜明，——至少可以免去许多无谓的纷争",
+      "confidence": 0.9
+    },
+    {
+      "id": "r6",
+      "head": "胡适",
+      "head_type": "人物",
+      "relation": "回应",
+      "relation_subtype": "一般批评",
+      "tail": "君劢的要点",
+      "tail_type": "观点",
+      "polarity": "negative",
+      "stance_score": -0.5,
+      "intensity": 0.4,
+      "evidence": "我们要答复他，似乎应该先说明科学应用到人生观问题上去，曾产生什么样子的人生观",
+      "confidence": 0.9
+    },
+    {
+      "id": "r7",
+      "head": "胡适",
+      "head_type": "人物",
+      "relation": "批评",
+      "relation_subtype": "同阵营内部批评",
+      "tail": "为科学作战的人",
+      "tail_type": "阵营/群体",
+      "polarity": "negative",
+      "stance_score": -0.6,
+      "intensity": 0.5,
+      "evidence": "这一次为科学作战的人——除了吴稚晖先生——都有一个共同的错误，就是不曾具体地说明科学的人生观是什么，却去抽象地力争科学可以解决人生观的问题",
+      "confidence": 0.9
+    },
+    {
+      "id": "r8",
+      "head": "张君劢的导火线的文章",
+      "head_type": "文章",
+      "relation": "导致",
+      "relation_subtype": "不适用",
+      "tail": "驳论与反驳论的文章也都走上那可能与不可能的笼统讨论上去了",
+      "tail_type": "文章",
+      "polarity": "negative",
+      "stance_score": -0.6,
+      "intensity": 0.5,
+      "evidence": "第一，张君劢的导火线的文章内并不曾像梁任公那样明白指斥科学家的人生观，只是笼统地说科学对于人生观问题不能为力。因此，驳论与反驳论的文章也都走上那可能与不可能的笼统讨论上去了",
+      "confidence": 0.9
+    },
+    {
+      "id": "r9",
+      "head": "丁在君",
+      "head_type": "人物",
+      "relation": "主张",
+      "relation_subtype": "不适用",
+      "tail": "凡是心理的内容，真的概念推论，无一不是科学的材料",
+      "tail_type": "观点",
+      "polarity": "positive",
+      "stance_score":  rentang_score": 0.8,
+      "intensity": 0.7,
+      "evidence": "例如丁在君的《玄学与科学》的主要部分只是要证明：“凡是心理的内容，真的概念推论，无一不是科学的材料。”",
+      "confidence": 0.9
+    }
+  ],
+  "definitions": [],
+  "citations": [
+    {
+      "id": "cit1",
+      "citer": "胡适",
+      "quoted_author": "张君劢",
+      "quoted_work": "",
+      "quoted_claim": "人生观问题之解决，决非科学所能为力",
+      "function": "作为批评对象",
+      "evidence": "君劢的要点是“人生观问题之解决，决非科学所能为力。”",
+      "confidence": 0.9
+    },
+    {
+      "id": "cit2",
+      "citer": "胡适",
+      "quoted_author": "梁任公",
+      "quoted_work": "",
+      "quoted_claim": "贻祸欧洲，流毒人类",
+      "function": "作为批评对象",
+      "evidence": "是否像梁先生说的那样贻祸欧洲，流毒人类",
+      "confidence": 0.9
+    },
+    {
+      "id": "cit3",
+      "citer": "胡适",
+      "quoted_author": "丁在君",
+      "quoted_work": "玄学与科学",
+      "quoted_claim": "凡是心理的内容，真的概念推论，无一不是科学的材料",
+      "function": "作为历史证据",
+      "evidence": "例如丁在君的《玄学与科学》的主要部分只是要证明：“凡是心理的内容，真的概念推论，无一不是科学的材料。”",
+      "confidence": 0.9
+    }
+  ],
+  "rhetorical_devices": [
+    {
+      "id": "rh1",
+      "expression": "战线延长之后，战争的本意反不很明白了",
+      "device_type": "比喻",
+      "literal_target": "论战范围扩大后，论战的本意反而不清楚了",
+      "function": "形象化地说明论战偏离主题的后果",
+      "evidence": "战线延长之后，战争的本意反不很明白了",
+      "confidence": 0.9
+    }
+  ],
+  "uncertainties": [
+    {
+      "item": "“皆出于良心之自动，而决非有使之然者”这句话的归属",
+      "reason": "文本开头直接引用，但未指明说话者，可能来自前文或某位论战参与者"
+    }
+  ]
+}

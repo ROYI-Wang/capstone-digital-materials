@@ -1,0 +1,162 @@
+{
+  "metadata": {
+    "schema_version": "lite_v2.0",
+    "article_id": "张东荪_000_a9bf05ee",
+    "article_title": "劳而无功 —— 评丁在君先生口中的科学",
+    "source_author": "张东荪",
+    "section_title": "丁在君先生为反对张君劢先生的“人生观”，于是拿了“科学”来打“玄学”。迄至昨日止，我已拜读了他的洋洋大文两篇了。我读了他的第一篇文章时候，就觉得有许多话非说不可，但我仍是暂时忍着。后来看见林宰平先生一篇文章，我真跳起来。凡我所蓄于肚里，所要说的话差不多都被林先生说出来了。我十分佩服林先生，却又十分感激林先生，因为这一下我既可不闷得难受，又可不必写得手酸。我肚里的意思虽经林先生发泄了十分之九，然尚有一分，似乎亦应得吐出，方能痛快。所以我看见林先生的文章后即加了一些按",
+    "section_author": "丁在君先生为反对张君劢先生的“人生观”，于是拿了“科学”来打“玄学”。迄至昨日止，我已拜读了他的洋洋大文两篇了。我读了他的第一篇文章时候，就觉得有许多话非说不可，但我仍是暂时忍着。后来看见林宰平先生一篇文章，我真跳起来。凡我所蓄于肚里，所要说的话差不多都被林先生说出来了。我十分佩服林先生，却又十分感激林先生，因为这一下我既可不闷得难受，又可不必写得手酸。我肚里的意思虽经林先生发泄了十分之九，然尚有一分，似乎亦应得吐出，方能痛快。所以我看见林先生的文章后即加了一些",
+    "segment_id": "张东荪_000_a9bf05ee_s0001",
+    "segment_index": 1,
+    "source_file": "E:\\1研究生\\岭南大学\\论文毕业\\capstone\\资料\\新的内容开始了\\local_upload\\input_w0\\张东荪.txt"
+  },
+  "entities": [
+    {
+      "id": "e1",
+      "name": "哲学",
+      "canonical_name": "哲学",
+      "type": "概念",
+      "evidence": "而只是采取与自己性质相近的一种哲学学说而攻击与自己性质相远的那种哲学学说。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e2",
+      "name": "汉学家的考据",
+      "canonical_name": "汉学家的考据",
+      "type": "概念",
+      "evidence": "我认为丁先生对于科学，与汉学家的考据混为一谈",
+      "confidence": 1.0
+    },
+    {
+      "id": "e3",
+      "name": "《科学与玄学》",
+      "canonical_name": "《科学与玄学》",
+      "type": "著作",
+      "evidence": "丁先生第一篇题目是《科学与玄学》",
+      "confidence": 1.0
+    }
+  ],
+  "claims": [
+    {
+      "id": "c1",
+      "speaker": "张东荪",
+      "claim": "丁先生不是真正拿科学来攻玄学，而只是采取与自己性质相近的一种哲学学说而攻击与自己性质相远的那种哲学学说。",
+      "target": "丁在君",
+      "claim_type": "论战策略批评",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "我认为丁先生不是真正拿科学来攻玄学，而只是采取与自己性质相近的一种哲学学说而攻击与自己性质相远的那种哲学学说。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c2",
+      "speaker": "张东荪",
+      "claim": "丁先生对于科学的真正性质没有说明白。",
+      "target": "丁在君",
+      "claim_type": "论战策略批评",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "我认为丁先生对于科学的真正性质没有说明白。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c3",
+      "speaker": "张东荪",
+      "claim": "丁先生对于科学，与汉学家的考据混为一谈，这样宣传科学是有害无益的。",
+      "target": "丁在君",
+      "claim_type": "论战策略批评",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "我认为丁先生对于科学，与汉学家的考据混为一谈，这样宣传科学是有害无益的。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c4",
+      "speaker": "张东荪",
+      "claim": "丁先生对于玄学始终不下一个明切的定义；对于玄学与哲学的关系亦始终无一字提及。",
+      "target": "丁在君",
+      "claim_type": "论战策略批评",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "丁先生对于玄学始终不下一个明切的定义；对于玄学与哲学的关系亦始终无一字提及。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c5",
+      "speaker": "张东荪",
+      "claim": "敌人尚未认清，就先开炮，我真佩服丁先生的勇敢。",
+      "target": "丁在君",
+      "claim_type": "论战策略批评",
+      "claim_status": "作者讽刺性归纳",
+      "polarity": "negative",
+      "evidence": "敌人尚未认清，就先开炮，我真佩服丁先生的勇敢。",
+      "confidence": 1.0
+    }
+  ],
+  "relations": [],
+  "definitions": [],
+  "citations": [],
+  "rhetorical_devices": [
+    {
+      "id": "rh1",
+      "expression": "以科学为符箓而拘拿那个名叫“玄学”的鬼",
+      "device_type": "比喻",
+      "literal_target": "丁在君用科学来攻击玄学",
+      "function": "讽刺丁在君将科学当作工具来对付玄学，暗示其做法带有迷信或简单化色彩",
+      "evidence": "当然以科学为符箓而拘拿那个名叫“玄学”的鬼了。",
+      "confidence": 1.0
+    },
+    {
+      "id": "rh2",
+      "expression": "玄学这个鬼却亦非常调皮，他一躲便躲在名叫“哲学”的人身上，丁先生投鼠忌器起来，于是枪法就乱了。",
+      "device_type": "比喻",
+      "literal_target": "玄学与哲学关系模糊，导致丁在君无法明确区分而攻击失准",
+      "function": "讽刺丁在君对玄学与哲学的关系认识不清，导致论战策略混乱",
+      "evidence": "可是玄学这个鬼却亦非常调皮，他一躲便躲在名叫“哲学”的人身上，丁先生投鼠忌器起来，于是枪法就乱了。",
+      "confidence": 1.0
+    },
+    {
+      "id": "rh3",
+      "expression": "敌人尚未认清，就先开炮，我真佩服丁先生的勇敢。",
+      "device_type": "讽刺",
+      "literal_target": "丁在君在未明确定义玄学的情况下就发起攻击",
+      "function": "讽刺丁在君论战策略轻率，缺乏严谨性",
+      "evidence": "敌人尚未认清，就先开炮，我真佩服丁先生的勇敢。",
+      "confidence": 1.0
+    },
+    {
+      "id": "rh4",
+      "expression": "要是换了小弟兄，万万办不到。",
+      "device_type": "讽刺",
+      "literal_target": "丁在君的勇敢行为",
+      "function": "以自谦反讽丁在君的鲁莽",
+      "evidence": "要是换了小弟兄，万万办不到。",
+      "confidence": 1.0
+    }
+  ],
+  "uncertainties": [
+    {
+      "item": "张东荪在文本中自称“我”，但未明确出现“张东荪”三字，是否将“张东荪”作为实体输出？",
+      "reason": "根据原则，source_author 出现在 metadata 中，且正文有第一人称“我”，应视为隐含出现，故已输出为实体。"
+    }
+  ],
+  "_meta": {
+    "status": "success",
+    "stage": "extract",
+    "model": "deepseek-ai/DeepSeek-V4-Flash",
+    "base_url": "https://api.siliconflow.cn/v1",
+    "prompt_version": "extract_prompt_v2.0",
+    "schema_version": "lite_v2.0",
+    "segment_id": "张东荪_000_a9bf05ee_s0001",
+    "article_id": "张东荪_000_a9bf05ee",
+    "char_start": 491,
+    "char_end": 1088,
+    "raw_path": "E:\\1研究生\\岭南大学\\论文毕业\\capstone\\资料\\新的内容开始了\\local_upload\\kg_runs\\张东荪\\raw_outputs\\extract\\张东荪_000_a9bf05ee_s0001.txt",
+    "parsed_at": "2026-05-20T00:30:45",
+    "started_at": "2026-05-20T00:21:10",
+    "elapsed_seconds": 575.295,
+    "strict_evidence_check": true,
+    "drop_unsupported_evidence": true,
+    "request_timeout_seconds": 180
+  }
+}

@@ -1,0 +1,298 @@
+{
+  "metadata": {
+    "schema_version": "lite_v2.0",
+    "article_id": "林宰平_000_acbbe922",
+    "article_title": "读丁在君先生的《玄学与科学》",
+    "source_author": "林宰平",
+    "section_title": "",
+    "section_author": "",
+    "segment_id": "林宰平_000_acbbe922_s0006",
+    "segment_index": 6,
+    "source_file": "E:\\1研究生\\岭南大学\\论文毕业\\capstone\\资料\\新的内容开始了\\local_upload\\input_w0\\林宰平.txt"
+  },
+  "entities": [
+    {
+      "id": "e1",
+      "name": "杜里舒",
+      "canonical_name": "杜里舒",
+      "type": "人物",
+      "evidence": "杜里舒谓“从前的唯实论，和现在的唯物论差不多，从前所谓主观，即现在所谓客观，从前的客观，有时竟是现在的主观，所以笛卡儿书中的主观，以现在眼光看来，并不是主观，乃是客观。”",
+      "confidence": 1.0
+    },
+    {
+      "id": "e2",
+      "name": "笛卡儿",
+      "canonical_name": "笛卡儿",
+      "type": "人物",
+      "evidence": "杜里舒谓“从前的唯实论，和现在的唯物论差不多，从前所谓主观，即现在所谓客观，从前的客观，有时竟是现在的主观，所以笛卡儿书中的主观，以现在眼光看来，并不是主观，乃是客观。”",
+      "confidence": 1.0
+    },
+    {
+      "id": "e3",
+      "name": "在君先生",
+      "canonical_name": "丁在君",
+      "type": "人物",
+      "evidence": "在君先生对于“论理”的观念，我也不大明白。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e4",
+      "name": "科学",
+      "canonical_name": "科学",
+      "type": "概念",
+      "evidence": "就如科学一语，恐怕不久也要变成滥套了，这是糟蹋科学，不是提倡科学。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e5",
+      "name": "论理",
+      "canonical_name": "论理",
+      "type": "概念",
+      "evidence": "在君先生对于“论理”的观念，我也不大明白。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e6",
+      "name": "论理学",
+      "canonical_name": "论理学",
+      "type": "概念",
+      "evidence": "“我们的人生观脱离了论理学的公例、定义、方法，还成一个什么东西？”",
+      "confidence": 1.0
+    },
+    {
+      "id": "e7",
+      "name": "科学方法",
+      "canonical_name": "科学方法",
+      "type": "概念",
+      "evidence": "论理学的方法，就是科学方法，因此把论理和科学又混在一起了。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e8",
+      "name": "实质的论理",
+      "canonical_name": "实质的论理",
+      "type": "概念",
+      "evidence": "原来科学方法与实质的论理（Material logic）本是相关的，既认为科学与科学的方法不分，自然也可说实质的论理就是科学的了。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e9",
+      "name": "形式论理",
+      "canonical_name": "形式论理",
+      "type": "概念",
+      "evidence": "看他的讲法，颇带点中古经院派传下来形式论理的旧观念，形式的缺点，往往理论上虽然说得过去，而事实上却不是这么一回事。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e10",
+      "name": "唯实论",
+      "canonical_name": "唯实论",
+      "type": "主义/学说/理论",
+      "evidence": "杜里舒谓“从前的唯实论，和现在的唯物论差不多，从前所谓主观，即现在所谓客观，从前的客观，有时竟是现在的主观，所以笛卡儿书中的主观，以现在眼光看来，并不是主观，乃是客观。”",
+      "confidence": 1.0
+    },
+    {
+      "id": "e11",
+      "name": "唯物论",
+      "canonical_name": "唯物论",
+      "type": "主义/学说/理论",
+      "evidence": "杜里舒谓“从前的唯实论，和现在的唯物论差不多，从前所谓主观，即现在所谓客观，从前的客观，有时竟是现在的主观，所以笛卡儿书中的主观，以现在眼光看来，并不是主观，乃是客观。”",
+      "confidence": 1.0
+    },
+    {
+      "id": "e12",
+      "name": "人生观",
+      "canonical_name": "人生观",
+      "type": "概念",
+      "evidence": "“我们的人生观脱离了论理学的公例、定义、方法，还成一个什么东西？”",
+      "confidence": 1.0
+    },
+    {
+      "id": "e13",
+      "name": "中古经院派",
+      "canonical_name": "中古经院派",
+      "type": "阵营/群体",
+      "evidence": "看他的讲法，颇带点中古经院派传下来形式论理的旧观念",
+      "confidence": 1.0
+    }
+  ],
+  "claims": [
+    {
+      "id": "c1",
+      "speaker": "林宰平",
+      "claim": "名词辗转应用，一方面固然是思想的进步，一方面也未始不是学术的毛病，每每一个范围很谨严的名词，应用又应用后来渐渐失其本意，甚至有与原意义完全相反的。",
+      "target": "名词的辗转应用",
+      "claim_type": "方法论主张",
+      "claim_status": "作者直接主张",
+      "polarity": "mixed",
+      "evidence": "义上，诸如此类的辗转应用，一方面固然是思想的进步，而一方面也未始不是学术的毛病，每每一个范围很谨严的名词，应用又应用后来渐渐失其本意，甚至有与原意义完全相反的。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c2",
+      "speaker": "杜里舒",
+      "claim": "从前的唯实论，和现在的唯物论差不多，从前所谓主观，即现在所谓客观，从前的客观，有时竟是现在的主观，所以笛卡儿书中的主观，以现在眼光看来，并不是主观，乃是客观。",
+      "target": "唯实论、唯物论、主观、客观",
+      "claim_type": "历史解释",
+      "claim_status": "直接引用",
+      "polarity": "neutral",
+      "evidence": "杜里舒谓“从前的唯实论，和现在的唯物论差不多，从前所谓主观，即现在所谓客观，从前的客观，有时竟是现在的主观，所以笛卡儿书中的主观，以现在眼光看来，并不是主观，乃是客观。”",
+      "confidence": 1.0
+    },
+    {
+      "id": "c3",
+      "speaker": "林宰平",
+      "claim": "科学一语，恐怕不久也要变成滥套了，这是糟蹋科学，不是提倡科学。",
+      "target": "科学",
+      "claim_type": "文明批评",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "就如科学一语，恐怕不久也要变成滥套了，这是糟蹋科学，不是提倡科学。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c4",
+      "speaker": "丁在君",
+      "claim": "我们的人生观脱离了论理学的公例、定义、方法，还成一个什么东西？",
+      "target": "人生观与论理学的关系",
+      "claim_type": "方法论主张",
+      "claim_status": "直接引用",
+      "polarity": "negative",
+      "evidence": "“我们的人生观脱离了论理学的公例、定义、方法，还成一个什么东西？”",
+      "confidence": 1.0
+    },
+    {
+      "id": "c5",
+      "speaker": "林宰平",
+      "claim": "在君先生意思：论理学的方法，就是科学方法，因此把论理和科学又混在一起了。",
+      "target": "丁在君",
+      "claim_type": "论战策略批评",
+      "claim_status": "作者概括",
+      "polarity": "negative",
+      "evidence": "大约在君先生意思：论理学的方法，就是科学方法，因此把论理和科学又混在一起了。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c6",
+      "speaker": "林宰平",
+      "claim": "在君先生所谓论理，似乎又不尽指实质的论理而言，看他的讲法，颇带点中古经院派传下来形式论理的旧观念，形式的缺点，往往理论上虽然说得过去，而事实上却不是这么一回事。",
+      "target": "丁在君",
+      "claim_type": "论战策略批评",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "不过在君先生所谓论理，似乎又不尽指实质的论理而言，看他的讲法，颇带点中古经院派传下来形式论理的旧观念，形式的缺点，往往理论上虽然说得过去，而事实上却不是这么一回事。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c7",
+      "speaker": "林宰平",
+      "claim": "这种推论，也可说是合于科学的方法么？",
+      "target": "形式论理的推论",
+      "claim_type": "问题提出",
+      "claim_status": "作者推论",
+      "polarity": "negative",
+      "evidence": "这种推论，也可说是合于科学的方法么？",
+      "confidence": 1.0
+    }
+  ],
+  "relations": [
+    {
+      "id": "r1",
+      "head": "林宰平",
+      "head_type": "人物",
+      "relation": "相关",
+      "tail": "杜里舒",
+      "tail_type": "人物",
+      "polarity": "neutral",
+      "evidence": "杜里舒谓“从前的唯实论，和现在的唯物论差不多，从前所谓主观，即现在所谓客观，从前的客观，有时竟是现在的主观，所以笛卡儿书中的主观，以现在眼光看来，并不是主观，乃是客观。”",
+      "confidence": 1.0
+    }
+  ],
+  "definitions": [
+    {
+      "id": "def1",
+      "term": "实质的论理",
+      "definition": "与科学方法相关的论理，即Material logic。",
+      "evidence": "原来科学方法与实质的论理（Material logic）本是相关的",
+      "confidence": 1.0
+    },
+    {
+      "id": "def2",
+      "term": "形式论理",
+      "definition": "中古经院派传下来的旧观念，形式上说得过去但事实上不是那么回事。",
+      "evidence": "看他的讲法，颇带点中古经院派传下来形式论理的旧观念，形式的缺点，往往理论上虽然说得过去，而事实上却不是这么一回事。",
+      "confidence": 1.0
+    }
+  ],
+  "citations": [
+    {
+      "id": "cit1",
+      "citer": "林宰平",
+      "quoted_author": "杜里舒",
+      "quoted_work": "",
+      "quoted_claim": "从前的唯实论，和现在的唯物论差不多，从前所谓主观，即现在所谓客观，从前的客观，有时竟是现在的主观，所以笛卡儿书中的主观，以现在眼光看来，并不是主观，乃是客观。",
+      "function": "援引权威支持",
+      "evidence": "杜里舒谓“从前的唯实论，和现在的唯物论差不多，从前所谓主观，即现在所谓客观，从前的客观，有时竟是现在的主观，所以笛卡儿书中的主观，以现在眼光看来，并不是主观，乃是客观。”",
+      "confidence": 1.0
+    },
+    {
+      "id": "cit2",
+      "citer": "林宰平",
+      "quoted_author": "丁在君",
+      "quoted_work": "",
+      "quoted_claim": "我们的人生观脱离了论理学的公例、定义、方法，还成一个什么东西？",
+      "function": "作为批评对象",
+      "evidence": "“我们的人生观脱离了论理学的公例、定义、方法，还成一个什么东西？”",
+      "confidence": 1.0
+    }
+  ],
+  "rhetorical_devices": [
+    {
+      "id": "rh1",
+      "expression": "滑稽的论法",
+      "device_type": "讽刺",
+      "literal_target": "形式论理的推论",
+      "function": "通过讽刺形式论理的推论，质疑其是否合于科学方法，从而批评丁在君对论理的理解。",
+      "evidence": "大家都知道的有个滑稽的论法，他说：一条猫必有一个的尾巴，他比“没有猫”必多出一个尾巴，但是“没有猫有两个尾巴”，所以可说一条猫有三个尾巴。这种推论，也可说是合于科学的方法么？",
+      "confidence": 1.0
+    },
+    {
+      "id": "rh2",
+      "expression": "一条猫有三个尾巴",
+      "device_type": "归谬",
+      "literal_target": "形式论理的推论",
+      "function": "通过归谬构造，将形式论理的推论推向荒谬结论，以反驳其有效性。",
+      "evidence": "大家都知道的有个滑稽的论法，他说：一条猫必有一个的尾巴，他比“没有猫”必多出一个尾巴，但是“没有猫有两个尾巴”，所以可说一条猫有三个尾巴。这种推论，也可说是合于科学的方法么？",
+      "confidence": 1.0
+    }
+  ],
+  "uncertainties": [
+    {
+      "item": "丁在君是否明确主张论理学的方法就是科学方法",
+      "reason": "文本中林宰平说“大约在君先生意思”，表明是推测，并非直接引用丁在君的原话。"
+    },
+    {
+      "item": "丁在君是否带有中古经院派形式论理的旧观念",
+      "reason": "林宰平说“看他的讲法，颇带点”，是主观判断，证据不充分。"
+    }
+  ],
+  "_meta": {
+    "status": "success",
+    "stage": "extract",
+    "model": "deepseek-ai/DeepSeek-V4-Flash",
+    "base_url": "https://api.siliconflow.cn/v1",
+    "prompt_version": "extract_prompt_v2.0",
+    "schema_version": "lite_v2.0",
+    "segment_id": "林宰平_000_acbbe922_s0006",
+    "article_id": "林宰平_000_acbbe922",
+    "char_start": 3025,
+    "char_end": 3619,
+    "raw_path": "E:\\1研究生\\岭南大学\\论文毕业\\capstone\\资料\\新的内容开始了\\local_upload\\kg_runs\\林宰平\\raw_outputs\\extract\\林宰平_000_acbbe922_s0006.txt",
+    "parsed_at": "2026-05-20T01:51:07",
+    "started_at": "2026-05-20T01:50:20",
+    "elapsed_seconds": 47.002,
+    "strict_evidence_check": true,
+    "drop_unsupported_evidence": true,
+    "request_timeout_seconds": 180
+  }
+}

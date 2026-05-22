@@ -1,0 +1,400 @@
+{
+  "metadata": {
+    "schema_version": "lite_v3.0",
+    "article_id": "梁启超_001_4a5e589a",
+    "article_title": "人生观与科学",
+    "source_author": "梁启超",
+    "section_title": "",
+    "section_author": "",
+    "segment_id": "梁启超_001_4a5e589a_s0001",
+    "segment_index": 1,
+    "source_file": "E:\\1研究生\\岭南大学\\论文毕业\\capstone\\资料\\新的内容开始了\\local_upload\\input_v2_w3\\梁启超.txt"
+  },
+  "entities": [
+    {
+      "id": "e1",
+      "name": "张丁两君",
+      "canonical_name": "张丁两君",
+      "type": "阵营/群体",
+      "evidence": "所以这一篇纯是对于张丁两君头一次交绥的文章下批评",
+      "confidence": 0.9
+    },
+    {
+      "id": "e2",
+      "name": "君劢",
+      "canonical_name": "君劢",
+      "type": "人物",
+      "evidence": "我很可惜君劢这篇文章",
+      "confidence": 0.9
+    },
+    {
+      "id": "e3",
+      "name": "在君",
+      "canonical_name": "在君",
+      "type": "人物",
+      "evidence": "在君也不过拈起来就驳",
+      "confidence": 0.9
+    },
+    {
+      "id": "e4",
+      "name": "人生观",
+      "canonical_name": "人生观",
+      "type": "概念",
+      "evidence": "未曾把“人生观”和“科学”给他一个定义",
+      "confidence": 0.9
+    },
+    {
+      "id": "e5",
+      "name": "科学",
+      "canonical_name": "科学",
+      "type": "概念",
+      "evidence": "未曾把“人生观”和“科学”给他一个定义",
+      "confidence": 0.9
+    },
+    {
+      "id": "e6",
+      "name": "人生",
+      "canonical_name": "人生",
+      "type": "概念",
+      "evidence": "人类从心界物界两方面调和结合而成的生活，叫做“人生”",
+      "confidence": 0.9
+    },
+    {
+      "id": "e7",
+      "name": "心界",
+      "canonical_name": "心界",
+      "type": "概念",
+      "evidence": "人类从心界物界两方面调和结合而成的生活，叫做“人生”",
+      "confidence": 0.9
+    },
+    {
+      "id": "e8",
+      "name": "物界",
+      "canonical_name": "物界",
+      "type": "概念",
+      "evidence": "人类从心界物界两方面调和结合而成的生活，叫做“人生”",
+      "confidence": 0.9
+    },
+    {
+      "id": "e9",
+      "name": "科学的结果",
+      "canonical_name": "科学的结果",
+      "type": "概念",
+      "evidence": "应用科学改变出来的物质或建设出来的机关等等只能谓之“科学的结果”，不能与“科学”本身并为一谈",
+      "confidence": 0.9
+    },
+    {
+      "id": "e10",
+      "name": "科学方法",
+      "canonical_name": "科学方法",
+      "type": "方法",
+      "evidence": "人生问题，有大部分是可以——而且必要用科学方法来解决的",
+      "confidence": 0.9
+    },
+    {
+      "id": "e11",
+      "name": "人生问题",
+      "canonical_name": "人生问题",
+      "type": "问题",
+      "evidence": "人生问题，有大部分是可以——而且必要用科学方法来解决的",
+      "confidence": 0.9
+    }
+  ],
+  "claims": [
+    {
+      "id": "c1",
+      "speaker": "梁启超",
+      "claim": "这一篇纯是对于张丁两君头一次交绥的文章下批评",
+      "target": "张丁两君头一次交绥的文章",
+      "claim_type": "描述性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "所以这一篇纯是对于张丁两君头一次交绥的文章下批评",
+      "confidence": 0.9
+    },
+    {
+      "id": "c2",
+      "speaker": "梁启超",
+      "claim": "凡辩论先要把辩论对象的内容确定",
+      "target": "辩论",
+      "claim_type": "规范性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "凡辩论先要把辩论对象的内容确定：先公认甲是什么乙是什么，才能说到甲和乙的关系何如",
+      "confidence": 0.9
+    },
+    {
+      "id": "c3",
+      "speaker": "梁启超",
+      "claim": "君劢这篇文章未曾把“人生观”和“科学”给他一个定义",
+      "target": "君劢这篇文章",
+      "claim_type": "评价性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "我很可惜君劢这篇文章，不过在学校里随便讲演，未曾把“人生观”和“科学”给他一个定义",
+      "confidence": 0.9
+    },
+    {
+      "id": "c4",
+      "speaker": "梁启超",
+      "claim": "在君也不过拈起来就驳",
+      "target": "在君",
+      "claim_type": "评价性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "在君也不过拈起来就驳",
+      "confidence": 0.8
+    },
+    {
+      "id": "c5",
+      "speaker": "梁启超",
+      "claim": "究竟他们两位所谓“人生观”所谓“科学”，是否同属一件东西，不惟我们观战人摸不清楚，只怕两边主将也未必能心心相印哩",
+      "target": "君劢和在君",
+      "claim_type": "问题提出",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "究竟他们两位所谓“人生观”所谓“科学”，是否同属一件东西，不惟我们观战人摸不清楚，只怕两边主将也未必能心心相印哩",
+      "confidence": 0.9
+    },
+    {
+      "id": "c6",
+      "speaker": "梁启超",
+      "claim": "人类从心界物界两方面调和结合而成的生活，叫做“人生”",
+      "target": "人生",
+      "claim_type": "定义性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "人类从心界物界两方面调和结合而成的生活，叫做“人生”",
+      "confidence": 0.9
+    },
+    {
+      "id": "c7",
+      "speaker": "梁启超",
+      "claim": "我们悬一种理想来完成这种生活，叫做“人生观”",
+      "target": "人生观",
+      "claim_type": "定义性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "我们悬一种理想来完成这种生活，叫做“人生观”",
+      "confidence": 0.9
+    },
+    {
+      "id": "c8",
+      "speaker": "梁启超",
+      "claim": "根据经验的事实分析综合求出一个近真的公例以推论同类事物，这种学问叫做“科学”",
+      "target": "科学",
+      "claim_type": "定义性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "根据经验的事实分析综合求出一个近真的公例以推论同类事物，这种学问叫做“科学”",
+      "confidence": 0.9
+    },
+    {
+      "id": "c9",
+      "speaker": "梁启超",
+      "claim": "应用科学改变出来的物质或建设出来的机关等等只能谓之“科学的结果”，不能与“科学”本身并为一谈",
+      "target": "科学的结果",
+      "claim_type": "定义性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "应用科学改变出来的物质或建设出来的机关等等只能谓之“科学的结果”，不能与“科学”本身并为一谈",
+      "confidence": 0.9
+    },
+    {
+      "id": "c10",
+      "speaker": "梁启超",
+      "claim": "人生问题，有大部分是可以——而且必要用科学方法来解决的",
+      "target": "人生问题",
+      "claim_type": "规范性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "人生问题，有大部分是可以——而且必要用科学方法来解决的",
+      "confidence": 0.9
+    }
+  ],
+  "relations": [
+    {
+      "id": "r1",
+      "head": "梁启超",
+      "head_type": "人物",
+      "relation": "批评",
+      "relation_subtype": "一般批评",
+      "tail": "张丁两君头一次交绥的文章",
+      "tail_type": "文章",
+      "polarity": "negative",
+      "stance_score": -0.5,
+      "intensity": 0.5,
+      "evidence": "所以这一篇纯是对于张丁两君头一次交绥的文章下批评",
+      "confidence": 0.9
+    },
+    {
+      "id": "r2",
+      "head": "梁启超",
+      "head_type": "人物",
+      "relation": "批评",
+      "relation_subtype": "证据不足批评",
+      "tail": "君劢这篇文章",
+      "tail_type": "文章",
+      "polarity": "negative",
+      "stance_score": -0.6,
+      "intensity": 0.6,
+      "evidence": "我很可惜君劢这篇文章，不过在学校里随便讲演，未曾把“人生观”和“科学”给他一个定义",
+      "confidence": 0.9
+    },
+    {
+      "id": "r3",
+      "head": "梁启超",
+      "head_type": "人物",
+      "relation": "批评",
+      "relation_subtype": "一般批评",
+      "tail": "在君",
+      "tail_type": "人物",
+      "polarity": "negative",
+      "stance_score": -0.5,
+      "intensity": 0.5,
+      "evidence": "在君也不过拈起来就驳",
+      "confidence": 0.8
+    },
+    {
+      "id": "r4",
+      "head": "梁启超",
+      "head_type": "人物",
+      "relation": "定义",
+      "relation_subtype": "概念澄清",
+      "tail": "人生",
+      "tail_type": "概念",
+      "polarity": "neutral",
+      "stance_score": 0.0,
+      "intensity": 0.5,
+      "evidence": "人类从心界物界两方面调和结合而成的生活，叫做“人生”",
+      "confidence": 0.9
+    },
+    {
+      "id": "r5",
+      "head": "梁启超",
+      "head_type": "人物",
+      "relation": "定义",
+      "relation_subtype": "概念澄清",
+      "tail": "人生观",
+      "tail_type": "概念",
+      "polarity": "neutral",
+      "stance_score": 0.0,
+      "intensity": 0.5,
+      "evidence": "我们悬一种理想来完成这种生活，叫做“人生观”",
+      "confidence": 0.9
+    },
+    {
+      "id": "r6",
+      "head": "梁启超",
+      "head_type": "人物",
+      "relation": "定义",
+      "relation_subtype": "概念澄清",
+      "tail": "科学",
+      "tail_type": "概念",
+      "polarity": "neutral",
+      "stance_score": 0.0,
+      "intensity": 0.5,
+      "evidence": "根据经验的事实分析综合求出一个近真的公例以推论同类事物，这种学问叫做“科学”",
+      "confidence": 0.9
+    },
+    {
+      "id": "r7",
+      "head": "梁启超",
+      "head_type": "人物",
+      "relation": "区分",
+      "relation_subtype": "概念澄清",
+      "tail": "科学的结果",
+      "tail_type": "概念",
+      "polarity": "neutral",
+      "stance_score": 0.0,
+      "intensity": 0.5,
+      "evidence": "应用科学改变出来的物质或建设出来的机关等等只能谓之“科学的结果”，不能与“科学”本身并为一谈",
+      "confidence": 0.9
+    },
+    {
+      "id": "r8",
+      "head": "梁启超",
+      "head_type": "人物",
+      "relation": "主张",
+      "relation_subtype": "不适用",
+      "tail": "人生问题，有大部分是可以——而且必要用科学方法来解决的",
+      "tail_type": "观点",
+      "polarity": "positive",
+      "stance_score": 0.8,
+      "intensity": 0.7,
+      "evidence": "人生问题，有大部分是可以——而且必要用科学方法来解决的",
+      "confidence": 0.9
+    }
+  ],
+  "definitions": [
+    {
+      "id": "def1",
+      "term": "人生",
+      "definition": "人类从心界物界两方面调和结合而成的生活",
+      "evidence": "人类从心界物界两方面调和结合而成的生活，叫做“人生”",
+      "confidence": 0.9
+    },
+    {
+      "id": "def2",
+      "term": "人生观",
+      "definition": "我们悬一种理想来完成这种生活",
+      "evidence": "我们悬一种理想来完成这种生活，叫做“人生观”",
+      "confidence": 0.9
+    },
+    {
+      "id": "def3",
+      "term": "科学",
+      "definition": "根据经验的事实分析综合求出一个近真的公例以推论同类事物",
+      "evidence": "根据经验的事实分析综合求出一个近真的公例以推论同类事物，这种学问叫做“科学”",
+      "confidence": 0.9
+    },
+    {
+      "id": "def4",
+      "term": "科学的结果",
+      "definition": "应用科学改变出来的物质或建设出来的机关等等",
+      "evidence": "应用科学改变出来的物质或建设出来的机关等等只能谓之“科学的结果”，不能与“科学”本身并为一谈",
+      "confidence": 0.9
+    }
+  ],
+  "citations": [],
+  "rhetorical_devices": [
+    {
+      "id": "rh1",
+      "expression": "驴头不对马嘴",
+      "device_type": "比喻",
+      "literal_target": "辩论对象内容不确定导致讨论不相关",
+      "function": "形象化说明辩论内容不确定的后果",
+      "evidence": "否则一定闹到“驴头不对马嘴”，当局的辩论没有结果，旁观的越发迷惑",
+      "confidence": 0.9
+    }
+  ],
+  "uncertainties": [
+    {
+      "item": "张丁两君是否指张君劢和丁文江",
+      "reason": "文本中只出现“张丁两君”，未明确全名，但结合上下文“君劢”和“在君”可推测，但严格按文本不补充常识"
+    },
+    {
+      "item": "“在君”是否指丁文江",
+      "reason": "文本中只出现“在君”，未明确全名，但结合上下文可能指丁文江，但严格按文本不补充常识"
+    }
+  ],
+  "_meta": {
+    "status": "success",
+    "stage": "extract",
+    "model": "deepseek-ai/DeepSeek-V4-Flash",
+    "base_url": "https://api.siliconflow.cn/v1",
+    "prompt_version": "v2.0",
+    "schema_version": "lite_v3.0",
+    "segment_id": "梁启超_001_4a5e589a_s0001",
+    "article_id": "梁启超_001_4a5e589a",
+    "char_start": 500,
+    "char_end": 1094,
+    "raw_path": "E:\\1研究生\\岭南大学\\论文毕业\\capstone\\资料\\新的内容开始了\\local_upload\\kg_runs_v2\\孙伏园_等3篇\\raw_outputs\\extract\\梁启超_001_4a5e589a_s0001.txt",
+    "parsed_at": "2026-05-21T01:39:04",
+    "started_at": "2026-05-21T01:36:14",
+    "elapsed_seconds": 169.812,
+    "strict_evidence_check": true,
+    "drop_unsupported_evidence": true,
+    "request_timeout_seconds": 180
+  }
+}

@@ -1,0 +1,357 @@
+{
+  "metadata": {
+    "schema_version": "lite_v2.0",
+    "article_id": "丁文江2_000_e838922e",
+    "article_title": "玄学与科学——答张君劢",
+    "source_author": "丁文江",
+    "section_title": "",
+    "section_author": "",
+    "segment_id": "丁文江2_000_e838922e_s0013",
+    "segment_index": 13,
+    "source_file": "E:\\1研究生\\岭南大学\\论文毕业\\capstone\\资料\\新的内容开始了\\local_upload\\input_texts\\丁文江2.txt"
+  },
+  "entities": [
+    {
+      "id": "e1",
+      "name": "尔文",
+      "canonical_name": "达尔文",
+      "type": "人物",
+      "evidence": "尔文之生存竞争论",
+      "confidence": 0.9
+    },
+    {
+      "id": "e2",
+      "name": "哥罗巴金",
+      "canonical_name": "克鲁泡特金",
+      "type": "人物",
+      "evidence": "哥罗巴金之互助主义",
+      "confidence": 0.9
+    },
+    {
+      "id": "e3",
+      "name": "生存竞争论",
+      "canonical_name": "生存竞争论",
+      "type": "主义/学说/理论",
+      "evidence": "尔文之生存竞争论",
+      "confidence": 0.9
+    },
+    {
+      "id": "e4",
+      "name": "互助主义",
+      "canonical_name": "互助主义",
+      "type": "主义/学说/理论",
+      "evidence": "哥罗巴金之互助主义",
+      "confidence": 0.9
+    },
+    {
+      "id": "e5",
+      "name": "人生观",
+      "canonical_name": "人生观",
+      "type": "概念",
+      "evidence": "以其为人生观故也",
+      "confidence": 0.9
+    },
+    {
+      "id": "e6",
+      "name": "主观的",
+      "canonical_name": "主观的",
+      "type": "概念",
+      "evidence": "以其为主观的故也",
+      "confidence": 0.9
+    },
+    {
+      "id": "e7",
+      "name": "心理学",
+      "canonical_name": "心理学",
+      "type": "概念",
+      "evidence": "心理学上之大问题",
+      "confidence": 0.9
+    },
+    {
+      "id": "e8",
+      "name": "智识论",
+      "canonical_name": "知识论",
+      "type": "概念",
+      "evidence": "智识论明明是心理学上的问题",
+      "confidence": 0.9
+    },
+    {
+      "id": "e9",
+      "name": "精神科学",
+      "canonical_name": "精神科学",
+      "type": "概念",
+      "evidence": "以精神科学论",
+      "confidence": 0.9
+    },
+    {
+      "id": "e10",
+      "name": "公例",
+      "canonical_name": "公例",
+      "type": "概念",
+      "evidence": "未尝无公例可求",
+      "confidence": 0.9
+    },
+    {
+      "id": "e11",
+      "name": "客观的",
+      "canonical_name": "客观的",
+      "type": "概念",
+      "evidence": "故不失为客观的也",
+      "confidence": 0.9
+    },
+    {
+      "id": "e12",
+      "name": "知识论",
+      "canonical_name": "知识论",
+      "type": "概念",
+      "evidence": "知识论者，哲学范围内事也",
+      "confidence": 0.9
+    },
+    {
+      "id": "e13",
+      "name": "哲学",
+      "canonical_name": "哲学",
+      "type": "概念",
+      "evidence": "知识论者，哲学范围内事也",
+      "confidence": 0.9
+    },
+    {
+      "id": "e14",
+      "name": "科学",
+      "canonical_name": "科学",
+      "type": "概念",
+      "evidence": "与科学无涉者也",
+      "confidence": 0.9
+    },
+    {
+      "id": "e15",
+      "name": "君劢",
+      "canonical_name": "张君劢",
+      "type": "人物",
+      "evidence": "连君劢自己也觉得精神科学同人生观的界限不大显明",
+      "confidence": 0.9
+    },
+    {
+      "id": "e16",
+      "name": "精神科学同人生观的界限",
+      "canonical_name": "精神科学与人生观的界限",
+      "type": "问题",
+      "evidence": "连君劢自己也觉得精神科学同人生观的界限不大显明",
+      "confidence": 0.9
+    }
+  ],
+  "claims": [
+    {
+      "id": "c1",
+      "speaker": "张君劢",
+      "claim": "尔文之生存竞争论与哥罗巴金之互助主义，其所见异焉。凡此诸家之言，是非各执，绝不能施以一种试验以证甲之是与乙之非。何也？以其为人生观故也，以其为主观的故也。",
+      "target": "人生观",
+      "claim_type": "定义性主张",
+      "claim_status": "直接引用",
+      "polarity": "neutral",
+      "evidence": "尔文之生存竞争论与哥罗巴金之互助主义，其所见异焉。凡此诸家之言，是非各执，绝不能施以一种试验以证甲之是与乙之非。何也？以其为人生观故也，以其为主观的故也。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c2",
+      "speaker": "张君劢",
+      "claim": "心理学上之大问题，甲曰智识起于感觉，乙曰智识以范畴为基础，则双方之是非不易解决矣。然以精神科学论，就一般现象而求其平均数，则亦未尝无公例可求，故不失为客观的也。",
+      "target": "心理学",
+      "claim_type": "定义性主张",
+      "claim_status": "直接引用",
+      "polarity": "neutral",
+      "evidence": "心理学上之大问题，甲曰智识起于感觉，乙曰智识以范畴为基础，则双方之是非不易解决矣。然以精神科学论，就一般现象而求其平均数，则亦未尝无公例可求，故不失为客观的也。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c3",
+      "speaker": "张君劢",
+      "claim": "知识论者，哲学范围内事也，与科学无涉者也。",
+      "target": "知识论",
+      "claim_type": "定义性主张",
+      "claim_status": "直接引用",
+      "polarity": "neutral",
+      "evidence": "知识论者，哲学范围内事也，与科学无涉者也。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c4",
+      "speaker": "丁文江",
+      "claim": "智识论明明是心理学上的问题，明明是科学的问题了。",
+      "target": "智识论",
+      "claim_type": "定义性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "然则智识论明明是心理学上的问题，明明是科学的问题了",
+      "confidence": 0.9
+    },
+    {
+      "id": "c5",
+      "speaker": "丁文江",
+      "claim": "我不能不说‘斯之谓矛盾’。",
+      "target": "张君劢",
+      "claim_type": "论战策略批评",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "我不能不说‘斯之谓矛盾’",
+      "confidence": 0.9
+    },
+    {
+      "id": "c6",
+      "speaker": "丁文江",
+      "claim": "连君劢自己也觉得精神科学同人生观的界限不大显明，一个不小心就要弄错。",
+      "target": "张君劢",
+      "claim_type": "论战策略批评",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "连君劢自己也觉得精神科学同人生观的界限不大显明，一个不小心就要弄错",
+      "confidence": 0.9
+    }
+  ],
+  "relations": [
+    {
+      "id": "r1",
+      "head": "丁文江",
+      "head_type": "人物",
+      "relation": "引用",
+      "relation_subtype": "作为批评对象",
+      "tail": "张君劢",
+      "tail_type": "人物",
+      "polarity": "negative",
+      "evidence": "又譬如他清华讲演说：",
+      "confidence": 0.9
+    },
+    {
+      "id": "r2",
+      "head": "丁文江",
+      "head_type": "人物",
+      "relation": "批评",
+      "relation_subtype": "逻辑反驳",
+      "tail": "张君劢",
+      "tail_type": "人物",
+      "polarity": "negative",
+      "evidence": "我不能不说‘斯之谓矛盾’。矛盾的原故是因为连君劢自己也觉得精神科学同人生观的界限不大显明，一个不小心就要弄错。",
+      "confidence": 0.9
+    },
+    {
+      "id": "r3",
+      "head": "张君劢",
+      "head_type": "人物",
+      "relation": "主张",
+      "relation_subtype": "不适用",
+      "tail": "人生观",
+      "tail_type": "概念",
+      "polarity": "neutral",
+      "evidence": "以其为人生观故也，以其为主观的故也",
+      "confidence": 0.9
+    },
+    {
+      "id": "r4",
+      "head": "张君劢",
+      "head_type": "人物",
+      "relation": "主张",
+      "relation_subtype": "不适用",
+      "tail": "精神科学",
+      "tail_type": "概念",
+      "polarity": "neutral",
+      "evidence": "以精神科学论，就一般现象而求其平均数，则亦未尝无公例可求，故不失为客观的也",
+      "confidence": 0.9
+    },
+    {
+      "id": "r5",
+      "head": "张君劢",
+      "head_type": "人物",
+      "relation": "主张",
+      "relation_subtype": "不适用",
+      "tail": "知识论",
+      "tail_type": "概念",
+      "polarity": "neutral",
+      "evidence": "知识论者，哲学范围内事也，与科学无涉者也",
+      "confidence": 0.9
+    },
+    {
+      "id": "r6",
+      "head": "丁文江",
+      "head_type": "人物",
+      "relation": "主张",
+      "relation_subtype": "不适用",
+      "tail": "智识论",
+      "tail_type": "概念",
+      "polarity": "positive",
+      "evidence": "然则智识论明明是心理学上的问题，明明是科学的问题了",
+      "confidence": 0.9
+    }
+  ],
+  "definitions": [
+    {
+      "id": "def1",
+      "term": "人生观",
+      "definition": "主观的，不能通过试验证明是非的领域",
+      "evidence": "以其为人生观故也，以其为主观的故也",
+      "confidence": 0.9
+    },
+    {
+      "id": "def2",
+      "term": "精神科学",
+      "definition": "就一般现象而求其平均数，有公例可求，不失为客观的",
+      "evidence": "以精神科学论，就一般现象而求其平均数，则亦未尝无公例可求，故不失为客观的也",
+      "confidence": 0.9
+    },
+    {
+      "id": "def3",
+      "term": "知识论",
+      "definition": "哲学范围内事，与科学无涉",
+      "evidence": "知识论者，哲学范围内事也，与科学无涉者也",
+      "confidence": 0.9
+    }
+  ],
+  "citations": [
+    {
+      "id": "cit1",
+      "citer": "丁文江",
+      "quoted_author": "张君劢",
+      "quoted_work": "",
+      "quoted_claim": "尔文之生存竞争论与哥罗巴金之互助主义，其所见异焉。凡此诸家之言，是非各执，绝不能施以一种试验以证甲之是与乙之非。何也？以其为人生观故也，以其为主观的故也。",
+      "function": "作为批评对象",
+      "evidence": "尔文之生存竞争论与哥罗巴金之互助主义，其所见异焉。凡此诸家之言，是非各执，绝不能施以一种试验以证甲之是与乙之非。何也？以其为人生观故也，以其为主观的故也。",
+      "confidence": 0.9
+    },
+    {
+      "id": "cit2",
+      "citer": "丁文江",
+      "quoted_author": "张君劢",
+      "quoted_work": "",
+      "quoted_claim": "心理学上之大问题，甲曰智识起于感觉，乙曰智识以范畴为基础，则双方之是非不易解决矣。然以精神科学论，就一般现象而求其平均数，则亦未尝无公例可求，故不失为客观的也。",
+      "function": "作为批评对象",
+      "evidence": "又譬如他清华讲演说：",
+      "confidence": 0.9
+    },
+    {
+      "id": "cit3",
+      "citer": "丁文江",
+      "quoted_author": "张君劢",
+      "quoted_work": "",
+      "quoted_claim": "知识论者，哲学范围内事也，与科学无涉者也。",
+      "function": "作为批评对象",
+      "evidence": "知识论者，哲学范围内事也，与科学无涉者也。",
+      "confidence": 0.9
+    }
+  ],
+  "rhetorical_devices": [
+    {
+      "id": "rh1",
+      "expression": "斯之谓矛盾",
+      "device_type": "讽刺",
+      "literal_target": "张君劢的观点前后不一致",
+      "function": "指出对方自相矛盾，增强批评力度",
+      "evidence": "我不能不说‘斯之谓矛盾’",
+      "confidence": 0.9
+    }
+  ],
+  "uncertainties": [
+    {
+      "item": "丁文江引用张君劢的清华演讲是否完整，以及‘斯之谓不通’的具体出处",
+      "reason": "文本中只提到‘又譬如他清华讲演说’，未提供完整上下文；‘斯之谓不通’是张君劢对丁文江的批评，但未在本文中完整呈现"
+    }
+  ]
+}

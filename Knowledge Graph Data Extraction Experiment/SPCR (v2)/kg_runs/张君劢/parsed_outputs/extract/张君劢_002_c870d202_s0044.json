@@ -1,0 +1,172 @@
+{
+  "metadata": {
+    "schema_version": "lite_v3.0",
+    "article_id": "张君劢_002_c870d202",
+    "article_title": "再论人生观与科学并答丁在君",
+    "source_author": "张君劢",
+    "section_title": "",
+    "section_author": "",
+    "segment_id": "张君劢_002_c870d202_s0044",
+    "segment_index": 44,
+    "source_file": "E:\\1研究生\\岭南大学\\论文毕业\\capstone\\资料\\新的内容开始了\\local_upload\\input_张君劢\\张君劢.txt"
+  },
+  "entities": [
+    {
+      "id": "e1",
+      "name": "皮黄戏",
+      "canonical_name": "皮黄戏",
+      "type": "概念",
+      "evidence": "皮黄戏常演者约四百出",
+      "confidence": 0.9
+    },
+    {
+      "id": "e2",
+      "name": "《戏考》",
+      "canonical_name": "《戏考》",
+      "type": "著作",
+      "evidence": "试查市上之《戏考》（已出三十三期，为旧剧最大之丛书）",
+      "confidence": 0.9
+    },
+    {
+      "id": "e3",
+      "name": "科学家",
+      "canonical_name": "科学家",
+      "type": "阵营/群体",
+      "evidence": "科学家虽恶玄学",
+      "confidence": 0.9
+    },
+    {
+      "id": "e4",
+      "name": "玄学",
+      "canonical_name": "玄学",
+      "type": "概念",
+      "evidence": "科学家虽恶玄学",
+      "confidence": 0.9
+    },
+    {
+      "id": "e5",
+      "name": "证据",
+      "canonical_name": "证据",
+      "type": "概念",
+      "evidence": "其能并此证据而抹杀之",
+      "confidence": 0.9
+    }
+  ],
+  "claims": [
+    {
+      "id": "c1",
+      "speaker": "张君劢",
+      "claim": "皮黄戏常演者约四百出，其中以爱情为内容者，衡诸吾所举十之二三之比例，犹为过甚言之",
+      "target": "",
+      "claim_type": "描述性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "皮黄戏常演者约四百出，其中以爱情为内容者，衡诸吾所举十之二三之比例，犹为过甚言之",
+      "confidence": 0.9
+    },
+    {
+      "id": "c2",
+      "speaker": "张君劢",
+      "claim": "前三十册，共剧三百二十五种，其中与男女爱情有关者，仅六十一种，故曰尚不逮十之二三",
+      "target": "",
+      "claim_type": "描述性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "前三十册，共剧三百二十五种，其中与男女爱情有关者，仅六十一种，故曰尚不逮十之二三",
+      "confidence": 0.9
+    },
+    {
+      "id": "c3",
+      "speaker": "张君劢",
+      "claim": "科学家虽恶玄学，其能并此证据而抹杀之",
+      "target": "科学家",
+      "claim_type": "反驳性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "科学家虽恶玄学，其能并此证据而抹杀之",
+      "confidence": 0.9
+    }
+  ],
+  "relations": [
+    {
+      "id": "r1",
+      "head": "《戏考》",
+      "head_type": "著作",
+      "relation": "包含",
+      "relation_subtype": "不适用",
+      "tail": "前三十册，共剧三百二十五种",
+      "tail_type": "概念",
+      "polarity": "neutral",
+      "stance_score": 0.0,
+      "intensity": 0.0,
+      "evidence": "试查市上之《戏考》（已出三十三期，为旧剧最大之丛书），前三十册，共剧三百二十五种",
+      "confidence": 0.9
+    },
+    {
+      "id": "r2",
+      "head": "前三十册，共剧三百二十五种",
+      "head_type": "概念",
+      "relation": "包含",
+      "relation_subtype": "不适用",
+      "tail": "与男女爱情有关者，仅六十一种",
+      "tail_type": "概念",
+      "polarity": "neutral",
+      "stance_score": 0.0,
+      "intensity": 0.0,
+      "evidence": "前三十册，共剧三百二十五种，其中与男女爱情有关者，仅六十一种",
+      "confidence": 0.9
+    },
+    {
+      "id": "r3",
+      "head": "科学家",
+      "head_type": "阵营/群体",
+      "relation": "反对",
+      "relation_subtype": "一般批评",
+      "tail": "玄学",
+      "tail_type": "概念",
+      "polarity": "negative",
+      "stance_score": -0.8,
+      "intensity": 0.7,
+      "evidence": "科学家虽恶玄学",
+      "confidence": 0.9
+    }
+  ],
+  "definitions": [],
+  "citations": [],
+  "rhetorical_devices": [
+    {
+      "id": "rh1",
+      "expression": "其能并此证据而抹杀之",
+      "device_type": "反语",
+      "literal_target": "科学家不能抹杀证据",
+      "function": "讽刺科学家对证据的忽视",
+      "evidence": "其能并此证据而抹杀之",
+      "confidence": 0.8
+    }
+  ],
+  "uncertainties": [
+    {
+      "item": "爱为内容，是正可作为吾言之左证，而岂在君所能引为护身符者",
+      "reason": "此句涉及前文未提供的上下文，无法确定“爱为内容”的具体所指及“在君”的身份，故未抽取相关实体和关系。"
+    }
+  ],
+  "_meta": {
+    "status": "success",
+    "stage": "extract",
+    "model": "deepseek-ai/DeepSeek-V4-Flash",
+    "base_url": "https://api.siliconflow.cn/v1",
+    "prompt_version": "v2.0",
+    "schema_version": "lite_v3.0",
+    "segment_id": "张君劢_002_c870d202_s0044",
+    "article_id": "张君劢_002_c870d202",
+    "char_start": 22189,
+    "char_end": 22356,
+    "raw_path": "E:\\1研究生\\岭南大学\\论文毕业\\capstone\\资料\\新的内容开始了\\local_upload\\kg_runs_v2\\张君劢\\raw_outputs\\extract\\张君劢_002_c870d202_s0044.txt",
+    "parsed_at": "2026-05-22T03:55:11",
+    "started_at": "2026-05-22T03:54:32",
+    "elapsed_seconds": 38.58,
+    "strict_evidence_check": true,
+    "drop_unsupported_evidence": true,
+    "request_timeout_seconds": 60
+  }
+}

@@ -1,0 +1,369 @@
+{
+  "metadata": {
+    "schema_version": "lite_v3.0",
+    "article_id": "张东荪_000_a9bf05ee",
+    "article_title": "劳而无功 —— 评丁在君先生口中的科学",
+    "source_author": "张东荪",
+    "section_title": "更举一个好例，这个例就是丁先生的话。丁先生说柏格森说心的绵延如雪的堆积完全是比喻，不能算数。诚然，但请问丁先生为何对于马赫所说思想和天响雷一样（按",
+    "section_author": "更举一个好例，这个例就是丁先生的话。丁先生说柏格森说心的绵延如雪的堆积完全是比喻，不能算数。诚然，但请问丁先生为何对于马赫所说思想和天响雷一样（",
+    "segment_id": "张东荪_000_a9bf05ee_s0016",
+    "segment_index": 16,
+    "source_file": "E:\\1研究生\\岭南大学\\论文毕业\\capstone\\资料\\新的内容开始了\\local_upload\\input_v2_w2\\张东荪.txt"
+  },
+  "entities": [
+    {
+      "id": "e1",
+      "name": "张先生",
+      "canonical_name": "张先生",
+      "type": "人物",
+      "evidence": "不过张先生、丁先生在今天的中国学术界中已不是黄毛丫头，而已跻于命妇的地位",
+      "confidence": 0.9
+    },
+    {
+      "id": "e2",
+      "name": "丁先生",
+      "canonical_name": "丁先生",
+      "type": "人物",
+      "evidence": "不过张先生、丁先生在今天的中国学术界中已不是黄毛丫头，而已跻于命妇的地位",
+      "confidence": 0.9
+    },
+    {
+      "id": "e3",
+      "name": "中国学术界",
+      "canonical_name": "中国学术界",
+      "type": "阵营/群体",
+      "evidence": "不过张先生、丁先生在今天的中国学术界中已不是黄毛丫头，而已跻于命妇的地位",
+      "confidence": 0.9
+    },
+    {
+      "id": "e4",
+      "name": "黄毛丫头",
+      "canonical_name": "黄毛丫头",
+      "type": "比喻/类比",
+      "evidence": "不过张先生、丁先生在今天的中国学术界中已不是黄毛丫头，而已跻于命妇的地位",
+      "confidence": 0.9
+    },
+    {
+      "id": "e5",
+      "name": "命妇",
+      "canonical_name": "命妇",
+      "type": "比喻/类比",
+      "evidence": "不过张先生、丁先生在今天的中国学术界中已不是黄毛丫头，而已跻于命妇的地位",
+      "confidence": 0.9
+    },
+    {
+      "id": "e6",
+      "name": "社会",
+      "canonical_name": "社会",
+      "type": "概念",
+      "evidence": "使社会稍受影响呢？这便是区区的希望了。",
+      "confidence": 0.8
+    },
+    {
+      "id": "e7",
+      "name": "杜里舒",
+      "canonical_name": "杜里舒",
+      "type": "人物",
+      "evidence": "丁先生说杜里舒不配反对达尔文",
+      "confidence": 0.9
+    },
+    {
+      "id": "e8",
+      "name": "达尔文",
+      "canonical_name": "达尔文",
+      "type": "人物",
+      "evidence": "丁先生说杜里舒不配反对达尔文",
+      "confidence": 0.9
+    },
+    {
+      "id": "e9",
+      "name": "反对达尔文",
+      "canonical_name": "反对达尔文",
+      "type": "观点",
+      "evidence": "我以为反对达尔文与反对《进化论》是两件事，决不能说反对达尔文即是否认《进化论》",
+      "confidence": 0.9
+    },
+    {
+      "id": "e10",
+      "name": "反对《进化论》",
+      "canonical_name": "反对《进化论》",
+      "type": "观点",
+      "evidence": "我以为反对达尔文与反对《进化论》是两件事，决不能说反对达尔文即是否认《进化论》",
+      "confidence": 0.9
+    },
+    {
+      "id": "e11",
+      "name": "《进化论》",
+      "canonical_name": "《进化论》",
+      "type": "著作",
+      "evidence": "我以为反对达尔文与反对《进化论》是两件事，决不能说反对达尔文即是否认《进化论》",
+      "confidence": 0.9
+    },
+    {
+      "id": "e12",
+      "name": "研究生物学数十年的人",
+      "canonical_name": "研究生物学数十年的人",
+      "type": "阵营/群体",
+      "evidence": "以研究生物学数十年的人不配反对达尔文，而研究地质学的人却反而配赞成达尔文",
+      "confidence": 0.9
+    },
+    {
+      "id": "e13",
+      "name": "研究地质学的人",
+      "canonical_name": "研究地质学的人",
+      "type": "阵营/群体",
+      "evidence": "以研究生物学数十年的人不配反对达尔文，而研究地质学的人却反而配赞成达尔文",
+      "confidence": 0.9
+    },
+    {
+      "id": "e14",
+      "name": "研究哲学的人",
+      "canonical_name": "研究哲学的人",
+      "type": "阵营/群体",
+      "evidence": "则我们研究哲学的人当然亦配谈科学了",
+      "confidence": 0.9
+    },
+    {
+      "id": "e15",
+      "name": "科学",
+      "canonical_name": "科学",
+      "type": "概念",
+      "evidence": "则我们研究哲学的人当然亦配谈科学了",
+      "confidence": 0.8
+    }
+  ],
+  "claims": [
+    {
+      "id": "c1",
+      "speaker": "更举一个好例，这个例就是丁先生的话。丁先生说柏格森说心的绵延如雪的堆积完全是比喻，不能算数。诚然，但请问丁先生为何对于马赫所说思想和天响雷一样（",
+      "claim": "张先生、丁先生在今天的中国学术界中已不是黄毛丫头，而已跻于命妇的地位",
+      "target": "张先生、丁先生",
+      "claim_type": "评价性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "不过张先生、丁先生在今天的中国学术界中已不是黄毛丫头，而已跻于命妇的地位",
+      "confidence": 0.9
+    },
+    {
+      "id": "c2",
+      "speaker": "更举一个好例，这个例就是丁先生的话。丁先生说柏格森说心的绵延如雪的堆积完全是比喻，不能算数。诚然，但请问丁先生为何对于马赫所说思想和天响雷一样（",
+      "claim": "大家何必定要强不知以为知，使社会稍受影响呢？这便是区区的希望了。",
+      "target": "张先生、丁先生",
+      "claim_type": "规范性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "似乎大家何必定要强不知以为知，使社会稍受影响呢？这便是区区的希望了。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c3",
+      "speaker": "更举一个好例，这个例就是丁先生的话。丁先生说柏格森说心的绵延如雪的堆积完全是比喻，不能算数。诚然，但请问丁先生为何对于马赫所说思想和天响雷一样（",
+      "claim": "如蒙赐教，恕不答复。",
+      "target": "未指定",
+      "claim_type": "描述性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "如蒙赐教，恕不答复。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c4",
+      "speaker": "更举一个好例，这个例就是丁先生的话。丁先生说柏格森说心的绵延如雪的堆积完全是比喻，不能算数。诚然，但请问丁先生为何对于马赫所说思想和天响雷一样（",
+      "claim": "我作此篇固然是由于闷得受不住了，然亦未尝不是受了丁先生的暗示",
+      "target": "丁先生",
+      "claim_type": "因果主张",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "我作此篇固然是由于闷得受不住了，然亦未尝不是受了丁先生的暗示",
+      "confidence": 0.9
+    },
+    {
+      "id": "c5",
+      "speaker": "丁先生",
+      "claim": "杜里舒不配反对达尔文",
+      "target": "杜里舒",
+      "claim_type": "评价性主张",
+      "claim_status": "间接转述",
+      "polarity": "negative",
+      "evidence": "丁先生说杜里舒不配反对达尔文",
+      "confidence": 0.9
+    },
+    {
+      "id": "c6",
+      "speaker": "更举一个好例，这个例就是丁先生的话。丁先生说柏格森说心的绵延如雪的堆积完全是比喻，不能算数。诚然，但请问丁先生为何对于马赫所说思想和天响雷一样（",
+      "claim": "反对达尔文与反对《进化论》是两件事，决不能说反对达尔文即是否认《进化论》",
+      "target": "反对达尔文、反对《进化论》",
+      "claim_type": "定义性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "我以为反对达尔文与反对《进化论》是两件事，决不能说反对达尔文即是否认《进化论》",
+      "confidence": 0.9
+    },
+    {
+      "id": "c7",
+      "speaker": "更举一个好例，这个例就是丁先生的话。丁先生说柏格森说心的绵延如雪的堆积完全是比喻，不能算数。诚然，但请问丁先生为何对于马赫所说思想和天响雷一样（",
+      "claim": "以研究生物学数十年的人不配反对达尔文，而研究地质学的人却反而配赞成达尔文，则我们研究哲学的人当然亦配谈科学了",
+      "target": "丁先生",
+      "claim_type": "反驳性主张",
+      "claim_status": "作者推论",
+      "polarity": "negative",
+      "evidence": "以研究生物学数十年的人不配反对达尔文，而研究地质学的人却反而配赞成达尔文，则我们研究哲学的人当然亦配谈科学了",
+      "confidence": 0.9
+    },
+    {
+      "id": "c8",
+      "speaker": "更举一个好例，这个例就是丁先生的话。丁先生说柏格森说心的绵延如雪的堆积完全是比喻，不能算数。诚然，但请问丁先生为何对于马赫所说思想和天响雷一样（",
+      "claim": "仍是以“下不为例”为佳",
+      "target": "未指定",
+      "claim_type": "规范性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "不过我后来再想一想，仍是以“下不为例”为佳。",
+      "confidence": 0.9
+    }
+  ],
+  "relations": [
+    {
+      "id": "r1",
+      "head": "更举一个好例，这个例就是丁先生的话。丁先生说柏格森说心的绵延如雪的堆积完全是比喻，不能算数。诚然，但请问丁先生为何对于马赫所说思想和天响雷一样（",
+      "head_type": "人物",
+      "relation": "批评",
+      "relation_subtype": "讽刺",
+      "tail": "张先生、丁先生",
+      "tail_type": "人物",
+      "polarity": "negative",
+      "stance_score": -0.8,
+      "intensity": 0.7,
+      "evidence": "不过张先生、丁先生在今天的中国学术界中已不是黄毛丫头，而已跻于命妇的地位",
+      "confidence": 0.9
+    },
+    {
+      "id": "r2",
+      "head": "更举一个好例，这个例就是丁先生的话。丁先生说柏格森说心的绵延如雪的堆积完全是比喻，不能算数。诚然，但请问丁先生为何对于马赫所说思想和天响雷一样（",
+      "head_type": "人物",
+      "relation": "归因于",
+      "relation_subtype": "不适用",
+      "tail": "丁先生",
+      "tail_type": "人物",
+      "polarity": "neutral",
+      "stance_score": 0.0,
+      "intensity": 0.3,
+      "evidence": "我作此篇固然是由于闷得受不住了，然亦未尝不是受了丁先生的暗示",
+      "confidence": 0.9
+    },
+    {
+      "id": "r3",
+      "head": "更举一个好例，这个例就是丁先生的话。丁先生说柏格森说心的绵延如雪的堆积完全是比喻，不能算数。诚然，但请问丁先生为何对于马赫所说思想和天响雷一样（",
+      "head_type": "人物",
+      "relation": "区分",
+      "relation_subtype": "概念澄清",
+      "tail": "反对达尔文",
+      "tail_type": "观点",
+      "polarity": "neutral",
+      "stance_score": 0.0,
+      "intensity": 0.5,
+      "evidence": "我以为反对达尔文与反对《进化论》是两件事，决不能说反对达尔文即是否认《进化论》",
+      "confidence": 0.9
+    },
+    {
+      "id": "r4",
+      "head": "更举一个好例，这个例就是丁先生的话。丁先生说柏格森说心的绵延如雪的堆积完全是比喻，不能算数。诚然，但请问丁先生为何对于马赫所说思想和天响雷一样（",
+      "head_type": "人物",
+      "relation": "区分",
+      "relation_subtype": "概念澄清",
+      "tail": "反对《进化论》",
+      "tail_type": "观点",
+      "polarity": "neutral",
+      "stance_score": 0.0,
+      "intensity": 0.5,
+      "evidence": "我以为反对达尔文与反对《进化论》是两件事，决不能说反对达尔文即是否认《进化论》",
+      "confidence": 0.9
+    }
+  ],
+  "definitions": [
+    {
+      "id": "def1",
+      "term": "反对达尔文",
+      "definition": "反对达尔文与反对《进化论》是两件事，不能等同",
+      "evidence": "我以为反对达尔文与反对《进化论》是两件事，决不能说反对达尔文即是否认《进化论》",
+      "confidence": 0.9
+    },
+    {
+      "id": "def2",
+      "term": "反对《进化论》",
+      "definition": "反对《进化论》与反对达尔文是两件事，不能等同",
+      "evidence": "我以为反对达尔文与反对《进化论》是两件事，决不能说反对达尔文即是否认《进化论》",
+      "confidence": 0.9
+    }
+  ],
+  "citations": [
+    {
+      "id": "cit1",
+      "citer": "更举一个好例，这个例就是丁先生的话。丁先生说柏格森说心的绵延如雪的堆积完全是比喻，不能算数。诚然，但请问丁先生为何对于马赫所说思想和天响雷一样（",
+      "quoted_author": "丁先生",
+      "quoted_work": "",
+      "quoted_claim": "杜里舒不配反对达尔文",
+      "function": "作为批评对象",
+      "evidence": "丁先生说杜里舒不配反对达尔文",
+      "confidence": 0.9
+    }
+  ],
+  "rhetorical_devices": [
+    {
+      "id": "rh1",
+      "expression": "黄毛丫头",
+      "device_type": "比喻",
+      "literal_target": "张先生、丁先生",
+      "function": "贬低对方地位，暗示其不成熟",
+      "evidence": "不过张先生、丁先生在今天的中国学术界中已不是黄毛丫头，而已跻于命妇的地位",
+      "confidence": 0.9
+    },
+    {
+      "id": "rh2",
+      "expression": "命妇",
+      "device_type": "比喻",
+      "literal_target": "张先生、丁先生",
+      "function": "讽刺对方自居权威，实际却强不知以为知",
+      "evidence": "不过张先生、丁先生在今天的中国学术界中已不是黄毛丫头，而已跻于命妇的地位",
+      "confidence": 0.9
+    },
+    {
+      "id": "rh3",
+      "expression": "强不知以为知",
+      "device_type": "讽刺",
+      "literal_target": "张先生、丁先生",
+      "function": "批评对方不懂装懂",
+      "evidence": "似乎大家何必定要强不知以为知，使社会稍受影响呢？",
+      "confidence": 0.9
+    }
+  ],
+  "uncertainties": [
+    {
+      "item": "丁先生暗示的具体内容",
+      "reason": "文本只说“受了丁先生的暗示”，但未说明暗示的具体内容，无法确定"
+    },
+    {
+      "item": "“下不为例”的具体指涉",
+      "reason": "文本未明确说明“下不为例”指什么行为或事件"
+    }
+  ],
+  "_meta": {
+    "status": "success",
+    "stage": "extract",
+    "model": "deepseek-ai/DeepSeek-V4-Flash",
+    "base_url": "https://api.siliconflow.cn/v1",
+    "prompt_version": "v2.0",
+    "schema_version": "lite_v3.0",
+    "segment_id": "张东荪_000_a9bf05ee_s0016",
+    "article_id": "张东荪_000_a9bf05ee",
+    "char_start": 7850,
+    "char_end": 8134,
+    "raw_path": "E:\\1研究生\\岭南大学\\论文毕业\\capstone\\资料\\新的内容开始了\\local_upload\\kg_runs_v2\\张东荪_等3篇\\raw_outputs\\extract\\张东荪_000_a9bf05ee_s0016.txt",
+    "parsed_at": "2026-05-21T01:53:49",
+    "started_at": "2026-05-21T01:53:20",
+    "elapsed_seconds": 28.386,
+    "strict_evidence_check": true,
+    "drop_unsupported_evidence": true,
+    "request_timeout_seconds": 180
+  }
+}

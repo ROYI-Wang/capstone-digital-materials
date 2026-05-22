@@ -1,0 +1,561 @@
+{
+  "metadata": {
+    "schema_version": "lite_v3.0",
+    "article_id": "张君劢_000_e090c0d2",
+    "article_title": "人生观",
+    "source_author": "张君劢",
+    "section_title": "方今国中竟言新文化，而文化转移之枢纽，不外乎人生观。吾有吾之文化，西洋有西洋之文化。西洋之有益者如何采之，有害者如何革除之；凡此取舍之间，皆决之于观点。观点定，而后精神上之思潮、物质上之制度，乃可按",
+    "section_author": "方今国中竟言新文化，而文化转移之枢纽，不外乎人生观。吾有吾之文化，西洋有西洋之文化。西洋之有益者如何采之，有害者如何革除之；凡此取舍之间，皆决之于观点。观点定，而后精神上之思潮、物质上之制度，乃可",
+    "segment_id": "张君劢_000_e090c0d2_s0008",
+    "segment_index": 8,
+    "source_file": "E:\\1研究生\\岭南大学\\论文毕业\\capstone\\资料\\新的内容开始了\\local_upload\\input_张君劢\\张君劢.txt"
+  },
+  "entities": [
+    {
+      "id": "e1",
+      "name": "个人与社会",
+      "canonical_name": "个人与社会",
+      "type": "概念",
+      "evidence": "所谓个人与社会者：重社会则轻个人之发展，重个人则害社会之公益，此古今最不易解决之问题也。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e2",
+      "name": "个人社会云者",
+      "canonical_name": "个人社会",
+      "type": "概念",
+      "evidence": "故个人社会云者，不过为学问研究之便利计，而乃设此对待名词耳。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e3",
+      "name": "法制与财产之关系",
+      "canonical_name": "法制与财产之关系",
+      "type": "概念",
+      "evidence": "此问题之所以发生者，在法制与财产之关系上尤重。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e4",
+      "name": "教育过于一律",
+      "canonical_name": "教育过于一律",
+      "type": "概念",
+      "evidence": "譬诸教育过于一律，政治取决于多数，则往往特殊人才为群众所压倒矣。",
+      "confidence": 0.8
+    },
+    {
+      "id": "e5",
+      "name": "政治取决于多数",
+      "canonical_name": "政治取决于多数",
+      "type": "概念",
+      "evidence": "譬诸教育过于一律，政治取决于多数，则往往特殊人才为群众所压倒矣。",
+      "confidence": 0.8
+    },
+    {
+      "id": "e6",
+      "name": "特殊人才",
+      "canonical_name": "特殊人才",
+      "type": "概念",
+      "evidence": "则往往特殊人才为群众所压倒矣。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e7",
+      "name": "群众",
+      "canonical_name": "群众",
+      "type": "阵营/群体",
+      "evidence": "则往往特殊人才为群众所压倒矣。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e8",
+      "name": "生计组织过于集中",
+      "canonical_name": "生计组织过于集中",
+      "type": "概念",
+      "evidence": "生计组织过于集中，则小工业为大工业所压倒，而社会之财富集中于少数人，是重个人而轻社会也。",
+      "confidence": 0.8
+    },
+    {
+      "id": "e9",
+      "name": "小工业",
+      "canonical_name": "小工业",
+      "type": "概念",
+      "evidence": "则小工业为大工业所压倒",
+      "confidence": 0.9
+    },
+    {
+      "id": "e10",
+      "name": "大工业",
+      "canonical_name": "大工业",
+      "type": "概念",
+      "evidence": "则小工业为大工业所压倒",
+      "confidence": 0.9
+    },
+    {
+      "id": "e11",
+      "name": "社会之财富集中于少数人",
+      "canonical_name": "社会之财富集中于少数人",
+      "type": "概念",
+      "evidence": "而社会之财富集中于少数人",
+      "confidence": 0.9
+    },
+    {
+      "id": "e12",
+      "name": "重个人而轻社会",
+      "canonical_name": "重个人而轻社会",
+      "type": "概念",
+      "evidence": "是重个人而轻社会也。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e13",
+      "name": "知识发展",
+      "canonical_name": "知识发展",
+      "type": "概念",
+      "evidence": "知识发展，应重个人；财产分配，应均诸社会",
+      "confidence": 0.9
+    },
+    {
+      "id": "e14",
+      "name": "财产分配",
+      "canonical_name": "财产分配",
+      "type": "概念",
+      "evidence": "知识发展，应重个人；财产分配，应均诸社会",
+      "confidence": 0.9
+    },
+    {
+      "id": "e15",
+      "name": "国家主义与世界主义之争",
+      "canonical_name": "国家主义与世界主义之争",
+      "type": "问题",
+      "evidence": "至于国家主义与世界主义之争：我国向重平和，向爱大同，自无走入偏狭爱国主义之危险，然国中有所谓国货说，有所谓收回权利说，此则二说之是非尚在未决之中，故亦诸君所应注意者也。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e16",
+      "name": "国货说",
+      "canonical_name": "国货说",
+      "type": "观点",
+      "evidence": "然国中有所谓国货说，有所谓收回权利说，此则二说之是非尚在未决之中",
+      "confidence": 0.9
+    },
+    {
+      "id": "e17",
+      "name": "收回权利说",
+      "canonical_name": "收回权利说",
+      "type": "观点",
+      "evidence": "然国中有所谓国货说，有所谓收回权利说，此则二说之是非尚在未决之中",
+      "confidence": 0.9
+    },
+    {
+      "id": "e18",
+      "name": "人生观",
+      "canonical_name": "人生观",
+      "type": "概念",
+      "evidence": "方今国中竟言新文化，而文化转移之枢纽，不外乎人生观。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e19",
+      "name": "文化",
+      "canonical_name": "文化",
+      "type": "概念",
+      "evidence": "方今国中竟言新文化，而文化转移之枢纽，不外乎人生观。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e20",
+      "name": "吾之文化",
+      "canonical_name": "吾之文化",
+      "type": "概念",
+      "evidence": "吾有吾之文化，西洋有西洋之文化。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e21",
+      "name": "西洋之文化",
+      "canonical_name": "西洋之文化",
+      "type": "概念",
+      "evidence": "吾有吾之文化，西洋有西洋之文化。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e22",
+      "name": "观点",
+      "canonical_name": "观点",
+      "type": "概念",
+      "evidence": "凡此取舍之间，皆决之于观点。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e23",
+      "name": "精神上之思潮",
+      "canonical_name": "精神上之思潮",
+      "type": "概念",
+      "evidence": "观点定，而后精神上之思潮、物质上之制度，乃可按图而索。",
+      "confidence": 0.8
+    },
+    {
+      "id": "e24",
+      "name": "物质上之制度",
+      "canonical_name": "物质上之制度",
+      "type": "概念",
+      "evidence": "观点定，而后精神上之思潮、物质上之制度，乃可按图而索。",
+      "confidence": 0.8
+    },
+    {
+      "id": "e25",
+      "name": "沟通文化之责",
+      "canonical_name": "沟通文化之责",
+      "type": "概念",
+      "evidence": "将来沟通文化之责即在诸君之双肩上。",
+      "confidence": 0.8
+    },
+    {
+      "id": "e26",
+      "name": "诸君",
+      "canonical_name": "诸君",
+      "type": "阵营/群体",
+      "evidence": "诸君学于中国，不久即至美洲，将来沟通文化之责即在诸君之双肩上。",
+      "confidence": 0.9
+    }
+  ],
+  "claims": [
+    {
+      "id": "c1",
+      "speaker": "方今国中竟言新文化，而文化转移之枢纽，不外乎人生观。吾有吾之文化，西洋有西洋之文化。西洋之有益者如何采之，有害者如何革除之；凡此取舍之间，皆决之于观点。观点定，而后精神上之思潮、物质上之制度，乃可",
+      "claim": "重社会则轻个人之发展，重个人则害社会之公益，此古今最不易解决之问题也。",
+      "target": "个人与社会",
+      "claim_type": "描述性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "所谓个人与社会者：重社会则轻个人之发展，重个人则害社会之公益，此古今最不易解决之问题也。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c2",
+      "speaker": "方今国中竟言新文化，而文化转移之枢纽，不外乎人生观。吾有吾之文化，西洋有西洋之文化。西洋之有益者如何采之，有害者如何革除之；凡此取舍之间，皆决之于观点。观点定，而后精神上之思潮、物质上之制度，乃可",
+      "claim": "世间本无离社会之个人，亦无离个人之社会。",
+      "target": "个人与社会",
+      "claim_type": "描述性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "世间本无离社会之个人，亦无离个人之社会。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c3",
+      "speaker": "方今国中竟言新文化，而文化转移之枢纽，不外乎人生观。吾有吾之文化，西洋有西洋之文化。西洋之有益者如何采之，有害者如何革除之；凡此取舍之间，皆决之于观点。观点定，而后精神上之思潮、物质上之制度，乃可",
+      "claim": "个人社会云者，不过为学问研究之便利计，而乃设此对待名词耳。",
+      "target": "个人社会云者",
+      "claim_type": "定义性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "故个人社会云者，不过为学问研究之便利计，而乃设此对待名词耳。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c4",
+      "speaker": "方今国中竟言新文化，而文化转移之枢纽，不外乎人生观。吾有吾之文化，西洋有西洋之文化。西洋之有益者如何采之，有害者如何革除之；凡此取舍之间，皆决之于观点。观点定，而后精神上之思潮、物质上之制度，乃可",
+      "claim": "此问题之所以发生者，在法制与财产之关系上尤重。",
+      "target": "个人与社会问题",
+      "claim_type": "因果主张",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "此问题之所以发生者，在法制与财产之关系上尤重。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c5",
+      "speaker": "方今国中竟言新文化，而文化转移之枢纽，不外乎人生观。吾有吾之文化，西洋有西洋之文化。西洋之有益者如何采之，有害者如何革除之；凡此取舍之间，皆决之于观点。观点定，而后精神上之思潮、物质上之制度，乃可",
+      "claim": "教育过于一律，政治取决于多数，则往往特殊人才为群众所压倒矣。",
+      "target": "教育过于一律、政治取决于多数",
+      "claim_type": "因果主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "譬诸教育过于一律，政治取决于多数，则往往特殊人才为群众所压倒矣。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c6",
+      "speaker": "方今国中竟言新文化，而文化转移之枢纽，不外乎人生观。吾有吾之文化，西洋有西洋之文化。西洋之有益者如何采之，有害者如何革除之；凡此取舍之间，皆决之于观点。观点定，而后精神上之思潮、物质上之制度，乃可",
+      "claim": "生计组织过于集中，则小工业为大工业所压倒，而社会之财富集中于少数人，是重个人而轻社会也。",
+      "target": "生计组织过于集中",
+      "claim_type": "因果主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "生计组织过于集中，则小工业为大工业所压倒，而社会之财富集中于少数人，是重个人而轻社会也。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c7",
+      "speaker": "方今国中竟言新文化，而文化转移之枢纽，不外乎人生观。吾有吾之文化，西洋有西洋之文化。西洋之有益者如何采之，有害者如何革除之；凡此取舍之间，皆决之于观点。观点定，而后精神上之思潮、物质上之制度，乃可",
+      "claim": "知识发展，应重个人；财产分配，应均诸社会。",
+      "target": "知识发展、财产分配",
+      "claim_type": "规范性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "知识发展，应重个人；财产分配，应均诸社会；虽其大原则如是，而内容甚繁，此亦不可不注意者三也。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c8",
+      "speaker": "方今国中竟言新文化，而文化转移之枢纽，不外乎人生观。吾有吾之文化，西洋有西洋之文化。西洋之有益者如何采之，有害者如何革除之；凡此取舍之间，皆决之于观点。观点定，而后精神上之思潮、物质上之制度，乃可",
+      "claim": "我国向重平和，向爱大同，自无走入偏狭爱国主义之危险。",
+      "target": "国家主义与世界主义之争",
+      "claim_type": "描述性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "我国向重平和，向爱大同，自无走入偏狭爱国主义之危险",
+      "confidence": 0.9
+    },
+    {
+      "id": "c9",
+      "speaker": "方今国中竟言新文化，而文化转移之枢纽，不外乎人生观。吾有吾之文化，西洋有西洋之文化。西洋之有益者如何采之，有害者如何革除之；凡此取舍之间，皆决之于观点。观点定，而后精神上之思潮、物质上之制度，乃可",
+      "claim": "国中有所谓国货说，有所谓收回权利说，此则二说之是非尚在未决之中。",
+      "target": "国货说、收回权利说",
+      "claim_type": "描述性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "然国中有所谓国货说，有所谓收回权利说，此则二说之是非尚在未决之中",
+      "confidence": 0.9
+    },
+    {
+      "id": "c10",
+      "speaker": "方今国中竟言新文化，而文化转移之枢纽，不外乎人生观。吾有吾之文化，西洋有西洋之文化。西洋之有益者如何采之，有害者如何革除之；凡此取舍之间，皆决之于观点。观点定，而后精神上之思潮、物质上之制度，乃可",
+      "claim": "方今国中竟言新文化，而文化转移之枢纽，不外乎人生观。",
+      "target": "文化、人生观",
+      "claim_type": "因果主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "方今国中竟言新文化，而文化转移之枢纽，不外乎人生观。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c11",
+      "speaker": "方今国中竟言新文化，而文化转移之枢纽，不外乎人生观。吾有吾之文化，西洋有西洋之文化。西洋之有益者如何采之，有害者如何革除之；凡此取舍之间，皆决之于观点。观点定，而后精神上之思潮、物质上之制度，乃可",
+      "claim": "吾有吾之文化，西洋有西洋之文化。",
+      "target": "吾之文化、西洋之文化",
+      "claim_type": "描述性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "吾有吾之文化，西洋有西洋之文化。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c12",
+      "speaker": "方今国中竟言新文化，而文化转移之枢纽，不外乎人生观。吾有吾之文化，西洋有西洋之文化。西洋之有益者如何采之，有害者如何革除之；凡此取舍之间，皆决之于观点。观点定，而后精神上之思潮、物质上之制度，乃可",
+      "claim": "西洋之有益者如何采之，有害者如何革除之；凡此取舍之间，皆决之于观点。",
+      "target": "西洋之文化",
+      "claim_type": "因果主张",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "西洋之有益者如何采之，有害者如何革除之；凡此取舍之间，皆决之于观点。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c13",
+      "speaker": "方今国中竟言新文化，而文化转移之枢纽，不外乎人生观。吾有吾之文化，西洋有西洋之文化。西洋之有益者如何采之，有害者如何革除之；凡此取舍之间，皆决之于观点。观点定，而后精神上之思潮、物质上之制度，乃可",
+      "claim": "观点定，而后精神上之思潮、物质上之制度，乃可按图而索。",
+      "target": "观点、精神上之思潮、物质上之制度",
+      "claim_type": "因果主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "观点定，而后精神上之思潮、物质上之制度，乃可按图而索。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c14",
+      "speaker": "方今国中竟言新文化，而文化转移之枢纽，不外乎人生观。吾有吾之文化，西洋有西洋之文化。西洋之有益者如何采之，有害者如何革除之；凡此取舍之间，皆决之于观点。观点定，而后精神上之思潮、物质上之制度，乃可",
+      "claim": "此则人生观之关系于文化者所以若是其大也。",
+      "target": "人生观、文化",
+      "claim_type": "因果主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "此则人生观之关系于文化者所以若是其大也。",
+      "confidence": 0.8
+    },
+    {
+      "id": "c15",
+      "speaker": "方今国中竟言新文化，而文化转移之枢纽，不外乎人生观。吾有吾之文化，西洋有西洋之文化。西洋之有益者如何采之，有害者如何革除之；凡此取舍之间，皆决之于观点。观点定，而后精神上之思潮、物质上之制度，乃可",
+      "claim": "诸君学于中国，不久即至美洲，将来沟通文化之责即在诸君之双肩上。",
+      "target": "诸君",
+      "claim_type": "描述性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "诸君学于中国，不久即至美洲，将来沟通文化之责即在诸君之双肩上。",
+      "confidence": 0.9
+    }
+  ],
+  "relations": [
+    {
+      "id": "r1",
+      "head": "教育过于一律",
+      "head_type": "概念",
+      "relation": "导致",
+      "relation_subtype": "",
+      "tail": "特殊人才为群众所压倒",
+      "tail_type": "概念",
+      "polarity": "negative",
+      "stance_score": -0.5,
+      "intensity": 0.6,
+      "evidence": "譬诸教育过于一律，政治取决于多数，则往往特殊人才为群众所压倒矣。",
+      "confidence": 0.9
+    },
+    {
+      "id": "r2",
+      "head": "政治取决于多数",
+      "head_type": "概念",
+      "relation": "导致",
+      "relation_subtype": "",
+      "tail": "特殊人才为群众所压倒",
+      "tail_type": "概念",
+      "polarity": "negative",
+      "stance_score": -0.5,
+      "intensity": 0.6,
+      "evidence": "譬诸教育过于一律，政治取决于多数，则往往特殊人才为群众所压倒矣。",
+      "confidence": 0.9
+    },
+    {
+      "id": "r3",
+      "head": "生计组织过于集中",
+      "head_type": "概念",
+      "relation": "导致",
+      "relation_subtype": "",
+      "tail": "小工业为大工业所压倒",
+      "tail_type": "概念",
+      "polarity": "negative",
+      "stance_score": -0.5,
+      "intensity": 0.6,
+      "evidence": "生计组织过于集中，则小工业为大工业所压倒，而社会之财富集中于少数人，是重个人而轻社会也。",
+      "confidence": 0.9
+    },
+    {
+      "id": "r4",
+      "head": "生计组织过于集中",
+      "head_type": "概念",
+      "relation": "导致",
+      "relation_subtype": "",
+      "tail": "社会之财富集中于少数人",
+      "tail_type": "概念",
+      "polarity": "negative",
+      "stance_score": -0.5,
+      "intensity": 0.6,
+      "evidence": "生计组织过于集中，则小工业为大工业所压倒，而社会之财富集中于少数人，是重个人而轻社会也。",
+      "confidence": 0.9
+    },
+    {
+      "id": "r5",
+      "head": "生计组织过于集中",
+      "head_type": "概念",
+      "relation": "导致",
+      "relation_subtype": "",
+      "tail": "重个人而轻社会",
+      "tail_type": "概念",
+      "polarity": "negative",
+      "stance_score": -0.5,
+      "intensity": 0.6,
+      "evidence": "生计组织过于集中，则小工业为大工业所压倒，而社会之财富集中于少数人，是重个人而轻社会也。",
+      "confidence": 0.9
+    },
+    {
+      "id": "r6",
+      "head": "人生观",
+      "head_type": "概念",
+      "relation": "导致",
+      "relation_subtype": "",
+      "tail": "文化转移",
+      "tail_type": "概念",
+      "polarity": "positive",
+      "stance_score": 0.8,
+      "intensity": 0.7,
+      "evidence": "方今国中竟言新文化，而文化转移之枢纽，不外乎人生观。",
+      "confidence": 1.0
+    },
+    {
+      "id": "r7",
+      "head": "观点",
+      "head_type": "概念",
+      "relation": "导致",
+      "relation_subtype": "",
+      "tail": "精神上之思潮",
+      "tail_type": "概念",
+      "polarity": "positive",
+      "stance_score": 0.6,
+      "intensity": 0.5,
+      "evidence": "观点定，而后精神上之思潮、物质上之制度，乃可按图而索。",
+      "confidence": 0.9
+    },
+    {
+      "id": "r8",
+      "head": "观点",
+      "head_type": "概念",
+      "relation": "导致",
+      "relation_subtype": "",
+      "tail": "物质上之制度",
+      "tail_type": "概念",
+      "polarity": "positive",
+      "stance_score": 0.6,
+      "intensity": 0.5,
+      "evidence": "观点定，而后精神上之思潮、物质上之制度，乃可按图而索。",
+      "confidence": 0.9
+    },
+    {
+      "id": "r9",
+      "head": "人生观",
+      "head_type": "概念",
+      "relation": "导致",
+      "relation_subtype": "",
+      "tail": "文化",
+      "tail_type": "概念",
+      "polarity": "positive",
+      "stance_score": 0.8,
+      "intensity": 0.7,
+      "evidence": "此则人生观之关系于文化者所以若是其大也。",
+      "confidence": 0.9
+    }
+  ],
+  "definitions": [
+    {
+      "id": "def1",
+      "term": "个人社会云者",
+      "definition": "不过为学问研究之便利计，而乃设此对待名词耳。",
+      "evidence": "故个人社会云者，不过为学问研究之便利计，而乃设此对待名词耳。",
+      "confidence": 0.9
+    },
+    {
+      "id": "def2",
+      "term": "人生观",
+      "definition": "文化转移之枢纽",
+      "evidence": "方今国中竟言新文化，而文化转移之枢纽，不外乎人生观。",
+      "confidence": 0.9
+    }
+  ],
+  "citations": [],
+  "rhetorical_devices": [],
+  "uncertainties": [
+    {
+      "item": "恋爱者，此不可不注意者二也。",
+      "reason": "该句为片段开头，但上下文缺失，无法确定其具体所指和论证功能。"
+    }
+  ],
+  "_meta": {
+    "status": "success",
+    "stage": "extract",
+    "model": "deepseek-ai/DeepSeek-V4-Flash",
+    "base_url": "https://api.siliconflow.cn/v1",
+    "prompt_version": "v2.0",
+    "schema_version": "lite_v3.0",
+    "segment_id": "张君劢_000_e090c0d2_s0008",
+    "article_id": "张君劢_000_e090c0d2",
+    "char_start": 4063,
+    "char_end": 4604,
+    "raw_path": "E:\\1研究生\\岭南大学\\论文毕业\\capstone\\资料\\新的内容开始了\\local_upload\\kg_runs_v2\\张君劢\\raw_outputs\\extract\\张君劢_000_e090c0d2_s0008.txt",
+    "parsed_at": "2026-05-22T02:12:14",
+    "started_at": "2026-05-22T02:11:33",
+    "elapsed_seconds": 41.493,
+    "strict_evidence_check": true,
+    "drop_unsupported_evidence": true,
+    "request_timeout_seconds": 60
+  }
+}

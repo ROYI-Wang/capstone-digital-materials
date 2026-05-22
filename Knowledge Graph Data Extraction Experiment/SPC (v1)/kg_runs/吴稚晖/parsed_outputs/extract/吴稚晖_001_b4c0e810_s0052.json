@@ -1,0 +1,336 @@
+{
+  "metadata": {
+    "schema_version": "lite_v2.0",
+    "article_id": "吴稚晖_001_b4c0e810",
+    "article_title": "一个新信仰的宇宙观及人生观",
+    "source_author": "吴稚晖",
+    "section_title": "讲到这里，第一层可先用不值钱的玄学理想，近乎游戏的，说道毛厕里的石头亦有感觉。苍蝇的感觉，非即人的感觉，他们感觉的状况，颇极差等。玫瑰树的感觉，非即苍蝇的感觉，他们的感觉，又极差等。如是焉能禁我来瞎说，毛厕里石头的感觉，非即玫瑰树的感觉，他们感觉的状况，也极差等。若欲强分高下，则石头有其寂然不动的感觉，真所谓无私心而合天理，所以贞固永寿。一块毛厕里的石头，可以阅几十代人而依然如故，见数百兆苍蝇存灭，看千万棵玫瑰树忽而芬芳，忽而萎枯。彼如曰毛厕里的石头为万物之灵，理由亦未尝不充足。彼另有彼之可感与彼之可觉，人与苍蝇及玫瑰树之感觉，皆非彼所需，故亦非彼所有，如是而已。然这种蹈空的掉枪花，我们中国古代的玄学鬼常用“孰为正色，孰为正味”等的论调，闹得甚嚣尘上。自然受过科学洗礼的玄学鬼，不肯就把这种空言，来作惟一的搪塞。所以说到第二层，他就要戴上科学面具，正正经经，板起了面孔，来断定毛厕里的石头亦有感觉。他不是说能够按",
+    "section_author": "讲到这里，第一层可先用不值钱的玄学理想，近乎游戏的，说道毛厕里的石头亦有感觉。苍蝇的感觉，非即人的感觉，他们感觉的状况，颇极差等。玫瑰树的感觉，非即苍蝇的感觉，他们的感觉，又极差等。如是焉能禁我来瞎说，毛厕里石头的感觉，非即玫瑰树的感觉，他们感觉的状况，也极差等。若欲强分高下，则石头有其寂然不动的感觉，真所谓无私心而合天理，所以贞固永寿。一块毛厕里的石头，可以阅几十代人而依然如故，见数百兆苍蝇存灭，看千万棵玫瑰树忽而芬芳，忽而萎枯。彼如曰毛厕里的石头为万物之灵，理由亦未尝不充足。彼另有彼之可感与彼之可觉，人与苍蝇及玫瑰树之感觉，皆非彼所需，故亦非彼所有，如是而已。然这种蹈空的掉枪花，我们中国古代的玄学鬼常用“孰为正色，孰为正味”等的论调，闹得甚嚣尘上。自然受过科学洗礼的玄学鬼，不肯就把这种空言，来作惟一的搪塞。所以说到第二层，他就要戴上科学面具，正正经经，板起了面孔，来断定毛厕里的石头亦有感觉。他不是说能够",
+    "segment_id": "吴稚晖_001_b4c0e810_s0052",
+    "segment_index": 52,
+    "source_file": "E:\\1研究生\\岭南大学\\论文毕业\\capstone\\资料\\新的内容开始了\\local_upload\\input_w0\\吴稚晖.txt"
+  },
+  "entities": [
+    {
+      "id": "e1",
+      "name": "吴稚晖",
+      "canonical_name": "吴稚晖",
+      "type": "人物",
+      "evidence": "虽有吴稚晖代毛厕里石头辩护，说他在理化试验室里，也会闹恋爱自由，到底吴稚晖在另一问题上，又持之不坚。至于草木，从前绿满窗前草不除的道学先生，也已经能够赞他生机洋溢。所以吴稚晖在天文会讲漆黑一团的宇宙观，也虑及和尚留朋友吃素饭，田里的青菜必听见了同留着后拔的青菜泣别。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e2",
+      "name": "毛厕里石头",
+      "canonical_name": "毛厕里的石头",
+      "type": "概念",
+      "evidence": "虽有吴稚晖代毛厕里石头辩护，说他在理化试验室里，也会闹恋爱自由",
+      "confidence": 0.9
+    },
+    {
+      "id": "e3",
+      "name": "绝对的真美善",
+      "canonical_name": "绝对的真美善",
+      "type": "概念",
+      "evidence": "绝对的真美善，与真正的涅槃一样，那里有这么一回事呢？",
+      "confidence": 0.9
+    },
+    {
+      "id": "e4",
+      "name": "涅槃",
+      "canonical_name": "涅槃",
+      "type": "概念",
+      "evidence": "绝对的真美善，与真正的涅槃一样，那里有这么一回事呢？",
+      "confidence": 0.9
+    },
+    {
+      "id": "e5",
+      "name": "标准",
+      "canonical_name": "标准",
+      "type": "概念",
+      "evidence": "所以确实的标准，也是永远没有。惟较有理由的标准，乃是随时可定，随时可改，终有一个尽着心的较好又较好可言。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e6",
+      "name": "诚能动物",
+      "canonical_name": "诚能动物",
+      "type": "概念",
+      "evidence": "这便是诚能动物，为了“美善”，竭力倾向于“真”，止管据其所知，尽心罢了。",
+      "confidence": 0.8
+    },
+    {
+      "id": "e7",
+      "name": "无用",
+      "canonical_name": "无用",
+      "type": "概念",
+      "evidence": "因此据我们（是指柴积上日黄中的我们），尽心的立起几个无用标准，便是：",
+      "confidence": 0.9
+    },
+    {
+      "id": "e8",
+      "name": "金石",
+      "canonical_name": "金石",
+      "type": "概念",
+      "evidence": "第一条的，例如金石及草木。金石是至今被人看做专为动植物的补充品。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e9",
+      "name": "草木",
+      "canonical_name": "草木",
+      "type": "概念",
+      "evidence": "第一条的，例如金石及草木。金石是至今被人看做专为动植物的补充品。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e10",
+      "name": "青菜",
+      "canonical_name": "青菜",
+      "type": "概念",
+      "evidence": "田里的青菜必听见了同留着后拔的青菜泣别",
+      "confidence": 0.9
+    },
+    {
+      "id": "e11",
+      "name": "南先生",
+      "canonical_name": "南先生",
+      "type": "人物",
+      "evidence": "南先生在《晨报》上做食枣小说，也说枣魂掉泪不答。",
+      "confidence": 0.8
+    },
+    {
+      "id": "e12",
+      "name": "《晨报》",
+      "canonical_name": "晨报",
+      "type": "著作",
+      "evidence": "南先生在《晨报》上做食枣小说，也说枣魂掉泪不答。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e13",
+      "name": "道学先生",
+      "canonical_name": "道学先生",
+      "type": "阵营/群体",
+      "evidence": "至于草木，从前绿满窗前草不除的道学先生，也已经能够赞他生机洋溢。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e14",
+      "name": "我们",
+      "canonical_name": "我们（柴积上日黄中的我们）",
+      "type": "阵营/群体",
+      "evidence": "因此据我们（是指柴积上日黄中的我们），尽心的立起几个无用标准",
+      "confidence": 0.8
+    },
+    {
+      "id": "e15",
+      "name": "漆黑一团的宇宙观",
+      "canonical_name": "漆黑一团的宇宙观",
+      "type": "观点",
+      "evidence": "所以吴稚晖在天文会讲漆黑一团的宇宙观",
+      "confidence": 0.9
+    }
+  ],
+  "claims": [
+    {
+      "id": "c1",
+      "speaker": "吴稚晖",
+      "claim": "绝对的真美善，与真正的涅槃一样，那里有这么一回事呢？",
+      "target": "绝对的真美善",
+      "claim_type": "本体论主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "绝对的真美善，与真正的涅槃一样，那里有这么一回事呢？",
+      "confidence": 0.9
+    },
+    {
+      "id": "c2",
+      "speaker": "吴稚晖",
+      "claim": "确实的标准，也是永远没有。惟较有理由的标准，乃是随时可定，随时可改，终有一个尽着心的较好又较好可言。",
+      "target": "标准",
+      "claim_type": "知识论主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "所以确实的标准，也是永远没有。惟较有理由的标准，乃是随时可定，随时可改，终有一个尽着心的较好又较好可言。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c3",
+      "speaker": "吴稚晖",
+      "claim": "金石是至今被人看做专为动植物的补充品。",
+      "target": "金石",
+      "claim_type": "历史解释",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "金石是至今被人看做专为动植物的补充品。",
+      "confidence": 0.8
+    },
+    {
+      "id": "c4",
+      "speaker": "吴稚晖",
+      "claim": "吴稚晖代毛厕里石头辩护，说他在理化试验室里，也会闹恋爱自由，到底吴稚晖在另一问题上，又持之不坚。",
+      "target": "吴稚晖",
+      "claim_type": "价值评价",
+      "claim_status": "作者直接主张",
+      "polarity": "mixed",
+      "evidence": "虽有吴稚晖代毛厕里石头辩护，说他在理化试验室里，也会闹恋爱自由，到底吴稚晖在另一问题上，又持之不坚。",
+      "confidence": 0.8
+    },
+    {
+      "id": "c5",
+      "speaker": "吴稚晖",
+      "claim": "青菜同枣子的作用，止是天爷爷仁爱我们，专为我们而生。",
+      "target": "青菜",
+      "claim_type": "本体论主张",
+      "claim_status": "作者讽刺性归纳",
+      "polarity": "negative",
+      "evidence": "但我现在闭着眼，忍心害理的瞎说，也就可以抄老文章，说“诞降嘉种”，青菜同枣子的作用，止是天爷爷仁爱我们，专为我们而生。",
+      "confidence": 0.8
+    },
+    {
+      "id": "c6",
+      "speaker": "吴稚晖",
+      "claim": "他们的泣别与掉泪，秋波生在何处，我们尚未发现。",
+      "target": "青菜和枣子",
+      "claim_type": "知识论主张",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "况且他们的泣别与掉泪，秋波生在何处，我们尚未发现。",
+      "confidence": 0.8
+    }
+  ],
+  "relations": [
+    {
+      "id": "r1",
+      "head": "绝对的真美善",
+      "head_type": "概念",
+      "relation": "类比",
+      "tail": "涅槃",
+      "tail_type": "概念",
+      "polarity": "negative",
+      "evidence": "绝对的真美善，与真正的涅槃一样，那里有这么一回事呢？",
+      "confidence": 0.9
+    },
+    {
+      "id": "r2",
+      "head": "吴稚晖",
+      "head_type": "人物",
+      "relation": "批评",
+      "tail": "吴稚晖",
+      "tail_type": "人物",
+      "polarity": "mixed",
+      "evidence": "虽有吴稚晖代毛厕里石头辩护，说他在理化试验室里，也会闹恋爱自由，到底吴稚晖在另一问题上，又持之不坚。",
+      "confidence": 0.8
+    },
+    {
+      "id": "r3",
+      "head": "吴稚晖",
+      "head_type": "人物",
+      "relation": "主张",
+      "tail": "漆黑一团的宇宙观",
+      "tail_type": "观点",
+      "polarity": "positive",
+      "evidence": "所以吴稚晖在天文会讲漆黑一团的宇宙观",
+      "confidence": 0.9
+    },
+    {
+      "id": "r4",
+      "head": "南先生",
+      "head_type": "人物",
+      "relation": "相关",
+      "tail": "《晨报》",
+      "tail_type": "著作",
+      "polarity": "neutral",
+      "evidence": "南先生在《晨报》上做食枣小说，也说枣魂掉泪不答。",
+      "confidence": 0.8
+    }
+  ],
+  "definitions": [
+    {
+      "id": "def1",
+      "term": "标准",
+      "definition": "确实的标准永远没有，较有理由的标准随时可定、随时可改，终有较好又较好可言。",
+      "evidence": "所以确实的标准，也是永远没有。惟较有理由的标准，乃是随时可定，随时可改，终有一个尽着心的较好又较好可言。",
+      "confidence": 0.9
+    },
+    {
+      "id": "def2",
+      "term": "无用",
+      "definition": "根据四个标准权且妄认某物为无用：1. 无法想出其与我们有同样作用及感觉；2. 尚未成熟分辨不出同成熟一样；3. 物自己不知所愿弃的成分有用没用；4. 物已公认为无用。",
+      "evidence": "因此据我们（是指柴积上日黄中的我们），尽心的立起几个无用标准，便是：\n（一）是依我们现在的智识，没法想得出他与我们有同样的作用，及同样的感觉，便权且妄认他为无用。\n（二）是尚未成熟，暂时分辨不出他同成熟的一样，也便权且妄认他为无用。\n（三）是在这一物的自己，亦不知彼所愿弃的成分，到底还是有用或没用，也便权且妄认他为无用。\n（四）是这物已经公认为无用，不管他到底确实否，也权且妄认为无用。",
+      "confidence": 0.9
+    }
+  ],
+  "citations": [
+    {
+      "id": "cit1",
+      "citer": "吴稚晖",
+      "quoted_author": "南先生",
+      "quoted_work": "《晨报》",
+      "quoted_claim": "枣魂掉泪不答",
+      "function": "作为批评对象",
+      "evidence": "南先生在《晨报》上做食枣小说，也说枣魂掉泪不答。",
+      "confidence": 0.8
+    },
+    {
+      "id": "cit2",
+      "citer": "吴稚晖",
+      "quoted_author": "道学先生",
+      "quoted_work": "",
+      "quoted_claim": "赞他生机洋溢",
+      "function": "援引权威支持",
+      "evidence": "至于草木，从前绿满窗前草不除的道学先生，也已经能够赞他生机洋溢。",
+      "confidence": 0.8
+    }
+  ],
+  "rhetorical_devices": [
+    {
+      "id": "rh1",
+      "expression": "闭着眼，忍心害理的瞎说",
+      "device_type": "讽刺",
+      "literal_target": "吴稚晖自己",
+      "function": "以自嘲方式表达对传统观点的讽刺",
+      "evidence": "但我现在闭着眼，忍心害理的瞎说，也就可以抄老文章，说“诞降嘉种”，青菜同枣子的作用，止是天爷爷仁爱我们，专为我们而生。",
+      "confidence": 0.9
+    },
+    {
+      "id": "rh2",
+      "expression": "秋波生在何处",
+      "device_type": "讽刺",
+      "literal_target": "青菜和枣子",
+      "function": "以拟人化反问讽刺青菜枣子有情感的说法缺乏证据",
+      "evidence": "况且他们的泣别与掉泪，秋波生在何处，我们尚未发现。",
+      "confidence": 0.9
+    }
+  ],
+  "uncertainties": [
+    {
+      "item": "南先生",
+      "reason": "文本中仅出现'南先生'，未提供全名，无法确定具体人物身份。"
+    },
+    {
+      "item": "柴积上日黄中的我们",
+      "reason": "文本中'柴积上日黄中的我们'含义不明，无法确定具体指代群体。"
+    }
+  ],
+  "_meta": {
+    "status": "success",
+    "stage": "extract",
+    "model": "deepseek-ai/DeepSeek-V4-Flash",
+    "base_url": "https://api.siliconflow.cn/v1",
+    "prompt_version": "extract_prompt_v2.0",
+    "schema_version": "lite_v2.0",
+    "segment_id": "吴稚晖_001_b4c0e810_s0052",
+    "article_id": "吴稚晖_001_b4c0e810",
+    "char_start": 25774,
+    "char_end": 26369,
+    "raw_path": "E:\\1研究生\\岭南大学\\论文毕业\\capstone\\资料\\新的内容开始了\\local_upload\\kg_runs\\吴稚晖\\raw_outputs\\extract\\吴稚晖_001_b4c0e810_s0052.txt",
+    "parsed_at": "2026-05-20T04:58:19",
+    "started_at": "2026-05-20T04:57:54",
+    "elapsed_seconds": 25.368,
+    "strict_evidence_check": true,
+    "drop_unsupported_evidence": true,
+    "request_timeout_seconds": 180
+  }
+}

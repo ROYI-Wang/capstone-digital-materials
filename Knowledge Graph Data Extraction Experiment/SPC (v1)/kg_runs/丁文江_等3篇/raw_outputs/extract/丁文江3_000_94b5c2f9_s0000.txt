@@ -1,0 +1,179 @@
+{
+  "metadata": {
+    "schema_version": "lite_v2.0",
+    "article_id": "丁文江3_000_94b5c2f9",
+    "article_title": "“玄学与科学”论争的余兴",
+    "source_author": "丁文江",
+    "section_title": "",
+    "section_author": "",
+    "segment_id": "丁文江3_000_94b5c2f9_s0000",
+    "segment_index": 0,
+    "source_file": "E:\\1研究生\\岭南大学\\论文毕业\\capstone\\资料\\新的内容开始了\\local_upload\\input_texts\\丁文江3.txt"
+  },
+  "entities": [
+    {
+      "id": "e1",
+      "name": "梁任公",
+      "canonical_name": "梁任公",
+      "type": "人物",
+      "evidence": "参加诉讼的人对于我有重要批评的是梁任公同林宰平",
+      "confidence": 1.0
+    },
+    {
+      "id": "e2",
+      "name": "林宰平",
+      "canonical_name": "林宰平",
+      "type": "人物",
+      "evidence": "参加诉讼的人对于我有重要批评的是梁任公同林宰平",
+      "confidence": 1.0
+    },
+    {
+      "id": "e3",
+      "name": "《努力》",
+      "canonical_name": "《努力》",
+      "type": "著作",
+      "evidence": "不但读者要讨厌，连《努力》同《晨报》的主笔也未必肯把他们的有限的篇幅永久来供给我们发挥",
+      "confidence": 1.0
+    },
+    {
+      "id": "e4",
+      "name": "《晨报》",
+      "canonical_name": "《晨报》",
+      "type": "著作",
+      "evidence": "不但读者要讨厌，连《努力》同《晨报》的主笔也未必肯把他们的有限的篇幅永久来供给我们发挥",
+      "confidence": 1.0
+    }
+  ],
+  "claims": [
+    {
+      "id": "c1",
+      "speaker": "丁文江",
+      "claim": "天下没有打不完的官司；笔墨官司自然也不是例外。",
+      "target": "",
+      "claim_type": "结论性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "天下没有打不完的官司；笔墨官司自然也不是例外。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c2",
+      "speaker": "丁文江",
+      "claim": "两造既然已经用了三四万字把有关系的事实论点发表了出来，惟有听读者做审判官慢慢审查判决；不然，不但读者要讨厌，连《努力》同《晨报》的主笔也未必肯把他们的有限的篇幅永久来供给我们发挥。",
+      "target": "",
+      "claim_type": "论战策略批评",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "两造既然已经用了三四万字把有关系的事实论点发表了出来，惟有听读者做审判官慢慢审查判决；不然，不但读者要讨厌，连《努力》同《晨报》的主笔也未必肯把他们的有限的篇幅永久来供给我们发挥。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c3",
+      "speaker": "丁文江",
+      "claim": "我认为我这方面的辩论，已经可以宣告终了。",
+      "target": "",
+      "claim_type": "结论性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "所以我认为我这方面的辩论，已经可以宣告终了。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c4",
+      "speaker": "丁文江",
+      "claim": "这一段余兴，一来是我对于参加诉讼人的答复；二来是对于读者供献的参考资料；就譬如律师将文书上的证据呈给审判官一样的。",
+      "target": "",
+      "claim_type": "定义性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "这一段余兴，一来是我对于参加诉讼人的答复；二来是对于读者供献的参考资料；就譬如律师将文书上的证据呈给审判官一样的。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c5",
+      "speaker": "丁文江",
+      "claim": "参加诉讼的人对于我有重要批评的是梁任公同林宰平，我对于他们两位好像不能完全缄默。",
+      "target": "梁任公, 林宰平",
+      "claim_type": "论战策略批评",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "参加诉讼的人对于我有重要批评的是梁任公同林宰平，我对于他们两位好像不能完全缄默。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c6",
+      "speaker": "丁文江",
+      "claim": "我细看任公的那篇文章是兴会所至，信手拈来的批评，对于我的第一篇宣战书似乎没有详细研究。",
+      "target": "梁任公",
+      "claim_type": "价值评价",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "但是我细看任公的那篇文章是兴会所至，信手拈来的批评，对于我的第一篇宣战书似乎没有详细研究。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c7",
+      "speaker": "丁文江",
+      "claim": "他看了我的第二篇答词，大概可以了解我的态度，所以我为经济起见，只预备对于宰平先生做一个单简的答复。",
+      "target": "梁任公, 林宰平",
+      "claim_type": "论战策略批评",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "他看了我的第二篇答词，大概可以了解我的态度，所以我为经济起见，只预备对于宰平先生做一个单简的答复。",
+      "confidence": 1.0
+    }
+  ],
+  "relations": [
+    {
+      "id": "r1",
+      "head": "丁文江",
+      "head_type": "人物",
+      "relation": "回应",
+      "relation_subtype": "一般批评",
+      "tail": "梁任公",
+      "tail_type": "人物",
+      "polarity": "negative",
+      "evidence": "但是我细看任公的那篇文章是兴会所至，信手拈来的批评，对于我的第一篇宣战书似乎没有详细研究。",
+      "confidence": 1.0
+    },
+    {
+      "id": "r2",
+      "head": "丁文江",
+      "head_type": "人物",
+      "relation": "回应",
+      "relation_subtype": "一般批评",
+      "tail": "林宰平",
+      "tail_type": "人物",
+      "polarity": "neutral",
+      "evidence": "只预备对于宰平先生做一个单简的答复。",
+      "confidence": 1.0
+    }
+  ],
+  "definitions": [],
+  "citations": [],
+  "rhetorical_devices": [
+    {
+      "id": "rh1",
+      "expression": "就譬如律师将文书上的证据呈给审判官一样的",
+      "device_type": "比喻",
+      "literal_target": "作者将这段余兴比作律师呈交证据给审判官",
+      "function": "说明这段余兴的性质和功能",
+      "evidence": "就譬如律师将文书上的证据呈给审判官一样的。",
+      "confidence": 1.0
+    }
+  ],
+  "uncertainties": [
+    {
+      "item": "“两造”具体指代哪两方",
+      "reason": "文本未明确说明“两造”的具体所指，可能指论战双方，但无法从当前片段确定。"
+    },
+    {
+      "item": "“参加诉讼人”具体指哪些人",
+      "reason": "文本只提到梁任公和林宰平，但“参加诉讼人”可能还包括其他人，当前片段未列出全部。"
+    },
+    {
+      "item": "“第一篇宣战书”和“第二篇答词”的具体内容",
+      "reason": "当前片段未提供这些文章的具体内容，无法进一步抽取。"
+    }
+  ]
+}

@@ -1,0 +1,430 @@
+{
+  "metadata": {
+    "schema_version": "lite_v2.0",
+    "article_id": "丁文江2_000_e838922e",
+    "article_title": "玄学与科学——答张君劢",
+    "source_author": "丁文江",
+    "section_title": "",
+    "section_author": "",
+    "segment_id": "丁文江2_000_e838922e_s0068",
+    "segment_index": 68,
+    "source_file": "E:\\1研究生\\岭南大学\\论文毕业\\capstone\\资料\\新的内容开始了\\local_upload\\input_texts\\丁文江2.txt"
+  },
+  "entities": [
+    {
+      "id": "e1",
+      "name": "君劢",
+      "canonical_name": "张君劢",
+      "type": "人物",
+      "evidence": "君劢同欧立克也是孤立于世界的？",
+      "confidence": .src1.0
+    },
+    {
+      "id": "e2",
+      "name": "欧立克",
+      "canonical_name": "欧立克",
+      "type": "人物",
+      "evidence": "君劢同欧立克也是孤立于世界的？",
+      "confidence": 0.8
+    },
+    {
+      "id": "e3",
+      "name": "托姆生",
+      "canonical_name": "托姆生",
+      "type": "人物",
+      "evidence": "他说托姆生是“英国第一流之生物学家”",
+      "confidence": 1.0
+    },
+    {
+      "id": "e4",
+      "name": "杜氏",
+      "canonical_name": "杜里舒",
+      "type": "人物",
+      "evidence": "其不带杜氏之玄学气味",
+      "confidence": 0.8
+    },
+    {
+      "id": "e5",
+      "name": "冒根",
+      "canonical_name": "冒根",
+      "type": "人物",
+      "evidence": "杜里舒的朋友冒根批评托姆生",
+      "confidence": 1.0
+    },
+    {
+      "id": "e6",
+      "name": "杜里舒",
+      "canonical_name": "杜里舒",
+      "type": "人物",
+      "evidence": "杜里舒的朋友冒根批评托姆生",
+      "confidence": 1.0
+    },
+    {
+      "id": "e7",
+      "name": "玄学",
+      "canonical_name": "玄学",
+      "type": "概念",
+      "evidence": "其不带杜氏之玄学气味",
+      "confidence": 1.0
+    },
+    {
+      "id": "e8",
+      "name": "科学",
+      "canonical_name": "科学",
+      "type": "概念",
+      "evidence": "学科学的人对于这种界限，却不肯如此统笼",
+      "confidence": 1.0
+    },
+    {
+      "id": "e9",
+      "name": "什么学家",
+      "canonical_name": "什么学家",
+      "type": "概念",
+      "evidence": "可见他的“什么学家”是不值钱的",
+      "confidence": 0.8
+    },
+    {
+      "id": "e10",
+      "name": "界限",
+      "canonical_name": "界限",
+      "type": "概念",
+      "evidence": "学科学的人对于这种界限，却不肯如此统笼",
+      "confidence": 0.8
+    },
+    {
+      "id": "e11",
+      "name": "《男女性的进化》",
+      "canonical_name": "《男女性的进化》",
+      "type": "著作",
+      "evidence": "他生平直接的研究，只有他的《男女性的进化》那一部书",
+      "confidence": 1.0
+    },
+    {
+      "id": "e12",
+      "name": "《遗传性》",
+      "canonical_name": "《遗传性》",
+      "type": "著作",
+      "evidence": "他后来自己承认这部书没有根据（参观他的《遗传性》）",
+      "confidence": 1.0
+    },
+    {
+      "id": "e13",
+      "name": "《试验动物学》",
+      "canonical_name": "《试验动物学》",
+      "type": "著作",
+      "evidence": "参观冒根的《试验动物学》",
+      "confidence": 1.0
+    },
+    {
+      "id": "e14",
+      "name": "玄学气味",
+      "canonical_name": "玄学气味",
+      "type": "概念",
+      "evidence": "并且很有玄学的气味",
+      "confidence": 0.8
+    },
+    {
+      "id": "e15",
+      "name": "富强",
+      "canonical_name": "富强",
+      "type": "概念",
+      "evidence": "君劢反对富强",
+      "confidence": 1.0
+    },
+    {
+      "id": "e16",
+      "name": "寡均贫安",
+      "canonical_name": "寡均贫安",
+      "type": "概念",
+      "evidence": "在寡均贫安之状态下",
+      "confidence": 0.8
+    }
+  ],
+  "claims": [
+    {
+      "id": "c1",
+      "speaker": "丁文江",
+      "claim": "君劢同欧立克也是孤立于世界的？",
+      "target": "张君劢",
+      "claim_type": "反驳性主张",
+      "claim_status": "作者推论",
+      "polarity": "negative",
+      "evidence": "然则君劢同欧立克也是孤立于世界的？",
+      "confidence": 0.9
+    },
+    {
+      "id": "c2",
+      "speaker": "张君劢",
+      "claim": "托姆生是英国第一流之生物学家",
+      "target": "托姆生",
+      "claim_type": "价值评价",
+      "claim_status": "间接转述",
+      "polarity": "positive",
+      "evidence": "他说托姆生是“英国第一流之生物学家”",
+      "confidence": 0.9
+    },
+    {
+      "id": "c3",
+      "speaker": "张君劢",
+      "claim": "托姆生不带杜氏之玄学气味，当为海内科学家公认",
+      "target": "托姆生",
+      "claim_type": "价值评价",
+      "claim_status": "间接转述",
+      "polarity": "positive",
+      "evidence": "其不带杜氏之玄学气味，当为海内科学家公认",
+      "confidence": 0.9
+    },
+    {
+      "id": "c4",
+      "speaker": "丁文江",
+      "claim": "君劢称我为地质学家，可见他的“什么学家”是不值钱的",
+      "target": "张君劢",
+      "claim_type": "论战策略批评",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "君劢称我为“地质学家”，可见他的“什么学家”是不值钱的",
+      "confidence": 0.9
+    },
+    {
+      "id": "c5",
+      "speaker": "丁文江",
+      "claim": "学科学的人对于这种界限，却不肯如此统笼",
+      "target": "学科学的人",
+      "claim_type": "方法论主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "学科学的人对于这种界限，却不肯如此统笼",
+      "confidence": 0.8
+    },
+    {
+      "id": "c6",
+      "speaker": "丁文江",
+      "claim": "凡对于科学没有直接贡献的不敢号称为家",
+      "target": "科学家称号",
+      "claim_type": "方法论主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "凡对于科学没有直接贡献的不敢号称为家",
+      "confidence": 0.9
+    },
+    {
+      "id": "c7",
+      "speaker": "丁文江",
+      "claim": "托姆生是讨论批评旁人的贡献的人",
+      "target": "托姆生",
+      "claim_type": "价值评价",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "托姆生是讨论批评旁人的贡献的人",
+      "confidence": 0.9
+    },
+    {
+      "id": "c8",
+      "speaker": "丁文江",
+      "claim": "托姆生屡次要做英国王家科学社的社员，至今选举不上",
+      "target": "托姆生",
+      "claim_type": "论据",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "他屡次要做英国王家科学社的社员，至今选举不上",
+      "confidence": 0.9
+    },
+    {
+      "id": "c9",
+      "speaker": "丁文江",
+      "claim": "托姆生后来自己承认《男女性的进化》这部书没有根据",
+      "target": "托姆生",
+      "claim_type": "论据",
+      "claim_status": "间接转述",
+      "polarity": "negative",
+      "evidence": "他后来自己承认这部书没有根据（参观他的《遗传性》）",
+      "confidence": 0.9
+    },
+    {
+      "id": "c10",
+      "speaker": "冒根",
+      "claim": "托姆生拿不可证明的玄想来解决科学问题",
+      "target": "托姆生",
+      "claim_type": "价值评价",
+      "claim_status": "间接转述",
+      "polarity": "negative",
+      "evidence": "杜里舒的朋友冒根批评托姆生，说他拿不可证明的玄想来解决科学问题",
+      "confidence": 0.9
+    },
+    {
+      "id": "c11",
+      "speaker": "丁文江",
+      "claim": "托姆生不但不是第一流，并且没有成家，并且很有玄学的气味",
+      "target": "托姆生",
+      "claim_type": "结论性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "可见得他不但不是“第一流”，并且没有成家，并且很有玄学的气味",
+      "confidence": 0.9
+    },
+    {
+      "id": "c12",
+      "speaker": "张君劢",
+      "claim": "反对富强",
+      "target": "富强",
+      "claim_type": "社会理论主张",
+      "claim_status": "间接转述",
+      "polarity": "negative",
+      "evidence": "君劢反对富强",
+      "confidence": 0.9
+    },
+    {
+      "id": "c13",
+      "speaker": "张君劢",
+      "claim": "在寡均贫安之状态下，当必另有他法可想",
+      "target": "寡均贫安",
+      "claim_type": "社会理论主张",
+      "claim_status": "间接转述",
+      "polarity": "positive",
+      "evidence": "在寡均贫安之状态下，当必另有他法可想",
+      "confidence": 0.8
+    }
+  ],
+  "relations": [
+    {
+      "id": "r1",
+      "head": "丁文江",
+      "head_type": "人物",
+      "relation": "反驳",
+      "relation_subtype": "归谬",
+      "tail": "张君劢",
+      "tail_type": "人物",
+      "polarity": "negative",
+      "evidence": "然则君劢同欧立克也是孤立于世界的？",
+      "confidence": 0.9
+    },
+    {
+      "id": "r2",
+      "head": "丁文江",
+      "head_type": "人物",
+      "relation": "批评",
+      "relation_subtype": "概念混淆批评",
+      "tail": "张君劢",
+      "tail_type": "人物",
+      "polarity": "negative",
+      "evidence": "君劢称我为“地质学家”，可见他的“什么学家”是不值钱的",
+      "confidence": 0.9
+    },
+    {
+      "id": "r3",
+      "head": "丁文江",
+      "head_type": "人物",
+      "relation": "批评",
+      "relation_subtype": "一般批评",
+      "tail": "托姆生",
+      "tail_type": "人物",
+      "polarity": "negative",
+      "evidence": "托姆生是讨论批评旁人的贡献的人",
+      "confidence": 0.9
+    },
+    {
+      "id": "r4",
+      "head": "冒根",
+      "head_type": "人物",
+      "relation": "批评",
+      "relation_subtype": "逻辑反驳",
+      "tail": "托姆生",
+      "tail_type": "人物",
+      "polarity": "negative",
+      "evidence": "杜里舒的朋友冒根批评托姆生，说他拿不可证明的玄想来解决科学问题",
+      "confidence": 0.9
+    },
+    {
+      "id": "r5",
+      "head": "丁文江",
+      "head_type": "人物",
+      "relation": "支持",
+      "relation_subtype": "援引权威",
+      "tail": "冒根",
+      "tail_type": "人物",
+      "polarity": "positive",
+      "evidence": "杜里舒的朋友冒根批评托姆生，说他拿不可证明的玄想来解决科学问题",
+      "confidence": 0.9
+    },
+    {
+      "id": "r6",
+      "head": "丁文江",
+      "head_type": "人物",
+      "relation": "反驳",
+      "relation_subtype": "事实质疑",
+      "tail": "张君劢",
+      "tail_type": "人物",
+      "polarity": "negative",
+      "evidence": "可见得他不但不是“第一流”，并且没有成家，并且很有玄学的气味",
+      "confidence": 0.9
+    }
+  ],
+  "definitions": [
+    {
+      "id": "def1",
+      "term": "什么学家",
+      "definition": "张君劢随意给人冠以的学家称号，不值钱",
+      "evidence": "可见他的“什么学家”是不值钱的",
+      "confidence": 0.8
+    },
+    {
+      "id": "def2",
+      "term": "界限",
+      "definition": "学科学的人对于科学家的称号有严格界限，不统笼",
+      "evidence": "学科学的人对于这种界限，却不肯如此统笼",
+      "confidence": 0.8
+    }
+  ],
+  "citations": [
+    {
+      "id": "cit1",
+      "citer": "丁文江",
+      "quoted_author": "托姆生",
+      "quoted_work": "《遗传性》",
+      "quoted_claim": "托姆生自己承认《男女性的进化》没有根据",
+      "function": "作为批评对象",
+      "evidence": "他后来自己承认这部书没有根据（参观他的《遗传性》）",
+      "confidence": 0.9
+    },
+    {
+      "id": "cit2",
+      "citer": "丁文江",
+      "quoted_author": "冒根",
+      "quoted_work": "《试验动物学》",
+      "quoted_claim": "托姆生拿不可证明的玄想来解决科学问题",
+      "function": "援引权威反驳",
+      "evidence": "杜里舒的朋友冒根批评托姆生，说他拿不可证明的玄想来解决科学问题（参观冒根的《试验动物学》）",
+      "confidence": 0.9
+    }
+  ],
+  "rhetorical_devices": [
+    {
+      "id": "rh1",
+      "expression": "什么学家",
+      "device_type": "讽刺",
+      "literal_target": "张君劢随意给人冠以的学家称号",
+      "function": "讽刺张君劢对学家称号的随意使用",
+      "evidence": "可见他的“什么学家”是不值钱的",
+      "confidence": 0.9
+    },
+    {
+      "id": "rh2",
+      "expression": "统笼",
+      "device_type": "讽刺",
+      "literal_target": "张君劢对界限的模糊态度",
+      "function": "讽刺张君劢不严谨",
+      "evidence": "学科学的人对于这种界限，却不肯如此统笼",
+      "confidence": 0.8
+    }
+  ],
+  "uncertainties": [
+    {
+      "item": "欧立克的身份",
+      "reason": "文本中仅出现名字，未提供任何背景信息"
+    },
+    {
+      "item": "“吾之立脚点至今无人承认”这句话的说话者",
+      "reason": "文本中未明确说明是谁说的，仅以引号形式出现"
+    }
+  ]
+}

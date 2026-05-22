@@ -1,0 +1,584 @@
+{
+  "metadata": {
+    "schema_version": "lite_v3.0",
+    "article_id": "林宰平_000_acbbe922",
+    "article_title": "读丁在君先生的《玄学与科学》",
+    "source_author": "林宰平",
+    "section_title": "",
+    "section_author": "",
+    "segment_id": "林宰平_000_acbbe922_s0007",
+    "segment_index": 7,
+    "source_file": "E:\\1研究生\\岭南大学\\论文毕业\\capstone\\资料\\新的内容开始了\\local_upload\\input_林宰平\\林宰平.txt"
+  },
+  "entities": [
+    {
+      "id": "e1",
+      "name": "滑稽的论法",
+      "canonical_name": "滑稽的论法",
+      "type": "观点",
+      "evidence": "个滑稽的论法，他说：一条猫必有一个的尾巴，他比“没有猫”必多出一个尾巴，但是“没有猫有两个尾巴”，所以可说一条猫有三个尾巴。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e2",
+      "name": "一条猫有三个尾巴",
+      "canonical_name": "一条猫有三个尾巴",
+      "type": "结论",
+      "evidence": "所以可说一条猫有三个尾巴。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e3",
+      "name": "科学的方法",
+      "canonical_name": "科学的方法",
+      "type": "概念",
+      "evidence": "这种推论，也可说是合于科学的方法么？",
+      "confidence": 0.8
+    },
+    {
+      "id": "e4",
+      "name": "科学的实质理论",
+      "canonical_name": "科学的实质理论",
+      "type": "概念",
+      "evidence": "所以科学的实质理论，他不像形式论理那样偏重推论，他却重在试验；又不像形式论理那样偏重公例，他却重在事实。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e5",
+      "name": "形式论理",
+      "canonical_name": "形式论理",
+      "type": "概念",
+      "evidence": "他不像形式论理那样偏重推论，他却重在试验；又不像形式论理那样偏重公例，他却重在事实。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e6",
+      "name": "试验",
+      "canonical_name": "试验",
+      "type": "概念",
+      "evidence": "他却重在试验",
+      "confidence": 0.8
+    },
+    {
+      "id": "e7",
+      "name": "事实",
+      "canonical_name": "事实",
+      "type": "概念",
+      "evidence": "他却重在事实",
+      "confidence": 0.8
+    },
+    {
+      "id": "e8",
+      "name": "杜威",
+      "canonical_name": "杜威",
+      "type": "人物",
+      "evidence": "杜威说：“所谓方法问题，并不是找出方法来，作法式上的论理就算了事，质言之，不是法式上的问题，乃是实际上的问题。”",
+      "confidence": 0.9
+    },
+    {
+      "id": "e9",
+      "name": "方法问题",
+      "canonical_name": "方法问题",
+      "type": "问题",
+      "evidence": "所谓方法问题，并不是找出方法来，作法式上的论理就算了事，质言之，不是法式上的问题，乃是实际上的问题。",
+      "confidence": 0.8
+    },
+    {
+      "id": "e10",
+      "name": "实验派",
+      "canonical_name": "实验派",
+      "type": "阵营/群体",
+      "evidence": "这种论调，固然是代表实验派的讲法",
+      "confidence": 0.9
+    },
+    {
+      "id": "e11",
+      "name": "实质的论理",
+      "canonical_name": "实质的论理",
+      "type": "概念",
+      "evidence": "但是科学所需要的，是实质的论理，不是形式的论理",
+      "confidence": 0.9
+    },
+    {
+      "id": "e12",
+      "name": "形式的论理",
+      "canonical_name": "形式的论理",
+      "type": "概念",
+      "evidence": "不是形式的论理",
+      "confidence": 0.9
+    },
+    {
+      "id": "e13",
+      "name": "在君先生",
+      "canonical_name": "丁在君",
+      "type": "人物",
+      "evidence": "在君先生却非常注重在论理的推论公例上",
+      "confidence": 0.9
+    },
+    {
+      "id": "e14",
+      "name": "旧论理的观念",
+      "canonical_name": "旧论理的观念",
+      "type": "概念",
+      "evidence": "所以我说他不免还带点旧论理的观念。",
+      "confidence": 0.8
+    },
+    {
+      "id": "e15",
+      "name": "概念",
+      "canonical_name": "概念",
+      "type": "概念",
+      "evidence": "在君先生这篇文章里，又屡次说到概念、推论、公例等",
+      "confidence": 0.9
+    },
+    {
+      "id": "e16",
+      "name": "推论",
+      "canonical_name": "推论",
+      "type": "概念",
+      "evidence": "在君先生这篇文章里，又屡次说到概念、推论、公例等",
+      "confidence": 0.9
+    },
+    {
+      "id": "e17",
+      "name": "公例",
+      "canonical_name": "公例",
+      "type": "概念",
+      "evidence": "在君先生这篇文章里，又屡次说到概念、推论、公例等",
+      "confidence": 0.9
+    },
+    {
+      "id": "e18",
+      "name": "唯一的武器",
+      "canonical_name": "唯一的武器",
+      "type": "比喻/类比",
+      "evidence": "但那样宝贝似的拿来当做唯一的武器",
+      "confidence": 0.9
+    },
+    {
+      "id": "e19",
+      "name": "概念并不是绝对确定的东西",
+      "canonical_name": "概念并不是绝对确定的东西",
+      "type": "观点",
+      "evidence": "概念并不是绝对确定的东西，他本是可以随时修改的。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e20",
+      "name": "公例定律",
+      "canonical_name": "公例定律",
+      "type": "概念",
+      "evidence": "公例定律自然确定的程度较强些，但是也没有绝对的价值",
+      "confidence": 0.9
+    },
+    {
+      "id": "e21",
+      "name": "吸力定律",
+      "canonical_name": "吸力定律",
+      "type": "概念",
+      "evidence": "天文学中之吸力定律，占领了第一级的位置",
+      "confidence": 0.9
+    },
+    {
+      "id": "e22",
+      "name": "爱因斯坦",
+      "canonical_name": "爱因斯坦",
+      "type": "人物",
+      "evidence": "自爱因斯坦出来，牛顿定律，变成不定的了",
+      "confidence": 0.9
+    },
+    {
+      "id": "e23",
+      "name": "牛顿定律",
+      "canonical_name": "牛顿定律",
+      "type": "概念",
+      "evidence": "自爱因斯坦出来，牛顿定律，变成不定的了",
+      "confidence": 0.9
+    },
+    {
+      "id": "e24",
+      "name": "爱因斯坦定律",
+      "canonical_name": "爱因斯坦定律",
+      "type": "概念",
+      "evidence": "爱因斯坦定律的价值，也是和牛顿定律一样",
+      "confidence": 0.9
+    },
+    {
+      "id": "e25",
+      "name": "钵德（Bode）定律",
+      "canonical_name": "钵德定律",
+      "type": "概念",
+      "evidence": "至于再次一等如钵德（Bode）定律",
+      "confidence": 0.9
+    },
+    {
+      "id": "e26",
+      "name": "海王星",
+      "canonical_name": "海王星",
+      "type": "概念",
+      "evidence": "海王星这个大魔王他无法无天的已经要宣告独立，不大服从钵德定律",
+      "confidence": 0.9
+    },
+    {
+      "id": "e27",
+      "name": "海王以外的行星",
+      "canonical_name": "海王以外的行星",
+      "type": "概念",
+      "evidence": "海王以外的行星，更无从驾驶他了。",
+      "confidence": 0.8
+    }
+  ],
+  "claims": [
+    {
+      "id": "c1",
+      "speaker": "他（被引用的论者）",
+      "claim": "一条猫有三个尾巴",
+      "target": "",
+      "claim_type": "结论性主张",
+      "claim_status": "间接转述",
+      "polarity": "negative",
+      "evidence": "个滑稽的论法，他说：一条猫必有一个的尾巴，他比“没有猫”必多出一个尾巴，但是“没有猫有两个尾巴”，所以可说一条猫有三个尾巴。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c2",
+      "speaker": "林宰平",
+      "claim": "这种推论，不可说是合于科学的方法",
+      "target": "科学的方法",
+      "claim_type": "反驳性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "这种推论，也可说是合于科学的方法么？",
+      "confidence": 0.9
+    },
+    {
+      "id": "c3",
+      "speaker": "林宰平",
+      "claim": "科学的实质理论不像形式论理那样偏重推论，却重在试验；又不像形式论理那样偏重公例，却重在事实",
+      "target": "科学的实质理论",
+      "claim_type": "描述性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "所以科学的实质理论，他不像形式论理那样偏重推论，他却重在试验；又不像形式论理那样偏重公例，他却重在事实。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c4",
+      "speaker": "杜威",
+      "claim": "方法问题不是法式上的问题，乃是实际上的问题",
+      "target": "方法问题",
+      "claim_type": "定义性主张",
+      "claim_status": "直接引用",
+      "polarity": "positive",
+      "evidence": "杜威说：“所谓方法问题，并不是找出方法来，作法式上的论理就算了事，质言之，不是法式上的问题，乃是实际上的问题。”",
+      "confidence": 0.9
+    },
+    {
+      "id": "c5",
+      "speaker": "林宰平",
+      "claim": "科学所需要的是实质的论理，不是形式的论理",
+      "target": "科学",
+      "claim_type": "规范性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "但是科学所需要的，是实质的论理，不是形式的论理，这是毫无可疑的了。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c6",
+      "speaker": "林宰平",
+      "claim": "在君先生不免还带点旧论理的观念",
+      "target": "在君先生",
+      "claim_type": "评价性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "在君先生却非常注重在论理的推论公例上，所以我说他不免还带点旧论理的观念。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c7",
+      "speaker": "林宰平",
+      "claim": "概念并不是绝对确定的东西，本是可以随时修改的",
+      "target": "概念",
+      "claim_type": "描述性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "概念并不是绝对确定的东西，他本是可以随时修改的。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c8",
+      "speaker": "林宰平",
+      "claim": "公例定律没有绝对的价值",
+      "target": "公例定律",
+      "claim_type": "评价性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "公例定律自然确定的程度较强些，但是也没有绝对的价值",
+      "confidence": 0.9
+    },
+    {
+      "id": "c9",
+      "speaker": "林宰平",
+      "claim": "牛顿定律自爱因斯坦出来变成不定的了",
+      "target": "牛顿定律",
+      "claim_type": "描述性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "自爱因斯坦出来，牛顿定律，变成不定的了",
+      "confidence": 0.9
+    },
+    {
+      "id": "c10",
+      "speaker": "林宰平",
+      "claim": "爱因斯坦定律的价值和牛顿定律一样，也是不定的",
+      "target": "爱因斯坦定律",
+      "claim_type": "评价性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "爱因斯坦定律的价值，也是和牛顿定律一样，并不说奈端定律因此而损其价值，不过说他是不定的",
+      "confidence": 0.9
+    },
+    {
+      "id": "c11",
+      "speaker": "林宰平",
+      "claim": "海王星不大服从钵德定律",
+      "target": "钵德定律",
+      "claim_type": "描述性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "海王星这个大魔王他无法无天的已经要宣告独立，不大服从钵德定律",
+      "confidence": 0.9
+    }
+  ],
+  "relations": [
+    {
+      "id": "r1",
+      "head": "他（被引用的论者）",
+      "head_type": "人物",
+      "relation": "主张",
+      "relation_subtype": "不适用",
+      "tail": "一条猫有三个尾巴",
+      "tail_type": "结论",
+      "polarity": "negative",
+      "stance_score": -0.8,
+      "intensity": 0.7,
+      "evidence": "个滑稽的论法，他说：一条猫必有一个的尾巴，他比“没有猫”必多出一个尾巴，但是“没有猫有两个尾巴”，所以可说一条猫有三个尾巴。",
+      "confidence": 0.9
+    },
+    {
+      "id": "r2",
+      "head": "林宰平",
+      "head_type": "人物",
+      "relation": "反驳",
+      "relation_subtype": "逻辑反驳",
+      "tail": "一条猫有三个尾巴",
+      "tail_type": "结论",
+      "polarity": "negative",
+      "stance_score": -0.9,
+      "intensity": 0.8,
+      "evidence": "这种推论，也可说是合于科学的方法么？",
+      "confidence": 0.9
+    },
+    {
+      "id": "r3",
+      "head": "科学的实质理论",
+      "head_type": "概念",
+      "relation": "区分",
+      "relation_subtype": "概念澄清",
+      "tail": "形式论理",
+      "tail_type": "概念",
+      "polarity": "positive",
+      "stance_score": 0.8,
+      "intensity": 0.6,
+      "evidence": "所以科学的实质理论，他不像形式论理那样偏重推论，他却重在试验；又不像形式论理那样偏重公例，他却重在事实。",
+      "confidence": 0.9
+    },
+    {
+      "id": "r4",
+      "head": "杜威",
+      "head_type": "人物",
+      "relation": "主张",
+      "relation_subtype": "不适用",
+      "tail": "方法问题不是法式上的问题，乃是实际上的问题",
+      "tail_type": "观点",
+      "polarity": "positive",
+      "stance_score": 0.9,
+      "intensity": 0.7,
+      "evidence": "杜威说：“所谓方法问题，并不是找出方法来，作法式上的论理就算了事，质言之，不是法式上的问题，乃是实际上的问题。”",
+      "confidence": 0.9
+    },
+    {
+      "id": "r5",
+      "head": "林宰平",
+      "head_type": "人物",
+      "relation": "支持",
+      "relation_subtype": "援引权威",
+      "tail": "杜威",
+      "tail_type": "人物",
+      "polarity": "positive",
+      "stance_score": 0.7,
+      "intensity": 0.5,
+      "evidence": "这种论调，固然是代表实验派的讲法，但是科学所需要的，是实质的论理，不是形式的论理，这是毫无可疑的了。",
+      "confidence": 0.8
+    },
+    {
+      "id": "r6",
+      "head": "林宰平",
+      "head_type": "人物",
+      "relation": "批评",
+      "relation_subtype": "同阵营内部批评",
+      "tail": "在君先生",
+      "tail_type": "人物",
+      "polarity": "negative",
+      "stance_score": -0.6,
+      "intensity": 0.5,
+      "evidence": "在君先生却非常注重在论理的推论公例上，所以我说他不免还带点旧论理的观念。",
+      "confidence": 0.9
+    },
+    {
+      "id": "r7",
+      "head": "林宰平",
+      "head_type": "人物",
+      "relation": "质疑",
+      "relation_subtype": "证据不足批评",
+      "tail": "在君先生",
+      "tail_type": "人物",
+      "polarity": "negative",
+      "stance_score": -0.5,
+      "intensity": 0.4,
+      "evidence": "但那样宝贝似的拿来当做唯一的武器，我们又有些怀疑了。",
+      "confidence": 0.8
+    },
+    {
+      "id": "r8",
+      "head": "林宰平",
+      "head_type": "人物",
+      "relation": "主张",
+      "relation_subtype": "不适用",
+      "tail": "概念并不是绝对确定的东西，本是可以随时修改的",
+      "tail_type": "观点",
+      "polarity": "positive",
+      "stance_score": 0.8,
+      "intensity": 0.6,
+      "evidence": "概念并不是绝对确定的东西，他本是可以随时修改的。",
+      "confidence": 0.9
+    },
+    {
+      "id": "r9",
+      "head": "林宰平",
+      "head_type": "人物",
+      "relation": "主张",
+      "relation_subtype": "不适用",
+      "tail": "公例定律没有绝对的价值",
+      "tail_type": "观点",
+      "polarity": "positive",
+      "stance_score": 0.7,
+      "intensity": 0.5,
+      "evidence": "公例定律自然确定的程度较强些，但是也没有绝对的价值",
+      "confidence": 0.9
+    },
+    {
+      "id": "r10",
+      "head": "爱因斯坦",
+      "head_type": "人物",
+      "relation": "导致",
+      "relation_subtype": "不适用",
+      "tail": "牛顿定律变成不定的了",
+      "tail_type": "观点",
+      "polarity": "negative",
+      "stance_score": -0.5,
+      "intensity": 0.6,
+      "evidence": "自爱因斯坦出来，牛顿定律，变成不定的了",
+      "confidence": 0.9
+    },
+    {
+      "id": "r11",
+      "head": "海王星",
+      "head_type": "概念",
+      "relation": "作为反例反驳",
+      "relation_subtype": "事实质疑",
+      "tail": "钵德定律",
+      "tail_type": "概念",
+      "polarity": "negative",
+      "stance_score": -0.7,
+      "intensity": 0.6,
+      "evidence": "海王星这个大魔王他无法无天的已经要宣告独立，不大服从钵德定律",
+      "confidence": 0.9
+    }
+  ],
+  "definitions": [
+    {
+      "id": "def1",
+      "term": "科学的实质理论",
+      "definition": "科学的实质理论不像形式论理那样偏重推论，却重在试验；不像形式论理那样偏重公例，却重在事实。",
+      "evidence": "所以科学的实质理论，他不像形式论理那样偏重推论，他却重在试验；又不像形式论理那样偏重公例，他却重在事实。",
+      "confidence": 0.9
+    },
+    {
+      "id": "def2",
+      "term": "实质的论理",
+      "definition": "科学所需要的是实质的论理，不是形式的论理。",
+      "evidence": "但是科学所需要的，是实质的论理，不是形式的论理",
+      "confidence": 0.8
+    },
+    {
+      "id": "def3",
+      "term": "概念",
+      "definition": "概念并不是绝对确定的东西，本是可以随时修改的。",
+      "evidence": "概念并不是绝对确定的东西，他本是可以随时修改的。",
+      "confidence": 0.9
+    }
+  ],
+  "citations": [
+    {
+      "id": "cit1",
+      "citer": "林宰平",
+      "quoted_author": "杜威",
+      "quoted_work": "",
+      "quoted_claim": "所谓方法问题，并不是找出方法来，作法式上的论理就算了事，质言之，不是法式上的问题，乃是实际上的问题。",
+      "function": "援引权威支持",
+      "evidence": "杜威说：“所谓方法问题，并不是找出方法来，作法式上的论理就算了事，质言之，不是法式上的问题，乃是实际上的问题。”",
+      "confidence": 0.9
+    }
+  ],
+  "rhetorical_devices": [
+    {
+      "id": "rh1",
+      "expression": "一条猫有三个尾巴",
+      "device_type": "归谬",
+      "literal_target": "被引用的论者的推论方法",
+      "function": "通过归谬展示对方推论方法的荒谬，以反驳其科学性",
+      "evidence": "个滑稽的论法，他说：一条猫必有一个的尾巴，他比“没有猫”必多出一个尾巴，但是“没有猫有两个尾巴”，所以可说一条猫有三个尾巴。",
+      "confidence": 0.9
+    },
+    {
+      "id": "rh2",
+      "expression": "宝贝似的拿来当做唯一的武器",
+      "device_type": "比喻",
+      "literal_target": "在君先生对概念、推论、公例的重视",
+      "function": "形象化地批评在君先生过分依赖概念、推论、公例",
+      "evidence": "但那样宝贝似的拿来当做唯一的武器，我们又有些怀疑了。",
+      "confidence": 0.9
+    },
+    {
+      "id": "rh3",
+      "expression": "海王星这个大魔王他无法无天的已经要宣告独立",
+      "device_type": "拟人",
+      "literal_target": "海王星不服从钵德定律",
+      "function": "生动地说明海王星作为反例，不服从钵德定律",
+      "evidence": "海王星这个大魔王他无法无天的已经要宣告独立，不大服从钵德定律",
+      "confidence": 0.9
+    }
+  ],
+  "uncertainties": [
+    {
+      "item": "被引用的论者身份",
+      "reason": "文本中只说“他说”，未明确指明是谁，无法确定具体人物。"
+    },
+    {
+      "item": "“奈端定律”是否与“牛顿定律”为同一概念",
+      "reason": "文本中“奈端定律”出现一次，可能为“牛顿定律”的异译，但未明确说明。"
+    }
+  ]
+}
