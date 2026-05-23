@@ -1,0 +1,486 @@
+{
+  "metadata": {
+    "schema_version": "lite_v3.0",
+    "article_id": "范寿康_000_14d2ac72",
+    "article_title": "评所谓“科学与玄学之争”",
+    "source_author": "范寿康",
+    "section_title": "",
+    "section_author": "",
+    "segment_id": "范寿康_000_14d2ac72_s0000",
+    "segment_index": 0,
+    "source_file": "E:\\1研究生\\岭南大学\\论文毕业\\capstone\\资料\\新的内容开始了\\local_upload\\input_v2_w0\\范寿康.txt"
+  },
+  "entities": [
+    {
+      "id": "e1",
+      "name": "张君劢",
+      "canonical_name": "张君劢",
+      "type": "人物",
+      "evidence": "自张君劢氏在《清华周刊》第二七二期上发表了一篇讲演稿《人生观》以后",
+      "confidence": 1.0
+    },
+    {
+      "id": "e2",
+      "name": "《清华周刊》第二七二期",
+      "canonical_name": "《清华周刊》第二七二期",
+      "type": "著作",
+      "evidence": "自张君劢氏在《清华周刊》第二七二期上发表了一篇讲演稿《人生观》以后",
+      "confidence": 1.0
+    },
+    {
+      "id": "e3",
+      "name": "《人生观》",
+      "canonical_name": "《人生观》",
+      "type": "文章",
+      "evidence": "自张君劢氏在《清华周刊》第二七二期上发表了一篇讲演稿《人生观》以后",
+      "confidence": 1.0
+    },
+    {
+      "id": "e4",
+      "name": "我国学术界",
+      "canonical_name": "我国学术界",
+      "type": "阵营/群体",
+      "evidence": "引起了我国学术界年来罕见的大波澜",
+      "confidence": 1.0
+    },
+    {
+      "id": "e5",
+      "name": "所谓“科学与玄学之争”",
+      "canonical_name": "所谓“科学与玄学之争”",
+      "type": "概念",
+      "evidence": "所谓“科学与玄学之争”的导火线就是这篇《人生观》",
+      "confidence": 1.0
+    },
+    {
+      "id": "e6",
+      "name": "丁文江",
+      "canonical_name": "丁文江",
+      "type": "人物",
+      "evidence": "张君劢氏为了这篇文字，不久就引起了丁文江氏的驳击",
+      "confidence": 1.0
+    },
+    {
+      "id": "e7",
+      "name": "梁启超",
+      "canonical_name": "梁启超",
+      "type": "人物",
+      "evidence": "加入这一次的争论的有梁启超、任叔永、胡适之、孙伏园、林宰平、张东荪、章演存、朱经农、唐钺、甘蛰仙、王星拱等诸氏",
+      "confidence": 1.0
+    },
+    {
+      "id": "e8",
+      "name": "任叔永",
+      "canonical_name": "任叔永",
+      "type": "人物",
+      "evidence": "加入这一次的争论的有梁启超、任叔永、胡适之、孙伏园、林宰平、张东荪、章演存、朱经农、唐钺、甘蛰仙、王星拱等诸氏",
+      "confidence": 1.0
+    },
+    {
+      "id": "e9",
+      "name": "胡适之",
+      "canonical_name": "胡适之",
+      "type": "人物",
+      "evidence": "加入这一次的争论的有梁启超、任叔永、胡适之、孙伏园、林宰平、张东荪、章演存、朱经农、唐钺、甘蛰仙、王星拱等诸氏",
+      "confidence": 1.0
+    },
+    {
+      "id": "e10",
+      "name": "孙伏园",
+      "canonical_name": "孙伏园",
+      "type": "人物",
+      "evidence": "加入这一次的争论的有梁启超、任叔永、胡适之、孙伏园、林宰平、张东荪、章演存、朱经农、唐钺、甘蛰仙、王星拱等诸氏",
+      "confidence": 1.0
+    },
+    {
+      "id": "e11",
+      "name": "林宰平",
+      "canonical_name": "林宰平",
+      "type": "人物",
+      "evidence": "加入这一次的争论的有梁启超、任叔永、胡适之、孙伏园、林宰平、张东荪、章演存、朱经农、唐钺、甘蛰仙、王星拱等诸氏",
+      "confidence": 1.0
+    },
+    {
+      "id": "e12",
+      "name": "张东荪",
+      "canonical_name": "张东荪",
+      "type": "人物",
+      "evidence": "加入这一次的争论的有梁启超、任叔永、胡适之、孙伏园、林宰平、张东荪、章演存、朱经农、唐钺、甘蛰仙、王星拱等诸氏",
+      "confidence": 1.0
+    },
+    {
+      "id": "e13",
+      "name": "章演存",
+      "canonical_name": "章演存",
+      "type": "人物",
+      "evidence": "加入这一次的争论的有梁启超、任叔永、胡适之、孙伏园、林宰平、张东荪、章演存、朱经农、唐钺、甘蛰仙、王星拱等诸氏",
+      "confidence": 1.0
+    },
+    {
+      "id": "e14",
+      "name": "朱经农",
+      "canonical_name": "朱经农",
+      "type": "人物",
+      "evidence": "加入这一次的争论的有梁启超、任叔永、胡适之、孙伏园、林宰平、张东荪、章演存、朱经农、唐钺、甘蛰仙、王星拱等诸氏",
+      "confidence": 1.0
+    },
+    {
+      "id": "e15",
+      "name": "唐钺",
+      "canonical_name": "唐钺",
+      "type": "人物",
+      "evidence": "加入这一次的争论的有梁启超、任叔永、胡适之、孙伏园、林宰平、张东荪、章演存、朱经农、唐钺、甘蛰仙、王星拱等诸氏",
+      "confidence": 1.0
+    },
+    {
+      "id": "e16",
+      "name": "甘蛰仙",
+      "canonical_name": "甘蛰仙",
+      "type": "人物",
+      "evidence": "加入这一次的争论的有梁启超、任叔永、胡适之、孙伏园、林宰平、张东荪、章演存、朱经农、唐钺、甘蛰仙、王星拱等诸氏",
+      "confidence": 1.0
+    },
+    {
+      "id": "e17",
+      "name": "王星拱",
+      "canonical_name": "王星拱",
+      "type": "人物",
+      "evidence": "加入这一次的争论的有梁启超、任叔永、胡适之、孙伏园、林宰平、张东荪、章演存、朱经农、唐钺、甘蛰仙、王星拱等诸氏",
+      "confidence": 1.0
+    },
+    {
+      "id": "e18",
+      "name": "学术上的讨论",
+      "canonical_name": "学术上的讨论",
+      "type": "概念",
+      "evidence": "对于这种大规模的学术上的讨论",
+      "confidence": 1.0
+    },
+    {
+      "id": "e19",
+      "name": "这次讨论的内容",
+      "canonical_name": "这次讨论的内容",
+      "type": "概念",
+      "evidence": "这次讨论的内容未能十分令人满意",
+      "confidence": 1.0
+    },
+    {
+      "id": "e20",
+      "name": "真理",
+      "canonical_name": "真理",
+      "type": "概念",
+      "evidence": "为真理起见，为学术起见",
+      "confidence": 1.0
+    },
+    {
+      "id": "e21",
+      "name": "学术",
+      "canonical_name": "学术",
+      "type": "概念",
+      "evidence": "为真理起见，为学术起见",
+      "confidence": 1.0
+    },
+    {
+      "id": "e22",
+      "name": "这笔总账",
+      "canonical_name": "这笔总账",
+      "type": "比喻/类比",
+      "evidence": "还有出来把这笔总账清算一下的必要",
+      "confidence": 1.0
+    },
+    {
+      "id": "e23",
+      "name": "这次论争的中心",
+      "canonical_name": "这次论争的中心",
+      "type": "概念",
+      "evidence": "我看这次论争的中心要在于“人生观与科学的关系”",
+      "confidence": 1.0
+    },
+    {
+      "id": "e24",
+      "name": "人生观与科学的关系",
+      "canonical_name": "人生观与科学的关系",
+      "type": "问题",
+      "evidence": "我看这次论争的中心要在于“人生观与科学的关系”",
+      "confidence": 1.0
+    },
+    {
+      "id": "e25",
+      "name": "讨论的程次和范围",
+      "canonical_name": "讨论的程次和范围",
+      "type": "概念",
+      "evidence": "所以关于讨论的程次和范围似应由这个中心问题而决定",
+      "confidence": 1.0
+    },
+    {
+      "id": "e26",
+      "name": "《人生观与科学》",
+      "canonical_name": "《人生观与科学》",
+      "type": "文章",
+      "evidence": "梁启超氏在他那篇《人生观与科学》里面说得好",
+      "confidence": 1.0
+    },
+    {
+      "id": "e27",
+      "name": "人生观",
+      "canonical_name": "人生观",
+      "type": "概念",
+      "evidence": "未曾把‘人生观’和‘科学’给他一个定义",
+      "confidence": 1.0
+    },
+    {
+      "id": "e28",
+      "name": "科学",
+      "canonical_name": "科学",
+      "type": "概念",
+      "evidence": "未曾把‘人生观’和‘科学’给他一个定义",
+      "confidence": 1.0
+    },
+    {
+      "id": "e29",
+      "name": "梁氏这段评论",
+      "canonical_name": "梁氏这段评论",
+      "type": "评价",
+      "evidence": "梁氏这段评论最是确当",
+      "confidence": 1.0
+    }
+  ],
+  "claims": [
+    {
+      "id": "c1",
+      "speaker": "范寿康",
+      "claim": "这种争论，在争论本身上，是应该提倡，却不应该排斥",
+      "target": "学术上的讨论",
+      "claim_type": "规范性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "一方面我觉得这是学术界应有的事情，所以我以为这种争论，在争论本身上，是应该提倡，却不应该排斥",
+      "confidence": 1.0
+    },
+    {
+      "id": "c2",
+      "speaker": "范寿康",
+      "claim": "这次讨论的内容未能十分令人满意",
+      "target": "这次讨论的内容",
+      "claim_type": "评价性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "但是在他方面我却觉得这次讨论的内容未能十分令人满意",
+      "confidence": 1.0
+    },
+    {
+      "id": "c3",
+      "speaker": "范寿康",
+      "claim": "为真理起见，为学术起见，还有出来把这笔总账清算一下的必要",
+      "target": "这次讨论的内容",
+      "claim_type": "规范性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "所以我不顾自己学识的浅陋，以为为真理起见，为学术起见，还有出来把这笔总账清算一下的必要",
+      "confidence": 1.0
+    },
+    {
+      "id": "c4",
+      "speaker": "范寿康",
+      "claim": "这次论争的中心要在于“人生观与科学的关系”",
+      "target": "这次论争的中心",
+      "claim_type": "描述性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "我看这次论争的中心要在于“人生观与科学的关系”",
+      "confidence": 1.0
+    },
+    {
+      "id": "c5",
+      "speaker": "范寿康",
+      "claim": "关于讨论的程次和范围似应由这个中心问题而决定",
+      "target": "讨论的程次和范围",
+      "claim_type": "规范性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "所以关于讨论的程次和范围似应由这个中心问题而决定",
+      "confidence": 1.0
+    },
+    {
+      "id": "c6",
+      "speaker": "范寿康",
+      "claim": "梁氏这段评论最是确当",
+      "target": "梁氏这段评论",
+      "claim_type": "评价性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "梁氏这段评论最是确当",
+      "confidence": 1.0
+    }
+  ],
+  "relations": [
+    {
+      "id": "r1",
+      "head": "张君劢",
+      "head_type": "人物",
+      "relation": "主张",
+      "relation_subtype": "不适用",
+      "tail": "《人生观》",
+      "tail_type": "文章",
+      "polarity": "neutral",
+      "stance_score": 0.0,
+      "intensity": 0.0,
+      "evidence": "自张君劢氏在《清华周刊》第二七二期上发表了一篇讲演稿《人生观》以后",
+      "confidence": 1.0
+    },
+    {
+      "id": "r2",
+      "head": "《人生观》",
+      "head_type": "文章",
+      "relation": "导致",
+      "relation_subtype": "不适用",
+      "tail": "所谓“科学与玄学之争”",
+      "tail_type": "概念",
+      "polarity": "neutral",
+      "stance_score": 0.0,
+      "intensity": 0.0,
+      "evidence": "所谓“科学与玄学之争”的导火线就是这篇《人生观》",
+      "confidence": 1.0
+    },
+    {
+      "id": "r3",
+      "head": "丁文江",
+      "head_type": "人物",
+      "relation": "反驳",
+      "relation_subtype": "逻辑反驳",
+      "tail": "张君劢",
+      "tail_type": "人物",
+      "polarity": "negative",
+      "stance_score": -0.5,
+      "intensity": 0.5,
+      "evidence": "张君劢氏为了这篇文字，不久就引起了丁文江氏的驳击",
+      "confidence": 1.0
+    },
+    {
+      "id": "r4",
+      "head": "范寿康",
+      "head_type": "人物",
+      "relation": "主张",
+      "relation_subtype": "不适用",
+      "tail": "这次论争的中心要在于“人生观与科学的关系”",
+      "tail_type": "观点",
+      "polarity": "neutral",
+      "stance_score": 0.0,
+      "intensity": 0.0,
+      "evidence": "我看这次论争的中心要在于“人生观与科学的关系”",
+      "confidence": 1.0
+    },
+    {
+      "id": "r5",
+      "head": "这次论争的中心要在于“人生观与科学的关系”",
+      "head_type": "观点",
+      "relation": "作为论据支持",
+      "relation_subtype": "不适用",
+      "tail": "关于讨论的程次和范围似应由这个中心问题而决定",
+      "tail_type": "观点",
+      "polarity": "neutral",
+      "stance_score": 0.0,
+      "intensity": 0.0,
+      "evidence": "我看这次论争的中心要在于“人生观与科学的关系”，所以关于讨论的程次和范围似应由这个中心问题而决定",
+      "confidence": 1.0
+    },
+    {
+      "id": "r6",
+      "head": "范寿康",
+      "head_type": "人物",
+      "relation": "相关",
+      "relation_subtype": "援引权威支持",
+      "tail": "梁启超",
+      "tail_type": "人物",
+      "polarity": "positive",
+      "stance_score": 1.0,
+      "intensity": 0.5,
+      "evidence": "梁启超氏在他那篇《人生观与科学》里面说得好",
+      "confidence": 1.0
+    },
+    {
+      "id": "r7",
+      "head": "范寿康",
+      "head_type": "人物",
+      "relation": "相关",
+      "relation_subtype": "部分肯定",
+      "tail": "梁氏这段评论",
+      "tail_type": "评价",
+      "polarity": "positive",
+      "stance_score": 1.0,
+      "intensity": 0.5,
+      "evidence": "梁氏这段评论最是确当",
+      "confidence": 1.0
+    }
+  ],
+  "definitions": [],
+  "citations": [
+    {
+      "id": "cit1",
+      "citer": "范寿康",
+      "quoted_author": "梁启超",
+      "quoted_work": "《人生观与科学》",
+      "quoted_claim": "凡辩论先要把辩论对象的内容确定：先公认甲是什么，乙是什么，才能说到甲和乙的关系何如。否则一定闹到‘驴头不对马嘴’。当局的辩论没有结果，旁观的越发迷惑。我很可惜君劢这篇文章，不过在学校里随便讲演，未曾把‘人生观’和‘科学’给他一个定义。在君也不过拈起来就驳。究竟他们两位所谓‘人生观’，所谓‘科学’，是否同属一件东西，不惟我们观战人摸不清楚，只怕两边主将也未必能心心相印哩。",
+      "function": "援引权威支持",
+      "evidence": "梁启超氏在他那篇《人生观与科学》里面说得好:“凡辩论先要把辩论对象的内容确定：先公认甲是什么，乙是什么，才能说到甲和乙的关系何如。否则一定闹到‘驴头不对马嘴’。当局的辩论没有结果，旁观的越发迷惑。我很可惜君劢这篇文章，不过在学校里随便讲演，未曾把‘人生观’和‘科学’给他一个定义。在君也不过拈起来就驳。究竟他们两位所谓‘人生观’，所谓‘科学’，是否同属一件东西，不惟我们观战人摸不清楚，只怕两边主将也未必能心心相印哩。”",
+      "confidence": 1.0
+    }
+  ],
+  "rhetorical_devices": [
+    {
+      "id": "rh1",
+      "expression": "驴头不对马嘴",
+      "device_type": "比喻",
+      "literal_target": "辩论双方概念不一致",
+      "function": "形象化说明概念混淆的后果",
+      "evidence": "否则一定闹到‘驴头不对马嘴’",
+      "confidence": 1.0
+    },
+    {
+      "id": "rh2",
+      "expression": "这笔总账",
+      "device_type": "比喻",
+      "literal_target": "这次争论的全面清算",
+      "function": "形象化表达作者意图全面总结争论",
+      "evidence": "还有出来把这笔总账清算一下的必要",
+      "confidence": 1.0
+    },
+    {
+      "id": "rh3",
+      "expression": "心心相印",
+      "device_type": "比喻",
+      "literal_target": "双方对概念理解一致",
+      "function": "形象化说明概念理解不一致",
+      "evidence": "只怕两边主将也未必能心心相印哩",
+      "confidence": 1.0
+    }
+  ],
+  "uncertainties": [
+    {
+      "item": "“这次讨论的内容未能十分令人满意”的具体所指",
+      "reason": "文本未说明不满意的具体方面，仅表达总体评价"
+    },
+    {
+      "item": "“这笔总账”的具体清算内容",
+      "reason": "文本未说明清算的具体方法和内容，仅表达意图"
+    }
+  ],
+  "_meta": {
+    "status": "success",
+    "stage": "extract",
+    "model": "deepseek-ai/DeepSeek-V4-Flash",
+    "base_url": "https://api.siliconflow.cn/v1",
+    "prompt_version": "v2.0",
+    "schema_version": "lite_v3.0",
+    "segment_id": "范寿康_000_14d2ac72_s0000",
+    "article_id": "范寿康_000_14d2ac72",
+    "char_start": 0,
+    "char_end": 584,
+    "raw_path": "E:\\1研究生\\岭南大学\\论文毕业\\capstone\\资料\\新的内容开始了\\local_upload\\kg_runs_v2\\王平陵_等4篇\\raw_outputs\\extract\\范寿康_000_14d2ac72_s0000.txt",
+    "parsed_at": "2026-05-21T03:22:03",
+    "started_at": "2026-05-21T03:19:33",
+    "elapsed_seconds": 149.307,
+    "strict_evidence_check": true,
+    "drop_unsupported_evidence": true,
+    "request_timeout_seconds": 180
+  }
+}

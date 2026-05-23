@@ -1,0 +1,330 @@
+{
+  "metadata": {
+    "schema_version": "lite_v3.0",
+    "article_id": "张东荪_000_a9bf05ee",
+    "article_title": "劳而无功 —— 评丁在君先生口中的科学",
+    "source_author": "张东荪",
+    "section_title": "更举一个好例，这个例就是丁先生的话。丁先生说柏格森说心的绵延如雪的堆积完全是比喻，不能算数。诚然，但请问丁先生为何对于马赫所说思想和天响雷一样（按",
+    "section_author": "更举一个好例，这个例就是丁先生的话。丁先生说柏格森说心的绵延如雪的堆积完全是比喻，不能算数。诚然，但请问丁先生为何对于马赫所说思想和天响雷一样（",
+    "segment_id": "张东荪_000_a9bf05ee_s0010",
+    "segment_index": 10,
+    "source_file": "E:\\1研究生\\岭南大学\\论文毕业\\capstone\\资料\\新的内容开始了\\local_upload\\input_v2_w2\\张东荪.txt"
+  },
+  "entities": [
+    {
+      "id": "e1",
+      "name": "丁先生",
+      "canonical_name": "丁在君",
+      "type": "人物",
+      "evidence": "这段话我看来看去简直不明白丁先生说些什么",
+      "confidence": 0.9
+    },
+    {
+      "id": "e2",
+      "name": "张君劢先生",
+      "canonical_name": "张君劢",
+      "type": "人物",
+      "evidence": "因为张君劢先生并没有主张有不学而能的突飞天才者",
+      "confidence": 0.9
+    },
+    {
+      "id": "e3",
+      "name": "疯子",
+      "canonical_name": "疯子",
+      "type": "阵营/群体",
+      "evidence": "学者，都觉得疯子的性质一部分与天才有几分相似",
+      "confidence": 0.8
+    },
+    {
+      "id": "e4",
+      "name": "天才",
+      "canonical_name": "天才",
+      "type": "概念",
+      "evidence": "学者，都觉得疯子的性质一部分与天才有几分相似",
+      "confidence": 0.8
+    },
+    {
+      "id": "e5",
+      "name": "常人",
+      "canonical_name": "常人",
+      "type": "概念",
+      "evidence": "长人矮子同常人是程度问题不是种类问题",
+      "confidence": 0.8
+    },
+    {
+      "id": "e6",
+      "name": "天才痴子同常人的分别",
+      "canonical_name": "天才痴子同常人的分别",
+      "type": "观点",
+      "evidence": "天才痴子同常人的分别，也是比较的，不是绝对的",
+      "confidence": 0.8
+    },
+    {
+      "id": "e7",
+      "name": "不学而能的突飞天才者",
+      "canonical_name": "不学而能的突飞天才者",
+      "type": "概念",
+      "evidence": "因为张君劢先生并没有主张有不学而能的突飞天才者",
+      "confidence": 0.8
+    },
+    {
+      "id": "e8",
+      "name": "生物测定学",
+      "canonical_name": "生物测定学",
+      "type": "概念",
+      "evidence": "生物测定学的书，我没有看见过，所以不敢说什么",
+      "confidence": 0.8
+    },
+    {
+      "id": "e9",
+      "name": "智力实验",
+      "canonical_name": "智力实验",
+      "type": "概念",
+      "evidence": "所以我专讲智力实验",
+      "confidence": 0.8
+    },
+    {
+      "id": "e10",
+      "name": "Normal 与 Abnormal",
+      "canonical_name": "Normal 与 Abnormal",
+      "type": "概念",
+      "evidence": "所谓 Normal 与 Abnormal 只是程度的差别罢了",
+      "confidence": 0.8
+    },
+    {
+      "id": "e11",
+      "name": "《人类的效率与智力的层次》",
+      "canonical_name": "《人类的效率与智力的层次》",
+      "type": "著作",
+      "evidence": "所看见的只是一个小册子，名曰《人类的效率与智力的层次》",
+      "confidence": 0.9
+    },
+    {
+      "id": "e12",
+      "name": "过达德",
+      "canonical_name": "过达德",
+      "type": "人物",
+      "evidence": "乃是美国研究低能儿大家过达德所著",
+      "confidence": 0.9
+    },
+    {
+      "id": "e13",
+      "name": "丁先生的话全是文不对题",
+      "canonical_name": "丁先生的话全是文不对题",
+      "type": "评价",
+      "evidence": "所以丁先生的话全是文不对题",
+      "confidence": 0.8
+    },
+    {
+      "id": "e14",
+      "name": "丁先生所谓事实却立刻变为不幸的事实",
+      "canonical_name": "丁先生所谓事实却立刻变为不幸的事实",
+      "type": "评价",
+      "evidence": "则丁先生所谓事实却立刻变为不幸的事实了",
+      "confidence": 0.8
+    },
+    {
+      "id": "e15",
+      "name": "丁先生口口声声所说的“常人”的绝对界限",
+      "canonical_name": "丁先生口口声声所说的“常人”的绝对界限",
+      "type": "观点",
+      "evidence": "因为立刻就把丁先生口口声声所说的“常人”的绝对界限推翻了",
+      "confidence": 0.8
+    }
+  ],
+  "claims": [
+    {
+      "id": "c1",
+      "speaker": "丁先生",
+      "claim": "天才痴子同常人的分别，也是比较的，不是绝对的",
+      "target": "天才痴子同常人的分别",
+      "claim_type": "描述性主张",
+      "claim_status": "间接转述",
+      "polarity": "neutral",
+      "evidence": "天才痴子同常人的分别，也是比较的，不是绝对的",
+      "confidence": 0.8
+    },
+    {
+      "id": "c2",
+      "speaker": "丁先生",
+      "claim": "天才的智慧，高出常人的程度，也是为种族能力所限制",
+      "target": "天才的智慧",
+      "claim_type": "描述性主张",
+      "claim_status": "间接转述",
+      "polarity": "neutral",
+      "evidence": "天才的智慧，高出常人的程度，也是为种族能力所限制",
+      "confidence": 0.8
+    },
+    {
+      "id": "c3",
+      "speaker": "丁先生",
+      "claim": "他的心理同生理的组织也是同常人的一类的机器",
+      "target": "天才的心理同生理的组织",
+      "claim_type": "描述性主张",
+      "claim_status": "间接转述",
+      "polarity": "neutral",
+      "evidence": "他的心理同生理的组织也是同常人的一类的机器",
+      "confidence": 0.8
+    },
+    {
+      "id": "c4",
+      "speaker": "丁先生",
+      "claim": "这是近七十年生物学、心理学的根本观念，不是可以随便翻的",
+      "target": "生物学、心理学的根本观念",
+      "claim_type": "评价性主张",
+      "claim_status": "间接转述",
+      "polarity": "positive",
+      "evidence": "这是近七十年生物学、心理学的根本观念，不是可以随便翻的",
+      "confidence": 0.8
+    },
+    {
+      "id": "c5",
+      "speaker": "张东荪",
+      "claim": "丁先生的话全是文不对题",
+      "target": "丁先生的话",
+      "claim_type": "评价性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "所以丁先生的话全是文不对题",
+      "confidence": 0.9
+    },
+    {
+      "id": "c6",
+      "speaker": "张东荪",
+      "claim": "张君劢先生并没有主张有不学而能的突飞天才者",
+      "target": "张君劢先生",
+      "claim_type": "描述性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "因为张君劢先生并没有主张有不学而能的突飞天才者",
+      "confidence": 0.9
+    },
+    {
+      "id": "c7",
+      "speaker": "张东荪",
+      "claim": "丁先生所谓事实却立刻变为不幸的事实了",
+      "target": "丁先生所谓事实",
+      "claim_type": "评价性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "则丁先生所谓事实却立刻变为不幸的事实了",
+      "confidence": 0.8
+    },
+    {
+      "id": "c8",
+      "speaker": "张东荪",
+      "claim": "立刻就把丁先生口口声声所说的“常人”的绝对界限推翻了",
+      "target": "丁先生口口声声所说的“常人”的绝对界限",
+      "claim_type": "描述性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "因为立刻就把丁先生口口声声所说的“常人”的绝对界限推翻了",
+      "confidence": 0.8
+    },
+    {
+      "id": "c9",
+      "speaker": "张东荪",
+      "claim": "Normal 与 Abnormal 只是程度的差别罢了",
+      "target": "Normal 与 Abnormal",
+      "claim_type": "定义性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "所谓 Normal 与 Abnormal 只是程度的差别罢了",
+      "confidence": 0.8
+    }
+  ],
+  "relations": [
+    {
+      "id": "r1",
+      "head": "丁先生的话",
+      "head_type": "观点",
+      "relation": "批评",
+      "relation_subtype": "逻辑反驳",
+      "tail": "张君劢先生并没有主张有不学而能的突飞天才者",
+      "tail_type": "观点",
+      "polarity": "negative",
+      "stance_score": -0.8,
+      "intensity": 0.7,
+      "evidence": "因为张君劢先生并没有主张有不学而能的突飞天才者，所以丁先生的话全是文不对题",
+      "confidence": 0.8
+    },
+    {
+      "id": "r2",
+      "head": "丁先生所谓事实",
+      "head_type": "观点",
+      "relation": "相关",
+      "relation_subtype": "一般批评",
+      "tail": "不幸的事实",
+      "tail_type": "评价",
+      "polarity": "negative",
+      "stance_score": -0.7,
+      "intensity": 0.6,
+      "evidence": "则丁先生所谓事实却立刻变为不幸的事实了",
+      "confidence": 0.8
+    },
+    {
+      "id": "r3",
+      "head": "Normal 与 Abnormal",
+      "head_type": "概念",
+      "relation": "定义",
+      "relation_subtype": "概念澄清",
+      "tail": "只是程度的差别罢了",
+      "tail_type": "观点",
+      "polarity": "neutral",
+      "stance_score": 0.0,
+      "intensity": 0.3,
+      "evidence": "所谓 Normal 与 Abnormal 只是程度的差别罢了",
+      "confidence": 0.8
+    }
+  ],
+  "definitions": [
+    {
+      "id": "def1",
+      "term": "Normal 与 Abnormal",
+      "definition": "只是程度的差别罢了",
+      "evidence": "所谓 Normal 与 Abnormal 只是程度的差别罢了",
+      "confidence": 0.8
+    }
+  ],
+  "citations": [],
+  "rhetorical_devices": [
+    {
+      "id": "rh1",
+      "expression": "丁先生所谓事实却立刻变为不幸的事实了",
+      "device_type": "讽刺",
+      "literal_target": "丁先生所谓事实",
+      "function": "通过反语讽刺丁先生所依据的事实不成立",
+      "evidence": "则丁先生所谓事实却立刻变为不幸的事实了",
+      "confidence": 0.8
+    }
+  ],
+  "uncertainties": [
+    {
+      "item": "丁先生的话的具体内容",
+      "reason": "文本中只引用了丁先生的话的片段，未完整呈现，无法全面判断"
+    },
+    {
+      "item": "生物测定学与智力实验的关系",
+      "reason": "作者表示未看过生物测定学的书，不敢说什么，但后续又专讲智力实验，关系不明确"
+    }
+  ],
+  "_meta": {
+    "status": "success",
+    "stage": "extract",
+    "model": "deepseek-ai/DeepSeek-V4-Flash",
+    "base_url": "https://api.siliconflow.cn/v1",
+    "prompt_version": "v2.0",
+    "schema_version": "lite_v3.0",
+    "segment_id": "张东荪_000_a9bf05ee_s0010",
+    "article_id": "张东荪_000_a9bf05ee",
+    "char_start": 4825,
+    "char_end": 5418,
+    "raw_path": "E:\\1研究生\\岭南大学\\论文毕业\\capstone\\资料\\新的内容开始了\\local_upload\\kg_runs_v2\\张东荪_等3篇\\raw_outputs\\extract\\张东荪_000_a9bf05ee_s0010.txt",
+    "parsed_at": "2026-05-21T01:28:28",
+    "started_at": "2026-05-21T01:26:46",
+    "elapsed_seconds": 101.807,
+    "strict_evidence_check": true,
+    "drop_unsupported_evidence": true,
+    "request_timeout_seconds": 180
+  }
+}

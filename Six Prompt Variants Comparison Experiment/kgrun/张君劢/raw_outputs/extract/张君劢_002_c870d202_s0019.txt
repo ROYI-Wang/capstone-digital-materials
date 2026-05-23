@@ -1,0 +1,381 @@
+{
+  "metadata": {
+    "schema_version": "lite_v2.0",
+    "article_id": "张君劢_002_c870d202",
+    "article_title": "再论人生观与科学并答丁在君",
+    "source_author": "张君劢",
+    "section_title": "",
+    "section_author": "",
+    "segment_id": "张君劢_002_c870d202_s0019",
+    "segment_index": 19,
+    "source_file": "E:\\1研究生\\岭南大学\\论文毕业\\capstone\\资料\\新的内容开始了\\local_upload\\input_w3\\张君劢.txt"
+  },
+  "entities": [
+    {
+      "id": "e1",
+      "name": "韦氏",
+      "canonical_name": "韦氏",
+      "type": "人物",
+      "evidence": "韦氏叙世界之倾向如是",
+      "confidence": 0.9
+    },
+    {
+      "id": "e2",
+      "name": "在君",
+      "canonical_name": "丁在君",
+      "type": "人物",
+      "evidence": "然在君必曰，此文学家也",
+      "confidence": 0.9
+    },
+    {
+      "id": "e3",
+      "name": "詹姆士",
+      "canonical_name": "詹姆士",
+      "type": "人物",
+      "evidence": "然詹姆士，则在君所认为科学家也",
+      "confidence": 0.9
+    },
+    {
+      "id": "e4",
+      "name": "张君劢",
+      "canonical_name": "张君劢",
+      "type": "人物",
+      "evidence": "吾之所以答在君关于科学与人生观之论辩",
+      "confidence": 0.9
+    },
+    {
+      "id": "e5",
+      "name": "科学家",
+      "canonical_name": "科学家",
+      "type": "阵营/群体",
+      "evidence": "科学家虽好因果，虽好公例",
+      "confidence": 0.9
+    },
+    {
+      "id": "e6",
+      "name": "文学家",
+      "canonical_name": "文学家",
+      "type": "阵营/群体",
+      "evidence": "此文学家也，常好为惊世骇俗之言",
+      "confidence": 0.9
+    },
+    {
+      "id": "e7",
+      "name": "科学",
+      "canonical_name": "科学",
+      "type": "概念",
+      "evidence": "尚何科学可言？",
+      "confidence": 0.9
+    },
+    {
+      "id": "e8",
+      "name": "人生观",
+      "canonical_name": "人生观",
+      "type": "概念",
+      "evidence": "关于科学与人生观之论辩",
+      "confidence": 0.9
+    },
+    {
+      "id": "e9",
+      "name": "物质科学",
+      "canonical_name": "物质科学",
+      "type": "概念",
+      "evidence": "物质科学与精神科学的分别不能成立",
+      "confidence": 0.9
+    },
+    {
+      "id": "e10",
+      "name": "精神科学",
+      "canonical_name": "精神科学",
+      "type": "概念",
+      "evidence": "物质科学与精神科学的分别不能成立",
+      "confidence": 0.9
+    },
+    {
+      "id": "e11",
+      "name": "论理学",
+      "canonical_name": "论理学",
+      "type": "概念",
+      "evidence": "论理学之关于人身有不可磨灭之用处",
+      "confidence": 0.9
+    },
+    {
+      "id": "e12",
+      "name": "因果",
+      "canonical_name": "因果",
+      "type": "概念",
+      "evidence": "科学家虽好因果",
+      "confidence": 0.9
+    },
+    {
+      "id": "e13",
+      "name": "公例",
+      "canonical_name": "公例",
+      "type": "概念",
+      "evidence": "虽好公例",
+      "confidence": 0.9
+    },
+    {
+      "id": "e14",
+      "name": "《多元宇宙》",
+      "canonical_name": "《多元宇宙》",
+      "type": "著作",
+      "evidence": "（《多元宇宙》二一二页）",
+      "confidence": 0.9
+    },
+    {
+      "id": "e15",
+      "name": "科学分类",
+      "canonical_name": "科学分类",
+      "type": "概念",
+      "evidence": "即以科学分类，久为学者所公认一端",
+      "confidence": 0.9
+    }
+  ],
+  "claims": [
+    {
+      "id": "c1",
+      "speaker": "韦氏",
+      "claim": "算也，量也，数学之全部构造也，皆出于人之主观，而与事实之世界相背。个体之单一性，乃客观的真理也。",
+      "target": "数学",
+      "claim_type": "知识论主张",
+      "claim_status": "直接引用",
+      "polarity": "neutral",
+      "evidence": "其言曰：“算也，量也，数学之全部构造也，皆出于人之主观，而与事实之世界相背。个体之单一性，乃客观的真理也。”",
+      "confidence": 0.9
+    },
+    {
+      "id": "c2",
+      "speaker": "韦氏",
+      "claim": "科学的严确之否认，推诸一切人事而准。至于关于个人之动机，如自克如虔敬之类则尤甚。",
+      "target": "科学",
+      "claim_type": "知识论主张",
+      "claim_status": "直接引用",
+      "polarity": "negative",
+      "evidence": "其关于人事之终结语曰：“科学的严确之否认，推诸一切人事而准。至于关于个人之动机，如自克如虔敬之类则尤甚。”",
+      "confidence": 0.9
+    },
+    {
+      "id": "c3",
+      "speaker": "在君",
+      "claim": "此文学家也，常好为惊世骇俗之言，故不可信。",
+      "target": "韦氏",
+      "claim_type": "论战策略批评",
+      "claim_status": "间接转述",
+      "polarity": "negative",
+      "evidence": "然在君必曰，此文学家也，常好为惊世骇俗之言，故不可信。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c4",
+      "speaker": "詹姆士",
+      "claim": "论理学之关于人身有不可磨灭之用处；然其为用，不能使人亲自领略实在之真性。实在也，生活也，经验也，具体性也，直接性也，超于论理学以上者也，包围之而淹没之者也。",
+      "target": "论理学",
+      "claim_type": "知识论主张",
+      "claim_status": "直接引用",
+      "polarity": "mixed",
+      "evidence": "“论理学之关于人身有不可磨灭之用处；然其为用，不能使人亲自领略实在之真性。实在也，生活也，经验也，具体性也，直接性也，超于论理学以上者也，包围之而淹没之者也。”",
+      "confidence": 0.9
+    },
+    {
+      "id": "c5",
+      "speaker": "张君劢",
+      "claim": "诚人生而超于论理学以上也，尚何定义可言？尚何方法可言？尚何科学可言？",
+      "target": "科学",
+      "claim_type": "知识论主张",
+      "claim_status": "作者推论",
+      "polarity": "negative",
+      "evidence": "呜呼！诚人生而超于论理学以上也，尚何定义可言？尚何方法可言？尚何科学可言？",
+      "confidence": 0.9
+    },
+    {
+      "id": "c6",
+      "speaker": "张君劢",
+      "claim": "科学家虽好因果，虽好公例，其何能颠倒此事实乎？",
+      "target": "科学家",
+      "claim_type": "知识论主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "科学家虽好因果，虽好公例，其何能颠倒此事实乎？",
+      "confidence": 0.9
+    },
+    {
+      "id": "c7",
+      "speaker": "在君",
+      "claim": "物质科学与精神科学的分别不能成立。",
+      "target": "物质科学与精神科学",
+      "claim_type": "定义性主张",
+      "claim_status": "对手直接主张",
+      "polarity": "negative",
+      "evidence": "（问）在君曰：物质科学与精神科学的分别不能成立。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c8",
+      "speaker": "张君劢",
+      "claim": "物质科学与精神科学内容不同，绝对可以分别；即以科学分类，久为学者所公认一端，可以证之。",
+      "target": "物质科学与精神科学",
+      "claim_type": "定义性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "（答）物质科学与精神科学内容不同，绝对可以分别；即以科学分类，久为学者所公认一端，可以证之。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c9",
+      "speaker": "在君",
+      "claim": "试问活的单是人吗？动植物难道是死的？何以又有动植物学？",
+      "target": "物质科学与精神科学的分别",
+      "claim_type": "问题提出",
+      "claim_status": "对手直接主张",
+      "polarity": "neutral",
+      "evidence": "（问）在君曰：试问活的单是人吗？动植物难道是死的？何以又有动植物学？",
+      "confidence": 0.9
+    }
+  ],
+  "relations": [
+    {
+      "id": "r1",
+      "head": "张君劢",
+      "head_type": "人物",
+      "relation": "引用",
+      "relation_subtype": "援引权威支持",
+      "tail": "韦氏",
+      "tail_type": "人物",
+      "polarity": "positive",
+      "evidence": "韦氏之言，可谓推阐尽矣，不容我更赞一词。",
+      "confidence": 0.9
+    },
+    {
+      "id": "r2",
+      "head": "张君劢",
+      "head_type": "人物",
+      "relation": "引用",
+      "relation_subtype": "援引权威支持",
+      "tail": "詹姆士",
+      "tail_type": "人物",
+      "polarity": "positive",
+      "evidence": "然詹姆士，则在君所认为科学家也，其言宜为在君所乐闻，录之如下",
+      "confidence": 0.9
+    },
+    {
+      "id": "r3",
+      "head": "张君劢",
+      "head_type": "人物",
+      "relation": "反驳",
+      "relation_subtype": "逻辑反驳",
+      "tail": "在君",
+      "tail_type": "人物",
+      "polarity": "negative",
+      "evidence": "吾之所以答在君关于科学与人生观之论辩，至此可以止矣。",
+      "confidence": 0.9
+    },
+    {
+      "id": "r4",
+      "head": "张君劢",
+      "head_type": "人物",
+      "relation": "反驳",
+      "relation_subtype": "逻辑反驳",
+      "tail": "在君",
+      "tail_type": "人物",
+      "polarity": "negative",
+      "evidence": "（答）物质科学与精神科学内容不同，绝对可以分别；即以科学分类，久为学者所公认一端，可以证之。",
+      "confidence": 0.9
+    },
+    {
+      "id": "r5",
+      "head": "在君",
+      "head_type": "人物",
+      "relation": "批评",
+      "relation_subtype": "一般批评",
+      "tail": "韦氏",
+      "tail_type": "人物",
+      "polarity": "negative",
+      "evidence": "然在君必曰，此文学家也，常好为惊世骇俗之言，故不可信。",
+      "confidence": 0.9
+    },
+    {
+      "id": "r6",
+      "head": "张君劢",
+      "head_type": "人物",
+      "relation": "推出",
+      "relation_subtype": "不适用",
+      "tail": "科学",
+      "tail_type": "概念",
+      "polarity": "negative",
+      "evidence": "诚人生而超于论理学以上也，尚何定义可言？尚何方法可言？尚何科学可言？",
+      "confidence": 0.9
+    }
+  ],
+  "definitions": [
+    {
+      "id": "def1",
+      "term": "物质科学与精神科学",
+      "definition": "物质科学与精神科学内容不同，绝对可以分别。",
+      "evidence": "（答）物质科学与精神科学内容不同，绝对可以分别；即以科学分类，久为学者所公认一端，可以证之。",
+      "confidence": 0.9
+    }
+  ],
+  "citations": [
+    {
+      "id": "cit1",
+      "citer": "张君劢",
+      "quoted_author": "韦氏",
+      "quoted_work": "",
+      "quoted_claim": "算也，量也，数学之全部构造也，皆出于人之主观，而与事实之世界相背。个体之单一性，乃客观的真理也。",
+      "function": "援引权威支持",
+      "evidence": "其言曰：“算也，量也，数学之全部构造也，皆出于人之主观，而与事实之世界相背。个体之单一性，乃客观的真理也。”",
+      "confidence": 0.9
+    },
+    {
+      "id": "cit2",
+      "citer": "张君劢",
+      "quoted_author": "韦氏",
+      "quoted_work": "",
+      "quoted_claim": "科学的严确之否认，推诸一切人事而准。至于关于个人之动机，如自克如虔敬之类则尤甚。",
+      "function": "援引权威支持",
+      "evidence": "其关于人事之终结语曰：“科学的严确之否认，推诸一切人事而准。至于关于个人之动机，如自克如虔敬之类则尤甚。”",
+      "confidence": 0.9
+    },
+    {
+      "id": "cit3",
+      "citer": "张君劢",
+      "quoted_author": "詹姆士",
+      "quoted_work": "《多元宇宙》",
+      "quoted_claim": "论理学之关于人身有不可磨灭之用处；然其为用，不能使人亲自领略实在之真性。实在也，生活也，经验也，具体性也，直接性也，超于论理学以上者也，包围之而淹没之者也。",
+      "function": "援引权威支持",
+      "evidence": "“论理学之关于人身有不可磨灭之用处；然其为用，不能使人亲自领略实在之真性。实在也，生活也，经验也，具体性也，直接性也，超于论理学以上者也，包围之而淹没之者也。”",
+      "confidence": 0.9
+    }
+  ],
+  "rhetorical_devices": [
+    {
+      "id": "rh1",
+      "expression": "推阐尽矣，不容我更赞一词",
+      "device_type": "夸张",
+      "literal_target": "韦氏的观点已经非常透彻",
+      "function": "强调韦氏论证的充分性，以增强引用权威的说服力",
+      "evidence": "韦氏之言，可谓推阐尽矣，不容我更赞一词。",
+      "confidence": 0.9
+    },
+    {
+      "id": "rh2",
+      "expression": "呜呼！诚人生而超于论理学以上也，尚何定义可言？尚何方法可言？尚何科学可言？",
+      "device_type": "反问",
+      "literal_target": "人生超于论理学，则定义、方法、科学皆不可行",
+      "function": "通过连续反问强化结论，否定科学对人生的支配能力",
+      "evidence": "呜呼！诚人生而超于论理学以上也，尚何定义可言？尚何方法可言？尚何科学可言？",
+      "confidence": 0.9
+    }
+  ],
+  "uncertainties": [
+    {
+      "item": "韦氏的全名或具体身份",
+      "reason": "文本中仅出现'韦氏'，未提供全名或具体背景信息。"
+    },
+    {
+      "item": "在君提出的第二个问题'试问活的单是人吗？动植物难道是死的？何以又有动植物学？'的完整回应",
+      "reason": "文本在问题后中断，未给出张君劢的答复。"
+    }
+  ]
+}

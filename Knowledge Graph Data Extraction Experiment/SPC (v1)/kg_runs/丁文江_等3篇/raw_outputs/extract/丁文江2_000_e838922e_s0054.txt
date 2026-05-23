@@ -1,0 +1,283 @@
+{
+  "metadata": {
+    "schema_version": "lite_v2.0",
+    "article_id": "丁文江2_000_e838922e",
+    "article_title": "玄学与科学——答张君劢",
+    "source_author": "丁文江",
+    "section_title": "",
+    "section_author": "",
+    "segment_id": "丁文江2_000_e838922e_s0054",
+    "segment_index": 54,
+    "source_file": "E:\\1研究生\\岭南大学\\论文毕业\\capstone\\资料\\新的内容开始了\\local_upload\\input_texts\\丁文江2.txt"
+  },
+  "entities": [
+    {
+      "id": "e1",
+      "name": "精神",
+      "canonical_name": "精神",
+      "type": "概念",
+      "evidence": "上了麻醉药，我的“精神”，“内”，同“我”就都不知去向。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e2",
+      "name": "内",
+      "canonical_name": "内",
+      "type": "概念",
+      "evidence": "上了麻醉药，我的“精神”，“内”，同“我”就都不知去向。",
+      "confidence": 0.8
+    },
+    {
+      "id": "e3",
+      "name": "我",
+      "canonical_name": "我",
+      "type": "概念",
+      "evidence": "上了麻醉药，我的“精神”，“内”，同“我”就都不知去向。",
+      "confidence": 0.8
+    },
+    {
+      "id": "e4",
+      "name": "自由",
+      "canonical_name": "自由",
+      "type": "概念",
+      "evidence": "我的意义是不是“自由”的？",
+      "confidence": 0.9
+    },
+    {
+      "id": "e5",
+      "name": "纯粹的心理",
+      "canonical_name": "纯粹的心理",
+      "type": "概念",
+      "evidence": "我的“纯粹的心理”，向那里找去？",
+      "confidence": 0.9
+    },
+    {
+      "id": "e6",
+      "name": "美术",
+      "canonical_name": "美术",
+      "type": "概念",
+      "evidence": "（七）美术，宗教，与科学",
+      "confidence": 0.9
+    },
+    {
+      "id": "e7",
+      "name": "宗教",
+      "canonical_name": "宗教",
+      "type": "概念",
+      "evidence": "（七）美术，宗教，与科学",
+      "confidence": 0.9
+    },
+    {
+      "id": "e8",
+      "name": "科学",
+      "canonical_name": "科学",
+      "type": "概念",
+      "evidence": "（七）美术，宗教，与科学",
+      "confidence": 0.9
+    },
+    {
+      "id": "e9",
+      "name": "科学以外之知识",
+      "canonical_name": "科学以外之知识",
+      "type": "概念",
+      "evidence": "君劢答词里面最不可了解的要算他中篇的第三章，所谓“科学以外之知识”",
+      "confidence": 0.9
+    },
+    {
+      "id": "e10",
+      "name": "人生观",
+      "canonical_name": "人生观",
+      "type": "概念",
+      "evidence": "我不知道他的人生观从几时起才加入美术的",
+      "confidence": 0.9
+    },
+    {
+      "id": "e11",
+      "name": "清华讲演",
+      "canonical_name": "清华讲演",
+      "type": "文章",
+      "evidence": "我再三读他的清华讲演的文章",
+      "confidence": 0.9
+    },
+    {
+      "id": "e12",
+      "name": "人生观宪法",
+      "canonical_name": "人生观宪法",
+      "type": "概念",
+      "evidence": "在他九条的人生观宪法的里面找不出与美术有关的观念来。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e13",
+      "name": "张君劢",
+      "canonical_name": "张君劢",
+      "type": "人物",
+      "evidence": "君劢答词里面最不可了解的要算他中篇的第三章",
+      "confidence": 0.9
+    }
+  ],
+  "claims": [
+    {
+      "id": "c1",
+      "speaker": "丁文江",
+      "claim": "上了麻醉药，我的“精神”，“内”，同“我”就都不知去向。",
+      "target": "",
+      "claim_type": "知识论主张",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "上了麻醉药，我的“精神”，“内”，同“我”就都不知去向。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c2",
+      "speaker": "丁文江",
+      "claim": "我的行为自觉的只有一部分；所有记不得的经验，多年前的感触，不自知的欲望，都与我有密切的关系。",
+      "target": "",
+      "claim_type": "知识论主张",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "我的行为自觉的只有一部分；所有记不得的经验，多年前的感触，不自知的欲望，都与我有密切的关系。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c3",
+      "speaker": "丁文江",
+      "claim": "管束我的精神的，有“身体上的营养，动物性的冲动，野蛮人的传说，孩童时的印象，惯例式的回效，承继来的知识”。",
+      "target": "",
+      "claim_type": "知识论主张",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "管束我的精神的，有“身体上的营养，动物性的冲动，野蛮人的传说，孩童时的印象，惯例式的回效，承继来的知识”。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c4",
+      "speaker": "丁文江",
+      "claim": "我的意义是不是“自由”的？",
+      "target": "",
+      "claim_type": "问题提出",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "我的意义是不是“自由”的？",
+      "confidence": 0.9
+    },
+    {
+      "id": "c5",
+      "speaker": "丁文江",
+      "claim": "我的“纯粹的心理”，向那里找去？",
+      "target": "",
+      "claim_type": "问题提出",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "我的“纯粹的心理”，向那里找去？",
+      "confidence": 0.9
+    },
+    {
+      "id": "c6",
+      "speaker": "丁文江",
+      "claim": "君劢答词里面最不可了解的要算他中篇的第三章，所谓“科学以外之知识”，因为他不但是滥用没有定义的名词，不但是矛盾，而且是无的放矢。",
+      "target": "张君劢",
+      "claim_type": "论战策略批评",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "君劢答词里面最不可了解的要算他中篇的第三章，所谓“科学以外之知识”，因为他不但是滥用没有定义的名词，不但是矛盾，而且是无的放矢。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c7",
+      "speaker": "丁文江",
+      "claim": "我不知道他的人生观从几时起才加入美术的",
+      "target": "张君劢",
+      "claim_type": "论战策略批评",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "我不知道他的人生观从几时起才加入美术的",
+      "confidence": 0.9
+    },
+    {
+      "id": "c8",
+      "speaker": "丁文江",
+      "claim": "我再三读他的清华讲演的文章，在他九条的人生观宪法的里面找不出与美术有关的观念来。",
+      "target": "张君劢",
+      "claim_type": "论战策略批评",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "我再三读他的清华讲演的文章，在他九条的人生观宪法的里面找不出与美术有关的观念来。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c9",
+      "speaker": "丁文江",
+      "claim": "我攻击他的文章完全是对于他的讲演发言；那里面所说的“人生观”单是指他的九条！",
+      "target": "张君劢",
+      "claim_type": "论战策略批评",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "我攻击他的文章完全是对于他的讲演发言；那里面所说的“人生观”单是指他的九条！",
+      "confidence": 0.9
+    }
+  ],
+  "relations": [
+    {
+      "id": "r1",
+      "head": "丁文江",
+      "head_type": "人物",
+      "relation": "批评",
+      "relation_subtype": "概念混淆批评",
+      "tail": "张君劢",
+      "tail_type": "人物",
+      "polarity": "negative",
+      "evidence": "君劢答词里面最不可了解的要算他中篇的第三章，所谓“科学以外之知识”，因为他不但是滥用没有定义的名词，不但是矛盾，而且是无的放矢。",
+      "confidence": 0.9
+    },
+    {
+      "id": "r2",
+      "head": "丁文江",
+      "head_type": "人物",
+      "relation": "批评",
+      "relation_subtype": "事实质疑",
+      "tail": "张君劢",
+      "tail_type": "人物",
+      "polarity": "negative",
+      "evidence": "我不知道他的人生观从几时起才加入美术的",
+      "confidence": 0.9
+    },
+    {
+      "id": "r3",
+      "head": "丁文江",
+      "head_type": "人物",
+      "relation": "批评",
+      "relation_subtype": "事实质疑",
+      "tail": "张君劢",
+      "tail_type": "人物",
+      "polarity": "negative",
+      "evidence": "我再三读他的清华讲演的文章，在他九条的人生观宪法的里面找不出与美术有关的观念来。",
+      "confidence": 0.9
+    },
+    {
+      "id": "r4",
+      "head": "丁文江",
+      "head_type": "人物",
+      "relation": "回应",
+      "relation_subtype": "不适用",
+      "tail": "张君劢",
+      "tail_type": "人物",
+      "polarity": "neutral",
+      "evidence": "我攻击他的文章完全是对于他的讲演发言；那里面所说的“人生观”单是指他的九条！",
+      "confidence": 0.9
+    }
+  ],
+  "definitions": [],
+  "citations": [],
+  "rhetorical_devices": [],
+  "uncertainties": [
+    {
+      "item": "第一段中“我的意义是不是‘自由’的？”中的“意义”具体指什么，原文未明确界定。",
+      "reason": "“意义”一词在上下文中含义模糊，可能指“意志”或“含义”，但文本未给出明确定义。"
+    },
+    {
+      "item": "“管束我的精神的”后面引号内的内容是否直接引自张君劢或其他来源，原文未说明。",
+      "reason": "引号内的内容可能为丁文江自己的概括或引用，但文本未标明出处。"
+    }
+  ]
+}

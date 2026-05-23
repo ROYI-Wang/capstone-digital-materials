@@ -1,0 +1,654 @@
+{
+  "metadata": {
+    "schema_version": "lite_v3.0",
+    "article_id": "吴稚晖_001_b4c0e810",
+    "article_title": "一个新信仰的宇宙观及人生观",
+    "source_author": "吴稚晖",
+    "section_title": "讲到这里，第一层可先用不值钱的玄学理想，近乎游戏的，说道毛厕里的石头亦有感觉。苍蝇的感觉，非即人的感觉，他们感觉的状况，颇极差等。玫瑰树的感觉，非即苍蝇的感觉，他们的感觉，又极差等。如是焉能禁我来瞎说，毛厕里石头的感觉，非即玫瑰树的感觉，他们感觉的状况，也极差等。若欲强分高下，则石头有其寂然不动的感觉，真所谓无私心而合天理，所以贞固永寿。一块毛厕里的石头，可以阅几十代人而依然如故，见数百兆苍蝇存灭，看千万棵玫瑰树忽而芬芳，忽而萎枯。彼如曰毛厕里的石头为万物之灵，理由亦未尝不充足。彼另有彼之可感与彼之可觉，人与苍蝇及玫瑰树之感觉，皆非彼所需，故亦非彼所有，如是而已。然这种蹈空的掉枪花，我们中国古代的玄学鬼常用“孰为正色，孰为正味”等的论调，闹得甚嚣尘上。自然受过科学洗礼的玄学鬼，不肯就把这种空言，来作惟一的搪塞。所以说到第二层，他就要戴上科学面具，正正经经，板起了面孔，来断定毛厕里的石头亦有感觉。他不是说能够",
+    "section_author": "讲到这里，第一层可先用不值钱的玄学理想，近乎游戏的，说道毛厕里的石头亦有感觉。苍蝇的感觉，非即人的感觉，他们感觉的状况，颇极差等。玫瑰树的感觉，非即苍蝇的感觉，他们的感觉，又极差等。如是焉能禁我来瞎说，毛厕里石头的感觉，非即玫瑰树的感觉，他们感觉的状况，也极差等。若欲强分高下，则石头有其寂然不动的感觉，真所谓无私心而合天理，所以贞固永寿。一块毛厕里的石头，可以阅几十代人而依然如故，见数百兆苍蝇存灭，看千万棵玫瑰树忽而芬芳，忽而萎枯。彼如曰毛厕里的石头为万物之灵，理由亦未尝不充足。彼另有彼之可感与彼之可觉，人与苍蝇及玫瑰树之感觉，皆非彼所需，故亦非彼所有，如是而已。然这种蹈空的掉枪花，我们中国古代的玄学鬼常用“孰为正色，孰为正味”等的论调，闹得甚嚣尘上。自然受过科学洗礼的玄学鬼，不肯就把这种空言，来作惟一的搪塞。所以说到第二层，他就要戴上科学面具，正正经经，板起了面孔，来断定毛厕里的石头亦有感觉。他不是说能够",
+    "segment_id": "吴稚晖_001_b4c0e810_s0031",
+    "segment_index": 31,
+    "source_file": "E:\\1研究生\\岭南大学\\论文毕业\\capstone\\资料\\新的内容开始了\\local_upload\\input_吴稚晖\\吴稚晖.txt"
+  },
+  "entities": [
+    {
+      "id": "e1",
+      "name": "人",
+      "canonical_name": "人",
+      "type": "概念",
+      "evidence": "人便是外面止剩两只脚，却得到了两只手，内面有三斤二两脑髓，五千零四十八根脑筋，比较占有多额神经系质的动物。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e2",
+      "name": "动物",
+      "canonical_name": "动物",
+      "type": "概念",
+      "evidence": "人便是外面止剩两只脚，却得到了两只手，内面有三斤二两脑髓，五千零四十八根脑筋，比较占有多额神经系质的动物。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e3",
+      "name": "生",
+      "canonical_name": "生",
+      "type": "概念",
+      "evidence": "什么叫做生？就是无论你说上帝造成的傀儡罢，“隐得来希”串出的戏法罢，真如幻起的妄想罢，直觉悟着的变动罢，绵延不断的罢，片段分割的罢，或承认我吴稚晖所谓“漆黑一团”（另注下方）破裂了，变起大千宇宙，至今没有变好中的一变罢，终之我们讲话，止好大胆的把绵延的，分割着，说道，这便是兆兆兆兆刹那中，那位或造或幻或变的赵老爷，或钱太太，或孙少爷，或李小姐，从出了娘胎，到进着棺木，从吃起三朝汤面，到造了百岁牌坊，他或她，用着手，用着脑筋，把“叫好”的戏，或把“叫倒好”的戏，演着的一刹那，便叫做生。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e4",
+      "name": "漆黑一团",
+      "canonical_name": "漆黑一团",
+      "type": "概念",
+      "evidence": "或承认我吴稚晖所谓“漆黑一团”（另注下方）破裂了，变起大千宇宙，至今没有变好中的一变罢",
+      "confidence": 1.0
+    },
+    {
+      "id": "e5",
+      "name": "赵老爷",
+      "canonical_name": "赵老爷",
+      "type": "人物",
+      "evidence": "那位或造或幻或变的赵老爷，或钱太太，或孙少爷，或李小姐",
+      "confidence": 0.9
+    },
+    {
+      "id": "e6",
+      "name": "钱太太",
+      "canonical_name": "钱太太",
+      "type": "人物",
+      "evidence": "那位或造或幻或变的赵老爷，或钱太太，或孙少爷，或李小姐",
+      "confidence": 0.9
+    },
+    {
+      "id": "e7",
+      "name": "孙少爷",
+      "canonical_name": "孙少爷",
+      "type": "人物",
+      "evidence": "那位或造或幻或变的赵老爷，或钱太太，或孙少爷，或李小姐",
+      "confidence": 0.9
+    },
+    {
+      "id": "e8",
+      "name": "李小姐",
+      "canonical_name": "李小姐",
+      "type": "人物",
+      "evidence": "那位或造或幻或变的赵老爷，或钱太太，或孙少爷，或李小姐",
+      "confidence": 0.9
+    },
+    {
+      "id": "e9",
+      "name": "吴稚晖",
+      "canonical_name": "吴稚晖",
+      "type": "人物",
+      "evidence": "或承认我吴稚晖所谓“漆黑一团”（另注下方）破裂了",
+      "confidence": 1.0
+    },
+    {
+      "id": "e10",
+      "name": "北京“《晨报》”",
+      "canonical_name": "北京《晨报》",
+      "type": "阵营/群体",
+      "evidence": "“漆黑一团的宇宙观”，是北京“《晨报》”替我起的标题。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e11",
+      "name": "漆黑一团的宇宙观",
+      "canonical_name": "漆黑一团的宇宙观",
+      "type": "概念",
+      "evidence": "“漆黑一团的宇宙观”，是北京“《晨报》”替我起的标题。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e12",
+      "name": "上帝",
+      "canonical_name": "上帝",
+      "type": "概念",
+      "evidence": "无论你说上帝造成的傀儡罢",
+      "confidence": 0.9
+    },
+    {
+      "id": "e13",
+      "name": "隐得来希",
+      "canonical_name": "隐得来希",
+      "type": "概念",
+      "evidence": "“隐得来希”串出的戏法罢",
+      "confidence": 0.9
+    },
+    {
+      "id": "e14",
+      "name": "真如",
+      "canonical_name": "真如",
+      "type": "概念",
+      "evidence": "真如幻起的妄想罢",
+      "confidence": 0.9
+    },
+    {
+      "id": "e15",
+      "name": "直觉",
+      "canonical_name": "直觉",
+      "type": "概念",
+      "evidence": "直觉悟着的变动罢",
+      "confidence": 0.9
+    },
+    {
+      "id": "e16",
+      "name": "绵延",
+      "canonical_name": "绵延",
+      "type": "概念",
+      "evidence": "绵延不断的罢，片段分割的罢",
+      "confidence": 0.9
+    },
+    {
+      "id": "e17",
+      "name": "片段分割",
+      "canonical_name": "片段分割",
+      "type": "概念",
+      "evidence": "绵延不断的罢，片段分割的罢",
+      "confidence": 0.9
+    },
+    {
+      "id": "e18",
+      "name": "大千宇宙",
+      "canonical_name": "大千宇宙",
+      "type": "概念",
+      "evidence": "变起大千宇宙，至今没有变好中的一变罢",
+      "confidence": 0.9
+    },
+    {
+      "id": "e19",
+      "name": "娘胎",
+      "canonical_name": "娘胎",
+      "type": "概念",
+      "evidence": "从出了娘胎，到进着棺木",
+      "confidence": 0.9
+    },
+    {
+      "id": "e20",
+      "name": "棺木",
+      "canonical_name": "棺木",
+      "type": "概念",
+      "evidence": "从出了娘胎，到进着棺木",
+      "confidence": 0.9
+    },
+    {
+      "id": "e21",
+      "name": "三朝汤面",
+      "canonical_name": "三朝汤面",
+      "type": "概念",
+      "evidence": "从吃起三朝汤面，到造了百岁牌坊",
+      "confidence": 0.9
+    },
+    {
+      "id": "e22",
+      "name": "百岁牌坊",
+      "canonical_name": "百岁牌坊",
+      "type": "概念",
+      "evidence": "从吃起三朝汤面，到造了百岁牌坊",
+      "confidence": 0.9
+    },
+    {
+      "id": "e23",
+      "name": "叫好",
+      "canonical_name": "叫好",
+      "type": "概念",
+      "evidence": "把“叫好”的戏，或把“叫倒好”的戏，演着的一刹那",
+      "confidence": 0.9
+    },
+    {
+      "id": "e24",
+      "name": "叫倒好",
+      "canonical_name": "叫倒好",
+      "type": "概念",
+      "evidence": "把“叫好”的戏，或把“叫倒好”的戏，演着的一刹那",
+      "confidence": 0.9
+    },
+    {
+      "id": "e25",
+      "name": "生者演之谓也",
+      "canonical_name": "生者演之谓也",
+      "type": "观点",
+      "evidence": "于是我又敢通着文总括一句，说道，生者演之谓也，如是云尔。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e26",
+      "name": "锣鼓登场",
+      "canonical_name": "锣鼓登场",
+      "type": "比喻/类比",
+      "evidence": "生的时节，就是锣鼓登场，清歌妙舞，使枪弄棒的时节。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e27",
+      "name": "清歌妙舞",
+      "canonical_name": "清歌妙舞",
+      "type": "比喻/类比",
+      "evidence": "生的时节，就是锣鼓登场，清歌妙舞，使枪弄棒的时节。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e28",
+      "name": "使枪弄棒",
+      "canonical_name": "使枪弄棒",
+      "type": "比喻/类比",
+      "evidence": "生的时节，就是锣鼓登场，清歌妙舞，使枪弄棒的时节。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e29",
+      "name": "后台",
+      "canonical_name": "后台",
+      "type": "比喻/类比",
+      "evidence": "未出娘胎，是在后台。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e30",
+      "name": "回老家",
+      "canonical_name": "回老家",
+      "type": "比喻/类比",
+      "evidence": "已进棺木，是回老家。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e31",
+      "name": "择吉开场",
+      "canonical_name": "择吉开场",
+      "type": "比喻/类比",
+      "evidence": "当着他或她，或是未生，或是已经失了生，就叫做择吉开场，暂时停演。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e32",
+      "name": "暂时停演",
+      "canonical_name": "暂时停演",
+      "type": "比喻/类比",
+      "evidence": "当着他或她，或是未生，或是已经失了生，就叫做择吉开场，暂时停演。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e33",
+      "name": "无始之始",
+      "canonical_name": "无始之始",
+      "type": "概念",
+      "evidence": "因为我要把无始之始，非有，非非有，听不到，看不见，闻不出，摸不着，混沌得着实可笑，不能拿言语形容的怪物，所谓整个儿的“一个”，简括地，而又活泼地说出，甚不容易。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e34",
+      "name": "非有",
+      "canonical_name": "非有",
+      "type": "概念",
+      "evidence": "因为我要把无始之始，非有，非非有，听不到，看不见，闻不出，摸不着，混沌得着实可笑，不能拿言语形容的怪物，所谓整个儿的“一个”，简括地，而又活泼地说出，甚不容易。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e35",
+      "name": "非非有",
+      "canonical_name": "非非有",
+      "type": "概念",
+      "evidence": "因为我要把无始之始，非有，非非有，听不到，看不见，闻不出，摸不着，混沌得着实可笑，不能拿言语形容的怪物，所谓整个儿的“一个”，简括地，而又活泼地说出，甚不容易。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e36",
+      "name": "一个",
+      "canonical_name": "一个",
+      "type": "概念",
+      "evidence": "所谓整个儿的“一个”，简括地，而又活泼地说出，甚不容易。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e37",
+      "name": "一团",
+      "canonical_name": "一团",
+      "type": "概念",
+      "evidence": "若止说“一个”，或变称“一团”，便圈圈呆板，终不痛快。",
+      "confidence": 1.0
+    }
+  ],
+  "claims": [
+    {
+      "id": "c1",
+      "speaker": "吴稚晖",
+      "claim": "人便是外面止剩两只脚，却得到了两只手，内面有三斤二两脑髓，五千零四十八根脑筋，比较占有多额神经系质的动物。",
+      "target": "人",
+      "claim_type": "定义性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "人便是外面止剩两只脚，却得到了两只手，内面有三斤二两脑髓，五千零四十八根脑筋，比较占有多额神经系质的动物。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c2",
+      "speaker": "吴稚晖",
+      "claim": "生者演之谓也",
+      "target": "生",
+      "claim_type": "定义性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "于是我又敢通着文总括一句，说道，生者演之谓也，如是云尔。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c3",
+      "speaker": "吴稚晖",
+      "claim": "生的时节，就是锣鼓登场，清歌妙舞，使枪弄棒的时节。",
+      "target": "生",
+      "claim_type": "描述性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "生的时节，就是锣鼓登场，清歌妙舞，使枪弄棒的时节。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c4",
+      "speaker": "吴稚晖",
+      "claim": "未出娘胎，是在后台。",
+      "target": "娘胎",
+      "claim_type": "描述性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "未出娘胎，是在后台。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c5",
+      "speaker": "吴稚晖",
+      "claim": "已进棺木，是回老家。",
+      "target": "棺木",
+      "claim_type": "描述性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "已进棺木，是回老家。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c6",
+      "speaker": "吴稚晖",
+      "claim": "当着他或她，或是未生，或是已经失了生，就叫做择吉开场，暂时停演。",
+      "target": "生",
+      "claim_type": "定义性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "当着他或她，或是未生，或是已经失了生，就叫做择吉开场，暂时停演。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c7",
+      "speaker": "吴稚晖",
+      "claim": "漆黑一团的名词才叫干脆。",
+      "target": "漆黑一团",
+      "claim_type": "评价性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "这漆黑一团的名词才叫干脆。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c8",
+      "speaker": "吴稚晖",
+      "claim": "我要把无始之始，非有，非非有，听不到，看不见，闻不出，摸不着，混沌得着实可笑，不能拿言语形容的怪物，所谓整个儿的“一个”，简括地，而又活泼地说出，甚不容易。",
+      "target": "无始之始",
+      "claim_type": "描述性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "因为我要把无始之始，非有，非非有，听不到，看不见，闻不出，摸不着，混沌得着实可笑，不能拿言语形容的怪物，所谓整个儿的“一个”，简括地，而又活泼地说出，甚不容易。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c9",
+      "speaker": "吴稚晖",
+      "claim": "若止说“一个”，或变称“一团”，便圈圈呆板，终不痛快。",
+      "target": "一个",
+      "claim_type": "评价性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "若止说“一个”，或变称“一团”，便圈圈呆板，终不痛快。",
+      "confidence": 1.0
+    }
+  ],
+  "relations": [
+    {
+      "id": "r1",
+      "head": "人",
+      "head_type": "概念",
+      "relation": "定义",
+      "relation_subtype": "概念澄清",
+      "tail": "动物",
+      "tail_type": "概念",
+      "polarity": "neutral",
+      "stance_score": 0.0,
+      "intensity": 0.0,
+      "evidence": "人便是外面止剩两只脚，却得到了两只手，内面有三斤二两脑髓，五千零四十八根脑筋，比较占有多额神经系质的动物。",
+      "confidence": 1.0
+    },
+    {
+      "id": "r2",
+      "head": "生",
+      "head_type": "概念",
+      "relation": "定义",
+      "relation_subtype": "概念澄清",
+      "tail": "生者演之谓也",
+      "tail_type": "观点",
+      "polarity": "neutral",
+      "stance_score": 0.0,
+      "intensity": 0.0,
+      "evidence": "于是我又敢通着文总括一句，说道，生者演之谓也，如是云尔。",
+      "confidence": 1.0
+    },
+    {
+      "id": "r3",
+      "head": "生",
+      "head_type": "概念",
+      "relation": "类比",
+      "relation_subtype": "不适用",
+      "tail": "锣鼓登场",
+      "tail_type": "比喻/类比",
+      "polarity": "neutral",
+      "stance_score": 0.0,
+      "intensity": 0.0,
+      "evidence": "生的时节，就是锣鼓登场，清歌妙舞，使枪弄棒的时节。",
+      "confidence": 1.0
+    },
+    {
+      "id": "r4",
+      "head": "娘胎",
+      "head_type": "概念",
+      "relation": "类比",
+      "relation_subtype": "不适用",
+      "tail": "后台",
+      "tail_type": "比喻/类比",
+      "polarity": "neutral",
+      "stance_score": 0.0,
+      "intensity": 0.0,
+      "evidence": "未出娘胎，是在后台。",
+      "confidence": 1.0
+    },
+    {
+      "id": "r5",
+      "head": "棺木",
+      "head_type": "概念",
+      "relation": "类比",
+      "relation_subtype": "不适用",
+      "tail": "回老家",
+      "tail_type": "比喻/类比",
+      "polarity": "neutral",
+      "stance_score": 0.0,
+      "intensity": 0.0,
+      "evidence": "已进棺木，是回老家。",
+      "confidence": 1.0
+    },
+    {
+      "id": "r6",
+      "head": "未生",
+      "head_type": "概念",
+      "relation": "类比",
+      "relation_subtype": "不适用",
+      "tail": "择吉开场",
+      "tail_type": "比喻/类比",
+      "polarity": "neutral",
+      "stance_score": 0.0,
+      "intensity": 0.0,
+      "evidence": "当着他或她，或是未生，或是已经失了生，就叫做择吉开场，暂时停演。",
+      "confidence": 1.0
+    },
+    {
+      "id": "r7",
+      "head": "失了生",
+      "head_type": "概念",
+      "relation": "类比",
+      "relation_subtype": "不适用",
+      "tail": "暂时停演",
+      "tail_type": "比喻/类比",
+      "polarity": "neutral",
+      "stance_score": 0.0,
+      "intensity": 0.0,
+      "evidence": "当着他或她，或是未生，或是已经失了生，就叫做择吉开场，暂时停演。",
+      "confidence": 1.0
+    },
+    {
+      "id": "r8",
+      "head": "吴稚晖",
+      "head_type": "人物",
+      "relation": "评价",
+      "relation_subtype": "部分肯定",
+      "tail": "漆黑一团",
+      "tail_type": "概念",
+      "polarity": "positive",
+      "stance_score": 0.8,
+      "intensity": 0.6,
+      "evidence": "这漆黑一团的名词才叫干脆。",
+      "confidence": 1.0
+    },
+    {
+      "id": "r9",
+      "head": "吴稚晖",
+      "head_type": "人物",
+      "relation": "评价",
+      "relation_subtype": "一般批评",
+      "tail": "一个",
+      "tail_type": "概念",
+      "polarity": "negative",
+      "stance_score": -0.6,
+      "intensity": 0.5,
+      "evidence": "若止说“一个”，或变称“一团”，便圈圈呆板，终不痛快。",
+      "confidence": 1.0
+    },
+    {
+      "id": "r10",
+      "head": "北京“《晨报》”",
+      "head_type": "阵营/群体",
+      "relation": "评价",
+      "relation_subtype": "部分肯定",
+      "tail": "漆黑一团的宇宙观",
+      "tail_type": "概念",
+      "polarity": "positive",
+      "stance_score": 0.7,
+      "intensity": 0.5,
+      "evidence": "“漆黑一团的宇宙观”，是北京“《晨报》”替我起的标题。这漆黑一团的名词才叫干脆。",
+      "confidence": 1.0
+    }
+  ],
+  "definitions": [
+    {
+      "id": "def1",
+      "term": "人",
+      "definition": "人便是外面止剩两只脚，却得到了两只手，内面有三斤二两脑髓，五千零四十八根脑筋，比较占有多额神经系质的动物。",
+      "evidence": "人便是外面止剩两只脚，却得到了两只手，内面有三斤二两脑髓，五千零四十八根脑筋，比较占有多额神经系质的动物。",
+      "confidence": 1.0
+    },
+    {
+      "id": "def2",
+      "term": "生",
+      "definition": "生者演之谓也。生的时节，就是锣鼓登场，清歌妙舞，使枪弄棒的时节。未出娘胎，是在后台。已进棺木，是回老家。当着他或她，或是未生，或是已经失了生，就叫做择吉开场，暂时停演。",
+      "evidence": "于是我又敢通着文总括一句，说道，生者演之谓也，如是云尔。生的时节，就是锣鼓登场，清歌妙舞，使枪弄棒的时节。未出娘胎，是在后台。已进棺木，是回老家。当着他或她，或是未生，或是已经失了生，就叫做择吉开场，暂时停演。",
+      "confidence": 1.0
+    },
+    {
+      "id": "def3",
+      "term": "漆黑一团",
+      "definition": "无始之始，非有，非非有，听不到，看不见，闻不出，摸不着，混沌得着实可笑，不能拿言语形容的怪物，所谓整个儿的“一个”。",
+      "evidence": "因为我要把无始之始，非有，非非有，听不到，看不见，闻不出，摸不着，混沌得着实可笑，不能拿言语形容的怪物，所谓整个儿的“一个”，简括地，而又活泼地说出，甚不容易。",
+      "confidence": 1.0
+    }
+  ],
+  "citations": [
+    {
+      "id": "cit1",
+      "citer": "吴稚晖",
+      "quoted_author": "北京“《晨报》”",
+      "quoted_work": "",
+      "quoted_claim": "漆黑一团的宇宙观",
+      "function": "作为思想来源",
+      "evidence": "“漆黑一团的宇宙观”，是北京“《晨报》”替我起的标题。",
+      "confidence": 1.0
+    }
+  ],
+  "rhetorical_devices": [
+    {
+      "id": "rh1",
+      "expression": "生的时节，就是锣鼓登场，清歌妙舞，使枪弄棒的时节。",
+      "device_type": "比喻",
+      "literal_target": "生",
+      "function": "用戏剧表演比喻生命过程，使抽象概念形象化",
+      "evidence": "生的时节，就是锣鼓登场，清歌妙舞，使枪弄棒的时节。",
+      "confidence": 1.0
+    },
+    {
+      "id": "rh2",
+      "expression": "未出娘胎，是在后台。",
+      "device_type": "比喻",
+      "literal_target": "娘胎",
+      "function": "用后台比喻未出生状态，延续戏剧比喻",
+      "evidence": "未出娘胎，是在后台。",
+      "confidence": 1.0
+    },
+    {
+      "id": "rh3",
+      "expression": "已进棺木，是回老家。",
+      "device_type": "比喻",
+      "literal_target": "棺木",
+      "function": "用回老家比喻死亡，通俗化表达",
+      "evidence": "已进棺木，是回老家。",
+      "confidence": 1.0
+    },
+    {
+      "id": "rh4",
+      "expression": "当着他或她，或是未生，或是已经失了生，就叫做择吉开场，暂时停演。",
+      "device_type": "比喻",
+      "literal_target": "生",
+      "function": "用戏剧的开场和停演比喻生命的开始和结束",
+      "evidence": "当着他或她，或是未生，或是已经失了生，就叫做择吉开场，暂时停演。",
+      "confidence": 1.0
+    },
+    {
+      "id": "rh5",
+      "expression": "混沌得着实可笑",
+      "device_type": "拟人",
+      "literal_target": "无始之始",
+      "function": "赋予混沌以可笑的情感，增强生动性",
+      "evidence": "混沌得着实可笑",
+      "confidence": 0.9
+    }
+  ],
+  "uncertainties": [
+    {
+      "item": "“隐得来希”串出的戏法罢",
+      "reason": "“隐得来希”可能是外来词音译，具体指代不明，但根据上下文可推测为某种哲学或宗教概念。"
+    },
+    {
+      "item": "“真如幻起的妄想罢”",
+      "reason": "“真如”是佛教术语，但此处作为列举项之一，未详细展开，具体含义需结合上下文。"
+    },
+    {
+      "item": "“直觉悟着的变动罢”",
+      "reason": "“直觉”可能指柏格森哲学中的直觉，但文本未明确说明，需结合上下文。"
+    },
+    {
+      "item": "“绵延不断的罢，片段分割的罢”",
+      "reason": "“绵延”可能指柏格森哲学中的绵延概念，但文本未明确说明，需结合上下文。"
+    }
+  ]
+}

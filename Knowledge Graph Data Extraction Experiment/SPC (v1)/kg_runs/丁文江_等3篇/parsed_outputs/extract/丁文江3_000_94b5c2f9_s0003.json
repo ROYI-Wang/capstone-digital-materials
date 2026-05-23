@@ -1,0 +1,278 @@
+{
+  "metadata": {
+    "schema_version": "lite_v2.0",
+    "article_id": "丁文江3_000_94b5c2f9",
+    "article_title": "“玄学与科学”论争的余兴",
+    "source_author": "丁文江",
+    "section_title": "",
+    "section_author": "",
+    "segment_id": "丁文江3_000_94b5c2f9_s0003",
+    "segment_index": 3,
+    "source_file": "E:\\1研究生\\岭南大学\\论文毕业\\capstone\\资料\\新的内容开始了\\local_upload\\input_texts\\丁文江3.txt"
+  },
+  "entities": [
+    {
+      "id": "e1",
+      "name": "宰平",
+      "canonical_name": "宰平",
+      "type": "Person",
+      "evidence": "我请宰平先生细细的看看君劢所说的玄学教育同玄学的派别，是否单单限于本体的。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e2",
+      "name": "柏格森",
+      "canonical_name": "柏格森",
+      "type": "Person",
+      "evidence": "君劢的人生观大部分是从柏格森的玄学脱胎出来的",
+      "confidence": 0.9
+    },
+    {
+      "id": "e3",
+      "name": "鲁滨孙",
+      "canonical_name": "鲁滨孙",
+      "type": "Person",
+      "evidence": "鲁滨孙说的好：",
+      "confidence": 0.9
+    },
+    {
+      "id": "e4",
+      "name": "玄学",
+      "canonical_name": "玄学",
+      "type": "Concept",
+      "evidence": "他反对我攻击玄学，反对我的态度同讲法。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e5",
+      "name": "本体论",
+      "canonical_name": "本体论",
+      "type": "Concept",
+      "evidence": "但是他说玄学就是本体论",
+      "confidence": 0.9
+    },
+    {
+      "id": "e6",
+      "name": "人生观",
+      "canonical_name": "人生观",
+      "type": "Concept",
+      "evidence": "张君劢所讲的人生观与玄学无关",
+      "confidence": 0.9
+    },
+    {
+      "id": "e7",
+      "name": "玄学教育",
+      "canonical_name": "玄学教育",
+      "type": "Concept",
+      "evidence": "我请宰平先生细细的看看君劢所说的玄学教育同玄学的派别",
+      "confidence": 0.9
+    },
+    {
+      "id": "e8",
+      "name": "玄学的派别",
+      "canonical_name": "玄学的派别",
+      "type": "Concept",
+      "evidence": "我请宰平先生细细的看看君劢所说的玄学教育同玄学的派别",
+      "confidence": 0.9
+    },
+    {
+      "id": "e9",
+      "name": "科学",
+      "canonical_name": "科学",
+      "type": "Concept",
+      "evidence": "学佛的人同学科学的人对于玄学的态度，当然是不能相同的",
+      "confidence": 0.9
+    },
+    {
+      "id": "e10",
+      "name": "学佛的人",
+      "canonical_name": "学佛的人",
+      "type": "Faction",
+      "evidence": "学佛的人同学科学的人对于玄学的态度，当然是不能相同的",
+      "confidence": 0.9
+    },
+    {
+      "id": "e11",
+      "name": "学科学的人",
+      "canonical_name": "学科学的人",
+      "type": "Faction",
+      "evidence": "学佛的人同学科学的人对于玄学的态度，当然是不能相同的",
+      "confidence": 0.9
+    }
+  ],
+  "claims": [
+    {
+      "id": "c1",
+      "speaker": "丁文江",
+      "claim": "他反对我的理由一半由于误会。",
+      "target": "宰平",
+      "claim_type": "论战策略批评",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "他反对我的理由一半由于误会。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c2",
+      "speaker": "丁文江",
+      "claim": "这种误会，他看了我第二篇文章，自然会得解除。",
+      "target": "宰平",
+      "claim_type": "论战策略批评",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "这种误会，他看了我第二篇文章，自然会得解除。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c3",
+      "speaker": "丁文江",
+      "claim": "一半由于他反对我攻击玄学，反对我的态度同讲法。",
+      "target": "宰平",
+      "claim_type": "论战策略批评",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "一半由于他反对我攻击玄学，反对我的态度同讲法。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c4",
+      "speaker": "丁文江",
+      "claim": "学佛的人同学科学的人对于玄学的态度，当然是不能相同的——这种绝对不能相容的讨论大半是辞费。",
+      "target": "学佛的人",
+      "claim_type": "方法论主张",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "学佛的人同学科学的人对于玄学的态度，当然是不能相同的——这种绝对不能相容的讨论大半是辞费。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c5",
+      "speaker": "丁文江",
+      "claim": "他说玄学就是本体论，张君劢所讲的人生观与玄学无关，我却不能承认。",
+      "target": "宰平",
+      "claim_type": "反驳性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "但是他说玄学就是本体论，张君劢所讲的人生观与玄学无关，我却不能承认。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c6",
+      "speaker": "丁文江",
+      "claim": "君劢的人生观大部分是从柏格森的玄学脱胎出来的，他自己答我的文章已经完全承认。",
+      "target": "张君劢",
+      "claim_type": "历史解释",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "君劢的人生观大部分是从柏格森的玄学脱胎出来的，他自己答我的文章已经完全承认。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c7",
+      "speaker": "丁文江",
+      "claim": "我请宰平先生细细的看看君劢所说的玄学教育同玄学的派别，是否单单限于本体的。",
+      "target": "宰平",
+      "claim_type": "问题提出",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "我请宰平先生细细的看看君劢所说的玄学教育同玄学的派别，是否单单限于本体的。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c8",
+      "speaker": "鲁滨孙",
+      "claim": "许多人崇拜玄学，说他是我们求最高真理的最高尚的努力。许多人鄙夷玄学，说他是我们最愚蠢的盲动。在我看起来，玄学同烟草一样，是对于他性情相近的人的一种最快心的嗜好。当他一种嗜好看，是比较的无害的。",
+      "target": "玄学",
+      "claim_type": "价值评价",
+      "claim_status": "直接引用",
+      "polarity": "mixed",
+      "evidence": "鲁滨孙说的好：\n\n“许多人崇拜玄学，说他是我们求最高真理的最高尚的努力。许多人鄙夷玄学，说他是我们最愚蠢的盲动。在我看起来，玄学同烟草一样，是对于他性情相近的人的一种最快心的嗜好。当他一种嗜好看，是比较的无害的。",
+      "confidence": 0.9
+    }
+  ],
+  "relations": [
+    {
+      "id": "r1",
+      "head": "丁文江",
+      "head_type": "Person",
+      "relation": "CITES",
+      "tail": "鲁滨孙",
+      "tail_type": "Person",
+      "polarity": "positive",
+      "evidence": "鲁滨孙说的好：",
+      "confidence": 0.9
+    },
+    {
+      "id": "r2",
+      "head": "张君劢",
+      "head_type": "Person",
+      "relation": "PROPOSES",
+      "tail": "人生观",
+      "tail_type": "Concept",
+      "polarity": "neutral",
+      "evidence": "张君劢所讲的人生观与玄学无关",
+      "confidence": 0.9
+    }
+  ],
+  "definitions": [
+    {
+      "id": "def1",
+      "term": "玄学",
+      "definition": "宰平认为玄学就是本体论。",
+      "evidence": "但是他说玄学就是本体论",
+      "confidence": 0.9
+    }
+  ],
+  "citations": [
+    {
+      "id": "cit1",
+      "citer": "丁文江",
+      "quoted_author": "鲁滨孙",
+      "quoted_work": "",
+      "quoted_claim": "许多人崇拜玄学，说他是我们求最高真理的最高尚的努力。许多人鄙夷玄学，说他是我们最愚蠢的盲动。在我看起来，玄学同烟草一样，是对于他性情相近的人的一种最快心的嗜好。当他一种嗜好看，是比较的无害的。",
+      "function": "援引权威支持",
+      "evidence": "鲁滨孙说的好：\n\n“许多人崇拜玄学，说他是我们求最高真理的最高尚的努力。许多人鄙夷玄学，说他是我们最愚蠢的盲动。在我看起来，玄学同烟草一样，是对于他性情相近的人的一种最快心的嗜好。当他一种嗜好看，是比较的无害的。",
+      "confidence": 0.9
+    }
+  ],
+  "rhetorical_devices": [
+    {
+      "id": "rh1",
+      "expression": "玄学同烟草一样，是对于他性情相近的人的一种最快心的嗜好。",
+      "device_type": "比喻",
+      "literal_target": "玄学",
+      "function": "将玄学比作烟草，说明其作为一种嗜好的无害性，以支持作者对玄学的某种态度。",
+      "evidence": "玄学同烟草一样，是对于他性情相近的人的一种最快心的嗜好。",
+      "confidence": 0.9
+    }
+  ],
+  "uncertainties": [
+    {
+      "item": "“他”在文本中具体指代谁？",
+      "reason": "文本中“他反对我的理由一半由于误会”中的“他”未明确给出姓名，根据上下文推测为宰平，但原文未直接点名。"
+    },
+    {
+      "item": "“我第二篇文章”具体指哪篇文章？",
+      "reason": "文本提到“他看了我第二篇文章”，但未说明文章标题，无法确定具体指代。"
+    }
+  ],
+  "_meta": {
+    "status": "success",
+    "stage": "extract",
+    "model": "deepseek-ai/DeepSeek-V4-Flash",
+    "base_url": "https://api.siliconflow.cn/v1",
+    "prompt_version": "extract_prompt_v2.0",
+    "schema_version": "lite_v2.0",
+    "segment_id": "丁文江3_000_94b5c2f9_s0003",
+    "article_id": "丁文江3_000_94b5c2f9",
+    "char_start": 770,
+    "char_end": 1110,
+    "raw_path": "E:\\1研究生\\岭南大学\\论文毕业\\capstone\\资料\\新的内容开始了\\local_upload\\kg_runs\\丁文江_等3篇\\raw_outputs\\extract\\丁文江3_000_94b5c2f9_s0003.txt",
+    "parsed_at": "2026-05-19T05:09:39",
+    "started_at": "2026-05-19T05:09:16",
+    "elapsed_seconds": 22.621,
+    "strict_evidence_check": true,
+    "drop_unsupported_evidence": true,
+    "request_timeout_seconds": 180
+  }
+}

@@ -1,0 +1,471 @@
+{
+  "metadata": {
+    "schema_version": "lite_v3.0",
+    "article_id": "陈独秀_001_d263aca8",
+    "article_title": "答适之",
+    "source_author": "陈独秀",
+    "section_title": "方今国中竟言新文化，而文化转移之枢纽，不外乎人生观。吾有吾之文化，西洋有西洋之文化。西洋之有益者如何采之，有害者如何革除之；凡此取舍之间，皆决之于观点。观点定，而后精神上之思潮、物质上之制度，乃可按",
+    "section_author": "方今国中竟言新文化，而文化转移之枢纽，不外乎人生观。吾有吾之文化，西洋有西洋之文化。西洋之有益者如何采之，有害者如何革除之；凡此取舍之间，皆决之于观点。观点定，而后精神上之思潮、物质上之制度，乃可",
+    "segment_id": "陈独秀_001_d263aca8_s0011",
+    "segment_index": 11,
+    "source_file": "E:\\1研究生\\岭南大学\\论文毕业\\capstone\\资料\\新的内容开始了\\local_upload\\input_陈独秀\\陈独秀.txt"
+  },
+  "entities": [
+    {
+      "id": "e1",
+      "name": "科学",
+      "canonical_name": "科学",
+      "type": "概念",
+      "evidence": "科学起于对象之相同现象",
+      "confidence": 0.9
+    },
+    {
+      "id": "e2",
+      "name": "人生观",
+      "canonical_name": "人生观",
+      "type": "概念",
+      "evidence": "人生观起于人格之单一性",
+      "confidence": 0.9
+    },
+    {
+      "id": "e3",
+      "name": "自然界变化现象之统一性",
+      "canonical_name": "自然界变化现象之统一性",
+      "type": "概念",
+      "evidence": "科学中有一最大之原则，曰自然界变化现象之统一性",
+      "confidence": 0.9
+    },
+    {
+      "id": "e4",
+      "name": "智慧测验",
+      "canonical_name": "智慧测验",
+      "type": "方法",
+      "evidence": "近来心理学家，有所谓智慧测验（Mental Test）",
+      "confidence": 0.9
+    },
+    {
+      "id": "e5",
+      "name": "犯罪统计",
+      "canonical_name": "犯罪统计",
+      "type": "方法",
+      "evidence": "社会学家，有所谓犯罪统计",
+      "confidence": 0.9
+    },
+    {
+      "id": "e6",
+      "name": "哥德",
+      "canonical_name": "哥德",
+      "type": "人物",
+      "evidence": "哥德（Goethe）之《佛乌斯脱》（Faust）",
+      "confidence": 0.9
+    },
+    {
+      "id": "e7",
+      "name": "但丁",
+      "canonical_name": "但丁",
+      "type": "人物",
+      "evidence": "但丁（Dante）之《神曲》（Divine Comedy）",
+      "confidence": 0.9
+    },
+    {
+      "id": "e8",
+      "name": "沙士比尔",
+      "canonical_name": "沙士比尔",
+      "type": "人物",
+      "evidence": "沙士比尔（Shakespeare）之剧本",
+      "confidence": 0.9
+    },
+    {
+      "id": "e9",
+      "name": "华格那",
+      "canonical_name": "华格那",
+      "type": "人物",
+      "evidence": "华格那（Wagner）之音乐",
+      "confidence": 0.9
+    },
+    {
+      "id": "e10",
+      "name": "《佛乌斯脱》",
+      "canonical_name": "《佛乌斯脱》",
+      "type": "著作",
+      "evidence": "哥德（Goethe）之《佛乌斯脱》（Faust）",
+      "confidence": 0.9
+    },
+    {
+      "id": "e11",
+      "name": "《神曲》",
+      "canonical_name": "《神曲》",
+      "type": "著作",
+      "evidence": "但丁（Dante）之《神曲》（Divine Comedy）",
+      "confidence": 0.9
+    },
+    {
+      "id": "e12",
+      "name": "剧本",
+      "canonical_name": "剧本",
+      "type": "著作",
+      "evidence": "沙士比尔（Shakespeare）之剧本",
+      "confidence": 0.9
+    },
+    {
+      "id": "e13",
+      "name": "音乐",
+      "canonical_name": "音乐",
+      "type": "概念",
+      "evidence": "华格那（Wagner）之音乐",
+      "confidence": 0.9
+    },
+    {
+      "id": "e14",
+      "name": "精神分析",
+      "canonical_name": "精神分析",
+      "type": "方法",
+      "evidence": "虽主张精神分析或智慧测验者",
+      "confidence": 0.9
+    },
+    {
+      "id": "e15",
+      "name": "特别之人物",
+      "canonical_name": "特别之人物",
+      "type": "概念",
+      "evidence": "若夫特别之人物，亦谓由统计或测验而得，则断断不然",
+      "confidence": 0.9
+    },
+    {
+      "id": "e16",
+      "name": "一般群众",
+      "canonical_name": "一般群众",
+      "type": "阵营/群体",
+      "evidence": "窃以为此类测验与统计，施之一般群众，固无不可",
+      "confidence": 0.9
+    }
+  ],
+  "claims": [
+    {
+      "id": "c1",
+      "speaker": "陈独秀",
+      "claim": "科学起于对象之相同现象，而人生观起于人格之单一性",
+      "target": "",
+      "claim_type": "对比性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "科学起于对象之相同现象，而人生观起于人格之单一性",
+      "confidence": 0.9
+    },
+    {
+      "id": "c2",
+      "speaker": "陈独秀",
+      "claim": "科学中有一最大之原则，曰自然界变化现象之统一性",
+      "target": "",
+      "claim_type": "描述性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "科学中有一最大之原则，曰自然界变化现象之统一性",
+      "confidence": 0.9
+    },
+    {
+      "id": "c3",
+      "speaker": "陈独秀",
+      "claim": "植物之中，有类可言也。动物之中，有类可言也。乃至死物界中，亦有类可言也。既有类，而其变化现象，前后一贯，故科学中乃有公例可求",
+      "target": "",
+      "claim_type": "因果主张",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "植物之中，有类可言也。动物之中，有类可言也。乃至死物界中，亦有类可言也。既有类，而其变化现象，前后一贯，故科学中乃有公例可求",
+      "confidence": 0.9
+    },
+    {
+      "id": "c4",
+      "speaker": "陈独秀",
+      "claim": "若夫人类社会中，智愚之分有焉，贤不肖之分有焉，乃至身体健全不健全之分有焉",
+      "target": "",
+      "claim_type": "描述性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "若夫人类社会中，智愚之分有焉，贤不肖之分有焉，乃至身体健全不健全之分有焉",
+      "confidence": 0.9
+    },
+    {
+      "id": "c5",
+      "speaker": "陈独秀",
+      "claim": "窃以为此类测验与统计，施之一般群众，固无不可",
+      "target": "",
+      "claim_type": "评价性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "窃以为此类测验与统计，施之一般群众，固无不可",
+      "confidence": 0.9
+    },
+    {
+      "id": "c6",
+      "speaker": "陈独秀",
+      "claim": "若夫特别之人物，亦谓由统计或测验而得，则断断不然",
+      "target": "",
+      "claim_type": "反驳性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "若夫特别之人物，亦谓由统计或测验而得，则断断不然",
+      "confidence": 0.9
+    },
+    {
+      "id": "c7",
+      "speaker": "陈独秀",
+      "claim": "盖人生观者，特殊的也，个性的也，有一而无二者也",
+      "target": "",
+      "claim_type": "定义性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "盖人生观者，特殊的也，个性的也，有一而无二者也",
+      "confidence": 0.9
+    },
+    {
+      "id": "c8",
+      "speaker": "陈独秀",
+      "claim": "见于甲者，不得而求之于乙；见于乙者，不得而求之于丙",
+      "target": "",
+      "claim_type": "描述性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "见于甲者，不得而求之于乙；见于乙者，不得而求之于丙",
+      "confidence": 0.9
+    }
+  ],
+  "relations": [
+    {
+      "id": "r1",
+      "head": "科学",
+      "head_type": "概念",
+      "relation": "对比",
+      "relation_subtype": "不适用",
+      "tail": "人生观",
+      "tail_type": "概念",
+      "polarity": "neutral",
+      "stance_score": 0.0,
+      "intensity": 0.0,
+      "evidence": "科学起于对象之相同现象，而人生观起于人格之单一性",
+      "confidence": 0.9
+    },
+    {
+      "id": "r2",
+      "head": "自然界变化现象之统一性",
+      "head_type": "概念",
+      "relation": "属于",
+      "relation_subtype": "不适用",
+      "tail": "科学",
+      "tail_type": "概念",
+      "polarity": "neutral",
+      "stance_score": 0.0,
+      "intensity": 0.0,
+      "evidence": "科学中有一最大之原则，曰自然界变化现象之统一性",
+      "confidence": 0.9
+    },
+    {
+      "id": "r3",
+      "head": "植物、动物、死物界有类",
+      "head_type": "观点",
+      "relation": "作为论据支持",
+      "relation_subtype": "不适用",
+      "tail": "科学中乃有公例可求",
+      "tail_type": "观点",
+      "polarity": "neutral",
+      "stance_score": 0.0,
+      "intensity": 0.0,
+      "evidence": "植物之中，有类可言也。动物之中，有类可言也。乃至死物界中，亦有类可言也。既有类，而其变化现象，前后一贯，故科学中乃有公例可求",
+      "confidence": 0.9
+    },
+    {
+      "id": "r4",
+      "head": "智慧测验",
+      "head_type": "方法",
+      "relation": "属于",
+      "relation_subtype": "不适用",
+      "tail": "心理学",
+      "tail_type": "概念",
+      "polarity": "neutral",
+      "stance_score": 0.0,
+      "intensity": 0.0,
+      "evidence": "近来心理学家，有所谓智慧测验（Mental Test）",
+      "confidence": 0.9
+    },
+    {
+      "id": "r5",
+      "head": "犯罪统计",
+      "head_type": "方法",
+      "relation": "属于",
+      "relation_subtype": "不适用",
+      "tail": "社会学",
+      "tail_type": "概念",
+      "polarity": "neutral",
+      "stance_score": 0.0,
+      "intensity": 0.0,
+      "evidence": "社会学家，有所谓犯罪统计",
+      "confidence": 0.9
+    },
+    {
+      "id": "r6",
+      "head": "冬季则盗贼多",
+      "head_type": "观点",
+      "relation": "归因于",
+      "relation_subtype": "不适用",
+      "tail": "失业者众",
+      "tail_type": "观点",
+      "polarity": "neutral",
+      "stance_score": 0.0,
+      "intensity": 0.0,
+      "evidence": "冬季则盗贼多，以失业者众也",
+      "confidence": 0.9
+    },
+    {
+      "id": "r7",
+      "head": "春夏秋则盗贼少",
+      "head_type": "观点",
+      "relation": "归因于",
+      "relation_subtype": "不适用",
+      "tail": "农事忙而失业者少",
+      "tail_type": "观点",
+      "polarity": "neutral",
+      "stance_score": 0.0,
+      "intensity": 0.0,
+      "evidence": "春夏秋则盗贼少，以农事忙而失业者少也",
+      "confidence": 0.9
+    },
+    {
+      "id": "r8",
+      "head": "陈独秀",
+      "head_type": "人物",
+      "relation": "支持",
+      "relation_subtype": "部分肯定",
+      "tail": "测验与统计施之一般群众",
+      "tail_type": "观点",
+      "polarity": "positive",
+      "stance_score": 0.5,
+      "intensity": 0.5,
+      "evidence": "窃以为此类测验与统计，施之一般群众，固无不可",
+      "confidence": 0.9
+    },
+    {
+      "id": "r9",
+      "head": "陈独秀",
+      "head_type": "人物",
+      "relation": "反对",
+      "relation_subtype": "逻辑反驳",
+      "tail": "特别之人物由统计或测验而得",
+      "tail_type": "观点",
+      "polarity": "negative",
+      "stance_score": -1.0,
+      "intensity": 1.0,
+      "evidence": "若夫特别之人物，亦谓由统计或测验而得，则断断不然",
+      "confidence": 0.9
+    },
+    {
+      "id": "r10",
+      "head": "哥德之《佛乌斯脱》、但丁之《神曲》、沙士比尔之剧本、华格那之音乐",
+      "head_type": "例证",
+      "relation": "作为反例反驳",
+      "relation_subtype": "不适用",
+      "tail": "特别之人物由统计或测验而得",
+      "tail_type": "观点",
+      "polarity": "negative",
+      "stance_score": -1.0,
+      "intensity": 0.8,
+      "evidence": "哥德（Goethe）之《佛乌斯脱》（Faust）,但丁（Dante）之《神曲》（Divine Comedy）,沙士比尔（Shakespeare）之剧本，华格那（Wagner）之音乐，虽主张精神分析或智慧测验者，恐亦无法以解释其由来矣",
+      "confidence": 0.9
+    },
+    {
+      "id": "r11",
+      "head": "人生观",
+      "head_type": "概念",
+      "relation": "定义",
+      "relation_subtype": "概念澄清",
+      "tail": "特殊的也，个性的也，有一而无二者也",
+      "tail_type": "观点",
+      "polarity": "neutral",
+      "stance_score": 0.0,
+      "intensity": 0.0,
+      "evidence": "盖人生观者，特殊的也，个性的也，有一而无二者也",
+      "confidence": 0.9
+    }
+  ],
+  "definitions": [
+    {
+      "id": "def1",
+      "term": "自然界变化现象之统一性",
+      "definition": "自然界变化现象之统一性是指科学中的最大原则，即自然现象具有统一性",
+      "evidence": "科学中有一最大之原则，曰自然界变化现象之统一性",
+      "confidence": 0.9
+    },
+    {
+      "id": "def2",
+      "term": "智慧测验",
+      "definition": "智慧测验是就学童之智识，而测定其高下之标准",
+      "evidence": "智慧测验者，就学童之智识，而测定其高下之标准也",
+      "confidence": 0.9
+    },
+    {
+      "id": "def3",
+      "term": "人生观",
+      "definition": "人生观是特殊的、个性的、有一而无二的",
+      "evidence": "盖人生观者，特殊的也，个性的也，有一而无二者也",
+      "confidence": 0.9
+    }
+  ],
+  "citations": [
+    {
+      "id": "cit1",
+      "citer": "陈独秀",
+      "quoted_author": "哥德",
+      "quoted_work": "《佛乌斯脱》",
+      "quoted_claim": "",
+      "function": "作为反例反驳",
+      "evidence": "哥德（Goethe）之《佛乌斯脱》（Faust）",
+      "confidence": 0.9
+    },
+    {
+      "id": "cit2",
+      "citer": "陈独秀",
+      "quoted_author": "但丁",
+      "quoted_work": "《神曲》",
+      "quoted_claim": "",
+      "function": "作为反例反驳",
+      "evidence": "但丁（Dante）之《神曲》（Divine Comedy）",
+      "confidence": 0.9
+    },
+    {
+      "id": "cit3",
+      "citer": "陈独秀",
+      "quoted_author": "沙士比尔",
+      "quoted_work": "剧本",
+      "quoted_claim": "",
+      "function": "作为反例反驳",
+      "evidence": "沙士比尔（Shakespeare）之剧本",
+      "confidence": 0.9
+    },
+    {
+      "id": "cit4",
+      "citer": "陈独秀",
+      "quoted_author": "华格那",
+      "quoted_work": "音乐",
+      "quoted_claim": "",
+      "function": "作为反例反驳",
+      "evidence": "华格那（Wagner）之音乐",
+      "confidence": 0.9
+    }
+  ],
+  "rhetorical_devices": [
+    {
+      "id": "rh1",
+      "expression": "虽主张精神分析或智慧测验者，恐亦无法以解释其由来矣",
+      "device_type": "讽刺",
+      "literal_target": "主张精神分析或智慧测验者",
+      "function": "通过讽刺性假设，强调特别之人物无法由统计或测验解释",
+      "evidence": "虽主张精神分析或智慧测验者，恐亦无法以解释其由来矣",
+      "confidence": 0.9
+    }
+  ],
+  "uncertainties": [
+    {
+      "item": "大之如孔墨佛耶，小之如一人之身，皆若是而已",
+      "reason": "该句与前后文关系不明确，且未在文本中充分展开，难以确定其具体所指"
+    }
+  ]
+}

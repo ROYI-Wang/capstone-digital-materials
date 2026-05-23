@@ -1,0 +1,338 @@
+{
+  "metadata": {
+    "schema_version": "lite_v2.0",
+    "article_id": "任叔永_000_7ab49e99",
+    "article_title": "人生观的科学或科学的人生观",
+    "source_author": "任叔永",
+    "section_title": "",
+    "section_author": "",
+    "segment_id": "任叔永_000_7ab49e99_s0004",
+    "segment_index": 4,
+    "source_file": "E:\\1研究生\\岭南大学\\论文毕业\\capstone\\资料\\新的内容开始了\\local_upload\\input_w1\\任叔永.txt"
+  },
+  "entities": [
+    {
+      "id": "e1",
+      "name": "牛顿",
+      "canonical_name": "牛顿",
+      "type": "人物",
+      "evidence": "牛顿暮年的时候说",
+      "confidence": 1.0
+    },
+    {
+      "id": "e2",
+      "name": "汤姆生",
+      "canonical_name": "汤姆生",
+      "type": "人物",
+      "evidence": "现今的物理学大家汤姆生说",
+      "confidence": 1.0
+    },
+    {
+      "id": "e3",
+      "name": "科学",
+      "canonical_name": "科学",
+      "type": "概念",
+      "evidence": "科学的目的在求真理",
+      "confidence": 1.0
+    },
+    {
+      "id": "e4",
+      "name": "真理",
+      "canonical_name": "真理",
+      "type": "概念",
+      "evidence": "科学的目的在求真理，而真理是无穷无边的",
+      "confidence": 1.0
+    },
+    {
+      "id": "e5",
+      "name": "人生观",
+      "canonical_name": "人生观",
+      "type": "概念",
+      "evidence": "研究科学的人，都具一种 猛勇前进，尽弃于真理的启迪，不知老之将至的人生观",
+      "confidence": 1.0
+    },
+    {
+      "id": "e6",
+      "name": "科学探讨的精神",
+      "canonical_name": "科学探讨的精神",
+      "type": "概念",
+      "evidence": "因为科学探讨的精神，深远而没有界限",
+      "confidence": 1.0
+    },
+    {
+      "id": "e7",
+      "name": "物质界",
+      "canonical_name": "物质界",
+      "type": "概念",
+      "evidence": "打破物质界的许多引诱",
+      "confidence": 1.0
+    },
+    {
+      "id": "e8",
+      "name": "自然界",
+      "canonical_name": "自然界",
+      "type": "概念",
+      "evidence": "使他和自然界高远的精神相接触",
+      "confidence": 1.0
+    }
+  ],
+  "claims": [
+    {
+      "id": "c1",
+      "speaker": "任叔永",
+      "claim": "科学的目的在求真理，而真理是无穷无边的",
+      "target": "科学",
+      "claim_type": "定义性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "科学的目的在求真理，而真理是无穷无边的",
+      "confidence": 1.0
+    },
+    {
+      "id": "c2",
+      "speaker": "任叔永",
+      "claim": "研究科学的人，都具一种猛勇前进，尽弃于真理的启迪，不知老之将至的人生观",
+      "target": "科学家",
+      "claim_type": "方法论主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "研究科学的人，都具一种 猛勇前进，尽弃于真理的启迪，不知老之将至的人生观",
+      "confidence": 1.0
+    },
+    {
+      "id": "c3",
+      "speaker": "牛顿",
+      "claim": "我不晓得世界看我是怎样。我自己觉得，我不过像一个小孩子，在真理的大海边，偶然拾得几个可爱的贝壳玩弄，而真理的大海仍在我的前面，不曾发现",
+      "target": "真理",
+      "claim_type": "价值评价",
+      "claim_status": "直接引用",
+      "polarity": "positive",
+      "evidence": "牛顿暮年的时候说：“我不晓得世界看我是怎样。我自己觉得，我不过像一个小孩子，在真理的大海边，偶然拾得几个可爱的贝壳玩弄，而真理的大海仍在我的前面，不曾发现。”",
+      "confidence": 1.0
+    },
+    {
+      "id": "c4",
+      "speaker": "汤姆生",
+      "claim": "我们占了一峰还有一峰，看看我们的前面，仍旧全是美丽有趣的去处。但是我们看不见目的地和水平线。在较远的地方，还有更高的山，能攀登上去，就能看见更好的景界。科学愈进步而造物的伟大、不可思议也愈显明",
+      "target": "科学",
+      "claim_type": "价值评价",
+      "claim_status": "直接引用",
+      "polarity": "positive",
+      "evidence": "现今的物理学大家汤姆生说：“我们占了一峰还有一峰，看看我们的前面，仍旧全是美丽有趣的去处。但是我们看不见目的地和水平线。在较远的地方，还有更高的山，能攀登上去，就能看见更好的景界。科学愈进步而造物的伟大、不可思议也愈显明。”",
+      "confidence": 1.0
+    },
+    {
+      "id": "c5",
+      "speaker": "任叔永",
+      "claim": "这些话出诸大科学家之口，都可以代表科学家的一种伟大的人生观",
+      "target": "科学家",
+      "claim_type": "价值评价",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "这些话出诸大科学家之口，都可以代表科学家的一种伟大的人生观",
+      "confidence": 1.0
+    },
+    {
+      "id": "c6",
+      "speaker": "任叔永",
+      "claim": "有了这种人生观，才能打破物质界的许多引诱",
+      "target": "人生观",
+      "claim_type": "方法论主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "有了这种人生观，才能打破物质界的许多引诱",
+      "confidence": 1.0
+    },
+    {
+      "id": "c7",
+      "speaker": "任叔永",
+      "claim": "因为科学探讨的精神，深远而没有界限，所以心中一切偏见私意，都可以打破，使他和自然界高远的精神相接触",
+      "target": "科学探讨的精神",
+      "claim_type": "方法论主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "因为科学探讨的精神，深远而没有界限，所以心中一切偏见私意，都可以打破，使他和自然界高远的精神相接触",
+      "confidence": 1.0
+    },
+    {
+      "id": "c8",
+      "speaker": "任叔永",
+      "claim": "这样的人生观，也不是他类的人可以得到的",
+      "target": "人生观",
+      "claim_type": "价值评价",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "这样的人生观，也不是他类的人可以得到的",
+      "confidence": 1.0
+    }
+  ],
+  "relations": [
+    {
+      "id": "r1",
+      "head": "科学",
+      "head_type": "概念",
+      "relation": "定义",
+      "tail": "真理",
+      "tail_type": "概念",
+      "polarity": "positive",
+      "evidence": "科学的目的在求真理",
+      "confidence": 1.0
+    },
+    {
+      "id": "r2",
+      "head": "科学",
+      "head_type": "概念",
+      "relation": "导致",
+      "tail": "人生观",
+      "tail_type": "概念",
+      "polarity": "positive",
+      "evidence": "研究科学的人，都具一种 猛勇前进，尽弃于真理的启迪，不知老之将至的人生观",
+      "confidence": 1.0
+    },
+    {
+      "id": "r3",
+      "head": "牛顿",
+      "head_type": "人物",
+      "relation": "相关",
+      "tail": "真理",
+      "tail_type": "概念",
+      "polarity": "positive",
+      "evidence": "牛顿暮年的时候说：“我不晓得世界看我是怎样。我自己觉得，我不过像一个小孩子，在真理的大海边，偶然拾得几个可爱的贝壳玩弄，而真理的大海仍在我的前面，不曾发现。”",
+      "confidence": 1.0
+    },
+    {
+      "id": "r4",
+      "head": "汤姆生",
+      "head_type": "人物",
+      "relation": "相关",
+      "tail": "科学",
+      "tail_type": "概念",
+      "polarity": "positive",
+      "evidence": "现今的物理学大家汤姆生说：“我们占了一峰还有一峰，看看我们的前面，仍旧全是美丽有趣的去处。但是我们看不见目的地和水平线。在较远的地方，还有更高的山，能攀登上去，就能看见更好的景界。科学愈进步而造物的伟大、不可思议也愈显明。”",
+      "confidence": 1.0
+    },
+    {
+      "id": "r5",
+      "head": "人生观",
+      "head_type": "概念",
+      "relation": "导致",
+      "tail": "物质界",
+      "tail_type": "概念",
+      "polarity": "positive",
+      "evidence": "有了这种人生观，才能打破物质界的许多引诱",
+      "confidence": 1.0
+    },
+    {
+      "id": "r6",
+      "head": "科学探讨的精神",
+      "head_type": "概念",
+      "relation": "导致",
+      "tail": "偏见私意",
+      "tail_type": "概念",
+      "polarity": "positive",
+      "evidence": "因为科学探讨的精神，深远而没有界限，所以心中一切偏见私意，都可以打破",
+      "confidence": 1.0
+    }
+  ],
+  "definitions": [
+    {
+      "id": "def1",
+      "term": "科学",
+      "definition": "科学的目的在求真理，且真理是无穷无边的",
+      "evidence": "科学的目的在求真理，而真理是无穷无边的",
+      "confidence": 1.0
+    },
+    {
+      "id": "def2",
+      "term": "科学探讨的精神",
+      "definition": "深远而没有界限，能打破心中一切偏见私意，使人与自然界高远的精神相接触",
+      "evidence": "因为科学探讨的精神，深远而没有界限，所以心中一切偏见私意，都可以打破，使他和自然界高远的精神相接触",
+      "confidence": 1.0
+    }
+  ],
+  "citations": [
+    {
+      "id": "cit1",
+      "citer": "任叔永",
+      "quoted_author": "牛顿",
+      "quoted_work": "",
+      "quoted_claim": "我不晓得世界看我是怎样。我自己觉得，我不过像一个小孩子，在真理的大海边，偶然拾得几个可爱的贝壳玩弄，而真理的大海仍在我的前面，不曾发现",
+      "function": "援引权威支持",
+      "evidence": "牛顿暮年的时候说：“我不晓得世界看我是怎样。我自己觉得，我不过像一个小孩子，在真理的大海边，偶然拾得几个可爱的贝壳玩弄，而真理的大海仍在我的前面，不曾发现。”",
+      "confidence": 1.0
+    },
+    {
+      "id": "cit2",
+      "citer": "任叔永",
+      "quoted_author": "汤姆生",
+      "quoted_work": "",
+      "quoted_claim": "我们占了一峰还有一峰，看看我们的前面，仍旧全是美丽有趣的去处。但是我们看不见目的地和水平线。在较远的地方，还有更高的山，能攀登上去，就能看见更好的景界。科学愈进步而造物的伟大、不可思议也愈显明",
+      "function": "援引权威支持",
+      "evidence": "现今的物理学大家汤姆生说：“我们占了一峰还有一峰，看看我们的前面，仍旧全是美丽有趣的去处。但是我们看不见目的地和水平线。在较远的地方，还有更高的山，能攀登上去，就能看见更好的景界。科学愈进步而造物的伟大、不可思议也愈显明。”",
+      "confidence": 1.0
+    }
+  ],
+  "rhetorical_devices": [
+    {
+      "id": "rh1",
+      "expression": "真理的大海",
+      "device_type": "比喻",
+      "literal_target": "真理的广阔无垠",
+      "function": "形象化说明真理的无穷尽，支持科学人生观",
+      "evidence": "在真理的大海边，偶然拾得几个可爱的贝壳玩弄，而真理的大海仍在我的前面",
+      "confidence": 1.0
+    },
+    {
+      "id": "rh2",
+      "expression": "我们占了一峰还有一峰",
+      "device_type": "比喻",
+      "literal_target": "科学探索不断进步，永无止境",
+      "function": "形象化说明科学进步的无尽性，支持科学人生观",
+      "evidence": "我们占了一峰还有一峰，看看我们的前面，仍旧全是美丽有趣的去处。但是我们看不见目的地和水平线。在较远的地方，还有更高的山，能攀登上去，就能看见更好的景界",
+      "confidence": 1.0
+    },
+    {
+      "id": "rh3",
+      "expression": "荆棘变成康庄",
+      "device_type": "比喻",
+      "literal_target": "科学方法能将困难问题转化为坦途",
+      "function": "形象化说明科学方法的价值，支持科学人生观",
+      "evidence": "把物理或算学上的荆棘变成康庄",
+      "confidence": 1.0
+    },
+    {
+      "id": "rh4",
+      "expression": "研究中的不毛，变成智识及权力的泉源",
+      "device_type": "比喻",
+      "literal_target": "科学方法能将贫瘠的研究领域转化为知识源泉",
+      "function": "形象化说明科学方法的价值，支持科学人生观",
+      "evidence": "研究中的不毛，变成智识及权力的泉源",
+      "confidence": 1.0
+    }
+  ],
+  "uncertainties": [
+    {
+      "item": "赫胥尔的名字在文本中写作'赫诃尔'，是否与'赫胥尔'为同一人",
+      "reason": "文本中写'赫诃尔'，但常见译名为'赫胥尔'，需确认是否指同一人"
+    }
+  ],
+  "_meta": {
+    "status": "success",
+    "stage": "extract",
+    "model": "deepseek-ai/DeepSeek-V4-Flash",
+    "base_url": "https://api.siliconflow.cn/v1",
+    "prompt_version": "extract_prompt_v2.0",
+    "schema_version": "lite_v2.0",
+    "segment_id": "任叔永_000_7ab49e99_s0004",
+    "article_id": "任叔永_000_7ab49e99",
+    "char_start": 2023,
+    "char_end": 2566,
+    "raw_path": "E:\\1研究生\\岭南大学\\论文毕业\\capstone\\资料\\新的内容开始了\\local_upload\\kg_runs\\任叔永\\raw_outputs\\extract\\任叔永_000_7ab49e99_s0004.txt",
+    "parsed_at": "2026-05-19T20:59:37",
+    "started_at": "2026-05-19T20:58:52",
+    "elapsed_seconds": 44.428,
+    "strict_evidence_check": true,
+    "drop_unsupported_evidence": true,
+    "request_timeout_seconds": 180
+  }
+}

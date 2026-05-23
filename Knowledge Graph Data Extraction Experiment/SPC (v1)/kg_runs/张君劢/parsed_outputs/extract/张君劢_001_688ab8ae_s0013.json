@@ -1,0 +1,434 @@
+{
+  "metadata": {
+    "schema_version": "lite_v2.0",
+    "article_id": "张君劢_001_688ab8ae",
+    "article_title": "人生观（中篇）",
+    "source_author": "张君劢",
+    "section_title": "",
+    "section_author": "",
+    "segment_id": "张君劢_001_688ab8ae_s0013",
+    "segment_index": 13,
+    "source_file": "E:\\1研究生\\岭南大学\\论文毕业\\capstone\\资料\\新的内容开始了\\local_upload\\input_w3\\张君劢.txt"
+  },
+  "entities": [
+    {
+      "id": "e1",
+      "name": "物理学",
+      "canonical_name": "物理学",
+      "type": "概念",
+      "evidence": "物理学以物质以爱纳涅为宇宙之本",
+      "confidence": 0.9
+    },
+    {
+      "id": "e2",
+      "name": "物质",
+      "canonical_name": "物质",
+      "type": "概念",
+      "evidence": "物理学以物质以爱纳涅为宇宙之本",
+      "confidence": 0.9
+    },
+    {
+      "id": "e3",
+      "name": "爱纳涅",
+      "canonical_name": "爱纳涅",
+      "type": "概念",
+      "evidence": "物理学以物质以爱纳涅为宇宙之本",
+      "confidence": 0.9
+    },
+    {
+      "id": "e4",
+      "name": "宇宙",
+      "canonical_name": "宇宙",
+      "type": "概念",
+      "evidence": "物理学以物质以爱纳涅为宇宙之本",
+      "confidence": 0.9
+    },
+    {
+      "id": "e5",
+      "name": "种变",
+      "canonical_name": "种变",
+      "type": "概念",
+      "evidence": "种变也，遗传也，进化也，在生物学上视之为定论",
+      "confidence": 0.9
+    },
+    {
+      "id": "e6",
+      "name": "遗传",
+      "canonical_name": "遗传",
+      "type": "概念",
+      "evidence": "种变也，遗传也，进化也，在生物学上视之为定论",
+      "confidence": 0.9
+    },
+    {
+      "id": "e7",
+      "name": "进化",
+      "canonical_name": "进化",
+      "type": "概念",
+      "evidence": "种变也，遗传也，进化也，在生物学上视之为定论",
+      "confidence": 0.9
+    },
+    {
+      "id": "e8",
+      "name": "生物学",
+      "canonical_name": "生物学",
+      "type": "概念",
+      "evidence": "种变也，遗传也，进化也，在生物学上视之为定论",
+      "confidence": 0.9
+    },
+    {
+      "id": "e9",
+      "name": "哲学",
+      "canonical_name": "哲学",
+      "type": "概念",
+      "evidence": "此哲学之所有事者一",
+      "confidence": 0.9
+    },
+    {
+      "id": "e10",
+      "name": "机械的宇宙",
+      "canonical_name": "机械的宇宙",
+      "type": "概念",
+      "evidence": "自物理学视之，此宇宙一机械的宇宙也",
+      "confidence": 0.9
+    },
+    {
+      "id": "e11",
+      "name": "有目的之宇宙",
+      "canonical_name": "有目的之宇宙",
+      "type": "概念",
+      "evidence": "自生物学家视之，此宇宙一有目的之宇宙也",
+      "confidence": 0.9
+    },
+    {
+      "id": "e12",
+      "name": "托氏",
+      "canonical_name": "托尔斯泰",
+      "type": "人物",
+      "evidence": "托氏之论美术曰",
+      "confidence": 0.9
+    },
+    {
+      "id": "e13",
+      "name": "科学",
+      "canonical_name": "科学",
+      "type": "概念",
+      "evidence": "此科学之事",
+      "confidence": 0.9
+    },
+    {
+      "id": "e14",
+      "name": "美术",
+      "canonical_name": "美术",
+      "type": "概念",
+      "evidence": "托氏之论美术曰",
+      "confidence": 0.9
+    },
+    {
+      "id": "e15",
+      "name": "人类",
+      "canonical_name": "人类",
+      "type": "阵营/群体",
+      "evidence": "人类之大目的",
+      "confidence": 0.9
+    },
+    {
+      "id": "e16",
+      "name": "自然界",
+      "canonical_name": "自然界",
+      "type": "概念",
+      "evidence": "人类之大目的，其于自然界",
+      "confidence": 0.9
+    },
+    {
+      "id": "e17",
+      "name": "情感",
+      "canonical_name": "情感",
+      "type": "概念",
+      "evidence": "人者，有情感者也",
+      "confidence": 0.9
+    },
+    {
+      "id": "e18",
+      "name": "理智",
+      "canonical_name": "理智",
+      "type": "概念",
+      "evidence": "不发之于理智，而发之于心",
+      "confidence": 0.9
+    },
+    {
+      "id": "e19",
+      "name": "心",
+      "canonical_name": "心",
+      "type": "概念",
+      "evidence": "不发之于理智，而发之于心",
+      "confidence": 0.9
+    },
+    {
+      "id": "e20",
+      "name": "诗歌",
+      "canonical_name": "诗歌",
+      "type": "概念",
+      "evidence": "有诗人焉，寄其所感于诗歌",
+      "confidence": 0.9
+    },
+    {
+      "id": "e21",
+      "name": "科学之价值",
+      "canonical_name": "科学之价值",
+      "type": "概念",
+      "evidence": "吾人深信科学之价值，在求得叙述的公式",
+      "confidence": 0.9
+    },
+    {
+      "id": "e22",
+      "name": "叙述的公式",
+      "canonical_name": "叙述的公式",
+      "type": "概念",
+      "evidence": "吾人深信科学之价值，在求得叙述的公式",
+      "confidence": 0.9
+    },
+    {
+      "id": "e23",
+      "name": "宗教之情感",
+      "canonical_name": "宗教之情感",
+      "type": "概念",
+      "evidence": "吾信崇拜自然之诗歌与宗教之情感，可以与科学相辅而行",
+      "confidence": 0.9
+    },
+    {
+      "id": "e24",
+      "name": "直觉的冲动的",
+      "canonical_name": "直觉的冲动的",
+      "type": "概念",
+      "evidence": "此二者，直觉的冲动的也，非理智的也",
+      "confidence": 0.9
+    }
+  ],
+  "claims": [
+    {
+      "id": "c1",
+      "speaker": "张君劢",
+      "claim": "物理学以物质以爱纳涅为宇宙之本，一若有此二者，则宇宙可以立就。",
+      "target": "物理学",
+      "claim_type": "知识论主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "物理学以物质以爱纳涅为宇宙之本，一若有此二者，则宇宙可以立就。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c2",
+      "speaker": "张君劢",
+      "claim": "所谓物质所谓爱纳涅，其在大宇宙中，应作何解，不可不加研究。",
+      "target": "物质",
+      "claim_type": "问题提出",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "抑知所谓物质所谓爱纳涅，其在大宇宙中，应作何解，不可不加研究。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c3",
+      "speaker": "张君劢",
+      "claim": "种变、遗传、进化在生物学上视之为定论，然其意义是否正确，亦不可不经一番研究。",
+      "target": "生物学",
+      "claim_type": "知识论主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "种变也，遗传也，进化也，在生物学上视之为定论；然此数者之意义，是否正确，亦不可不经一番研究。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c4",
+      "speaker": "张君劢",
+      "claim": "为一科学思想之彻底计不可不有批评之者，此哲学之所有事者一。",
+      "target": "哲学",
+      "claim_type": "方法论主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "此为一科学思想之彻底计不可不有批评之者，此哲学之所有事者一。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c5",
+      "speaker": "张君劢",
+      "claim": "自物理学视之，此宇宙一机械的宇宙也；自生物学家视之，此宇宙一有目的之宇宙也。究竟此两种宇宙观如何使之合一，以成一彻始彻终之宇宙观，此哲学之所有事者二。",
+      "target": "宇宙",
+      "claim_type": "问题提出",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "自物理学视之，此宇宙一机械的宇宙也；自生物学家视之，此宇宙一有目的之宇宙也。究竟此两种宇宙观如何使之合一，以成一彻始彻终之宇宙观，此哲学之所有事者二。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c6",
+      "speaker": "托氏",
+      "claim": "人类之大目的，其于自然界，不仅知之，——此科学之事——又在能享受之。",
+      "target": "人类",
+      "claim_type": "价值评价",
+      "claim_status": "直接引用",
+      "polarity": "positive",
+      "evidence": "人类之大目的，其于自然界，不仅知之，——此科学之事——又在能享受之。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c7",
+      "speaker": "托氏",
+      "claim": "人者，有情感者也。其与自然界语也，不发之于理智，而发之于心。",
+      "target": "人",
+      "claim_type": "本体论主张",
+      "claim_status": "直接引用",
+      "polarity": "positive",
+      "evidence": "人者，有情感者也。其与自然界语也，不发之于理智，而发之于心。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c8",
+      "speaker": "托氏",
+      "claim": "吾人深信科学之价值，在求得叙述的公式，使人之理解与实行上便于把捉自然界。",
+      "target": "科学之价值",
+      "claim_type": "定义性主张",
+      "claim_status": "直接引用",
+      "polarity": "positive",
+      "evidence": "吾人深信科学之价值，在求得叙述的公式，使人之理解与实行上便于把捉自然界。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c9",
+      "speaker": "托氏",
+      "claim": "以云科学之结论，谓能令人满意，则吾人殊不之觉。",
+      "target": "科学",
+      "claim_type": "价值评价",
+      "claim_status": "直接引用",
+      "polarity": "negative",
+      "evidence": "以云科学之结论，谓能令人满意，则吾人殊不之觉。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c10",
+      "speaker": "托氏",
+      "claim": "人之于宇宙必欲解释其由来。有人语吾辈曰，此种希冀，殊不正当。然吾人初不为所动。",
+      "target": "人",
+      "claim_type": "知识论主张",
+      "claim_status": "直接引用",
+      "polarity": "positive",
+      "evidence": "人之于宇宙必欲解释其由来。有人语吾辈曰，此种希冀，殊不正当。然吾人初不为所动。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c11",
+      "speaker": "托氏",
+      "claim": "吾信崇拜自然之诗歌与宗教之情感，可以与科学相辅而行。此二者，直觉的冲动的也，非理智的也。",
+      "target": "科学",
+      "claim_type": "知识论主张",
+      "claim_status": "直接引用",
+      "polarity": "positive",
+      "evidence": "吾信崇拜自然之诗歌与宗教之情感，可以与科学相辅而行。此二者，直觉的冲动的也，非理智的也。",
+      "confidence": 0.9
+    }
+  ],
+  "relations": [
+    {
+      "id": "r1",
+      "head": "张君劢",
+      "head_type": "人物",
+      "relation": "批评",
+      "tail": "物理学",
+      "tail_type": "概念",
+      "polarity": "negative",
+      "evidence": "物理学以物质以爱纳涅为宇宙之本，一若有此二者，则宇宙可以立就。抑知所谓物质所谓爱纳涅，其在大宇宙中，应作何解，不可不加研究。",
+      "confidence": 0.9
+    },
+    {
+      "id": "r2",
+      "head": "张君劢",
+      "head_type": "人物",
+      "relation": "批评",
+      "tail": "生物学",
+      "tail_type": "概念",
+      "polarity": "negative",
+      "evidence": "种变也，遗传也，进化也，在生物学上视之为定论；然此数者之意义，是否正确，亦不可不经一番研究。",
+      "confidence": 0.9
+    },
+    {
+      "id": "r3",
+      "head": "张君劢",
+      "head_type": "人物",
+      "relation": "主张",
+      "tail": "哲学",
+      "tail_type": "概念",
+      "polarity": "positive",
+      "evidence": "此为一科学思想之彻底计不可不有批评之者，此哲学之所有事者一。",
+      "confidence": 0.9
+    },
+    {
+      "id": "r4",
+      "head": "张君劢",
+      "head_type": "人物",
+      "relation": "主张",
+      "tail": "哲学",
+      "tail_type": "概念",
+      "polarity": "positive",
+      "evidence": "究竟此两种宇宙观如何使之合一，以成一彻始彻终之宇宙观，此哲学之所有事者二。",
+      "confidence": 0.9
+    },
+    {
+      "id": "r5",
+      "head": "张君劢",
+      "head_type": "人物",
+      "relation": "相关",
+      "tail": "托氏",
+      "tail_type": "人物",
+      "polarity": "positive",
+      "evidence": "托氏之论美术曰",
+      "confidence": 0.9
+    }
+  ],
+  "definitions": [
+    {
+      "id": "def1",
+      "term": "科学之价值",
+      "definition": "在求得叙述的公式，使人之理解与实行上便于把捉自然界。",
+      "evidence": "吾人深信科学之价值，在求得叙述的公式，使人之理解与实行上便于把捉自然界。",
+      "confidence": 0.9
+    },
+    {
+      "id": "def2",
+      "term": "直觉的冲动的",
+      "definition": "非理智的，属于诗歌与宗教之情感的性质。",
+      "evidence": "此二者，直觉的冲动的也，非理智的也。",
+      "confidence": 0.9
+    }
+  ],
+  "citations": [],
+  "rhetorical_devices": [],
+  "uncertainties": [
+    {
+      "item": "托氏具体指哪位思想家",
+      "reason": "文本中仅称'托氏'，未给出全名，无法确定是托尔斯泰还是其他人物。"
+    },
+    {
+      "item": "爱纳涅的具体含义",
+      "reason": "文本中仅出现'爱纳涅'一词，未给出解释，可能是音译术语。"
+    }
+  ],
+  "_meta": {
+    "status": "success",
+    "stage": "extract",
+    "model": "deepseek-ai/DeepSeek-V4-Flash",
+    "base_url": "https://api.siliconflow.cn/v1",
+    "prompt_version": "extract_prompt_v2.0",
+    "schema_version": "lite_v2.0",
+    "segment_id": "张君劢_001_688ab8ae_s0013",
+    "article_id": "张君劢_001_688ab8ae",
+    "char_start": 6581,
+    "char_end": 7170,
+    "raw_path": "E:\\1研究生\\岭南大学\\论文毕业\\capstone\\资料\\新的内容开始了\\local_upload\\kg_runs\\张君劢\\raw_outputs\\extract\\张君劢_001_688ab8ae_s0013.txt",
+    "parsed_at": "2026-05-20T02:53:12",
+    "started_at": "2026-05-20T02:50:22",
+    "elapsed_seconds": 170.013,
+    "strict_evidence_check": true,
+    "drop_unsupported_evidence": true,
+    "request_timeout_seconds": 180
+  }
+}

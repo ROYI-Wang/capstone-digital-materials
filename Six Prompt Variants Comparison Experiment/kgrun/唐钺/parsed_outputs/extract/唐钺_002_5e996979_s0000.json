@@ -1,0 +1,304 @@
+{
+  "metadata": {
+    "schema_version": "lite_v2.0",
+    "article_id": "唐钺_002_5e996979",
+    "article_title": "一个痴人的说梦 ——情感真是超科学的吗？",
+    "source_author": "唐钺",
+    "section_title": "",
+    "section_author": "",
+    "segment_id": "唐钺_002_5e996979_s0000",
+    "segment_index": 0,
+    "source_file": "E:\\1研究生\\岭南大学\\论文毕业\\capstone\\资料\\新的内容开始了\\local_upload\\input_w1\\唐钺.txt"
+  },
+  "entities": [
+    {
+      "id": "e1",
+      "name": "梁任公",
+      "canonical_name": "梁启超",
+      "type": "人物",
+      "evidence": "梁任公在本年五月二十九日《晨报》附刊上发表一篇文章",
+      "confidence": 1.0
+    },
+    {
+      "id": "e2",
+      "name": "《晨报》",
+      "canonical_name": "晨报",
+      "type": "著作",
+      "evidence": "梁任公在本年五月二十九日《晨报》附刊上发表一篇文章",
+      "confidence": 1.0
+    },
+    {
+      "id": "e3",
+      "name": "《人生观与科学，——对于张丁论战的批评，其一》",
+      "canonical_name": "人生观与科学，——对于张丁论战的批评，其一",
+      "type": "著作",
+      "evidence": "梁任公在本年五月二十九日《晨报》附刊上发表一篇文章，叫做《人生观与科学，——对于张丁论战的批评，其一》",
+      "confidence": 1.0
+    },
+    {
+      "id": "e4",
+      "name": "科学",
+      "canonical_name": "科学",
+      "type": "概念",
+      "evidence": "关于感情方面的事项，绝对的超科学",
+      "confidence": 1.0
+    },
+    {
+      "id": "e5",
+      "name": "情感",
+      "canonical_name": "情感",
+      "type": "概念",
+      "evidence": "情感……内中最少有两件的确确带有神秘性的，就是‘爱’和‘美’",
+      "confidence": 1.0
+    },
+    {
+      "id": "e6",
+      "name": "爱",
+      "canonical_name": "爱",
+      "type": "概念",
+      "evidence": "情感……内中最少有两件的确确带有神秘性的，就是‘爱’和‘美’",
+      "confidence": 1.0
+    },
+    {
+      "id": "e7",
+      "name": "美",
+      "canonical_name": "美",
+      "type": "概念",
+      "evidence": "情感……内中最少有两件的确确带有神秘性的，就是‘爱’和‘美’",
+      "confidence": 1.0
+    },
+    {
+      "id": "e8",
+      "name": "科学方法",
+      "canonical_name": "科学方法",
+      "type": "方法",
+      "evidence": "想用科学方法支配他（指爱和美）",
+      "confidence": 1.0
+    },
+    {
+      "id": "e9",
+      "name": "张丁论战",
+      "canonical_name": "张丁论战",
+      "type": "历史事件",
+      "evidence": "《人生观与科学，——对于张丁论战的批评，其一》",
+      "confidence": 1.0
+    }
+  ],
+  "claims": [
+    {
+      "id": "c1",
+      "speaker": "梁任公",
+      "claim": "人生关涉理智方面的事项，绝对要用科学方法来解决。关于感情方面的事项，绝对的超科学。",
+      "target": "科学",
+      "claim_type": "定义性主张",
+      "claim_status": "直接引用",
+      "polarity": "positive",
+      "evidence": "人生关涉理智方面的事项，绝对要用科学方法来解决。关于感情方面的事项，绝对的超科学。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c2",
+      "speaker": "唐钺",
+      "claim": "梁任公结论的前半（理智方面要用科学方法解决）我没有闲言。",
+      "target": "梁任公",
+      "claim_type": "价值评价",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "这结论的前半，我是没有闲言的。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c3",
+      "speaker": "唐钺",
+      "claim": "梁任公结论的后半（感情方面超科学）我实在不敢赞同。",
+      "target": "梁任公",
+      "claim_type": "反驳性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "他的后半，我实在不敢赞同。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c4",
+      "speaker": "唐钺",
+      "claim": "我主张用科学方法来解释爱情。",
+      "target": "科学方法",
+      "claim_type": "方法论主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "我正是主张这样解释爱情的。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c5",
+      "speaker": "梁任公",
+      "claim": "情感中‘爱’和‘美’带有神秘性。",
+      "target": "情感",
+      "claim_type": "定义性主张",
+      "claim_status": "直接引用",
+      "polarity": "positive",
+      "evidence": "情感……内中最少有两件的确确带有神秘性的，就是‘爱’和‘美’。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c6",
+      "speaker": "唐钺",
+      "claim": "梁任公所谓‘神秘’大抵是（甲）不可分析，和（乙）不可理解。",
+      "target": "梁任公",
+      "claim_type": "定义性主张",
+      "claim_status": "作者概括",
+      "polarity": "neutral",
+      "evidence": "据他下文所说，大抵是（甲）不可分析，和（乙）不可理解。",
+      "confidence": 0.8
+    },
+    {
+      "id": "c7",
+      "speaker": "唐钺",
+      "claim": "不可理解是因为不可分析；若是可以分析，就可以理解。",
+      "target": "情感",
+      "claim_type": "知识论主张",
+      "claim_status": "作者推论",
+      "polarity": "positive",
+      "evidence": "但是不可理解是因为不可分析；若是可以分析，就可以理解；所以下文只就分析方面说。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c8",
+      "speaker": "唐钺",
+      "claim": "美和爱可否分析与他的价值的高低无关。",
+      "target": "爱",
+      "claim_type": "知识论主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "美和爱可否分析与他的价值的高低无关。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c9",
+      "speaker": "梁任公",
+      "claim": "想用科学方法支配爱和美，无论不可能，即能，也把人生弄成死的没有价值了。",
+      "target": "科学方法",
+      "claim_type": "价值评价",
+      "claim_status": "直接引用",
+      "polarity": "negative",
+      "evidence": "想用科学方法支配他（指爱和美），无论不可能，即能，也把人生弄成死的没有价值了。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c10",
+      "speaker": "唐钺",
+      "claim": "梁任公这种话（用科学方法支配爱和美会弄成没有价值）是用不着反驳的，因为我们论事实的时候，不能羼入价值问题。",
+      "target": "梁任公",
+      "claim_type": "论战策略批评",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "这种话是用不着反驳的。因为我们论事实的时候，不能羼入价值问题。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c11",
+      "speaker": "唐钺",
+      "claim": "科学方法是否有支配爱和美的能力，暂且不论。",
+      "target": "科学方法",
+      "claim_type": "问题提出",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "科学方法是否有支配爱和美的能力，暂且不论；",
+      "confidence": 1.0
+    }
+  ],
+  "relations": [
+    {
+      "id": "r1",
+      "head": "不可理解",
+      "head_type": "概念",
+      "relation": "归因于",
+      "tail": "不可分析",
+      "tail_type": "概念",
+      "polarity": "positive",
+      "evidence": "但是不可理解是因为不可分析；若是可以分析，就可以理解；所以下文只就分析方面说。",
+      "confidence": 1.0
+    }
+  ],
+  "definitions": [],
+  "citations": [
+    {
+      "id": "cit1",
+      "citer": "唐钺",
+      "quoted_author": "梁任公",
+      "quoted_work": "《人生观与科学，——对于张丁论战的批评，其一》",
+      "quoted_claim": "情感……内中最少有两件的确确带有神秘性的，就是‘爱’和‘美’。",
+      "function": "作为批评对象",
+      "evidence": "任公说：“情感……内中最少有两件的确确带有神秘性的，就是‘爱’和‘美’。”",
+      "confidence": 1.0
+    },
+    {
+      "id": "cit2",
+      "citer": "唐钺",
+      "quoted_author": "梁任公",
+      "quoted_work": "《人生观与科学，——对于张丁论战的批评，其一》",
+      "quoted_claim": "想用科学方法支配他（指爱和美），无论不可能，即能，也把人生弄成死的没有价值了。",
+      "function": "作为批评对象",
+      "evidence": "任公说：“……想用科学方法支配他（指爱和美），无论不可能，即能，也把人生弄成死的没有价值了。”",
+      "confidence": 1.0
+    }
+  ],
+  "rhetorical_devices": [
+    {
+      "id": "rh1",
+      "expression": "痴人说梦",
+      "device_type": "比喻",
+      "literal_target": "主张以科学方法解释爱情的人",
+      "function": "梁任公用此比喻贬低主张以科学解释爱情的人，唐钺反用此自称以表达坚持立场。",
+      "evidence": "任公骂要以科学方法来解释爱情的是“痴人说梦”。但是，我正是主张这样解释爱情的。我倒情愿做一个痴人，在不痴的人面前说一点我的梦话",
+      "confidence": 1.0
+    },
+    {
+      "id": "rh2",
+      "expression": "花长好，月常圆",
+      "device_type": "比喻",
+      "literal_target": "人们希望爱和美不受科学支配的理想状态",
+      "function": "用此比喻说明价值愿望不能改变事实，反驳梁任公以价值问题否定科学支配爱和美的可能性。",
+      "evidence": "因为我们论事实的时候，不能羼入价值问题。譬如我们谁不愿“花长好，月常圆”呢？然而实际上花月不如此，难道我们可以不认这不如人意的事实吗？",
+      "confidence": 1.0
+    },
+    {
+      "id": "rh3",
+      "expression": "杞忧",
+      "device_type": "比喻",
+      "literal_target": "梁任公担心科学支配爱和美会使人生没有价值",
+      "function": "用‘杞忧’典故讽刺梁任公的担忧是多余的。",
+      "evidence": "请任公不必抱杞忧。",
+      "confidence": 1.0
+    }
+  ],
+  "uncertainties": [
+    {
+      "item": "梁任公对‘神秘’的定义是否确实如唐钺所概括的‘不可分析’和‘不可理解’",
+      "reason": "唐钺说‘据他下文所说，大抵是（甲）不可分析，和（乙）不可理解’，但当前文本未提供梁任公原文，无法确认。"
+    },
+    {
+      "item": "唐钺说‘科学方法是否有支配爱和美的能力，暂且不论’是否意味着他将在后续文本中讨论此问题",
+      "reason": "当前文本片段到此结束，未提供后续内容。"
+    }
+  ],
+  "_meta": {
+    "status": "success",
+    "stage": "extract",
+    "model": "deepseek-ai/DeepSeek-V4-Flash",
+    "base_url": "https://api.siliconflow.cn/v1",
+    "prompt_version": "extract_prompt_v2.0",
+    "schema_version": "lite_v2.0",
+    "segment_id": "唐钺_002_5e996979_s0000",
+    "article_id": "唐钺_002_5e996979",
+    "char_start": 0,
+    "char_end": 576,
+    "raw_path": "E:\\1研究生\\岭南大学\\论文毕业\\capstone\\资料\\新的内容开始了\\local_upload\\kg_runs\\唐钺\\raw_outputs\\extract\\唐钺_002_5e996979_s0000.txt",
+    "parsed_at": "2026-05-20T02:09:56",
+    "started_at": "2026-05-20T02:09:29",
+    "elapsed_seconds": 27.239,
+    "strict_evidence_check": true,
+    "drop_unsupported_evidence": true,
+    "request_timeout_seconds": 180
+  }
+}

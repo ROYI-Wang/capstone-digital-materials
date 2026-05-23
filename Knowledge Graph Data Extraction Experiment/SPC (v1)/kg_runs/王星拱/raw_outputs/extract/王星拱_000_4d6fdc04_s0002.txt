@@ -1,0 +1,454 @@
+{
+  "metadata": {
+    "schema_version": "lite_v2.0",
+    "article_id": "王星拱_000_4d6fdc04",
+    "article_title": "科学与人生观",
+    "source_author": "王星拱",
+    "section_title": "",
+    "section_author": "",
+    "segment_id": "王星拱_000_4d6fdc04_s0002",
+    "segment_index": 2,
+    "source_file": "E:\\1研究生\\岭南大学\\论文毕业\\capstone\\资料\\新的内容开始了\\local_upload\\input_w1\\王星拱.txt"
+  },
+  "entities": [
+    {
+      "id": "e1",
+      "name": "王星拱",
+      "canonical_name": "王星拱",
+      "type": "人物",
+      "evidence": "现在我也要从这两个意义上面，略为讨论一番。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e2",
+      "name": "宗教家",
+      "canonical_name": "宗教家",
+      "type": "阵营/群体",
+      "evidence": "的态度，与宗教家及美术家的态度实在是不同的。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e3",
+      "name": "美术家",
+      "canonical_name": "美术家",
+      "type": "阵营/群体",
+      "evidence": "的态度，与宗教家及美术家的态度实在是不同的。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e4",
+      "name": "科学",
+      "canonical_name": "科学",
+      "type": "概念",
+      "evidence": "科学所凭藉以构造起来的，有两个原理:(一）是因果之原理（Causality),(二）是齐一之原理（Uniformity）。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e5",
+      "name": "人生观",
+      "canonical_name": "人生观",
+      "type": "概念",
+      "evidence": "科学是否能应用于人生观？",
+      "confidence": 0.9
+    },
+    {
+      "id": "e6",
+      "name": "因果之原理",
+      "canonical_name": "因果之原理",
+      "type": "概念",
+      "evidence": "科学所凭藉以构造起来的，有两个原理:(一）是因果之原理（Causality),(二）是齐一之原理（Uniformity）。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e7",
+      "name": "齐一之原理",
+      "canonical_name": "齐一之原理",
+      "type": "概念",
+      "evidence": "科学所凭藉以构造起来的，有两个原理:(一）是因果之原理（Causality),(二）是齐一之原理（Uniformity）。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e8",
+      "name": "因果的关系",
+      "canonical_name": "因果关系",
+      "type": "概念",
+      "evidence": "宇宙中之各种现象，必定有因果的关系，没有无因而至的，也没有不生效果的。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e9",
+      "name": "可分之原理",
+      "canonical_name": "可分之原理",
+      "type": "概念",
+      "evidence": "这个原理里边，包含着可分之原理（Divisibility）或多元之原理（Pluralism）。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e10",
+      "name": "多元之原理",
+      "canonical_name": "多元之原理",
+      "type": "概念",
+      "evidence": "这个原理里边，包含着可分之原理（Divisibility）或多元之原理（Pluralism）。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e11",
+      "name": "布拉德烈",
+      "canonical_name": "布拉德烈",
+      "type": "人物",
+      "evidence": "布拉德烈（Bradley）说：我不懂得何以糖是甜的？",
+      "confidence": 0.9
+    },
+    {
+      "id": "e12",
+      "name": "庄子",
+      "canonical_name": "庄子",
+      "type": "人物",
+      "evidence": "庄子说：“今日适越而昔至”“庸讵知天之非人乎？庸讵知人之非天乎？”",
+      "confidence": 0.9
+    },
+    {
+      "id": "e13",
+      "name": "宇宙",
+      "canonical_name": "宇宙",
+      "type": "概念",
+      "evidence": "宇宙中之各种现象，必定有因果的关系",
+      "confidence": 0.9
+    },
+    {
+      "id": "e14",
+      "name": "糖",
+      "canonical_name": "糖",
+      "type": "例证",
+      "evidence": "布拉德烈（Bradley）说：我不懂得何以糖是甜的？",
+      "confidence": 0.9
+    },
+    {
+      "id": "e15",
+      "name": "甜",
+      "canonical_name": "甜",
+      "type": "例证",
+      "evidence": "布拉德烈（Bradley）说：我不懂得何以糖是甜的？",
+      "confidence": 0.9
+    }
+  ],
+  "claims": [
+    {
+      "id": "c1",
+      "speaker": "王星拱",
+      "claim": "科学的态度与宗教家及美术家的态度实在是不同的。",
+      "target": "科学",
+      "claim_type": "定义性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "的态度，与宗教家及美术家的态度实在是不同的。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c2",
+      "speaker": "王星拱",
+      "claim": "科学所凭藉以构造起来的有两个原理：因果之原理和齐一之原理。",
+      "target": "科学",
+      "claim_type": "定义性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "科学所凭藉以构造起来的，有两个原理:(一）是因果之原理（Causality),(二）是齐一之原理（Uniformity）。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c3",
+      "speaker": "王星拱",
+      "claim": "宇宙中之各种现象必定有因果关系，没有无因而至的，也没有不生效果的。",
+      "target": "因果之原理",
+      "claim_type": "定义性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "宇宙中之各种现象，必定有因果的关系，没有无因而至的，也没有不生效果的。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c4",
+      "speaker": "王星拱",
+      "claim": "因果之原理包含着可分之原理或多元之原理。",
+      "target": "因果之原理",
+      "claim_type": "定义性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "这个原理里边，包含着可分之原理（Divisibility）或多元之原理（Pluralism）。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c5",
+      "speaker": "王星拱",
+      "claim": "因为辨别出来何者为因何者为果，那已经把宇宙分成零零碎碎的块片了。",
+      "target": "因果之原理",
+      "claim_type": "知识论主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "因为辨别出来何者为因，何者为果，那已经把宇宙分成零零碎碎的块片了。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c6",
+      "speaker": "布拉德烈",
+      "claim": "我不懂得何以糖是甜的？",
+      "target": "因果之原理",
+      "claim_type": "知识论主张",
+      "claim_status": "直接引用",
+      "polarity": "negative",
+      "evidence": "布拉德烈（Bradley）说：我不懂得何以糖是甜的？",
+      "confidence": 0.9
+    },
+    {
+      "id": "c7",
+      "speaker": "王星拱",
+      "claim": "依因果之原理来讲：因为糖中有糖质，所以糖是甜的。",
+      "target": "因果之原理",
+      "claim_type": "知识论主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "依因果之原理来讲：因为糖中有糖质，所以糖是甜的。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c8",
+      "speaker": "王星拱",
+      "claim": "这里又要发生两个问题：一是何以糖中有糖质？二是何以糖质是甜的？再往下追寻可以至于无限，而糖与甜两个的因果关系，永远接续不起来。",
+      "target": "因果之原理",
+      "claim_type": "问题提出",
+      "claim_status": "作者推论",
+      "polarity": "neutral",
+      "evidence": "但是这里又要发生两个问题：一是何以糖中有糖质？二是何以糖质是甜的？再往下追寻可以至于无限，而糖与甜两个的因果关系，永远接续不起来。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c9",
+      "speaker": "布拉德烈",
+      "claim": "原来就没有糖是甜的这样一回事。",
+      "target": "因果之原理",
+      "claim_type": "结论性主张",
+      "claim_status": "直接引用",
+      "polarity": "negative",
+      "evidence": "所以他的结论是：“原来就没有糖是甜的这样一回事。”",
+      "confidence": 0.9
+    },
+    {
+      "id": "c10",
+      "speaker": "庄子",
+      "claim": "今日适越而昔至。",
+      "target": "宇宙",
+      "claim_type": "知识论主张",
+      "claim_status": "直接引用",
+      "polarity": "neutral",
+      "evidence": "庄子说：“今日适越而昔至”",
+      "confidence": 0.9
+    },
+    {
+      "id": "c11",
+      "speaker": "庄子",
+      "claim": "庸讵知天之非人乎？庸讵知人之非天乎？",
+      "target": "宇宙",
+      "claim_type": "知识论主张",
+      "claim_status": "直接引用",
+      "polarity": "neutral",
+      "evidence": "庄子说：“今日适越而昔至”“庸讵知天之非人乎？庸讵知人之非天乎？”",
+      "confidence": 0.9
+    },
+    {
+      "id": "c12",
+      "speaker": "王星拱",
+      "claim": "有些哲学家以为宇宙是不可分的，故对于这个原理，极端反对。",
+      "target": "因果之原理",
+      "claim_type": "知识论主张",
+      "claim_status": "作者概括",
+      "polarity": "negative",
+      "evidence": "有些哲学家以为宇宙是不可分的，故对于这个原理，极端反对。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c13",
+      "speaker": "王星拱",
+      "claim": "庄子的话也是宇宙不可分析的意思。",
+      "target": "庄子",
+      "claim_type": "历史解释",
+      "claim_status": "作者概括",
+      "polarity": "positive",
+      "evidence": "庄子说：“今日适越而昔至”“庸讵知天之非人乎？庸讵知人之非天乎？”也是宇宙不可分析的意思。",
+      "confidence": 0.9
+    }
+  ],
+  "relations": [
+    {
+      "id": "r1",
+      "head": "科学",
+      "head_type": "概念",
+      "relation": "包含",
+      "relation_subtype": "不适用",
+      "tail": "因果之原理",
+      "tail_type": "概念",
+      "polarity": "positive",
+      "evidence": "科学所凭藉以构造起来的，有两个原理:(一）是因果之原理（Causality),(二）是齐一之原理（Uniformity）。",
+      "confidence": 0.9
+    },
+    {
+      "id": "r2",
+      "head": "科学",
+      "head_type": "概念",
+      "relation": "包含",
+      "relation_subtype": "不适用",
+      "tail": "齐一之原理",
+      "tail_type": "概念",
+      "polarity": "positive",
+      "evidence": "科学所凭藉以构造起来的，有两个原理:(一）是因果之原理（Causality),(二）是齐一之原理（Uniformity）。",
+      "confidence": 0.9
+    },
+    {
+      "id": "r3",
+      "head": "因果之原理",
+      "head_type": "概念",
+      "relation": "包含",
+      "relation_subtype": "不适用",
+      "tail": "可分之原理",
+      "tail_type": "概念",
+      "polarity": "positive",
+      "evidence": "这个原理里边，包含着可分之原理（Divisibility）或多元之原理（Pluralism）。",
+      "confidence": 0.9
+    },
+    {
+      "id": "r4",
+      "head": "因果之原理",
+      "head_type": "概念",
+      "relation": "包含",
+      "relation_subtype": "不适用",
+      "tail": "多元之原理",
+      "tail_type": "概念",
+      "polarity": "positive",
+      "evidence": "这个原理里边，包含着可分之原理（Divisibility）或多元之原理（Pluralism）。",
+      "confidence": 0.9
+    },
+    {
+      "id": "r5",
+      "head": "布拉德烈",
+      "head_type": "人物",
+      "relation": "反对",
+      "relation_subtype": "逻辑反驳",
+      "tail": "因果之原理",
+      "tail_type": "概念",
+      "polarity": "negative",
+      "evidence": "有些哲学家以为宇宙是不可分的，故对于这个原理，极端反对。姑举一例而言：布拉德烈（Bradley）说：我不懂得何以糖是甜的？",
+      "confidence": 0.9
+    },
+    {
+      "id": "r6",
+      "head": "庄子",
+      "head_type": "人物",
+      "relation": "反对",
+      "relation_subtype": "逻辑反驳",
+      "tail": "因果之原理",
+      "tail_type": "概念",
+      "polarity": "negative",
+      "evidence": "庄子说：“今日适越而昔至”“庸讵知天之非人乎？庸讵知人之非天乎？”也是宇宙不可分析的意思。",
+      "confidence": 0.9
+    },
+    {
+      "id": "r7",
+      "head": "王星拱",
+      "head_type": "人物",
+      "relation": "引用",
+      "relation_subtype": "作为批评对象",
+      "tail": "布拉德烈",
+      "tail_type": "人物",
+      "polarity": "negative",
+      "evidence": "姑举一例而言：布拉德烈（Bradley）说：我不懂得何以糖是甜的？",
+      "confidence": 0.9
+    },
+    {
+      "id": "r8",
+      "head": "王星拱",
+      "head_type": "人物",
+      "relation": "引用",
+      "relation_subtype": "作为批评对象",
+      "tail": "庄子",
+      "tail_type": "人物",
+      "polarity": "negative",
+      "evidence": "庄子说：“今日适越而昔至”“庸讵知天之非人乎？庸讵知人之非天乎？”也是宇宙不可分析的意思。",
+      "confidence": 0.9
+    }
+  ],
+  "definitions": [
+    {
+      "id": "def1",
+      "term": "因果之原理",
+      "definition": "宇宙中之各种现象必定有因果关系，没有无因而至的，也没有不生效果的。",
+      "evidence": "宇宙中之各种现象，必定有因果的关系，没有无因而至的，也没有不生效果的。",
+      "confidence": 0.9
+    },
+    {
+      "id": "def2",
+      "term": "可分之原理",
+      "definition": "因果之原理包含着可分之原理，即把宇宙分成零零碎碎的块片。",
+      "evidence": "这个原理里边，包含着可分之原理（Divisibility）或多元之原理（Pluralism）。因为辨别出来何者为因，何者为果，那已经把宇宙分成零零碎碎的块片了。",
+      "confidence": 0.9
+    },
+    {
+      "id": "def3",
+      "term": "多元之原理",
+      "definition": "因果之原理包含着多元之原理，即把宇宙分成零零碎碎的块片。",
+      "evidence": "这个原理里边，包含着可分之原理（Divisibility）或多元之原理（Pluralism）。因为辨别出来何者为因，何者为果，那已经把宇宙分成零零碎碎的块片了。",
+      "confidence": 0.9
+    }
+  ],
+  "citations": [
+    {
+      "id": "cit1",
+      "citer": "王星拱",
+      "quoted_author": "布拉德烈",
+      "quoted_work": "",
+      "quoted_claim": "我不懂得何以糖是甜的？",
+      "function": "作为批评对象",
+      "evidence": "姑举一例而言：布拉德烈（Bradley）说：我不懂得何以糖是甜的？",
+      "confidence": 0.9
+    },
+    {
+      "id": "cit2",
+      "citer": "王星拱",
+      "quoted_author": "布拉德烈",
+      "quoted_work": "",
+      "quoted_claim": "原来就没有糖是甜的这样一回事。",
+      "function": "作为批评对象",
+      "evidence": "所以他的结论是：“原来就没有糖是甜的这样一回事。”",
+      "confidence": 0.9
+    },
+    {
+      "id": "cit3",
+      "citer": "王星拱",
+      "quoted_author": "庄子",
+      "quoted_work": "",
+      "quoted_claim": "今日适越而昔至。庸讵知天之非人乎？庸讵知人之非天乎？",
+      "function": "作为批评对象",
+      "evidence": "庄子说：“今日适越而昔至”“庸讵知天之非人乎？庸讵知人之非天乎？”",
+      "confidence": 0.9
+    }
+  ],
+  "rhetorical_devices": [
+    {
+      "id": "rh1",
+      "expression": "零零碎碎的块片",
+      "device_type": "比喻",
+      "literal_target": "宇宙被分析成部分",
+      "function": "形象化说明因果之原理导致宇宙被分割",
+      "evidence": "那已经把宇宙分成零零碎碎的块片了。",
+      "confidence": 0.9
+    }
+  ],
+  "uncertainties": [
+    {
+      "item": "文本开头“的态度”前缺少主语，无法确定“的态度”具体指谁的态度。",
+      "reason": "文本以“的态度”开头，前文缺失，无法判断主语。"
+    },
+    {
+      "item": "“这两个名词”具体指哪两个名词？",
+      "reason": "文本提到“这两个名词的界说”，但未在当前片段中明确说明是哪两个名词。"
+    }
+  ]
+}

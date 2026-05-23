@@ -1,0 +1,286 @@
+{
+  "metadata": {
+    "schema_version": "lite_v2.0",
+    "article_id": "张东荪_000_a9bf05ee",
+    "article_title": "劳而无功 —— 评丁在君先生口中的科学",
+    "source_author": "张东荪",
+    "section_title": "丁在君先生为反对张君劢先生的“人生观”，于是拿了“科学”来打“玄学”。迄至昨日止，我已拜读了他的洋洋大文两篇了。我读了他的第一篇文章时候，就觉得有许多话非说不可，但我仍是暂时忍着。后来看见林宰平先生一篇文章，我真跳起来。凡我所蓄于肚里，所要说的话差不多都被林先生说出来了。我十分佩服林先生，却又十分感激林先生，因为这一下我既可不闷得难受，又可不必写得手酸。我肚里的意思虽经林先生发泄了十分之九，然尚有一分，似乎亦应得吐出，方能痛快。所以我看见林先生的文章后即加了一些按",
+    "section_author": "丁在君先生为反对张君劢先生的“人生观”，于是拿了“科学”来打“玄学”。迄至昨日止，我已拜读了他的洋洋大文两篇了。我读了他的第一篇文章时候，就觉得有许多话非说不可，但我仍是暂时忍着。后来看见林宰平先生一篇文章，我真跳起来。凡我所蓄于肚里，所要说的话差不多都被林先生说出来了。我十分佩服林先生，却又十分感激林先生，因为这一下我既可不闷得难受，又可不必写得手酸。我肚里的意思虽经林先生发泄了十分之九，然尚有一分，似乎亦应得吐出，方能痛快。所以我看见林先生的文章后即加了一些",
+    "segment_id": "张东荪_000_a9bf05ee_s0000",
+    "segment_index": 0,
+    "source_file": "E:\\1研究生\\岭南大学\\论文毕业\\capstone\\资料\\新的内容开始了\\local_upload\\input_w0\\张东荪.txt"
+  },
+  "entities": [
+    {
+      "id": "e1",
+      "name": "丁在君",
+      "canonical_name": "丁文江",
+      "type": "人物",
+      "evidence": "丁在君先生为反对张君劢先生的“人生观”，于是拿了“科学”来打“玄学”。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e2",
+      "name": "张君劢",
+      "canonical_name": "张君劢",
+      "type": "人物",
+      "evidence": "丁在君先生为反对张君劢先生的“人生观”，于是拿了“科学”来打“玄学”。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e3",
+      "name": "科学",
+      "canonical_name": "科学",
+      "type": "概念",
+      "evidence": "丁在君先生为反对张君劢先生的“人生观”，于是拿了“科学”来打“玄学”。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e4",
+      "name": "玄学",
+      "canonical_name": "玄学",
+      "type": "概念",
+      "evidence": "丁在君先生为反对张君劢先生的“人生观”，于是拿了“科学”来打“玄学”。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e5",
+      "name": "人生观",
+      "canonical_name": "人生观",
+      "type": "概念",
+      "evidence": "丁在君先生为反对张君劢先生的“人生观”，于是拿了“科学”来打“玄学”。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e6",
+      "name": "林宰平",
+      "canonical_name": "林宰平",
+      "type": "人物",
+      "evidence": "后来看见林宰平先生一篇文章，我真跳起来。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e7",
+      "name": "张东荪",
+      "canonical_name": "张东荪",
+      "type": "人物",
+      "evidence": "我于开始以前有一个重要的声明：就是我对于丁、张两先生都是朋友；我今天只驳丁先生而不驳张先生并不是由于友谊有厚薄。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e8",
+      "name": "《努力周报》",
+      "canonical_name": "努力周报",
+      "type": "著作",
+      "evidence": "（这个话本是谣言，不过《努力周报》迄至今日却除张先生自己的文章外，所有谈到“科玄之战”的无一不是反对张先生的。）",
+      "confidence": 1.0
+    },
+    {
+      "id": "e9",
+      "name": "科玄之战",
+      "canonical_name": "科玄论战",
+      "type": "事件",
+      "evidence": "（这个话本是谣言，不过《努力周报》迄至今日却除张先生自己的文章外，所有谈到“科玄之战”的无一不是反对张先生的。）",
+      "confidence": 1.0
+    }
+  ],
+  "claims": [
+    {
+      "id": "c1",
+      "speaker": "张东荪",
+      "claim": "丁在君先生为反对张君劢先生的“人生观”，于是拿了“科学”来打“玄学”。",
+      "target": "丁在君",
+      "claim_type": "论战策略批评",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "丁在君先生为反对张君劢先生的“人生观”，于是拿了“科学”来打“玄学”。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c2",
+      "speaker": "张东荪",
+      "claim": "我十分佩服林先生，却又十分感激林先生，因为这一下我既可不闷得难受，又可不必写得手酸。",
+      "target": "林宰平",
+      "claim_type": "价值评价",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "我十分佩服林先生，却又十分感激林先生，因为这一下我既可不闷得难受，又可不必写得手酸。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c3",
+      "speaker": "张东荪",
+      "claim": "我今天只驳丁先生而不驳张先生并不是由于友谊有厚薄。",
+      "target": "张东荪",
+      "claim_type": "论战策略批评",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "我今天只驳丁先生而不驳张先生并不是由于友谊有厚薄。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c4",
+      "speaker": "张东荪",
+      "claim": "我有个脾气是不欢喜锦上添花而只欢喜雪中送炭。",
+      "target": "张东荪",
+      "claim_type": "论战策略批评",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "只因为我有个脾气是不欢喜锦上添花而只欢喜雪中送炭。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c5",
+      "speaker": "张东荪",
+      "claim": "在丁先生第一篇文章初发表时，就有人来报告于我，说丁先生方面已预备有许多人对于张先生一个人来“群起而攻之”。",
+      "target": "丁在君",
+      "claim_type": "论战策略批评",
+      "claim_status": "间接转述",
+      "polarity": "negative",
+      "evidence": "在丁先生第一篇文章初发表时，就有人来报告于我，说丁先生方面已预备有许多人对于张先生一个人来“群起而攻之”。",
+      "confidence": 0.8
+    },
+    {
+      "id": "c6",
+      "speaker": "张东荪",
+      "claim": "《努力周报》迄至今日却除张先生自己的文章外，所有谈到“科玄之战”的无一不是反对张先生的。",
+      "target": "《努力周报》",
+      "claim_type": "论战策略批评",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "（这个话本是谣言，不过《努力周报》迄至今日却除张先生自己的文章外，所有谈到“科玄之战”的无一不是反对张先生的。）",
+      "confidence": 0.9
+    },
+    {
+      "id": "c7",
+      "speaker": "张东荪",
+      "claim": "素来不甚做文章的林先生居然放了一鸣惊人的响炮，把我的文章十分之九都抢了去了。",
+      "target": "林宰平",
+      "claim_type": "价值评价",
+      "claim_status": "作者直接主张",
+      "polarity": "mixed",
+      "evidence": "想不到素来不甚做文章的林先生居然放了一鸣惊人的响炮，把我的文章十分之九都抢了去了。",
+      "confidence": Locked
+    }
+  ],
+  "relations": [
+    {
+      "id": "r1",
+      "head": "丁在君",
+      "head_type": "人物",
+      "relation": "反对",
+      "relation_subtype": "不适用",
+      "tail": "张君劢",
+      "tail_type": "人物",
+      "polarity": "negative",
+      "evidence": "丁在君先生为反对张君劢先生的“人生观”，于是拿了“科学”来打“玄学”。",
+      "confidence": 1.0
+    },
+    {
+      "id": "r2",
+      "head": "丁在君",
+      "head_type": "人物",
+      "relation": "主张",
+      "relation_subtype": "不适用",
+      "tail": "科学",
+      "tail_type": "概念",
+      "polarity": "positive",
+      "evidence": "丁在君先生为反对张君劢先生的“人生观”，于是拿了“科学”来打“玄学”。",
+      "confidence": 1.0
+    },
+    {
+      "id": "r3",
+      "head": "丁在君",
+      "head_type": "人物",
+      "relation": "反对",
+      "relation_subtype": "不适用",
+      "tail": "玄学",
+      "tail_type": "概念",
+      "polarity": "negative",
+      "evidence": "丁在君先生为反对张君劢先生的“人生观”，于是拿了“科学”来打“玄学”。",
+      "confidence": 1.0
+    },
+    {
+      "id": "r4",
+      "head": "张东荪",
+      "head_type": "人物",
+      "relation": "回应",
+      "relation_subtype": "逻辑反驳",
+      "tail": "丁在君",
+      "tail_type": "人物",
+      "polarity": "negative",
+      "evidence": "我今天只驳丁先生而不驳张先生并不是由于友谊有厚薄。",
+      "confidence": 1.0
+    },
+    {
+      "id": "r5",
+      "head": "张东荪",
+      "head_type": "人物",
+      "relation": "引用",
+      "relation_subtype": "中性提及",
+      "tail": "林宰平",
+      "tail_type": "人物",
+      "polarity": "positive",
+      "evidence": "后来看见林宰平先生一篇文章，我真跳起来。",
+      "confidence": 1.0
+    },
+    {
+      "id": "r6",
+      "head": "张东荪",
+      "head_type": "人物",
+      "relation": "批评",
+      "relation_subtype": "一般批评",
+      "tail": "《努力周报》",
+      "tail_type": "著作",
+      "polarity": "negative",
+      "evidence": "（这个话本是谣言，不过《努力周报》迄至今日却除张先生自己的文章外，所有谈到“科玄之战”的无一不是反对张先生的。）",
+      "confidence": 0.9
+    }
+  ],
+  "definitions": [],
+  "citations": [],
+  "rhetorical_devices": [
+    {
+      "id": "rh1",
+      "expression": "锦上添花",
+      "device_type": "比喻",
+      "literal_target": "在别人成功时去帮助或赞美",
+      "function": "说明自己不选择支持多数派",
+      "evidence": "只因为我有个脾气是不欢喜锦上添花而只欢喜雪中送炭。",
+      "confidence": 1.0
+    },
+    {
+      "id": "rh2",
+      "expression": "雪中送炭",
+      "device_type": "比喻",
+      "literal_target": "在别人困难时给予帮助",
+      "function": "说明自己选择支持少数派",
+      "evidence": "只因为我有个脾气是不欢喜锦上添花而只欢喜雪中送炭。",
+      "confidence": 1.0
+    },
+    {
+      "id": "rh3",
+      "expression": "烧一烧冷灶",
+      "device_type": "比喻",
+      "literal_target": "去支持不受重视的一方",
+      "function": "说明自己决定反驳丁在君",
+      "evidence": "于是我决定对于丁先生来烧一烧冷灶。",
+      "confidence": 1.0
+    },
+    {
+      "id": "rh4",
+      "expression": "一鸣惊人的响炮",
+      "device_type": "比喻",
+      "literal_target": "林宰平的文章引起很大反响",
+      "function": "赞扬林宰平的文章效果",
+      "evidence": "想不到素来不甚做文章的林先生居然放了一鸣惊人的响炮，把我的文章十分之九都抢了去了。",
+      "confidence": 1.0
+    }
+  ],
+  "uncertainties": [
+    {
+      "item": "c7的polarity",
+      "reason": "张东荪说林宰平的文章抢了他的十分之九，语气中既有赞赏（一鸣惊人）又有遗憾（抢了去），但整体偏向正面，难以确定是mixed还是positive。"
+    }
+  ]
+}

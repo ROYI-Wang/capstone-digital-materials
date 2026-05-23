@@ -1,0 +1,4 @@
+article_id_a,article_title_a,source_author_a,article_id_b,article_title_b,source_author_b,jaccard,shared_feature_count,union_feature_count
+陈独秀_000_4825c389,序一,陈独秀,陈独秀_001_d263aca8,答适之,陈独秀,0.092593,40,432
+陈独秀_000_4825c389,序一,陈独秀,陈独秀_002_69a217f6,答张君劢及梁任公,陈独秀,0.07013,27,385
+陈独秀_001_d263aca8,答适之,陈独秀,陈独秀_002_69a217f6,答张君劢及梁任公,陈独秀,0.066955,31,463

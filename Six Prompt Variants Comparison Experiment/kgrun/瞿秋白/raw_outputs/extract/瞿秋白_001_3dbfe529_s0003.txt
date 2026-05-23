@@ -1,0 +1,300 @@
+{
+  "metadata": {
+    "schema_version": "lite_v2.0",
+    "article_id": "瞿秋白_001_3dbfe529",
+    "article_title": "实验主义与革命哲学",
+    "source_author": "瞿秋白",
+    "section_title": "",
+    "section_author": "",
+    "segment_id": "瞿秋白_001_3dbfe529_s0003",
+    "segment_index": 3,
+    "source_file": "E:\\1研究生\\岭南大学\\论文毕业\\capstone\\资料\\新的内容开始了\\local_upload\\input_w2\\瞿秋白.txt"
+  },
+  "entities": [
+    {
+      "id": "e1",
+      "name": "实验主义",
+      "canonical_name": "实验主义",
+      "type": "主义/学说/理论",
+      "evidence": "实验主义不愿意做锁闭的系统。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e2",
+      "name": "瞿秋白",
+      "canonical_name": "瞿秋白",
+      "type": "人物",
+      "evidence": "（元数据中source_author为瞿秋白，正文中未出现，但根据规则需包含）",
+      "confidence": 1.0
+    },
+    {
+      "id": "e3",
+      "name": "唯心论",
+      "canonical_name": "唯心论",
+      "type": "主义/学说/理论",
+      "evidence": "实验主义的宇宙观根本上是唯心论的。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e4",
+      "name": "真理",
+      "canonical_name": "真理",
+      "type": "概念",
+      "evidence": "一切真理都应当合于我们的需要。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e5",
+      "name": "上帝",
+      "canonical_name": "上帝",
+      "type": "概念",
+      "evidence": "假使‘上帝’的概念有这样的能力，那么，实验主义又何所根据而反对上帝的存在呢？",
+      "confidence": 1.0
+    },
+    {
+      "id": "e6",
+      "name": "詹姆士",
+      "canonical_name": "詹姆士",
+      "type": "人物",
+      "evidence": "（詹姆士）",
+      "confidence": 1.0
+    },
+    {
+      "id": "e7",
+      "name": "宗教",
+      "canonical_name": "宗教",
+      "type": "概念",
+      "evidence": "假使宗教能‘安人心’，那么，宗教亦是真理。",
+      "confidence": 1.0
+    }
+  ],
+  "claims": [
+    {
+      "id": "c1",
+      "speaker": "瞿秋白",
+      "claim": "实验主义不愿意做锁闭的系统。他要成一种新的研究方法一有这方法可以研究现实生活，并且改革现实生活。",
+      "target": "实验主义",
+      "claim_type": "定义性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "实验主义不愿意做锁闭的系统。他要成一种新的研究方法一有这方法可以研究现实生活，并且改革现实生活。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c2",
+      "speaker": "瞿秋白",
+      "claim": "实验主义的根本精神—就是使一切‘思想’都成某种行动的‘动机’；他时时刻刻注重现实生活的实用方面及积极性质。这都是实验主义的优点。",
+      "target": "实验主义",
+      "claim_type": "定义性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "他的根本精神—就是使一切‘思想’都成某种行动的‘动机’；他时时刻刻注重现实生活的实用方面及积极性质。这都是实验主义的优点。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c3",
+      "speaker": "瞿秋白",
+      "claim": "实验主义的弱点，却亦在他的轻视理论，因为实验主义的宇宙观根本上是唯心论的。",
+      "target": "实验主义",
+      "claim_type": "价值评价",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "然而实验主义的弱点，却亦在他的轻视理论，因为实验主义的宇宙观根本上是唯心论的。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c4",
+      "speaker": "实验主义",
+      "claim": "一切理论不是解释疑谜的答案，而只是工具罢了。",
+      "target": "理论",
+      "claim_type": "知识论主张",
+      "claim_status": "间接转述",
+      "polarity": "neutral",
+      "evidence": "照实验主义说来，一切理论不是解释疑谜的答案，而只是工具罢了。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c5",
+      "speaker": "实验主义",
+      "claim": "凡是一种理论，一方面是我们对付外界的手段，别方面是一种逻辑的工具，如此而已。",
+      "target": "理论",
+      "claim_type": "知识论主张",
+      "claim_status": "间接转述",
+      "polarity": "neutral",
+      "evidence": "凡是一种理论，一方面是我们对付外界的手段，别方面是一种逻辑的工具，如此而已。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c6",
+      "speaker": "实验主义",
+      "claim": "人的知识，究竟符合于客观世界与否，并不重要，重要的却在于这种知识能否促进我们的某种行动。",
+      "target": "知识",
+      "claim_type": "知识论主张",
+      "claim_status": "间接转述",
+      "polarity": "neutral",
+      "evidence": "人的知识，究竟符合于客观世界与否，并不重要，重要的却在于这种知识能否促进我们的某种行动。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c7",
+      "speaker": "实验主义",
+      "claim": "一切学说的价值，照实验主义的意思说来只要看他对于我们是否有益。",
+      "target": "学说",
+      "claim_type": "知识论主张",
+      "claim_status": "间接转述",
+      "polarity": "neutral",
+      "evidence": "一切学说的价值，照实验主义的意思说来只要看他对于我们是否有益。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c8",
+      "speaker": "实验主义",
+      "claim": "某种学说假使是有益的，便是真实的；有几分利益，便有几分真理。",
+      "target": "学说",
+      "claim_type": "知识论主张",
+      "claim_status": "间接转述",
+      "polarity": "neutral",
+      "evidence": "某种学说假使是有益的，便是真实的；有几分利益，便有几分真理。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c9",
+      "speaker": "实验主义",
+      "claim": "一切真理都应当合于我们的需要。",
+      "target": "真理",
+      "claim_type": "知识论主张",
+      "claim_status": "间接转述",
+      "polarity": "neutral",
+      "evidence": "一切真理都应当合于我们的需要。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c10",
+      "speaker": "实验主义",
+      "claim": "一切学说的真实与否，完全看他实用上的结果而定。",
+      "target": "学说",
+      "claim_type": "知识论主张",
+      "claim_status": "间接转述",
+      "polarity": "neutral",
+      "evidence": "一切学说的真实与否，完全看他实用上的结果而定。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c11",
+      "speaker": "詹姆士",
+      "claim": "那一种理论对于我们最有供献，最能领导我们，最能解决现实生活里的各部分的问题，最能综合我们的一切经验，丝毫不爽。这种理论，实验主义方认为是真实的。",
+      "target": "理论",
+      "claim_type": "知识论主张",
+      "claim_status": "直接引用",
+      "polarity": "neutral",
+      "evidence": "“那一种理论对于我们最有供献，最能领导我们，最能解决现实生活里的各部分的问题，最能综合我们的一切经验，丝毫不爽。这种理论，实验主义方认为是真实的。假使宗教能合乎上述的条件，假使‘上帝’的概念有这样的能力，那么，实验主义又何所根据而反对上帝的存在呢？”（詹姆士）",
+      "confidence": 1.0
+    },
+    {
+      "id": "c12",
+      "speaker": "詹姆士",
+      "claim": "假使宗教能合乎上述的条件，假使‘上帝’的概念有这样的能力，那么，实验主义又何所根据而反对上帝的存在呢？",
+      "target": "实验主义",
+      "claim_type": "反驳性主张",
+      "claim_status": "直接引用",
+      "polarity": "negative",
+      "evidence": "“那一种理论对于我们最有供献，最能领导我们，最能解决现实生活里的各部分的问题，最能综合我们的一切经验，丝毫不爽。这种理论，实验主义方认为是真实的。假使宗教能合乎上述的条件，假使‘上帝’的概念有这样的能力，那么，实验主义又何所根据而反对上帝的存在呢？”（詹姆士）",
+      "confidence": 1.0
+    },
+    {
+      "id": "c13",
+      "speaker": "实验主义",
+      "claim": "只要对于事实有利益，不管他究竟真不真，这种理论总是好的，假使宗教能‘安人心’，那么，宗教亦是真理。",
+      "target": "理论",
+      "claim_type": "知识论主张",
+      "claim_status": "间接转述",
+      "polarity": "neutral",
+      "evidence": "只要对于事实有利益，不管他究竟真不真，这种理论总是好的，假使宗教能‘安人心’，那么，宗教亦是真理。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c14",
+      "speaker": "实验主义",
+      "claim": "真理自身并无何等价值。每种学说必须与人的实际需要发生关系，方能成为真理。",
+      "target": "真理",
+      "claim_type": "知识论主张",
+      "claim_status": "间接转述",
+      "polarity": "neutral",
+      "evidence": "实验主义的意思，以为真理自身并无何等价值。每种学说必须与人的实际需要发生关系，方能成为真理。",
+      "confidence": 1.0
+    }
+  ],
+  "relations": [
+    {
+      "id": "r1",
+      "head": "实验主义",
+      "head_type": "主义/学说/理论",
+      "relation": "属于",
+      "relation_subtype": "不适用",
+      "tail": "唯心论",
+      "tail_type": "主义/学说/理论",
+      "polarity": "negative",
+      "evidence": "实验主义的宇宙观根本上是唯心论的。",
+      "confidence": 1.0
+    },
+    {
+      "id": "r2",
+      "head": "瞿秋白",
+      "head_type": "人物",
+      "relation": "批评",
+      "relation_subtype": "概念混淆批评",
+      "tail": "实验主义",
+      "tail_type": "主义/学说/理论",
+      "polarity": "negative",
+      "evidence": "然而实验主义的弱点，却亦在他的轻视理论，因为实验主义的宇宙观根本上是唯心论的。",
+      "confidence": 1.0
+    },
+    {
+      "id": "r3",
+      "head": "瞿秋白",
+      "head_type": "人物",
+      "relation": "引用",
+      "relation_subtype": "援引权威",
+      "tail": "詹姆士",
+      "tail_type": "人物",
+      "polarity": "neutral",
+      "evidence": "（詹姆士）",
+      "confidence": 1.0
+    }
+  ],
+  "definitions": [
+    {
+      "id": "def1",
+      "term": "实验主义",
+      "definition": "实验主义是一种新的研究方法，可以研究现实生活并改革现实生活，其根本精神是使一切思想成为行动的动机，注重现实生活的实用方面及积极性质。",
+      "evidence": "实验主义不愿意做锁闭的系统。他要成一种新的研究方法一有这方法可以研究现实生活，并且改革现实生活。他的根本精神—就是使一切‘思想’都成某种行动的‘动机’；他时时刻刻注重现实生活的实用方面及积极性质。",
+      "confidence": 1.0
+    },
+    {
+      "id": "def2",
+      "term": "真理",
+      "definition": "照实验主义，真理是合于人的需要的、有益于人的、有实际结果的学说。",
+      "evidence": "一切真理都应当合于我们的需要。一切学说的真实与否，完全看他实用上的结果而定。",
+      "confidence": 1.0
+    }
+  ],
+  "citations": [
+    {
+      "id": "cit1",
+      "citer": "瞿秋白",
+      "quoted_author": "詹姆士",
+      "quoted_work": "",
+      "quoted_claim": "那一种理论对于我们最有供献，最能领导我们，最能解决现实生活里的各部分的问题，最能综合我们的一切经验，丝毫不爽。这种理论，实验主义方认为是真实的。假使宗教能合乎上述的条件，假使‘上帝’的概念有这样的能力，那么，实验主义又何所根据而反对上帝的存在呢？",
+      "function": "援引权威支持",
+      "evidence": "（詹姆士）",
+      "confidence": 1.0
+    }
+  ],
+  "rhetorical_devices": [],
+  "uncertainties": [
+    {
+      "item": "“实验主义”是否完全等同于“实用主义”？",
+      "reason": "文本中只出现“实验主义”，未说明与“实用主义”的关系，无法确定。"
+    }
+  ]
+}

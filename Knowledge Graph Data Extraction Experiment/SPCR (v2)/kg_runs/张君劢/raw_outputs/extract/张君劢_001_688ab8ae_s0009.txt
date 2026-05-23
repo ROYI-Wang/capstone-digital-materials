@@ -1,0 +1,431 @@
+{
+  "metadata": {
+    "schema_version": "lite_v3.0",
+    "article_id": "张君劢_001_688ab8ae",
+    "article_title": "人生观（中篇）",
+    "source_author": "张君劢",
+    "section_title": "",
+    "section_author": "",
+    "segment_id": "张君劢_001_688ab8ae_s0009",
+    "segment_index": 9,
+    "source_file": "E:\\1研究生\\岭南大学\\论文毕业\\capstone\\资料\\新的内容开始了\\local_upload\\input_张君劢\\张君劢.txt"
+  },
+  "entities": [
+    {
+      "id": "e1",
+      "name": "杜里舒之生机主义",
+      "canonical_name": "杜里舒之生机主义",
+      "type": "主义/学说/理论",
+      "evidence": "物学上则有杜里舒之生机主义",
+      "confidence": 1.0
+    },
+    {
+      "id": "e2",
+      "name": "思想心理学",
+      "canonical_name": "思想心理学",
+      "type": "主义/学说/理论",
+      "evidence": "心理学上则有思想心理学",
+      "confidence": 1.0
+    },
+    {
+      "id": "e3",
+      "name": "精神之自发",
+      "canonical_name": "精神之自发",
+      "type": "概念",
+      "evidence": "教育哲学上注重精神之自发",
+      "confidence": 1.0
+    },
+    {
+      "id": "e4",
+      "name": "唯心",
+      "canonical_name": "唯心",
+      "type": "主义/学说/理论",
+      "evidence": "唯心，唯物，惟理，惟觉，本为一种无聊之争执",
+      "confidence": 1.0
+    },
+    {
+      "id": "e5",
+      "name": "唯物",
+      "canonical_name": "唯物",
+      "type": "主义/学说/理论",
+      "evidence": "唯心，唯物，惟理，惟觉，本为一种无聊之争执",
+      "confidence": 1.0
+    },
+    {
+      "id": "e6",
+      "name": "惟理",
+      "canonical_name": "惟理",
+      "type": "主义/学说/理论",
+      "evidence": "唯心，唯物，惟理，惟觉，本为一种无聊之争执",
+      "confidence": 1.0
+    },
+    {
+      "id": "e7",
+      "name": "惟觉",
+      "canonical_name": "惟觉",
+      "type": "主义/学说/理论",
+      "evidence": "唯心，唯物，惟理，惟觉，本为一种无聊之争执",
+      "confidence": 1.0
+    },
+    {
+      "id": "e8",
+      "name": "康德",
+      "canonical_name": "康德",
+      "type": "人物",
+      "evidence": "古往今来之哲学家，自成一系统，包举一切现象，而其说足餍人心者，无如康德",
+      "confidence": 1.0
+    },
+    {
+      "id": "e9",
+      "name": "康德哲学",
+      "canonical_name": "康德哲学",
+      "type": "主义/学说/理论",
+      "evidence": "康德哲学之系统如左",
+      "confidence": 1.0
+    },
+    {
+      "id": "e10",
+      "name": "自由意志",
+      "canonical_name": "自由意志",
+      "type": "概念",
+      "evidence": "康德哲学——人生（实行理性）——自由意志；学问（纯粹理性）——觉摄、概念——因果",
+      "confidence": 1.0
+    },
+    {
+      "id": "e11",
+      "name": "因果律",
+      "canonical_name": "因果律",
+      "type": "概念",
+      "evidence": "然欲以因果律概括一切，则于人生现象中，如忏悔，如爱，如责任心，如牺牲精神之属于道德方面者，无法以解释之",
+      "confidence": 1.0
+    },
+    {
+      "id": "e12",
+      "name": "忏悔",
+      "canonical_name": "忏悔",
+      "type": "概念",
+      "evidence": "则于人生现象中，如忏悔，如爱，如责任心，如牺牲精神之属于道德方面者，无法以解释之",
+      "confidence": 1.0
+    },
+    {
+      "id": "e13",
+      "name": "爱",
+      "canonical_name": "爱",
+      "type": "概念",
+      "evidence": "则于人生现象中，如忏悔，如爱，如责任心，如牺牲精神之属于道德方面者，无法以解释之",
+      "confidence": 1.0
+    },
+    {
+      "id": "e14",
+      "name": "责任心",
+      "canonical_name": "责任心",
+      "type": "概念",
+      "evidence": "则于人生现象中，如忏悔，如爱，如责任心，如牺牲精神之属于道德方面者，无法以解释之",
+      "confidence": 1.0
+    },
+    {
+      "id": "e15",
+      "name": "牺牲精神",
+      "canonical_name": "牺牲精神",
+      "type": "概念",
+      "evidence": "则于人生现象中，如忏悔，如爱，如责任心，如牺牲精神之属于道德方面者，无法以解释之",
+      "confidence": 1.0
+    },
+    {
+      "id": "e16",
+      "name": "自由与因果二义乃不相冲突",
+      "canonical_name": "自由与因果二义乃不相冲突",
+      "type": "观点",
+      "evidence": "自由与因果二义乃不相冲突，而后人事与知识方面各有正当之说明",
+      "confidence": 1.0
+    },
+    {
+      "id": "e17",
+      "name": "觉摄",
+      "canonical_name": "觉摄",
+      "type": "概念",
+      "evidence": "康德则有一种调和之说，曰有觉摄而无概念，是为盲目",
+      "confidence": 1.0
+    },
+    {
+      "id": "e18",
+      "name": "概念",
+      "canonical_name": "概念",
+      "type": "概念",
+      "evidence": "康德则有一种调和之说，曰有觉摄而无概念，是为盲目",
+      "confidence": 1.0
+    }
+  ],
+  "claims": [
+    {
+      "id": "c1",
+      "speaker": "张君劢",
+      "claim": "唯心，唯物，惟理，惟觉，本为一种无聊之争执",
+      "target": "唯心、唯物、惟理、惟觉",
+      "claim_type": "评价性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "唯心，唯物，惟理，惟觉，本为一种无聊之争执",
+      "confidence": 1.0
+    },
+    {
+      "id": "c2",
+      "speaker": "张君劢",
+      "claim": "吾国学者若取欧美人门户以树之国中，行见其徒费口舌，而于学理一无裨益",
+      "target": "吾国学者",
+      "claim_type": "评价性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "吾国学者若取欧美人门户以树之国中，行见其徒费口舌，而于学理一无裨益",
+      "confidence": 1.0
+    },
+    {
+      "id": "c3",
+      "speaker": "张君劢",
+      "claim": "英德内外之争，先天后天之争，经验理性之争，环境与精神之争，恐亦不免在吾学术界上重演一过",
+      "target": "吾国学术界",
+      "claim_type": "描述性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "英德内外之争，先天后天之争，经验理性之争，环境与精神之争，恐亦不免在吾学术界上重演一过",
+      "confidence": 1.0
+    },
+    {
+      "id": "c4",
+      "speaker": "张君劢",
+      "claim": "古往今来之哲学家，自成一系统，包举一切现象，而其说足餍人心者，无如康德",
+      "target": "康德",
+      "claim_type": "评价性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "古往今来之哲学家，自成一系统，包举一切现象，而其说足餍人心者，无如康德",
+      "confidence": 1.0
+    },
+    {
+      "id": "c5",
+      "speaker": "张君劢",
+      "claim": "然欲以因果律概括一切，则于人生现象中，如忏悔，如爱，如责任心，如牺牲精神之属于道德方面者，无法以解释之",
+      "target": "因果律",
+      "claim_type": "描述性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "然欲以因果律概括一切，则于人生现象中，如忏悔，如爱，如责任心，如牺牲精神之属于道德方面者，无法以解释之",
+      "confidence": 1.0
+    },
+    {
+      "id": "c6",
+      "speaker": "康德",
+      "claim": "关于伦理者，是自由意志之范围也；关于知识者，是因果律之所范围也",
+      "target": "伦理与知识",
+      "claim_type": "定义性主张",
+      "claim_status": "间接转述",
+      "polarity": "neutral",
+      "evidence": "于是康德氏分之为二：曰关于伦理者，是自由意志之范围也；关于知识者，是因果律之所范围也",
+      "confidence": 1.0
+    },
+    {
+      "id": "c7",
+      "speaker": "康德",
+      "claim": "自由与因果二义乃不相冲突",
+      "target": "自由与因果",
+      "claim_type": "描述性主张",
+      "claim_status": "间接转述",
+      "polarity": "positive",
+      "evidence": "自由与因果二义乃不相冲突，而后人事与知识方面各有正当之说明",
+      "confidence": 1.0
+    },
+    {
+      "id": "c8",
+      "speaker": "康德",
+      "claim": "有觉摄而无概念，是为盲目",
+      "target": "觉摄与概念",
+      "claim_type": "定义性主张",
+      "claim_status": "间接转述",
+      "polarity": "negative",
+      "evidence": "康德则有一种调和之说，曰有觉摄而无概念，是为盲目",
+      "confidence": 1.0
+    }
+  ],
+  "relations": [
+    {
+      "id": "r1",
+      "head": "唯心，唯物，惟理，惟觉",
+      "head_type": "主义/学说/理论",
+      "relation": "评价",
+      "relation_subtype": "一般批评",
+      "tail": "无聊之争执",
+      "tail_type": "评价",
+      "polarity": "negative",
+      "stance_score": -0.8,
+      "intensity": 0.7,
+      "evidence": "唯心，唯物，惟理，惟觉，本为一种无聊之争执",
+      "confidence": 1.0
+    },
+    {
+      "id": "r2",
+      "head": "张君劢",
+      "head_type": "人物",
+      "relation": "主张",
+      "relation_subtype": "不适用",
+      "tail": "取二者而折衷之耳",
+      "tail_type": "观点",
+      "polarity": "positive",
+      "stance_score": 0.8,
+      "intensity": 0.6,
+      "evidence": "曰，取二者而折衷之耳",
+      "confidence": 1.0
+    },
+    {
+      "id": "r3",
+      "head": "张君劢",
+      "head_type": "人物",
+      "relation": "评价",
+      "relation_subtype": "一般批评",
+      "tail": "吾国学者若取欧美人门户以树之国中，行见其徒费口舌，而于学理一无裨益",
+      "tail_type": "观点",
+      "polarity": "negative",
+      "stance_score": -0.9,
+      "intensity": 0.8,
+      "evidence": "吾国学者若取欧美人门户以树之国中，行见其徒费口舌，而于学理一无裨益",
+      "confidence": 1.0
+    },
+    {
+      "id": "r4",
+      "head": "张君劢",
+      "head_type": "人物",
+      "relation": "评价",
+      "relation_subtype": "援引权威",
+      "tail": "康德",
+      "tail_type": "人物",
+      "polarity": "positive",
+      "stance_score": 1.0,
+      "intensity": 0.9,
+      "evidence": "古往今来之哲学家，自成一系统，包举一切现象，而其说足餍人心者，无如康德",
+      "confidence": 1.0
+    },
+    {
+      "id": "r5",
+      "head": "康德",
+      "head_type": "人物",
+      "relation": "区分",
+      "relation_subtype": "概念澄清",
+      "tail": "伦理与知识",
+      "tail_type": "概念",
+      "polarity": "neutral",
+      "stance_score": 0.0,
+      "intensity": 0.5,
+      "evidence": "于是康德氏分之为二：曰关于伦理者，是自由意志之范围也；关于知识者，是因果律之所范围也",
+      "confidence": 1.0
+    },
+    {
+      "id": "r6",
+      "head": "因果律",
+      "head_type": "概念",
+      "relation": "作为论据支持",
+      "relation_subtype": "不适用",
+      "tail": "然欲以因果律概括一切，则于人生现象中，如忏悔，如爱，如责任心，如牺牲精神之属于道德方面者，无法以解释之",
+      "tail_type": "观点",
+      "polarity": "negative",
+      "stance_score": -0.7,
+      "intensity": 0.6,
+      "evidence": "然欲以因果律概括一切，则于人生现象中，如忏悔，如爱，如责任心，如牺牲精神之属于道德方面者，无法以解释之",
+      "confidence": 1.0
+    },
+    {
+      "id": "r7",
+      "head": "康德",
+      "head_type": "人物",
+      "relation": "主张",
+      "relation_subtype": "不适用",
+      "tail": "自由与因果二义乃不相冲突",
+      "tail_type": "观点",
+      "polarity": "positive",
+      "stance_score": 0.8,
+      "intensity": 0.7,
+      "evidence": "自由与因果二义乃不相冲突，而后人事与知识方面各有正当之说明",
+      "confidence": 1.0
+    },
+    {
+      "id": "r8",
+      "head": "康德",
+      "head_type": "人物",
+      "relation": "主张",
+      "relation_subtype": "不适用",
+      "tail": "有觉摄而无概念，是为盲目",
+      "tail_type": "观点",
+      "polarity": "negative",
+      "stance_score": -0.6,
+      "intensity": 0.5,
+      "evidence": "康德则有一种调和之说，曰有觉摄而无概念，是为盲目",
+      "confidence": 1.0
+    }
+  ],
+  "definitions": [
+    {
+      "id": "def1",
+      "term": "康德哲学",
+      "definition": "康德哲学分为人生（实行理性）与学问（纯粹理性），人生涉及自由意志，学问涉及觉摄、概念与因果",
+      "evidence": "康德哲学——人生（实行理性）——自由意志；学问（纯粹理性）——觉摄、概念——因果",
+      "confidence": 1.0
+    },
+    {
+      "id": "def2",
+      "term": "自由与因果二义",
+      "definition": "自由意志属于伦理范围，因果律属于知识范围，二者不相冲突",
+      "evidence": "于是康德氏分之为二：曰关于伦理者，是自由意志之范围也；关于知识者，是因果律之所范围也。自由与因果二义乃不相冲突",
+      "confidence": 1.0
+    }
+  ],
+  "citations": [
+    {
+      "id": "cit1",
+      "citer": "张君劢",
+      "quoted_author": "康德",
+      "quoted_work": "",
+      "quoted_claim": "关于伦理者，是自由意志之范围也；关于知识者，是因果律之所范围也",
+      "function": "援引权威支持",
+      "evidence": "于是康德氏分之为二：曰关于伦理者，是自由意志之范围也；关于知识者，是因果律之所范围也",
+      "confidence": 1.0
+    },
+    {
+      "id": "cit2",
+      "citer": "张君劢",
+      "quoted_author": "康德",
+      "quoted_work": "",
+      "quoted_claim": "有觉摄而无概念，是为盲目",
+      "function": "援引权威支持",
+      "evidence": "康德则有一种调和之说，曰有觉摄而无概念，是为盲目",
+      "confidence": 1.0
+    }
+  ],
+  "rhetorical_devices": [
+    {
+      "id": "rh1",
+      "expression": "无聊之争执",
+      "device_type": "标签化",
+      "literal_target": "唯心、唯物、惟理、惟觉之间的争论",
+      "function": "贬低对手观点，否定其价值",
+      "evidence": "唯心，唯物，惟理，惟觉，本为一种无聊之争执",
+      "confidence": 1.0
+    },
+    {
+      "id": "rh2",
+      "expression": "徒费口舌",
+      "device_type": "标签化",
+      "literal_target": "吾国学者取欧美人门户以树之国中",
+      "function": "批评模仿门户之见的行为无意义",
+      "evidence": "吾国学者若取欧美人门户以树之国中，行见其徒费口舌，而于学理一无裨益",
+      "confidence": 1.0
+    }
+  ],
+  "uncertainties": [
+    {
+      "item": "主内者与主外者的具体所指",
+      "reason": "文本中仅提到'主内者不能并外而尽去之，主外者不能并内而尽去之'，未明确说明主内者与主外者具体指代哪些人物或阵营"
+    },
+    {
+      "item": "取德乎？取英美乎？中的'德'与'英美'是否指代具体国家或学派",
+      "reason": "文本中仅出现'取德乎？取英美乎？'，未明确说明'德'与'英美'的具体含义"
+    }
+  ]
+}

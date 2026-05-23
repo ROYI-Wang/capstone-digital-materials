@@ -1,0 +1,441 @@
+{
+  "metadata": {
+    "schema_version": "lite_v3.0",
+    "article_id": "林宰平_000_acbbe922",
+    "article_title": "读丁在君先生的《玄学与科学》",
+    "source_author": "林宰平",
+    "section_title": "",
+    "section_author": "",
+    "segment_id": "林宰平_000_acbbe922_s0024",
+    "segment_index": 24,
+    "source_file": "E:\\1研究生\\岭南大学\\论文毕业\\capstone\\资料\\新的内容开始了\\local_upload\\input_林宰平\\林宰平.txt"
+  },
+  "entities": [
+    {
+      "id": "e1",
+      "name": "定律",
+      "canonical_name": "定律",
+      "type": "概念",
+      "evidence": "因此得一个定律：就是凡流体珠旋转的时候，他的离心力随速率而增加，可以使此球的赤道射出若干流体。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e2",
+      "name": "太阳",
+      "canonical_name": "太阳",
+      "type": "概念",
+      "evidence": "再假定太阳为流体旋转不已，当他绕轴自转的时候，赤道处也会射出流体，先成环，后成断片，后成圆球，圆球自转公转，和中心太阳旋转的方向一样。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e3",
+      "name": "地球",
+      "canonical_name": "地球",
+      "type": "概念",
+      "evidence": "如地球为扁圆形，土星有三环，皆因赤道射出流体之故，可为这个定律的证明。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e4",
+      "name": "土星",
+      "canonical_name": "土星",
+      "type": "概念",
+      "evidence": "如地球为扁圆形，土星有三环，皆因赤道射出流体之故，可为这个定律的证明。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e5",
+      "name": "心理界",
+      "canonical_name": "心理界",
+      "type": "概念",
+      "evidence": "但是这一类小型的试验，可以适用于心理界么，能够用甚么物质替代思想、意志、情绪等等来做试验么?",
+      "confidence": 0.9
+    },
+    {
+      "id": "e6",
+      "name": "思想",
+      "canonical_name": "思想",
+      "type": "概念",
+      "evidence": "能够用甚么物质替代思想、意志、情绪等等来做试验么?",
+      "confidence": 0.9
+    },
+    {
+      "id": "e7",
+      "name": "意志",
+      "canonical_name": "意志",
+      "type": "概念",
+      "evidence": "能够用甚么物质替代思想、意志、情绪等等来做试验么?",
+      "confidence": 0.9
+    },
+    {
+      "id": "e8",
+      "name": "情绪",
+      "canonical_name": "情绪",
+      "type": "概念",
+      "evidence": "能够用甚么物质替代思想、意志、情绪等等来做试验么?",
+      "confidence": 0.9
+    },
+    {
+      "id": "e9",
+      "name": "纯粹心理现象",
+      "canonical_name": "纯粹心理现象",
+      "type": "概念",
+      "evidence": "如谓纯粹心理现象，虽然不尽能适用天然律；但是还有思想律可以管理他，思想律和天然定律一样，也是一定的，普遍的，凡情境相同的其思想亦无不同。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e10",
+      "name": "天然律",
+      "canonical_name": "天然律",
+      "type": "概念",
+      "evidence": "如谓纯粹心理现象，虽然不尽能适用天然律；但是还有思想律可以管理他，思想律和天然定律一样，也是一定的，普遍的，凡情境相同的其思想亦无不同。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e11",
+      "name": "思想律",
+      "canonical_name": "思想律",
+      "type": "概念",
+      "evidence": "如谓纯粹心理现象，虽然不尽能适用天然律；但是还有思想律可以管理他，思想律和天然定律一样，也是一定的，普遍的，凡情境相同的其思想亦无不同。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e12",
+      "name": "黎朋（Gustare Le Bon）",
+      "canonical_name": "黎朋",
+      "type": "人物",
+      "evidence": "然如黎朋（Gustare Le Bon）在他意见及信仰上，他主张有生物、感情、群众、神秘、理性各种的论理，他以为我们对于生物论理及感情论理，若能明白其构造，则我们必知完全支配之法，不过今日科学尚未能解决此问题，而且其距离尚非常之辽远。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e13",
+      "name": "生物论理",
+      "canonical_name": "生物论理",
+      "type": "概念",
+      "evidence": "他主张有生物、感情、群众、神秘、理性各种的论理，他以为我们对于生物论理及感情论理，若能明白其构造，则我们必知完全支配之法，不过今日科学尚未能解决此问题，而且其距离尚非常之辽远。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e14",
+      "name": "感情论理",
+      "canonical_name": "感情论理",
+      "type": "概念",
+      "evidence": "他主张有生物、感情、群众、神秘、理性各种的论理，他以为我们对于生物论理及感情论理，若能明白其构造，则我们必知完全支配之法，不过今日科学尚未能解决此问题，而且其距离尚非常之辽远。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e15",
+      "name": "科学",
+      "canonical_name": "科学",
+      "type": "概念",
+      "evidence": "不过今日科学尚未能解决此问题，而且其距离尚非常之辽远。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e16",
+      "name": "理性论理之范围",
+      "canonical_name": "理性论理之范围",
+      "type": "概念",
+      "evidence": "理性论理之范围，大致限于物质界内，此是无可讳言的。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e17",
+      "name": "物质界",
+      "canonical_name": "物质界",
+      "type": "概念",
+      "evidence": "理性论理之范围，大致限于物质界内，此是无可讳言的。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e18",
+      "name": "失勒",
+      "canonical_name": "失勒",
+      "type": "人物",
+      "evidence": "又如失勒，他批评形式论理，简直不信任思想律。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e19",
+      "name": "形式论理",
+      "canonical_name": "形式论理",
+      "type": "概念",
+      "evidence": "又如失勒，他批评形式论理，简直不信任思想律。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e20",
+      "name": "一定的普遍的思想律",
+      "canonical_name": "一定的普遍的思想律",
+      "type": "概念",
+      "evidence": "所谓一定的普遍的思想律，他的效力究竟在那里?",
+      "confidence": 0.9
+    },
+    {
+      "id": "e21",
+      "name": "意见",
+      "canonical_name": "意见",
+      "type": "概念",
+      "evidence": "何以人们的意见如是其不一致，所谓一定的普遍的思想律，他的效力究竟在那里?",
+      "confidence": 0.9
+    }
+  ],
+  "claims": [
+    {
+      "id": "c1",
+      "speaker": "林宰平",
+      "claim": "这一类小型的试验，可以适用于心理界么，能够用甚么物质替代思想、意志、情绪等等来做试验么?",
+      "target": "心理界",
+      "claim_type": "问题提出",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "但是这一类小型的试验，可以适用于心理界么，能够用甚么物质替代思想、意志、情绪等等来做试验么?",
+      "confidence": 0.9
+    },
+    {
+      "id": "c2",
+      "speaker": "林宰平",
+      "claim": "纯粹心理现象，虽然不尽能适用天然律；但是还有思想律可以管理他，思想律和天然定律一样，也是一定的，普遍的，凡情境相同的其思想亦无不同。",
+      "target": "纯粹心理现象",
+      "claim_type": "描述性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "如谓纯粹心理现象，虽然不尽能适用天然律；但是还有思想律可以管理他，思想律和天然定律一样，也是一定的，普遍的，凡情境相同的其思想亦无不同。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c3",
+      "speaker": "黎朋（Gustare Le Bon）",
+      "claim": "有生物、感情、群众、神秘、理性各种的论理",
+      "target": "论理",
+      "claim_type": "描述性主张",
+      "claim_status": "间接转述",
+      "polarity": "neutral",
+      "evidence": "然如黎朋（Gustare Le Bon）在他意见及信仰上，他主张有生物、感情、群众、神秘、理性各种的论理",
+      "confidence": 0.9
+    },
+    {
+      "id": "c4",
+      "speaker": "黎朋（Gustare Le Bon）",
+      "claim": "我们对于生物论理及感情论理，若能明白其构造，则我们必知完全支配之法，不过今日科学尚未能解决此问题，而且其距离尚非常之辽远。",
+      "target": "生物论理及感情论理",
+      "claim_type": "因果主张",
+      "claim_status": "间接转述",
+      "polarity": "neutral",
+      "evidence": "他以为我们对于生物论理及感情论理，若能明白其构造，则我们必知完全支配之法，不过今日科学尚未能解决此问题，而且其距离尚非常之辽远。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c5",
+      "speaker": "黎朋（Gustare Le Bon）",
+      "claim": "理性论理于知识之构成所关甚巨，所有科学之发展皆基于此，然有其不能超越之限度，理性论理之范围，大致限于物质界内，此是无可讳言的。",
+      "target": "理性论理",
+      "claim_type": "描述性主张",
+      "claim_status": "间接转述",
+      "polarity": "neutral",
+      "evidence": "又谓理性论理于知识之构成所关甚巨，所有科学之发展皆基于此，然有其不能超越之限度，理性论理之范围，大致限于物质界内，此是无可讳言的。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c6",
+      "speaker": "失勒",
+      "claim": "批评形式论理，简直不信任思想律。",
+      "target": "形式论理",
+      "claim_type": "评价性主张",
+      "claim_status": "间接转述",
+      "polarity": "negative",
+      "evidence": "又如失勒，他批评形式论理，简直不信任思想律。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c7",
+      "speaker": "林宰平",
+      "claim": "思想所走的路径，难道彼此绝对不同？何以人们的意见如是其不一致，所谓一定的普遍的思想律，他的效力究竟在那里?",
+      "target": "思想律",
+      "claim_type": "问题提出",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "我们现在且不管那些学者的高论，但问思想所走的路径，难道彼此绝对不同？何以人们的意见如是其不一致，所谓一定的普遍的思想律，他的效力究竟在那里?",
+      "confidence": 0.9
+    }
+  ],
+  "relations": [
+    {
+      "id": "r1",
+      "head": "定律",
+      "head_type": "概念",
+      "relation": "解释",
+      "relation_subtype": "不适用",
+      "tail": "凡流体珠旋转的时候，他的离心力随速率而增加，可以使此球的赤道射出若干流体",
+      "tail_type": "观点",
+      "polarity": "neutral",
+      "stance_score": 0.0,
+      "intensity": 0.0,
+      "evidence": "因此得一个定律：就是凡流体珠旋转的时候，他的离心力随速率而增加，可以使此球的赤道射出若干流体。",
+      "confidence": 0.9
+    },
+    {
+      "id": "r2",
+      "head": "地球为扁圆形，土星有三环",
+      "head_type": "观点",
+      "relation": "作为论据支持",
+      "relation_subtype": "不适用",
+      "tail": "定律",
+      "tail_type": "概念",
+      "polarity": "positive",
+      "stance_score": 1.0,
+      "intensity": 0.5,
+      "evidence": "如地球为扁圆形，土星有三环，皆因赤道射出流体之故，可为这个定律的证明。",
+      "confidence": 0.9
+    },
+    {
+      "id": "r3",
+      "head": "林宰平",
+      "head_type": "人物",
+      "relation": "质疑",
+      "relation_subtype": "事实质疑",
+      "tail": "这一类小型的试验，可以适用于心理界么",
+      "tail_type": "观点",
+      "polarity": "negative",
+      "stance_score": -0.8,
+      "intensity": 0.7,
+      "evidence": "但是这一类小型的试验，可以适用于心理界么，能够用甚么物质替代思想、意志、情绪等等来做试验么?",
+      "confidence": 0.9
+    },
+    {
+      "id": "r4",
+      "head": "思想律",
+      "head_type": "概念",
+      "relation": "对比",
+      "relation_subtype": "不适用",
+      "tail": "天然定律",
+      "tail_type": "概念",
+      "polarity": "positive",
+      "stance_score": 0.5,
+      "intensity": 0.5,
+      "evidence": "思想律和天然定律一样，也是一定的，普遍的，凡情境相同的其思想亦无不同。",
+      "confidence": 0.9
+    },
+    {
+      "id": "r5",
+      "head": "黎朋（Gustare Le Bon）",
+      "head_type": "人物",
+      "relation": "主张",
+      "relation_subtype": "不适用",
+      "tail": "有生物、感情、群众、神秘、理性各种的论理",
+      "tail_type": "观点",
+      "polarity": "neutral",
+      "stance_score": 0.0,
+      "intensity": 0.0,
+      "evidence": "然如黎朋（Gustare Le Bon）在他意见及信仰上，他主张有生物、感情、群众、神秘、理性各种的论理",
+      "confidence": 0.9
+    },
+    {
+      "id": "r6",
+      "head": "失勒",
+      "head_type": "人物",
+      "relation": "批评",
+      "relation_subtype": "一般批评",
+      "tail": "形式论理",
+      "tail_type": "概念",
+      "polarity": "negative",
+      "stance_score": -0.8,
+      "intensity": 0.7,
+      "evidence": "又如失勒，他批评形式论理，简直不信任思想律。",
+      "confidence": 0.9
+    },
+    {
+      "id": "r7",
+      "head": "林宰平",
+      "head_type": "人物",
+      "relation": "质疑",
+      "relation_subtype": "事实质疑",
+      "tail": "一定的普遍的思想律",
+      "tail_type": "概念",
+      "polarity": "negative",
+      "stance_score": -0.7,
+      "intensity": 0.6,
+      "evidence": "何以人们的意见如是其不一致，所谓一定的普遍的思想律，他的效力究竟在那里?",
+      "confidence": 0.9
+    }
+  ],
+  "definitions": [
+    {
+      "id": "def1",
+      "term": "定律",
+      "definition": "凡流体珠旋转的时候，他的离心力随速率而增加，可以使此球的赤道射出若干流体。",
+      "evidence": "因此得一个定律：就是凡流体珠旋转的时候，他的离心力随速率而增加，可以使此球的赤道射出若干流体。",
+      "confidence": 0.9
+    },
+    {
+      "id": "def2",
+      "term": "思想律",
+      "definition": "思想律和天然定律一样，也是一定的，普遍的，凡情境相同的其思想亦无不同。",
+      "evidence": "思想律和天然定律一样，也是一定的，普遍的，凡情境相同的其思想亦无不同。",
+      "confidence": 0.9
+    },
+    {
+      "id": "def3",
+      "term": "理性论理之范围",
+      "definition": "大致限于物质界内。",
+      "evidence": "理性论理之范围，大致限于物质界内，此是无可讳言的。",
+      "confidence": 0.9
+    }
+  ],
+  "citations": [
+    {
+      "id": "cit1",
+      "citer": "林宰平",
+      "quoted_author": "失勒",
+      "quoted_work": "",
+      "quoted_claim": "批评形式论理，简直不信任思想律。",
+      "function": "作为批评对象",
+      "evidence": "又如失勒，他批评形式论理，简直不信任思想律。",
+      "confidence": 0.9
+    }
+  ],
+  "rhetorical_devices": [
+    {
+      "id": "rh1",
+      "expression": "这一类小型的试验，可以适用于心理界么，能够用甚么物质替代思想、意志、情绪等等来做试验么?",
+      "device_type": "类比",
+      "literal_target": "将物理试验与心理现象进行类比，质疑其适用性",
+      "function": "通过类比提出质疑，论证物理定律不能直接应用于心理界",
+      "evidence": "但是这一类小型的试验，可以适用于心理界么，能够用甚么物质替代思想、意志、情绪等等来做试验么?",
+      "confidence": 0.9
+    }
+  ],
+  "uncertainties": [
+    {
+      "item": "文本中“定速率时，他的赤道处，会射出油若干，成一个环，这环也跟着油珠旋转”中的“他”指代不明，可能指代前文未出现的油珠或其他物体。",
+      "reason": "当前文本片段未提供明确指代对象。"
+    },
+    {
+      "item": "“黎朋（Gustare Le Bon）”的“意见及信仰”具体指哪部著作或文章，文本未说明。",
+      "reason": "当前文本片段未提供著作名称。"
+    },
+    {
+      "item": "“失勒”的具体身份（如哲学家、逻辑学家等）及著作，文本未说明。",
+      "reason": "当前文本片段未提供详细信息。"
+    }
+  ],
+  "_meta": {
+    "status": "success",
+    "stage": "extract",
+    "model": "deepseek-ai/DeepSeek-V4-Flash",
+    "base_url": "https://api.siliconflow.cn/v1",
+    "prompt_version": "v2.0",
+    "schema_version": "lite_v3.0",
+    "segment_id": "林宰平_000_acbbe922_s0024",
+    "article_id": "林宰平_000_acbbe922",
+    "char_start": 11904,
+    "char_end": 12486,
+    "raw_path": "E:\\1研究生\\岭南大学\\论文毕业\\capstone\\资料\\新的内容开始了\\local_upload\\kg_runs_v2\\林宰平\\raw_outputs\\extract\\林宰平_000_acbbe922_s0024.txt",
+    "parsed_at": "2026-05-21T20:12:53",
+    "started_at": "2026-05-21T20:05:25",
+    "elapsed_seconds": 447.574,
+    "strict_evidence_check": true,
+    "drop_unsupported_evidence": true,
+    "request_timeout_seconds": 180
+  }
+}

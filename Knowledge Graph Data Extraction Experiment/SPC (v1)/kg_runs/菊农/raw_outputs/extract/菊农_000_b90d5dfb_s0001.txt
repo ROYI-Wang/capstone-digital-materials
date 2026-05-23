@@ -1,0 +1,320 @@
+{
+  "metadata": {
+    "schema_version": "lite_v2.0",
+    "article_id": "菊农_000_b90d5dfb",
+    "article_title": "人格与教育",
+    "source_author": "菊农",
+    "section_title": "",
+    "section_author": "",
+    "segment_id": "菊农_000_b90d5dfb_s0001",
+    "segment_index": 1,
+    "source_file": "E:\\1研究生\\岭南大学\\论文毕业\\capstone\\资料\\新的内容开始了\\local_upload\\input_w0\\菊农.txt"
+  },
+  "entities": [
+    {
+      "id": "e1",
+      "name": "文艺复兴",
+      "canonical_name": "文艺复兴",
+      "type": "历史事件",
+      "evidence": "文艺复兴在艺术、文学与哲学，乃至于科学上的成功我们不能亦不愿意否认。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e2",
+      "name": "欧洲的大战",
+      "canonical_name": "欧战",
+      "type": "历史事件",
+      "evidence": "欧洲的大战和近十余年来猛烈的社会改造运动，以及劳动界的不安宁，都是“不打自招的供状”。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e3",
+      "name": "教育",
+      "canonical_name": "教育",
+      "type": "概念",
+      "evidence": "现在要研究的便是教育问题。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e4",
+      "name": "个人主义",
+      "canonical_name": "个人主义",
+      "type": "主义/学说/理论",
+      "evidence": "现代教育是个人主义机械主义的教育。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e5",
+      "name": "机械主义",
+      "canonical_name": "机械主义",
+      "type": "主义/学说/理论",
+      "evidence": "现代教育是个人主义机械主义的教育。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e6",
+      "name": "新的人生哲学",
+      "canonical_name": "新的人生哲学",
+      "type": "概念",
+      "evidence": "须要根本上打破个人主义机械主义的人生观，建设新的人生哲学。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e7",
+      "name": "菊农",
+      "canonical_name": "菊农",
+      "type": "人物",
+      "evidence": "前面已经略略提到各种社会活动，大部分是由时代的人生哲学所形成，教育亦不能外此。",
+      "confidence": 1.0
+    }
+  ],
+  "claims": [
+    {
+      "id": "c1",
+      "speaker": "菊农",
+      "claim": "文艺复兴在艺术、文学与哲学，乃至于科学上的成功我们不能亦不愿意否认。",
+      "target": "文艺复兴",
+      "claim_type": "价值评价",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "文艺复兴在艺术、文学与哲学，乃至于科学上的成功我们不能亦不愿意否认。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c2",
+      "speaker": "菊农",
+      "claim": "文艺复兴所酿成的痛苦与烦闷却亦不容不承认。",
+      "target": "文艺复兴",
+      "claim_type": "价值评价",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "但是他所酿成的痛苦与烦闷却亦不容不承认。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c3",
+      "speaker": "菊农",
+      "claim": "在自由竞争的经济制度上那里能有真幸福与真自由。",
+      "target": "自由竞争的经济制度",
+      "claim_type": "社会理论主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "在自由竞争的经济制度上那里能有真幸福与真自由。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c4",
+      "speaker": "菊农",
+      "claim": "欧洲的大战和近十余年来猛烈的社会改造运动，以及劳动界的不安宁，都是“不打自招的供状”。",
+      "target": "欧洲的大战",
+      "claim_type": "历史解释",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "欧洲的大战和近十余年来猛烈的社会改造运动，以及劳动界的不安宁，都是“不打自招的供状”。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c5",
+      "speaker": "菊农",
+      "claim": "教育方面虽然“纸糊老虎”远看似乎看不出丝毫破绽来，但近看已经有无数的破洞了。",
+      "target": "教育",
+      "claim_type": "价值评价",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "教育方面呢，虽然“纸糊老虎”远看似乎看不出丝毫破绽来，但近看已经有无数的破洞了。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c6",
+      "speaker": "菊农",
+      "claim": "各种社会活动大部分是由时代的人生哲学所形成，教育亦不能外此。",
+      "target": "教育",
+      "claim_type": "社会理论主张",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "前面已经略略提到各种社会活动，大部分是由时代的人生哲学所形成，教育亦不能外此。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c7",
+      "speaker": "菊农",
+      "claim": "如果对于现代教育怀疑时，应当从根本上研究明了其所以致此之由，不应当仅仅在表面上批评他的制度乃至于课程。",
+      "target": "现代教育",
+      "claim_type": "方法论主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "所以如果对于现代教育怀疑时，应当从根本上研究明了其所以致此之由，不应当仅仅在表面上批评他的制度乃至于课程。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c8",
+      "speaker": "菊农",
+      "claim": "现代教育是文艺复兴后的产物，有好处固然要谢文艺复兴，但是如果有坏处亦是文艺复兴的责任。",
+      "target": "现代教育",
+      "claim_type": "历史解释",
+      "claim_status": "作者直接主张",
+      "polarity": "mixed",
+      "evidence": "现代教育是文艺复兴后的产物，有好处呢，固然要谢文艺复兴；但是如果有坏处呢，亦是文艺复兴的责任。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c9",
+      "speaker": "菊农",
+      "claim": "在现代教育的背后牵线的便是文艺复兴的两大精神。",
+      "target": "现代教育",
+      "claim_type": "历史解释",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "在现代教育的背后牵线的便是文艺复兴的两大精神。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c10",
+      "speaker": "菊农",
+      "claim": "现代教育是个人主义机械主义的教育。",
+      "target": "现代教育",
+      "claim_type": "定义性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "现代教育是个人主义机械主义的教育。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c11",
+      "speaker": "菊农",
+      "claim": "个人主义机械主义这两种人生态度的坏处，现代的教育却完全承受了。",
+      "target": "现代教育",
+      "claim_type": "价值评价",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "这两种人生态度的坏处，现代的教育却完全承受了。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c12",
+      "speaker": "菊农",
+      "claim": "在个人主义机械主义之下，当然发生这样的教育。",
+      "target": "教育",
+      "claim_type": "社会理论主张",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "在个人主义机械主义之下，当然发生这样的教育。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c13",
+      "speaker": "菊农",
+      "claim": "改良现代的教育决不仅是形式的改革，科目的增删；须要根本上打破个人主义机械主义的人生观，建设新的人生哲学，从这新的人生哲学上出发，教育乃可以言改革。",
+      "target": "现代教育",
+      "claim_type": "方法论主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "改良现代的教育决不仅是形式的改革，科目的增删；须要根本上打破个人主义机械主义的人生观，建设新的人生哲学，从这新的人生哲学上出发，教育乃可以言改革。",
+      "confidence": 1.0
+    }
+  ],
+  "relations": [
+    {
+      "id": "r1",
+      "head": "文艺复兴",
+      "head_type": "历史事件",
+      "relation": "导致",
+      "relation_subtype": "不适用",
+      "tail": "现代教育",
+      "tail_type": "概念",
+      "polarity": "neutral",
+      "evidence": "现代教育是文艺复兴后的产物。",
+      "confidence": 1.0
+    },
+    {
+      "id": "r2",
+      "head": "个人主义",
+      "head_type": "主义/学说/理论",
+      "relation": "导致",
+      "relation_subtype": "不适用",
+      "tail": "教育",
+      "tail_type": "概念",
+      "polarity": "negative",
+      "evidence": "在个人主义机械主义之下，当然发生这样的教育。",
+      "confidence": 1.0
+    },
+    {
+      "id": "r3",
+      "head": "机械主义",
+      "head_type": "主义/学说/理论",
+      "relation": "导致",
+      "relation_subtype": "不适用",
+      "tail": "教育",
+      "tail_type": "概念",
+      "polarity": "negative",
+      "evidence": "在个人主义机械主义之下，当然发生这样的教育。",
+      "confidence": 1.0
+    },
+    {
+      "id": "r4",
+      "head": "菊农",
+      "head_type": "人物",
+      "relation": "主张",
+      "relation_subtype": "不适用",
+      "tail": "改良现代的教育须要根本上打破个人主义机械主义的人生观，建设新的人生哲学",
+      "tail_type": "观点",
+      "polarity": "positive",
+      "evidence": "须要根本上打破个人主义机械主义的人生观，建设新的人生哲学，从这新的人生哲学上出发，教育乃可以言改革。",
+      "confidence": 1.0
+    }
+  ],
+  "definitions": [
+    {
+      "id": "def1",
+      "term": "现代教育",
+      "definition": "现代教育是文艺复兴后的产物，是个人主义机械主义的教育。",
+      "evidence": "现代教育是文艺复兴后的产物；现代教育是个人主义机械主义的教育。",
+      "confidence": 1.0
+    }
+  ],
+  "citations": [],
+  "rhetorical_devices": [
+    {
+      "id": "rh1",
+      "expression": "不打自招的供状",
+      "device_type": "比喻",
+      "literal_target": "欧洲的大战、社会改造运动、劳动界不安宁等现象",
+      "function": "形象化地说明这些现象暴露了自由竞争经济制度的弊端",
+      "evidence": "欧洲的大战和近十余年来猛烈的社会改造运动，以及劳动界的不安宁，都是“不打自招的供状”。",
+      "confidence": 1.0
+    },
+    {
+      "id": "rh2",
+      "expression": "纸糊老虎",
+      "device_type": "比喻",
+      "literal_target": "教育表面看似完好实则问题很多",
+      "function": "形象化地说明教育表面完好实则问题很多",
+      "evidence": "教育方面呢，虽然“纸糊老虎”远看似乎看不出丝毫破绽来，但近看已经有无数的破洞了。",
+      "confidence": 1.0
+    },
+    {
+      "id": "rh3",
+      "expression": "搔痒不着",
+      "device_type": "比喻",
+      "literal_target": "仅仅在表面上批评教育的制度乃至于课程",
+      "function": "批评表面批评无法触及根本问题",
+      "evidence": "不应当仅仅在表面上批评他的制度乃至于课程，这样的批评，一定是搔痒不着。",
+      "confidence": 1.0
+    },
+    {
+      "id": "rh4",
+      "expression": "背后牵线的",
+      "device_type": "比喻",
+      "literal_target": "文艺复兴的两大精神",
+      "function": "形象化说明文艺复兴精神对现代教育的根本支配作用",
+      "evidence": "在现代教育的背后牵线的便是文艺复兴的两大精神。",
+      "confidence": 1.0
+    }
+  ],
+  "uncertainties": [
+    {
+      "item": "文艺复兴的两大精神具体指什么",
+      "reason": "文本中未明确说明两大精神的具体名称，仅在后文提到个人主义和机械主义，但未直接对应。"
+    }
+  ]
+}

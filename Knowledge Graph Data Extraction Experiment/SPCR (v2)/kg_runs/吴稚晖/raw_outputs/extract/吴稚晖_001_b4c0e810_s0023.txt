@@ -1,0 +1,800 @@
+{
+  "metadata": {
+    "schema_version": "lite_v3.0",
+    "article_id": "吴稚晖_001_b4c0e810",
+    "article_title": "一个新信仰的宇宙观及人生观",
+    "source_author": "吴稚晖",
+    "section_title": "讲到这里，第一层可先用不值钱的玄学理想，近乎游戏的，说道毛厕里的石头亦有感觉。苍蝇的感觉，非即人的感觉，他们感觉的状况，颇极差等。玫瑰树的感觉，非即苍蝇的感觉，他们的感觉，又极差等。如是焉能禁我来瞎说，毛厕里石头的感觉，非即玫瑰树的感觉，他们感觉的状况，也极差等。若欲强分高下，则石头有其寂然不动的感觉，真所谓无私心而合天理，所以贞固永寿。一块毛厕里的石头，可以阅几十代人而依然如故，见数百兆苍蝇存灭，看千万棵玫瑰树忽而芬芳，忽而萎枯。彼如曰毛厕里的石头为万物之灵，理由亦未尝不充足。彼另有彼之可感与彼之可觉，人与苍蝇及玫瑰树之感觉，皆非彼所需，故亦非彼所有，如是而已。然这种蹈空的掉枪花，我们中国古代的玄学鬼常用“孰为正色，孰为正味”等的论调，闹得甚嚣尘上。自然受过科学洗礼的玄学鬼，不肯就把这种空言，来作惟一的搪塞。所以说到第二层，他就要戴上科学面具，正正经经，板起了面孔，来断定毛厕里的石头亦有感觉。他不是说能够",
+    "section_author": "讲到这里，第一层可先用不值钱的玄学理想，近乎游戏的，说道毛厕里的石头亦有感觉。苍蝇的感觉，非即人的感觉，他们感觉的状况，颇极差等。玫瑰树的感觉，非即苍蝇的感觉，他们的感觉，又极差等。如是焉能禁我来瞎说，毛厕里石头的感觉，非即玫瑰树的感觉，他们感觉的状况，也极差等。若欲强分高下，则石头有其寂然不动的感觉，真所谓无私心而合天理，所以贞固永寿。一块毛厕里的石头，可以阅几十代人而依然如故，见数百兆苍蝇存灭，看千万棵玫瑰树忽而芬芳，忽而萎枯。彼如曰毛厕里的石头为万物之灵，理由亦未尝不充足。彼另有彼之可感与彼之可觉，人与苍蝇及玫瑰树之感觉，皆非彼所需，故亦非彼所有，如是而已。然这种蹈空的掉枪花，我们中国古代的玄学鬼常用“孰为正色，孰为正味”等的论调，闹得甚嚣尘上。自然受过科学洗礼的玄学鬼，不肯就把这种空言，来作惟一的搪塞。所以说到第二层，他就要戴上科学面具，正正经经，板起了面孔，来断定毛厕里的石头亦有感觉。他不是说能够",
+    "segment_id": "吴稚晖_001_b4c0e810_s0023",
+    "segment_index": 23,
+    "source_file": "E:\\1研究生\\岭南大学\\论文毕业\\capstone\\资料\\新的内容开始了\\local_upload\\input_吴稚晖\\吴稚晖.txt"
+  },
+  "entities": [
+    {
+      "id": "e1",
+      "name": "柏格森",
+      "canonical_name": "柏格森",
+      "type": "人物",
+      "evidence": "孔二先生实是二千五百年以前的柏格森",
+      "confidence": 1.0
+    },
+    {
+      "id": "e2",
+      "name": "孔二先生",
+      "canonical_name": "孔二先生",
+      "type": "人物",
+      "evidence": "孔二先生实是二千五百年以前的柏格森",
+      "confidence": 1.0
+    },
+    {
+      "id": "e3",
+      "name": "尼、柏二位洋先生",
+      "canonical_name": "尼、柏二位洋先生",
+      "type": "人物",
+      "evidence": "用着尼、柏二位洋先生的几句话",
+      "confidence": 1.0
+    },
+    {
+      "id": "e4",
+      "name": "上帝",
+      "canonical_name": "上帝",
+      "type": "概念",
+      "evidence": "开除了上帝的名额",
+      "confidence": 1.0
+    },
+    {
+      "id": "e5",
+      "name": "精神元素的灵魂",
+      "canonical_name": "精神元素的灵魂",
+      "type": "概念",
+      "evidence": "放逐了精神元素的灵魂",
+      "confidence": 1.0
+    },
+    {
+      "id": "e6",
+      "name": "宇宙是一个大生命",
+      "canonical_name": "宇宙是一个大生命",
+      "type": "观点",
+      "evidence": "宇宙是一个大生命",
+      "confidence": 1.0
+    },
+    {
+      "id": "e7",
+      "name": "权力",
+      "canonical_name": "权力",
+      "type": "概念",
+      "evidence": "其力曰权力",
+      "confidence": 1.0
+    },
+    {
+      "id": "e8",
+      "name": "意志",
+      "canonical_name": "意志",
+      "type": "概念",
+      "evidence": "由于权力，乃生意志",
+      "confidence": 1.0
+    },
+    {
+      "id": "e9",
+      "name": "感觉",
+      "canonical_name": "感觉",
+      "type": "概念",
+      "evidence": "则造感觉",
+      "confidence": 1.0
+    },
+    {
+      "id": "e10",
+      "name": "情感",
+      "canonical_name": "情感",
+      "type": "概念",
+      "evidence": "则造情感",
+      "confidence": 1.0
+    },
+    {
+      "id": "e11",
+      "name": "思想",
+      "canonical_name": "思想",
+      "type": "概念",
+      "evidence": "乃造思想而为理智",
+      "confidence": 1.0
+    },
+    {
+      "id": "e12",
+      "name": "理智",
+      "canonical_name": "理智",
+      "type": "概念",
+      "evidence": "乃造思想而为理智",
+      "confidence": 1.0
+    },
+    {
+      "id": "e13",
+      "name": "直觉",
+      "canonical_name": "直觉",
+      "type": "概念",
+      "evidence": "是造直觉",
+      "confidence": 1.0
+    },
+    {
+      "id": "e14",
+      "name": "本能",
+      "canonical_name": "本能",
+      "type": "概念",
+      "evidence": "故留遗而为本能",
+      "confidence": 1.0
+    },
+    {
+      "id": "e15",
+      "name": "胡适之",
+      "canonical_name": "胡适之",
+      "type": "人物",
+      "evidence": "胡适之先生所谓",
+      "confidence": 1.0
+    },
+    {
+      "id": "e16",
+      "name": "张先生",
+      "canonical_name": "张先生",
+      "type": "人物",
+      "evidence": "甚为张先生所不服",
+      "confidence": 1.0
+    },
+    {
+      "id": "e17",
+      "name": "直觉是根据于经验的暗示，从活经验里涌出来的",
+      "canonical_name": "直觉是根据于经验的暗示，从活经验里涌出来的",
+      "type": "观点",
+      "evidence": "直觉是根据于经验的暗示，从活经验里涌出来的",
+      "confidence": 1.0
+    },
+    {
+      "id": "e18",
+      "name": "直觉与意志同，以为皆出于先天",
+      "canonical_name": "直觉与意志同，以为皆出于先天",
+      "type": "观点",
+      "evidence": "张先生看直觉与意志同，以为皆出于先天",
+      "confidence": 1.0
+    },
+    {
+      "id": "e19",
+      "name": "易学名家",
+      "canonical_name": "易学名家",
+      "type": "阵营/群体",
+      "evidence": "深通“鬼神情状”的易学名家",
+      "confidence": 1.0
+    },
+    {
+      "id": "e20",
+      "name": "人为万物之灵",
+      "canonical_name": "人为万物之灵",
+      "type": "观点",
+      "evidence": "权吹着人为万物之灵",
+      "confidence": 1.0
+    },
+    {
+      "id": "e21",
+      "name": "永远的流动",
+      "canonical_name": "永远的流动",
+      "type": "概念",
+      "evidence": "其意是欲“永远的流动”",
+      "confidence": 1.0
+    },
+    {
+      "id": "e22",
+      "name": "机械式之生命",
+      "canonical_name": "机械式之生命",
+      "type": "概念",
+      "evidence": "分得机械式之生命（质与力）",
+      "confidence": 1.0
+    },
+    {
+      "id": "e23",
+      "name": "神经系",
+      "canonical_name": "神经系",
+      "type": "概念",
+      "evidence": "每一作用，皆于神经系增造机械",
+      "confidence": 1.0
+    },
+    {
+      "id": "e24",
+      "name": "三斤二两的脑髓",
+      "canonical_name": "三斤二两的脑髓",
+      "type": "概念",
+      "evidence": "逐造成三斤二两的脑髓",
+      "confidence": 1.0
+    },
+    {
+      "id": "e25",
+      "name": "五千零四十八根脑筋",
+      "canonical_name": "五千零四十八根脑筋",
+      "type": "概念",
+      "evidence": "又接上五千零四十八根脑筋",
+      "confidence": 1.0
+    }
+  ],
+  "claims": [
+    {
+      "id": "c1",
+      "speaker": "易学名家",
+      "claim": "孔二先生实是二千五百年以前的柏格森",
+      "target": "柏格森",
+      "claim_type": "对比性主张",
+      "claim_status": "间接转述",
+      "polarity": "neutral",
+      "evidence": "深通“鬼神情状”的易学名家，证明了他的“生生为易”，以为孔二先生实是二千五百年以前的柏格森",
+      "confidence": 1.0
+    },
+    {
+      "id": "c2",
+      "speaker": "易学名家",
+      "claim": "柏格森反做了孔二先生人生观的经纪人",
+      "target": "柏格森",
+      "claim_type": "评价性主张",
+      "claim_status": "间接转述",
+      "polarity": "negative",
+      "evidence": "柏格森反做了孔二先生人生观的经纪人",
+      "confidence": 1.0
+    },
+    {
+      "id": "c3",
+      "speaker": "作者",
+      "claim": "用着尼、柏二位洋先生的几句话，也就够开除了上帝的名额，放逐了精神元素的灵魂",
+      "target": "上帝",
+      "claim_type": "描述性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "用着尼、柏二位洋先生的几句话，也就够开除了上帝的名额，放逐了精神元素的灵魂",
+      "confidence": 1.0
+    },
+    {
+      "id": "c4",
+      "speaker": "作者",
+      "claim": "一样还是可以向上，可以超人",
+      "target": "",
+      "claim_type": "描述性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "一样还是可以向上，可以超人",
+      "confidence": 1.0
+    },
+    {
+      "id": "c5",
+      "speaker": "作者",
+      "claim": "宇宙是一个大生命",
+      "target": "宇宙",
+      "claim_type": "定义性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "宇宙是一个大生命",
+      "confidence": 1.0
+    },
+    {
+      "id": "c6",
+      "speaker": "作者",
+      "claim": "其质，同时含有力",
+      "target": "宇宙",
+      "claim_type": "描述性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "他的质，同时含有力",
+      "confidence": 1.0
+    },
+    {
+      "id": "c7",
+      "speaker": "作者",
+      "claim": "由于权力，乃生意志",
+      "target": "意志",
+      "claim_type": "因果主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "由于权力，乃生意志",
+      "confidence": 1.0
+    },
+    {
+      "id": "c8",
+      "speaker": "作者",
+      "claim": "其意是欲“永远的流动”",
+      "target": "意志",
+      "claim_type": "描述性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "其意是欲“永远的流动”",
+      "confidence": 1.0
+    },
+    {
+      "id": "c9",
+      "speaker": "作者",
+      "claim": "流动而为人，分得机械式之生命（质与力），本乎生命之权力，首造意志",
+      "target": "意志",
+      "claim_type": "因果主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "及至流动而为人，分得机械式之生命（质与力），本乎生命之权力，首造意志",
+      "confidence": 1.0
+    },
+    {
+      "id": "c10",
+      "speaker": "作者",
+      "claim": "从而接触外物，则造感觉",
+      "target": "感觉",
+      "claim_type": "因果主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "从而接触外物，则造感觉",
+      "confidence": 1.0
+    },
+    {
+      "id": "c11",
+      "speaker": "作者",
+      "claim": "迎拒感觉，则造情感",
+      "target": "情感",
+      "claim_type": "因果主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "迎拒感觉，则造情感",
+      "confidence": 1.0
+    },
+    {
+      "id": "c12",
+      "speaker": "作者",
+      "claim": "恐怕情感有误，乃造思想而为理智",
+      "target": "理智",
+      "claim_type": "因果主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "恐怕情感有误，乃造思想而为理智",
+      "confidence": 1.0
+    },
+    {
+      "id": "c13",
+      "speaker": "作者",
+      "claim": "经理智再三审查，使特种情感，恰像自然的常如适当，或更反纠缠智之蔽，是造直觉",
+      "target": "直觉",
+      "claim_type": "因果主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "经理智再三审查，使特种情感，恰像自然的常如适当，或更反纠缠智之蔽，是造直觉",
+      "confidence": 1.0
+    },
+    {
+      "id": "c14",
+      "speaker": "作者",
+      "claim": "有些因为其适于心体，而且无需审检，故留遗而为本能",
+      "target": "本能",
+      "claim_type": "因果主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "有些因为其适于心体，而且无需审检，故留遗而为本能",
+      "confidence": 1.0
+    },
+    {
+      "id": "c15",
+      "speaker": "作者",
+      "claim": "每一作用，皆于神经系增造机械",
+      "target": "神经系",
+      "claim_type": "描述性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "每一作用，皆于神经系增造机械",
+      "confidence": 1.0
+    },
+    {
+      "id": "c16",
+      "speaker": "胡适之",
+      "claim": "直觉是根据于经验的暗示，从活经验里涌出来的",
+      "target": "直觉",
+      "claim_type": "定义性主张",
+      "claim_status": "直接引用",
+      "polarity": "positive",
+      "evidence": "胡适之先生所谓“直觉是根据于经验的暗示，从活经验里涌出来的”",
+      "confidence": 1.0
+    },
+    {
+      "id": "c17",
+      "speaker": "张先生",
+      "claim": "直觉与意志同，以为皆出于先天",
+      "target": "直觉",
+      "claim_type": "定义性主张",
+      "claim_status": "间接转述",
+      "polarity": "positive",
+      "evidence": "张先生看直觉与意志同，以为皆出于先天",
+      "confidence": 1.0
+    },
+    {
+      "id": "c18",
+      "speaker": "作者",
+      "claim": "甚为张先生所不服",
+      "target": "胡适之",
+      "claim_type": "评价性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "甚为张先生所不服",
+      "confidence": 1.0
+    }
+  ],
+  "relations": [
+    {
+      "id": "r1",
+      "head": "易学名家",
+      "head_type": "阵营/群体",
+      "relation": "主张",
+      "relation_subtype": "不适用",
+      "tail": "孔二先生实是二千五百年以前的柏格森",
+      "tail_type": "观点",
+      "polarity": "neutral",
+      "stance_score": 0.0,
+      "intensity": 0.5,
+      "evidence": "深通“鬼神情状”的易学名家，证明了他的“生生为易”，以为孔二先生实是二千五百年以前的柏格森",
+      "confidence": 1.0
+    },
+    {
+      "id": "r2",
+      "head": "易学名家",
+      "head_type": "阵营/群体",
+      "relation": "评价",
+      "relation_subtype": "一般批评",
+      "tail": "柏格森",
+      "tail_type": "人物",
+      "polarity": "negative",
+      "stance_score": -0.5,
+      "intensity": 0.5,
+      "evidence": "柏格森反做了孔二先生人生观的经纪人",
+      "confidence": 1.0
+    },
+    {
+      "id": "r3",
+      "head": "作者",
+      "head_type": "人物",
+      "relation": "主张",
+      "relation_subtype": "不适用",
+      "tail": "用着尼、柏二位洋先生的几句话，也就够开除了上帝的名额，放逐了精神元素的灵魂",
+      "tail_type": "观点",
+      "polarity": "positive",
+      "stance_score": 1.0,
+      "intensity": 0.8,
+      "evidence": "用着尼、柏二位洋先生的几句话，也就够开除了上帝的名额，放逐了精神元素的灵魂",
+      "confidence": 1.0
+    },
+    {
+      "id": "r4",
+      "head": "作者",
+      "head_type": "人物",
+      "relation": "主张",
+      "relation_subtype": "不适用",
+      "tail": "宇宙是一个大生命",
+      "tail_type": "观点",
+      "polarity": "positive",
+      "stance_score": 1.0,
+      "intensity": 0.8,
+      "evidence": "宇宙是一个大生命",
+      "confidence": 1.0
+    },
+    {
+      "id": "r5",
+      "head": "作者",
+      "head_type": "人物",
+      "relation": "主张",
+      "relation_subtype": "不适用",
+      "tail": "由于权力，乃生意志",
+      "tail_type": "观点",
+      "polarity": "positive",
+      "stance_score": 1.0,
+      "intensity": 0.8,
+      "evidence": "由于权力，乃生意志",
+      "confidence": 1.0
+    },
+    {
+      "id": "r6",
+      "head": "作者",
+      "head_type": "人物",
+      "relation": "主张",
+      "relation_subtype": "不适用",
+      "tail": "从而接触外物，则造感觉",
+      "tail_type": "观点",
+      "polarity": "positive",
+      "stance_score": 1.0,
+      "intensity": 0.8,
+      "evidence": "从而接触外物，则造感觉",
+      "confidence": 1.0
+    },
+    {
+      "id": "r7",
+      "head": "作者",
+      "head_type": "人物",
+      "relation": "主张",
+      "relation_subtype": "不适用",
+      "tail": "迎拒感觉，则造情感",
+      "tail_type": "观点",
+      "polarity": "positive",
+      "stance_score": 1.0,
+      "intensity": 0.8,
+      "evidence": "迎拒感觉，则造情感",
+      "confidence": 1.0
+    },
+    {
+      "id": "r8",
+      "head": "作者",
+      "head_type": "人物",
+      "relation": "主张",
+      "relation_subtype": "不适用",
+      "tail": "恐怕情感有误，乃造思想而为理智",
+      "tail_type": "观点",
+      "polarity": "positive",
+      "stance_score": 1.0,
+      "intensity": 0.8,
+      "evidence": "恐怕情感有误，乃造思想而为理智",
+      "confidence": 1.0
+    },
+    {
+      "id": "r9",
+      "head": "作者",
+      "head_type": "人物",
+      "relation": "主张",
+      "relation_subtype": "不适用",
+      "tail": "经理智再三审查，使特种情感，恰像自然的常如适当，或更反纠缠智之蔽，是造直觉",
+      "tail_type": "观点",
+      "polarity": "positive",
+      "stance_score": 1.0,
+      "intensity": 0.8,
+      "evidence": "经理智再三审查，使特种情感，恰像自然的常如适当，或更反纠缠智之蔽，是造直觉",
+      "confidence": 1.0
+    },
+    {
+      "id": "r10",
+      "head": "作者",
+      "head_type": "人物",
+      "relation": "主张",
+      "relation_subtype": "不适用",
+      "tail": "有些因为其适于心体，而且无需审检，故留遗而为本能",
+      "tail_type": "观点",
+      "polarity": "positive",
+      "stance_score": 1.0,
+      "intensity": 0.8,
+      "evidence": "有些因为其适于心体，而且无需审检，故留遗而为本能",
+      "confidence": 1.0
+    },
+    {
+      "id": "r11",
+      "head": "作者",
+      "head_type": "人物",
+      "relation": "主张",
+      "relation_subtype": "不适用",
+      "tail": "每一作用，皆于神经系增造机械",
+      "tail_type": "观点",
+      "polarity": "positive",
+      "stance_score": 1.0,
+      "intensity": 0.8,
+      "evidence": "每一作用，皆于神经系增造机械",
+      "confidence": 1.0
+    },
+    {
+      "id": "r12",
+      "head": "胡适之",
+      "head_type": "人物",
+      "relation": "主张",
+      "relation_subtype": "不适用",
+      "tail": "直觉是根据于经验的暗示，从活经验里涌出来的",
+      "tail_type": "观点",
+      "polarity": "positive",
+      "stance_score": 1.0,
+      "intensity": 0.5,
+      "evidence": "胡适之先生所谓“直觉是根据于经验的暗示，从活经验里涌出来的”",
+      "confidence": 1.0
+    },
+    {
+      "id": "r13",
+      "head": "张先生",
+      "head_type": "人物",
+      "relation": "主张",
+      "relation_subtype": "不适用",
+      "tail": "直觉与意志同，以为皆出于先天",
+      "tail_type": "观点",
+      "polarity": "positive",
+      "stance_score": 1.0,
+      "intensity": 0.5,
+      "evidence": "张先生看直觉与意志同，以为皆出于先天",
+      "confidence": 1.0
+    },
+    {
+      "id": "r14",
+      "head": "张先生",
+      "head_type": "人物",
+      "relation": "反对",
+      "relation_subtype": "同阵营内部批评",
+      "tail": "胡适之",
+      "tail_type": "人物",
+      "polarity": "negative",
+      "stance_score": -0.8,
+      "intensity": 0.7,
+      "evidence": "甚为张先生所不服",
+      "confidence": 1.0
+    },
+    {
+      "id": "r15",
+      "head": "作者",
+      "head_type": "人物",
+      "relation": "引用",
+      "relation_subtype": "援引权威支持",
+      "tail": "胡适之",
+      "tail_type": "人物",
+      "polarity": "positive",
+      "stance_score": 0.5,
+      "intensity": 0.5,
+      "evidence": "约略如胡适之先生所谓“直觉是根据于经验的暗示，从活经验里涌出来的”",
+      "confidence": 1.0
+    },
+    {
+      "id": "r16",
+      "head": "作者",
+      "head_type": "人物",
+      "relation": "引用",
+      "relation_subtype": "援引权威支持",
+      "tail": "尼、柏二位洋先生",
+      "tail_type": "人物",
+      "polarity": "positive",
+      "stance_score": 0.8,
+      "intensity": 0.7,
+      "evidence": "用着尼、柏二位洋先生的几句话，也就够开除了上帝的名额，放逐了精神元素的灵魂",
+      "confidence": 1.0
+    }
+  ],
+  "definitions": [
+    {
+      "id": "def1",
+      "term": "宇宙",
+      "definition": "宇宙是一个大生命，其质同时含有力",
+      "evidence": "宇宙是一个大生命，他的质，同时含有力",
+      "confidence": 1.0
+    },
+    {
+      "id": "def2",
+      "term": "权力",
+      "definition": "在适用别的名词时，亦可称其力曰权力",
+      "evidence": "在适用别的名词时，亦可称其力曰权力",
+      "confidence": 1.0
+    },
+    {
+      "id": "def3",
+      "term": "意志",
+      "definition": "由于权力，乃生意志",
+      "evidence": "由于权力，乃生意志",
+      "confidence": 1.0
+    },
+    {
+      "id": "def4",
+      "term": "感觉",
+      "definition": "接触外物，则造感觉",
+      "evidence": "从而接触外物，则造感觉",
+      "confidence": 1.0
+    },
+    {
+      "id": "def5",
+      "term": "情感",
+      "definition": "迎拒感觉，则造情感",
+      "evidence": "迎拒感觉，则造情感",
+      "confidence": 1.0
+    },
+    {
+      "id": "def6",
+      "term": "理智",
+      "definition": "恐怕情感有误，乃造思想而为理智",
+      "evidence": "恐怕情感有误，乃造思想而为理智",
+      "confidence": 1.0
+    },
+    {
+      "id": "def7",
+      "term": "直觉",
+      "definition": "经理智再三审查，使特种情感，恰像自然的常如适当，或更反纠缠智之蔽，是造直觉",
+      "evidence": "经理智再三审查，使特种情感，恰像自然的常如适当，或更反纠缠智之蔽，是造直觉",
+      "confidence": 1.0
+    },
+    {
+      "id": "def8",
+      "term": "本能",
+      "definition": "有些因为其适于心体，而且无需审检，故留遗而为本能",
+      "evidence": "有些因为其适于心体，而且无需审检，故留遗而为本能",
+      "confidence": 1.0
+    }
+  ],
+  "citations": [
+    {
+      "id": "cit1",
+      "citer": "作者",
+      "quoted_author": "胡适之",
+      "quoted_work": "",
+      "quoted_claim": "直觉是根据于经验的暗示，从活经验里涌出来的",
+      "function": "援引权威支持",
+      "evidence": "约略如胡适之先生所谓“直觉是根据于经验的暗示，从活经验里涌出来的”",
+      "confidence": 1.0
+    },
+    {
+      "id": "cit2",
+      "citer": "作者",
+      "quoted_author": "尼、柏二位洋先生",
+      "quoted_work": "",
+      "quoted_claim": "用着尼、柏二位洋先生的几句话",
+      "function": "援引权威支持",
+      "evidence": "用着尼、柏二位洋先生的几句话，也就够开除了上帝的名额，放逐了精神元素的灵魂",
+      "confidence": 1.0
+    }
+  ],
+  "rhetorical_devices": [
+    {
+      "id": "rh1",
+      "expression": "柏格森反做了孔二先生人生观的经纪人",
+      "device_type": "比喻",
+      "literal_target": "柏格森",
+      "function": "贬低柏格森的地位，将其视为孔二先生人生观的传播者而非原创者",
+      "evidence": "柏格森反做了孔二先生人生观的经纪人",
+      "confidence": 1.0
+    },
+    {
+      "id": "rh2",
+      "expression": "开除了上帝的名额",
+      "device_type": "比喻",
+      "literal_target": "上帝",
+      "function": "形象化地表达否定上帝的存在",
+      "evidence": "开除了上帝的名额",
+      "confidence": 1.0
+    },
+    {
+      "id": "rh3",
+      "expression": "放逐了精神元素的灵魂",
+      "device_type": "比喻",
+      "literal_target": "精神元素的灵魂",
+      "function": "形象化地表达否定精神元素或灵魂的概念",
+      "evidence": "放逐了精神元素的灵魂",
+      "confidence": 1.0
+    },
+    {
+      "id": "rh4",
+      "expression": "三斤二两的脑髓",
+      "device_type": "夸张",
+      "literal_target": "脑髓",
+      "function": "以戏谑方式描述脑髓重量，增加趣味",
+      "evidence": "逐造成三斤二两的脑髓（这是戏语成趣，因吾乡俗说“头大九斤半”脑髓当居三分之一，故云然）",
+      "confidence": 1.0
+    },
+    {
+      "id": "rh5",
+      "expression": "五千零四十八根脑筋",
+      "device_type": "夸张",
+      "literal_target": "脑筋",
+      "function": "以戏谑方式描述脑筋数量，增加趣味",
+      "evidence": "又接上五千零四十八根脑筋（亦戏语，五千零四十八，亦吾乡极言数多之市语）",
+      "confidence": 1.0
+    },
+    {
+      "id": "rh6",
+      "expression": "瞎嚼蛆",
+      "device_type": "标签化",
+      "literal_target": "作者自己的论述",
+      "function": "自嘲式地贬低自己的论述，增加幽默感",
+      "evidence": "虽然我们这种瞎嚼蛆",
+      "confidence": 1.0
+    },
+    {
+      "id": "rh7",
+      "expression": "一根鲠已经刺在喉咙口，也不能不随便一吐",
+      "device_type": "比喻",
+      "literal_target": "作者想要表达的观点",
+      "function": "比喻观点如鲠在喉，不吐不快",
+      "evidence": "然一根鲠已经刺在喉咙口，也不能不随便一吐",
+      "confidence": 1.0
+    }
+  ],
+  "uncertainties": [
+    {
+      "item": "尼、柏二位洋先生的具体身份",
+      "reason": "文本中未明确说明尼、柏具体指谁，仅以“尼、柏二位洋先生”代称"
+    },
+    {
+      "item": "张先生的具体身份",
+      "reason": "文本中仅称“张先生”，未给出全名"
+    },
+    {
+      "item": "易学名家的具体身份",
+      "reason": "文本中仅称“深通‘鬼神情状’的易学名家”，未给出具体姓名"
+    }
+  ]
+}

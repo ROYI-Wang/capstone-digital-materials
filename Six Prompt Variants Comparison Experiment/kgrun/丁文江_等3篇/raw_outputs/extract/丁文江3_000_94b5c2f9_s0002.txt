@@ -1,0 +1,251 @@
+{
+  "metadata": {
+    "schema_version": "lite_v2.0",
+    "article_id": "丁文江3_000_94b5c2f9",
+    "article_title": "“玄学与科学”论争的余兴",
+    "source_author": "丁文江",
+    "section_title": "",
+    "section_author": "",
+    "segment_id": "丁文江3_000_94b5c2f9_s0002",
+    "segment_index": 2,
+    "source_file": "E:\\1研究生\\岭南大学\\论文毕业\\capstone\\资料\\新的内容开始了\\local_upload\\input_texts\\丁文江3.txt"
+  },
+  "entities": [
+    {
+      "id": "e1",
+      "name": "宰平先生",
+      "canonical_name": "宰平",
+      "type": "人物",
+      "evidence": "宰平先生又说",
+      "confidence": 1.0
+    },
+    {
+      "id": "e2",
+      "name": "在君先生",
+      "canonical_name": "丁文江",
+      "type": "人物",
+      "evidence": "在君先生所主张",
+      "confidence": 1.0
+    },
+    {
+      "id": "e3",
+      "name": "科学方法",
+      "canonical_name": "科学方法",
+      "type": "概念",
+      "evidence": "科学方法是否有益于人生观",
+      "confidence": 1.0
+    },
+    {
+      "id": "e4",
+      "name": "人生观",
+      "canonical_name": "人生观",
+      "type": "概念",
+      "evidence": "科学方法是否有益于人生观",
+      "confidence": 1.0
+    },
+    {
+      "id": "e5",
+      "name": "科学",
+      "canonical_name": "科学",
+      "type": "概念",
+      "evidence": "有许多人说科学是完全物质的、机械的、冷酷残忍的",
+      "confidence": 1.0
+    },
+    {
+      "id": "e6",
+      "name": "欧洲的破产",
+      "canonical_name": "欧洲财政破产",
+      "type": "概念",
+      "evidence": "欧洲的破产是否是科学的责任",
+      "confidence": 1.0
+    },
+    {
+      "id": "e7",
+      "name": "欧洲财政破产",
+      "canonical_name": "欧洲财政破产",
+      "type": "历史事件",
+      "evidence": "现在欧洲财政破产的情形",
+      "confidence": 1.0
+    },
+    {
+      "id": "e8",
+      "name": "世界的大战",
+      "canonical_name": "第一次世界大战",
+      "type": "历史事件",
+      "evidence": "科学文明的结果就是这回世界的大战",
+      "confidence": 1.0
+    },
+    {
+      "id": "e9",
+      "name": "玄学",
+      "canonical_name": "玄学",
+      "type": "概念",
+      "evidence": "他反对我攻击玄学",
+      "confidence": 1.0
+    }
+  ],
+  "claims": [
+    {
+      "id": "c1",
+      "speaker": "宰平先生",
+      "claim": "在君先生所主张，我们平日谈话之间，本来没有什么相反的意见，对于上列科学的方法是否有益于人生观，当然是肯定的",
+      "target": "科学方法是否有益于人生观",
+      "claim_type": "方法论主张",
+      "claim_status": "直接引用",
+      "polarity": "positive",
+      "evidence": "在君先生所主张，我们平日谈话之间，本来没有什么相反的意见，对于上列科学的方法是否有益于人生观，当然是肯定的",
+      "confidence": 1.0
+    },
+    {
+      "id": "c2",
+      "speaker": "宰平先生",
+      "claim": "有许多人说科学是完全物质的、机械的、冷酷残忍的；科学文明的结果就是这回世界的大战，及现在欧洲财政破产的情形。这种主张我们也不敢赞成。",
+      "target": "科学",
+      "claim_type": "价值评价",
+      "claim_status": "直接引用",
+      "polarity": "negative",
+      "evidence": "有许多人说科学是完全物质的、机械的、冷酷残忍的；科学文明的结果就是这回世界的大战，及现在欧洲财政破产的情形。这种主张我们也不敢赞成。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c3",
+      "speaker": "丁文江",
+      "claim": "科学方法是否有益于人生观，欧洲的破产是否是科学的责任，是这一次讨论里面的最重要的问题。",
+      "target": "科学方法、人生观、欧洲的破产、科学的责任",
+      "claim_type": "问题提出",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "科学方法是否有益于人生观，欧洲的破产是否是科学的责任，是这一次讨论里面的最重要的问题。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c4",
+      "speaker": "丁文江",
+      "claim": "对于这两点，宰平先生的态度既然这样明显，无论他对于我其他的议论如何反对，我当然不敢不引他为同志。",
+      "target": "宰平先生",
+      "claim_type": "价值评价",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "对于这两点，宰平先生的态度既然这样明显，无论他对于我其他的议论如何反对，我当然不敢不引他为同志。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c5",
+      "speaker": "丁文江",
+      "claim": "他反对我的理由一半由于误会。",
+      "target": "宰平先生反对丁文江的理由",
+      "claim_type": "论战策略批评",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "他反对我的理由一半由于误会。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c6",
+      "speaker": "丁文江",
+      "claim": "一半由于他反对我攻击玄学，反对我的态度同讲法。",
+      "target": "宰平先生反对丁文江的理由",
+      "claim_type": "论战策略批评",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "一半由于他反对我攻击玄学，反对我的态度同讲法。",
+      "confidence": 1.0
+    }
+  ],
+  "relations": [
+    {
+      "id": "r1",
+      "head": "宰平先生",
+      "head_type": "人物",
+      "relation": "引用",
+      "relation_subtype": "直接引用",
+      "tail": "在君先生所主张，我们平日谈话之间，本来没有什么相反的意见，对于上列科学的方法是否有益于人生观，当然是肯定的",
+      "tail_type": "观点",
+      "polarity": "positive",
+      "evidence": "宰平先生又说：\n\n“这种见解现在说的人很少。在君先生所主张，我们平日谈话之间，本来没有什么相反的意见，对于上列科学的方法是否有益于人生观，当然是肯定的”",
+      "confidence": 1.0
+    },
+    {
+      "id": "r2",
+      "head": "宰平先生",
+      "head_type": "人物",
+      "relation": "引用",
+      "relation_subtype": "直接引用",
+      "tail": "有许多人说科学是完全物质的、机械的、冷酷残忍的；科学文明的结果就是这回世界的大战，及现在欧洲财政破产的情形。这种主张我们也不敢赞成。",
+      "tail_type": "观点",
+      "polarity": "negative",
+      "evidence": "他又说：\n\n“有许多人说科学是完全物质的、机械的、冷酷残忍的；科学文明的结果就是这回世界的大战，及现在欧洲财政破产的情形。这种主张我们也不敢赞成。”",
+      "confidence": 1.0
+    },
+    {
+      "id": "r3",
+      "head": "丁文江",
+      "head_type": "人物",
+      "relation": "回应",
+      "relation_subtype": "部分肯定",
+      "tail": "宰平先生",
+      "tail_type": "人物",
+      "polarity": "positive",
+      "evidence": "对于这两点，宰平先生的态度既然这样明显，无论他对于我其他的议论如何反对，我当然不敢不引他为同志。",
+      "confidence": 1.0
+    },
+    {
+      "id": "r4",
+      "head": "丁文江",
+      "head_type": "人物",
+      "relation": "批评",
+      "relation_subtype": "一般批评",
+      "tail": "宰平先生",
+      "tail_type": "人物",
+      "polarity": "negative",
+      "evidence": "他反对我的理由一半由于误会。",
+      "confidence": 1.0
+    },
+    {
+      "id": "r5",
+      "head": "丁文江",
+      "head_type": "人物",
+      "relation": "批评",
+      "relation_subtype": "一般批评",
+      "tail": "宰平先生",
+      "tail_type": "人物",
+      "polarity": "negative",
+      "evidence": "一半由于他反对我攻击玄学，反对我的态度同讲法。",
+      "confidence": 1.0
+    }
+  ],
+  "definitions": [],
+  "citations": [
+    {
+      "id": "cit1",
+      "citer": "丁文江",
+      "quoted_author": "宰平先生",
+      "quoted_work": "",
+      "quoted_claim": "在君先生所主张，我们平日谈话之间，本来没有什么相反的意见，对于上列科学的方法是否有益于人生观，当然是肯定的",
+      "function": "作为批评对象",
+      "evidence": "宰平先生又说：\n\n“这种见解现在说的人很少。在君先生所主张，我们平日谈话之间，本来没有什么相反的意见，对于上列科学的方法是否有益于人生观，当然是肯定的”",
+      "confidence": 1.0
+    },
+    {
+      "id": "cit2",
+      "citer": "丁文江",
+      "quoted_author": "宰平先生",
+      "quoted_work": "",
+      "quoted_claim": "有许多人说科学是完全物质的、机械的、冷酷残忍的；科学文明的结果就是这回世界的大战，及现在欧洲财政破产的情形。这种主张我们也不敢赞成。",
+      "function": "作为批评对象",
+      "evidence": "他又说：\n\n“有许多人说科学是完全物质的、机械的、冷酷残忍的；科学文明的结果就是这回世界的大战，及现在欧洲财政破产的情形。这种主张我们也不敢赞成。”",
+      "confidence": 1.0
+    }
+  ],
+  "rhetorical_devices": [],
+  "uncertainties": [
+    {
+      "item": "宰平先生所引用的“有许多人说”中的“许多人”具体指谁，文本未明确说明。",
+      "reason": "文本中只提到“有许多人说”，未给出具体人物或群体名称，无法确定实体。"
+    },
+    {
+      "item": "丁文江所说的“他看了我第二篇文章，自然会得解除”中的“第二篇文章”具体指哪一篇，文本未说明。",
+      "reason": "文本未提供文章标题或更多信息，无法确定。"
+    }
+  ]
+}

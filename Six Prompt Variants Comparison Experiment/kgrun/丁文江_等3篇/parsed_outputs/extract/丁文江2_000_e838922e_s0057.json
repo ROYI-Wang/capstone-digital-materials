@@ -1,0 +1,300 @@
+{
+  "metadata": {
+    "schema_version": "lite_v2.0",
+    "article_id": "丁文江2_000_e838922e",
+    "article_title": "玄学与科学——答张君劢",
+    "source_author": "丁文江",
+    "section_title": "",
+    "section_author": "",
+    "segment_id": "丁文江2_000_e838922e_s0057",
+    "segment_index": 57,
+    "source_file": "E:\\1研究生\\岭南大学\\论文毕业\\capstone\\资料\\新的内容开始了\\local_upload\\input_texts\\丁文江2.txt"
+  },
+  "entities": [
+    {
+      "id": "e1",
+      "name": "玄学家",
+      "canonical_name": "玄学家",
+      "type": "Faction",
+      "evidence": "决不像玄学家拿想像来骗人的",
+      "confidence": 0.9
+    },
+    {
+      "id": "e2",
+      "name": "杜牧之",
+      "canonical_name": "杜牧之",
+      "type": "Person",
+      "evidence": "杜牧之说“蜡烛有心还惜别，替人垂泪到天明”",
+      "confidence": 0.9
+    },
+    {
+      "id": "e3",
+      "name": "柏格森",
+      "canonical_name": "柏格森",
+      "type": "Person",
+      "evidence": "若是柏格森对我们老实说，他的玄学是同诗人的诗一样",
+      "confidence": 0.9
+    },
+    {
+      "id": "e4",
+      "name": "玄学",
+      "canonical_name": "玄学",
+      "type": "Concept",
+      "evidence": "他的玄学是同诗人的诗一样",
+      "confidence": 0.9
+    },
+    {
+      "id": "e5",
+      "name": "神学",
+      "canonical_name": "神学",
+      "type": "Concept",
+      "evidence": "我不承认神学是宗教",
+      "confidence": 0.9
+    },
+    {
+      "id": "e6",
+      "name": "宗教",
+      "canonical_name": "宗教",
+      "type": "Concept",
+      "evidence": "我不承认神学是宗教",
+      "confidence": 0.9
+    },
+    {
+      "id": "e7",
+      "name": "美术",
+      "canonical_name": "美术",
+      "type": "Concept",
+      "evidence": "学科学的人没有不崇拜美术的",
+      "confidence": 0.9
+    },
+    {
+      "id": "e8",
+      "name": "科学",
+      "canonical_name": "科学",
+      "type": "Concept",
+      "evidence": "学科学的人没有不崇拜美术的",
+      "confidence": 0.9
+    },
+    {
+      "id": "e9",
+      "name": "诗人",
+      "canonical_name": "诗人",
+      "type": "Faction",
+      "evidence": "诗人画家虽是常有奇怪的想像，他们最诚实",
+      "confidence": 0.9
+    },
+    {
+      "id": "e10",
+      "name": "画家",
+      "canonical_name": "画家",
+      "type": "Faction",
+      "evidence": "诗人画家虽是常有奇怪的想像，他们最诚实",
+      "confidence": 0.9
+    }
+  ],
+  "claims": [
+    {
+      "id": "c1",
+      "speaker": "丁文江",
+      "claim": "学科学的人没有不崇拜美术的",
+      "target": "学科学的人",
+      "claim_type": "社会理论主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "学科学的人没有不崇拜美术的",
+      "confidence": 0.9
+    },
+    {
+      "id": "c2",
+      "speaker": "丁文江",
+      "claim": "知识越丰富，表示情感的能力越大；越能表示情感，知识越丰富",
+      "target": "知识与情感的关系",
+      "claim_type": "知识论主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "知识越丰富，表示情感的能力越大；越能表示情感，知识越丰富",
+      "confidence": 0.9
+    },
+    {
+      "id": "c3",
+      "speaker": "丁文江",
+      "claim": "诗人画家虽是常有奇怪的想像，他们最诚实，决不像玄学家拿想像来骗人的",
+      "target": "诗人画家与玄学家的比较",
+      "claim_type": "价值评价",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "诗人画家虽是常有奇怪的想像，他们最诚实，决不像玄学家拿想像来骗人的",
+      "confidence": 0.9
+    },
+    {
+      "id": "c4",
+      "speaker": "丁文江",
+      "claim": "画地狱的人决不说我们要到他画里面去受罪",
+      "target": "画家",
+      "claim_type": "论据",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "画地狱的人决不说我们要到他画里面去受罪",
+      "confidence": 0.9
+    },
+    {
+      "id": "c5",
+      "speaker": "丁文江",
+      "claim": "杜牧之说“蜡烛有心还惜别，替人垂泪到天明”。决不是叫我们相信蜡烛真有惜别的心，真能替人吊眼泪",
+      "target": "杜牧之的诗句",
+      "claim_type": "论据",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "杜牧之说“蜡烛有心还惜别，替人垂泪到天明”。决不是叫我们相信蜡烛真有惜别的心，真能替人吊眼泪",
+      "confidence": 0.9
+    },
+    {
+      "id": "c6",
+      "speaker": "丁文江",
+      "claim": "若是柏格森对我们老实说，他的玄学是同诗人的诗一样，我们决不肯再反对他了",
+      "target": "柏格森",
+      "claim_type": "反驳性主张",
+      "claim_status": "假设情境",
+      "polarity": "negative",
+      "evidence": "若是柏格森对我们老实说，他的玄学是同诗人的诗一样，我们决不肯再反对他了",
+      "confidence": 0.9
+    },
+    {
+      "id": "c7",
+      "speaker": "丁文江",
+      "claim": "我不承认神学是宗教",
+      "target": "神学与宗教的关系",
+      "claim_type": "定义性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "我不承认神学是宗教",
+      "confidence": 0.9
+    }
+  ],
+  "relations": [
+    {
+      "id": "r1",
+      "head": "丁文江",
+      "head_type": "Person",
+      "relation": "CRITICIZES",
+      "tail": "玄学家",
+      "tail_type": "Faction",
+      "polarity": "negative",
+      "evidence": "决不像玄学家拿想像来骗人的",
+      "confidence": 0.9
+    },
+    {
+      "id": "r2",
+      "head": "丁文江",
+      "head_type": "Person",
+      "relation": "COMPARES",
+      "tail": "诗人画家",
+      "tail_type": "Faction",
+      "polarity": "positive",
+      "evidence": "诗人画家虽是常有奇怪的想像，他们最诚实，决不像玄学家拿想像来骗人的",
+      "confidence": 0.9
+    },
+    {
+      "id": "r3",
+      "head": "丁文江",
+      "head_type": "Person",
+      "relation": "COMPARES",
+      "tail": "玄学家",
+      "tail_type": "Faction",
+      "polarity": "negative",
+      "evidence": "诗人画家虽是常有奇怪的想像，他们最诚实，决不像玄学家拿想像来骗人的",
+      "confidence": 0.9
+    },
+    {
+      "id": "r4",
+      "head": "丁文江",
+      "head_type": "Person",
+      "relation": "假设",
+      "tail": "柏格森",
+      "tail_type": "Person",
+      "polarity": "negative",
+      "evidence": "若是柏格森对我们老实说，他的玄学是同诗人的诗一样，我们决不肯再反对他了",
+      "confidence": 0.9
+    },
+    {
+      "id": "r5",
+      "head": "丁文江",
+      "head_type": "Person",
+      "relation": "DISTINGUISHES",
+      "tail": "神学",
+      "tail_type": "Concept",
+      "polarity": "negative",
+      "evidence": "我不承认神学是宗教",
+      "confidence": 0.9
+    },
+    {
+      "id": "r6",
+      "head": "丁文江",
+      "head_type": "Person",
+      "relation": "DISTINGUISHES",
+      "tail": "宗教",
+      "tail_type": "Concept",
+      "polarity": "negative",
+      "evidence": "我不承认神学是宗教",
+      "confidence": 0.9
+    }
+  ],
+  "definitions": [],
+  "citations": [
+    {
+      "id": "cit1",
+      "citer": "丁文江",
+      "quoted_author": "杜牧之",
+      "quoted_work": "",
+      "quoted_claim": "蜡烛有心还惜别，替人垂泪到天明",
+      "function": "作为论据",
+      "evidence": "杜牧之说“蜡烛有心还惜别，替人垂泪到天明”",
+      "confidence": 0.9
+    }
+  ],
+  "rhetorical_devices": [
+    {
+      "id": "rh1",
+      "expression": "拿想像来骗人的",
+      "device_type": "标签化",
+      "literal_target": "玄学家",
+      "function": "贬低玄学家，将其与诚实对立的欺骗行为关联",
+      "evidence": "决不像玄学家拿想像来骗人的",
+      "confidence": 0.9
+    },
+    {
+      "id": "rh2",
+      "expression": "他的玄学是同诗人的诗一样",
+      "device_type": "类比",
+      "literal_target": "柏格森的玄学",
+      "function": "通过类比暗示玄学如同诗歌一样是虚构的，并非真实知识",
+      "evidence": "若是柏格森对我们老实说，他的玄学是同诗人的诗一样",
+      "confidence": 0.9
+    }
+  ],
+  "uncertainties": [
+    {
+      "item": "文本末尾“十二年前我做动物学教科书说蚁类优胜的理由”之后内容被截断，无法完整抽取相关主张",
+      "reason": "文本片段在句子中间结束，后续内容缺失"
+    }
+  ],
+  "_meta": {
+    "status": "success",
+    "stage": "extract",
+    "model": "deepseek-ai/DeepSeek-V4-Flash",
+    "base_url": "https://api.siliconflow.cn/v1",
+    "prompt_version": "extract_prompt_v2.0",
+    "schema_version": "lite_v2.0",
+    "segment_id": "丁文江2_000_e838922e_s0057",
+    "article_id": "丁文江2_000_e838922e",
+    "char_start": 14234,
+    "char_end": 14554,
+    "raw_path": "E:\\1研究生\\岭南大学\\论文毕业\\capstone\\资料\\新的内容开始了\\local_upload\\kg_runs\\丁文江_等3篇\\raw_outputs\\extract\\丁文江2_000_e838922e_s0057.txt",
+    "parsed_at": "2026-05-19T04:50:42",
+    "started_at": "2026-05-19T04:49:46",
+    "elapsed_seconds": 55.65,
+    "strict_evidence_check": true,
+    "drop_unsupported_evidence": true,
+    "request_timeout_seconds": 180
+  }
+}

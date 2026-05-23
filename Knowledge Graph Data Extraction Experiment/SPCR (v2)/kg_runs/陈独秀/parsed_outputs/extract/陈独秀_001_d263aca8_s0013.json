@@ -1,0 +1,423 @@
+{
+  "metadata": {
+    "schema_version": "lite_v3.0",
+    "article_id": "陈独秀_001_d263aca8",
+    "article_title": "答适之",
+    "source_author": "陈独秀",
+    "section_title": "方今国中竟言新文化，而文化转移之枢纽，不外乎人生观。吾有吾之文化，西洋有西洋之文化。西洋之有益者如何采之，有害者如何革除之；凡此取舍之间，皆决之于观点。观点定，而后精神上之思潮、物质上之制度，乃可按",
+    "section_author": "方今国中竟言新文化，而文化转移之枢纽，不外乎人生观。吾有吾之文化，西洋有西洋之文化。西洋之有益者如何采之，有害者如何革除之；凡此取舍之间，皆决之于观点。观点定，而后精神上之思潮、物质上之制度，乃可",
+    "segment_id": "陈独秀_001_d263aca8_s0013",
+    "segment_index": 13,
+    "source_file": "E:\\1研究生\\岭南大学\\论文毕业\\capstone\\资料\\新的内容开始了\\local_upload\\input_陈独秀\\陈独秀.txt"
+  },
+  "entities": [
+    {
+      "id": "e1",
+      "name": "人生观",
+      "canonical_name": "人生观",
+      "type": "概念",
+      "evidence": "盖人生观，既无客观标准，故惟有返求之于己，而决不能以他人之现成之人生观，作为我之人生观者也。",
+      "confidence": 0.8
+    },
+    {
+      "id": "e2",
+      "name": "科学",
+      "canonical_name": "科学",
+      "type": "概念",
+      "evidence": "科学之为用，专注于向外，其结果则试验室与工厂遍国中也。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e3",
+      "name": "精神与物质",
+      "canonical_name": "精神与物质",
+      "type": "概念",
+      "evidence": "所谓精神与物质者：科学之为用，专注于向外，其结果则试验室与工厂遍国中也。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e4",
+      "name": "男女之爱",
+      "canonical_name": "男女之爱",
+      "type": "概念",
+      "evidence": "所谓男女之爱者：方今国内，人人争言男女平等，恋爱自由，此对于旧家庭制度之反抗，无可免者也。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e5",
+      "name": "个人与社会",
+      "canonical_name": "个人与社会",
+      "type": "概念",
+      "evidence": "曰精神与物质，曰男女之爱，曰个人与社会，曰国家与世界。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e6",
+      "name": "国家与世界",
+      "canonical_name": "国家与世界",
+      "type": "概念",
+      "evidence": "曰精神与物质，曰男女之爱，曰个人与社会，曰国家与世界。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e7",
+      "name": "张季直",
+      "canonical_name": "张季直",
+      "type": "人物",
+      "evidence": "故国中有以开纱厂设铁厂创航业公司自任，如张季直、聂云台之流，则国人相率而崇拜之。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e8",
+      "name": "聂云台",
+      "canonical_name": "聂云台",
+      "type": "人物",
+      "evidence": "故国中有以开纱厂设铁厂创航业公司自任，如张季直、聂云台之流，则国人相率而崇拜之。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e9",
+      "name": "国人",
+      "canonical_name": "国人",
+      "type": "阵营/群体",
+      "evidence": "故国中有以开纱厂设铁厂创航业公司自任，如张季直、聂云台之流，则国人相率而崇拜之。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e10",
+      "name": "欧洲人",
+      "canonical_name": "欧洲人",
+      "type": "阵营/群体",
+      "evidence": "抑知一国偏重工商，是否为正当之人生观，是否为正当之文化，在欧洲人观之，已成大疑问矣。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e11",
+      "name": "物质文明",
+      "canonical_name": "物质文明",
+      "type": "概念",
+      "evidence": "欧战终后，有结算二三百年之总帐者，对于物质文明，不胜务外逐物之感。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e12",
+      "name": "旧家庭制度",
+      "canonical_name": "旧家庭制度",
+      "type": "概念",
+      "evidence": "方今国内，人人争言男女平等，恋爱自由，此对于旧家庭制度之反抗，无可免者也。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e13",
+      "name": "男女平等",
+      "canonical_name": "男女平等",
+      "type": "概念",
+      "evidence": "方今国内，人人争言男女平等，恋爱自由，此对于旧家庭制度之反抗，无可免者也。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e14",
+      "name": "恋爱自由",
+      "canonical_name": "恋爱自由",
+      "type": "概念",
+      "evidence": "方今国内，人人争言男女平等，恋爱自由，此对于旧家庭制度之反抗，无可免者也。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e15",
+      "name": "孟子",
+      "canonical_name": "孟子",
+      "type": "人物",
+      "evidence": "故孟子以男女与饮食并列，诚得其当也。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e16",
+      "name": "西洋文学",
+      "canonical_name": "西洋文学",
+      "type": "概念",
+      "evidence": "而今之西洋文学，十书中无一书能出男女恋爱之外者，与我国戏剧中，十有七八不以男女恋爱为内容者，正相反对者也。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e17",
+      "name": "我国戏剧",
+      "canonical_name": "我国戏剧",
+      "type": "概念",
+      "evidence": "而今之西洋文学，十书中无一书能出男女恋爱之外者，与我国戏剧中，十有七八不以男女恋爱为内容者，正相反对者也。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e18",
+      "name": "占有冲动",
+      "canonical_name": "占有冲动",
+      "type": "概念",
+      "evidence": "然我以为一人与其自身以外相接触，不论其所接所触者为物为人，要之不免于占有冲动存乎其间，此之谓私，既已言私，则其非为高尚神圣可知。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e19",
+      "name": "私",
+      "canonical_name": "私",
+      "type": "概念",
+      "evidence": "此之谓私，既已言私，则其非为高尚神圣可知。",
+      "confidence": 0.9
+    }
+  ],
+  "claims": [
+    {
+      "id": "c1",
+      "speaker": "方今国中竟言新文化，而文化转移之枢纽，不外乎人生观。吾有吾之文化，西洋有西洋之文化。西洋之有益者如何采之，有害者如何革除之；凡此取舍之间，皆决之于观点。观点定，而后精神上之思潮、物质上之制度，乃可",
+      "claim": "人生观既无客观标准，故惟有返求之于己，而决不能以他人之现成之人生观，作为我之人生观。",
+      "target": "人生观",
+      "claim_type": "描述性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "盖人生观，既无客观标准，故惟有返求之于己，而决不能以他人之现成之人生观，作为我之人生观者也。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c2",
+      "speaker": "方今国中竟言新文化，而文化转移之枢纽，不外乎人生观。吾有吾之文化，西洋有西洋之文化。西洋之有益者如何采之，有害者如何革除之；凡此取舍之间，皆决之于观点。观点定，而后精神上之思潮、物质上之制度，乃可",
+      "claim": "科学之为用，专注于向外，其结果则试验室与工厂遍国中也。朝作夕辍，人生如机械然，精神上之慰安所在，则不可得而知也。",
+      "target": "科学",
+      "claim_type": "描述性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "科学之为用，专注于向外，其结果则试验室与工厂遍国中也。朝作夕辍，人生如机械然，精神上之慰安所在，则不可得而知也。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c3",
+      "speaker": "欧洲人",
+      "claim": "一国偏重工商，是否为正当之人生观，是否为正当之文化，已成大疑问。",
+      "target": "偏重工商",
+      "claim_type": "评价性主张",
+      "claim_status": "间接转述",
+      "polarity": "negative",
+      "evidence": "抑知一国偏重工商，是否为正当之人生观，是否为正当之文化，在欧洲人观之，已成大疑问矣。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c4",
+      "speaker": "方今国中竟言新文化，而文化转移之枢纽，不外乎人生观。吾有吾之文化，西洋有西洋之文化。西洋之有益者如何采之，有害者如何革除之；凡此取舍之间，皆决之于观点。观点定，而后精神上之思潮、物质上之制度，乃可",
+      "claim": "欧战终后，有结算二三百年之总帐者，对于物质文明，不胜务外逐物之感。厌恶之论，已屡见不一见矣。",
+      "target": "物质文明",
+      "claim_type": "描述性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "欧战终后，有结算二三百年之总帐者，对于物质文明，不胜务外逐物之感。厌恶之论，已屡见不一见矣。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c5",
+      "speaker": "方今国中竟言新文化，而文化转移之枢纽，不外乎人生观。吾有吾之文化，西洋有西洋之文化。西洋之有益者如何采之，有害者如何革除之；凡此取舍之间，皆决之于观点。观点定，而后精神上之思潮、物质上之制度，乃可",
+      "claim": "一人与其自身以外相接触，不论其所接所触者为物为人，要之不免于占有冲动存乎其间，此之谓私，既已言私，则其非为高尚神圣可知。",
+      "target": "占有冲动",
+      "claim_type": "描述性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "然我以为一人与其自身以外相接触，不论其所接所触者为物为人，要之不免于占有冲动存乎其间，此之谓私，既已言私，则其非为高尚神圣可知。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c6",
+      "speaker": "方今国中竟言新文化，而文化转移之枢纽，不外乎人生观。吾有吾之文化，西洋有西洋之文化。西洋之有益者如何采之，有害者如何革除之；凡此取舍之间，皆决之于观点。观点定，而后精神上之思潮、物质上之制度，乃可",
+      "claim": "孟子以男女与饮食并列，诚得其当也。",
+      "target": "孟子",
+      "claim_type": "评价性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "故孟子以男女与饮食并列，诚得其当也。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c7",
+      "speaker": "方今国中竟言新文化，而文化转移之枢纽，不外乎人生观。吾有吾之文化，西洋有西洋之文化。西洋之有益者如何采之，有害者如何革除之；凡此取舍之间，皆决之于观点。观点定，而后精神上之思潮、物质上之制度，乃可",
+      "claim": "西洋文学十书中无一书能出男女恋爱之外者，与我国戏剧中十有七八不以男女恋爱为内容者，正相反对。",
+      "target": "西洋文学",
+      "claim_type": "对比性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "而今之西洋文学，十书中无一书能出男女恋爱之外者，与我国戏剧中，十有七八不以男女恋爱为内容者，正相反对者也。",
+      "confidence": 0.9
+    }
+  ],
+  "relations": [
+    {
+      "id": "r1",
+      "head": "人生观",
+      "head_type": "概念",
+      "relation": "定义",
+      "relation_subtype": "概念澄清",
+      "tail": "无客观标准",
+      "tail_type": "概念",
+      "polarity": "neutral",
+      "stance_score": 0.0,
+      "intensity": 0.5,
+      "evidence": "盖人生观，既无客观标准，故惟有返求之于己，而决不能以他人之现成之人生观，作为我之人生观者也。",
+      "confidence": 0.9
+    },
+    {
+      "id": "r2",
+      "head": "科学",
+      "head_type": "概念",
+      "relation": "导致",
+      "relation_subtype": "不适用",
+      "tail": "人生如机械然",
+      "tail_type": "比喻/类比",
+      "polarity": "negative",
+      "stance_score": -0.5,
+      "intensity": 0.6,
+      "evidence": "科学之为用，专注于向外，其结果则试验室与工厂遍国中也。朝作夕辍，人生如机械然，精神上之慰安所在，则不可得而知也。",
+      "confidence": 0.9
+    },
+    {
+      "id": "r3",
+      "head": "国人",
+      "head_type": "阵营/群体",
+      "relation": "相关",
+      "relation_subtype": "一般批评",
+      "tail": "张季直",
+      "tail_type": "人物",
+      "polarity": "negative",
+      "stance_score": -0.5,
+      "intensity": 0.5,
+      "evidence": "故国中有以开纱厂设铁厂创航业公司自任，如张季直、聂云台之流，则国人相率而崇拜之。",
+      "confidence": 0.8
+    },
+    {
+      "id": "r4",
+      "head": "欧洲人",
+      "head_type": "阵营/群体",
+      "relation": "质疑",
+      "relation_subtype": "事实质疑",
+      "tail": "偏重工商",
+      "tail_type": "概念",
+      "polarity": "negative",
+      "stance_score": -0.5,
+      "intensity": 0.6,
+      "evidence": "抑知一国偏重工商，是否为正当之人生观，是否为正当之文化，在欧洲人观之，已成大疑问矣。",
+      "confidence": 0.9
+    },
+    {
+      "id": "r5",
+      "head": "方今国中竟言新文化，而文化转移之枢纽，不外乎人生观。吾有吾之文化，西洋有西洋之文化。西洋之有益者如何采之，有害者如何革除之；凡此取舍之间，皆决之于观点。观点定，而后精神上之思潮、物质上之制度，乃可",
+      "head_type": "人物",
+      "relation": "定义",
+      "relation_subtype": "概念澄清",
+      "tail": "私",
+      "tail_type": "概念",
+      "polarity": "negative",
+      "stance_score": -0.5,
+      "intensity": 0.6,
+      "evidence": "然我以为一人与其自身以外相接触，不论其所接所触者为物为人，要之不免于占有冲动存乎其间，此之谓私，既已言私，则其非为高尚神圣可知。",
+      "confidence": 0.9
+    },
+    {
+      "id": "r6",
+      "head": "方今国中竟言新文化，而文化转移之枢纽，不外乎人生观。吾有吾之文化，西洋有西洋之文化。西洋之有益者如何采之，有害者如何革除之；凡此取舍之间，皆决之于观点。观点定，而后精神上之思潮、物质上之制度，乃可",
+      "head_type": "人物",
+      "relation": "相关",
+      "relation_subtype": "援引权威支持",
+      "tail": "孟子",
+      "tail_type": "人物",
+      "polarity": "positive",
+      "stance_score": 0.8,
+      "intensity": 0.7,
+      "evidence": "故孟子以男女与饮食并列，诚得其当也。",
+      "confidence": 0.9
+    },
+    {
+      "id": "r7",
+      "head": "西洋文学",
+      "head_type": "概念",
+      "relation": "对比",
+      "relation_subtype": "不适用",
+      "tail": "我国戏剧",
+      "tail_type": "概念",
+      "polarity": "neutral",
+      "stance_score": 0.0,
+      "intensity": 0.5,
+      "evidence": "而今之西洋文学，十书中无一书能出男女恋爱之外者，与我国戏剧中，十有七八不以男女恋爱为内容者，正相反对者也。",
+      "confidence": 0.9
+    }
+  ],
+  "definitions": [
+    {
+      "id": "def1",
+      "term": "人生观",
+      "definition": "人生观无客观标准，只能返求于己，不能以他人现成的人生观作为自己的。",
+      "evidence": "盖人生观，既无客观标准，故惟有返求之于己，而决不能以他人之现成之人生观，作为我之人生观者也。",
+      "confidence": 0.9
+    },
+    {
+      "id": "def2",
+      "term": "私",
+      "definition": "一人与自身以外相接触时不免的占有冲动，非高尚神圣。",
+      "evidence": "然我以为一人与其自身以外相接触，不论其所接所触者为物为人，要之不免于占有冲动存乎其间，此之谓私，既已言私，则其非为高尚神圣可知。",
+      "confidence": 0.9
+    }
+  ],
+  "citations": [
+    {
+      "id": "cit1",
+      "citer": "方今国中竟言新文化，而文化转移之枢纽，不外乎人生观。吾有吾之文化，西洋有西洋之文化。西洋之有益者如何采之，有害者如何革除之；凡此取舍之间，皆决之于观点。观点定，而后精神上之思潮、物质上之制度，乃可",
+      "quoted_author": "孟子",
+      "quoted_work": "",
+      "quoted_claim": "男女与饮食并列",
+      "function": "援引权威支持",
+      "evidence": "故孟子以男女与饮食并列，诚得其当也。",
+      "confidence": 0.9
+    }
+  ],
+  "rhetorical_devices": [
+    {
+      "id": "rh1",
+      "expression": "人生如机械然",
+      "device_type": "比喻",
+      "literal_target": "人生",
+      "function": "批评科学导致人生机械化，缺乏精神慰安",
+      "evidence": "朝作夕辍，人生如机械然，精神上之慰安所在，则不可得而知也。",
+      "confidence": 0.9
+    },
+    {
+      "id": "rh2",
+      "expression": "十书中无一书能出男女恋爱之外者",
+      "device_type": "夸张",
+      "literal_target": "西洋文学",
+      "function": "强调西洋文学以男女恋爱为主题的程度之深，与我国戏剧形成对比",
+      "evidence": "而今之西洋文学，十书中无一书能出男女恋爱之外者，与我国戏剧中，十有七八不以男女恋爱为内容者，正相反对者也。",
+      "confidence": 0.9
+    }
+  ],
+  "uncertainties": [
+    {
+      "item": "“有结算二三百年之总帐者”的具体所指",
+      "reason": "文本未明确说明是谁在结算总账，可能指某类思想家或舆论，但证据不足。"
+    },
+    {
+      "item": "“人人争言男女平等，恋爱自由”中的“人人”是否包括作者本人",
+      "reason": "文本未明确作者是否赞同这些主张，仅描述现象。"
+    }
+  ],
+  "_meta": {
+    "status": "success",
+    "stage": "extract",
+    "model": "deepseek-ai/DeepSeek-V4-Flash",
+    "base_url": "https://api.siliconflow.cn/v1",
+    "prompt_version": "v2.0",
+    "schema_version": "lite_v3.0",
+    "segment_id": "陈独秀_001_d263aca8_s0013",
+    "article_id": "陈独秀_001_d263aca8",
+    "char_start": 6352,
+    "char_end": 6925,
+    "raw_path": "E:\\1研究生\\岭南大学\\论文毕业\\capstone\\资料\\新的内容开始了\\local_upload\\kg_runs_v2\\陈独秀\\raw_outputs\\extract\\陈独秀_001_d263aca8_s0013.txt",
+    "parsed_at": "2026-05-21T20:38:23",
+    "started_at": "2026-05-21T20:31:35",
+    "elapsed_seconds": 408.399,
+    "strict_evidence_check": true,
+    "drop_unsupported_evidence": true,
+    "request_timeout_seconds": 180
+  }
+}

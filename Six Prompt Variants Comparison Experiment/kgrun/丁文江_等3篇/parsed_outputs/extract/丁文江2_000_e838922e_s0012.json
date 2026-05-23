@@ -1,0 +1,196 @@
+{
+  "metadata": {
+    "schema_version": "lite_v2.0",
+    "article_id": "丁文江2_000_e838922e",
+    "article_title": "玄学与科学——答张君劢",
+    "source_author": "丁文江",
+    "section_title": "",
+    "section_author": "",
+    "segment_id": "丁文江2_000_e838922e_s0012",
+    "segment_index": 12,
+    "source_file": "E:\\1研究生\\岭南大学\\论文毕业\\capstone\\资料\\新的内容开始了\\local_upload\\input_texts\\丁文江2.txt"
+  },
+  "entities": [
+    {
+      "id": "e1",
+      "name": "精神科学",
+      "canonical_name": "精神科学",
+      "type": "Concept",
+      "evidence": "不但我不知道精神科学同人生观的界限",
+      "confidence": 0.9
+    },
+    {
+      "id": "e2",
+      "name": "人生观",
+      "canonical_name": "人生观",
+      "type": "Concept",
+      "evidence": "不但我不知道精神科学同人生观的界限",
+      "confidence": 1.0
+    },
+    {
+      "id": "e3",
+      "name": "主观作用",
+      "canonical_name": "主观作用",
+      "type": "Concept",
+      "evidence": "他们何尝不以为“可以主观作用消息其间”",
+      "confidence": 0.9
+    },
+    {
+      "id": "e4",
+      "name": "阴阳五行",
+      "canonical_name": "阴阳五行",
+      "type": "Concept",
+      "evidence": "就是阴阳五行，何尝不是主观？",
+      "confidence": 0.9
+    },
+    {
+      "id": "e5",
+      "name": "物种",
+      "canonical_name": "物种",
+      "type": "Concept",
+      "evidence": "故关于物种当然在科学范围以内",
+      "confidence": 0.9
+    },
+    {
+      "id": "e6",
+      "name": "科学",
+      "canonical_name": "科学",
+      "type": "Concept",
+      "evidence": "故关于物种当然在科学范围以内",
+      "confidence": 1.0
+    },
+    {
+      "id": "e7",
+      "name": "达尔文之生存竞争论",
+      "canonical_name": "达尔文之生存竞争论",
+      "type": "Theory",
+      "evidence": "达尔文之生存竞争论与哥罗巴金之互助主义",
+      "confidence": 0.9
+    },
+    {
+      "id": "e8",
+      "name": "哥罗巴金之互助主义",
+      "canonical_name": "哥罗巴金之互助主义",
+      "type": "Theory",
+      "evidence": "达尔文之生存竞争论与哥罗巴金之互助主义",
+      "confidence": 0.9
+    },
+    {
+      "id": "e9",
+      "name": "清华的讲演",
+      "canonical_name": "清华的讲演",
+      "type": "Book",
+      "evidence": "但是他在清华的讲演明明说",
+      "confidence": 0.8
+    }
+  ],
+  "claims": [
+    {
+      "id": "c1",
+      "speaker": "丁文江",
+      "claim": "主观作用的范围，是随着知识变更的，是绝对不可靠的",
+      "target": "主观作用",
+      "claim_type": "知识论主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "知道主观作用的范围，是随着知识变更的，是绝对不可靠的",
+      "confidence": 0.9
+    },
+    {
+      "id": "c2",
+      "speaker": "丁文江",
+      "claim": "不但我不知道精神科学同人生观的界限，连君劢自己也往往要弄错了，自相矛盾的",
+      "target": "张君劢",
+      "claim_type": "论战策略批评",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "不但我不知道精神科学同人生观的界限，连君劢自己也往往要弄错了，自相矛盾的",
+      "confidence": 0.9
+    },
+    {
+      "id": "c3",
+      "speaker": "张君劢",
+      "claim": "物种由来虽至今尚无定论，然生物学中一部分之现象，则亦有公例可求，故关于物种当然在科学范围以内，而不属于人生观",
+      "target": "物种",
+      "claim_type": "定义性主张",
+      "claim_status": "直接引用",
+      "polarity": "positive",
+      "evidence": "物种由来虽至今尚无定论，然生物学中一部分之现象，则亦有公例可求，故关于物种当然在科学范围以内，而不属于人生观",
+      "confidence": 0.9
+    },
+    {
+      "id": "c4",
+      "speaker": "张君劢",
+      "claim": "达尔文之生存竞争论与哥罗巴金之互助主义，其所见异焉。凡此诸家之言，是非各执，绝不能施以一种试验以证甲之是与乙之非。何也？以其为人生观故也，以其为主观的故也",
+      "target": "达尔文之生存竞争论与哥罗巴金之互助主义",
+      "claim_type": "定义性主张",
+      "claim_status": "直接引用",
+      "polarity": "positive",
+      "evidence": "达尔文之生存竞争论与哥罗巴金之互助主义，其所见异焉。凡此诸家之言，是非各执，绝不能施以一种试验以证甲之是与乙之非。何也？以其为人生观故也，以其为主观的故也",
+      "confidence": 0.9
+    }
+  ],
+  "relations": [
+    {
+      "id": "r1",
+      "head": "丁文江",
+      "head_type": "Person",
+      "relation": "CITES",
+      "tail": "清华的讲演",
+      "tail_type": "Book",
+      "polarity": "negative",
+      "evidence": "但是他在清华的讲演明明说：",
+      "confidence": 0.9
+    }
+  ],
+  "definitions": [
+    {
+      "id": "def1",
+      "term": "主观作用",
+      "definition": "主观作用的范围随知识变更，不可靠",
+      "evidence": "知道主观作用的范围，是随着知识变更的，是绝对不可靠的",
+      "confidence": 0.9
+    }
+  ],
+  "citations": [],
+  "rhetorical_devices": [
+    {
+      "id": "rh1",
+      "expression": "贤主，修德格天，希望要求免去天变的，历史上不知道多少；求雨求晴，禁屠斋戒，至今中国还是奉行",
+      "device_type": "例证",
+      "literal_target": "主观作用的历史事例",
+      "function": "作为论据支持主观作用不可靠的论点",
+      "evidence": "贤主，修德格天，希望要求免去天变的，历史上不知道多少；求雨求晴，禁屠斋戒，至今中国还是奉行",
+      "confidence": 0.8
+    }
+  ],
+  "uncertainties": [
+    {
+      "item": "张君劢的“答词”具体指哪篇文章或场合",
+      "reason": "文本中未明确说明“答词”的具体出处"
+    },
+    {
+      "item": "“贤主，修德格天”是否属于特定历史典故或引用",
+      "reason": "文本未提供具体来源，可能为泛指"
+    }
+  ],
+  "_meta": {
+    "status": "success",
+    "stage": "extract",
+    "model": "deepseek-ai/DeepSeek-V4-Flash",
+    "base_url": "https://api.siliconflow.cn/v1",
+    "prompt_version": "extract_prompt_v2.0",
+    "schema_version": "lite_v2.0",
+    "segment_id": "丁文江2_000_e838922e_s0012",
+    "article_id": "丁文江2_000_e838922e",
+    "char_start": 3117,
+    "char_end": 3455,
+    "raw_path": "E:\\1研究生\\岭南大学\\论文毕业\\capstone\\资料\\新的内容开始了\\local_upload\\kg_runs\\丁文江_等3篇\\raw_outputs\\extract\\丁文江2_000_e838922e_s0012.txt",
+    "parsed_at": "2026-05-19T03:52:32",
+    "started_at": "2026-05-19T03:51:32",
+    "elapsed_seconds": 59.609,
+    "strict_evidence_check": true,
+    "drop_unsupported_evidence": true,
+    "request_timeout_seconds": 180
+  }
+}

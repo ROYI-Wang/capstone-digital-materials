@@ -1,0 +1,2 @@
+article_id_a,article_title_a,source_author_a,article_id_b,article_title_b,source_author_b,jaccard,shared_feature_count,union_feature_count
+孙伏园_000_50fcd0d8,玄学科学论战杂话,孙伏园,孙伏园_001_119b038d,东荪按,张东荪,0.102273,9,88

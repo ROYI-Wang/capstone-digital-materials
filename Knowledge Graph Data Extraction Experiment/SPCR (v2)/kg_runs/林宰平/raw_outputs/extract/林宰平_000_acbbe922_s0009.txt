@@ -1,0 +1,262 @@
+{
+  "metadata": {
+    "schema_version": "lite_v3.0",
+    "article_id": "林宰平_000_acbbe922",
+    "article_title": "读丁在君先生的《玄学与科学》",
+    "source_author": "林宰平",
+    "section_title": "",
+    "section_author": "",
+    "segment_id": "林宰平_000_acbbe922_s0009",
+    "segment_index": 9,
+    "source_file": "E:\\1研究生\\岭南大学\\论文毕业\\capstone\\资料\\新的内容开始了\\local_upload\\input_林宰平\\林宰平.txt"
+  },
+  "entities": [
+    {
+      "id": "e1",
+      "name": "极端经验派",
+      "canonical_name": "极端经验派",
+      "type": "阵营/群体",
+      "evidence": "所以极端经验派，他就不信任这些方法，他信的只是“事实”",
+      "confidence": 0.9
+    },
+    {
+      "id": "e2",
+      "name": "新实在论",
+      "canonical_name": "新实在论",
+      "type": "主义/学说/理论",
+      "evidence": "又如新实在论一派的看法，他以为世界只有最暂的东西是最真，论理所构造是永久的，而实际真实者却是暂时的",
+      "confidence": 0.9
+    },
+    {
+      "id": "e3",
+      "name": "或然数",
+      "canonical_name": "或然数",
+      "type": "概念",
+      "evidence": "凡属未知的虽有法子推算他，但总不过是个“或然数”",
+      "confidence": 0.9
+    },
+    {
+      "id": "e4",
+      "name": "假定",
+      "canonical_name": "假定",
+      "type": "概念",
+      "evidence": "这个假定，实在是个危险分子",
+      "confidence": 0.9
+    },
+    {
+      "id": "e5",
+      "name": "事实",
+      "canonical_name": "事实",
+      "type": "概念",
+      "evidence": "他信的只是“事实”",
+      "confidence": 0.9
+    },
+    {
+      "id": "e6",
+      "name": "公例",
+      "canonical_name": "公例",
+      "type": "概念",
+      "evidence": "没有公例能够拘束他",
+      "confidence": 0.9
+    },
+    {
+      "id": "e7",
+      "name": "方法",
+      "canonical_name": "方法",
+      "type": "方法",
+      "evidence": "没有方法能够预测他",
+      "confidence": 0.9
+    },
+    {
+      "id": "e8",
+      "name": "论理",
+      "canonical_name": "论理",
+      "type": "概念",
+      "evidence": "论理所构造是永久的",
+      "confidence": 0.9
+    },
+    {
+      "id": "e9",
+      "name": "科学的方法",
+      "canonical_name": "科学的方法",
+      "type": "方法",
+      "evidence": "他难道连所谓科学的方法，论理的公例，都不懂么?",
+      "confidence": 0.9
+    },
+    {
+      "id": "e10",
+      "name": "论理的公例",
+      "canonical_name": "论理的公例",
+      "type": "概念",
+      "evidence": "他难道连所谓科学的方法，论理的公例，都不懂么?",
+      "confidence": 0.9
+    }
+  ],
+  "claims": [
+    {
+      "id": "c1",
+      "speaker": "作者",
+      "claim": "凡属未知的虽有法子推算他，但总不过是个“或然数”",
+      "target": "未知事物",
+      "claim_type": "描述性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "凡属未知的虽有法子推算他，但总不过是个“或然数”",
+      "confidence": 0.9
+    },
+    {
+      "id": "c2",
+      "speaker": "作者",
+      "claim": "推论的方法不能弃假定而不用，这个假定实在是个危险分子",
+      "target": "推论的方法",
+      "claim_type": "评价性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "因为推论的方法，他不能弃假定而不用，这个假定，实在是个危险分子",
+      "confidence": 0.9
+    },
+    {
+      "id": "c3",
+      "speaker": "极端经验派",
+      "claim": "不信任这些方法，他信的只是“事实”",
+      "target": "方法",
+      "claim_type": "描述性主张",
+      "claim_status": "间接转述",
+      "polarity": "neutral",
+      "evidence": "所以极端经验派，他就不信任这些方法，他信的只是“事实”",
+      "confidence": 0.9
+    },
+    {
+      "id": "c4",
+      "speaker": "极端经验派",
+      "claim": "凡每个事实都有他的个性，都是不同的，都是新的，没有公例能够拘束他，没有方法能够预测他",
+      "target": "事实",
+      "claim_type": "描述性主张",
+      "claim_status": "间接转述",
+      "polarity": "neutral",
+      "evidence": "凡每个事实都有他的个性，都是不同的，都是新的，没有公例能够拘束他，没有方法能够预测他",
+      "confidence": 0.9
+    },
+    {
+      "id": "c5",
+      "speaker": "新实在论",
+      "claim": "世界只有最暂的东西是最真，论理所构造是永久的，而实际真实者却是暂时的",
+      "target": "世界",
+      "claim_type": "描述性主张",
+      "claim_status": "间接转述",
+      "polarity": "neutral",
+      "evidence": "他以为世界只有最暂的东西是最真，论理所构造是永久的，而实际真实者却是暂时的",
+      "confidence": 0.9
+    },
+    {
+      "id": "c6",
+      "speaker": "作者",
+      "claim": "这些主张都是受过科学洗礼的人说出来的，他难道连所谓科学的方法，论理的公例，都不懂么?",
+      "target": "极端经验派和新实在论的主张",
+      "claim_type": "反驳性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "这些主张都是受过科学洗礼的人说出来的，他难道连所谓科学的方法，论理的公例，都不懂么?",
+      "confidence": 0.9
+    }
+  ],
+  "relations": [
+    {
+      "id": "r1",
+      "head": "推论的方法",
+      "head_type": "方法",
+      "relation": "归因于",
+      "relation_subtype": "不适用",
+      "tail": "假定",
+      "tail_type": "概念",
+      "polarity": "negative",
+      "stance_score": -0.5,
+      "intensity": 0.6,
+      "evidence": "因为推论的方法，他不能弃假定而不用，这个假定，实在是个危险分子",
+      "confidence": 0.9
+    },
+    {
+      "id": "r2",
+      "head": "极端经验派",
+      "head_type": "阵营/群体",
+      "relation": "主张",
+      "relation_subtype": "不适用",
+      "tail": "不信任这些方法，他信的只是“事实”",
+      "tail_type": "观点",
+      "polarity": "neutral",
+      "stance_score": 0.0,
+      "intensity": 0.0,
+      "evidence": "所以极端经验派，他就不信任这些方法，他信的只是“事实”",
+      "confidence": 0.9
+    },
+    {
+      "id": "r3",
+      "head": "极端经验派",
+      "head_type": "阵营/群体",
+      "relation": "主张",
+      "relation_subtype": "不适用",
+      "tail": "凡每个事实都有他的个性，都是不同的，都是新的，没有公例能够拘束他，没有方法能够预测他",
+      "tail_type": "观点",
+      "polarity": "neutral",
+      "stance_score": 0.0,
+      "intensity": 0.0,
+      "evidence": "凡每个事实都有他的个性，都是不同的，都是新的，没有公例能够拘束他，没有方法能够预测他",
+      "confidence": 0.9
+    },
+    {
+      "id": "r4",
+      "head": "新实在论",
+      "head_type": "主义/学说/理论",
+      "relation": "主张",
+      "relation_subtype": "不适用",
+      "tail": "世界只有最暂的东西是最真，论理所构造是永久的，而实际真实者却是暂时的",
+      "tail_type": "观点",
+      "polarity": "neutral",
+      "stance_score": 0.0,
+      "intensity": 0.0,
+      "evidence": "他以为世界只有最暂的东西是最真，论理所构造是永久的，而实际真实者却是暂时的",
+      "confidence": 0.9
+    },
+    {
+      "id": "r5",
+      "head": "作者",
+      "head_type": "人物",
+      "relation": "质疑",
+      "relation_subtype": "事实质疑",
+      "tail": "极端经验派和新实在论的主张",
+      "tail_type": "观点",
+      "polarity": "negative",
+      "stance_score": -0.8,
+      "intensity": 0.8,
+      "evidence": "这些主张都是受过科学洗礼的人说出来的，他难道连所谓科学的方法，论理的公例，都不懂么?",
+      "confidence": 0.9
+    }
+  ],
+  "definitions": [
+    {
+      "id": "def1",
+      "term": "或然数",
+      "definition": "对未知事物推算的结果，不是必然，而是或然，程度有高低",
+      "evidence": "凡属未知的虽有法子推算他，但总不过是个“或然数”。有的或然数程度高一点，有的程度低一点，低的不用说了，就是程度极高，毕竟还是或然，不是必然",
+      "confidence": 0.9
+    }
+  ],
+  "citations": [],
+  "rhetorical_devices": [
+    {
+      "id": "rh1",
+      "expression": "这个假定，实在是个危险分子",
+      "device_type": "比喻",
+      "literal_target": "假定",
+      "function": "强调假定的不可靠性，为批评推论方法提供形象化论据",
+      "evidence": "这个假定，实在是个危险分子",
+      "confidence": 0.9
+    }
+  ],
+  "uncertainties": [
+    {
+      "item": "文本开头“的事实，与已知的经验，就许相去很远”不完整，无法确定其完整含义和归属",
+      "reason": "文本片段以不完整句子开头，缺乏前文语境"
+    }
+  ]
+}

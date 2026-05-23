@@ -1,0 +1,337 @@
+{
+  "metadata": {
+    "schema_version": "lite_v2.0",
+    "article_id": "章演存_000_aa7de44c",
+    "article_title": "张君劢主张的人生观对科学的五个异点",
+    "source_author": "章演存",
+    "section_title": "",
+    "section_author": "",
+    "segment_id": "章演存_000_aa7de44c_s0000",
+    "segment_index": 0,
+    "source_file": "E:\\1研究生\\岭南大学\\论文毕业\\capstone\\资料\\新的内容开始了\\local_upload\\input_w2\\章演存.txt"
+  },
+  "entities": [
+    {
+      "id": "e1",
+      "name": "丁在君",
+      "canonical_name": "丁文江",
+      "type": "人物",
+      "evidence": "一日看见吾友丁在君《玄学与科学》一文",
+      "confidence": 1.0
+    },
+    {
+      "id": "e2",
+      "name": "张君劢",
+      "canonical_name": "张君劢",
+      "type": "人物",
+      "evidence": "便想去索张君劢君的原文一读",
+      "confidence": 1.0
+    },
+    {
+      "id": "e3",
+      "name": "《玄学与科学》",
+      "canonical_name": "玄学与科学",
+      "type": "著作",
+      "evidence": "一日看见吾友丁在君《玄学与科学》一文",
+      "confidence": 1.0
+    },
+    {
+      "id": "e4",
+      "name": "《人生观》",
+      "canonical_name": "人生观",
+      "type": "著作",
+      "evidence": "弟对张君劢《人生观》提倡玄学与科学为敌",
+      "confidence": 1.0
+    },
+    {
+      "id": "e5",
+      "name": "科学",
+      "canonical_name": "科学",
+      "type": "概念",
+      "evidence": "科学的方法，也不是丝毫没有改造的余地",
+      "confidence": 1.0
+    },
+    {
+      "id": "e6",
+      "name": "相对论",
+      "canonical_name": "相对论",
+      "type": "概念",
+      "evidence": "只看现在爱因斯坦的“相对论”",
+      "confidence": 1.0
+    },
+    {
+      "id": "e7",
+      "name": "爱因斯坦",
+      "canonical_name": "爱因斯坦",
+      "type": "人物",
+      "evidence": "只看现在爱因斯坦的“相对论”",
+      "confidence": 1.0
+    },
+    {
+      "id": "e8",
+      "name": "玄学",
+      "canonical_name": "玄学",
+      "type": "概念",
+      "evidence": "弟对张君劢《人生观》提倡玄学与科学为敌",
+      "confidence": 1.0
+    },
+    {
+      "id": "e9",
+      "name": "青年学生",
+      "canonical_name": "青年学生",
+      "type": "阵营/群体",
+      "evidence": "深恐有误青年学生",
+      "confidence": 1.0
+    },
+    {
+      "id": "e10",
+      "name": "五个异点",
+      "canonical_name": "五个异点",
+      "type": "观点",
+      "evidence": "因为人生观和科学比较起来，有五个异点",
+      "confidence": 1.0
+    },
+    {
+      "id": "e11",
+      "name": "九个“我”对“非我”的问题",
+      "canonical_name": "九个我对我非我的问题",
+      "type": "观点",
+      "evidence": "他还从人生观里举出九个“我”对“非我”的问题来",
+      "confidence": 1.0
+    },
+    {
+      "id": "e12",
+      "name": "第一个异点",
+      "canonical_name": "第一个异点",
+      "type": "观点",
+      "evidence": "第一个异点:科学为客观的，人生观为主观的",
+      "confidence": 1.0
+    }
+  ],
+  "claims": [
+    {
+      "id": "c1",
+      "speaker": "丁在君",
+      "claim": "张君劢《人生观》提倡玄学与科学为敌，深恐有误青年学生",
+      "target": "张君劢",
+      "claim_type": "论战策略批评",
+      "claim_status": "直接引用",
+      "polarity": "negative",
+      "evidence": "弟对张君劢《人生观》提倡玄学与科学为敌，深恐有误青年学生，不得已而为此文",
+      "confidence": 1.0
+    },
+    {
+      "id": "c2",
+      "speaker": "丁在君",
+      "claim": "此次出而宣战，纯粹为‘真理’起见，初无丝毫意见",
+      "target": "张君劢",
+      "claim_type": "论战策略批评",
+      "claim_status": "直接引用",
+      "polarity": "positive",
+      "evidence": "此次出而宣战，纯粹为‘真理’起见，初无丝毫意见",
+      "confidence": 1.0
+    },
+    {
+      "id": "c3",
+      "speaker": "丁在君",
+      "claim": "深望同人加入讨论",
+      "target": "同人",
+      "claim_type": "论战策略批评",
+      "claim_status": "直接引用",
+      "polarity": "positive",
+      "evidence": "亦深望同人加入讨论",
+      "confidence": 1.0
+    },
+    {
+      "id": "c4",
+      "speaker": "章演存",
+      "claim": "不是十分满足现在的科学的",
+      "target": "科学",
+      "claim_type": "价值评价",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "余本来不是十分满足现在的科学的",
+      "confidence": 1.0
+    },
+    {
+      "id": "c5",
+      "speaker": "章演存",
+      "claim": "科学的方法，也不是丝毫没有改造的余地",
+      "target": "科学",
+      "claim_type": "方法论主张",
+      "claim_status": "作者直接主张",
+      "polarity": "mixed",
+      "evidence": "科学的方法，也不是丝毫没有改造的余地",
+      "confidence": 1.0
+    },
+    {
+      "id": "c6",
+      "speaker": "章演存",
+      "claim": "张君的“人生观”，却论得太浑沌一点",
+      "target": "张君劢",
+      "claim_type": "价值评价",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "再回过来看看张君的“人生观”，却论得太浑沌一点",
+      "confidence": 1.0
+    },
+    {
+      "id": "c7",
+      "speaker": "章演存",
+      "claim": "他对于科学，又觉得稍隔膜一点",
+      "target": "张君劢",
+      "claim_type": "价值评价",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "并且他对于科学，又觉得稍隔膜一点",
+      "confidence": 1.0
+    },
+    {
+      "id": "c8",
+      "speaker": "章演存",
+      "claim": "决不是为丁君作辩护的",
+      "target": "丁在君",
+      "claim_type": "论战策略批评",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "但我自问决不是为丁君作辩护的",
+      "confidence": 1.0
+    },
+    {
+      "id": "c9",
+      "speaker": "章演存",
+      "claim": "并不敢担当宣传的责任",
+      "target": "丁在君",
+      "claim_type": "论战策略批评",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "也并不敢担当宣传的责任",
+      "confidence": 1.0
+    },
+    {
+      "id": "c10",
+      "speaker": "张君劢",
+      "claim": "人生的问题，决不是科学所能解决的",
+      "target": "科学",
+      "claim_type": "知识论主张",
+      "claim_status": "间接转述",
+      "polarity": "negative",
+      "evidence": "张君说人生的问题，决不是科学所能解决的",
+      "confidence": 1.0
+    },
+    {
+      "id": "c11",
+      "speaker": "张君劢",
+      "claim": "人生观和科学比较起来，有五个异点",
+      "target": "人生观",
+      "claim_type": "定义性主张",
+      "claim_status": "间接转述",
+      "polarity": "neutral",
+      "evidence": "因为人生观和科学比较起来，有五个异点",
+      "confidence": 1.0
+    },
+    {
+      "id": "c12",
+      "speaker": "张君劢",
+      "claim": "九个“我”对“非我”的问题，东西万国，上下古今，无一定之解决",
+      "target": "人生观",
+      "claim_type": "知识论主张",
+      "claim_status": "间接转述",
+      "polarity": "neutral",
+      "evidence": "他还从人生观里举出九个“我”对“非我”的问题来，说是“东西万国，上下古今，无一定之解决”的",
+      "confidence": 1.0
+    },
+    {
+      "id": "c13",
+      "speaker": "章演存",
+      "claim": "第一个异点:科学为客观的，人生观为主观的。这种分别，好像是很久的了；但是现在有了“相对论”，却不能说科学纯为客观的，并且可以说是主观的了",
+      "target": "张君劢",
+      "claim_type": "反驳性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "第一个异点:科学为客观的，人生观为主观的。这种分别，好像是很久的了；但是现在有了“相对论”，却不能说科学纯为客观的，并且可以说是主观的了",
+      "confidence": 1.0
+    },
+    {
+      "id": "c14",
+      "speaker": "张君劢",
+      "claim": "同为人生，因彼此观察点不同而意见各异",
+      "target": "人生观",
+      "claim_type": "知识论主张",
+      "claim_status": "直接引用",
+      "polarity": "neutral",
+      "evidence": "张君说：“同为人生，因彼此观察点不同而意见各异；”",
+      "confidence": 1.0
+    }
+  ],
+  "relations": [
+    {
+      "id": "r1",
+      "head": "相对论",
+      "head_type": "概念",
+      "relation": "作为论据支持",
+      "tail": "章演存",
+      "tail_type": "人物",
+      "polarity": "positive",
+      "evidence": "但是现在有了“相对论”，却不能说科学纯为客观的，并且可以说是主观的了",
+      "confidence": 1.0
+    }
+  ],
+  "definitions": [
+    {
+      "id": "def1",
+      "term": "第一个异点",
+      "definition": "科学为客观的，人生观为主观的",
+      "evidence": "第一个异点:科学为客观的，人生观为主观的",
+      "confidence": 1.0
+    }
+  ],
+  "citations": [
+    {
+      "id": "cit1",
+      "citer": "丁在君",
+      "quoted_author": "丁在君",
+      "quoted_work": "",
+      "quoted_claim": "弟对张君劢《人生观》提倡玄学与科学为敌，深恐有误青年学生，不得已而为此文。……弟与张君劢交情甚深，此次出而宣战，纯粹为‘真理’起见，初无丝毫意见；亦深望同人加入讨论。兄能分著述余暇，作此宣传事业否？",
+      "function": "作为历史证据",
+      "evidence": "后由在君寄来，并函云：“弟对张君劢《人生观》提倡玄学与科学为敌，深恐有误青年学生，不得已而为此文。……弟与张君劢交情甚深，此次出而宣战，纯粹为‘真理’起见，初无丝毫意见；亦深望同人加入讨论。兄能分著述余暇，作此宣传事业否？”",
+      "confidence": 1.0
+    },
+    {
+      "id": "cit2",
+      "citer": "章演存",
+      "quoted_author": "张君劢",
+      "quoted_work": "",
+      "quoted_claim": "同为人生，因彼此观察点不同而意见各异",
+      "function": "作为批评对象",
+      "evidence": "张君说：“同为人生，因彼此观察点不同而意见各异；”",
+      "confidence": 1.0
+    }
+  ],
+  "rhetorical_devices": [],
+  "uncertainties": [
+    {
+      "item": "章演存引用“相对论”的表述是否准确，或仅为类比",
+      "reason": "文本中章演存说“相对论”也说“同一件事情，因彼此观察点不同而所见各异”，但未明确说明这是爱因斯坦的原话还是章演存自己的概括，可能是一种类比而非直接引用。"
+    }
+  ],
+  "_meta": {
+    "status": "success",
+    "stage": "extract",
+    "model": "deepseek-ai/DeepSeek-V4-Flash",
+    "base_url": "https://api.siliconflow.cn/v1",
+    "prompt_version": "extract_prompt_v2.0",
+    "schema_version": "lite_v2.0",
+    "segment_id": "章演存_000_aa7de44c_s0000",
+    "article_id": "章演存_000_aa7de44c",
+    "char_start": 0,
+    "char_end": 584,
+    "raw_path": "E:\\1研究生\\岭南大学\\论文毕业\\capstone\\资料\\新的内容开始了\\local_upload\\kg_runs\\章演存\\raw_outputs\\extract\\章演存_000_aa7de44c_s0000.txt",
+    "parsed_at": "2026-05-19T15:08:01",
+    "started_at": "2026-05-19T14:55:59",
+    "elapsed_seconds": 721.781,
+    "strict_evidence_check": true,
+    "drop_unsupported_evidence": true,
+    "request_timeout_seconds": 180
+  }
+}

@@ -1,0 +1,341 @@
+{
+  "metadata": {
+    "schema_version": "lite_v2.0",
+    "article_id": "张君劢_001_688ab8ae",
+    "article_title": "人生观（中篇）",
+    "source_author": "张君劢",
+    "section_title": "",
+    "section_author": "",
+    "segment_id": "张君劢_001_688ab8ae_s0003",
+    "segment_index": 3,
+    "source_file": "E:\\1研究生\\岭南大学\\论文毕业\\capstone\\资料\\新的内容开始了\\local_upload\\input_w3\\张君劢.txt"
+  },
+  "entities": [
+    {
+      "id": "e1",
+      "name": "休谟",
+      "canonical_name": "休谟",
+      "type": "人物",
+      "evidence": "此说也，出自休谟",
+      "confidence": 1.0
+    },
+    {
+      "id": "e2",
+      "name": "皮氏",
+      "canonical_name": "皮尔逊",
+      "type": "人物",
+      "evidence": "皮氏之所谓感觉所谓知觉之往复不已",
+      "confidence": 0.9
+    },
+    {
+      "id": "e3",
+      "name": "因果概念",
+      "canonical_name": "因果概念",
+      "type": "概念",
+      "evidence": "此因果概念之所由来也",
+      "confidence": 1.0
+    },
+    {
+      "id": "e4",
+      "name": "因果律",
+      "canonical_name": "因果律",
+      "type": "概念",
+      "evidence": "因果律之本于知觉之往复不已",
+      "confidence": 1.0
+    },
+    {
+      "id": "e5",
+      "name": "感觉",
+      "canonical_name": "感觉",
+      "type": "概念",
+      "evidence": "皮氏之所谓感觉所谓知觉之往复不已",
+      "confidence": 1.0
+    },
+    {
+      "id": "e6",
+      "name": "知觉",
+      "canonical_name": "知觉",
+      "type": "概念",
+      "evidence": "皮氏之所谓感觉所谓知觉之往复不已",
+      "confidence": 1.0
+    },
+    {
+      "id": "e7",
+      "name": "官觉的印象",
+      "canonical_name": "官觉的印象",
+      "type": "概念",
+      "evidence": "即官觉的印象而已",
+      "confidence": 1.0
+    },
+    {
+      "id": "e8",
+      "name": "论理的意义",
+      "canonical_name": "论理的意义",
+      "type": "概念",
+      "evidence": "此二者，即我之所谓论理的意义也",
+      "confidence": 1.0
+    },
+    {
+      "id": "e9",
+      "name": "北美行为派",
+      "canonical_name": "北美行为派",
+      "type": "阵营/群体",
+      "evidence": "即北美行为派之好以言语习惯解释思想作用者",
+      "confidence": 1.0
+    },
+    {
+      "id": "e10",
+      "name": "《科学规范》",
+      "canonical_name": "科学规范",
+      "type": "著作",
+      "evidence": "（《科学规范》六十三页）",
+      "confidence": 1.0
+    },
+    {
+      "id": "e11",
+      "name": "张君劢",
+      "canonical_name": "张君劢",
+      "type": "人物",
+      "evidence": "即我之所谓论理的意义也",
+      "confidence": 1.0
+    }
+  ],
+  "claims": [
+    {
+      "id": "c1",
+      "speaker": "休谟",
+      "claim": "有因必有果者，非必然之真理也，乃心理上之信仰或习惯为之也",
+      "target": "因果概念",
+      "claim_type": "知识论主张",
+      "claim_status": "间接转述",
+      "polarity": "neutral",
+      "evidence": "此说也，出自休谟，今已成为传统的学说",
+      "confidence": 1.0
+    },
+    {
+      "id": "c2",
+      "speaker": "皮氏",
+      "claim": "在外的世界之实在，即形、色、触三者之结合。换言之，即官觉的印象而已",
+      "target": "外在世界",
+      "claim_type": "本体论主张",
+      "claim_status": "直接引用",
+      "polarity": "neutral",
+      "evidence": "皮氏有言曰：“就科学就吾人言之，此在外的世界之实在，即形、色、触三者之结合。换言之，即官觉的印象而已。”",
+      "confidence": 1.0
+    },
+    {
+      "id": "c3",
+      "speaker": "皮氏",
+      "claim": "人类所得之印象，犹之电话接线生之所得之叫号。彼之所知者，但有叫号者之音；至叫号者之为何如人，非彼之所知。故脑神经他一端之本体如何，亦非吾人之所知也",
+      "target": "人类认识",
+      "claim_type": "知识论主张",
+      "claim_status": "直接引用",
+      "polarity": "neutral",
+      "evidence": "人类所得之印象，犹之电话接线生之所得之叫号。彼之所知者，但有叫号者之音；至叫号者之为何如人，非彼之所知。故脑神经他一端之本体如何，亦非吾人之所知也",
+      "confidence": 1.0
+    },
+    {
+      "id": "c4",
+      "speaker": "皮氏",
+      "claim": "分析世界之事物，其最终而不可分之元素，必归于官觉之印象。除官觉之印象外，无他物焉",
+      "target": "世界之事物",
+      "claim_type": "本体论主张",
+      "claim_status": "作者概括",
+      "polarity": "neutral",
+      "evidence": "皮氏以为分析世界之事物，其最终而不可分之元素，必归于官觉之印象。除官觉之印象外，无他物焉",
+      "confidence": 1.0
+    },
+    {
+      "id": "c5",
+      "speaker": "张君劢",
+      "claim": "苟人类之始生，若其所得于外界者，只有感觉，则并感觉而亦不可能",
+      "target": "皮氏的感觉论",
+      "claim_type": "反驳性主张",
+      "claim_status": "作者推论",
+      "polarity": "negative",
+      "evidence": "然以我观之，苟人类之始生，若其所得于外界者，只有感觉，则并感觉而亦不可能",
+      "confidence": 1.0
+    },
+    {
+      "id": "c6",
+      "speaker": "张君劢",
+      "claim": "名此为甲感觉，名此为乙感觉，此甲乙之分，已有一种论理之意义。此意义也，甲乙感觉所由以构成之分子也",
+      "target": "感觉",
+      "claim_type": "知识论主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "名此为甲感觉，名此为乙感觉，此甲乙之分，已有一种论理之意义。此意义也，甲乙感觉所由以构成之分子也",
+      "confidence": 1.0
+    },
+    {
+      "id": "c7",
+      "speaker": "张君劢",
+      "claim": "惟其不仅有色、形、触三者，而尚有与觉俱来之物。譬之红色，一至简之感觉也；然与红俱来者尚有二事：一曰红色如此，二曰此真是红；此二者，即我之所谓论理的意义也",
+      "target": "感觉与论理意义",
+      "claim_type": "知识论主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "惟其不仅有色、形、触三者，而尚有与觉俱来之物。譬之红色，一至简之感觉也；然与红俱来者尚有二事：一曰红色如此，二曰此真是红；此二者，即我之所谓论理的意义也",
+      "confidence": 1.0
+    }
+  ],
+  "relations": [
+    {
+      "id": "r1",
+      "head": "休谟",
+      "head_type": "人物",
+      "relation": "引用",
+      "relation_subtype": "援引权威",
+      "tail": "因果概念",
+      "tail_type": "概念",
+      "polarity": "neutral",
+      "evidence": "此说也，出自休谟，今已成为传统的学说",
+      "confidence": 1.0
+    },
+    {
+      "id": "r2",
+      "head": "皮氏",
+      "head_type": "人物",
+      "relation": "引用",
+      "relation_subtype": "援引权威",
+      "tail": "《科学规范》",
+      "tail_type": "著作",
+      "polarity": "neutral",
+      "evidence": "（《科学规范》六十三页）",
+      "confidence": 1.0
+    },
+    {
+      "id": "r3",
+      "head": "张君劢",
+      "head_type": "人物",
+      "relation": "反驳",
+      "relation_subtype": "逻辑反驳",
+      "tail": "皮氏",
+      "tail_type": "人物",
+      "polarity": "negative",
+      "evidence": "然以我观之，苟人类之始生，若其所得于外界者，只有感觉，则并感觉而亦不可能",
+      "confidence": 1.0
+    },
+    {
+      "id": "r4",
+      "head": "张君劢",
+      "head_type": "人物",
+      "relation": "批评",
+      "relation_subtype": "概念混淆批评",
+      "tail": "皮氏",
+      "tail_type": "人物",
+      "polarity": "negative",
+      "evidence": "然以我观之，苟人类之始生，若其所得于外界者，只有感觉，则并感觉而亦不可能。何也？名此为甲感觉，名此为乙感觉，此甲乙之分，已有一种论理之意义",
+      "confidence": 0.9
+    },
+    {
+      "id": "r5",
+      "head": "感觉",
+      "head_type": "概念",
+      "relation": "包含",
+      "relation_subtype": "不适用",
+      "tail": "论理的意义",
+      "tail_type": "概念",
+      "polarity": "positive",
+      "evidence": "惟其不仅有色、形、触三者，而尚有与觉俱来之物。譬之红色，一至简之感觉也；然与红俱来者尚有二事：一曰红色如此，二曰此真是红；此二者，即我之所谓论理的意义也",
+      "confidence": 0.9
+    },
+    {
+      "id": "r6",
+      "head": "北美行为派",
+      "head_type": "阵营/群体",
+      "relation": "源自",
+      "relation_subtype": "不适用",
+      "tail": "休谟",
+      "tail_type": "人物",
+      "polarity": "neutral",
+      "evidence": "即北美行为派之好以言语习惯解释思想作用者，亦由此来也",
+      "confidence": 0.9
+    }
+  ],
+  "definitions": [
+    {
+      "id": "def1",
+      "term": "因果概念",
+      "definition": "因现象之屡屡出现，成为一种往复不已之态，由此产生因果概念",
+      "evidence": "之屡屡出现，成为一种往复不已之态，此因果概念之所由来也",
+      "confidence": 1.0
+    },
+    {
+      "id": "def2",
+      "term": "官觉的印象",
+      "definition": "在外的世界之实在，即形、色、触三者之结合",
+      "evidence": "此在外的世界之实在，即形、色、触三者之结合。换言之，即官觉的印象而已",
+      "confidence": 1.0
+    },
+    {
+      "id": "def3",
+      "term": "论理的意义",
+      "definition": "与感觉俱来之物，如红色感觉中“红色如此”和“此真是红”二事",
+      "evidence": "譬之红色，一至简之感觉也；然与红俱来者尚有二事：一曰红色如此，二曰此真是红；此二者，即我之所谓论理的意义也",
+      "confidence": 1.0
+    }
+  ],
+  "citations": [
+    {
+      "id": "cit1",
+      "citer": "张君劢",
+      "quoted_author": "休谟",
+      "quoted_work": "",
+      "quoted_claim": "有因必有果者，非必然之真理也，乃心理上之信仰或习惯为之也",
+      "function": "援引权威支持",
+      "evidence": "此说也，出自休谟，今已成为传统的学说",
+      "confidence": 1.0
+    },
+    {
+      "id": "cit2",
+      "citer": "张君劢",
+      "quoted_author": "皮氏",
+      "quoted_work": "《科学规范》",
+      "quoted_claim": "在外的世界之实在，即形、色、触三者之结合。换言之，即官觉的印象而已",
+      "function": "作为批评对象",
+      "evidence": "皮氏有言曰：“就科学就吾人言之，此在外的世界之实在，即形、色、触三者之结合。换言之，即官觉的印象而已。”",
+      "confidence": 1.0
+    },
+    {
+      "id": "cit3",
+      "citer": "张君劢",
+      "quoted_author": "皮氏",
+      "quoted_work": "《科学规范》",
+      "quoted_claim": "人类所得之印象，犹之电话接线生之所得之叫号。彼之所知者，但有叫号者之音；至叫号者之为何如人，非彼之所知。故脑神经他一端之本体如何，亦非吾人之所知也",
+      "function": "作为批评对象",
+      "evidence": "人类所得之印象，犹之电话接线生之所得之叫号。彼之所知者，但有叫号者之音；至叫号者之为何如人，非彼之所知。故脑神经他一端之本体如何，亦非吾人之所知也",
+      "confidence": 1.0
+    }
+  ],
+  "rhetorical_devices": [
+    {
+      "id": "rh1",
+      "expression": "电话接线生之所得之叫号",
+      "device_type": "类比",
+      "literal_target": "人类所得之印象与叫号的关系",
+      "function": "用电话接线生只能听到叫号者之音而不知其人的类比，说明人类只能感知官觉印象而无法知道本体",
+      "evidence": "人类所得之印象，犹之电话接线生之所得之叫号。彼之所知者，但有叫号者之音；至叫号者之为何如人，非彼之所知",
+      "confidence": 1.0
+    },
+    {
+      "id": "rh2",
+      "expression": "不能越雷池一步",
+      "device_type": "比喻",
+      "literal_target": "人类无法超越感觉世界",
+      "function": "形象地强调人类认识被限制在感觉世界内",
+      "evidence": "吾人拘束于感觉之世界内，犹之接线生拘束于叫号之世界内，而不能越雷池一步",
+      "confidence": 1.0
+    }
+  ],
+  "uncertainties": [
+    {
+      "item": "皮氏的具体身份",
+      "reason": "文本中只称'皮氏'，未给出全名，根据上下文推测可能指卡尔·皮尔逊，但文本未明确"
+    },
+    {
+      "item": "'传统的学说'是否指休谟的因果观已成为传统",
+      "reason": "文本说'今已成为传统的学说'，但未明确是休谟的学说成为传统，还是指某种更广泛的传统"
+    }
+  ]
+}

@@ -1,0 +1,574 @@
+{
+  "metadata": {
+    "schema_version": "lite_v3.0",
+    "article_id": "丁文江2_000_e838922e",
+    "article_title": "玄学与科学——答张君劢",
+    "source_author": "丁文江",
+    "section_title": "",
+    "section_author": "",
+    "segment_id": "丁文江2_000_e838922e_s0028",
+    "segment_index": 28,
+    "source_file": "E:\\1研究生\\岭南大学\\论文毕业\\capstone\\资料\\新的内容开始了\\local_upload\\input_丁文江\\丁文江2.txt"
+  },
+  "entities": [
+    {
+      "id": "e1",
+      "name": "托摩生",
+      "canonical_name": "托摩生",
+      "type": "人物",
+      "evidence": "他一面说美术是知识，一面引托摩生的论美术话说：“人类之大目的，其于自然界，仅知之——此是科学之事——又在能享受之。人者有情感者也。”",
+      "confidence": 1.0
+    },
+    {
+      "id": "e2",
+      "name": "美术",
+      "canonical_name": "美术",
+      "type": "概念",
+      "evidence": "他一面说美术是知识，一面引托摩生的论美术话说：“人类之大目的，其于自然界，仅知之——此是科学之事——又在能享受之。人者有情感者也。”",
+      "confidence": 1.0
+    },
+    {
+      "id": "e3",
+      "name": "知识",
+      "canonical_name": "知识",
+      "type": "概念",
+      "evidence": "他一面说美术是知识，一面引托摩生的论美术话说：“人类之大目的，其于自然界，仅知之——此是科学之事——又在能享受之。人者有情感者也。”",
+      "confidence": 1.0
+    },
+    {
+      "id": "e4",
+      "name": "情感",
+      "canonical_name": "情感",
+      "type": "概念",
+      "evidence": "“享受”同“情感”都是知识，然则饮食男女都是知识。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e5",
+      "name": "享受",
+      "canonical_name": "享受",
+      "type": "概念",
+      "evidence": "“享受”同“情感”都是知识，然则饮食男女都是知识。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e6",
+      "name": "饮食男女",
+      "canonical_name": "饮食男女",
+      "type": "概念",
+      "evidence": "“享受”同“情感”都是知识，然则饮食男女都是知识。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e7",
+      "name": "真",
+      "canonical_name": "真",
+      "type": "概念",
+      "evidence": "我的那三条里面所说的“真”，第一条是指概念同推论，第二条是指概念，第三条是指推论，界限是极明白的；与美术、道德、宗教有什么关系？",
+      "confidence": 1.0
+    },
+    {
+      "id": "e8",
+      "name": "概念",
+      "canonical_name": "概念",
+      "type": "概念",
+      "evidence": "我的那三条里面所说的“真”，第一条是指概念同推论，第二条是指概念，第三条是指推论，界限是极明白的；与美术、道德、宗教有什么关系？",
+      "confidence": 1.0
+    },
+    {
+      "id": "e9",
+      "name": "推论",
+      "canonical_name": "推论",
+      "type": "概念",
+      "evidence": "我的那三条里面所说的“真”，第一条是指概念同推论，第二条是指概念，第三条是指推论，界限是极明白的；与美术、道德、宗教有什么关系？",
+      "confidence": 1.0
+    },
+    {
+      "id": "e10",
+      "name": "道德",
+      "canonical_name": "道德",
+      "type": "概念",
+      "evidence": "我的那三条里面所说的“真”，第一条是指概念同推论，第二条是指概念，第三条是指推论，界限是极明白的；与美术、道德、宗教有什么关系？",
+      "confidence": 1.0
+    },
+    {
+      "id": "e11",
+      "name": "宗教",
+      "canonical_name": "宗教",
+      "type": "概念",
+      "evidence": "我的那三条里面所说的“真”，第一条是指概念同推论，第二条是指概念，第三条是指推论，界限是极明白的；与美术、道德、宗教有什么关系？",
+      "confidence": 1.0
+    },
+    {
+      "id": "e12",
+      "name": "正统哲学",
+      "canonical_name": "正统哲学",
+      "type": "概念",
+      "evidence": "难道他的正统哲学，连知识情感同天性都弄不清楚？",
+      "confidence": 1.0
+    },
+    {
+      "id": "e13",
+      "name": "天性",
+      "canonical_name": "天性",
+      "type": "概念",
+      "evidence": "难道他的正统哲学，连知识情感同天性都弄不清楚？",
+      "confidence": 1.0
+    },
+    {
+      "id": "e14",
+      "name": "学科学的人",
+      "canonical_name": "学科学的人",
+      "type": "阵营/群体",
+      "evidence": "他把美术、宗教当做知识，不但学科学的人不承认，恐怕学美术的信宗教的人也未必承认的。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e15",
+      "name": "学美术的信宗教的人",
+      "canonical_name": "学美术的信宗教的人",
+      "type": "阵营/群体",
+      "evidence": "他把美术、宗教当做知识，不但学科学的人不承认，恐怕学美术的信宗教的人也未必承认的。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e16",
+      "name": "声学",
+      "canonical_name": "声学",
+      "type": "概念",
+      "evidence": "美术固然不是可以完全离开知识的，譬如声学可以补助音乐，几何可以补助图画，文法可以补助诗歌，但是运用死方法来表示人所不能表示的情感，是神而明之，存乎其人，所以说是术。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e17",
+      "name": "音乐",
+      "canonical_name": "音乐",
+      "type": "概念",
+      "evidence": "美术固然不是可以完全离开知识的，譬如声学可以补助音乐，几何可以补助图画，文法可以补助诗歌，但是运用死方法来表示人所不能表示的情感，是神而明之，存乎其人，所以说是术。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e18",
+      "name": "几何",
+      "canonical_name": "几何",
+      "type": "概念",
+      "evidence": "美术固然不是可以完全离开知识的，譬如声学可以补助音乐，几何可以补助图画，文法可以补助诗歌，但是运用死方法来表示人所不能表示的情感，是神而明之，存乎其人，所以说是术。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e19",
+      "name": "图画",
+      "canonical_name": "图画",
+      "type": "概念",
+      "evidence": "美术固然不是可以完全离开知识的，譬如声学可以补助音乐，几何可以补助图画，文法可以补助诗歌，但是运用死方法来表示人所不能表示的情感，是神而明之，存乎其人，所以说是术。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e20",
+      "name": "文法",
+      "canonical_name": "文法",
+      "type": "概念",
+      "evidence": "美术固然不是可以完全离开知识的，譬如声学可以补助音乐，几何可以补助图画，文法可以补助诗歌，但是运用死方法来表示人所不能表示的情感，是神而明之，存乎其人，所以说是术。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e21",
+      "name": "诗歌",
+      "canonical_name": "诗歌",
+      "type": "概念",
+      "evidence": "美术固然不是可以完全离开知识的，譬如声学可以补助音乐，几何可以补助图画，文法可以补助诗歌，但是运用死方法来表示人所不能表示的情感，是神而明之，存乎其人，所以说是术。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e22",
+      "name": "术",
+      "canonical_name": "术",
+      "type": "概念",
+      "evidence": "美术固然不是可以完全离开知识的，譬如声学可以补助音乐，几何可以补助图画，文法可以补助诗歌，但是运用死方法来表示人所不能表示的情感，是神而明之，存乎其人，所以说是术。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e23",
+      "name": "自然界",
+      "canonical_name": "自然界",
+      "type": "概念",
+      "evidence": "人之所以能觉得自然界的美，同人能寻出自然界的秩序，自一样的原因；都是演化的结果，因为不如此是不能生存的。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e24",
+      "name": "美",
+      "canonical_name": "美",
+      "type": "概念",
+      "evidence": "人之所以能觉得自然界的美，同人能寻出自然界的秩序，自一样的原因；都是演化的结果，因为不如此是不能生存的。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e25",
+      "name": "秩序",
+      "canonical_name": "秩序",
+      "type": "概念",
+      "evidence": "人之所以能觉得自然界的美，同人能寻出自然界的秩序，自一样的原因；都是演化的结果，因为不如此是不能生存的。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e26",
+      "name": "演化",
+      "canonical_name": "演化",
+      "type": "概念",
+      "evidence": "人之所以能觉得自然界的美，同人能寻出自然界的秩序，自一样的原因；都是演化的结果，因为不如此是不能生存的。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e27",
+      "name": "诗人画家",
+      "canonical_name": "诗人画家",
+      "type": "阵营/群体",
+      "evidence": "况且诗人画家虽是常有奇怪的想像，他们最诚实，决不像玄学家拿想像来骗人的。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e28",
+      "name": "玄学家",
+      "canonical_name": "玄学家",
+      "type": "阵营/群体",
+      "evidence": "况且诗人画家虽是常有奇怪的想像，他们最诚实，决不像玄学家拿想像来骗人的。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e29",
+      "name": "杜牧之",
+      "canonical_name": "杜牧之",
+      "type": "人物",
+      "evidence": "杜牧之说“蜡烛有心还惜别，替人垂泪到天明”。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e30",
+      "name": "科学",
+      "canonical_name": "科学",
+      "type": "概念",
+      "evidence": "他一面说美术是知识，一面引托摩生的论美术话说：“人类之大目的，其于自然界，仅知之——此是科学之事——又在能享受之。人者有情感者也。”",
+      "confidence": 1.0
+    }
+  ],
+  "claims": [
+    {
+      "id": "c1",
+      "speaker": "张君劢",
+      "claim": "美术是知识",
+      "target": "美术",
+      "claim_type": "定义性主张",
+      "claim_status": "对手直接主张",
+      "polarity": "negative",
+      "evidence": "他一面说美术是知识，一面引托摩生的论美术话说：“人类之大目的，其于自然界，仅知之——此是科学之事——又在能享受之。人者有情感者也。”",
+      "confidence": 1.0
+    },
+    {
+      "id": "c2",
+      "speaker": "托摩生",
+      "claim": "人类之大目的，其于自然界，仅知之——此是科学之事——又在能享受之。人者有情感者也。",
+      "target": "人类之大目的",
+      "claim_type": "描述性主张",
+      "claim_status": "直接引用",
+      "polarity": "neutral",
+      "evidence": "他一面说美术是知识，一面引托摩生的论美术话说：“人类之大目的，其于自然界，仅知之——此是科学之事——又在能享受之。人者有情感者也。”",
+      "confidence": 1.0
+    },
+    {
+      "id": "c3",
+      "speaker": "丁文江",
+      "claim": "张君劢一面说美术是知识，一面引托摩生的论美术话，这是矛盾。",
+      "target": "张君劢",
+      "claim_type": "评价性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "他一面说美术是知识，一面引托摩生的论美术话说：“人类之大目的，其于自然界，仅知之——此是科学之事——又在能享受之。人者有情感者也。”这岂不是矛盾么？",
+      "confidence": 1.0
+    },
+    {
+      "id": "c4",
+      "speaker": "丁文江",
+      "claim": "“享受”同“情感”都是知识，然则饮食男女都是知识。",
+      "target": "张君劢",
+      "claim_type": "反驳性主张",
+      "claim_status": "作者推论",
+      "polarity": "negative",
+      "evidence": "“享受”同“情感”都是知识，然则饮食男女都是知识。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c5",
+      "speaker": "丁文江",
+      "claim": "我不知道君劢的“知识”有什么定义。",
+      "target": "张君劢",
+      "claim_type": "问题提出",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "我不知道君劢的“知识”有什么定义。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c6",
+      "speaker": "丁文江",
+      "claim": "我的那三条里面所说的“真”，第一条是指概念同推论，第二条是指概念，第三条是指推论，界限是极明白的；与美术、道德、宗教有什么关系？",
+      "target": "张君劢",
+      "claim_type": "反驳性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "我的那三条里面所说的“真”，第一条是指概念同推论，第二条是指概念，第三条是指推论，界限是极明白的；与美术、道德、宗教有什么关系？",
+      "confidence": 1.0
+    },
+    {
+      "id": "c7",
+      "speaker": "丁文江",
+      "claim": "难道他的正统哲学，连知识情感同天性都弄不清楚？",
+      "target": "张君劢",
+      "claim_type": "评价性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "难道他的正统哲学，连知识情感同天性都弄不清楚？",
+      "confidence": 1.0
+    },
+    {
+      "id": "c8",
+      "speaker": "丁文江",
+      "claim": "他把美术、宗教当做知识，不但学科学的人不承认，恐怕学美术的信宗教的人也未必承认的。",
+      "target": "张君劢",
+      "claim_type": "评价性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "他把美术、宗教当做知识，不但学科学的人不承认，恐怕学美术的信宗教的人也未必承认的。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c9",
+      "speaker": "丁文江",
+      "claim": "美术固然不是可以完全离开知识的，譬如声学可以补助音乐，几何可以补助图画，文法可以补助诗歌，但是运用死方法来表示人所不能表示的情感，是神而明之，存乎其人，所以说是术。",
+      "target": "美术",
+      "claim_type": "定义性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "美术固然不是可以完全离开知识的，譬如声学可以补助音乐，几何可以补助图画，文法可以补助诗歌，但是运用死方法来表示人所不能表示的情感，是神而明之，存乎其人，所以说是术。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c10",
+      "speaker": "丁文江",
+      "claim": "人之所以能觉得自然界的美，同人能寻出自然界的秩序，自一样的原因；都是演化的结果，因为不如此是不能生存的。",
+      "target": "人",
+      "claim_type": "因果主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "人之所以能觉得自然界的美，同人能寻出自然界的秩序，自一样的原因；都是演化的结果，因为不如此是不能生存的。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c11",
+      "speaker": "丁文江",
+      "claim": "学科学的人没有不崇拜美术的，因为两样东西性质虽然不同，都是供给人类的需要，而且可以互相帮助的：知识越丰富，表示情感的能力越大；越能表示情感，知识越丰富。",
+      "target": "学科学的人",
+      "claim_type": "描述性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "学科学的人没有不崇拜美术的，因为两样东西性质虽然不同，都是供给人类的需要，而且可以互相帮助的：知识越丰富，表示情感的能力越大；越能表示情感，知识越丰富。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c12",
+      "speaker": "丁文江",
+      "claim": "诗人画家虽是常有奇怪的想像，他们最诚实，决不像玄学家拿想像来骗人的。",
+      "target": "诗人画家",
+      "claim_type": "对比性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "况且诗人画家虽是常有奇怪的想像，他们最诚实，决不像玄学家拿想像来骗人的。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c13",
+      "speaker": "丁文江",
+      "claim": "玄学家拿想像来骗人。",
+      "target": "玄学家",
+      "claim_type": "评价性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "况且诗人画家虽是常有奇怪的想像，他们最诚实，决不像玄学家拿想像来骗人的。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c14",
+      "speaker": "杜牧之",
+      "claim": "蜡烛有心还惜别，替人垂泪到天明。",
+      "target": "蜡烛",
+      "claim_type": "描述性主张",
+      "claim_status": "直接引用",
+      "polarity": "neutral",
+      "evidence": "杜牧之说“蜡烛有心还惜别，替人垂泪到天明”。",
+      "confidence": 1.0
+    }
+  ],
+  "relations": [
+    {
+      "id": "r1",
+      "head": "丁文江",
+      "head_type": "人物",
+      "relation": "定义",
+      "relation_subtype": "概念澄清",
+      "tail": "美术",
+      "tail_type": "概念",
+      "polarity": "positive",
+      "stance_score": 0.8,
+      "intensity": 0.7,
+      "evidence": "美术固然不是可以完全离开知识的，譬如声学可以补助音乐，几何可以补助图画，文法可以补助诗歌，但是运用死方法来表示人所不能表示的情感，是神而明之，存乎其人，所以说是术。",
+      "confidence": 1.0
+    },
+    {
+      "id": "r2",
+      "head": "丁文江",
+      "head_type": "人物",
+      "relation": "解释",
+      "relation_subtype": "不适用",
+      "tail": "人之所以能觉得自然界的美，同人能寻出自然界的秩序，自一样的原因；都是演化的结果，因为不如此是不能生存的。",
+      "tail_type": "观点",
+      "polarity": "positive",
+      "stance_score": 0.9,
+      "intensity": 0.8,
+      "evidence": "人之所以能觉得自然界的美，同人能寻出自然界的秩序，自一样的原因；都是演化的结果，因为不如此是不能生存的。",
+      "confidence": 1.0
+    },
+    {
+      "id": "r3",
+      "head": "丁文江",
+      "head_type": "人物",
+      "relation": "主张",
+      "relation_subtype": "不适用",
+      "tail": "学科学的人没有不崇拜美术的，因为两样东西性质虽然不同，都是供给人类的需要，而且可以互相帮助的：知识越丰富，表示情感的能力越大；越能表示情感，知识越丰富。",
+      "tail_type": "观点",
+      "polarity": "positive",
+      "stance_score": 0.9,
+      "intensity": 0.8,
+      "evidence": "学科学的人没有不崇拜美术的，因为两样东西性质虽然不同，都是供给人类的需要，而且可以互相帮助的：知识越丰富，表示情感的能力越大；越能表示情感，知识越丰富。",
+      "confidence": 1.0
+    },
+    {
+      "id": "r4",
+      "head": "丁文江",
+      "head_type": "人物",
+      "relation": "对比",
+      "relation_subtype": "不适用",
+      "tail": "诗人画家",
+      "tail_type": "阵营/群体",
+      "polarity": "positive",
+      "stance_score": 0.8,
+      "intensity": 0.7,
+      "evidence": "况且诗人画家虽是常有奇怪的想像，他们最诚实，决不像玄学家拿想像来骗人的。",
+      "confidence": 1.0
+    },
+    {
+      "id": "r5",
+      "head": "丁文江",
+      "head_type": "人物",
+      "relation": "批评",
+      "relation_subtype": "道德指责",
+      "tail": "玄学家",
+      "tail_type": "阵营/群体",
+      "polarity": "negative",
+      "stance_score": -0.9,
+      "intensity": 0.9,
+      "evidence": "况且诗人画家虽是常有奇怪的想像，他们最诚实，决不像玄学家拿想像来骗人的。",
+      "confidence": 1.0
+    }
+  ],
+  "definitions": [
+    {
+      "id": "def1",
+      "term": "真",
+      "definition": "第一条是指概念同推论，第二条是指概念，第三条是指推论",
+      "evidence": "我的那三条里面所说的“真”，第一条是指概念同推论，第二条是指概念，第三条是指推论，界限是极明白的；与美术、道德、宗教有什么关系？",
+      "confidence": 1.0
+    },
+    {
+      "id": "def2",
+      "term": "术",
+      "definition": "运用死方法来表示人所不能表示的情感，是神而明之，存乎其人",
+      "evidence": "美术固然不是可以完全离开知识的，譬如声学可以补助音乐，几何可以补助图画，文法可以补助诗歌，但是运用死方法来表示人所不能表示的情感，是神而明之，存乎其人，所以说是术。",
+      "confidence": 1.0
+    }
+  ],
+  "citations": [
+    {
+      "id": "cit1",
+      "citer": "张君劢",
+      "quoted_author": "托摩生",
+      "quoted_work": "",
+      "quoted_claim": "人类之大目的，其于自然界，仅知之——此是科学之事——又在能享受之。人者有情感者也。",
+      "function": "援引权威支持",
+      "evidence": "他一面说美术是知识，一面引托摩生的论美术话说：“人类之大目的，其于自然界，仅知之——此是科学之事——又在能享受之。人者有情感者也。”",
+      "confidence": 1.0
+    }
+  ],
+  "rhetorical_devices": [
+    {
+      "id": "rh1",
+      "expression": "这岂不是矛盾么？",
+      "device_type": "讽刺",
+      "literal_target": "张君劢",
+      "function": "以反问形式批评张君劢自相矛盾",
+      "evidence": "他一面说美术是知识，一面引托摩生的论美术话说：“人类之大目的，其于自然界，仅知之——此是科学之事——又在能享受之。人者有情感者也。”这岂不是矛盾么？",
+      "confidence": 1.0
+    },
+    {
+      "id": "rh2",
+      "expression": "难道他的正统哲学，连知识情感同天性都弄不清楚？",
+      "device_type": "讽刺",
+      "literal_target": "张君劢",
+      "function": "以反问讽刺张君劢概念混乱",
+      "evidence": "难道他的正统哲学，连知识情感同天性都弄不清楚？",
+      "confidence": 1.0
+    },
+    {
+      "id": "rh3",
+      "expression": "这不是滥用没有定义的名词么？",
+      "device_type": "讽刺",
+      "literal_target": "张君劢",
+      "function": "以反问批评张君劢滥用名词",
+      "evidence": "这不是滥用没有定义的名词么？",
+      "confidence": 1.0
+    },
+    {
+      "id": "rh4",
+      "expression": "决不像玄学家拿想像来骗人的",
+      "device_type": "标签化",
+      "literal_target": "玄学家",
+      "function": "将玄学家标签化为欺骗者，以对比突出诗人画家的诚实",
+      "evidence": "况且诗人画家虽是常有奇怪的想像，他们最诚实，决不像玄学家拿想像来骗人的。",
+      "confidence": 1.0
+    }
+  ],
+  "uncertainties": [
+    {
+      "item": "“放矢么？”一句是否属于当前文本片段？",
+      "reason": "文本片段以“放矢么？”开头，但该句不完整，无法确定其完整含义和上下文，故未抽取。"
+    }
+  ],
+  "_meta": {
+    "status": "success",
+    "stage": "extract",
+    "model": "deepseek-ai/DeepSeek-V4-Flash",
+    "base_url": "https://api.siliconflow.cn/v1",
+    "prompt_version": "v2.0",
+    "schema_version": "lite_v3.0",
+    "segment_id": "丁文江2_000_e838922e_s0028",
+    "article_id": "丁文江2_000_e838922e",
+    "char_start": 13819,
+    "char_end": 14405,
+    "raw_path": "E:\\1研究生\\岭南大学\\论文毕业\\capstone\\资料\\新的内容开始了\\local_upload\\kg_runs_v2\\丁文江_等3篇\\raw_outputs\\extract\\丁文江2_000_e838922e_s0028.txt",
+    "parsed_at": "2026-05-22T07:35:10",
+    "started_at": "2026-05-22T07:34:32",
+    "elapsed_seconds": 37.666,
+    "strict_evidence_check": true,
+    "drop_unsupported_evidence": true,
+    "request_timeout_seconds": 60
+  }
+}

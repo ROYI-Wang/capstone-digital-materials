@@ -1,0 +1,411 @@
+{
+  "metadata": {
+    "schema_version": "lite_v2.0",
+    "article_id": "林宰平_000_acbbe922",
+    "article_title": "读丁在君先生的《玄学与科学》",
+    "source_author": "林宰平",
+    "section_title": "",
+    "section_author": "",
+    "segment_id": "林宰平_000_acbbe922_s0027",
+    "segment_index": 27,
+    "source_file": "E:\\1研究生\\岭南大学\\论文毕业\\capstone\\资料\\新的内容开始了\\local_upload\\input_w0\\林宰平.txt"
+  },
+  "entities": [
+    {
+      "id": "e1",
+      "name": "理智",
+      "canonical_name": "理智",
+      "type": "概念",
+      "evidence": "不是仅仅理智一方面，感情的活动，意志的活动，也很占一大部分",
+      "confidence": 0.9
+    },
+    {
+      "id": "e2",
+      "name": "感情",
+      "canonical_name": "感情",
+      "type": "概念",
+      "evidence": "感情的活动，意志的活动，也很占一大部分",
+      "confidence": 0.9
+    },
+    {
+      "id": "e3",
+      "name": "意志",
+      "canonical_name": "意志",
+      "type": "概念",
+      "evidence": "感情的活动，意志的活动，也很占一大部分",
+      "confidence": 0.9
+    },
+    {
+      "id": "e4",
+      "name": "人生",
+      "canonical_name": "人生",
+      "type": "概念",
+      "evidence": "人生全体的发展，一定要各方面调和起来方能有望",
+      "confidence": 0.9
+    },
+    {
+      "id": "e5",
+      "name": "科学",
+      "canonical_name": "科学",
+      "type": "概念",
+      "evidence": "科学是以经验为根据的",
+      "confidence": 0.9
+    },
+    {
+      "id": "e6",
+      "name": "经验",
+      "canonical_name": "经验",
+      "type": "概念",
+      "evidence": "科学是以经验为根据的",
+      "confidence": 0.9
+    },
+    {
+      "id": "e7",
+      "name": "主观要素",
+      "canonical_name": "主观要素",
+      "type": "概念",
+      "evidence": "把主观要素——情意——统统除去",
+      "confidence": 0.9
+    },
+    {
+      "id": "e8",
+      "name": "情意",
+      "canonical_name": "情意",
+      "type": "概念",
+      "evidence": "把主观要素——情意——统统除去",
+      "confidence": 0.9
+    },
+    {
+      "id": "e9",
+      "name": "感觉",
+      "canonical_name": "感觉",
+      "type": "概念",
+      "evidence": "只余下感觉的部分",
+      "confidence": 0.9
+    },
+    {
+      "id": "e10",
+      "name": "抽象性",
+      "canonical_name": "抽象性",
+      "type": "概念",
+      "evidence": "抽象性愈大，则距人生愈远",
+      "confidence": 0.9
+    },
+    {
+      "id": "e11",
+      "name": "宇宙",
+      "canonical_name": "宇宙",
+      "type": "概念",
+      "evidence": "宇宙中有善有恶，横竖是个无所不有的",
+      "confidence": 0.9
+    },
+    {
+      "id": "e12",
+      "name": "人类",
+      "canonical_name": "人类",
+      "type": "阵营/群体",
+      "evidence": "人类的责任，就是要在善恶夹杂的当中，奋斗出一条生路来",
+      "confidence": 0.9
+    },
+    {
+      "id": "e13",
+      "name": "世界",
+      "canonical_name": "世界",
+      "type": "概念",
+      "evidence": "乱烘烘的这种世界",
+      "confidence": 0.9
+    },
+    {
+      "id": "e14",
+      "name": "心理作用",
+      "canonical_name": "心理作用",
+      "type": "概念",
+      "evidence": "大部分即是人的心理作用",
+      "confidence": 0.9
+    },
+    {
+      "id": "e15",
+      "name": "情感",
+      "canonical_name": "情感",
+      "type": "概念",
+      "evidence": "他最为古怪的，尤其在情感的活动",
+      "confidence": 0.9
+    },
+    {
+      "id": "e16",
+      "name": "倭伊铿",
+      "canonical_name": "倭伊铿",
+      "type": "人物",
+      "evidence": "我又记得倭伊铿对我们说过",
+      "confidence": 0.9
+    },
+    {
+      "id": "e17",
+      "name": "《改造》",
+      "canonical_name": "《改造》",
+      "type": "著作",
+      "evidence": "详见《改造》第四卷五号倭伊铿《谈话录》",
+      "confidence": 0.9
+    },
+    {
+      "id": "e18",
+      "name": "《谈话录》",
+      "canonical_name": "《谈话录》",
+      "type": "著作",
+      "evidence": "详见《改造》第四卷五号倭伊铿《谈话录》",
+      "confidence": 0.9
+    },
+    {
+      "id": "e19",
+      "name": "《晨报》副刊",
+      "canonical_name": "《晨报》副刊",
+      "type": "著作",
+      "evidence": "同见上引《晨报》副刊",
+      "confidence": 0.9
+    }
+  ],
+  "claims": [
+    {
+      "id": "c1",
+      "speaker": "林宰平",
+      "claim": "人生全体的发展，一定要各方面调和起来方能有望，决不能单从一方面进行的",
+      "target": "人生",
+      "claim_type": "方法论主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "人生全体的发展，一定要各方面调和起来方能有望，决不能单从一方面进行的",
+      "confidence": 0.9
+    },
+    {
+      "id": "c2",
+      "speaker": "林宰平",
+      "claim": "理智的作用，专重概念的推理",
+      "target": "理智",
+      "claim_type": "定义性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "理智的作用，专重概念的推理",
+      "confidence": 0.9
+    },
+    {
+      "id": "c3",
+      "speaker": "林宰平",
+      "claim": "科学的材料，并不是具体经验的原状，他拿经验做的材料的时候，实在已经用过一番淘汰的工夫，把主观要素——情意——统统除去，只余下感觉的部分，这个自然是抽象的产物了",
+      "target": "科学",
+      "claim_type": "知识论主张",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "科学的材料，并不是具体经验的原状，他拿经验做的材料的时候，实在已经用过一番淘汰的工夫，把主观要素——情意——统统除去，只余下感觉的部分，这个自然是抽象的产物了",
+      "confidence": 0.9
+    },
+    {
+      "id": "c4",
+      "speaker": "林宰平",
+      "claim": "科学一步一步向前进，他的抽象性也一步一步的显著，抽象性愈大，则距人生愈远",
+      "target": "科学",
+      "claim_type": "知识论主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "科学一步一步向前进，他的抽象性也一步一步的显著，抽象性愈大，则距人生愈远",
+      "confidence": 0.9
+    },
+    {
+      "id": "c5",
+      "speaker": "倭伊铿",
+      "claim": "宇宙中有善有恶，横竖是个无所不有的。既是乱烘烘的这种世界，所以人类的责任，就是要在善恶夹杂的当中，奋斗出一条生路来",
+      "target": "人类",
+      "claim_type": "社会理论主张",
+      "claim_status": "直接引用",
+      "polarity": "positive",
+      "evidence": "我又记得倭伊铿对我们说过：“宇宙中有善有恶，横竖是个无所不有的。既是乱烘烘的这种世界，所以人类的责任，就是要在善恶夹杂的当中，奋斗出一条生路来。”",
+      "confidence": 0.9
+    },
+    {
+      "id": "c6",
+      "speaker": "林宰平",
+      "claim": "人类在世界里实在是很古怪的东西，能善也是他，能恶也是他",
+      "target": "人类",
+      "claim_type": "价值评价",
+      "claim_status": "作者直接主张",
+      "polarity": "mixed",
+      "evidence": "人类在世界里实在是很古怪的东西，——也许我是人，所以只知人的古怪，——能善也是他，能恶也是他",
+      "confidence": 0.9
+    },
+    {
+      "id": "c7",
+      "speaker": "林宰平",
+      "claim": "乱烘烘的世界，谁在那里兴风作浪呢？大部分即是人的心理作用",
+      "target": "世界",
+      "claim_type": "社会理论主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "乱烘烘的世界，谁在那里兴风作浪呢？大部分即是人的心理作用",
+      "confidence": 0.9
+    },
+    {
+      "id": "c8",
+      "speaker": "林宰平",
+      "claim": "各人对于人生的观念，各有他的见地，恐怕全人类中，要找出一两个他的人生观完完全全相同的，似乎很不容易",
+      "target": "人生观",
+      "claim_type": "知识论主张",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "各人对于人生的观念，各有他的见地，恐怕全人类中，要找出一两个他的人生观完完全全相同的，似乎很不容易",
+      "confidence": 0.9
+    },
+    {
+      "id": "c9",
+      "speaker": "林宰平",
+      "claim": "他最为古怪的，尤其在情感的活动，不但主观性非常之重，并且有时连甚么主观非主观都说不上，他是莫名其妙而发动的",
+      "target": "情感",
+      "claim_type": "知识论主张",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "他最为古怪的，尤其在情感的活动，不但主观性非常之重，并且有时连甚么主观非主观都说不上，他是莫名其妙而发动的",
+      "confidence": 0.9
+    }
+  ],
+  "relations": [
+    {
+      "id": "r1",
+      "head": "人生",
+      "head_type": "概念",
+      "relation": "包含",
+      "tail": "理智",
+      "tail_type": "概念",
+      "polarity": "neutral",
+      "evidence": "不是仅仅理智一方面，感情的活动，意志的活动，也很占一大部分。人生全体的发展，一定要各方面调和起来方能有望",
+      "confidence": 0.9
+    },
+    {
+      "id": "r2",
+      "head": "人生",
+      "head_type": "概念",
+      "relation": "包含",
+      "tail": "感情",
+      "tail_type": "概念",
+      "polarity": "neutral",
+      "evidence": "不是仅仅理智一方面，感情的活动，意志的活动，也很占一大部分。人生全体的发展，一定要各方面调和起来方能有望",
+      "confidence": 0.9
+    },
+    {
+      "id": "r3",
+      "head": "人生",
+      "head_type": "概念",
+      "relation": "包含",
+      "tail": "意志",
+      "tail_type": "概念",
+      "polarity": "neutral",
+      "evidence": "不是仅仅理智一方面，感情的活动，意志的活动，也很占一大部分。人生全体的发展，一定要各方面调和起来方能有望",
+      "confidence": 0.9
+    },
+    {
+      "id": "r4",
+      "head": "科学",
+      "head_type": "概念",
+      "relation": "导致",
+      "tail": "抽象性",
+      "tail_type": "概念",
+      "polarity": "negative",
+      "evidence": "科学一步一步向前进，他的抽象性也一步一步的显著，抽象性愈大，则距人生愈远",
+      "confidence": 0.9
+    },
+    {
+      "id": "r5",
+      "head": "抽象性",
+      "head_type": "概念",
+      "relation": "导致",
+      "tail": "人生",
+      "tail_type": "概念",
+      "polarity": "negative",
+      "evidence": "抽象性愈大，则距人生愈远",
+      "confidence": 0.9
+    },
+    {
+      "id": "r6",
+      "head": "林宰平",
+      "head_type": "人物",
+      "relation": "相关",
+      "tail": "倭伊铿",
+      "tail_type": "人物",
+      "polarity": "positive",
+      "evidence": "我又记得倭伊铿对我们说过：“宇宙中有善有恶，横竖是个无所不有的。既是乱烘烘的这种世界，所以人类的责任，就是要在善恶夹杂的当中，奋斗出一条生路来。”",
+      "confidence": 0.9
+    }
+  ],
+  "definitions": [
+    {
+      "id": "def1",
+      "term": "理智",
+      "definition": "理智的作用专重概念的推理",
+      "evidence": "理智的作用，专重概念的推理",
+      "confidence": 0.9
+    },
+    {
+      "id": "def2",
+      "term": "科学",
+      "definition": "科学以经验为材料，但经过淘汰主观要素（情意）的抽象过程，只余下感觉部分，是抽象的产物",
+      "evidence": "科学的材料，并不是具体经验的原状，他拿经验做的材料的时候，实在已经用过一番淘汰的工夫，把主观要素——情意——统统除去，只余下感觉的部分，这个自然是抽象的产物了",
+      "confidence": 0.9
+    },
+    {
+      "id": "def3",
+      "term": "情感",
+      "definition": "情感的活动主观性非常之重，有时连主观非主观都说不上，是莫名其妙而发动的",
+      "evidence": "他最为古怪的，尤其在情感的活动，不但主观性非常之重，并且有时连甚么主观非主观都说不上，他是莫名其妙而发动的",
+      "confidence": 0.9
+    }
+  ],
+  "citations": [
+    {
+      "id": "cit1",
+      "citer": "林宰平",
+      "quoted_author": "倭伊铿",
+      "quoted_work": "《改造》第四卷五号倭伊铿《谈话录》",
+      "quoted_claim": "宇宙中有善有恶，横竖是个无所不有的。既是乱烘烘的这种世界，所以人类的责任，就是要在善恶夹杂的当中，奋斗出一条生路来",
+      "function": "援引权威支持",
+      "evidence": "我又记得倭伊铿对我们说过：“宇宙中有善有恶，横竖是个无所不有的。既是乱烘烘的这种世界，所以人类的责任，就是要在善恶夹杂的当中，奋斗出一条生路来。”（详见《改造》第四卷五号倭伊铿《谈话录》）",
+      "confidence": 0.9
+    }
+  ],
+  "rhetorical_devices": [
+    {
+      "id": "rh1",
+      "expression": "兴风作浪",
+      "device_type": "比喻",
+      "literal_target": "制造混乱和问题",
+      "function": "形象化地说明世界混乱的根源在于人的心理作用",
+      "evidence": "谁在那里兴风作浪呢？大部分即是人的心理作用",
+      "confidence": 0.9
+    }
+  ],
+  "uncertainties": [
+    {
+      "item": "“这一段的话”具体指代的内容",
+      "reason": "文本中未明确说明“这一段的话”具体指代前文哪一段，无法确定其具体内容"
+    },
+    {
+      "item": "“上引《晨报》副刊”的具体内容",
+      "reason": "文本中未提供《晨报》副刊的具体引文内容，仅作为引用来源提及"
+    }
+  ],
+  "_meta": {
+    "status": "success",
+    "stage": "extract",
+    "model": "deepseek-ai/DeepSeek-V4-Flash",
+    "base_url": "https://api.siliconflow.cn/v1",
+    "prompt_version": "extract_prompt_v2.0",
+    "schema_version": "lite_v2.0",
+    "segment_id": "林宰平_000_acbbe922_s0027",
+    "article_id": "林宰平_000_acbbe922",
+    "char_start": 13285,
+    "char_end": 13837,
+    "raw_path": "E:\\1研究生\\岭南大学\\论文毕业\\capstone\\资料\\新的内容开始了\\local_upload\\kg_runs\\林宰平\\raw_outputs\\extract\\林宰平_000_acbbe922_s0027.txt",
+    "parsed_at": "2026-05-20T02:16:39",
+    "started_at": "2026-05-20T02:13:06",
+    "elapsed_seconds": 213.235,
+    "strict_evidence_check": true,
+    "drop_unsupported_evidence": true,
+    "request_timeout_seconds": 180
+  }
+}

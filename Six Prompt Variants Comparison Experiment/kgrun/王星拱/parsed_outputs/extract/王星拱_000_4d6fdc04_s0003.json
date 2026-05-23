@@ -1,0 +1,526 @@
+{
+  "metadata": {
+    "schema_version": "lite_v2.0",
+    "article_id": "王星拱_000_4d6fdc04",
+    "article_title": "科学与人生观",
+    "source_author": "王星拱",
+    "section_title": "",
+    "section_author": "",
+    "segment_id": "王星拱_000_4d6fdc04_s0003",
+    "segment_index": 3,
+    "source_file": "E:\\1研究生\\岭南大学\\论文毕业\\capstone\\资料\\新的内容开始了\\local_upload\\input_w1\\王星拱.txt"
+  },
+  "entities": [
+    {
+      "id": "e1",
+      "name": "庄子",
+      "canonical_name": "庄子",
+      "type": "人物",
+      "evidence": "庄子说",
+      "confidence": 1.0
+    },
+    {
+      "id": "e2",
+      "name": "德毛克里脱司",
+      "canonical_name": "德谟克利特",
+      "type": "人物",
+      "evidence": "德毛克里脱司（Democritus）所讲的原子",
+      "confidence": 1.0
+    },
+    {
+      "id": "e3",
+      "name": "柏格森",
+      "canonical_name": "柏格森",
+      "type": "人物",
+      "evidence": "柏格森的创化",
+      "confidence": 1.0
+    },
+    {
+      "id": "e4",
+      "name": "科学",
+      "canonical_name": "科学",
+      "type": "概念",
+      "evidence": "科学以为宇宙是可分的",
+      "confidence": 1.0
+    },
+    {
+      "id": "e5",
+      "name": "宇宙",
+      "canonical_name": "宇宙",
+      "type": "概念",
+      "evidence": "宇宙是可分的",
+      "confidence": 1.0
+    },
+    {
+      "id": "e6",
+      "name": "原子",
+      "canonical_name": "原子",
+      "type": "概念",
+      "evidence": "德毛克里脱司（Democritus）所讲的原子",
+      "confidence": 1.0
+    },
+    {
+      "id": "e7",
+      "name": "点",
+      "canonical_name": "点",
+      "type": "概念",
+      "evidence": "几何学中所讲的点",
+      "confidence": 1.0
+    },
+    {
+      "id": "e8",
+      "name": "力线",
+      "canonical_name": "力线",
+      "type": "概念",
+      "evidence": "力学所讲的力线",
+      "confidence": 1.0
+    },
+    {
+      "id": "e9",
+      "name": "电子",
+      "canonical_name": "电子",
+      "type": "概念",
+      "evidence": "物理学所讲的电子量子",
+      "confidence": 1.0
+    },
+    {
+      "id": "e10",
+      "name": "量子",
+      "canonical_name": "量子",
+      "type": "概念",
+      "evidence": "物理学所讲的电子量子",
+      "confidence": 1.0
+    },
+    {
+      "id": "e11",
+      "name": "分子",
+      "canonical_name": "分子",
+      "type": "概念",
+      "evidence": "化学所讲的分子原子",
+      "confidence": 1.0
+    },
+    {
+      "id": "e12",
+      "name": "原子",
+      "canonical_name": "原子",
+      "type": "概念",
+      "evidence": "化学所讲的分子原子",
+      "confidence": 1.0
+    },
+    {
+      "id": "e13",
+      "name": "单位性质",
+      "canonical_name": "单位性质",
+      "type": "概念",
+      "evidence": "生物学所讲的单位性质",
+      "confidence": 1.0
+    },
+    {
+      "id": "e14",
+      "name": "宇宙可分之原理",
+      "canonical_name": "宇宙可分之原理",
+      "type": "概念",
+      "evidence": "都是在宇宙可分之原理上立论",
+      "confidence": 1.0
+    },
+    {
+      "id": "e15",
+      "name": "齐一之原理",
+      "canonical_name": "齐一之原理",
+      "type": "概念",
+      "evidence": "齐一之原理是说：同因必生同果",
+      "confidence": 1.0
+    },
+    {
+      "id": "e16",
+      "name": "因果原理",
+      "canonical_name": "因果原理",
+      "type": "概念",
+      "evidence": "推翻因果原理",
+      "confidence": 1.0
+    },
+    {
+      "id": "e17",
+      "name": "创化",
+      "canonical_name": "创化",
+      "type": "概念",
+      "evidence": "柏格森的创化",
+      "confidence": 1.0
+    },
+    {
+      "id": "e18",
+      "name": "同因必生同果",
+      "canonical_name": "同因必生同果",
+      "type": "概念",
+      "evidence": "齐一之原理是说：同因必生同果",
+      "confidence": 1.0
+    },
+    {
+      "id": "e19",
+      "name": "群论",
+      "canonical_name": "群论",
+      "type": "概念",
+      "evidence": "这是算学中群论所发见的",
+      "confidence": 1.0
+    },
+    {
+      "id": "e20",
+      "name": "混沌圆软",
+      "canonical_name": "混沌圆软",
+      "type": "概念",
+      "evidence": "若是宇宙是一个混沌圆软的东西",
+      "confidence": 1.0
+    },
+    {
+      "id": "e21",
+      "name": "宇宙不可分析",
+      "canonical_name": "宇宙不可分析",
+      "type": "观点",
+      "evidence": "也是宇宙不可分析的意思",
+      "confidence": 1.0
+    },
+    {
+      "id": "e22",
+      "name": "佛家",
+      "canonical_name": "佛家",
+      "type": "阵营/群体",
+      "evidence": "套佛家一句话来说",
+      "confidence": 1.0
+    },
+    {
+      "id": "e23",
+      "name": "一些哲学家",
+      "canonical_name": "一些哲学家",
+      "type": "阵营/群体",
+      "evidence": "有一些哲学家也极力的想方法去推翻这个原理",
+      "confidence": 1.0
+    }
+  ],
+  "claims": [
+    {
+      "id": "c1",
+      "speaker": "王星拱",
+      "claim": "科学以为宇宙是可分的",
+      "target": "科学",
+      "claim_type": "知识论主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "科学以为宇宙是可分的",
+      "confidence": 1.0
+    },
+    {
+      "id": "c2",
+      "speaker": "王星拱",
+      "claim": "宇宙可分之原理是科学的基础",
+      "target": "宇宙可分之原理",
+      "claim_type": "知识论主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "都是在宇宙可分之原理上立论",
+      "confidence": 0.9
+    },
+    {
+      "id": "c3",
+      "speaker": "王星拱",
+      "claim": "无限无碍于分析",
+      "target": "分析",
+      "claim_type": "知识论主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "然而无限无碍于分析，这是算学中群论所发见的",
+      "confidence": 1.0
+    },
+    {
+      "id": "c4",
+      "speaker": "王星拱",
+      "claim": "若是宇宙是一个混沌圆软的东西，那么科学就不能成立了",
+      "target": "科学",
+      "claim_type": "知识论主张",
+      "claim_status": "作者推论",
+      "polarity": "negative",
+      "evidence": "若是宇宙是一个混沌圆软的东西，那么科学就不能成立了",
+      "confidence": 1.0
+    },
+    {
+      "id": "c5",
+      "speaker": "王星拱",
+      "claim": "齐一之原理是说：同因必生同果",
+      "target": "齐一之原理",
+      "claim_type": "定义性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "齐一之原理是说：同因必生同果",
+      "confidence": 1.0
+    },
+    {
+      "id": "c6",
+      "speaker": "王星拱",
+      "claim": "假使没有这个原理，则宇宙之间只有千千万万一点一滴的事实，我们很难寻觅因果关系出来，那么，科学也无从构造了",
+      "target": "齐一之原理",
+      "claim_type": "知识论主张",
+      "claim_status": "作者推论",
+      "polarity": "negative",
+      "evidence": "假使没有这个原理，则宇宙之间只有千千万万一点一滴的事实，我们很难寻觅因果关系出来，那么，科学也无从构造了",
+      "confidence": 1.0
+    },
+    {
+      "id": "c7",
+      "speaker": "王星拱",
+      "claim": "历史告诉我们：科学可以从许多现象上看出同点，而把这些同点综合起来，就成为定律",
+      "target": "科学",
+      "claim_type": "知识论主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "历史告诉我们：科学可以从许多现象上看出同点，而把这些同点综合起来，就成为定律",
+      "confidence": 1.0
+    },
+    {
+      "id": "c8",
+      "speaker": "王星拱",
+      "claim": "有一些哲学家也极力的想方法去推翻这个原理。然而比推翻因果原理，却还要困难得多",
+      "target": "齐一之原理",
+      "claim_type": "论战策略批评",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "有一些哲学家也极力的想方法去推翻这个原理。然而比推翻因果原理，却还要困难得多",
+      "confidence": 0.9
+    },
+    {
+      "id": "c9",
+      "speaker": "王星拱",
+      "claim": "柏格森的创化是最时髦最有力的论调",
+      "target": "柏格森",
+      "claim_type": "价值评价",
+      "claim_status": "作者直接主张",
+      "polarity": "mixed",
+      "evidence": "其中最时髦最有力的论调，就是柏格森的创化",
+      "confidence": 0.9
+    },
+    {
+      "id": "c10",
+      "speaker": "柏格森",
+      "claim": "宇宙间所有过去的现象，都是现在现象发生的原因",
+      "target": "宇宙",
+      "claim_type": "知识论主张",
+      "claim_status": "间接转述",
+      "polarity": "positive",
+      "evidence": "他的意思是：宇宙间所有过去的现象，都是现在现象发生的原因",
+      "confidence": 0.8
+    },
+    {
+      "id": "c11",
+      "speaker": "柏格森",
+      "claim": "宇宙间所有过去的现象之共总，是时时刻刻不同的，所以宇宙间永远没有同因的现象",
+      "target": "宇宙",
+      "claim_type": "知识论主张",
+      "claim_status": "间接转述",
+      "polarity": "positive",
+      "evidence": "但是宇宙间所有过去的现象之共总，是时时刻刻不同的,所以宇宙间永远没有同因的现象",
+      "confidence": 0.9
+    },
+    {
+      "id": "c12",
+      "speaker": "王星拱",
+      "claim": "原来就没有糖是甜的这样一回事",
+      "target": "糖",
+      "claim_type": "知识论主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "所以他的结论是：“原来就没有糖是甜的这样一回事。”",
+      "confidence": 0.8
+    },
+    {
+      "id": "c13",
+      "speaker": "庄子",
+      "claim": "今日适越而昔至",
+      "target": "时间",
+      "claim_type": "知识论主张",
+      "claim_status": "直接引用",
+      "polarity": "positive",
+      "evidence": "庄子说：“今日适越而昔至”",
+      "confidence": 1.0
+    },
+    {
+      "id": "c14",
+      "speaker": "庄子",
+      "claim": "庸讵知天之非人乎？庸讵知人之非天乎？",
+      "target": "天与人",
+      "claim_type": "问题提出",
+      "claim_status": "直接引用",
+      "polarity": "positive",
+      "evidence": "庄子说：“今日适越而昔至”“庸讵知天之非人乎？庸讵知人之非天乎？”",
+      "confidence": 1.0
+    }
+  ],
+  "relations": [
+    {
+      "id": "r1",
+      "head": "德毛克里脱司",
+      "head_type": "人物",
+      "relation": "主张",
+      "tail": "原子",
+      "tail_type": "概念",
+      "polarity": "positive",
+      "evidence": "德毛克里脱司（Democritus）所讲的原子",
+      "confidence": 1.0
+    },
+    {
+      "id": "r2",
+      "head": "王星拱",
+      "head_type": "人物",
+      "relation": "主张",
+      "tail": "无限无碍于分析",
+      "tail_type": "观点",
+      "polarity": "positive",
+      "evidence": "然而无限无碍于分析，这是算学中群论所发见的",
+      "confidence": 1.0
+    },
+    {
+      "id": "r3",
+      "head": "王星拱",
+      "head_type": "人物",
+      "relation": "主张",
+      "tail": "齐一之原理",
+      "tail_type": "概念",
+      "polarity": "positive",
+      "evidence": "齐一之原理是说：同因必生同果",
+      "confidence": 1.0
+    },
+    {
+      "id": "r4",
+      "head": "王星拱",
+      "head_type": "人物",
+      "relation": "批评",
+      "tail": "一些哲学家",
+      "tail_type": "阵营/群体",
+      "polarity": "negative",
+      "evidence": "有一些哲学家也极力的想方法去推翻这个原理。然而比推翻因果原理，却还要困难得多",
+      "confidence": 0.9
+    },
+    {
+      "id": "r5",
+      "head": "王星拱",
+      "head_type": "人物",
+      "relation": "相关",
+      "tail": "柏格森",
+      "tail_type": "人物",
+      "polarity": "negative",
+      "evidence": "其中最时髦最有力的论调，就是柏格森的创化",
+      "confidence": 0.9
+    },
+    {
+      "id": "r6",
+      "head": "王星拱",
+      "head_type": "人物",
+      "relation": "相关",
+      "tail": "庄子",
+      "tail_type": "人物",
+      "polarity": "neutral",
+      "evidence": "庄子说：“今日适越而昔至”“庸讵知天之非人乎？庸讵知人之非天乎？”",
+      "confidence": 1.0
+    },
+    {
+      "id": "r7",
+      "head": "王星拱",
+      "head_type": "人物",
+      "relation": "相关",
+      "tail": "德毛克里脱司",
+      "tail_type": "人物",
+      "polarity": "positive",
+      "evidence": "德毛克里脱司（Democritus）所讲的原子",
+      "confidence": 1.0
+    },
+    {
+      "id": "r8",
+      "head": "王星拱",
+      "head_type": "人物",
+      "relation": "相关",
+      "tail": "群论",
+      "tail_type": "概念",
+      "polarity": "positive",
+      "evidence": "这是算学中群论所发见的",
+      "confidence": 1.0
+    },
+    {
+      "id": "r9",
+      "head": "王星拱",
+      "head_type": "人物",
+      "relation": "相关",
+      "tail": "佛家",
+      "tail_type": "阵营/群体",
+      "polarity": "neutral",
+      "evidence": "套佛家一句话来说",
+      "confidence": 1.0
+    }
+  ],
+  "definitions": [
+    {
+      "id": "def1",
+      "term": "齐一之原理",
+      "definition": "同因必生同果",
+      "evidence": "齐一之原理是说：同因必生同果",
+      "confidence": 1.0
+    }
+  ],
+  "citations": [
+    {
+      "id": "cit1",
+      "citer": "王星拱",
+      "quoted_author": "德毛克里脱司",
+      "quoted_work": "",
+      "quoted_claim": "原子",
+      "function": "援引权威支持",
+      "evidence": "德毛克里脱司（Democritus）所讲的原子",
+      "confidence": 1.0
+    }
+  ],
+  "rhetorical_devices": [
+    {
+      "id": "rh1",
+      "expression": "混沌圆软",
+      "device_type": "比喻",
+      "literal_target": "不可分的宇宙",
+      "function": "通过比喻描述不可分的宇宙状态，以论证科学不能成立",
+      "evidence": "若是宇宙是一个混沌圆软的东西，那么科学就不能成立了",
+      "confidence": 1.0
+    },
+    {
+      "id": "rh2",
+      "expression": "千千万万一点一滴的事实",
+      "device_type": "比喻",
+      "literal_target": "缺乏因果联系的事实",
+      "function": "通过比喻强调没有齐一原理时事实的零散无序",
+      "evidence": "假使没有这个原理，则宇宙之间只有千千万万一点一滴的事实",
+      "confidence": 1.0
+    }
+  ],
+  "uncertainties": [
+    {
+      "item": "“原来就没有糖是甜的这样一回事”这句话的 speaker 是谁？",
+      "reason": "文本中“所以他的结论是”的“他”指代不明，可能指前文提到的某位哲学家，但当前片段未明确提及"
+    },
+    {
+      "item": "“有一些哲学家”具体指哪些人？",
+      "reason": "文本未具体列出这些哲学家的名字"
+    }
+  ],
+  "_meta": {
+    "status": "success",
+    "stage": "extract",
+    "model": "deepseek-ai/DeepSeek-V4-Flash",
+    "base_url": "https://api.siliconflow.cn/v1",
+    "prompt_version": "extract_prompt_v2.0",
+    "schema_version": "lite_v2.0",
+    "segment_id": "王星拱_000_4d6fdc04_s0003",
+    "article_id": "王星拱_000_4d6fdc04",
+    "char_start": 1539,
+    "char_end": 2132,
+    "raw_path": "E:\\1研究生\\岭南大学\\论文毕业\\capstone\\资料\\新的内容开始了\\local_upload\\kg_runs\\王星拱\\raw_outputs\\extract\\王星拱_000_4d6fdc04_s0003.txt",
+    "parsed_at": "2026-05-19T21:41:58",
+    "started_at": "2026-05-19T21:41:19",
+    "elapsed_seconds": 39.668,
+    "strict_evidence_check": true,
+    "drop_unsupported_evidence": true,
+    "request_timeout_seconds": 180
+  }
+}

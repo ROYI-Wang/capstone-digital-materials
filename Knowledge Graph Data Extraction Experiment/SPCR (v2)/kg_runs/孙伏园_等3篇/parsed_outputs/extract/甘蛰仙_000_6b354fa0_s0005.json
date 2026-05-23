@@ -1,0 +1,396 @@
+{
+  "metadata": {
+    "schema_version": "lite_v3.0",
+    "article_id": "甘蛰仙_000_6b354fa0",
+    "article_title": "人生观与知识论",
+    "source_author": "甘蛰仙",
+    "section_title": "鄙意欲率自由意志以通本体论与道德学之邮，犹先民所谓“为仁由己”也。我当时之见解，以为从事本体之学，务必以道德学为之辅，乃能按",
+    "section_author": "鄙意欲率自由意志以通本体论与道德学之邮，犹先民所谓“为仁由己”也。我当时之见解，以为从事本体之学，务必以道德学为之辅，乃能",
+    "segment_id": "甘蛰仙_000_6b354fa0_s0005",
+    "segment_index": 5,
+    "source_file": "E:\\1研究生\\岭南大学\\论文毕业\\capstone\\资料\\新的内容开始了\\local_upload\\input_v2_w3\\甘蛰仙.txt"
+  },
+  "entities": [
+    {
+      "id": "e1",
+      "name": "荀朱之说",
+      "canonical_name": "荀朱之说",
+      "type": "阵营/群体",
+      "evidence": "然则荀朱之说，非必无关于经验之论据，明矣。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e2",
+      "name": "经验之论据",
+      "canonical_name": "经验之论据",
+      "type": "概念",
+      "evidence": "然则荀朱之说，非必无关于经验之论据，明矣。",
+      "confidence": 0.8
+    },
+    {
+      "id": "e3",
+      "name": "唯理之论据",
+      "canonical_name": "唯理之论据",
+      "type": "概念",
+      "evidence": "乃若关于唯理之论据，则孟陆阳明之说，尤其杰出者也。",
+      "confidence": 0.8
+    },
+    {
+      "id": "e4",
+      "name": "孟陆阳明之说",
+      "canonical_name": "孟陆阳明之说",
+      "type": "阵营/群体",
+      "evidence": "乃若关于唯理之论据，则孟陆阳明之说，尤其杰出者也。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e5",
+      "name": "唯理论",
+      "canonical_name": "唯理论",
+      "type": "主义/学说/理论",
+      "evidence": "这便是中国古代重要的唯理论！",
+      "confidence": 0.9
+    },
+    {
+      "id": "e6",
+      "name": "经验论者",
+      "canonical_name": "经验论者",
+      "type": "阵营/群体",
+      "evidence": "那就和经验论者所说的耳目之实种种外铄作用的，他们都将不认为知识的本源了。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e7",
+      "name": "知识本质问题",
+      "canonical_name": "知识本质问题",
+      "type": "问题",
+      "evidence": "此犹言乎对于知识本质问题所持之态度也。",
+      "confidence": 0.8
+    },
+    {
+      "id": "e8",
+      "name": "知识本源问题",
+      "canonical_name": "知识本源问题",
+      "type": "问题",
+      "evidence": "其对于知识本源问题，则唯理论纯主先天，而经验则借重后天。",
+      "confidence": 0.8
+    },
+    {
+      "id": "e9",
+      "name": "知识界限效力问题",
+      "canonical_name": "知识界限效力问题",
+      "type": "问题",
+      "evidence": "其对于知识界限效力问题，似两造均带定断论之色彩。",
+      "confidence": 0.8
+    },
+    {
+      "id": "e10",
+      "name": "定断论",
+      "canonical_name": "定断论",
+      "type": "主义/学说/理论",
+      "evidence": "似两造均带定断论之色彩。",
+      "confidence": 0.7
+    },
+    {
+      "id": "e11",
+      "name": "求知之方法",
+      "canonical_name": "求知之方法",
+      "type": "概念",
+      "evidence": "以言乎求知之方法耶？",
+      "confidence": 0.8
+    },
+    {
+      "id": "e12",
+      "name": "晦庵一派",
+      "canonical_name": "晦庵一派",
+      "type": "阵营/群体",
+      "evidence": "晦庵一派，务察零件之物理，以通世界之大全；其方法近于归纳。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e13",
+      "name": "归纳",
+      "canonical_name": "归纳",
+      "type": "方法",
+      "evidence": "其方法近于归纳。",
+      "confidence": 0.9
+    }
+  ],
+  "claims": [
+    {
+      "id": "c1",
+      "speaker": "甘蛰仙",
+      "claim": "荀朱之说，非必无关于经验之论据。",
+      "target": "荀朱之说",
+      "claim_type": "评价性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "然则荀朱之说，非必无关于经验之论据，明矣。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c2",
+      "speaker": "甘蛰仙",
+      "claim": "孟子说：‘人之所不学而能者，其良能也；所不虑而知者，其良知也。’这便是中国古代重要的唯理论。",
+      "target": "孟子",
+      "claim_type": "定义性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "孟子说：‘人之所不学而能者，其良能也；所不虑而知者，其良知也。’这便是中国古代重要的唯理论！",
+      "confidence": 0.9
+    },
+    {
+      "id": "c3",
+      "speaker": "甘蛰仙",
+      "claim": "既是不学不虑，自然能知的；那就和经验论者所说的耳目之实种种外铄作用的，他们都将不认为知识的本源了。",
+      "target": "唯理论",
+      "claim_type": "对比性主张",
+      "claim_status": "作者推论",
+      "polarity": "negative",
+      "evidence": "既是不学不虑，自然能知的；那就和经验论者所说的耳目之实种种外铄作用的，他们都将不认为知识的本源了。",
+      "confidence": 0.8
+    },
+    {
+      "id": "c4",
+      "speaker": "甘蛰仙",
+      "claim": "宋代的陆象山，明代的王阳明，颇受了这种学说的影响。",
+      "target": "陆象山",
+      "claim_type": "描述性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "宋代的陆象山，明代的王阳明，颇受了这种学说的影响……。",
+      "confidence": 0.8
+    },
+    {
+      "id": "c5",
+      "speaker": "甘蛰仙",
+      "claim": "对于知识本源问题，则唯理论纯主先天，而经验则借重后天。",
+      "target": "唯理论",
+      "claim_type": "对比性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "其对于知识本源问题，则唯理论纯主先天，而经验则借重后天。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c6",
+      "speaker": "甘蛰仙",
+      "claim": "对于知识界限效力问题，似两造均带定断论之色彩。",
+      "target": "知识界限效力问题",
+      "claim_type": "描述性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "其对于知识界限效力问题，似两造均带定断论之色彩。",
+      "confidence": 0.8
+    },
+    {
+      "id": "c7",
+      "speaker": "甘蛰仙",
+      "claim": "晦庵一派，务察零件之物理，以通世界之大全；其方法近于归纳。",
+      "target": "晦庵一派",
+      "claim_type": "描述性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "晦庵一派，务察零件之物理，以通世界之大全；其方法近于归纳。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c8",
+      "speaker": "甘蛰仙",
+      "claim": "演绎归纳，交相为用；则于求知之方法，思过半矣。",
+      "target": "求知之方法",
+      "claim_type": "规范性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "演绎归纳，交相为用；则于求知之方法，思过半矣。",
+      "confidence": 0.9
+    }
+  ],
+  "relations": [
+    {
+      "id": "r1",
+      "head": "荀朱之说",
+      "head_type": "阵营/群体",
+      "relation": "作为论据支持",
+      "relation_subtype": "不适用",
+      "tail": "经验之论据",
+      "tail_type": "概念",
+      "polarity": "positive",
+      "stance_score": 0.5,
+      "intensity": 0.5,
+      "evidence": "然则荀朱之说，非必无关于经验之论据，明矣。",
+      "confidence": 0.8
+    },
+    {
+      "id": "r2",
+      "head": "孟陆阳明之说",
+      "head_type": "阵营/群体",
+      "relation": "作为论据支持",
+      "relation_subtype": "不适用",
+      "tail": "唯理之论据",
+      "tail_type": "概念",
+      "polarity": "positive",
+      "stance_score": 0.8,
+      "intensity": 0.6,
+      "evidence": "乃若关于唯理之论据，则孟陆阳明之说，尤其杰出者也。",
+      "confidence": 0.8
+    },
+    {
+      "id": "r3",
+      "head": "孟子",
+      "head_type": "人物",
+      "relation": "定义",
+      "relation_subtype": "概念澄清",
+      "tail": "唯理论",
+      "tail_type": "主义/学说/理论",
+      "polarity": "positive",
+      "stance_score": 0.8,
+      "intensity": 0.7,
+      "evidence": "孟子说：‘人之所不学而能者，其良能也；所不虑而知者，其良知也。’这便是中国古代重要的唯理论！",
+      "confidence": 0.9
+    },
+    {
+      "id": "r4",
+      "head": "唯理论",
+      "head_type": "主义/学说/理论",
+      "relation": "主张",
+      "relation_subtype": "不适用",
+      "tail": "先天",
+      "tail_type": "概念",
+      "polarity": "positive",
+      "stance_score": 0.5,
+      "intensity": 0.5,
+      "evidence": "其对于知识本源问题，则唯理论纯主先天，而经验则借重后天。",
+      "confidence": 0.8
+    },
+    {
+      "id": "r5",
+      "head": "经验",
+      "head_type": "概念",
+      "relation": "主张",
+      "relation_subtype": "不适用",
+      "tail": "后天",
+      "tail_type": "概念",
+      "polarity": "positive",
+      "stance_score": 0.5,
+      "intensity": 0.5,
+      "evidence": "其对于知识本源问题，则唯理论纯主先天，而经验则借重后天。",
+      "confidence": 0.8
+    },
+    {
+      "id": "r6",
+      "head": "晦庵一派",
+      "head_type": "阵营/群体",
+      "relation": "主张",
+      "relation_subtype": "不适用",
+      "tail": "归纳",
+      "tail_type": "方法",
+      "polarity": "positive",
+      "stance_score": 0.5,
+      "intensity": 0.5,
+      "evidence": "晦庵一派，务察零件之物理，以通世界之大全；其方法近于归纳。",
+      "confidence": 0.8
+    },
+    {
+      "id": "r7",
+      "head": "演绎",
+      "head_type": "方法",
+      "relation": "作为论据支持",
+      "relation_subtype": "不适用",
+      "tail": "求知之方法",
+      "tail_type": "概念",
+      "polarity": "positive",
+      "stance_score": 0.8,
+      "intensity": 0.6,
+      "evidence": "演绎归纳，交相为用；则于求知之方法，思过半矣。",
+      "confidence": 0.8
+    },
+    {
+      "id": "r8",
+      "head": "归纳",
+      "head_type": "方法",
+      "relation": "作为论据支持",
+      "relation_subtype": "不适用",
+      "tail": "求知之方法",
+      "tail_type": "概念",
+      "polarity": "positive",
+      "stance_score": 0.8,
+      "intensity": 0.6,
+      "evidence": "演绎归纳，交相为用；则于求知之方法，思过半矣。",
+      "confidence": 0.8
+    }
+  ],
+  "definitions": [
+    {
+      "id": "def1",
+      "term": "唯理论",
+      "definition": "中国古代重要的唯理论，以孟子‘不学而能、不虑而知’的良能良知说为代表，主张知识源于先天，不依赖经验。",
+      "evidence": "孟子说：‘人之所不学而能者，其良能也；所不虑而知者，其良知也。’这便是中国古代重要的唯理论！",
+      "confidence": 0.9
+    },
+    {
+      "id": "def2",
+      "term": "唯理论",
+      "definition": "对于知识本源问题，唯理论纯主先天。",
+      "evidence": "其对于知识本源问题，则唯理论纯主先天，而经验则借重后天。",
+      "confidence": 0.8
+    },
+    {
+      "id": "def3",
+      "term": "经验",
+      "definition": "对于知识本源问题，经验借重后天。",
+      "evidence": "其对于知识本源问题，则唯理论纯主先天，而经验则借重后天。",
+      "confidence": 0.8
+    }
+  ],
+  "citations": [
+    {
+      "id": "cit1",
+      "citer": "甘蛰仙",
+      "quoted_author": "孟子",
+      "quoted_work": "",
+      "quoted_claim": "人之所不学而能者，其良能也；所不虑而知者，其良知也。",
+      "function": "援引权威支持",
+      "evidence": "孟子说：‘人之所不学而能者，其良能也；所不虑而知者，其良知也。’",
+      "confidence": 0.9
+    }
+  ],
+  "rhetorical_devices": [],
+  "uncertainties": [
+    {
+      "item": "荀学或亦有类于斯。",
+      "reason": "“斯”指代前文“注重感觉所经验之亲知”，但前文未在当前文本中完整出现，无法确定具体所指。"
+    },
+    {
+      "item": "孟子之于武成，取二三策；朱子疑诗小序，其怀疑之实例也。",
+      "reason": "此句提及孟子、朱子的怀疑实例，但未在当前文本中展开说明，无法抽取完整信息。"
+    },
+    {
+      "item": "吾前由智识论方面，略释孔孟荀朱陆王诸家之学说，观察是否有当，殊不敢自信。",
+      "reason": "此句提及前文内容，但当前文本未包含前文，无法核实。"
+    },
+    {
+      "item": "孟子固无论已；",
+      "reason": "句子不完整，无法确定完整含义。"
+    }
+  ],
+  "_meta": {
+    "status": "success",
+    "stage": "extract",
+    "model": "deepseek-ai/DeepSeek-V4-Flash",
+    "base_url": "https://api.siliconflow.cn/v1",
+    "prompt_version": "v2.0",
+    "schema_version": "lite_v3.0",
+    "segment_id": "甘蛰仙_000_6b354fa0_s0005",
+    "article_id": "甘蛰仙_000_6b354fa0",
+    "char_start": 2538,
+    "char_end": 3112,
+    "raw_path": "E:\\1研究生\\岭南大学\\论文毕业\\capstone\\资料\\新的内容开始了\\local_upload\\kg_runs_v2\\孙伏园_等3篇\\raw_outputs\\extract\\甘蛰仙_000_6b354fa0_s0005.txt",
+    "parsed_at": "2026-05-21T03:35:59",
+    "started_at": "2026-05-21T03:30:12",
+    "elapsed_seconds": 347.409,
+    "strict_evidence_check": true,
+    "drop_unsupported_evidence": true,
+    "request_timeout_seconds": 180
+  }
+}

@@ -1,0 +1,446 @@
+{
+  "metadata": {
+    "schema_version": "lite_v3.0",
+    "article_id": "陈独秀_002_69a217f6",
+    "article_title": "答张君劢及梁任公",
+    "source_author": "陈独秀",
+    "section_title": "",
+    "section_author": "",
+    "segment_id": "陈独秀_002_69a217f6_s0008",
+    "segment_index": 8,
+    "source_file": "E:\\1研究生\\岭南大学\\论文毕业\\capstone\\资料\\新的内容开始了\\local_upload\\input_陈独秀\\陈独秀.txt"
+  },
+  "entities": [
+    {
+      "id": "e1",
+      "name": "张先生",
+      "canonical_name": "张君劢",
+      "type": "人物",
+      "evidence": "张先生说我生当今日而犹守马氏之言若圣经贤传",
+      "confidence": 0.9
+    },
+    {
+      "id": "e2",
+      "name": "马氏之言",
+      "canonical_name": "马克思学说",
+      "type": "主义/学说/理论",
+      "evidence": "张先生说我生当今日而犹守马氏之言若圣经贤传",
+      "confidence": 0.8
+    },
+    {
+      "id": "e3",
+      "name": "穆勒约翰",
+      "canonical_name": "穆勒约翰",
+      "type": "人物",
+      "evidence": "张先生自己却连篇累牍的称引穆勒约翰与詹姆士",
+      "confidence": 0.9
+    },
+    {
+      "id": "e4",
+      "name": "詹姆士",
+      "canonical_name": "詹姆士",
+      "type": "人物",
+      "evidence": "张先生自己却连篇累牍的称引穆勒约翰与詹姆士",
+      "confidence": 0.9
+    },
+    {
+      "id": "e5",
+      "name": "唯物派的经济学与社会学",
+      "canonical_name": "唯物派的经济学与社会学",
+      "type": "主义/学说/理论",
+      "evidence": "不知穆勒约翰以后唯物派的经济学与社会学，詹姆士以后测验的心理学均大有进步",
+      "confidence": 0.8
+    },
+    {
+      "id": "e6",
+      "name": "测验的心理学",
+      "canonical_name": "测验的心理学",
+      "type": "主义/学说/理论",
+      "evidence": "不知穆勒约翰以后唯物派的经济学与社会学，詹姆士以后测验的心理学均大有进步",
+      "confidence": 0.8
+    },
+    {
+      "id": "e7",
+      "name": "共产主义者",
+      "canonical_name": "共产主义者",
+      "type": "阵营/群体",
+      "evidence": "我是一个共产主义者，当然应该服从墨司哥共产国际之训令",
+      "confidence": 0.9
+    },
+    {
+      "id": "e8",
+      "name": "墨司哥共产国际之训令",
+      "canonical_name": "墨司哥共产国际之训令",
+      "type": "概念",
+      "evidence": "我是一个共产主义者，当然应该服从墨司哥共产国际之训令",
+      "confidence": 0.8
+    },
+    {
+      "id": "e9",
+      "name": "玄学",
+      "canonical_name": "玄学",
+      "type": "主义/学说/理论",
+      "evidence": "若张先生鼓吹玄学反对马克思学说",
+      "confidence": 0.8
+    },
+    {
+      "id": "e10",
+      "name": "马克思学说",
+      "canonical_name": "马克思学说",
+      "type": "主义/学说/理论",
+      "evidence": "若张先生鼓吹玄学反对马克思学说",
+      "confidence": 0.8
+    },
+    {
+      "id": "e11",
+      "name": "研究系之训令",
+      "canonical_name": "研究系之训令",
+      "type": "概念",
+      "evidence": "是否直接的受研究系之训令间接的受北洋政府之训令",
+      "confidence": 0.7
+    },
+    {
+      "id": "e12",
+      "name": "北洋政府之训令",
+      "canonical_name": "北洋政府之训令",
+      "type": "概念",
+      "evidence": "是否直接的受研究系之训令间接的受北洋政府之训令",
+      "confidence": 0.7
+    },
+    {
+      "id": "e13",
+      "name": "思想者，事实之母也",
+      "canonical_name": "思想者，事实之母也",
+      "type": "观点",
+      "evidence": "张先生所谓生当今日不应犹守马氏之言的理由，乃是“谚不云乎，思想者，事实之母也，此区区一语中，而历史之真理已描写尽净”",
+      "confidence": 0.9
+    },
+    {
+      "id": "e14",
+      "name": "唯心论者",
+      "canonical_name": "唯心论者",
+      "type": "阵营/群体",
+      "evidence": "张先生（不但张先生，自来唯心论者）在社会动象中，只看见思想演成事实这后一段过程",
+      "confidence": 0.9
+    },
+    {
+      "id": "e15",
+      "name": "思想演成事实这后一段过程",
+      "canonical_name": "思想演成事实这后一段过程",
+      "type": "概念",
+      "evidence": "在社会动象中，只看见思想演成事实这后一段过程",
+      "confidence": 0.8
+    },
+    {
+      "id": "e16",
+      "name": "造成思想背景的事实这前一段过程",
+      "canonical_name": "造成思想背景的事实这前一段过程",
+      "type": "概念",
+      "evidence": "而忘记了造成思想背景的事实这前一段过程",
+      "confidence": 0.8
+    },
+    {
+      "id": "e17",
+      "name": "各派唯心论之共同的中心的错误",
+      "canonical_name": "各派唯心论之共同的中心的错误",
+      "type": "评价",
+      "evidence": "这本是各派唯心论之共同的中心的错误",
+      "confidence": 0.9
+    },
+    {
+      "id": "e18",
+      "name": "新思想",
+      "canonical_name": "新思想",
+      "type": "概念",
+      "evidence": "他们只看见社会上一种新制度改革之前，都有一种新思想为之前驱",
+      "confidence": 0.8
+    },
+    {
+      "id": "e19",
+      "name": "新制度改革",
+      "canonical_name": "新制度改革",
+      "type": "概念",
+      "evidence": "他们只看见社会上一种新制度改革之前，都有一种新思想为之前驱",
+      "confidence": 0.8
+    },
+    {
+      "id": "e20",
+      "name": "思想为事实之母",
+      "canonical_name": "思想为事实之母",
+      "type": "观点",
+      "evidence": "因此便短视的断定思想为事实之母",
+      "confidence": 0.9
+    },
+    {
+      "id": "e21",
+      "name": "各种新思想都有各种事实为他所以发生的背景",
+      "canonical_name": "各种新思想都有各种事实为他所以发生的背景",
+      "type": "观点",
+      "evidence": "他们不看见各种新思想都有各种事实为他所以发生的背景，决非无因而生",
+      "confidence": 0.9
+    }
+  ],
+  "claims": [
+    {
+      "id": "c1",
+      "speaker": "张先生",
+      "claim": "生当今日，而犹守马氏之言若圣经贤传如陈独秀者，岂为求真哉？亦日政治之手段耳！墨司哥之训令耳！",
+      "target": "陈独秀",
+      "claim_type": "评价性主张",
+      "claim_status": "对手直接主张",
+      "polarity": "negative",
+      "evidence": "张先生说：“生当今日，而犹守马氏之言若圣经贤传如陈独秀者，岂为求真哉？亦日政治之手段耳！墨司哥之训令耳！”",
+      "confidence": 0.9
+    },
+    {
+      "id": "c2",
+      "speaker": "陈独秀",
+      "claim": "我是一个共产主义者，当然应该服从墨司哥共产国际之训令",
+      "target": "共产主义者",
+      "claim_type": "描述性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "我是一个共产主义者，当然应该服从墨司哥共产国际之训令",
+      "confidence": 0.9
+    },
+    {
+      "id": "c3",
+      "speaker": "陈独秀",
+      "claim": "若张先生鼓吹玄学反对马克思学说，是否求真，是否政治手段，是否直接的受研究系之训令间接的受北洋政府之训令，像这类逾越讨论道理之轨道以外的话，我在此处不屑多说",
+      "target": "张先生",
+      "claim_type": "反驳性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "若张先生鼓吹玄学反对马克思学说，是否求真，是否政治手段，是否直接的受研究系之训令间接的受北洋政府之训令，像这类逾越讨论道理之轨道以外的话，我在此处不屑多说",
+      "confidence": 0.8
+    },
+    {
+      "id": "c4",
+      "speaker": "张先生",
+      "claim": "思想者，事实之母也",
+      "target": "思想与事实的关系",
+      "claim_type": "因果主张",
+      "claim_status": "对手直接主张",
+      "polarity": "positive",
+      "evidence": "张先生所谓生当今日不应犹守马氏之言的理由，乃是“谚不云乎，思想者，事实之母也，此区区一语中，而历史之真理已描写尽净”",
+      "confidence": 0.9
+    },
+    {
+      "id": "c5",
+      "speaker": "陈独秀",
+      "claim": "张先生（不但张先生，自来唯心论者）在社会动象中，只看见思想演成事实这后一段过程，而忘记了造成思想背景的事实这前一段过程，这本是各派唯心论之共同的中心的错误",
+      "target": "唯心论者",
+      "claim_type": "评价性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "张先生（不但张先生，自来唯心论者）在社会动象中，只看见思想演成事实这后一段过程，而忘记了造成思想背景的事实这前一段过程，这本是各派唯心论之共同的中心的错误",
+      "confidence": 0.9
+    },
+    {
+      "id": "c6",
+      "speaker": "陈独秀",
+      "claim": "他们只看见社会上一种新制度改革之前，都有一种新思想为之前驱，因此便短视的断定思想为事实之母",
+      "target": "唯心论者",
+      "claim_type": "评价性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "他们只看见社会上一种新制度改革之前，都有一种新思想为之前驱，因此便短视的断定思想为事实之母",
+      "confidence": 0.9
+    },
+    {
+      "id": "c7",
+      "speaker": "陈独秀",
+      "claim": "他们不看见各种新思想都有各种事实为他所以发生的背景，决非无因而生",
+      "target": "唯心论者",
+      "claim_type": "反驳性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "他们不看见各种新思想都有各种事实为他所以发生的背景，决非无因而生",
+      "confidence": 0.9
+    }
+  ],
+  "relations": [
+    {
+      "id": "r1",
+      "head": "张先生",
+      "head_type": "人物",
+      "relation": "批评",
+      "relation_subtype": "道德指责",
+      "tail": "陈独秀",
+      "tail_type": "人物",
+      "polarity": "negative",
+      "stance_score": -0.8,
+      "intensity": 0.9,
+      "evidence": "张先生说：“生当今日，而犹守马氏之言若圣经贤传如陈独秀者，岂为求真哉？亦日政治之手段耳！墨司哥之训令耳！”",
+      "confidence": 0.9
+    },
+    {
+      "id": "r2",
+      "head": "陈独秀",
+      "head_type": "人物",
+      "relation": "回应",
+      "relation_subtype": "逻辑反驳",
+      "tail": "张先生",
+      "tail_type": "人物",
+      "polarity": "negative",
+      "stance_score": -0.7,
+      "intensity": 0.8,
+      "evidence": "若张先生鼓吹玄学反对马克思学说，是否求真，是否政治手段，是否直接的受研究系之训令间接的受北洋政府之训令，像这类逾越讨论道理之轨道以外的话，我在此处不屑多说",
+      "confidence": 0.8
+    },
+    {
+      "id": "r3",
+      "head": "陈独秀",
+      "head_type": "人物",
+      "relation": "批评",
+      "relation_subtype": "概念混淆批评",
+      "tail": "唯心论者",
+      "tail_type": "阵营/群体",
+      "polarity": "negative",
+      "stance_score": -0.9,
+      "intensity": 0.9,
+      "evidence": "张先生（不但张先生，自来唯心论者）在社会动象中，只看见思想演成事实这后一段过程，而忘记了造成思想背景的事实这前一段过程，这本是各派唯心论之共同的中心的错误",
+      "confidence": 0.9
+    },
+    {
+      "id": "r4",
+      "head": "陈独秀",
+      "head_type": "人物",
+      "relation": "批评",
+      "relation_subtype": "概念混淆批评",
+      "tail": "思想为事实之母",
+      "tail_type": "观点",
+      "polarity": "negative",
+      "stance_score": -0.9,
+      "intensity": 0.9,
+      "evidence": "他们只看见社会上一种新制度改革之前，都有一种新思想为之前驱，因此便短视的断定思想为事实之母",
+      "confidence": 0.9
+    },
+    {
+      "id": "r5",
+      "head": "各种新思想都有各种事实为他所以发生的背景",
+      "head_type": "观点",
+      "relation": "作为论据支持",
+      "relation_subtype": "逻辑反驳",
+      "tail": "思想为事实之母",
+      "tail_type": "观点",
+      "polarity": "negative",
+      "stance_score": -0.9,
+      "intensity": 0.9,
+      "evidence": "他们不看见各种新思想都有各种事实为他所以发生的背景，决非无因而生",
+      "confidence": 0.9
+    },
+    {
+      "id": "r6",
+      "head": "张先生",
+      "head_type": "人物",
+      "relation": "引用",
+      "relation_subtype": "援引权威支持",
+      "tail": "穆勒约翰",
+      "tail_type": "人物",
+      "polarity": "positive",
+      "stance_score": 0.5,
+      "intensity": 0.6,
+      "evidence": "张先生自己却连篇累牍的称引穆勒约翰与詹姆士",
+      "confidence": 0.8
+    },
+    {
+      "id": "r7",
+      "head": "张先生",
+      "head_type": "人物",
+      "relation": "引用",
+      "relation_subtype": "援引权威支持",
+      "tail": "詹姆士",
+      "tail_type": "人物",
+      "polarity": "positive",
+      "stance_score": 0.5,
+      "intensity": 0.6,
+      "evidence": "张先生自己却连篇累牍的称引穆勒约翰与詹姆士",
+      "confidence": 0.8
+    },
+    {
+      "id": "r8",
+      "head": "陈独秀",
+      "head_type": "人物",
+      "relation": "批评",
+      "relation_subtype": "事实质疑",
+      "tail": "张先生",
+      "tail_type": "人物",
+      "polarity": "negative",
+      "stance_score": -0.6,
+      "intensity": 0.7,
+      "evidence": "不知穆勒约翰以后唯物派的经济学与社会学，詹姆士以后测验的心理学均大有进步，何以张先生犹守穆勒约翰、詹姆士之言若圣经贤传？",
+      "confidence": 0.8
+    }
+  ],
+  "definitions": [
+    {
+      "id": "def1",
+      "term": "各派唯心论之共同的中心的错误",
+      "definition": "只看见思想演成事实这后一段过程，而忘记了造成思想背景的事实这前一段过程",
+      "evidence": "张先生（不但张先生，自来唯心论者）在社会动象中，只看见思想演成事实这后一段过程，而忘记了造成思想背景的事实这前一段过程，这本是各派唯心论之共同的中心的错误",
+      "confidence": 0.9
+    }
+  ],
+  "citations": [
+    {
+      "id": "cit1",
+      "citer": "张先生",
+      "quoted_author": "穆勒约翰",
+      "quoted_work": "",
+      "quoted_claim": "",
+      "function": "援引权威支持",
+      "evidence": "张先生自己却连篇累牍的称引穆勒约翰与詹姆士",
+      "confidence": 0.8
+    },
+    {
+      "id": "cit2",
+      "citer": "张先生",
+      "quoted_author": "詹姆士",
+      "quoted_work": "",
+      "quoted_claim": "",
+      "function": "援引权威支持",
+      "evidence": "张先生自己却连篇累牍的称引穆勒约翰与詹姆士",
+      "confidence": 0.8
+    }
+  ],
+  "rhetorical_devices": [
+    {
+      "id": "rh1",
+      "expression": "犹守马氏之言若圣经贤传",
+      "device_type": "比喻",
+      "literal_target": "将马克思学说比作圣经贤传，暗示盲目崇拜",
+      "function": "批评对方对马克思学说的态度是盲目信奉",
+      "evidence": "张先生说我生当今日而犹守马氏之言若圣经贤传",
+      "confidence": 0.9
+    },
+    {
+      "id": "rh2",
+      "expression": "犹守穆勒约翰、詹姆士之言若圣经贤传",
+      "device_type": "比喻",
+      "literal_target": "将穆勒约翰和詹姆士的言论比作圣经贤传，暗示盲目崇拜",
+      "function": "讽刺张先生自己也在盲目信奉穆勒约翰和詹姆士",
+      "evidence": "何以张先生犹守穆勒约翰、詹姆士之言若圣经贤传？",
+      "confidence": 0.9
+    },
+    {
+      "id": "rh3",
+      "expression": "短视的断定",
+      "device_type": "标签化",
+      "literal_target": "将唯心论者的判断方式标签为短视",
+      "function": "贬低唯心论者的论证能力",
+      "evidence": "因此便短视的断定思想为事实之母",
+      "confidence": 0.8
+    }
+  ],
+  "uncertainties": [
+    {
+      "item": "张先生是否直接受研究系之训令间接受北洋政府之训令",
+      "reason": "陈独秀以反问形式提出，但未提供证据，且自称不屑多说，无法确定其真实主张"
+    },
+    {
+      "item": "唯物派的经济学与社会学、测验的心理学均大有进步的具体内容",
+      "reason": "文本仅提及进步，未说明具体进步内容"
+    }
+  ]
+}

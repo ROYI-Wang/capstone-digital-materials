@@ -1,0 +1,553 @@
+{
+  "metadata": {
+    "schema_version": "lite_v3.0",
+    "article_id": "范寿康_000_14d2ac72",
+    "article_title": "评所谓“科学与玄学之争”",
+    "source_author": "范寿康",
+    "section_title": "",
+    "section_author": "",
+    "segment_id": "范寿康_000_14d2ac72_s0014",
+    "segment_index": 14,
+    "source_file": "E:\\1研究生\\岭南大学\\论文毕业\\capstone\\资料\\新的内容开始了\\local_upload\\input_v2_w0\\范寿康.txt"
+  },
+  "entities": [
+    {
+      "id": "e1",
+      "name": "梁氏",
+      "canonical_name": "梁氏",
+      "type": "人物",
+      "evidence": "在我在最后，敢替梁氏另下一种的说明如下",
+      "confidence": 0.9
+    },
+    {
+      "id": "e2",
+      "name": "人类的伦理的当为的先天形式",
+      "canonical_name": "人类的伦理的当为的先天形式",
+      "type": "概念",
+      "evidence": "人类的伦理的当 为的先天形式——就是人类最可宝贵的，站在道德现象的背后而为道德现象的资本的义务意识——是超科学的",
+      "confidence": 0.9
+    },
+    {
+      "id": "e3",
+      "name": "义务意识",
+      "canonical_name": "义务意识",
+      "type": "概念",
+      "evidence": "就是人类最可宝贵的，站在道德现象的背后而为道德现象的资本的义务意识",
+      "confidence": 0.9
+    },
+    {
+      "id": "e4",
+      "name": "超科学的",
+      "canonical_name": "超科学的",
+      "type": "概念",
+      "evidence": "是超科学的",
+      "confidence": 0.9
+    },
+    {
+      "id": "e5",
+      "name": "伦理的内容法则",
+      "canonical_name": "伦理的内容法则",
+      "type": "概念",
+      "evidence": "此外的一切伦理的内容法则却完全应由科学方法来解决",
+      "confidence": 0.9
+    },
+    {
+      "id": "e6",
+      "name": "科学方法",
+      "canonical_name": "科学方法",
+      "type": "方法",
+      "evidence": "完全应由科学方法来解决",
+      "confidence": 0.9
+    },
+    {
+      "id": "e7",
+      "name": "因果律",
+      "canonical_name": "因果律",
+      "type": "概念",
+      "evidence": "唐钺氏在《心理现象与因果律》中说: “我所谓因果律，就是说：一切现象都有原因。”",
+      "confidence": 0.9
+    },
+    {
+      "id": "e8",
+      "name": "充足理由的原理",
+      "canonical_name": "充足理由的原理",
+      "type": "概念",
+      "evidence": "我以为这就是充足理由的原理",
+      "confidence": 0.9
+    },
+    {
+      "id": "e9",
+      "name": "齐一之原理",
+      "canonical_name": "齐一之原理",
+      "type": "概念",
+      "evidence": "同因必生同果是根据齐一之原理而来的",
+      "confidence": 0.9
+    },
+    {
+      "id": "e10",
+      "name": "狭义的因果律",
+      "canonical_name": "狭义的因果律",
+      "type": "概念",
+      "evidence": "平常我们在实际谈论上或文字上所讲的因果律却是狭义的因果律",
+      "confidence": 0.9
+    },
+    {
+      "id": "e11",
+      "name": "广义的因果律",
+      "canonical_name": "广义的因果律",
+      "type": "概念",
+      "evidence": "可是我以为这是广义的因果律",
+      "confidence": 0.9
+    },
+    {
+      "id": "e12",
+      "name": "人生观的科学",
+      "canonical_name": "人生观的科学",
+      "type": "概念",
+      "evidence": "任叔永氏在《人生观的科学或科学的人生观》里面下个明白的断定说: “人生观的科学是不可能的事",
+      "confidence": 0.9
+    },
+    {
+      "id": "e13",
+      "name": "科学的人生观",
+      "canonical_name": "科学的人生观",
+      "type": "概念",
+      "evidence": "而科学的人生观却是可能的事",
+      "confidence": 0.9
+    },
+    {
+      "id": "e14",
+      "name": "唐钺氏",
+      "canonical_name": "唐钺氏",
+      "type": "人物",
+      "evidence": "唐钺氏在《心理现象与因果律》中说",
+      "confidence": 0.9
+    },
+    {
+      "id": "e15",
+      "name": "王星拱氏",
+      "canonical_name": "王星拱氏",
+      "type": "人物",
+      "evidence": "王星拱氏在《科学与人生观》中也说",
+      "confidence": 0.9
+    },
+    {
+      "id": "e16",
+      "name": "任叔永氏",
+      "canonical_name": "任叔永氏",
+      "type": "人物",
+      "evidence": "任叔永氏在《人生观的科学或科学的人生观》里面下个明白的断定说",
+      "confidence": 0.9
+    },
+    {
+      "id": "e17",
+      "name": "《心理现象与因果律》",
+      "canonical_name": "《心理现象与因果律》",
+      "type": "著作",
+      "evidence": "唐钺氏在《心理现象与因果律》中说",
+      "confidence": 0.9
+    },
+    {
+      "id": "e18",
+      "name": "《科学与人生观》",
+      "canonical_name": "《科学与人生观》",
+      "type": "著作",
+      "evidence": "王星拱氏在《科学与人生观》中也说",
+      "confidence": 0.9
+    },
+    {
+      "id": "e19",
+      "name": "《人生观的科学或科学的人生观》",
+      "canonical_name": "《人生观的科学或科学的人生观》",
+      "type": "著作",
+      "evidence": "任叔永氏在《人生观的科学或科学的人生观》里面下个明白的断定说",
+      "confidence": 0.9
+    },
+    {
+      "id": "e20",
+      "name": "因果律与充足理由的原理",
+      "canonical_name": "因果律与充足理由的原理",
+      "type": "问题",
+      "evidence": "## (一) 因果律与充足理由的原理",
+      "confidence": 0.9
+    },
+    {
+      "id": "e21",
+      "name": "人生观的科学与科学的人生观",
+      "canonical_name": "人生观的科学与科学的人生观",
+      "type": "问题",
+      "evidence": "## (二) 人生观的科学与科学的人生观",
+      "confidence": 0.9
+    }
+  ],
+  "claims": [
+    {
+      "id": "c1",
+      "speaker": "范寿康",
+      "claim": "人类的伦理的当为的先天形式——就是人类最可宝贵的，站在道德现象的背后而为道德现象的资本的义务意识——是超科学的",
+      "target": "梁氏",
+      "claim_type": "定义性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "在我在最后，敢替梁氏另下一种的说明如下: “人类的伦理的当 为的先天形式——就是人类最可宝贵的，站在道德现象的背后而为道德现象的资本的义务意识——是超科学的。此外的一切伦理的内容法则却完全应由科学方法来解决。”",
+      "confidence": 0.9
+    },
+    {
+      "id": "c2",
+      "speaker": "范寿康",
+      "claim": "此外的一切伦理的内容法则却完全应由科学方法来解决",
+      "target": "梁氏",
+      "claim_type": "规范性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "此外的一切伦理的内容法则却完全应由科学方法来解决",
+      "confidence": 0.9
+    },
+    {
+      "id": "c3",
+      "speaker": "唐钺氏",
+      "claim": "一切现象都有原因",
+      "target": "",
+      "claim_type": "定义性主张",
+      "claim_status": "直接引用",
+      "polarity": "neutral",
+      "evidence": "唐钺氏在《心理现象与因果律》中说: “我所谓因果律，就是说：一切现象都有原因。”",
+      "confidence": 0.9
+    },
+    {
+      "id": "c4",
+      "speaker": "王星拱氏",
+      "claim": "宇宙中之各种现象，必定有因果的关系，没有无因而至的，也没有不生效果的",
+      "target": "",
+      "claim_type": "定义性主张",
+      "claim_status": "直接引用",
+      "polarity": "neutral",
+      "evidence": "王星拱氏在《科学与人生观》中也说: “因果之原理是说：宇宙中之各种现象，必定有因果的关系，没有无因而至的，也没有不生效果的。”",
+      "confidence": 0.9
+    },
+    {
+      "id": "c5",
+      "speaker": "范寿康",
+      "claim": "以上二氏对于因果律所下的定义当然是不错的",
+      "target": "唐钺氏, 王星拱氏",
+      "claim_type": "评价性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "以上二氏对于因果律所下的定义当然是不错的",
+      "confidence": 0.9
+    },
+    {
+      "id": "c6",
+      "speaker": "范寿康",
+      "claim": "这是广义的因果律，主观地讲来，我以为这就是充足理由的原理",
+      "target": "唐钺氏, 王星拱氏",
+      "claim_type": "定义性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "可是我以为这是广义的因果律，主观地讲来，我以为这就是充足理由的原理",
+      "confidence": 0.9
+    },
+    {
+      "id": "c7",
+      "speaker": "范寿康",
+      "claim": "这一种广义的因果律虽认定宇宙中之各种现象必有因果，但同时却没有包含同因必生同果的意思",
+      "target": "",
+      "claim_type": "描述性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "这一种广义的因果律虽认定宇宙中之各种现象必有因果，但同时却没有包含同因必生同果的意思",
+      "confidence": 0.9
+    },
+    {
+      "id": "c8",
+      "speaker": "范寿康",
+      "claim": "同因必生同果是根据齐一之原理而来的",
+      "target": "",
+      "claim_type": "因果主张",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "同因必生同果是根据齐一之原理而来的",
+      "confidence": 0.9
+    },
+    {
+      "id": "c9",
+      "speaker": "范寿康",
+      "claim": "平常我们在实际谈论上或文字上所讲的因果律却是狭义的因果律，并不是这一种广义的因果律",
+      "target": "",
+      "claim_type": "定义性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "平常我们在实际谈论上或文字上所讲的因果律却是狭义的因果律，并不是这一种广义的因果律",
+      "confidence": 0.9
+    },
+    {
+      "id": "c10",
+      "speaker": "范寿康",
+      "claim": "狭义的因果律是指包括因果及齐一两原理的因果律，却不是单指原理的因果律",
+      "target": "",
+      "claim_type": "定义性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "换句话说，是指包括因果及齐一两原理的因果律，却不是单指原理的因果律",
+      "confidence": 0.9
+    },
+    {
+      "id": "c11",
+      "speaker": "范寿康",
+      "claim": "辩论者应当辨别清楚",
+      "target": "",
+      "claim_type": "规范性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "所以对这一层，我以为辩论者应当辨别清楚",
+      "confidence": 0.9
+    },
+    {
+      "id": "c12",
+      "speaker": "任叔永氏",
+      "claim": "人生观的科学是不可能的事，而科学的人生观却是可能的事",
+      "target": "",
+      "claim_type": "对比性主张",
+      "claim_status": "直接引用",
+      "polarity": "neutral",
+      "evidence": "任叔永氏在《人生观的科学或科学的人生观》里面下个明白的断定说: “人生观的科学是不可能的事，而科学的人生观却是可能的事。”",
+      "confidence": 0.9
+    }
+  ],
+  "relations": [
+    {
+      "id": "r1",
+      "head": "范寿康",
+      "head_type": "人物",
+      "relation": "定义",
+      "relation_subtype": "概念澄清",
+      "tail": "人类的伦理的当为的先天形式",
+      "tail_type": "概念",
+      "polarity": "positive",
+      "stance_score": 0.8,
+      "intensity": 0.6,
+      "evidence": "在我在最后，敢替梁氏另下一种的说明如下: “人类的伦理的当 为的先天形式——就是人类最可宝贵的，站在道德现象的背后而为道德现象的资本的义务意识——是超科学的。此外的一切伦理的内容法则却完全应由科学方法来解决。”",
+      "confidence": 0.9
+    },
+    {
+      "id": "r2",
+      "head": "范寿康",
+      "head_type": "人物",
+      "relation": "定义",
+      "relation_subtype": "概念澄清",
+      "tail": "义务意识",
+      "tail_type": "概念",
+      "polarity": "positive",
+      "stance_score": 0.8,
+      "intensity": 0.6,
+      "evidence": "就是人类最可宝贵的，站在道德现象的背后而为道德现象的资本的义务意识",
+      "confidence": 0.9
+    },
+    {
+      "id": "r3",
+      "head": "范寿康",
+      "head_type": "人物",
+      "relation": "评价",
+      "relation_subtype": "部分肯定",
+      "tail": "唐钺氏",
+      "tail_type": "人物",
+      "polarity": "positive",
+      "stance_score": 0.7,
+      "intensity": 0.5,
+      "evidence": "以上二氏对于因果律所下的定义当然是不错的",
+      "confidence": 0.9
+    },
+    {
+      "id": "r4",
+      "head": "范寿康",
+      "head_type": "人物",
+      "relation": "评价",
+      "relation_subtype": "部分肯定",
+      "tail": "王星拱氏",
+      "tail_type": "人物",
+      "polarity": "positive",
+      "stance_score": 0.7,
+      "intensity": 0.5,
+      "evidence": "以上二氏对于因果律所下的定义当然是不错的",
+      "confidence": 0.9
+    },
+    {
+      "id": "r5",
+      "head": "范寿康",
+      "head_type": "人物",
+      "relation": "区分",
+      "relation_subtype": "概念澄清",
+      "tail": "广义的因果律",
+      "tail_type": "概念",
+      "polarity": "neutral",
+      "stance_score": 0.0,
+      "intensity": 0.5,
+      "evidence": "可是我以为这是广义的因果律，主观地讲来，我以为这就是充足理由的原理",
+      "confidence": 0.9
+    },
+    {
+      "id": "r6",
+      "head": "范寿康",
+      "head_type": "人物",
+      "relation": "区分",
+      "relation_subtype": "概念澄清",
+      "tail": "狭义的因果律",
+      "tail_type": "概念",
+      "polarity": "neutral",
+      "stance_score": 0.0,
+      "intensity": 0.5,
+      "evidence": "平常我们在实际谈论上或文字上所讲的因果律却是狭义的因果律，并不是这一种广义的因果律",
+      "confidence": 0.9
+    },
+    {
+      "id": "r7",
+      "head": "同因必生同果",
+      "head_type": "概念",
+      "relation": "归因于",
+      "relation_subtype": "不适用",
+      "tail": "齐一之原理",
+      "tail_type": "概念",
+      "polarity": "neutral",
+      "stance_score": 0.0,
+      "intensity": 0.5,
+      "evidence": "同因必生同果是根据齐一之原理而来的",
+      "confidence": 0.9
+    },
+    {
+      "id": "r8",
+      "head": "狭义的因果律",
+      "head_type": "概念",
+      "relation": "包含",
+      "relation_subtype": "不适用",
+      "tail": "因果及齐一两原理",
+      "tail_type": "概念",
+      "polarity": "neutral",
+      "stance_score": 0.0,
+      "intensity": 0.5,
+      "evidence": "是指包括因果及齐一两原理的因果律",
+      "confidence": 0.9
+    },
+    {
+      "id": "r9",
+      "head": "范寿康",
+      "head_type": "人物",
+      "relation": "引用",
+      "relation_subtype": "援引权威支持",
+      "tail": "唐钺氏",
+      "tail_type": "人物",
+      "polarity": "neutral",
+      "stance_score": 0.0,
+      "intensity": 0.3,
+      "evidence": "唐钺氏在《心理现象与因果律》中说: “我所谓因果律，就是说：一切现象都有原因。”",
+      "confidence": 0.9
+    },
+    {
+      "id": "r10",
+      "head": "范寿康",
+      "head_type": "人物",
+      "relation": "引用",
+      "relation_subtype": "援引权威支持",
+      "tail": "王星拱氏",
+      "tail_type": "人物",
+      "polarity": "neutral",
+      "stance_score": 0.0,
+      "intensity": 0.3,
+      "evidence": "王星拱氏在《科学与人生观》中也说: “因果之原理是说：宇宙中之各种现象，必定有因果的关系，没有无因而至的，也没有不生效果的。”",
+      "confidence": 0.9
+    },
+    {
+      "id": "r11",
+      "head": "范寿康",
+      "head_type": "人物",
+      "relation": "引用",
+      "relation_subtype": "援引权威支持",
+      "tail": "任叔永氏",
+      "tail_type": "人物",
+      "polarity": "neutral",
+      "stance_score": 0.0,
+      "intensity": 0.3,
+      "evidence": "任叔永氏在《人生观的科学或科学的人生观》里面下个明白的断定说: “人生观的科学是不可能的事，而科学的人生观却是可能的事。”",
+      "confidence": 0.9
+    }
+  ],
+  "definitions": [
+    {
+      "id": "def1",
+      "term": "人类的伦理的当为的先天形式",
+      "definition": "就是人类最可宝贵的，站在道德现象的背后而为道德现象的资本的义务意识，是超科学的",
+      "evidence": "人类的伦理的当 为的先天形式——就是人类最可宝贵的，站在道德现象的背后而为道德现象的资本的义务意识——是超科学的",
+      "confidence": 0.9
+    },
+    {
+      "id": "def2",
+      "term": "因果律（唐钺定义）",
+      "definition": "一切现象都有原因",
+      "evidence": "我所谓因果律，就是说：一切现象都有原因",
+      "confidence": 0.9
+    },
+    {
+      "id": "def3",
+      "term": "因果之原理（王星拱定义）",
+      "definition": "宇宙中之各种现象，必定有因果的关系，没有无因而至的，也没有不生效果的",
+      "evidence": "因果之原理是说：宇宙中之各种现象，必定有因果的关系，没有无因而至的，也没有不生效果的",
+      "confidence": 0.9
+    },
+    {
+      "id": "def4",
+      "term": "广义的因果律",
+      "definition": "认定宇宙中之各种现象必有因果，但没有包含同因必生同果的意思",
+      "evidence": "这一种广义的因果律虽认定宇宙中之各种现象必有因果，但同时却没有包含同因必生同果的意思",
+      "confidence": 0.9
+    },
+    {
+      "id": "def5",
+      "term": "狭义的因果律",
+      "definition": "指包括因果及齐一两原理的因果律，却不是单指原理的因果律",
+      "evidence": "是指包括因果及齐一两原理的因果律，却不是单指原理的因果律",
+      "confidence": 0.9
+    }
+  ],
+  "citations": [
+    {
+      "id": "cit1",
+      "citer": "范寿康",
+      "quoted_author": "唐钺氏",
+      "quoted_work": "《心理现象与因果律》",
+      "quoted_claim": "一切现象都有原因",
+      "function": "援引权威支持",
+      "evidence": "唐钺氏在《心理现象与因果律》中说: “我所谓因果律，就是说：一切现象都有原因。”",
+      "confidence": 0.9
+    },
+    {
+      "id": "cit2",
+      "citer": "范寿康",
+      "quoted_author": "王星拱氏",
+      "quoted_work": "《科学与人生观》",
+      "quoted_claim": "宇宙中之各种现象，必定有因果的关系，没有无因而至的，也没有不生效果的",
+      "function": "援引权威支持",
+      "evidence": "王星拱氏在《科学与人生观》中也说: “因果之原理是说：宇宙中之各种现象，必定有因果的关系，没有无因而至的，也没有不生效果的。”",
+      "confidence": 0.9
+    },
+    {
+      "id": "cit3",
+      "citer": "范寿康",
+      "quoted_author": "任叔永氏",
+      "quoted_work": "《人生观的科学或科学的人生观》",
+      "quoted_claim": "人生观的科学是不可能的事，而科学的人生观却是可能的事",
+      "function": "援引权威支持",
+      "evidence": "任叔永氏在《人生观的科学或科学的人生观》里面下个明白的断定说: “人生观的科学是不可能的事，而科学的人生观却是可能的事。”",
+      "confidence": 0.9
+    }
+  ],
+  "rhetorical_devices": [],
+  "uncertainties": [
+    {
+      "item": "梁氏具体指谁",
+      "reason": "文本中仅出现'梁氏'，未提供全名，无法确定具体人物"
+    },
+    {
+      "item": "“替梁氏另下一种的说明”是否准确代表梁氏原意",
+      "reason": "范寿康自称'替梁氏另下一种的说明'，但未说明是否直接引用梁氏原文，可能为作者概括或重新表述"
+    }
+  ]
+}

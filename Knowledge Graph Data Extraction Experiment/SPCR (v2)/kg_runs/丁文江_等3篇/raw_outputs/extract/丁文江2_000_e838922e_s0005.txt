@@ -1,0 +1,317 @@
+{
+  "metadata": {
+    "schema_version": "lite_v3.0",
+    "article_id": "丁文江2_000_e838922e",
+    "article_title": "玄学与科学——答张君劢",
+    "source_author": "丁文江",
+    "section_title": "",
+    "section_author": "",
+    "segment_id": "丁文江2_000_e838922e_s0005",
+    "segment_index": 5,
+    "source_file": "E:\\1研究生\\岭南大学\\论文毕业\\capstone\\资料\\新的内容开始了\\local_upload\\input_丁文江\\丁文江2.txt"
+  },
+  "entities": [
+    {
+      "id": "e1",
+      "name": "人生观",
+      "canonical_name": "人生观",
+      "type": "概念",
+      "evidence": "我对我以外之物与人，常有所观察也，主张也，希望也，要求也，是之谓人生观",
+      "confidence": 1.0
+    },
+    {
+      "id": "e2",
+      "name": "精神物质之冲突",
+      "canonical_name": "精神物质之冲突",
+      "type": "概念",
+      "evidence": "虽谓古今以来之大问题，不出此精神物质之冲突可也",
+      "confidence": 0.9
+    },
+    {
+      "id": "e3",
+      "name": "物质精神的分别是以内外分，以我与非我分",
+      "canonical_name": "物质精神的分别是以内外分，以我与非我分",
+      "type": "观点",
+      "evidence": "物质精神的分别是以内外分，以我与非我分",
+      "confidence": 0.9
+    },
+    {
+      "id": "e4",
+      "name": "我对于我以外之物与人，常求所以变革之，以达于至善至美之境",
+      "canonical_name": "我对于我以外之物与人，常求所以变革之，以达于至善至美之境",
+      "type": "观点",
+      "evidence": "我对于我以外之物与人，常求所以变革之，以达于至善至美之境",
+      "confidence": 0.9
+    },
+    {
+      "id": "e5",
+      "name": "地质学",
+      "canonical_name": "地质学",
+      "type": "概念",
+      "evidence": "即如地质学，何尝不是我对于大地河山的观察",
+      "confidence": 1.0
+    },
+    {
+      "id": "e6",
+      "name": "主观作用消息其间的",
+      "canonical_name": "主观作用消息其间的",
+      "type": "概念",
+      "evidence": "可以主观作用消息其间的叫做人生观",
+      "confidence": 0.8
+    }
+  ],
+  "claims": [
+    {
+      "id": "c1",
+      "speaker": "张君劢",
+      "claim": "我对我以外之物与人，常有所观察也，主张也，希望也，要求也，是之谓人生观",
+      "target": "人生观",
+      "claim_type": "定义性主张",
+      "claim_status": "间接转述",
+      "polarity": "neutral",
+      "evidence": "我对我以外之物与人，常有所观察也，主张也，希望也，要求也，是之谓人生观",
+      "confidence": 1.0
+    },
+    {
+      "id": "c2",
+      "speaker": "张君劢",
+      "claim": "物质精神的分别是以内外分，以我与非我分",
+      "target": "物质精神",
+      "claim_type": "描述性主张",
+      "claim_status": "作者概括",
+      "polarity": "neutral",
+      "evidence": "物质精神的分别是以内外分，以我与非我分",
+      "confidence": 0.9
+    },
+    {
+      "id": "c3",
+      "speaker": "张君劢",
+      "claim": "我对于我以外之物与人，常求所以变革之，以达于至善至美之境",
+      "target": "我对于我以外之物与人",
+      "claim_type": "描述性主张",
+      "claim_status": "作者概括",
+      "polarity": "neutral",
+      "evidence": "我对于我以外之物与人，常求所以变革之，以达于至善至美之境",
+      "confidence": 0.9
+    },
+    {
+      "id": "c4",
+      "speaker": "丁文江",
+      "claim": "物质精神是随人而异，没有一定的",
+      "target": "物质精神",
+      "claim_type": "推论性主张",
+      "claim_status": "作者推论",
+      "polarity": "negative",
+      "evidence": "照这样说起来，物质精神是随人而异，没有一定的",
+      "confidence": 0.9
+    },
+    {
+      "id": "c5",
+      "speaker": "丁文江",
+      "claim": "我对于我以外的物同人完全是善意的，不会得想利用他，破坏他，占领他的",
+      "target": "我对于我以外的物同人",
+      "claim_type": "推论性主张",
+      "claim_status": "作者推论",
+      "polarity": "negative",
+      "evidence": "然则我对于我以外的物同人完全是善意的，不会得想利用他，破坏他，占领他的",
+      "confidence": 0.9
+    },
+    {
+      "id": "c6",
+      "speaker": "丁文江",
+      "claim": "既然是完全善意，似乎可以不致于冲突，不知道何以又会成功古今以来的大问题",
+      "target": "精神物质之冲突",
+      "claim_type": "质疑性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "既然是完全善意，似乎可以不致于冲突，不知道何以又会成功古今以来的大问题",
+      "confidence": 0.9
+    },
+    {
+      "id": "c7",
+      "speaker": "丁文江",
+      "claim": "人生观是我对于我以外的物同人的观察、主张、要求、希望。范围既然这样广，岂不是凡有科学的材料都可以包括在人生观里面",
+      "target": "人生观",
+      "claim_type": "质疑性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "人生观是我对于我以外的物同人的观察、主张、要求、希望。范围既然这样广，岂不是凡有科学的材料都可以包括在人生观里面",
+      "confidence": 0.9
+    },
+    {
+      "id": "c8",
+      "speaker": "丁文江",
+      "claim": "那一样科学不是我对于物同人的一种观察，一种主张",
+      "target": "科学",
+      "claim_type": "描述性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "那一样科学不是我对于物同人的一种观察，一种主张",
+      "confidence": 0.9
+    },
+    {
+      "id": "c9",
+      "speaker": "丁文江",
+      "claim": "地质学，何尝不是我对于大地河山的观察",
+      "target": "地质学",
+      "claim_type": "描述性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "即如地质学，何尝不是我对于大地河山的观察",
+      "confidence": 0.9
+    },
+    {
+      "id": "c10",
+      "speaker": "丁文江",
+      "claim": "或者君劢的原意是凡我对于我以外的物同人的观察、主张、要求、希望，可以主观作用消息其间的叫做人生观",
+      "target": "人生观",
+      "claim_type": "描述性主张",
+      "claim_status": "作者推论",
+      "polarity": "neutral",
+      "evidence": "或者君劢的原意是凡我对于我以外的物同人的观察、主张、要求、希望，可以主观作用消息其间的叫做人生观",
+      "confidence": 0.8
+    }
+  ],
+  "relations": [
+    {
+      "id": "r1",
+      "head": "张君劢",
+      "head_type": "人物",
+      "relation": "主张",
+      "relation_subtype": "不适用",
+      "tail": "人生观",
+      "tail_type": "概念",
+      "polarity": "neutral",
+      "stance_score": 0.0,
+      "intensity": 0.0,
+      "evidence": "我对我以外之物与人，常有所观察也，主张也，希望也，要求也，是之谓人生观",
+      "confidence": 1.0
+    },
+    {
+      "id": "r2",
+      "head": "丁文江",
+      "head_type": "人物",
+      "relation": "质疑",
+      "relation_subtype": "逻辑反驳",
+      "tail": "物质精神的分别是以内外分，以我与非我分",
+      "tail_type": "观点",
+      "polarity": "negative",
+      "stance_score": -0.7,
+      "intensity": 0.6,
+      "evidence": "照这样说起来，物质精神是随人而异，没有一定的",
+      "confidence": 0.9
+    },
+    {
+      "id": "r3",
+      "head": "丁文江",
+      "head_type": "人物",
+      "relation": "质疑",
+      "relation_subtype": "逻辑反驳",
+      "tail": "我对于我以外之物与人，常求所以变革之，以达于至善至美之境",
+      "tail_type": "观点",
+      "polarity": "negative",
+      "stance_score": -0.7,
+      "intensity": 0.6,
+      "evidence": "然则我对于我以外的物同人完全是善意的，不会得想利用他，破坏他，占领他的",
+      "confidence": 0.9
+    },
+    {
+      "id": "r4",
+      "head": "丁文江",
+      "head_type": "人物",
+      "relation": "质疑",
+      "relation_subtype": "逻辑反驳",
+      "tail": "精神物质之冲突",
+      "tail_type": "概念",
+      "polarity": "negative",
+      "stance_score": -0.7,
+      "intensity": 0.6,
+      "evidence": "既然是完全善意，似乎可以不致于冲突，不知道何以又会成功古今以来的大问题",
+      "confidence": 0.9
+    },
+    {
+      "id": "r5",
+      "head": "丁文江",
+      "head_type": "人物",
+      "relation": "质疑",
+      "relation_subtype": "逻辑反驳",
+      "tail": "人生观",
+      "tail_type": "概念",
+      "polarity": "negative",
+      "stance_score": -0.6,
+      "intensity": 0.5,
+      "evidence": "人生观是我对于我以外的物同人的观察、主张、要求、希望。范围既然这样广，岂不是凡有科学的材料都可以包括在人生观里面",
+      "confidence": 0.9
+    },
+    {
+      "id": "r6",
+      "head": "丁文江",
+      "head_type": "人物",
+      "relation": "主张",
+      "relation_subtype": "不适用",
+      "tail": "那一样科学不是我对于物同人的一种观察，一种主张",
+      "tail_type": "观点",
+      "polarity": "positive",
+      "stance_score": 1.0,
+      "intensity": 0.8,
+      "evidence": "那一样科学不是我对于物同人的一种观察，一种主张",
+      "confidence": 0.9
+    },
+    {
+      "id": "r7",
+      "head": "丁文江",
+      "head_type": "人物",
+      "relation": "主张",
+      "relation_subtype": "不适用",
+      "tail": "地质学，何尝不是我对于大地河山的观察",
+      "tail_type": "观点",
+      "polarity": "positive",
+      "stance_score": 1.0,
+      "intensity": 0.8,
+      "evidence": "即如地质学，何尝不是我对于大地河山的观察",
+      "confidence": 0.9
+    },
+    {
+      "id": "r8",
+      "head": "丁文江",
+      "head_type": "人物",
+      "relation": "回应",
+      "relation_subtype": "概念澄清",
+      "tail": "张君劢",
+      "tail_type": "人物",
+      "polarity": "neutral",
+      "stance_score": 0.0,
+      "intensity": 0.3,
+      "evidence": "或者君劢的原意是凡我对于我以外的物同人的观察、主张、要求、希望，可以主观作用消息其间的叫做人生观",
+      "confidence": 0.8
+    }
+  ],
+  "definitions": [
+    {
+      "id": "def1",
+      "term": "人生观",
+      "definition": "我对我以外之物与人，常有所观察也，主张也，希望也，要求也，是之谓人生观",
+      "evidence": "我对我以外之物与人，常有所观察也，主张也，希望也，要求也，是之谓人生观",
+      "confidence": 1.0
+    },
+    {
+      "id": "def2",
+      "term": "人生观",
+      "definition": "凡我对于我以外的物同人的观察、主张、要求、希望，可以主观作用消息其间的叫做人生观",
+      "evidence": "或者君劢的原意是凡我对于我以外的物同人的观察、主张、要求、希望，可以主观作用消息其间的叫做人生观",
+      "confidence": 0.8
+    }
+  ],
+  "citations": [],
+  "rhetorical_devices": [],
+  "uncertainties": [
+    {
+      "item": "张君劢是否明确主张“物质精神的分别是以内外分，以我与非我分”和“我对于我以外之物与人，常求所以变革之，以达于至善至美之境”这两个论断，还是丁文江的概括",
+      "reason": "文本中丁文江说“这一段里面除去了人生观的定义以外，还有两个很重要的论断”，但未明确说明这两个论断是张君劢的原话还是丁文江的归纳"
+    },
+    {
+      "item": "丁文江提到的“我前次加的第十至第十三那四条”具体内容",
+      "reason": "文本中提及但未给出具体内容，无法从当前片段获取"
+    }
+  ]
+}

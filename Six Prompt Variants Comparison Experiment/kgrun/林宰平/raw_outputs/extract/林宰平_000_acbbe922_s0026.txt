@@ -1,0 +1,361 @@
+{
+  "metadata": {
+    "schema_version": "lite_v2.0",
+    "article_id": "林宰平_000_acbbe922",
+    "article_title": "读丁在君先生的《玄学与科学》",
+    "source_author": "林宰平",
+    "section_title": "",
+    "section_author": "",
+    "segment_id": "林宰平_000_acbbe922_s0026",
+    "segment_index": 26,
+    "source_file": "E:\\1研究生\\岭南大学\\论文毕业\\capstone\\资料\\新的内容开始了\\local_upload\\input_w0\\林宰平.txt"
+  },
+  "entities": [
+    {
+      "id": "e1",
+      "name": "科学的精神",
+      "canonical_name": "科学的精神",
+      "type": "概念",
+      "evidence": "科学的精神在于抛除成见，服从客观真理。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e2",
+      "name": "成见",
+      "canonical_name": "成见",
+      "type": "概念",
+      "evidence": "科学的精神在于抛除成见，服从客观真理。",
+      "confidence": 0.8
+    },
+    {
+      "id": "e3",
+      "name": "客观真理",
+      "canonical_name": "客观真理",
+      "type": "概念",
+      "evidence": "科学的精神在于抛除成见，服从客观真理。",
+      "confidence": 0.8
+    },
+    {
+      "id": "e4",
+      "name": "科学的方法",
+      "canonical_name": "科学的方法",
+      "type": "概念",
+      "evidence": "对于上列科学的方法是否有益于人生观，当然是肯定的。",
+      "confidence": 0.8
+    },
+    {
+      "id": "e5",
+      "name": "人生观",
+      "canonical_name": "人生观",
+      "type": "概念",
+      "evidence": "对于上列科学的方法是否有益于人生观，当然是肯定的。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e6",
+      "name": "人生",
+      "canonical_name": "人生",
+      "type": "概念",
+      "evidence": "现在所要说的就是“人生”是个甚么？",
+      "confidence": 0.9
+    },
+    {
+      "id": "e7",
+      "name": "理智",
+      "canonical_name": "理智",
+      "type": "概念",
+      "evidence": "人生的实际，不是仅仅理智一方面，感情的活动，意志的活动，也很占一大部分。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e8",
+      "name": "感情的活动",
+      "canonical_name": "感情的活动",
+      "type": "概念",
+      "evidence": "感情的活动，意志的活动，也很占一大部分。",
+      "confidence": 0.8
+    },
+    {
+      "id": "e9",
+      "name": "意志的活动",
+      "canonical_name": "意志的活动",
+      "type": "概念",
+      "evidence": "感情的活动，意志的活动，也很占一大部分。",
+      "confidence": 0.8
+    },
+    {
+      "id": "e10",
+      "name": "人生全体的发展",
+      "canonical_name": "人生全体的发展",
+      "type": "概念",
+      "evidence": "人生全体的发展，一定要各方面调和起来方能有望，决不能单从一方面进行的。",
+      "confidence": 0.8
+    },
+    {
+      "id": "e11",
+      "name": "理智的作用",
+      "canonical_name": "理智的作用",
+      "type": "概念",
+      "evidence": "理智的作用，专重概念的推理。",
+      "confidence": 0.8
+    },
+    {
+      "id": "e12",
+      "name": "概念的推理",
+      "canonical_name": "概念的推理",
+      "type": "概念",
+      "evidence": "理智的作用，专重概念的推理。",
+      "confidence": 0.8
+    },
+    {
+      "id": "e13",
+      "name": "屠正叔",
+      "canonical_name": "屠正叔",
+      "type": "人物",
+      "evidence": "屠正叔先生对于这个问题也有一段议论",
+      "confidence": 0.9
+    },
+    {
+      "id": "e14",
+      "name": "屠先生",
+      "canonical_name": "屠先生",
+      "type": "人物",
+      "evidence": "屠先生有一篇讲演，登在北京《晨报》十一年五月七日八日副刊",
+      "confidence": 0.9
+    },
+    {
+      "id": "e15",
+      "name": "在君先生",
+      "canonical_name": "丁在君",
+      "type": "人物",
+      "evidence": "在君先生所主张，我们平日谈话之间本没有甚么相反的意见",
+      "confidence": 0.9
+    },
+    {
+      "id": "e16",
+      "name": "北京《晨报》",
+      "canonical_name": "北京《晨报》",
+      "type": "著作",
+      "evidence": "屠先生有一篇讲演，登在北京《晨报》十一年五月七日八日副刊",
+      "confidence": 0.9
+    },
+    {
+      "id": "e17",
+      "name": "科学",
+      "canonical_name": "科学",
+      "type": "概念",
+      "evidence": "至于人生是否完全为科学所支配",
+      "confidence": 0.9
+    },
+    {
+      "id": "e18",
+      "name": "科学包办的态度",
+      "canonical_name": "科学包办的态度",
+      "type": "概念",
+      "evidence": "这种科学包办的态度，我就要起来反对了。",
+      "confidence": 0.8
+    }
+  ],
+  "claims": [
+    {
+      "id": "c1",
+      "speaker": "屠先生",
+      "claim": "科学的精神在于抛除成见，服从客观真理。研究科学的人一定是平心静气拿极公平的态度，极细密的眼光，去处理他们所研究的对象。因为不如此便不能得很好的结果。人类经过科学的训练以后，可以养成谨慎、忠实、公正诸美德。",
+      "target": "科学的精神",
+      "claim_type": "定义性主张",
+      "claim_status": "直接引用",
+      "polarity": "positive",
+      "evidence": "科学的精神在于抛除成见，服从客观真理。研究科学的人一定是平心静气拿极公平的态度，极细密的眼光，去处理他们所研究的对象。因为不如此便不能得很好的结果。人类经过科学的训练以后，可以养成谨慎、忠实、公正诸美德。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c2",
+      "speaker": "作者",
+      "claim": "对于上列科学的方法是否有益于人生观，当然是肯定的。",
+      "target": "科学的方法",
+      "claim_type": "价值评价",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "对于上列科学的方法是否有益于人生观，当然是肯定的。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c3",
+      "speaker": "在君先生",
+      "claim": "他说人生观问题之解决，决非科学之所能为力。科学答他说，凡是心理的内容，真的概念推论，无一不是科学的材料。",
+      "target": "人生观",
+      "claim_type": "反驳性主张",
+      "claim_status": "间接转述",
+      "polarity": "negative",
+      "evidence": "他说人生观问题之解决，决非科学之所能为力。科学答他说，凡是心理的内容，真的概念推论，无一不是科学的材料。",
+      "confidence": 0.8
+    },
+    {
+      "id": "c4",
+      "speaker": "作者",
+      "claim": "这种科学包办的态度，我就要起来反对了。",
+      "target": "科学包办的态度",
+      "claim_type": "论战策略批评",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "这种科学包办的态度，我就要起来反对了。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c5",
+      "speaker": "屠正叔",
+      "claim": "人生的实际，不是仅仅理智一方面，感情的活动，意志的活动，也很占一大部分。人生全体的发展，一定要各方面调和起来方能有望，决不能单从一方面进行的。理智的作用，专重概念的推理。",
+      "target": "人生",
+      "claim_type": "定义性主张",
+      "claim_status": "直接引用",
+      "polarity": "positive",
+      "evidence": "人生的实际，不是仅仅理智一方面，感情的活动，意志的活动，也很占一大部分。人生全体的发展，一定要各方面调和起来方能有望，决不能单从一方面进行的。理智的作用，专重概念的推理。",
+      "confidence": 0.9
+    }
+  ],
+  "relations": [
+    {
+      "id": "r1",
+      "head": "屠先生",
+      "head_type": "人物",
+      "relation": "引用",
+      "relation_subtype": "援引权威",
+      "tail": "科学的精神",
+      "tail_type": "概念",
+      "polarity": "positive",
+      "evidence": "也说：“科学的精神在于抛除成见，服从客观真理。研究科学的人一定是平心静气拿极公平的态度，极细密的眼光，去处理他们所研究的对象。因为不如此便不能得很好的结果。人类经过科学的训练以后，可以养成谨慎、忠实、公正诸美德。”（屠先生有一篇讲演，登在北京《晨报》十一年五月七日八日副刊，以上几句话就在这篇讲演里。）",
+      "confidence": 0.9
+    },
+    {
+      "id": "r2",
+      "head": "作者",
+      "head_type": "人物",
+      "relation": "支持",
+      "relation_subtype": "部分肯定",
+      "tail": "在君先生",
+      "tail_type": "人物",
+      "polarity": "positive",
+      "evidence": "在君先生所主张，我们平日谈话之间本没有甚么相反的意见，对于上列科学的方法是否有益于人生观，当然是肯定的。",
+      "confidence": 0.8
+    },
+    {
+      "id": "r3",
+      "head": "作者",
+      "head_type": "人物",
+      "relation": "反对",
+      "relation_subtype": "逻辑反驳",
+      "tail": "科学包办的态度",
+      "tail_type": "概念",
+      "polarity": "negative",
+      "evidence": "这种科学包办的态度，我就要起来反对了。",
+      "confidence": 0.9
+    },
+    {
+      "id": "r4",
+      "head": "作者",
+      "head_type": "人物",
+      "relation": "引用",
+      "relation_subtype": "援引权威",
+      "tail": "屠正叔",
+      "tail_type": "人物",
+      "polarity": "positive",
+      "evidence": "屠正叔先生对于这个问题也有一段议论，他说：“人生的实际，不是仅仅理智一方面，感情的活动，意志的活动，也很占一大部分。人生全体的发展，一定要各方面调和起来方能有望，决不能单从一方面进行的。理智的作用，专重概念的推理。”",
+      "confidence": 0.9
+    },
+    {
+      "id": "r5",
+      "head": "在君先生",
+      "head_type": "人物",
+      "relation": "主张",
+      "relation_subtype": "不适用",
+      "tail": "人生观问题之解决，决非科学之所能为力。科学答他说，凡是心理的内容，真的概念推论，无一不是科学的材料。",
+      "tail_type": "观点",
+      "polarity": "negative",
+      "evidence": "他说人生观问题之解决，决非科学之所能为力。科学答他说，凡是心理的内容，真的概念推论，无一不是科学的材料。",
+      "confidence": 0.8
+    }
+  ],
+  "definitions": [
+    {
+      "id": "def1",
+      "term": "科学的精神",
+      "definition": "在于抛除成见，服从客观真理。",
+      "evidence": "科学的精神在于抛除成见，服从客观真理。",
+      "confidence": 0.9
+    },
+    {
+      "id": "def2",
+      "term": "人生的实际",
+      "definition": "不是仅仅理智一方面，感情的活动，意志的活动，也很占一大部分。",
+      "evidence": "人生的实际，不是仅仅理智一方面，感情的活动，意志的活动，也很占一大部分。",
+      "confidence": 0.9
+    },
+    {
+      "id": "def3",
+      "term": "人生全体的发展",
+      "definition": "一定要各方面调和起来方能有望，决不能单从一方面进行的。",
+      "evidence": "人生全体的发展，一定要各方面调和起来方能有望，决不能单从一方面进行的。",
+      "confidence": 0.9
+    },
+    {
+      "id": "def4",
+      "term": "理智的作用",
+      "definition": "专重概念的推理。",
+      "evidence": "理智的作用，专重概念的推理。",
+      "confidence": 0.9
+    }
+  ],
+  "citations": [
+    {
+      "id": "cit1",
+      "citer": "作者",
+      "quoted_author": "屠先生",
+      "quoted_work": "北京《晨报》十一年五月七日八日副刊",
+      "quoted_claim": "科学的精神在于抛除成见，服从客观真理。研究科学的人一定是平心静气拿极公平的态度，极细密的眼光，去处理他们所研究的对象。因为不如此便不能得很好的结果。人类经过科学的训练以后，可以养成谨慎、忠实、公正诸美德。",
+      "function": "援引权威支持",
+      "evidence": "也说：“科学的精神在于抛除成见，服从客观真理。研究科学的人一定是平心静气拿极公平的态度，极细密的眼光，去处理他们所研究的对象。因为不如此便不能得很好的结果。人类经过科学的训练以后，可以养成谨慎、忠实、公正诸美德。”（屠先生有一篇讲演，登在北京《晨报》十一年五月七日八日副刊，以上几句话就在这篇讲演里。）",
+      "confidence": 0.9
+    },
+    {
+      "id": "cit2",
+      "citer": "作者",
+      "quoted_author": "在君先生",
+      "quoted_work": "",
+      "quoted_claim": "他说人生观问题之解决，决非科学之所能为力。科学答他说，凡是心理的内容，真的概念推论，无一不是科学的材料。",
+      "function": "作为批评对象",
+      "evidence": "至于人生是否完全为科学所支配，就是在君先生所谓:“他说人生观问题之解决，决非科学之所能为力。科学答他说，凡是心理的内容，真的概念推论，无一不是科学的材料。”",
+      "confidence": 0.8
+    },
+    {
+      "id": "cit3",
+      "citer": "作者",
+      "quoted_author": "屠正叔",
+      "quoted_work": "",
+      "quoted_claim": "人生的实际，不是仅仅理智一方面，感情的活动，意志的活动，也很占一大部分。人生全体的发展，一定要各方面调和起来方能有望，决不能单从一方面进行的。理智的作用，专重概念的推理。",
+      "function": "援引权威支持",
+      "evidence": "屠正叔先生对于这个问题也有一段议论，他说：“人生的实际，不是仅仅理智一方面，感情的活动，意志的活动，也很占一大部分。人生全体的发展，一定要各方面调和起来方能有望，决不能单从一方面进行的。理智的作用，专重概念的推理。”",
+      "confidence": 0.9
+    }
+  ],
+  "rhetorical_devices": [
+    {
+      "id": "rh1",
+      "expression": "科学包办的态度",
+      "device_type": "标签化",
+      "literal_target": "科学能够完全支配人生的主张",
+      "function": "将对方观点标签化为‘包办’，以表达反对态度",
+      "evidence": "这种科学包办的态度，我就要起来反对了。",
+      "confidence": 0.8
+    }
+  ],
+  "uncertainties": [
+    {
+      "item": "屠先生与屠正叔是否为同一人",
+      "reason": "文本中分别出现‘屠先生’和‘屠正叔先生’，但未明确说明二者关系，可能为同一人，也可能不同。"
+    },
+    {
+      "item": "在君先生所引用的‘他说’中的‘他’具体指谁",
+      "reason": "文本中‘他说人生观问题之解决，决非科学之所能为力’的‘他’未明确指代对象，可能指张君劢或其他论战对手。"
+    }
+  ]
+}

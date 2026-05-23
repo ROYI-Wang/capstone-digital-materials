@@ -1,0 +1,470 @@
+{
+  "metadata": {
+    "schema_version": "lite_v3.0",
+    "article_id": "林宰平_000_acbbe922",
+    "article_title": "读丁在君先生的《玄学与科学》",
+    "source_author": "林宰平",
+    "section_title": "",
+    "section_author": "",
+    "segment_id": "林宰平_000_acbbe922_s0016",
+    "segment_index": 16,
+    "source_file": "E:\\1研究生\\岭南大学\\论文毕业\\capstone\\资料\\新的内容开始了\\local_upload\\input_林宰平\\林宰平.txt"
+  },
+  "entities": [
+    {
+      "id": "e1",
+      "name": "在君先生",
+      "canonical_name": "丁在君",
+      "type": "人物",
+      "evidence": "在君先生毫不客气的说",
+      "confidence": 1.0
+    },
+    {
+      "id": "e2",
+      "name": "原则第一条",
+      "canonical_name": "原则第一条",
+      "type": "观点",
+      "evidence": "原则第一条：把人类心理变成器械观，又不承认有变态心理",
+      "confidence": 0.8
+    },
+    {
+      "id": "e3",
+      "name": "原则",
+      "canonical_name": "原则",
+      "type": "概念",
+      "evidence": "原来有两条重要的原则",
+      "confidence": 0.9
+    },
+    {
+      "id": "e4",
+      "name": "方法",
+      "canonical_name": "方法",
+      "type": "方法",
+      "evidence": "定了三条的方法",
+      "confidence": 0.8
+    },
+    {
+      "id": "e5",
+      "name": "人类心理变成器械观",
+      "canonical_name": "人类心理变成器械观",
+      "type": "观点",
+      "evidence": "把人类心理变成器械观",
+      "confidence": 0.9
+    },
+    {
+      "id": "e6",
+      "name": "不承认有变态心理",
+      "canonical_name": "不承认有变态心理",
+      "type": "观点",
+      "evidence": "又不承认有变态心理",
+      "confidence": 0.9
+    },
+    {
+      "id": "e7",
+      "name": "觉官感触、概念、推论等苟非相同",
+      "canonical_name": "觉官感触、概念、推论等苟非相同",
+      "type": "观点",
+      "evidence": "觉官感触、概念、推论等苟非相同，那么科学如何能管辖到心理的方面？",
+      "confidence": 0.9
+    },
+    {
+      "id": "e8",
+      "name": "我的思想的工具是同常人的一类的机器",
+      "canonical_name": "我的思想的工具是同常人的一类的机器",
+      "type": "观点",
+      "evidence": "我的思想的工具是同常人的一类的机器，机器的效能虽然不一样，性质却是相同。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e9",
+      "name": "觉官的感触相同",
+      "canonical_name": "觉官的感触相同",
+      "type": "观点",
+      "evidence": "觉官的感触相同，所以物质的思构相同，知觉、概念、推论的手续无不相同，科学的真相，才能为人所公认。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e10",
+      "name": "反常的人",
+      "canonical_name": "反常的人",
+      "type": "概念",
+      "evidence": "反常的人，我们叫他为疯子痴子。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e11",
+      "name": "疯子痴子",
+      "canonical_name": "疯子痴子",
+      "type": "概念",
+      "evidence": "反常的人，我们叫他为疯子痴子。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e12",
+      "name": "第二个重要的原则",
+      "canonical_name": "第二个重要的原则",
+      "type": "观点",
+      "evidence": "第二个重要的原则",
+      "confidence": 0.9
+    },
+    {
+      "id": "e13",
+      "name": "天才豪杰同常人的分别，是快慢的火车，不是人力车同飞机",
+      "canonical_name": "天才豪杰同常人的分别，是快慢的火车，不是人力车同飞机",
+      "type": "观点",
+      "evidence": "天才豪杰同常人的分别，是快慢的火车，不是人力车同飞机。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e14",
+      "name": "他们的知觉、概念、推论的方法，完全与我们相同",
+      "canonical_name": "他们的知觉、概念、推论的方法，完全与我们相同",
+      "type": "观点",
+      "evidence": "他们的知觉、概念、推论的方法，完全与我们相同。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e15",
+      "name": "自命为天才豪杰的人，不是反常，不是疯子",
+      "canonical_name": "自命为天才豪杰的人，不是反常，不是疯子",
+      "type": "观点",
+      "evidence": "不然我们安晓得自命为天才豪杰的人，不是反常，不是疯子？",
+      "confidence": 0.9
+    }
+  ],
+  "claims": [
+    {
+      "id": "c1",
+      "speaker": "林宰平",
+      "claim": "把人类心理变成器械观，又不承认有变态心理，这样的干法，我们很抱歉的又不能赞成了。",
+      "target": "在君先生",
+      "claim_type": "评价性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "把人类心理变成器械观，又不承认有变态心理，这样的干法，我们很抱歉的又不能赞成了。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c2",
+      "speaker": "林宰平",
+      "claim": "我们却知道此中有不得已的苦衷，若使非布了这道防线，恐怕阵地站不住",
+      "target": "在君先生",
+      "claim_type": "描述性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "我们却知道此中有不得已的苦衷，若使非布了这道防线，恐怕阵地站不住",
+      "confidence": 0.9
+    },
+    {
+      "id": "c3",
+      "speaker": "在君先生",
+      "claim": "我的思想的工具是同常人的一类的机器，机器的效能虽然不一样，性质却是相同。",
+      "target": "常人",
+      "claim_type": "描述性主张",
+      "claim_status": "直接引用",
+      "polarity": "positive",
+      "evidence": "我的思想的工具是同常人的一类的机器，机器的效能虽然不一样，性质却是相同。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c4",
+      "speaker": "在君先生",
+      "claim": "觉官的感触相同，所以物质的思构相同，知觉、概念、推论的手续无不相同，科学的真相，才能为人所公认。",
+      "target": "常人",
+      "claim_type": "因果主张",
+      "claim_status": "直接引用",
+      "polarity": "positive",
+      "evidence": "觉官的感触相同，所以物质的思构相同，知觉、概念、推论的手续无不相同，科学的真相，才能为人所公认。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c5",
+      "speaker": "在君先生",
+      "claim": "反常的人，我们叫他为疯子痴子。",
+      "target": "反常的人",
+      "claim_type": "定义性主张",
+      "claim_status": "直接引用",
+      "polarity": "negative",
+      "evidence": "反常的人，我们叫他为疯子痴子。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c6",
+      "speaker": "林宰平",
+      "claim": "可惜现在像在君先生所谓反常的事情太多了。并且他们也决非一顿臭骂所能慑服。",
+      "target": "在君先生",
+      "claim_type": "评价性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "可惜现在像在君先生所谓反常的事情太多了。并且他们也决非一顿臭骂所能慑服。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c7",
+      "speaker": "林宰平",
+      "claim": "除非到了科学能够解释这些事情的那一天。",
+      "target": "科学",
+      "claim_type": "描述性主张",
+      "claim_status": "作者推论",
+      "polarity": "neutral",
+      "evidence": "除非到了科学能够解释这些事情的那一天。",
+      "confidence": 0.8
+    },
+    {
+      "id": "c8",
+      "speaker": "林宰平",
+      "claim": "对于这个第一重要的原则，我们不能赞成的意思，等到后文再说。",
+      "target": "原则第一条",
+      "claim_type": "回应性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "对于这个第一重要的原则，我们不能赞成的意思，等到后文再说。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c9",
+      "speaker": "在君先生",
+      "claim": "上边所说的，并不是否认创造的天才，先觉的豪杰。",
+      "target": "天才、豪杰",
+      "claim_type": "描述性主张",
+      "claim_status": "间接转述",
+      "polarity": "positive",
+      "evidence": "上边所说的，并不是否认创造的天才，先觉的豪杰。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c10",
+      "speaker": "在君先生",
+      "claim": "天才豪杰同常人的分别，是快慢的火车，不是人力车同飞机。",
+      "target": "天才豪杰",
+      "claim_type": "对比性主张",
+      "claim_status": "间接转述",
+      "polarity": "positive",
+      "evidence": "天才豪杰同常人的分别，是快慢的火车，不是人力车同飞机。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c11",
+      "speaker": "在君先生",
+      "claim": "他们的知觉、概念、推论的方法，完全与我们相同。",
+      "target": "天才豪杰",
+      "claim_type": "描述性主张",
+      "claim_status": "间接转述",
+      "polarity": "positive",
+      "evidence": "他们的知觉、概念、推论的方法，完全与我们相同。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c12",
+      "speaker": "在君先生",
+      "claim": "不然我们安晓得自命为天才豪杰的人，不是反常，不是疯子？",
+      "target": "天才豪杰",
+      "claim_type": "问题提出",
+      "claim_status": "间接转述",
+      "polarity": "negative",
+      "evidence": "不然我们安晓得自命为天才豪杰的人，不是反常，不是疯子？",
+      "confidence": 1.0
+    },
+    {
+      "id": "c13",
+      "speaker": "林宰平",
+      "claim": "可惜看了大失望了。",
+      "target": "第二个重要的原则",
+      "claim_type": "评价性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "可惜看了大失望了。",
+      "confidence": 1.0
+    }
+  ],
+  "relations": [
+    {
+      "id": "r1",
+      "head": "原则第一条",
+      "head_type": "观点",
+      "relation": "包含",
+      "relation_subtype": "不适用",
+      "tail": "把人类心理变成器械观",
+      "tail_type": "观点",
+      "polarity": "neutral",
+      "stance_score": 0.0,
+      "intensity": 0.0,
+      "evidence": "原则第一条：把人类心理变成器械观，又不承认有变态心理",
+      "confidence": 0.9
+    },
+    {
+      "id": "r2",
+      "head": "原则第一条",
+      "head_type": "观点",
+      "relation": "包含",
+      "relation_subtype": "不适用",
+      "tail": "不承认有变态心理",
+      "tail_type": "观点",
+      "polarity": "neutral",
+      "stance_score": 0.0,
+      "intensity": 0.0,
+      "evidence": "原则第一条：把人类心理变成器械观，又不承认有变态心理",
+      "confidence": 0.9
+    },
+    {
+      "id": "r3",
+      "head": "林宰平",
+      "head_type": "人物",
+      "relation": "批评",
+      "relation_subtype": "事实质疑",
+      "tail": "在君先生",
+      "tail_type": "人物",
+      "polarity": "negative",
+      "stance_score": -0.7,
+      "intensity": 0.6,
+      "evidence": "可惜现在像在君先生所谓反常的事情太多了。并且他们也决非一顿臭骂所能慑服。",
+      "confidence": 1.0
+    }
+  ],
+  "definitions": [
+    {
+      "id": "def1",
+      "term": "反常的人",
+      "definition": "在君先生将反常的人定义为疯子痴子。",
+      "evidence": "反常的人，我们叫他为疯子痴子。",
+      "confidence": 1.0
+    }
+  ],
+  "citations": [
+    {
+      "id": "cit1",
+      "citer": "林宰平",
+      "quoted_author": "在君先生",
+      "quoted_work": "",
+      "quoted_claim": "反常的人，我们叫他为疯子痴子。",
+      "function": "作为批评对象",
+      "evidence": "又预防有不服的人，和科学所不能说明的心理状况，于是拿出先发制人的手腕，把他们叫做反常的人，并严厉的说道: “反常的人，我们叫他为疯子痴子。”",
+      "confidence": 1.0
+    },
+    {
+      "id": "cit2",
+      "citer": "林宰平",
+      "quoted_author": "在君先生",
+      "quoted_work": "",
+      "quoted_claim": "上边所说的，并不是否认创造的天才，先觉的豪杰。",
+      "function": "作为批评对象",
+      "evidence": "“上边所说的，并不是否认创造的天才，先觉的豪杰。（中略）但是天才豪杰同常人的分别，是快慢的火车，不是人力车同飞机。因为我们能承认他们是天才是豪杰，正是因为他们的知觉、概念、推论的方法，完全与我们相同。不然我们安晓得自命为天才豪杰的人，不是反常，不是疯子？”",
+      "confidence": 1.0
+    },
+    {
+      "id": "cit3",
+      "citer": "林宰平",
+      "quoted_author": "在君先生",
+      "quoted_work": "",
+      "quoted_claim": "天才豪杰同常人的分别，是快慢的火车，不是人力车同飞机。",
+      "function": "作为批评对象",
+      "evidence": "“上边所说的，并不是否认创造的天才，先觉的豪杰。（中略）但是天才豪杰同常人的分别，是快慢的火车，不是人力车同飞机。因为我们能承认他们是天才是豪杰，正是因为他们的知觉、概念、推论的方法，完全与我们相同。不然我们安晓得自命为天才豪杰的人，不是反常，不是疯子？”",
+      "confidence": 1.0
+    },
+    {
+      "id": "cit4",
+      "citer": "林宰平",
+      "quoted_author": "在君先生",
+      "quoted_work": "",
+      "quoted_claim": "他们的知觉、概念、推论的方法，完全与我们相同。",
+      "function": "作为批评对象",
+      "evidence": "“上边所说的，并不是否认创造的天才，先觉的豪杰。（中略）但是天才豪杰同常人的分别，是快慢的火车，不是人力车同飞机。因为我们能承认他们是天才是豪杰，正是因为他们的知觉、概念、推论的方法，完全与我们相同。不然我们安晓得自命为天才豪杰的人，不是反常，不是疯子？”",
+      "confidence": 1.0
+    },
+    {
+      "id": "cit5",
+      "citer": "林宰平",
+      "quoted_author": "在君先生",
+      "quoted_work": "",
+      "quoted_claim": "不然我们安晓得自命为天才豪杰的人，不是反常，不是疯子？",
+      "function": "作为批评对象",
+      "evidence": "“上边所说的，并不是否认创造的天才，先觉的豪杰。（中略）但是天才豪杰同常人的分别，是快慢的火车，不是人力车同飞机。因为我们能承认他们是天才是豪杰，正是因为他们的知觉、概念、推论的方法，完全与我们相同。不然我们安晓得自命为天才豪杰的人，不是反常，不是疯子？”",
+      "confidence": 1.0
+    }
+  ],
+  "rhetorical_devices": [
+    {
+      "id": "rh1",
+      "expression": "把人类心理变成器械观",
+      "device_type": "比喻",
+      "literal_target": "将人类心理视为机械",
+      "function": "批评在君先生将心理机械化的观点",
+      "evidence": "把人类心理变成器械观",
+      "confidence": 0.9
+    },
+    {
+      "id": "rh2",
+      "expression": "若使非布了这道防线，恐怕阵地站不住",
+      "device_type": "比喻",
+      "literal_target": "在君先生的原则是为了维护科学立场而设的防御",
+      "function": "解释在君先生提出原则的动机",
+      "evidence": "若使非布了这道防线，恐怕阵地站不住",
+      "confidence": 0.9
+    },
+    {
+      "id": "rh3",
+      "expression": "拿出先发制人的手腕",
+      "device_type": "比喻",
+      "literal_target": "在君先生预先采取行动压制反对者",
+      "function": "批评在君先生的做法",
+      "evidence": "于是拿出先发制人的手腕",
+      "confidence": 0.9
+    },
+    {
+      "id": "rh4",
+      "expression": "一顿臭骂",
+      "device_type": "标签化",
+      "literal_target": "在君先生对反常的人的定义",
+      "function": "批评在君先生的做法粗暴",
+      "evidence": "他们也决非一顿臭骂所能慑服",
+      "confidence": 0.9
+    },
+    {
+      "id": "rh5",
+      "expression": "天才豪杰同常人的分别，是快慢的火车，不是人力车同飞机",
+      "device_type": "类比",
+      "literal_target": "天才豪杰与常人只有程度差异，没有本质不同",
+      "function": "支持在君先生的观点",
+      "evidence": "天才豪杰同常人的分别，是快慢的火车，不是人力车同飞机。",
+      "confidence": 1.0
+    },
+    {
+      "id": "rh6",
+      "expression": "可惜看了大失望了",
+      "device_type": "讽刺",
+      "literal_target": "作者对在君先生的第二个原则感到失望",
+      "function": "表达对在君先生观点的否定态度",
+      "evidence": "可惜看了大失望了。",
+      "confidence": 0.9
+    }
+  ],
+  "uncertainties": [
+    {
+      "item": "原则第一条中的“把人类心理变成器械观”是否完全等同于在君先生的原话？",
+      "reason": "文本中作者以转述方式呈现，未直接引用在君先生的原话。"
+    },
+    {
+      "item": "“上边所说的，并不是否认创造的天才，先觉的豪杰”是否完整引用？",
+      "reason": "文本中标注了“（中略）”，表明有省略内容。"
+    }
+  ],
+  "_meta": {
+    "status": "success",
+    "stage": "extract",
+    "model": "deepseek-ai/DeepSeek-V4-Flash",
+    "base_url": "https://api.siliconflow.cn/v1",
+    "prompt_version": "v2.0",
+    "schema_version": "lite_v3.0",
+    "segment_id": "林宰平_000_acbbe922_s0016",
+    "article_id": "林宰平_000_acbbe922",
+    "char_start": 8032,
+    "char_end": 8604,
+    "raw_path": "E:\\1研究生\\岭南大学\\论文毕业\\capstone\\资料\\新的内容开始了\\local_upload\\kg_runs_v2\\林宰平\\raw_outputs\\extract\\林宰平_000_acbbe922_s0016.txt",
+    "parsed_at": "2026-05-21T22:20:05",
+    "started_at": "2026-05-21T22:16:14",
+    "elapsed_seconds": 230.755,
+    "strict_evidence_check": true,
+    "drop_unsupported_evidence": true,
+    "request_timeout_seconds": 180
+  }
+}

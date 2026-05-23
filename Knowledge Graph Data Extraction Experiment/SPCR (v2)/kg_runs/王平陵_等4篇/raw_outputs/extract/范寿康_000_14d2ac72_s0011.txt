@@ -1,0 +1,517 @@
+{
+  "metadata": {
+    "schema_version": "lite_v3.0",
+    "article_id": "范寿康_000_14d2ac72",
+    "article_title": "评所谓“科学与玄学之争”",
+    "source_author": "范寿康",
+    "section_title": "",
+    "section_author": "",
+    "segment_id": "范寿康_000_14d2ac72_s0011",
+    "segment_index": 11,
+    "source_file": "E:\\1研究生\\岭南大学\\论文毕业\\capstone\\资料\\新的内容开始了\\local_upload\\input_v2_w0\\范寿康.txt"
+  },
+  "entities": [
+    {
+      "id": "e1",
+      "name": "直觉主义",
+      "canonical_name": "直觉主义",
+      "type": "主义/学说/理论",
+      "evidence": "谓直觉主义就立脚于这一点，而且他只能够也只应该中止于这一点；可是事实上他往往还想从主观独断地演绎适用于实际生活的内容的伦理规范（指2),这是直觉主义的根本错误。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e2",
+      "name": "内容的伦理规范",
+      "canonical_name": "内容的伦理规范",
+      "type": "概念",
+      "evidence": "内容的伦理法则决不是如纯粹主观形式一样，能够单从主观直观而得的，我们只能用科学的探讨方才能够获得这一种内容的伦理规范。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e3",
+      "name": "纯粹主观形式",
+      "canonical_name": "纯粹主观形式",
+      "type": "概念",
+      "evidence": "内容的伦理法则决不是如纯粹主观形式一样，能够单从主观直观而得的，我们只能用科学的探讨方才能够获得这一种内容的伦理规范。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e4",
+      "name": "科学",
+      "canonical_name": "科学",
+      "type": "概念",
+      "evidence": "我们只能用科学的探讨方才能够获得这一种内容的伦理规范。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e5",
+      "name": "快乐主义的学问家",
+      "canonical_name": "快乐主义的学问家",
+      "type": "阵营/群体",
+      "evidence": "对于伦理的当为的先天形式，对于人类最可宝贵的义务意识，我们当然不应该和快乐主义的学问家一样去全忽视他——快乐主义的学问家将各种伦理的规范都看做经验的产物",
+      "confidence": 1.0
+    },
+    {
+      "id": "e6",
+      "name": "伦理的当为的先天形式",
+      "canonical_name": "伦理的当为的先天形式",
+      "type": "概念",
+      "evidence": "对于伦理的当为的先天形式，对于人类最可宝贵的义务意识，我们当然不应该和快乐主义的学问家一样去全忽视他",
+      "confidence": 1.0
+    },
+    {
+      "id": "e7",
+      "name": "义务意识",
+      "canonical_name": "义务意识",
+      "type": "概念",
+      "evidence": "对于伦理的当为的先天形式，对于人类最可宝贵的义务意识，我们当然不应该和快乐主义的学问家一样去全忽视他",
+      "confidence": 1.0
+    },
+    {
+      "id": "e8",
+      "name": "先天形式",
+      "canonical_name": "先天形式",
+      "type": "概念",
+      "evidence": "可是在这种先天形式以外，我们不得不根据科学研究，树立几条更切实的内容的基本法则。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e9",
+      "name": "科学研究",
+      "canonical_name": "科学研究",
+      "type": "方法",
+      "evidence": "可是在这种先天形式以外，我们不得不根据科学研究，树立几条更切实的内容的基本法则。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e10",
+      "name": "内容的基本法则",
+      "canonical_name": "内容的基本法则",
+      "type": "概念",
+      "evidence": "可是在这种先天形式以外，我们不得不根据科学研究，树立几条更切实的内容的基本法则。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e11",
+      "name": "哲学家的伦理的立脚点",
+      "canonical_name": "哲学家的伦理的立脚点",
+      "type": "概念",
+      "evidence": "哲学家的伦理的立脚点虽是变化百出，可是他们对于道德目的的判断是比较少于变化；倘使达于道德意识的某种发达的阶段的时候，这一种判断大概也会固定起来，和论理的关系一样。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e12",
+      "name": "道德目的的判断",
+      "canonical_name": "道德目的的判断",
+      "type": "概念",
+      "evidence": "哲学家的伦理的立脚点虽是变化百出，可是他们对于道德目的的判断是比较少于变化；倘使达于道德意识的某种发达的阶段的时候，这一种判断大概也会固定起来，和论理的关系一样。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e13",
+      "name": "道德意识",
+      "canonical_name": "道德意识",
+      "type": "概念",
+      "evidence": "倘使达于道德意识的某种发达的阶段的时候，这一种判断大概也会固定起来，和论理的关系一样。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e14",
+      "name": "胡恩特（Wundt）",
+      "canonical_name": "胡恩特（Wundt）",
+      "type": "人物",
+      "evidence": "胡恩特（Wundt）的这一句话的确含有至理。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e15",
+      "name": "伦理规范",
+      "canonical_name": "伦理规范",
+      "type": "概念",
+      "evidence": "我的私见以为伦理规范——人生观——一部分是先天的，一部分是后天的。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e16",
+      "name": "人生观",
+      "canonical_name": "人生观",
+      "type": "概念",
+      "evidence": "我的私见以为伦理规范——人生观——一部分是先天的，一部分是后天的。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e17",
+      "name": "先天的形式",
+      "canonical_name": "先天的形式",
+      "type": "概念",
+      "evidence": "先天的形式是由主观的直觉而得，决不是科学所能干涉。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e18",
+      "name": "主观的直觉",
+      "canonical_name": "主观的直觉",
+      "type": "概念",
+      "evidence": "先天的形式是由主观的直觉而得，决不是科学所能干涉。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e19",
+      "name": "后天的内容",
+      "canonical_name": "后天的内容",
+      "type": "概念",
+      "evidence": "后天的内容应由科学的方法探讨而定，决不是主观所应妄定。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e20",
+      "name": "科学的方法",
+      "canonical_name": "科学的方法",
+      "type": "方法",
+      "evidence": "后天的内容应由科学的方法探讨而定，决不是主观所应妄定。",
+      "confidence": 1.0
+    }
+  ],
+  "claims": [
+    {
+      "id": "c1",
+      "speaker": "范寿康",
+      "claim": "直觉主义往往还想从主观独断地演绎适用于实际生活的内容的伦理规范，这是直觉主义的根本错误。",
+      "target": "直觉主义",
+      "claim_type": "评价性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "可是事实上他往往还想从主观独断地演绎适用于实际生活的内容的伦理规范（指2),这是直觉主义的根本错误。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c2",
+      "speaker": "范寿康",
+      "claim": "内容的伦理法则不能单从主观直观而得，只能用科学的探讨才能获得。",
+      "target": "内容的伦理规范",
+      "claim_type": "描述性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "内容的伦理法则决不是如纯粹主观形式一样，能够单从主观直观而得的，我们只能用科学的探讨方才能够获得这一种内容的伦理规范。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c3",
+      "speaker": "范寿康",
+      "claim": "由科学研究而获得的内容法则究竟有没有普遍妥当性，这实在是一个疑问。",
+      "target": "内容法则",
+      "claim_type": "问题提出",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "至于这一种由科学研究而获得的内容法则究竟有没有普遍妥当性，这实在是一个疑问。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c4",
+      "speaker": "范寿康",
+      "claim": "单单纯粹形式的规定对于实际科学和实际生活是不够使用的。",
+      "target": "纯粹形式的规定",
+      "claim_type": "评价性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "单单纯粹形式的规定对于实际科学和实际生活是不够使用",
+      "confidence": 1.0
+    },
+    {
+      "id": "c5",
+      "speaker": "范寿康",
+      "claim": "从主观方面独断地演绎出来的规范比从科学研究所得的规范更当少妥当性和权威。",
+      "target": "从主观方面独断地演绎出来的规范",
+      "claim_type": "对比性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "从主观方面独断地演绎出来的规范比从科学研究所得的规范更当少妥当性和权威。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c6",
+      "speaker": "范寿康",
+      "claim": "我们不应该和快乐主义的学问家一样去全忽视伦理的当为的先天形式和人类最可宝贵的义务意识。",
+      "target": "快乐主义的学问家",
+      "claim_type": "反驳性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "对于伦理的当为的先天形式，对于人类最可宝贵的义务意识，我们当然不应该和快乐主义的学问家一样去全忽视他",
+      "confidence": 1.0
+    },
+    {
+      "id": "c7",
+      "speaker": "范寿康",
+      "claim": "快乐主义的学问家将各种伦理的规范都看做经验的产物。",
+      "target": "快乐主义的学问家",
+      "claim_type": "描述性主张",
+      "claim_status": "间接转述",
+      "polarity": "neutral",
+      "evidence": "快乐主义的学问家将各种伦理的规范都看做经验的产物",
+      "confidence": 1.0
+    },
+    {
+      "id": "c8",
+      "speaker": "范寿康",
+      "claim": "在先天形式以外，我们不得不根据科学研究，树立几条更切实的内容的基本法则。",
+      "target": "内容的基本法则",
+      "claim_type": "规范性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "可是在这种先天形式以外，我们不得不根据科学研究，树立几条更切实的内容的基本法则。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c9",
+      "speaker": "范寿康",
+      "claim": "哲学家的伦理的立脚点虽是变化百出，可是他们对于道德目的的判断是比较少于变化。",
+      "target": "哲学家的伦理的立脚点",
+      "claim_type": "描述性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "哲学家的伦理的立脚点虽是变化百出，可是他们对于道德目的的判断是比较少于变化；倘使达于道德意识的某种发达的阶段的时候，这一种判断大概也会固定起来，和论理的关系一样。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c10",
+      "speaker": "范寿康",
+      "claim": "伦理规范——人生观——一部分是先天的，一部分是后天的。",
+      "target": "伦理规范",
+      "claim_type": "定义性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "我的私见以为伦理规范——人生观——一部分是先天的，一部分是后天的。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c11",
+      "speaker": "范寿康",
+      "claim": "先天的形式是由主观的直觉而得，决不是科学所能干涉。",
+      "target": "先天的形式",
+      "claim_type": "定义性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "先天的形式是由主观的直觉而得，决不是科学所能干涉。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c12",
+      "speaker": "范寿康",
+      "claim": "后天的内容应由科学的方法探讨而定，决不是主观所应妄定。",
+      "target": "后天的内容",
+      "claim_type": "规范性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "后天的内容应由科学的方法探讨而定，决不是主观所应妄定。",
+      "confidence": 1.0
+    }
+  ],
+  "relations": [
+    {
+      "id": "r1",
+      "head": "直觉主义",
+      "head_type": "主义/学说/理论",
+      "relation": "批评",
+      "relation_subtype": "逻辑反驳",
+      "tail": "从主观独断地演绎适用于实际生活的内容的伦理规范",
+      "tail_type": "观点",
+      "polarity": "negative",
+      "stance_score": -0.8,
+      "intensity": 0.7,
+      "evidence": "可是事实上他往往还想从主观独断地演绎适用于实际生活的内容的伦理规范（指2),这是直觉主义的根本错误。",
+      "confidence": 1.0
+    },
+    {
+      "id": "r2",
+      "head": "内容的伦理法则",
+      "head_type": "概念",
+      "relation": "区分",
+      "relation_subtype": "概念澄清",
+      "tail": "纯粹主观形式",
+      "tail_type": "概念",
+      "polarity": "neutral",
+      "stance_score": 0.0,
+      "intensity": 0.5,
+      "evidence": "内容的伦理法则决不是如纯粹主观形式一样，能够单从主观直观而得的，我们只能用科学的探讨方才能够获得这一种内容的伦理规范。",
+      "confidence": 1.0
+    },
+    {
+      "id": "r3",
+      "head": "内容的伦理规范",
+      "head_type": "概念",
+      "relation": "作为论据支持",
+      "relation_subtype": "不适用",
+      "tail": "只能用科学的探讨方才能够获得",
+      "tail_type": "观点",
+      "polarity": "positive",
+      "stance_score": 0.8,
+      "intensity": 0.6,
+      "evidence": "我们只能用科学的探讨方才能够获得这一种内容的伦理规范。",
+      "confidence": 1.0
+    },
+    {
+      "id": "r4",
+      "head": "从主观方面独断地演绎出来的规范",
+      "head_type": "概念",
+      "relation": "对比",
+      "relation_subtype": "不适用",
+      "tail": "从科学研究所得的规范",
+      "tail_type": "概念",
+      "polarity": "negative",
+      "stance_score": -0.6,
+      "intensity": 0.5,
+      "evidence": "从主观方面独断地演绎出来的规范比从科学研究所得的规范更当少妥当性和权威。",
+      "confidence": 1.0
+    },
+    {
+      "id": "r5",
+      "head": "范寿康",
+      "head_type": "人物",
+      "relation": "批评",
+      "relation_subtype": "一般批评",
+      "tail": "快乐主义的学问家",
+      "tail_type": "阵营/群体",
+      "polarity": "negative",
+      "stance_score": -0.7,
+      "intensity": 0.6,
+      "evidence": "对于伦理的当为的先天形式，对于人类最可宝贵的义务意识，我们当然不应该和快乐主义的学问家一样去全忽视他",
+      "confidence": 1.0
+    },
+    {
+      "id": "r6",
+      "head": "快乐主义的学问家",
+      "head_type": "阵营/群体",
+      "relation": "主张",
+      "relation_subtype": "不适用",
+      "tail": "各种伦理的规范都看做经验的产物",
+      "tail_type": "观点",
+      "polarity": "neutral",
+      "stance_score": 0.0,
+      "intensity": 0.3,
+      "evidence": "快乐主义的学问家将各种伦理的规范都看做经验的产物",
+      "confidence": 1.0
+    },
+    {
+      "id": "r7",
+      "head": "先天形式",
+      "head_type": "概念",
+      "relation": "区分",
+      "relation_subtype": "概念澄清",
+      "tail": "内容的基本法则",
+      "tail_type": "概念",
+      "polarity": "neutral",
+      "stance_score": 0.0,
+      "intensity": 0.4,
+      "evidence": "可是在这种先天形式以外，我们不得不根据科学研究，树立几条更切实的内容的基本法则。",
+      "confidence": 1.0
+    },
+    {
+      "id": "r8",
+      "head": "胡恩特（Wundt）",
+      "head_type": "人物",
+      "relation": "引用",
+      "relation_subtype": "援引权威支持",
+      "tail": "哲学家的伦理的立脚点虽是变化百出，可是他们对于道德目的的判断是比较少于变化",
+      "tail_type": "观点",
+      "polarity": "positive",
+      "stance_score": 0.9,
+      "intensity": 0.7,
+      "evidence": "胡恩特（Wundt）的这一句话的确含有至理。",
+      "confidence": 1.0
+    },
+    {
+      "id": "r9",
+      "head": "伦理规范",
+      "head_type": "概念",
+      "relation": "定义",
+      "relation_subtype": "概念澄清",
+      "tail": "一部分是先天的，一部分是后天的",
+      "tail_type": "观点",
+      "polarity": "positive",
+      "stance_score": 0.8,
+      "intensity": 0.6,
+      "evidence": "我的私见以为伦理规范——人生观——一部分是先天的，一部分是后天的。",
+      "confidence": 1.0
+    },
+    {
+      "id": "r10",
+      "head": "先天的形式",
+      "head_type": "概念",
+      "relation": "定义",
+      "relation_subtype": "概念澄清",
+      "tail": "由主观的直觉而得，决不是科学所能干涉",
+      "tail_type": "观点",
+      "polarity": "positive",
+      "stance_score": 0.8,
+      "intensity": 0.6,
+      "evidence": "先天的形式是由主观的直觉而得，决不是科学所能干涉。",
+      "confidence": 1.0
+    },
+    {
+      "id": "r11",
+      "head": "后天的内容",
+      "head_type": "概念",
+      "relation": "定义",
+      "relation_subtype": "概念澄清",
+      "tail": "应由科学的方法探讨而定，决不是主观所应妄定",
+      "tail_type": "观点",
+      "polarity": "positive",
+      "stance_score": 0.8,
+      "intensity": 0.6,
+      "evidence": "后天的内容应由科学的方法探讨而定，决不是主观所应妄定。",
+      "confidence": 1.0
+    }
+  ],
+  "definitions": [
+    {
+      "id": "def1",
+      "term": "伦理规范",
+      "definition": "伦理规范（人生观）一部分是先天的，一部分是后天的。先天的形式由主观直觉而得，后天的内容由科学方法探讨而定。",
+      "evidence": "我的私见以为伦理规范——人生观——一部分是先天的，一部分是后天的。先天的形式是由主观的直觉而得，决不是科学所能干涉。后天的内容应由科学的方法探讨而定，决不是主观所应妄定。",
+      "confidence": 1.0
+    },
+    {
+      "id": "def2",
+      "term": "先天的形式",
+      "definition": "由主观的直觉而得，科学不能干涉。",
+      "evidence": "先天的形式是由主观的直觉而得，决不是科学所能干涉。",
+      "confidence": 1.0
+    },
+    {
+      "id": "def3",
+      "term": "后天的内容",
+      "definition": "应由科学的方法探讨而定，主观不应妄定。",
+      "evidence": "后天的内容应由科学的方法探讨而定，决不是主观所应妄定。",
+      "confidence": 1.0
+    }
+  ],
+  "citations": [
+    {
+      "id": "cit1",
+      "citer": "范寿康",
+      "quoted_author": "胡恩特（Wundt）",
+      "quoted_work": "",
+      "quoted_claim": "哲学家的伦理的立脚点虽是变化百出，可是他们对于道德目的的判断是比较少于变化；倘使达于道德意识的某种发达的阶段的时候，这一种判断大概也会固定起来，和论理的关系一样。",
+      "function": "援引权威支持",
+      "evidence": "胡恩特（Wundt）的这一句话的确含有至理。",
+      "confidence": 1.0
+    }
+  ],
+  "rhetorical_devices": [
+    {
+      "id": "rh1",
+      "expression": "含有至理",
+      "device_type": "不明",
+      "literal_target": "胡恩特（Wundt）的话",
+      "function": "表达对引用观点的肯定和推崇",
+      "evidence": "胡恩特（Wundt）的这一句话的确含有至理。",
+      "confidence": 0.8
+    }
+  ],
+  "uncertainties": [
+    {
+      "item": "文本中“指2”的含义不明确，可能指代前文某处标注，但当前片段未提供。",
+      "reason": "evidence中出现了“（指2）”，但当前文本未解释其含义。"
+    }
+  ]
+}

@@ -1,0 +1,407 @@
+{
+  "metadata": {
+    "schema_version": "lite_v3.0",
+    "article_id": "陈独秀_001_d263aca8",
+    "article_title": "答适之",
+    "source_author": "陈独秀",
+    "section_title": "方今国中竟言新文化，而文化转移之枢纽，不外乎人生观。吾有吾之文化，西洋有西洋之文化。西洋之有益者如何采之，有害者如何革除之；凡此取舍之间，皆决之于观点。观点定，而后精神上之思潮、物质上之制度，乃可按",
+    "section_author": "方今国中竟言新文化，而文化转移之枢纽，不外乎人生观。吾有吾之文化，西洋有西洋之文化。西洋之有益者如何采之，有害者如何革除之；凡此取舍之间，皆决之于观点。观点定，而后精神上之思潮、物质上之制度，乃可",
+    "segment_id": "陈独秀_001_d263aca8_s0005",
+    "segment_index": 5,
+    "source_file": "E:\\1研究生\\岭南大学\\论文毕业\\capstone\\资料\\新的内容开始了\\local_upload\\input_陈独秀\\陈独秀.txt"
+  },
+  "entities": [
+    {
+      "id": "e1",
+      "name": "唯物史观论者",
+      "canonical_name": "唯物史观论者",
+      "type": "阵营/群体",
+      "evidence": "在社会的物质条件可能范围内，唯物史观论者本不否认人的努力及天才之活动。",
+      "confidence": Locked
+    },
+    {
+      "id": "e2",
+      "name": "人的努力及天才之活动",
+      "canonical_name": "人的努力及天才之活动",
+      "type": "概念",
+      "evidence": "在社会的物质条件可能范围内，唯物史观论者本不否认人的努力及天才之活动。",
+      "confidence": Locked
+    },
+    {
+      "id": "e3",
+      "name": "社会的物质条件",
+      "canonical_name": "社会的物质条件",
+      "type": "概念",
+      "evidence": "然其效力只在社会的物质条件可能以内。",
+      "confidence": Locked
+    },
+    {
+      "id": "e4",
+      "name": "思想知识言论教育",
+      "canonical_name": "思想知识言论教育",
+      "type": "概念",
+      "evidence": "思想知识言论教育，自然都是社会进步的重要工具，然不能说他们可以变动社会解释历史支配人生观，和经济立在同等地位。",
+      "confidence": Locked
+    },
+    {
+      "id": "e5",
+      "name": "经济",
+      "canonical_name": "经济",
+      "type": "概念",
+      "evidence": "我们只把他当做经济的儿子，不像适之把他当做经济的弟兄。",
+      "confidence": Locked
+    },
+    {
+      "id": "e6",
+      "name": "心的现象",
+      "canonical_name": "心的现象",
+      "type": "概念",
+      "evidence": "我们并不否认心的现象，但我们只承认他是物之一种表现，不承认这表现复与物有同样的作用。",
+      "confidence": Locked
+    },
+    {
+      "id": "e7",
+      "name": "物",
+      "canonical_name": "物",
+      "type": "概念",
+      "evidence": "我们只承认他是物之一种表现，不承认这表现复与物有同样的作用。",
+      "confidence": Locked
+    },
+    {
+      "id": "e8",
+      "name": "秃头的历史观",
+      "canonical_name": "秃头的历史观",
+      "type": "概念",
+      "evidence": "适之赞成所谓秃头的历史观，除经济组织外，“似乎应该包括一切‘心的’原因，——即是知识、思想、言论、教育等事。”",
+      "confidence": Locked
+    },
+    {
+      "id": "e9",
+      "name": "心的原因",
+      "canonical_name": "心的原因",
+      "type": "概念",
+      "evidence": "“心的”原因，这句话如何在适之口中说出来！",
+      "confidence": Locked
+    },
+    {
+      "id": "e10",
+      "name": "物质一元论",
+      "canonical_name": "物质一元论",
+      "type": "主义/学说/理论",
+      "evidence": "离开了物质一元论，科学便濒于破产，适之颇尊崇科学，如何对心与物平等看待!!",
+      "confidence": Locked
+    },
+    {
+      "id": "e11",
+      "name": "科学",
+      "canonical_name": "科学",
+      "type": "概念",
+      "evidence": "离开了物质一元论，科学便濒于破产，适之颇尊崇科学，如何对心与物平等看待!!",
+      "confidence": Locked
+    },
+    {
+      "id": "e12",
+      "name": "心物二元论",
+      "canonical_name": "心物二元论",
+      "type": "主义/学说/理论",
+      "evidence": "像这样明白主张心物二元论，张君劢必然大摇大摆的来向适之拱手道谢!!!",
+      "confidence": Locked
+    },
+    {
+      "id": "e13",
+      "name": "适之",
+      "canonical_name": "适之",
+      "type": "人物",
+      "evidence": "不像适之把他当做经济的弟兄。",
+      "confidence": Locked
+    },
+    {
+      "id": "e14",
+      "name": "张君劢",
+      "canonical_name": "张君劢",
+      "type": "人物",
+      "evidence": "张君劢必然大摇大摆的来向适之拱手道谢!!!",
+      "confidence": Locked
+    },
+    {
+      "id": "e15",
+      "name": "人生观",
+      "canonical_name": "人生观",
+      "type": "概念",
+      "evidence": "然不能说他们可以变动社会解释历史支配人生观，和经济立在同等地位。",
+      "confidence": Locked
+    }
+  ],
+  "claims": [
+    {
+      "id": "c1",
+      "speaker": "陈独秀",
+      "claim": "在社会的物质条件可能范围内，唯物史观论者本不否认人的努力及天才之活动。",
+      "target": "唯物史观论者",
+      "claim_type": "描述性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "在社会的物质条件可能范围内，唯物史观论者本不否认人的努力及天才之活动。",
+      "confidence": Locked
+    },
+    {
+      "id": "c2",
+      "speaker": "陈独秀",
+      "claim": "人的努力及天才之活动，本为社会进步所必需，然其效力只在社会的物质条件可能以内。",
+      "target": "人的努力及天才之活动",
+      "claim_type": "因果主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "人的努力及天才之活动，本为社会进步所必需，然其效力只在社会的物质条件可能以内。",
+      "confidence": Locked
+    },
+    {
+      "id": "c3",
+      "speaker": "陈独秀",
+      "claim": "思想知识言论教育，自然都是社会进步的重要工具，然不能说他们可以变动社会解释历史支配人生观，和经济立在同等地位。",
+      "target": "思想知识言论教育",
+      "claim_type": "评价性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "mixed",
+      "evidence": "思想知识言论教育，自然都是社会进步的重要工具，然不能说他们可以变动社会解释历史支配人生观，和经济立在同等地位。",
+      "confidence": Locked
+    },
+    {
+      "id": "c4",
+      "speaker": "陈独秀",
+      "claim": "我们只把他当做经济的儿子，不像适之把他当做经济的弟兄。",
+      "target": "思想知识言论教育",
+      "claim_type": "对比性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "我们只把他当做经济的儿子，不像适之把他当做经济的弟兄。",
+      "confidence": Locked
+    },
+    {
+      "id": "c5",
+      "speaker": "陈独秀",
+      "claim": "我们并不否认心的现象，但我们只承认他是物之一种表现，不承认这表现复与物有同样的作用。",
+      "target": "心的现象",
+      "claim_type": "定义性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "我们并不否认心的现象，但我们只承认他是物之一种表现，不承认这表现复与物有同样的作用。",
+      "confidence": Locked
+    },
+    {
+      "id": "c6",
+      "speaker": "陈独秀",
+      "claim": "离开了物质一元论，科学便濒于破产，适之颇尊崇科学，如何对心与物平等看待!!",
+      "target": "物质一元论",
+      "claim_type": "因果主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "离开了物质一元论，科学便濒于破产，适之颇尊崇科学，如何对心与物平等看待!!",
+      "confidence": Locked
+    },
+    {
+      "id": "c7",
+      "speaker": "陈独秀",
+      "claim": "适之果坚持物的原因外，尚有心的原因，——即知识、思想、言论、教育，也可以变动社会，也可以解释历史，也可以支配人生观，——像这样明白主张心物二元论，张君劢必然大摇大摆的来向适之拱手道谢!!!",
+      "target": "适之",
+      "claim_type": "反驳性主张",
+      "claim_status": "作者推论",
+      "polarity": "negative",
+      "evidence": "适之果坚持物的原因外，尚有心的原因，——即知识、思想、言论、教育，也可以变动社会，也可以解释历史，也可以支配人生观，——像这样明白主张心物二元论，张君劢必然大摇大摆的来向适之拱手道谢!!!",
+      "confidence": Locked
+    },
+    {
+      "id": "c8",
+      "speaker": "适之",
+      "claim": "除经济组织外，“似乎应该包括一切‘心的’原因，——即是知识、思想、言论、教育等事。”",
+      "target": "秃头的历史观",
+      "claim_type": "定义性主张",
+      "claim_status": "间接转述",
+      "polarity": "neutral",
+      "evidence": "适之赞成所谓秃头的历史观，除经济组织外，“似乎应该包括一切‘心的’原因，——即是知识、思想、言论、教育等事。”",
+      "confidence": Locked
+    }
+  ],
+  "relations": [
+    {
+      "id": "r1",
+      "head": "唯物史观论者",
+      "head_type": "阵营/群体",
+      "relation": "主张",
+      "relation_subtype": "不适用",
+      "tail": "在社会的物质条件可能范围内，唯物史观论者本不否认人的努力及天才之活动。",
+      "tail_type": "观点",
+      "polarity": "positive",
+      "stance_score": 1.0,
+      "intensity": 0.5,
+      "evidence": "在社会的物质条件可能范围内，唯物史观论者本不否认人的努力及天才之活动。",
+      "confidence": Locked
+    },
+    {
+      "id": "r2",
+      "head": "人的努力及天才之活动",
+      "head_type": "概念",
+      "relation": "归因于",
+      "relation_subtype": "不适用",
+      "tail": "社会的物质条件",
+      "tail_type": "概念",
+      "polarity": "positive",
+      "stance_score": 0.5,
+      "intensity": 0.5,
+      "evidence": "人的努力及天才之活动，本为社会进步所必需，然其效力只在社会的物质条件可能以内。",
+      "confidence": Locked
+    },
+    {
+      "id": "r3",
+      "head": "思想知识言论教育",
+      "head_type": "概念",
+      "relation": "评价",
+      "relation_subtype": "部分肯定",
+      "tail": "社会进步的重要工具",
+      "tail_type": "概念",
+      "polarity": "mixed",
+      "stance_score": 0.5,
+      "intensity": 0.5,
+      "evidence": "思想知识言论教育，自然都是社会进步的重要工具，然不能说他们可以变动社会解释历史支配人生观，和经济立在同等地位。",
+      "confidence": Locked
+    },
+    {
+      "id": "r4",
+      "head": "陈独秀",
+      "head_type": "人物",
+      "relation": "区分",
+      "relation_subtype": "概念澄清",
+      "tail": "适之",
+      "tail_type": "人物",
+      "polarity": "negative",
+      "stance_score": -0.5,
+      "intensity": 0.5,
+      "evidence": "我们只把他当做经济的儿子，不像适之把他当做经济的弟兄。",
+      "confidence": Locked
+    },
+    {
+      "id": "r5",
+      "head": "心的现象",
+      "head_type": "概念",
+      "relation": "属于",
+      "relation_subtype": "不适用",
+      "tail": "物",
+      "tail_type": "概念",
+      "polarity": "positive",
+      "stance_score":  perm_0,
+      "intensity": 0.5,
+      "evidence": "我们只承认他是物之一种表现，不承认这表现复与物有同样的作用。",
+      "confidence": Locked
+    },
+    {
+      "id": "r6",
+      "head": "物质一元论",
+      "head_type": "主义/学说/理论",
+      "relation": "导致",
+      "relation_subtype": "不适用",
+      "tail": "科学便濒于破产",
+      "tail_type": "观点",
+      "polarity": "negative",
+      "stance_score": -1.0,
+      "intensity": 1.0,
+      "evidence": "离开了物质一元论，科学便濒于破产，适之颇尊崇科学，如何对心与物平等看待!!",
+      "confidence": Locked
+    },
+    {
+      "id": "r7",
+      "head": "适之",
+      "head_type": "人物",
+      "relation": "主张",
+      "relation_subtype": "不适用",
+      "tail": "秃头的历史观",
+      "tail_type": "概念",
+      "polarity": "neutral",
+      "stance_score": 0.0,
+      "intensity": 0.0,
+      "evidence": "适之赞成所谓秃头的历史观，除经济组织外，“似乎应该包括一切‘心的’原因，——即是知识、思想、言论、教育等事。”",
+      "confidence": Locked
+    },
+    {
+      "id": "r8",
+      "head": "陈独秀",
+      "head_type": "人物",
+      "relation": "批评",
+      "relation_subtype": "概念混淆批评",
+      "tail": "适之",
+      "tail_type": "人物",
+      "polarity": "negative",
+      "stance_score": -1.0,
+      "intensity": 1.0,
+      "evidence": "“心的”原因，这句话如何在适之口中说出来！",
+      "confidence": Locked
+    },
+    {
+      "id": "r9",
+      "head": "陈独秀",
+      "head_type": "人物",
+      "relation": "归谬",
+      "relation_subtype": "归谬",
+      "tail": "适之",
+      "tail_type": "人物",
+      "polarity": "negative",
+      "stance_score": -1.0,
+      "intensity": 1.0,
+      "evidence": "适之果坚持物的原因外，尚有心的原因，——即知识、思想、言论、教育，也可以变动社会，也可以解释历史，也可以支配人生观，——像这样明白主张心物二元论，张君劢必然大摇大摆的来向适之拱手道谢!!!",
+      "confidence": Locked
+    }
+  ],
+  "definitions": [
+    {
+      "id": "def1",
+      "term": "心的现象",
+      "definition": "物之一种表现，且不与物有同样的作用。",
+      "evidence": "我们只承认他是物之一种表现，不承认这表现复与物有同样的作用。",
+      "confidence": Locked
+    },
+    {
+      "id": "def2",
+      "term": "秃头的历史观",
+      "definition": "除经济组织外，似乎应该包括一切‘心的’原因，即是知识、思想、言论、教育等事。",
+      "evidence": "适之赞成所谓秃头的历史观，除经济组织外，“似乎应该包括一切‘心的’原因，——即是知识、思想、言论、教育等事。”",
+      "confidence": Locked
+    }
+  ],
+  "citations": [
+    {
+      "id": "cit1",
+      "citer": "陈独秀",
+      "quoted_author": "适之",
+      "quoted_work": "",
+      "quoted_claim": "除经济组织外，“似乎应该包括一切‘心的’原因，——即是知识、思想、言论、教育等事。”",
+      "function": "作为批评对象",
+      "evidence": "适之赞成所谓秃头的历史观，除经济组织外，“似乎应该包括一切‘心的’原因，——即是知识、思想、言论、教育等事。”",
+      "confidence": Locked
+    }
+  ],
+  "rhetorical_devices": [
+    {
+      "id": "rh1",
+      "expression": "我们只把他当做经济的儿子，不像适之把他当做经济的弟兄。",
+      "device_type": "比喻",
+      "literal_target": "思想知识言论教育与经济的关系",
+      "function": "通过家庭关系比喻，强调思想知识言论教育从属于经济，而非平等关系。",
+      "evidence": "我们只把他当做经济的儿子，不像适之把他当做经济的弟兄。",
+      "confidence": Locked
+    },
+    {
+      "id": "rh2",
+      "expression": "张君劢必然大摇大摆的来向适之拱手道谢!!!",
+      "device_type": "讽刺",
+      "literal_target": "适之主张心物二元论",
+      "function": "讽刺适之如果坚持心物二元论，会得到张君劢的赞同，暗示其立场与论敌一致。",
+      "evidence": "张君劢必然大摇大摆的来向适之拱手道谢!!!",
+      "confidence": Locked
+    }
+  ],
+  "uncertainties": [
+    {
+      "item": "适之是否明确主张心物二元论",
+      "reason": "文本中陈独秀以假设语气（'适之果坚持'）进行推论，并非直接陈述适之的实际主张。"
+    }
+  ]
+}

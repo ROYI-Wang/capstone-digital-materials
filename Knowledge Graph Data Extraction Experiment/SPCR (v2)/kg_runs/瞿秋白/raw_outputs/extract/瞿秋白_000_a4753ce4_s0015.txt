@@ -1,0 +1,730 @@
+{
+  "metadata": {
+    "schema_version": "lite_v3.0",
+    "article_id": "瞿秋白_000_a4753ce4",
+    "article_title": "《自由世界与必然世界》",
+    "source_author": "瞿秋白",
+    "section_title": "资本主义时代的强有力的生产工具若能变成公共的财产，生产制度若得按",
+    "section_author": "资本主义时代的强有力的生产工具若能变成公共的财产，生产制度若得按",
+    "segment_id": "瞿秋白_000_a4753ce4_s0015",
+    "segment_index": 15,
+    "source_file": "E:\\1研究生\\岭南大学\\论文毕业\\capstone\\资料\\新的内容开始了\\local_upload\\input_瞿秋白\\瞿秋白.txt"
+  },
+  "entities": [
+    {
+      "id": "e1",
+      "name": "自然进攻",
+      "canonical_name": "自然进攻",
+      "type": "概念",
+      "evidence": "自然进攻",
+      "confidence": 0.9
+    },
+    {
+      "id": "e2",
+      "name": "自然现象的公律",
+      "canonical_name": "自然现象的公律",
+      "type": "概念",
+      "evidence": "自然现象的公律",
+      "confidence": 0.9
+    },
+    {
+      "id": "e3",
+      "name": "共产部落",
+      "canonical_name": "共产部落",
+      "type": "阵营/群体",
+      "evidence": "共产部落",
+      "confidence": 0.9
+    },
+    {
+      "id": "e4",
+      "name": "利他",
+      "canonical_name": "利他",
+      "type": "概念",
+      "evidence": "利他",
+      "confidence": 0.9
+    },
+    {
+      "id": "e5",
+      "name": "无产阶级",
+      "canonical_name": "无产阶级",
+      "type": "阵营/群体",
+      "evidence": "无产阶级",
+      "confidence": 0.9
+    },
+    {
+      "id": "e6",
+      "name": "阶级个性",
+      "canonical_name": "阶级个性",
+      "type": "概念",
+      "evidence": "阶级个性",
+      "confidence": 0.9
+    },
+    {
+      "id": "e7",
+      "name": "利己主义",
+      "canonical_name": "利己主义",
+      "type": "主义/学说/理论",
+      "evidence": "利己主义",
+      "confidence": 0.9
+    },
+    {
+      "id": "e8",
+      "name": "现存制度",
+      "canonical_name": "现存制度",
+      "type": "概念",
+      "evidence": "现存制度",
+      "confidence": 0.9
+    },
+    {
+      "id": "e9",
+      "name": "阶级斗争",
+      "canonical_name": "阶级斗争",
+      "type": "概念",
+      "evidence": "阶级斗争",
+      "confidence": 0.9
+    },
+    {
+      "id": "e10",
+      "name": "社会现象的公律",
+      "canonical_name": "社会现象的公律",
+      "type": "概念",
+      "evidence": "社会现象的公律",
+      "confidence": 0.9
+    },
+    {
+      "id": "e11",
+      "name": "社会主义",
+      "canonical_name": "社会主义",
+      "type": "主义/学说/理论",
+      "evidence": "社会主义",
+      "confidence": 0.9
+    },
+    {
+      "id": "e12",
+      "name": "个性",
+      "canonical_name": "个性",
+      "type": "概念",
+      "evidence": "个性",
+      "confidence": 0.9
+    },
+    {
+      "id": "e13",
+      "name": "阶级",
+      "canonical_name": "阶级",
+      "type": "概念",
+      "evidence": "阶级",
+      "confidence": 0.9
+    },
+    {
+      "id": "e14",
+      "name": "人类",
+      "canonical_name": "人类",
+      "type": "阵营/群体",
+      "evidence": "人类",
+      "confidence": 0.9
+    },
+    {
+      "id": "e15",
+      "name": "科学的因果律",
+      "canonical_name": "科学的因果律",
+      "type": "概念",
+      "evidence": "科学的因果律",
+      "confidence": 0.9
+    },
+    {
+      "id": "e16",
+      "name": "人生观",
+      "canonical_name": "人生观",
+      "type": "概念",
+      "evidence": "人生观",
+      "confidence": 0.9
+    },
+    {
+      "id": "e17",
+      "name": "时代的人生观",
+      "canonical_name": "时代的人生观",
+      "type": "概念",
+      "evidence": "时代的人生观",
+      "confidence": 0.9
+    },
+    {
+      "id": "e18",
+      "name": "科学智识",
+      "canonical_name": "科学智识",
+      "type": "概念",
+      "evidence": "科学智识",
+      "confidence": 0.9
+    },
+    {
+      "id": "e19",
+      "name": "个性的人生观",
+      "canonical_name": "个性的人生观",
+      "type": "概念",
+      "evidence": "个性的人生观",
+      "confidence": 0.9
+    },
+    {
+      "id": "e20",
+      "name": "经济基础",
+      "canonical_name": "经济基础",
+      "type": "概念",
+      "evidence": "经济基础",
+      "confidence": 0.9
+    },
+    {
+      "id": "e21",
+      "name": "技术进步",
+      "canonical_name": "技术进步",
+      "type": "概念",
+      "evidence": "技术进步",
+      "confidence": 0.9
+    },
+    {
+      "id": "e22",
+      "name": "社会经验",
+      "canonical_name": "社会经验",
+      "type": "概念",
+      "evidence": "社会经验",
+      "confidence": 0.9
+    },
+    {
+      "id": "e23",
+      "name": "先觉",
+      "canonical_name": "先觉",
+      "type": "概念",
+      "evidence": "先觉",
+      "confidence": 0.9
+    },
+    {
+      "id": "e24",
+      "name": "历史工具",
+      "canonical_name": "历史工具",
+      "type": "概念",
+      "evidence": "历史工具",
+      "confidence": 0.9
+    },
+    {
+      "id": "e25",
+      "name": "马克思",
+      "canonical_name": "马克思",
+      "type": "人物",
+      "evidence": "马克思",
+      "confidence": 0.9
+    },
+    {
+      "id": "e26",
+      "name": "列宁",
+      "canonical_name": "列宁",
+      "type": "人物",
+      "evidence": "列宁",
+      "confidence": 0.9
+    },
+    {
+      "id": "e27",
+      "name": "历史发展",
+      "canonical_name": "历史发展",
+      "type": "概念",
+      "evidence": "历史发展",
+      "confidence": 0.9
+    },
+    {
+      "id": "e28",
+      "name": "历史的进化",
+      "canonical_name": "历史的进化",
+      "type": "概念",
+      "evidence": "历史的进化",
+      "confidence": 0.9
+    },
+    {
+      "id": "e29",
+      "name": "必然因果",
+      "canonical_name": "必然因果",
+      "type": "概念",
+      "evidence": "必然因果",
+      "confidence": 0.9
+    },
+    {
+      "id": "e30",
+      "name": "自然律",
+      "canonical_name": "自然律",
+      "type": "概念",
+      "evidence": "自然律",
+      "confidence": 0.9
+    },
+    {
+      "id": "e31",
+      "name": "社会律",
+      "canonical_name": "社会律",
+      "type": "概念",
+      "evidence": "社会律",
+      "confidence": 0.9
+    },
+    {
+      "id": "e32",
+      "name": "自由之域",
+      "canonical_name": "自由之域",
+      "type": "概念",
+      "evidence": "自由之域",
+      "confidence": 0.9
+    },
+    {
+      "id": "e33",
+      "name": "电气的公律",
+      "canonical_name": "电气的公律",
+      "type": "概念",
+      "evidence": "电气的公律",
+      "confidence": 0.9
+    },
+    {
+      "id": "e34",
+      "name": "电神",
+      "canonical_name": "电神",
+      "type": "概念",
+      "evidence": "电神",
+      "confidence": 0.9
+    },
+    {
+      "id": "e35",
+      "name": "电气",
+      "canonical_name": "电气",
+      "type": "概念",
+      "evidence": "电气",
+      "confidence": 0.9
+    },
+    {
+      "id": "e36",
+      "name": "资本集中律",
+      "canonical_name": "资本集中律",
+      "type": "概念",
+      "evidence": "资本集中律",
+      "confidence": 0.9
+    },
+    {
+      "id": "e37",
+      "name": "无阶级无政府之共产社会",
+      "canonical_name": "无阶级无政府之共产社会",
+      "type": "概念",
+      "evidence": "无阶级无政府之共产社会",
+      "confidence": 0.9
+    },
+    {
+      "id": "e38",
+      "name": "社会现象的规律性",
+      "canonical_name": "社会现象的规律性",
+      "type": "概念",
+      "evidence": "社会现象的规律性",
+      "confidence": 0.9
+    },
+    {
+      "id": "e39",
+      "name": "社会的最后原因",
+      "canonical_name": "社会的最后原因",
+      "type": "概念",
+      "evidence": "社会的最后原因",
+      "confidence": 0.9
+    },
+    {
+      "id": "e40",
+      "name": "个人动机",
+      "canonical_name": "个人动机",
+      "type": "概念",
+      "evidence": "个人动机",
+      "confidence": 0.9
+    },
+    {
+      "id": "e41",
+      "name": "群众动机",
+      "canonical_name": "群众动机",
+      "type": "概念",
+      "evidence": "群众动机",
+      "confidence": 0.9
+    },
+    {
+      "id": "e42",
+      "name": "因素之因素",
+      "canonical_name": "因素之因素",
+      "type": "概念",
+      "evidence": "因素之因素",
+      "confidence": 0.9
+    },
+    {
+      "id": "e43",
+      "name": "因果律",
+      "canonical_name": "因果律",
+      "type": "概念",
+      "evidence": "因果律",
+      "confidence": 0.9
+    }
+  ],
+  "claims": [
+    {
+      "id": "c1",
+      "speaker": "瞿秋白",
+      "claim": "无产阶级的“阶级个性”依利己主义而向现存制度进攻；阶级斗争的过程里发见社会现象的公律，能使无产阶级觉悟：“非解放人类直达社会主义不能解放自己”，——实在亦是利他。",
+      "target": "无产阶级",
+      "claim_type": "描述性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "无产阶级的“阶级个性”依利己主义而向现存制度进攻；阶级斗争的过程里发见社会现象的公律，能使无产阶级觉悟：“非解放人类直达社会主义不能解放自己”，——实在亦是利他。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c2",
+      "speaker": "瞿秋白",
+      "claim": "科学的因果律不但足以解释人生观，而且足以变更人生观。",
+      "target": "科学的因果律",
+      "claim_type": "描述性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "科学的因果律不但足以解释人生观，而且足以变更人生观。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c3",
+      "speaker": "瞿秋白",
+      "claim": "每一“时代的人生观”为当代的科学智识所组成；新时代人生观之创始者便得凭借新科学智识，推广其“个性的人生观”使成时代的人生观。",
+      "target": "时代的人生观",
+      "claim_type": "描述性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "每一“时代的人生观”为当代的科学智识所组成；新时代人生观之创始者便得凭借新科学智识，推广其“个性的人生观”使成时代的人生观。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c4",
+      "speaker": "瞿秋白",
+      "claim": "新科学智识得之于经济基础里的技术进步及阶级斗争里的社会经验。",
+      "target": "新科学智识",
+      "claim_type": "因果主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "新科学智识得之于经济基础里的技术进步及阶级斗争里的社会经验。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c5",
+      "speaker": "瞿秋白",
+      "claim": "个性的先觉仅仅应此斗争的需要而生，是社会的或阶级的历史工具而已（如马克思、列宁）。",
+      "target": "个性的先觉",
+      "claim_type": "描述性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "个性的先觉仅仅应此斗争的需要而生，是社会的或阶级的历史工具而已（如马克思、列宁）。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c6",
+      "speaker": "瞿秋白",
+      "claim": "他是历史发展的一因素，他亦是历史发展的一结果。",
+      "target": "个性的先觉",
+      "claim_type": "描述性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "他是历史发展的一因素，他亦是历史发展的一结果。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c7",
+      "speaker": "瞿秋白",
+      "claim": "各个性的努力足以促进历史的进化，正因为他们在斗争过程里不断发见历史的“必然因果”，所以能使人类运用“自然律”及“社会律”同登“自由之域”。",
+      "target": "各个性的努力",
+      "claim_type": "因果主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "各个性的努力足以促进历史的进化，正因为他们在斗争过程里不断发见历史的“必然因果”，所以能使人类运用“自然律”及“社会律”同登“自由之域”。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c8",
+      "speaker": "瞿秋白",
+      "claim": "社会现象的规律性应当先求之于社会的最后原因；不能以个人动机或群众动机作为社会现象的唯一因素，当再求此因素之因素。",
+      "target": "社会现象的规律性",
+      "claim_type": "规范性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "社会现象的规律性应当先求之于社会的最后原因；不能以个人动机或群众动机作为社会现象的唯一因素，当再求此因素之因素。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c9",
+      "speaker": "瞿秋白",
+      "claim": "社会现象确有因果律可寻",
+      "target": "社会现象",
+      "claim_type": "描述性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "社会现象确有因果律可寻",
+      "confidence": 0.9
+    }
+  ],
+  "relations": [
+    {
+      "id": "r1",
+      "head": "无产阶级的“阶级个性”依利己主义而向现存制度进攻",
+      "head_type": "观点",
+      "relation": "导致",
+      "relation_subtype": "不适用",
+      "tail": "无产阶级觉悟：“非解放人类直达社会主义不能解放自己”",
+      "tail_type": "观点",
+      "polarity": "positive",
+      "stance_score": 1.0,
+      "intensity": 0.8,
+      "evidence": "无产阶级的“阶级个性”依利己主义而向现存制度进攻；阶级斗争的过程里发见社会现象的公律，能使无产阶级觉悟：“非解放人类直达社会主义不能解放自己”",
+      "confidence": 0.9
+    },
+    {
+      "id": "r2",
+      "head": "科学的因果律",
+      "head_type": "概念",
+      "relation": "解释",
+      "relation_subtype": "不适用",
+      "tail": "人生观",
+      "tail_type": "概念",
+      "polarity": "positive",
+      "stance_score": 1.0,
+      "intensity": 0.7,
+      "evidence": "科学的因果律不但足以解释人生观，而且足以变更人生观。",
+      "confidence": 0.9
+    },
+    {
+      "id": "r3",
+      "head": "科学的因果律",
+      "head_type": "概念",
+      "relation": "导致",
+      "relation_subtype": "不适用",
+      "tail": "变更人生观",
+      "tail_type": "观点",
+      "polarity": "positive",
+      "stance_score": 1.0,
+      "intensity": 0.7,
+      "evidence": "科学的因果律不但足以解释人生观，而且足以变更人生观。",
+      "confidence": 0.9
+    },
+    {
+      "id": "r4",
+      "head": "时代的人生观",
+      "head_type": "概念",
+      "relation": "属于",
+      "relation_subtype": "不适用",
+      "tail": "当代的科学智识",
+      "tail_type": "概念",
+      "polarity": "positive",
+      "stance_score": 1.0,
+      "intensity": 0.6,
+      "evidence": "每一“时代的人生观”为当代的科学智识所组成",
+      "confidence": 0.9
+    },
+    {
+      "id": "r5",
+      "head": "新科学智识",
+      "head_type": "概念",
+      "relation": "归因于",
+      "relation_subtype": "不适用",
+      "tail": "经济基础里的技术进步及阶级斗争里的社会经验",
+      "tail_type": "概念",
+      "polarity": "positive",
+      "stance_score": 1.0,
+      "intensity": 0.6,
+      "evidence": "新科学智识得之于经济基础里的技术进步及阶级斗争里的社会经验。",
+      "confidence": 0.9
+    },
+    {
+      "id": "r6",
+      "head": "个性的先觉",
+      "head_type": "概念",
+      "relation": "归因于",
+      "relation_subtype": "不适用",
+      "tail": "斗争的需要",
+      "tail_type": "概念",
+      "polarity": "positive",
+      "stance_score": 1.0,
+      "intensity": 0.6,
+      "evidence": "个性的先觉仅仅应此斗争的需要而生",
+      "confidence": 0.9
+    },
+    {
+      "id": "r7",
+      "head": "个性的先觉",
+      "head_type": "概念",
+      "relation": "属于",
+      "relation_subtype": "不适用",
+      "tail": "历史工具",
+      "tail_type": "概念",
+      "polarity": "positive",
+      "stance_score": 1.0,
+      "intensity": 0.6,
+      "evidence": "是社会的或阶级的历史工具而已（如马克思、列宁）。",
+      "confidence": 0.9
+    },
+    {
+      "id": "r8",
+      "head": "个性的先觉",
+      "head_type": "概念",
+      "relation": "属于",
+      "relation_subtype": "不适用",
+      "tail": "历史发展的一因素",
+      "tail_type": "概念",
+      "polarity": "positive",
+      "stance_score": 1.0,
+      "intensity": 0.6,
+      "evidence": "他是历史发展的一因素",
+      "confidence": 0.9
+    },
+    {
+      "id": "r9",
+      "head": "个性的先觉",
+      "head_type": "概念",
+      "relation": "属于",
+      "relation_subtype": "不适用",
+      "tail": "历史发展的一结果",
+      "tail_type": "概念",
+      "polarity": "positive",
+      "stance_score": 1.0,
+      "intensity": 0.6,
+      "evidence": "他亦是历史发展的一结果。",
+      "confidence": 0.9
+    },
+    {
+      "id": "r10",
+      "head": "各个性的努力",
+      "head_type": "概念",
+      "relation": "导致",
+      "relation_subtype": "不适用",
+      "tail": "历史的进化",
+      "tail_type": "概念",
+      "polarity": "positive",
+      "stance_score": 1.0,
+      "intensity": 0.7,
+      "evidence": "各个性的努力足以促进历史的进化",
+      "confidence": 0.9
+    },
+    {
+      "id": "r11",
+      "head": "各个性的努力",
+      "head_type": "概念",
+      "relation": "导致",
+      "relation_subtype": "不适用",
+      "tail": "人类运用“自然律”及“社会律”同登“自由之域”",
+      "tail_type": "观点",
+      "polarity": "positive",
+      "stance_score": 1.0,
+      "intensity": 0.7,
+      "evidence": "各个性的努力足以促进历史的进化，正因为他们在斗争过程里不断发见历史的“必然因果”，所以能使人类运用“自然律”及“社会律”同登“自由之域”。",
+      "confidence": 0.9
+    },
+    {
+      "id": "r12",
+      "head": "社会现象的规律性",
+      "head_type": "概念",
+      "relation": "归因于",
+      "relation_subtype": "不适用",
+      "tail": "社会的最后原因",
+      "tail_type": "概念",
+      "polarity": "positive",
+      "stance_score": 1.0,
+      "intensity": 0.7,
+      "evidence": "社会现象的规律性应当先求之于社会的最后原因",
+      "confidence": 0.9
+    },
+    {
+      "id": "r13",
+      "head": "社会现象的规律性",
+      "head_type": "概念",
+      "relation": "区分",
+      "relation_subtype": "概念澄清",
+      "tail": "个人动机或群众动机",
+      "tail_type": "概念",
+      "polarity": "negative",
+      "stance_score": -0.8,
+      "intensity": 0.7,
+      "evidence": "不能以个人动机或群众动机作为社会现象的唯一因素",
+      "confidence": 0.9
+    }
+  ],
+  "definitions": [
+    {
+      "id": "def1",
+      "term": "科学的因果律",
+      "definition": "科学的因果律足以解释人生观，而且足以变更人生观。",
+      "evidence": "科学的因果律不但足以解释人生观，而且足以变更人生观。",
+      "confidence": 0.9
+    },
+    {
+      "id": "def2",
+      "term": "时代的人生观",
+      "definition": "每一“时代的人生观”为当代的科学智识所组成。",
+      "evidence": "每一“时代的人生观”为当代的科学智识所组成",
+      "confidence": 0.9
+    },
+    {
+      "id": "def3",
+      "term": "个性的先觉",
+      "definition": "个性的先觉仅仅应此斗争的需要而生，是社会的或阶级的历史工具而已。",
+      "evidence": "个性的先觉仅仅应此斗争的需要而生，是社会的或阶级的历史工具而已（如马克思、列宁）。",
+      "confidence": 0.9
+    },
+    {
+      "id": "def4",
+      "term": "社会现象的规律性",
+      "definition": "社会现象的规律性应当先求之于社会的最后原因；不能以个人动机或群众动机作为社会现象的唯一因素，当再求此因素之因素。",
+      "evidence": "社会现象的规律性应当先求之于社会的最后原因；不能以个人动机或群众动机作为社会现象的唯一因素，当再求此因素之因素。",
+      "confidence": 0.9
+    }
+  ],
+  "citations": [
+    {
+      "id": "cit1",
+      "citer": "瞿秋白",
+      "quoted_author": "马克思",
+      "quoted_work": "",
+      "quoted_claim": "",
+      "function": "作为例证",
+      "evidence": "是社会的或阶级的历史工具而已（如马克思、列宁）。",
+      "confidence": 0.8
+    },
+    {
+      "id": "cit2",
+      "citer": "瞿秋白",
+      "quoted_author": "列宁",
+      "quoted_work": "",
+      "quoted_claim": "",
+      "function": "作为例证",
+      "evidence": "是社会的或阶级的历史工具而已（如马克思、列宁）。",
+      "confidence": 0.8
+    }
+  ],
+  "rhetorical_devices": [
+    {
+      "id": "rh1",
+      "expression": "人不知道电气的公律时只有信电神，知道公律之后便能应用电气",
+      "device_type": "类比",
+      "literal_target": "人不知道社会律时受其害，知道后能应用社会律",
+      "function": "用电气公律的类比说明知道社会律后能应用社会律达到自由",
+      "evidence": "譬如人不知道电气的公律时只有信电神，知道公律之后便能应用电气；人不知道资本集中律时，只能受他的害，知道之后便能应用此集中律以达无阶级无政府之共产社会。",
+      "confidence": 0.9
+    },
+    {
+      "id": "rh2",
+      "expression": "人不知道资本集中律时，只能受他的害，知道之后便能应用此集中律以达无阶级无政府之共产社会",
+      "device_type": "类比",
+      "literal_target": "人不知道社会律时受其害，知道后能应用社会律达到自由",
+      "function": "用资本集中律的类比说明知道社会律后能应用社会律达到无阶级社会",
+      "evidence": "譬如人不知道电气的公律时只有信电神，知道公律之后便能应用电气；人不知道资本集中律时，只能受他的害，知道之后便能应用此集中律以达无阶级无政府之共产社会。",
+      "confidence": 0.9
+    }
+  ],
+  "uncertainties": [
+    {
+      "item": "“自然进攻”的具体含义",
+      "reason": "文本中仅出现“自然进攻”一词，未给出明确定义或上下文解释。"
+    },
+    {
+      "item": "“共产部落”的具体指代",
+      "reason": "文本中仅出现“共产部落”，未明确其具体指代。"
+    },
+    {
+      "item": "“因素之因素”的具体含义",
+      "reason": "文本中仅出现“当再求此因素之因素”，未进一步解释。"
+    }
+  ]
+}

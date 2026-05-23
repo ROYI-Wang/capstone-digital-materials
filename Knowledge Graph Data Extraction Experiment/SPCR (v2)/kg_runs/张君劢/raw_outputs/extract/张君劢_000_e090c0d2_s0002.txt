@@ -1,0 +1,515 @@
+{
+  "metadata": {
+    "schema_version": "lite_v3.0",
+    "article_id": "张君劢_000_e090c0d2",
+    "article_title": "人生观",
+    "source_author": "张君劢",
+    "section_title": "方今国中竟言新文化，而文化转移之枢纽，不外乎人生观。吾有吾之文化，西洋有西洋之文化。西洋之有益者如何采之，有害者如何革除之；凡此取舍之间，皆决之于观点。观点定，而后精神上之思潮、物质上之制度，乃可按",
+    "section_author": "方今国中竟言新文化，而文化转移之枢纽，不外乎人生观。吾有吾之文化，西洋有西洋之文化。西洋之有益者如何采之，有害者如何革除之；凡此取舍之间，皆决之于观点。观点定，而后精神上之思潮、物质上之制度，乃可",
+    "segment_id": "张君劢_000_e090c0d2_s0002",
+    "segment_index": 2,
+    "source_file": "E:\\1研究生\\岭南大学\\论文毕业\\capstone\\资料\\新的内容开始了\\local_upload\\input_张君劢\\张君劢.txt"
+  },
+  "entities": [
+    {
+      "id": "e1",
+      "name": "科学",
+      "canonical_name": "科学",
+      "type": "概念",
+      "evidence": "然科学之中，亦分二项：曰精神科学，曰物质科学。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e2",
+      "name": "精神科学",
+      "canonical_name": "精神科学",
+      "type": "概念",
+      "evidence": "曰精神科学，曰物质科学。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e3",
+      "name": "物质科学",
+      "canonical_name": "物质科学",
+      "type": "概念",
+      "evidence": "曰精神科学，曰物质科学。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e4",
+      "name": "物理化学",
+      "canonical_name": "物理化学",
+      "type": "概念",
+      "evidence": "物质科学，如物理化学等；",
+      "confidence": 1.0
+    },
+    {
+      "id": "e5",
+      "name": "政治学生计学心理学哲学",
+      "canonical_name": "政治学生计学心理学哲学",
+      "type": "概念",
+      "evidence": "精神科学，如政治学生计学心理学哲学之类。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e6",
+      "name": "客观效力",
+      "canonical_name": "客观效力",
+      "type": "概念",
+      "evidence": "物质科学之客观效力，最为圆满；至于精神科学次之。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e7",
+      "name": "人生观",
+      "canonical_name": "人生观",
+      "type": "概念",
+      "evidence": "若夫人生观则反是：",
+      "confidence": 1.0
+    },
+    {
+      "id": "e8",
+      "name": "孔子之行健",
+      "canonical_name": "孔子之行健",
+      "type": "观点",
+      "evidence": "孔子之行健与老子之无为，其所见异焉；",
+      "confidence": 1.0
+    },
+    {
+      "id": "e9",
+      "name": "老子之无为",
+      "canonical_name": "老子之无为",
+      "type": "观点",
+      "evidence": "孔子之行健与老子之无为，其所见异焉；",
+      "confidence": 1.0
+    },
+    {
+      "id": "e10",
+      "name": "孟子之性善",
+      "canonical_name": "孟子之性善",
+      "type": "观点",
+      "evidence": "孟子之性善与荀子之性恶，其所见异焉；",
+      "confidence": 1.0
+    },
+    {
+      "id": "e11",
+      "name": "荀子之性恶",
+      "canonical_name": "荀子之性恶",
+      "type": "观点",
+      "evidence": "孟子之性善与荀子之性恶，其所见异焉；",
+      "confidence": 1.0
+    },
+    {
+      "id": "e12",
+      "name": "杨朱之为我",
+      "canonical_name": "杨朱之为我",
+      "type": "观点",
+      "evidence": "杨朱之为我与墨子之兼爱，其所见异焉；",
+      "confidence": 1.0
+    },
+    {
+      "id": "e13",
+      "name": "墨子之兼爱",
+      "canonical_name": "墨子之兼爱",
+      "type": "观点",
+      "evidence": "杨朱之为我与墨子之兼爱，其所见异焉；",
+      "confidence": 1.0
+    },
+    {
+      "id": "e14",
+      "name": "康德之义务观念",
+      "canonical_name": "康德之义务观念",
+      "type": "观点",
+      "evidence": "康德之义务观念与边沁之功利主义，其所见异焉；",
+      "confidence": 1.0
+    },
+    {
+      "id": "e15",
+      "name": "边沁之功利主义",
+      "canonical_name": "边沁之功利主义",
+      "type": "观点",
+      "evidence": "康德之义务观念与边沁之功利主义，其所见异焉；",
+      "confidence": 1.0
+    },
+    {
+      "id": "e16",
+      "name": "达尔文之生存竞争论",
+      "canonical_name": "达尔文之生存竞争论",
+      "type": "观点",
+      "evidence": "达尔文之生存竞争论与哥罗巴金之互助主义，其所见异焉；",
+      "confidence": 1.0
+    },
+    {
+      "id": "e17",
+      "name": "哥罗巴金之互助主义",
+      "canonical_name": "哥罗巴金之互助主义",
+      "type": "观点",
+      "evidence": "达尔文之生存竞争论与哥罗巴金之互助主义，其所见异焉；",
+      "confidence": 1.0
+    },
+    {
+      "id": "e18",
+      "name": "科学为论理的方法所支配",
+      "canonical_name": "科学为论理的方法所支配",
+      "type": "观点",
+      "evidence": "第二，科学为论理的方法所支配，而人生观则起于直觉。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e19",
+      "name": "人生观则起于直觉",
+      "canonical_name": "人生观则起于直觉",
+      "type": "观点",
+      "evidence": "第二，科学为论理的方法所支配，而人生观则起于直觉。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e20",
+      "name": "演绎的",
+      "canonical_name": "演绎的",
+      "type": "方法",
+      "evidence": "科学之方法有二：一曰演绎的，一曰归纳的。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e21",
+      "name": "归纳的",
+      "canonical_name": "归纳的",
+      "type": "方法",
+      "evidence": "科学之方法有二：一曰演绎的，一曰归纳的。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e22",
+      "name": "英国派以自由贸易为利",
+      "canonical_name": "英国派以自由贸易为利",
+      "type": "观点",
+      "evidence": "英国派以自由贸易为利，德国派以保护贸易为利，则双方之是非不易解决矣；",
+      "confidence": 1.0
+    },
+    {
+      "id": "e23",
+      "name": "德国派以保护贸易为利",
+      "canonical_name": "德国派以保护贸易为利",
+      "type": "观点",
+      "evidence": "英国派以自由贸易为利，德国派以保护贸易为利，则双方之是非不易解决矣；",
+      "confidence": 1.0
+    },
+    {
+      "id": "e24",
+      "name": "甲曰智识起于感觉",
+      "canonical_name": "甲曰智识起于感觉",
+      "type": "观点",
+      "evidence": "甲曰智识起于感觉，乙曰智识以范畴为基础，则双方之是非不易解决矣。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e25",
+      "name": "乙曰智识以范畴为基础",
+      "canonical_name": "乙曰智识以范畴为基础",
+      "type": "观点",
+      "evidence": "甲曰智识起于感觉，乙曰智识以范畴为基础，则双方之是非不易解决矣。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e26",
+      "name": "君主大权说",
+      "canonical_name": "君主大权说",
+      "type": "主义/学说/理论",
+      "evidence": "若夫既采君主大权说于先，则不能再采国民主权说于后；",
+      "confidence": 1.0
+    },
+    {
+      "id": "e27",
+      "name": "国民主权说",
+      "canonical_name": "国民主权说",
+      "type": "主义/学说/理论",
+      "evidence": "若夫既采君主大权说于先，则不能再采国民主权说于后；",
+      "confidence": 1.0
+    }
+  ],
+  "claims": [
+    {
+      "id": "c1",
+      "speaker": "张君劢",
+      "claim": "科学之中，亦分二项：曰精神科学，曰物质科学。",
+      "target": "科学",
+      "claim_type": "定义性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "然科学之中，亦分二项：曰精神科学，曰物质科学。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c2",
+      "speaker": "张君劢",
+      "claim": "物质科学之客观效力，最为圆满；至于精神科学次之。",
+      "target": "物质科学",
+      "claim_type": "评价性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "物质科学之客观效力，最为圆满；至于精神科学次之。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c3",
+      "speaker": "张君劢",
+      "claim": "精神科学就一般现象而求其平均数，则亦未尝无公例可求，故不失为客观的也。",
+      "target": "精神科学",
+      "claim_type": "描述性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "然即以精神科学论，就一般现象而求其平均数，则亦未尝无公例可求，故不失为客观的也。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c4",
+      "speaker": "张君劢",
+      "claim": "若夫人生观则反是。",
+      "target": "人生观",
+      "claim_type": "对比性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "若夫人生观则反是：",
+      "confidence": 1.0
+    },
+    {
+      "id": "c5",
+      "speaker": "张君劢",
+      "claim": "凡此诸家之言，是非各执，绝不能施以一种试验，以证甲之是与乙之非。",
+      "target": "人生观",
+      "claim_type": "描述性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "凡此诸家之言，是非各执，绝不能施以一种试验，以证甲之是与乙之非。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c6",
+      "speaker": "张君劢",
+      "claim": "以其为人生观故也，以其为主观的故也。",
+      "target": "人生观",
+      "claim_type": "因果主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "何也？以其为人生观故也，以其为主观的故也。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c7",
+      "speaker": "张君劢",
+      "claim": "科学为论理的方法所支配，而人生观则起于直觉。",
+      "target": "科学",
+      "claim_type": "对比性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "第二，科学为论理的方法所支配，而人生观则起于直觉。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c8",
+      "speaker": "张君劢",
+      "claim": "科学之方法有二：一曰演绎的，一曰归纳的。",
+      "target": "科学",
+      "claim_type": "定义性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "科学之方法有二：一曰演绎的，一曰归纳的。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c9",
+      "speaker": "张君劢",
+      "claim": "归纳的者，先聚若干种事例而求其公例也。",
+      "target": "归纳的",
+      "claim_type": "定义性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "归纳的者，先聚若干种事例而求其公例也。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c10",
+      "speaker": "张君劢",
+      "claim": "几何学，则以自明之公理为基础，而后一切原则推演而出，所谓演绎的也。",
+      "target": "几何学",
+      "claim_type": "定义性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "至于几何学，则以自明之公理为基础，而后一切原则推演而出，所谓演绎的也。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c11",
+      "speaker": "张君劢",
+      "claim": "若夫既采君主大权说于先，则不能再采国民主权说于后。",
+      "target": "君主大权说",
+      "claim_type": "规范性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "若夫既采君主大权说于先，则不能再采国民主权说于后；",
+      "confidence": 1.0
+    }
+  ],
+  "relations": [
+    {
+      "id": "r1",
+      "head": "科学",
+      "head_type": "概念",
+      "relation": "包含",
+      "relation_subtype": "不适用",
+      "tail": "精神科学",
+      "tail_type": "概念",
+      "polarity": "neutral",
+      "stance_score": 0.0,
+      "intensity": 0.0,
+      "evidence": "然科学之中，亦分二项：曰精神科学，曰物质科学。",
+      "confidence": 1.0
+    },
+    {
+      "id": "r2",
+      "head": "科学",
+      "head_type": "概念",
+      "relation": "包含",
+      "relation_subtype": "不适用",
+      "tail": "物质科学",
+      "tail_type": "概念",
+      "polarity": "neutral",
+      "stance_score": 0.0,
+      "intensity": 0.0,
+      "evidence": "然科学之中，亦分二项：曰精神科学，曰物质科学。",
+      "confidence": 1.0
+    },
+    {
+      "id": "r3",
+      "head": "张君劢",
+      "head_type": "人物",
+      "relation": "评价",
+      "relation_subtype": "一般批评",
+      "tail": "人生观",
+      "tail_type": "概念",
+      "polarity": "negative",
+      "stance_score": -0.8,
+      "intensity": 0.7,
+      "evidence": "若夫人生观则反是：",
+      "confidence": 1.0
+    },
+    {
+      "id": "r4",
+      "head": "张君劢",
+      "head_type": "人物",
+      "relation": "评价",
+      "relation_subtype": "一般批评",
+      "tail": "人生观",
+      "tail_type": "概念",
+      "polarity": "negative",
+      "stance_score": -0.9,
+      "intensity": 0.8,
+      "evidence": "凡此诸家之言，是非各执，绝不能施以一种试验，以证甲之是与乙之非。",
+      "confidence": 1.0
+    },
+    {
+      "id": "r5",
+      "head": "张君劢",
+      "head_type": "人物",
+      "relation": "评价",
+      "relation_subtype": "一般批评",
+      "tail": "人生观",
+      "tail_type": "概念",
+      "polarity": "negative",
+      "stance_score": -0.9,
+      "intensity": 0.8,
+      "evidence": "何也？以其为人生观故也，以其为主观的故也。",
+      "confidence": 1.0
+    },
+    {
+      "id": "r6",
+      "head": "张君劢",
+      "head_type": "人物",
+      "relation": "对比",
+      "relation_subtype": "不适用",
+      "tail": "科学",
+      "tail_type": "概念",
+      "polarity": "neutral",
+      "stance_score": 0.0,
+      "intensity": 0.5,
+      "evidence": "第二，科学为论理的方法所支配，而人生观则起于直觉。",
+      "confidence": 1.0
+    },
+    {
+      "id": "r7",
+      "head": "科学",
+      "head_type": "概念",
+      "relation": "包含",
+      "relation_subtype": "不适用",
+      "tail": "演绎的",
+      "tail_type": "方法",
+      "polarity": "neutral",
+      "stance_score": 0.0,
+      "intensity": 0.0,
+      "evidence": "科学之方法有二：一曰演绎的，一曰归纳的。",
+      "confidence": 1.0
+    },
+    {
+      "id": "r8",
+      "head": "科学",
+      "head_type": "概念",
+      "relation": "包含",
+      "relation_subtype": "不适用",
+      "tail": "归纳的",
+      "tail_type": "方法",
+      "polarity": "neutral",
+      "stance_score": 0.0,
+      "intensity": 0.0,
+      "evidence": "科学之方法有二：一曰演绎的，一曰归纳的。",
+      "confidence": 1.0
+    },
+    {
+      "id": "r9",
+      "head": "张君劢",
+      "head_type": "人物",
+      "relation": "主张",
+      "relation_subtype": "不适用",
+      "tail": "若夫既采君主大权说于先，则不能再采国民主权说于后",
+      "tail_type": "观点",
+      "polarity": "negative",
+      "stance_score": -0.5,
+      "intensity": 0.5,
+      "evidence": "若夫既采君主大权说于先，则不能再采国民主权说于后；",
+      "confidence": 1.0
+    }
+  ],
+  "definitions": [
+    {
+      "id": "def1",
+      "term": "物质科学",
+      "definition": "如物理化学等",
+      "evidence": "物质科学，如物理化学等；",
+      "confidence": 1.0
+    },
+    {
+      "id": "def2",
+      "term": "精神科学",
+      "definition": "如政治学生计学心理学哲学之类",
+      "evidence": "精神科学，如政治学生计学心理学哲学之类。",
+      "confidence": 1.0
+    },
+    {
+      "id": "def3",
+      "term": "归纳的",
+      "definition": "先聚若干种事例而求其公例也",
+      "evidence": "归纳的者，先聚若干种事例而求其公例也。",
+      "confidence": 1.0
+    },
+    {
+      "id": "def4",
+      "term": "演绎的",
+      "definition": "以自明之公理为基础，而后一切原则推演而出",
+      "evidence": "至于几何学，则以自明之公理为基础，而后一切原则推演而出，所谓演绎的也。",
+      "confidence": 1.0
+    }
+  ],
+  "citations": [],
+  "rhetorical_devices": [],
+  "uncertainties": []
+}

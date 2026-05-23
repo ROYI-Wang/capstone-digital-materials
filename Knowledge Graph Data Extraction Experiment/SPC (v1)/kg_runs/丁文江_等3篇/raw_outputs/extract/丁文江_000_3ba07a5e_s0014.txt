@@ -1,0 +1,288 @@
+{
+  "metadata": {
+    "schema_version": "lite_v2.0",
+    "article_id": "丁文江_000_3ba07a5e",
+    "article_title": "玄学与科学 ——评张君劢的《人生观》",
+    "source_author": "丁文江",
+    "section_title": "",
+    "section_author": "",
+    "segment_id": "丁文江_000_3ba07a5e_s0014",
+    "segment_index": 14,
+    "source_file": "E:\\1研究生\\岭南大学\\论文毕业\\capstone\\资料\\新的内容开始了\\local_upload\\input_texts\\丁文江.txt"
+  },
+  "entities": [
+    {
+      "id": "e1",
+      "name": "牛顿",
+      "canonical_name": "牛顿",
+      "type": "人物",
+      "evidence": "惟有牛顿才发明重心吸力",
+      "confidence": 1.0
+    },
+    {
+      "id": "e2",
+      "name": "爱因斯坦",
+      "canonical_name": "爱因斯坦",
+      "type": "人物",
+      "evidence": "惟有爱因斯坦才发明相对论",
+      "confidence": 1.0
+    },
+    {
+      "id": "e3",
+      "name": "胡适之",
+      "canonical_name": "胡适之",
+      "type": "人物",
+      "evidence": "胡适之才拿来做白话文学的材料",
+      "confidence": 1.0
+    },
+    {
+      "id": "e4",
+      "name": "天才豪杰",
+      "canonical_name": "天才豪杰",
+      "type": "阵营/群体",
+      "evidence": "天才豪杰是人类进化的大原动力",
+      "confidence": 1.0
+    },
+    {
+      "id": "e5",
+      "name": "常人",
+      "canonical_name": "常人",
+      "type": "阵营/群体",
+      "evidence": "天才豪杰同常人的分别",
+      "confidence": 1.0
+    },
+    {
+      "id": "e6",
+      "name": "科学方法",
+      "canonical_name": "科学方法",
+      "type": "概念",
+      "evidence": "还有什么科学方法可言？",
+      "confidence": 1.0
+    },
+    {
+      "id": "e7",
+      "name": "知觉概念推论",
+      "canonical_name": "知觉概念推论",
+      "type": "概念",
+      "evidence": "知觉概念推论的手续无不相同",
+      "confidence": 1.0
+    },
+    {
+      "id": "e8",
+      "name": "重心吸力",
+      "canonical_name": "重心吸力",
+      "type": "概念",
+      "evidence": "惟有牛顿才发明重心吸力",
+      "confidence": 1.0
+    },
+    {
+      "id": "e9",
+      "name": "相对论",
+      "canonical_name": "相对论",
+      "type": "概念",
+      "evidence": "惟有爱因斯坦才发明相对论",
+      "confidence": 1.0
+    },
+    {
+      "id": "e10",
+      "name": "白话文学",
+      "canonical_name": "白话文学",
+      "type": "概念",
+      "evidence": "胡适之才拿来做白话文学的材料",
+      "confidence": 1.0
+    },
+    {
+      "id": "e11",
+      "name": "《红楼梦》",
+      "canonical_name": "《红楼梦》",
+      "type": "著作",
+      "evidence": "人人都看《红楼梦》、《西游记》",
+      "confidence": 1.0
+    },
+    {
+      "id": "e12",
+      "name": "《西游记》",
+      "canonical_name": "《西游记》",
+      "type": "著作",
+      "evidence": "人人都看《红楼梦》、《西游记》",
+      "confidence": 1.0
+    }
+  ],
+  "claims": [
+    {
+      "id": "c1",
+      "speaker": "丁文江",
+      "claim": "物质的感触相同，所以物质的“思构”相同，知觉概念推论的手续无不相同，科学的真相，才能为人所公认。",
+      "target": "",
+      "claim_type": "知识论主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "物质的感触相同，所以物质的“思构”相同，知觉概念推论的手续无不相同，科学的真相，才能为人所公认。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c2",
+      "speaker": "丁文江",
+      "claim": "天才豪杰是人类进化的大原动力。",
+      "target": "",
+      "claim_type": "社会理论主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "天才豪杰是人类进化的大原动力。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c3",
+      "speaker": "丁文江",
+      "claim": "天才豪杰同常人的分别，是快慢的火车，不是人力车同飞机。",
+      "target": "",
+      "claim_type": "知识论主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "天才豪杰同常人的分别，是快慢的火车，不是人力车同飞机。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c4",
+      "speaker": "丁文江",
+      "claim": "我们承认他们是天才，是豪杰，正是因为他们的知觉概念推论的方法完全与我们相同。",
+      "target": "",
+      "claim_type": "知识论主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "因为我们能承认他们是天才，是豪杰，正是因为他们的知觉概念推论的方法完全与我们相同",
+      "confidence": 1.0
+    },
+    {
+      "id": "c5",
+      "speaker": "丁文江",
+      "claim": "如果知觉概念推论的方法不同，则自命为天才豪杰的人可能是反常或疯子。",
+      "target": "",
+      "claim_type": "知识论主张",
+      "claim_status": "作者推论",
+      "polarity": "negative",
+      "evidence": "不然，我们安晓得自命为天才豪杰的人，不是反常，不是疯子？",
+      "confidence": 1.0
+    }
+  ],
+  "relations": [
+    {
+      "id": "r1",
+      "head": "物质的感触相同",
+      "head_type": "观点",
+      "relation": "导致",
+      "relation_subtype": "不适用",
+      "tail": "物质的“思构”相同",
+      "tail_type": "观点",
+      "polarity": "positive",
+      "evidence": "物质的感触相同，所以物质的“思构”相同",
+      "confidence": 1.0
+    },
+    {
+      "id": "r2",
+      "head": "物质的“思构”相同",
+      "head_type": "观点",
+      "relation": "导致",
+      "relation_subtype": "不适用",
+      "tail": "知觉概念推论的手续无不相同",
+      "tail_type": "观点",
+      "polarity": "positive",
+      "evidence": "物质的“思构”相同，知觉概念推论的手续无不相同",
+      "confidence": 1.0
+    },
+    {
+      "id": "r3",
+      "head": "知觉概念推论的手续无不相同",
+      "head_type": "观点",
+      "relation": "导致",
+      "relation_subtype": "不适用",
+      "tail": "科学的真相才能为人所公认",
+      "tail_type": "观点",
+      "polarity": "positive",
+      "evidence": "知觉概念推论的手续无不相同，科学的真相，才能为人所公认。",
+      "confidence": 1.0
+    },
+    {
+      "id": "r4",
+      "head": "天才豪杰同常人的分别，是快慢的火车，不是人力车同飞机",
+      "head_type": "观点",
+      "relation": "解释",
+      "relation_subtype": "不适用",
+      "tail": "天才豪杰的知觉概念推论的方法完全与我们相同",
+      "tail_type": "观点",
+      "polarity": "positive",
+      "evidence": "天才豪杰同常人的分别，是快慢的火车，不是人力车同飞机。因为我们能承认他们是天才，是豪杰，正是因为他们的知觉概念推论的方法完全与我们相同",
+      "confidence": 1.0
+    },
+    {
+      "id": "r5",
+      "head": "知觉概念推论的方法完全与我们相同",
+      "head_type": "观点",
+      "relation": "作为论据支持",
+      "relation_subtype": "不适用",
+      "tail": "我们承认他们是天才，是豪杰",
+      "tail_type": "观点",
+      "polarity": "positive",
+      "evidence": "因为我们能承认他们是天才，是豪杰，正是因为他们的知觉概念推论的方法完全与我们相同",
+      "confidence": 1.0
+    }
+  ],
+  "definitions": [
+    {
+      "id": "def1",
+      "term": "天才豪杰同常人的分别",
+      "definition": "是快慢的火车，不是人力车同飞机，即程度差异而非本质不同。",
+      "evidence": "天才豪杰同常人的分别，是快慢的火车，不是人力车同飞机。",
+      "confidence": 1.0
+    }
+  ],
+  "citations": [
+    {
+      "id": "cit1",
+      "citer": "丁文江",
+      "quoted_author": "牛顿",
+      "quoted_work": "",
+      "quoted_claim": "发明重心吸力",
+      "function": "作为例证",
+      "evidence": "人人看见苹果从树上向下落，惟有牛顿才发明重心吸力",
+      "confidence": 1.0
+    },
+    {
+      "id": "cit2",
+      "citer": "丁文江",
+      "quoted_author": "爱因斯坦",
+      "quoted_work": "",
+      "quoted_claim": "发明相对论",
+      "function": "作为例证",
+      "evidence": "许多人知道罗任治的公式，惟有爱因斯坦才发明相对论",
+      "confidence": 1.0
+    },
+    {
+      "id": "cit3",
+      "citer": "丁文江",
+      "quoted_author": "胡适之",
+      "quoted_work": "",
+      "quoted_claim": "拿《红楼梦》《西游记》来做白话文学的材料",
+      "function": "作为例证",
+      "evidence": "人人都看《红楼梦》、《西游记》，胡适之才拿来做白话文学的材料",
+      "confidence": 1.0
+    }
+  ],
+  "rhetorical_devices": [
+    {
+      "id": "rh1",
+      "expression": "是快慢的火车，不是人力车同飞机",
+      "device_type": "类比",
+      "literal_target": "天才豪杰同常人的分别",
+      "function": "用火车与人力车、飞机的速度差异类比天才与常人的程度差异，说明二者本质相同只是速度不同。",
+      "evidence": "天才豪杰同常人的分别，是快慢的火车，不是人力车同飞机。",
+      "confidence": 1.0
+    }
+  ],
+  "uncertainties": [
+    {
+      "item": "罗任治的公式",
+      "reason": "文本中仅提及“许多人知道罗任治的公式”，未说明该公式的具体内容或与爱因斯坦相对论的关系，无法进一步抽取。"
+    }
+  ]
+}

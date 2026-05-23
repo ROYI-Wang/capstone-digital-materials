@@ -1,0 +1,610 @@
+{
+  "metadata": {
+    "schema_version": "lite_v3.0",
+    "article_id": "陈独秀_002_69a217f6",
+    "article_title": "答张君劢及梁任公",
+    "source_author": "陈独秀",
+    "section_title": "",
+    "section_author": "",
+    "segment_id": "陈独秀_002_69a217f6_s0009",
+    "segment_index": 9,
+    "source_file": "E:\\1研究生\\岭南大学\\论文毕业\\capstone\\资料\\新的内容开始了\\local_upload\\input_陈独秀\\陈独秀.txt"
+  },
+  "entities": [
+    {
+      "id": "e1",
+      "name": "他们",
+      "canonical_name": "他们",
+      "type": "阵营/群体",
+      "evidence": "他们只看见社会上一种新制度改革之前，都有一种新思想为之前驱，因此便短视的断定思想为事实之母",
+      "confidence": 0.9
+    },
+    {
+      "id": "e2",
+      "name": "思想为事实之母",
+      "canonical_name": "思想为事实之母",
+      "type": "观点",
+      "evidence": "因此便短视的断定思想为事实之母",
+      "confidence": 0.9
+    },
+    {
+      "id": "e3",
+      "name": "思想",
+      "canonical_name": "思想",
+      "type": "概念",
+      "evidence": "各种新思想都有各种事实为他所以发生的背景",
+      "confidence": 0.9
+    },
+    {
+      "id": "e4",
+      "name": "事实",
+      "canonical_name": "事实",
+      "type": "概念",
+      "evidence": "各种新思想都有各种事实为他所以发生的背景",
+      "confidence": 0.9
+    },
+    {
+      "id": "e5",
+      "name": "物质的世界",
+      "canonical_name": "物质的世界",
+      "type": "概念",
+      "evidence": "第一先有了物质的世界这个事实",
+      "confidence": 0.9
+    },
+    {
+      "id": "e6",
+      "name": "能思想的人",
+      "canonical_name": "能思想的人",
+      "type": "概念",
+      "evidence": "第二才有能思想的人这个事实",
+      "confidence": 0.9
+    },
+    {
+      "id": "e7",
+      "name": "所思想的对象",
+      "canonical_name": "所思想的对象",
+      "type": "概念",
+      "evidence": "第三又有了所思想的对象这个事实",
+      "confidence": 0.9
+    },
+    {
+      "id": "e8",
+      "name": "倒果为因",
+      "canonical_name": "倒果为因",
+      "type": "评价",
+      "evidence": "如何倒果为因，说思想是事实之母",
+      "confidence": 0.9
+    },
+    {
+      "id": "e9",
+      "name": "笛卡儿",
+      "canonical_name": "笛卡儿",
+      "type": "人物",
+      "evidence": "笛卡儿说：“我思，因此，我存在。”",
+      "confidence": 0.9
+    },
+    {
+      "id": "e10",
+      "name": "我思，因此，我存在",
+      "canonical_name": "我思，因此，我存在",
+      "type": "观点",
+      "evidence": "笛卡儿说：“我思，因此，我存在。”",
+      "confidence": 0.9
+    },
+    {
+      "id": "e11",
+      "name": "我存在，因此，我能思",
+      "canonical_name": "我存在，因此，我能思",
+      "type": "观点",
+      "evidence": "我说：“我存在，因此，我能思。”",
+      "confidence": 0.9
+    },
+    {
+      "id": "e12",
+      "name": "我不存在时，因此，我不能思；而宇宙间一切物仍存在",
+      "canonical_name": "我不存在时，因此，我不能思；而宇宙间一切物仍存在",
+      "type": "观点",
+      "evidence": "我并且说：“我不存在时，因此，我不能思；而宇宙间一切物仍存在。”",
+      "confidence": 0.9
+    },
+    {
+      "id": "e13",
+      "name": "一切唯心论者",
+      "canonical_name": "一切唯心论者",
+      "type": "阵营/群体",
+      "evidence": "敢告一切唯心论者",
+      "confidence": 0.9
+    },
+    {
+      "id": "e14",
+      "name": "支遁之词",
+      "canonical_name": "支遁之词",
+      "type": "评价",
+      "evidence": "别的千言万语都是支遁之词",
+      "confidence": 0.9
+    },
+    {
+      "id": "e15",
+      "name": "张先生",
+      "canonical_name": "张先生",
+      "type": "人物",
+      "evidence": "张先生在此序文中",
+      "confidence": 0.9
+    },
+    {
+      "id": "e16",
+      "name": "此序文",
+      "canonical_name": "此序文",
+      "type": "文章",
+      "evidence": "张先生在此序文中",
+      "confidence": 0.9
+    },
+    {
+      "id": "e17",
+      "name": "物质科学",
+      "canonical_name": "物质科学",
+      "type": "概念",
+      "evidence": "分“物质科学”“个人心理”及“社会生活”为三类",
+      "confidence": 0.9
+    },
+    {
+      "id": "e18",
+      "name": "个人心理",
+      "canonical_name": "个人心理",
+      "type": "概念",
+      "evidence": "分“物质科学”“个人心理”及“社会生活”为三类",
+      "confidence": 0.9
+    },
+    {
+      "id": "e19",
+      "name": "社会生活",
+      "canonical_name": "社会生活",
+      "type": "概念",
+      "evidence": "分“物质科学”“个人心理”及“社会生活”为三类",
+      "confidence": 0.9
+    },
+    {
+      "id": "e20",
+      "name": "物质科学是真正科学",
+      "canonical_name": "物质科学是真正科学",
+      "type": "观点",
+      "evidence": "只承认物质科学是真正科学",
+      "confidence": 0.9
+    },
+    {
+      "id": "e21",
+      "name": "社会生活之超科学较个人心理为尤甚",
+      "canonical_name": "社会生活之超科学较个人心理为尤甚",
+      "type": "观点",
+      "evidence": "并力言社会生活之超科学较个人心理为尤甚",
+      "confidence": 0.9
+    },
+    {
+      "id": "e22",
+      "name": "规律秩序",
+      "canonical_name": "规律秩序",
+      "type": "概念",
+      "evidence": "一部分是有规律秩序的，一部分是乱杂无章毫没有规律秩序的",
+      "confidence": 0.9
+    },
+    {
+      "id": "e23",
+      "name": "宇宙万象之有规律秩序",
+      "canonical_name": "宇宙万象之有规律秩序",
+      "type": "概念",
+      "evidence": "宇宙万象之有规律秩序是一件事",
+      "confidence": 0.9
+    },
+    {
+      "id": "e24",
+      "name": "我们人类的知识已否认识这规律秩序",
+      "canonical_name": "我们人类的知识已否认识这规律秩序",
+      "type": "概念",
+      "evidence": "我们人类的知识已否认识这规律秩序又是一件事",
+      "confidence": 0.9
+    }
+  ],
+  "claims": [
+    {
+      "id": "c1",
+      "speaker": "他们",
+      "claim": "思想为事实之母",
+      "target": "",
+      "claim_type": "因果主张",
+      "claim_status": "对手直接主张",
+      "polarity": "negative",
+      "evidence": "他们只看见社会上一种新制度改革之前，都有一种新思想为之前驱，因此便短视的断定思想为事实之母",
+      "confidence": 0.9
+    },
+    {
+      "id": "c2",
+      "speaker": "作者",
+      "claim": "各种新思想都有各种事实为他所以发生的背景，决非无因而生",
+      "target": "",
+      "claim_type": "因果主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "他们不看见各种新思想都有各种事实为他所以发生的背景，决非无因而生",
+      "confidence": 0.9
+    },
+    {
+      "id": "c3",
+      "speaker": "作者",
+      "claim": "第一先有了物质的世界这个事实，第二才有能思想的人这个事实，第三又有了所思想的对象这个事实，然后思想才会发生",
+      "target": "",
+      "claim_type": "因果主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "第一先有了物质的世界这个事实，第二才有能思想的人这个事实，第三又有了所思想的对象这个事实，然后思想才会发生",
+      "confidence": 0.9
+    },
+    {
+      "id": "c4",
+      "speaker": "作者",
+      "claim": "思想明明是这些事实底儿孙",
+      "target": "",
+      "claim_type": "描述性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "思想明明是这些事实底儿孙",
+      "confidence": 0.9
+    },
+    {
+      "id": "c5",
+      "speaker": "作者",
+      "claim": "说思想是事实之母是倒果为因",
+      "target": "思想为事实之母",
+      "claim_type": "反驳性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "如何倒果为因，说思想是事实之母",
+      "confidence": 0.9
+    },
+    {
+      "id": "c6",
+      "speaker": "笛卡儿",
+      "claim": "我思，因此，我存在",
+      "target": "",
+      "claim_type": "因果主张",
+      "claim_status": "直接引用",
+      "polarity": "neutral",
+      "evidence": "笛卡儿说：“我思，因此，我存在。”",
+      "confidence": 0.9
+    },
+    {
+      "id": "c7",
+      "speaker": "作者",
+      "claim": "我存在，因此，我能思",
+      "target": "",
+      "claim_type": "因果主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "我说：“我存在，因此，我能思。”",
+      "confidence": 0.9
+    },
+    {
+      "id": "c8",
+      "speaker": "作者",
+      "claim": "我不存在时，因此，我不能思；而宇宙间一切物仍存在",
+      "target": "",
+      "claim_type": "因果主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "我并且说：“我不存在时，因此，我不能思；而宇宙间一切物仍存在。”",
+      "confidence": 0.9
+    },
+    {
+      "id": "c9",
+      "speaker": "张先生",
+      "claim": "物质科学是真正科学",
+      "target": "",
+      "claim_type": "评价性主张",
+      "claim_status": "间接转述",
+      "polarity": "neutral",
+      "evidence": "只承认物质科学是真正科学",
+      "confidence": 0.9
+    },
+    {
+      "id": "c10",
+      "speaker": "张先生",
+      "claim": "社会生活之超科学较个人心理为尤甚",
+      "target": "",
+      "claim_type": "对比性主张",
+      "claim_status": "间接转述",
+      "polarity": "neutral",
+      "evidence": "并力言社会生活之超科学较个人心理为尤甚",
+      "confidence": 0.9
+    },
+    {
+      "id": "c11",
+      "speaker": "作者",
+      "claim": "个人心理现象比物质现象复杂，社会现象比心理现象更复杂，所以我们人类对于这些现象因果之认识便有比较的精粗迟速之不同",
+      "target": "",
+      "claim_type": "因果主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "这是因为个人心理现象比物质现象复杂，社会现象比心理现象更复杂，所以我们人类对于这些现象因果之认识便有比较的精粗迟速之不同",
+      "confidence": 0.9
+    },
+    {
+      "id": "c12",
+      "speaker": "作者",
+      "claim": "并不是宇宙间诸现象中，一部分是有规律秩序的，一部分是乱杂无章毫没有规律秩序的",
+      "target": "",
+      "claim_type": "反驳性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "并不是宇宙间诸现象中，一部分是有规律秩序的，一部分是乱杂无章毫没有规律秩序的",
+      "confidence": 0.9
+    },
+    {
+      "id": "c13",
+      "speaker": "作者",
+      "claim": "宇宙万象之有规律秩序是一件事，我们人类的知识已否认识这规律秩序又是一件事，不能拿我们主观上犹未能完全认识某一部分之规律秩序，遂断定客观上某一部本来没有规律秩序",
+      "target": "",
+      "claim_type": "反驳性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "宇宙万象之有规律秩序是一件事，我们人类的知识已否认识这规律秩序又是一件事，不能拿我们主观上犹未能完全认识某一部分之规律秩序，遂断定客观上某一部本来没有规律秩序",
+      "confidence": 0.9
+    }
+  ],
+  "relations": [
+    {
+      "id": "r1",
+      "head": "他们",
+      "head_type": "阵营/群体",
+      "relation": "主张",
+      "relation_subtype": "不适用",
+      "tail": "思想为事实之母",
+      "tail_type": "观点",
+      "polarity": "negative",
+      "stance_score": -0.8,
+      "intensity": 0.7,
+      "evidence": "他们只看见社会上一种新制度改革之前，都有一种新思想为之前驱，因此便短视的断定思想为事实之母",
+      "confidence": 0.9
+    },
+    {
+      "id": "r2",
+      "head": "作者",
+      "head_type": "人物",
+      "relation": "反驳",
+      "relation_subtype": "逻辑反驳",
+      "tail": "思想为事实之母",
+      "tail_type": "观点",
+      "polarity": "negative",
+      "stance_score": -0.9,
+      "intensity": 0.8,
+      "evidence": "他们不看见各种新思想都有各种事实为他所以发生的背景，决非无因而生",
+      "confidence": 0.9
+    },
+    {
+      "id": "r3",
+      "head": "作者",
+      "head_type": "人物",
+      "relation": "主张",
+      "relation_subtype": "不适用",
+      "tail": "第一先有了物质的世界这个事实，第二才有能思想的人这个事实，第三又有了所思想的对象这个事实，然后思想才会发生",
+      "tail_type": "观点",
+      "polarity": "positive",
+      "stance_score": 1.0,
+      "intensity": 0.9,
+      "evidence": "第一先有了物质的世界这个事实，第二才有能思想的人这个事实，第三又有了所思想的对象这个事实，然后思想才会发生",
+      "confidence": 0.9
+    },
+    {
+      "id": "r4",
+      "head": "思想",
+      "head_type": "概念",
+      "relation": "归因于",
+      "relation_subtype": "不适用",
+      "tail": "事实",
+      "tail_type": "概念",
+      "polarity": "positive",
+      "stance_score": 1.0,
+      "intensity": 0.9,
+      "evidence": "思想明明是这些事实底儿孙",
+      "confidence": 0.9
+    },
+    {
+      "id": "r5",
+      "head": "作者",
+      "head_type": "人物",
+      "relation": "反驳",
+      "relation_subtype": "归谬",
+      "tail": "思想为事实之母",
+      "tail_type": "观点",
+      "polarity": "negative",
+      "stance_score": -0.9,
+      "intensity": 0.9,
+      "evidence": "如何倒果为因，说思想是事实之母",
+      "confidence": 0.9
+    },
+    {
+      "id": "r6",
+      "head": "作者",
+      "head_type": "人物",
+      "relation": "引用",
+      "relation_subtype": "援引权威反驳",
+      "tail": "笛卡儿",
+      "tail_type": "人物",
+      "polarity": "negative",
+      "stance_score": -0.5,
+      "intensity": 0.5,
+      "evidence": "笛卡儿说：“我思，因此，我存在。”我说：“我存在，因此，我能思。”",
+      "confidence": 0.9
+    },
+    {
+      "id": "r7",
+      "head": "作者",
+      "head_type": "人物",
+      "relation": "反驳",
+      "relation_subtype": "逻辑反驳",
+      "tail": "我思，因此，我存在",
+      "tail_type": "观点",
+      "polarity": "negative",
+      "stance_score": -0.8,
+      "intensity": 0.8,
+      "evidence": "我说：“我存在，因此，我能思。”",
+      "confidence": 0.9
+    },
+    {
+      "id": "r8",
+      "head": "作者",
+      "head_type": "人物",
+      "relation": "主张",
+      "relation_subtype": "不适用",
+      "tail": "我不存在时，因此，我不能思；而宇宙间一切物仍存在",
+      "tail_type": "观点",
+      "polarity": "positive",
+      "stance_score": 1.0,
+      "intensity": 0.9,
+      "evidence": "我并且说：“我不存在时，因此，我不能思；而宇宙间一切物仍存在。”",
+      "confidence": 0.9
+    },
+    {
+      "id": "r9",
+      "head": "作者",
+      "head_type": "人物",
+      "relation": "回应",
+      "relation_subtype": "概念澄清",
+      "tail": "一切唯心论者",
+      "tail_type": "阵营/群体",
+      "polarity": "negative",
+      "stance_score": -0.9,
+      "intensity": 0.9,
+      "evidence": "敢告一切唯心论者，倘不能论破我这辨证的方式，别的千言万语都是支遁之词",
+      "confidence": 0.9
+    },
+    {
+      "id": "r10",
+      "head": "张先生",
+      "head_type": "人物",
+      "relation": "主张",
+      "relation_subtype": "不适用",
+      "tail": "物质科学是真正科学",
+      "tail_type": "观点",
+      "polarity": "neutral",
+      "stance_score": 0.0,
+      "intensity": 0.3,
+      "evidence": "只承认物质科学是真正科学",
+      "confidence": 0.9
+    },
+    {
+      "id": "r11",
+      "head": "张先生",
+      "head_type": "人物",
+      "relation": "主张",
+      "relation_subtype": "不适用",
+      "tail": "社会生活之超科学较个人心理为尤甚",
+      "tail_type": "观点",
+      "polarity": "neutral",
+      "stance_score": 0.0,
+      "intensity": 0.3,
+      "evidence": "并力言社会生活之超科学较个人心理为尤甚",
+      "confidence": 0.9
+    },
+    {
+      "id": "r12",
+      "head": "作者",
+      "head_type": "人物",
+      "relation": "反驳",
+      "relation_subtype": "逻辑反驳",
+      "tail": "社会生活之超科学较个人心理为尤甚",
+      "tail_type": "观点",
+      "polarity": "negative",
+      "stance_score": -0.7,
+      "intensity": 0.6,
+      "evidence": "这是因为个人心理现象比物质现象复杂，社会现象比心理现象更复杂，所以我们人类对于这些现象因果之认识便有比较的精粗迟速之不同",
+      "confidence": 0.9
+    },
+    {
+      "id": "r13",
+      "head": "作者",
+      "head_type": "人物",
+      "relation": "反驳",
+      "relation_subtype": "逻辑反驳",
+      "tail": "一部分是有规律秩序的，一部分是乱杂无章毫没有规律秩序的",
+      "tail_type": "观点",
+      "polarity": "negative",
+      "stance_score": -0.9,
+      "intensity": 0.8,
+      "evidence": "并不是宇宙间诸现象中，一部分是有规律秩序的，一部分是乱杂无章毫没有规律秩序的",
+      "confidence": 0.9
+    },
+    {
+      "id": "r14",
+      "head": "作者",
+      "head_type": "人物",
+      "relation": "反驳",
+      "relation_subtype": "逻辑反驳",
+      "tail": "张先生",
+      "tail_type": "人物",
+      "polarity": "negative",
+      "stance_score": -0.7,
+      "intensity": 0.6,
+      "evidence": "不能拿我们主观上犹未能完全认识某一部分之规律秩序，遂断定客观上某一部本来没有规律秩序",
+      "confidence": 0.9
+    }
+  ],
+  "definitions": [
+    {
+      "id": "def1",
+      "term": "思想",
+      "definition": "思想是事实的产物，由物质世界、能思的人、所思对象三个事实产生",
+      "evidence": "第一先有了物质的世界这个事实，第二才有能思想的人这个事实，第三又有了所思想的对象这个事实，然后思想才会发生，思想明明是这些事实底儿孙",
+      "confidence": 0.9
+    }
+  ],
+  "citations": [
+    {
+      "id": "cit1",
+      "citer": "作者",
+      "quoted_author": "笛卡儿",
+      "quoted_work": "",
+      "quoted_claim": "我思，因此，我存在",
+      "function": "援引权威反驳",
+      "evidence": "笛卡儿说：“我思，因此，我存在。”我说：“我存在，因此，我能思。”",
+      "confidence": 0.9
+    }
+  ],
+  "rhetorical_devices": [
+    {
+      "id": "rh1",
+      "expression": "思想明明是这些事实底儿孙",
+      "device_type": "比喻",
+      "literal_target": "思想是事实的产物",
+      "function": "形象化地说明思想依赖于事实，反驳思想为事实之母的观点",
+      "evidence": "思想明明是这些事实底儿孙",
+      "confidence": 0.9
+    },
+    {
+      "id": "rh2",
+      "expression": "倒果为因",
+      "device_type": "标签化",
+      "literal_target": "将结果当作原因",
+      "function": "批评对方观点逻辑错误",
+      "evidence": "如何倒果为因，说思想是事实之母",
+      "confidence": 0.9
+    },
+    {
+      "id": "rh3",
+      "expression": "支遁之词",
+      "device_type": "标签化",
+      "literal_target": "无意义的言辞",
+      "function": "贬低对方可能的反驳",
+      "evidence": "别的千言万语都是支遁之词",
+      "confidence": 0.9
+    }
+  ],
+  "uncertainties": [
+    {
+      "item": "张先生的具体身份",
+      "reason": "文本中仅称'张先生'，未给出全名，无法确定具体人物"
+    },
+    {
+      "item": "此序文的具体名称",
+      "reason": "文本中仅称'此序文'，未给出标题，无法确定具体文章"
+    }
+  ]
+}

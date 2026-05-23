@@ -1,0 +1,338 @@
+{
+  "metadata": {
+    "schema_version": "lite_v3.0",
+    "article_id": "丁文江2_000_e838922e",
+    "article_title": "玄学与科学——答张君劢",
+    "source_author": "丁文江",
+    "section_title": "",
+    "section_author": "",
+    "segment_id": "丁文江2_000_e838922e_s0037",
+    "segment_index": 37,
+    "source_file": "E:\\1研究生\\岭南大学\\论文毕业\\capstone\\资料\\新的内容开始了\\local_upload\\input_丁文江\\丁文江2.txt"
+  },
+  "entities": [
+    {
+      "id": "e1",
+      "name": "玄学鬼",
+      "canonical_name": "玄学鬼",
+      "type": "比喻/类比",
+      "evidence": "玄学鬼没奈何只得向科学宫走去。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e2",
+      "name": "科学宫",
+      "canonical_name": "科学宫",
+      "type": "比喻/类比",
+      "evidence": "玄学鬼没奈何只得向科学宫走去。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e3",
+      "name": "托姆生",
+      "canonical_name": "托姆生",
+      "type": "人物",
+      "evidence": "他认得是科学宫的门斗托姆生。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e4",
+      "name": "《科学引论》",
+      "canonical_name": "《科学引论》",
+      "type": "著作",
+      "evidence": "连忙上前把他手里的书抢了过来一看，原来是一本《科学引论》。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e5",
+      "name": "兰克司德",
+      "canonical_name": "兰克司德",
+      "type": "人物",
+      "evidence": "念了几句忽然念到兰克司德的名字。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e6",
+      "name": "柏格森",
+      "canonical_name": "柏格森",
+      "type": "人物",
+      "evidence": "把他认做柏格森，没头没脑的乱打；",
+      "confidence": 1.0
+    },
+    {
+      "id": "e7",
+      "name": "人类的知识",
+      "canonical_name": "人类的知识",
+      "type": "概念",
+      "evidence": "人类的知识好比是代数上括弧里面的内容，括弧外面是一个X，代表不可知的东西。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e8",
+      "name": "X",
+      "canonical_name": "X",
+      "type": "概念",
+      "evidence": "人类的知识好比是代数上括弧里面的内容，括弧外面是一个X，代表不可知的东西。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e9",
+      "name": "不可知的东西",
+      "canonical_name": "不可知的东西",
+      "type": "概念",
+      "evidence": "人类的知识好比是代数上括弧里面的内容，括弧外面是一个X，代表不可知的东西。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e10",
+      "name": "玄学家",
+      "canonical_name": "玄学家",
+      "type": "阵营/群体",
+      "evidence": "玄学家就拿这个X来变把戏。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e11",
+      "name": "瞎子",
+      "canonical_name": "瞎子",
+      "type": "比喻/类比",
+      "evidence": "他们所做的事又好像一个瞎子在一个暗房子里捉一个黑猫——最妙的是房子里面只有一个X，并没有猫！",
+      "confidence": 1.0
+    },
+    {
+      "id": "e12",
+      "name": "暗房子",
+      "canonical_name": "暗房子",
+      "type": "比喻/类比",
+      "evidence": "他们所做的事又好像一个瞎子在一个暗房子里捉一个黑猫——最妙的是房子里面只有一个X，并没有猫！",
+      "confidence": 1.0
+    },
+    {
+      "id": "e13",
+      "name": "黑猫",
+      "canonical_name": "黑猫",
+      "type": "比喻/类比",
+      "evidence": "他们所做的事又好像一个瞎子在一个暗房子里捉一个黑猫——最妙的是房子里面只有一个X，并没有猫！",
+      "confidence": 1.0
+    },
+    {
+      "id": "e14",
+      "name": "时间是有质的",
+      "canonical_name": "时间是有质的",
+      "type": "观点",
+      "evidence": "柏格森不但是说时间是有质的，有抵抗力的，理智是靠不住的，直觉是真向导——",
+      "confidence": 1.0
+    },
+    {
+      "id": "e15",
+      "name": "理智是靠不住的",
+      "canonical_name": "理智是靠不住的",
+      "type": "观点",
+      "evidence": "柏格森不但是说时间是有质的，有抵抗力的，理智是靠不住的，直觉是真向导——",
+      "confidence": 1.0
+    },
+    {
+      "id": "e16",
+      "name": "直觉是真向导",
+      "canonical_name": "直觉是真向导",
+      "type": "观点",
+      "evidence": "柏格森不但是说时间是有质的，有抵抗力的，理智是靠不住的，直觉是真向导——",
+      "confidence": 1.0
+    },
+    {
+      "id": "e17",
+      "name": "《近世科学与柏格森的幻想》",
+      "canonical_name": "《近世科学与柏格森的幻想》",
+      "type": "著作",
+      "evidence": "（节译《近世科学与柏格森的幻想》的序子。）",
+      "confidence": 1.0
+    },
+    {
+      "id": "e18",
+      "name": "任公",
+      "canonical_name": "任公",
+      "type": "人物",
+      "evidence": "我向任公告饶道：“下次不敢了！”",
+      "confidence": 1.0
+    },
+    {
+      "id": "e19",
+      "name": "君劢",
+      "canonical_name": "君劢",
+      "type": "人物",
+      "evidence": "我再三向君劢赔罪道：“小兄弟向来是顽皮惯的，请你不要生气！”",
+      "confidence": 1.0
+    }
+  ],
+  "claims": [
+    {
+      "id": "c1",
+      "speaker": "托姆生",
+      "claim": "人类的知识好比是代数上括弧里面的内容，括弧外面是一个X，代表不可知的东西。",
+      "target": "人类的知识",
+      "claim_type": "描述性主张",
+      "claim_status": "直接引用",
+      "polarity": "neutral",
+      "evidence": "人类的知识好比是代数上括弧里面的内容，括弧外面是一个X，代表不可知的东西。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c2",
+      "speaker": "托姆生",
+      "claim": "玄学家就拿这个X来变把戏。",
+      "target": "玄学家",
+      "claim_type": "评价性主张",
+      "claim_status": "直接引用",
+      "polarity": "negative",
+      "evidence": "玄学家就拿这个X来变把戏。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c3",
+      "speaker": "托姆生",
+      "claim": "他们所做的事又好像一个瞎子在一个暗房子里捉一个黑猫——最妙的是房子里面只有一个X，并没有猫！",
+      "target": "玄学家",
+      "claim_type": "评价性主张",
+      "claim_status": "直接引用",
+      "polarity": "negative",
+      "evidence": "他们所做的事又好像一个瞎子在一个暗房子里捉一个黑猫——最妙的是房子里面只有一个X，并没有猫！",
+      "confidence": 1.0
+    },
+    {
+      "id": "c4",
+      "speaker": "托姆生",
+      "claim": "柏格森不但是说时间是有质的，有抵抗力的，理智是靠不住的，直觉是真向导——这本来就譬如他告诉我们，他在暗房子里面已经捉到了猫尾巴上的几根毛——他还要来瞎讲科学，看他的神气好像他是懂得生物学的，细细一研究绝对不是那们一回事！所以他不是一个有趣的戏法家，他是一个说谎的骗子！",
+      "target": "柏格森",
+      "claim_type": "评价性主张",
+      "claim_status": "直接引用",
+      "polarity": "negative",
+      "evidence": "柏格森不但是说时间是有质的，有抵抗力的，理智是靠不住的，直觉是真向导——这本来就譬如他告诉我们，他在暗房子里面已经捉到了猫尾巴上的几根毛——他还要来瞎讲科学，看他的神气好像他是懂得生物学的，细细一研究绝对不是那们一回事！所以他不是一个有趣的戏法家，他是一个说谎的骗子！",
+      "confidence": 1.0
+    },
+    {
+      "id": "c5",
+      "speaker": "丁文江",
+      "claim": "下次不敢了！",
+      "target": "任公",
+      "claim_type": "回应性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "我向任公告饶道：“下次不敢了！”",
+      "confidence": 1.0
+    },
+    {
+      "id": "c6",
+      "speaker": "丁文江",
+      "claim": "小兄弟向来是顽皮惯的，请你不要生气！",
+      "target": "君劢",
+      "claim_type": "回应性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "我再三向君劢赔罪道：“小兄弟向来是顽皮惯的，请你不要生气！”",
+      "confidence": 1.0
+    }
+  ],
+  "relations": [
+    {
+      "id": "r1",
+      "head": "丁文江",
+      "head_type": "人物",
+      "relation": "回应",
+      "relation_subtype": "一般批评",
+      "tail": "任公",
+      "tail_type": "人物",
+      "polarity": "neutral",
+      "stance_score": 0.0,
+      "intensity": 0.5,
+      "evidence": "我向任公告饶道：“下次不敢了！”",
+      "confidence": 1.0
+    },
+    {
+      "id": "r2",
+      "head": "丁文江",
+      "head_type": "人物",
+      "relation": "回应",
+      "relation_subtype": "一般批评",
+      "tail": "君劢",
+      "tail_type": "人物",
+      "polarity": "neutral",
+      "stance_score": 0.0,
+      "intensity": 0.5,
+      "evidence": "我再三向君劢赔罪道：“小兄弟向来是顽皮惯的，请你不要生气！”",
+      "confidence": 1.0
+    }
+  ],
+  "definitions": [],
+  "citations": [],
+  "rhetorical_devices": [
+    {
+      "id": "rh1",
+      "expression": "玄学鬼没奈何只得向科学宫走去。走不了许多时，就看见一座很大的宫殿，光芒万丈，紫气千条，门前有三个大金字“科学宫”。",
+      "device_type": "比喻",
+      "literal_target": "玄学与科学的关系",
+      "function": "形象化地表现玄学面对科学时的无奈和科学的崇高地位",
+      "evidence": "玄学鬼没奈何只得向科学宫走去。走不了许多时，就看见一座很大的宫殿，光芒万丈，紫气千条，门前有三个大金字“科学宫”。",
+      "confidence": 1.0
+    },
+    {
+      "id": "rh2",
+      "expression": "人类的知识好比是代数上括弧里面的内容，括弧外面是一个X，代表不可知的东西。",
+      "device_type": "类比",
+      "literal_target": "人类知识与不可知的关系",
+      "function": "用代数比喻说明人类知识有限，不可知的东西是未知的X",
+      "evidence": "人类的知识好比是代数上括弧里面的内容，括弧外面是一个X，代表不可知的东西。",
+      "confidence": 1.0
+    },
+    {
+      "id": "rh3",
+      "expression": "他们所做的事又好像一个瞎子在一个暗房子里捉一个黑猫——最妙的是房子里面只有一个X，并没有猫！",
+      "device_type": "类比",
+      "literal_target": "玄学家的研究",
+      "function": "讽刺玄学家研究的是不存在的东西，徒劳无功",
+      "evidence": "他们所做的事又好像一个瞎子在一个暗房子里捉一个黑猫——最妙的是房子里面只有一个X，并没有猫！",
+      "confidence": 1.0
+    },
+    {
+      "id": "rh4",
+      "expression": "他不是一个有趣的戏法家，他是一个说谎的骗子！",
+      "device_type": "讽刺",
+      "literal_target": "柏格森",
+      "function": "严厉批评柏格森，指责其欺骗",
+      "evidence": "所以他不是一个有趣的戏法家，他是一个说谎的骗子！",
+      "confidence": 1.0
+    }
+  ],
+  "uncertainties": [
+    {
+      "item": "托姆生是否真实人物或虚构角色",
+      "reason": "文本中仅出现“科学宫的门斗托姆生”，未提供更多背景信息，无法判断其真实性。"
+    },
+    {
+      "item": "“兰克司德”的具体身份",
+      "reason": "文本仅提到“兰克司德的名字”和“科学宫内的恶金刚”，未说明其真实身份。"
+    },
+    {
+      "item": "“任公”是否指梁启超",
+      "reason": "文本中仅出现“任公”，未提供全名或背景，无法确认。"
+    }
+  ],
+  "_meta": {
+    "status": "success",
+    "stage": "extract",
+    "model": "deepseek-ai/DeepSeek-V4-Flash",
+    "base_url": "https://api.siliconflow.cn/v1",
+    "prompt_version": "v2.0",
+    "schema_version": "lite_v3.0",
+    "segment_id": "丁文江2_000_e838922e_s0037",
+    "article_id": "丁文江2_000_e838922e",
+    "char_start": 18279,
+    "char_end": 18849,
+    "raw_path": "E:\\1研究生\\岭南大学\\论文毕业\\capstone\\资料\\新的内容开始了\\local_upload\\kg_runs_v2\\丁文江_等3篇\\raw_outputs\\extract\\丁文江2_000_e838922e_s0037.txt",
+    "parsed_at": "2026-05-22T07:53:48",
+    "started_at": "2026-05-22T07:51:56",
+    "elapsed_seconds": 111.858,
+    "strict_evidence_check": true,
+    "drop_unsupported_evidence": true,
+    "request_timeout_seconds": 60
+  }
+}

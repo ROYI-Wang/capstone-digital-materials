@@ -1,0 +1,467 @@
+{
+  "metadata": {
+    "schema_version": "lite_v2.0",
+    "article_id": "瞿秋白_001_3dbfe529",
+    "article_title": "实验主义与革命哲学",
+    "source_author": "瞿秋白",
+    "section_title": "",
+    "section_author": "",
+    "segment_id": "瞿秋白_001_3dbfe529_s0002",
+    "segment_index": 2,
+    "source_file": "E:\\1研究生\\岭南大学\\论文毕业\\capstone\\资料\\新的内容开始了\\local_upload\\input_w2\\瞿秋白.txt"
+  },
+  "entities": [
+    {
+      "id": "e1",
+      "name": "实验主义",
+      "canonical_name": "实验主义",
+      "type": "主义/学说/理论",
+      "evidence": "实验主义是多元论，是改良派。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e2",
+      "name": "多元论",
+      "canonical_name": "多元论",
+      "type": "主义/学说/理论",
+      "evidence": "实验主义是多元论，是改良派。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e3",
+      "name": "改良派",
+      "canonical_name": "改良派",
+      "type": "阵营/群体",
+      "evidence": "实验主义是多元论，是改良派。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e4",
+      "name": "詹姆士",
+      "canonical_name": "詹姆士",
+      "type": "人物",
+      "evidence": "詹姆士说：实验主义的方法，最先便是消弭哲学上辩来辩去辩不完的争论问题。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e5",
+      "name": "实验主义的方法",
+      "canonical_name": "实验主义的方法",
+      "type": "方法",
+      "evidence": "詹姆士说：实验主义的方法，最先便是消弭哲学上辩来辩去辩不完的争论问题。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e6",
+      "name": "宇宙",
+      "canonical_name": "宇宙",
+      "type": "概念",
+      "evidence": "宇宙是一元的还是多元的？是唯物的还是唯心的？是自由的还是必然的？",
+      "confidence": 1.0
+    },
+    {
+      "id": "e7",
+      "name": "一元",
+      "canonical_name": "一元",
+      "type": "概念",
+      "evidence": "宇宙是一元的还是多元的？",
+      "confidence": 1.0
+    },
+    {
+      "id": "e8",
+      "name": "多元",
+      "canonical_name": "多元",
+      "type": "概念",
+      "evidence": "宇宙是一元的还是多元的？",
+      "confidence": 1.0
+    },
+    {
+      "id": "e9",
+      "name": "唯物",
+      "canonical_name": "唯物",
+      "type": "概念",
+      "evidence": "是唯物的还是唯心的？",
+      "confidence": 1.0
+    },
+    {
+      "id": "e10",
+      "name": "唯心",
+      "canonical_name": "唯心",
+      "type": "概念",
+      "evidence": "是唯物的还是唯心的？",
+      "confidence": 1.0
+    },
+    {
+      "id": "e11",
+      "name": "自由",
+      "canonical_name": "自由",
+      "type": "概念",
+      "evidence": "是自由的还是必然的？",
+      "confidence": 1.0
+    },
+    {
+      "id": "e12",
+      "name": "必然",
+      "canonical_name": "必然",
+      "type": "概念",
+      "evidence": "是自由的还是必然的？",
+      "confidence": 1.0
+    },
+    {
+      "id": "e13",
+      "name": "真理",
+      "canonical_name": "真理",
+      "type": "概念",
+      "evidence": "假使某人认甲种意见为真理，认乙种意见为非真理，在实用的结果上，有什么区别？",
+      "confidence": 1.0
+    },
+    {
+      "id": "e14",
+      "name": "行动",
+      "canonical_name": "行动",
+      "type": "概念",
+      "evidence": "本为希腊字“行动”之意。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e15",
+      "name": "Pragmatism",
+      "canonical_name": "Pragmatism",
+      "type": "概念",
+      "evidence": "实验主义的名称 —— Pragmatism的语根与欧洲文Practie（实行）一字相同，本为希腊字“行动”之意。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e16",
+      "name": "Practie",
+      "canonical_name": "Practie",
+      "type": "概念",
+      "evidence": "实验主义的名称 —— Pragmatism的语根与欧洲文Practie（实行）一字相同，本为希腊字“行动”之意。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e17",
+      "name": "实行",
+      "canonical_name": "实行",
+      "type": "概念",
+      "evidence": "实验主义的名称 —— Pragmatism的语根与欧洲文Practie（实行）一字相同，本为希腊字“行动”之意。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e18",
+      "name": "行动的哲学",
+      "canonical_name": "行动的哲学",
+      "type": "概念",
+      "evidence": "实验主义却是一种行动的哲学。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e19",
+      "name": "《实验主义》",
+      "canonical_name": "《实验主义》",
+      "type": "著作",
+      "evidence": "（詹姆士之《实验主义》）",
+      "confidence": 1.0
+    },
+    {
+      "id": "e20",
+      "name": "思想",
+      "canonical_name": "思想",
+      "type": "概念",
+      "evidence": "他的根本精神—就是使一切“思想”都成某种行动的“动机”；",
+      "confidence": 1.0
+    },
+    {
+      "id": "e21",
+      "name": "动机",
+      "canonical_name": "动机",
+      "type": "概念",
+      "evidence": "他的根本精神—就是使一切“思想”都成某种行动的“动机”；",
+      "confidence": 1.0
+    }
+  ],
+  "claims": [
+    {
+      "id": "c1",
+      "speaker": "瞿秋白",
+      "claim": "实验主义是多元论，是改良派。",
+      "target": "实验主义",
+      "claim_type": "定义性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "实验主义是多元论，是改良派。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c2",
+      "speaker": "瞿秋白",
+      "claim": "现状是可以改造的，却不必根本更动现存的制度，只要琐琐屑屑，逐段应付好了。",
+      "target": "实验主义",
+      "claim_type": "方法论主张",
+      "claim_status": "作者概括",
+      "polarity": "negative",
+      "evidence": "现状是可以改造的，却不必根本更动现存的制度，只要琐琐屑屑，逐段应付好了。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c3",
+      "speaker": "詹姆士",
+      "claim": "实验主义的方法，最先便是消弭哲学上辩来辩去辩不完的争论问题。",
+      "target": "实验主义的方法",
+      "claim_type": "方法论主张",
+      "claim_status": "直接引用",
+      "polarity": "positive",
+      "evidence": "詹姆士说：实验主义的方法，最先便是消弭哲学上辩来辩去辩不完的争论问题。",
+      "confidence": 0.95
+    },
+    {
+      "id": "c4",
+      "speaker": "詹姆士",
+      "claim": "宇宙是一元的还是多元的？是唯物的还是唯心的？是自由的还是必然的？这是永久不能解决的问题。",
+      "target": "宇宙",
+      "claim_type": "知识论主张",
+      "claim_status": "直接引用",
+      "polarity": "neutral",
+      "evidence": "宇宙是一元的还是多元的？是唯物的还是唯心的？是自由的还是必然的？这是永久不能解决的问题。",
+      "confidence": 0.95
+    },
+    {
+      "id": "c5",
+      "speaker": "詹姆士",
+      "claim": "宇宙的真实，其实可以不用讨究。",
+      "target": "宇宙",
+      "claim_type": "知识论主张",
+      "claim_status": "直接引用",
+      "polarity": "positive",
+      "evidence": "宇宙的真实，其实可以不用讨究。",
+      "confidence": 0.95
+    },
+    {
+      "id": "c6",
+      "speaker": "詹姆士",
+      "claim": "实验主义只问某种意见在实用上有什么结果。",
+      "target": "实验主义",
+      "claim_type": "方法论主张",
+      "claim_status": "直接引用",
+      "polarity": "positive",
+      "evidence": "实验主义只问某种意见在实用上有什么结果。",
+      "confidence": 0.95
+    },
+    {
+      "id": "c7",
+      "speaker": "詹姆士",
+      "claim": "假使某人认甲种意见为真理，认乙种意见为非真理，在实用的结果上，有什么区别？若是没有什么区别，那就很不用争辩。",
+      "target": "真理",
+      "claim_type": "知识论主张",
+      "claim_status": "直接引用",
+      "polarity": "positive",
+      "evidence": "假使某人认甲种意见为真理，认乙种意见为非真理，在实用的结果上，有什么区别？若是没有什么区别，那就很不用争辩。",
+      "confidence": 0.95
+    },
+    {
+      "id": "c8",
+      "speaker": "詹姆士",
+      "claim": "真正的争辩，只有实用上两种意见有不同的结果时，方有价值。",
+      "target": "争辩",
+      "claim_type": "方法论主张",
+      "claim_status": "直接引用",
+      "polarity": "positive",
+      "evidence": "真正的争辩，只有实用上两种意见有不同的结果时，方有价值。",
+      "confidence": 0.95
+    },
+    {
+      "id": "c9",
+      "speaker": "瞿秋白",
+      "claim": "实验主义却是一种行动的哲学。",
+      "target": "实验主义",
+      "claim_type": "定义性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "实验主义却是一种行动的哲学。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c10",
+      "speaker": "詹姆士",
+      "claim": "实验主义远避一切抽象的不可几及的东西，一切纸上的解决，先天的理由，一切硬性的不可变易的原则，一切锁闭的系统以及一切绝对与原理。他只问具体的、切近的东西，只问事实行动及权力。",
+      "target": "实验主义",
+      "claim_type": "方法论主张",
+      "claim_status": "直接引用",
+      "polarity": "positive",
+      "evidence": "实验主义远避一切抽象的不可几及的东西，一切纸上的解决，先天的理由，一切硬性的不可变易的原则，一切锁闭的系统以及一切绝对与原理。他只问具体的、切近的东西，只问事实行动及权力。",
+      "confidence": 0.95
+    },
+    {
+      "id": "c11",
+      "speaker": "瞿秋白",
+      "claim": "实验主义不愿意做锁闭的系统。他要成一种新的研究方法一有这方法可以研究现实生活，并且改革现实生活。",
+      "target": "实验主义",
+      "claim_type": "方法论主张",
+      "claim_status": "作者概括",
+      "polarity": "neutral",
+      "evidence": "实验主义不愿意做锁闭的系统。他要成一种新的研究方法一有这方法可以研究现实生活，并且改革现实生活。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c12",
+      "speaker": "瞿秋白",
+      "claim": "他的根本精神—就是使一切“思想”都成某种行动的“动机”；",
+      "target": "实验主义",
+      "claim_type": "定义性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "他的根本精神—就是使一切“思想”都成某种行动的“动机”；",
+      "confidence": 0.9
+    }
+  ],
+  "relations": [
+    {
+      "id": "r1",
+      "head": "实验主义",
+      "head_type": "主义/学说/理论",
+      "relation": "属于",
+      "tail": "多元论",
+      "tail_type": "主义/学说/理论",
+      "polarity": "negative",
+      "evidence": "实验主义是多元论，是改良派。",
+      "confidence": 0.9
+    },
+    {
+      "id": "r2",
+      "head": "实验主义",
+      "head_type": "主义/学说/理论",
+      "relation": "属于",
+      "tail": "改良派",
+      "tail_type": "阵营/群体",
+      "polarity": "negative",
+      "evidence": "实验主义是多元论，是改良派。",
+      "confidence": 0.9
+    },
+    {
+      "id": "r3",
+      "head": "实验主义的方法",
+      "head_type": "方法",
+      "relation": "解释",
+      "tail": "消弭哲学上辩来辩去辩不完的争论问题",
+      "tail_type": "概念",
+      "polarity": "positive",
+      "evidence": "詹姆士说：实验主义的方法，最先便是消弭哲学上辩来辩去辩不完的争论问题。",
+      "confidence": 0.95
+    },
+    {
+      "id": "r4",
+      "head": "实验主义",
+      "head_type": "主义/学说/理论",
+      "relation": "定义",
+      "tail": "行动的哲学",
+      "tail_type": "概念",
+      "polarity": "neutral",
+      "evidence": "实验主义却是一种行动的哲学。",
+      "confidence": 0.9
+    },
+    {
+      "id": "r5",
+      "head": "Pragmatism",
+      "head_type": "概念",
+      "relation": "源自",
+      "tail": "Practie",
+      "tail_type": "概念",
+      "polarity": "neutral",
+      "evidence": "实验主义的名称 —— Pragmatism的语根与欧洲文Practie（实行）一字相同，本为希腊字“行动”之意。",
+      "confidence": 0.95
+    },
+    {
+      "id": "r6",
+      "head": "实验主义",
+      "head_type": "主义/学说/理论",
+      "relation": "相关",
+      "tail": "詹姆士",
+      "tail_type": "人物",
+      "polarity": "positive",
+      "evidence": "（詹姆士之《实验主义》）",
+      "confidence": 0.95
+    },
+    {
+      "id": "r7",
+      "head": "思想",
+      "head_type": "概念",
+      "relation": "解释",
+      "tail": "动机",
+      "tail_type": "概念",
+      "polarity": "neutral",
+      "evidence": "他的根本精神—就是使一切“思想”都成某种行动的“动机”；",
+      "confidence": 0.9
+    }
+  ],
+  "definitions": [
+    {
+      "id": "def1",
+      "term": "实验主义的方法",
+      "definition": "最先便是消弭哲学上辩来辩去辩不完的争论问题。",
+      "evidence": "詹姆士说：实验主义的方法，最先便是消弭哲学上辩来辩去辩不完的争论问题。",
+      "confidence": 0.95
+    },
+    {
+      "id": "def2",
+      "term": "实验主义",
+      "definition": "一种行动的哲学。",
+      "evidence": "实验主义却是一种行动的哲学。",
+      "confidence": 0.9
+    },
+    {
+      "id": "def3",
+      "term": "实验主义",
+      "definition": "远避一切抽象的不可几及的东西，一切纸上的解决，先天的理由，一切硬性的不可变易的原则，一切锁闭的系统以及一切绝对与原理。他只问具体的、切近的东西，只问事实行动及权力。",
+      "evidence": "实验主义远避一切抽象的不可几及的东西，一切纸上的解决，先天的理由，一切硬性的不可变易的原则，一切锁闭的系统以及一切绝对与原理。他只问具体的、切近的东西，只问事实行动及权力。",
+      "confidence": 0.95
+    }
+  ],
+  "citations": [
+    {
+      "id": "cit1",
+      "citer": "瞿秋白",
+      "quoted_author": "詹姆士",
+      "quoted_work": "",
+      "quoted_claim": "实验主义的方法，最先便是消弭哲学上辩来辩去辩不完的争论问题。",
+      "function": "援引权威支持",
+      "evidence": "詹姆士说：实验主义的方法，最先便是消弭哲学上辩来辩去辩不完的争论问题。",
+      "confidence": 0.95
+    }
+  ],
+  "rhetorical_devices": [
+    {
+      "id": "rh1",
+      "expression": "琐琐屑屑，逐段应付",
+      "device_type": "讽刺",
+      "literal_target": "实验主义的改良方法",
+      "function": "贬低实验主义的方法，暗示其缺乏根本性变革",
+      "evidence": "只要琐琐屑屑，逐段应付好了。",
+      "confidence": 0.85
+    }
+  ],
+  "uncertainties": [
+    {
+      "item": "瞿秋白对实验主义的整体态度",
+      "reason": "文本中既有负面评价（多元论、改良派），也有中性描述（行动的哲学），极性可能为mixed，但证据不足明确判断。"
+    }
+  ],
+  "_meta": {
+    "status": "success",
+    "stage": "extract",
+    "model": "deepseek-ai/DeepSeek-V4-Flash",
+    "base_url": "https://api.siliconflow.cn/v1",
+    "prompt_version": "extract_prompt_v2.0",
+    "schema_version": "lite_v2.0",
+    "segment_id": "瞿秋白_001_3dbfe529_s0002",
+    "article_id": "瞿秋白_001_3dbfe529",
+    "char_start": 1035,
+    "char_end": 1630,
+    "raw_path": "E:\\1研究生\\岭南大学\\论文毕业\\capstone\\资料\\新的内容开始了\\local_upload\\kg_runs\\瞿秋白\\raw_outputs\\extract\\瞿秋白_001_3dbfe529_s0002.txt",
+    "parsed_at": "2026-05-20T00:45:32",
+    "started_at": "2026-05-20T00:32:49",
+    "elapsed_seconds": 763.012,
+    "strict_evidence_check": true,
+    "drop_unsupported_evidence": true,
+    "request_timeout_seconds": 180
+  }
+}

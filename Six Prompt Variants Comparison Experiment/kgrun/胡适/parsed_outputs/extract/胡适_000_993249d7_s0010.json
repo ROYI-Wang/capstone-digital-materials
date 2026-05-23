@@ -1,0 +1,421 @@
+{
+  "metadata": {
+    "schema_version": "lite_v2.0",
+    "article_id": "胡适_000_993249d7",
+    "article_title": "序二",
+    "source_author": "胡适",
+    "section_title": "",
+    "section_author": "",
+    "segment_id": "胡适_000_993249d7_s0010",
+    "segment_index": 10,
+    "source_file": "E:\\1研究生\\岭南大学\\论文毕业\\capstone\\资料\\新的内容开始了\\local_upload\\input_w3\\胡适.txt"
+  },
+  "entities": [
+    {
+      "id": "e1",
+      "name": "赫胥黎",
+      "canonical_name": "赫胥黎",
+      "type": "人物",
+      "evidence": "赫胥黎等在当用这种武器时",
+      "confidence": 1.0
+    },
+    {
+      "id": "e2",
+      "name": "无神论者",
+      "canonical_name": "无神论者",
+      "type": "阵营/群体",
+      "evidence": "明明是无神论者也不得不挂一个“存疑”的招牌",
+      "confidence": 1.0
+    },
+    {
+      "id": "e3",
+      "name": "有神论",
+      "canonical_name": "有神论",
+      "type": "主义/学说/理论",
+      "evidence": "等到有神论的证据充足时",
+      "confidence": 1.0
+    },
+    {
+      "id": "e4",
+      "name": "无神论",
+      "canonical_name": "无神论",
+      "type": "主义/学说/理论",
+      "evidence": "我们正不妨老实自居为“无神论者”",
+      "confidence": 1.0
+    },
+    {
+      "id": "e5",
+      "name": "上帝",
+      "canonical_name": "上帝",
+      "type": "概念",
+      "evidence": "否认上帝的存在和灵魂的不灭",
+      "confidence": 1.0
+    },
+    {
+      "id": "e6",
+      "name": "灵魂的不灭",
+      "canonical_name": "灵魂不灭",
+      "type": "概念",
+      "evidence": "否认上帝的存在和灵魂的不灭",
+      "confidence": 1.0
+    },
+    {
+      "id": "e7",
+      "name": "有神论",
+      "canonical_name": "有神论",
+      "type": "主义/学说/理论",
+      "evidence": "既不能相信那没有充分证据的有神论",
+      "confidence": 1.0
+    },
+    {
+      "id": "e8",
+      "name": "心灵不灭论",
+      "canonical_name": "心灵不灭论",
+      "type": "主义/学说/理论",
+      "evidence": "心灵不灭论",
+      "confidence": 1.0
+    },
+    {
+      "id": "e9",
+      "name": "天人感应论",
+      "canonical_name": "天人感应论",
+      "type": "主义/学说/理论",
+      "evidence": "天人感应论",
+      "confidence": 1.0
+    },
+    {
+      "id": "e10",
+      "name": "自然主义的宇宙观",
+      "canonical_name": "自然主义的宇宙观",
+      "type": "主义/学说/理论",
+      "evidence": "自然主义的宇宙观",
+      "confidence": 1.0
+    },
+    {
+      "id": "e11",
+      "name": "唯物的人生观",
+      "canonical_name": "唯物的人生观",
+      "type": "主义/学说/理论",
+      "evidence": "唯物的人生观",
+      "confidence": 1.0
+    },
+    {
+      "id": "e12",
+      "name": "独秀",
+      "canonical_name": "陈独秀",
+      "type": "人物",
+      "evidence": "怪不得独秀要说“科学家站开！且让玄学家来解疑”了",
+      "confidence": 1.0
+    },
+    {
+      "id": "e13",
+      "name": "科学家",
+      "canonical_name": "科学家",
+      "type": "阵营/群体",
+      "evidence": "科学家站开！且让玄学家来解疑",
+      "confidence": 1.0
+    },
+    {
+      "id": "e14",
+      "name": "玄学家",
+      "canonical_name": "玄学家",
+      "type": "阵营/群体",
+      "evidence": "科学家站开！且让玄学家来解疑",
+      "confidence": 1.0
+    },
+    {
+      "id": "e15",
+      "name": "吴稚晖",
+      "canonical_name": "吴稚晖",
+      "type": "人物",
+      "evidence": "吴稚晖先生便不然",
+      "confidence": 1.0
+    },
+    {
+      "id": "e16",
+      "name": "玄学鬼",
+      "canonical_name": "玄学鬼",
+      "type": "概念",
+      "evidence": "他老先生宁可冒“玄学鬼”的恶名",
+      "confidence": 1.0
+    },
+    {
+      "id": "e17",
+      "name": "不可知的区域",
+      "canonical_name": "不可知的区域",
+      "type": "概念",
+      "evidence": "偏要冲到那“不可知的区域”里去打一阵",
+      "confidence": 1.0
+    },
+    {
+      "id": "e18",
+      "name": "《宇宙观及人生观》",
+      "canonical_name": "宇宙观及人生观",
+      "type": "著作",
+      "evidence": "（《宇宙观及人生观》，页九。）",
+      "confidence": 1.0
+    },
+    {
+      "id": "e19",
+      "name": "科学的态度",
+      "canonical_name": "科学的态度",
+      "type": "概念",
+      "evidence": "我们带着这种科学的态度",
+      "confidence": 1.0
+    },
+    {
+      "id": "e20",
+      "name": "姜子牙",
+      "canonical_name": "姜子牙",
+      "type": "人物",
+      "evidence": "正如姜子牙展开了杏黄旗",
+      "confidence": 1.0
+    },
+    {
+      "id": "e21",
+      "name": "十绝阵",
+      "canonical_name": "十绝阵",
+      "type": "概念",
+      "evidence": "也不妨冲进十绝阵里去试试",
+      "confidence": 1.0
+    }
+  ],
+  "claims": [
+    {
+      "id": "c1",
+      "speaker": "胡适",
+      "claim": "赫胥黎等在当用这种武器时，究竟还只是消极的防御居多",
+      "target": "赫胥黎",
+      "claim_type": "历史解释",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "但赫胥黎等在当用这种武器时，究竟还只是消极的防御居多",
+      "confidence": 0.9
+    },
+    {
+      "id": "c2",
+      "speaker": "胡适",
+      "claim": "在今日的中国，我们如果深信现有的科学证据只能叫我们否认上帝的存在和灵魂的不灭，那么，我们正不妨老实自居为“无神论者”",
+      "target": "无神论",
+      "claim_type": "方法论主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "但在今日的中国，在宗教信仰向来比较自由的中国，我们如果深信现有的科学证据只能叫我们否认上帝的存在和灵魂的不灭，那么，我们正不妨老实自居为“无神论者”",
+      "confidence": 0.95
+    },
+    {
+      "id": "c3",
+      "speaker": "胡适",
+      "claim": "这样的自称并不算是武断，因为我们的信仰是根据于证据的",
+      "target": "无神论",
+      "claim_type": "方法论主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "这样的自称并不算是武断，因为我们的信仰是根据于证据的",
+      "confidence": 0.9
+    },
+    {
+      "id": "c4",
+      "speaker": "胡适",
+      "claim": "等到有神论的证据充足时，我们再改信有神论，也还不迟",
+      "target": "有神论",
+      "claim_type": "方法论主张",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "等到有神论的证据充足时，我们再改信有神论，也还不迟",
+      "confidence": 0.9
+    },
+    {
+      "id": "c5",
+      "speaker": "胡适",
+      "claim": "我们在这个时候，既不能相信那没有充分证据的有神论，心灵不灭论，天人感应论，……又不肯积极地主张那自然主义的宇宙观，唯物的人生观，……怪不得独秀要说“科学家站开！且让玄学家来解疑”了",
+      "target": "科学家",
+      "claim_type": "论战策略批评",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "我们在这个时候，既不能相信那没有充分证据的有神论，心灵不灭论，天人感应论，……又不肯积极地主张那自然主义的宇宙观，唯物的人生观，……怪不得独秀要说“科学家站开！且让玄学家来解疑”了",
+      "confidence": 0.9
+    },
+    {
+      "id": "c6",
+      "speaker": "胡适",
+      "claim": "我们信仰科学的人，正不妨也做一番大规模的假设",
+      "target": "科学",
+      "claim_type": "方法论主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "我们信仰科学的人，正不妨也做一番大规模的假设",
+      "confidence": 0.9
+    },
+    {
+      "id": "c7",
+      "speaker": "胡适",
+      "claim": "只要我们的假设处处建筑在已知的事实之上，只要我们认我们的建筑不过是一种最满意的假设，可以跟着新证据修正的，——我们带着这种科学的态度，不妨冲进那不可知的区域里",
+      "target": "科学的态度",
+      "claim_type": "方法论主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "只要我们的假设处处建筑在已知的事实之上，只要我们认我们的建筑不过是一种最满意的假设，可以跟着新证据修正的，——我们带着这种科学的态度，不妨冲进那不可知的区域里",
+      "confidence": 0.95
+    },
+    {
+      "id": "c8",
+      "speaker": "胡适",
+      "claim": "我在上文说的，并不是有意挑剔这一次论战场上的各位武士",
+      "target": "论战参与者",
+      "claim_type": "论战策略批评",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "我在上文说的，并不是有意挑剔这一次论战场上的各位武士",
+      "confidence": 0.9
+    }
+  ],
+  "relations": [
+    {
+      "id": "r1",
+      "head": "赫胥黎",
+      "head_type": "人物",
+      "relation": "批评",
+      "tail": "消极的防御",
+      "tail_type": "概念",
+      "polarity": "negative",
+      "evidence": "但赫胥黎等在当用这种武器时，究竟还只是消极的防御居多",
+      "confidence": 0.9
+    },
+    {
+      "id": "r2",
+      "head": "胡适",
+      "head_type": "人物",
+      "relation": "主张",
+      "tail": "无神论",
+      "tail_type": "主义/学说/理论",
+      "polarity": "positive",
+      "evidence": "我们正不妨老实自居为“无神论者”",
+      "confidence": 0.95
+    },
+    {
+      "id": "r3",
+      "head": "胡适",
+      "head_type": "人物",
+      "relation": "相关",
+      "tail": "独秀",
+      "tail_type": "人物",
+      "polarity": "neutral",
+      "evidence": "怪不得独秀要说“科学家站开！且让玄学家来解疑”了",
+      "confidence": 0.9
+    },
+    {
+      "id": "r4",
+      "head": "胡适",
+      "head_type": "人物",
+      "relation": "相关",
+      "tail": "吴稚晖",
+      "tail_type": "人物",
+      "polarity": "positive",
+      "evidence": "吴稚晖先生便不然。他老先生宁可冒“玄学鬼”的恶名，偏要冲到那“不可知的区域”里去打一阵。他希望“那不可知区域里的假设，责成玄学鬼也带着论理色采去做设着”。（《宇宙观及人生观》，页九。）",
+      "confidence": 0.95
+    },
+    {
+      "id": "r5",
+      "head": "科学的态度",
+      "head_type": "概念",
+      "relation": "解释",
+      "tail": "假设",
+      "tail_type": "概念",
+      "polarity": "positive",
+      "evidence": "只要我们的假设处处建筑在已知的事实之上，只要我们认我们的建筑不过是一种最满意的假设，可以跟着新证据修正的，——我们带着这种科学的态度",
+      "confidence": 0.9
+    },
+    {
+      "id": "r6",
+      "head": "胡适",
+      "head_type": "人物",
+      "relation": "类比",
+      "tail": "姜子牙",
+      "tail_type": "人物",
+      "polarity": "neutral",
+      "evidence": "正如姜子牙展开了杏黄旗，也不妨冲进十绝阵里去试试",
+      "confidence": 0.9
+    }
+  ],
+  "definitions": [
+    {
+      "id": "def1",
+      "term": "科学的态度",
+      "definition": "假设建筑在已知事实之上，认建筑为最满意的假设，可以跟着新证据修正",
+      "evidence": "只要我们的假设处处建筑在已知的事实之上，只要我们认我们的建筑不过是一种最满意的假设，可以跟着新证据修正的，——我们带着这种科学的态度",
+      "confidence": 0.95
+    }
+  ],
+  "citations": [
+    {
+      "id": "cit1",
+      "citer": "胡适",
+      "quoted_author": "独秀",
+      "quoted_work": "",
+      "quoted_claim": "科学家站开！且让玄学家来解疑",
+      "function": "援引权威支持",
+      "evidence": "怪不得独秀要说“科学家站开！且让玄学家来解疑”了",
+      "confidence": 0.9
+    },
+    {
+      "id": "cit2",
+      "citer": "胡适",
+      "quoted_author": "吴稚晖",
+      "quoted_work": "《宇宙观及人生观》",
+      "quoted_claim": "那不可知区域里的假设，责成玄学鬼也带着论理色采去做设着",
+      "function": "援引权威支持",
+      "evidence": "他希望“那不可知区域里的假设，责成玄学鬼也带着论理色采去做设着”。（《宇宙观及人生观》，页九。）",
+      "confidence": 0.95
+    }
+  ],
+  "rhetorical_devices": [
+    {
+      "id": "rh1",
+      "expression": "玄学鬼",
+      "device_type": "标签化",
+      "literal_target": "玄学家",
+      "function": "讽刺性标签，胡适引用吴稚晖自嘲，但整体态度正面",
+      "evidence": "他老先生宁可冒“玄学鬼”的恶名",
+      "confidence": 0.9
+    },
+    {
+      "id": "rh2",
+      "expression": "正如姜子牙展开了杏黄旗，也不妨冲进十绝阵里去试试",
+      "device_type": "类比",
+      "literal_target": "科学态度进入不可知区域",
+      "function": "用神话故事类比科学探索，增强说服力",
+      "evidence": "正如姜子牙展开了杏黄旗，也不妨冲进十绝阵里去试试",
+      "confidence": 0.95
+    }
+  ],
+  "uncertainties": [
+    {
+      "item": "“有积极精神的”一句开头，缺少主语，无法确定所指对象",
+      "reason": "文本以“有积极精神的”开头，但前文缺失，无法判断主语"
+    },
+    {
+      "item": "“这一次论战场上的各位武士”具体指代哪些人",
+      "reason": "文本未明确列出“各位武士”的具体姓名"
+    }
+  ],
+  "_meta": {
+    "status": "success",
+    "stage": "extract",
+    "model": "deepseek-ai/DeepSeek-V4-Flash",
+    "base_url": "https://api.siliconflow.cn/v1",
+    "prompt_version": "extract_prompt_v2.0",
+    "schema_version": "lite_v2.0",
+    "segment_id": "胡适_000_993249d7_s0010",
+    "article_id": "胡适_000_993249d7",
+    "char_start": 4969,
+    "char_end": 5534,
+    "raw_path": "E:\\1研究生\\岭南大学\\论文毕业\\capstone\\资料\\新的内容开始了\\local_upload\\kg_runs\\胡适\\raw_outputs\\extract\\胡适_000_993249d7_s0010.txt",
+    "parsed_at": "2026-05-20T00:18:02",
+    "started_at": "2026-05-20T00:14:30",
+    "elapsed_seconds": 212.634,
+    "strict_evidence_check": true,
+    "drop_unsupported_evidence": true,
+    "request_timeout_seconds": 180
+  }
+}

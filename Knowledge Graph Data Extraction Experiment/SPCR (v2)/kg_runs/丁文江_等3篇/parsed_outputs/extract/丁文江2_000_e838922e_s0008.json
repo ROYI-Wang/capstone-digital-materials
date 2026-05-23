@@ -1,0 +1,550 @@
+{
+  "metadata": {
+    "schema_version": "lite_v3.0",
+    "article_id": "丁文江2_000_e838922e",
+    "article_title": "玄学与科学——答张君劢",
+    "source_author": "丁文江",
+    "section_title": "",
+    "section_author": "",
+    "segment_id": "丁文江2_000_e838922e_s0008",
+    "segment_index": 8,
+    "source_file": "E:\\1研究生\\岭南大学\\论文毕业\\capstone\\资料\\新的内容开始了\\local_upload\\input_丁文江\\丁文江2.txt"
+  },
+  "entities": [
+    {
+      "id": "e1",
+      "name": "牛顿",
+      "canonical_name": "牛顿",
+      "type": "人物",
+      "evidence": "牛顿说发现科学的公例有四个原则",
+      "confidence": 1.0
+    },
+    {
+      "id": "e2",
+      "name": "科学的公例",
+      "canonical_name": "科学的公例",
+      "type": "概念",
+      "evidence": "牛顿说发现科学的公例有四个原则",
+      "confidence": 0.9
+    },
+    {
+      "id": "e3",
+      "name": "科学精神",
+      "canonical_name": "科学精神",
+      "type": "概念",
+      "evidence": "牛顿这种精神，真是科学精神",
+      "confidence": 0.8
+    },
+    {
+      "id": "e4",
+      "name": "真理",
+      "canonical_name": "真理",
+      "type": "概念",
+      "evidence": "世界上的真理是无穷无尽",
+      "confidence": 0.9
+    },
+    {
+      "id": "e5",
+      "name": "公例",
+      "canonical_name": "公例",
+      "type": "概念",
+      "evidence": "科学上所谓公例，是说明我们所观察的事实的方法",
+      "confidence": 0.9
+    },
+    {
+      "id": "e6",
+      "name": "马哈",
+      "canonical_name": "马哈",
+      "type": "人物",
+      "evidence": "马哈同皮尔逊都不承认科学的公例有必然性",
+      "confidence": 1.0
+    },
+    {
+      "id": "e7",
+      "name": "皮尔逊",
+      "canonical_name": "皮尔逊",
+      "type": "人物",
+      "evidence": "马哈同皮尔逊都不承认科学的公例有必然性",
+      "confidence": 1.0
+    },
+    {
+      "id": "e8",
+      "name": "科学",
+      "canonical_name": "科学",
+      "type": "概念",
+      "evidence": "这是科学同玄学根本不同的地方",
+      "confidence": 1.0
+    },
+    {
+      "id": "e9",
+      "name": "玄学",
+      "canonical_name": "玄学",
+      "type": "概念",
+      "evidence": "这是科学同玄学根本不同的地方",
+      "confidence": 1.0
+    },
+    {
+      "id": "e10",
+      "name": "玄学家",
+      "canonical_name": "玄学家",
+      "type": "阵营/群体",
+      "evidence": "玄学家人人都要组织一个牢固不拔的“规律”",
+      "confidence": 1.0
+    },
+    {
+      "id": "e11",
+      "name": "规律",
+      "canonical_name": "规律",
+      "type": "概念",
+      "evidence": "玄学家人人都要组织一个牢固不拔的“规律”",
+      "confidence": 0.9
+    },
+    {
+      "id": "e12",
+      "name": "规律迷的心理",
+      "canonical_name": "规律迷的心理",
+      "type": "概念",
+      "evidence": "科学的精神绝对与这种规律迷的心理相反",
+      "confidence": 0.8
+    },
+    {
+      "id": "e13",
+      "name": "科学的方法",
+      "canonical_name": "科学的方法",
+      "type": "方法",
+      "evidence": "科学的方法，不外将世界的事实分起类来，求他们的秩序",
+      "confidence": 1.0
+    },
+    {
+      "id": "e14",
+      "name": "科学公例",
+      "canonical_name": "科学公例",
+      "type": "概念",
+      "evidence": "再想一句最简单明白的话来，概括这许多事实，这叫做科学公例",
+      "confidence": 1.0
+    },
+    {
+      "id": "e15",
+      "name": "事实",
+      "canonical_name": "事实",
+      "type": "概念",
+      "evidence": "凡是事实都可以用科学方法研究",
+      "confidence": 0.9
+    },
+    {
+      "id": "e16",
+      "name": "物理学",
+      "canonical_name": "物理学",
+      "type": "概念",
+      "evidence": "君劢再三的拿物理学来比生物学同心理学",
+      "confidence": 1.0
+    },
+    {
+      "id": "e17",
+      "name": "生物学",
+      "canonical_name": "生物学",
+      "type": "概念",
+      "evidence": "君劢再三的拿物理学来比生物学同心理学",
+      "confidence": 1.0
+    },
+    {
+      "id": "e18",
+      "name": "心理学",
+      "canonical_name": "心理学",
+      "type": "概念",
+      "evidence": "君劢再三的拿物理学来比生物学同心理学",
+      "confidence": 1.0
+    },
+    {
+      "id": "e19",
+      "name": "君劢",
+      "canonical_name": "张君劢",
+      "type": "人物",
+      "evidence": "君劢再三的拿物理学来比生物学同心理学",
+      "confidence": 1.0
+    },
+    {
+      "id": "e20",
+      "name": "牛顿的发明",
+      "canonical_name": "牛顿的发明",
+      "type": "概念",
+      "evidence": "牛顿的发明，不止于三条公例",
+      "confidence": 0.9
+    },
+    {
+      "id": "e21",
+      "name": "原子光学论",
+      "canonical_name": "原子光学论",
+      "type": "主义/学说/理论",
+      "evidence": "他的原子光学论，到了十九世纪之初就被人推翻",
+      "confidence": 0.9
+    }
+  ],
+  "claims": [
+    {
+      "id": "c1",
+      "speaker": "牛顿",
+      "claim": "如果一个因足以说明观察的果，不必再添设其他的因",
+      "target": "",
+      "claim_type": "描述性主张",
+      "claim_status": "直接引用",
+      "polarity": "neutral",
+      "evidence": "（一）如果一个因足以说明观察的果，不必再添设其他的因",
+      "confidence": 1.0
+    },
+    {
+      "id": "c2",
+      "speaker": "牛顿",
+      "claim": "凡相似的果，应该归之于相似的因",
+      "target": "",
+      "claim_type": "描述性主张",
+      "claim_status": "直接引用",
+      "polarity": "neutral",
+      "evidence": "（二）凡相似的果，应该归之于相似的因",
+      "confidence": 1.0
+    },
+    {
+      "id": "c3",
+      "speaker": "牛顿",
+      "claim": "凡可以观察的物质所有的性质，不妨类推于一切的物质",
+      "target": "",
+      "claim_type": "描述性主张",
+      "claim_status": "直接引用",
+      "polarity": "neutral",
+      "evidence": "（三）凡可以观察的物质所有的性质，不妨类推于一切的物质",
+      "confidence": 1.0
+    },
+    {
+      "id": "c4",
+      "speaker": "牛顿",
+      "claim": "凡根据于许多事实所得到的科学观念，应该假定他是真的，等到发见新事实不能适用的时候，再去修正他",
+      "target": "",
+      "claim_type": "描述性主张",
+      "claim_status": "直接引用",
+      "polarity": "neutral",
+      "evidence": "（四）凡根据于许多事实所得到的科学观念，应该假定他是真的，等到发见新事实不能适用的时候，再去修正他",
+      "confidence": 1.0
+    },
+    {
+      "id": "c5",
+      "speaker": "丁文江",
+      "claim": "牛顿这种精神，真是科学精神",
+      "target": "牛顿",
+      "claim_type": "评价性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "牛顿这种精神，真是科学精神",
+      "confidence": 1.0
+    },
+    {
+      "id": "c6",
+      "speaker": "丁文江",
+      "claim": "世界上的真理是无穷无尽，我们现在所发现的是不过极小的一部分",
+      "target": "",
+      "claim_type": "描述性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "因为世界上的真理是无穷无尽，我们现在所发现的是不过极小的一部分",
+      "confidence": 1.0
+    },
+    {
+      "id": "c7",
+      "speaker": "丁文江",
+      "claim": "科学上所谓公例，是说明我们所观察的事实的方法，若是不适用于新发现的事实，随时可以变更",
+      "target": "",
+      "claim_type": "定义性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "科学上所谓公例，是说明我们所观察的事实的方法，若是不适用于新发现的事实，随时可以变更",
+      "confidence": 1.0
+    },
+    {
+      "id": "c8",
+      "speaker": "马哈同皮尔逊",
+      "claim": "科学的公例没有必然性",
+      "target": "",
+      "claim_type": "描述性主张",
+      "claim_status": "间接转述",
+      "polarity": "neutral",
+      "evidence": "马哈同皮尔逊都不承认科学的公例有必然性",
+      "confidence": 0.8
+    },
+    {
+      "id": "c9",
+      "speaker": "丁文江",
+      "claim": "这是科学同玄学根本不同的地方",
+      "target": "科学",
+      "claim_type": "对比性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "这是科学同玄学根本不同的地方",
+      "confidence": 0.8
+    },
+    {
+      "id": "c10",
+      "speaker": "丁文江",
+      "claim": "玄学家人人都要组织一个牢固不拔的“规律”，人人都把自己的规律当做定论",
+      "target": "玄学家",
+      "claim_type": "描述性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "玄学家人人都要组织一个牢固不拔的“规律”，人人都把自己的规律当做定论",
+      "confidence": 1.0
+    },
+    {
+      "id": "c11",
+      "speaker": "丁文江",
+      "claim": "科学的精神绝对与这种规律迷的心理相反",
+      "target": "科学",
+      "claim_type": "对比性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "科学的精神绝对与这种规律迷的心理相反",
+      "confidence": 1.0
+    },
+    {
+      "id": "c12",
+      "speaker": "丁文江",
+      "claim": "科学的方法，不外将世界的事实分起类来，求他们的秩序。等到分类秩序弄明白了，再想一句最简单明白的话来，概括这许多事实，这叫做科学公例",
+      "target": "",
+      "claim_type": "定义性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "科学的方法，不外将世界的事实分起类来，求他们的秩序。等到分类秩序弄明白了，再想一句最简单明白的话来，概括这许多事实，这叫做科学公例",
+      "confidence": 1.0
+    },
+    {
+      "id": "c13",
+      "speaker": "丁文江",
+      "claim": "凡是事实都可以用科学方法研究，都可以变做科学",
+      "target": "",
+      "claim_type": "描述性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "凡是事实都可以用科学方法研究，都可以变做科学",
+      "confidence": 1.0
+    },
+    {
+      "id": "c14",
+      "speaker": "丁文江",
+      "claim": "一种学问成不成一种科学，全是程度问题",
+      "target": "",
+      "claim_type": "描述性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "一种学问成不成一种科学，全是程度问题",
+      "confidence": 1.0
+    },
+    {
+      "id": "c15",
+      "speaker": "丁文江",
+      "claim": "君劢再三的拿物理学来比生物学同心理学，想证明物理学已经成了科学，不是生物学心理学所能希望的，好像科学是同神仙一样，也有上八洞下八洞的分别",
+      "target": "君劢",
+      "claim_type": "反驳性主张",
+      "claim_status": "作者讽刺性归纳",
+      "polarity": "negative",
+      "evidence": "君劢再三的拿物理学来比生物学同心理学，想证明物理学已经成了科学，不是生物学心理学所能希望的，好像科学是同神仙一样，也有上八洞下八洞的分别",
+      "confidence": 1.0
+    },
+    {
+      "id": "c16",
+      "speaker": "丁文江",
+      "claim": "研究物理学的人决计不敢如此武断",
+      "target": "君劢",
+      "claim_type": "评价性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "研究物理学的人决计不敢如此武断",
+      "confidence": 1.0
+    },
+    {
+      "id": "c17",
+      "speaker": "丁文江",
+      "claim": "物理学上的公例时常在那里变迁",
+      "target": "",
+      "claim_type": "描述性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "因为物理学上的公例时常在那里变迁",
+      "confidence": 1.0
+    },
+    {
+      "id": "c18",
+      "speaker": "丁文江",
+      "claim": "牛顿的原子光学论，到了十九世纪之初就被人推翻",
+      "target": "",
+      "claim_type": "描述性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "他的原子光学论，到了十九世纪之初就被人推翻",
+      "confidence": 1.0
+    }
+  ],
+  "relations": [
+    {
+      "id": "r1",
+      "head": "丁文江",
+      "head_type": "人物",
+      "relation": "相关",
+      "relation_subtype": "援引权威支持",
+      "tail": "牛顿",
+      "tail_type": "人物",
+      "polarity": "positive",
+      "stance_score": 1.0,
+      "intensity": 0.8,
+      "evidence": "牛顿说发现科学的公例有四个原则",
+      "confidence": 1.0
+    },
+    {
+      "id": "r2",
+      "head": "丁文江",
+      "head_type": "人物",
+      "relation": "相关",
+      "relation_subtype": "援引权威",
+      "tail": "牛顿",
+      "tail_type": "人物",
+      "polarity": "positive",
+      "stance_score": 1.0,
+      "intensity": 0.9,
+      "evidence": "牛顿这种精神，真是科学精神",
+      "confidence": 1.0
+    },
+    {
+      "id": "r3",
+      "head": "丁文江",
+      "head_type": "人物",
+      "relation": "相关",
+      "relation_subtype": "援引权威支持",
+      "tail": "马哈同皮尔逊",
+      "tail_type": "人物",
+      "polarity": "positive",
+      "stance_score": 0.8,
+      "intensity": 0.6,
+      "evidence": "马哈同皮尔逊都不承认科学的公例有必然性，就是这个意思",
+      "confidence": 1.0
+    },
+    {
+      "id": "r4",
+      "head": "科学",
+      "head_type": "概念",
+      "relation": "对比",
+      "relation_subtype": "不适用",
+      "tail": "玄学",
+      "tail_type": "概念",
+      "polarity": "negative",
+      "stance_score": -0.8,
+      "intensity": 0.7,
+      "evidence": "这是科学同玄学根本不同的地方",
+      "confidence": 1.0
+    },
+    {
+      "id": "r5",
+      "head": "丁文江",
+      "head_type": "人物",
+      "relation": "批评",
+      "relation_subtype": "概念混淆批评",
+      "tail": "玄学家",
+      "tail_type": "阵营/群体",
+      "polarity": "negative",
+      "stance_score": -0.9,
+      "intensity": 0.8,
+      "evidence": "玄学家人人都要组织一个牢固不拔的“规律”，人人都把自己的规律当做定论",
+      "confidence": 1.0
+    },
+    {
+      "id": "r6",
+      "head": "科学的精神",
+      "head_type": "概念",
+      "relation": "对比",
+      "relation_subtype": "不适用",
+      "tail": "规律迷的心理",
+      "tail_type": "概念",
+      "polarity": "negative",
+      "stance_score": -0.9,
+      "intensity": 0.9,
+      "evidence": "科学的精神绝对与这种规律迷的心理相反",
+      "confidence": 1.0
+    },
+    {
+      "id": "r7",
+      "head": "丁文江",
+      "head_type": "人物",
+      "relation": "反驳",
+      "relation_subtype": "归谬",
+      "tail": "君劢",
+      "tail_type": "人物",
+      "polarity": "negative",
+      "stance_score": -0.8,
+      "intensity": 0.7,
+      "evidence": "君劢再三的拿物理学来比生物学同心理学，想证明物理学已经成了科学，不是生物学心理学所能希望的，好像科学是同神仙一样，也有上八洞下八洞的分别",
+      "confidence": 1.0
+    },
+    {
+      "id": "r8",
+      "head": "丁文江",
+      "head_type": "人物",
+      "relation": "作为论据支持",
+      "relation_subtype": "不适用",
+      "tail": "物理学上的公例时常在那里变迁",
+      "tail_type": "观点",
+      "polarity": "neutral",
+      "stance_score": 0.0,
+      "intensity": 0.5,
+      "evidence": "因为物理学上的公例时常在那里变迁",
+      "confidence": 1.0
+    }
+  ],
+  "definitions": [
+    {
+      "id": "def1",
+      "term": "科学公例",
+      "definition": "将世界的事实分起类来，求他们的秩序，等到分类秩序弄明白了，再想一句最简单明白的话来概括这许多事实，这叫做科学公例",
+      "evidence": "科学的方法，不外将世界的事实分起类来，求他们的秩序。等到分类秩序弄明白了，再想一句最简单明白的话来，概括这许多事实，这叫做科学公例",
+      "confidence": 1.0
+    },
+    {
+      "id": "def2",
+      "term": "科学上所谓公例",
+      "definition": "说明我们所观察的事实的方法，若是不适用于新发现的事实，随时可以变更",
+      "evidence": "科学上所谓公例，是说明我们所观察的事实的方法，若是不适用于新发现的事实，随时可以变更",
+      "confidence": 1.0
+    }
+  ],
+  "citations": [],
+  "rhetorical_devices": [
+    {
+      "id": "rh1",
+      "expression": "好像科学是同神仙一样，也有上八洞下八洞的分别",
+      "device_type": "类比",
+      "literal_target": "君劢将物理学与生物学、心理学区分等级的做法",
+      "function": "讽刺君劢将科学分等级的观点荒谬",
+      "evidence": "好像科学是同神仙一样，也有上八洞下八洞的分别",
+      "confidence": 1.0
+    }
+  ],
+  "uncertainties": [
+    {
+      "item": "牛顿的原子光学论的具体内容",
+      "reason": "文本仅提及“他的原子光学论”，未说明具体内容"
+    }
+  ],
+  "_meta": {
+    "status": "success",
+    "stage": "extract",
+    "model": "deepseek-ai/DeepSeek-V4-Flash",
+    "base_url": "https://api.siliconflow.cn/v1",
+    "prompt_version": "v2.0",
+    "schema_version": "lite_v3.0",
+    "segment_id": "丁文江2_000_e838922e_s0008",
+    "article_id": "丁文江2_000_e838922e",
+    "char_start": 3944,
+    "char_end": 4543,
+    "raw_path": "E:\\1研究生\\岭南大学\\论文毕业\\capstone\\资料\\新的内容开始了\\local_upload\\kg_runs_v2\\丁文江_等3篇\\raw_outputs\\extract\\丁文江2_000_e838922e_s0008.txt",
+    "parsed_at": "2026-05-21T21:55:13",
+    "started_at": "2026-05-21T21:51:39",
+    "elapsed_seconds": 213.786,
+    "strict_evidence_check": true,
+    "drop_unsupported_evidence": true,
+    "request_timeout_seconds": 180
+  }
+}

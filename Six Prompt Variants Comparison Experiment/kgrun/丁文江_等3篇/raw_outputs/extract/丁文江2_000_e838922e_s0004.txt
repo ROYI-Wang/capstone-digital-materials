@@ -1,0 +1,280 @@
+{
+  "metadata": {
+    "schema_version": "lite_v2.0",
+    "article_id": "丁文江2_000_e838922e",
+    "article_title": "玄学与科学——答张君劢",
+    "source_author": "丁文江",
+    "section_title": "",
+    "section_author": "",
+    "segment_id": "丁文江2_000_e838922e_s0004",
+    "segment_index": 4,
+    "source_file": "E:\\1研究生\\岭南大学\\论文毕业\\capstone\\资料\\新的内容开始了\\local_upload\\input_texts\\丁文江2.txt"
+  },
+  "entities": [
+    {
+      "id": "e1",
+      "name": "张君劢",
+      "canonical_name": "张君劢",
+      "type": "人物",
+      "evidence": "张君劢在清华讲演所举的理由是“人生观最不统一。”",
+      "confidence": 1.0
+    },
+    {
+      "id": "e2",
+      "name": "人生观",
+      "canonical_name": "人生观",
+      "type": "概念",
+      "evidence": "“人生观是主观的，直觉的，……”",
+      "confidence": 1.0
+    },
+    {
+      "id": "e3",
+      "name": "科学方法",
+      "canonical_name": "科学方法",
+      "type": "概念",
+      "evidence": "“科学方法不适用于人生观，”",
+      "confidence": 1.0
+    },
+    {
+      "id": "e4",
+      "name": "现在主义",
+      "canonical_name": "现在主义",
+      "type": "概念",
+      "evidence": "君劢的现在主义",
+      "confidence": 0.9
+    },
+    {
+      "id": "e5",
+      "name": "公法",
+      "canonical_name": "公法",
+      "type": "概念",
+      "evidence": "与公法无关。",
+      "confidence": 0.8
+    },
+    {
+      "id": "e6",
+      "name": "论坛老将",
+      "canonical_name": "论坛老将",
+      "type": "阵营/群体",
+      "evidence": "这明明是论坛老将给我的暗示",
+      "confidence": 0.9
+    },
+    {
+      "id": "e7",
+      "name": "本题",
+      "canonical_name": "本题",
+      "type": "概念",
+      "evidence": "我的答辩就分成两部：第一是本题，第二是枝叶。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e8",
+      "name": "枝叶",
+      "canonical_name": "枝叶",
+      "type": "概念",
+      "evidence": "第一是本题，第二是枝叶。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e9",
+      "name": "清华讲演",
+      "canonical_name": "清华讲演",
+      "type": "事件",
+      "evidence": "张君劢在清华讲演所举的理由是“人生观最不统一。”",
+      "confidence": 1.0
+    }
+  ],
+  "claims": [
+    {
+      "id": "c1",
+      "speaker": "丁文江",
+      "claim": "学科学的人最反对独断式的言论。",
+      "target": "学科学的人",
+      "claim_type": "方法论主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "学科学的人最反对独断式的言论。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c2",
+      "speaker": "丁文江",
+      "claim": "“人生观是主观的，直觉的，……”请你用事实来证明！",
+      "target": "张君劢",
+      "claim_type": "反驳性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "“人生观是主观的，直觉的，……”请你用事实来证明！",
+      "confidence": 1.0
+    },
+    {
+      "id": "c3",
+      "speaker": "丁文江",
+      "claim": "“科学方法不适用于人生观，”请你用理由来解说！",
+      "target": "张君劢",
+      "claim_type": "反驳性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "“科学方法不适用于人生观，”请你用理由来解说！",
+      "confidence": 1.0
+    },
+    {
+      "id": "c4",
+      "speaker": "丁文江",
+      "claim": "人生观现在没有统一是一件事，永久不能统一又是一件事。",
+      "target": "人生观",
+      "claim_type": "知识论主张",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "我前次对他说，“人生观现在没有统一是一件事，永久不能统一又是一件事。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c5",
+      "speaker": "丁文江",
+      "claim": "除非你能提出事实理由来证明他是永远不能统一的，我们总有求他统一的义务。",
+      "target": "张君劢",
+      "claim_type": "方法论主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "除非你能提出事实理由来证明他是永远不能统一的，我们总有求他统一的义务。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c6",
+      "speaker": "丁文江",
+      "claim": "他这一次的答词仍旧是说：“人生观没有公例可举”；同人生观最不统一是一样的用意",
+      "target": "张君劢",
+      "claim_type": "反驳性主张",
+      "claim_status": "作者概括",
+      "polarity": "negative",
+      "evidence": "他这一次的答词仍旧是说：“人生观没有公例可举”；同人生观最不统一是一样的用意",
+      "confidence": 1.0
+    },
+    {
+      "id": "c7",
+      "speaker": "张君劢",
+      "claim": "事之比较当以今日为限，不得诿诸将来。若诿诸将来，则无一事之能决。",
+      "target": "丁文江",
+      "claim_type": "方法论主张",
+      "claim_status": "直接引用",
+      "polarity": "neutral",
+      "evidence": "但是他又加了一段，答我驳他的话：“事之比较当以今日为限，不得诿诸将来。若诿诸将来，则无一事之能决。",
+      "confidence": 1.0
+    }
+  ],
+  "relations": [
+    {
+      "id": "r1",
+      "head": "丁文江",
+      "head_type": "人物",
+      "relation": "回应",
+      "relation_subtype": "一般批评",
+      "tail": "张君劢",
+      "tail_type": "人物",
+      "polarity": "negative",
+      "evidence": "这明明是论坛老将给我的暗示，我如何肯不遵。所以我的答辩就分成两部：第一是本题，第二是枝叶。",
+      "confidence": 0.9
+    },
+    {
+      "id": "r2",
+      "head": "丁文江",
+      "head_type": "人物",
+      "relation": "反驳",
+      "relation_subtype": "事实质疑",
+      "tail": "张君劢",
+      "tail_type": "人物",
+      "polarity": "negative",
+      "evidence": "“人生观是主观的，直觉的，……”请你用事实来证明！",
+      "confidence": 1.0
+    },
+    {
+      "id": "r3",
+      "head": "丁文江",
+      "head_type": "人物",
+      "relation": "反驳",
+      "relation_subtype": "证据不足批评",
+      "tail": "张君劢",
+      "tail_type": "人物",
+      "polarity": "negative",
+      "evidence": "“科学方法不适用于人生观，”请你用理由来解说！",
+      "confidence": 1.0
+    },
+    {
+      "id": "r4",
+      "head": "丁文江",
+      "head_type": "人物",
+      "relation": "反驳",
+      "relation_subtype": "逻辑反驳",
+      "tail": "张君劢",
+      "tail_type": "人物",
+      "polarity": "negative",
+      "evidence": "我前次对他说，“人生观现在没有统一是一件事，永久不能统一又是一件事。除非你能提出事实理由来证明他是永远不能统一的，我们总有求他统一的义务。”",
+      "confidence": 1.0
+    },
+    {
+      "id": "r5",
+      "head": "张君劢",
+      "head_type": "人物",
+      "relation": "回应",
+      "relation_subtype": "一般批评",
+      "tail": "丁文江",
+      "tail_type": "人物",
+      "polarity": "neutral",
+      "evidence": "但是他又加了一段，答我驳他的话：“事之比较当以今日为限，不得诿诸将来。若诿诸将来，则无一事之能决。",
+      "confidence": 1.0
+    }
+  ],
+  "definitions": [
+    {
+      "id": "def1",
+      "term": "现在主义",
+      "definition": "一种主张，认为事之比较当以今日为限，不得诿诸将来。",
+      "evidence": "君劢的现在主义",
+      "confidence": 0.8
+    }
+  ],
+  "citations": [
+    {
+      "id": "cit1",
+      "citer": "丁文江",
+      "quoted_author": "张君劢",
+      "quoted_work": "",
+      "quoted_claim": "人生观没有公例可举",
+      "function": "作为批评对象",
+      "evidence": "他这一次的答词仍旧是说：“人生观没有公例可举”；同人生观最不统一是一样的用意",
+      "confidence": 1.0
+    },
+    {
+      "id": "cit2",
+      "citer": "丁文江",
+      "quoted_author": "张君劢",
+      "quoted_work": "",
+      "quoted_claim": "事之比较当以今日为限，不得诿诸将来。若诿诸将来，则无一事之能决。",
+      "function": "作为批评对象",
+      "evidence": "但是他又加了一段，答我驳他的话：“事之比较当以今日为限，不得诿诸将来。若诿诸将来，则无一事之能决。",
+      "confidence": 1.0
+    }
+  ],
+  "rhetorical_devices": [
+    {
+      "id": "rh1",
+      "expression": "论坛老将",
+      "device_type": "比喻",
+      "literal_target": "张君劢",
+      "function": "讽刺张君劢在论战中的老练姿态",
+      "evidence": "这明明是论坛老将给我的暗示",
+      "confidence": 0.9
+    }
+  ],
+  "uncertainties": [
+    {
+      "item": "“公法”的具体含义",
+      "reason": "文本中仅出现“与公法无关”，未进一步解释公法指什么，无法确定其确切含义。"
+    },
+    {
+      "item": "“论坛老将”是否确指张君劢",
+      "reason": "文本中“论坛老将”未明确指名，但从上下文推断可能指张君劢，但证据不充分。"
+    }
+  ]
+}

@@ -1,0 +1,428 @@
+{
+  "metadata": {
+    "schema_version": "lite_v3.0",
+    "article_id": "唐钺_004_0712956a",
+    "article_title": "读了《评所谓“科学与玄学之争”》以后",
+    "source_author": "唐钺",
+    "section_title": "",
+    "section_author": "",
+    "segment_id": "唐钺_004_0712956a_s0001",
+    "segment_index": 1,
+    "source_file": "E:\\1研究生\\岭南大学\\论文毕业\\capstone\\资料\\新的内容开始了\\local_upload\\input_唐钺\\唐钺.txt"
+  },
+  "entities": [
+    {
+      "id": "e1",
+      "name": "范先生",
+      "canonical_name": "范先生",
+      "type": "人物",
+      "evidence": "范先生以为广义的因果律就是充足理由的原理。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e2",
+      "name": "广义的因果律",
+      "canonical_name": "广义的因果律",
+      "type": "概念",
+      "evidence": "范先生以为广义的因果律就是充足理由的原理。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e3",
+      "name": "充足理由的原理",
+      "canonical_name": "充足理由的原理",
+      "type": "概念",
+      "evidence": "范先生以为广义的因果律就是充足理由的原理。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e4",
+      "name": "莱勃尼兹",
+      "canonical_name": "莱勃尼兹",
+      "type": "人物",
+      "evidence": "首先称说这个原理是莱勃尼兹。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e5",
+      "name": "《单极论》",
+      "canonical_name": "《单极论》",
+      "type": "著作",
+      "evidence": "（见他的《单极论》中）",
+      "confidence": 1.0
+    },
+    {
+      "id": "e6",
+      "name": "因果的原理",
+      "canonical_name": "因果的原理",
+      "type": "概念",
+      "evidence": "（乙）因果的原理——一切现象都为前事所制约；",
+      "confidence": 1.0
+    },
+    {
+      "id": "e7",
+      "name": "齐一的原理",
+      "canonical_name": "齐一的原理",
+      "type": "概念",
+      "evidence": "（丙）齐一的原理，亦称归纳的原理——同种的原因必有同种的结果。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e8",
+      "name": "归纳的原理",
+      "canonical_name": "归纳的原理",
+      "type": "概念",
+      "evidence": "（丙）齐一的原理，亦称归纳的原理——同种的原因必有同种的结果。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e9",
+      "name": "丁文江",
+      "canonical_name": "丁文江",
+      "type": "人物",
+      "evidence": "他们（指丁文江、王星拱、唐钺等）都以为……狭义的科学能够解决人生观的全部。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e10",
+      "name": "王星拱",
+      "canonical_name": "王星拱",
+      "type": "人物",
+      "evidence": "他们（指丁文江、王星拱、唐钺等）都以为……狭义的科学能够解决人生观的全部。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e11",
+      "name": "唐钺",
+      "canonical_name": "唐钺",
+      "type": "人物",
+      "evidence": "他们（指丁文江、王星拱、唐钺等）都以为……狭义的科学能够解决人生观的全部。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e12",
+      "name": "狭义的科学",
+      "canonical_name": "狭义的科学",
+      "type": "概念",
+      "evidence": "他们（指丁文江、王星拱、唐钺等）都以为……狭义的科学能够解决人生观的全部。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e13",
+      "name": "人生观",
+      "canonical_name": "人生观",
+      "type": "概念",
+      "evidence": "他们（指丁文江、王星拱、唐钺等）都以为……狭义的科学能够解决人生观的全部。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e14",
+      "name": "因果律（狭义）",
+      "canonical_name": "因果律（狭义）",
+      "type": "概念",
+      "evidence": "人类的意志全受因果律（狭义）的支配",
+      "confidence": 1.0
+    },
+    {
+      "id": "e15",
+      "name": "自由",
+      "canonical_name": "自由",
+      "type": "概念",
+      "evidence": "他们否认自由和道德。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e16",
+      "name": "道德",
+      "canonical_name": "道德",
+      "type": "概念",
+      "evidence": "他们否认自由和道德。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e17",
+      "name": "J. E. Creighton, An Introductory Logic, P. 244.",
+      "canonical_name": "J. E. Creighton, An Introductory Logic, P. 244.",
+      "type": "著作",
+      "evidence": "（J. E. Creighton, An Introductory Logic, P. 244.）",
+      "confidence": 1.0
+    }
+  ],
+  "claims": [
+    {
+      "id": "c1",
+      "speaker": "唐钺",
+      "claim": "一种因也只有一种果。",
+      "target": "",
+      "claim_type": "描述性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "同理，一种因也只有一种果。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c2",
+      "speaker": "唐钺",
+      "claim": "我的界说，似乎不应该引起读者的误会。",
+      "target": "",
+      "claim_type": "评价性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "所以我的界说，似乎不应该引起读者的误会。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c3",
+      "speaker": "范先生",
+      "claim": "广义的因果律就是充足理由的原理。",
+      "target": "",
+      "claim_type": "定义性主张",
+      "claim_status": "对手直接主张",
+      "polarity": "positive",
+      "evidence": "范先生以为广义的因果律就是充足理由的原理。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c4",
+      "speaker": "唐钺",
+      "claim": "这也不甚妥适。",
+      "target": "c3",
+      "claim_type": "评价性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "我的浅见以为，这也不甚妥适。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c5",
+      "speaker": "莱勃尼兹",
+      "claim": "若没有充足理由解释何以事实或命题恰是这样而不是别样，没有一事实是真有，没有一命题是真实（虽然这些理由常常为我们所不知道）。",
+      "target": "",
+      "claim_type": "定义性主张",
+      "claim_status": "直接引用",
+      "polarity": "positive",
+      "evidence": "他说：“由充足理由的原理，我们判定若没有充足理由解释何以事实或命题恰是这样而不是别样，没有一事实是真有，没有一命题是真实（虽然这些理由常常为我们所不知道）。”",
+      "confidence": 1.0
+    },
+    {
+      "id": "c6",
+      "speaker": "唐钺",
+      "claim": "虽然这个原理可以包括广义的因果律，但是他的范围广泛，似乎不应该把他们两个看做同物。",
+      "target": "c3",
+      "claim_type": "反驳性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "虽然这个原理可以包括广义的因果律，但是他的范围广泛，似乎不应该把他们两个看做同物。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c7",
+      "speaker": "范先生",
+      "claim": "他们（指丁文江、王星拱、唐钺等）都以为……狭义的科学能够解决人生观的全部。",
+      "target": "",
+      "claim_type": "描述性主张",
+      "claim_status": "对手直接主张",
+      "polarity": "positive",
+      "evidence": "范先生又说：“他们（指丁文江、王星拱、唐钺等）都以为……狭义的科学能够解决人生观的全部。”",
+      "confidence": 1.0
+    },
+    {
+      "id": "c8",
+      "speaker": "范先生",
+      "claim": "弄到结局，他们竟至承认人类的意志全受因果律（狭义）的支配，他们看人类直同机械一般，他们否认自由和道德。",
+      "target": "",
+      "claim_type": "描述性主张",
+      "claim_status": "对手直接主张",
+      "polarity": "negative",
+      "evidence": "弄到结局，他们竟至承认人类的意志全受因果律（狭义）的支配，他们看人类直同机械一般，他们否认自由和道德。",
+      "confidence": 1.0
+    }
+  ],
+  "relations": [
+    {
+      "id": "r1",
+      "head": "一种因",
+      "head_type": "概念",
+      "relation": "导致",
+      "relation_subtype": "不适用",
+      "tail": "一种果",
+      "tail_type": "概念",
+      "polarity": "positive",
+      "stance_score": 1.0,
+      "intensity": 0.5,
+      "evidence": "同理，一种因也只有一种果。",
+      "confidence": 1.0
+    },
+    {
+      "id": "r2",
+      "head": "唐钺",
+      "head_type": "人物",
+      "relation": "反驳",
+      "relation_subtype": "概念混淆批评",
+      "tail": "范先生",
+      "tail_type": "人物",
+      "polarity": "negative",
+      "stance_score": -0.8,
+      "intensity": 0.6,
+      "evidence": "我的浅见以为，这也不甚妥适。",
+      "confidence": 1.0
+    },
+    {
+      "id": "r3",
+      "head": "充足理由的原理",
+      "head_type": "概念",
+      "relation": "包含",
+      "relation_subtype": "不适用",
+      "tail": "广义的因果律",
+      "tail_type": "概念",
+      "polarity": "positive",
+      "stance_score": 0.5,
+      "intensity": 0.5,
+      "evidence": "虽然这个原理可以包括广义的因果律",
+      "confidence": 1.0
+    },
+    {
+      "id": "r4",
+      "head": "唐钺",
+      "head_type": "人物",
+      "relation": "区分",
+      "relation_subtype": "概念澄清",
+      "tail": "充足理由的原理",
+      "tail_type": "概念",
+      "polarity": "positive",
+      "stance_score": 1.0,
+      "intensity": 0.7,
+      "evidence": "严密言之，我们应该分别三个原理：（甲）充足理由的原理；（乙）因果的原理——一切现象都为前事所制约；（丙）齐一的原理，亦称归纳的原理——同种的原因必有同种的结果。",
+      "confidence": 1.0
+    },
+    {
+      "id": "r5",
+      "head": "唐钺",
+      "head_type": "人物",
+      "relation": "区分",
+      "relation_subtype": "概念澄清",
+      "tail": "因果的原理",
+      "tail_type": "概念",
+      "polarity": "positive",
+      "stance_score": 1.0,
+      "intensity": 0.7,
+      "evidence": "严密言之，我们应该分别三个原理：（甲）充足理由的原理；（乙）因果的原理——一切现象都为前事所制约；（丙）齐一的原理，亦称归纳的原理——同种的原因必有同种的结果。",
+      "confidence": 1.0
+    },
+    {
+      "id": "r6",
+      "head": "唐钺",
+      "head_type": "人物",
+      "relation": "区分",
+      "relation_subtype": "概念澄清",
+      "tail": "齐一的原理",
+      "tail_type": "概念",
+      "polarity": "positive",
+      "stance_score": 1.0,
+      "intensity": 0.7,
+      "evidence": "严密言之，我们应该分别三个原理：（甲）充足理由的原理；（乙）因果的原理——一切现象都为前事所制约；（丙）齐一的原理，亦称归纳的原理——同种的原因必有同种的结果。",
+      "confidence": 1.0
+    },
+    {
+      "id": "r7",
+      "head": "范先生",
+      "head_type": "人物",
+      "relation": "主张",
+      "relation_subtype": "不适用",
+      "tail": "c7",
+      "tail_type": "观点",
+      "polarity": "positive",
+      "stance_score": 1.0,
+      "intensity": 0.5,
+      "evidence": "范先生又说：“他们（指丁文江、王星拱、唐钺等）都以为……狭义的科学能够解决人生观的全部。”",
+      "confidence": 1.0
+    },
+    {
+      "id": "r8",
+      "head": "范先生",
+      "head_type": "人物",
+      "relation": "主张",
+      "relation_subtype": "不适用",
+      "tail": "c8",
+      "tail_type": "观点",
+      "polarity": "positive",
+      "stance_score": 1.0,
+      "intensity": 0.5,
+      "evidence": "弄到结局，他们竟至承认人类的意志全受因果律（狭义）的支配，他们看人类直同机械一般，他们否认自由和道德。",
+      "confidence": 1.0
+    }
+  ],
+  "definitions": [
+    {
+      "id": "def1",
+      "term": "充足理由的原理",
+      "definition": "由充足理由的原理，我们判定若没有充足理由解释何以事实或命题恰是这样而不是别样，没有一事实是真有，没有一命题是真实（虽然这些理由常常为我们所不知道）。",
+      "evidence": "他说：“由充足理由的原理，我们判定若没有充足理由解释何以事实或命题恰是这样而不是别样，没有一事实是真有，没有一命题是真实（虽然这些理由常常为我们所不知道）。”",
+      "confidence": 1.0
+    },
+    {
+      "id": "def2",
+      "term": "因果的原理",
+      "definition": "一切现象都为前事所制约。",
+      "evidence": "（乙）因果的原理——一切现象都为前事所制约；",
+      "confidence": 1.0
+    },
+    {
+      "id": "def3",
+      "term": "齐一的原理",
+      "definition": "同种的原因必有同种的结果。",
+      "evidence": "（丙）齐一的原理，亦称归纳的原理——同种的原因必有同种的结果。",
+      "confidence": 1.0
+    },
+    {
+      "id": "def4",
+      "term": "归纳的原理",
+      "definition": "同种的原因必有同种的结果。",
+      "evidence": "（丙）齐一的原理，亦称归纳的原理——同种的原因必有同种的结果。",
+      "confidence": 1.0
+    }
+  ],
+  "citations": [
+    {
+      "id": "cit1",
+      "citer": "唐钺",
+      "quoted_author": "J. E. Creighton",
+      "quoted_work": "An Introductory Logic",
+      "quoted_claim": "这种缺点不过是太宽泛或太肤浅的分析的结果。到分析能找出实在是怎么一回事——结果的真相——的时候，就可以决定他的惟一面基本的原因的性质。",
+      "function": "援引权威支持",
+      "evidence": "（J. E. Creighton, An Introductory Logic, P. 244.）",
+      "confidence": 1.0
+    },
+    {
+      "id": "cit2",
+      "citer": "唐钺",
+      "quoted_author": "莱勃尼兹",
+      "quoted_work": "《单极论》",
+      "quoted_claim": "由充足理由的原理，我们判定若没有充足理由解释何以事实或命题恰是这样而不是别样，没有一事实是真有，没有一命题是真实（虽然这些理由常常为我们所不知道）。",
+      "function": "援引权威支持",
+      "evidence": "他说：“由充足理由的原理，我们判定若没有充足理由解释何以事实或命题恰是这样而不是别样，没有一事实是真有，没有一命题是真实（虽然这些理由常常为我们所不知道）。”（见他的《单极论》中）",
+      "confidence": 1.0
+    }
+  ],
+  "rhetorical_devices": [
+    {
+      "id": "rh1",
+      "expression": "他们看人类直同机械一般",
+      "device_type": "类比",
+      "literal_target": "人类",
+      "function": "范先生用来批评丁文江、王星拱、唐钺等人的观点，暗示其将人类视为无自由意志的机械。",
+      "evidence": "他们看人类直同机械一般",
+      "confidence": 1.0
+    }
+  ],
+  "uncertainties": [
+    {
+      "item": "范先生的具体身份",
+      "reason": "文本中仅出现'范先生'，未提供全名或其他身份信息。"
+    },
+    {
+      "item": "唐钺的'界说'具体内容",
+      "reason": "文本中提及'我的界说'，但未给出界说的具体内容。"
+    }
+  ]
+}

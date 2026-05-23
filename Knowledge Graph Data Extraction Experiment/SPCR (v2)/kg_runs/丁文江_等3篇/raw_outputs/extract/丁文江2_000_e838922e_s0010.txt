@@ -1,0 +1,483 @@
+{
+  "metadata": {
+    "schema_version": "lite_v3.0",
+    "article_id": "丁文江2_000_e838922e",
+    "article_title": "玄学与科学——答张君劢",
+    "source_author": "丁文江",
+    "section_title": "",
+    "section_author": "",
+    "segment_id": "丁文江2_000_e838922e_s0010",
+    "segment_index": 10,
+    "source_file": "E:\\1研究生\\岭南大学\\论文毕业\\capstone\\资料\\新的内容开始了\\local_upload\\input_丁文江\\丁文江2.txt"
+  },
+  "entities": [
+    {
+      "id": "e1",
+      "name": "铣质",
+      "canonical_name": "铣质",
+      "type": "概念",
+      "evidence": "自从铣质发明以后",
+      "confidence": 0.9
+    },
+    {
+      "id": "e2",
+      "name": "原子论",
+      "canonical_name": "原子论",
+      "type": "主义/学说/理论",
+      "evidence": "原子论要完全修正",
+      "confidence": 0.9
+    },
+    {
+      "id": "e3",
+      "name": "原质",
+      "canonical_name": "原质",
+      "type": "概念",
+      "evidence": "化学上所谓原质的观念也不能成立",
+      "confidence": 0.9
+    },
+    {
+      "id": "e4",
+      "name": "力",
+      "canonical_name": "力",
+      "type": "概念",
+      "evidence": "力同原子都是理化学上根本的概念",
+      "confidence": 0.9
+    },
+    {
+      "id": "e5",
+      "name": "原子",
+      "canonical_name": "原子",
+      "type": "概念",
+      "evidence": "力同原子都是理化学上根本的概念",
+      "confidence": 0.9
+    },
+    {
+      "id": "e6",
+      "name": "一成不变的公例",
+      "canonical_name": "一成不变的公例",
+      "type": "概念",
+      "evidence": "君劢所谓一成不变的公例",
+      "confidence": 0.9
+    },
+    {
+      "id": "e7",
+      "name": "物理学",
+      "canonical_name": "物理学",
+      "type": "概念",
+      "evidence": "物理学上找得出找不出",
+      "confidence": 0.9
+    },
+    {
+      "id": "e8",
+      "name": "严正科学",
+      "canonical_name": "严正科学",
+      "type": "概念",
+      "evidence": "严正科学是否牢固不拔的",
+      "confidence": 0.9
+    },
+    {
+      "id": "e9",
+      "name": "杜里舒",
+      "canonical_name": "杜里舒",
+      "type": "人物",
+      "evidence": "他引杜里舒的话来证明达尔文学说没有价值",
+      "confidence": 0.9
+    },
+    {
+      "id": "e10",
+      "name": "达尔文学说",
+      "canonical_name": "达尔文学说",
+      "type": "主义/学说/理论",
+      "evidence": "他引杜里舒的话来证明达尔文学说没有价值",
+      "confidence": 0.9
+    },
+    {
+      "id": "e11",
+      "name": "李杜文章，光芒万丈",
+      "canonical_name": "李杜文章，光芒万丈",
+      "type": "比喻/类比",
+      "evidence": "因为不但达尔文学说是“李杜文章，光芒万丈”",
+      "confidence": 0.9
+    },
+    {
+      "id": "e12",
+      "name": "托摩生",
+      "canonical_name": "托摩生",
+      "type": "人物",
+      "evidence": "我转请君劢自己找出来的“生物学大家”托摩生",
+      "confidence": 0.9
+    },
+    {
+      "id": "e13",
+      "name": "达尔文主义",
+      "canonical_name": "达尔文主义",
+      "type": "主义/学说/理论",
+      "evidence": "若是我们所说的达尔文主义",
+      "confidence": 0.9
+    },
+    {
+      "id": "e14",
+      "name": "变迁",
+      "canonical_name": "变迁",
+      "type": "概念",
+      "evidence": "从他的主要观念，——变迁、选择、遗传性",
+      "confidence": 0.9
+    },
+    {
+      "id": "e15",
+      "name": "选择",
+      "canonical_name": "选择",
+      "type": "概念",
+      "evidence": "从他的主要观念，——变迁、选择、遗传性",
+      "confidence": 0.9
+    },
+    {
+      "id": "e16",
+      "name": "遗传性",
+      "canonical_name": "遗传性",
+      "type": "概念",
+      "evidence": "从他的主要观念，——变迁、选择、遗传性",
+      "confidence": 0.9
+    },
+    {
+      "id": "e17",
+      "name": "《科学大纲》",
+      "canonical_name": "科学大纲",
+      "type": "著作",
+      "evidence": "（《科学大纲》第二册三六八页）",
+      "confidence": 0.9
+    },
+    {
+      "id": "e18",
+      "name": "进化的学说",
+      "canonical_name": "进化的学说",
+      "type": "主义/学说/理论",
+      "evidence": "若是进化的学说自己不进化",
+      "confidence": 0.9
+    },
+    {
+      "id": "e19",
+      "name": "牢固不拔的物理学",
+      "canonical_name": "牢固不拔的物理学",
+      "type": "概念",
+      "evidence": "君劢最得意的话是“牢固不拔”的物理学",
+      "confidence": 0.9
+    },
+    {
+      "id": "e20",
+      "name": "推算未来",
+      "canonical_name": "推算未来",
+      "type": "概念",
+      "evidence": "能“推算未来”",
+      "confidence": 0.9
+    },
+    {
+      "id": "e21",
+      "name": "生物心理学公例",
+      "canonical_name": "生物心理学公例",
+      "type": "概念",
+      "evidence": "不是生物心理学公例所做得到的",
+      "confidence": 0.9
+    },
+    {
+      "id": "e22",
+      "name": "君劢",
+      "canonical_name": "君劢",
+      "type": "人物",
+      "evidence": "君劢所谓一成不变的公例",
+      "confidence": 0.9
+    },
+    {
+      "id": "e23",
+      "name": "发生学",
+      "canonical_name": "发生学",
+      "type": "概念",
+      "evidence": "没有研究过发生学、生物构造、古生物学，或是遗传性的人",
+      "confidence": 0.9
+    },
+    {
+      "id": "e24",
+      "name": "生物构造",
+      "canonical_name": "生物构造",
+      "type": "概念",
+      "evidence": "没有研究过发生学、生物构造、古生物学，或是遗传性的人",
+      "confidence": 0.9
+    },
+    {
+      "id": "e25",
+      "name": "古生物学",
+      "canonical_name": "古生物学",
+      "type": "概念",
+      "evidence": "没有研究过发生学、生物构造、古生物学，或是遗传性的人",
+      "confidence": 0.9
+    }
+  ],
+  "claims": [
+    {
+      "id": "c1",
+      "speaker": "丁文江",
+      "claim": "自从铣质发明以后，化学家方知道原子自己会自动的分裂铀变钽，钽变铣，铣变铋，钶变铅，于是不但原子论要完全修正，就是化学上所谓原质的观念也不能成立。",
+      "target": "原子论",
+      "claim_type": "描述性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "自从铣质发明以后，化学家方知道原子自己会自动的分裂铀变钽，钽变铣，铣变铋，钶变铅，于是不但原子论要完全修正，就是化学上所谓原质的观念也不能成立。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c2",
+      "speaker": "丁文江",
+      "claim": "力同原子都是理化学上根本的概念，尚且有如此变动，试问君劢所谓一成不变的公例，物理学上找得出找不出？",
+      "target": "君劢",
+      "claim_type": "反驳性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "力同原子都是理化学上根本的概念，尚且有如此变动，试问君劢所谓一成不变的公例，物理学上找得出找不出？",
+      "confidence": 0.9
+    },
+    {
+      "id": "c3",
+      "speaker": "丁文江",
+      "claim": "严正科学是否牢固不拔的？",
+      "target": "严正科学",
+      "claim_type": "问题提出",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "严正科学是否牢固不拔的？",
+      "confidence": 0.9
+    },
+    {
+      "id": "c4",
+      "speaker": "丁文江",
+      "claim": "他引杜里舒的话来证明达尔文学说没有价值，我本来不必给他辩论，因为不但达尔文学说是“李杜文章，光芒万丈”，杜里舒还不配去撼这种大树，我那里配去做他的马前小卒，而且生物进化是一个很复杂，很专门的问题，没有研究过发生学、生物构造、古生物学，或是遗传性的人，不配参与讨论，就譬如没有高等数学知识的人，不能瞎批评相对论，是一样的道理。",
+      "target": "杜里舒",
+      "claim_type": "评价性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "他引杜里舒的话来证明达尔文学说没有价值，我本来不必给他辩论，因为不但达尔文学说是“李杜文章，光芒万丈”，杜里舒还不配去撼这种大树，我那里配去做他的马前小卒，而且生物进化是一个很复杂，很专门的问题，没有研究过发生学、生物构造、古生物学，或是遗传性的人，不配参与讨论，就譬如没有高等数学知识的人，不能瞎批评相对论，是一样的道理。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c5",
+      "speaker": "托摩生",
+      "claim": "若是我们所说的达尔文主义，是指从他的主要观念，——变迁、选择、遗传性，——里面当然发生出来的活学说，不是死守达尔文的话，一个字不改，我们可以说达尔文主义从来没有如今天这样稳固！",
+      "target": "达尔文主义",
+      "claim_type": "评价性主张",
+      "claim_status": "直接引用",
+      "polarity": "positive",
+      "evidence": "若是我们所说的达尔文主义，是指从他的主要观念，——变迁、选择、遗传性，——里面当然发生出来的活学说，不是死守达尔文的话，一个字不改，我们可以说达尔文主义从来没有如今天这样稳固！",
+      "confidence": 0.9
+    },
+    {
+      "id": "c6",
+      "speaker": "托摩生",
+      "claim": "若是进化的学说自己不进化，岂非自相矛盾？",
+      "target": "进化的学说",
+      "claim_type": "反驳性主张",
+      "claim_status": "直接引用",
+      "polarity": "negative",
+      "evidence": "若是进化的学说自己不进化，岂非自相矛盾？",
+      "confidence": 0.9
+    },
+    {
+      "id": "c7",
+      "speaker": "丁文江",
+      "claim": "君劢最得意的话是“牢固不拔”的物理学能“推算未来”，不是生物心理学公例所做得到的。他没有给“推算未来”下一个定义。",
+      "target": "君劢",
+      "claim_type": "评价性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "君劢最得意的话是“牢固不拔”的物理学能“推算未来”，不是生物心理学公例所做得到的。他没有给“推算未来”下一个定义。",
+      "confidence": 0.9
+    }
+  ],
+  "relations": [
+    {
+      "id": "r1",
+      "head": "铣质发明",
+      "head_type": "概念",
+      "relation": "导致",
+      "relation_subtype": "不适用",
+      "tail": "原子论要完全修正",
+      "tail_type": "观点",
+      "polarity": "neutral",
+      "stance_score": 0.0,
+      "intensity": 0.5,
+      "evidence": "自从铣质发明以后，化学家方知道原子自己会自动的分裂铀变钽，钽变铣，铣变铋，钶变铅，于是不但原子论要完全修正，就是化学上所谓原质的观念也不能成立。",
+      "confidence": 0.9
+    },
+    {
+      "id": "r2",
+      "head": "铣质发明",
+      "head_type": "概念",
+      "relation": "导致",
+      "relation_subtype": "不适用",
+      "tail": "原质的观念也不能成立",
+      "tail_type": "观点",
+      "polarity": "neutral",
+      "stance_score": 0.0,
+      "intensity": 0.5,
+      "evidence": "自从铣质发明以后，化学家方知道原子自己会自动的分裂铀变钽，钽变铣，铣变铋，钶变铅，于是不但原子论要完全修正，就是化学上所谓原质的观念也不能成立。",
+      "confidence": 0.9
+    },
+    {
+      "id": "r3",
+      "head": "丁文江",
+      "head_type": "人物",
+      "relation": "反驳",
+      "relation_subtype": "事实质疑",
+      "tail": "君劢所谓一成不变的公例",
+      "tail_type": "观点",
+      "polarity": "negative",
+      "stance_score": -0.8,
+      "intensity": 0.8,
+      "evidence": "力同原子都是理化学上根本的概念，尚且有如此变动，试问君劢所谓一成不变的公例，物理学上找得出找不出？",
+      "confidence": 0.9
+    },
+    {
+      "id": "r4",
+      "head": "丁文江",
+      "head_type": "人物",
+      "relation": "评价",
+      "relation_subtype": "一般批评",
+      "tail": "杜里舒",
+      "tail_type": "人物",
+      "polarity": "negative",
+      "stance_score": -0.9,
+      "intensity": 0.9,
+      "evidence": "杜里舒还不配去撼这种大树",
+      "confidence": 0.9
+    },
+    {
+      "id": "r5",
+      "head": "丁文江",
+      "head_type": "人物",
+      "relation": "引用",
+      "relation_subtype": "援引权威支持",
+      "tail": "托摩生",
+      "tail_type": "人物",
+      "polarity": "positive",
+      "stance_score": 0.8,
+      "intensity": 0.7,
+      "evidence": "我转请君劢自己找出来的“生物学大家”托摩生（他是否是生物学大家，我下文还要说起。）来替我简单的说几句话",
+      "confidence": 0.9
+    },
+    {
+      "id": "r6",
+      "head": "托摩生",
+      "head_type": "人物",
+      "relation": "支持",
+      "relation_subtype": "不适用",
+      "tail": "达尔文主义",
+      "tail_type": "主义/学说/理论",
+      "polarity": "positive",
+      "stance_score": 1.0,
+      "intensity": 0.9,
+      "evidence": "我们可以说达尔文主义从来没有如今天这样稳固！",
+      "confidence": 0.9
+    },
+    {
+      "id": "r7",
+      "head": "托摩生",
+      "head_type": "人物",
+      "relation": "反驳",
+      "relation_subtype": "归谬",
+      "tail": "进化的学说",
+      "tail_type": "主义/学说/理论",
+      "polarity": "negative",
+      "stance_score": -0.7,
+      "intensity": 0.6,
+      "evidence": "若是进化的学说自己不进化，岂非自相矛盾？",
+      "confidence": 0.9
+    },
+    {
+      "id": "r8",
+      "head": "丁文江",
+      "head_type": "人物",
+      "relation": "批评",
+      "relation_subtype": "概念混淆批评",
+      "tail": "君劢",
+      "tail_type": "人物",
+      "polarity": "negative",
+      "stance_score": -0.6,
+      "intensity": 0.5,
+      "evidence": "他没有给“推算未来”下一个定义。",
+      "confidence": 0.9
+    }
+  ],
+  "definitions": [
+    {
+      "id": "def1",
+      "term": "达尔文主义",
+      "definition": "是指从他的主要观念，——变迁、选择、遗传性，——里面当然发生出来的活学说，不是死守达尔文的话，一个字不改",
+      "evidence": "若是我们所说的达尔文主义，是指从他的主要观念，——变迁、选择、遗传性，——里面当然发生出来的活学说，不是死守达尔文的话，一个字不改",
+      "confidence": 0.9
+    }
+  ],
+  "citations": [
+    {
+      "id": "cit1",
+      "citer": "丁文江",
+      "quoted_author": "托摩生",
+      "quoted_work": "《科学大纲》",
+      "quoted_claim": "若是我们所说的达尔文主义，是指从他的主要观念，——变迁、选择、遗传性，——里面当然发生出来的活学说，不是死守达尔文的话，一个字不改，我们可以说达尔文主义从来没有如今天这样稳固！",
+      "function": "援引权威支持",
+      "evidence": "我转请君劢自己找出来的“生物学大家”托摩生（他是否是生物学大家，我下文还要说起。）来替我简单的说几句话：\n“若是我们所说的达尔文主义，是指从他的主要观念，——变迁、选择、遗传性，——里面当然发生出来的活学说，不是死守达尔文的话，一个字不改，我们可以说达尔文主义从来没有如今天这样稳固！”（《科学大纲》第二册三六八页）",
+      "confidence": 0.9
+    },
+    {
+      "id": "cit2",
+      "citer": "丁文江",
+      "quoted_author": "托摩生",
+      "quoted_work": "",
+      "quoted_claim": "若是进化的学说自己不进化，岂非自相矛盾？",
+      "function": "援引权威支持",
+      "evidence": "他又说：\n“若是进化的学说自己不进化，岂非自相矛盾？”",
+      "confidence": 0.9
+    }
+  ],
+  "rhetorical_devices": [
+    {
+      "id": "rh1",
+      "expression": "李杜文章，光芒万丈",
+      "device_type": "比喻",
+      "literal_target": "达尔文学说",
+      "function": "用比喻强调达尔文学说的崇高地位和不可动摇性",
+      "evidence": "因为不但达尔文学说是“李杜文章，光芒万丈”",
+      "confidence": 0.9
+    },
+    {
+      "id": "rh2",
+      "expression": "杜里舒还不配去撼这种大树",
+      "device_type": "比喻",
+      "literal_target": "杜里舒对达尔文学说的批评",
+      "function": "用比喻贬低杜里舒的批评能力，强调达尔文学说的强大",
+      "evidence": "杜里舒还不配去撼这种大树",
+      "confidence": 0.9
+    },
+    {
+      "id": "rh3",
+      "expression": "我那里配去做他的马前小卒",
+      "device_type": "比喻",
+      "literal_target": "丁文江自己",
+      "function": "用自谦的比喻表达自己不愿为达尔文学说辩护的态度",
+      "evidence": "我那里配去做他的马前小卒",
+      "confidence": 0.9
+    },
+    {
+      "id": "rh4",
+      "expression": "就譬如没有高等数学知识的人，不能瞎批评相对论",
+      "device_type": "类比",
+      "literal_target": "没有研究过发生学等的人不配参与讨论生物进化",
+      "function": "用类比论证只有具备专业知识的人才有资格讨论专门问题",
+      "evidence": "就譬如没有高等数学知识的人，不能瞎批评相对论，是一样的道理。",
+      "confidence": 0.9
+    }
+  ],
+  "uncertainties": [
+    {
+      "item": "托摩生是否是生物学大家",
+      "reason": "丁文江说“他是否是生物学大家，我下文还要说起”，表明此处未确定，需后续文本确认。"
+    }
+  ]
+}

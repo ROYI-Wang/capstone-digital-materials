@@ -1,0 +1,554 @@
+{
+  "metadata": {
+    "schema_version": "lite_v3.0",
+    "article_id": "王平陵_000_d1d9c442",
+    "article_title": "“科哲之战”的尾声",
+    "source_author": "王平陵",
+    "section_title": "",
+    "section_author": "",
+    "segment_id": "王平陵_000_d1d9c442_s0000",
+    "segment_index": 0,
+    "source_file": "E:\\1研究生\\岭南大学\\论文毕业\\capstone\\资料\\新的内容开始了\\local_upload\\input_v2_w0\\王平陵.txt"
+  },
+  "entities": [
+    {
+      "id": "e1",
+      "name": "科学的一元论（实证论）",
+      "canonical_name": "科学的一元论（实证论）",
+      "type": "主义/学说/理论",
+      "evidence": "科学的一元论（实证论）的见解，于事实上及历史上显然是不能成立。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e2",
+      "name": "希腊时代的科学",
+      "canonical_name": "希腊时代的科学",
+      "type": "概念",
+      "evidence": "因为在希腊时代的科学，全是包括于哲学之内；",
+      "confidence": 1.0
+    },
+    {
+      "id": "e3",
+      "name": "哲学",
+      "canonical_name": "哲学",
+      "type": "概念",
+      "evidence": "及科学离哲学而独立以后，哲学依然存在，并没有缩小他的范围，或消灭掉他的痕迹。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e4",
+      "name": "科学",
+      "canonical_name": "科学",
+      "type": "概念",
+      "evidence": "及科学离哲学而独立以后，哲学依然存在，并没有缩小他的范围，或消灭掉他的痕迹。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e5",
+      "name": "科学万能的见地",
+      "canonical_name": "科学万能的见地",
+      "type": "观点",
+      "evidence": "就是由科学万能的见地上，所成立的“实证论”，要亦不过是科学的哲学罢了。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e6",
+      "name": "实证论",
+      "canonical_name": "实证论",
+      "type": "主义/学说/理论",
+      "evidence": "就是由科学万能的见地上，所成立的“实证论”，要亦不过是科学的哲学罢了。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e7",
+      "name": "科学的哲学",
+      "canonical_name": "科学的哲学",
+      "type": "概念",
+      "evidence": "要亦不过是科学的哲学罢了。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e8",
+      "name": "达尔文（C.R. Darwin）",
+      "canonical_name": "达尔文",
+      "type": "人物",
+      "evidence": "例如达尔文（C.R. Darwin）是一位生物学者，然而他的进化论，则超脱科学的领域，而入于哲学的范围了。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e9",
+      "name": "进化论",
+      "canonical_name": "进化论",
+      "type": "主义/学说/理论",
+      "evidence": "然而他的进化论，则超脱科学的领域，而入于哲学的范围了。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e10",
+      "name": "赫胥黎（T.H. Huxley）",
+      "canonical_name": "赫胥黎",
+      "type": "人物",
+      "evidence": "赫胥黎（T.H. Huxley）、黑格尔（E. H. Hackel）辈，都是进化论者，也渐次接触于哲学问题了。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e11",
+      "name": "黑格尔（E. H. Hackel）",
+      "canonical_name": "黑格尔",
+      "type": "人物",
+      "evidence": "赫胥黎（T.H. Huxley）、黑格尔（E. H. Hackel）辈，都是进化论者，也渐次接触于哲学问题了。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e12",
+      "name": "科学万能的谬误",
+      "canonical_name": "科学万能的谬误",
+      "type": "观点",
+      "evidence": "所以科学万能的谬误，不必要根据历史的事实来证明，即由人心的本性而观，也可以了然了。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e13",
+      "name": "人性统一的要求",
+      "canonical_name": "人性统一的要求",
+      "type": "概念",
+      "evidence": "这正因为人性统一的要求，不能以部分的抽象的科学的真理，即算是彻底的满足。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e14",
+      "name": "部分的抽象的科学的真理",
+      "canonical_name": "部分的抽象的科学的真理",
+      "type": "概念",
+      "evidence": "不能以部分的抽象的科学的真理，即算是彻底的满足。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e15",
+      "name": "补合的二元论",
+      "canonical_name": "补合的二元论",
+      "type": "主义/学说/理论",
+      "evidence": "第二，补合的二元论之见解，却有可取的地方了。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e16",
+      "name": "科学乃分观宇宙间一部分的事实，而探究其原理的",
+      "canonical_name": "科学乃分观宇宙间一部分的事实，而探究其原理的",
+      "type": "概念",
+      "evidence": "科学乃分观宇宙间一部分的事实，而探究其原理的；",
+      "confidence": 1.0
+    },
+    {
+      "id": "e17",
+      "name": "哲学乃合观宇宙，取天地间一切事实，合一炉而穷究其本根的",
+      "canonical_name": "哲学乃合观宇宙，取天地间一切事实，合一炉而穷究其本根的",
+      "type": "概念",
+      "evidence": "哲学乃合观宇宙，取天地间一切事实，合一炉而穷究其本根的。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e18",
+      "name": "科学是哲学的基础",
+      "canonical_name": "科学是哲学的基础",
+      "type": "观点",
+      "evidence": "科学是哲学的基础，哲学是科学的综合。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e19",
+      "name": "哲学是科学的综合",
+      "canonical_name": "哲学是科学的综合",
+      "type": "观点",
+      "evidence": "科学是哲学的基础，哲学是科学的综合。",
+      "confidence": 1.0
+    }
+  ],
+  "claims": [
+    {
+      "id": "c1",
+      "speaker": "王平陵",
+      "claim": "科学的一元论（实证论）的见解，于事实上及历史上显然是不能成立。",
+      "target": "科学的一元论（实证论）",
+      "claim_type": "反驳性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "第一，科学的一元论（实证论）的见解，于事实上及历史上显然是不能成立。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c2",
+      "speaker": "王平陵",
+      "claim": "在希腊时代的科学，全是包括于哲学之内。",
+      "target": "希腊时代的科学",
+      "claim_type": "描述性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "因为在希腊时代的科学，全是包括于哲学之内；",
+      "confidence": 1.0
+    },
+    {
+      "id": "c3",
+      "speaker": "王平陵",
+      "claim": "及科学离哲学而独立以后，哲学依然存在，并没有缩小他的范围，或消灭掉他的痕迹。",
+      "target": "哲学",
+      "claim_type": "描述性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "及科学离哲学而独立以后，哲学依然存在，并没有缩小他的范围，或消灭掉他的痕迹。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c4",
+      "speaker": "王平陵",
+      "claim": "有许多科学者，正因为哲学而存在，他的科学的创见，才能发挥光大的。",
+      "target": "科学者",
+      "claim_type": "因果主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "而且有许多科学者，正因为哲学而存在，他的科学的创见，才能发挥光大的；",
+      "confidence": 1.0
+    },
+    {
+      "id": "c5",
+      "speaker": "王平陵",
+      "claim": "由科学万能的见地上，所成立的“实证论”，要亦不过是科学的哲学罢了。",
+      "target": "实证论",
+      "claim_type": "评价性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "就是由科学万能的见地上，所成立的“实证论”，要亦不过是科学的哲学罢了。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c6",
+      "speaker": "王平陵",
+      "claim": "近代的大科学家，由科学的见地而发展，其结局税驾于哲学的境地的，正复不少。",
+      "target": "近代的大科学家",
+      "claim_type": "描述性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "更就事实而观，近代的大科学家，由科学的见地而发展，其结局税驾于哲学的境地的，正复不少。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c7",
+      "speaker": "王平陵",
+      "claim": "达尔文是一位生物学者，然而他的进化论，则超脱科学的领域，而入于哲学的范围了。",
+      "target": "达尔文",
+      "claim_type": "描述性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "例如达尔文（C.R. Darwin）是一位生物学者，然而他的进化论，则超脱科学的领域，而入于哲学的范围了。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c8",
+      "speaker": "王平陵",
+      "claim": "赫胥黎、黑格尔辈，都是进化论者，也渐次接触于哲学问题了。",
+      "target": "赫胥黎、黑格尔",
+      "claim_type": "描述性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "赫胥黎（T.H. Huxley）、黑格尔（E. H. Hackel）辈，都是进化论者，也渐次接触于哲学问题了。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c9",
+      "speaker": "王平陵",
+      "claim": "科学万能的谬误，不必要根据历史的事实来证明，即由人心的本性而观，也可以了然了。",
+      "target": "科学万能的谬误",
+      "claim_type": "结论性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "所以科学万能的谬误，不必要根据历史的事实来证明，即由人心的本性而观，也可以了然了。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c10",
+      "speaker": "王平陵",
+      "claim": "人性统一的要求，不能以部分的抽象的科学的真理，即算是彻底的满足。",
+      "target": "人性统一的要求",
+      "claim_type": "因果主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "这正因为人性统一的要求，不能以部分的抽象的科学的真理，即算是彻底的满足。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c11",
+      "speaker": "王平陵",
+      "claim": "补合的二元论之见解，却有可取的地方了。",
+      "target": "补合的二元论",
+      "claim_type": "评价性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "第二，补合的二元论之见解，却有可取的地方了。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c12",
+      "speaker": "王平陵",
+      "claim": "承认科学与哲学，有并立的可能性。",
+      "target": "科学与哲学",
+      "claim_type": "描述性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "（一）就是承认科学与哲学，有并立的可能性。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c13",
+      "speaker": "王平陵",
+      "claim": "确知其在作用上，为对立的而非一元的。",
+      "target": "科学与哲学",
+      "claim_type": "描述性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "（二）就是确知其在作用上，为对立的而非一元的。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c14",
+      "speaker": "王平陵",
+      "claim": "科学与哲学，其为“学”则同，而其为学之性质则异。",
+      "target": "科学与哲学",
+      "claim_type": "对比性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "总之，科学与哲学，其为“学”则同，而其为学之性质则异。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c15",
+      "speaker": "王平陵",
+      "claim": "科学乃分观宇宙间一部分的事实，而探究其原理的。",
+      "target": "科学",
+      "claim_type": "定义性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "科学乃分观宇宙间一部分的事实，而探究其原理的；",
+      "confidence": 1.0
+    },
+    {
+      "id": "c16",
+      "speaker": "王平陵",
+      "claim": "哲学乃合观宇宙，取天地间一切事实，合一炉而穷究其本根的。",
+      "target": "哲学",
+      "claim_type": "定义性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "哲学乃合观宇宙，取天地间一切事实，合一炉而穷究其本根的。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c17",
+      "speaker": "王平陵",
+      "claim": "科学是哲学的基础，哲学是科学的综合。",
+      "target": "科学与哲学",
+      "claim_type": "定义性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "科学是哲学的基础，哲学是科学的综合。",
+      "confidence": 1.0
+    }
+  ],
+  "relations": [
+    {
+      "id": "r1",
+      "head": "科学的一元论（实证论）",
+      "head_type": "主义/学说/理论",
+      "relation": "批评",
+      "relation_subtype": "逻辑反驳",
+      "tail": "科学的一元论（实证论）的见解，于事实上及历史上显然是不能成立",
+      "tail_type": "观点",
+      "polarity": "negative",
+      "stance_score": -1.0,
+      "intensity": 0.8,
+      "evidence": "第一，科学的一元论（实证论）的见解，于事实上及历史上显然是不能成立。",
+      "confidence": 1.0
+    },
+    {
+      "id": "r2",
+      "head": "科学万能的见地",
+      "head_type": "观点",
+      "relation": "批评",
+      "relation_subtype": "逻辑反驳",
+      "tail": "实证论",
+      "tail_type": "主义/学说/理论",
+      "polarity": "negative",
+      "stance_score": -0.8,
+      "intensity": 0.6,
+      "evidence": "就是由科学万能的见地上，所成立的“实证论”，要亦不过是科学的哲学罢了。",
+      "confidence": 1.0
+    },
+    {
+      "id": "r3",
+      "head": "补合的二元论",
+      "head_type": "主义/学说/理论",
+      "relation": "相关",
+      "relation_subtype": "部分肯定",
+      "tail": "补合的二元论之见解，却有可取的地方了",
+      "tail_type": "观点",
+      "polarity": "positive",
+      "stance_score": 0.6,
+      "intensity": 0.5,
+      "evidence": "第二，补合的二元论之见解，却有可取的地方了。",
+      "confidence": 1.0
+    },
+    {
+      "id": "r4",
+      "head": "科学",
+      "head_type": "概念",
+      "relation": "对比",
+      "relation_subtype": "不适用",
+      "tail": "哲学",
+      "tail_type": "概念",
+      "polarity": "neutral",
+      "stance_score": 0.0,
+      "intensity": 0.5,
+      "evidence": "总之，科学与哲学，其为“学”则同，而其为学之性质则异。",
+      "confidence": 1.0
+    },
+    {
+      "id": "r5",
+      "head": "科学",
+      "head_type": "概念",
+      "relation": "定义",
+      "relation_subtype": "概念澄清",
+      "tail": "科学乃分观宇宙间一部分的事实，而探究其原理的",
+      "tail_type": "观点",
+      "polarity": "neutral",
+      "stance_score": 0.0,
+      "intensity": 0.5,
+      "evidence": "科学乃分观宇宙间一部分的事实，而探究其原理的；",
+      "confidence": 1.0
+    },
+    {
+      "id": "r6",
+      "head": "哲学",
+      "head_type": "概念",
+      "relation": "定义",
+      "relation_subtype": "概念澄清",
+      "tail": "哲学乃合观宇宙，取天地间一切事实，合一炉而穷究其本根的",
+      "tail_type": "观点",
+      "polarity": "neutral",
+      "stance_score": 0.0,
+      "intensity": 0.5,
+      "evidence": "哲学乃合观宇宙，取天地间一切事实，合一炉而穷究其本根的。",
+      "confidence": 1.0
+    },
+    {
+      "id": "r7",
+      "head": "科学",
+      "head_type": "概念",
+      "relation": "作为论据支持",
+      "relation_subtype": "不适用",
+      "tail": "哲学是科学的综合",
+      "tail_type": "观点",
+      "polarity": "neutral",
+      "stance_score": 0.0,
+      "intensity": 0.5,
+      "evidence": "科学是哲学的基础，哲学是科学的综合。",
+      "confidence": 1.0
+    },
+    {
+      "id": "r8",
+      "head": "哲学",
+      "head_type": "概念",
+      "relation": "作为论据支持",
+      "relation_subtype": "不适用",
+      "tail": "科学是哲学的基础",
+      "tail_type": "观点",
+      "polarity": "neutral",
+      "stance_score": 0.0,
+      "intensity": 0.5,
+      "evidence": "科学是哲学的基础，哲学是科学的综合。",
+      "confidence": 1.0
+    }
+  ],
+  "definitions": [
+    {
+      "id": "def1",
+      "term": "科学",
+      "definition": "分观宇宙间一部分的事实，而探究其原理的学问。",
+      "evidence": "科学乃分观宇宙间一部分的事实，而探究其原理的；",
+      "confidence": 1.0
+    },
+    {
+      "id": "def2",
+      "term": "哲学",
+      "definition": "合观宇宙，取天地间一切事实，合一炉而穷究其本根的学问。",
+      "evidence": "哲学乃合观宇宙，取天地间一切事实，合一炉而穷究其本根的。",
+      "confidence": 1.0
+    }
+  ],
+  "citations": [
+    {
+      "id": "cit1",
+      "citer": "王平陵",
+      "quoted_author": "达尔文（C.R. Darwin）",
+      "quoted_work": "",
+      "quoted_claim": "进化论",
+      "function": "作为历史证据",
+      "evidence": "例如达尔文（C.R. Darwin）是一位生物学者，然而他的进化论，则超脱科学的领域，而入于哲学的范围了。",
+      "confidence": 1.0
+    },
+    {
+      "id": "cit2",
+      "citer": "王平陵",
+      "quoted_author": "赫胥黎（T.H. Huxley）",
+      "quoted_work": "",
+      "quoted_claim": "进化论",
+      "function": "作为历史证据",
+      "evidence": "赫胥黎（T.H. Huxley）、黑格尔（E. H. Hackel）辈，都是进化论者，也渐次接触于哲学问题了。",
+      "confidence": 1.0
+    },
+    {
+      "id": "cit3",
+      "citer": "王平陵",
+      "quoted_author": "黑格尔（E. H. Hackel）",
+      "quoted_work": "",
+      "quoted_claim": "进化论",
+      "function": "作为历史证据",
+      "evidence": "赫胥黎（T.H. Huxley）、黑格尔（E. H. Hackel）辈，都是进化论者，也渐次接触于哲学问题了。",
+      "confidence": 1.0
+    }
+  ],
+  "rhetorical_devices": [
+    {
+      "id": "rh1",
+      "expression": "科学万能的谬误，不必要根据历史的事实来证明，即由人心的本性而观，也可以了然了",
+      "device_type": "夸张",
+      "literal_target": "科学万能的谬误",
+      "function": "强调科学万能论之谬误显而易见",
+      "evidence": "所以科学万能的谬误，不必要根据历史的事实来证明，即由人心的本性而观，也可以了然了。",
+      "confidence": 1.0
+    }
+  ],
+  "uncertainties": [
+    {
+      "item": "文本末尾“科学的研究事物，不问其对”不完整，无法确定后续内容。",
+      "reason": "文本片段在句子中间截断，缺少完整语义。"
+    }
+  ],
+  "_meta": {
+    "status": "success",
+    "stage": "extract",
+    "model": "deepseek-ai/DeepSeek-V4-Flash",
+    "base_url": "https://api.siliconflow.cn/v1",
+    "prompt_version": "v2.0",
+    "schema_version": "lite_v3.0",
+    "segment_id": "王平陵_000_d1d9c442_s0000",
+    "article_id": "王平陵_000_d1d9c442",
+    "char_start": 0,
+    "char_end": 595,
+    "raw_path": "E:\\1研究生\\岭南大学\\论文毕业\\capstone\\资料\\新的内容开始了\\local_upload\\kg_runs_v2\\王平陵_等4篇\\raw_outputs\\extract\\王平陵_000_d1d9c442_s0000.txt",
+    "parsed_at": "2026-05-21T04:07:18",
+    "started_at": "2026-05-21T04:03:28",
+    "elapsed_seconds": 230.024,
+    "strict_evidence_check": true,
+    "drop_unsupported_evidence": true,
+    "request_timeout_seconds": 180
+  }
+}

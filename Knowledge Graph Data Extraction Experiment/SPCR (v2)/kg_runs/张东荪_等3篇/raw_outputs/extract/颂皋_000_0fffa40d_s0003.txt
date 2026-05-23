@@ -1,0 +1,630 @@
+{
+  "metadata": {
+    "schema_version": "lite_v3.0",
+    "article_id": "颂皋_000_0fffa40d",
+    "article_title": "玄学上之问题",
+    "source_author": "颂皋",
+    "section_title": "",
+    "section_author": "",
+    "segment_id": "颂皋_000_0fffa40d_s0003",
+    "segment_index": 3,
+    "source_file": "E:\\1研究生\\岭南大学\\论文毕业\\capstone\\资料\\新的内容开始了\\local_upload\\input_v2_w2\\颂皋.txt"
+  },
+  "entities": [
+    {
+      "id": "e1",
+      "name": "原理",
+      "canonical_name": "原理",
+      "type": "概念",
+      "evidence": "原理之意义，既如是之复杂",
+      "confidence": 0.9
+    },
+    {
+      "id": "e2",
+      "name": "科学",
+      "canonical_name": "科学",
+      "type": "概念",
+      "evidence": "由原理而完成之科学",
+      "confidence": 0.9
+    },
+    {
+      "id": "e3",
+      "name": "定义",
+      "canonical_name": "定义",
+      "type": "概念",
+      "evidence": "此种定义，推其究竟，直等于一装饰品耳",
+      "confidence": 0.9
+    },
+    {
+      "id": "e4",
+      "name": "装饰品",
+      "canonical_name": "装饰品",
+      "type": "比喻/类比",
+      "evidence": "直等于一装饰品耳",
+      "confidence": 0.9
+    },
+    {
+      "id": "e5",
+      "name": "玄学",
+      "canonical_name": "玄学",
+      "type": "概念",
+      "evidence": "玄学之最严重的职务，不在乎他，即在乎研究此种单纯问题",
+      "confidence": 0.9
+    },
+    {
+      "id": "e6",
+      "name": "单纯问题",
+      "canonical_name": "单纯问题",
+      "type": "概念",
+      "evidence": "研究此种单纯问题",
+      "confidence": 0.9
+    },
+    {
+      "id": "e7",
+      "name": "整一的学问",
+      "canonical_name": "整一的学问",
+      "type": "概念",
+      "evidence": "则玄学已不失为一种整一的学问",
+      "confidence": 0.9
+    },
+    {
+      "id": "e8",
+      "name": "各问题",
+      "canonical_name": "各问题",
+      "type": "问题",
+      "evidence": "上所云之各问题，大都为真实者也",
+      "confidence": 0.9
+    },
+    {
+      "id": "e9",
+      "name": "事物",
+      "canonical_name": "事物",
+      "type": "概念",
+      "evidence": "今以“事物”而论",
+      "confidence": 0.9
+    },
+    {
+      "id": "e10",
+      "name": "物质",
+      "canonical_name": "物质",
+      "type": "概念",
+      "evidence": "是否由于一种物质所组成，抑不止一种物质",
+      "confidence": 0.9
+    },
+    {
+      "id": "e11",
+      "name": "一源",
+      "canonical_name": "一源",
+      "type": "概念",
+      "evidence": "是否出自一源，抑不止一源",
+      "confidence": 0.9
+    },
+    {
+      "id": "e12",
+      "name": "前定",
+      "canonical_name": "前定",
+      "type": "概念",
+      "evidence": "是否都为前定的，抑有数种为自由的",
+      "confidence": 0.9
+    },
+    {
+      "id": "e13",
+      "name": "自由",
+      "canonical_name": "自由",
+      "type": "概念",
+      "evidence": "抑有数种为自由的",
+      "confidence": 0.9
+    },
+    {
+      "id": "e14",
+      "name": "两岐之问题",
+      "canonical_name": "两岐之问题",
+      "type": "问题",
+      "evidence": "类此两岐之问题，难于解决，固可付之不论",
+      "confidence": 0.9
+    },
+    {
+      "id": "e15",
+      "name": "自然律",
+      "canonical_name": "自然律",
+      "type": "概念",
+      "evidence": "在自然律上，要与吾人相抵牾",
+      "confidence": 0.9
+    },
+    {
+      "id": "e16",
+      "name": "原有之问题",
+      "canonical_name": "原有之问题",
+      "type": "问题",
+      "evidence": "于原有之问题与夫假定的答案，吾人亦必重视之",
+      "confidence": 0.9
+    },
+    {
+      "id": "e17",
+      "name": "假定的答案",
+      "canonical_name": "假定的答案",
+      "type": "观点",
+      "evidence": "于原有之问题与夫假定的答案，吾人亦必重视之",
+      "confidence": 0.9
+    },
+    {
+      "id": "e18",
+      "name": "有价值的意见",
+      "canonical_name": "有价值的意见",
+      "type": "观点",
+      "evidence": "关于此种问题之种种有价值的意见，吾人亦须详加分析",
+      "confidence": 0.9
+    },
+    {
+      "id": "e19",
+      "name": "世界之起源",
+      "canonical_name": "世界之起源",
+      "type": "问题",
+      "evidence": "关于世界之起源究有若干意见",
+      "confidence": 0.9
+    },
+    {
+      "id": "e20",
+      "name": "斯宾塞尔",
+      "canonical_name": "斯宾塞尔",
+      "type": "人物",
+      "evidence": "斯宾塞尔尝谓世界非永久者，即为自我创造者；非自我创造者，则为外力所创造者",
+      "confidence": 0.9
+    },
+    {
+      "id": "e21",
+      "name": "世界非永久者",
+      "canonical_name": "世界非永久者",
+      "type": "观点",
+      "evidence": "斯宾塞尔尝谓世界非永久者，即为自我创造者",
+      "confidence": 0.9
+    },
+    {
+      "id": "e22",
+      "name": "自我创造者",
+      "canonical_name": "自我创造者",
+      "type": "观点",
+      "evidence": "斯宾塞尔尝谓世界非永久者，即为自我创造者",
+      "confidence": 0.9
+    },
+    {
+      "id": "e23",
+      "name": "外力所创造者",
+      "canonical_name": "外力所创造者",
+      "type": "观点",
+      "evidence": "非自我创造者，则为外力所创造者",
+      "confidence": 0.9
+    },
+    {
+      "id": "e24",
+      "name": "三种假设",
+      "canonical_name": "三种假设",
+      "type": "观点",
+      "evidence": "但此三种假设，不过在斯氏个人言之，如此焉耳",
+      "confidence": 0.9
+    },
+    {
+      "id": "e25",
+      "name": "无一起源之形态",
+      "canonical_name": "无一起源之形态",
+      "type": "概念",
+      "evidence": "无一起源之形态为可以思议",
+      "confidence": 0.9
+    },
+    {
+      "id": "e26",
+      "name": "全部问题",
+      "canonical_name": "全部问题",
+      "type": "问题",
+      "evidence": "断定全部问题为非真实",
+      "confidence": 0.9
+    },
+    {
+      "id": "e27",
+      "name": "玄学家",
+      "canonical_name": "玄学家",
+      "type": "阵营/群体",
+      "evidence": "吾人亦不失为玄学家矣",
+      "confidence": 0.9
+    }
+  ],
+  "claims": [
+    {
+      "id": "c1",
+      "speaker": "作者",
+      "claim": "原理之意义，既如是之复杂，由原理而完成之科学，又难有实现之望，然则此种定义，推其究竟，直等于一装饰品耳",
+      "target": "定义",
+      "claim_type": "评价性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "原理之意义，既如是之复杂，由原理而完成之科学，又难有实现之望，然则此种定义，推其究竟，直等于一装饰品耳",
+      "confidence": 0.9
+    },
+    {
+      "id": "c2",
+      "speaker": "作者",
+      "claim": "玄学之最严重的职务，不在乎他，即在乎研究此种单纯问题",
+      "target": "玄学",
+      "claim_type": "描述性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "夫玄学之最严重的职务，不在乎他，即在乎研究此种单纯问题",
+      "confidence": 0.9
+    },
+    {
+      "id": "c3",
+      "speaker": "作者",
+      "claim": "斯而果能一一解决，则玄学已不失为一种整一的学问",
+      "target": "玄学",
+      "claim_type": "因果主张",
+      "claim_status": "作者推论",
+      "polarity": "positive",
+      "evidence": "斯而果能一一解决，则玄学已不失为一种整一的学问",
+      "confidence": 0.9
+    },
+    {
+      "id": "c4",
+      "speaker": "作者",
+      "claim": "上所云之各问题，大都为真实者也",
+      "target": "各问题",
+      "claim_type": "描述性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "且夫上所云之各问题，大都为真实者也",
+      "confidence": 0.9
+    },
+    {
+      "id": "c5",
+      "speaker": "作者",
+      "claim": "只有数问题，吾人或以不当之各词说明之",
+      "target": "数问题",
+      "claim_type": "描述性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "换言之，只有数问题，吾人或以不当之各词说明之",
+      "confidence": 0.9
+    },
+    {
+      "id": "c6",
+      "speaker": "作者",
+      "claim": "类此两岐之问题，难于解决，固可付之不论",
+      "target": "两岐之问题",
+      "claim_type": "评价性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "类此两岐之问题，难于解决，固可付之不论",
+      "confidence": 0.9
+    },
+    {
+      "id": "c7",
+      "speaker": "作者",
+      "claim": "此种问题，苟非吾人得以证实之，在自然律上，要与吾人相抵牾，则可无疑",
+      "target": "此种问题",
+      "claim_type": "因果主张",
+      "claim_status": "作者推论",
+      "polarity": "positive",
+      "evidence": "但此种问题，苟非吾人得以证实之，在自然律上，要与吾人相抵牾，则可无疑",
+      "confidence": 0.9
+    },
+    {
+      "id": "c8",
+      "speaker": "作者",
+      "claim": "即使吾人不能于此种问题有所增益，而于原有之问题与夫假定的答案，吾人亦必重视之",
+      "target": "原有之问题与夫假定的答案",
+      "claim_type": "规范性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "是故即使吾人不能于此种问题有所增益，而于原有之问题与夫假定的答案，吾人亦必重视之",
+      "confidence": 0.9
+    },
+    {
+      "id": "c9",
+      "speaker": "作者",
+      "claim": "关于此种问题之种种有价值的意见，吾人亦须详加分析，而负责以讨论之",
+      "target": "有价值的意见",
+      "claim_type": "规范性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "不宁如是，即关于此种问题之种种有价值的意见，吾人亦须详加分析，而负责以讨论之",
+      "confidence": 0.9
+    },
+    {
+      "id": "c10",
+      "speaker": "斯宾塞尔",
+      "claim": "世界非永久者，即为自我创造者；非自我创造者，则为外力所创造者",
+      "target": "世界之起源",
+      "claim_type": "描述性主张",
+      "claim_status": "间接转述",
+      "polarity": "neutral",
+      "evidence": "斯宾塞尔尝谓世界非永久者，即为自我创造者；非自我创造者，则为外力所创造者",
+      "confidence": 0.9
+    },
+    {
+      "id": "c11",
+      "speaker": "作者",
+      "claim": "此三种假设，不过在斯氏个人言之，如此焉耳，是否正确，固又一问题也",
+      "target": "三种假设",
+      "claim_type": "评价性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "但此三种假设，不过在斯氏个人言之，如此焉耳，是否正确，固又一问题也",
+      "confidence": 0.9
+    },
+    {
+      "id": "c12",
+      "speaker": "作者",
+      "claim": "藉曰正确，则三者之中，果以何者为最合理，何以为最合理，不岂又一问题耶",
+      "target": "三种假设",
+      "claim_type": "问题提出",
+      "claim_status": "作者推论",
+      "polarity": "neutral",
+      "evidence": "藉曰正确，则三者之中，果以何者为最合理，何以为最合理，不岂又一问题耶",
+      "confidence": 0.9
+    },
+    {
+      "id": "c13",
+      "speaker": "作者",
+      "claim": "即使吾人随斯氏而断定无一起源之形态为可以思议，而断定全部问题为非真实，吾人亦不失为玄学家矣",
+      "target": "全部问题",
+      "claim_type": "结论性主张",
+      "claim_status": "作者推论",
+      "polarity": "positive",
+      "evidence": "盖即使吾人随斯氏而断定无一起源之形态为可以思议，而断定全部问题为非真实，吾人亦不失为玄学家矣",
+      "confidence": 0.9
+    }
+  ],
+  "relations": [
+    {
+      "id": "r1",
+      "head": "定义",
+      "head_type": "概念",
+      "relation": "评价",
+      "relation_subtype": "一般批评",
+      "tail": "装饰品",
+      "tail_type": "比喻/类比",
+      "polarity": "negative",
+      "stance_score": -0.8,
+      "intensity": 0.7,
+      "evidence": "然则此种定义，推其究竟，直等于一装饰品耳",
+      "confidence": 0.9
+    },
+    {
+      "id": "r2",
+      "head": "玄学",
+      "head_type": "概念",
+      "relation": "定义",
+      "relation_subtype": "概念澄清",
+      "tail": "研究此种单纯问题",
+      "tail_type": "概念",
+      "polarity": "positive",
+      "stance_score": 1.0,
+      "intensity": 0.8,
+      "evidence": "夫玄学之最严重的职务，不在乎他，即在乎研究此种单纯问题",
+      "confidence": 0.9
+    },
+    {
+      "id": "r3",
+      "head": "单纯问题",
+      "head_type": "概念",
+      "relation": "导致",
+      "relation_subtype": "不适用",
+      "tail": "整一的学问",
+      "tail_type": "概念",
+      "polarity": "positive",
+      "stance_score":  perm_0.8,
+      "intensity": 0.6,
+      "evidence": "斯而果能一一解决，则玄学已不失为一种整一的学问",
+      "confidence": 0.9
+    },
+    {
+      "id": "r4",
+      "head": "各问题",
+      "head_type": "问题",
+      "relation": "评价",
+      "relation_subtype": "一般批评",
+      "tail": "真实",
+      "tail_type": "概念",
+      "polarity": "positive",
+      "stance_score": 0.8,
+      "intensity": 0.6,
+      "evidence": "且夫上所云之各问题，大都为真实者也",
+      "confidence": 0.9
+    },
+    {
+      "id": "r5",
+      "head": "数问题",
+      "head_type": "问题",
+      "relation": "评价",
+      "relation_subtype": "一般批评",
+      "tail": "不当之各词",
+      "tail_type": "概念",
+      "polarity": "negative",
+      "stance_score": -0.5,
+      "intensity": 0.4,
+      "evidence": "只有数问题，吾人或以不当之各词说明之",
+      "confidence": 0.9
+    },
+    {
+      "id": "r6",
+      "head": "两岐之问题",
+      "head_type": "问题",
+      "relation": "评价",
+      "relation_subtype": "一般批评",
+      "tail": "难于解决",
+      "tail_type": "概念",
+      "polarity": "negative",
+      "stance_score": -0.3,
+      "intensity": 0.3,
+      "evidence": "类此两岐之问题，难于解决，固可付之不论",
+      "confidence": 0.9
+    },
+    {
+      "id": "r7",
+      "head": "此种问题",
+      "head_type": "问题",
+      "relation": "导致",
+      "relation_subtype": "不适用",
+      "tail": "与吾人相抵牾",
+      "tail_type": "概念",
+      "polarity": "negative",
+      "stance_score": -0.5,
+      "intensity": 0.5,
+      "evidence": "但此种问题，苟非吾人得以证实之，在自然律上，要与吾人相抵牾，则可无疑",
+      "confidence": 0.9
+    },
+    {
+      "id": "r8",
+      "head": "原有之问题与夫假定的答案",
+      "head_type": "问题",
+      "relation": "评价",
+      "relation_subtype": "部分肯定",
+      "tail": "重视",
+      "tail_type": "概念",
+      "polarity": "positive",
+      "stance_score": 0.7,
+      "intensity": 0.5,
+      "evidence": "是故即使吾人不能于此种问题有所增益，而于原有之问题与夫假定的答案，吾人亦必重视之",
+      "confidence": 0.9
+    },
+    {
+      "id": "r9",
+      "head": "有价值的意见",
+      "head_type": "观点",
+      "relation": "评价",
+      "relation_subtype": "部分肯定",
+      "tail": "详加分析",
+      "tail_type": "概念",
+      "polarity": "positive",
+      "stance_score": 0.8,
+      "intensity": 0.6,
+      "evidence": "不宁如是，即关于此种问题之种种有价值的意见，吾人亦须详加分析，而负责以讨论之",
+      "confidence": 0.9
+    },
+    {
+      "id": "r10",
+      "head": "斯宾塞尔",
+      "head_type": "人物",
+      "relation": "主张",
+      "relation_subtype": "不适用",
+      "tail": "世界非永久者，即为自我创造者；非自我创造者，则为外力所创造者",
+      "tail_type": "观点",
+      "polarity": "neutral",
+      "stance_score": 0.0,
+      "intensity": 0. rent 0.0,
+      "evidence": "斯宾塞尔尝谓世界非永久者，即为自我创造者；非自我创造者，则为外力所创造者",
+      "confidence": 0.9
+    },
+    {
+      "id": "r11",
+      "head": "作者",
+      "head_type": "人物",
+      "relation": "评价",
+      "relation_subtype": "一般批评",
+      "tail": "三种假设",
+      "tail_type": "观点",
+      "polarity": "negative",
+      "stance_score": -0.6,
+      "intensity": 0.5,
+      "evidence": "但此三种假设，不过在斯氏个人言之，如此焉耳，是否正确，固又一问题也",
+      "confidence": 0.9
+    },
+    {
+      "id": "r12",
+      "head": "三种假设",
+      "head_type": "观点",
+      "relation": "质疑",
+      "relation_subtype": "逻辑反驳",
+      "tail": "最合理",
+      "tail_type": "概念",
+      "polarity": "neutral",
+      "stance_score": 0.0,
+      "intensity": 0.4,
+      "evidence": "藉曰正确，则三者之中，果以何者为最合理，何以为最合理，不岂又一问题耶",
+      "confidence": 0.9
+    },
+    {
+      "id": "r13",
+      "head": "无一起源之形态",
+      "head_type": "概念",
+      "relation": "评价",
+      "relation_subtype": "部分肯定",
+      "tail": "可以思议",
+      "tail_type": "概念",
+      "polarity": "positive",
+      "stance_score": 0.5,
+      "intensity": 0.4,
+      "evidence": "即使吾人随斯氏而断定无一起源之形态为可以思议",
+      "confidence": 0.9
+    },
+    {
+      "id": "r14",
+      "head": "全部问题",
+      "head_type": "问题",
+      "relation": "评价",
+      "relation_subtype": "一般批评",
+      "tail": "非真实",
+      "tail_type": "概念",
+      "polarity": "negative",
+      "stance_score": -0.5,
+      "intensity": 0.4,
+      "evidence": "断定全部问题为非真实",
+      "confidence": 0.9
+    },
+    {
+      "id": "r15",
+      "head": "吾人",
+      "head_type": "阵营/群体",
+      "relation": "评价",
+      "relation_subtype": "部分肯定",
+      "tail": "玄学家",
+      "tail_type": "阵营/群体",
+      "polarity": "positive",
+      "stance_score": 0.7,
+      "intensity": 0.6,
+      "evidence": "吾人亦不失为玄学家矣",
+      "confidence": 0.9
+    }
+  ],
+  "definitions": [
+    {
+      "id": "def1",
+      "term": "玄学",
+      "definition": "玄学之最严重的职务，即在乎研究此种单纯问题",
+      "evidence": "夫玄学之最严重的职务，不在乎他，即在乎研究此种单纯问题",
+      "confidence": 0.9
+    }
+  ],
+  "citations": [
+    {
+      "id": "cit1",
+      "citer": "作者",
+      "quoted_author": "斯宾塞尔",
+      "quoted_work": "",
+      "quoted_claim": "世界非永久者，即为自我创造者；非自我创造者，则为外力所创造者",
+      "function": "作为批评对象",
+      "evidence": "斯宾塞尔尝谓世界非永久者，即为自我创造者；非自我创造者，则为外力所创造者",
+      "confidence": 0.9
+    }
+  ],
+  "rhetorical_devices": [
+    {
+      "id": "rh1",
+      "expression": "直等于一装饰品耳",
+      "device_type": "比喻",
+      "literal_target": "定义",
+      "function": "贬低定义的价值，认为其无用",
+      "evidence": "然则此种定义，推其究竟，直等于一装饰品耳",
+      "confidence": 0.9
+    }
+  ],
+  "uncertainties": [
+    {
+      "item": "relation r3 中 stance_score 的赋值",
+      "reason": "evidence 中“斯而果能一一解决，则玄学已不失为一种整一的学问”是假设性推论，立场强度难以精确量化，暂赋0.8"
+    },
+    {
+      "item": "relation r10 中 stance_score 的赋值",
+      "reason": "evidence 是转述斯宾塞尔观点，作者未直接表态，但后续有批评，暂赋0.0"
+    }
+  ]
+}

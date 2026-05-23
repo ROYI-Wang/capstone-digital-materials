@@ -1,0 +1,245 @@
+{
+  "metadata": {
+    "schema_version": "lite_v2.0",
+    "article_id": "丁文江2_000_e838922e",
+    "article_title": "玄学与科学——答张君劢",
+    "source_author": "丁文江",
+    "section_title": "",
+    "section_author": "",
+    "segment_id": "丁文江2_000_e838922e_s0038",
+    "segment_index": 38,
+    "source_file": "E:\\1研究生\\岭南大学\\论文毕业\\capstone\\资料\\新的内容开始了\\local_upload\\input_texts\\丁文江2.txt"
+  },
+  "entities": [
+    {
+      "id": "e1",
+      "name": "康德",
+      "canonical_name": "康德",
+      "type": "Person",
+      "evidence": "用不着康德的“先天综合判断”",
+      "confidence": 0.8
+    },
+    {
+      "id": "e2",
+      "name": "先天综合判断",
+      "canonical_name": "先天综合判断",
+      "type": "Concept",
+      "evidence": "用不着康德的“先天综合判断”",
+      "confidence": 1.0
+    },
+    {
+      "id": "e3",
+      "name": "德国思想心理的“论理意义”",
+      "canonical_name": "论理意义",
+      "type": "Concept",
+      "evidence": "用不着德国思想心理的“论理意义”",
+      "confidence": 0.8
+    },
+    {
+      "id": "e4",
+      "name": "比较心理学",
+      "canonical_name": "比较心理学",
+      "type": "Concept",
+      "evidence": "因为比较心理学已经宣告了他们的死刑",
+      "confidence": 1.0
+    },
+    {
+      "id": "e5",
+      "name": "唯觉派的知识论",
+      "canonical_name": "唯觉派的知识论",
+      "type": "Theory",
+      "evidence": "唯觉派的知识论本来是理论，本来有讨论之余地的",
+      "confidence": 1.0
+    },
+    {
+      "id": "e6",
+      "name": "嘉尔登",
+      "canonical_name": "嘉尔登",
+      "type": "Person",
+      "evidence": "自从嘉尔登拿统计的方法来研究生物的现象",
+      "confidence": 1.0
+    },
+    {
+      "id": "e7",
+      "name": "生物测量学",
+      "canonical_name": "生物测量学",
+      "type": "Concept",
+      "evidence": "成功了所谓生物测量学",
+      "confidence": 1.0
+    },
+    {
+      "id": "e8",
+      "name": "常人",
+      "canonical_name": "常人",
+      "type": "Concept",
+      "evidence": "我们所谓“常人”已经有了统计上的根据",
+      "confidence": 1.0
+    },
+    {
+      "id": "e9",
+      "name": "英国",
+      "canonical_name": "英国",
+      "type": "Concept",
+      "evidence": "即如英国的常人是五尺八英寸高",
+      "confidence": 1.0
+    },
+    {
+      "id": "e10",
+      "name": "智慧测量",
+      "canonical_name": "智慧测量",
+      "type": "Concept",
+      "evidence": "智慧测量的结果同高度是一样",
+      "confidence": 1.0
+    }
+  ],
+  "claims": [
+    {
+      "id": "c1",
+      "speaker": "丁文江",
+      "claim": "学生物学心理学的人用不着康德的“先天综合判断”，用不着德国思想心理的“论理意义”，因为比较心理学已经宣告了他们的死刑。",
+      "target": "康德",
+      "claim_type": "知识论主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "然而学生物学心理学的人用不着康德的“先天综合判断”，用不着德国思想心理的“论理意义”，因为比较心理学已经宣告了他们的死刑。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c2",
+      "speaker": "丁文江",
+      "claim": "唯觉派的知识论本来是理论，本来有讨论之余地的。",
+      "target": "唯觉派的知识论",
+      "claim_type": "知识论主张",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "唯觉派的知识论本来是理论，本来有讨论之余地的。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c3",
+      "speaker": "丁文江",
+      "claim": "凡常人心理的内容其性质都是相同的。……我的思想的工具是同常人的一类机器。机器的效能虽然不一样，性质却是相同。这是事实，不是理论。",
+      "target": "常人",
+      "claim_type": "知识论主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "至于我们说，“凡常人心理的内容其性质都是相同的。……我的思想的工具是同常人的一类机器。机器的效能虽然不一样，性质却是相同。”这是事实，不是理论。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c4",
+      "speaker": "丁文江",
+      "claim": "自从嘉尔登拿统计的方法来研究生物的现象，成功了所谓生物测量学，我们所谓“常人”已经有了统计上的根据。",
+      "target": "常人",
+      "claim_type": "知识论主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "自从嘉尔登拿统计的方法来研究生物的现象，成功了所谓生物测量学，我们所谓“常人”已经有了统计上的根据。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c5",
+      "speaker": "丁文江",
+      "claim": "智慧测量的结果同高度是一样。",
+      "target": "智慧测量",
+      "claim_type": "知识论主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "智慧测量的结果同高度是一样。",
+      "confidence": 1.0
+    }
+  ],
+  "relations": [
+    {
+      "id": "r1",
+      "head": "嘉尔登",
+      "head_type": "Person",
+      "relation": "CAUSES",
+      "tail": "生物测量学",
+      "tail_type": "Concept",
+      "polarity": "positive",
+      "evidence": "自从嘉尔登拿统计的方法来研究生物的现象，成功了所谓生物测量学",
+      "confidence": 1.0
+    }
+  ],
+  "definitions": [
+    {
+      "id": "def1",
+      "term": "常人",
+      "definition": "有统计根据的，例如英国常人身高五尺八英寸，矮子和长人的标准是随意的，之间有过渡的人与常人联合。",
+      "evidence": "我们所谓“常人”已经有了统计上的根据。即如英国的常人是五尺八英寸高：五尺以下的是矮子，六尺六寸以上的是长人。但是矮子同长子的标准完全是随意的：五尺以下的矮子，和六尺六寸以上的长人之间又有许多过渡的人把他们和常人联合在一块。",
+      "confidence": 1.0
+    }
+  ],
+  "citations": [
+    {
+      "id": "cit1",
+      "citer": "丁文江",
+      "quoted_author": "康德",
+      "quoted_work": "",
+      "quoted_claim": "先天综合判断",
+      "function": "作为批评对象",
+      "evidence": "用不着康德的“先天综合判断”",
+      "confidence": 1.0
+    },
+    {
+      "id": "cit2",
+      "citer": "丁文江",
+      "quoted_author": "嘉尔登",
+      "quoted_work": "",
+      "quoted_claim": "拿统计的方法来研究生物的现象",
+      "function": "作为历史证据",
+      "evidence": "自从嘉尔登拿统计的方法来研究生物的现象，成功了所谓生物测量学",
+      "confidence": 1.0
+    }
+  ],
+  "rhetorical_devices": [
+    {
+      "id": "rh1",
+      "expression": "宣告了他们的死刑",
+      "device_type": "比喻",
+      "literal_target": "比较心理学否定了康德和德国思想心理的论理意义",
+      "function": "强调比较心理学的决定性否定作用",
+      "evidence": "因为比较心理学已经宣告了他们的死刑",
+      "confidence": 1.0
+    },
+    {
+      "id": "rh2",
+      "expression": "我的思想的工具是同常人的一类机器。机器的效能虽然不一样，性质却是相同",
+      "device_type": "类比",
+      "literal_target": "人的思想工具与机器类比，说明性质相同但效能不同",
+      "function": "论证常人心理内容性质相同",
+      "evidence": "我的思想的工具是同常人的一类机器。机器的效能虽然不一样，性质却是相同",
+      "confidence": 1.0
+    }
+  ],
+  "uncertainties": [
+    {
+      "item": "“德国思想心理的‘论理意义’”的具体含义",
+      "reason": "文本中仅出现一次，未进一步解释，无法确定其确切指涉"
+    },
+    {
+      "item": "“唯觉派的知识论”的具体内容",
+      "reason": "文本仅提及名称，未展开说明其理论内容"
+    }
+  ],
+  "_meta": {
+    "status": "success",
+    "stage": "extract",
+    "model": "deepseek-ai/DeepSeek-V4-Flash",
+    "base_url": "https://api.siliconflow.cn/v1",
+    "prompt_version": "extract_prompt_v2.0",
+    "schema_version": "lite_v2.0",
+    "segment_id": "丁文江2_000_e838922e_s0038",
+    "article_id": "丁文江2_000_e838922e",
+    "char_start": 9548,
+    "char_end": 9879,
+    "raw_path": "E:\\1研究生\\岭南大学\\论文毕业\\capstone\\资料\\新的内容开始了\\local_upload\\kg_runs\\丁文江_等3篇\\raw_outputs\\extract\\丁文江2_000_e838922e_s0038.txt",
+    "parsed_at": "2026-05-19T04:26:14",
+    "started_at": "2026-05-19T04:25:59",
+    "elapsed_seconds": 14.649,
+    "strict_evidence_check": true,
+    "drop_unsupported_evidence": true,
+    "request_timeout_seconds": 180
+  }
+}

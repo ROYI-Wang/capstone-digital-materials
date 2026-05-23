@@ -1,0 +1,305 @@
+{
+  "metadata": {
+    "schema_version": "lite_v2.0",
+    "article_id": "唐钺_002_5e996979",
+    "article_title": "一个痴人的说梦 ——情感真是超科学的吗？",
+    "source_author": "唐钺",
+    "section_title": "",
+    "section_author": "",
+    "segment_id": "唐钺_002_5e996979_s0002",
+    "segment_index": 2,
+    "source_file": "E:\\1研究生\\岭南大学\\论文毕业\\capstone\\资料\\新的内容开始了\\local_upload\\input_w1\\唐钺.txt"
+  },
+  "entities": [
+    {
+      "id": "e1",
+      "name": "美",
+      "canonical_name": "美",
+      "type": "概念",
+      "evidence": "作某种的组织，就生出美来",
+      "confidence": 1.0
+    },
+    {
+      "id": "e2",
+      "name": "科学分析",
+      "canonical_name": "科学分析",
+      "type": "方法",
+      "evidence": "科学分析的结果",
+      "confidence": 1.0
+    },
+    {
+      "id": "e3",
+      "name": "水",
+      "canonical_name": "水",
+      "type": "概念",
+      "evidence": "水同二份轻气、一份养气",
+      "confidence": 1.0
+    },
+    {
+      "id": "e4",
+      "name": "美感",
+      "canonical_name": "美感",
+      "type": "概念",
+      "evidence": "美感同线、光、韵、调等",
+      "confidence": 1.0
+    },
+    {
+      "id": "e5",
+      "name": "神秘性",
+      "canonical_name": "神秘性",
+      "type": "概念",
+      "evidence": "美不是依旧带有神秘性的吗",
+      "confidence": 1.0
+    },
+    {
+      "id": "e6",
+      "name": "橙色",
+      "canonical_name": "橙色",
+      "type": "概念",
+      "evidence": "把红色黄色混合起来就生橙色",
+      "confidence": 1.0
+    },
+    {
+      "id": "e7",
+      "name": "直觉",
+      "canonical_name": "直觉",
+      "type": "方法",
+      "evidence": "用所谓“直觉”，“综合”等方法",
+      "confidence": 1.0
+    },
+    {
+      "id": "e8",
+      "name": "综合",
+      "canonical_name": "综合",
+      "type": "方法",
+      "evidence": "用所谓“直觉”，“综合”等方法",
+      "confidence": 1.0
+    }
+  ],
+  "claims": [
+    {
+      "id": "c1",
+      "speaker": "唐钺",
+      "claim": "作某种的组织，就生出美来，这都是一样的道理。",
+      "target": "美",
+      "claim_type": "知识论主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "然而作某种的组织，就生出美来，这都是一样的道理。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c2",
+      "speaker": "唐钺",
+      "claim": "科学分析的结果，并不是说水同二份轻气、一份养气，是一样的东西；当然也不说美感同线、光、韵、调等是一样的东西。",
+      "target": "科学分析",
+      "claim_type": "方法论主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "科学分析的结果，并不是说水同二份轻气、一份养气，是一样的东西；当然也不说美感同线、光、韵、调等是一样的东西。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c3",
+      "speaker": "有人",
+      "claim": "如此则美不是依旧带有神秘性的吗？",
+      "target": "美",
+      "claim_type": "问题提出",
+      "claim_status": "间接转述",
+      "polarity": "neutral",
+      "evidence": "有人说：如此则美不是依旧带有神秘性的吗？",
+      "confidence": 1.0
+    },
+    {
+      "id": "c4",
+      "speaker": "唐钺",
+      "claim": "这一种神秘性，没有什么希罕，是一切经验所共有的。",
+      "target": "神秘性",
+      "claim_type": "知识论主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "但是这一种神秘性，没有什么希罕，是一切经验所共有的。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c5",
+      "speaker": "唐钺",
+      "claim": "把红色黄色混合起来就生橙色，橙色也不是红，也不是黄，也不是红黄同时呈现。这样来说，橙色岂不是“的的确确带有神秘性的”吗？",
+      "target": "橙色",
+      "claim_type": "论据",
+      "claim_status": "作者推论",
+      "polarity": "positive",
+      "evidence": "比方把红色黄色混合起来就生橙色，橙色也不是红，也不是黄，也不是红黄同时呈现。这样来说，橙色岂不是“的的确确带有神秘性的”吗？",
+      "confidence": 1.0
+    },
+    {
+      "id": "c6",
+      "speaker": "唐钺",
+      "claim": "美是特种的愉快的感情，而且他所依傍的理智要素是极复杂的，极复杂则不容易分析。",
+      "target": "美",
+      "claim_type": "定义性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "美是特种的愉快的感情，而且他所依傍的理智要素是极复杂的，极复杂则不容易分析。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c7",
+      "speaker": "唐钺",
+      "claim": "因为他是愉快的感情，我们不肯分析；因为一加分析，快感就要减消，那是反乎我们的求乐的天性的。",
+      "target": "美感",
+      "claim_type": "知识论主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "因为他是愉快的感情，我们不肯分析；因为一加分析，快感就要减消，那是反乎我们的求乐的天性的。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c8",
+      "speaker": "唐钺",
+      "claim": "有这两个原因，所以好像美是不可分析的。",
+      "target": "美",
+      "claim_type": "结论性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "有这两个原因，所以好像美是不可分析的。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c9",
+      "speaker": "唐钺",
+      "claim": "美术品中有很多的地方，外人看来以为是不能分析的；而美术家自己却以为是可以分析的。",
+      "target": "美术品",
+      "claim_type": "知识论主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "美术品中有很多的地方，外人看来以为是不能分析的；而美术家自己却以为是可以分析的。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c10",
+      "speaker": "唐钺",
+      "claim": "画家的配色下笔多少是可以分析的。",
+      "target": "画家的配色下笔",
+      "claim_type": "知识论主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "画家的配色下笔多少是可以分析的。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c11",
+      "speaker": "唐钺",
+      "claim": "有时有“妙手偶得”，而自己不能分析的地方。这是因为（一）美术品的组织复杂，自己不能追忆创作时详细的阶段；（二）“得之于手而应之于心”的地方，往往非言语所能现表。后者是因为人类语言不完全（即所谓“言不尽意”），并不是不可分析，也并不是超乎理智的作用。",
+      "target": "妙手偶得",
+      "claim_type": "知识论主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "有时有“妙手偶得”，而自己不能分析的地方。这是因为（一）美术品的组织复杂，自己不能追忆创作时详细的阶段；（二）“得之于手而应之于心”的地方，往往非言语所能现表。后者是因为人类语言不完全（即所谓“言不尽意”），并不是不可分析，也并不是超乎理智的作用。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c12",
+      "speaker": "唐钺",
+      "claim": "就是一时不能完全分析美感，但却不可不用分析方法来驾驭他。因为用所谓“直觉”，“综合”等方法，是无结果的。",
+      "target": "美感",
+      "claim_type": "方法论主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "就是一时不能完全分析美感，但却不可不用分析方法来驾驭他。因为用所谓“直觉”，“综合”等方法，是无结果的。",
+      "confidence": 1.0
+    }
+  ],
+  "relations": [
+    {
+      "id": "r1",
+      "head": "唐钺",
+      "head_type": "人物",
+      "relation": "回应",
+      "tail": "有人",
+      "tail_type": "人物",
+      "polarity": "negative",
+      "evidence": "有人说：如此则美不是依旧带有神秘性的吗？我说：不错的。但是这一种神秘性，没有什么希罕，是一切经验所共有的。",
+      "confidence": 1.0
+    },
+    {
+      "id": "r2",
+      "head": "唐钺",
+      "head_type": "人物",
+      "relation": "解释",
+      "tail": "美",
+      "tail_type": "概念",
+      "polarity": "positive",
+      "evidence": "美是特种的愉快的感情，而且他所依傍的理智要素是极复杂的，极复杂则不容易分析。",
+      "confidence": 1.0
+    },
+    {
+      "id": "r3",
+      "head": "唐钺",
+      "head_type": "人物",
+      "relation": "批评",
+      "tail": "直觉",
+      "tail_type": "方法",
+      "polarity": "negative",
+      "evidence": "因为用所谓“直觉”，“综合”等方法，是无结果的。",
+      "confidence": 1.0
+    },
+    {
+      "id": "r4",
+      "head": "唐钺",
+      "head_type": "人物",
+      "relation": "批评",
+      "tail": "综合",
+      "tail_type": "方法",
+      "polarity": "negative",
+      "evidence": "因为用所谓“直觉”，“综合”等方法，是无结果的。",
+      "confidence": 1.0
+    }
+  ],
+  "definitions": [
+    {
+      "id": "def1",
+      "term": "美",
+      "definition": "美是特种的愉快的感情，而且他所依傍的理智要素是极复杂的。",
+      "evidence": "美是特种的愉快的感情，而且他所依傍的理智要素是极复杂的，极复杂则不容易分析。",
+      "confidence": 1.0
+    }
+  ],
+  "citations": [],
+  "rhetorical_devices": [
+    {
+      "id": "rh1",
+      "expression": "的的确确带有神秘性的",
+      "device_type": "讽刺",
+      "literal_target": "有人对美神秘性的质疑",
+      "function": "通过反讽方式消解对方对美神秘性的强调",
+      "evidence": "这样来说，橙色岂不是“的的确确带有神秘性的”吗？",
+      "confidence": 0.8
+    }
+  ],
+  "uncertainties": [
+    {
+      "item": "有人",
+      "reason": "文本中仅出现“有人说”，未明确具体人物，无法确定其身份。"
+    }
+  ],
+  "_meta": {
+    "status": "success",
+    "stage": "extract",
+    "model": "deepseek-ai/DeepSeek-V4-Flash",
+    "base_url": "https://api.siliconflow.cn/v1",
+    "prompt_version": "extract_prompt_v2.0",
+    "schema_version": "lite_v2.0",
+    "segment_id": "唐钺_002_5e996979_s0002",
+    "article_id": "唐钺_002_5e996979",
+    "char_start": 1008,
+    "char_end": 1578,
+    "raw_path": "E:\\1研究生\\岭南大学\\论文毕业\\capstone\\资料\\新的内容开始了\\local_upload\\kg_runs\\唐钺\\raw_outputs\\extract\\唐钺_002_5e996979_s0002.txt",
+    "parsed_at": "2026-05-20T02:12:15",
+    "started_at": "2026-05-20T02:11:44",
+    "elapsed_seconds": 30.887,
+    "strict_evidence_check": true,
+    "drop_unsupported_evidence": true,
+    "request_timeout_seconds": 180
+  }
+}

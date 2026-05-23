@@ -1,0 +1,481 @@
+{
+  "metadata": {
+    "schema_version": "lite_v3.0",
+    "article_id": "张君劢_002_c870d202",
+    "article_title": "再论人生观与科学并答丁在君",
+    "source_author": "张君劢",
+    "section_title": "",
+    "section_author": "",
+    "segment_id": "张君劢_002_c870d202_s0012",
+    "segment_index": 12,
+    "source_file": "E:\\1研究生\\岭南大学\\论文毕业\\capstone\\资料\\新的内容开始了\\local_upload\\input_张君劢\\张君劢.txt"
+  },
+  "entities": [
+    {
+      "id": "e1",
+      "name": "物理上之概念",
+      "canonical_name": "物理概念",
+      "type": "概念",
+      "evidence": "物理上之概念，曰阿顿，曰原子，曰质量，曰能力",
+      "confidence": 0.9
+    },
+    {
+      "id": "e2",
+      "name": "阿顿",
+      "canonical_name": "阿顿",
+      "type": "概念",
+      "evidence": "物理上之概念，曰阿顿，曰原子，曰质量，曰能力",
+      "confidence": 0.9
+    },
+    {
+      "id": "e3",
+      "name": "原子",
+      "canonical_name": "原子",
+      "type": "概念",
+      "evidence": "物理上之概念，曰阿顿，曰原子，曰质量，曰能力",
+      "confidence": 0.9
+    },
+    {
+      "id": "e4",
+      "name": "质量",
+      "canonical_name": "质量",
+      "type": "概念",
+      "evidence": "物理上之概念，曰阿顿，曰原子，曰质量，曰能力",
+      "confidence": 0.9
+    },
+    {
+      "id": "e5",
+      "name": "能力",
+      "canonical_name": "能力",
+      "type": "概念",
+      "evidence": "物理上之概念，曰阿顿，曰原子，曰质量，曰能力",
+      "confidence": 0.9
+    },
+    {
+      "id": "e6",
+      "name": "生物学",
+      "canonical_name": "生物学",
+      "type": "概念",
+      "evidence": "至于生物学，有所谓种别，有所谓个性",
+      "confidence": 0.9
+    },
+    {
+      "id": "e7",
+      "name": "种别",
+      "canonical_name": "种别",
+      "type": "概念",
+      "evidence": "至于生物学，有所谓种别，有所谓个性",
+      "confidence": 0.9
+    },
+    {
+      "id": "e8",
+      "name": "个性",
+      "canonical_name": "个性",
+      "type": "概念",
+      "evidence": "至于生物学，有所谓种别，有所谓个性；而心理学为尤甚",
+      "confidence": 0.9
+    },
+    {
+      "id": "e9",
+      "name": "心理学",
+      "canonical_name": "心理学",
+      "type": "概念",
+      "evidence": "而心理学为尤甚",
+      "confidence": 0.9
+    },
+    {
+      "id": "e10",
+      "name": "爱丁敦氏",
+      "canonical_name": "爱丁敦",
+      "type": "人物",
+      "evidence": "当英天文学者爱丁敦氏赴南美测验日蚀之日",
+      "confidence": 0.9
+    },
+    {
+      "id": "e11",
+      "name": "鲍恩",
+      "canonical_name": "鲍恩",
+      "type": "人物",
+      "evidence": "德物理学者鲍恩询爱因斯坦曰",
+      "confidence": 0.9
+    },
+    {
+      "id": "e12",
+      "name": "爱因斯坦",
+      "canonical_name": "爱因斯坦",
+      "type": "人物",
+      "evidence": "德物理学者鲍恩询爱因斯坦曰",
+      "confidence": 0.9
+    },
+    {
+      "id": "e13",
+      "name": "四大原则",
+      "canonical_name": "四大原则",
+      "type": "概念",
+      "evidence": "以有吾所谓上述之四大原则故也",
+      "confidence": 0.9
+    },
+    {
+      "id": "e14",
+      "name": "物理现象",
+      "canonical_name": "物理现象",
+      "type": "概念",
+      "evidence": "物理现象惟有此四大原则，故日趋于正确",
+      "confidence": 0.9
+    },
+    {
+      "id": "e15",
+      "name": "生物心理现象",
+      "canonical_name": "生物心理现象",
+      "type": "概念",
+      "evidence": "生物心理现象惟无此四原则，故不能日就于正确",
+      "confidence": 0.9
+    },
+    {
+      "id": "e16",
+      "name": "精神科学",
+      "canonical_name": "精神科学",
+      "type": "概念",
+      "evidence": "即此不正确之故，而精神科学之价值乃可得而推求",
+      "confidence": 0.9
+    },
+    {
+      "id": "e17",
+      "name": "天文学",
+      "canonical_name": "天文学",
+      "type": "概念",
+      "evidence": "天文学，世界统一者也",
+      "confidence": 0.9
+    },
+    {
+      "id": "e18",
+      "name": "数学",
+      "canonical_name": "数学",
+      "type": "概念",
+      "evidence": "数学，世界统一者也",
+      "confidence": 0.9
+    },
+    {
+      "id": "e19",
+      "name": "政治与生计",
+      "canonical_name": "政治与生计",
+      "type": "概念",
+      "evidence": "一言及于精神科学如政治与生计之类",
+      "confidence": 0.9
+    },
+    {
+      "id": "e20",
+      "name": "君主",
+      "canonical_name": "君主",
+      "type": "概念",
+      "evidence": "忽而君主，忽而共和",
+      "confidence": 0.9
+    },
+    {
+      "id": "e21",
+      "name": "共和",
+      "canonical_name": "共和",
+      "type": "概念",
+      "evidence": "忽而君主，忽而共和",
+      "confidence": 0.9
+    },
+    {
+      "id": "e22",
+      "name": "资本主义",
+      "canonical_name": "资本主义",
+      "type": "主义/学说/理论",
+      "evidence": "忽而资本主义？忽而社会主义",
+      "confidence": 0.9
+    },
+    {
+      "id": "e23",
+      "name": "社会主义",
+      "canonical_name": "社会主义",
+      "type": "主义/学说/理论",
+      "evidence": "忽而资本主义？忽而社会主义",
+      "confidence": 0.9
+    },
+    {
+      "id": "e24",
+      "name": "公例",
+      "canonical_name": "公例",
+      "type": "概念",
+      "evidence": "精神科学中有何种公例牢固不拔如物理学之公例者乎",
+      "confidence": 0.9
+    }
+  ],
+  "claims": [
+    {
+      "id": "c1",
+      "speaker": "张君劢",
+      "claim": "物理上之概念，曰阿顿，曰原子，曰质量，曰能力：此数者得之抽象，而绝不为物体之具体的实在所扰。",
+      "target": "物理概念",
+      "claim_type": "描述性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "物理上之概念，曰阿顿，曰原子，曰质量，曰能力：此数者得之抽象，而绝不为物体之具体的实在所扰。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c2",
+      "speaker": "张君劢",
+      "claim": "生物心理两界日为个性之差异所扰，而不易得其纯一现象。",
+      "target": "生物心理两界",
+      "claim_type": "描述性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "因而生物心理两界日为个性之差异所扰，而不易得其纯一现象。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c3",
+      "speaker": "爱因斯坦",
+      "claim": "诚如君言，吾惟有骇怪。",
+      "target": "鲍恩",
+      "claim_type": "回应性主张",
+      "claim_status": "直接引用",
+      "polarity": "neutral",
+      "evidence": "爱氏答曰：诚如君言，吾惟有骇怪。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c4",
+      "speaker": "张君劢",
+      "claim": "爱氏何以能自信如是？曰，以有吾所谓上述之四大原则故也。",
+      "target": "爱因斯坦的自信",
+      "claim_type": "因果主张",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "夫爱氏何以能自信如是？曰，以有吾所谓上述之四大原则故也。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c5",
+      "speaker": "张君劢",
+      "claim": "物理现象惟有此四大原则，故日趋于正确；生物心理现象惟无此四原则，故不能日就于正确。",
+      "target": "物理现象与生物心理现象",
+      "claim_type": "因果主张",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "物理现象惟有此四大原则，故日趋于正确；生物心理现象惟无此四原则，故不能日就于正确。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c6",
+      "speaker": "张君劢",
+      "claim": "精神科学中有何种公例牢固不拔如物理学之公例者乎？有何种公例可以推算未来之变化，如天文学之于天象，力学之于物体者乎？吾敢断言曰：必无而已。",
+      "target": "精神科学",
+      "claim_type": "结论性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "吾敢断言曰：必无而已。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c7",
+      "speaker": "张君劢",
+      "claim": "天文学，世界统一者也，未闻有所谓英国天文学法国天文学也。数学，世界统一者也，未闻有所谓美国数学德国数学也。",
+      "target": "天文学与数学",
+      "claim_type": "描述性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "天文学，世界统一者也，未闻有所谓英国天文学法国天文学也。数学，世界统一者也，未闻有所谓美国数学德国数学也。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c8",
+      "speaker": "张君劢",
+      "claim": "精神科学如政治与生计之类，每曰甲国之政制，不必适于乙国；甲国之政策，不必适于乙国。",
+      "target": "精神科学",
+      "claim_type": "描述性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "一言及于精神科学如政治与生计之类，每曰甲国之政制，不必适于乙国；甲国之政策，不必适于乙国。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c9",
+      "speaker": "张君劢",
+      "claim": "精神科学无牢固不拔之原则，且决不能以已成之例推算未来也。",
+      "target": "精神科学",
+      "claim_type": "结论性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "无他，精神科学无牢固不拔之原则，且决不能以已成之例推算未来也。",
+      "confidence": 0.9
+    }
+  ],
+  "relations": [
+    {
+      "id": "r1",
+      "head": "物理上之概念",
+      "head_type": "概念",
+      "relation": "区分",
+      "relation_subtype": "概念澄清",
+      "tail": "物体之具体的实在",
+      "tail_type": "概念",
+      "polarity": "neutral",
+      "stance_score": 0.0,
+      "intensity": 0.0,
+      "evidence": "此数者得之抽象，而绝不为物体之具体的实在所扰。",
+      "confidence": 0.9
+    },
+    {
+      "id": "r2",
+      "head": "生物心理两界",
+      "head_type": "概念",
+      "relation": "区分",
+      "relation_subtype": "概念澄清",
+      "tail": "物理现象",
+      "tail_type": "概念",
+      "polarity": "neutral",
+      "stance_score": 0.0,
+      "intensity": 0.0,
+      "evidence": "因而生物心理两界日为个性之差异所扰，而不易得其纯一现象。",
+      "confidence": 0.9
+    },
+    {
+      "id": "r3",
+      "head": "爱因斯坦",
+      "head_type": "人物",
+      "relation": "回应",
+      "relation_subtype": "一般批评",
+      "tail": "鲍恩",
+      "tail_type": "人物",
+      "polarity": "neutral",
+      "stance_score": 0.0,
+      "intensity": 0.0,
+      "evidence": "德物理学者鲍恩询爱因斯坦曰：苟测而不验奈何？爱氏答曰：诚如君言，吾惟有骇怪。",
+      "confidence": 0.9
+    },
+    {
+      "id": "r4",
+      "head": "四大原则",
+      "head_type": "概念",
+      "relation": "导致",
+      "relation_subtype": "不适用",
+      "tail": "物理现象日趋于正确",
+      "tail_type": "概念",
+      "polarity": "positive",
+      "stance_score": 1.0,
+      "intensity": 0.8,
+      "evidence": "物理现象惟有此四大原则，故日趋于正确",
+      "confidence": 0.9
+    },
+    {
+      "id": "r5",
+      "head": "生物心理现象",
+      "head_type": "概念",
+      "relation": "归因于",
+      "relation_subtype": "不适用",
+      "tail": "无此四原则",
+      "tail_type": "概念",
+      "polarity": "negative",
+      "stance_score": -0.8,
+      "intensity": 0.7,
+      "evidence": "生物心理现象惟无此四原则，故不能日就于正确",
+      "confidence": 0.9
+    },
+    {
+      "id": "r6",
+      "head": "精神科学",
+      "head_type": "概念",
+      "relation": "对比",
+      "relation_subtype": "不适用",
+      "tail": "物理学",
+      "tail_type": "概念",
+      "polarity": "negative",
+      "stance_score": -0.5,
+      "intensity": 0.6,
+      "evidence": "精神科学中有何种公例牢固不拔如物理学之公例者乎？",
+      "confidence": 0.9
+    },
+    {
+      "id": "r7",
+      "head": "天文学",
+      "head_type": "概念",
+      "relation": "对比",
+      "relation_subtype": "不适用",
+      "tail": "精神科学",
+      "tail_type": "概念",
+      "polarity": "positive",
+      "stance_score": 0.8,
+      "intensity": 0.7,
+      "evidence": "天文学，世界统一者也，未闻有所谓英国天文学法国天文学也。",
+      "confidence": 0.9
+    },
+    {
+      "id": "r8",
+      "head": "数学",
+      "head_type": "概念",
+      "relation": "对比",
+      "relation_subtype": "不适用",
+      "tail": "精神科学",
+      "tail_type": "概念",
+      "polarity": "positive",
+      "stance_score": 0.8,
+      "intensity": 0.7,
+      "evidence": "数学，世界统一者也，未闻有所谓美国数学德国数学也。",
+      "confidence": 0.9
+    },
+    {
+      "id": "r9",
+      "head": "精神科学",
+      "head_type": "概念",
+      "relation": "作为论据支持",
+      "relation_subtype": "不适用",
+      "tail": "精神科学无牢固不拔之原则",
+      "tail_type": "结论",
+      "polarity": "negative",
+      "stance_score": -0.8,
+      "intensity": 0.8,
+      "evidence": "无他，精神科学无牢固不拔之原则，且决不能以已成之例推算未来也。",
+      "confidence": 0.9
+    }
+  ],
+  "definitions": [
+    {
+      "id": "def1",
+      "term": "物理上之概念",
+      "definition": "阿顿、原子、质量、能力，这些概念通过抽象获得，不受具体实在干扰。",
+      "evidence": "物理上之概念，曰阿顿，曰原子，曰质量，曰能力：此数者得之抽象，而绝不为物体之具体的实在所扰。",
+      "confidence": 0.9
+    },
+    {
+      "id": "def2",
+      "term": "精神科学",
+      "definition": "包括政治与生计等，没有牢固不拔的原则，不能以已成之例推算未来。",
+      "evidence": "精神科学无牢固不拔之原则，且决不能以已成之例推算未来也。",
+      "confidence": 0.9
+    }
+  ],
+  "citations": [
+    {
+      "id": "cit1",
+      "citer": "张君劢",
+      "quoted_author": "爱因斯坦",
+      "quoted_work": "",
+      "quoted_claim": "诚如君言，吾惟有骇怪。",
+      "function": "援引权威支持",
+      "evidence": "爱氏答曰：诚如君言，吾惟有骇怪。",
+      "confidence": 0.9
+    }
+  ],
+  "rhetorical_devices": [
+    {
+      "id": "rh1",
+      "expression": "精神科学中有何种公例牢固不拔如物理学之公例者乎？有何种公例可以推算未来之变化，如天文学之于天象，力学之于物体者乎？",
+      "device_type": "类比",
+      "literal_target": "精神科学缺乏像物理学那样的公例",
+      "function": "通过类比强调精神科学没有牢固公例",
+      "evidence": "精神科学中有何种公例牢固不拔如物理学之公例者乎？有何种公例可以推算未来之变化，如天文学之于天象，力学之于物体者乎？",
+      "confidence": 0.9
+    }
+  ],
+  "uncertainties": [
+    {
+      "item": "四大原则的具体内容",
+      "reason": "文本中只提到'上述之四大原则'，但未在当前片段中列出具体内容。"
+    }
+  ]
+}

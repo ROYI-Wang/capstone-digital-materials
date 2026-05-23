@@ -1,0 +1,222 @@
+{
+  "metadata": {
+    "schema_version": "lite_v2.0",
+    "article_id": "甘蛰仙_000_6b354fa0",
+    "article_title": "人生观与知识论",
+    "source_author": "甘蛰仙",
+    "section_title": "鄙意欲率自由意志以通本体论与道德学之邮，犹先民所谓“为仁由己”也。我当时之见解，以为从事本体之学，务必以道德学为之辅，乃能按",
+    "section_author": "鄙意欲率自由意志以通本体论与道德学之邮，犹先民所谓“为仁由己”也。我当时之见解，以为从事本体之学，务必以道德学为之辅，乃能",
+    "segment_id": "甘蛰仙_000_6b354fa0_s0010",
+    "segment_index": 10,
+    "source_file": "E:\\1研究生\\岭南大学\\论文毕业\\capstone\\资料\\新的内容开始了\\local_upload\\input_w2\\甘蛰仙.txt"
+  },
+  "entities": [
+    {
+      "id": "e1",
+      "name": "阳明",
+      "canonical_name": "王阳明",
+      "type": "人物",
+      "evidence": "阳明学说之所赖以传",
+      "confidence": 0.9
+    },
+    {
+      "id": "e2",
+      "name": "龙溪",
+      "canonical_name": "王龙溪",
+      "type": "人物",
+      "evidence": "龙溪之在王门",
+      "confidence": 0.9
+    },
+    {
+      "id": "e3",
+      "name": "伊川",
+      "canonical_name": "程伊川",
+      "type": "人物",
+      "evidence": "伊川之在太学",
+      "confidence": 0.9
+    },
+    {
+      "id": "e4",
+      "name": "张丁二君",
+      "canonical_name": "张君劢、丁文江",
+      "type": "人物",
+      "evidence": "近月来张丁二君之玄学科学论战",
+      "confidence": 0.9
+    },
+    {
+      "id": "e5",
+      "name": "青年同胞",
+      "canonical_name": "青年同胞",
+      "type": "阵营/群体",
+      "evidence": "愿吾青年同胞，相与共勉之矣",
+      "confidence": 0.9
+    },
+    {
+      "id": "e6",
+      "name": "玄学科学论战",
+      "canonical_name": "科玄论战",
+      "type": "事件",
+      "evidence": "近月来张丁二君之玄学科学论战",
+      "confidence": 0.9
+    },
+    {
+      "id": "e7",
+      "name": "人生哲学史",
+      "canonical_name": "中国人生哲学史",
+      "type": "概念",
+      "evidence": "其在中国人生哲学史上之建设",
+      "confidence": 0.8
+    },
+    {
+      "id": "e8",
+      "name": "意志",
+      "canonical_name": "意志",
+      "type": "概念",
+      "evidence": "天下惟有意志者，能创造崭新之历史",
+      "confidence": 0.9
+    },
+    {
+      "id": "e9",
+      "name": "历史",
+      "canonical_name": "历史",
+      "type": "概念",
+      "evidence": "能创造崭新之历史",
+      "confidence": 0.8
+    },
+    {
+      "id": "e10",
+      "name": "人生",
+      "canonical_name": "人生",
+      "type": "概念",
+      "evidence": "不出乎人生范围之外",
+      "confidence": 0.8
+    },
+    {
+      "id": "e11",
+      "name": "甘蛰仙",
+      "canonical_name": "甘蛰仙",
+      "type": "人物",
+      "evidence": "余虽陋劣无似",
+      "confidence": 0.9
+    }
+  ],
+  "claims": [
+    {
+      "id": "c1",
+      "speaker": "甘蛰仙",
+      "claim": "阳明学说之所赖以传；其在中国人生哲学史上之建设，固已度越常人矣",
+      "target": "阳明",
+      "claim_type": "价值评价",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "阳明学说之所赖以传；其在中国人生哲学史上之建设，固已度越常人矣",
+      "confidence": 0.9
+    },
+    {
+      "id": "c2",
+      "speaker": "甘蛰仙",
+      "claim": "天下惟有意志者，能创造崭新之历史",
+      "target": "意志",
+      "claim_type": "本体论主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "天下惟有意志者，能创造崭新之历史",
+      "confidence": 0.9
+    },
+    {
+      "id": "c3",
+      "speaker": "甘蛰仙",
+      "claim": "近月来张丁二君之玄学科学论战，各皆持之有故，不出乎人生范围之外",
+      "target": "张丁二君",
+      "claim_type": "价值评价",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "近月来张丁二君之玄学科学论战，各皆持之有故，不出乎人生范围之外",
+      "confidence": 0.9
+    },
+    {
+      "id": "c4",
+      "speaker": "甘蛰仙",
+      "claim": "余两皆乐观焉",
+      "target": "玄学科学论战",
+      "claim_type": "价值评价",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "余两皆乐观焉",
+      "confidence": 0.9
+    },
+    {
+      "id": "c5",
+      "speaker": "甘蛰仙",
+      "claim": "似此兴会淋漓，余或有卷入论战旋涡之一日，亦未可知",
+      "target": "玄学科学论战",
+      "claim_type": "不明",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "似此兴会淋漓，余或有卷入论战旋涡之一日，亦未可知",
+      "confidence": 0.8
+    },
+    {
+      "id": "c6",
+      "speaker": "甘蛰仙",
+      "claim": "特惧外界或疑我将来发言时，于二君有左右袒；而吾之修养力及学力，亦自觉陋劣滋甚，虑不能于二君有所益也",
+      "target": "甘蛰仙",
+      "claim_type": "价值评价",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "特惧外界或疑我将来发言时，于二君有左右袒；而吾之修养力及学力，亦自觉陋劣滋甚，虑不能于二君有所益也",
+      "confidence": 0.9
+    }
+  ],
+  "relations": [
+    {
+      "id": "r1",
+      "head": "阳明",
+      "head_type": "人物",
+      "relation": "评价",
+      "relation_subtype": "一般批评",
+      "tail": "甘蛰仙",
+      "tail_type": "人物",
+      "polarity": "positive",
+      "evidence": "阳明学说之所赖以传；其在中国人生哲学史上之建设，固已度越常人矣",
+      "confidence": 0.9
+    },
+    {
+      "id": "r2",
+      "head": "甘蛰仙",
+      "head_type": "人物",
+      "relation": "主张",
+      "relation_subtype": "不适用",
+      "tail": "天下惟有意志者，能创造崭新之历史",
+      "tail_type": "观点",
+      "polarity": "positive",
+      "evidence": "天下惟有意志者，能创造崭新之历史",
+      "confidence": 0.9
+    },
+    {
+      "id": "r3",
+      "head": "甘蛰仙",
+      "head_type": "人物",
+      "relation": "评价",
+      "relation_subtype": "一般批评",
+      "tail": "玄学科学论战",
+      "tail_type": "事件",
+      "polarity": "positive",
+      "evidence": "近月来张丁二君之玄学科学论战，各皆持之有故，不出乎人生范围之外。余两皆乐观焉",
+      "confidence": 0.9
+    }
+  ],
+  "definitions": [],
+  "citations": [],
+  "rhetorical_devices": [],
+  "uncertainties": [
+    {
+      "item": "“龙溪之在王门，伊川之在太学”的具体含义及与上下文的论证关系",
+      "reason": "文本仅提及，未展开说明其与作者主张的逻辑关联"
+    },
+    {
+      "item": "“犹先民所谓‘为仁由己’也”是否属于当前文本片段",
+      "reason": "该句出现在section_title中，但当前文本片段未包含，无法确认是否应纳入"
+    }
+  ]
+}

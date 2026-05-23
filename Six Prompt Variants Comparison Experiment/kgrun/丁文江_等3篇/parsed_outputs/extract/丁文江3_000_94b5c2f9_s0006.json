@@ -1,0 +1,225 @@
+{
+  "metadata": {
+    "schema_version": "lite_v2.0",
+    "article_id": "丁文江3_000_94b5c2f9",
+    "article_title": "“玄学与科学”论争的余兴",
+    "source_author": "丁文江",
+    "section_title": "",
+    "section_author": "",
+    "segment_id": "丁文江3_000_94b5c2f9_s0006",
+    "segment_index": 6,
+    "source_file": "E:\\1研究生\\岭南大学\\论文毕业\\capstone\\资料\\新的内容开始了\\local_upload\\input_texts\\丁文江3.txt"
+  },
+  "entities": [
+    {
+      "id": "e1",
+      "name": "《世界史大纲》",
+      "canonical_name": "《世界史大纲》",
+      "type": "Book",
+      "evidence": "（《世界史大纲》，页四三四）",
+      "confidence": 1.0
+    },
+    {
+      "id": "e2",
+      "name": "达尔文",
+      "canonical_name": "达尔文",
+      "type": "Person",
+      "evidence": "达尔文著《物种由来》",
+      "confidence": 1.0
+    },
+    {
+      "id": "e3",
+      "name": "《物种由来》",
+      "canonical_name": "《物种由来》",
+      "type": "Book",
+      "evidence": "达尔文著《物种由来》",
+      "confidence": 1.0
+    },
+    {
+      "id": "e4",
+      "name": "威尔逊",
+      "canonical_name": "威尔逊",
+      "type": "Person",
+      "evidence": "威尔逊著《发生同遗传中的细胞》",
+      "confidence": 1.0
+    },
+    {
+      "id": "e5",
+      "name": "《发生同遗传中的细胞》",
+      "canonical_name": "《发生同遗传中的细胞》",
+      "type": "Book",
+      "evidence": "威尔逊著《发生同遗传中的细胞》",
+      "confidence": 1.0
+    },
+    {
+      "id": "e6",
+      "name": "《试验动物学》",
+      "canonical_name": "《试验动物学》",
+      "type": "Book",
+      "evidence": "根据《试验动物学》",
+      "confidence": 1.0
+    },
+    {
+      "id": "e7",
+      "name": "天津",
+      "canonical_name": "天津",
+      "type": "Concept",
+      "evidence": "况且我又蛰居在天津",
+      "confidence": 1.0
+    },
+    {
+      "id": "e8",
+      "name": "南开",
+      "canonical_name": "南开",
+      "type": "Concept",
+      "evidence": "除去了南开的图书馆以外",
+      "confidence": 1.0
+    }
+  ],
+  "claims": [
+    {
+      "id": "c1",
+      "speaker": "丁文江",
+      "claim": "讲道理有知识的人从来没有迷信宗教的人的那种胆量同决心。",
+      "target": "讲道理有知识的人",
+      "claim_type": "社会理论主张",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "讲道理有知识的人从来没有迷信宗教的人的那种胆量同决心。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c2",
+      "speaker": "丁文江",
+      "claim": "在最近这几个世纪里面，他们的确积蓄了许多的信条，增加了许多的胆力；他们慢慢的从普及教育同平民文学方面找出了一条握权的路，所以从有史以来到如今，他们从来没有像今天这样放胆的说话，而且要求在人类事业的组织里面，占一个指挥的地位。",
+      "target": "讲道理有知识的人",
+      "claim_type": "历史解释",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "但是在最近这几个世纪里面，他们的确积蓄了许多的信条，增加了许多的胆力；他们慢慢的从普及教育同平民文学方面找出了一条握权的路，所以从有史以来到如今，他们从来没有像今天这样放胆的说话，而且要求在人类事业的组织里面，占一个指挥的地位。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c3",
+      "speaker": "丁文江",
+      "claim": "我所讨论的问题范围这样广，参考的书籍自然是举不胜举。",
+      "target": "参考的书籍",
+      "claim_type": "价值评价",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "我们所讨论的问题范围这样广，参考的书籍自然是举不胜举；",
+      "confidence": 1.0
+    },
+    {
+      "id": "c4",
+      "speaker": "丁文江",
+      "claim": "我蛰居在天津，除去了南开的图书馆以外，苦于无书可借。",
+      "target": "丁文江",
+      "claim_type": "不明",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "况且我又蛰居在天津，除去了南开的图书馆以外，苦于无书可借。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c5",
+      "speaker": "丁文江",
+      "claim": "我只能把我平日自己爱读的书，同这一次参考过的书列举出来，供读者选择。",
+      "target": "读者",
+      "claim_type": "方法论主张",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "所以我现在只能把我平日自己爱读的书，同这一次参考过的书列举出来，供读者选择。",
+      "confidence": 1.0
+    }
+  ],
+  "relations": [
+    {
+      "id": "r1",
+      "head": "讲道理有知识的人",
+      "head_type": "Faction",
+      "relation": "COMPARES",
+      "tail": "迷信宗教的人",
+      "tail_type": "Faction",
+      "polarity": "neutral",
+      "evidence": "讲道理有知识的人从来没有迷信宗教的人的那种胆量同决心。",
+      "confidence": 1.0
+    },
+    {
+      "id": "r2",
+      "head": "丁文江",
+      "head_type": "Person",
+      "relation": "CITES",
+      "tail": "《世界史大纲》",
+      "tail_type": "Book",
+      "polarity": "positive",
+      "evidence": "（《世界史大纲》，页四三四）",
+      "confidence": 1.0
+    },
+    {
+      "id": "r3",
+      "head": "丁文江",
+      "head_type": "Person",
+      "relation": "CITES",
+      "tail": "达尔文",
+      "tail_type": "Person",
+      "polarity": "neutral",
+      "evidence": "达尔文著《物种由来》",
+      "confidence": 1.0
+    },
+    {
+      "id": "r4",
+      "head": "丁文江",
+      "head_type": "Person",
+      "relation": "CITES",
+      "tail": "威尔逊",
+      "tail_type": "Person",
+      "polarity": "neutral",
+      "evidence": "威尔逊著《发生同遗传中的细胞》",
+      "confidence": 1.0
+    },
+    {
+      "id": "r5",
+      "head": "丁文江",
+      "head_type": "Person",
+      "relation": "CITES",
+      "tail": "《试验动物学》",
+      "tail_type": "Book",
+      "polarity": "neutral",
+      "evidence": "根据《试验动物学》",
+      "confidence": 1.0
+    }
+  ],
+  "definitions": [],
+  "citations": [],
+  "rhetorical_devices": [],
+  "uncertainties": [
+    {
+      "item": "引文开头“或者他对于自己，并没有十分的信仰”中的“他”指代不明，无法确定具体人物。",
+      "reason": "当前文本未提供前文，无法判断“他”的指代对象。"
+    },
+    {
+      "item": "引文“或者他对于自己，并没有十分的信仰”与后文“讲道理有知识的人”之间的逻辑关系不明确，可能为转折或对比。",
+      "reason": "当前文本未提供足够上下文，无法确定“或者”在此处的确切含义。"
+    }
+  ],
+  "_meta": {
+    "status": "success",
+    "stage": "extract",
+    "model": "deepseek-ai/DeepSeek-V4-Flash",
+    "base_url": "https://api.siliconflow.cn/v1",
+    "prompt_version": "extract_prompt_v2.0",
+    "schema_version": "lite_v2.0",
+    "segment_id": "丁文江3_000_94b5c2f9_s0006",
+    "article_id": "丁文江3_000_94b5c2f9",
+    "char_start": 1495,
+    "char_end": 1837,
+    "raw_path": "E:\\1研究生\\岭南大学\\论文毕业\\capstone\\资料\\新的内容开始了\\local_upload\\kg_runs\\丁文江_等3篇\\raw_outputs\\extract\\丁文江3_000_94b5c2f9_s0006.txt",
+    "parsed_at": "2026-05-19T05:13:05",
+    "started_at": "2026-05-19T05:12:09",
+    "elapsed_seconds": 56.131,
+    "strict_evidence_check": true,
+    "drop_unsupported_evidence": true,
+    "request_timeout_seconds": 180
+  }
+}

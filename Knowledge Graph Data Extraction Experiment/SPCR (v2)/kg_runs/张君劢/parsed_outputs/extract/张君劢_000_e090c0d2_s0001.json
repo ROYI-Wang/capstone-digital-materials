@@ -1,0 +1,580 @@
+{
+  "metadata": {
+    "schema_version": "lite_v3.0",
+    "article_id": "张君劢_000_e090c0d2",
+    "article_title": "人生观",
+    "source_author": "张君劢",
+    "section_title": "方今国中竟言新文化，而文化转移之枢纽，不外乎人生观。吾有吾之文化，西洋有西洋之文化。西洋之有益者如何采之，有害者如何革除之；凡此取舍之间，皆决之于观点。观点定，而后精神上之思潮、物质上之制度，乃可按",
+    "section_author": "方今国中竟言新文化，而文化转移之枢纽，不外乎人生观。吾有吾之文化，西洋有西洋之文化。西洋之有益者如何采之，有害者如何革除之；凡此取舍之间，皆决之于观点。观点定，而后精神上之思潮、物质上之制度，乃可",
+    "segment_id": "张君劢_000_e090c0d2_s0001",
+    "segment_index": 1,
+    "source_file": "E:\\1研究生\\岭南大学\\论文毕业\\capstone\\资料\\新的内容开始了\\local_upload\\input_张君劢\\张君劢.txt"
+  },
+  "entities": [
+    {
+      "id": "e1",
+      "name": "私有财产制",
+      "canonical_name": "私有财产制",
+      "type": "概念",
+      "evidence": "私有财产制。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e2",
+      "name": "公有财产制",
+      "canonical_name": "公有财产制",
+      "type": "概念",
+      "evidence": "公有财产制。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e3",
+      "name": "守旧主义",
+      "canonical_name": "守旧主义",
+      "type": "主义/学说/理论",
+      "evidence": "守旧主义。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e4",
+      "name": "维新主义",
+      "canonical_name": "维新主义",
+      "type": "主义/学说/理论",
+      "evidence": "维新主义。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e5",
+      "name": "物质文明",
+      "canonical_name": "物质文明",
+      "type": "概念",
+      "evidence": "物质文明。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e6",
+      "name": "精神文明",
+      "canonical_name": "精神文明",
+      "type": "概念",
+      "evidence": "精神文明。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e7",
+      "name": "个人主义",
+      "canonical_name": "个人主义",
+      "type": "主义/学说/理论",
+      "evidence": "个人主义。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e8",
+      "name": "社会主义",
+      "canonical_name": "社会主义",
+      "type": "主义/学说/理论",
+      "evidence": "社会主义。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e9",
+      "name": "为我主义",
+      "canonical_name": "为我主义",
+      "type": "主义/学说/理论",
+      "evidence": "为我主义。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e10",
+      "name": "利他主义",
+      "canonical_name": "利他主义",
+      "type": "主义/学说/理论",
+      "evidence": "利他主义。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e11",
+      "name": "悲观主义",
+      "canonical_name": "悲观主义",
+      "type": "主义/学说/理论",
+      "evidence": "悲观主义。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e12",
+      "name": "乐观主义",
+      "canonical_name": "乐观主义",
+      "type": "主义/学说/理论",
+      "evidence": "乐观主义。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e13",
+      "name": "有神论",
+      "canonical_name": "有神论",
+      "type": "主义/学说/理论",
+      "evidence": "有神论。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e14",
+      "name": "无神论",
+      "canonical_name": "无神论",
+      "type": "主义/学说/理论",
+      "evidence": "无神论。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e15",
+      "name": "一神论",
+      "canonical_name": "一神论",
+      "type": "主义/学说/理论",
+      "evidence": "一神论。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e16",
+      "name": "多神论",
+      "canonical_name": "多神论",
+      "type": "主义/学说/理论",
+      "evidence": "多神论。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e17",
+      "name": "个神论",
+      "canonical_name": "个神论",
+      "type": "主义/学说/理论",
+      "evidence": "个神论。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e18",
+      "name": "泛神论",
+      "canonical_name": "泛神论",
+      "type": "主义/学说/理论",
+      "evidence": "泛神论。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e19",
+      "name": "人生观",
+      "canonical_name": "人生观",
+      "type": "概念",
+      "evidence": "试以人生观与科学作一比较，则人生观之特点，更易见矣。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e20",
+      "name": "科学",
+      "canonical_name": "科学",
+      "type": "概念",
+      "evidence": "试以人生观与科学作一比较，则人生观之特点，更易见矣。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e21",
+      "name": "第一，科学为客观的，人生观为主观的",
+      "canonical_name": "科学为客观的，人生观为主观的",
+      "type": "观点",
+      "evidence": "第一，科学为客观的，人生观为主观的。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e22",
+      "name": "客观的效力",
+      "canonical_name": "客观的效力",
+      "type": "概念",
+      "evidence": "科学之最大标准，即在其客观的效力。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e23",
+      "name": "精神科学",
+      "canonical_name": "精神科学",
+      "type": "概念",
+      "evidence": "然科学之中，亦分二项：曰精神科学，曰物质科学。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e24",
+      "name": "物质科学",
+      "canonical_name": "物质科学",
+      "type": "概念",
+      "evidence": "然科学之中，亦分二项：曰精神科学，曰物质科学。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e25",
+      "name": "化学",
+      "canonical_name": "化学",
+      "type": "概念",
+      "evidence": "物质科学，如物理化学等；",
+      "confidence": 1.0
+    },
+    {
+      "id": "e26",
+      "name": "政治学",
+      "canonical_name": "政治学",
+      "type": "概念",
+      "evidence": "精神科学，如政治学生计学心理学哲学之类。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e27",
+      "name": "生计学",
+      "canonical_name": "生计学",
+      "type": "概念",
+      "evidence": "精神科学，如政治学生计学心理学哲学之类。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e28",
+      "name": "心理学",
+      "canonical_name": "心理学",
+      "type": "概念",
+      "evidence": "精神科学，如政治学生计学心理学哲学之类。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e29",
+      "name": "哲学",
+      "canonical_name": "哲学",
+      "type": "概念",
+      "evidence": "精神科学，如政治学生计学心理学哲学之类。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e30",
+      "name": "相对论",
+      "canonical_name": "相对论",
+      "type": "概念",
+      "evidence": "德国发明之相对论，同时适用于全世界。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e31",
+      "name": "数学",
+      "canonical_name": "数学",
+      "type": "概念",
+      "evidence": "故世界只有一种数学，而无所谓中国之数学，英国之数学也；",
+      "confidence": 1.0
+    },
+    {
+      "id": "e32",
+      "name": "物理学化学",
+      "canonical_name": "物理学化学",
+      "type": "概念",
+      "evidence": "世界只有一种物理学化学，而无所谓英法美中国日本之物理化学也。",
+      "confidence": 1.0
+    }
+  ],
+  "claims": [
+    {
+      "id": "c1",
+      "speaker": "张君劢",
+      "claim": "凡此九项皆以我为中心，或关于我以外之物，或关于我以外之人，东西万国，上下古今，无一定之解决者。",
+      "target": "",
+      "claim_type": "描述性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "凡此九项皆以我为中心，或关于我以外之物，或关于我以外之人，东西万国，上下古今，无一定之解决者。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c2",
+      "speaker": "张君劢",
+      "claim": "此类问题，皆关于人生，而人生为活的，故不如死物质之易以一例相绳也。",
+      "target": "",
+      "claim_type": "因果主张",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "则以此类问题，皆关于人生，而人生为活的，故不如死物质之易以一例相绳也。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c3",
+      "speaker": "张君劢",
+      "claim": "科学为客观的，人生观为主观的。",
+      "target": "",
+      "claim_type": "对比性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "第一，科学为客观的，人生观为主观的。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c4",
+      "speaker": "张君劢",
+      "claim": "科学之最大标准，即在其客观的效力。",
+      "target": "",
+      "claim_type": "定义性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "科学之最大标准，即在其客观的效力。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c5",
+      "speaker": "张君劢",
+      "claim": "一种公例，推诸四海而准焉。",
+      "target": "",
+      "claim_type": "描述性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "一种公例，推诸四海而准焉。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c6",
+      "speaker": "张君劢",
+      "claim": "英国发明之物理学，同时适用于全世界。",
+      "target": "",
+      "claim_type": "描述性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "譬诸英国发明之物理学，同时适用于全世界。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c7",
+      "speaker": "张君劢",
+      "claim": "德国发明之相对论，同时适用于全世界。",
+      "target": "",
+      "claim_type": "描述性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "德国发明之相对论，同时适用于全世界。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c8",
+      "speaker": "张君劢",
+      "claim": "世界只有一种数学，而无所谓中国之数学，英国之数学也；世界只有一种物理学化学，而无所谓英法美中国日本之物理化学也。",
+      "target": "",
+      "claim_type": "描述性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "故世界只有一种数学，而无所谓中国之数学，英国之数学也；世界只有一种物理学化学，而无所谓英法美中国日本之物理化学也。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c9",
+      "speaker": "张君劢",
+      "claim": "物质科学之客观效力，最为圆满；至于精神科学次之。",
+      "target": "",
+      "claim_type": "评价性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "物质科学之客观效力，最为圆满；至于精神科学次之。",
+      "confidence": 1.0
+    }
+  ],
+  "relations": [
+    {
+      "id": "r1",
+      "head": "人生观",
+      "head_type": "概念",
+      "relation": "对比",
+      "relation_subtype": "不适用",
+      "tail": "科学",
+      "tail_type": "概念",
+      "polarity": "neutral",
+      "stance_score": 0.0,
+      "intensity": 0.5,
+      "evidence": "试以人生观与科学作一比较，则人生观之特点，更易见矣。",
+      "confidence": 1.0
+    },
+    {
+      "id": "r2",
+      "head": "科学",
+      "head_type": "概念",
+      "relation": "定义",
+      "relation_subtype": "概念澄清",
+      "tail": "客观的",
+      "tail_type": "概念",
+      "polarity": "neutral",
+      "stance_score": 0.0,
+      "intensity": 0.5,
+      "evidence": "第一，科学为客观的，人生观为主观的。",
+      "confidence": 1.0
+    },
+    {
+      "id": "r3",
+      "head": "人生观",
+      "head_type": "概念",
+      "relation": "定义",
+      "relation_subtype": "概念澄清",
+      "tail": "主观的",
+      "tail_type": "概念",
+      "polarity": "neutral",
+      "stance_score": 0.0,
+      "intensity": 0.5,
+      "evidence": "第一，科学为客观的，人生观为主观的。",
+      "confidence": 1.0
+    },
+    {
+      "id": "r4",
+      "head": "科学",
+      "head_type": "概念",
+      "relation": "定义",
+      "relation_subtype": "概念澄清",
+      "tail": "客观的效力",
+      "tail_type": "概念",
+      "polarity": "neutral",
+      "stance_score": 0.0,
+      "intensity": 0.5,
+      "evidence": "科学之最大标准，即在其客观的效力。",
+      "confidence": 1.0
+    },
+    {
+      "id": "r5",
+      "head": "科学",
+      "head_type": "概念",
+      "relation": "包含",
+      "relation_subtype": "不适用",
+      "tail": "精神科学",
+      "tail_type": "概念",
+      "polarity": "neutral",
+      "stance_score": 0.0,
+      "intensity": 0.5,
+      "evidence": "然科学之中，亦分二项：曰精神科学，曰物质科学。",
+      "confidence": 1.0
+    },
+    {
+      "id": "r6",
+      "head": "科学",
+      "head_type": "概念",
+      "relation": "包含",
+      "relation_subtype": "不适用",
+      "tail": "物质科学",
+      "tail_type": "概念",
+      "polarity": "neutral",
+      "stance_score": 0.0,
+      "intensity": 0.5,
+      "evidence": "然科学之中，亦分二项：曰精神科学，曰物质科学。",
+      "confidence": 1.0
+    },
+    {
+      "id": "r7",
+      "head": "物质科学",
+      "head_type": "概念",
+      "relation": "包含",
+      "relation_subtype": "不适用",
+      "tail": "化学",
+      "tail_type": "概念",
+      "polarity": "neutral",
+      "stance_score": 0.0,
+      "intensity": 0.5,
+      "evidence": "物质科学，如物理化学等；",
+      "confidence": 1.0
+    },
+    {
+      "id": "r8",
+      "head": "精神科学",
+      "head_type": "概念",
+      "relation": "包含",
+      "relation_subtype": "不适用",
+      "tail": "政治学",
+      "tail_type": "概念",
+      "polarity": "neutral",
+      "stance_score": 0.0,
+      "intensity": 0.5,
+      "evidence": "精神科学，如政治学生计学心理学哲学之类。",
+      "confidence": 1.0
+    },
+    {
+      "id": "r9",
+      "head": "精神科学",
+      "head_type": "概念",
+      "relation": "包含",
+      "relation_subtype": "不适用",
+      "tail": "生计学",
+      "tail_type": "概念",
+      "polarity": "neutral",
+      "stance_score": 0.0,
+      "intensity": 0.5,
+      "evidence": "精神科学，如政治学生计学心理学哲学之类。",
+      "confidence": 1.0
+    },
+    {
+      "id": "r10",
+      "head": "精神科学",
+      "head_type": "概念",
+      "relation": "包含",
+      "relation_subtype": "不适用",
+      "tail": "心理学",
+      "tail_type": "概念",
+      "polarity": "neutral",
+      "stance_score": 0.0,
+      "intensity": 0.5,
+      "evidence": "精神科学，如政治学生计学心理学哲学之类。",
+      "confidence": 1.0
+    },
+    {
+      "id": "r11",
+      "head": "精神科学",
+      "head_type": "概念",
+      "relation": "包含",
+      "relation_subtype": "不适用",
+      "tail": "哲学",
+      "tail_type": "概念",
+      "polarity": "neutral",
+      "stance_score": 0.0,
+      "intensity": 0.5,
+      "evidence": "精神科学，如政治学生计学心理学哲学之类。",
+      "confidence": 1.0
+    }
+  ],
+  "definitions": [
+    {
+      "id": "def1",
+      "term": "人生观",
+      "definition": "人生观为主观的。",
+      "evidence": "第一，科学为客观的，人生观为主观的。",
+      "confidence": 1.0
+    },
+    {
+      "id": "def2",
+      "term": "科学",
+      "definition": "科学之中，亦分二项：曰精神科学，曰物质科学。",
+      "evidence": "然科学之中，亦分二项：曰精神科学，曰物质科学。",
+      "confidence": 1.0
+    },
+    {
+      "id": "def3",
+      "term": "物质科学",
+      "definition": "物质科学，如物理化学等。",
+      "evidence": "物质科学，如物理化学等；",
+      "confidence": 1.0
+    },
+    {
+      "id": "def4",
+      "term": "精神科学",
+      "definition": "精神科学，如政治学生计学心理学哲学之类。",
+      "evidence": "精神科学，如政治学生计学心理学哲学之类。",
+      "confidence": 1.0
+    }
+  ],
+  "citations": [],
+  "rhetorical_devices": [],
+  "uncertainties": [],
+  "_meta": {
+    "status": "success",
+    "stage": "extract",
+    "model": "deepseek-ai/DeepSeek-V4-Flash",
+    "base_url": "https://api.siliconflow.cn/v1",
+    "prompt_version": "v2.0",
+    "schema_version": "lite_v3.0",
+    "segment_id": "张君劢_000_e090c0d2_s0001",
+    "article_id": "张君劢_000_e090c0d2",
+    "char_start": 520,
+    "char_end": 1095,
+    "raw_path": "E:\\1研究生\\岭南大学\\论文毕业\\capstone\\资料\\新的内容开始了\\local_upload\\kg_runs_v2\\张君劢\\raw_outputs\\extract\\张君劢_000_e090c0d2_s0001.txt",
+    "parsed_at": "2026-05-22T02:00:46",
+    "started_at": "2026-05-22T01:58:07",
+    "elapsed_seconds": 158.87,
+    "strict_evidence_check": true,
+    "drop_unsupported_evidence": true,
+    "request_timeout_seconds": 60
+  }
+}

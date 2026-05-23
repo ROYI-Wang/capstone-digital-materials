@@ -1,0 +1,305 @@
+{
+  "metadata": {
+    "schema_version": "lite_v2.0",
+    "article_id": "梁启超_000_da81f70e",
+    "article_title": "关于玄学科学论战之“战时国际公法”",
+    "source_author": "梁启超",
+    "section_title": "",
+    "section_author": "",
+    "segment_id": "梁启超_000_da81f70e_s0000",
+    "segment_index": 0,
+    "source_file": "E:\\1研究生\\岭南大学\\论文毕业\\capstone\\资料\\新的内容开始了\\local_upload\\input_w3\\梁启超.txt"
+  },
+  "entities": [
+    {
+      "id": "e1",
+      "name": "梁启超",
+      "canonical_name": "梁启超",
+      "type": "人物",
+      "evidence": "暂时局外中立人梁启超宣言",
+      "confidence": 1.0
+    },
+    {
+      "id": "e2",
+      "name": "丁在君",
+      "canonical_name": "丁文江",
+      "type": "人物",
+      "evidence": "我的挚友丁在君、张君劢因对于人生观的观察点不同，惹起科学玄学问题的论战",
+      "confidence": 1.0
+    },
+    {
+      "id": "e3",
+      "name": "张君劢",
+      "canonical_name": "张君劢",
+      "type": "人物",
+      "evidence": "我的挚友丁在君、张君劢因对于人生观的观察点不同，惹起科学玄学问题的论战",
+      "confidence": 1.0
+    },
+    {
+      "id": "e4",
+      "name": "人生观",
+      "canonical_name": "人生观",
+      "type": "概念",
+      "evidence": "我的挚友丁在君、张君劢因对于人生观的观察点不同，惹起科学玄学问题的论战",
+      "confidence": 1.0
+    },
+    {
+      "id": "e5",
+      "name": "科学",
+      "canonical_name": "科学",
+      "type": "概念",
+      "evidence": "惹起科学玄学问题的论战",
+      "confidence": 1.0
+    },
+    {
+      "id": "e6",
+      "name": "玄学",
+      "canonical_name": "玄学",
+      "type": "概念",
+      "evidence": "惹起科学玄学问题的论战",
+      "confidence": 1.0
+    },
+    {
+      "id": "e7",
+      "name": "科学玄学问题",
+      "canonical_name": "科学玄学问题",
+      "type": "问题",
+      "evidence": "惹起科学玄学问题的论战",
+      "confidence": 1.0
+    },
+    {
+      "id": "e8",
+      "name": "战时国际公法",
+      "canonical_name": "战时国际公法",
+      "type": "概念",
+      "evidence": "拟出两条“战时国际公法”先行露布",
+      "confidence": 1.0
+    },
+    {
+      "id": "e9",
+      "name": "欧洲三十年战争",
+      "canonical_name": "欧洲三十年战争",
+      "type": "历史事件",
+      "evidence": "我很希望这回论战像欧洲三十年战争百年战争",
+      "confidence": 1.0
+    },
+    {
+      "id": "e10",
+      "name": "百年战争",
+      "canonical_name": "百年战争",
+      "type": "历史事件",
+      "evidence": "我很希望这回论战像欧洲三十年战争百年战争",
+      "confidence": 1.0
+    }
+  ],
+  "claims": [
+    {
+      "id": "c1",
+      "speaker": "梁启超",
+      "claim": "我的挚友丁在君、张君劢因对于人生观的观察点不同，惹起科学玄学问题的论战，现在已开始交锋。",
+      "target": "科学玄学论战",
+      "claim_type": "历史解释",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "我的挚友丁在君、张君劢因对于人生观的观察点不同，惹起科学玄学问题的论战，现在已开始交锋。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c2",
+      "speaker": "梁启超",
+      "claim": "这个问题是宇宙间最大的问题，这种论战是我国未曾有过的论战。",
+      "target": "科学玄学问题",
+      "claim_type": "价值评价",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "这个问题是宇宙间最大的问题，这种论战是我国未曾有过的论战。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c3",
+      "speaker": "梁启超",
+      "claim": "学术界中忽生此壮阔波澜，是极可庆幸的现象。",
+      "target": "科学玄学论战",
+      "claim_type": "价值评价",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "学术界中忽生此壮阔波澜，是极可庆幸的现象。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c4",
+      "speaker": "梁启超",
+      "claim": "两军主将都是我们耳鬓厮磨的老友，我们尤感觉莫大光荣。",
+      "target": "丁在君、张君劢",
+      "claim_type": "价值评价",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "两军主将都是我们耳鬓厮磨的老友，我们尤感觉莫大光荣。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c5",
+      "speaker": "梁启超",
+      "claim": "我希望问题集中一点，而且针锋相对，剪除枝叶。",
+      "target": "科学玄学论战",
+      "claim_type": "方法论主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "第一：我希望问题集中一点，而且针锋相对，剪除枝叶。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c6",
+      "speaker": "梁启超",
+      "claim": "我希望措词庄重恳挚，万不可有嘲笑或谩骂语。",
+      "target": "科学玄学论战",
+      "claim_type": "方法论主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "第二：我希望措词庄重恳挚，万不可有嘲笑或谩骂语。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c7",
+      "speaker": "梁启超",
+      "claim": "我很希望这回论战像欧洲三十年战争百年战争，时日愈久愈好，范围愈大愈好。",
+      "target": "科学玄学论战",
+      "claim_type": "方法论主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "我很希望这回论战像欧洲三十年战争百年战争，时日愈久愈好，范围愈大愈好。",
+      "confidence": 1.0
+    }
+  ],
+  "relations": [
+    {
+      "id": "r1",
+      "head": "丁在君",
+      "head_type": "人物",
+      "relation": "主张",
+      "tail": "人生观",
+      "tail_type": "概念",
+      "polarity": "neutral",
+      "evidence": "我的挚友丁在君、张君劢因对于人生观的观察点不同，惹起科学玄学问题的论战",
+      "confidence": 0.9
+    },
+    {
+      "id": "r2",
+      "head": "张君劢",
+      "head_type": "人物",
+      "relation": "主张",
+      "tail": "人生观",
+      "tail_type": "概念",
+      "polarity": "neutral",
+      "evidence": "我的挚友丁在君、张君劢因对于人生观的观察点不同，惹起科学玄学问题的论战",
+      "confidence": 0.9
+    },
+    {
+      "id": "r3",
+      "head": "梁启超",
+      "head_type": "人物",
+      "relation": "主张",
+      "tail": "战时国际公法",
+      "tail_type": "概念",
+      "polarity": "positive",
+      "evidence": "拟出两条“战时国际公法”先行露布",
+      "confidence": 1.0
+    },
+    {
+      "id": "r4",
+      "head": "梁启超",
+      "head_type": "人物",
+      "relation": "主张",
+      "tail": "我希望问题集中一点，而且针锋相对，剪除枝叶。",
+      "tail_type": "观点",
+      "polarity": "positive",
+      "evidence": "第一：我希望问题集中一点，而且针锋相对，剪除枝叶。",
+      "confidence": 1.0
+    },
+    {
+      "id": "r5",
+      "head": "梁启超",
+      "head_type": "人物",
+      "relation": "主张",
+      "tail": "我希望措词庄重恳挚，万不可有嘲笑或谩骂语。",
+      "tail_type": "观点",
+      "polarity": "positive",
+      "evidence": "第二：我希望措词庄重恳挚，万不可有嘲笑或谩骂语。",
+      "confidence": 1.0
+    }
+  ],
+  "definitions": [],
+  "citations": [],
+  "rhetorical_devices": [
+    {
+      "id": "rh1",
+      "expression": "壮阔波澜",
+      "device_type": "比喻",
+      "literal_target": "科学玄学论战",
+      "function": "正面评价论战的意义和规模",
+      "evidence": "学术界中忽生此壮阔波澜，是极可庆幸的现象。",
+      "confidence": 1.0
+    },
+    {
+      "id": "rh2",
+      "expression": "两军主将",
+      "device_type": "比喻",
+      "literal_target": "丁在君、张君劢",
+      "function": "将论战双方比喻为军队主将，强调论战的对抗性和重要性",
+      "evidence": "两军主将都是我们耳鬓厮磨的老友",
+      "confidence": 1.0
+    },
+    {
+      "id": "rh3",
+      "expression": "耳鬓厮磨",
+      "device_type": "比喻",
+      "literal_target": "梁启超与丁在君、张君劢的亲密关系",
+      "function": "强调作者与论战双方主将的亲密关系，为中立立场铺垫",
+      "evidence": "两军主将都是我们耳鬓厮磨的老友",
+      "confidence": 1.0
+    },
+    {
+      "id": "rh4",
+      "expression": "像欧洲三十年战争百年战争",
+      "device_type": "类比",
+      "literal_target": "科学玄学论战",
+      "function": "用长期战争类比论战，表达希望论战持久、深入",
+      "evidence": "我很希望这回论战像欧洲三十年战争百年战争，时日愈久愈好，范围愈大愈好。",
+      "confidence": 1.0
+    },
+    {
+      "id": "rh5",
+      "expression": "向一个要塞",
+      "device_type": "比喻",
+      "literal_target": "论战中的核心问题",
+      "function": "强调论战应集中焦点，避免分散",
+      "evidence": "但又希望攻守两方无论何时都集精力向一个要塞。",
+      "confidence": 1.0
+    }
+  ],
+  "uncertainties": [
+    {
+      "item": "梁启超自称“暂时局外中立人”，但未明确说明其最终立场是否偏向某一方。",
+      "reason": "文本中梁启超表示“暂时取‘局外中立’态度，但不久也许‘参战’”，未说明参战方向。"
+    }
+  ],
+  "_meta": {
+    "status": "success",
+    "stage": "extract",
+    "model": "deepseek-ai/DeepSeek-V4-Flash",
+    "base_url": "https://api.siliconflow.cn/v1",
+    "prompt_version": "extract_prompt_v2.0",
+    "schema_version": "lite_v2.0",
+    "segment_id": "梁启超_000_da81f70e_s0000",
+    "article_id": "梁启超_000_da81f70e",
+    "char_start": 0,
+    "char_end": 590,
+    "raw_path": "E:\\1研究生\\岭南大学\\论文毕业\\capstone\\资料\\新的内容开始了\\local_upload\\kg_runs\\梁启超\\raw_outputs\\extract\\梁启超_000_da81f70e_s0000.txt",
+    "parsed_at": "2026-05-19T20:56:45",
+    "started_at": "2026-05-19T20:54:06",
+    "elapsed_seconds": 159.415,
+    "strict_evidence_check": true,
+    "drop_unsupported_evidence": true,
+    "request_timeout_seconds": 180
+  }
+}

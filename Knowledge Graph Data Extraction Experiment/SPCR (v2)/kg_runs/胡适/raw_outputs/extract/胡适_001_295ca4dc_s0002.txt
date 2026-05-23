@@ -1,0 +1,218 @@
+{
+  "metadata": {
+    "schema_version": "lite_v3.0",
+    "article_id": "胡适_001_295ca4dc",
+    "article_title": "附注 答陈独秀先生",
+    "source_author": "胡适",
+    "section_title": "",
+    "section_author": "",
+    "segment_id": "胡适_001_295ca4dc_s0002",
+    "segment_index": 2,
+    "source_file": "E:\\1研究生\\岭南大学\\论文毕业\\capstone\\资料\\新的内容开始了\\local_upload\\input_胡适\\胡适.txt"
+  },
+  "entities": [
+    {
+      "id": "e1",
+      "name": "经济史观",
+      "canonical_name": "经济史观",
+      "type": "主义/学说/理论",
+      "evidence": "经济）史观至多只能解释大部分的问题",
+      "confidence": 0.9
+    },
+    {
+      "id": "e2",
+      "name": "独秀",
+      "canonical_name": "陈独秀",
+      "type": "人物",
+      "evidence": "独秀希望我“百尺竿头更进一步”",
+      "confidence": 0.9
+    },
+    {
+      "id": "e3",
+      "name": "思想知识言论教育",
+      "canonical_name": "思想知识言论教育",
+      "type": "概念",
+      "evidence": "思想知识言论教育也可以“变动社会，解释历史，支配人生观”",
+      "confidence": 0.8
+    },
+    {
+      "id": "e4",
+      "name": "宣传的事业",
+      "canonical_name": "宣传的事业",
+      "type": "概念",
+      "evidence": "宣传的事业，谋思想的革新",
+      "confidence": 0.7
+    },
+    {
+      "id": "e5",
+      "name": "丁在君",
+      "canonical_name": "丁在君",
+      "type": "人物",
+      "evidence": "丁在君和胡适之的同志",
+      "confidence": 0.9
+    },
+    {
+      "id": "e6",
+      "name": "胡适之",
+      "canonical_name": "胡适",
+      "type": "人物",
+      "evidence": "丁在君和胡适之的同志",
+      "confidence": 0.9
+    },
+    {
+      "id": "e7",
+      "name": "国际资本主义",
+      "canonical_name": "国际资本主义",
+      "type": "概念",
+      "evidence": "打破国际资本主义",
+      "confidence": 0.8
+    }
+  ],
+  "claims": [
+    {
+      "id": "c1",
+      "speaker": "陈独秀",
+      "claim": "经济史观至多只能解释大部分的问题",
+      "target": "经济史观",
+      "claim_type": "评价性主张",
+      "claim_status": "间接转述",
+      "polarity": "neutral",
+      "evidence": "独秀也只承认“经济史观至多只能解释大部分的问题”",
+      "confidence": 0.9
+    },
+    {
+      "id": "c2",
+      "speaker": "胡适",
+      "claim": "思想知识言论教育也可以变动社会，解释历史，支配人生观",
+      "target": "思想知识言论教育",
+      "claim_type": "描述性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "他究竟还信仰思想知识言论教育等等也可以变动社会，也可以解释历史，也可以支配人生观",
+      "confidence": 0.8
+    },
+    {
+      "id": "c3",
+      "speaker": "胡适",
+      "claim": "如果独秀真信仰他们的宣传事业可以打倒军阀，可以造成平民革命，可以打破国际资本主义，那么，他究竟还是丁在君和胡适之的同志",
+      "target": "陈独秀",
+      "claim_type": "结论性主张",
+      "claim_status": "作者推论",
+      "polarity": "positive",
+      "evidence": "如果独秀真信仰他们的宣传事业可以打倒军阀，可以造成平民革命，可以打破国际资本主义，那么，他究竟还是丁在君和胡适之的同志",
+      "confidence": 0.8
+    }
+  ],
+  "relations": [
+    {
+      "id": "r1",
+      "head": "陈独秀",
+      "head_type": "人物",
+      "relation": "主张",
+      "relation_subtype": "不适用",
+      "tail": "经济史观至多只能解释大部分的问题",
+      "tail_type": "观点",
+      "polarity": "neutral",
+      "stance_score": 0.0,
+      "intensity": 0.3,
+      "evidence": "独秀也只承认“经济史观至多只能解释大部分的问题”",
+      "confidence": 0.9
+    },
+    {
+      "id": "r2",
+      "head": "胡适",
+      "head_type": "人物",
+      "relation": "主张",
+      "relation_subtype": "不适用",
+      "tail": "思想知识言论教育也可以变动社会，解释历史，支配人生观",
+      "tail_type": "观点",
+      "polarity": "positive",
+      "stance_score": 1.0,
+      "intensity": 0.8,
+      "evidence": "他究竟还信仰思想知识言论教育等等也可以变动社会，也可以解释历史，也可以支配人生观",
+      "confidence": 0.8
+    },
+    {
+      "id": "r3",
+      "head": "胡适",
+      "head_type": "人物",
+      "relation": "回应",
+      "relation_subtype": "逻辑反驳",
+      "tail": "陈独秀",
+      "tail_type": "人物",
+      "polarity": "negative",
+      "stance_score": -0.5,
+      "intensity": 0.6,
+      "evidence": "可惜我不能进这一步了",
+      "confidence": 0.7
+    },
+    {
+      "id": "r4",
+      "head": "陈独秀",
+      "head_type": "人物",
+      "relation": "自相矛盾",
+      "relation_subtype": "逻辑反驳",
+      "tail": "宣传的事业",
+      "tail_type": "概念",
+      "polarity": "negative",
+      "stance_score": -0.5,
+      "intensity": 0.6,
+      "evidence": "他若不相信思想知识言论教育也可以“变动社会，解释历史，支配人生观”，那么，他尽可以袖着手坐待经济组织的变更就完了，又何必辛苦辛苦地努力做宣传的事业，谋思想的革新呢？",
+      "confidence": 0.7
+    },
+    {
+      "id": "r5",
+      "head": "陈独秀",
+      "head_type": "人物",
+      "relation": "支持",
+      "relation_subtype": "部分肯定",
+      "tail": "丁在君和胡适之",
+      "tail_type": "人物",
+      "polarity": "positive",
+      "stance_score": 0.5,
+      "intensity": 0.5,
+      "evidence": "他究竟还是丁在君和胡适之的同志",
+      "confidence": 0.7
+    }
+  ],
+  "definitions": [],
+  "citations": [
+    {
+      "id": "cit1",
+      "citer": "胡适",
+      "quoted_author": "陈独秀",
+      "quoted_work": "",
+      "quoted_claim": "经济史观至多只能解释大部分的问题",
+      "function": "作为批评对象",
+      "evidence": "独秀也只承认“经济史观至多只能解释大部分的问题”",
+      "confidence": 0.9
+    },
+    {
+      "id": "cit2",
+      "citer": "胡适",
+      "quoted_author": "陈独秀",
+      "quoted_work": "序",
+      "quoted_claim": "百尺竿头更进一步",
+      "function": "中性提及",
+      "evidence": "独秀希望我“百尺竿头更进一步”（序页二）",
+      "confidence": 0.8
+    }
+  ],
+  "rhetorical_devices": [
+    {
+      "id": "rh1",
+      "expression": "袖着手坐待经济组织的变更就完了",
+      "device_type": "讽刺",
+      "literal_target": "陈独秀如果只相信经济史观而不行动",
+      "function": "通过讽刺揭示陈独秀观点与行动的矛盾",
+      "evidence": "他尽可以袖着手坐待经济组织的变更就完了，又何必辛苦辛苦地努力做宣传的事业，谋思想的革新呢？",
+      "confidence": 0.8
+    }
+  ],
+  "uncertainties": [
+    {
+      "item": "胡适是否认为陈独秀是“同志”是正面评价还是讽刺",
+      "reason": "文本中“他究竟还是丁在君和胡适之的同志”可能带有讽刺意味，但字面是肯定，需结合上下文判断"
+    }
+  ]
+}

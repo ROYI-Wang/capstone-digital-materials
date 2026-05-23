@@ -1,0 +1,529 @@
+{
+  "metadata": {
+    "schema_version": "lite_v3.0",
+    "article_id": "陆志韦_000_44275f1b",
+    "article_title": "“死狗”的心理学",
+    "source_author": "陆志韦",
+    "section_title": "",
+    "section_author": "",
+    "segment_id": "陆志韦_000_44275f1b_s0000",
+    "segment_index": 0,
+    "source_file": "E:\\1研究生\\岭南大学\\论文毕业\\capstone\\资料\\新的内容开始了\\local_upload\\input_v2_w1\\陆志韦.txt"
+  },
+  "entities": [
+    {
+      "id": "e1",
+      "name": "科学与玄学的冲突",
+      "canonical_name": "科学与玄学的冲突",
+      "type": "历史事件",
+      "evidence": "科学与玄学的冲突，心理学者看了大不高兴。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e2",
+      "name": "心理学者",
+      "canonical_name": "心理学者",
+      "type": "阵营/群体",
+      "evidence": "心理学者看了大不高兴。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e3",
+      "name": "我们",
+      "canonical_name": "我们",
+      "type": "阵营/群体",
+      "evidence": "我们为哲学做“走狗”的人实在左右做“狗”难。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e4",
+      "name": "玄学鬼",
+      "canonical_name": "玄学鬼",
+      "type": "阵营/群体",
+      "evidence": "“玄学鬼”与“科学精”恐怕还不肯放松我们。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e5",
+      "name": "科学精",
+      "canonical_name": "科学精",
+      "type": "阵营/群体",
+      "evidence": "“玄学鬼”与“科学精”恐怕还不肯放松我们。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e6",
+      "name": "心理学",
+      "canonical_name": "心理学",
+      "type": "概念",
+      "evidence": "心理学的地位比上不足，比下有余，这是我们自己的不争气。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e7",
+      "name": "丁在君先生",
+      "canonical_name": "丁在君",
+      "type": "人物",
+      "evidence": "丁在君先生所说的心理学完全不是张君劢先生所说的心理学。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e8",
+      "name": "张君劢先生",
+      "canonical_name": "张君劢",
+      "type": "人物",
+      "evidence": "丁在君先生所说的心理学完全不是张君劢先生所说的心理学。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e9",
+      "name": "唯感觉主义的哲学家的口头禅",
+      "canonical_name": "唯感觉主义的哲学家的口头禅",
+      "type": "概念",
+      "evidence": "一是唯感觉主义的哲学家的口头禅。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e10",
+      "name": "Pearson",
+      "canonical_name": "Pearson",
+      "type": "人物",
+      "evidence": "丁先生明说是Pearson传授的。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e11",
+      "name": "心理学家",
+      "canonical_name": "心理学家",
+      "type": "阵营/群体",
+      "evidence": "Pearson我们不承认是心理学家。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e12",
+      "name": "Mach",
+      "canonical_name": "Mach",
+      "type": "人物",
+      "evidence": "丁先生引了几句Mach的话，丁先生的主张,Mach未必都能赞同。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e13",
+      "name": "Brentano",
+      "canonical_name": "Brentano",
+      "type": "人物",
+      "evidence": "张先生的心理学，看来他的位置介乎 Brentano 与 Wurzburg 学派之间。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e14",
+      "name": "Wurzburg 学派",
+      "canonical_name": "Wurzburg学派",
+      "type": "阵营/群体",
+      "evidence": "张先生的心理学，看来他的位置介乎 Brentano 与 Wurzburg 学派之间。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e15",
+      "name": "杜里舒",
+      "canonical_name": "杜里舒",
+      "type": "人物",
+      "evidence": "杜里舒也是一个崇拜者",
+      "confidence": 1.0
+    },
+    {
+      "id": "e16",
+      "name": "Wurzburg 派",
+      "canonical_name": "Wurzburg派",
+      "type": "阵营/群体",
+      "evidence": "就是 Wurzburg 派间接的老祖师尚有“非我徒也，小子鸣鼓而攻之可也”的气话。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e17",
+      "name": "心理学",
+      "canonical_name": "心理学",
+      "type": "概念",
+      "evidence": "所以两先生的心理学都是一偏之见。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e18",
+      "name": "护身符",
+      "canonical_name": "护身符",
+      "type": "比喻/类比",
+      "evidence": "心理学只算得三十六着中最后一着的护身符。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e19",
+      "name": "走狗",
+      "canonical_name": "走狗",
+      "type": "比喻/类比",
+      "evidence": "丁先生呼心理学说，“走狗来”，走狗有时偏不来，于是破口说，“你也造反了，你这哲学的走狗”。",
+      "confidence": 1.0
+    }
+  ],
+  "claims": [
+    {
+      "id": "c1",
+      "speaker": "作者",
+      "claim": "心理学者看了大不高兴。",
+      "target": "心理学者",
+      "claim_type": "描述性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "科学与玄学的冲突，心理学者看了大不高兴。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c2",
+      "speaker": "作者",
+      "claim": "我们为哲学做“走狗”的人实在左右做“狗”难。",
+      "target": "我们",
+      "claim_type": "描述性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "因为我们为哲学做“走狗”的人实在左右做“狗”难。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c3",
+      "speaker": "作者",
+      "claim": "心理学的地位比上不足，比下有余，这是我们自己的不争气。",
+      "target": "心理学",
+      "claim_type": "评价性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "心理学的地位比上不足，比下有余，这是我们自己的不争气。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c4",
+      "speaker": "作者",
+      "claim": "丁在君先生所说的心理学完全不是张君劢先生所说的心理学。",
+      "target": "丁在君先生",
+      "claim_type": "对比性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "丁在君先生所说的心理学完全不是张君劢先生所说的心理学。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c5",
+      "speaker": "作者",
+      "claim": "一是唯感觉主义的哲学家的口头禅。",
+      "target": "丁在君先生所说的心理学",
+      "claim_type": "评价性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "一是唯感觉主义的哲学家的口头禅。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c6",
+      "speaker": "作者",
+      "claim": "Pearson我们不承认是心理学家。",
+      "target": "Pearson",
+      "claim_type": "评价性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "Pearson我们不承认是心理学家。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c7",
+      "speaker": "作者",
+      "claim": "丁先生的主张,Mach未必都能赞同。",
+      "target": "丁先生的主张",
+      "claim_type": "评价性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "丁先生引了几句Mach的话，丁先生的主张,Mach未必都能赞同。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c8",
+      "speaker": "作者",
+      "claim": "张先生的心理学，看来他的位置介乎 Brentano 与 Wurzburg 学派之间。",
+      "target": "张先生的心理学",
+      "claim_type": "描述性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "张先生的心理学，看来他的位置介乎 Brentano 与 Wurzburg 学派之间。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c9",
+      "speaker": "作者",
+      "claim": "这种学派原不无一部分的势力，然而决不能代表一切心理学。",
+      "target": "Brentano与Wurzburg学派",
+      "claim_type": "评价性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "mixed",
+      "evidence": "这种学派原不无一部分的势力，然而决不能代表一切心理学。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c10",
+      "speaker": "作者",
+      "claim": "两先生的心理学都是一偏之见。",
+      "target": "丁在君先生和张君劢先生的心理学",
+      "claim_type": "评价性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "所以两先生的心理学都是一偏之见。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c11",
+      "speaker": "作者",
+      "claim": "原来所争的都不是那一回事。",
+      "target": "丁在君先生和张君劢先生",
+      "claim_type": "评价性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "原来所争的都不是那一回事。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c12",
+      "speaker": "作者",
+      "claim": "心理学只算得三十六着中最后一着的护身符。",
+      "target": "心理学",
+      "claim_type": "评价性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "心理学只算得三十六着中最后一着的护身符。",
+      "confidence": 1.0
+    }
+  ],
+  "relations": [
+    {
+      "id": "r1",
+      "head": "科学与玄学的冲突",
+      "head_type": "历史事件",
+      "relation": "导致",
+      "relation_subtype": "不适用",
+      "tail": "心理学者看了大不高兴",
+      "tail_type": "观点",
+      "polarity": "negative",
+      "stance_score": -0.5,
+      "intensity": 0.5,
+      "evidence": "科学与玄学的冲突，心理学者看了大不高兴。",
+      "confidence": 1.0
+    },
+    {
+      "id": "r2",
+      "head": "丁在君先生所说的心理学",
+      "head_type": "概念",
+      "relation": "区分",
+      "relation_subtype": "概念澄清",
+      "tail": "张君劢先生所说的心理学",
+      "tail_type": "概念",
+      "polarity": "neutral",
+      "stance_score": 0.0,
+      "intensity": 0.5,
+      "evidence": "丁在君先生所说的心理学完全不是张君劢先生所说的心理学。",
+      "confidence": 1.0
+    },
+    {
+      "id": "r3",
+      "head": "丁在君先生所说的心理学",
+      "head_type": "概念",
+      "relation": "评价",
+      "relation_subtype": "一般批评",
+      "tail": "唯感觉主义的哲学家的口头禅",
+      "tail_type": "概念",
+      "polarity": "negative",
+      "stance_score": -0.8,
+      "intensity": 0.7,
+      "evidence": "一是唯感觉主义的哲学家的口头禅。",
+      "confidence": 1.0
+    },
+    {
+      "id": "r4",
+      "head": "丁先生",
+      "head_type": "人物",
+      "relation": "引用",
+      "relation_subtype": "援引权威",
+      "tail": "Pearson",
+      "tail_type": "人物",
+      "polarity": "neutral",
+      "stance_score": 0.0,
+      "intensity": 0.3,
+      "evidence": "丁先生明说是Pearson传授的。",
+      "confidence": 1.0
+    },
+    {
+      "id": "r5",
+      "head": "作者",
+      "head_type": "人物",
+      "relation": "反对",
+      "relation_subtype": "一般批评",
+      "tail": "Pearson是心理学家",
+      "tail_type": "观点",
+      "polarity": "negative",
+      "stance_score": -1.0,
+      "intensity": 0.8,
+      "evidence": "Pearson我们不承认是心理学家。",
+      "confidence": 1.0
+    },
+    {
+      "id": "r6",
+      "head": "丁先生",
+      "head_type": "人物",
+      "relation": "引用",
+      "relation_subtype": "援引权威",
+      "tail": "Mach",
+      "tail_type": "人物",
+      "polarity": "neutral",
+      "stance_score": 0.0,
+      "intensity": 0.3,
+      "evidence": "丁先生引了几句Mach的话",
+      "confidence": 1.0
+    },
+    {
+      "id": "r7",
+      "head": "丁先生的主张",
+      "head_type": "观点",
+      "relation": "质疑",
+      "relation_subtype": "事实质疑",
+      "tail": "Mach未必都能赞同",
+      "tail_type": "观点",
+      "polarity": "negative",
+      "stance_score": -0.5,
+      "intensity": 0.5,
+      "evidence": "丁先生引了几句Mach的话，丁先生的主张,Mach未必都能赞同。",
+      "confidence": 1.0
+    },
+    {
+      "id": "r8",
+      "head": "张先生的心理学",
+      "head_type": "概念",
+      "relation": "属于",
+      "relation_subtype": "不适用",
+      "tail": "Brentano与Wurzburg学派之间",
+      "tail_type": "阵营/群体",
+      "polarity": "neutral",
+      "stance_score": 0.0,
+      "intensity": 0.3,
+      "evidence": "张先生的心理学，看来他的位置介乎 Brentano 与 Wurzburg 学派之间。",
+      "confidence": 1.0
+    },
+    {
+      "id": "r9",
+      "head": "这种学派",
+      "head_type": "阵营/群体",
+      "relation": "评价",
+      "relation_subtype": "部分肯定",
+      "tail": "不能代表一切心理学",
+      "tail_type": "观点",
+      "polarity": "mixed",
+      "stance_score": -0.3,
+      "intensity": 0.5,
+      "evidence": "这种学派原不无一部分的势力，然而决不能代表一切心理学。",
+      "confidence": 1.0
+    },
+    {
+      "id": "r10",
+      "head": "两先生的心理学",
+      "head_type": "概念",
+      "relation": "评价",
+      "relation_subtype": "一般批评",
+      "tail": "一偏之见",
+      "tail_type": "评价",
+      "polarity": "negative",
+      "stance_score": -0.8,
+      "intensity": 0.7,
+      "evidence": "所以两先生的心理学都是一偏之见。",
+      "confidence": 1.0
+    },
+    {
+      "id": "r11",
+      "head": "心理学",
+      "head_type": "概念",
+      "relation": "评价",
+      "relation_subtype": "一般批评",
+      "tail": "护身符",
+      "tail_type": "比喻/类比",
+      "polarity": "negative",
+      "stance_score": -0.8,
+      "intensity": 0.7,
+      "evidence": "心理学只算得三十六着中最后一着的护身符。",
+      "confidence": 1.0
+    },
+    {
+      "id": "r12",
+      "head": "丁先生",
+      "head_type": "人物",
+      "relation": "批评",
+      "relation_subtype": "讽刺",
+      "tail": "心理学",
+      "tail_type": "概念",
+      "polarity": "negative",
+      "stance_score": -0.8,
+      "intensity": 0.8,
+      "evidence": "丁先生呼心理学说，“走狗来”，走狗有时偏不来，于是破口说，“你也造反了，你这哲学的走狗”。",
+      "confidence": 1.0
+    }
+  ],
+  "definitions": [],
+  "citations": [
+    {
+      "id": "cit1",
+      "citer": "丁先生",
+      "quoted_author": "Pearson",
+      "quoted_work": "",
+      "quoted_claim": "",
+      "function": "援引权威支持",
+      "evidence": "丁先生明说是Pearson传授的。",
+      "confidence": 1.0
+    },
+    {
+      "id": "cit2",
+      "citer": "丁先生",
+      "quoted_author": "Mach",
+      "quoted_work": "",
+      "quoted_claim": "",
+      "function": "援引权威支持",
+      "evidence": "丁先生引了几句Mach的话",
+      "confidence": 1.0
+    }
+  ],
+  "rhetorical_devices": [
+    {
+      "id": "rh1",
+      "expression": "走狗",
+      "device_type": "比喻",
+      "literal_target": "心理学",
+      "function": "贬低心理学，将其比作听命于哲学的走狗",
+      "evidence": "丁先生呼心理学说，“走狗来”，走狗有时偏不来，于是破口说，“你也造反了，你这哲学的走狗”。",
+      "confidence": 1.0
+    },
+    {
+      "id": "rh2",
+      "expression": "护身符",
+      "device_type": "比喻",
+      "literal_target": "心理学",
+      "function": "批评心理学被当作逃避争论的工具",
+      "evidence": "心理学只算得三十六着中最后一着的护身符。",
+      "confidence": 1.0
+    },
+    {
+      "id": "rh3",
+      "expression": "死狗",
+      "device_type": "比喻",
+      "literal_target": "心理学者",
+      "function": "自嘲心理学者在论战中的被动处境",
+      "evidence": "我们在乱箭之下变了死狗",
+      "confidence": 1.0
+    }
+  ],
+  "uncertainties": [
+    {
+      "item": "“非我徒也，小子鸣鼓而攻之可也”的具体出处和引用者",
+      "reason": "文本中未明确说明这句话是Wurzburg派老祖师的原话还是作者的转述，也未指明具体人物。"
+    }
+  ]
+}

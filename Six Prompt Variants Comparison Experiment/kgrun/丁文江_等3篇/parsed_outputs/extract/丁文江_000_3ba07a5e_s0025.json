@@ -1,0 +1,262 @@
+{
+  "metadata": {
+    "schema_version": "lite_v2.0",
+    "article_id": "丁文江_000_3ba07a5e",
+    "article_title": "玄学与科学 ——评张君劢的《人生观》",
+    "source_author": "丁文江",
+    "section_title": "",
+    "section_author": "",
+    "segment_id": "丁文江_000_3ba07a5e_s0025",
+    "segment_index": 25,
+    "source_file": "E:\\1研究生\\岭南大学\\论文毕业\\capstone\\资料\\新的内容开始了\\local_upload\\input_texts\\丁文江.txt"
+  },
+  "entities": [
+    {
+      "id": "e1",
+      "name": "张君劢",
+      "canonical_name": "张君劢",
+      "type": "Person",
+      "evidence": "都是张君劢人生观所不承认的",
+      "confidence": 1.0
+    },
+    {
+      "id": "e2",
+      "name": "人生观",
+      "canonical_name": "人生观",
+      "type": "Concept",
+      "evidence": "都是张君劢人生观所不承认的",
+      "confidence": 1.0
+    },
+    {
+      "id": "e3",
+      "name": "论理方法",
+      "canonical_name": "论理方法",
+      "type": "Concept",
+      "evidence": "真以为不受论理方法支配",
+      "confidence": 1.0
+    },
+    {
+      "id": "e4",
+      "name": "主观的",
+      "canonical_name": "主观的",
+      "type": "Concept",
+      "evidence": "只须拿他所谓主观的，综合的，自由意志的人生观来解决他",
+      "confidence": 1.0
+    },
+    {
+      "id": "e5",
+      "name": "综合的",
+      "canonical_name": "综合的",
+      "type": "Concept",
+      "evidence": "只须拿他所谓主观的，综合的，自由意志的人生观来解决他",
+      "confidence": 1.0
+    },
+    {
+      "id": "e6",
+      "name": "自由意志",
+      "canonical_name": "自由意志",
+      "type": "Concept",
+      "evidence": "只须拿他所谓主观的，综合的，自由意志的人生观来解决他",
+      "confidence": 1.0
+    },
+    {
+      "id": "e7",
+      "name": "良心",
+      "canonical_name": "良心",
+      "type": "Concept",
+      "evidence": "只要以“自身良心之所命，起而主张之”",
+      "confidence": 1.0
+    },
+    {
+      "id": "e8",
+      "name": "论理的公例",
+      "canonical_name": "论理的公例",
+      "type": "Concept",
+      "evidence": "讨论都要用论理的公例",
+      "confidence": 1.0
+    },
+    {
+      "id": "e9",
+      "name": "定义方法",
+      "canonical_name": "定义方法",
+      "type": "Concept",
+      "evidence": "都要有定义方法",
+      "confidence": 1.0
+    },
+    {
+      "id": "e10",
+      "name": "张献忠",
+      "canonical_name": "张献忠",
+      "type": "Person",
+      "evidence": "假如张献忠这种妖孽",
+      "confidence": 1.0
+    },
+    {
+      "id": "e11",
+      "name": "叔本华",
+      "canonical_name": "叔本华",
+      "type": "Person",
+      "evidence": "我们也只好当他是叔本华、马克思一类的大人物",
+      "confidence": 1.0
+    },
+    {
+      "id": "e12",
+      "name": "马克思",
+      "canonical_name": "马克思",
+      "type": "Person",
+      "evidence": "我们也只好当他是叔本华、马克思一类的大人物",
+      "confidence": 1.0
+    }
+  ],
+  "claims": [
+    {
+      "id": "c1",
+      "speaker": "丁文江",
+      "claim": "社会、政治、道德一切问题真以为不受论理方法支配，真正没有是非真伪；只须拿他所谓主观的，综合的，自由意志的人生观来解决他。",
+      "target": "张君劢",
+      "claim_type": "反驳性主张",
+      "claim_status": "作者讽刺性归纳",
+      "polarity": "negative",
+      "evidence": "社会、政治、道德一切问题真以为不受论理方法支配，真正没有是非真伪；只须拿他所谓主观的，综合的，自由意志的人生观来解决他。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c2",
+      "speaker": "丁文江",
+      "claim": "果然如此，我们的社会是要成一种什么社会？",
+      "target": "张君劢",
+      "claim_type": "问题提出",
+      "claim_status": "作者推论",
+      "polarity": "negative",
+      "evidence": "果然如此，我们的社会是要成一种什么社会？",
+      "confidence": 0.9
+    },
+    {
+      "id": "c3",
+      "speaker": "丁文江",
+      "claim": "果然如此，书也不必读，学也不必求，知识经验都是无用，只要以“自身良心之所命，起而主张之”，因为人生观“皆起于良心之自动，而决非有使之然者也”。",
+      "target": "张君劢",
+      "claim_type": "反驳性主张",
+      "claim_status": "归谬构造",
+      "polarity": "negative",
+      "evidence": "果然如此，书也不必读，学也不必求，知识经验都是无用，只要以“自身良心之所命，起而主张之”，因为人生观“皆起于良心之自动，而决非有使之然者也”。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c4",
+      "speaker": "丁文江",
+      "claim": "读书，求学，知识，经历，岂不都是枉费功夫？",
+      "target": "张君劢",
+      "claim_type": "反驳性主张",
+      "claim_status": "作者推论",
+      "polarity": "negative",
+      "evidence": "读书，求学，知识，经历，岂不都是枉费功夫？",
+      "confidence": 0.9
+    },
+    {
+      "id": "c5",
+      "speaker": "丁文江",
+      "claim": "所有一切问题，都没有讨论之余地——讨论都要用论理的公例，都要有定义方法，都是张君劢人生观所不承认的。",
+      "target": "张君劢",
+      "claim_type": "反驳性主张",
+      "claim_status": "作者推论",
+      "polarity": "negative",
+      "evidence": "况且所有一切问题，都没有讨论之余地——讨论都要用论理的公例，都要有定义方法，都是张君劢人生观所不承认的。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c6",
+      "speaker": "丁文江",
+      "claim": "假如张献忠这种妖孽，忽然显起魂来，对我们说，他的杀人主义，是以“我自身良心之所命，起而主张之，以为天下后世表率”，我们也只好当他是叔本华、马克思一类的大人物，是“一部长夜漫漫历史中秉烛以导吾人之先路者”，这还从何说起？",
+      "target": "张君劢",
+      "claim_type": "反驳性主张",
+      "claim_status": "归谬构造",
+      "polarity": "negative",
+      "evidence": "假如张献忠这种妖孽，忽然显起魂来，对我们说，他的杀人主义，是以“我自身良心之所命，起而主张之，以为天下后世表率”，我们也只好当他是叔本华、马克思一类的大人物，是“一部长夜漫漫历史中秉烛以导吾人之先路者”，这还从何说起？",
+      "confidence": 0.9
+    }
+  ],
+  "relations": [],
+  "definitions": [],
+  "citations": [
+    {
+      "id": "cit1",
+      "citer": "丁文江",
+      "quoted_author": "张君劢",
+      "quoted_work": "",
+      "quoted_claim": "自身良心之所命，起而主张之",
+      "function": "作为批评对象",
+      "evidence": "只要以“自身良心之所命，起而主张之”",
+      "confidence": 0.9
+    },
+    {
+      "id": "cit2",
+      "citer": "丁文江",
+      "quoted_author": "张君劢",
+      "quoted_work": "",
+      "quoted_claim": "皆起于良心之自动，而决非有使之然者也",
+      "function": "作为批评对象",
+      "evidence": "因为人生观“皆起于良心之自动，而决非有使之然者也”",
+      "confidence": 0.9
+    },
+    {
+      "id": "cit3",
+      "citer": "丁文江",
+      "quoted_author": "张君劢",
+      "quoted_work": "",
+      "quoted_claim": "一部长夜漫漫历史中秉烛以导吾人之先路者",
+      "function": "作为批评对象",
+      "evidence": "是“一部长夜漫漫历史中秉烛以导吾人之先路者”",
+      "confidence": 0.9
+    }
+  ],
+  "rhetorical_devices": [
+    {
+      "id": "rh1",
+      "expression": "张献忠这种妖孽",
+      "device_type": "比喻",
+      "literal_target": "张献忠",
+      "function": "将张君劢理论可能导致的后果比喻为张献忠的杀人主义，进行归谬讽刺",
+      "evidence": "假如张献忠这种妖孽，忽然显起魂来，对我们说，他的杀人主义，是以“我自身良心之所命，起而主张之，以为天下后世表率”",
+      "confidence": 0.9
+    },
+    {
+      "id": "rh2",
+      "expression": "一部长夜漫漫历史中秉烛以导吾人之先路者",
+      "device_type": "比喻",
+      "literal_target": "张君劢所推崇的人物",
+      "function": "引用张君劢原话，讽刺其将杀人者与伟大人物等同的荒谬",
+      "evidence": "是“一部长夜漫漫历史中秉烛以导吾人之先路者”",
+      "confidence": 0.9
+    }
+  ],
+  "uncertainties": [
+    {
+      "item": "张君劢是否真的主张社会政治道德问题不受论理方法支配",
+      "reason": "当前文本是丁文江的讽刺性归纳，并非张君劢原话的直接引用，无法确认张君劢的真实主张"
+    },
+    {
+      "item": "“叔本华、马克思一类的大人物”是否在张君劢原文中被提及",
+      "reason": "当前文本未提供张君劢原文，无法确认"
+    }
+  ],
+  "_meta": {
+    "status": "success",
+    "stage": "extract",
+    "model": "deepseek-ai/DeepSeek-V4-Flash",
+    "base_url": "https://api.siliconflow.cn/v1",
+    "prompt_version": "extract_prompt_v2.0",
+    "schema_version": "lite_v2.0",
+    "segment_id": "丁文江_000_3ba07a5e_s0025",
+    "article_id": "丁文江_000_3ba07a5e",
+    "char_start": 6358,
+    "char_end": 6691,
+    "raw_path": "E:\\1研究生\\岭南大学\\论文毕业\\capstone\\资料\\新的内容开始了\\local_upload\\kg_runs\\丁文江_等3篇\\raw_outputs\\extract\\丁文江_000_3ba07a5e_s0025.txt",
+    "parsed_at": "2026-05-19T03:02:58",
+    "started_at": "2026-05-19T03:01:36",
+    "elapsed_seconds": 81.769,
+    "strict_evidence_check": true,
+    "drop_unsupported_evidence": true,
+    "request_timeout_seconds": 180
+  }
+}

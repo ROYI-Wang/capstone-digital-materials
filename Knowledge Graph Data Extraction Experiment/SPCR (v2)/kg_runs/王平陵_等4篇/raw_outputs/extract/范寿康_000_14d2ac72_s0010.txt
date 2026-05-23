@@ -1,0 +1,490 @@
+{
+  "metadata": {
+    "schema_version": "lite_v3.0",
+    "article_id": "范寿康_000_14d2ac72",
+    "article_title": "评所谓“科学与玄学之争”",
+    "source_author": "范寿康",
+    "section_title": "",
+    "section_author": "",
+    "segment_id": "范寿康_000_14d2ac72_s0010",
+    "segment_index": 10,
+    "source_file": "E:\\1研究生\\岭南大学\\论文毕业\\capstone\\资料\\新的内容开始了\\local_upload\\input_v2_w0\\范寿康.txt"
+  },
+  "entities": [
+    {
+      "id": "e1",
+      "name": "当然的法则",
+      "canonical_name": "当然的法则",
+      "type": "概念",
+      "evidence": "当然的法则。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e2",
+      "name": "人生观",
+      "canonical_name": "人生观",
+      "type": "概念",
+      "evidence": "人生观既注重于理想方面",
+      "confidence": 0.9
+    },
+    {
+      "id": "e3",
+      "name": "现实的法则",
+      "canonical_name": "现实的法则",
+      "type": "概念",
+      "evidence": "关于现实的法则不过是为树立理想的准备",
+      "confidence": 0.9
+    },
+    {
+      "id": "e4",
+      "name": "必然的法则",
+      "canonical_name": "必然的法则",
+      "type": "概念",
+      "evidence": "必然的法则自然比当然的法则为重",
+      "confidence": 0.9
+    },
+    {
+      "id": "e5",
+      "name": "规范科学",
+      "canonical_name": "规范科学",
+      "type": "概念",
+      "evidence": "人生观实在是规范科学里面的伦理学的研究问题",
+      "confidence": 0.9
+    },
+    {
+      "id": "e6",
+      "name": "伦理学",
+      "canonical_name": "伦理学",
+      "type": "概念",
+      "evidence": "规范科学里面的伦理学的研究问题",
+      "confidence": 0.9
+    },
+    {
+      "id": "e7",
+      "name": "伦理规范",
+      "canonical_name": "伦理规范",
+      "type": "概念",
+      "evidence": "人生观大体就是伦理规范的全部",
+      "confidence": 0.9
+    },
+    {
+      "id": "e8",
+      "name": "《教育哲学的体系》",
+      "canonical_name": "《教育哲学的体系》",
+      "type": "著作",
+      "evidence": "我在拙著《教育哲学的体系》（见《学艺》第四卷）里面",
+      "confidence": 0.9
+    },
+    {
+      "id": "e9",
+      "name": "《对于伦理规范的探讨》",
+      "canonical_name": "《对于伦理规范的探讨》",
+      "type": "文章",
+      "evidence": "曾有《对于伦理规范的探讨》一节",
+      "confidence": 0.9
+    },
+    {
+      "id": "e10",
+      "name": "良心",
+      "canonical_name": "良心",
+      "type": "概念",
+      "evidence": "良心——就是感觉感情和意志的所合成的统一的意识",
+      "confidence": 0.9
+    },
+    {
+      "id": "e11",
+      "name": "感觉感情和意志的所合成的统一的意识",
+      "canonical_name": "感觉感情和意志的所合成的统一的意识",
+      "type": "概念",
+      "evidence": "良心——就是感觉感情和意志的所合成的统一的意识",
+      "confidence": 0.9
+    },
+    {
+      "id": "e12",
+      "name": "康德",
+      "canonical_name": "康德",
+      "type": "人物",
+      "evidence": "康德以为普遍妥当性是伦理规范的要件",
+      "confidence": 0.9
+    },
+    {
+      "id": "e13",
+      "name": "普遍妥当性",
+      "canonical_name": "普遍妥当性",
+      "type": "概念",
+      "evidence": "康德以为普遍妥当性是伦理规范的要件",
+      "confidence": 0.9
+    },
+    {
+      "id": "e14",
+      "name": "先验的法则",
+      "canonical_name": "先验的法则",
+      "type": "概念",
+      "evidence": "倘使只有先验的法则才能够普遍地适用",
+      "confidence": 0.9
+    },
+    {
+      "id": "e15",
+      "name": "先天的形式",
+      "canonical_name": "先天的形式",
+      "type": "概念",
+      "evidence": "先天的形式（指1）实在是唯一的道德规范",
+      "confidence": 0.9
+    },
+    {
+      "id": "e16",
+      "name": "道德规范",
+      "canonical_name": "道德规范",
+      "type": "概念",
+      "evidence": "先天的形式（指1）实在是唯一的道德规范",
+      "confidence": 0.9
+    },
+    {
+      "id": "e17",
+      "name": "直觉主义",
+      "canonical_name": "直觉主义",
+      "type": "主义/学说/理论",
+      "evidence": "所谓直觉主义就立脚于这一点",
+      "confidence": 0.9
+    },
+    {
+      "id": "e18",
+      "name": "主观独断地演绎适用于实际生活的内容的伦理规范",
+      "canonical_name": "主观独断地演绎适用于实际生活的内容的伦理规范",
+      "type": "概念",
+      "evidence": "他往往还想从主观独断地演绎适用于实际生活的内容的伦理规范（指2）",
+      "confidence": 0.9
+    },
+    {
+      "id": "e19",
+      "name": "直觉主义的根本错误",
+      "canonical_name": "直觉主义的根本错误",
+      "type": "评价",
+      "evidence": "这是直觉主义的根本错误",
+      "confidence": 0.9
+    }
+  ],
+  "claims": [
+    {
+      "id": "c1",
+      "speaker": "范寿康",
+      "claim": "人生观实在是规范科学里面的伦理学的研究问题",
+      "target": "人生观",
+      "claim_type": "定义性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "我们很可以说人生观实在是规范科学里面的伦理学的研究问题",
+      "confidence": 0.9
+    },
+    {
+      "id": "c2",
+      "speaker": "范寿康",
+      "claim": "人生观大体就是伦理规范的全部",
+      "target": "人生观",
+      "claim_type": "定义性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "同时我们也可以说：人生观大体就是伦理规范的全部",
+      "confidence": 0.9
+    },
+    {
+      "id": "c3",
+      "speaker": "范寿康",
+      "claim": "我们的伦理的规范是由两部分合成的，就是由主观的和客观的部分合成的",
+      "target": "伦理规范",
+      "claim_type": "定义性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "我们的伦理的规范是由两部分合成的，就是由主观的和客观的部分合成的",
+      "confidence": 0.9
+    },
+    {
+      "id": "c4",
+      "speaker": "范寿康",
+      "claim": "良心——就是感觉感情和意志的所合成的统一的意识——有二种的作用",
+      "target": "良心",
+      "claim_type": "描述性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "良心——就是感觉感情和意志的所合成的统一的意识——有二种的作用",
+      "confidence": 0.9
+    },
+    {
+      "id": "c5",
+      "speaker": "范寿康",
+      "claim": "良心命令人类做各人所自认为善的行为",
+      "target": "良心",
+      "claim_type": "描述性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "（1）良心命令人类做各人所自认为善的行为",
+      "confidence": 0.9
+    },
+    {
+      "id": "c6",
+      "speaker": "范寿康",
+      "claim": "良心又营各种善恶的评价",
+      "target": "良心",
+      "claim_type": "描述性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "（2）良心又营各种善恶的评价",
+      "confidence": 0.9
+    },
+    {
+      "id": "c7",
+      "speaker": "范寿康",
+      "claim": "做你所自认为善的行为这一个命令实在决不会错误的",
+      "target": "命令",
+      "claim_type": "评价性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "做你所自认为善的行为！这一个命令实在决不会错误的",
+      "confidence": 0.9
+    },
+    {
+      "id": "c8",
+      "speaker": "范寿康",
+      "claim": "许多的错误却是存在于善恶内容的判定里面",
+      "target": "善恶内容的判定",
+      "claim_type": "描述性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "可是许多的错误却是存在于善恶内容的判定里面",
+      "confidence": 0.9
+    },
+    {
+      "id": "c9",
+      "speaker": "范寿康",
+      "claim": "甲以为善的，乙未必也以为善；乙以为恶的，甲未必也以为恶",
+      "target": "善恶内容的判定",
+      "claim_type": "描述性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "甲以为善的，乙未必也以为善；乙以为恶的，甲未必也以为恶",
+      "confidence": 0.9
+    },
+    {
+      "id": "c10",
+      "speaker": "康德",
+      "claim": "普遍妥当性是伦理规范的要件",
+      "target": "伦理规范",
+      "claim_type": "定义性主张",
+      "claim_status": "间接转述",
+      "polarity": "positive",
+      "evidence": "康德以为普遍妥当性是伦理规范的要件",
+      "confidence": 0.9
+    },
+    {
+      "id": "c11",
+      "speaker": "范寿康",
+      "claim": "这个普遍妥当性确是重要",
+      "target": "普遍妥当性",
+      "claim_type": "评价性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "我也以为这个普遍妥当性确是重要",
+      "confidence": 0.9
+    },
+    {
+      "id": "c12",
+      "speaker": "范寿康",
+      "claim": "一项法则所有的妥当性范围愈小，这项法则的威权也就愈减",
+      "target": "法则",
+      "claim_type": "因果主张",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "一项法则所有的妥当性范围愈小，这项法则的威权也就愈减",
+      "confidence": 0.9
+    },
+    {
+      "id": "c13",
+      "speaker": "范寿康",
+      "claim": "倘使只有先验的法则才能够普遍地适用，那末，先天的形式（指1）实在是唯一的道德规范",
+      "target": "先天的形式",
+      "claim_type": "因果主张",
+      "claim_status": "作者推论",
+      "polarity": "positive",
+      "evidence": "倘使只有先验的法则才能够普遍地适用，那末，先天的形式（指1）实在是唯一的道德规范，这是毫无疑义的",
+      "confidence": 0.9
+    },
+    {
+      "id": "c14",
+      "speaker": "范寿康",
+      "claim": "所谓直觉主义就立脚于这一点",
+      "target": "直觉主义",
+      "claim_type": "描述性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "所谓直觉主义就立脚于这一点",
+      "confidence": 0.9
+    },
+    {
+      "id": "c15",
+      "speaker": "范寿康",
+      "claim": "直觉主义只能够也只应该中止于这一点",
+      "target": "直觉主义",
+      "claim_type": "规范性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "而且他只能够也只应该中止于这一点",
+      "confidence": 0.9
+    },
+    {
+      "id": "c16",
+      "speaker": "范寿康",
+      "claim": "直觉主义往往还想从主观独断地演绎适用于实际生活的内容的伦理规范（指2），这是直觉主义的根本错误",
+      "target": "直觉主义",
+      "claim_type": "评价性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "可是事实上他往往还想从主观独断地演绎适用于实际生活的内容的伦理规范（指2），这是直觉主义的根本错误",
+      "confidence": 0.9
+    }
+  ],
+  "relations": [
+    {
+      "id": "r1",
+      "head": "人生观",
+      "head_type": "概念",
+      "relation": "属于",
+      "relation_subtype": "不适用",
+      "tail": "规范科学",
+      "tail_type": "概念",
+      "polarity": "positive",
+      "stance_score": 1.0,
+      "intensity": 0.6,
+      "evidence": "我们很可以说人生观实在是规范科学里面的伦理学的研究问题",
+      "confidence": 0.9
+    },
+    {
+      "id": "r2",
+      "head": "人生观",
+      "head_type": "概念",
+      "relation": "属于",
+      "relation_subtype": "不适用",
+      "tail": "伦理规范",
+      "tail_type": "概念",
+      "polarity": "positive",
+      "stance_score": 1.0,
+      "intensity": 0.6,
+      "evidence": "同时我们也可以说：人生观大体就是伦理规范的全部",
+      "confidence": 0.9
+    },
+    {
+      "id": "r3",
+      "head": "伦理规范",
+      "head_type": "概念",
+      "relation": "包含",
+      "relation_subtype": "不适用",
+      "tail": "主观的部分",
+      "tail_type": "概念",
+      "polarity": "positive",
+      "stance_score": 1.0,
+      "intensity": 0.5,
+      "evidence": "我们的伦理的规范是由两部分合成的，就是由主观的和客观的部分合成的",
+      "confidence": 0.9
+    },
+    {
+      "id": "r4",
+      "head": "伦理规范",
+      "head_type": "概念",
+      "relation": "包含",
+      "relation_subtype": "不适用",
+      "tail": "客观的部分",
+      "tail_type": "概念",
+      "polarity": "positive",
+      "stance_score": 1.0,
+      "intensity": 0.5,
+      "evidence": "我们的伦理的规范是由两部分合成的，就是由主观的和客观的部分合成的",
+      "confidence": 0.9
+    },
+    {
+      "id": "r5",
+      "head": "良心",
+      "head_type": "概念",
+      "relation": "定义",
+      "relation_subtype": "概念澄清",
+      "tail": "感觉感情和意志的所合成的统一的意识",
+      "tail_type": "概念",
+      "polarity": "positive",
+      "stance_score": 1.0,
+      "intensity": 0.5,
+      "evidence": "良心——就是感觉感情和意志的所合成的统一的意识",
+      "confidence": 0.9
+    },
+    {
+      "id": "r6",
+      "head": "范寿康",
+      "head_type": "人物",
+      "relation": "支持",
+      "relation_subtype": "部分肯定",
+      "tail": "康德",
+      "tail_type": "人物",
+      "polarity": "positive",
+      "stance_score": 0.8,
+      "intensity": 0.5,
+      "evidence": "康德以为普遍妥当性是伦理规范的要件，我也以为这个普遍妥当性确是重要",
+      "confidence": 0.9
+    },
+    {
+      "id": "r7",
+      "head": "直觉主义",
+      "head_type": "主义/学说/理论",
+      "relation": "批评",
+      "relation_subtype": "逻辑反驳",
+      "tail": "直觉主义的根本错误",
+      "tail_type": "评价",
+      "polarity": "negative",
+      "stance_score": -0.8,
+      "intensity": 0.7,
+      "evidence": "可是事实上他往往还想从主观独断地演绎适用于实际生活的内容的伦理规范（指2），这是直觉主义的根本错误",
+      "confidence": 0.9
+    }
+  ],
+  "definitions": [
+    {
+      "id": "def1",
+      "term": "良心",
+      "definition": "良心是感觉感情和意志所合成的统一的意识",
+      "evidence": "良心——就是感觉感情和意志的所合成的统一的意识",
+      "confidence": 0.9
+    },
+    {
+      "id": "def2",
+      "term": "伦理规范",
+      "definition": "伦理规范由主观的部分和客观的部分合成",
+      "evidence": "我们的伦理的规范是由两部分合成的，就是由主观的和客观的部分合成的",
+      "confidence": 0.9
+    }
+  ],
+  "citations": [
+    {
+      "id": "cit1",
+      "citer": "范寿康",
+      "quoted_author": "范寿康",
+      "quoted_work": "《教育哲学的体系》",
+      "quoted_claim": "我们的伦理的规范是由两部分合成的，就是由主观的和客观的部分合成的。良心——就是感觉感情和意志的所合成的统一的意识——有二种的作用。（1）良心命令人类做各人所自认为善的行为。（2）良心又营各种善恶的评价。",
+      "function": "作为思想来源",
+      "evidence": "我在拙著《教育哲学的体系》（见《学艺》第四卷）里面，曾有《对于伦理规范的探讨》一节，里面说:",
+      "confidence": 0.9
+    },
+    {
+      "id": "cit2",
+      "citer": "范寿康",
+      "quoted_author": "康德",
+      "quoted_work": "",
+      "quoted_claim": "普遍妥当性是伦理规范的要件",
+      "function": "援引权威支持",
+      "evidence": "康德以为普遍妥当性是伦理规范的要件",
+      "confidence": 0.9
+    }
+  ],
+  "rhetorical_devices": [],
+  "uncertainties": [
+    {
+      "item": "指1和指2的具体含义",
+      "reason": "文本中出现了“先天的形式（指1）”和“伦理规范（指2）”，但未说明指代的具体内容，可能来自前文或注释。"
+    }
+  ]
+}

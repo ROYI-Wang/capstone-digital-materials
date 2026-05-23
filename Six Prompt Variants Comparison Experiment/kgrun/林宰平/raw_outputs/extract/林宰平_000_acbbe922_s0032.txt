@@ -1,0 +1,273 @@
+{
+  "metadata": {
+    "schema_version": "lite_v2.0",
+    "article_id": "林宰平_000_acbbe922",
+    "article_title": "读丁在君先生的《玄学与科学》",
+    "source_author": "林宰平",
+    "section_title": "",
+    "section_author": "",
+    "segment_id": "林宰平_000_acbbe922_s0032",
+    "segment_index": 32,
+    "source_file": "E:\\1研究生\\岭南大学\\论文毕业\\capstone\\资料\\新的内容开始了\\local_upload\\input_w0\\林宰平.txt"
+  },
+  "entities": [
+    {
+      "id": "e1",
+      "name": "林宰平",
+      "canonical_name": "林宰平",
+      "type": "人物",
+      "evidence": "我从前听见杜威讲到进化论在欧洲不知引起多少的争论",
+      "confidence": 1.0
+    },
+    {
+      "id": "e2",
+      "name": "杜威",
+      "canonical_name": "杜威",
+      "type": "人物",
+      "evidence": "我从前听见杜威讲到进化论在欧洲不知引起多少的争论",
+      "confidence": 1.0
+    },
+    {
+      "id": "e3",
+      "name": "进化论",
+      "canonical_name": "进化论",
+      "type": "概念",
+      "evidence": "我从前听见杜威讲到进化论在欧洲不知引起多少的争论",
+      "confidence": 1.0
+    },
+    {
+      "id": "e4",
+      "name": "欧洲",
+      "canonical_name": "欧洲",
+      "type": "概念",
+      "evidence": "进化论在欧洲不知引起多少的争论",
+      "confidence": 1.0
+    },
+    {
+      "id": "e5",
+      "name": "中国",
+      "canonical_name": "中国",
+      "type": "概念",
+      "evidence": "此说到了中国以后，却无声无臭毫不发生影响",
+      "confidence": 1.0
+    },
+    {
+      "id": "e6",
+      "name": "东方和西方",
+      "canonical_name": "东方和西方",
+      "type": "概念",
+      "evidence": "这的确是东方和西方大大不同的地方",
+      "confidence": 1.0
+    },
+    {
+      "id": "e7",
+      "name": "研究讨论批评的精神",
+      "canonical_name": "研究讨论批评的精神",
+      "type": "概念",
+      "evidence": "研究讨论批评的精神，若是一天不振作，一切学术思想断不能望有进步",
+      "confidence": 1.0
+    },
+    {
+      "id": "e8",
+      "name": "在君先生",
+      "canonical_name": "丁在君",
+      "type": "人物",
+      "evidence": "我只顾说我对于在君先生这篇文章所怀疑的地方",
+      "confidence": 1.0
+    },
+    {
+      "id": "e9",
+      "name": "《玄学与科学》",
+      "canonical_name": "《玄学与科学》",
+      "type": "文章",
+      "evidence": "我只顾说我对于在君先生这篇文章所怀疑的地方",
+      "confidence": 1.0
+    },
+    {
+      "id": "e10",
+      "name": "《时事新报·学灯》",
+      "canonical_name": "《时事新报·学灯》",
+      "type": "著作",
+      "evidence": "—— 转录《时事新报·学灯》——",
+      "confidence": 1.0
+    }
+  ],
+  "claims": [
+    {
+      "id": "c1",
+      "speaker": "林宰平",
+      "claim": "本不配大胆评论，然却应当出来说几句话",
+      "target": "",
+      "claim_type": "论战策略批评",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "本不配大胆评论，然却应当出来说几句话",
+      "confidence": 1.0
+    },
+    {
+      "id": "c2",
+      "speaker": "杜威",
+      "claim": "进化论在欧洲不知引起多少的争论，一直到今还没有完全停止，欧洲之学术思想，也因此生出极大的变革和进步",
+      "target": "进化论",
+      "claim_type": "历史解释",
+      "claim_status": "间接转述",
+      "polarity": "positive",
+      "evidence": "我从前听见杜威讲到进化论在欧洲不知引起多少的争论，一直到今还没有完全停止，欧洲之学术思想，也因此生出极大的变革和进步",
+      "confidence": 1.0
+    },
+    {
+      "id": "c3",
+      "speaker": "林宰平",
+      "claim": "此说到了中国以后，却无声无臭毫不发生影响，这的确是东方和西方大大不同的地方",
+      "target": "进化论",
+      "claim_type": "历史解释",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "但是此说到了中国以后，却无声无臭毫不发生影响，这的确是东方和西方大大不同的地方",
+      "confidence": 1.0
+    },
+    {
+      "id": "c4",
+      "speaker": "林宰平",
+      "claim": "研究讨论批评的精神，若是一天不振作，一切学术思想断不能望有进步",
+      "target": "研究讨论批评的精神",
+      "claim_type": "方法论主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "研究讨论批评的精神，若是一天不振作，一切学术思想断不能望有进步",
+      "confidence": 1.0
+    },
+    {
+      "id": "c5",
+      "speaker": "林宰平",
+      "claim": "我们应各就所知道的范围以内，有忠实研究并发表的责任",
+      "target": "",
+      "claim_type": "方法论主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "所以我认为我们应各就所知道的范围以内，有忠实研究并发表的责任",
+      "confidence": 1.0
+    },
+    {
+      "id": "c6",
+      "speaker": "林宰平",
+      "claim": "我只顾说我对于在君先生这篇文章所怀疑的地方",
+      "target": "在君先生",
+      "claim_type": "论战策略批评",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "我只顾说我对于在君先生这篇文章所怀疑的地方",
+      "confidence": 1.0
+    },
+    {
+      "id": "c7",
+      "speaker": "林宰平",
+      "claim": "写完此作之后，才觉得完全变成反对我的在君先生，然我又知道他一定不会不高兴",
+      "target": "在君先生",
+      "claim_type": "论战策略批评",
+      "claim_status": "作者直接主张",
+      "polarity": "mixed",
+      "evidence": "写完此作之后，才觉得完全变成反对我的在君先生，然我又知道他一定不会不高兴",
+      "confidence": 1.0
+    }
+  ],
+  "relations": [
+    {
+      "id": "r1",
+      "head": "林宰平",
+      "head_type": "人物",
+      "relation": "引用",
+      "relation_subtype": "援引权威",
+      "tail": "杜威",
+      "tail_type": "人物",
+      "polarity": "positive",
+      "evidence": "我从前听见杜威讲到进化论在欧洲不知引起多少的争论",
+      "confidence": 1.0
+    },
+    {
+      "id": "r2",
+      "head": "杜威",
+      "head_type": "人物",
+      "relation": "主张",
+      "relation_subtype": "不适用",
+      "tail": "进化论在欧洲不知引起多少的争论，一直到今还没有完全停止，欧洲之学术思想，也因此生出极大的变革和进步",
+      "tail_type": "观点",
+      "polarity": "positive",
+      "evidence": "我从前听见杜威讲到进化论在欧洲不知引起多少的争论，一直到今还没有完全停止，欧洲之学术思想，也因此生出极大的变革和进步",
+      "confidence": 1.0
+    },
+    {
+      "id": "r3",
+      "head": "林宰平",
+      "head_type": "人物",
+      "relation": "对比",
+      "relation_subtype": "不适用",
+      "tail": "东方和西方",
+      "tail_type": "概念",
+      "polarity": "negative",
+      "evidence": "但是此说到了中国以后，却无声无臭毫不发生影响，这的确是东方和西方大大不同的地方",
+      "confidence": 1.0
+    },
+    {
+      "id": "r4",
+      "head": "研究讨论批评的精神",
+      "head_type": "概念",
+      "relation": "导致",
+      "relation_subtype": "不适用",
+      "tail": "一切学术思想断不能望有进步",
+      "tail_type": "观点",
+      "polarity": "positive",
+      "evidence": "研究讨论批评的精神，若是一天不振作，一切学术思想断不能望有进步",
+      "confidence": 1.0
+    },
+    {
+      "id": "r5",
+      "head": "林宰平",
+      "head_type": "人物",
+      "relation": "回应",
+      "relation_subtype": "一般批评",
+      "tail": "在君先生",
+      "tail_type": "人物",
+      "polarity": "negative",
+      "evidence": "我只顾说我对于在君先生这篇文章所怀疑的地方",
+      "confidence": 1.0
+    },
+    {
+      "id": "r6",
+      "head": "林宰平",
+      "head_type": "人物",
+      "relation": "批评",
+      "relation_subtype": "一般批评",
+      "tail": "在君先生",
+      "tail_type": "人物",
+      "polarity": "negative",
+      "evidence": "写完此作之后，才觉得完全变成反对我的在君先生",
+      "confidence": 1.0
+    }
+  ],
+  "definitions": [],
+  "citations": [
+    {
+      "id": "cit1",
+      "citer": "林宰平",
+      "quoted_author": "杜威",
+      "quoted_work": "",
+      "quoted_claim": "进化论在欧洲不知引起多少的争论，一直到今还没有完全停止，欧洲之学术思想，也因此生出极大的变革和进步",
+      "function": "援引权威支持",
+      "evidence": "我从前听见杜威讲到进化论在欧洲不知引起多少的争论，一直到今还没有完全停止，欧洲之学术思想，也因此生出极大的变革和进步",
+      "confidence": 1.0
+    }
+  ],
+  "rhetorical_devices": [
+    {
+      "id": "rh1",
+      "expression": "无声无臭",
+      "device_type": "比喻",
+      "literal_target": "进化论在中国没有引起任何反响",
+      "function": "强调对比，突出中国缺乏学术争论精神",
+      "evidence": "此说到了中国以后，却无声无臭毫不发生影响",
+      "confidence": 1.0
+    }
+  ],
+  "uncertainties": []
+}

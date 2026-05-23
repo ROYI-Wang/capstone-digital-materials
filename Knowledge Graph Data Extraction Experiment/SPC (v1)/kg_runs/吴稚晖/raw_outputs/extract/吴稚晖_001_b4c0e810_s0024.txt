@@ -1,0 +1,390 @@
+{
+  "metadata": {
+    "schema_version": "lite_v2.0",
+    "article_id": "吴稚晖_001_b4c0e810",
+    "article_title": "一个新信仰的宇宙观及人生观",
+    "source_author": "吴稚晖",
+    "section_title": "讲到这里，第一层可先用不值钱的玄学理想，近乎游戏的，说道毛厕里的石头亦有感觉。苍蝇的感觉，非即人的感觉，他们感觉的状况，颇极差等。玫瑰树的感觉，非即苍蝇的感觉，他们的感觉，又极差等。如是焉能禁我来瞎说，毛厕里石头的感觉，非即玫瑰树的感觉，他们感觉的状况，也极差等。若欲强分高下，则石头有其寂然不动的感觉，真所谓无私心而合天理，所以贞固永寿。一块毛厕里的石头，可以阅几十代人而依然如故，见数百兆苍蝇存灭，看千万棵玫瑰树忽而芬芳，忽而萎枯。彼如曰毛厕里的石头为万物之灵，理由亦未尝不充足。彼另有彼之可感与彼之可觉，人与苍蝇及玫瑰树之感觉，皆非彼所需，故亦非彼所有，如是而已。然这种蹈空的掉枪花，我们中国古代的玄学鬼常用“孰为正色，孰为正味”等的论调，闹得甚嚣尘上。自然受过科学洗礼的玄学鬼，不肯就把这种空言，来作惟一的搪塞。所以说到第二层，他就要戴上科学面具，正正经经，板起了面孔，来断定毛厕里的石头亦有感觉。他不是说能够",
+    "section_author": "讲到这里，第一层可先用不值钱的玄学理想，近乎游戏的，说道毛厕里的石头亦有感觉。苍蝇的感觉，非即人的感觉，他们感觉的状况，颇极差等。玫瑰树的感觉，非即苍蝇的感觉，他们的感觉，又极差等。如是焉能禁我来瞎说，毛厕里石头的感觉，非即玫瑰树的感觉，他们感觉的状况，也极差等。若欲强分高下，则石头有其寂然不动的感觉，真所谓无私心而合天理，所以贞固永寿。一块毛厕里的石头，可以阅几十代人而依然如故，见数百兆苍蝇存灭，看千万棵玫瑰树忽而芬芳，忽而萎枯。彼如曰毛厕里的石头为万物之灵，理由亦未尝不充足。彼另有彼之可感与彼之可觉，人与苍蝇及玫瑰树之感觉，皆非彼所需，故亦非彼所有，如是而已。然这种蹈空的掉枪花，我们中国古代的玄学鬼常用“孰为正色，孰为正味”等的论调，闹得甚嚣尘上。自然受过科学洗礼的玄学鬼，不肯就把这种空言，来作惟一的搪塞。所以说到第二层，他就要戴上科学面具，正正经经，板起了面孔，来断定毛厕里的石头亦有感觉。他不是说能够",
+    "segment_id": "吴稚晖_001_b4c0e810_s0024",
+    "segment_index": 24,
+    "source_file": "E:\\1研究生\\岭南大学\\论文毕业\\capstone\\资料\\新的内容开始了\\local_upload\\input_w0\\吴稚晖.txt"
+  },
+  "entities": [
+    {
+      "id": "e1",
+      "name": "张先生",
+      "canonical_name": "张君劢",
+      "type": "人物",
+      "evidence": "的”，甚为张先生所不服。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e2",
+      "name": "直觉",
+      "canonical_name": "直觉",
+      "type": "概念",
+      "evidence": "张先生看直觉与意志同，以为皆出于先天。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e3",
+      "name": "意志",
+      "canonical_name": "意志",
+      "type": "概念",
+      "evidence": "张先生看直觉与意志同，以为皆出于先天。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e4",
+      "name": "先天",
+      "canonical_name": "先天",
+      "type": "概念",
+      "evidence": "张先生看直觉与意志同，以为皆出于先天。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e5",
+      "name": "孟老爹",
+      "canonical_name": "孟子",
+      "type": "人物",
+      "evidence": "譬如孟老爹说“羞恶之心，人皆有之”，",
+      "confidence": 0.9
+    },
+    {
+      "id": "e6",
+      "name": "羞恶之心",
+      "canonical_name": "羞恶之心",
+      "type": "概念",
+      "evidence": "譬如孟老爹说“羞恶之心，人皆有之”，羞恶确是直觉之一。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e7",
+      "name": "羞恶",
+      "canonical_name": "羞恶",
+      "type": "概念",
+      "evidence": "羞恶确是直觉之一。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e8",
+      "name": "靳云鹏",
+      "canonical_name": "靳云鹏",
+      "type": "人物",
+      "evidence": "然天津祝寿的或对靳云鹏说，我来替你老太太做个媒罢，靳先生一定红涨干脸，勃然大怒。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e9",
+      "name": "劳爱乔治",
+      "canonical_name": "劳合·乔治",
+      "type": "人物",
+      "evidence": "然若对“劳爱乔治”说之，彼亦止笑谢曰，伊想无此兴会了，伊想无此兴会了。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e10",
+      "name": "环境",
+      "canonical_name": "环境",
+      "type": "概念",
+      "evidence": "则此羞恶之直觉，实曾赋自环境，并不出于天然。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e11",
+      "name": "天然",
+      "canonical_name": "天然",
+      "type": "概念",
+      "evidence": "则此羞恶之直觉，实曾赋自环境，并不出于天然。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e12",
+      "name": "丁、张两先生",
+      "canonical_name": "丁文江、张君劢",
+      "type": "阵营/群体",
+      "evidence": "丁、张两先生皆以电话室作譬，互相诘难。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e13",
+      "name": "电话室",
+      "canonical_name": "电话室",
+      "type": "比喻/类比",
+      "evidence": "丁、张两先生皆以电话室作譬，互相诘难。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e14",
+      "name": "脑髓",
+      "canonical_name": "脑髓",
+      "type": "概念",
+      "evidence": "三斤二两脑髓，及五千零四十八根脑筋，彼构造的繁复岂人力一时所能殚究？",
+      "confidence": 0.9
+    },
+    {
+      "id": "e15",
+      "name": "脑筋",
+      "canonical_name": "脑筋",
+      "type": "概念",
+      "evidence": "三斤二两脑髓，及五千零四十八根脑筋，彼构造的繁复岂人力一时所能殚究？",
+      "confidence": 0.9
+    },
+    {
+      "id": "e16",
+      "name": "原子",
+      "canonical_name": "原子",
+      "type": "概念",
+      "evidence": "一原子大小，假如截头发丝一段而为立方，足可容原子四百兆。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e17",
+      "name": "电子",
+      "canonical_name": "电子",
+      "type": "概念",
+      "evidence": "每一电子游离于原子“核心”之旁者，其小又止得原子十万分之一。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e18",
+      "name": "核心",
+      "canonical_name": "原子核",
+      "type": "概念",
+      "evidence": "每一电子游离于原子“核心”之旁者，其小又止得原子十万分之一。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e19",
+      "name": "灵魂",
+      "canonical_name": "灵魂",
+      "type": "概念",
+      "evidence": "那里用得着什么精神元素所谓灵魂者，来做隔靴搔痒的帮助。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e20",
+      "name": "精神元素",
+      "canonical_name": "精神元素",
+      "type": "概念",
+      "evidence": "那里用得着什么精神元素所谓灵魂者，来做隔靴搔痒的帮助。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e21",
+      "name": "得意精虫",
+      "canonical_name": "得意精虫",
+      "type": "比喻/类比",
+      "evidence": "那里有许多闲空的堆房，去存贮许多“得意精虫”（人）的灵魂。",
+      "confidence": 0.9
+    }
+  ],
+  "claims": [
+    {
+      "id": "c1",
+      "speaker": "张先生",
+      "claim": "直觉与意志同，皆出于先天。",
+      "target": "直觉",
+      "claim_type": "知识论主张",
+      "claim_status": "对手直接主张",
+      "polarity": "neutral",
+      "evidence": "张先生看直觉与意志同，以为皆出于先天。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c2",
+      "speaker": "孟老爹",
+      "claim": "羞恶之心，人皆有之。",
+      "target": "羞恶之心",
+      "claim_type": "定义性主张",
+      "claim_status": "直接引用",
+      "polarity": "neutral",
+      "evidence": "譬如孟老爹说“羞恶之心，人皆有之”，",
+      "confidence": 0.9
+    },
+    {
+      "id": "c3",
+      "speaker": "作者",
+      "claim": "羞恶之直觉实曾赋自环境，并不出于天然。",
+      "target": "羞恶",
+      "claim_type": "知识论主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "则此羞恶之直觉，实曾赋自环境，并不出于天然。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c4",
+      "speaker": "作者",
+      "claim": "电话室不足以比拟脑髓的复杂构造。",
+      "target": "电话室",
+      "claim_type": "方法论主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "他那发动出来的能力，什么高等意志，极等理智，超等直觉，上等情感，头等感觉，优等本能，皆有何难。那里用得着什么精神元素所谓灵魂者，来做隔靴搔痒的帮助。",
+      "confidence": 0.8
+    },
+    {
+      "id": "c5",
+      "speaker": "作者",
+      "claim": "脑髓腐烂或割除后便冥然罔觉，个人的宇宙便算终了。",
+      "target": "脑髓",
+      "claim_type": "本体论主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "所以他腐烂了，或割除了，亦便冥然罔觉。一位个人的宇宙，便算终了。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c6",
+      "speaker": "作者",
+      "claim": "没有灵魂作为精神元素来帮助。",
+      "target": "灵魂",
+      "claim_type": "本体论主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "那里用得着什么精神元素所谓灵魂者，来做隔靴搔痒的帮助。",
+      "confidence": 0.9
+    }
+  ],
+  "relations": [
+    {
+      "id": "r1",
+      "head": "张先生",
+      "head_type": "人物",
+      "relation": "主张",
+      "relation_subtype": "不适用",
+      "tail": "直觉",
+      "tail_type": "概念",
+      "polarity": "neutral",
+      "evidence": "张先生看直觉与意志同，以为皆出于先天。",
+      "confidence": 0.9
+    },
+    {
+      "id": "r2",
+      "head": "作者",
+      "head_type": "人物",
+      "relation": "反驳",
+      "relation_subtype": "事实质疑",
+      "tail": "张先生",
+      "tail_type": "人物",
+      "polarity": "negative",
+      "evidence": "则此羞恶之直觉，实曾赋自环境，并不出于天然。",
+      "confidence": 0.9
+    },
+    {
+      "id": "r3",
+      "head": "作者",
+      "head_type": "人物",
+      "relation": "引用",
+      "relation_subtype": "援引权威支持",
+      "tail": "孟老爹",
+      "tail_type": "人物",
+      "polarity": "neutral",
+      "evidence": "譬如孟老爹说“羞恶之心，人皆有之”，",
+      "confidence": 0.9
+    },
+    {
+      "id": "r4",
+      "head": "作者",
+      "head_type": "人物",
+      "relation": "批评",
+      "relation_subtype": "概念混淆批评",
+      "tail": "丁、张两先生",
+      "tail_type": "阵营/群体",
+      "polarity": "negative",
+      "evidence": "丁、张两先生皆以电话室作譬，互相诘难。其实电话室亦聊用取譬云尔，何足深诘？",
+      "confidence": 0.8
+    },
+    {
+      "id": "r5",
+      "head": "作者",
+      "head_type": "人物",
+      "relation": "反驳",
+      "relation_subtype": "逻辑反驳",
+      "tail": "灵魂",
+      "tail_type": "概念",
+      "polarity": "negative",
+      "evidence": "那里用得着什么精神元素所谓灵魂者，来做隔靴搔痒的帮助。",
+      "confidence": 0.9
+    }
+  ],
+  "definitions": [
+    {
+      "id": "def1",
+      "term": "羞恶",
+      "definition": "羞恶是直觉之一。",
+      "evidence": "羞恶确是直觉之一。",
+      "confidence": 0.9
+    }
+  ],
+  "citations": [
+    {
+      "id": "cit1",
+      "citer": "作者",
+      "quoted_author": "孟老爹",
+      "quoted_work": "",
+      "quoted_claim": "羞恶之心，人皆有之",
+      "function": "援引权威支持",
+      "evidence": "譬如孟老爹说“羞恶之心，人皆有之”，",
+      "confidence": 0.9
+    }
+  ],
+  "rhetorical_devices": [
+    {
+      "id": "rh1",
+      "expression": "瞎嚼蛆",
+      "device_type": "比喻",
+      "literal_target": "作者自嘲自己的言论",
+      "function": "自嘲，降低姿态以增强说服力",
+      "evidence": "虽然我们这种瞎嚼蛆，终之要被什么心理学家等笑到前仰后合，",
+      "confidence": 0.9
+    },
+    {
+      "id": "rh2",
+      "expression": "一根鲠已经刺在喉咙口，也不能不随便一吐",
+      "device_type": "比喻",
+      "literal_target": "作者不得不表达的观点",
+      "function": "强调表达的必要性",
+      "evidence": "然一根鲠已经刺在喉咙口，也不能不随便一吐。",
+      "confidence": 0.9
+    },
+    {
+      "id": "rh3",
+      "expression": "隔靴搔痒",
+      "device_type": "比喻",
+      "literal_target": "灵魂对解释意识现象无用",
+      "function": "批评灵魂概念的无效性",
+      "evidence": "那里用得着什么精神元素所谓灵魂者，来做隔靴搔痒的帮助。",
+      "confidence": 0.9
+    },
+    {
+      "id": "rh4",
+      "expression": "得意精虫",
+      "device_type": "比喻",
+      "literal_target": "人",
+      "function": "讽刺人类自大，将人贬低为精虫",
+      "evidence": "那里有许多闲空的堆房，去存贮许多“得意精虫”（人）的灵魂。",
+      "confidence": 0.9
+    }
+  ],
+  "uncertainties": [
+    {
+      "item": "张先生是否指张君劢",
+      "reason": "文本中只出现“张先生”，未给出全名，根据论战背景推断为张君劢，但原文未明确。"
+    },
+    {
+      "item": "孟老爹是否确指孟子",
+      "reason": "文本中只出现“孟老爹”，未给出全名，根据引文“羞恶之心，人皆有之”推断为孟子，但原文未明确。"
+    },
+    {
+      "item": "劳爱乔治是否确指劳合·乔治",
+      "reason": "文本中只出现“劳爱乔治”，未给出全名，根据音译推断为英国首相劳合·乔治，但原文未明确。"
+    },
+    {
+      "item": "丁、张两先生是否确指丁文江和张君劢",
+      "reason": "文本中只出现“丁、张两先生”，未给出全名，根据论战背景推断，但原文未明确。"
+    }
+  ]
+}

@@ -1,0 +1,403 @@
+{
+  "metadata": {
+    "schema_version": "lite_v2.0",
+    "article_id": "瞿秋白_000_a4753ce4",
+    "article_title": "《自由世界与必然世界》",
+    "source_author": "瞿秋白",
+    "section_title": "资本主义时代的强有力的生产工具若能变成公共的财产，生产制度若得按",
+    "section_author": "资本主义时代的强有力的生产工具若能变成公共的财产，生产制度若得",
+    "segment_id": "瞿秋白_000_a4753ce4_s0015",
+    "segment_index": 15,
+    "source_file": "E:\\1研究生\\岭南大学\\论文毕业\\capstone\\资料\\新的内容开始了\\local_upload\\input_w2\\瞿秋白.txt"
+  },
+  "entities": [
+    {
+      "id": "e1",
+      "name": "无产阶级",
+      "canonical_name": "无产阶级",
+      "type": "阵营/群体",
+      "evidence": "无产阶级的“阶级个性”依利己主义而向现存制度进攻",
+      "confidence": 1.0
+    },
+    {
+      "id": "e2",
+      "name": "科学的因果律",
+      "canonical_name": "科学的因果律",
+      "type": "概念",
+      "evidence": "科学的因果律不但足以解释人生观，而且足以变更人生观",
+      "confidence": 1.0
+    },
+    {
+      "id": "e3",
+      "name": "人生观",
+      "canonical_name": "人生观",
+      "type": "概念",
+      "evidence": "科学的因果律不但足以解释人生观，而且足以变更人生观",
+      "confidence": 1.0
+    },
+    {
+      "id": "e4",
+      "name": "时代的人生观",
+      "canonical_name": "时代的人生观",
+      "type": "概念",
+      "evidence": "每一“时代的人生观”为当代的科学智识所组成",
+      "confidence": 1.0
+    },
+    {
+      "id": "e5",
+      "name": "科学智识",
+      "canonical_name": "科学智识",
+      "type": "概念",
+      "evidence": "每一“时代的人生观”为当代的科学智识所组成",
+      "confidence": 1.0
+    },
+    {
+      "id": "e6",
+      "name": "个性的人生观",
+      "canonical_name": "个性的人生观",
+      "type": "概念",
+      "evidence": "推广其“个性的人生观”使成时代的人生观",
+      "confidence": 1.0
+    },
+    {
+      "id": "e7",
+      "name": "经济基础",
+      "canonical_name": "经济基础",
+      "type": "概念",
+      "evidence": "新科学智识得之于经济基础里的技术进步及阶级斗争里的社会经验",
+      "confidence": 1.0
+    },
+    {
+      "id": "e8",
+      "name": "阶级斗争",
+      "canonical_name": "阶级斗争",
+      "type": "概念",
+      "evidence": "新科学智识得之于经济基础里的技术进步及阶级斗争里的社会经验",
+      "confidence": 1.0
+    },
+    {
+      "id": "e9",
+      "name": "历史",
+      "canonical_name": "历史",
+      "type": "概念",
+      "evidence": "他是历史发展的一因素，他亦是历史发展的一结果",
+      "confidence": 1.0
+    },
+    {
+      "id": "e10",
+      "name": "必然因果",
+      "canonical_name": "必然因果",
+      "type": "概念",
+      "evidence": "不断发见历史的“必然因果”",
+      "confidence": 1.0
+    },
+    {
+      "id": "e11",
+      "name": "自然律",
+      "canonical_name": "自然律",
+      "type": "概念",
+      "evidence": "能使人类运用“自然律”及“社会律”同登“自由之域”",
+      "confidence": 1.0
+    },
+    {
+      "id": "e12",
+      "name": "社会律",
+      "canonical_name": "社会律",
+      "type": "概念",
+      "evidence": "能使人类运用“自然律”及“社会律”同登“自由之域”",
+      "confidence": 1.0
+    },
+    {
+      "id": "e13",
+      "name": "自由之域",
+      "canonical_name": "自由之域",
+      "type": "概念",
+      "evidence": "同登“自由之域”",
+      "confidence": 1.0
+    },
+    {
+      "id": "e14",
+      "name": "马克思",
+      "canonical_name": "马克思",
+      "type": "人物",
+      "evidence": "（如马克思、列宁）",
+      "confidence": 1.0
+    },
+    {
+      "id": "e15",
+      "name": "列宁",
+      "canonical_name": "列宁",
+      "type": "人物",
+      "evidence": "（如马克思、列宁）",
+      "confidence": 1.0
+    },
+    {
+      "id": "e16",
+      "name": "社会现象的规律性",
+      "canonical_name": "社会现象的规律性",
+      "type": "概念",
+      "evidence": "社会现象的规律性应当先求之于社会的最后原因",
+      "confidence": 1.0
+    },
+    {
+      "id": "e17",
+      "name": "社会现象",
+      "canonical_name": "社会现象",
+      "type": "概念",
+      "evidence": "社会现象确有因果律可寻",
+      "confidence": 1.0
+    },
+    {
+      "id": "e18",
+      "name": "因果律",
+      "canonical_name": "因果律",
+      "type": "概念",
+      "evidence": "社会现象确有因果律可寻",
+      "confidence": 1.0
+    }
+  ],
+  "claims": [
+    {
+      "id": "c1",
+      "speaker": "瞿秋白",
+      "claim": "科学的因果律不但足以解释人生观，而且足以变更人生观",
+      "target": "科学的因果律",
+      "claim_type": "知识论主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "科学的因果律不但足以解释人生观，而且足以变更人生观",
+      "confidence": 1.0
+    },
+    {
+      "id": "c2",
+      "speaker": "瞿秋白",
+      "claim": "每一“时代的人生观”为当代的科学智识所组成",
+      "target": "时代的人生观",
+      "claim_type": "定义性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "每一“时代的人生观”为当代的科学智识所组成",
+      "confidence": 1.0
+    },
+    {
+      "id": "c3",
+      "speaker": "瞿秋白",
+      "claim": "新时代人生观之创始者便得凭借新科学智识，推广其“个性的人生观”使成时代的人生观",
+      "target": "新时代人生观之创始者",
+      "claim_type": "社会理论主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "新时代人生观之创始者便得凭借新科学智识，推广其“个性的人生观”使成时代的人生观",
+      "confidence": 1.0
+    },
+    {
+      "id": "c4",
+      "speaker": "瞿秋白",
+      "claim": "新科学智识得之于经济基础里的技术进步及阶级斗争里的社会经验",
+      "target": "新科学智识",
+      "claim_type": "知识论主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "新科学智识得之于经济基础里的技术进步及阶级斗争里的社会经验",
+      "confidence": 1.0
+    },
+    {
+      "id": "c5",
+      "speaker": "瞿秋白",
+      "claim": "个性的先觉仅仅应此斗争的需要而生，是社会的或阶级的历史工具而已",
+      "target": "个性的先觉",
+      "claim_type": "社会理论主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "个性的先觉仅仅应此斗争的需要而生，是社会的或阶级的历史工具而已（如马克思、列宁）",
+      "confidence": 1.0
+    },
+    {
+      "id": "c6",
+      "speaker": "瞿秋白",
+      "claim": "他是历史发展的一因素，他亦是历史发展的一结果",
+      "target": "个性的先觉",
+      "claim_type": "社会理论主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "他是历史发展的一因素，他亦是历史发展的一结果",
+      "confidence": 1.0
+    },
+    {
+      "id": "c7",
+      "speaker": "瞿秋白",
+      "claim": "各个性的努力足以促进历史的进化，正因为他们在斗争过程里不断发见历史的“必然因果”，所以能使人类运用“自然律”及“社会律”同登“自由之域”",
+      "target": "各个性的努力",
+      "claim_type": "社会理论主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "各个性的努力足以促进历史的进化，正因为他们在斗争过程里不断发见历史的“必然因果”，所以能使人类运用“自然律”及“社会律”同登“自由之域”",
+      "confidence": 1.0
+    },
+    {
+      "id": "c8",
+      "speaker": "瞿秋白",
+      "claim": "社会现象的规律性应当先求之于社会的最后原因；不能以个人动机或群众动机作为社会现象的唯一因素，当再求此因素之因素",
+      "target": "社会现象的规律性",
+      "claim_type": "方法论主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "社会现象的规律性应当先求之于社会的最后原因；不能以个人动机或群众动机作为社会现象的唯一因素，当再求此因素之因素",
+      "confidence": 1.0
+    },
+    {
+      "id": "c9",
+      "speaker": "瞿秋白",
+      "claim": "社会现象确有因果律可寻",
+      "target": "社会现象",
+      "claim_type": "知识论主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "社会现象确有因果律可寻",
+      "confidence": 1.0
+    }
+  ],
+  "relations": [
+    {
+      "id": "r1",
+      "head": "科学的因果律",
+      "head_type": "概念",
+      "relation": "解释",
+      "tail": "人生观",
+      "tail_type": "概念",
+      "polarity": "positive",
+      "evidence": "科学的因果律不但足以解释人生观，而且足以变更人生观",
+      "confidence": 1.0
+    },
+    {
+      "id": "r2",
+      "head": "科学的因果律",
+      "head_type": "概念",
+      "relation": "导致",
+      "tail": "人生观",
+      "tail_type": "概念",
+      "polarity": "positive",
+      "evidence": "科学的因果律不但足以解释人生观，而且足以变更人生观",
+      "confidence": 1.0
+    },
+    {
+      "id": "r3",
+      "head": "时代的人生观",
+      "head_type": "概念",
+      "relation": "包含",
+      "tail": "科学智识",
+      "tail_type": "概念",
+      "polarity": "positive",
+      "evidence": "每一“时代的人生观”为当代的科学智识所组成",
+      "confidence": 1.0
+    },
+    {
+      "id": "r4",
+      "head": "新科学智识",
+      "head_type": "概念",
+      "relation": "源自",
+      "tail": "经济基础",
+      "tail_type": "概念",
+      "polarity": "positive",
+      "evidence": "新科学智识得之于经济基础里的技术进步及阶级斗争里的社会经验",
+      "confidence": 1.0
+    },
+    {
+      "id": "r5",
+      "head": "新科学智识",
+      "head_type": "概念",
+      "relation": "源自",
+      "tail": "阶级斗争",
+      "tail_type": "概念",
+      "polarity": "positive",
+      "evidence": "新科学智识得之于经济基础里的技术进步及阶级斗争里的社会经验",
+      "confidence": 1.0
+    },
+    {
+      "id": "r6",
+      "head": "各个性的努力",
+      "head_type": "概念",
+      "relation": "导致",
+      "tail": "自由之域",
+      "tail_type": "概念",
+      "polarity": "positive",
+      "evidence": "各个性的努力足以促进历史的进化，正因为他们在斗争过程里不断发见历史的“必然因果”，所以能使人类运用“自然律”及“社会律”同登“自由之域”",
+      "confidence": 1.0
+    },
+    {
+      "id": "r7",
+      "head": "社会现象的规律性",
+      "head_type": "概念",
+      "relation": "归因于",
+      "tail": "社会的最后原因",
+      "tail_type": "概念",
+      "polarity": "positive",
+      "evidence": "社会现象的规律性应当先求之于社会的最后原因",
+      "confidence": 1.0
+    },
+    {
+      "id": "r8",
+      "head": "社会现象",
+      "head_type": "概念",
+      "relation": "包含",
+      "tail": "因果律",
+      "tail_type": "概念",
+      "polarity": "positive",
+      "evidence": "社会现象确有因果律可寻",
+      "confidence": 1.0
+    }
+  ],
+  "definitions": [
+    {
+      "id": "def1",
+      "term": "时代的人生观",
+      "definition": "由当代科学智识所组成的人生观",
+      "evidence": "每一“时代的人生观”为当代的科学智识所组成",
+      "confidence": 1.0
+    },
+    {
+      "id": "def2",
+      "term": "个性的先觉",
+      "definition": "应斗争需要而生，是社会的或阶级的历史工具",
+      "evidence": "个性的先觉仅仅应此斗争的需要而生，是社会的或阶级的历史工具而已（如马克思、列宁）",
+      "confidence": 1.0
+    }
+  ],
+  "citations": [],
+  "rhetorical_devices": [
+    {
+      "id": "rh1",
+      "expression": "人不知道电气的公律时只有信电神，知道公律之后便能应用电气",
+      "device_type": "类比",
+      "literal_target": "人不知道社会规律时受其害，知道后能应用规律达到共产社会",
+      "function": "用电气规律的类比论证知道因果律后能获得自由",
+      "evidence": "譬如人不知道电气的公律时只有信电神，知道公律之后便能应用电气；人不知道资本集中律时，只能受他的害，知道之后便能应用此集中律以达无阶级无政府之共产社会",
+      "confidence": 1.0
+    }
+  ],
+  "uncertainties": [
+    {
+      "item": "citations中quoted_claim字段为空，因为原文仅提及马克思、列宁作为例证，未引用具体观点",
+      "reason": "原文仅以括号形式提及马克思、列宁作为例证，未引用其具体言论或著作"
+    }
+  ],
+  "_meta": {
+    "status": "success",
+    "stage": "extract",
+    "model": "deepseek-ai/DeepSeek-V4-Flash",
+    "base_url": "https://api.siliconflow.cn/v1",
+    "prompt_version": "extract_prompt_v2.0",
+    "schema_version": "lite_v2.0",
+    "segment_id": "瞿秋白_000_a4753ce4_s0015",
+    "article_id": "瞿秋白_000_a4753ce4",
+    "char_start": 7461,
+    "char_end": 8052,
+    "raw_path": "E:\\1研究生\\岭南大学\\论文毕业\\capstone\\资料\\新的内容开始了\\local_upload\\kg_runs\\瞿秋白\\raw_outputs\\extract\\瞿秋白_000_a4753ce4_s0015.txt",
+    "parsed_at": "2026-05-20T00:23:02",
+    "started_at": "2026-05-20T00:20:33",
+    "elapsed_seconds": 148.939,
+    "strict_evidence_check": true,
+    "drop_unsupported_evidence": true,
+    "request_timeout_seconds": 180
+  }
+}

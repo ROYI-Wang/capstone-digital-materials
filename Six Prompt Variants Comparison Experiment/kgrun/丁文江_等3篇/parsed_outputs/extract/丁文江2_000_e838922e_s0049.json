@@ -1,0 +1,295 @@
+{
+  "metadata": {
+    "schema_version": "lite_v2.0",
+    "article_id": "丁文江2_000_e838922e",
+    "article_title": "玄学与科学——答张君劢",
+    "source_author": "丁文江",
+    "section_title": "",
+    "section_author": "",
+    "segment_id": "丁文江2_000_e838922e_s0049",
+    "segment_index": 49,
+    "source_file": "E:\\1研究生\\岭南大学\\论文毕业\\capstone\\资料\\新的内容开始了\\local_upload\\input_texts\\丁文江2.txt"
+  },
+  "entities": [
+    {
+      "id": "e1",
+      "name": "马哈",
+      "canonical_name": "马赫",
+      "type": "Person",
+      "evidence": "（参观马哈的《感觉之分析》）",
+      "confidence": 0.9
+    },
+    {
+      "id": "e2",
+      "name": "《感觉之分析》",
+      "canonical_name": "《感觉之分析》",
+      "type": "Book",
+      "evidence": "（参观马哈的《感觉之分析》）",
+      "confidence": 0.9
+    },
+    {
+      "id": "e3",
+      "name": "行为心理学者",
+      "canonical_name": "行为心理学者",
+      "type": "Faction",
+      "evidence": "我不必详细说明行为心理学者同新唯实论者的意见",
+      "confidence": 0.9
+    },
+    {
+      "id": "e4",
+      "name": "新唯实论者",
+      "canonical_name": "新唯实论者",
+      "type": "Faction",
+      "evidence": "我不必详细说明行为心理学者同新唯实论者的意见",
+      "confidence": 0.9
+    },
+    {
+      "id": "e5",
+      "name": "杜威",
+      "canonical_name": "杜威",
+      "type": "Person",
+      "evidence": "因为这两派的大师杜威同罗素都在中国讲演过的",
+      "confidence": 0.9
+    },
+    {
+      "id": "e6",
+      "name": "罗素",
+      "canonical_name": "罗素",
+      "type": "Person",
+      "evidence": "因为这两派的大师杜威同罗素都在中国讲演过的",
+      "confidence": 0.9
+    },
+    {
+      "id": "e7",
+      "name": "行为心理学者",
+      "canonical_name": "行为心理学者",
+      "type": "Faction",
+      "evidence": "行为心理学者的态度是三派中最极端的",
+      "confidence": 0.9
+    },
+    {
+      "id": "e8",
+      "name": "内省",
+      "canonical_name": "内省",
+      "type": "Concept",
+      "evidence": "他们根本不承认内省是求知识的方法",
+      "confidence": 0.9
+    },
+    {
+      "id": "e9",
+      "name": "知识",
+      "canonical_name": "知识",
+      "type": "Concept",
+      "evidence": "知识是完全从观察来的",
+      "confidence": 0.9
+    },
+    {
+      "id": "e10",
+      "name": "观察",
+      "canonical_name": "观察",
+      "type": "Concept",
+      "evidence": "知识是完全从观察来的",
+      "confidence": 0.9
+    },
+    {
+      "id": "e11",
+      "name": "思想",
+      "canonical_name": "思想",
+      "type": "Concept",
+      "evidence": "凡所谓思想的表示，从观察方面讲起来是一种语言的习惯",
+      "confidence": 0.9
+    },
+    {
+      "id": "e12",
+      "name": "语言的习惯",
+      "canonical_name": "语言的习惯",
+      "type": "Concept",
+      "evidence": "凡所谓思想的表示，从观察方面讲起来是一种语言的习惯",
+      "confidence": 0.9
+    },
+    {
+      "id": "e13",
+      "name": "比较心理学",
+      "canonical_name": "比较心理学",
+      "type": "Concept",
+      "evidence": "他们的根据是从比较心理学上来的",
+      "confidence": 0.9
+    }
+  ],
+  "claims": [
+    {
+      "id": "c1",
+      "speaker": "丁文江",
+      "claim": "我们所真知道的不过是感觉、表现同思想",
+      "target": "",
+      "claim_type": "知识论主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "我们所真知道的不过是感觉、表现同思想",
+      "confidence": 0.9
+    },
+    {
+      "id": "c2",
+      "speaker": "丁文江",
+      "claim": "‘我想’是同说‘天响雷’一样",
+      "target": "",
+      "claim_type": "知识论主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "所以我们说，‘我想’是同说‘天响雷’一样",
+      "confidence": 0.9
+    },
+    {
+      "id": "c3",
+      "speaker": "行为心理学者",
+      "claim": "他们根本不承认内省是求知识的方法",
+      "target": "内省",
+      "claim_type": "方法论主张",
+      "claim_status": "间接转述",
+      "polarity": "negative",
+      "evidence": "他们根本不承认内省是求知识的方法",
+      "confidence": 0.9
+    },
+    {
+      "id": "c4",
+      "speaker": "行为心理学者",
+      "claim": "知识是完全从观察来的",
+      "target": "知识",
+      "claim_type": "知识论主张",
+      "claim_status": "间接转述",
+      "polarity": "positive",
+      "evidence": "知识是完全从观察来的",
+      "confidence": 0.9
+    },
+    {
+      "id": "c5",
+      "speaker": "行为心理学者",
+      "claim": "凡所谓思想的表示，从观察方面讲起来是一种语言的习惯",
+      "target": "思想",
+      "claim_type": "知识论主张",
+      "claim_status": "间接转述",
+      "polarity": "positive",
+      "evidence": "凡所谓思想的表示，从观察方面讲起来是一种语言的习惯",
+      "confidence": 0.9
+    },
+    {
+      "id": "c6",
+      "speaker": "行为心理学者",
+      "claim": "要说明他，用不着那种不可观察的假设",
+      "target": "思想",
+      "claim_type": "方法论主张",
+      "claim_status": "间接转述",
+      "polarity": "positive",
+      "evidence": "要说明他，用不着那种不可观察的假设",
+      "confidence": 0.9
+    },
+    {
+      "id": "c7",
+      "speaker": "丁文江",
+      "claim": "行为心理学者的态度是三派中最极端的",
+      "target": "行为心理学者",
+      "claim_type": "价值评价",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "行为心理学者的态度是三派中最极端的",
+      "confidence": 0.9
+    },
+    {
+      "id": "c8",
+      "speaker": "丁文江",
+      "claim": "他们的根据是从比较心理学上来的",
+      "target": "行为心理学者",
+      "claim_type": "历史解释",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "他们的根据是从比较心理学上来的",
+      "confidence": 0.9
+    }
+  ],
+  "relations": [
+    {
+      "id": "r1",
+      "head": "丁文江",
+      "head_type": "Person",
+      "relation": "CITES",
+      "tail": "马哈",
+      "tail_type": "Person",
+      "polarity": "neutral",
+      "evidence": "（参观马哈的《感觉之分析》）",
+      "confidence": 0.9
+    },
+    {
+      "id": "r2",
+      "head": "丁文江",
+      "head_type": "Person",
+      "relation": "CITES",
+      "tail": "《感觉之分析》",
+      "tail_type": "Book",
+      "polarity": "neutral",
+      "evidence": "（参观马哈的《感觉之分析》）",
+      "confidence": 0.9
+    },
+    {
+      "id": "r3",
+      "head": "丁文江",
+      "head_type": "Person",
+      "relation": "CITES",
+      "tail": "杜威",
+      "tail_type": "Person",
+      "polarity": "neutral",
+      "evidence": "因为这两派的大师杜威同罗素都在中国讲演过的",
+      "confidence": 0.9
+    },
+    {
+      "id": "r4",
+      "head": "丁文江",
+      "head_type": "Person",
+      "relation": "CITES",
+      "tail": "罗素",
+      "tail_type": "Person",
+      "polarity": "neutral",
+      "evidence": "因为这两派的大师杜威同罗素都在中国讲演过的",
+      "confidence": 0.9
+    }
+  ],
+  "definitions": [
+    {
+      "id": "def1",
+      "term": "思想",
+      "definition": "思想的表示，从观察方面讲起来是一种语言的习惯",
+      "evidence": "凡所谓思想的表示，从观察方面讲起来是一种语言的习惯",
+      "confidence": 0.9
+    }
+  ],
+  "citations": [],
+  "rhetorical_devices": [],
+  "uncertainties": [
+    {
+      "item": "第一段中“而独立的，有许多是离不开我的；究竟界限在那里？”这句话似乎不完整，可能与前文有关，但当前文本中无法确定其完整含义和归属。",
+      "reason": "句子开头“而独立的”缺少前文，无法判断主语和完整语义。"
+    },
+    {
+      "item": "“三派”具体指哪三派？当前文本只提到了行为心理学者和新唯实论者，第三派未提及。",
+      "reason": "文本中未明确列出三派的具体名称。"
+    }
+  ],
+  "_meta": {
+    "status": "success",
+    "stage": "extract",
+    "model": "deepseek-ai/DeepSeek-V4-Flash",
+    "base_url": "https://api.siliconflow.cn/v1",
+    "prompt_version": "extract_prompt_v2.0",
+    "schema_version": "lite_v2.0",
+    "segment_id": "丁文江2_000_e838922e_s0049",
+    "article_id": "丁文江2_000_e838922e",
+    "char_start": 12234,
+    "char_end": 12499,
+    "raw_path": "E:\\1研究生\\岭南大学\\论文毕业\\capstone\\资料\\新的内容开始了\\local_upload\\kg_runs\\丁文江_等3篇\\raw_outputs\\extract\\丁文江2_000_e838922e_s0049.txt",
+    "parsed_at": "2026-05-19T04:39:59",
+    "started_at": "2026-05-19T04:38:21",
+    "elapsed_seconds": 97.295,
+    "strict_evidence_check": true,
+    "drop_unsupported_evidence": true,
+    "request_timeout_seconds": 180
+  }
+}

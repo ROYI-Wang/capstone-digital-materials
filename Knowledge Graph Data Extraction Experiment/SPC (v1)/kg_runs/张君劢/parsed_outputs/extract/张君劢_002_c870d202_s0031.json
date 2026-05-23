@@ -1,0 +1,350 @@
+{
+  "metadata": {
+    "schema_version": "lite_v2.0",
+    "article_id": "张君劢_002_c870d202",
+    "article_title": "再论人生观与科学并答丁在君",
+    "source_author": "张君劢",
+    "section_title": "",
+    "section_author": "",
+    "segment_id": "张君劢_002_c870d202_s0031",
+    "segment_index": 31,
+    "source_file": "E:\\1研究生\\岭南大学\\论文毕业\\capstone\\资料\\新的内容开始了\\local_upload\\input_w3\\张君劢.txt"
+  },
+  "entities": [
+    {
+      "id": "e1",
+      "name": "机械观",
+      "canonical_name": "机械观",
+      "type": "概念",
+      "evidence": "既无所谓机械观、目的观",
+      "confidence": 0.9
+    },
+    {
+      "id": "e2",
+      "name": "目的观",
+      "canonical_name": "目的观",
+      "type": "概念",
+      "evidence": "既无所谓机械观、目的观",
+      "confidence": 0.9
+    },
+    {
+      "id": "e3",
+      "name": "个人主义",
+      "canonical_name": "个人主义",
+      "type": "主义/学说/理论",
+      "evidence": "亦无所谓个人主义与社会主义",
+      "confidence": 0.9
+    },
+    {
+      "id": "e4",
+      "name": "社会主义",
+      "canonical_name": "社会主义",
+      "type": "主义/学说/理论",
+      "evidence": "亦无所谓个人主义与社会主义",
+      "confidence": 0.9
+    },
+    {
+      "id": "e5",
+      "name": "精神文明",
+      "canonical_name": "精神文明",
+      "type": "概念",
+      "evidence": "于是世人相率以精神文明名之。中国之精神文明当如何改进乎？",
+      "confidence": 0.9
+    },
+    {
+      "id": "e6",
+      "name": "物质文明",
+      "canonical_name": "物质文明",
+      "type": "概念",
+      "evidence": "西方之物质文明是否可效法乎？又一事也。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e7",
+      "name": "西方文明",
+      "canonical_name": "西方文明",
+      "type": "概念",
+      "evidence": "苟今后吾国以西方文明之四大特色为标准",
+      "confidence": 0.9
+    },
+    {
+      "id": "e8",
+      "name": "机械主义",
+      "canonical_name": "机械主义",
+      "type": "主义/学说/理论",
+      "evidence": "故欲以机械主义支配吾国之思想界，此必不可得者矣。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e9",
+      "name": "富国强兵",
+      "canonical_name": "富国强兵",
+      "type": "概念",
+      "evidence": "若夫深信富国强兵之政策者，则国中尚不乏人，而国家前途最大之危险亦即在此。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e10",
+      "name": "国是会议",
+      "canonical_name": "国是会议",
+      "type": "历史事件",
+      "evidence": "去年为沪上国是会议草宪法案",
+      "confidence": 0.9
+    },
+    {
+      "id": "e11",
+      "name": "国宪议",
+      "canonical_name": "国宪议",
+      "type": "著作",
+      "evidence": "继作理由书名国宪议",
+      "confidence": 0.9
+    },
+    {
+      "id": "e12",
+      "name": "欧洲富强政策",
+      "canonical_name": "欧洲富强政策",
+      "type": "概念",
+      "evidence": "其中对于欧洲富强政策之批评一段",
+      "confidence": 0.9
+    },
+    {
+      "id": "e13",
+      "name": "自由主义",
+      "canonical_name": "自由主义",
+      "type": "主义/学说/理论",
+      "evidence": "所谓个人主义，或曰自由主义",
+      "confidence": 0.9
+    },
+    {
+      "id": "e14",
+      "name": "工商立国",
+      "canonical_name": "工商立国",
+      "type": "概念",
+      "evidence": "则为工商立国",
+      "confidence": 0.9
+    },
+    {
+      "id": "e15",
+      "name": "军备扩张",
+      "canonical_name": "军备扩张",
+      "type": "概念",
+      "evidence": "则相率于军备扩张",
+      "confidence": 0.9
+    },
+    {
+      "id": "e16",
+      "name": "欧洲之大战",
+      "canonical_name": "欧洲之大战",
+      "type": "历史事件",
+      "evidence": "而演成欧洲之大战",
+      "confidence": 0.9
+    },
+    {
+      "id": "e17",
+      "name": "德意志",
+      "canonical_name": "德意志",
+      "type": "阵营/群体",
+      "evidence": "若德意志者，遂首先发难",
+      "confidence": 0.9
+    },
+    {
+      "id": "e18",
+      "name": "武装平和",
+      "canonical_name": "武装平和",
+      "type": "概念",
+      "evidence": "此乃武装平和之结果也",
+      "confidence": 0.9
+    }
+  ],
+  "claims": [
+    {
+      "id": "c1",
+      "speaker": "张君劢",
+      "claim": "既无所谓机械观、目的观，亦无所谓个人主义与社会主义。",
+      "target": "",
+      "claim_type": "本体论主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "既无所谓机械观、目的观，亦无所谓个人主义与社会主义。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c2",
+      "speaker": "张君劢",
+      "claim": "中国之精神文明当如何改进乎？一事也。西方之物质文明是否可效法乎？又一事也。",
+      "target": "",
+      "claim_type": "问题提出",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "中国之精神文明当如何改进乎？一事也。西方之物质文明是否可效法乎？又一事也。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c3",
+      "speaker": "张君劢",
+      "claim": "苟今后吾国以西方文明之四大特色为标准，从而步趋之，则其利害当如何？",
+      "target": "西方文明",
+      "claim_type": "问题提出",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "苟今后吾国以西方文明之四大特色为标准，从而步趋之，则其利害当如何？",
+      "confidence": 0.9
+    },
+    {
+      "id": "c4",
+      "speaker": "张君劢",
+      "claim": "今日欧美之迷信科学者，已不如十九世纪初年之甚。",
+      "target": "科学",
+      "claim_type": "历史解释",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "今日欧美之迷信科学者，已不如十九世纪初年之甚。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c5",
+      "speaker": "张君劢",
+      "claim": "欲以机械主义支配吾国之思想界，此必不可得者矣。",
+      "target": "机械主义",
+      "claim_type": "社会理论主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "故欲以机械主义支配吾国之思想界，此必不可得者矣。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c6",
+      "speaker": "张君劢",
+      "claim": "若夫深信富国强兵之政策者，则国中尚不乏人，而国家前途最大之危险亦即在此。",
+      "target": "富国强兵",
+      "claim_type": "文明批评",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "若夫深信富国强兵之政策者，则国中尚不乏人，而国家前途最大之危险亦即在此。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c7",
+      "speaker": "张君劢",
+      "claim": "欧美百年来文化之方针，所谓个人主义，或曰自由主义：凡个人力在自由竞争之下，尽量发挥，于是见于政策者，则为工商立国；凡可以发达富力者则奖励之，以国际贸易吸收他国脂膏，藉国外投资为灭人家国之具。而国与国之间，计势力之均衡，则相率于军备扩张。以工商之富维持军备，更以军备之力推广工商。于是终日计较强弱等差，和战迟速，乃有亟思乘时逞志若德意志者，遂首先发难，而演成欧洲之大战。",
+      "target": "欧美",
+      "claim_type": "历史解释",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "欧美百年来文化之方针，所谓个人主义，或曰自由主义：凡个人力在自由竞争之下，尽量发挥，于是见于政策者，则为工商立国；凡可以发达富力者则奖励之，以国际贸易吸收他国脂膏，藉国外投资为灭人家国之具。而国与国之间，计势力之均衡，则相率于军备扩张。以工商之富维持军备，更以军备之力推广工商。于是终日计较强弱等差，和战迟速，乃有亟思乘时逞志若德意志者，遂首先发难，而演成欧洲之大战。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c8",
+      "speaker": "张君劢",
+      "claim": "今胜败虽分，荣辱各异，然其为人类之惨剧一而已。",
+      "target": "欧洲之大战",
+      "claim_type": "价值评价",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "今胜败虽分，荣辱各异，然其为人类之惨剧一而已。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c9",
+      "speaker": "张君劢",
+      "claim": "于是追念往事者，悟昔日之非，谓此乃工商立国之结果也，此乃武装平和之结果也，一言以蔽之，则富国强兵之结果也。",
+      "target": "欧洲之大战",
+      "claim_type": "历史解释",
+      "claim_status": "间接转述",
+      "polarity": "negative",
+      "evidence": "于是追念往事者，悟昔日之非，谓此乃工商立国之结果也，此乃武装平和之结果也，一言以蔽之，则富国强兵之结果也。",
+      "confidence": 0.9
+    }
+  ],
+  "relations": [
+    {
+      "id": "r1",
+      "head": "机械主义",
+      "head_type": "主义/学说/理论",
+      "relation": "反对",
+      "tail": "思想界",
+      "tail_type": "概念",
+      "polarity": "negative",
+      "evidence": "故欲以机械主义支配吾国之思想界，此必不可得者矣。",
+      "confidence": 0.9
+    },
+    {
+      "id": "r2",
+      "head": "富国强兵",
+      "head_type": "概念",
+      "relation": "批评",
+      "tail": "国家前途",
+      "tail_type": "概念",
+      "polarity": "negative",
+      "evidence": "若夫深信富国强兵之政策者，则国中尚不乏人，而国家前途最大之危险亦即在此。",
+      "confidence": 0.9
+    },
+    {
+      "id": "r3",
+      "head": "个人主义",
+      "head_type": "主义/学说/理论",
+      "relation": "导致",
+      "tail": "工商立国",
+      "tail_type": "概念",
+      "polarity": "negative",
+      "evidence": "所谓个人主义，或曰自由主义：凡个人力在自由竞争之下，尽量发挥，于是见于政策者，则为工商立国",
+      "confidence": 0.9
+    }
+  ],
+  "definitions": [
+    {
+      "id": "def1",
+      "term": "物质文明",
+      "definition": "西方文明之四大特色，包括个人主义、自由主义、工商立国、军备扩张等。",
+      "evidence": "物质文明之内容定矣",
+      "confidence": 0.8
+    }
+  ],
+  "citations": [],
+  "rhetorical_devices": [
+    {
+      "id": "rh1",
+      "expression": "以国际贸易吸收他国脂膏，藉国外投资为灭人家国之具",
+      "device_type": "比喻",
+      "literal_target": "国际贸易和国外投资的掠夺性",
+      "function": "批评西方经济扩张的侵略本质",
+      "evidence": "以国际贸易吸收他国脂膏，藉国外投资为灭人家国之具",
+      "confidence": 0.9
+    },
+    {
+      "id": "rh2",
+      "expression": "人类之惨剧",
+      "device_type": "比喻",
+      "literal_target": "欧洲大战的灾难性",
+      "function": "强调战争的悲惨后果",
+      "evidence": "然其为人类之惨剧一而已",
+      "confidence": 0.9
+    }
+  ],
+  "uncertainties": [
+    {
+      "item": "西方文明之四大特色",
+      "reason": "文本提到'西方文明之四大特色'，但未具体列出是哪四大特色，无法确定具体内容。"
+    }
+  ],
+  "_meta": {
+    "status": "success",
+    "stage": "extract",
+    "model": "deepseek-ai/DeepSeek-V4-Flash",
+    "base_url": "https://api.siliconflow.cn/v1",
+    "prompt_version": "extract_prompt_v2.0",
+    "schema_version": "lite_v2.0",
+    "segment_id": "张君劢_002_c870d202_s0031",
+    "article_id": "张君劢_002_c870d202",
+    "char_start": 15552,
+    "char_end": 16151,
+    "raw_path": "E:\\1研究生\\岭南大学\\论文毕业\\capstone\\资料\\新的内容开始了\\local_upload\\kg_runs\\张君劢\\raw_outputs\\extract\\张君劢_002_c870d202_s0031.txt",
+    "parsed_at": "2026-05-20T04:10:20",
+    "started_at": "2026-05-20T04:08:27",
+    "elapsed_seconds": 112.923,
+    "strict_evidence_check": true,
+    "drop_unsupported_evidence": true,
+    "request_timeout_seconds": 180
+  }
+}

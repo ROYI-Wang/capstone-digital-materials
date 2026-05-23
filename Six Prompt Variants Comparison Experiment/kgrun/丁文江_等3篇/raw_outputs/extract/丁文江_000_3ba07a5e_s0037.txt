@@ -1,0 +1,389 @@
+{
+  "metadata": {
+    "schema_version": "lite_v2.0",
+    "article_id": "丁文江_000_3ba07a5e",
+    "article_title": "玄学与科学 ——评张君劢的《人生观》",
+    "source_author": "丁文江",
+    "section_title": "",
+    "section_author": "",
+    "segment_id": "丁文江_000_3ba07a5e_s0037",
+    "segment_index": 37,
+    "source_file": "E:\\1研究生\\岭南大学\\论文毕业\\capstone\\资料\\新的内容开始了\\local_upload\\input_texts\\丁文江.txt"
+  },
+  "entities": [
+    {
+      "id": "e1",
+      "name": "柏格森",
+      "canonical_name": "柏格森",
+      "type": "人物",
+      "evidence": "法国的柏格森拿直觉来抵制知识。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e2",
+      "name": "白赖安",
+      "canonical_name": "白赖安",
+      "type": "人物",
+      "evidence": "做过美国国务卿，候补太总统的白赖安，至今还要提倡禁止传布达尔文的学说。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e3",
+      "name": "纪载士",
+      "canonical_name": "纪载士",
+      "type": "人物",
+      "evidence": "改造部总长纪载士做名誉主席的时候，居然说科学知识不适用于政治。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e4",
+      "name": "张之洞",
+      "canonical_name": "张之洞",
+      "type": "人物",
+      "evidence": "他们这班人的心理，很像我们的张之洞，要以玄学为体，科学为用。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e5",
+      "name": "达尔文",
+      "canonical_name": "达尔文",
+      "type": "人物",
+      "evidence": "白赖安，至今还要提倡禁止传布达尔文的学说。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e6",
+      "name": "塞尔登",
+      "canonical_name": "塞尔登",
+      "type": "人物",
+      "evidence": "一千九百二十一年伦敦举行优生学家塞尔登的纪念讲演",
+      "confidence": 1.0
+    },
+    {
+      "id": "e7",
+      "name": "反对科学的人",
+      "canonical_name": "反对科学的人",
+      "type": "阵营/群体",
+      "evidence": "都是间接直接反对科学的人。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e8",
+      "name": "握政治教育大权的人",
+      "canonical_name": "握政治教育大权的人",
+      "type": "阵营/群体",
+      "evidence": "对于握政治教育大权的人，却很有伟大的势力。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e9",
+      "name": "玄学",
+      "canonical_name": "玄学",
+      "type": "概念",
+      "evidence": "要以玄学为体，科学为用。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e10",
+      "name": "科学",
+      "canonical_name": "科学",
+      "type": "概念",
+      "evidence": "要以玄学为体，科学为用。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e11",
+      "name": "直觉",
+      "canonical_name": "直觉",
+      "type": "概念",
+      "evidence": "法国的柏格森拿直觉来抵制知识。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e12",
+      "name": "知识",
+      "canonical_name": "知识",
+      "type": "概念",
+      "evidence": "法国的柏格森拿直觉来抵制知识。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e13",
+      "name": "科学知识",
+      "canonical_name": "科学知识",
+      "type": "概念",
+      "evidence": "居然说科学知识不适用于政治。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e14",
+      "name": "科学精神",
+      "canonical_name": "科学精神",
+      "type": "概念",
+      "evidence": "他们的政治社会却绝对的缺乏科学精神。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e15",
+      "name": "达尔文的学说",
+      "canonical_name": "达尔文的学说",
+      "type": "主义/学说/理论",
+      "evidence": "白赖安，至今还要提倡禁止传布达尔文的学说。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e16",
+      "name": "优生学",
+      "canonical_name": "优生学",
+      "type": "主义/学说/理论",
+      "evidence": "一千九百二十一年伦敦举行优生学家塞尔登的纪念讲演",
+      "confidence": 1.0
+    },
+    {
+      "id": "e17",
+      "name": "欧美的工业",
+      "canonical_name": "欧美的工业",
+      "type": "概念",
+      "evidence": "欧美的工业虽然是利用科学的发明",
+      "confidence": 1.0
+    },
+    {
+      "id": "e18",
+      "name": "政治社会",
+      "canonical_name": "政治社会",
+      "type": "概念",
+      "evidence": "他们的政治社会却绝对的缺乏科学精神。",
+      "confidence": 1.0
+    }
+  ],
+  "claims": [
+    {
+      "id": "c1",
+      "speaker": "丁文江",
+      "claim": "法国的柏格森拿直觉来抵制知识。",
+      "target": "柏格森",
+      "claim_type": "知识论主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "法国的柏格森拿直觉来抵制知识。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c2",
+      "speaker": "丁文江",
+      "claim": "柏格森是间接直接反对科学的人。",
+      "target": "柏格森",
+      "claim_type": "价值评价",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "都是间接直接反对科学的人。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c3",
+      "speaker": "丁文江",
+      "claim": "反对科学的人对于握政治教育大权的人很有伟大的势力。",
+      "target": "反对科学的人",
+      "claim_type": "社会理论主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "对于握政治教育大权的人，却很有伟大的势力。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c4",
+      "speaker": "丁文江",
+      "claim": "科学的影响始终没有直接侵入政治。",
+      "target": "科学",
+      "claim_type": "社会理论主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "就知道科学的影响，始终没有直接侵入政治了。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c5",
+      "speaker": "丁文江",
+      "claim": "白赖安至今还要提倡禁止传布达尔文的学说。",
+      "target": "白赖安",
+      "claim_type": "历史解释",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "做过美国国务卿，候补太总统的白赖安，至今还要提倡禁止传布达尔文的学说。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c6",
+      "speaker": "纪载士",
+      "claim": "科学知识不适用于政治。",
+      "target": "科学知识",
+      "claim_type": "知识论主张",
+      "claim_status": "间接转述",
+      "polarity": "negative",
+      "evidence": "改造部总长纪载士做名誉主席的时候，居然说科学知识不适用于政治。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c7",
+      "speaker": "丁文江",
+      "claim": "纪载士等人的心理很像张之洞，要以玄学为体，科学为用。",
+      "target": "纪载士",
+      "claim_type": "价值评价",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "他们这班人的心理，很像我们的张之洞，要以玄学为体，科学为用。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c8",
+      "speaker": "丁文江",
+      "claim": "他们不敢扫除科学，因为工业要利用他，但是天天在那里防范科学，不要侵入他们的饭碗界里来。",
+      "target": "反对科学的人",
+      "claim_type": "社会理论主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "他们不敢扫除科学，因为工业要利用他，但是天天在那里防范科学，不要侵入他们的饭碗界里来。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c9",
+      "speaker": "丁文江",
+      "claim": "欧美的工业虽然是利用科学的发明，他们的政治社会却绝对的缺乏科学精神。",
+      "target": "欧美的政治社会",
+      "claim_type": "社会理论主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "欧美的工业虽然是利用科学的发明，他们的政治社会却绝对的缺乏科学精神。",
+      "confidence": 1.0
+    }
+  ],
+  "relations": [
+    {
+      "id": "r1",
+      "head": "柏格森",
+      "head_type": "人物",
+      "relation": "属于",
+      "relation_subtype": "不适用",
+      "tail": "反对科学的人",
+      "tail_type": "阵营/群体",
+      "polarity": "negative",
+      "evidence": "都是间接直接反对科学的人。",
+      "confidence": 0.9
+    },
+    {
+      "id": "r2",
+      "head": "反对科学的人",
+      "head_type": "阵营/群体",
+      "relation": "影响",
+      "relation_subtype": "不适用",
+      "tail": "握政治教育大权的人",
+      "tail_type": "阵营/群体",
+      "polarity": "negative",
+      "evidence": "对于握政治教育大权的人，却很有伟大的势力。",
+      "confidence": 1.0
+    },
+    {
+      "id": "r3",
+      "head": "科学",
+      "head_type": "概念",
+      "relation": "导致",
+      "relation_subtype": "不适用",
+      "tail": "政治",
+      "tail_type": "概念",
+      "polarity": "negative",
+      "evidence": "科学的影响，始终没有直接侵入政治了。",
+      "confidence": 0.8
+    },
+    {
+      "id": "r4",
+      "head": "白赖安",
+      "head_type": "人物",
+      "relation": "反对",
+      "relation_subtype": "不适用",
+      "tail": "达尔文的学说",
+      "tail_type": "主义/学说/理论",
+      "polarity": "negative",
+      "evidence": "白赖安，至今还要提倡禁止传布达尔文的学说。",
+      "confidence": 1.0
+    },
+    {
+      "id": "r5",
+      "head": "纪载士",
+      "head_type": "人物",
+      "relation": "主张",
+      "relation_subtype": "不适用",
+      "tail": "科学知识不适用于政治",
+      "tail_type": "观点",
+      "polarity": "negative",
+      "evidence": "居然说科学知识不适用于政治。",
+      "confidence": 1.0
+    },
+    {
+      "id": "r6",
+      "head": "纪载士",
+      "head_type": "人物",
+      "relation": "类比",
+      "relation_subtype": "不适用",
+      "tail": "张之洞",
+      "tail_type": "人物",
+      "polarity": "negative",
+      "evidence": "他们这班人的心理，很像我们的张之洞，要以玄学为体，科学为用。",
+      "confidence": 1.0
+    },
+    {
+      "id": "r7",
+      "head": "工业",
+      "head_type": "概念",
+      "relation": "导致",
+      "relation_subtype": "不适用",
+      "tail": "不敢扫除科学",
+      "tail_type": "观点",
+      "polarity": "neutral",
+      "evidence": "他们不敢扫除科学，因为工业要利用他",
+      "confidence": 1.0
+    },
+    {
+      "id": "r8",
+      "head": "欧美的工业",
+      "head_type": "概念",
+      "relation": "利用",
+      "relation_subtype": "不适用",
+      "tail": "科学的发明",
+      "tail_type": "概念",
+      "polarity": "positive",
+      "evidence": "欧美的工业虽然是利用科学的发明",
+      "confidence": 1.0
+    },
+    {
+      "id": "r9",
+      "head": "欧美的政治社会",
+      "head_type": "概念",
+      "relation": "缺乏",
+      "relation_subtype": "不适用",
+      "tail": "科学精神",
+      "tail_type": "概念",
+      "polarity": "negative",
+      "evidence": "他们的政治社会却绝对的缺乏科学精神。",
+      "confidence": 1.0
+    }
+  ],
+  "definitions": [],
+  "citations": [],
+  "rhetorical_devices": [
+    {
+      "id": "rh1",
+      "expression": "饭碗界",
+      "device_type": "比喻",
+      "literal_target": "个人利益或职业领域",
+      "function": "用日常比喻讽刺反对科学的人出于私利而防范科学，增强批评的生动性",
+      "evidence": "不要侵入他们的饭碗界里来。",
+      "confidence": 1.0
+    }
+  ],
+  "uncertainties": [
+    {
+      "item": "嫡派，变成功忠君卫道的守旧党。",
+      "reason": "该句开头未提供完整上下文，无法确定“嫡派”指代的具体对象，且“忠君卫道”的批评对象不明确。"
+    }
+  ]
+}

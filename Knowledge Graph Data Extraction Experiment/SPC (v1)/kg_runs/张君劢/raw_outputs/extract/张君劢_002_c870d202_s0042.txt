@@ -1,0 +1,578 @@
+{
+  "metadata": {
+    "schema_version": "lite_v2.0",
+    "article_id": "张君劢_002_c870d202",
+    "article_title": "再论人生观与科学并答丁在君",
+    "source_author": "张君劢",
+    "section_title": "",
+    "section_author": "",
+    "segment_id": "张君劢_002_c870d202_s0042",
+    "segment_index": 42,
+    "source_file": "E:\\1研究生\\岭南大学\\论文毕业\\capstone\\资料\\新的内容开始了\\local_upload\\input_w3\\张君劢.txt"
+  },
+  "entities": [
+    {
+      "id": "e1",
+      "name": "张君劢",
+      "canonical_name": "张君劢",
+      "type": "人物",
+      "evidence": "吾之所以欲提倡宋学者，其微意在此。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e2",
+      "name": "丁在君",
+      "canonical_name": "丁在君",
+      "type": "人物",
+      "evidence": "在君亦有说曰",
+      "confidence": 1.0
+    },
+    {
+      "id": "e3",
+      "name": "管子",
+      "canonical_name": "管子",
+      "type": "人物",
+      "evidence": "故引管子“衣食足而后知礼节，仓廪实而后知荣辱”之言为证。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e4",
+      "name": "管仲",
+      "canonical_name": "管仲",
+      "type": "人物",
+      "evidence": "故管仲所言，乃就多数人言之也。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e5",
+      "name": "任公",
+      "canonical_name": "任公",
+      "type": "人物",
+      "evidence": "任公、百里、振飞激于国内思潮之变",
+      "confidence": 1.0
+    },
+    {
+      "id": "e6",
+      "name": "百里",
+      "canonical_name": "百里",
+      "type": "人物",
+      "evidence": "任公、百里、振飞激于国内思潮之变",
+      "confidence": 1.0
+    },
+    {
+      "id": "e7",
+      "name": "振飞",
+      "canonical_name": "振飞",
+      "type": "人物",
+      "evidence": "任公、百里、振飞激于国内思潮之变",
+      "confidence": 1.0
+    },
+    {
+      "id": "e8",
+      "name": "柏格森",
+      "canonical_name": "柏格森",
+      "type": "人物",
+      "evidence": "乃访柏格森",
+      "confidence": 1.0
+    },
+    {
+      "id": "e9",
+      "name": "倭伊铿",
+      "canonical_name": "倭伊铿",
+      "type": "人物",
+      "evidence": "及访倭伊铿，一见倾心",
+      "confidence": 1.0
+    },
+    {
+      "id": "e10",
+      "name": "美国煤油大王",
+      "canonical_name": "美国煤油大王",
+      "type": "人物",
+      "evidence": "试以美国煤油大王之资财，畀之今之军阀与政府，则财政能整理乎？",
+      "confidence": 0.9
+    },
+    {
+      "id": "e11",
+      "name": "今之军阀与政府",
+      "canonical_name": "今之军阀与政府",
+      "type": "阵营/群体",
+      "evidence": "试以美国煤油大王之资财，畀之今之军阀与政府，则财政能整理乎？",
+      "confidence": 1.0
+    },
+    {
+      "id": "e12",
+      "name": "今之当局者",
+      "canonical_name": "今之当局者",
+      "type": "阵营/群体",
+      "evidence": "今之当局者，不知礼节，不知荣辱故也。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e13",
+      "name": "多数人",
+      "canonical_name": "多数人",
+      "type": "阵营/群体",
+      "evidence": "故管仲所言，乃就多数人言之也。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e14",
+      "name": "宋学",
+      "canonical_name": "宋学",
+      "type": "概念",
+      "evidence": "吾之所以欲提倡宋学者，其微意在此。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e15",
+      "name": "衣食足而后知礼节",
+      "canonical_name": "衣食足而后知礼节",
+      "type": "观点",
+      "evidence": "故引管子“衣食足而后知礼节，仓廪实而后知荣辱”之言为证。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e16",
+      "name": "仓廪实而后知荣辱",
+      "canonical_name": "仓廪实而后知荣辱",
+      "type": "观点",
+      "evidence": "故引管子“衣食足而后知礼节，仓廪实而后知荣辱”之言为证。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e17",
+      "name": "知礼节而后衣食足",
+      "canonical_name": "知礼节而后衣食足",
+      "type": "观点",
+      "evidence": "知礼节而后衣食足，知荣辱而后仓廪实。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e18",
+      "name": "知荣辱而后仓廪实",
+      "canonical_name": "知荣辱而后仓廪实",
+      "type": "观点",
+      "evidence": "知礼节而后衣食足，知荣辱而后仓廪实。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e19",
+      "name": "用之则行，舍之则藏",
+      "canonical_name": "用之则行，舍之则藏",
+      "type": "方法论原则",
+      "evidence": "吾之治学与我之奔走政治同，有一贯之原则，曰：用之则行，舍之则藏而已。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e20",
+      "name": "巴黎",
+      "canonical_name": "巴黎",
+      "type": "概念",
+      "evidence": "君当记一九一九年寓巴黎之日",
+      "confidence": 1.0
+    },
+    {
+      "id": "e21",
+      "name": "一九一九年",
+      "canonical_name": "1919年",
+      "type": "概念",
+      "evidence": "君当记一九一九年寓巴黎之日",
+      "confidence": 1.0
+    },
+    {
+      "id": "e22",
+      "name": "国内思潮之变",
+      "canonical_name": "国内思潮之变",
+      "type": "事件",
+      "evidence": "任公、百里、振飞激于国内思潮之变",
+      "confidence": 0.9
+    },
+    {
+      "id": "e23",
+      "name": "文艺复兴史",
+      "canonical_name": "文艺复兴史",
+      "type": "概念",
+      "evidence": "乃研究文艺复兴史",
+      "confidence": 1.0
+    },
+    {
+      "id": "e24",
+      "name": "国际政治学",
+      "canonical_name": "国际政治学",
+      "type": "概念",
+      "evidence": "于是将吾国际政治学书束之高阁。",
+      "confidence": 1.0
+    }
+  ],
+  "claims": [
+    {
+      "id": "c1",
+      "speaker": "丁在君",
+      "claim": "生计充裕，则人谁不乐于为善？",
+      "target": "",
+      "claim_type": "社会理论主张",
+      "claim_status": "间接转述",
+      "polarity": "neutral",
+      "evidence": "在君亦有说曰，生计充裕，则人谁不乐于为善？",
+      "confidence": 1.0
+    },
+    {
+      "id": "c2",
+      "speaker": "丁在君",
+      "claim": "衣食足而后知礼节，仓廪实而后知荣辱",
+      "target": "",
+      "claim_type": "社会理论主张",
+      "claim_status": "间接转述",
+      "polarity": "neutral",
+      "evidence": "故引管子“衣食足而后知礼节，仓廪实而后知荣辱”之言为证。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c3",
+      "speaker": "张君劢",
+      "claim": "试以美国煤油大王之资财，畀之今之军阀与政府，则财政能整理乎？尽人而知其不能矣。",
+      "target": "丁在君",
+      "claim_type": "反驳性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "试以美国煤油大王之资财，畀之今之军阀与政府，则财政能整理乎？尽人而知其不能矣。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c4",
+      "speaker": "张君劢",
+      "claim": "今之当局者，不知礼节，不知荣辱故也。",
+      "target": "今之当局者",
+      "claim_type": "价值评价",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "今之当局者，不知礼节，不知荣辱故也。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c5",
+      "speaker": "张君劢",
+      "claim": "又试倾英伦、法兰西、日本三国家银行之资财以畀之今之军阀与政府，政治其清明乎？亦尽人而知其不能矣。",
+      "target": "丁在君",
+      "claim_type": "反驳性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "又试倾英伦、法兰西、日本三国家银行之资财以畀之今之军阀与政府，政治其清明乎？亦尽人而知其不能矣。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c6",
+      "speaker": "张君劢",
+      "claim": "管仲所言，乃就多数人言之也。",
+      "target": "管仲",
+      "claim_type": "历史解释",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "故管仲所言，乃就多数人言之也。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c7",
+      "speaker": "张君劢",
+      "claim": "若夫国事鼎沸纲纪凌夷之日，则治乱之真理，应将管子之言而颠倒之，曰：知礼节而后衣食足，知荣辱而后仓廪实。",
+      "target": "管子",
+      "claim_type": "社会理论主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "若夫国事鼎沸纲纪凌夷之日，则治乱之真理，应将管子之言而颠倒之，曰：知礼节而后衣食足，知荣辱而后仓廪实。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c8",
+      "speaker": "张君劢",
+      "claim": "吾之所以欲提倡宋学者，其微意在此。",
+      "target": "宋学",
+      "claim_type": "教育主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "吾之所以欲提倡宋学者，其微意在此。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c9",
+      "speaker": "张君劢",
+      "claim": "吾之治学与我之奔走政治同，有一贯之原则，曰：用之则行，舍之则藏而已。",
+      "target": "",
+      "claim_type": "方法论主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "吾之治学与我之奔走政治同，有一贯之原则，曰：用之则行，舍之则藏而已。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c10",
+      "speaker": "张君劢",
+      "claim": "吾之所不愿知所不愿为者，不以时俗之好而为之；吾之所愿知所愿为者，不以时俗之不好而不为。",
+      "target": "",
+      "claim_type": "方法论主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "吾之所不愿知所不愿为者，不以时俗之好而为之；吾之所愿知所愿为者，不以时俗之不好而不为。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c11",
+      "speaker": "张君劢",
+      "claim": "若其视时俗之好恶，以为可速以成名，不独学问不成，即名亦不得而盗，政治然，学问然。",
+      "target": "",
+      "claim_type": "方法论主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "若其视时俗之好恶，以为可速以成名，不独学问不成，即名亦不得而盗，政治然，学问然。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c12",
+      "speaker": "张君劢",
+      "claim": "吾内心无此冲动也。",
+      "target": "柏格森",
+      "claim_type": "价值评价",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "而吾处之漠然。何也？吾内心无此冲动也。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c13",
+      "speaker": "张君劢",
+      "claim": "及访倭伊铿，一见倾心，于是将吾国际政治学书束之高阁。",
+      "target": "倭伊铿",
+      "claim_type": "价值评价",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "及访倭伊铿，一见倾心，于是将吾国际政治学书束之高阁。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c14",
+      "speaker": "张君劢",
+      "claim": "胸中有所触，不发舒不快矣。",
+      "target": "",
+      "claim_type": "方法论主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "胸中有所触，不发舒不快矣。",
+      "confidence": 1.0
+    }
+  ],
+  "relations": [
+    {
+      "id": "r1",
+      "head": "丁在君",
+      "head_type": "人物",
+      "relation": "引用",
+      "relation_subtype": "援引权威支持",
+      "tail": "管子",
+      "tail_type": "人物",
+      "polarity": "positive",
+      "evidence": "故引管子“衣食足而后知礼节，仓廪实而后知荣辱”之言为证。",
+      "confidence": 1.0
+    },
+    {
+      "id": "r2",
+      "head": "张君劢",
+      "head_type": "人物",
+      "relation": "反驳",
+      "relation_subtype": "事实质疑",
+      "tail": "丁在君",
+      "tail_type": "人物",
+      "polarity": "negative",
+      "evidence": "试以美国煤油大王之资财，畀之今之军阀与政府，则财政能整理乎？尽人而知其不能矣。",
+      "confidence": 1.0
+    },
+    {
+      "id": "r3",
+      "head": "张君劢",
+      "head_type": "人物",
+      "relation": "反驳",
+      "relation_subtype": "事实质疑",
+      "tail": "丁在君",
+      "tail_type": "人物",
+      "polarity": "negative",
+      "evidence": "又试倾英伦、法兰西、日本三国家银行之资财以畀之今之军阀与政府，政治其清明乎？亦尽人而知其不能矣。",
+      "confidence": 1.0
+    },
+    {
+      "id": "r4",
+      "head": "张君劢",
+      "head_type": "人物",
+      "relation": "反驳",
+      "relation_subtype": "概念澄清",
+      "tail": "管子",
+      "tail_type": "人物",
+      "polarity": "neutral",
+      "evidence": "故管仲所言，乃就多数人言之也。",
+      "confidence": 1.0
+    },
+    {
+      "id": "r5",
+      "head": "张君劢",
+      "head_type": "人物",
+      "relation": "主张",
+      "relation_subtype": "不适用",
+      "tail": "知礼节而后衣食足",
+      "tail_type": "观点",
+      "polarity": "positive",
+      "evidence": "若夫国事鼎沸纲纪凌夷之日，则治乱之真理，应将管子之言而颠倒之，曰：知礼节而后衣食足，知荣辱而后仓廪实。",
+      "confidence": 1.0
+    },
+    {
+      "id": "r6",
+      "head": "张君劢",
+      "head_type": "人物",
+      "relation": "主张",
+      "relation_subtype": "不适用",
+      "tail": "知荣辱而后仓廪实",
+      "tail_type": "观点",
+      "polarity": "positive",
+      "evidence": "若夫国事鼎沸纲纪凌夷之日，则治乱之真理，应将管子之言而颠倒之，曰：知礼节而后衣食足，知荣辱而后仓廪实。",
+      "confidence": 1.0
+    },
+    {
+      "id": "r7",
+      "head": "张君劢",
+      "head_type": "人物",
+      "relation": "主张",
+      "relation_subtype": "不适用",
+      "tail": "宋学",
+      "tail_type": "概念",
+      "polarity": "positive",
+      "evidence": "吾之所以欲提倡宋学者，其微意在此。",
+      "confidence": 1.0
+    },
+    {
+      "id": "r8",
+      "head": "张君劢",
+      "head_type": "人物",
+      "relation": "回应",
+      "relation_subtype": "部分肯定",
+      "tail": "丁在君",
+      "tail_type": "人物",
+      "polarity": "mixed",
+      "evidence": "在君有关于私人批评一段，此良友之忠告也，敢不拜赐。",
+      "confidence": 1.0
+    },
+    {
+      "id": "r9",
+      "head": "张君劢",
+      "head_type": "人物",
+      "relation": "主张",
+      "relation_subtype": "不适用",
+      "tail": "用之则行，舍之则藏",
+      "tail_type": "方法论原则",
+      "polarity": "positive",
+      "evidence": "吾之治学与我之奔走政治同，有一贯之原则，曰：用之则行，舍之则藏而已。",
+      "confidence": 1.0
+    },
+    {
+      "id": "r10",
+      "head": "张君劢",
+      "head_type": "人物",
+      "relation": "批评",
+      "relation_subtype": "一般批评",
+      "tail": "时俗",
+      "tail_type": "概念",
+      "polarity": "negative",
+      "evidence": "若其视时俗之好恶，以为可速以成名，不独学问不成，即名亦不得而盗，政治然，学问然。",
+      "confidence": 1.0
+    },
+    {
+      "id": "r11",
+      "head": "张君劢",
+      "head_type": "人物",
+      "relation": "批评",
+      "relation_subtype": "一般批评",
+      "tail": "柏格森",
+      "tail_type": "人物",
+      "polarity": "negative",
+      "evidence": "而吾处之漠然。何也？吾内心无此冲动也。",
+      "confidence": 1.0
+    },
+    {
+      "id": "r12",
+      "head": "张君劢",
+      "head_type": "人物",
+      "relation": "支持",
+      "relation_subtype": "不适用",
+      "tail": "倭伊铿",
+      "tail_type": "人物",
+      "polarity": "positive",
+      "evidence": "及访倭伊铿，一见倾心，于是将吾国际政治学书束之高阁。",
+      "confidence": 1.0
+    }
+  ],
+  "definitions": [
+    {
+      "id": "def1",
+      "term": "用之则行，舍之则藏",
+      "definition": "张君劢治学与从政的一贯原则：被任用就推行，不被任用就隐藏。",
+      "evidence": "吾之治学与我之奔走政治同，有一贯之原则，曰：用之则行，舍之则藏而已。",
+      "confidence": 1.0
+    }
+  ],
+  "citations": [
+    {
+      "id": "cit1",
+      "citer": "丁在君",
+      "quoted_author": "管子",
+      "quoted_work": "",
+      "quoted_claim": "衣食足而后知礼节，仓廪实而后知荣辱",
+      "function": "援引权威支持",
+      "evidence": "故引管子“衣食足而后知礼节，仓廪实而后知荣辱”之言为证。",
+      "confidence": 1.0
+    }
+  ],
+  "rhetorical_devices": [
+    {
+      "id": "rh1",
+      "expression": "试以美国煤油大王之资财，畀之今之军阀与政府，则财政能整理乎？尽人而知其不能矣。",
+      "device_type": "归谬",
+      "literal_target": "丁在君关于生计充裕则人乐于为善的观点",
+      "function": "通过假设极端情况（将巨额财富交给军阀政府）推出荒谬结果，反驳丁在君的观点",
+      "evidence": "试以美国煤油大王之资财，畀之今之军阀与政府，则财政能整理乎？尽人而知其不能矣。",
+      "confidence": 1.0
+    },
+    {
+      "id": "rh2",
+      "expression": "又试倾英伦、法兰西、日本三国家银行之资财以畀之今之军阀与政府，政治其清明乎？亦尽人而知其不能矣。",
+      "device_type": "归谬",
+      "literal_target": "丁在君关于生计充裕则政治清明的观点",
+      "function": "通过假设更极端的国际财富交给军阀政府，推出荒谬结果，进一步反驳丁在君",
+      "evidence": "又试倾英伦、法兰西、日本三国家银行之资财以畀之今之军阀与政府，政治其清明乎？亦尽人而知其不能矣。",
+      "confidence": 1.0
+    },
+    {
+      "id": "rh3",
+      "expression": "一见倾心",
+      "device_type": "比喻",
+      "literal_target": "张君劢对倭伊铿思想的强烈认同",
+      "function": "用恋爱比喻表达对倭伊铿思想的深度共鸣，强调思想契合的直觉性",
+      "evidence": "及访倭伊铿，一见倾心",
+      "confidence": 1.0
+    },
+    {
+      "id": "rh4",
+      "expression": "胸中有所触，不发舒不快矣",
+      "device_type": "比喻",
+      "literal_target": "张君劢内心有思想冲动必须表达",
+      "function": "用生理上的不适比喻思想表达的迫切性，强调治学应遵循内心冲动",
+      "evidence": "胸中有所触，不发舒不快矣。",
+      "confidence": 1.0
+    }
+  ],
+  "uncertainties": [
+    {
+      "item": "美国煤油大王是否特指某位具体人物（如洛克菲勒）",
+      "reason": "文本中仅出现'美国煤油大王'，未给出具体姓名，无法确定是否指代特定人物。"
+    },
+    {
+      "item": "任公、百里、振飞是否分别指梁启超、蒋百里、张振飞",
+      "reason": "文本中仅出现'任公、百里、振飞'，未给出全名，无法完全确定具体指代。"
+    }
+  ]
+}

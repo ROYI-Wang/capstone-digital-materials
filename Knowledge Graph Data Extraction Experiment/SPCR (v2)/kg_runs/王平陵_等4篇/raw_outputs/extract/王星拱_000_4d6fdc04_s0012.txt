@@ -1,0 +1,526 @@
+{
+  "metadata": {
+    "schema_version": "lite_v3.0",
+    "article_id": "王星拱_000_4d6fdc04",
+    "article_title": "科学与人生观",
+    "source_author": "王星拱",
+    "section_title": "",
+    "section_author": "",
+    "segment_id": "王星拱_000_4d6fdc04_s0012",
+    "segment_index": 12,
+    "source_file": "E:\\1研究生\\岭南大学\\论文毕业\\capstone\\资料\\新的内容开始了\\local_upload\\input_v2_w0\\王星拱.txt"
+  },
+  "entities": [
+    {
+      "id": "e1",
+      "name": "乐观者",
+      "canonical_name": "乐观者",
+      "type": "阵营/群体",
+      "evidence": "乐观者以为可喜",
+      "confidence":  permalink0.9
+    },
+    {
+      "id": "e2",
+      "name": "悲观者",
+      "canonical_name": "悲观者",
+      "type": "阵营/群体",
+      "evidence": "悲观者以为可忧",
+      "confidence": 0.9
+    },
+    {
+      "id": "e3",
+      "name": "仁者",
+      "canonical_name": "仁者",
+      "type": "阵营/群体",
+      "evidence": "仁者见谓之仁",
+      "confidence": 0.9
+    },
+    {
+      "id": "e4",
+      "name": "智者",
+      "canonical_name": "智者",
+      "type": "阵营/群体",
+      "evidence": "智者见谓之智",
+      "confidence": 0.9
+    },
+    {
+      "id": "e5",
+      "name": "张君劢先生",
+      "canonical_name": "张君劢",
+      "type": "人物",
+      "evidence": "张君劢先生说科学与人生观无关",
+      "confidence": 0.9
+    },
+    {
+      "id": "e6",
+      "name": "丁在君先生",
+      "canonical_name": "丁在君",
+      "type": "人物",
+      "evidence": "丁在君先生说科学与人生观有关",
+      "confidence": 0.9
+    },
+    {
+      "id": "e7",
+      "name": "科学与人生观",
+      "canonical_name": "科学与人生观",
+      "type": "概念",
+      "evidence": "张君劢先生说科学与人生观无关",
+      "confidence": 0.9
+    },
+    {
+      "id": "e8",
+      "name": "科学",
+      "canonical_name": "科学",
+      "type": "概念",
+      "evidence": "科学里没有什么公式",
+      "confidence": 0.9
+    },
+    {
+      "id": "e9",
+      "name": "天性",
+      "canonical_name": "天性",
+      "type": "概念",
+      "evidence": "各人有各人的天性，由先天遗传而得来",
+      "confidence": 0.9
+    },
+    {
+      "id": "e10",
+      "name": "遗传",
+      "canonical_name": "遗传",
+      "type": "概念",
+      "evidence": "由先天遗传而得来",
+      "confidence": 0.9
+    },
+    {
+      "id": "e11",
+      "name": "学识",
+      "canonical_name": "学识",
+      "type": "概念",
+      "evidence": "各人有各人的学识（指所有的知识，不必是科学知识),由后天教育而得来",
+      "confidence": 0.9
+    },
+    {
+      "id": "e12",
+      "name": "教育",
+      "canonical_name": "教育",
+      "type": "概念",
+      "evidence": "由后天教育而得来",
+      "confidence": 0.9
+    },
+    {
+      "id": "e13",
+      "name": "观察点",
+      "canonical_name": "观察点",
+      "type": "概念",
+      "evidence": "各人的观察点不同",
+      "confidence": 0.9
+    },
+    {
+      "id": "e14",
+      "name": "人生观",
+      "canonical_name": "人生观",
+      "type": "概念",
+      "evidence": "当然各人的人生观不同",
+      "confidence": 0.9
+    },
+    {
+      "id": "e15",
+      "name": "人生观由于遗传与教育而定",
+      "canonical_name": "人生观由于遗传与教育而定",
+      "type": "观点",
+      "evidence": "人生观由于遗传与教育而定，这一个原理，是统一的",
+      "confidence": 0.9
+    },
+    {
+      "id": "e16",
+      "name": "科学（狭义的）",
+      "canonical_name": "科学（狭义的）",
+      "type": "概念",
+      "evidence": "和在科学（狭义的）里的定律一样",
+      "confidence": 0.9
+    },
+    {
+      "id": "e17",
+      "name": "平均代表",
+      "canonical_name": "平均代表",
+      "type": "概念",
+      "evidence": "可以得一个平均代表",
+      "confidence": 0.9
+    }
+  ],
+  "claims": [
+    {
+      "id": "c1",
+      "speaker": "张君劢先生",
+      "claim": "科学与人生观无关",
+      "target": "科学与人生观",
+      "claim_type": "描述性主张",
+      "claim_status": "作者概括",
+      "polarity": "negative",
+      "evidence": "张君劢先生说科学与人生观无关",
+      "confidence": 0.9
+    },
+    {
+      "id": "c2",
+      "speaker": "丁在君先生",
+      "claim": "科学与人生观有关",
+      "target": "科学与人生观",
+      "claim_type": "描述性主张",
+      "claim_status": "作者概括",
+      "polarity": "positive",
+      "evidence": "丁在君先生说科学与人生观有关",
+      "confidence": 0.9
+    },
+    {
+      "id": "c3",
+      "speaker": "作者",
+      "claim": "科学里没有什么公式，把大家的意见都可以囊括而无遗",
+      "target": "科学",
+      "claim_type": "描述性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "科学里没有什么公式，把大家的意见都可以囊括而无遗",
+      "confidence": 0.9
+    },
+    {
+      "id": "c4",
+      "speaker": "作者",
+      "claim": "各人有各人的天性，由先天遗传而得来",
+      "target": "天性",
+      "claim_type": "描述性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "各人有各人的天性，由先天遗传而得来",
+      "confidence": 0.9
+    },
+    {
+      "id": "c5",
+      "speaker": "作者",
+      "claim": "各人有各人的学识（指所有的知识，不必是科学知识),由后天教育而得来",
+      "target": "学识",
+      "claim_type": "描述性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "各人有各人的学识（指所有的知识，不必是科学知识),由后天教育而得来",
+      "confidence": 0.9
+    },
+    {
+      "id": "c6",
+      "speaker": "作者",
+      "claim": "各人的观察点不同，当然各人的人生观不同",
+      "target": "人生观",
+      "claim_type": "因果主张",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "各人的观察点不同，当然各人的人生观不同",
+      "confidence": 0.9
+    },
+    {
+      "id": "c7",
+      "speaker": "作者",
+      "claim": "我们并不希望世界上各人的人生观，都是相同的",
+      "target": "人生观",
+      "claim_type": "规范性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "而且我们并不希望世界上各人的人生观，都是相同的",
+      "confidence": 0.9
+    },
+    {
+      "id": "c8",
+      "speaker": "作者",
+      "claim": "如果世界上各人的人生观都是相同的，那样“清一色”的世界，又有什么趣味呢？",
+      "target": "人生观",
+      "claim_type": "评价性主张",
+      "claim_status": "作者推论",
+      "polarity": "negative",
+      "evidence": "如果世界上各人的人生观都是相同的，那样“清一色”的世界，又有什么趣味呢？",
+      "confidence": 0.9
+    },
+    {
+      "id": "c9",
+      "speaker": "作者",
+      "claim": "甲有如此如此的遗传与教育，所以甲有如此如此的人生观，乙有如彼如彼的遗传与教育，所以乙有如彼如彼的人生观",
+      "target": "人生观",
+      "claim_type": "因果主张",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "但是甲有如此如此的遗传与教育，所以甲有如此如此的人生观，乙有如彼如彼的遗传与教育，所以乙有如彼如彼的人生观",
+      "confidence": 0.9
+    },
+    {
+      "id": "c10",
+      "speaker": "作者",
+      "claim": "张君劢先生有他的遗传与教育，所以他主张科学与人生观无关",
+      "target": "张君劢先生",
+      "claim_type": "因果主张",
+      "claim_status": "作者推论",
+      "polarity": "neutral",
+      "evidence": "张君劢先生有他的遗传与教育，所以他主张科学与人生观无关",
+      "confidence": 0.9
+    },
+    {
+      "id": "c11",
+      "speaker": "作者",
+      "claim": "丁在君先生有他的遗传与教育，所以他主张科学可以完全应用于人生问题",
+      "target": "丁在君先生",
+      "claim_type": "因果主张",
+      "claim_status": "作者推论",
+      "polarity": "neutral",
+      "evidence": "丁在君先生有他的遗传与教育，所以他主张科学可以完全应用于人生问题",
+      "confidence": 0.9
+    },
+    {
+      "id": "c12",
+      "speaker": "作者",
+      "claim": "凡是与张先生受过相类似的教育的，其主张大概都与张先生的相同",
+      "target": "张君劢先生",
+      "claim_type": "描述性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "凡是与张先生受过相类似的教育的，其主张大概都与张先生的相同",
+      "confidence": 0.9
+    },
+    {
+      "id": "c13",
+      "speaker": "作者",
+      "claim": "凡是与丁先生受过相类似的教育的，其主张大概都与丁先生的相同",
+      "target": "丁在君先生",
+      "claim_type": "描述性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "凡是与丁先生受过相类似的教育的，其主张大概都与丁先生的相同",
+      "confidence": 0.9
+    },
+    {
+      "id": "c14",
+      "speaker": "作者",
+      "claim": "人生观虽不能统一，但是人生观由于遗传与教育而定，这一个原理，是统一的",
+      "target": "人生观",
+      "claim_type": "结论性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "人生观虽不能统一，但是人生观由于遗传与教育而定，这一个原理，是统一的",
+      "confidence": 0.9
+    },
+    {
+      "id": "c15",
+      "speaker": "作者",
+      "claim": "若能将各人的遗传与教育明白底知道了，他的人生观，也可以一索而得",
+      "target": "人生观",
+      "claim_type": "因果主张",
+      "claim_status": "作者推论",
+      "polarity": "neutral",
+      "evidence": "若能将各人的遗传与教育明白底知道了，他的人生观，也可以一索而得",
+      "confidence": 0.9
+    },
+    {
+      "id": "c16",
+      "speaker": "作者",
+      "claim": "若能明白知道一班人所受过的教育都有大致相同的，他们的人生观，也可以测度得大致不差，而可以得一个平均代表，和在科学（狭义的）里的定律一样",
+      "target": "人生观",
+      "claim_type": "因果主张",
+      "claim_status": "作者推论",
+      "polarity": "neutral",
+      "evidence": "若能明白知道一班人所受过的教育都有大致相同的，他们的人生观，也可以测度得大致不差，而可以得一个平均代表，和在科学（狭义的）里的定律一样",
+      "confidence": 0.9
+    }
+  ],
+  "relations": [
+    {
+      "id": "r1",
+      "head": "张君劢先生",
+      "head_type": "人物",
+      "relation": "主张",
+      "relation_subtype": "不适用",
+      "tail": "科学与人生观无关",
+      "tail_type": "观点",
+      "polarity": "negative",
+      "stance_score": -0.5,
+      "intensity": 0.5,
+      "evidence": "张君劢先生说科学与人生观无关",
+      "confidence": 0.9
+    },
+    {
+      "id": "r2",
+      "head": "丁在君先生",
+      "head_type": "人物",
+      "relation": "主张",
+      "relation_subtype": "不适用",
+      "tail": "科学与人生观有关",
+      "tail_type": "观点",
+      "polarity": "positive",
+      "stance_score": 0.5,
+      "intensity": 0.5,
+      "evidence": "丁在君先生说科学与人生观有关",
+      "confidence": 0.9
+    },
+    {
+      "id": "r3",
+      "head": "张君劢先生",
+      "head_type": "人物",
+      "relation": "主张",
+      "relation_subtype": "不适用",
+      "tail": "科学与人生观无关",
+      "tail_type": "观点",
+      "polarity": "negative",
+      "stance_score": -0.5,
+      "intensity": 0.5,
+      "evidence": "张君劢先生有他的遗传与教育，所以他主张科学与人生观无关",
+      "confidence": 0.9
+    },
+    {
+      "id": "r4",
+      "head": "丁在君先生",
+      "head_type": "人物",
+      "relation": "主张",
+      "relation_subtype": "不适用",
+      "tail": "科学可以完全应用于人生问题",
+      "tail_type": "观点",
+      "polarity": "positive",
+      "stance_score": 0.5,
+      "intensity": 0.5,
+      "evidence": "丁在君先生有他的遗传与教育，所以他主张科学可以完全应用于人生问题",
+      "confidence": 0.9
+    },
+    {
+      "id": "r5",
+      "head": "遗传与教育",
+      "head_type": "概念",
+      "relation": "导致",
+      "relation_subtype": "不适用",
+      "tail": "人生观",
+      "tail_type": "概念",
+      "polarity": "neutral",
+      "stance_score": 0.0,
+      "intensity": 0.5,
+      "evidence": "人生观由于遗传与教育而定，这一个原理，是统一的",
+      "confidence": 0.9
+    },
+    {
+      "id": "r6",
+      "head": "遗传与教育",
+      "head_type": "概念",
+      "relation": "导致",
+      "relation_subtype": "不适用",
+      "tail": "人生观",
+      "tail_type": "概念",
+      "polarity": "neutral",
+      "stance_score": 0.0,
+      "intensity": 0.5,
+      "evidence": "甲有如此如此的遗传与教育，所以甲有如此如此的人生观，乙有如彼如彼的遗传与教育，所以乙有如彼如彼的人生观",
+      "confidence": 0.9
+    },
+    {
+      "id": "r7",
+      "head": "遗传与教育",
+      "head_type": "概念",
+      "relation": "导致",
+      "relation_subtype": "不适用",
+      "tail": "张君劢先生主张科学与人生观无关",
+      "tail_type": "观点",
+      "polarity": "neutral",
+      "stance_score": 0.0,
+      "intensity": 0.5,
+      "evidence": "张君劢先生有他的遗传与教育，所以他主张科学与人生观无关",
+      "confidence": 0.9
+    },
+    {
+      "id": "r8",
+      "head": "遗传与教育",
+      "head_type": "概念",
+      "relation": "导致",
+      "relation_subtype": "不适用",
+      "tail": "丁在君先生主张科学可以完全应用于人生问题",
+      "tail_type": "观点",
+      "polarity": "neutral",
+      "stance_score": 0.0,
+      "intensity": 0.5,
+      "evidence": "丁在君先生有他的遗传与教育，所以他主张科学可以完全应用于人生问题",
+      "confidence": 0.9
+    },
+    {
+      "id": "r9",
+      "head": "教育",
+      "head_type": "概念",
+      "relation": "导致",
+      "relation_subtype": "不适用",
+      "tail": "主张",
+      "tail_type": "概念",
+      "polarity": "neutral",
+      "stance_score": 0.0,
+      "intensity": 0.5,
+      "evidence": "凡是与张先生受过相类似的教育的，其主张大概都与张先生的相同",
+      "confidence": 0.9
+    },
+    {
+      "id": "r10",
+      "head": "教育",
+      "head_type": "概念",
+      "relation": "导致",
+      "relation_subtype": "不适用",
+      "tail": "主张",
+      "tail_type": "概念",
+      "polarity": "neutral",
+      "stance_score": 0.0,
+      "intensity": 0.5,
+      "evidence": "凡是与丁先生受过相类似的教育的，其主张大概都与丁先生的相同",
+      "confidence": 0.9
+    },
+    {
+      "id": "r11",
+      "head": "遗传与教育",
+      "head_type": "概念",
+      "relation": "导致",
+      "relation_subtype": "不适用",
+      "tail": "人生观",
+      "tail_type": "概念",
+      "polarity": "neutral",
+      "stance_score": 0.0,
+      "intensity": 0.5,
+      "evidence": "若能将各人的遗传与教育明白底知道了，他的人生观，也可以一索而得",
+      "confidence": 0.9
+    },
+    {
+      "id": "r12",
+      "head": "教育",
+      "head_type": "概念",
+      "relation": "导致",
+      "relation_subtype": "不适用",
+      "tail": "人生观",
+      "tail_type": "概念",
+      "polarity": "neutral",
+      "stance_score": 0.0,
+      "intensity": 0.5,
+      "evidence": "若能明白知道一班人所受过的教育都有大致相同的，他们的人生观，也可以测度得大致不差，而可以得一个平均代表，和在科学（狭义的）里的定律一样",
+      "confidence": 0.9
+    }
+  ],
+  "definitions": [
+    {
+      "id": "def1",
+      "term": "学识",
+      "definition": "指所有的知识，不必是科学知识",
+      "evidence": "各人有各人的学识（指所有的知识，不必是科学知识),由后天教育而得来",
+      "confidence": 0.9
+    }
+  ],
+  "citations": [],
+  "rhetorical_devices": [
+    {
+      "id": "rh1",
+      "expression": "清一色",
+      "device_type": "比喻",
+      "literal_target": "世界上各人的人生观都是相同的",
+      "function": "形象化表达，增强对单调世界的负面评价",
+      "evidence": "如果世界上各人的人生观都是相同的，那样“清一色”的世界，又有什么趣味呢？",
+      "confidence": 0.9
+    }
+  ],
+  "uncertainties": [
+    {
+      "item": "丁在君先生主张的精确表述",
+      "reason": "文本中丁在君先生的主张有两处表述：'科学与人生观有关'和'科学可以完全应用于人生问题'，后者可能更精确，但前者是直接引述。"
+    }
+  ]
+}

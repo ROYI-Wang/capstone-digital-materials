@@ -1,0 +1,383 @@
+{
+  "metadata": {
+    "schema_version": "lite_v3.0",
+    "article_id": "丁文江2_000_e838922e",
+    "article_title": "玄学与科学——答张君劢",
+    "source_author": "丁文江",
+    "section_title": "",
+    "section_author": "",
+    "segment_id": "丁文江2_000_e838922e_s0023",
+    "segment_index": 23,
+    "source_file": "E:\\1研究生\\岭南大学\\论文毕业\\capstone\\资料\\新的内容开始了\\local_upload\\input_丁文江\\丁文江2.txt"
+  },
+  "entities": [
+    {
+      "id": "e1",
+      "name": "巴尔福",
+      "canonical_name": "巴尔福",
+      "type": "人物",
+      "evidence": "得巴尔福有一篇文章载在惜培德杂志上。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e2",
+      "name": "惜培德杂志",
+      "canonical_name": "惜培德杂志",
+      "type": "著作",
+      "evidence": "得巴尔福有一篇文章载在惜培德杂志上。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e3",
+      "name": "人类有自由意向的学说",
+      "canonical_name": "人类有自由意向的学说",
+      "type": "主义/学说/理论",
+      "evidence": "他说人类有自由意向的学说，科学上的根据很薄弱，他是知道的，但是他觉得这种学说很可爱，不肯放弃他。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e4",
+      "name": "情感问题",
+      "canonical_name": "情感问题",
+      "type": "概念",
+      "evidence": "足见得他的肯不肯是情感问题。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e5",
+      "name": "知识",
+      "canonical_name": "知识",
+      "type": "概念",
+      "evidence": "许多人重情感而轻知识，所以往往的“非不能也，不肯也”。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e6",
+      "name": "情感",
+      "canonical_name": "情感",
+      "type": "概念",
+      "evidence": "许多人重情感而轻知识，所以往往的“非不能也，不肯也”。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e7",
+      "name": "物质科学",
+      "canonical_name": "物质科学",
+      "type": "概念",
+      "evidence": "我们说物质科学同精神科学没有根本的分别，因为他们所研究的材料同为现象，研究的方法同为归纳。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e8",
+      "name": "精神科学",
+      "canonical_name": "精神科学",
+      "type": "概念",
+      "evidence": "我们说物质科学同精神科学没有根本的分别，因为他们所研究的材料同为现象，研究的方法同为归纳。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e9",
+      "name": "现象",
+      "canonical_name": "现象",
+      "type": "概念",
+      "evidence": "因为他们所研究的材料同为现象，研究的方法同为归纳。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e10",
+      "name": "归纳",
+      "canonical_name": "归纳",
+      "type": "方法",
+      "evidence": "因为他们所研究的材料同为现象，研究的方法同为归纳。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e11",
+      "name": "精神",
+      "canonical_name": "精神",
+      "type": "概念",
+      "evidence": "至于精神同物质根本有无分别，如果有分别，究竟是一种什么质，本来是哲学上大问题。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e12",
+      "name": "物质",
+      "canonical_name": "物质",
+      "type": "概念",
+      "evidence": "至于精神同物质根本有无分别，如果有分别，究竟是一种什么质，本来是哲学上大问题。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e13",
+      "name": "内",
+      "canonical_name": "内",
+      "type": "概念",
+      "evidence": "君劢拿内与外同我与非我来说明精神物质，同没有说明一样，因为内与外同我与非我本身的界限定义，也是极难解决的。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e14",
+      "name": "外",
+      "canonical_name": "外",
+      "type": "概念",
+      "evidence": "君劢拿内与外同我与非我来说明精神物质，同没有说明一样，因为内与外同我与非我本身的界限定义，也是极难解决的。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e15",
+      "name": "我",
+      "canonical_name": "我",
+      "type": "概念",
+      "evidence": "君劢拿内与外同我与非我来说明精神物质，同没有说明一样，因为内与外同我与非我本身的界限定义，也是极难解决的。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e16",
+      "name": "非我",
+      "canonical_name": "非我",
+      "type": "概念",
+      "evidence": "君劢拿内与外同我与非我来说明精神物质，同没有说明一样，因为内与外同我与非我本身的界限定义，也是极难解决的。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e17",
+      "name": "正统派的哲学",
+      "canonical_name": "正统派的哲学",
+      "type": "主义/学说/理论",
+      "evidence": "除去了正统派的哲学以外，近代拿科学方法来研究这个问题的有三派。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e18",
+      "name": "马哈的唯觉主义",
+      "canonical_name": "马哈的唯觉主义",
+      "type": "主义/学说/理论",
+      "evidence": "（一）马哈的唯觉主义，（二）行为派的心理学，（三）新唯实论。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e19",
+      "name": "行为派的心理学",
+      "canonical_name": "行为派的心理学",
+      "type": "主义/学说/理论",
+      "evidence": "（一）马哈的唯觉主义，（二）行为派的心理学，（三）新唯实论。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e20",
+      "name": "新唯实论",
+      "canonical_name": "新唯实论",
+      "type": "主义/学说/理论",
+      "evidence": "（一）马哈的唯觉主义，（二）行为派的心理学，（三）新唯实论。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e21",
+      "name": "杜威",
+      "canonical_name": "杜威",
+      "type": "人物",
+      "evidence": "杜威可以代表第二派，罗素可以代表第三派。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e22",
+      "name": "罗素",
+      "canonical_name": "罗素",
+      "type": "人物",
+      "evidence": "杜威可以代表第二派，罗素可以代表第三派。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e23",
+      "name": "马哈",
+      "canonical_name": "马哈",
+      "type": "人物",
+      "evidence": "马哈说感觉是知识的原质。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e24",
+      "name": "感觉",
+      "canonical_name": "感觉",
+      "type": "概念",
+      "evidence": "马哈说感觉是知识的原质。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e25",
+      "name": "知识的原质",
+      "canonical_name": "知识的原质",
+      "type": "概念",
+      "evidence": "马哈说感觉是知识的原质。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e26",
+      "name": "物",
+      "canonical_name": "物",
+      "type": "概念",
+      "evidence": "声、色、温度、压力、空间、时间等等联想起来成功许多复杂体。其中比较永久的现象深印于记忆，发表于语言，成功了我们所谓的“物”。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e27",
+      "name": "我",
+      "canonical_name": "我",
+      "type": "概念",
+      "evidence": "记忆同情感所成功的复杂体，联合到一个特别的物——我们的身体上面，就成功了“我”。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e28",
+      "name": "君劢",
+      "canonical_name": "君劢",
+      "type": "人物",
+      "evidence": "君劢拿内与外同我与非我来说明精神物质，同没有说明一样。",
+      "confidence": 1.0
+    }
+  ],
+  "claims": [
+    {
+      "id": "c1",
+      "speaker": "巴尔福",
+      "claim": "人类有自由意向的学说，科学上的根据很薄弱，他是知道的，但是他觉得这种学说很可爱，不肯放弃他。",
+      "target": "人类有自由意向的学说",
+      "claim_type": "描述性主张",
+      "claim_status": "间接转述",
+      "polarity": "positive",
+      "evidence": "他说人类有自由意向的学说，科学上的根据很薄弱，他是知道的，但是他觉得这种学说很可爱，不肯放弃他。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c2",
+      "speaker": "作者",
+      "claim": "足见得他的肯不肯是情感问题。",
+      "target": "巴尔福",
+      "claim_type": "评价性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "足见得他的肯不肯是情感问题。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c3",
+      "speaker": "作者",
+      "claim": "许多人重情感而轻知识，所以往往的“非不能也，不肯也”。",
+      "target": "许多人",
+      "claim_type": "描述性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "许多人重情感而轻知识，所以往往的“非不能也，不肯也”。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c4",
+      "speaker": "作者",
+      "claim": "我们现在是就知识论知识，没有把情感计算在内。",
+      "target": "",
+      "claim_type": "描述性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "我们现在是就知识论知识，没有把情感计算在内。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c5",
+      "speaker": "作者",
+      "claim": "物质科学同精神科学没有根本的分别，因为他们所研究的材料同为现象，研究的方法同为归纳。",
+      "target": "物质科学同精神科学",
+      "claim_type": "定义性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "我们说物质科学同精神科学没有根本的分别，因为他们所研究的材料同为现象，研究的方法同为归纳。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c6",
+      "speaker": "作者",
+      "claim": "精神同物质根本有无分别，如果有分别，究竟是一种什么质，本来是哲学上大问题。",
+      "target": "精神同物质",
+      "claim_type": "问题提出",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "至于精神同物质根本有无分别，如果有分别，究竟是一种什么质，本来是哲学上大问题。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c7",
+      "speaker": "作者",
+      "claim": "君劢拿内与外同我与非我来说明精神物质，同没有说明一样，因为内与外同我与非我本身的界限定义，也是极难解决的。",
+      "target": "君劢",
+      "claim_type": "反驳性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "君劢拿内与外同我与非我来说明精神物质，同没有说明一样，因为内与外同我与非我本身的界限定义，也是极难解决的。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c8",
+      "speaker": "马哈",
+      "claim": "感觉是知识的原质。",
+      "target": "感觉",
+      "claim_type": "定义性主张",
+      "claim_status": "间接转述",
+      "polarity": "neutral",
+      "evidence": "马哈说感觉是知识的原质。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c9",
+      "speaker": "马哈",
+      "claim": "声、色、温度、压力、空间、时间等等联想起来成功许多复杂体。其中比较永久的现象深印于记忆，发表于语言，成功了我们所谓的“物”。",
+      "target": "物",
+      "claim_type": "描述性主张",
+      "claim_status": "间接转述",
+      "polarity": "neutral",
+      "evidence": "声、色、温度、压力、空间、时间等等联想起来成功许多复杂体。其中比较永久的现象深印于记忆，发表于语言，成功了我们所谓的“物”。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c10",
+      "speaker": "马哈",
+      "claim": "记忆同情感所成功的复杂体，联合到一个特别的物——我们的身体上面，就成功了“我”。",
+      "target": "我",
+      "claim_type": "定义性主张",
+      "claim_status": "间接转述",
+      "polarity": "neutral",
+      "evidence": "记忆同情感所成功的复杂体，联合到一个特别的物——我们的身体上面，就成功了“我”。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c11",
+      "speaker": "马哈",
+      "claim": "“我”自然也是比较永久的，但是我们往往只记得他是永久的，忘却他的永久是比较的。",
+      "target": "我",
+      "claim_type": "描述性主张",
+      "claim_status": "间接转述",
+      "polarity": "neutral",
+      "evidence": "“我”自然也是比较永久的，但是我们往往只记得他是永久的，忘却他的永久是比较的。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c12",
+      "speaker": "马哈",
+      "claim": "“我”的永久全是以思想的连续同养成的习惯做根据的，然而细想起来今日的“我”同许多年以前的“我”，究竟有几分相似？",
+      "target": "我",
+      "claim_type": "问题提出",
+      "claim_status": "间接转述",
+      "polarity": "neutral",
+      "evidence": "“我”的永久全是以思想的连续同养成的习惯做根据的，然而细想起来今日的“我”同许多年以前的“我”，究竟有几分相似？",
+      "confidence": 1.0
+    }
+  ],
+  "relations": [
+    {
+      "id": "r1",
+      "head": "巴尔福",
+      "head_type": "人物",
+      "relation": "主张",
+      "relation_subtype": "不适用",
+      "tail": "人类有自由意向的学说",
+      "tail_type": "主义/学说/理论",
+      "polarity": "positive",
+      "stance_score":  permalink

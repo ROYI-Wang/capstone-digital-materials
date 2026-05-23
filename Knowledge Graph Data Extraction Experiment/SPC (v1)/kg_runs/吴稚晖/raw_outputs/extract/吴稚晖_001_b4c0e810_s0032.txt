@@ -1,0 +1,492 @@
+{
+  "metadata": {
+    "schema_version": "lite_v2.0",
+    "article_id": "吴稚晖_001_b4c0e810",
+    "article_title": "一个新信仰的宇宙观及人生观",
+    "source_author": "吴稚晖",
+    "section_title": "讲到这里，第一层可先用不值钱的玄学理想，近乎游戏的，说道毛厕里的石头亦有感觉。苍蝇的感觉，非即人的感觉，他们感觉的状况，颇极差等。玫瑰树的感觉，非即苍蝇的感觉，他们的感觉，又极差等。如是焉能禁我来瞎说，毛厕里石头的感觉，非即玫瑰树的感觉，他们感觉的状况，也极差等。若欲强分高下，则石头有其寂然不动的感觉，真所谓无私心而合天理，所以贞固永寿。一块毛厕里的石头，可以阅几十代人而依然如故，见数百兆苍蝇存灭，看千万棵玫瑰树忽而芬芳，忽而萎枯。彼如曰毛厕里的石头为万物之灵，理由亦未尝不充足。彼另有彼之可感与彼之可觉，人与苍蝇及玫瑰树之感觉，皆非彼所需，故亦非彼所有，如是而已。然这种蹈空的掉枪花，我们中国古代的玄学鬼常用“孰为正色，孰为正味”等的论调，闹得甚嚣尘上。自然受过科学洗礼的玄学鬼，不肯就把这种空言，来作惟一的搪塞。所以说到第二层，他就要戴上科学面具，正正经经，板起了面孔，来断定毛厕里的石头亦有感觉。他不是说能够",
+    "section_author": "讲到这里，第一层可先用不值钱的玄学理想，近乎游戏的，说道毛厕里的石头亦有感觉。苍蝇的感觉，非即人的感觉，他们感觉的状况，颇极差等。玫瑰树的感觉，非即苍蝇的感觉，他们的感觉，又极差等。如是焉能禁我来瞎说，毛厕里石头的感觉，非即玫瑰树的感觉，他们感觉的状况，也极差等。若欲强分高下，则石头有其寂然不动的感觉，真所谓无私心而合天理，所以贞固永寿。一块毛厕里的石头，可以阅几十代人而依然如故，见数百兆苍蝇存灭，看千万棵玫瑰树忽而芬芳，忽而萎枯。彼如曰毛厕里的石头为万物之灵，理由亦未尝不充足。彼另有彼之可感与彼之可觉，人与苍蝇及玫瑰树之感觉，皆非彼所需，故亦非彼所有，如是而已。然这种蹈空的掉枪花，我们中国古代的玄学鬼常用“孰为正色，孰为正味”等的论调，闹得甚嚣尘上。自然受过科学洗礼的玄学鬼，不肯就把这种空言，来作惟一的搪塞。所以说到第二层，他就要戴上科学面具，正正经经，板起了面孔，来断定毛厕里的石头亦有感觉。他不是说能够",
+    "segment_id": "吴稚晖_001_b4c0e810_s0032",
+    "segment_index": 32,
+    "source_file": "E:\\1研究生\\岭南大学\\论文毕业\\capstone\\资料\\新的内容开始了\\local_upload\\input_w0\\吴稚晖.txt"
+  },
+  "entities": [
+    {
+      "id": "e1",
+      "name": "吴稚晖",
+      "canonical_name": "吴稚晖",
+      "type": "人物",
+      "evidence": "我们信口开河，自由说笑的谈话",
+      "confidence": 0.9
+    },
+    {
+      "id": "e2",
+      "name": "玄学鬼",
+      "canonical_name": "玄学鬼",
+      "type": "阵营/群体",
+      "evidence": "中国老玄学鬼的滑头套话",
+      "confidence": 0.9
+    },
+    {
+      "id": "e3",
+      "name": "漆黑一团",
+      "canonical_name": "漆黑一团",
+      "type": "概念",
+      "evidence": "叫做“漆黑一团”，便活跃着，说也得神，听也爽朗",
+      "confidence": 0.9
+    },
+    {
+      "id": "e4",
+      "name": "一个",
+      "canonical_name": "一个",
+      "type": "概念",
+      "evidence": "所谓整个儿的“一个”",
+      "confidence": 0.9
+    },
+    {
+      "id": "e5",
+      "name": "绝对",
+      "canonical_name": "绝对",
+      "type": "概念",
+      "evidence": "惟有那整个儿的“一个”，乃是绝对",
+      "confidence": 0.9
+    },
+    {
+      "id": "e6",
+      "name": "相对",
+      "canonical_name": "相对",
+      "type": "概念",
+      "evidence": "有始又有终，有大又有小，都是相对",
+      "confidence": 0.9
+    },
+    {
+      "id": "e7",
+      "name": "有",
+      "canonical_name": "有",
+      "type": "概念",
+      "evidence": "有“有”又有“无”",
+      "confidence": 0.9
+    },
+    {
+      "id": "e8",
+      "name": "无",
+      "canonical_name": "无",
+      "type": "概念",
+      "evidence": "有“有”又有“无”",
+      "confidence": 0.9
+    },
+    {
+      "id": "e9",
+      "name": "始",
+      "canonical_name": "始",
+      "type": "概念",
+      "evidence": "有始是有，无始是无",
+      "confidence": 0.9
+    },
+    {
+      "id": "e10",
+      "name": "终",
+      "canonical_name": "终",
+      "type": "概念",
+      "evidence": "有终是有，无终是无",
+      "confidence": 0.9
+    },
+    {
+      "id": "e11",
+      "name": "宇宙",
+      "canonical_name": "宇宙",
+      "type": "概念",
+      "evidence": "宇宙有四谜",
+      "confidence": 0.9
+    },
+    {
+      "id": "e12",
+      "name": "绝对不可知",
+      "canonical_name": "绝对不可知",
+      "type": "概念",
+      "evidence": "这四个谜，我们常说绝对不可知",
+      "confidence": 0.9
+    },
+    {
+      "id": "e13",
+      "name": "非有非非有",
+      "canonical_name": "非有非非有",
+      "type": "概念",
+      "evidence": "止希望当做“非有非非有”的代名词",
+      "confidence": 0.9
+    },
+    {
+      "id": "e14",
+      "name": "本体",
+      "canonical_name": "本体",
+      "type": "概念",
+      "evidence": "动辄称做“本体”",
+      "confidence": 0.9
+    },
+    {
+      "id": "e15",
+      "name": "太极",
+      "canonical_name": "太极",
+      "type": "概念",
+      "evidence": "或言“太极”",
+      "confidence": 0.9
+    },
+    {
+      "id": "e16",
+      "name": "无始之始",
+      "canonical_name": "无始之始",
+      "type": "概念",
+      "evidence": "乃就说个“无始之始”",
+      "confidence": 0.9
+    },
+    {
+      "id": "e17",
+      "name": "无终之终",
+      "canonical_name": "无终之终",
+      "type": "概念",
+      "evidence": "乃就说个“无终之终”",
+      "confidence": 0.9
+    }
+  ],
+  "claims": [
+    {
+      "id": "c1",
+      "speaker": "吴稚晖",
+      "claim": "宇宙有四谜：怎样起头、怎样完结、大到怎样、小到怎样。",
+      "target": "宇宙",
+      "claim_type": "知识论主张",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "宇宙有四谜：一是叫做怎样起头。二是叫做怎样完结。三是叫做大到怎样。四是叫做小到怎样。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c2",
+      "speaker": "吴稚晖",
+      "claim": "这四个谜我们常说绝对不可知。",
+      "target": "宇宙四谜",
+      "claim_type": "知识论主张",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "这四个谜，我们常说绝对不可知。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c3",
+      "speaker": "吴稚晖",
+      "claim": "惟有那整个儿的“一个”，乃是绝对。此外更无绝对。",
+      "target": "一个",
+      "claim_type": "本体论主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "现在敢说惟有那整个儿的“一个”，乃是绝对。此外更无绝对。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c4",
+      "speaker": "吴稚晖",
+      "claim": "有“有”又有“无”，有始又有终，有大又有小，都是相对。",
+      "target": "有、无、始、终、大、小",
+      "claim_type": "本体论主张",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "有“有”又有“无”，有始又有终，有大又有小，都是相对。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c5",
+      "speaker": "吴稚晖",
+      "claim": "知道绝对是“一个”，便是已知一切。无所谓更有什么谜，更有什么绝对不可知。",
+      "target": "绝对",
+      "claim_type": "知识论主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "知道绝对是“一个”，便是已知一切。无所谓更有什么谜，更有什么绝对不可知。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c6",
+      "speaker": "吴稚晖",
+      "claim": "始终大小，止要拿中国老玄学鬼的滑头套话，……就什么道妙，一齐拆穿。",
+      "target": "中国老玄学鬼",
+      "claim_type": "论战策略批评",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "始终大小，止要拿中国老玄学鬼的滑头套话，他们有他们用套话的目的，我们有我们借套话的理由，恭恭敬敬的说着，就什么道妙，一齐拆穿。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c7",
+      "speaker": "吴稚晖",
+      "claim": "有始是有，无始是无，有无相对，同出于绝对的一个；乃就说个“无始之始”，始就已经知道。",
+      "target": "始",
+      "claim_type": "本体论主张",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "有始是有，无始是无，有无相对，同出于绝对的一个；乃就说个“无始之始”，始就已经知道。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c8",
+      "speaker": "吴稚晖",
+      "claim": "有终是有，无终是无，有无相对，同出于绝对的一个；乃就说个“无终之终”，终也已经知道。",
+      "target": "终",
+      "claim_type": "本体论主张",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "有终是有，无终是无，有无相对，同出于绝对的一个；乃就说个“无终之终”，终也已经知道。",
+      "confidence": 0.9
+    }
+  ],
+  "relations": [
+    {
+      "id": "r1",
+      "head": "吴稚晖",
+      "head_type": "人物",
+      "relation": "批评",
+      "relation_subtype": "讽刺",
+      "tail": "玄学鬼",
+      "tail_type": "阵营/群体",
+      "polarity": "negative",
+      "evidence": "中国老玄学鬼的滑头套话",
+      "confidence": 0.9
+    },
+    {
+      "id": "r2",
+      "head": "吴稚晖",
+      "head_type": "人物",
+      "relation": "定义",
+      "relation_subtype": "概念澄清",
+      "tail": "漆黑一团",
+      "tail_type": "概念",
+      "polarity": "positive",
+      "evidence": "叫做“漆黑一团”，便活跃着，说也得神，听也爽朗。",
+      "confidence": 0.9
+    },
+    {
+      "id": "r3",
+      "head": "吴稚晖",
+      "head_type": "人物",
+      "relation": "定义",
+      "relation_subtype": "概念澄清",
+      "tail": "一个",
+      "tail_type": "概念",
+      "polarity": "positive",
+      "evidence": "所谓整个儿的“一个”，简括地，而又活泼地说出，甚不容易。",
+      "confidence": 0.9
+    },
+    {
+      "id": "r4",
+      "head": "一个",
+      "head_type": "概念",
+      "relation": "属于",
+      "relation_subtype": "不适用",
+      "tail": "绝对",
+      "tail_type": "概念",
+      "polarity": "positive",
+      "evidence": "惟有那整个儿的“一个”，乃是绝对。",
+      "confidence": 0.9
+    },
+    {
+      "id": "r5",
+      "head": "有",
+      "head_type": "概念",
+      "relation": "属于",
+      "relation_subtype": "不适用",
+      "tail": "相对",
+      "tail_type": "概念",
+      "polarity": "neutral",
+      "evidence": "有“有”又有“无”，有始又有终，有大又有小，都是相对。",
+      "confidence": 0.9
+    },
+    {
+      "id": "r6",
+      "head": "无",
+      "head_type": "概念",
+      "relation": "属于",
+      "relation_subtype": "不适用",
+      "tail": "相对",
+      "tail_type": "概念",
+      "polarity": "neutral",
+      "evidence": "有“有”又有“无”，有始又有终，有大又有小，都是相对。",
+      "confidence": 0.9
+    },
+    {
+      "id": "r7",
+      "head": "始",
+      "head_type": "概念",
+      "relation": "属于",
+      "relation_subtype": "不适用",
+      "tail": "相对",
+      "tail_type": "概念",
+      "polarity": "neutral",
+      "evidence": "有始又有终，有大又有小，都是相对。",
+      "confidence": 0.9
+    },
+    {
+      "id": "r8",
+      "head": "终",
+      "head_type": "概念",
+      "relation": "属于",
+      "relation_subtype": "不适用",
+      "tail": "相对",
+      "tail_type": "概念",
+      "polarity": "neutral",
+      "evidence": "有始又有终，有大又有小，都是相对。",
+      "confidence": 0.9
+    },
+    {
+      "id": "r9",
+      "head": "有",
+      "head_type": "概念",
+      "relation": "对比",
+      "relation_subtype": "不适用",
+      "tail": "无",
+      "tail_type": "概念",
+      "polarity": "neutral",
+      "evidence": "有“有”又有“无”",
+      "confidence": 0.9
+    },
+    {
+      "id": "r10",
+      "head": "始",
+      "head_type": "概念",
+      "relation": "对比",
+      "relation_subtype": "不适用",
+      "tail": "终",
+      "tail_type": "概念",
+      "polarity": "neutral",
+      "evidence": "有始又有终",
+      "confidence": 0.9
+    },
+    {
+      "id": "r11",
+      "head": "吴稚晖",
+      "head_type": "人物",
+      "relation": "批评",
+      "relation_subtype": "讽刺",
+      "tail": "本体",
+      "tail_type": "概念",
+      "polarity": "negative",
+      "evidence": "动辄称做“本体”，或言“太极”，那是在柴积上，日黄中，谈闲天，却扮出玄学先生的面孔，冒着讲学的招牌了。犯不着如此迂腐。",
+      "confidence": 0.9
+    },
+    {
+      "id": "r12",
+      "head": "吴稚晖",
+      "head_type": "人物",
+      "relation": "批评",
+      "relation_subtype": "讽刺",
+      "tail": "太极",
+      "tail_type": "概念",
+      "polarity": "negative",
+      "evidence": "动辄称做“本体”，或言“太极”，那是在柴积上，日黄中，谈闲天，却扮出玄学先生的面孔，冒着讲学的招牌了。犯不着如此迂腐。",
+      "confidence": 0.9
+    },
+    {
+      "id": "r13",
+      "head": "吴稚晖",
+      "head_type": "人物",
+      "relation": "定义",
+      "relation_subtype": "概念澄清",
+      "tail": "漆黑一团",
+      "tail_type": "概念",
+      "polarity": "neutral",
+      "evidence": "止希望当做“非有非非有”的代名词",
+      "confidence": 0.9
+    },
+    {
+      "id": "r14",
+      "head": "吴稚晖",
+      "head_type": "人物",
+      "relation": "引用",
+      "relation_subtype": "作为批评对象",
+      "tail": "玄学鬼",
+      "tail_type": "阵营/群体",
+      "polarity": "negative",
+      "evidence": "中国老玄学鬼的滑头套话",
+      "confidence": 0.9
+    }
+  ],
+  "definitions": [
+    {
+      "id": "def1",
+      "term": "漆黑一团",
+      "definition": "作者用来描述宇宙本体的一个活泼、爽朗的称呼，相当于“非有非非有”的代名词。",
+      "evidence": "叫做“漆黑一团”，便活跃着，说也得神，听也爽朗。",
+      "confidence": 0.9
+    },
+    {
+      "id": "def2",
+      "term": "一个",
+      "definition": "指整个儿的、绝对的宇宙本体，简括活泼，难以用言语形容。",
+      "evidence": "所谓整个儿的“一个”，简括地，而又活泼地说出，甚不容易。",
+      "confidence": 0.9
+    },
+    {
+      "id": "def3",
+      "term": "绝对",
+      "definition": "指整个儿的“一个”，是唯一的绝对存在，此外没有其他绝对。",
+      "evidence": "现在敢说惟有那整个儿的“一个”，乃是绝对。此外更无绝对。",
+      "confidence": 0.9
+    },
+    {
+      "id": "def4",
+      "term": "相对",
+      "definition": "指有与无、始与终、大与小等对立概念，它们都是相对的。",
+      "evidence": "有“有”又有“无”，有始又有终，有大又有小，都是相对。",
+      "confidence": 0.9
+    }
+  ],
+  "citations": [
+    {
+      "id": "cit1",
+      "citer": "吴稚晖",
+      "quoted_author": "中国老玄学鬼",
+      "quoted_work": "",
+      "quoted_claim": "滑头套话",
+      "function": "作为批评对象",
+      "evidence": "中国老玄学鬼的滑头套话",
+      "confidence": 0.9
+    }
+  ],
+  "rhetorical_devices": [
+    {
+      "id": "rh1",
+      "expression": "漆黑一团",
+      "device_type": "比喻",
+      "literal_target": "宇宙本体",
+      "function": "用比喻形象地描述宇宙本体，避免抽象术语的迂腐。",
+      "evidence": "叫做“漆黑一团”，便活跃着，说也得神，听也爽朗。",
+      "confidence": 0.9
+    },
+    {
+      "id": "rh2",
+      "expression": "在柴积上，日黄中，谈闲天，却扮出玄学先生的面孔，冒着讲学的招牌了",
+      "device_type": "讽刺",
+      "literal_target": "使用“本体”“太极”等术语的玄学先生",
+      "function": "讽刺玄学先生故作高深、迂腐可笑。",
+      "evidence": "那是在柴积上，日黄中，谈闲天，却扮出玄学先生的面孔，冒着讲学的招牌了。犯不着如此迂腐。",
+      "confidence": 0.9
+    },
+    {
+      "id": "rh3",
+      "expression": "滑头套话",
+      "device_type": "标签化",
+      "literal_target": "中国老玄学鬼的言论",
+      "function": "贬低玄学言论为油滑、不严肃的套话。",
+      "evidence": "中国老玄学鬼的滑头套话",
+      "confidence": 0.9
+    }
+  ],
+  "uncertainties": [
+    {
+      "item": "“我们”在“我们信口开河，自由说笑的谈话”中是否包括吴稚晖本人以外的其他人？",
+      "reason": "文本中“我们”可能指作者及其同道，但未明确具体指代对象。"
+    },
+    {
+      "item": "“中国老玄学鬼”具体指哪些人物或学派？",
+      "reason": "文本未具体点名，仅作为群体标签使用。"
+    }
+  ]
+}

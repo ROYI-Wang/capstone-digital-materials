@@ -1,0 +1,220 @@
+{
+  "metadata": {
+    "schema_version": "lite_v2.0",
+    "article_id": "丁文江_000_3ba07a5e",
+    "article_title": "玄学与科学 ——评张君劢的《人生观》",
+    "source_author": "丁文江",
+    "section_title": "",
+    "section_author": "",
+    "segment_id": "丁文江_000_3ba07a5e_s0008",
+    "segment_index": 8,
+    "source_file": "E:\\1研究生\\岭南大学\\论文毕业\\capstone\\资料\\新的内容开始了\\local_upload\\input_texts\\丁文江.txt"
+  },
+  "entities": [
+    {
+      "id": "e1",
+      "name": "人生观",
+      "canonical_name": "人生观",
+      "type": "Concept",
+      "evidence": "不但是人生观同科学的界限分不开",
+      "confidence": 0.8
+    },
+    {
+      "id": "e2",
+      "name": "科学",
+      "canonical_name": "科学",
+      "type": "Concept",
+      "evidence": "不但是人生观同科学的界限分不开",
+      "confidence": 0.8
+    },
+    {
+      "id": "e3",
+      "name": "物质科学",
+      "canonical_name": "物质科学",
+      "type": "Concept",
+      "evidence": "就是他所说的物质科学同精神科学的分别也不是真能成立的",
+      "confidence": 0.8
+    },
+    {
+      "id": "e4",
+      "name": "精神科学",
+      "canonical_name": "精神科学",
+      "type": "Concept",
+      "evidence": "就是他所说的物质科学同精神科学的分别也不是真能成立的",
+      "confidence": 0.8
+    },
+    {
+      "id": "e5",
+      "name": "知识论",
+      "canonical_name": "知识论",
+      "type": "Concept",
+      "evidence": "不得不请读者同我研究研究知识论",
+      "confidence": 0.8
+    },
+    {
+      "id": "e6",
+      "name": "物",
+      "canonical_name": "物",
+      "type": "Concept",
+      "evidence": "我们所谓物，所谓质，是从何而知道的？",
+      "confidence": 0.8
+    },
+    {
+      "id": "e7",
+      "name": "质",
+      "canonical_name": "质",
+      "type": "Concept",
+      "evidence": "我们所谓物，所谓质，是从何而知道的？",
+      "confidence": 0.8
+    },
+    {
+      "id": "e8",
+      "name": "书柜子",
+      "canonical_name": "书柜子",
+      "type": "Example",
+      "evidence": "我坐在这里，看着我面前的书柜子。我晓得他是长方的，中间空的，黄漆漆的，木头做的，很坚很重的。",
+      "confidence": 0.8
+    },
+    {
+      "id": "e9",
+      "name": "觉官感触",
+      "canonical_name": "觉官感触",
+      "type": "Concept",
+      "evidence": "觉官感触是我们晓得物质的根本",
+      "confidence": 0.8
+    },
+    {
+      "id": "e10",
+      "name": "联想推论",
+      "canonical_name": "联想推论",
+      "type": "Concept",
+      "evidence": "所谓联想推论，又是以前觉官所感触的经验得来的",
+      "confidence": 0.8
+    },
+    {
+      "id": "e11",
+      "name": "物质",
+      "canonical_name": "物质",
+      "type": "Concept",
+      "evidence": "我们之所谓物质，大多数是许多记存的觉官感触，加了一点直接觉官感触",
+      "confidence": 0.8
+    }
+  ],
+  "claims": [
+    {
+      "id": "c1",
+      "speaker": "丁文江",
+      "claim": "人生观同科学的界限分不开",
+      "target": "人生观与科学的关系",
+      "claim_type": "知识论主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "不但是人生观同科学的界限分不开",
+      "confidence": 0.8
+    },
+    {
+      "id": "c2",
+      "speaker": "丁文江",
+      "claim": "物质科学同精神科学的分别也不是真能成立的",
+      "target": "物质科学与精神科学的区分",
+      "claim_type": "知识论主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "就是他所说的物质科学同精神科学的分别也不是真能成立的",
+      "confidence": 0.8
+    },
+    {
+      "id": "c3",
+      "speaker": "丁文江",
+      "claim": "觉官感触是我们晓得物质的根本",
+      "target": "物质认知的来源",
+      "claim_type": "知识论主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "觉官感触是我们晓得物质的根本",
+      "confidence": 0.8
+    },
+    {
+      "id": "c4",
+      "speaker": "丁文江",
+      "claim": "我们之所谓物质，大多数是许多记存的觉官感触，加了一点直接觉官感触",
+      "target": "物质的概念",
+      "claim_type": "定义性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "我们之所谓物质，大多数是许多记存的觉官感触，加了一点直接觉官感触",
+      "confidence": 0.8
+    }
+  ],
+  "relations": [
+    {
+      "id": "r1",
+      "head": "丁文江",
+      "head_type": "Person",
+      "relation": "PROPOSES",
+      "tail": "人生观同科学的界限分不开",
+      "tail_type": "Viewpoint",
+      "polarity": "positive",
+      "evidence": "不但是人生观同科学的界限分不开",
+      "confidence": 0.8
+    },
+    {
+      "id": "r2",
+      "head": "丁文江",
+      "head_type": "Person",
+      "relation": "REBUTS",
+      "tail": "物质科学同精神科学的分别",
+      "tail_type": "Viewpoint",
+      "polarity": "negative",
+      "evidence": "就是他所说的物质科学同精神科学的分别也不是真能成立的",
+      "confidence": 0.8
+    },
+    {
+      "id": "r3",
+      "head": "觉官感触",
+      "head_type": "Concept",
+      "relation": "EVIDENCE_FOR",
+      "tail": "我们晓得物质的根本",
+      "tail_type": "Viewpoint",
+      "polarity": "positive",
+      "evidence": "觉官感触是我们晓得物质的根本",
+      "confidence": 0.8
+    }
+  ],
+  "definitions": [
+    {
+      "id": "def1",
+      "term": "物质",
+      "definition": "大多数是许多记存的觉官感触，加了一点直接觉官感触",
+      "evidence": "我们之所谓物质，大多数是许多记存的觉官感触，加了一点直接觉官感触",
+      "confidence": 0.8
+    }
+  ],
+  "citations": [],
+  "rhetorical_devices": [],
+  "uncertainties": [
+    {
+      "item": "“他所说的”中的“他”具体指谁",
+      "reason": "文本中未明确给出“他”的指代对象，可能指张君劢，但当前片段未出现张君劢名字，无法确定。"
+    }
+  ],
+  "_meta": {
+    "status": "success",
+    "stage": "extract",
+    "model": "deepseek-ai/DeepSeek-V4-Flash",
+    "base_url": "https://api.siliconflow.cn/v1",
+    "prompt_version": "extract_prompt_v2.0",
+    "schema_version": "lite_v2.0",
+    "segment_id": "丁文江_000_3ba07a5e_s0008",
+    "article_id": "丁文江_000_3ba07a5e",
+    "char_start": 2059,
+    "char_end": 2380,
+    "raw_path": "E:\\1研究生\\岭南大学\\论文毕业\\capstone\\资料\\新的内容开始了\\local_upload\\kg_runs\\丁文江_等3篇\\raw_outputs\\extract\\丁文江_000_3ba07a5e_s0008.txt",
+    "parsed_at": "2026-05-19T02:26:16",
+    "started_at": "2026-05-19T02:22:52",
+    "elapsed_seconds": 204.301,
+    "strict_evidence_check": true,
+    "drop_unsupported_evidence": true,
+    "request_timeout_seconds": 180
+  }
+}

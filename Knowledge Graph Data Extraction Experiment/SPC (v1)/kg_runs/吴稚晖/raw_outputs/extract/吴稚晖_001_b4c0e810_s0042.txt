@@ -1,0 +1,405 @@
+{
+  "metadata": {
+    "schema_version": "lite_v2.0",
+    "article_id": "吴稚晖_001_b4c0e810",
+    "article_title": "一个新信仰的宇宙观及人生观",
+    "source_author": "吴稚晖",
+    "section_title": "讲到这里，第一层可先用不值钱的玄学理想，近乎游戏的，说道毛厕里的石头亦有感觉。苍蝇的感觉，非即人的感觉，他们感觉的状况，颇极差等。玫瑰树的感觉，非即苍蝇的感觉，他们的感觉，又极差等。如是焉能禁我来瞎说，毛厕里石头的感觉，非即玫瑰树的感觉，他们感觉的状况，也极差等。若欲强分高下，则石头有其寂然不动的感觉，真所谓无私心而合天理，所以贞固永寿。一块毛厕里的石头，可以阅几十代人而依然如故，见数百兆苍蝇存灭，看千万棵玫瑰树忽而芬芳，忽而萎枯。彼如曰毛厕里的石头为万物之灵，理由亦未尝不充足。彼另有彼之可感与彼之可觉，人与苍蝇及玫瑰树之感觉，皆非彼所需，故亦非彼所有，如是而已。然这种蹈空的掉枪花，我们中国古代的玄学鬼常用“孰为正色，孰为正味”等的论调，闹得甚嚣尘上。自然受过科学洗礼的玄学鬼，不肯就把这种空言，来作惟一的搪塞。所以说到第二层，他就要戴上科学面具，正正经经，板起了面孔，来断定毛厕里的石头亦有感觉。他不是说能够",
+    "section_author": "讲到这里，第一层可先用不值钱的玄学理想，近乎游戏的，说道毛厕里的石头亦有感觉。苍蝇的感觉，非即人的感觉，他们感觉的状况，颇极差等。玫瑰树的感觉，非即苍蝇的感觉，他们的感觉，又极差等。如是焉能禁我来瞎说，毛厕里石头的感觉，非即玫瑰树的感觉，他们感觉的状况，也极差等。若欲强分高下，则石头有其寂然不动的感觉，真所谓无私心而合天理，所以贞固永寿。一块毛厕里的石头，可以阅几十代人而依然如故，见数百兆苍蝇存灭，看千万棵玫瑰树忽而芬芳，忽而萎枯。彼如曰毛厕里的石头为万物之灵，理由亦未尝不充足。彼另有彼之可感与彼之可觉，人与苍蝇及玫瑰树之感觉，皆非彼所需，故亦非彼所有，如是而已。然这种蹈空的掉枪花，我们中国古代的玄学鬼常用“孰为正色，孰为正味”等的论调，闹得甚嚣尘上。自然受过科学洗礼的玄学鬼，不肯就把这种空言，来作惟一的搪塞。所以说到第二层，他就要戴上科学面具，正正经经，板起了面孔，来断定毛厕里的石头亦有感觉。他不是说能够",
+    "segment_id": "吴稚晖_001_b4c0e810_s0042",
+    "segment_index": 42,
+    "source_file": "E:\\1研究生\\岭南大学\\论文毕业\\capstone\\资料\\新的内容开始了\\local_upload\\input_w0\\吴稚晖.txt"
+  },
+  "entities": [
+    {
+      "id": "e1",
+      "name": "人",
+      "canonical_name": "人",
+      "type": "概念",
+      "evidence": "人是怎样有呢？最便当，就是请人来自己创造。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e2",
+      "name": "宇宙",
+      "canonical_name": "宇宙",
+      "type": "概念",
+      "evidence": "在一百年里，宇宙也不是专门止要一个我。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e3",
+      "name": "我",
+      "canonical_name": "我",
+      "type": "概念",
+      "evidence": "在一百年里，宇宙也不是专门止要一个我。",
+      "confidence": 0.8
+    },
+    {
+      "id": "e4",
+      "name": "非人的我",
+      "canonical_name": "非人的我",
+      "type": "概念",
+      "evidence": "又要更数不清的“非人的”我。",
+      "confidence": 0.8
+    },
+    {
+      "id": "e5",
+      "name": "我他",
+      "canonical_name": "我他",
+      "type": "概念",
+      "evidence": "止有“我他”与“我伊”，及所生的小孩存在",
+      "confidence": 0.7
+    },
+    {
+      "id": "e6",
+      "name": "我伊",
+      "canonical_name": "我伊",
+      "type": "概念",
+      "evidence": "止有“我他”与“我伊”，及所生的小孩存在",
+      "confidence": 0.7
+    },
+    {
+      "id": "e7",
+      "name": "漆黑一团",
+      "canonical_name": "漆黑一团",
+      "type": "概念",
+      "evidence": "无异反到漆黑一团，还那里还有什么宇宙。",
+      "confidence": 0.8
+    },
+    {
+      "id": "e8",
+      "name": "漆黑一团先生",
+      "canonical_name": "漆黑一团先生",
+      "type": "概念",
+      "evidence": "招呼朋友便是存在老祖爷爷——漆黑一团先生所爱变的宇宙。",
+      "confidence": 0.8
+    },
+    {
+      "id": "e9",
+      "name": "万有",
+      "canonical_name": "万有",
+      "type": "概念",
+      "evidence": "无非漆黑一团先生变动绵延，要扮演万有的作用罢了。",
+      "confidence": 0.8
+    },
+    {
+      "id": "e10",
+      "name": "食的性",
+      "canonical_name": "食的性",
+      "type": "概念",
+      "evidence": "食的性，色的性，恻隐、羞恶、辞让、是非的性，并没有什么善恶",
+      "confidence": 0.9
+    },
+    {
+      "id": "e11",
+      "name": "色的性",
+      "canonical_name": "色的性",
+      "type": "概念",
+      "evidence": "食的性，色的性，恻隐、羞恶、辞让、是非的性，并没有什么善恶",
+      "confidence": 0.9
+    },
+    {
+      "id": "e12",
+      "name": "恻隐",
+      "canonical_name": "恻隐",
+      "type": "概念",
+      "evidence": "恻隐、羞恶、辞让、是非的性",
+      "confidence": 0.9
+    },
+    {
+      "id": "e13",
+      "name": "羞恶",
+      "canonical_name": "羞恶",
+      "type": "概念",
+      "evidence": "恻隐、羞恶、辞让、是非的性",
+      "confidence": 0.9
+    },
+    {
+      "id": "e14",
+      "name": "辞让",
+      "canonical_name": "辞让",
+      "type": "概念",
+      "evidence": "恻隐、羞恶、辞让、是非的性",
+      "confidence": 0.9
+    },
+    {
+      "id": "e15",
+      "name": "是非",
+      "canonical_name": "是非",
+      "type": "概念",
+      "evidence": "恻隐、羞恶、辞让、是非的性",
+      "confidence": 0.9
+    },
+    {
+      "id": "e16",
+      "name": "善恶",
+      "canonical_name": "善恶",
+      "type": "概念",
+      "evidence": "并没有什么善恶",
+      "confidence": 0.9
+    },
+    {
+      "id": "e17",
+      "name": "吴稚晖",
+      "canonical_name": "吴稚晖",
+      "type": "人物",
+      "evidence": "从甲人创造到我，已有三百万年，我便是第三十万次的一个",
+      "confidence": 0.9
+    }
+  ],
+  "claims": [
+    {
+      "id": "c1",
+      "speaker": "吴稚晖",
+      "claim": "人是怎样有呢？最便当，就是请人来自己创造。",
+      "target": "人",
+      "claim_type": "本体论主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "人是怎样有呢？最便当，就是请人来自己创造。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c2",
+      "speaker": "吴稚晖",
+      "claim": "甲人创造乙人，乙人创造丙人，平均三十年创出一个。",
+      "target": "人",
+      "claim_type": "本体论主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "甲人创造乙人，乙人创造丙人，平均三十年创出一个。",
+      "confidence": 0.8
+    },
+    {
+      "id": "c3",
+      "speaker": "吴稚晖",
+      "claim": "生小孩便是存在六百万年的人。",
+      "target": "人",
+      "claim_type": "定义性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "生小孩便是存在六百万年的人。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c4",
+      "speaker": "吴稚晖",
+      "claim": "招呼朋友便是存在老祖爷爷——漆黑一团先生所爱变的宇宙。换言之，就是存在万有。",
+      "target": "宇宙",
+      "claim_type": "定义性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "招呼朋友便是存在老祖爷爷——漆黑一团先生所爱变的宇宙。换言之，就是存在万有。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c5",
+      "speaker": "吴稚晖",
+      "claim": "食的性，色的性，恻隐、羞恶、辞让、是非的性，并没有什么善恶",
+      "target": "善恶",
+      "claim_type": "价值评价",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "食的性，色的性，恻隐、羞恶、辞让、是非的性，并没有什么善恶",
+      "confidence": 0.9
+    },
+    {
+      "id": "c6",
+      "speaker": "吴稚晖",
+      "claim": "无非漆黑一团先生变动绵延，要扮演万有的作用罢了。",
+      "target": "万有",
+      "claim_type": "本体论主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "无非漆黑一团先生变动绵延，要扮演万有的作用罢了。",
+      "confidence": 0.9
+    }
+  ],
+  "relations": [
+    {
+      "id": "r1",
+      "head": "人",
+      "head_type": "概念",
+      "relation": "定义",
+      "relation_subtype": "概念澄清",
+      "tail": "生小孩",
+      "tail_type": "概念",
+      "polarity": "positive",
+      "evidence": "生小孩便是存在六百万年的人。",
+      "confidence": 0.9
+    },
+    {
+      "id": "r2",
+      "head": "招呼朋友",
+      "head_type": "概念",
+      "relation": "定义",
+      "relation_subtype": "概念澄清",
+      "tail": "存在万有",
+      "tail_type": "概念",
+      "polarity": "positive",
+      "evidence": "招呼朋友便是存在老祖爷爷——漆黑一团先生所爱变的宇宙。换言之，就是存在万有。",
+      "confidence": 0.9
+    },
+    {
+      "id": "r3",
+      "head": "漆黑一团先生",
+      "head_type": "概念",
+      "relation": "导致",
+      "relation_subtype": "不适用",
+      "tail": "万有",
+      "tail_type": "概念",
+      "polarity": "positive",
+      "evidence": "无非漆黑一团先生变动绵延，要扮演万有的作用罢了。",
+      "confidence": 0.9
+    },
+    {
+      "id": "r4",
+      "head": "食的性",
+      "head_type": "概念",
+      "relation": "属于",
+      "relation_subtype": "不适用",
+      "tail": "善恶",
+      "tail_type": "概念",
+      "polarity": "negative",
+      "evidence": "食的性，色的性，恻隐、羞恶、辞让、是非的性，并没有什么善恶",
+      "confidence": 0.9
+    },
+    {
+      "id": "r5",
+      "head": "色的性",
+      "head_type": "概念",
+      "relation": "属于",
+      "relation_subtype": "不适用",
+      "tail": "善恶",
+      "tail_type": "概念",
+      "polarity": "negative",
+      "evidence": "食的性，色的性，恻隐、羞恶、辞让、是非的性，并没有什么善恶",
+      "confidence": 0.9
+    },
+    {
+      "id": "r6",
+      "head": "恻隐",
+      "head_type": "概念",
+      "relation": "属于",
+      "relation_subtype": "不适用",
+      "tail": "善恶",
+      "tail_type": "概念",
+      "polarity": "negative",
+      "evidence": "食的性，色的性，恻隐、羞恶、辞让、是非的性，并没有什么善恶",
+      "confidence": 0.9
+    },
+    {
+      "id": "r7",
+      "head": "羞恶",
+      "head_type": "概念",
+      "relation": "属于",
+      "relation_subtype": "不适用",
+      "tail": "善恶",
+      "tail_type": "概念",
+      "polarity": "negative",
+      "evidence": "食的性，色的性，恻隐、羞恶、辞让、是非的性，并没有什么善恶",
+      "confidence": 0.9
+    },
+    {
+      "id": "r8",
+      "head": "辞让",
+      "head_type": "概念",
+      "relation": "属于",
+      "relation_subtype": "不适用",
+      "tail": "善恶",
+      "tail_type": "概念",
+      "polarity": "negative",
+      "evidence": "食的性，色的性，恻隐、羞恶、辞让、是非的性，并没有什么善恶",
+      "confidence": 0.9
+    },
+    {
+      "id": "r9",
+      "head": "是非",
+      "head_type": "概念",
+      "relation": "属于",
+      "relation_subtype": "不适用",
+      "tail": "善恶",
+      "tail_type": "概念",
+      "polarity": "negative",
+      "evidence": "食的性，色的性，恻隐、羞恶、辞让、是非的性，并没有什么善恶",
+      "confidence": 0.9
+    }
+  ],
+  "definitions": [
+    {
+      "id": "def1",
+      "term": "人",
+      "definition": "人是通过代际创造而存在的，生小孩即人存在六百万年的方式。",
+      "evidence": "人是怎样有呢？最便当，就是请人来自己创造。甲人创造乙人，乙人创造丙人，平均三十年创出一个。生小孩便是存在六百万年的人。",
+      "confidence": 0.9
+    },
+    {
+      "id": "def2",
+      "term": "招呼朋友",
+      "definition": "招呼朋友即存在宇宙万有。",
+      "evidence": "招呼朋友便是存在老祖爷爷——漆黑一团先生所爱变的宇宙。换言之，就是存在万有。",
+      "confidence": 0.9
+    },
+    {
+      "id": "def3",
+      "term": "万有",
+      "definition": "万有是漆黑一团先生变动绵延所扮演的作用。",
+      "evidence": "无非漆黑一团先生变动绵延，要扮演万有的作用罢了。",
+      "confidence": 0.9
+    }
+  ],
+  "citations": [],
+  "rhetorical_devices": [
+    {
+      "id": "rh1",
+      "expression": "漆黑一团",
+      "device_type": "比喻",
+      "literal_target": "宇宙的原始混沌状态",
+      "function": "形象化描述宇宙起源的混沌状态，作为论证的比喻基础",
+      "evidence": "无异反到漆黑一团，还那里还有什么宇宙。",
+      "confidence": 0.9
+    },
+    {
+      "id": "rh2",
+      "expression": "漆黑一团先生",
+      "device_type": "拟人",
+      "literal_target": "宇宙的原始动力或本体",
+      "function": "将宇宙本体拟人化，便于说明其变动绵延创造万有的作用",
+      "evidence": "招呼朋友便是存在老祖爷爷——漆黑一团先生所爱变的宇宙。",
+      "confidence": 0.9
+    },
+    {
+      "id": "rh3",
+      "expression": "老祖爷爷",
+      "device_type": "比喻",
+      "literal_target": "宇宙的原始本体",
+      "function": "用家族长辈比喻宇宙本体，强调其根源性和创造性",
+      "evidence": "招呼朋友便是存在老祖爷爷——漆黑一团先生所爱变的宇宙。",
+      "confidence": 0.9
+    },
+    {
+      "id": "rh4",
+      "expression": "扮演万有",
+      "device_type": "比喻",
+      "literal_target": "宇宙本体产生万物",
+      "function": "用戏剧表演比喻宇宙的创造活动，强调其动态和多样性",
+      "evidence": "无非漆黑一团先生变动绵延，要扮演万有的作用罢了。",
+      "confidence": 0.9
+    }
+  ],
+  "uncertainties": [
+    {
+      "item": "文本中“漆黑一团先生”与“漆黑一团”的关系是否完全等同，以及“漆黑一团先生”是否指代某种宇宙本体论概念，需要更多上下文确认。",
+      "reason": "文本中“漆黑一团”和“漆黑一团先生”分别出现，但未明确说明二者关系。"
+    },
+    {
+      "item": "“我他”“我伊”的具体含义不明确，可能指代不同性别或角色的自我，但文本未解释。",
+      "reason": "文本中仅出现“我他”与“我伊”，未给出定义。"
+    },
+    {
+      "item": "“招呼朋友”的具体含义未在文本中解释，仅通过定义性语句与宇宙万有关联。",
+      "reason": "文本未说明“招呼朋友”的日常含义或在此处的具体所指。"
+    }
+  ]
+}

@@ -1,0 +1,458 @@
+{
+  "metadata": {
+    "schema_version": "lite_v3.0",
+    "article_id": "吴稚晖_001_b4c0e810",
+    "article_title": "一个新信仰的宇宙观及人生观",
+    "source_author": "吴稚晖",
+    "section_title": "讲到这里，第一层可先用不值钱的玄学理想，近乎游戏的，说道毛厕里的石头亦有感觉。苍蝇的感觉，非即人的感觉，他们感觉的状况，颇极差等。玫瑰树的感觉，非即苍蝇的感觉，他们的感觉，又极差等。如是焉能禁我来瞎说，毛厕里石头的感觉，非即玫瑰树的感觉，他们感觉的状况，也极差等。若欲强分高下，则石头有其寂然不动的感觉，真所谓无私心而合天理，所以贞固永寿。一块毛厕里的石头，可以阅几十代人而依然如故，见数百兆苍蝇存灭，看千万棵玫瑰树忽而芬芳，忽而萎枯。彼如曰毛厕里的石头为万物之灵，理由亦未尝不充足。彼另有彼之可感与彼之可觉，人与苍蝇及玫瑰树之感觉，皆非彼所需，故亦非彼所有，如是而已。然这种蹈空的掉枪花，我们中国古代的玄学鬼常用“孰为正色，孰为正味”等的论调，闹得甚嚣尘上。自然受过科学洗礼的玄学鬼，不肯就把这种空言，来作惟一的搪塞。所以说到第二层，他就要戴上科学面具，正正经经，板起了面孔，来断定毛厕里的石头亦有感觉。他不是说能够",
+    "section_author": "讲到这里，第一层可先用不值钱的玄学理想，近乎游戏的，说道毛厕里的石头亦有感觉。苍蝇的感觉，非即人的感觉，他们感觉的状况，颇极差等。玫瑰树的感觉，非即苍蝇的感觉，他们的感觉，又极差等。如是焉能禁我来瞎说，毛厕里石头的感觉，非即玫瑰树的感觉，他们感觉的状况，也极差等。若欲强分高下，则石头有其寂然不动的感觉，真所谓无私心而合天理，所以贞固永寿。一块毛厕里的石头，可以阅几十代人而依然如故，见数百兆苍蝇存灭，看千万棵玫瑰树忽而芬芳，忽而萎枯。彼如曰毛厕里的石头为万物之灵，理由亦未尝不充足。彼另有彼之可感与彼之可觉，人与苍蝇及玫瑰树之感觉，皆非彼所需，故亦非彼所有，如是而已。然这种蹈空的掉枪花，我们中国古代的玄学鬼常用“孰为正色，孰为正味”等的论调，闹得甚嚣尘上。自然受过科学洗礼的玄学鬼，不肯就把这种空言，来作惟一的搪塞。所以说到第二层，他就要戴上科学面具，正正经经，板起了面孔，来断定毛厕里的石头亦有感觉。他不是说能够",
+    "segment_id": "吴稚晖_001_b4c0e810_s0046",
+    "segment_index": 46,
+    "source_file": "E:\\1研究生\\岭南大学\\论文毕业\\capstone\\资料\\新的内容开始了\\local_upload\\input_吴稚晖\\吴稚晖.txt"
+  },
+  "entities": [
+    {
+      "id": "e1",
+      "name": "吃饭要用自己劳力换来",
+      "canonical_name": "吃饭要用自己劳力换来",
+      "type": "观点",
+      "evidence": "第一条吃饭要用自己劳力换来",
+      "confidence": 0.9
+    },
+    {
+      "id": "e2",
+      "name": "宇宙万有",
+      "canonical_name": "宇宙万有",
+      "type": "概念",
+      "evidence": "宇宙万有，都从漆黑一团变出",
+      "confidence": 0.9
+    },
+    {
+      "id": "e3",
+      "name": "漆黑一团",
+      "canonical_name": "漆黑一团",
+      "type": "概念",
+      "evidence": "宇宙万有，都从漆黑一团变出",
+      "confidence": 0.9
+    },
+    {
+      "id": "e4",
+      "name": "维持各个体的存在",
+      "canonical_name": "维持各个体的存在",
+      "type": "概念",
+      "evidence": "维持各个体的存在，原无从再到宇宙以外去想法",
+      "confidence": 0.8
+    },
+    {
+      "id": "e5",
+      "name": "取于无用，以供有用",
+      "canonical_name": "取于无用，以供有用",
+      "type": "观点",
+      "evidence": "应希望取于无用，以供有用",
+      "confidence": 0.9
+    },
+    {
+      "id": "e6",
+      "name": "同类相残",
+      "canonical_name": "同类相残",
+      "type": "概念",
+      "evidence": "同类相残，什么东西都不肯干",
+      "confidence": 0.9
+    },
+    {
+      "id": "e7",
+      "name": "劳力",
+      "canonical_name": "劳力",
+      "type": "概念",
+      "evidence": "劳力即为生命的一部分",
+      "confidence": 0.9
+    },
+    {
+      "id": "e8",
+      "name": "生命",
+      "canonical_name": "生命",
+      "type": "概念",
+      "evidence": "劳力即为生命的一部分",
+      "confidence": 0.9
+    },
+    {
+      "id": "e9",
+      "name": "阻碍别人吃饭",
+      "canonical_name": "阻碍别人吃饭",
+      "type": "概念",
+      "evidence": "一定牺牲别人的劳力，供养自己，却犯第二条的阻碍别人吃饭",
+      "confidence": 0.9
+    },
+    {
+      "id": "e10",
+      "name": "宇宙变动",
+      "canonical_name": "宇宙变动",
+      "type": "概念",
+      "evidence": "亦是宇宙变动中所不可避免的事实",
+      "confidence": 0.8
+    },
+    {
+      "id": "e11",
+      "name": "万有杂然自由出发",
+      "canonical_name": "万有杂然自由出发",
+      "type": "观点",
+      "evidence": "万有杂然自由出发，各自进行，并不受有划一强制之命令",
+      "confidence": 0.9
+    },
+    {
+      "id": "e12",
+      "name": "划一强制之命令",
+      "canonical_name": "划一强制之命令",
+      "type": "概念",
+      "evidence": "并不受有划一强制之命令",
+      "confidence": 0.8
+    },
+    {
+      "id": "e13",
+      "name": "不许有意为无故的相斫",
+      "canonical_name": "不许有意为无故的相斫",
+      "type": "观点",
+      "evidence": "所共同遵守之大法，惟不许有意为无故的相斫罢了",
+      "confidence": 0.9
+    },
+    {
+      "id": "e14",
+      "name": "宇宙永无至极的真美善",
+      "canonical_name": "宇宙永无至极的真美善",
+      "type": "观点",
+      "evidence": "宇宙永无至极的真美善，亦就因为如此",
+      "confidence": 0.9
+    },
+    {
+      "id": "e15",
+      "name": "个体尽了劳力，竟换不到吃饭",
+      "canonical_name": "个体尽了劳力，竟换不到吃饭",
+      "type": "观点",
+      "evidence": "个体尽了劳力，竟换不到吃饭，或吃亦不能饱，乃是道理上的寻常之事",
+      "confidence": 0.9
+    }
+  ],
+  "claims": [
+    {
+      "id": "c1",
+      "speaker": "作者",
+      "claim": "第一条吃饭要用自己劳力换来",
+      "target": "",
+      "claim_type": "规范性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "第一条吃饭要用自己劳力换来",
+      "confidence": 0.9
+    },
+    {
+      "id": "c2",
+      "speaker": "作者",
+      "claim": "宇宙万有，都从漆黑一团变出",
+      "target": "",
+      "claim_type": "描述性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "宇宙万有，都从漆黑一团变出",
+      "confidence": 0.9
+    },
+    {
+      "id": "c3",
+      "speaker": "作者",
+      "claim": "维持各个体的存在，原无从再到宇宙以外去想法",
+      "target": "",
+      "claim_type": "描述性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "维持各个体的存在，原无从再到宇宙以外去想法",
+      "confidence": 0.9
+    },
+    {
+      "id": "c4",
+      "speaker": "作者",
+      "claim": "应希望取于无用，以供有用",
+      "target": "",
+      "claim_type": "规范性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "应希望取于无用，以供有用",
+      "confidence": 0.9
+    },
+    {
+      "id": "c5",
+      "speaker": "作者",
+      "claim": "同类相残，什么东西都不肯干",
+      "target": "",
+      "claim_type": "规范性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "同类相残，什么东西都不肯干",
+      "confidence": 0.9
+    },
+    {
+      "id": "c6",
+      "speaker": "作者",
+      "claim": "劳力即为生命的一部分",
+      "target": "",
+      "claim_type": "定义性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "劳力即为生命的一部分",
+      "confidence": 0.9
+    },
+    {
+      "id": "c7",
+      "speaker": "作者",
+      "claim": "吃饭不用自己劳力，一定牺牲别人的劳力，供养自己，却犯第二条的阻碍别人吃饭",
+      "target": "",
+      "claim_type": "因果主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "吃饭不用自己劳力，一定牺牲别人的劳力，供养自己，却犯第二条的阻碍别人吃饭",
+      "confidence": 0.9
+    },
+    {
+      "id": "c8",
+      "speaker": "作者",
+      "claim": "间接消耗人家一部分的生命，无异同类相残",
+      "target": "",
+      "claim_type": "因果主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "间接消耗人家一部分的生命，无异同类相残",
+      "confidence": 0.9
+    },
+    {
+      "id": "c9",
+      "speaker": "作者",
+      "claim": "故第一条便是救济第二条",
+      "target": "",
+      "claim_type": "因果主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "故第一条便是救济第二条",
+      "confidence": 0.9
+    },
+    {
+      "id": "c10",
+      "speaker": "作者",
+      "claim": "尽管遵着轨道而行，仍不免于失败，亦是宇宙变动中所不可避免的事实",
+      "target": "",
+      "claim_type": "描述性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "尽管遵着轨道而行，仍不免于失败，亦是宇宙变动中所不可避免的事实",
+      "confidence": 0.9
+    },
+    {
+      "id": "c11",
+      "speaker": "作者",
+      "claim": "万有杂然自由出发，各自进行，并不受有划一强制之命令",
+      "target": "",
+      "claim_type": "描述性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "万有杂然自由出发，各自进行，并不受有划一强制之命令",
+      "confidence": 0.9
+    },
+    {
+      "id": "c12",
+      "speaker": "作者",
+      "claim": "所共同遵守之大法，惟不许有意为无故的相斫罢了",
+      "target": "",
+      "claim_type": "描述性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "所共同遵守之大法，惟不许有意为无故的相斫罢了",
+      "confidence": 0.9
+    },
+    {
+      "id": "c13",
+      "speaker": "作者",
+      "claim": "宇宙永无至极的真美善，亦就因为如此",
+      "target": "",
+      "claim_type": "因果主张",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "宇宙永无至极的真美善，亦就因为如此",
+      "confidence": 0.9
+    },
+    {
+      "id": "c14",
+      "speaker": "作者",
+      "claim": "个体尽了劳力，竟换不到吃饭，或吃亦不能饱，乃是道理上的寻常之事",
+      "target": "",
+      "claim_type": "描述性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "个体尽了劳力，竟换不到吃饭，或吃亦不能饱，乃是道理上的寻常之事",
+      "confidence": 0.9
+    },
+    {
+      "id": "c15",
+      "speaker": "作者",
+      "claim": "到此劳力既尽，吃饭艰难之际，若定要强吃，亦必生有阻碍别人吃饭的影响",
+      "target": "",
+      "claim_type": "因果主张",
+      "claim_status": "作者推论",
+      "polarity": "negative",
+      "evidence": "到此劳力既尽，吃饭艰难之际，若定要强吃，亦必生有阻碍别人吃饭的影响",
+      "confidence": 0.9
+    }
+  ],
+  "relations": [
+    {
+      "id": "r1",
+      "head": "宇宙万有",
+      "head_type": "概念",
+      "relation": "源自",
+      "relation_subtype": "不适用",
+      "tail": "漆黑一团",
+      "tail_type": "概念",
+      "polarity": "neutral",
+      "stance_score": 0.0,
+      "intensity": 0.5,
+      "evidence": "宇宙万有，都从漆黑一团变出",
+      "confidence": 0.9
+    },
+    {
+      "id": "r2",
+      "head": "劳力",
+      "head_type": "概念",
+      "relation": "属于",
+      "relation_subtype": "不适用",
+      "tail": "生命",
+      "tail_type": "概念",
+      "polarity": "neutral",
+      "stance_score": 0.0,
+      "intensity": 0.5,
+      "evidence": "劳力即为生命的一部分",
+      "confidence": 0.9
+    },
+    {
+      "id": "r3",
+      "head": "吃饭不用自己劳力",
+      "head_type": "观点",
+      "relation": "导致",
+      "relation_subtype": "不适用",
+      "tail": "阻碍别人吃饭",
+      "tail_type": "概念",
+      "polarity": "negative",
+      "stance_score": -0.8,
+      "intensity": 0.8,
+      "evidence": "吃饭不用自己劳力，一定牺牲别人的劳力，供养自己，却犯第二条的阻碍别人吃饭",
+      "confidence": 0.9
+    },
+    {
+      "id": "r4",
+      "head": "间接消耗人家一部分的生命",
+      "head_type": "观点",
+      "relation": "导致",
+      "relation_subtype": "不适用",
+      "tail": "同类相残",
+      "tail_type": "概念",
+      "polarity": "negative",
+      "stance_score": -0.9,
+      "intensity": 0.9,
+      "evidence": "间接消耗人家一部分的生命，无异同类相残",
+      "confidence": 0.9
+    },
+    {
+      "id": "r5",
+      "head": "第一条",
+      "head_type": "观点",
+      "relation": "作为论据支持",
+      "relation_subtype": "不适用",
+      "tail": "救济第二条",
+      "tail_type": "观点",
+      "polarity": "positive",
+      "stance_score": 0.8,
+      "intensity": 0.7,
+      "evidence": "故第一条便是救济第二条",
+      "confidence": 0.9
+    },
+    {
+      "id": "r6",
+      "head": "万有杂然自由出发",
+      "head_type": "观点",
+      "relation": "导致",
+      "relation_subtype": "不适用",
+      "tail": "无意中之互相阻碍极多",
+      "tail_type": "观点",
+      "polarity": "neutral",
+      "stance_score": 0.0,
+      "intensity": 0.5,
+      "evidence": "然惟其甚自由，故无意中之互相阻碍极多",
+      "confidence": 0.9
+    },
+    {
+      "id": "r7",
+      "head": "无意中之互相阻碍极多",
+      "head_type": "观点",
+      "relation": "导致",
+      "relation_subtype": "不适用",
+      "tail": "宇宙永无至极的真美善",
+      "tail_type": "观点",
+      "polarity": "neutral",
+      "stance_score": 0.0,
+      "intensity": 0.5,
+      "evidence": "宇宙永无至极的真美善，亦就因为如此",
+      "confidence": 0.9
+    },
+    {
+      "id": "r8",
+      "head": "个体尽了劳力，竟换不到吃饭",
+      "head_type": "观点",
+      "relation": "作为论据支持",
+      "relation_subtype": "不适用",
+      "tail": "乃是道理上的寻常之事",
+      "tail_type": "观点",
+      "polarity": "neutral",
+      "stance_score": 0.0,
+      "intensity": 0.5,
+      "evidence": "个体尽了劳力，竟换不到吃饭，或吃亦不能饱，乃是道理上的寻常之事",
+      "confidence": 0.9
+    },
+    {
+      "id": "r9",
+      "head": "劳力既尽，吃饭艰难之际，若定要强吃",
+      "head_type": "观点",
+      "relation": "导致",
+      "relation_subtype": "不适用",
+      "tail": "生有阻碍别人吃饭的影响",
+      "tail_type": "观点",
+      "polarity": "negative",
+      "stance_score": -0.7,
+      "intensity": 0.7,
+      "evidence": "到此劳力既尽，吃饭艰难之际，若定要强吃，亦必生有阻碍别人吃饭的影响",
+      "confidence": 0.9
+    }
+  ],
+  "definitions": [
+    {
+      "id": "def1",
+      "term": "劳力",
+      "definition": "劳力是生命的一部分",
+      "evidence": "劳力即为生命的一部分",
+      "confidence": 0.9
+    },
+    {
+      "id": "def2",
+      "term": "所共同遵守之大法",
+      "definition": "不许有意为无故的相斫",
+      "evidence": "所共同遵守之大法，惟不许有意为无故的相斫罢了",
+      "confidence": 0.9
+    }
+  ],
+  "citations": [],
+  "rhetorical_devices": [],
+  "uncertainties": [
+    {
+      "item": "第一条、第二条的具体内容",
+      "reason": "文本中只提到第一条和第二条的编号，未明确说明第二条的具体内容，仅从上下文推断第二条与阻碍别人吃饭有关。"
+    },
+    {
+      "item": "漆黑一团的具体含义",
+      "reason": "文本中未对漆黑一团进行明确定义，仅作为宇宙万有的来源提及。"
+    }
+  ]
+}

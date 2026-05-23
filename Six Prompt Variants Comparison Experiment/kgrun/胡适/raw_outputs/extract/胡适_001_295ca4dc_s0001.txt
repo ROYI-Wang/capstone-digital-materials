@@ -1,0 +1,505 @@
+{
+  "metadata": {
+    "schema_version": "lite_v2.0",
+    "article_id": "胡适_001_295ca4dc",
+    "article_title": "附注 答陈独秀先生",
+    "source_author": "胡适",
+    "section_title": "",
+    "section_author": "",
+    "segment_id": "胡适_001_295ca4dc_s0001",
+    "segment_index": 1,
+    "source_file": "E:\\1研究生\\岭南大学\\论文毕业\\capstone\\资料\\新的内容开始了\\local_upload\\input_w3\\胡适.txt"
+  },
+  "entities": [
+    {
+      "id": "e1",
+      "name": "胡适",
+      "canonical_name": "胡适",
+      "type": "人物",
+      "evidence": "我和丁在君都可以赞成的",
+      "confidence": 1.0
+    },
+    {
+      "id": "e2",
+      "name": "丁在君",
+      "canonical_name": "丁文江",
+      "type": "人物",
+      "evidence": "我和丁在君都可以赞成的",
+      "confidence": 1.0
+    },
+    {
+      "id": "e3",
+      "name": "陈独秀",
+      "canonical_name": "陈独秀",
+      "type": "人物",
+      "evidence": "然而独秀终是一个不彻底的唯物论者",
+      "confidence": 1.0
+    },
+    {
+      "id": "e4",
+      "name": "唯物论者",
+      "canonical_name": "唯物论者",
+      "type": "阵营/群体",
+      "evidence": "然而独秀终是一个不彻底的唯物论者",
+      "confidence": 1.0
+    },
+    {
+      "id": "e5",
+      "name": "唯物（经济）史观",
+      "canonical_name": "唯物史观",
+      "type": "主义/学说/理论",
+      "evidence": "所以我个人至今还只能说，“唯物（经济）史观至多只能解释大部分的问题”",
+      "confidence": 1.0
+    },
+    {
+      "id": "e6",
+      "name": "经济史观",
+      "canonical_name": "经济史观",
+      "type": "主义/学说/理论",
+      "evidence": "我们虽然极端欢迎“经济史观”来做一种重要的史学工具",
+      "confidence": 1.0
+    },
+    {
+      "id": "e7",
+      "name": "欧战",
+      "canonical_name": "欧战",
+      "type": "历史事件",
+      "evidence": "他责备在君不应该把欧战的责任归到那班非科学的政治家与教育家的身上",
+      "confidence": 1.0
+    },
+    {
+      "id": "e8",
+      "name": "《大幻想》",
+      "canonical_name": "《大幻想》",
+      "type": "著作",
+      "evidence": "在君在他的两篇长文里那样恭维安基尔的《大幻想》",
+      "confidence": 1.0
+    },
+    {
+      "id": "e9",
+      "name": "安基尔",
+      "canonical_name": "安基尔",
+      "type": "人物",
+      "evidence": "在君在他的两篇长文里那样恭维安基尔的《大幻想》",
+      "confidence": 1.0
+    },
+    {
+      "id": "e10",
+      "name": "玄学家",
+      "canonical_name": "玄学家",
+      "type": "阵营/群体",
+      "evidence": "那里是玄学家、教育家、政治家能够制造出来的？",
+      "confidence": 1.0
+    },
+    {
+      "id": "e11",
+      "name": "教育家",
+      "canonical_name": "教育家",
+      "type": "阵营/群体",
+      "evidence": "那里是玄学家、教育家、政治家能够制造出来的？",
+      "confidence": 1.0
+    },
+    {
+      "id": "e12",
+      "name": "政治家",
+      "canonical_name": "政治家",
+      "type": "阵营/群体",
+      "evidence": "那里是玄学家、教育家、政治家能够制造出来的？",
+      "confidence": 1.0
+    },
+    {
+      "id": "e13",
+      "name": "科学",
+      "canonical_name": "科学",
+      "type": "概念",
+      "evidence": "他一面说“心即是物之一种表现”，一面又把“物质的”一个词解成“经济的”",
+      "confidence": 0.8
+    },
+    {
+      "id": "e14",
+      "name": "人生观",
+      "canonical_name": "人生观",
+      "type": "概念",
+      "evidence": "社会，可以解释历史，可以支配人生观",
+      "confidence": 1.0
+    },
+    {
+      "id": "e15",
+      "name": "历史",
+      "canonical_name": "历史",
+      "type": "概念",
+      "evidence": "社会，可以解释历史，可以支配人生观",
+      "confidence": 1.0
+    },
+    {
+      "id": "e16",
+      "name": "社会",
+      "canonical_name": "社会",
+      "type": "概念",
+      "evidence": "社会，可以解释历史，可以支配人生观",
+      "confidence": 1.0
+    },
+    {
+      "id": "e17",
+      "name": "思想知识",
+      "canonical_name": "思想知识",
+      "type": "概念",
+      "evidence": "同时我们也不能不承认思想知识等事也都是“客观的原因”",
+      "confidence": 1.0
+    }
+  ],
+  "claims": [
+    {
+      "id": "c1",
+      "speaker": "胡适",
+      "claim": "社会，可以解释历史，可以支配人生观",
+      "target": "社会",
+      "claim_type": "社会理论主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "社会，可以解释历史，可以支配人生观",
+      "confidence": 1.0
+    },
+    {
+      "id": "c2",
+      "speaker": "胡适",
+      "claim": "这种历史观，我和丁在君都可以赞成的",
+      "target": "历史观",
+      "claim_type": "价值评价",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "这种历史观，我和丁在君都可以赞成的",
+      "confidence": 1.0
+    },
+    {
+      "id": "c3",
+      "speaker": "胡适",
+      "claim": "独秀终是一个不彻底的唯物论者",
+      "target": "陈独秀",
+      "claim_type": "价值评价",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "然而独秀终是一个不彻底的唯物论者",
+      "confidence": 1.0
+    },
+    {
+      "id": "c4",
+      "speaker": "陈独秀",
+      "claim": "心即是物之一种表现",
+      "target": "心",
+      "claim_type": "本体论主张",
+      "claim_status": "间接转述",
+      "polarity": "neutral",
+      "evidence": "他一面说“心即是物之一种表现”",
+      "confidence": 1.0
+    },
+    {
+      "id": "c5",
+      "speaker": "陈独秀",
+      "claim": "把“物质的”一个词解成“经济的”",
+      "target": "物质的",
+      "claim_type": "定义性主张",
+      "claim_status": "间接转述",
+      "polarity": "neutral",
+      "evidence": "一面又把“物质的”一个词解成“经济的”",
+      "confidence": 1.0
+    },
+    {
+      "id": "c6",
+      "speaker": "陈独秀",
+      "claim": "欧洲大战分明是英德两大工业资本制度发展到不得不互争世界商场之战争",
+      "target": "欧战",
+      "claim_type": "历史解释",
+      "claim_status": "直接引用",
+      "polarity": "positive",
+      "evidence": "欧洲大战分明是英德两大工业资本制度发展到不得不互争世界商场之战争",
+      "confidence": 1.0
+    },
+    {
+      "id": "c7",
+      "speaker": "陈独秀",
+      "claim": "如此大的变动，那里是玄学家、教育家、政治家能够制造出来的？",
+      "target": "玄学家、教育家、政治家",
+      "claim_type": "反驳性主张",
+      "claim_status": "直接引用",
+      "polarity": "negative",
+      "evidence": "如此大的变动，那里是玄学家、教育家、政治家能够制造出来的？",
+      "confidence": 1.0
+    },
+    {
+      "id": "c8",
+      "speaker": "胡适",
+      "claim": "欧洲大战之有经济的原因，那是稍有世界知识的人都承认的",
+      "target": "欧战",
+      "claim_type": "历史解释",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "欧洲大战之有经济的原因，那是稍有世界知识的人都承认的",
+      "confidence": 1.0
+    },
+    {
+      "id": "c9",
+      "speaker": "胡适",
+      "claim": "在君在他的两篇长文里那样恭维安基尔的《大幻想》，他岂不承认欧战与经济的关系？",
+      "target": "丁在君",
+      "claim_type": "论战策略批评",
+      "claim_status": "作者推论",
+      "polarity": "positive",
+      "evidence": "在君在他的两篇长文里那样恭维安基尔的《大幻想》（《玄学与科学》页二六，《答张君劢》页一六），他岂不承认欧战与经济的关系？",
+      "confidence": 1.0
+    },
+    {
+      "id": "c10",
+      "speaker": "胡适",
+      "claim": "历史事实的原因往往是多方面的",
+      "target": "历史事实",
+      "claim_type": "方法论主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "我们治史学的人，知道历史事实的原因往往是多方面的",
+      "confidence": 1.0
+    },
+    {
+      "id": "c11",
+      "speaker": "胡适",
+      "claim": "我们虽然极端欢迎“经济史观”来做一种重要的史学工具",
+      "target": "经济史观",
+      "claim_type": "方法论主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "我们虽然极端欢迎“经济史观”来做一种重要的史学工具",
+      "confidence": 1.0
+    },
+    {
+      "id": "c12",
+      "speaker": "胡适",
+      "claim": "思想知识等事也都是“客观的原因”，也可以“变动社会，解释历史，支配人生观”",
+      "target": "思想知识",
+      "claim_type": "社会理论主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "同时我们也不能不承认思想知识等事也都是“客观的原因”，也可以“变动社会，解释历史，支配人生观”",
+      "confidence": 1.0
+    },
+    {
+      "id": "c13",
+      "speaker": "胡适",
+      "claim": "唯物（经济）史观至多只能解释大部分的问题",
+      "target": "唯物（经济）史观",
+      "claim_type": "方法论主张",
+      "claim_status": "作者直接主张",
+      "polarity": "mixed",
+      "evidence": "所以我个人至今还只能说，“唯物（经济）史观至多只能解释大部分的问题”",
+      "confidence": 1.0
+    },
+    {
+      "id": "c14",
+      "speaker": "陈独秀",
+      "claim": "经济史观至多只能解释大部分的问题",
+      "target": "经济史观",
+      "claim_type": "方法论主张",
+      "claim_status": "间接转述",
+      "polarity": "neutral",
+      "evidence": "其实独秀也只承认“经济史观至多只能解释大部分的问题”",
+      "confidence": 1.0
+    }
+  ],
+  "relations": [
+    {
+      "id": "r1",
+      "head": "胡适",
+      "head_type": "人物",
+      "relation": "支持",
+      "relation_subtype": "不适用",
+      "tail": "社会",
+      "tail_type": "概念",
+      "polarity": "positive",
+      "evidence": "社会，可以解释历史，可以支配人生观”。这就是秃头的历史观，用不着戴什么有色彩的帽子了。这种历史观，我和丁在君都可以赞成的。",
+      "confidence": 1.0
+    },
+    {
+      "id": "r2",
+      "head": "胡适",
+      "head_type": "人物",
+      "relation": "批评",
+      "relation_subtype": "概念混淆批评",
+      "tail": "陈独秀",
+      "tail_type": "人物",
+      "polarity": "negative",
+      "evidence": "然而独秀终是一个不彻底的唯物论者。他一面说“心即是物之一种表现”，一面又把“物质的”一个词解成“经济的”。",
+      "confidence": 1.0
+    },
+    {
+      "id": "r3",
+      "head": "陈独秀",
+      "head_type": "人物",
+      "relation": "批评",
+      "relation_subtype": "事实质疑",
+      "tail": "丁在君",
+      "tail_type": "人物",
+      "polarity": "negative",
+      "evidence": "他责备在君不应该把欧战的责任归到那班非科学的政治家与教育家的身上",
+      "confidence": 1.0
+    },
+    {
+      "id": "r4",
+      "head": "胡适",
+      "head_type": "人物",
+      "relation": "反驳",
+      "relation_subtype": "逻辑反驳",
+      "tail": "陈独秀",
+      "tail_type": "人物",
+      "polarity": "negative",
+      "evidence": "不过我们治史学的人，知道历史事实的原因往往是多方面的，所以我们虽然极端欢迎“经济史观”来做一种重要的史学工具，同时我们也不能不承认思想知识等事也都是“客观的原因”，也可以“变动社会，解释历史，支配人生观”。",
+      "confidence": 1.0
+    },
+    {
+      "id": "r5",
+      "head": "胡适",
+      "head_type": "人物",
+      "relation": "支持",
+      "relation_subtype": "部分肯定",
+      "tail": "唯物（经济）史观",
+      "tail_type": "主义/学说/理论",
+      "polarity": "mixed",
+      "evidence": "所以我个人至今还只能说，“唯物（经济）史观至多只能解释大部分的问题”。",
+      "confidence": 1.0
+    },
+    {
+      "id": "r6",
+      "head": "丁在君",
+      "head_type": "人物",
+      "relation": "引用",
+      "relation_subtype": "援引权威支持",
+      "tail": "安基尔",
+      "tail_type": "人物",
+      "polarity": "positive",
+      "evidence": "在君在他的两篇长文里那样恭维安基尔的《大幻想》",
+      "confidence": 1.0
+    },
+    {
+      "id": "r7",
+      "head": "陈独秀",
+      "head_type": "人物",
+      "relation": "主张",
+      "relation_subtype": "不适用",
+      "tail": "欧战",
+      "tail_type": "历史事件",
+      "polarity": "positive",
+      "evidence": "欧洲大战分明是英德两大工业资本制度发展到不得不互争世界商场之战争",
+      "confidence": 1.0
+    },
+    {
+      "id": "r8",
+      "head": "陈独秀",
+      "head_type": "人物",
+      "relation": "归因于",
+      "relation_subtype": "不适用",
+      "tail": "英德两大工业资本制度",
+      "tail_type": "概念",
+      "polarity": "positive",
+      "evidence": "欧洲大战分明是英德两大工业资本制度发展到不得不互争世界商场之战争",
+      "confidence": 1.0
+    }
+  ],
+  "definitions": [
+    {
+      "id": "def1",
+      "term": "秃头的历史观",
+      "definition": "指社会可以解释历史、支配人生观的历史观，不带特定色彩标签",
+      "evidence": "社会，可以解释历史，可以支配人生观”。这就是秃头的历史观，用不着戴什么有色彩的帽子了。",
+      "confidence": 1.0
+    }
+  ],
+  "citations": [
+    {
+      "id": "cit1",
+      "citer": "胡适",
+      "quoted_author": "陈独秀",
+      "quoted_work": "",
+      "quoted_claim": "心即是物之一种表现",
+      "function": "作为批评对象",
+      "evidence": "他一面说“心即是物之一种表现”",
+      "confidence": 1.0
+    },
+    {
+      "id": "cit2",
+      "citer": "胡适",
+      "quoted_author": "陈独秀",
+      "quoted_work": "",
+      "quoted_claim": "把“物质的”一个词解成“经济的”",
+      "function": "作为批评对象",
+      "evidence": "一面又把“物质的”一个词解成“经济的”",
+      "confidence": 1.0
+    },
+    {
+      "id": "cit3",
+      "citer": "胡适",
+      "quoted_author": "陈独秀",
+      "quoted_work": "",
+      "quoted_claim": "欧洲大战分明是英德两大工业资本制度发展到不得不互争世界商场之战争，但看他们战争结果所定的和约便知道，如此大的变动，那里是玄学家、教育家、政治家能够制造出来的？",
+      "function": "作为批评对象",
+      "evidence": "他责备在君不应该把欧战的责任归到那班非科学的政治家与教育家的身上。他说：\n\n> “欧洲大战分明是英德两大工业资本制度发展到不得不互争世界商场之战争，但看他们战争结果所定的和约便知道，如此大的变动，那里是玄学家、教育家、政治家能够制造出来的？”",
+      "confidence": 1.0
+    },
+    {
+      "id": "cit4",
+      "citer": "丁在君",
+      "quoted_author": "安基尔",
+      "quoted_work": "《大幻想》",
+      "quoted_claim": "",
+      "function": "援引权威支持",
+      "evidence": "在君在他的两篇长文里那样恭维安基尔的《大幻想》",
+      "confidence": 1.0
+    },
+    {
+      "id": "cit5",
+      "citer": "胡适",
+      "quoted_author": "陈独秀",
+      "quoted_work": "",
+      "quoted_claim": "经济史观至多只能解释大部分的问题",
+      "function": "中性提及",
+      "evidence": "其实独秀也只承认“经济史观至多只能解释大部分的问题”",
+      "confidence": 1.0
+    }
+  ],
+  "rhetorical_devices": [
+    {
+      "id": "rh1",
+      "expression": "秃头的历史观",
+      "device_type": "比喻",
+      "literal_target": "不带特定色彩标签的历史观",
+      "function": "用比喻强调该历史观没有附加意识形态色彩",
+      "evidence": "这就是秃头的历史观，用不着戴什么有色彩的帽子了。",
+      "confidence": 1.0
+    },
+    {
+      "id": "rh2",
+      "expression": "戴什么有色彩的帽子",
+      "device_type": "比喻",
+      "literal_target": "给历史观附加意识形态标签",
+      "function": "用比喻批评给历史观贴标签的做法",
+      "evidence": "这就是秃头的历史观，用不着戴什么有色彩的帽子了。",
+      "confidence": 1.0
+    },
+    {
+      "id": "rh3",
+      "expression": "百尺竿头更进一步",
+      "device_type": "比喻",
+      "literal_target": "希望胡适完全接受唯物史观",
+      "function": "引用成语表达陈独秀对胡适的期望",
+      "evidence": "独秀希望我“百尺竿头更进一步”（序页二），可惜我不能进这一步了。",
+      "confidence": 1.0
+    }
+  ],
+  "uncertainties": [
+    {
+      "item": "“秃头的历史观”是否指代某种特定历史观，原文未明确说明",
+      "reason": "evidence中只提到“社会，可以解释历史，可以支配人生观”，未给出该历史观的名称或来源"
+    },
+    {
+      "item": "“序页十一，行五”和“序页二”所指的具体文献",
+      "reason": "当前文本未提供完整文献信息"
+    }
+  ]
+}

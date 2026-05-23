@@ -1,0 +1,611 @@
+{
+  "metadata": {
+    "schema_version": "lite_v2.0",
+    "article_id": "丁文江2_000_e838922e",
+    "article_title": "玄学与科学——答张君劢",
+    "source_author": "丁文江",
+    "section_title": "",
+    "section_author": "",
+    "segment_id": "丁文江2_000_e838922e_s0050",
+    "segment_index": 50,
+    "source_file": "E:\\1研究生\\岭南大学\\论文毕业\\capstone\\资料\\新的内容开始了\\local_upload\\input_texts\\丁文江2.txt"
+  },
+  "entities": [
+    {
+      "id": "e1",
+      "name": "省",
+      "canonical_name": "省",
+      "type": "概念",
+      "evidence": "省是求知识的方法。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e2",
+      "name": "知识",
+      "canonical_name": "知识",
+      "type": "概念",
+      "evidence": "省是求知识的方法。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e3",
+      "name": "观察",
+      "canonical_name": "观察",
+      "type": "概念",
+      "evidence": "知识是完全从观察来的",
+      "confidence": 0.9
+    },
+    {
+      "id": "e4",
+      "name": "思想",
+      "canonical_name": "思想",
+      "type": "概念",
+      "evidence": "凡所谓思想的表示，从观察方面讲起来是一种语言的习惯",
+      "confidence": 0.9
+    },
+    {
+      "id": "e5",
+      "name": "语言",
+      "canonical_name": "语言",
+      "type": "概念",
+      "evidence": "凡所谓思想的表示，从观察方面讲起来是一种语言的习惯",
+      "confidence": 0.9
+    },
+    {
+      "id": "e6",
+      "name": "习惯",
+      "canonical_name": "习惯",
+      "type": "概念",
+      "evidence": "凡所谓思想的表示，从观察方面讲起来是一种语言的习惯",
+      "confidence": 0.9
+    },
+    {
+      "id": "e7",
+      "name": "不可观察的假设",
+      "canonical_name": "不可观察的假设",
+      "type": "概念",
+      "evidence": "用不着那种不可观察的假设。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e8",
+      "name": "比较心理学",
+      "canonical_name": "比较心理学",
+      "type": "概念",
+      "evidence": "他们的根据是从比较心理学上来的。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e9",
+      "name": "动物心理学",
+      "canonical_name": "动物心理学",
+      "type": "概念",
+      "evidence": "研究动物心理学的人久已知道",
+      "confidence": 0.9
+    },
+    {
+      "id": "e10",
+      "name": "天性的冲动",
+      "canonical_name": "天性的冲动",
+      "type": "概念",
+      "evidence": "他的行为是一种天性的冲动。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e11",
+      "name": "行为派心理学",
+      "canonical_name": "行为派心理学",
+      "type": "主义/学说/理论",
+      "evidence": "一部分是从行为派心理学来的。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e12",
+      "name": "张君劢",
+      "canonical_name": "张君劢",
+      "type": "人物",
+      "evidence": "至于君劢的“精神”同“我”更不是行为派的学者所能承认的了。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e13",
+      "name": "精神",
+      "canonical_name": "精神",
+      "type": "概念",
+      "evidence": "至于君劢的“精神”同“我”更不是行为派的学者所能承认的了。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e14",
+      "name": "我",
+      "canonical_name": "我",
+      "type": "概念",
+      "evidence": "至于君劢的“精神”同“我”更不是行为派的学者所能承认的了。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e15",
+      "name": "行为派的学者",
+      "canonical_name": "行为派的学者",
+      "type": "阵营/群体",
+      "evidence": "至于君劢的“精神”同“我”更不是行为派的学者所能承认的了。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e16",
+      "name": "罗素",
+      "canonical_name": "罗素",
+      "type": "人物",
+      "evidence": "罗素的地位，正在马哈同杜威之间。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e17",
+      "name": "马哈",
+      "canonical_name": "马哈",
+      "type": "人物",
+      "evidence": "罗素的地位，正在马哈同杜威之间。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e18",
+      "name": "杜威",
+      "canonical_name": "杜威",
+      "type": "人物",
+      "evidence": "罗素的地位，正在马哈同杜威之间。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e19",
+      "name": "心之分析",
+      "canonical_name": "心之分析",
+      "type": "著作",
+      "evidence": "他的“心之分析”，一部分是从马哈来的，一部分是从行为派心理学来的。",
+      "confidence": 0.9
+    }
+  ],
+  "claims": [
+    {
+      "id": "c1",
+      "speaker": "丁文江",
+      "claim": "省是求知识的方法。",
+      "target": "省",
+      "claim_type": "定义性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "省是求知识的方法。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c2",
+      "speaker": "丁文江",
+      "claim": "知识是完全从观察来的",
+      "target": "知识",
+      "claim_type": "知识论主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "知识是完全从观察来的",
+      "confidence": 0.9
+    },
+    {
+      "id": "c3",
+      "speaker": "丁文江",
+      "claim": "凡所谓思想的表示，从观察方面讲起来是一种语言的习惯",
+      "target": "思想",
+      "claim_type": "知识论主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "凡所谓思想的表示，从观察方面讲起来是一种语言的习惯",
+      "confidence": 0.9
+    },
+    {
+      "id": "c4",
+      "speaker": "丁文江",
+      "claim": "要说明他，用不着那种不可观察的假设。",
+      "target": "不可观察的假设",
+      "claim_type": "方法论主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "要说明他，用不着那种不可观察的假设。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c5",
+      "speaker": "丁文江",
+      "claim": "他们的根据是从比较心理学上来的。",
+      "target": "比较心理学",
+      "claim_type": "历史解释",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "他们的根据是从比较心理学上来的。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c6",
+      "speaker": "丁文江",
+      "claim": "研究动物心理学的人久已知道，从前对于动物心理的推论是完全靠不住的",
+      "target": "动物心理学",
+      "claim_type": "历史解释",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "研究动物心理学的人久已知道，从前对于动物心理的推论是完全靠不住的",
+      "confidence": 0.9
+    },
+    {
+      "id": "c7",
+      "speaker": "丁文江",
+      "claim": "很复杂的行为不必一定有很复杂的思想",
+      "target": "行为",
+      "claim_type": "知识论主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "很复杂的行为不必一定有很复杂的思想",
+      "confidence": 0.9
+    },
+    {
+      "id": "c8",
+      "speaker": "丁文江",
+      "claim": "初长成的鸟第一次造他的巢的时候，完全不知道他将来要在巢里边生卵；他的行为是一种天性的冲动。",
+      "target": "鸟",
+      "claim_type": "论据",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "譬如初长成的鸟第一次造他的巢的时候，完全不知道他将来要在巢里边生卵；他的行为是一种天性的冲动。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c9",
+      "speaker": "丁文江",
+      "claim": "凡不是天性的行为都是养成功的习惯",
+      "target": "行为",
+      "claim_type": "知识论主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "凡不是天性的行为都是养成功的习惯",
+      "confidence": 0.9
+    },
+    {
+      "id": "c10",
+      "speaker": "丁文江",
+      "claim": "说明动物的行为不可以用自觉同思想这种假说。",
+      "target": "自觉同思想",
+      "claim_type": "方法论主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "说明动物的行为不可以用自觉同思想这种假说。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c11",
+      "speaker": "丁文江",
+      "claim": "把这种方法推广到人类上来，思想的表现是语言，语言的行为完全是养成功的习惯。",
+      "target": "思想",
+      "claim_type": "知识论主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "把这种方法推广到人类上来，思想的表现是语言，语言的行为完全是养成功的习惯。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c12",
+      "speaker": "丁文江",
+      "claim": "至于君劢的“精神”同“我”更不是行为派的学者所能承认的了。",
+      "target": "张君劢",
+      "claim_type": "反驳性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "至于君劢的“精神”同“我”更不是行为派的学者所能承认的了。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c13",
+      "speaker": "丁文江",
+      "claim": "罗素的地位，正在马哈同杜威之间。",
+      "target": "罗素",
+      "claim_type": "历史解释",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "罗素的地位，正在马哈同杜威之间。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c14",
+      "speaker": "丁文江",
+      "claim": "他的“心之分析”，一部分是从马哈来的，一部分是从行为派心理学来的。",
+      "target": "心之分析",
+      "claim_type": "历史解释",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "他的“心之分析”，一部分是从马哈来的，一部分是从行为派心理学来的。",
+      "confidence": 0.9
+    }
+  ],
+  "relations": [
+    {
+      "id": "r1",
+      "head": "省",
+      "head_type": "概念",
+      "relation": "定义",
+      "relation_subtype": "概念澄清",
+      "tail": "求知识的方法",
+      "tail_type": "概念",
+      "polarity": "positive",
+      "evidence": "省是求知识的方法。",
+      "confidence": 0.9
+    },
+    {
+      "id": "r2",
+      "head": "知识",
+      "head_type": "概念",
+      "relation": "归因于",
+      "relation_subtype": "不适用",
+      "tail": "观察",
+      "tail_type": "概念",
+      "polarity": "positive",
+      "evidence": "知识是完全从观察来的",
+      "confidence": 0.9
+    },
+    {
+      "id": "r3",
+      "head": "思想的表示",
+      "head_type": "概念",
+      "relation": "属于",
+      "relation_subtype": "不适用",
+      "tail": "语言的习惯",
+      "tail_type": "概念",
+      "polarity": "positive",
+      "evidence": "凡所谓思想的表示，从观察方面讲起来是一种语言的习惯",
+      "confidence": 0.9
+    },
+    {
+      "id": "r4",
+      "head": "丁文江",
+      "head_type": "人物",
+      "relation": "引用",
+      "relation_subtype": "援引权威支持",
+      "tail": "比较心理学",
+      "tail_type": "概念",
+      "polarity": "positive",
+      "evidence": "他们的根据是从比较心理学上来的。",
+      "confidence": 0.9
+    },
+    {
+      "id": "r5",
+      "head": "丁文江",
+      "head_type": "人物",
+      "relation": "引用",
+      "relation_subtype": "援引权威支持",
+      "tail": "动物心理学",
+      "tail_type": "概念",
+      "polarity": "positive",
+      "evidence": "研究动物心理学的人久已知道，从前对于动物心理的推论是完全靠不住的",
+      "confidence": 0.9
+    },
+    {
+      "id": "r6",
+      "head": "很复杂的行为",
+      "head_type": "概念",
+      "relation": "推出",
+      "relation_subtype": "不适用",
+      "tail": "不必一定有很复杂的思想",
+      "tail_type": "观点",
+      "polarity": "positive",
+      "evidence": "很复杂的行为不必一定有很复杂的思想",
+      "confidence": 0.9
+    },
+    {
+      "id": "r7",
+      "head": "初长成的鸟第一次造他的巢的时候",
+      "head_type": "例证",
+      "relation": "作为论据支持",
+      "relation_subtype": "不适用",
+      "tail": "很复杂的行为不必一定有很复杂的思想",
+      "tail_type": "观点",
+      "polarity": "positive",
+      "evidence": "譬如初长成的鸟第一次造他的巢的时候，完全不知道他将来要在巢里边生卵；他的行为是一种天性的冲动。",
+      "confidence": 0.9
+    },
+    {
+      "id": "r8",
+      "head": "凡不是天性的行为",
+      "head_type": "概念",
+      "relation": "属于",
+      "relation_subtype": "不适用",
+      "tail": "养成功的习惯",
+      "tail_type": "概念",
+      "polarity": "positive",
+      "evidence": "凡不是天性的行为都是养成功的习惯",
+      "confidence": 0.9
+    },
+    {
+      "id": "r9",
+      "head": "说明动物的行为",
+      "head_type": "概念",
+      "relation": "反对",
+      "relation_subtype": "逻辑反驳",
+      "tail": "自觉同思想这种假说",
+      "tail_type": "概念",
+      "polarity": "negative",
+      "evidence": "说明动物的行为不可以用自觉同思想这种假说。",
+      "confidence": 0.9
+    },
+    {
+      "id": "r10",
+      "head": "思想的表现",
+      "head_type": "概念",
+      "relation": "属于",
+      "relation_subtype": "不适用",
+      "tail": "语言",
+      "tail_type": "概念",
+      "polarity": "positive",
+      "evidence": "把这种方法推广到人类上来，思想的表现是语言，语言的行为完全是养成功的习惯。",
+      "confidence": 0.9
+    },
+    {
+      "id": "r11",
+      "head": "语言的行为",
+      "head_type": "概念",
+      "relation": "属于",
+      "relation_subtype": "不适用",
+      "tail": "养成功的习惯",
+      "tail_type": "概念",
+      "polarity": "positive",
+      "evidence": "语言的行为完全是养成功的习惯。",
+      "confidence": 0.9
+    },
+    {
+      "id": "r12",
+      "head": "丁文江",
+      "head_type": "人物",
+      "relation": "批评",
+      "relation_subtype": "概念混淆批评",
+      "tail": "张君劢",
+      "tail_type": "人物",
+      "polarity": "negative",
+      "evidence": "至于君劢的“精神”同“我”更不是行为派的学者所能承认的了。",
+      "confidence": 0.9
+    },
+    {
+      "id": "r13",
+      "head": "罗素",
+      "head_type": "人物",
+      "relation": "比较",
+      "relation_subtype": "不适用",
+      "tail": "马哈",
+      "tail_type": "人物",
+      "polarity": "neutral",
+      "evidence": "罗素的地位，正在马哈同杜威之间。",
+      "confidence": 0.9
+    },
+    {
+      "id": "r14",
+      "head": "罗素",
+      "head_type": "人物",
+      "relation": "比较",
+      "relation_subtype": "不适用",
+      "tail": "杜威",
+      "tail_type": "人物",
+      "polarity": "neutral",
+      "evidence": "罗素的地位，正在马哈同杜威之间。",
+      "confidence": 0.9
+    },
+    {
+      "id": "r15",
+      "head": "心之分析",
+      "head_type": "著作",
+      "relation": "源自",
+      "relation_subtype": "不适用",
+      "tail": "马哈",
+      "tail_type": "人物",
+      "polarity": "positive",
+      "evidence": "他的“心之分析”，一部分是从马哈来的",
+      "confidence": 0.9
+    },
+    {
+      "id": "r16",
+      "head": "心之分析",
+      "head_type": "著作",
+      "relation": "源自",
+      "relation_subtype": "不适用",
+      "tail": "行为派心理学",
+      "tail_type": "主义/学说/理论",
+      "polarity": "positive",
+      "evidence": "一部分是从行为派心理学来的。",
+      "confidence": 0.9
+    }
+  ],
+  "definitions": [
+    {
+      "id": "def1",
+      "term": "省",
+      "definition": "省是求知识的方法。",
+      "evidence": "省是求知识的方法。",
+      "confidence": 0.9
+    },
+    {
+      "id": "def2",
+      "term": "知识",
+      "definition": "知识是完全从观察来的。",
+      "evidence": "知识是完全从观察来的",
+      "confidence": 0.9
+    },
+    {
+      "id": "def3",
+      "term": "思想的表示",
+      "definition": "从观察方面讲起来是一种语言的习惯。",
+      "evidence": "凡所谓思想的表示，从观察方面讲起来是一种语言的习惯",
+      "confidence": 0.9
+    },
+    {
+      "id": "def4",
+      "term": "天性的冲动",
+      "definition": "初长成的鸟第一次造巢的行为是一种天性的冲动。",
+      "evidence": "他的行为是一种天性的冲动。",
+      "confidence": 0.9
+    },
+    {
+      "id": "def5",
+      "term": "习惯",
+      "definition": "凡不是天性的行为都是养成功的习惯。",
+      "evidence": "凡不是天性的行为都是养成功的习惯",
+      "confidence": 0.9
+    },
+    {
+      "id": "def6",
+      "term": "思想的表现",
+      "definition": "思想的表现是语言。",
+      "evidence": "思想的表现是语言",
+      "confidence": 0.9
+    },
+    {
+      "id": "def7",
+      "term": "语言的行为",
+      "definition": "语言的行为完全是养成功的习惯。",
+      "evidence": "语言的行为完全是养成功的习惯。",
+      "confidence": 0.9
+    }
+  ],
+  "citations": [
+    {
+      "id": "cit1",
+      "citer": "丁文江",
+      "quoted_author": "研究动物心理学的人",
+      "quoted_work": "",
+      "quoted_claim": "从前对于动物心理的推论是完全靠不住的",
+      "function": "援引权威支持",
+      "evidence": "研究动物心理学的人久已知道，从前对于动物心理的推论是完全靠不住的",
+      "confidence": 0.9
+    },
+    {
+      "id": "cit2",
+      "citer": "丁文江",
+      "quoted_author": "罗素",
+      "quoted_work": "心之分析",
+      "quoted_claim": "一部分是从马哈来的，一部分是从行为派心理学来的",
+      "function": "援引权威支持",
+      "evidence": "他的“心之分析”，一部分是从马哈来的，一部分是从行为派心理学来的。",
+      "confidence": 0.9
+    }
+  ],
+  "rhetorical_devices": [
+    {
+      "id": "rh1",
+      "expression": "君劢的“精神”同“我”更不是行为派的学者所能承认的了",
+      "device_type": "讽刺",
+      "literal_target": "张君劢的精神和我概念",
+      "function": "通过指出行为派学者不承认张君劢的概念，讽刺其概念缺乏科学基础。",
+      "evidence": "至于君劢的“精神”同“我”更不是行为派的学者所能承认的了。",
+      "confidence": 0.8
+    }
+  ],
+  "uncertainties": [
+    {
+      "item": "“省”的具体含义",
+      "reason": "文本中仅说“省是求知识的方法”，但未进一步解释“省”的具体内涵，可能指反省或省察。"
+    },
+    {
+      "item": "“他们的根据”中的“他们”指代不明",
+      "reason": "文本中“他们的根据是从比较心理学上来的”中的“他们”没有明确前文指代对象，可能指行为派学者或某种理论。"
+    }
+  ]
+}

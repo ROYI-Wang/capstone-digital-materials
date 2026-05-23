@@ -1,0 +1,309 @@
+{
+  "metadata": {
+    "schema_version": "lite_v2.0",
+    "article_id": "朱经农_000_bb34b81c",
+    "article_title": "读张君劢论人生观与科学的两篇 文章后所发生的疑问",
+    "source_author": "朱经农",
+    "section_title": "",
+    "section_author": "",
+    "segment_id": "朱经农_000_bb34b81c_s0004",
+    "segment_index": 4,
+    "source_file": "E:\\1研究生\\岭南大学\\论文毕业\\capstone\\资料\\新的内容开始了\\local_upload\\input_w1\\朱经农.txt"
+  },
+  "entities": [
+    {
+      "id": "e1",
+      "name": "因果",
+      "canonical_name": "因果",
+      "type": "概念",
+      "evidence": "因果",
+      "confidence": 1.0
+    },
+    {
+      "id": "e2",
+      "name": "科学方法",
+      "canonical_name": "科学方法",
+      "type": "方法",
+      "evidence": "用科学方法去研究人心",
+      "confidence": 1.0
+    },
+    {
+      "id": "e3",
+      "name": "善",
+      "canonical_name": "善",
+      "type": "概念",
+      "evidence": "人生之所谓善者皆精神之表现",
+      "confidence": 1.0
+    },
+    {
+      "id": "e4",
+      "name": "精神",
+      "canonical_name": "精神",
+      "type": "概念",
+      "evidence": "精神之表现",
+      "confidence": 1.0
+    },
+    {
+      "id": "e5",
+      "name": "恶",
+      "canonical_name": "恶",
+      "type": "概念",
+      "evidence": "其所谓恶者皆物质之接触",
+      "confidence": 1.0
+    },
+    {
+      "id": "e6",
+      "name": "物质",
+      "canonical_name": "物质",
+      "type": "概念",
+      "evidence": "所谓物质者凡我以外皆属之",
+      "confidence": 1.0
+    },
+    {
+      "id": "e7",
+      "name": "精神文明",
+      "canonical_name": "精神文明",
+      "type": "概念",
+      "evidence": "精神文明",
+      "confidence": 1.0
+    },
+    {
+      "id": "e8",
+      "name": "物质文明",
+      "canonical_name": "物质文明",
+      "type": "概念",
+      "evidence": "物质文明",
+      "confidence": 1.0
+    },
+    {
+      "id": "e9",
+      "name": "内修",
+      "canonical_name": "内修",
+      "type": "概念",
+      "evidence": "内修",
+      "confidence": 1.0
+    },
+    {
+      "id": "e10",
+      "name": "文化",
+      "canonical_name": "文化",
+      "type": "概念",
+      "evidence": "人类的文化不能不受环境的影响",
+      "confidence": 1.0
+    },
+    {
+      "id": "e11",
+      "name": "环境",
+      "canonical_name": "环境",
+      "type": "概念",
+      "evidence": "人类的文化不能不受环境的影响",
+      "confidence": 1.0
+    },
+    {
+      "id": "e12",
+      "name": "爱斯克模人",
+      "canonical_name": "爱斯基摩人",
+      "type": "阵营/群体",
+      "evidence": "爱斯克模人（Eskimo）",
+      "confidence": 1.0
+    },
+    {
+      "id": "e13",
+      "name": "孔孟",
+      "canonical_name": "孔孟",
+      "type": "人物",
+      "evidence": "自孔孟以至宋元明之理学家",
+      "confidence": 1.0
+    },
+    {
+      "id": "e14",
+      "name": "宋元明之理学家",
+      "canonical_name": "宋元明理学家",
+      "type": "阵营/群体",
+      "evidence": "自孔孟以至宋元明之理学家",
+      "confidence": 1.0
+    },
+    {
+      "id": "e15",
+      "name": "欧洲",
+      "canonical_name": "欧洲",
+      "type": "阵营/群体",
+      "evidence": "三百年来之欧洲",
+      "confidence": 1.0
+    }
+  ],
+  "claims": [
+    {
+      "id": "c1",
+      "speaker": "朱经农",
+      "claim": "全世界的大心理学家天天在实验室里做工夫，用科学方法去研究人心，不是疯子。",
+      "target": "张君劢",
+      "claim_type": "反驳性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "难道全世界的大心理学家天天在实验室里做工夫，用科学方法去研究人心，都是疯子吗?",
+      "confidence": 1.0
+    },
+    {
+      "id": "c2",
+      "speaker": "张君劢",
+      "claim": "人生之所谓善者皆精神之表现，其所谓恶者皆物质之接触。",
+      "target": "",
+      "claim_type": "定义性主张",
+      "claim_status": "直接引用",
+      "polarity": "neutral",
+      "evidence": "君劢说：“人生之所谓善者皆精神之表现……其所谓恶者皆物质之接触。”",
+      "confidence": 1.0
+    },
+    {
+      "id": "c3",
+      "speaker": "朱经农",
+      "claim": "精神之表现与物质之接触实不能分离，不能判其一为善而一为恶。",
+      "target": "张君劢",
+      "claim_type": "反驳性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "精神之表现与物质之接触实不能分离，何由而判其一为善而一为恶?",
+      "confidence": 1.0
+    },
+    {
+      "id": "c4",
+      "speaker": "张君劢",
+      "claim": "自孔孟以至宋元明之理学家，侧重内生活之修养，其结果为精神文明；三百年来之欧洲，侧重以人力支配自然界，故其结果为物质文明。",
+      "target": "",
+      "claim_type": "历史解释",
+      "claim_status": "直接引用",
+      "polarity": "neutral",
+      "evidence": "君劢说：“自孔孟以至宋元明之理学家，侧重内生活之修养，其结果为精神文明，三百年来之欧洲，侧重以人力支配自然界，故其结果为物质文明。”",
+      "confidence": 1.0
+    },
+    {
+      "id": "c5",
+      "speaker": "朱经农",
+      "claim": "中国的精神文明中有许多是近三百年西洋文明中所没有的，希望张君劢举实例。",
+      "target": "张君劢",
+      "claim_type": "问题提出",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "不知所谓中国的精神文明究竟有那几样是近三百年西洋文明中所没有的？我很希望君劢多举些实例来告诉我们。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c6",
+      "speaker": "朱经农",
+      "claim": "内修的工夫不能不受外力的影响，其所生结果不能完全归功于精神而称之曰精神文明。",
+      "target": "张君劢",
+      "claim_type": "反驳性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "我还有一个疑问，就是“内修”的工夫能否不受外力的影响？倘受外力的影响，则其所生结果，能否完全归功于精神，而称之曰精神文明？",
+      "confidence": 1.0
+    },
+    {
+      "id": "c7",
+      "speaker": "朱经农",
+      "claim": "人类的文化不能不受环境的影响，也不能脱离物质的关系。",
+      "target": "",
+      "claim_type": "知识论主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "照我所晓得人类的文化不能不受环境的影响，也不能脱离物质的关系。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c8",
+      "speaker": "朱经农",
+      "claim": "爱斯克模人因自然环境限制，文化不能发达到极高地位。",
+      "target": "",
+      "claim_type": "历史解释",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "爱斯克模人（Eskimo）的天才并不低于其他民族，然而他们的文化不能发达到极高的地位，实因自然环境使然。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c9",
+      "speaker": "朱经农",
+      "claim": "热带温湿之区因物质极丰、谋生过易，人皆习于懒惰，不能产生极高的文化。",
+      "target": "",
+      "claim_type": "历史解释",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "又如在热带温湿之区，物质极丰，谋生过易，不劳而获，人皆习于懒惰，不愿有所作为，故不能产生极高的文化。",
+      "confidence": 1.0
+    }
+  ],
+  "relations": [
+    {
+      "id": "r1",
+      "head": "环境",
+      "head_type": "概念",
+      "relation": "导致",
+      "tail": "文化",
+      "tail_type": "概念",
+      "polarity": "positive",
+      "evidence": "人类的文化不能不受环境的影响",
+      "confidence": 1.0
+    },
+    {
+      "id": "r2",
+      "head": "自然环境",
+      "head_type": "概念",
+      "relation": "导致",
+      "tail": "爱斯克模人",
+      "tail_type": "阵营/群体",
+      "polarity": "negative",
+      "evidence": "爱斯克模人（Eskimo）的天才并不低于其他民族，然而他们的文化不能发达到极高的地位，实因自然环境使然。",
+      "confidence": 1.0
+    },
+    {
+      "id": "r3",
+      "head": "物质",
+      "head_type": "概念",
+      "relation": "导致",
+      "tail": "文化",
+      "tail_type": "概念",
+      "polarity": "negative",
+      "evidence": "在热带温湿之区，物质极丰，谋生过易，不劳而获，人皆习于懒惰，不愿有所作为，故不能产生极高的文化。",
+      "confidence": 1.0
+    }
+  ],
+  "definitions": [],
+  "citations": [],
+  "rhetorical_devices": [
+    {
+      "id": "rh1",
+      "expression": "都是疯子吗",
+      "device_type": "反语",
+      "literal_target": "用科学方法研究人心的大心理学家",
+      "function": "讽刺张君劢否定科学方法研究人心的观点",
+      "evidence": "难道全世界的大心理学家天天在实验室里做工夫，用科学方法去研究人心，都是疯子吗?",
+      "confidence": 1.0
+    }
+  ],
+  "uncertainties": [
+    {
+      "item": "张君劢关于“因果”的完整观点",
+      "reason": "文本仅以“因果”一词开头，未完整呈现张君劢的论述，无法抽取其具体主张。"
+    }
+  ],
+  "_meta": {
+    "status": "success",
+    "stage": "extract",
+    "model": "deepseek-ai/DeepSeek-V4-Flash",
+    "base_url": "https://api.siliconflow.cn/v1",
+    "prompt_version": "extract_prompt_v2.0",
+    "schema_version": "lite_v2.0",
+    "segment_id": "朱经农_000_bb34b81c_s0004",
+    "article_id": "朱经农_000_bb34b81c",
+    "char_start": 2030,
+    "char_end": 2624,
+    "raw_path": "E:\\1研究生\\岭南大学\\论文毕业\\capstone\\资料\\新的内容开始了\\local_upload\\kg_runs\\朱经农\\raw_outputs\\extract\\朱经农_000_bb34b81c_s0004.txt",
+    "parsed_at": "2026-05-19T15:05:10",
+    "started_at": "2026-05-19T15:02:22",
+    "elapsed_seconds": 167.815,
+    "strict_evidence_check": true,
+    "drop_unsupported_evidence": true,
+    "request_timeout_seconds": 180
+  }
+}

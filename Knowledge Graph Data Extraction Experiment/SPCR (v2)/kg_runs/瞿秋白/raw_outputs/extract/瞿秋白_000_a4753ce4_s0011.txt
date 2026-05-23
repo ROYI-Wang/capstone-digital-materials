@@ -1,0 +1,552 @@
+{
+  "metadata": {
+    "schema_version": "lite_v3.0",
+    "article_id": "瞿秋白_000_a4753ce4",
+    "article_title": "《自由世界与必然世界》",
+    "source_author": "瞿秋白",
+    "section_title": "资本主义时代的强有力的生产工具若能变成公共的财产，生产制度若得按",
+    "section_author": "资本主义时代的强有力的生产工具若能变成公共的财产，生产制度若得按",
+    "segment_id": "瞿秋白_000_a4753ce4_s0011",
+    "segment_index": 11,
+    "source_file": "E:\\1研究生\\岭南大学\\论文毕业\\capstone\\资料\\新的内容开始了\\local_upload\\input_瞿秋白\\瞿秋白.txt"
+  },
+  "entities": [
+    {
+      "id": "e1",
+      "name": "儒者",
+      "canonical_name": "儒者",
+      "type": "阵营/群体",
+      "evidence": "戊戌（维新变法）以前的旧中国里，“儒者”遇着李贽、谭嗣同、梁启超之流，不由得不起一种极厌恶的情感",
+      "confidence": IE
+    },
+    {
+      "id": "e2",
+      "name": "李贽",
+      "canonical_name": "李贽",
+      "type": "人物",
+      "evidence": "戊戌（维新变法）以前的旧中国里，“儒者”遇着李贽、谭嗣同、梁启超之流",
+      "confidence": 1.0
+    },
+    {
+      "id": "e3",
+      "name": "谭嗣同",
+      "canonical_name": "谭嗣同",
+      "type": "人物",
+      "evidence": "戊戌（维新变法）以前的旧中国里，“儒者”遇着李贽、谭嗣同、梁启超之流",
+      "confidence": 1.0
+    },
+    {
+      "id": "e4",
+      "name": "梁启超",
+      "canonical_name": "梁启超",
+      "type": "人物",
+      "evidence": "戊戌（维新变法）以前的旧中国里，“儒者”遇着李贽、谭嗣同、梁启超之流",
+      "confidence": 1.0
+    },
+    {
+      "id": "e5",
+      "name": "中国智识阶级",
+      "canonical_name": "中国智识阶级",
+      "type": "阵营/群体",
+      "evidence": "现时的中国智识阶级却对这班“大逆不道”的人表历史上的同情",
+      "confidence": 1.0
+    },
+    {
+      "id": "e6",
+      "name": "大逆不道",
+      "canonical_name": "大逆不道",
+      "type": "评价",
+      "evidence": "他们先天的义务意识是要请这班“大逆不道”的人上菜市口去砍头",
+      "confidence": 1.0
+    },
+    {
+      "id": "e7",
+      "name": "先知先觉",
+      "canonical_name": "先知先觉",
+      "type": "评价",
+      "evidence": "他们先天的义务意识是要请这班“先知先觉”的人进中国思想史的古物陈列馆里去",
+      "confidence": 1.0
+    },
+    {
+      "id": "e8",
+      "name": "情感",
+      "canonical_name": "情感",
+      "type": "概念",
+      "evidence": "这样的情感和义务意识是否是超科学的，是否是先天的？当然不是！这都可以以科学解释其因果。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e9",
+      "name": "义务意识",
+      "canonical_name": "义务意识",
+      "type": "概念",
+      "evidence": "这样的情感和义务意识是否是超科学的，是否是先天的？当然不是！这都可以以科学解释其因果。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e10",
+      "name": "中国经济的变迁",
+      "canonical_name": "中国经济的变迁",
+      "type": "概念",
+      "evidence": "最后的因，便是中国经济的变迁——从宗法社会到资产制度的动象能规定那社会的情感及义务意识的流变。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e11",
+      "name": "宗法社会",
+      "canonical_name": "宗法社会",
+      "type": "概念",
+      "evidence": "最后的因，便是中国经济的变迁——从宗法社会到资产制度的动象能规定那社会的情感及义务意识的流变。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e12",
+      "name": "资产制度",
+      "canonical_name": "资产制度",
+      "type": "概念",
+      "evidence": "最后的因，便是中国经济的变迁——从宗法社会到资产制度的动象能规定那社会的情感及义务意识的流变。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e13",
+      "name": "生产力",
+      "canonical_name": "生产力",
+      "type": "概念",
+      "evidence": "社会现象的最后原因，精确些说，是生产力（包含“自然”，“技术”和“工力”三者）。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e14",
+      "name": "自然",
+      "canonical_name": "自然",
+      "type": "概念",
+      "evidence": "社会现象的最后原因，精确些说，是生产力（包含“自然”，“技术”和“工力”三者）。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e15",
+      "name": "技术",
+      "canonical_name": "技术",
+      "type": "概念",
+      "evidence": "社会现象的最后原因，精确些说，是生产力（包含“自然”，“技术”和“工力”三者）。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e16",
+      "name": "工力",
+      "canonical_name": "工力",
+      "type": "概念",
+      "evidence": "社会现象的最后原因，精确些说，是生产力（包含“自然”，“技术”和“工力”三者）。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e17",
+      "name": "经济关系",
+      "canonical_name": "经济关系",
+      "type": "概念",
+      "evidence": "二、受此等生产力规定的经济关系；",
+      "confidence": 1.0
+    },
+    {
+      "id": "e18",
+      "name": "社会政治制度",
+      "canonical_name": "社会政治制度",
+      "type": "概念",
+      "evidence": "三、生长于此经济“基础”上之社会政治制度；",
+      "confidence": 1.0
+    },
+    {
+      "id": "e19",
+      "name": "社会心理",
+      "canonical_name": "社会心理",
+      "type": "概念",
+      "evidence": "四、一部分直接受经济现象的规定，别部分受生长于经济现象上的社会政治制度的规定之社会心理——（“社会的人”之心理）；",
+      "confidence": 1.0
+    },
+    {
+      "id": "e20",
+      "name": "社会思想",
+      "canonical_name": "社会思想",
+      "type": "概念",
+      "evidence": "五、反映此等社会心理的种种性质之“社会思想”——社会思想家之宇宙观人生观。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e21",
+      "name": "社会理想",
+      "canonical_name": "社会理想",
+      "type": "概念",
+      "evidence": "每种社会理想无不根据于当代的社会心理（时代的人生观）。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e22",
+      "name": "时代的人生观",
+      "canonical_name": "时代的人生观",
+      "type": "概念",
+      "evidence": "每种社会理想无不根据于当代的社会心理（时代的人生观）。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e23",
+      "name": "伟大的个性",
+      "canonical_name": "伟大的个性",
+      "type": "概念",
+      "evidence": "然而社会心理随着经济动象而变，于是在这流变之中可以先发现一二伟大的个性，代表新的社会心理之开始（个性的人生观）。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e24",
+      "name": "个性的人生观",
+      "canonical_name": "个性的人生观",
+      "type": "概念",
+      "evidence": "然而社会心理随着经济动象而变，于是在这流变之中可以先发现一二伟大的个性，代表新的社会心理之开始（个性的人生观）。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e25",
+      "name": "人与自然界的斗争",
+      "canonical_name": "人与自然界的斗争",
+      "type": "概念",
+      "evidence": "每一期人与自然界的斗争，由于自然的适应而生技术上的变革；",
+      "confidence": 1.0
+    }
+  ],
+  "claims": [
+    {
+      "id": "c1",
+      "speaker": "瞿秋白",
+      "claim": "这样的情感和义务意识不是超科学的，不是先天的，都可以以科学解释其因果。",
+      "target": "情感和义务意识",
+      "claim_type": "反驳性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "这样的情感和义务意识是否是超科学的，是否是先天的？当然不是！这都可以以科学解释其因果。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c2",
+      "speaker": "瞿秋白",
+      "claim": "最后的因，便是中国经济的变迁——从宗法社会到资产制度的动象能规定那社会的情感及义务意识的流变。",
+      "target": "社会的情感及义务意识的流变",
+      "claim_type": "因果主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "最后的因，便是中国经济的变迁——从宗法社会到资产制度的动象能规定那社会的情感及义务意识的流变。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c3",
+      "speaker": "瞿秋白",
+      "claim": "社会现象的最后原因，精确些说，是生产力（包含“自然”，“技术”和“工力”三者）。",
+      "target": "社会现象",
+      "claim_type": "因果主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "社会现象的最后原因，精确些说，是生产力（包含“自然”，“技术”和“工力”三者）。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c4",
+      "speaker": "瞿秋白",
+      "claim": "每种社会理想无不根据于当代的社会心理（时代的人生观）。",
+      "target": "社会理想",
+      "claim_type": "描述性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "每种社会理想无不根据于当代的社会心理（时代的人生观）。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c5",
+      "speaker": "瞿秋白",
+      "claim": "社会心理随着经济动象而变，于是在这流变之中可以先发现一二伟大的个性，代表新的社会心理之开始（个性的人生观）。",
+      "target": "社会心理",
+      "claim_type": "因果主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "然而社会心理随着经济动象而变，于是在这流变之中可以先发现一二伟大的个性，代表新的社会心理之开始（个性的人生观）。",
+      "confidence": 1.0
+    }
+  ],
+  "relations": [
+    {
+      "id": "r1",
+      "head": "儒者",
+      "head_type": "阵营/群体",
+      "relation": "主张",
+      "relation_subtype": "不适用",
+      "tail": "李贽、谭嗣同、梁启超之流是“大逆不道”的人",
+      "tail_type": "观点",
+      "polarity": "negative",
+      "stance_score": -1.0,
+      "intensity": 1.0,
+      "evidence": "戊戌（维新变法）以前的旧中国里，“儒者”遇着李贽、谭嗣同、梁启超之流，不由得不起一种极厌恶的情感，他们先天的义务意识是要请这班“大逆不道”的人上菜市口去砍头",
+      "confidence": 1.0
+    },
+    {
+      "id": "r2",
+      "head": "中国智识阶级",
+      "head_type": "阵营/群体",
+      "relation": "主张",
+      "relation_subtype": "不适用",
+      "tail": "李贽、谭嗣同、梁启超之流是“先知先觉”的人",
+      "tail_type": "观点",
+      "polarity": "positive",
+      "stance_score": 1.0,
+      "intensity": 1.0,
+      "evidence": "现时的中国智识阶级却对这班“大逆不道”的人表历史上的同情，他们先天的义务意识是要请这班“先知先觉”的人进中国思想史的古物陈列馆里去",
+      "confidence": 1.0
+    },
+    {
+      "id": "r3",
+      "head": "中国经济的变迁",
+      "head_type": "概念",
+      "relation": "导致",
+      "relation_subtype": "不适用",
+      "tail": "社会的情感及义务意识的流变",
+      "tail_type": "概念",
+      "polarity": "positive",
+      "stance_score": 1.0,
+      "intensity": 0.8,
+      "evidence": "最后的因，便是中国经济的变迁——从宗法社会到资产制度的动象能规定那社会的情感及义务意识的流变。",
+      "confidence": 1.0
+    },
+    {
+      "id": "r4",
+      "head": "生产力",
+      "head_type": "概念",
+      "relation": "导致",
+      "relation_subtype": "不适用",
+      "tail": "社会现象",
+      "tail_type": "概念",
+      "polarity": "positive",
+      "stance_score": 1.0,
+      "intensity": 0.9,
+      "evidence": "社会现象的最后原因，精确些说，是生产力（包含“自然”，“技术”和“工力”三者）。",
+      "confidence": 1.0
+    },
+    {
+      "id": "r5",
+      "head": "生产力",
+      "head_type": "概念",
+      "relation": "包含",
+      "relation_subtype": "不适用",
+      "tail": "自然",
+      "tail_type": "概念",
+      "polarity": "positive",
+      "stance_score": 0.0,
+      "intensity": 0.0,
+      "evidence": "社会现象的最后原因，精确些说，是生产力（包含“自然”，“技术”和“工力”三者）。",
+      "confidence": 1.0
+    },
+    {
+      "id": "r6",
+      "head": "生产力",
+      "head_type": "概念",
+      "relation": "包含",
+      "relation_subtype": "不适用",
+      "tail": "技术",
+      "tail_type": "概念",
+      "polarity": "positive",
+      "stance_score": 0.0,
+      "intensity": 0.0,
+      "evidence": "社会现象的最后原因，精确些说，是生产力（包含“自然”，“技术”和“工力”三者）。",
+      "confidence": 1.0
+    },
+    {
+      "id": "r7",
+      "head": "生产力",
+      "head_type": "概念",
+      "relation": "包含",
+      "relation_subtype": "不适用",
+      "tail": "工力",
+      "tail_type": "概念",
+      "polarity": "positive",
+      "stance_score": 0.0,
+      "intensity": 0.0,
+      "evidence": "社会现象的最后原因，精确些说，是生产力（包含“自然”，“技术”和“工力”三者）。",
+      "confidence": 1.0
+    },
+    {
+      "id": "r8",
+      "head": "生产力",
+      "head_type": "概念",
+      "relation": "规定",
+      "relation_subtype": "不适用",
+      "tail": "经济关系",
+      "tail_type": "概念",
+      "polarity": "positive",
+      "stance_score": 1.0,
+      "intensity": 0.8,
+      "evidence": "二、受此等生产力规定的经济关系；",
+      "confidence": 1.0
+    },
+    {
+      "id": "r9",
+      "head": "经济关系",
+      "head_type": "概念",
+      "relation": "导致",
+      "relation_subtype": "不适用",
+      "tail": "社会政治制度",
+      "tail_type": "概念",
+      "polarity": "positive",
+      "stance_score": 1.0,
+      "intensity": 0.8,
+      "evidence": "三、生长于此经济“基础”上之社会政治制度；",
+      "confidence": 1.0
+    },
+    {
+      "id": "r10",
+      "head": "经济现象",
+      "head_type": "概念",
+      "relation": "规定",
+      "relation_subtype": "不适用",
+      "tail": "社会心理",
+      "tail_type": "概念",
+      "polarity": "positive",
+      "stance_score": 1.0,
+      "intensity": 0.8,
+      "evidence": "四、一部分直接受经济现象的规定，别部分受生长于经济现象上的社会政治制度的规定之社会心理——（“社会的人”之心理）；",
+      "confidence": 1.0
+    },
+    {
+      "id": "r11",
+      "head": "社会政治制度",
+      "head_type": "概念",
+      "relation": "规定",
+      "relation_subtype": "不适用",
+      "tail": "社会心理",
+      "tail_type": "概念",
+      "polarity": "positive",
+      "stance_score": 1.0,
+      "intensity": 0.8,
+      "evidence": "四、一部分直接受经济现象的规定，别部分受生长于经济现象上的社会政治制度的规定之社会心理——（“社会的人”之心理）；",
+      "confidence": 1.0
+    },
+    {
+      "id": "r12",
+      "head": "社会心理",
+      "head_type": "概念",
+      "relation": "导致",
+      "relation_subtype": "不适用",
+      "tail": "社会思想",
+      "tail_type": "概念",
+      "polarity": "positive",
+      "stance_score": 1.0,
+      "intensity": 0.8,
+      "evidence": "五、反映此等社会心理的种种性质之“社会思想”——社会思想家之宇宙观人生观。",
+      "confidence": 1.0
+    },
+    {
+      "id": "r13",
+      "head": "社会心理",
+      "head_type": "概念",
+      "relation": "导致",
+      "relation_subtype": "不适用",
+      "tail": "社会理想",
+      "tail_type": "概念",
+      "polarity": "positive",
+      "stance_score": 1.0,
+      "intensity": 0.8,
+      "evidence": "每种社会理想无不根据于当代的社会心理（时代的人生观）。",
+      "confidence": 1.0
+    },
+    {
+      "id": "r14",
+      "head": "经济动象",
+      "head_type": "概念",
+      "relation": "导致",
+      "relation_subtype": "不适用",
+      "tail": "社会心理",
+      "tail_type": "概念",
+      "polarity": "positive",
+      "stance_score": 1.0,
+      "intensity": 0.8,
+      "evidence": "然而社会心理随着经济动象而变，于是在这流变之中可以先发现一二伟大的个性，代表新的社会心理之开始（个性的人生观）。",
+      "confidence": 1.0
+    },
+    {
+      "id": "r15",
+      "head": "伟大的个性",
+      "head_type": "概念",
+      "relation": "代表",
+      "relation_subtype": "不适用",
+      "tail": "新的社会心理之开始",
+      "tail_type": "概念",
+      "polarity": "positive",
+      "stance_score":  perm_identity,
+      "intensity": 0.7,
+      "evidence": "然而社会心理随着经济动象而变，于是在这流变之中可以先发现一二伟大的个性，代表新的社会心理之开始（个性的人生观）。",
+      "confidence": 1.0
+    },
+    {
+      "id": "r16",
+      "head": "人与自然界的斗争",
+      "head_type": "概念",
+      "relation": "导致",
+      "relation_subtype": "不适用",
+      "tail": "技术上的变革",
+      "tail_type": "概念",
+      "polarity": "positive",
+      "stance_score": 1.0,
+      "intensity": 0.8,
+      "evidence": "每一期人与自然界的斗争，由于自然的适应而生技术上的变革；",
+      "confidence": 1.0
+    }
+  ],
+  "definitions": [
+    {
+      "id": "def1",
+      "term": "生产力",
+      "definition": "社会现象的最后原因，包含“自然”、“技术”和“工力”三者。",
+      "evidence": "社会现象的最后原因，精确些说，是生产力（包含“自然”，“技术”和“工力”三者）。",
+      "confidence": 1.0
+    },
+    {
+      "id": "def2",
+      "term": "社会心理",
+      "definition": "一部分直接受经济现象的规定，别部分受生长于经济现象上的社会政治制度的规定之心理，即“社会的人”之心理。",
+      "evidence": "四、一部分直接受经济现象的规定，别部分受生长于经济现象上的社会政治制度的规定之社会心理——（“社会的人”之心理）；",
+      "confidence": 1.0
+    },
+    {
+      "id": "def3",
+      "term": "社会思想",
+      "definition": "反映社会心理的种种性质之思想，即社会思想家之宇宙观人生观。",
+      "evidence": "五、反映此等社会心理的种种性质之“社会思想”——社会思想家之宇宙观人生观。",
+      "confidence": 1.0
+    }
+  ],
+  "citations": [],
+  "rhetorical_devices": [
+    {
+      "id": "rh1",
+      "expression": "请这班“大逆不道”的人上菜市口去砍头",
+      "device_type": "比喻",
+      "literal_target": "儒者要处死李贽、谭嗣同、梁启超等人",
+      "function": "形象化地描述儒者对异端人物的极端排斥态度",
+      "evidence": "他们先天的义务意识是要请这班“大逆不道”的人上菜市口去砍头",
+      "confidence": 1.0
+    },
+    {
+      "id": "rh2",
+      "expression": "请这班“先知先觉”的人进中国思想史的古物陈列馆里去",
+      "device_type": "比喻",
+      "literal_target": "中国智识阶级将李贽、谭嗣同、梁启超等人视为历史人物并给予同情",
+      "function": "形象化地描述智识阶级对历史人物的态度，暗示将其视为过时之物",
+      "evidence": "他们先天的义务意识是要请这班“先知先觉”的人进中国思想史的古物陈列馆里去",
+      "confidence": 1.0
+    }
+  ],
+  "uncertainties": [
+    {
+      "item": "“儒者”和“中国智识阶级”的具体指代范围",
+      "reason": "文本未明确说明“儒者”和“中国智识阶级”的具体构成或历史时期，仅从上下文可推断为不同时代的群体。"
+    },
+    {
+      "item": "“先天的义务意识”中的“先天”含义",
+      "reason": "文本中“先天的义务意识”出现两次，但未明确定义“先天”在此处的具体含义，可能指先验或本能。"
+    }
+  ]
+}

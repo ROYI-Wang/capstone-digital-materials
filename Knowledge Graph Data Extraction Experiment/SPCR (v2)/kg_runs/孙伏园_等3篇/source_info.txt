@@ -1,0 +1,17 @@
+源文件：
+  E:\1研究生\岭南大学\论文毕业\capstone\资料\新的内容开始了\local_upload\input_v2_w3\孙伏园.txt
+  E:\1研究生\岭南大学\论文毕业\capstone\资料\新的内容开始了\local_upload\input_v2_w3\梁启超.txt
+  E:\1研究生\岭南大学\论文毕业\capstone\资料\新的内容开始了\local_upload\input_v2_w3\甘蛰仙.txt
+作者：
+  孙伏园
+  张东荪
+  梁启超
+  甘蛰仙
+
+文章清单：
+  1. 玄学科学论战杂话  (作者=孙伏园, 文件=E:\1研究生\岭南大学\论文毕业\capstone\资料\新的内容开始了\local_upload\input_v2_w3\孙伏园.txt)
+  2. 东荪按  (作者=张东荪, 文件=E:\1研究生\岭南大学\论文毕业\capstone\资料\新的内容开始了\local_upload\input_v2_w3\孙伏园.txt)
+  3. 关于玄学科学论战之“战时国际公法”  (作者=梁启超, 文件=E:\1研究生\岭南大学\论文毕业\capstone\资料\新的内容开始了\local_upload\input_v2_w3\梁启超.txt)
+  4. 人生观与科学  (作者=梁启超, 文件=E:\1研究生\岭南大学\论文毕业\capstone\资料\新的内容开始了\local_upload\input_v2_w3\梁启超.txt)
+  5. 东荪按  (作者=张东荪, 文件=E:\1研究生\岭南大学\论文毕业\capstone\资料\新的内容开始了\local_upload\input_v2_w3\梁启超.txt)
+  6. 人生观与知识论  (作者=甘蛰仙, 文件=E:\1研究生\岭南大学\论文毕业\capstone\资料\新的内容开始了\local_upload\input_v2_w3\甘蛰仙.txt)

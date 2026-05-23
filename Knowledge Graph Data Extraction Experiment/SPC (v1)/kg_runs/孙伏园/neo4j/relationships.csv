@@ -1,0 +1,31 @@
+﻿source_id,target_id,type,relation,polarity,stance_score,intensity,relation_subtype,evidence,confidence,article_id,segment_id
+孙伏园,article:0557e2c0461f,WROTE,WROTE,neutral,0,0,,,,孙伏园_000_50fcd0d8,
+张东荪,article:0a09528227d2,WROTE,WROTE,neutral,0,0,,,,孙伏园_001_119b038d,
+entity:da4572fa708f,entity:ab5f008cd73e,RELATES_TO,定义,neutral,0,0,概念澄清,玄学是整个地研究宇宙,0.9,孙伏园_000_50fcd0d8,s0000
+entity:da4572fa708f,entity:0a5d9170d332,RELATES_TO,定义,neutral,0,0,概念澄清,科学是分别地研究宇宙,0.9,孙伏园_000_50fcd0d8,s0000
+entity:da4572fa708f,entity:67821481a750,RELATES_TO,定义,neutral,0,0,概念澄清,人生观是某一个人（或某一派人）对于人生的见解与态度,0.9,孙伏园_000_50fcd0d8,s0000
+entity:da4572fa708f,entity:a5902cbd02aa,RELATES_TO,定义,neutral,0,0,概念澄清,哲学是整个地和分别地研究人生,0.9,孙伏园_000_50fcd0d8,s0000
+entity:da4572fa708f,term:1c732b40077d,RELATES_TO,定义,neutral,0,0,概念澄清,哲学的内容应该是:(一) 整个地研究人生 —— 人生哲学;(二) 分别地研究人生——社会学，心理学，教育学，等等,0.9,孙伏园_000_50fcd0d8,s0000
+entity:da4572fa708f,term:6e24900ab8da,RELATES_TO,主张,positive,0,0,不适用,人生观对于玄学或科学的关系，远不如对于哲学的那样重要,0.9,孙伏园_000_50fcd0d8,s0000
+entity:a5902cbd02aa,entity:67821481a750,RELATES_TO,包含,positive,0,0,不适用,人生观则包在哲学范围以内,0.9,孙伏园_000_50fcd0d8,s0001
+entity:a5902cbd02aa,entity:0a5d9170d332,RELATES_TO,区分,neutral,0,0,概念澄清,哲学介乎科学与玄学之间,0.9,孙伏园_000_50fcd0d8,s0001
+entity:a5902cbd02aa,entity:ab5f008cd73e,RELATES_TO,区分,neutral,0,0,概念澄清,哲学介乎科学与玄学之间,0.9,孙伏园_000_50fcd0d8,s0001
+entity:da4572fa708f,entity:fe901cfcc616,RELATES_TO,批评,negative,0,0,一般批评,张君第一篇文中所举的九条，我以为只有第八条是人生观，其余八条或属宗教，或属玄学，或属科学，或与人生观同属哲学，但都不是人生观,0.9,孙伏园_000_50fcd0d8,s0001
+entity:da4572fa708f,entity:09d93e258179,RELATES_TO,支持,positive,0,0,援引权威,如任君所论，人生观受科学方法的影响，我是极以为然的,0.9,孙伏园_000_50fcd0d8,s0001
+entity:da4572fa708f,entity:0bacf98593d1,RELATES_TO,批评,negative,0,0,一般批评,如丁君所论，人生观将来能不能统一是一事，言外是说人生观将来能统一的，我是不很希望的。,0.9,孙伏园_000_50fcd0d8,s0002
+entity:da4572fa708f,entity:67821481a750,RELATES_TO,区分,neutral,0,0,概念澄清,人生观受不受科学的影响是一问题，人生观统一不统一又是一问题。,1.0,孙伏园_000_50fcd0d8,s0002
+entity:da4572fa708f,entity:0a5d9170d332,RELATES_TO,归谬,negative,0,0,归谬,如果凡属思想都要受科学的支配，那么许多文学美术上极有价值的空想，都要宣告死刑了。,1.0,孙伏园_000_50fcd0d8,s0002
+entity:da4572fa708f,entity:67821481a750,RELATES_TO,归谬,negative,0,0,归谬,如果各个人的人生观都要统一起来，那么思想没有自由发展的余地，人生只是呆板的干燥的单调的动物生活罢了。,1.0,孙伏园_000_50fcd0d8,s0002
+entity:da4572fa708f,term:39a8e7af4e74,RELATES_TO,主张,neutral,0,0,不适用,伏园先生于玄科之战的混乱声中独先提出玄学与科学定义的问题,0.9,孙伏园_001_119b038d,s0000
+entity:ab5f008cd73e,entity:ff84491eb68c,RELATES_TO,定义,neutral,0,0,概念澄清,“玄学”本来是 Metaphysics 的译语,1.0,孙伏园_001_119b038d,s0000
+entity:0a5d9170d332,entity:0a5d9170d332,RELATES_TO,定义,neutral,0,0,概念澄清,科学当然是 Science 的译语,1.0,孙伏园_001_119b038d,s0000
+entity:ab5f008cd73e,entity:a5902cbd02aa,RELATES_TO,属于,neutral,0,0,不适用,而玄学在通常讲来，即是狭义的哲学。,0.9,孙伏园_001_119b038d,s0000
+entity:a5902cbd02aa,entity:9624496c5828,RELATES_TO,包含,neutral,0,0,不适用,因为哲学包括三部分：一为认识论,1.0,孙伏园_001_119b038d,s0000
+entity:ab5f008cd73e,term:b10de826cac7,RELATES_TO,包含,neutral,0,0,不适用,通常名本体论与宇宙论为玄学。所以玄学是狭义的哲学，而以本体论为中心。,0.9,孙伏园_001_119b038d,s0000
+entity:ab5f008cd73e,entity:7d85d06a9769,RELATES_TO,包含,neutral,0,0,不适用,通常名本体论与宇宙论为玄学。,0.9,孙伏园_001_119b038d,s0000
+entity:b6aa967fc434,entity:0013d0e3f252,RELATES_TO,区分,neutral,0,0,概念澄清,前者以美英的经验派中为多；后者以大陆的理性派为多。,0.8,孙伏园_001_119b038d,s0000
+entity:a5d9f1eb114e,entity:0bacf98593d1,RELATES_TO,批评,negative,0,0,一般批评,我总觉得丁在君先生、张君劢先生各有先入之见，所以来不及把界说弄清楚，而先就扭做一团了，诚不免有些遗憾。,0.9,孙伏园_001_119b038d,s0000
+entity:a5d9f1eb114e,entity:fe901cfcc616,RELATES_TO,批评,negative,0,0,一般批评,我总觉得丁在君先生、张君劢先生各有先入之见，所以来不及把界说弄清楚，而先就扭做一团了，诚不免有些遗憾。,0.9,孙伏园_001_119b038d,s0000
+entity:a5d9f1eb114e,entity:ff64cde28949,RELATES_TO,批评,negative,0,0,一般批评,至于胡适之先生挑剔矛盾律，也是枝叶。,0.8,孙伏园_001_119b038d,s0000
+entity:0bacf98593d1,entity:fe901cfcc616,RELATES_TO,批评,negative,0,0,一般批评,总觉得丁在君先生、张君劢先生各有先入之见，所以来不及把界说弄清楚，而先就扭做一团了,1.0,孙伏园_001_119b038d,s0001
+entity:a5d9f1eb114e,entity:da4572fa708f,RELATES_TO,回应,neutral,0,0,一般批评,我不妨因伏园先生的唆示，而对于两位提出一个劝告,1.0,孙伏园_001_119b038d,s0001

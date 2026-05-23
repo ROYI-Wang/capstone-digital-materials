@@ -1,0 +1,183 @@
+{
+  "metadata": {
+    "schema_version": "lite_v2.0",
+    "article_id": "丁文江_000_3ba07a5e",
+    "article_title": "玄学与科学 ——评张君劢的《人生观》",
+    "source_author": "丁文江",
+    "section_title": "",
+    "section_author": "",
+    "segment_id": "丁文江_000_3ba07a5e_s0044",
+    "segment_index": 44,
+    "source_file": "E:\\1研究生\\岭南大学\\论文毕业\\capstone\\资料\\新的内容开始了\\local_upload\\input_texts\\丁文江.txt"
+  },
+  "entities": [
+    {
+      "id": "e1",
+      "name": "张君劢",
+      "canonical_name": "张君劢",
+      "type": "人物",
+      "evidence": "张君劢的话自然不能成立了",
+      "confidence": 1.0
+    },
+    {
+      "id": "e2",
+      "name": "《戏曲图考》",
+      "canonical_name": "戏曲图考",
+      "type": "著作",
+      "evidence": "就拿我厨子看的四本《戏曲图考》来做统计",
+      "confidence": 1.0
+    },
+    {
+      "id": "e3",
+      "name": "《缀白裘》",
+      "canonical_name": "缀白裘",
+      "type": "著作",
+      "evidence": "随手拿了一本《缀白裘》来一数",
+      "confidence": 1.0
+    },
+    {
+      "id": "e4",
+      "name": "《元曲选》",
+      "canonical_name": "元曲选",
+      "type": "著作",
+      "evidence": "后来在一个朋友家中借得一部《元曲选》",
+      "confidence": 1.0
+    },
+    {
+      "id": "e5",
+      "name": "《六十种曲》",
+      "canonical_name": "六十种曲",
+      "type": "著作",
+      "evidence": "又寻得汲古阁的《六十种曲》",
+      "confidence": 1.0
+    },
+    {
+      "id": "e6",
+      "name": "刘洪昇",
+      "canonical_name": "刘洪昇",
+      "type": "人物",
+      "evidence": "《戏曲图考》上面有“刘洪昇、杨小楼秘本”几个字",
+      "confidence": 1.0
+    },
+    {
+      "id": "e7",
+      "name": "杨小楼",
+      "canonical_name": "杨小楼",
+      "type": "人物",
+      "evidence": "《戏曲图考》上面有“刘洪昇、杨小楼秘本”几个字",
+      "confidence": 1.0
+    },
+    {
+      "id": "e8",
+      "name": "汲古阁",
+      "canonical_name": "汲古阁",
+      "type": "阵营/群体",
+      "evidence": "又寻得汲古阁的《六十种曲》",
+      "confidence": 1.0
+    }
+  ],
+  "claims": [
+    {
+      "id": "c1",
+      "speaker": "丁文江",
+      "claim": "他并没有举出什么证据",
+      "target": "张君劢",
+      "claim_type": "论战策略批评",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "他并没有举出什么证据",
+      "confidence": 1.0
+    },
+    {
+      "id": "c2",
+      "speaker": "丁文江",
+      "claim": "大约也是起于他“良心之自动，而决非有使之然者也”",
+      "target": "张君劢",
+      "claim_type": "论战策略批评",
+      "claim_status": "作者讽刺性归纳",
+      "polarity": "negative",
+      "evidence": "大约也是起于他“良心之自动，而决非有使之然者也”",
+      "confidence": 0.9
+    },
+    {
+      "id": "c3",
+      "speaker": "丁文江",
+      "claim": "我觉得他提出的问题很有研究的兴味",
+      "target": "张君劢",
+      "claim_type": "价值评价",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "我觉得他提出的问题很有研究的兴味",
+      "confidence": 1.0
+    },
+    {
+      "id": "c4",
+      "speaker": "丁文江",
+      "claim": "张君劢的话自然不能成立了",
+      "target": "张君劢",
+      "claim_type": "结论性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "张君劢的话自然不能成立了",
+      "confidence": 1.0
+    }
+  ],
+  "relations": [
+    {
+      "id": "r1",
+      "head": "丁文江",
+      "head_type": "人物",
+      "relation": "批评",
+      "relation_subtype": "证据不足批评",
+      "tail": "张君劢",
+      "tail_type": "人物",
+      "polarity": "negative",
+      "evidence": "他并没有举出什么证据",
+      "confidence": 1.0
+    },
+    {
+      "id": "r2",
+      "head": "丁文江",
+      "head_type": "人物",
+      "relation": "反驳",
+      "relation_subtype": "事实质疑",
+      "tail": "张君劢",
+      "tail_type": "人物",
+      "polarity": "negative",
+      "evidence": "张君劢的话自然不能成立了",
+      "confidence": 1.0
+    },
+    {
+      "id": "r3",
+      "head": "丁文江",
+      "head_type": "人物",
+      "relation": "引用",
+      "relation_subtype": "作为批评对象",
+      "tail": "张君劢",
+      "tail_type": "人物",
+      "polarity": "negative",
+      "evidence": "大约也是起于他“良心之自动，而决非有使之然者也”",
+      "confidence": 0.9
+    }
+  ],
+  "definitions": [],
+  "citations": [
+    {
+      "id": "cit1",
+      "citer": "丁文江",
+      "quoted_author": "张君劢",
+      "quoted_work": "",
+      "quoted_claim": "良心之自动，而决非有使之然者也",
+      "function": "作为批评对象",
+      "evidence": "大约也是起于他“良心之自动，而决非有使之然者也”",
+      "confidence": 0.9
+    }
+  ],
+  "rhetorical_devices": [],
+  "uncertainties": [
+    {
+      "item": "丁文江引用张君劢的“良心之自动，而决非有使之然者也”是否属于直接引用还是讽刺性归纳",
+      "reason": "原文用“大约也是起于他”引出，语气带有推测和讽刺，但引号内文字可能来自张君劢原文，无法完全确定是直接引用还是丁文江的讽刺性归纳。"
+    }
+  ]
+}

@@ -1,0 +1,283 @@
+{
+  "metadata": {
+    "schema_version": "lite_v2.0",
+    "article_id": "林宰平_000_acbbe922",
+    "article_title": "读丁在君先生的《玄学与科学》",
+    "source_author": "林宰平",
+    "section_title": "",
+    "section_author": "",
+    "segment_id": "林宰平_000_acbbe922_s0008",
+    "segment_index": 8,
+    "source_file": "E:\\1研究生\\岭南大学\\论文毕业\\capstone\\资料\\新的内容开始了\\local_upload\\input_w0\\林宰平.txt"
+  },
+  "entities": [
+    {
+      "id": "e1",
+      "name": "钵德定律",
+      "canonical_name": "钵德定律",
+      "type": "概念",
+      "evidence": "钵德（Bode）定律，在太阳系中九个行星虽说都和这定律相合",
+      "confidence": 0.9
+    },
+    {
+      "id": "e2",
+      "name": "海王星",
+      "canonical_name": "海王星",
+      "type": "概念",
+      "evidence": "其实海王星这个大魔王他无法无天的已经要宣告独立，不大服从钵德定律",
+      "confidence": 0.9
+    },
+    {
+      "id": "e3",
+      "name": "推论",
+      "canonical_name": "推论",
+      "type": "概念",
+      "evidence": "讲到推论呢，他的价值自然比定律更不如。凡属推论，必须先有一个假定",
+      "confidence": 0.9
+    },
+    {
+      "id": "e4",
+      "name": "假定",
+      "canonical_name": "假定",
+      "type": "概念",
+      "evidence": "凡属推论，必须先有一个假定，这种假定所推出来的结果，往往都是或然的",
+      "confidence": 0.9
+    },
+    {
+      "id": "e5",
+      "name": "地球年龄",
+      "canonical_name": "地球年龄",
+      "type": "概念",
+      "evidence": "关于地球年龄的问题：据物理学家所推算的，约为四十兆年，而据生物学家的推算，则竟达数百兆年以上",
+      "confidence": 0.9
+    },
+    {
+      "id": "e6",
+      "name": "物理学家",
+      "canonical_name": "物理学家",
+      "type": "阵营/群体",
+      "evidence": "据物理学家所推算的，约为四十兆年",
+      "confidence": 0.9
+    },
+    {
+      "id": "e7",
+      "name": "生物学家",
+      "canonical_name": "生物学家",
+      "type": "阵营/群体",
+      "evidence": "而据生物学家的推算，则竟达数百兆年以上",
+      "confidence": 0.9
+    },
+    {
+      "id": "e8",
+      "name": "天文家",
+      "canonical_name": "天文家",
+      "type": "阵营/群体",
+      "evidence": "即如天文家所推算的数目，和地质家推算的数目，相差至少也有六万年",
+      "confidence": 0.9
+    },
+    {
+      "id": "e9",
+      "name": "地质家",
+      "canonical_name": "地质家",
+      "type": "阵营/群体",
+      "evidence": "即如天文家所推算的数目，和地质家推算的数目，相差至少也有六万年",
+      "confidence": 0.9
+    },
+    {
+      "id": "e10",
+      "name": "经验",
+      "canonical_name": "经验",
+      "type": "概念",
+      "evidence": "我们何以能够推论？无非靠着我们经验上所认为已知的，用以推测所未知的",
+      "confidence": 0.9
+    },
+    {
+      "id": "e11",
+      "name": "已知",
+      "canonical_name": "已知",
+      "type": "概念",
+      "evidence": "无非靠着我们经验上所认为已知的，用以推测所未知的",
+      "confidence": 0.9
+    },
+    {
+      "id": "e12",
+      "name": "未知",
+      "canonical_name": "未知",
+      "type": "概念",
+      "evidence": "用以推测所未知的，从现在推到过去，或推及将来",
+      "confidence": 0.9
+    },
+    {
+      "id": "e13",
+      "name": "林宰平",
+      "canonical_name": "林宰平",
+      "type": "人物",
+      "evidence": "我现在住的小小院子里，这几天榆叶梅才谢，又开满了一堆一堆雪白的丁香",
+      "confidence": 0.9
+    }
+  ],
+  "claims": [
+    {
+      "id": "c1",
+      "speaker": "林宰平",
+      "claim": "推论的价值比定律更不如",
+      "target": "推论",
+      "claim_type": "价值评价",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "讲到推论呢，他的价值自然比定律更不如。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c2",
+      "speaker": "林宰平",
+      "claim": "凡属推论，必须先有一个假定，这种假定所推出来的结果，往往都是或然的，不一定能作准",
+      "target": "推论",
+      "claim_type": "知识论主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "凡属推论，必须先有一个假定，这种假定所推出来的结果，往往都是或然的，不一定能作准。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c3",
+      "speaker": "林宰平",
+      "claim": "物理学家推算的地球年龄与生物学家推算的相差悬殊，这种结果不能叫人相信",
+      "target": "地球年龄",
+      "claim_type": "知识论主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "据物理学家所推算的，约为四十兆年，而据生物学家的推算，则竟达数百兆年以上，二者相差得太悬远的了；这种结果能够叫我们相信么?",
+      "confidence": 0.9
+    },
+    {
+      "id": "c4",
+      "speaker": "林宰平",
+      "claim": "天文家推算的数目和地质家推算的数目相差至少六万年，这种结果不能叫人相信",
+      "target": "天文家",
+      "claim_type": "知识论主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "即如天文家所推算的数目，和地质家推算的数目，相差至少也有六万年，这种结果能够叫我们相信么?",
+      "confidence": 0.9
+    },
+    {
+      "id": "c5",
+      "speaker": "林宰平",
+      "claim": "由已知推未知，必须冒险立一个假定，但若未知与已知不完全相同，则未知事实与已知经验可能相去很远",
+      "target": "推论",
+      "claim_type": "知识论主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "由已知推未知，我们不能不冒险的立他一个假定，我所已知之甲的现象如此，所以推定和甲相像之乙的现象也是如此。至于乙的现象周围无数的关系，——未知的——我们也说他和现在甲的现象分毫不差，若其不是完完全全相同，那么未知的事实，与已知的经验，就许相去很远。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c6",
+      "speaker": "林宰平",
+      "claim": "我住的院子里榆叶梅谢后丁香开，数年以来都是这样后先挨着开的，没有一回失约",
+      "target": "林宰平",
+      "claim_type": "例证",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "我现在住的小小院子里，这几天榆叶梅才谢，又开满了一堆一堆雪白的丁香，并且数年以来，他都是这样后先挨著开的，没有一回失约。",
+      "confidence": 0.9
+    }
+  ],
+  "relations": [
+    {
+      "id": "r1",
+      "head": "推论",
+      "head_type": "概念",
+      "relation": "包含",
+      "relation_subtype": "不适用",
+      "tail": "假定",
+      "tail_type": "概念",
+      "polarity": "neutral",
+      "evidence": "凡属推论，必须先有一个假定",
+      "confidence": 0.9
+    },
+    {
+      "id": "r2",
+      "head": "假定",
+      "head_type": "概念",
+      "relation": "导致",
+      "relation_subtype": "不适用",
+      "tail": "或然结果",
+      "tail_type": "概念",
+      "polarity": "negative",
+      "evidence": "这种假定所推出来的结果，往往都是或然的，不一定能作准",
+      "confidence": 0.8
+    },
+    {
+      "id": "r3",
+      "head": "经验",
+      "head_type": "概念",
+      "relation": "解释",
+      "relation_subtype": "不适用",
+      "tail": "已知",
+      "tail_type": "概念",
+      "polarity": "neutral",
+      "evidence": "无非靠着我们经验上所认为已知的",
+      "confidence": 0.9
+    },
+    {
+      "id": "r4",
+      "head": "已知",
+      "head_type": "概念",
+      "relation": "导致",
+      "relation_subtype": "不适用",
+      "tail": "未知",
+      "tail_type": "概念",
+      "polarity": "neutral",
+      "evidence": "用以推测所未知的",
+      "confidence": 0.9
+    },
+    {
+      "id": "r5",
+      "head": "林宰平",
+      "head_type": "人物",
+      "relation": "作为论据支持",
+      "relation_subtype": "不适用",
+      "tail": "经验",
+      "tail_type": "概念",
+      "polarity": "positive",
+      "evidence": "我现在住的小小院子里，这几天榆叶梅才谢，又开满了一堆一堆雪白的丁香，并且数年以来，他都是这样后先挨著开的，没有一回失约。",
+      "confidence": 0.9
+    }
+  ],
+  "definitions": [
+    {
+      "id": "def1",
+      "term": "推论",
+      "definition": "推论必须先有一个假定，其结果往往是或然的，不一定能作准",
+      "evidence": "凡属推论，必须先有一个假定，这种假定所推出来的结果，往往都是或然的，不一定能作准。",
+      "confidence": 0.9
+    },
+    {
+      "id": "def2",
+      "term": "已知",
+      "definition": "经验上认为知道的现象，经过多次经验后情形相同，就作为已知",
+      "evidence": "所谓甲的现象，有甲的周围无数的关系，我们经验上以为知道甲是如此，原指那时候甲的现象，是如此一种情形，经过多次经验之后，这种情形都相同的，我们就作为已知。",
+      "confidence": 0.9
+    }
+  ],
+  "citations": [],
+  "rhetorical_devices": [
+    {
+      "id": "rh1",
+      "expression": "海王星这个大魔王他无法无天的已经要宣告独立",
+      "device_type": "拟人",
+      "literal_target": "海王星不遵循钵德定律",
+      "function": "形象化说明定律的例外情况",
+      "evidence": "其实海王星这个大魔王他无法无天的已经要宣告独立，不大服从钵德定律",
+      "confidence": 0.9
+    }
+  ],
+  "uncertainties": [
+    {
+      "item": "relation r2 的 tail 实体“或然结果”未在 entities 中定义，但 evidence 中未出现该词，故暂用描述性短语",
+      "reason": "evidence 中无明确实体名称，仅描述性表达"
+    }
+  ]
+}

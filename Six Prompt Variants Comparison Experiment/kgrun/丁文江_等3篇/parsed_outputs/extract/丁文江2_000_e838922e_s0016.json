@@ -1,0 +1,292 @@
+{
+  "metadata": {
+    "schema_version": "lite_v2.0",
+    "article_id": "丁文江2_000_e838922e",
+    "article_title": "玄学与科学——答张君劢",
+    "source_author": "丁文江",
+    "section_title": "",
+    "section_author": "",
+    "segment_id": "丁文江2_000_e838922e_s0016",
+    "segment_index": 16,
+    "source_file": "E:\\1研究生\\岭南大学\\论文毕业\\capstone\\资料\\新的内容开始了\\local_upload\\input_texts\\丁文江2.txt"
+  },
+  "entities": [
+    {
+      "id": "e1",
+      "name": "公例",
+      "canonical_name": "科学公例",
+      "type": "Concept",
+      "evidence": "公例，是说明我们所观察的事实的方法，若是不适用于新发现的事实，随时可以变更。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e2",
+      "name": "马哈",
+      "canonical_name": "马赫",
+      "type": "Person",
+      "evidence": "马哈同皮尔逊都不承认科学的公例有必然性，就是这个意思。",
+      "confidence": 0.8
+    },
+    {
+      "id": "e3",
+      "name": "皮尔逊",
+      "canonical_name": "皮尔逊",
+      "type": "Person",
+      "evidence": "马哈同皮尔逊都不承认科学的公例有必然性，就是这个意思。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e4",
+      "name": "科学",
+      "canonical_name": "科学",
+      "type": "Concept",
+      "evidence": "这是科学同玄学根本不同的地方。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e5",
+      "name": "玄学",
+      "canonical_name": "玄学",
+      "type": "Concept",
+      "evidence": "这是科学同玄学根本不同的地方。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e6",
+      "name": "规律",
+      "canonical_name": "规律",
+      "type": "Concept",
+      "evidence": "玄学家人人都要组织一个牢固不拔的“规律”，人人都把自己的规律当做定论。",
+      "confidence": 0.8
+    },
+    {
+      "id": "e7",
+      "name": "科学的精神",
+      "canonical_name": "科学精神",
+      "type": "Concept",
+      "evidence": "科学的精神绝对与这种规律迷的心理相反。",
+      "confidence": 0.8
+    },
+    {
+      "id": "e8",
+      "name": "规律迷的心理",
+      "canonical_name": "规律迷的心理",
+      "type": "Concept",
+      "evidence": "科学的精神绝对与这种规律迷的心理相反。",
+      "confidence": 0.7
+    },
+    {
+      "id": "e9",
+      "name": "科学的方法",
+      "canonical_name": "科学方法",
+      "type": "Method",
+      "evidence": "科学的方法，不外将世界的事实分起类来，求他们的秩序。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e10",
+      "name": "事实",
+      "canonical_name": "事实",
+      "type": "Concept",
+      "evidence": "凡是事实都可以用科学方法研究，都可以变做科学。",
+      "confidence": 0.8
+    },
+    {
+      "id": "e11",
+      "name": "科学公例",
+      "canonical_name": "科学公例",
+      "type": "Concept",
+      "evidence": "再想一句最简单明白的话来，概括这许多事实，这叫做科学公例。",
+      "confidence": 0.9
+    }
+  ],
+  "claims": [
+    {
+      "id": "c1",
+      "speaker": "丁文江",
+      "claim": "公例，是说明我们所观察的事实的方法，若是不适用于新发现的事实，随时可以变更。",
+      "target": "公例",
+      "claim_type": "定义性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "公例，是说明我们所观察的事实的方法，若是不适用于新发现的事实，随时可以变更。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c2",
+      "speaker": "马哈",
+      "claim": "科学的公例没有必然性。",
+      "target": "科学的公例",
+      "claim_type": "知识论主张",
+      "claim_status": "直接引用",
+      "polarity": "positive",
+      "evidence": "马哈同皮尔逊都不承认科学的公例有必然性，就是这个意思。",
+      "confidence": 0.8
+    },
+    {
+      "id": "c3",
+      "speaker": "皮尔逊",
+      "claim": "科学的公例没有必然性。",
+      "target": "科学的公例",
+      "claim_type": "知识论主张",
+      "claim_status": "直接引用",
+      "polarity": "positive",
+      "evidence": "马哈同皮尔逊都不承认科学的公例有必然性，就是这个意思。",
+      "confidence": 0.8
+    },
+    {
+      "id": "c4",
+      "speaker": "丁文江",
+      "claim": "这是科学同玄学根本不同的地方。",
+      "target": "科学同玄学",
+      "claim_type": "结论性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "这是科学同玄学根本不同的地方。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c5",
+      "speaker": "丁文江",
+      "claim": "玄学家人人都要组织一个牢固不拔的“规律”，人人都把自己的规律当做定论。",
+      "target": "玄学人",
+      "claim_type": "文明批评",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "玄学家人人都要组织一个牢固不拔的“规律”，人人都把自己的规律当做定论。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c6",
+      "speaker": "丁文江",
+      "claim": "科学的精神绝对与这种规律迷的心理相反。",
+      "target": "科学的精神",
+      "claim_type": "方法论主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "科学的精神绝对与这种规律迷的心理相反。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c7",
+      "speaker": "丁文江",
+      "claim": "科学的方法，不外将世界的事实分起类来，求他们的秩序。等到分类秩序弄明白了，再想一句最简单明白的话来，概括这许多事实，这叫做科学公例。",
+      "target": "科学的方法",
+      "claim_type": "方法论主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "科学的方法，不外将世界的事实分起类来，求他们的秩序。等到分类秩序弄明白了，再想一句最简单明白的话来，概括这许多事实，这叫做科学公例。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c8",
+      "speaker": "丁文江",
+      "claim": "凡是事实都可以用科学方法研究，都可以变做科学。一种学问成不成一种科学，全是程度问题。",
+      "target": "事实",
+      "claim_type": "知识论主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "凡是事实都可以用科学方法研究，都可以变做科学。一种学问成不成一种科学，全是程度问题。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c9",
+      "speaker": "张君劢",
+      "claim": "物理学已经成了科学，不是生物学心理学所能希望的。",
+      "target": "物理学",
+      "claim_type": "知识论主张",
+      "claim_status": "作者讽刺性归纳",
+      "polarity": "negative",
+      "evidence": "君劢再三的拿物理学来比生物学同心理学，想证明物理学已经成了科学，不是生物学心理学所能希望的，好像科学是同神仙一样，也有上八洞下八洞的分别。",
+      "confidence": 0.8
+    },
+    {
+      "id": "c10",
+      "speaker": "丁文江",
+      "claim": "研究物理学的人决计不敢如此武断。",
+      "target": "研究物理学的人",
+      "claim_type": "价值评价",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "研究物理学的人决计不敢如此武断。",
+      "confidence": 0.9
+    }
+  ],
+  "relations": [
+    {
+      "id": "r1",
+      "head": "科学",
+      "head_type": "Concept",
+      "relation": "DISTINGUISHES",
+      "tail": "玄学",
+      "tail_type": "Concept",
+      "polarity": "positive",
+      "evidence": "这是科学同玄学根本不同的地方。",
+      "confidence": 0.9
+    },
+    {
+      "id": "r2",
+      "head": "科学的精神",
+      "head_type": "Concept",
+      "relation": "OPPOSES",
+      "tail": "规律迷的心理",
+      "tail_type": "Concept",
+      "polarity": "negative",
+      "evidence": "科学的精神绝对与这种规律迷的心理相反。",
+      "confidence": 0.9
+    }
+  ],
+  "definitions": [
+    {
+      "id": "def1",
+      "term": "公例",
+      "definition": "说明我们所观察的事实的方法，若是不适用于新发现的事实，随时可以变更。",
+      "evidence": "公例，是说明我们所观察的事实的方法，若是不适用于新发现的事实，随时可以变更。",
+      "confidence": 0.9
+    },
+    {
+      "id": "def2",
+      "term": "科学公例",
+      "definition": "将世界的事实分起类来，求他们的秩序，等到分类秩序弄明白了，再想一句最简单明白的话来，概括这许多事实。",
+      "evidence": "科学的方法，不外将世界的事实分起类来，求他们的秩序。等到分类秩序弄明白了，再想一句最简单明白的话来，概括这许多事实，这叫做科学公例。",
+      "confidence": 0.9
+    }
+  ],
+  "citations": [],
+  "rhetorical_devices": [
+    {
+      "id": "rh1",
+      "expression": "好像科学是同神仙一样，也有上八洞下八洞的分别",
+      "device_type": "类比",
+      "literal_target": "张君劢将物理学与生物学、心理学区分等级的做法",
+      "function": "讽刺张君劢将科学分等级的观点荒谬可笑",
+      "evidence": "好像科学是同神仙一样，也有上八洞下八洞的分别。",
+      "confidence": 0.9
+    }
+  ],
+  "uncertainties": [
+    {
+      "item": "马哈是否指马赫",
+      "reason": "原文写'马哈'，可能为马赫的音译，但文本中未明确对应，需人工确认。"
+    }
+  ],
+  "_meta": {
+    "status": "success",
+    "stage": "extract",
+    "model": "deepseek-ai/DeepSeek-V4-Flash",
+    "base_url": "https://api.siliconflow.cn/v1",
+    "prompt_version": "extract_prompt_v2.0",
+    "schema_version": "lite_v2.0",
+    "segment_id": "丁文江2_000_e838922e_s0016",
+    "article_id": "丁文江2_000_e838922e",
+    "char_start": 4156,
+    "char_end": 4490,
+    "raw_path": "E:\\1研究生\\岭南大学\\论文毕业\\capstone\\资料\\新的内容开始了\\local_upload\\kg_runs\\丁文江_等3篇\\raw_outputs\\extract\\丁文江2_000_e838922e_s0016.txt",
+    "parsed_at": "2026-05-19T03:57:28",
+    "started_at": "2026-05-19T03:57:07",
+    "elapsed_seconds": 21.157,
+    "strict_evidence_check": true,
+    "drop_unsupported_evidence": true,
+    "request_timeout_seconds": 180
+  }
+}

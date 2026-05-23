@@ -1,0 +1,18 @@
+[2026-05-20 02:08:58] 处理失败：stage=extract, segment=张君劢_000_e090c0d2_s0002, error=ValueError('模型输出中 JSON 对象括号不完整')
+Traceback (most recent call last):
+  File "E:\1研究生\岭南大学\论文毕业\capstone\资料\新的内容开始了\local_upload\pipeline\workflow_complete.py", line 1405, in process_one_segment
+    parsed = parse_model_json(raw_text)
+  File "E:\1研究生\岭南大学\论文毕业\capstone\资料\新的内容开始了\local_upload\pipeline\workflow_complete.py", line 1000, in parse_model_json
+    candidate = extract_first_json_object(raw_text)
+  File "E:\1研究生\岭南大学\论文毕业\capstone\资料\新的内容开始了\local_upload\pipeline\workflow_complete.py", line 996, in extract_first_json_object
+    raise ValueError("模型输出中 JSON 对象括号不完整")
+ValueError: 模型输出中 JSON 对象括号不完整
+[2026-05-20 03:26:18] 处理失败：stage=extract, segment=张君劢_002_c870d202_s0007, error=ValueError('模型输出中 JSON 对象括号不完整')
+Traceback (most recent call last):
+  File "E:\1研究生\岭南大学\论文毕业\capstone\资料\新的内容开始了\local_upload\pipeline\workflow_complete.py", line 1405, in process_one_segment
+    parsed = parse_model_json(raw_text)
+  File "E:\1研究生\岭南大学\论文毕业\capstone\资料\新的内容开始了\local_upload\pipeline\workflow_complete.py", line 1000, in parse_model_json
+    candidate = extract_first_json_object(raw_text)
+  File "E:\1研究生\岭南大学\论文毕业\capstone\资料\新的内容开始了\local_upload\pipeline\workflow_complete.py", line 996, in extract_first_json_object
+    raise ValueError("模型输出中 JSON 对象括号不完整")
+ValueError: 模型输出中 JSON 对象括号不完整

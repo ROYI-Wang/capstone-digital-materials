@@ -1,0 +1,412 @@
+{
+  "metadata": {
+    "schema_version": "lite_v3.0",
+    "article_id": "陈独秀_000_4825c389",
+    "article_title": "序一",
+    "source_author": "陈独秀",
+    "section_title": "",
+    "section_author": "",
+    "segment_id": "陈独秀_000_4825c389_s0003",
+    "segment_index": 3,
+    "source_file": "E:\\1研究生\\岭南大学\\论文毕业\\capstone\\资料\\新的内容开始了\\local_upload\\input_陈独秀\\陈独秀.txt"
+  },
+  "entities": [
+    {
+      "id": "e1",
+      "name": "孔德三时代说",
+      "canonical_name": "孔德三时代说",
+      "type": "主义/学说/理论",
+      "evidence": "孔德三时代说是社会科学上一种定律",
+      "confidence": 0.9
+    },
+    {
+      "id": "e2",
+      "name": "张君劢",
+      "canonical_name": "张君劢",
+      "type": "人物",
+      "evidence": "张君劢是个饱学秀才",
+      "confidence": 1.0
+    },
+    {
+      "id": "e3",
+      "name": "他的未尝学问的家族",
+      "canonical_name": "张君劢的家族",
+      "type": "阵营/群体",
+      "evidence": "他的未尝学问的家族要去求符咒仙方",
+      "confidence": 0.9
+    },
+    {
+      "id": "e4",
+      "name": "丁在君",
+      "canonical_name": "丁在君",
+      "type": "人物",
+      "evidence": "他的朋友丁在君方从外国留学回来",
+      "confidence": 1.0
+    },
+    {
+      "id": "e5",
+      "name": "汉医",
+      "canonical_name": "汉医",
+      "type": "概念",
+      "evidence": "说汉医靠不住",
+      "confidence": 0.9
+    },
+    {
+      "id": "e6",
+      "name": "西医",
+      "canonical_name": "西医",
+      "type": "概念",
+      "evidence": "坚劝他去请西医",
+      "confidence": 0.9
+    },
+    {
+      "id": "e7",
+      "name": "符咒仙方",
+      "canonical_name": "符咒仙方",
+      "type": "概念",
+      "evidence": "还是符咒仙方好",
+      "confidence": 0.9
+    },
+    {
+      "id": "e8",
+      "name": "人生观",
+      "canonical_name": "人生观",
+      "type": "概念",
+      "evidence": "他们如此不同的人生观",
+      "confidence": 0.9
+    },
+    {
+      "id": "e9",
+      "name": "客观的环境",
+      "canonical_name": "客观的环境",
+      "type": "概念",
+      "evidence": "都是他们所遭客观的环境造成的",
+      "confidence": 0.9
+    },
+    {
+      "id": "e10",
+      "name": "主观的意志",
+      "canonical_name": "主观的意志",
+      "type": "概念",
+      "evidence": "决不是天外飞来主观的意志造成的",
+      "confidence": 0.9
+    },
+    {
+      "id": "e11",
+      "name": "社会科学",
+      "canonical_name": "社会科学",
+      "type": "概念",
+      "evidence": "这本是社会科学可以说明的",
+      "confidence": 0.9
+    },
+    {
+      "id": "e12",
+      "name": "形而上的玄学",
+      "canonical_name": "形而上的玄学",
+      "type": "概念",
+      "evidence": "决不是形而上的玄学可以说明的",
+      "confidence": 0.9
+    },
+    {
+      "id": "e13",
+      "name": "九项人生观",
+      "canonical_name": "九项人生观",
+      "type": "观点",
+      "evidence": "张君劢举出九项人生观",
+      "confidence": 0.9
+    },
+    {
+      "id": "e14",
+      "name": "大家族主义和小家族主义",
+      "canonical_name": "大家族主义和小家族主义",
+      "type": "概念",
+      "evidence": "第一，大家族主义和小家族主义",
+      "confidence": 0.9
+    },
+    {
+      "id": "e15",
+      "name": "农业经济宗法社会",
+      "canonical_name": "农业经济宗法社会",
+      "type": "概念",
+      "evidence": "纯粹是由农业经济宗法社会进化到工业经济军国社会之自然的现象",
+      "confidence": 0.9
+    },
+    {
+      "id": "e16",
+      "name": "工业经济军国社会",
+      "canonical_name": "工业经济军国社会",
+      "type": "概念",
+      "evidence": "纯粹是由农业经济宗法社会进化到工业经济军国社会之自然的现象",
+      "confidence": 0.9
+    },
+    {
+      "id": "e17",
+      "name": "男女尊卑及婚姻制度",
+      "canonical_name": "男女尊卑及婚姻制度",
+      "type": "概念",
+      "evidence": "第二，男女尊卑及婚姻制度",
+      "confidence": 0.9
+    },
+    {
+      "id": "e18",
+      "name": "农业宗法社会",
+      "canonical_name": "农业宗法社会",
+      "type": "概念",
+      "evidence": "也是由于农业宗法社会亲与夫都把子女及妻当作生产工具",
+      "confidence": 0.9
+    },
+    {
+      "id": "e19",
+      "name": "工业社会",
+      "canonical_name": "工业社会",
+      "type": "概念",
+      "evidence": "到了工业社会，家庭手工已不适用",
+      "confidence": 0.9
+    },
+    {
+      "id": "e20",
+      "name": "女权运动",
+      "canonical_name": "女权运动",
+      "type": "概念",
+      "evidence": "于是女权运动自然会兴旺起来",
+      "confidence": 0.9
+    }
+  ],
+  "claims": [
+    {
+      "id": "c1",
+      "speaker": "陈独秀",
+      "claim": "这种社会的实际现象，想无人能够否认",
+      "target": "",
+      "claim_type": "描述性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "这种社会的实际现象，想无人能够否认",
+      "confidence": 0.9
+    },
+    {
+      "id": "c2",
+      "speaker": "陈独秀",
+      "claim": "倘不能否认，便不能不承认孔德三时代说是社会科学上一种定律",
+      "target": "孔德三时代说",
+      "claim_type": "因果主张",
+      "claim_status": "作者推论",
+      "polarity": "positive",
+      "evidence": "倘不能否认，便不能不承认孔德三时代说是社会科学上一种定律",
+      "confidence": 0.9
+    },
+    {
+      "id": "c3",
+      "speaker": "陈独秀",
+      "claim": "这个定律便可以说明许多时代、许多社会、许多个人的人生观之所以不同",
+      "target": "孔德三时代说",
+      "claim_type": "因果主张",
+      "claim_status": "作者推论",
+      "polarity": "positive",
+      "evidence": "这个定律便可以说明许多时代、许多社会、许多个人的人生观之所以不同",
+      "confidence": 0.9
+    },
+    {
+      "id": "c4",
+      "speaker": "陈独秀",
+      "claim": "他们如此不同的见解，也便是他们如此不同的人生观",
+      "target": "",
+      "claim_type": "描述性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "他们如此不同的见解，也便是他们如此不同的人生观",
+      "confidence": 0.9
+    },
+    {
+      "id": "c5",
+      "speaker": "陈独秀",
+      "claim": "他们如此不同的人生观，都是他们所遭客观的环境造成的，决不是天外飞来主观的意志造成的",
+      "target": "",
+      "claim_type": "因果主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "他们如此不同的人生观，都是他们所遭客观的环境造成的，决不是天外飞来主观的意志造成的",
+      "confidence": 0.9
+    },
+    {
+      "id": "c6",
+      "speaker": "陈独秀",
+      "claim": "这本是社会科学可以说明的，决不是形而上的玄学可以说明的",
+      "target": "",
+      "claim_type": "对比性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "这本是社会科学可以说明的，决不是形而上的玄学可以说明的",
+      "confidence": 0.9
+    },
+    {
+      "id": "c7",
+      "speaker": "张君劢",
+      "claim": "九项人生观都是主观的，起于直觉的、综合的、自由意志的，起于人格之单一性的，而不为客观的、论理的、分析的、因果律的科学所支配",
+      "target": "",
+      "claim_type": "描述性主张",
+      "claim_status": "间接转述",
+      "polarity": "negative",
+      "evidence": "张君劢举出九项人生观，说都是主观的，起于直觉的、综合的、自由意志的，起于人格之单一性的，而不为客观的、论理的、分析的、因果律的科学所支配",
+      "confidence": 0.9
+    },
+    {
+      "id": "c8",
+      "speaker": "陈独秀",
+      "claim": "大家族主义和小家族主义，纯粹是由农业经济宗法社会进化到工业经济军国社会之自然的现象",
+      "target": "大家族主义和小家族主义",
+      "claim_type": "因果主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "第一，大家族主义和小家族主义，纯粹是由农业经济宗法社会进化到工业经济军国社会之自然的现象",
+      "confidence": 0.9
+    },
+    {
+      "id": "c9",
+      "speaker": "陈独秀",
+      "claim": "男女尊卑及婚姻制度，也是由于农业宗法社会亲与夫都把子女及妻当作生产工具，当作一种财产，到了工业社会，家庭手工已不适用，有了雇工制度，也用不着拿家族当生产工具，于是女权运动自然会兴旺起来",
+      "target": "男女尊卑及婚姻制度",
+      "claim_type": "因果主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "第二，男女尊卑及婚姻制度，也是由于农业宗法社会亲与夫都把子女及妻当作生产工具，当作一种财产，到了工业社会，家庭手工已不适用，有了雇工制度，也用不着拿家族当生产工具，于是女权运动自然会兴旺起来",
+      "confidence": 0.9
+    }
+  ],
+  "relations": [
+    {
+      "id": "r1",
+      "head": "这种社会的实际现象",
+      "head_type": "概念",
+      "relation": "证明",
+      "relation_subtype": "不适用",
+      "tail": "孔德三时代说是社会科学上一种定律",
+      "tail_type": "主义/学说/理论",
+      "polarity": "positive",
+      "stance_score": 1.0,
+      "intensity": 0.8,
+      "evidence": "这种社会的实际现象，想无人能够否认。倘不能否认，便不能不承认孔德三时代说是社会科学上一种定律",
+      "confidence": 0.9
+    },
+    {
+      "id": "r2",
+      "head": "客观的环境",
+      "head_type": "概念",
+      "relation": "导致",
+      "relation_subtype": "不适用",
+      "tail": "他们如此不同的人生观",
+      "tail_type": "概念",
+      "polarity": "positive",
+      "stance_score": 1.0,
+      "intensity": 0.9,
+      "evidence": "他们如此不同的人生观，都是他们所遭客观的环境造成的",
+      "confidence": 0.9
+    },
+    {
+      "id": "r3",
+      "head": "陈独秀",
+      "head_type": "人物",
+      "relation": "反驳",
+      "relation_subtype": "逻辑反驳",
+      "tail": "张君劢",
+      "tail_type": "人物",
+      "polarity": "negative",
+      "stance_score": -1.0,
+      "intensity": 0.9,
+      "evidence": "张君劢举出九项人生观，说都是主观的，起于直觉的、综合的、自由意志的，起于人格之单一性的，而不为客观的、论理的、分析的、因果律的科学所支配。今就其九项人生观看起来，第一，大家族主义和小家族主义，纯粹是由农业经济宗法社会进化到工业经济军国社会之自然的现象",
+      "confidence": 0.9
+    },
+    {
+      "id": "r4",
+      "head": "农业经济宗法社会",
+      "head_type": "概念",
+      "relation": "导致",
+      "relation_subtype": "不适用",
+      "tail": "大家族主义和小家族主义",
+      "tail_type": "概念",
+      "polarity": "positive",
+      "stance_score": 1.0,
+      "intensity": 0.8,
+      "evidence": "大家族主义和小家族主义，纯粹是由农业经济宗法社会进化到工业经济军国社会之自然的现象",
+      "confidence": 0.9
+    },
+    {
+      "id": "r5",
+      "head": "农业宗法社会",
+      "head_type": "概念",
+      "relation": "导致",
+      "relation_subtype": "不适用",
+      "tail": "男女尊卑及婚姻制度",
+      "tail_type": "概念",
+      "polarity": "positive",
+      "stance_score": 1.0,
+      "intensity": 0.8,
+      "evidence": "男女尊卑及婚姻制度，也是由于农业宗法社会亲与夫都把子女及妻当作生产工具，当作一种财产",
+      "confidence": 0.9
+    },
+    {
+      "id": "r6",
+      "head": "工业社会",
+      "head_type": "概念",
+      "relation": "导致",
+      "relation_subtype": "不适用",
+      "tail": "女权运动自然会兴旺起来",
+      "tail_type": "概念",
+      "polarity": "positive",
+      "stance_score": 1.0,
+      "intensity": 0.7,
+      "evidence": "到了工业社会，家庭手工已不适用，有了雇工制度，也用不着拿家族当生产工具，于是女权运动自然会兴旺起来",
+      "confidence": 0.9
+    }
+  ],
+  "definitions": [
+    {
+      "id": "def1",
+      "term": "孔德三时代说",
+      "definition": "社会科学上一种定律，可以说明许多时代、许多社会、许多个人的人生观之所以不同",
+      "evidence": "孔德三时代说是社会科学上一种定律。这个定律便可以说明许多时代、许多社会、许多个人的人生观之所以不同",
+      "confidence": 0.9
+    }
+  ],
+  "citations": [],
+  "rhetorical_devices": [
+    {
+      "id": "rh1",
+      "expression": "天外飞来主观的意志",
+      "device_type": "比喻",
+      "literal_target": "主观的意志",
+      "function": "强调主观意志的凭空产生，与客观环境形成对比",
+      "evidence": "决不是天外飞来主观的意志造成的",
+      "confidence": 0.9
+    }
+  ],
+  "uncertainties": [
+    {
+      "item": "张君劢的家族说“西医汉医都靠不住，还是符咒仙方好”这一观点是否属于张君劢的家族直接主张，还是陈独秀的概括",
+      "reason": "文本中未明确区分是直接引用还是概括，且未提供具体人物姓名"
+    },
+    {
+      "item": "张君劢说“汉医靠不住”的具体证据内容未在文本中列出",
+      "reason": "文本仅提到“并说出许多西医不及汉医的证据”，但未具体说明"
+    }
+  ],
+  "_meta": {
+    "status": "success",
+    "stage": "extract",
+    "model": "deepseek-ai/DeepSeek-V4-Flash",
+    "base_url": "https://api.siliconflow.cn/v1",
+    "prompt_version": "v2.0",
+    "schema_version": "lite_v3.0",
+    "segment_id": "陈独秀_000_4825c389_s0003",
+    "article_id": "陈独秀_000_4825c389",
+    "char_start": 1425,
+    "char_end": 1961,
+    "raw_path": "E:\\1研究生\\岭南大学\\论文毕业\\capstone\\资料\\新的内容开始了\\local_upload\\kg_runs_v2\\陈独秀\\raw_outputs\\extract\\陈独秀_000_4825c389_s0003.txt",
+    "parsed_at": "2026-05-22T00:57:57",
+    "started_at": "2026-05-22T00:55:26",
+    "elapsed_seconds": 151.215,
+    "strict_evidence_check": true,
+    "drop_unsupported_evidence": true,
+    "request_timeout_seconds": 60
+  }
+}

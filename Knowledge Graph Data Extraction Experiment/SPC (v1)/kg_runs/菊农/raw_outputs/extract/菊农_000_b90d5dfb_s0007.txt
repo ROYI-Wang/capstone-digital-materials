@@ -1,0 +1,511 @@
+{
+  "metadata": {
+    "schema_version": "lite_v2.0",
+    "article_id": "菊农_000_b90d5dfb",
+    "article_title": "人格与教育",
+    "source_author": "菊农",
+    "section_title": "",
+    "section_author": "",
+    "segment_id": "菊农_000_b90d5dfb_s0007",
+    "segment_index": 7,
+    "source_file": "E:\\1研究生\\岭南大学\\论文毕业\\capstone\\资料\\新的内容开始了\\local_upload\\input_w0\\菊农.txt"
+  },
+  "entities": [
+    {
+      "id": "e1",
+      "name": "社会",
+      "canonical_name": "社会",
+      "type": "概念",
+      "evidence": "社会和个人是一全体的两方面。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e2",
+      "name": "个人",
+      "canonical_name": "个人",
+      "type": "概念",
+      "evidence": "社会和个人是一全体的两方面。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e3",
+      "name": "人生",
+      "canonical_name": "人生",
+      "type": "概念",
+      "evidence": "这件事便是人生。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e4",
+      "name": "人类生活",
+      "canonical_name": "人类生活",
+      "type": "概念",
+      "evidence": "人类生活之集合方面便是社会，特指方面便是个人。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e5",
+      "name": "全体",
+      "canonical_name": "全体",
+      "type": "概念",
+      "evidence": "实在是一件有生机、有目的、有自由、无时不创造的全体的表现。",
+      "confidence": 0.8
+    },
+    {
+      "id": "e6",
+      "name": "社会压迫个性",
+      "canonical_name": "社会压迫个性",
+      "type": "概念",
+      "evidence": "注重所谓社会一方面便构成了社会压迫个性的状态。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e7",
+      "name": "自大的个人主义",
+      "canonical_name": "自大的个人主义",
+      "type": "概念",
+      "evidence": "注重个人一方面便又构成自大的个人主义。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e8",
+      "name": "机械的宇宙观",
+      "canonical_name": "机械的宇宙观",
+      "type": "概念",
+      "evidence": "在机械的宇宙观之下，几乎认宇宙为敌。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e9",
+      "name": "宇宙",
+      "canonical_name": "宇宙",
+      "type": "概念",
+      "evidence": "在机械的宇宙观之下，几乎认宇宙为敌。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e10",
+      "name": "自然",
+      "canonical_name": "自然",
+      "type": "概念",
+      "evidence": "人生无时无刻不在防御自然压迫之中。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e11",
+      "name": "狭义的个人主义",
+      "canonical_name": "狭义的个人主义",
+      "type": "概念",
+      "evidence": "因此而狭义的个人主义极发达。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e12",
+      "name": "超越世界",
+      "canonical_name": "超越世界",
+      "type": "概念",
+      "evidence": "个人与宇宙在超越世界里并主客之分而亦无之。",
+      "confidence": 0.8
+    },
+    {
+      "id": "e13",
+      "name": "小己人格",
+      "canonical_name": "小己人格",
+      "type": "概念",
+      "evidence": "小己人格充分实现时，便与宇宙融合无间了。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e14",
+      "name": "教育",
+      "canonical_name": "教育",
+      "type": "概念",
+      "evidence": "教育的结果，便是畸形的发展。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e15",
+      "name": "菊农",
+      "canonical_name": "菊农",
+      "type": "人物",
+      "evidence": "我们这些话并不是什么特别的话。",
+      "confidence": 0.9
+    }
+  ],
+  "claims": [
+    {
+      "id": "c1",
+      "speaker": "菊农",
+      "claim": "社会和个人是一全体的两方面。",
+      "target": "社会与个人的关系",
+      "claim_type": "本体论主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "社会和个人是一全体的两方面。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c2",
+      "speaker": "菊农",
+      "claim": "人类生活之集合方面便是社会，特指方面便是个人。",
+      "target": "社会与个人的定义",
+      "claim_type": "定义性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "人类生活之集合方面便是社会，特指方面便是个人。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c3",
+      "speaker": "菊农",
+      "claim": "社会和个人并不是不同的现象，不过因人们观点的不同，便当做两件东西一般。",
+      "target": "社会与个人的关系",
+      "claim_type": "本体论主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "社会和个人并不是不同的现象，不过因人们观点的不同，便当做两件东西一般。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c4",
+      "speaker": "菊农",
+      "claim": "实在是一件有生机、有目的、有自由、无时不创造的全体的表现。",
+      "target": "人生全体",
+      "claim_type": "本体论主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "实在是一件有生机、有目的、有自由、无时不创造的全体的表现。",
+      "confidence": 0.8
+    },
+    {
+      "id": "c5",
+      "speaker": "菊农",
+      "claim": "如果自己要造出一堵墙来，要隔开两方面，注重所谓社会一方面便构成了社会压迫个性的状态；注重个人一方面便又构成自大的个人主义。",
+      "target": "社会与个人分离的后果",
+      "claim_type": "社会理论主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "如果自己要造出一堵墙来，要隔开两方面，注重所谓社会一方面便构成了社会压迫个性的状态；注重个人一方面便又构成自大的个人主义。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c6",
+      "speaker": "菊农",
+      "claim": "无论是那一方面上占上风，人类生活的全体，却受了莫大的痛苦。",
+      "target": "社会与个人分离的后果",
+      "claim_type": "价值评价",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "无论是那一方面上占上风，人类生活的全体，却受了莫大的痛苦。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c7",
+      "speaker": "菊农",
+      "claim": "教育的结果，便是畸形的发展。",
+      "target": "教育",
+      "claim_type": "价值评价",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "教育的结果，便是畸形的发展。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c8",
+      "speaker": "菊农",
+      "claim": "我们根本认定生活是一全体。",
+      "target": "生活",
+      "claim_type": "本体论主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "因为我们根本认定生活是一全体。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c9",
+      "speaker": "菊农",
+      "claim": "社会是个人的全体，个人是全体的部分。",
+      "target": "社会与个人的关系",
+      "claim_type": "定义性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "社会是个人的全体，个人是全体的部分。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c10",
+      "speaker": "菊农",
+      "claim": "部分的活动的全体，便是全体的创造。",
+      "target": "部分与全体的关系",
+      "claim_type": "本体论主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "部分的活动的全体，便是全体的创造。",
+      "confidence": 0.8
+    },
+    {
+      "id": "c11",
+      "speaker": "菊农",
+      "claim": "在机械的宇宙观之下，几乎认宇宙为敌，努力以求克制之道，科学之发达，这也是一个原因。",
+      "target": "机械的宇宙观与科学的关系",
+      "claim_type": "历史解释",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "在机械的宇宙观之下，几乎认宇宙为敌，努力以求克制之道，科学之发达，这也是一个原因。",
+      "confidence": 0.8
+    },
+    {
+      "id": "c12",
+      "speaker": "菊农",
+      "claim": "为人之道却太苦；人生无时无刻不在防御自然压迫之中。",
+      "target": "机械宇宙观下的人生",
+      "claim_type": "价值评价",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "但是为人之道却太苦；人生无时无刻不在防御自然压迫之中。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c13",
+      "speaker": "菊农",
+      "claim": "个人无时无刻不在与自然为敌，因此而狭义的个人主义极发达。",
+      "target": "机械宇宙观与个人主义的关系",
+      "claim_type": "社会理论主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "个人无时无刻不在与自然为敌，因此而狭义的个人主义极发达。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c14",
+      "speaker": "菊农",
+      "claim": "个人与宇宙在超越世界里并主客之分而亦无之；只是一大调和。",
+      "target": "个人与宇宙的关系",
+      "claim_type": "本体论主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "但是我们以为个人与宇宙在超越世界里并主客之分而亦无之；只是一大调和。",
+      "confidence": 0.8
+    },
+    {
+      "id": "c15",
+      "speaker": "菊农",
+      "claim": "自然界一切事物，对于我都有精神的意义。",
+      "target": "自然与人的关系",
+      "claim_type": "本体论主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "自然界一切事物，对于我都有精神的意义。",
+      "confidence": 0.8
+    },
+    {
+      "id": "c16",
+      "speaker": "菊农",
+      "claim": "个人不是要克制自然乃是要与自然和洽。",
+      "target": "个人与自然的关系",
+      "claim_type": "方法论主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "个人不是要克制自然乃是要与自然和洽。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c17",
+      "speaker": "菊农",
+      "claim": "小己人格充分实现时，便与宇宙融合无间了。",
+      "target": "小己人格与宇宙的关系",
+      "claim_type": "本体论主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "小己人格充分实现时，便与宇宙融合无间了。",
+      "confidence": 0.9
+    }
+  ],
+  "relations": [
+    {
+      "id": "r1",
+      "head": "社会",
+      "head_type": "概念",
+      "relation": "属于",
+      "relation_subtype": "不适用",
+      "tail": "人生",
+      "tail_type": "概念",
+      "polarity": "positive",
+      "evidence": "人类生活之集合方面便是社会，特指方面便是个人。",
+      "confidence": 0.9
+    },
+    {
+      "id": "r2",
+      "head": "个人",
+      "head_type": "概念",
+      "relation": "属于",
+      "relation_subtype": "不适用",
+      "tail": "人生",
+      "tail_type": "概念",
+      "polarity": "positive",
+      "evidence": "人类生活之集合方面便是社会，特指方面便是个人。",
+      "confidence": 0.9
+    },
+    {
+      "id": "r3",
+      "head": "社会",
+      "head_type": "概念",
+      "relation": "包含",
+      "relation_subtype": "不适用",
+      "tail": "个人",
+      "tail_type": "概念",
+      "polarity": "positive",
+      "evidence": "社会是个人的全体，个人是全体的部分。",
+      "confidence": 0.9
+    },
+    {
+      "id": "r4",
+      "head": "个人",
+      "head_type": "概念",
+      "relation": "属于",
+      "relation_subtype": "不适用",
+      "tail": "全体",
+      "tail_type": "概念",
+      "polarity": "positive",
+      "evidence": "社会是个人的全体，个人是全体的部分。",
+      "confidence": 0.9
+    },
+    {
+      "id": "r5",
+      "head": "机械的宇宙观",
+      "head_type": "概念",
+      "relation": "导致",
+      "relation_subtype": "不适用",
+      "tail": "狭义的个人主义",
+      "tail_type": "概念",
+      "polarity": "negative",
+      "evidence": "个人无时无刻不在与自然为敌，因此而狭义的个人主义极发达。",
+      "confidence": 0.8
+    },
+    {
+      "id": "r6",
+      "head": "机械的宇宙观",
+      "head_type": "概念",
+      "relation": "导致",
+      "relation_subtype": "不适用",
+      "tail": "科学",
+      "tail_type": "概念",
+      "polarity": "neutral",
+      "evidence": "在机械的宇宙观之下，几乎认宇宙为敌，努力以求克制之道，科学之发达，这也是一个原因。",
+      "confidence": 0.8
+    },
+    {
+      "id": "r7",
+      "head": "菊农",
+      "head_type": "人物",
+      "relation": "主张",
+      "relation_subtype": "不适用",
+      "tail": "个人与宇宙在超越世界里并主客之分而亦无之；只是一大调和。",
+      "tail_type": "观点",
+      "polarity": "positive",
+      "evidence": "但是我们以为个人与宇宙在超越世界里并主客之分而亦无之；只是一大调和。",
+      "confidence": 0.9
+    },
+    {
+      "id": "r8",
+      "head": "菊农",
+      "head_type": "人物",
+      "relation": "主张",
+      "relation_subtype": "不适用",
+      "tail": "个人不是要克制自然乃是要与自然和洽。",
+      "tail_type": "观点",
+      "polarity": "positive",
+      "evidence": "个人不是要克制自然乃是要与自然和洽。",
+      "confidence": 0.9
+    }
+  ],
+  "definitions": [
+    {
+      "id": "def1",
+      "term": "社会",
+      "definition": "人类生活之集合方面便是社会。",
+      "evidence": "人类生活之集合方面便是社会，特指方面便是个人。",
+      "confidence": 0.9
+    },
+    {
+      "id": "def2",
+      "term": "个人",
+      "definition": "人类生活之特指方面便是个人。",
+      "evidence": "人类生活之集合方面便是社会，特指方面便是个人。",
+      "confidence": 0.9
+    },
+    {
+      "id": "def3",
+      "term": "人生",
+      "definition": "社会和个人都是一件事实的变形，这件事便是人生。",
+      "evidence": "社会和个人都是一件事实的变形，这件事便是人生。",
+      "confidence": 0.9
+    },
+    {
+      "id": "def4",
+      "term": "全体",
+      "definition": "实在是一件有生机、有目的、有自由、无时不创造的全体的表现。",
+      "evidence": "实在是一件有生机、有目的、有自由、无时不创造的全体的表现。",
+      "confidence": 0.8
+    },
+    {
+      "id": "def5",
+      "term": "社会压迫个性",
+      "definition": "注重所谓社会一方面便构成了社会压迫个性的状态。",
+      "evidence": "注重所谓社会一方面便构成了社会压迫个性的状态。",
+      "confidence": 0.9
+    },
+    {
+      "id": "def6",
+      "term": "自大的个人主义",
+      "definition": "注重个人一方面便又构成自大的个人主义。",
+      "evidence": "注重个人一方面便又构成自大的个人主义。",
+      "confidence": 0.9
+    },
+    {
+      "id": "def7",
+      "term": "机械的宇宙观",
+      "definition": "几乎认宇宙为敌，努力以求克制之道。",
+      "evidence": "在机械的宇宙观之下，几乎认宇宙为敌，努力以求克制之道。",
+      "confidence": 0.9
+    },
+    {
+      "id": "def8",
+      "term": "狭义的个人主义",
+      "definition": "个人无时无刻不在与自然为敌。",
+      "evidence": "个人无时无刻不在与自然为敌，因此而狭义的个人主义极发达。",
+      "confidence": 0.8
+    }
+  ],
+  "citations": [],
+  "rhetorical_devices": [
+    {
+      "id": "rh1",
+      "expression": "造出一堵墙来",
+      "device_type": "比喻",
+      "literal_target": "将社会与个人人为地隔离开来",
+      "function": "形象化地批评将社会与个人对立起来的做法",
+      "evidence": "如果自己要造出一堵墙来，要隔开两方面。",
+      "confidence": 0.9
+    },
+    {
+      "id": "rh2",
+      "expression": "畸形的发展",
+      "device_type": "比喻",
+      "literal_target": "教育的不健全、不均衡发展",
+      "function": "负面评价教育结果",
+      "evidence": "教育的结果，便是畸形的发展。",
+      "confidence": 0.9
+    }
+  ],
+  "uncertainties": [
+    {
+      "item": "“我们这些话并不是什么特别的话”中的“我们”是否特指菊农本人及其所属群体，还是泛指一般观点持有者。",
+      "reason": "文本中“我们”出现多次，但未明确指代范围，可能包括作者及其所属阵营。"
+    },
+    {
+      "item": "“科学之发达，这也是一个原因”中的“这”是否明确指代“机械的宇宙观”下的“认宇宙为敌，努力以求克制之道”。",
+      "reason": "句子结构略有省略，但根据上下文推断合理。"
+    }
+  ]
+}

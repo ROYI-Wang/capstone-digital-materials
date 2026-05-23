@@ -1,0 +1,355 @@
+{
+  "metadata": {
+    "schema_version": "lite_v2.0",
+    "article_id": "丁文江2_000_e838922e",
+    "article_title": "玄学与科学——答张君劢",
+    "source_author": "丁文江",
+    "section_title": "",
+    "section_author": "",
+    "segment_id": "丁文江2_000_e838922e_s0018",
+    "segment_index": 18,
+    "source_file": "E:\\1研究生\\岭南大学\\论文毕业\\capstone\\资料\\新的内容开始了\\local_upload\\input_texts\\丁文江2.txt"
+  },
+  "entities": [
+    {
+      "id": "e1",
+      "name": "爱因斯坦",
+      "canonical_name": "爱因斯坦",
+      "type": "Person",
+      "evidence": "近年以来，则有爱因斯坦之说",
+      "confidence": 1.0
+    },
+    {
+      "id": "e2",
+      "name": "牛顿",
+      "canonical_name": "牛顿",
+      "type": "Person",
+      "evidence": "牛顿所说的直线运行",
+      "confidence": 1.0
+    },
+    {
+      "id": "e3",
+      "name": "达尔登",
+      "canonical_name": "达尔登",
+      "type": "Person",
+      "evidence": "原子论是达尔登创造的",
+      "confidence": 1.0
+    },
+    {
+      "id": "e4",
+      "name": "阿我喀杜罗",
+      "canonical_name": "阿我喀杜罗",
+      "type": "Person",
+      "evidence": "分子的观念起于阿我喀杜罗",
+      "confidence": 1.0
+    },
+    {
+      "id": "e5",
+      "name": "吸引的现象",
+      "canonical_name": "吸引的现象",
+      "type": "Concept",
+      "evidence": "吸引的现象是空间的性质",
+      "confidence": 1.0
+    },
+    {
+      "id": "e6",
+      "name": "空间",
+      "canonical_name": "空间",
+      "type": "Concept",
+      "evidence": "空间自己是曲线的",
+      "confidence": 1.0
+    },
+    {
+      "id": "e7",
+      "name": "力",
+      "canonical_name": "力",
+      "type": "Concept",
+      "evidence": "无所谓力，用不着力的观念",
+      "confidence": 1.0
+    },
+    {
+      "id": "e8",
+      "name": "相对论",
+      "canonical_name": "相对论",
+      "type": "Book",
+      "evidence": "爱因斯坦的“相对论”",
+      "confidence": 1.0
+    },
+    {
+      "id": "e9",
+      "name": "Principle",
+      "canonical_name": "Principle",
+      "type": "Book",
+      "evidence": "牛顿的Principle",
+      "confidence": 1.0
+    },
+    {
+      "id": "e10",
+      "name": "阿顿",
+      "canonical_name": "阿顿",
+      "type": "Concept",
+      "evidence": "曰阿顿，曰原子，曰质量，曰能力",
+      "confidence": 1.0
+    },
+    {
+      "id": "e11",
+      "name": "原子",
+      "canonical_name": "原子",
+      "type": "Concept",
+      "evidence": "曰阿顿，曰原子，曰质量，曰能力",
+      "confidence": 1.0
+    },
+    {
+      "id": "e12",
+      "name": "质量",
+      "canonical_name": "质量",
+      "type": "Concept",
+      "evidence": "曰阿顿，曰原子，曰质量，曰能力",
+      "confidence": 1.0
+    },
+    {
+      "id": "e13",
+      "name": "能力",
+      "canonical_name": "能力",
+      "type": "Concept",
+      "evidence": "曰阿顿，曰原子，曰质量，曰能力",
+      "confidence": 1.0
+    },
+    {
+      "id": "e14",
+      "name": "原子论",
+      "canonical_name": "原子论",
+      "type": "Concept",
+      "evidence": "原子论是达尔登创造的",
+      "confidence": 1.0
+    },
+    {
+      "id": "e15",
+      "name": "分子",
+      "canonical_name": "分子",
+      "type": "Concept",
+      "evidence": "他所谓原子包括分子在内",
+      "confidence": 1.0
+    },
+    {
+      "id": "e16",
+      "name": "分子的观念",
+      "canonical_name": "分子的观念",
+      "type": "Concept",
+      "evidence": "分子的观念起于阿我喀杜罗",
+      "confidence": 1.0
+    },
+    {
+      "id": "e17",
+      "name": "物质",
+      "canonical_name": "物质",
+      "type": "Concept",
+      "evidence": "原子为物质最小的单位",
+      "confidence": 1.0
+    }
+  ],
+  "claims": [
+    {
+      "id": "c1",
+      "speaker": "丁文江",
+      "claim": "吸引的现象是空间的性质，无所谓力，用不着力的观念。",
+      "target": "",
+      "claim_type": "知识论主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "吸引的现象是空间的性质，无所谓力，用不着力的观念。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c2",
+      "speaker": "丁文江",
+      "claim": "空间自己是曲线的，所以凡在空间运行的物质都走曲线，牛顿所说的直线运行，是世界所没有的现象，用不着这种假设。",
+      "target": "牛顿",
+      "claim_type": "知识论主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "空间自己是曲线的，所以凡在空间运行的物质都走曲线，牛顿所说的直线运行，是世界所没有的现象，用不着这种假设。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c3",
+      "speaker": "张君劢",
+      "claim": "近年以来，则有爱因斯坦之说，虽其公例之适用范围有不同，然牛顿公例之至今犹能适用，一切物理学家所公认者也。",
+      "target": "爱因斯坦",
+      "claim_type": "历史解释",
+      "claim_status": "直接引用",
+      "polarity": "positive",
+      "evidence": "近年以来，则有爱因斯坦之说，虽其公例之适用范围有不同，然牛顿（即牛顿）公例之至今犹能适用，一切物理学家所公认者也。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c4",
+      "speaker": "丁文江",
+      "claim": "读者只要看爱因斯坦的“相对论”，再拿牛顿的Principle来比较，就知道他这种话有无根据。",
+      "target": "张君劢",
+      "claim_type": "反驳性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "读者只要看爱因斯坦的“相对论”，再拿牛顿的Principle来比较，就知道他这种话有无根据。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c5",
+      "speaker": "张君劢",
+      "claim": "物理上之概念，曰阿顿，曰原子，曰质量，曰能力。",
+      "target": "",
+      "claim_type": "定义性主张",
+      "claim_status": "直接引用",
+      "polarity": "neutral",
+      "evidence": "君劢说，“物理上之概念，曰阿顿，曰原子，曰质量，曰能力。”",
+      "confidence": 1.0
+    },
+    {
+      "id": "c6",
+      "speaker": "丁文江",
+      "claim": "似乎不知道“阿顿”就是原子的。",
+      "target": "张君劢",
+      "claim_type": "反驳性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "似乎不知道“阿顿”就是原子的。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c7",
+      "speaker": "丁文江",
+      "claim": "若是我谈玄学把“也过”同“我”当做两样东西，我不知道君劢要如何责备我。",
+      "target": "张君劢",
+      "claim_type": "论战策略批评",
+      "claim_status": "假设情境",
+      "polarity": "negative",
+      "evidence": "若是我谈玄学把“也过”同“我”当做两样东西，我不知道君劢要如何责备我。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c8",
+      "speaker": "丁文江",
+      "claim": "原子论是达尔登创造的，但是他所谓原子包括分子在内。",
+      "target": "达尔登",
+      "claim_type": "历史解释",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "原子论是达尔登创造的，但是他所谓原子包括分子在内。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c9",
+      "speaker": "丁文江",
+      "claim": "分子的观念起于阿我喀杜罗，于是学化学的人都认原子为物质最小的单位，不能再分而为二。",
+      "target": "阿我喀杜罗",
+      "claim_type": "历史解释",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "分子的观念起于阿我喀杜罗，于是学化学的人都认原子为物质最小的单位，不能再分而为二。",
+      "confidence": 1.0
+    }
+  ],
+  "relations": [
+    {
+      "id": "r1",
+      "head": "空间",
+      "head_type": "Concept",
+      "relation": "CAUSES",
+      "tail": "物质",
+      "tail_type": "Concept",
+      "polarity": "neutral",
+      "evidence": "空间自己是曲线的，所以凡在空间运行的物质都走曲线",
+      "confidence": 1.0
+    },
+    {
+      "id": "r2",
+      "head": "原子论",
+      "head_type": "Concept",
+      "relation": "DERIVES_FROM",
+      "tail": "达尔登",
+      "tail_type": "Person",
+      "polarity": "neutral",
+      "evidence": "原子论是达尔登创造的",
+      "confidence": 1.0
+    },
+    {
+      "id": "r3",
+      "head": "分子的观念",
+      "head_type": "Concept",
+      "relation": "DERIVES_FROM",
+      "tail": "阿我喀杜罗",
+      "tail_type": "Person",
+      "polarity": "neutral",
+      "evidence": "分子的观念起于阿我喀杜罗",
+      "confidence": 1.0
+    }
+  ],
+  "definitions": [
+    {
+      "id": "def1",
+      "term": "吸引的现象",
+      "definition": "吸引的现象是空间的性质，无所谓力，用不着力的观念。",
+      "evidence": "吸引的现象是空间的性质，无所谓力，用不着力的观念。",
+      "confidence": 1.0
+    },
+    {
+      "id": "def2",
+      "term": "原子",
+      "definition": "原子为物质最小的单位，不能再分而为二。",
+      "evidence": "原子为物质最小的单位，不能再分而为二。",
+      "confidence": 1.0
+    }
+  ],
+  "citations": [
+    {
+      "id": "cit1",
+      "citer": "丁文江",
+      "quoted_author": "张君劢",
+      "quoted_work": "",
+      "quoted_claim": "物理上之概念，曰阿顿，曰原子，曰质量，曰能力。",
+      "function": "作为批评对象",
+      "evidence": "君劢说，“物理上之概念，曰阿顿，曰原子，曰质量，曰能力。”",
+      "confidence": 1.0
+    }
+  ],
+  "rhetorical_devices": [
+    {
+      "id": "rh1",
+      "expression": "若是我谈玄学把“也过”同“我”当做两样东西，我不知道君劢要如何责备我。",
+      "device_type": "归谬",
+      "literal_target": "张君劢",
+      "function": "通过假设自己犯类似错误来讽刺张君劢的双重标准",
+      "evidence": "若是我谈玄学把“也过”同“我”当做两样东西，我不知道君劢要如何责备我。",
+      "confidence": 1.0
+    }
+  ],
+  "uncertainties": [
+    {
+      "item": "“也过”一词的具体含义",
+      "reason": "文本中未解释“也过”是什么，无法确定其指代"
+    },
+    {
+      "item": "“我”在“也过”同“我”中的具体指代",
+      "reason": "文本中未明确说明“我”在此处的含义"
+    }
+  ],
+  "_meta": {
+    "status": "success",
+    "stage": "extract",
+    "model": "deepseek-ai/DeepSeek-V4-Flash",
+    "base_url": "https://api.siliconflow.cn/v1",
+    "prompt_version": "extract_prompt_v2.0",
+    "schema_version": "lite_v2.0",
+    "segment_id": "丁文江2_000_e838922e_s0018",
+    "article_id": "丁文江2_000_e838922e",
+    "char_start": 4631,
+    "char_end": 4967,
+    "raw_path": "E:\\1研究生\\岭南大学\\论文毕业\\capstone\\资料\\新的内容开始了\\local_upload\\kg_runs\\丁文江_等3篇\\raw_outputs\\extract\\丁文江2_000_e838922e_s0018.txt",
+    "parsed_at": "2026-05-19T04:01:46",
+    "started_at": "2026-05-19T03:58:56",
+    "elapsed_seconds": 169.944,
+    "strict_evidence_check": true,
+    "drop_unsupported_evidence": true,
+    "request_timeout_seconds": 180
+  }
+}

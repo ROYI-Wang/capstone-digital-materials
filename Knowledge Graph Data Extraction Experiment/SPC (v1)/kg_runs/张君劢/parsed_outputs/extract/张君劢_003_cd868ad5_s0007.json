@@ -1,0 +1,228 @@
+{
+  "metadata": {
+    "schema_version": "lite_v2.0",
+    "article_id": "张君劢_003_cd868ad5",
+    "article_title": "科学之评价",
+    "source_author": "张君劢",
+    "section_title": "",
+    "section_author": "",
+    "segment_id": "张君劢_003_cd868ad5_s0007",
+    "segment_index": 7,
+    "source_file": "E:\\1研究生\\岭南大学\\论文毕业\\capstone\\资料\\新的内容开始了\\local_upload\\input_w3\\张君劢.txt"
+  },
+  "entities": [
+    {
+      "id": "e1",
+      "name": "社会革命党",
+      "canonical_name": "社会革命党",
+      "type": "阵营/群体",
+      "evidence": "而徒委之社会革命党之手",
+      "confidence": 0.9
+    },
+    {
+      "id": "e2",
+      "name": "现代教育",
+      "canonical_name": "现代教育",
+      "type": "概念",
+      "evidence": "现代教育自有相当之成绩",
+      "confidence": 0.9
+    },
+    {
+      "id": "e3",
+      "name": "官觉主义",
+      "canonical_name": "官觉主义",
+      "type": "主义/学说/理论",
+      "evidence": "若以欧洲已往之思潮为官觉主义",
+      "confidence": 0.9
+    },
+    {
+      "id": "e4",
+      "name": "超官觉主义",
+      "canonical_name": "超官觉主义",
+      "type": "主义/学说/理论",
+      "evidence": "而以吾人之思潮作为一种超官觉主义",
+      "confidence": 0.9
+    },
+    {
+      "id": "e5",
+      "name": "实验科学",
+      "canonical_name": "实验科学",
+      "type": "概念",
+      "evidence": "实验科学发达",
+      "confidence": 0.9
+    },
+    {
+      "id": "e6",
+      "name": "理智",
+      "canonical_name": "理智",
+      "type": "概念",
+      "evidence": "侧重理智",
+      "confidence": 0.9
+    },
+    {
+      "id": "e7",
+      "name": "工商立国",
+      "canonical_name": "工商立国",
+      "type": "概念",
+      "evidence": "工商立国",
+      "confidence": 0.9
+    },
+    {
+      "id": "e8",
+      "name": "国家主义",
+      "canonical_name": "国家主义",
+      "type": "主义/学说/理论",
+      "evidence": "国家主义",
+      "confidence": 0.9
+    },
+    {
+      "id": "e9",
+      "name": "精神",
+      "canonical_name": "精神",
+      "type": "概念",
+      "evidence": "重精神（或内生活）之修养",
+      "confidence": 0.9
+    },
+    {
+      "id": "e10",
+      "name": "内生活",
+      "canonical_name": "内生活",
+      "type": "概念",
+      "evidence": "重精神（或内生活）之修养",
+      "confidence": 0.9
+    },
+    {
+      "id": "e11",
+      "name": "情意",
+      "canonical_name": "情意",
+      "type": "概念",
+      "evidence": "侧重情意",
+      "confidence": 0.9
+    },
+    {
+      "id": "e12",
+      "name": "艺术",
+      "canonical_name": "艺术",
+      "type": "概念",
+      "evidence": "物质生活外发达艺术",
+      "confidence": 0.9
+    },
+    {
+      "id": "e13",
+      "name": "国际主义",
+      "canonical_name": "国际主义",
+      "type": "主义/学说/理论",
+      "evidence": "国际主义",
+      "confidence": 0.9
+    }
+  ],
+  "claims": [
+    {
+      "id": "c1",
+      "speaker": "张君劢",
+      "claim": "现代教育在理智身体方面自有相当之成绩，不可以抹杀",
+      "target": "现代教育",
+      "claim_type": "价值评价",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "现代教育自有相当之成绩，不可以抹杀的",
+      "confidence": 0.9
+    },
+    {
+      "id": "c2",
+      "speaker": "张君劢",
+      "claim": "官觉主义之结果包括实验科学发达、侧重理智、工商立国、国家主义",
+      "target": "官觉主义",
+      "claim_type": "历史解释",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "第一，官觉主义之结果：实验科学发达，侧重理智，工商立国，国家主义",
+      "confidence": 0.9
+    },
+    {
+      "id": "c3",
+      "speaker": "张君劢",
+      "claim": "超官觉主义之结果预测包括重精神之修养、侧重情意、物质生活外发达艺术、国际主义",
+      "target": "超官觉主义",
+      "claim_type": "历史解释",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "第二，超官觉主义之结果之预测：重精神（或内生活）之修养，侧重情意，物质生活外发达艺术，国际主义",
+      "confidence": 0.9
+    },
+    {
+      "id": "c4",
+      "speaker": "张君劢",
+      "claim": "今后吾国将何去何从是文化发端之始的极大问题",
+      "target": "吾国",
+      "claim_type": "问题提出",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "今后吾国将何去何从，是文化发端之始的极大问题",
+      "confidence": 0.9
+    }
+  ],
+  "relations": [
+    {
+      "id": "r1",
+      "head": "官觉主义",
+      "head_type": "主义/学说/理论",
+      "relation": "导致",
+      "tail": "实验科学发达",
+      "tail_type": "概念",
+      "polarity": "neutral",
+      "evidence": "第一，官觉主义之结果：实验科学发达",
+      "confidence": 0.9
+    },
+    {
+      "id": "r2",
+      "head": "超官觉主义",
+      "head_type": "主义/学说/理论",
+      "relation": "导致",
+      "tail": "重精神（或内生活）之修养",
+      "tail_type": "概念",
+      "polarity": "neutral",
+      "evidence": "第二，超官觉主义之结果之预测：重精神（或内生活）之修养",
+      "confidence": 0.9
+    },
+    {
+      "id": "r3",
+      "head": "官觉主义",
+      "head_type": "主义/学说/理论",
+      "relation": "对比",
+      "tail": "超官觉主义",
+      "tail_type": "主义/学说/理论",
+      "polarity": "neutral",
+      "evidence": "若以欧洲已往之思潮为官觉主义，而以吾人之思潮作为一种超官觉主义",
+      "confidence": 0.9
+    }
+  ],
+  "definitions": [],
+  "citations": [],
+  "rhetorical_devices": [],
+  "uncertainties": [
+    {
+      "item": "社会革命党",
+      "reason": "文本仅提及'徒委之社会革命党之手'，但未说明社会革命党具体指代什么，也未说明'一件大不幸事'的具体所指，缺乏上下文"
+    }
+  ],
+  "_meta": {
+    "status": "success",
+    "stage": "extract",
+    "model": "deepseek-ai/DeepSeek-V4-Flash",
+    "base_url": "https://api.siliconflow.cn/v1",
+    "prompt_version": "extract_prompt_v2.0",
+    "schema_version": "lite_v2.0",
+    "segment_id": "张君劢_003_cd868ad5_s0007",
+    "article_id": "张君劢_003_cd868ad5",
+    "char_start": 3538,
+    "char_end": 3779,
+    "raw_path": "E:\\1研究生\\岭南大学\\论文毕业\\capstone\\资料\\新的内容开始了\\local_upload\\kg_runs\\张君劢\\raw_outputs\\extract\\张君劢_003_cd868ad5_s0007.txt",
+    "parsed_at": "2026-05-20T04:42:45",
+    "started_at": "2026-05-20T04:41:24",
+    "elapsed_seconds": 80.787,
+    "strict_evidence_check": true,
+    "drop_unsupported_evidence": true,
+    "request_timeout_seconds": 180
+  }
+}

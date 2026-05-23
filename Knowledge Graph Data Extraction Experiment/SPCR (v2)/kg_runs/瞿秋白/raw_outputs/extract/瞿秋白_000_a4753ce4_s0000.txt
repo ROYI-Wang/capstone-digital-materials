@@ -1,0 +1,626 @@
+{
+  "metadata": {
+    "schema_version": "lite_v3.0",
+    "article_id": "瞿秋白_000_a4753ce4",
+    "article_title": "《自由世界与必然世界》",
+    "source_author": "瞿秋白",
+    "section_title": "资本主义时代的强有力的生产工具若能变成公共的财产，生产制度若得按",
+    "section_author": "资本主义时代的强有力的生产工具若能变成公共的财产，生产制度若得",
+    "segment_id": "瞿秋白_000_a4753ce4_s0000",
+    "segment_index": 0,
+    "source_file": "E:\\1研究生\\岭南大学\\论文毕业\\capstone\\资料\\新的内容开始了\\local_upload\\input_瞿秋白\\瞿秋白.txt"
+  },
+  "entities": [
+    {
+      "id": "e1",
+      "name": "丁文江",
+      "canonical_name": "丁文江",
+      "type": "人物",
+      "evidence": "今年春夏间，《努力周报》丁文江、胡适之先生等与张君劢先生辩论科学与人生观。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e2",
+      "name": "胡适之",
+      "canonical_name": "胡适之",
+      "type": "人物",
+      "evidence": "今年春夏间，《努力周报》丁文江、胡适之先生等与张君劢先生辩论科学与人生观。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e3",
+      "name": "张君劢",
+      "canonical_name": "张君劢",
+      "type": "人物",
+      "evidence": "今年春夏间，《努力周报》丁文江、胡适之先生等与张君劢先生辩论科学与人生观。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e4",
+      "name": "《努力周报》",
+      "canonical_name": "《努力周报》",
+      "type": "著作",
+      "evidence": "今年春夏间，《努力周报》丁文江、胡适之先生等与张君劢先生辩论科学与人生观。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e5",
+      "name": "科学与人生观",
+      "canonical_name": "科学与人生观",
+      "type": "概念",
+      "evidence": "今年春夏间，《努力周报》丁文江、胡适之先生等与张君劢先生辩论科学与人生观。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e6",
+      "name": "自然科学",
+      "canonical_name": "自然科学",
+      "type": "概念",
+      "evidence": "我看他们对于自然科学与社会科学之争辩实在打不着痛处。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e7",
+      "name": "社会科学",
+      "canonical_name": "社会科学",
+      "type": "概念",
+      "evidence": "我看他们对于自然科学与社会科学之争辩实在打不着痛处。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e8",
+      "name": "柏格森的生命主义哲学",
+      "canonical_name": "柏格森的生命主义哲学",
+      "type": "主义/学说/理论",
+      "evidence": "鼓吹柏格森的生命主义哲学",
+      "confidence": 1.0
+    },
+    {
+      "id": "e9",
+      "name": "人生观",
+      "canonical_name": "人生观",
+      "type": "概念",
+      "evidence": "说什么“人生观问题之解决，决非科学所能为力”。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e10",
+      "name": "科学",
+      "canonical_name": "科学",
+      "type": "概念",
+      "evidence": "说什么“人生观问题之解决，决非科学所能为力”。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e11",
+      "name": "玄学",
+      "canonical_name": "玄学",
+      "type": "概念",
+      "evidence": "而只能由“玄学”即唯心主义哲学来解决。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e12",
+      "name": "唯心主义哲学",
+      "canonical_name": "唯心主义哲学",
+      "type": "主义/学说/理论",
+      "evidence": "而只能由“玄学”即唯心主义哲学来解决。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e13",
+      "name": "科学与玄学",
+      "canonical_name": "科学与玄学",
+      "type": "概念",
+      "evidence": "遂挑起所谓“科学与玄学”的论战，即科学与人生观的辩论。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e14",
+      "name": "社会现象有因果律",
+      "canonical_name": "社会现象有因果律",
+      "type": "观点",
+      "evidence": "所论的问题，在于承认社会现象有因果律与否，承认意志自由与否",
+      "confidence": 1.0
+    },
+    {
+      "id": "e15",
+      "name": "意志自由",
+      "canonical_name": "意志自由",
+      "type": "概念",
+      "evidence": "所论的问题，在于承认社会现象有因果律与否，承认意志自由与否",
+      "confidence": 1.0
+    },
+    {
+      "id": "e16",
+      "name": "必然",
+      "canonical_name": "必然",
+      "type": "概念",
+      "evidence": "所以我试一论“必然”与“自由”的意义。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e17",
+      "name": "自由",
+      "canonical_name": "自由",
+      "type": "概念",
+      "evidence": "所以我试一论“必然”与“自由”的意义。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e18",
+      "name": "自然现象及社会现象之规律性",
+      "canonical_name": "自然现象及社会现象之规律性",
+      "type": "概念",
+      "evidence": "一、自然现象及社会现象之规律性",
+      "confidence": 1.0
+    },
+    {
+      "id": "e19",
+      "name": "人类社会的发展",
+      "canonical_name": "人类社会的发展",
+      "type": "概念",
+      "evidence": "人类社会的发展与自然界的发展各有不同的历史。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e20",
+      "name": "自然界的发展",
+      "canonical_name": "自然界的发展",
+      "type": "概念",
+      "evidence": "人类社会的发展与自然界的发展各有不同的历史。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e21",
+      "name": "自然界",
+      "canonical_name": "自然界",
+      "type": "概念",
+      "evidence": "自然界里只有无意识的盲目的各种力量流动而互相影响",
+      "confidence": 1.0
+    },
+    {
+      "id": "e22",
+      "name": "无意识的盲目的各种力量",
+      "canonical_name": "无意识的盲目的各种力量",
+      "type": "概念",
+      "evidence": "自然界里只有无意识的盲目的各种力量流动而互相影响",
+      "confidence": 1.0
+    },
+    {
+      "id": "e23",
+      "name": "共同因果律",
+      "canonical_name": "共同因果律",
+      "type": "概念",
+      "evidence": "此中共同因果律的表现，亦仅只因为这些力量的互动。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e24",
+      "name": "愿望",
+      "canonical_name": "愿望",
+      "type": "概念",
+      "evidence": "自然界里绝对无所谓愿望、目的。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e25",
+      "name": "目的",
+      "canonical_name": "目的",
+      "type": "概念",
+      "evidence": "自然界里绝对无所谓愿望、目的。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e26",
+      "name": "人类社会的历史",
+      "canonical_name": "人类社会的历史",
+      "type": "概念",
+      "evidence": "人类社会的历史里却大不同——这里的行动者是有意识的人，各自秉其愿欲或见解而行，各自有一定的目的。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e27",
+      "name": "有意识的人",
+      "canonical_name": "有意识的人",
+      "type": "概念",
+      "evidence": "这里的行动者是有意识的人，各自秉其愿欲或见解而行，各自有一定的目的。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e28",
+      "name": "历史的进程之共同因果律",
+      "canonical_name": "历史的进程之共同因果律",
+      "type": "概念",
+      "evidence": "然而并不能因此而否认历史的进程之共同因果律。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e29",
+      "name": "偶然",
+      "canonical_name": "偶然",
+      "type": "概念",
+      "evidence": "表面上看来，历史之中，虽然有人所愿望的目的，而实在还是偶然的事居多。",
+      "confidence": 1.0
+    }
+  ],
+  "claims": [
+    {
+      "id": "c1",
+      "speaker": "张君劢",
+      "claim": "人生观问题之解决，决非科学所能为力",
+      "target": "人生观",
+      "claim_type": "反驳性主张",
+      "claim_status": "间接转述",
+      "polarity": "negative",
+      "evidence": "说什么“人生观问题之解决，决非科学所能为力”。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c2",
+      "speaker": "张君劢",
+      "claim": "人生观问题只能由玄学即唯心主义哲学来解决",
+      "target": "人生观",
+      "claim_type": "规范性主张",
+      "claim_status": "间接转述",
+      "polarity": "positive",
+      "evidence": "而只能由“玄学”即唯心主义哲学来解决。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c3",
+      "speaker": "瞿秋白",
+      "claim": "所论的问题，在于承认社会现象有因果律与否，承认意志自由与否",
+      "target": "科学与人生观的辩论",
+      "claim_type": "描述性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "我只说：“所论的问题，在于承认社会现象有因果律与否，承认意志自由与否”，别的都是枝节。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c4",
+      "speaker": "瞿秋白",
+      "claim": "人类社会的发展与自然界的发展各有不同的历史",
+      "target": "人类社会的发展",
+      "claim_type": "描述性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "人类社会的发展与自然界的发展各有不同的历史。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c5",
+      "speaker": "瞿秋白",
+      "claim": "自然界里只有无意识的盲目的各种力量流动而互相影响",
+      "target": "自然界",
+      "claim_type": "描述性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "自然界里只有无意识的盲目的各种力量流动而互相影响",
+      "confidence": 1.0
+    },
+    {
+      "id": "c6",
+      "speaker": "瞿秋白",
+      "claim": "自然界里绝对无所谓愿望、目的",
+      "target": "自然界",
+      "claim_type": "描述性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "自然界里绝对无所谓愿望、目的。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c7",
+      "speaker": "瞿秋白",
+      "claim": "人类社会的历史里行动者是有意识的人，各自秉其愿欲或见解而行，各自有一定的目的",
+      "target": "人类社会的历史",
+      "claim_type": "描述性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "人类社会的历史里却大不同——这里的行动者是有意识的人，各自秉其愿欲或见解而行，各自有一定的目的。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c8",
+      "speaker": "瞿秋白",
+      "claim": "不能因此而否认历史的进程之共同因果律",
+      "target": "历史的进程之共同因果律",
+      "claim_type": "反驳性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "然而并不能因此而否认历史的进程之共同因果律。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c9",
+      "speaker": "瞿秋白",
+      "claim": "历史之中，虽然有人所愿望的目的，而实在还是偶然的事居多",
+      "target": "历史",
+      "claim_type": "描述性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "表面上看来，历史之中，虽然有人所愿望的目的，而实在还是偶然的事居多。",
+      "confidence": 1.0
+    }
+  ],
+  "relations": [
+    {
+      "id": "r1",
+      "head": "丁文江",
+      "head_type": "人物",
+      "relation": "主张",
+      "relation_subtype": "不适用",
+      "tail": "科学与人生观",
+      "tail_type": "概念",
+      "polarity": "neutral",
+      "stance_score": 0.0,
+      "intensity": 0.0,
+      "evidence": "今年春夏间，《努力周报》丁文江、胡适之先生等与张君劢先生辩论科学与人生观。",
+      "confidence": 1.0
+    },
+    {
+      "id": "r2",
+      "head": "胡适之",
+      "head_type": "人物",
+      "relation": "主张",
+      "relation_subtype": "不适用",
+      "tail": "科学与人生观",
+      "tail_type": "概念",
+      "polarity": "neutral",
+      "stance_score": 0.0,
+      "intensity": 0.0,
+      "evidence": "今年春夏间，《努力周报》丁文江、胡适之先生等与张君劢先生辩论科学与人生观。",
+      "confidence": 1.0
+    },
+    {
+      "id": "r3",
+      "head": "张君劢",
+      "head_type": "人物",
+      "relation": "主张",
+      "relation_subtype": "不适用",
+      "tail": "科学与人生观",
+      "tail_type": "概念",
+      "polarity": "neutral",
+      "stance_score": 0.0,
+      "intensity": 0.0,
+      "evidence": "今年春夏间，《努力周报》丁文江、胡适之先生等与张君劢先生辩论科学与人生观。",
+      "confidence": 1.0
+    },
+    {
+      "id": "r4",
+      "head": "丁文江",
+      "head_type": "人物",
+      "relation": "反对",
+      "relation_subtype": "一般批评",
+      "tail": "张君劢",
+      "tail_type": "人物",
+      "polarity": "negative",
+      "stance_score": -0.5,
+      "intensity": 0.5,
+      "evidence": "今年春夏间，《努力周报》丁文江、胡适之先生等与张君劢先生辩论科学与人生观。",
+      "confidence": 1.0
+    },
+    {
+      "id": "r5",
+      "head": "胡适之",
+      "head_type": "人物",
+      "relation": "反对",
+      "relation_subtype": "一般批评",
+      "tail": "张君劢",
+      "tail_type": "人物",
+      "polarity": "negative",
+      "stance_score": -0.5,
+      "intensity": 0.5,
+      "evidence": "今年春夏间，《努力周报》丁文江、胡适之先生等与张君劢先生辩论科学与人生观。",
+      "confidence": 1.0
+    },
+    {
+      "id": "r6",
+      "head": "瞿秋白",
+      "head_type": "人物",
+      "relation": "评价",
+      "relation_subtype": "一般批评",
+      "tail": "丁文江、胡适之先生等与张君劢先生",
+      "tail_type": "阵营/群体",
+      "polarity": "negative",
+      "stance_score": -0.5,
+      "intensity": 0.5,
+      "evidence": "我看他们对于自然科学与社会科学之争辩实在打不着痛处。",
+      "confidence": 1.0
+    },
+    {
+      "id": "r7",
+      "head": "张君劢",
+      "head_type": "人物",
+      "relation": "主张",
+      "relation_subtype": "不适用",
+      "tail": "人生观问题之解决，决非科学所能为力",
+      "tail_type": "观点",
+      "polarity": "positive",
+      "stance_score": 1.0,
+      "intensity": 0.8,
+      "evidence": "说什么“人生观问题之解决，决非科学所能为力”。",
+      "confidence": 1.0
+    },
+    {
+      "id": "r8",
+      "head": "张君劢",
+      "head_type": "人物",
+      "relation": "主张",
+      "relation_subtype": "不适用",
+      "tail": "人生观问题只能由玄学即唯心主义哲学来解决",
+      "tail_type": "观点",
+      "polarity": "positive",
+      "stance_score": 1.0,
+      "intensity": 0.8,
+      "evidence": "而只能由“玄学”即唯心主义哲学来解决。",
+      "confidence": 1.0
+    },
+    {
+      "id": "r9",
+      "head": "张君劢",
+      "head_type": "人物",
+      "relation": "引用",
+      "relation_subtype": "援引权威",
+      "tail": "柏格森的生命主义哲学",
+      "tail_type": "主义/学说/理论",
+      "polarity": "positive",
+      "stance_score": 1.0,
+      "intensity": 0.6,
+      "evidence": "鼓吹柏格森的生命主义哲学",
+      "confidence": 1.0
+    },
+    {
+      "id": "r10",
+      "head": "瞿秋白",
+      "head_type": "人物",
+      "relation": "定义",
+      "relation_subtype": "概念澄清",
+      "tail": "玄学",
+      "tail_type": "概念",
+      "polarity": "neutral",
+      "stance_score": 0.0,
+      "intensity": 0.0,
+      "evidence": "而只能由“玄学”即唯心主义哲学来解决。",
+      "confidence": 1.0
+    },
+    {
+      "id": "r11",
+      "head": "瞿秋白",
+      "head_type": "人物",
+      "relation": "区分",
+      "relation_subtype": "概念澄清",
+      "tail": "人类社会的发展",
+      "tail_type": "概念",
+      "polarity": "neutral",
+      "stance_score": 0.0,
+      "intensity": 0.0,
+      "evidence": "人类社会的发展与自然界的发展各有不同的历史。",
+      "confidence": 1.0
+    },
+    {
+      "id": "r12",
+      "head": "自然界",
+      "head_type": "概念",
+      "relation": "包含",
+      "relation_subtype": "不适用",
+      "tail": "无意识的盲目的各种力量",
+      "tail_type": "概念",
+      "polarity": "neutral",
+      "stance_score": 0.0,
+      "intensity": 0.0,
+      "evidence": "自然界里只有无意识的盲目的各种力量流动而互相影响",
+      "confidence": 1.0
+    },
+    {
+      "id": "r13",
+      "head": "无意识的盲目的各种力量",
+      "head_type": "概念",
+      "relation": "导致",
+      "relation_subtype": "不适用",
+      "tail": "共同因果律",
+      "tail_type": "概念",
+      "polarity": "neutral",
+      "stance_score": 0.0,
+      "intensity": 0.0,
+      "evidence": "此中共同因果律的表现，亦仅只因为这些力量的互动。",
+      "confidence": 1.0
+    },
+    {
+      "id": "r14",
+      "head": "人类社会的历史",
+      "head_type": "概念",
+      "relation": "包含",
+      "relation_subtype": "不适用",
+      "tail": "有意识的人",
+      "tail_type": "概念",
+      "polarity": "neutral",
+      "stance_score": 0.0,
+      "intensity": 0.0,
+      "evidence": "人类社会的历史里却大不同——这里的行动者是有意识的人，各自秉其愿欲或见解而行，各自有一定的目的。",
+      "confidence": 1.0
+    },
+    {
+      "id": "r15",
+      "head": "有意识的人",
+      "head_type": "概念",
+      "relation": "包含",
+      "relation_subtype": "不适用",
+      "tail": "愿望",
+      "tail_type": "概念",
+      "polarity": "neutral",
+      "stance_score": 0.0,
+      "intensity": 0.0,
+      "evidence": "各自秉其愿欲或见解而行，各自有一定的目的。",
+      "confidence": 1.0
+    },
+    {
+      "id": "r16",
+      "head": "有意识的人",
+      "head_type": "概念",
+      "relation": "包含",
+      "relation_subtype": "不适用",
+      "tail": "目的",
+      "tail_type": "概念",
+      "polarity": "neutral",
+      "stance_score": 0.0,
+      "intensity": 0.0,
+      "evidence": "各自秉其愿欲或见解而行，各自有一定的目的。",
+      "confidence": 1.0
+    },
+    {
+      "id": "r17",
+      "head": "人类社会的历史",
+      "head_type": "概念",
+      "relation": "包含",
+      "relation_subtype": "不适用",
+      "tail": "偶然",
+      "tail_type": "概念",
+      "polarity": "neutral",
+      "stance_score": 0.0,
+      "intensity": 0.0,
+      "evidence": "表面上看来，历史之中，虽然有人所愿望的目的，而实在还是偶然的事居多。",
+      "confidence": 1.0
+    }
+  ],
+  "definitions": [
+    {
+      "id": "def1",
+      "term": "玄学",
+      "definition": "唯心主义哲学",
+      "evidence": "而只能由“玄学”即唯心主义哲学来解决。",
+      "confidence": 1.0
+    }
+  ],
+  "citations": [
+    {
+      "id": "cit1",
+      "citer": "张君劢",
+      "quoted_author": "柏格森",
+      "quoted_work": "",
+      "quoted_claim": "生命主义哲学",
+      "function": "援引权威支持",
+      "evidence": "鼓吹柏格森的生命主义哲学",
+      "confidence": 1.0
+    }
+  ],
+  "rhetorical_devices": [
+    {
+      "id": "rh1",
+      "expression": "打不着痛处",
+      "device_type": "比喻",
+      "literal_target": "辩论没有触及关键问题",
+      "function": "批评对方辩论不深入",
+      "evidence": "我看他们对于自然科学与社会科学之争辩实在打不着痛处。",
+      "confidence": 1.0
+    }
+  ],
+  "uncertainties": [
+    {
+      "item": "“That is the question！”（“问题是在这里！”）",
+      "reason": "这是对莎士比亚《哈姆雷特》名句的化用，但文本中未明确说明引用来源，且未直接关联到具体论证，故不抽取为citation。"
+    }
+  ]
+}

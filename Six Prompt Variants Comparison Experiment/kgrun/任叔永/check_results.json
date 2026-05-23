@@ -1,0 +1,1113 @@
+{
+  "check_results": [
+    {
+      "segment_id": "任叔永_000_7ab49e99_s0000",
+      "high": 17,
+      "medium": 7,
+      "low": 0,
+      "issues": {
+        "type_errors": [],
+        "attribution_errors": [],
+        "direction_errors": [],
+        "missing_nodes": [
+          {
+            "node": "人生观的科学或科学的人生观",
+            "node_type": "概念",
+            "reason": "文本开头即提出此概念，是讨论的核心，应抽取为概念节点。",
+            "severity": "high"
+          },
+          {
+            "node": "张君劢",
+            "node_type": "人物",
+            "reason": "文本中多次出现张君劢及其观点，是重要人物，应抽取。",
+            "severity": "high"
+          },
+          {
+            "node": "丁在君",
+            "node_type": "人物",
+            "reason": "文本中提及丁在君及其驳论，是重要人物，应抽取。",
+            "severity": "high"
+          },
+          {
+            "node": "《人生观》",
+            "node_type": "文章",
+            "reason": "文本明确提到张君劢在清华学校讲演的《人生观》，应作为文章节点。",
+            "severity": "high"
+          },
+          {
+            "node": "玄学与科学",
+            "node_type": "概念",
+            "reason": "文本提及丁在君和张君劢讨论玄学与科学的文字，是争论主题，应抽取。",
+            "severity": "medium"
+          },
+          {
+            "node": "科学",
+            "node_type": "概念",
+            "reason": "文本反复讨论科学及其与人生观的关系，是核心概念。",
+            "severity": "high"
+          },
+          {
+            "node": "人生观",
+            "node_type": "概念",
+            "reason": "文本核心讨论对象，应抽取。",
+            "severity": "high"
+          },
+          {
+            "node": "科学的人生观",
+            "node_type": "概念",
+            "reason": "文本标题及讨论中涉及，是重要概念。",
+            "severity": "medium"
+          },
+          {
+            "node": "科学能解决人生观问题吗",
+            "node_type": "问题",
+            "reason": "文本核心争论问题，张君劢认为不能，作者反驳，应抽取为问题节点。",
+            "severity": "high"
+          },
+          {
+            "node": "人生观能成为科学吗",
+            "node_type": "问题",
+            "reason": "文本明确区分“人生观成不成科学”与“科学能不能解决人生观问题”，此问题被提出，应抽取。",
+            "severity": "high"
+          },
+          {
+            "node": "玄学鬼",
+            "node_type": "比喻/类比",
+            "reason": "丁在君称张君劢被“玄学鬼”所迷，是比喻性标签，应抽取。",
+            "severity": "medium"
+          }
+        ],
+        "missing_links": [
+          {
+            "source": "张君劢",
+            "relation": "主张",
+            "target": "科学无论如何发达，而人生观问题之解决，决非科学所能为力，唯赖诸人类之自身而已",
+            "reason": "文本明确引用张君劢的观点，应建立人物与观点的归属关系。",
+            "severity": "high"
+          },
+          {
+            "source": "张君劢",
+            "relation": "主张",
+            "target": "人生观最不统一，最不一致，所以无发见公式的可能",
+            "reason": "文本归纳张君劢的推理，应建立归属关系。",
+            "severity": "high"
+          },
+          {
+            "source": "张君劢",
+            "relation": "主张",
+            "target": "人生观是主观的，直觉的，综合的，自由意思的，单一性的",
+            "reason": "文本提及张君劢对人生观性质的描述，应建立归属。",
+            "severity": "medium"
+          },
+          {
+            "source": "作者",
+            "relation": "反驳",
+            "target": "张君劢",
+            "reason": "作者明确批评张君劢“从头就陷于错误而不自知”，是反驳关系。",
+            "severity": "high"
+          },
+          {
+            "source": "作者",
+            "relation": "区分",
+            "target": "人生观成不成科学",
+            "reason": "作者区分“人生观成不成科学”与“科学能不能解决人生观的问题”，应建立区分关系。",
+            "severity": "high"
+          },
+          {
+            "source": "作者",
+            "relation": "区分",
+            "target": "科学能不能解决人生观的问题",
+            "reason": "同上，区分关系的另一项。",
+            "severity": "high"
+          },
+          {
+            "source": "丁在君",
+            "relation": "反驳",
+            "target": "张君劢",
+            "reason": "文本说丁在君有极详细的驳论，应建立反驳关系。",
+            "severity": "high"
+          },
+          {
+            "source": "丁在君",
+            "relation": "主张",
+            "target": "凡是心理的内容，真的概念推论，无一不是科学的材料",
+            "reason": "文本引用丁在君的科学智识论观点，应建立归属。",
+            "severity": "high"
+          },
+          {
+            "source": "张君劢",
+            "relation": "混淆",
+            "target": "人生观成不成科学",
+            "reason": "作者批评张君劢将两个问题并为一谈，应建立混淆关系。",
+            "severity": "high"
+          },
+          {
+            "source": "张君劢",
+            "relation": "混淆",
+            "target": "科学能不能解决人生观的问题",
+            "reason": "同上，混淆关系的另一项。",
+            "severity": "high"
+          }
+        ],
+        "normalization_issues": [
+          {
+            "surface_forms": [
+              "张君劢",
+              "张君"
+            ],
+            "suggested_canonical": "张君劢",
+            "reason": "文本中同时出现“张君劢”和“张君”，应统一为全名。",
+            "severity": "medium"
+          },
+          {
+            "surface_forms": [
+              "丁在君",
+              "丁君"
+            ],
+            "suggested_canonical": "丁在君",
+            "reason": "文本中同时出现“丁在君”和“丁君”，应统一。",
+            "severity": "medium"
+          }
+        ],
+        "relation_type_issues": [],
+        "polarity_issues": [],
+        "evidence_issues": [],
+        "rhetorical_device_issues": [
+          {
+            "item": "玄学鬼",
+            "problem": "未抽取为比喻/类比节点，且未说明其修辞功能。",
+            "suggested_fix": "抽取为比喻/类比节点，literal_target为张君劢，论证功能为贬低对手观点。",
+            "severity": "medium"
+          }
+        ]
+      }
+    },
+    {
+      "segment_id": "任叔永_000_7ab49e99_s0001",
+      "high": 19,
+      "medium": 27,
+      "low": 1,
+      "issues": {
+        "type_errors": [],
+        "attribution_errors": [],
+        "direction_errors": [],
+        "missing_nodes": [
+          {
+            "node": "丁君的科学智识论",
+            "node_type": "观点",
+            "reason": "文本中明确提到丁君的观点：'凡是心理的内容，真的概念推论，无一不是科学的材料'，应抽取为观点节点。",
+            "severity": "high"
+          },
+          {
+            "node": "张君的人生观定义",
+            "node_type": "观点",
+            "reason": "张君认为'我的人生观是由主观的自身良心所主张'，这是其核心观点，应抽取。",
+            "severity": "high"
+          },
+          {
+            "node": "科学方法",
+            "node_type": "方法",
+            "reason": "文本中多次提及'科学方法'，并说明其应用限度，应作为方法节点。",
+            "severity": "high"
+          },
+          {
+            "node": "张君的人生观是浑沌囫囵的东西",
+            "node_type": "观点",
+            "reason": "作者（陈独秀？）对张君人生观的评价，是重要观点。",
+            "severity": "high"
+          },
+          {
+            "node": "科学方法应用有限度",
+            "node_type": "观点",
+            "reason": "作者主张科学方法应用有限度，需经过分析而确实清楚的事实。",
+            "severity": "high"
+          },
+          {
+            "node": "丁君拿科学和张君的人生观捣乱是牛头不对马嘴",
+            "node_type": "观点",
+            "reason": "作者讽刺丁文江的做法，是重要观点。",
+            "severity": "high"
+          },
+          {
+            "node": "孔子的行键",
+            "node_type": "概念",
+            "reason": "作为张君所引证的人生观特点之一，应作为概念节点。",
+            "severity": "medium"
+          },
+          {
+            "node": "老子的无为",
+            "node_type": "概念",
+            "reason": "同上。",
+            "severity": "medium"
+          },
+          {
+            "node": "孟子的性善",
+            "node_type": "概念",
+            "reason": "同上。",
+            "severity": "medium"
+          },
+          {
+            "node": "荀子的性恶",
+            "node_type": "概念",
+            "reason": "同上。",
+            "severity": "medium"
+          },
+          {
+            "node": "康德的义务观念",
+            "node_type": "概念",
+            "reason": "同上。",
+            "severity": "medium"
+          },
+          {
+            "node": "边沁的功利主义",
+            "node_type": "概念",
+            "reason": "同上。",
+            "severity": "medium"
+          },
+          {
+            "node": "达尔文的生存竞争论",
+            "node_type": "概念",
+            "reason": "同上。",
+            "severity": "medium"
+          },
+          {
+            "node": "哥罗巴金的互助主义",
+            "node_type": "概念",
+            "reason": "同上。",
+            "severity": "medium"
+          },
+          {
+            "node": "叔本华、哈德们的悲观主义",
+            "node_type": "概念",
+            "reason": "同上。",
+            "severity": "medium"
+          },
+          {
+            "node": "兰勃尼慈、黑智儿的乐观主义",
+            "node_type": "概念",
+            "reason": "同上。",
+            "severity": "medium"
+          },
+          {
+            "node": "孔子的修身齐家主义",
+            "node_type": "概念",
+            "reason": "同上。",
+            "severity": "medium"
+          },
+          {
+            "node": "释迦的出世主义",
+            "node_type": "概念",
+            "reason": "同上。",
+            "severity": "medium"
+          },
+          {
+            "node": "丁君",
+            "node_type": "人物",
+            "reason": "文本中多次出现，应作为人物节点。",
+            "severity": "high"
+          },
+          {
+            "node": "张君",
+            "node_type": "人物",
+            "reason": "文本中多次出现，应作为人物节点。",
+            "severity": "high"
+          },
+          {
+            "node": "作者",
+            "node_type": "人物",
+            "reason": "文本中有作者自己的观点和讽刺，应作为人物节点（如陈独秀）。",
+            "severity": "high"
+          }
+        ],
+        "missing_links": [
+          {
+            "source": "丁君",
+            "relation": "主张",
+            "target": "丁君的科学智识论",
+            "reason": "丁君提出该观点。",
+            "severity": "high"
+          },
+          {
+            "source": "丁君的科学智识论",
+            "relation": "包含",
+            "target": "凡是心理的内容，真的概念推论，无一不是科学的材料",
+            "reason": "该观点包含此具体命题。",
+            "severity": "high"
+          },
+          {
+            "source": "张君",
+            "relation": "主张",
+            "target": "张君的人生观定义",
+            "reason": "张君提出该观点。",
+            "severity": "high"
+          },
+          {
+            "source": "张君的人生观定义",
+            "relation": "包含",
+            "target": "我的人生观是由主观的自身良心所主张",
+            "reason": "该观点包含此具体命题。",
+            "severity": "high"
+          },
+          {
+            "source": "作者",
+            "relation": "主张",
+            "target": "张君的人生观是浑沌囫囵的东西",
+            "reason": "作者对张君人生观的评价。",
+            "severity": "high"
+          },
+          {
+            "source": "作者",
+            "relation": "主张",
+            "target": "科学方法应用有限度",
+            "reason": "作者提出此观点。",
+            "severity": "high"
+          },
+          {
+            "source": "作者",
+            "relation": "主张",
+            "target": "丁君拿科学和张君的人生观捣乱是牛头不对马嘴",
+            "reason": "作者讽刺丁文江。",
+            "severity": "high"
+          },
+          {
+            "source": "张君的人生观",
+            "relation": "包含",
+            "target": "孔子的行键",
+            "reason": "张君引证的人生观特点。",
+            "severity": "medium"
+          },
+          {
+            "source": "张君的人生观",
+            "relation": "包含",
+            "target": "老子的无为",
+            "reason": "同上。",
+            "severity": "medium"
+          },
+          {
+            "source": "张君的人生观",
+            "relation": "包含",
+            "target": "孟子的性善",
+            "reason": "同上。",
+            "severity": "medium"
+          },
+          {
+            "source": "张君的人生观",
+            "relation": "包含",
+            "target": "荀子的性恶",
+            "reason": "同上。",
+            "severity": "medium"
+          },
+          {
+            "source": "张君的人生观",
+            "relation": "包含",
+            "target": "康德的义务观念",
+            "reason": "同上。",
+            "severity": "medium"
+          },
+          {
+            "source": "张君的人生观",
+            "relation": "包含",
+            "target": "边沁的功利主义",
+            "reason": "同上。",
+            "severity": "medium"
+          },
+          {
+            "source": "张君的人生观",
+            "relation": "包含",
+            "target": "达尔文的生存竞争论",
+            "reason": "同上。",
+            "severity": "medium"
+          },
+          {
+            "source": "张君的人生观",
+            "relation": "包含",
+            "target": "哥罗巴金的互助主义",
+            "reason": "同上。",
+            "severity": "medium"
+          },
+          {
+            "source": "张君的人生观",
+            "relation": "包含",
+            "target": "叔本华、哈德们的悲观主义",
+            "reason": "同上。",
+            "severity": "medium"
+          },
+          {
+            "source": "张君的人生观",
+            "relation": "包含",
+            "target": "兰勃尼慈、黑智儿的乐观主义",
+            "reason": "同上。",
+            "severity": "medium"
+          },
+          {
+            "source": "张君的人生观",
+            "relation": "包含",
+            "target": "孔子的修身齐家主义",
+            "reason": "同上。",
+            "severity": "medium"
+          },
+          {
+            "source": "张君的人生观",
+            "relation": "包含",
+            "target": "释迦的出世主义",
+            "reason": "同上。",
+            "severity": "medium"
+          },
+          {
+            "source": "丁君",
+            "relation": "反驳",
+            "target": "张君的人生观定义",
+            "reason": "丁君有极详细的驳论，反驳张君的观点。",
+            "severity": "high"
+          },
+          {
+            "source": "科学方法",
+            "relation": "应用限度",
+            "target": "经过分析而确实清楚的事实",
+            "reason": "作者说明科学方法的应用限度。",
+            "severity": "high"
+          },
+          {
+            "source": "张君的人生观",
+            "relation": "不符合",
+            "target": "科学方法的应用限度",
+            "reason": "张君的人生观是浑沌囫囵的，不符合科学方法的应用条件。",
+            "severity": "high"
+          }
+        ],
+        "normalization_issues": [
+          {
+            "surface_forms": [
+              "丁君",
+              "丁文江"
+            ],
+            "suggested_canonical": "丁文江",
+            "reason": "文本中'丁君'指丁文江，应统一。",
+            "severity": "medium"
+          },
+          {
+            "surface_forms": [
+              "张君",
+              "张君劢"
+            ],
+            "suggested_canonical": "张君劢",
+            "reason": "文本中'张君'指张君劢，应统一。",
+            "severity": "medium"
+          },
+          {
+            "surface_forms": [
+              "科学方法",
+              "科学的方法"
+            ],
+            "suggested_canonical": "科学方法",
+            "reason": "文本中'科学方法'与'科学的方法'可能混用，建议统一。",
+            "severity": "low"
+          }
+        ],
+        "relation_type_issues": [],
+        "polarity_issues": [],
+        "evidence_issues": [],
+        "rhetorical_device_issues": [
+          {
+            "item": "牛头不对马嘴",
+            "problem": "这是一个比喻/类比，用于讽刺丁文江的做法，但未在抽取结果中体现。",
+            "suggested_fix": "添加修辞节点，类型为'比喻/类比'，literal_target为'丁君拿科学和张君的人生观捣乱'，论证功能为讽刺。",
+            "severity": "medium"
+          }
+        ]
+      }
+    },
+    {
+      "segment_id": "任叔永_000_7ab49e99_s0002",
+      "high": 35,
+      "medium": 4,
+      "low": 1,
+      "issues": {
+        "type_errors": [],
+        "attribution_errors": [],
+        "direction_errors": [],
+        "missing_nodes": [
+          {
+            "node": "科学方法自然用不上去",
+            "node_type": "观点",
+            "reason": "文本中明确表达了作者对科学方法在人生观问题上无效的立场，应抽取为观点节点。",
+            "severity": "high"
+          },
+          {
+            "node": "张君是不曾学过科学的人，不明白科学的性质",
+            "node_type": "观点",
+            "reason": "这是作者对张君劢的批评性描述，属于观点，应抽取。",
+            "severity": "high"
+          },
+          {
+            "node": "丁君乃研究地质的科学家，偏要拿科学来和张君的人生观捣乱，真是“牛头不对马嘴”",
+            "node_type": "观点",
+            "reason": "作者对丁文江的讽刺性批评，属于观点，应抽取。",
+            "severity": "high"
+          },
+          {
+            "node": "浑沌复杂的人生观，当然不受科学的支配",
+            "node_type": "观点",
+            "reason": "作者明确主张人生观不受科学支配，是核心观点。",
+            "severity": "high"
+          },
+          {
+            "node": "有勉强拿科学方法去部勒他的，不免终归于失败",
+            "node_type": "观点",
+            "reason": "作者对科学方法应用于人生观的后果的判断，应抽取。",
+            "severity": "high"
+          },
+          {
+            "node": "人生观的科学是不可能的事，而科学的人生观却是可能的事",
+            "node_type": "观点",
+            "reason": "这是作者的核心区分性主张，必须抽取。",
+            "severity": "high"
+          },
+          {
+            "node": "人生观的种类，虽然很多，但有一个公共的出发点，就是要求外物与内心的调和",
+            "node_type": "观点",
+            "reason": "作者对人生观本质的定义性观点，应抽取。",
+            "severity": "high"
+          },
+          {
+            "node": "物质界的智识愈进，人生观当然亦从而生变动",
+            "node_type": "观点",
+            "reason": "作者关于科学进步影响人生观的因果主张，应抽取。",
+            "severity": "high"
+          },
+          {
+            "node": "物质界的智识愈进于科学事，而人生观之进于科学的，亦与之为比例",
+            "node_type": "观点",
+            "reason": "作者进一步阐述科学进步与人生观科学化的正比关系，应抽取。",
+            "severity": "high"
+          },
+          {
+            "node": "达尔文的学说，是张君所不认为完全成立的",
+            "node_type": "观点",
+            "reason": "转述张君劢对达尔文学说的态度，应抽取为观点并标注归属。",
+            "severity": "high"
+          },
+          {
+            "node": "张君并且引杜里舒的话来证明达尔文学说的不成立",
+            "node_type": "观点",
+            "reason": "转述张君劢引用杜里舒论证达尔文学说不成立，应抽取。",
+            "severity": "high"
+          },
+          {
+            "node": "达尔文的学说成立与否为一事，进化论的成立与否又为一事",
+            "node_type": "观点",
+            "reason": "作者对达尔文学说与进化论关系的区分性观点，应抽取。",
+            "severity": "high"
+          },
+          {
+            "node": "科学能支配人生观吗",
+            "node_type": "问题",
+            "reason": "文本中明确提出了“科学简直和人生观没有关系吗”这一核心问题，应抽取为问题节点。",
+            "severity": "high"
+          },
+          {
+            "node": "人生观",
+            "node_type": "概念",
+            "reason": "文本中反复讨论的核心概念，应抽取。",
+            "severity": "high"
+          },
+          {
+            "node": "科学方法",
+            "node_type": "方法",
+            "reason": "文本中明确提及的方法概念，应抽取。",
+            "severity": "high"
+          },
+          {
+            "node": "科学的人生观",
+            "node_type": "概念",
+            "reason": "作者提出的核心概念，与“人生观的科学”相对，应抽取。",
+            "severity": "high"
+          },
+          {
+            "node": "人生观的科学",
+            "node_type": "概念",
+            "reason": "作者否定的概念，应抽取。",
+            "severity": "high"
+          },
+          {
+            "node": "进化论",
+            "node_type": "主义/学说/理论",
+            "reason": "文本中作为例证的重要学说，应抽取。",
+            "severity": "high"
+          },
+          {
+            "node": "达尔文的学说",
+            "node_type": "主义/学说/理论",
+            "reason": "文本中明确提及的学说，应抽取。",
+            "severity": "high"
+          },
+          {
+            "node": "杜里舒",
+            "node_type": "人物",
+            "reason": "文本中提及的人物，应抽取。",
+            "severity": "high"
+          },
+          {
+            "node": "张君劢",
+            "node_type": "人物",
+            "reason": "文本中多次提及的人物，应抽取。",
+            "severity": "high"
+          },
+          {
+            "node": "丁文江",
+            "node_type": "人物",
+            "reason": "文本中提及的“丁君”，应抽取并标准化为丁文江。",
+            "severity": "high"
+          },
+          {
+            "node": "牛头不对马嘴",
+            "node_type": "比喻/类比",
+            "reason": "文本中使用了比喻修辞，应抽取为修辞节点。",
+            "severity": "medium"
+          }
+        ],
+        "missing_links": [
+          {
+            "source": "张君劢",
+            "relation": "认为",
+            "target": "达尔文的学说不成立",
+            "reason": "文本中明确说“张君所不认为完全成立的”，应建立人物与观点的归属关系。",
+            "severity": "high"
+          },
+          {
+            "source": "张君劢",
+            "relation": "引用",
+            "target": "杜里舒",
+            "reason": "文本中“张君并且引杜里舒的话”，应建立引用关系。",
+            "severity": "high"
+          },
+          {
+            "source": "杜里舒",
+            "relation": "主张",
+            "target": "达尔文学说不成立",
+            "reason": "文本中杜里舒的话被用来证明达尔文学说不成立，应建立关系。",
+            "severity": "high"
+          },
+          {
+            "source": "作者",
+            "relation": "主张",
+            "target": "人生观的科学是不可能的事",
+            "reason": "作者明确主张此观点，应建立归属关系。",
+            "severity": "high"
+          },
+          {
+            "source": "作者",
+            "relation": "主张",
+            "target": "科学的人生观却是可能的事",
+            "reason": "作者明确主张此观点，应建立归属关系。",
+            "severity": "high"
+          },
+          {
+            "source": "作者",
+            "relation": "主张",
+            "target": "浑沌复杂的人生观，当然不受科学的支配",
+            "reason": "作者明确主张此观点，应建立归属关系。",
+            "severity": "high"
+          },
+          {
+            "source": "作者",
+            "relation": "主张",
+            "target": "物质界的智识愈进，人生观当然亦从而生变动",
+            "reason": "作者明确主张此观点，应建立归属关系。",
+            "severity": "high"
+          },
+          {
+            "source": "作者",
+            "relation": "反驳",
+            "target": "科学能支配人生观",
+            "reason": "作者对“科学能支配人生观”这一命题持否定态度，应建立反驳关系。",
+            "severity": "high"
+          },
+          {
+            "source": "作者",
+            "relation": "支持",
+            "target": "科学的人生观",
+            "reason": "作者支持“科学的人生观”这一概念，应建立支持关系。",
+            "severity": "high"
+          },
+          {
+            "source": "作者",
+            "relation": "反对",
+            "target": "人生观的科学",
+            "reason": "作者反对“人生观的科学”这一概念，应建立反对关系。",
+            "severity": "high"
+          },
+          {
+            "source": "进化论",
+            "relation": "例证",
+            "target": "物质界的智识愈进，人生观亦从而生变动",
+            "reason": "文本中明确说“关于这一层最明显的例，就是生物学上的进化论”，应建立例证关系。",
+            "severity": "high"
+          },
+          {
+            "source": "达尔文的学说",
+            "relation": "包含于",
+            "target": "进化论",
+            "reason": "文本中区分了达尔文学说与进化论，但暗示进化论包含达尔文学说，应建立包含关系。",
+            "severity": "medium"
+          },
+          {
+            "source": "牛头不对马嘴",
+            "relation": "修辞_target",
+            "target": "丁文江拿科学来和张君的人生观捣乱",
+            "reason": "比喻的指向对象，应建立修辞关系。",
+            "severity": "medium"
+          }
+        ],
+        "normalization_issues": [
+          {
+            "surface_forms": [
+              "张君",
+              "张君劢"
+            ],
+            "suggested_canonical": "张君劢",
+            "reason": "文本中“张君”指张君劢，应统一为全名。",
+            "severity": "high"
+          },
+          {
+            "surface_forms": [
+              "丁君",
+              "丁文江"
+            ],
+            "suggested_canonical": "丁文江",
+            "reason": "文本中“丁君”指丁文江，应统一为全名。",
+            "severity": "high"
+          },
+          {
+            "surface_forms": [
+              "科学方法",
+              "科学的方法"
+            ],
+            "suggested_canonical": "科学方法",
+            "reason": "文本中仅出现“科学方法”，但需注意后续可能出现的变体，建议统一。",
+            "severity": "low"
+          }
+        ],
+        "relation_type_issues": [],
+        "polarity_issues": [],
+        "evidence_issues": [],
+        "rhetorical_device_issues": [
+          {
+            "item": "牛头不对马嘴",
+            "problem": "未抽取为修辞节点，且未说明其literal_target和论证功能。",
+            "suggested_fix": "抽取为比喻/类比节点，literal_target为“丁文江用科学去讨论人生观”，论证功能为讽刺丁文江的做法不合理。",
+            "severity": "medium"
+          }
+        ]
+      }
+    },
+    {
+      "segment_id": "任叔永_000_7ab49e99_s0003",
+      "high": 0,
+      "medium": 0,
+      "low": 0,
+      "issues": {}
+    },
+    {
+      "segment_id": "任叔永_000_7ab49e99_s0004",
+      "high": 0,
+      "medium": 0,
+      "low": 0,
+      "issues": {}
+    },
+    {
+      "segment_id": "任叔永_000_7ab49e99_s0005",
+      "high": 11,
+      "medium": 6,
+      "low": 0,
+      "issues": {
+        "type_errors": [],
+        "attribution_errors": [],
+        "direction_errors": [],
+        "missing_nodes": [
+          {
+            "node": "科学家的人生观",
+            "node_type": "概念",
+            "reason": "文本明确提到“科学家的人生观”，是核心概念，应抽取为实体。",
+            "severity": "high"
+          },
+          {
+            "node": "因果观念",
+            "node_type": "概念",
+            "reason": "文本多次讨论“因果观念”及其在人生观中的应用，是重要概念。",
+            "severity": "high"
+          },
+          {
+            "node": "合理的人生观",
+            "node_type": "概念",
+            "reason": "文本提出“合理的人生观”作为科学研究的产物，是核心观点。",
+            "severity": "high"
+          },
+          {
+            "node": "科学家",
+            "node_type": "阵营/群体",
+            "reason": "文本多次提及“科学家”作为主体，应抽取为群体实体。",
+            "severity": "medium"
+          },
+          {
+            "node": "亚当降种",
+            "node_type": "概念",
+            "reason": "文本提及“亚当降种的尊贵”作为被否定的观点，是重要概念。",
+            "severity": "medium"
+          },
+          {
+            "node": "五行风水",
+            "node_type": "概念",
+            "reason": "文本提及“五行风水的说话”作为被否定的观点，是重要概念。",
+            "severity": "medium"
+          },
+          {
+            "node": "动物进化",
+            "node_type": "概念",
+            "reason": "文本提及“动物进化的卑贱”作为被接受的观点，是重要概念。",
+            "severity": "medium"
+          },
+          {
+            "node": "人能主宰自己的运命",
+            "node_type": "观点",
+            "reason": "文本主张“人能主宰自己的运命”，是核心观点。",
+            "severity": "high"
+          }
+        ],
+        "missing_links": [
+          {
+            "source": "科学家",
+            "relation": "具有",
+            "target": "科学家的人生观",
+            "reason": "文本明确说“科学家的人生观”，应建立归属关系。",
+            "severity": "high"
+          },
+          {
+            "source": "科学",
+            "relation": "产生",
+            "target": "因果观念",
+            "reason": "文本说“科学所研究的是事物的关系……可以给人一种因果的观念”，应建立因果关系。",
+            "severity": "high"
+          },
+          {
+            "source": "因果观念",
+            "relation": "应用于",
+            "target": "人生观",
+            "reason": "文本说“把因果观念应用到人生观上去”，应建立应用关系。",
+            "severity": "high"
+          },
+          {
+            "source": "因果观念",
+            "relation": "导致",
+            "target": "合理的人生观",
+            "reason": "文本说“事事都要求一个合理的，这种合理的人生观，也是研究科学的结果”，应建立因果。",
+            "severity": "high"
+          },
+          {
+            "source": "合理的人生观",
+            "relation": "否定",
+            "target": "亚当降种",
+            "reason": "文本说“我们何以不信亚当降种的尊贵……因为前说不合理的原故”，应建立否定关系。",
+            "severity": "high"
+          },
+          {
+            "source": "合理的人生观",
+            "relation": "否定",
+            "target": "五行风水",
+            "reason": "文本说“我们何以不信五行风水的说话……也因为前者不合理的原故”，应建立否定关系。",
+            "severity": "high"
+          },
+          {
+            "source": "合理的人生观",
+            "relation": "支持",
+            "target": "动物进化",
+            "reason": "文本说“自甘动物进化的卑贱”，隐含接受进化论，应建立支持关系。",
+            "severity": "medium"
+          },
+          {
+            "source": "合理的人生观",
+            "relation": "支持",
+            "target": "人能主宰自己的运命",
+            "reason": "文本说“主张人能主宰自己的运命”，应建立支持关系。",
+            "severity": "high"
+          },
+          {
+            "source": "科学家",
+            "relation": "打破",
+            "target": "社会阶级",
+            "reason": "文本说“有些科学家，竟能把荣名界限及一切社会阶级打破”，应建立行动关系。",
+            "severity": "medium"
+          }
+        ],
+        "normalization_issues": [],
+        "relation_type_issues": [],
+        "polarity_issues": [],
+        "evidence_issues": [],
+        "rhetorical_device_issues": []
+      }
+    },
+    {
+      "segment_id": "任叔永_000_7ab49e99_s0006",
+      "high": 18,
+      "medium": 4,
+      "low": 0,
+      "issues": {
+        "type_errors": [],
+        "attribution_errors": [],
+        "direction_errors": [],
+        "missing_nodes": [
+          {
+            "node": "科学家",
+            "node_type": "阵营/群体",
+            "reason": "文本中多次出现'科学家'作为行为主体，应抽取为群体节点。",
+            "severity": "high"
+          },
+          {
+            "node": "赫胥黎",
+            "node_type": "人物",
+            "reason": "文本中引用了赫胥黎的言论，应抽取为人物节点。",
+            "severity": "high"
+          },
+          {
+            "node": "科学有他的限界",
+            "node_type": "观点",
+            "reason": "文本中明确提出了'科学有他的限界'这一观点，应抽取。",
+            "severity": "high"
+          },
+          {
+            "node": "科学可以支配笼统浑沌的思想或未经分析的事实",
+            "node_type": "观点",
+            "reason": "文本中提出'凡笼统浑沌的思想，或未经分析的事实，都非科学所能支配'，但随后又说'科学的职务，就在要分析及弄清楚这些思想事实上'，隐含了科学可以支配经过分析后的内容，应抽取为观点。",
+            "severity": "medium"
+          },
+          {
+            "node": "人生观若分析起来，可以用科学方法去变更或解决",
+            "node_type": "观点",
+            "reason": "文本中明确提出了'若分析起来，有一大部分或全部分，都可以用科学方法去变更或解决'，应抽取为观点。",
+            "severity": "high"
+          },
+          {
+            "node": "科学自身可以发生各种伟大高尚的人生观",
+            "node_type": "观点",
+            "reason": "文本中明确主张'科学自身可以发生各种伟大高尚的人生观'，应抽取为观点。",
+            "severity": "high"
+          },
+          {
+            "node": "应该多提倡科学以改良人生观",
+            "node_type": "观点",
+            "reason": "文本中明确主张'我们应该多提倡科学以改良人生观'，应抽取为观点。",
+            "severity": "high"
+          },
+          {
+            "node": "不当因为注重人生观而忽视科学",
+            "node_type": "观点",
+            "reason": "文本中明确主张'不当因为注重人生观而忽视科学'，应抽取为观点。",
+            "severity": "high"
+          },
+          {
+            "node": "科学家要求一个合理的关系",
+            "node_type": "观点",
+            "reason": "文本中描述了科学家的行为动机，可视为隐含观点。",
+            "severity": "medium"
+          },
+          {
+            "node": "科学家要求一个合理的结论",
+            "node_type": "观点",
+            "reason": "同上，描述科学家的行为动机。",
+            "severity": "medium"
+          },
+          {
+            "node": "只有由证据推出的结论是合理的",
+            "node_type": "观点",
+            "reason": "文本中明确提出了'只有由证据推出的结论，是合理的'，应抽取为观点。",
+            "severity": "high"
+          },
+          {
+            "node": "赫胥黎的言论（关于创造论需要证据）",
+            "node_type": "观点",
+            "reason": "文本中引用了赫胥黎的具体言论，应抽取为观点，并归属给赫胥黎。",
+            "severity": "high"
+          }
+        ],
+        "missing_links": [
+          {
+            "source": "科学家",
+            "relation": "主张",
+            "target": "科学家要求一个合理的关系",
+            "reason": "文本描述科学家'因为要求一个合理的关系'，表明科学家持有此观点。",
+            "severity": "high"
+          },
+          {
+            "source": "科学家",
+            "relation": "主张",
+            "target": "科学家要求一个合理的结论",
+            "reason": "文本描述科学家'因为要求一个合理的结论'，表明科学家持有此观点。",
+            "severity": "high"
+          },
+          {
+            "source": "科学家",
+            "relation": "主张",
+            "target": "只有由证据推出的结论是合理的",
+            "reason": "文本最后总结'因为他们晓得只有由证据推出的结论，是合理的'，表明科学家持有此观点。",
+            "severity": "high"
+          },
+          {
+            "source": "赫胥黎",
+            "relation": "主张",
+            "target": "赫胥黎的言论（关于创造论需要证据）",
+            "reason": "文本直接引用赫胥黎的话，表明赫胥黎持有此观点。",
+            "severity": "high"
+          },
+          {
+            "source": "作者（文本隐含的作者）",
+            "relation": "主张",
+            "target": "科学有他的限界",
+            "reason": "文本以'我们承认'引出此观点，表明作者主张。",
+            "severity": "high"
+          },
+          {
+            "source": "作者（文本隐含的作者）",
+            "relation": "主张",
+            "target": "人生观若分析起来，可以用科学方法去变更或解决",
+            "reason": "文本以'我们承认'引出此观点，表明作者主张。",
+            "severity": "high"
+          },
+          {
+            "source": "作者（文本隐含的作者）",
+            "relation": "主张",
+            "target": "科学自身可以发生各种伟大高尚的人生观",
+            "reason": "文本以'我们还要主张'引出此观点，表明作者主张。",
+            "severity": "high"
+          },
+          {
+            "source": "作者（文本隐含的作者）",
+            "relation": "主张",
+            "target": "应该多提倡科学以改良人生观",
+            "reason": "文本以'我们应该'引出此观点，表明作者主张。",
+            "severity": "high"
+          },
+          {
+            "source": "作者（文本隐含的作者）",
+            "relation": "主张",
+            "target": "不当因为注重人生观而忽视科学",
+            "reason": "文本以'不当因为'引出此观点，表明作者主张。",
+            "severity": "high"
+          },
+          {
+            "source": "赫胥黎的言论（关于创造论需要证据）",
+            "relation": "支持",
+            "target": "只有由证据推出的结论是合理的",
+            "reason": "赫胥黎的言论具体体现了'要求证据'的原则，支持了该观点。",
+            "severity": "medium"
+          }
+        ],
+        "normalization_issues": [],
+        "relation_type_issues": [],
+        "polarity_issues": [],
+        "evidence_issues": [],
+        "rhetorical_device_issues": []
+      }
+    }
+  ],
+  "total_high": 100
+}

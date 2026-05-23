@@ -1,0 +1,416 @@
+{
+  "metadata": {
+    "schema_version": "lite_v3.0",
+    "article_id": "林宰平_000_acbbe922",
+    "article_title": "读丁在君先生的《玄学与科学》",
+    "source_author": "林宰平",
+    "section_title": "",
+    "section_author": "",
+    "segment_id": "林宰平_000_acbbe922_s0023",
+    "segment_index": 23,
+    "source_file": "E:\\1研究生\\岭南大学\\论文毕业\\capstone\\资料\\新的内容开始了\\local_upload\\input_林宰平\\林宰平.txt"
+  },
+  "entities": [
+    {
+      "id": "e1",
+      "name": "因果律",
+      "canonical_name": "因果律",
+      "type": "概念",
+      "evidence": "科学所需用之因果律是已经证明为真实的",
+      "confidence": 1.0
+    },
+    {
+      "id": "e2",
+      "name": "物理定律",
+      "canonical_name": "物理定律",
+      "type": "概念",
+      "evidence": "例如物理定律即是已证明之因果定律",
+      "confidence": 1.0
+    },
+    {
+      "id": "e3",
+      "name": "物理",
+      "canonical_name": "物理",
+      "type": "概念",
+      "evidence": "现在要把物理心理联为一家",
+      "confidence": 1.0
+    },
+    {
+      "id": "e4",
+      "name": "心理",
+      "canonical_name": "心理",
+      "type": "概念",
+      "evidence": "现在要把物理心理联为一家",
+      "confidence": 1.0
+    },
+    {
+      "id": "e5",
+      "name": "科学上所谓因果律",
+      "canonical_name": "科学上所谓因果律",
+      "type": "概念",
+      "evidence": "科学上所谓因果律，也叫他兼管心理方面",
+      "confidence": 1.0
+    },
+    {
+      "id": "e6",
+      "name": "心理现象",
+      "canonical_name": "心理现象",
+      "type": "概念",
+      "evidence": "若谓心理现象可以适用科学上所谓因果律",
+      "confidence": 1.0
+    },
+    {
+      "id": "e7",
+      "name": "联想律",
+      "canonical_name": "联想律",
+      "type": "概念",
+      "evidence": "心理学上如联想律之正确",
+      "confidence": 1.0
+    },
+    {
+      "id": "e8",
+      "name": "维布（Weber）定律",
+      "canonical_name": "维布定律",
+      "type": "概念",
+      "evidence": "实验心理学中如维布（Weber）定律",
+      "confidence": 1.0
+    },
+    {
+      "id": "e9",
+      "name": "费西那（Fechner）定律",
+      "canonical_name": "费西那定律",
+      "type": "概念",
+      "evidence": "如费西那（Fechner）定律",
+      "confidence": 1.0
+    },
+    {
+      "id": "e10",
+      "name": "思想",
+      "canonical_name": "思想",
+      "type": "概念",
+      "evidence": "思想等虽然现在有人否认他，然实际是有的",
+      "confidence": 1.0
+    },
+    {
+      "id": "e11",
+      "name": "意志",
+      "canonical_name": "意志",
+      "type": "概念",
+      "evidence": "适用于思想、意志、情绪等等",
+      "confidence": 1.0
+    },
+    {
+      "id": "e12",
+      "name": "情绪",
+      "canonical_name": "情绪",
+      "type": "概念",
+      "evidence": "适用于思想、意志、情绪等等",
+      "confidence": 1.0
+    },
+    {
+      "id": "e13",
+      "name": "科学方法",
+      "canonical_name": "科学方法",
+      "type": "方法",
+      "evidence": "若要用科学方法支配他",
+      "confidence": 1.0
+    },
+    {
+      "id": "e14",
+      "name": "布拉托（Plateau）之流体球旋转的定律",
+      "canonical_name": "布拉托流体球旋转定律",
+      "type": "概念",
+      "evidence": "可用布拉托（Plateau）之流体球旋转的定律",
+      "confidence": 1.0
+    },
+    {
+      "id": "e15",
+      "name": "油珠",
+      "canonical_name": "油珠",
+      "type": "例证",
+      "evidence": "以油珠替代太阳",
+      "confidence": 1.0
+    },
+    {
+      "id": "e16",
+      "name": "太阳系进化问题",
+      "canonical_name": "太阳系进化问题",
+      "type": "问题",
+      "evidence": "如谓自然界亦有不能直接研究，如太阳系进化问题",
+      "confidence": 1.0
+    }
+  ],
+  "claims": [
+    {
+      "id": "c1",
+      "speaker": "林宰平",
+      "claim": "科学上所谓因果律，当然适用于物理方面",
+      "target": "科学上所谓因果律",
+      "claim_type": "描述性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "故科学上所谓因果律，当然适用于物理方面",
+      "confidence": 1.0
+    },
+    {
+      "id": "c2",
+      "speaker": "林宰平",
+      "claim": "现在要把物理心理联为一家，科学上所谓因果律，也叫他兼管心理方面，这真是大大的问题了",
+      "target": "科学上所谓因果律兼管心理方面",
+      "claim_type": "评价性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "现在要把物理心理联为一家，科学上所谓因果律，也叫他兼管心理方面，这真是大大的问题了",
+      "confidence": 1.0
+    },
+    {
+      "id": "c3",
+      "speaker": "林宰平",
+      "claim": "若谓心理现象可以适用科学上所谓因果律，那么起先应有一个已知的定律做个指导，最后必用多次试验来证明",
+      "target": "心理现象适用科学因果律",
+      "claim_type": "假设情境",
+      "claim_status": "作者推论",
+      "polarity": "neutral",
+      "evidence": "若谓心理现象可以适用科学上所谓因果律，那么起先应有一个已知的定律做个指导，最后必用多次试验来证明",
+      "confidence": 1.0
+    },
+    {
+      "id": "c4",
+      "speaker": "林宰平",
+      "claim": "心理学上如联想律之正确，能如烧水至一百度即沸腾之正确，保持同一的程度么",
+      "target": "联想律",
+      "claim_type": "问题提出",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "心理学上如联想律之正确，能如烧水至一百度即沸腾之正确，保持同一的程度么",
+      "confidence": 1.0
+    },
+    {
+      "id": "c5",
+      "speaker": "林宰平",
+      "claim": "实验心理学中如维布（Weber）定律，如费西那（Fechner）定律，能否于感觉反应以外，适用于思想、意志、情绪等等，而求其一定的分量比例，用数字把他表显出来么",
+      "target": "维布定律和费西那定律",
+      "claim_type": "问题提出",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "实验心理学中如维布（Weber）定律，如费西那（Fechner）定律，能否于感觉反应以外，适用于思想、意志、情绪等等，而求其一定的分量比例，用数字把他表显出来么",
+      "confidence": 1.0
+    },
+    {
+      "id": "c6",
+      "speaker": "林宰平",
+      "claim": "思想等虽然现在有人否认他，然实际是有的",
+      "target": "思想",
+      "claim_type": "描述性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "思想等虽然现在有人否认他，然实际是有的",
+      "confidence": 1.0
+    },
+    {
+      "id": "c7",
+      "speaker": "林宰平",
+      "claim": "既是有的，若要用科学方法支配他，总须能够“直接的”拿来试验，才算真实",
+      "target": "思想",
+      "claim_type": "规范性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "既是有的，若要用科学方法支配他，总须能够“直接的”拿来试验，才算真实",
+      "confidence": 1.0
+    },
+    {
+      "id": "c8",
+      "speaker": "林宰平",
+      "claim": "然吾人对于他人或其他动物，要直接的知道他的思想之类，究竟是否做得到",
+      "target": "直接知道他人思想",
+      "claim_type": "问题提出",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "然吾人对于他人或其他动物，要直接的知道他的思想之类，究竟是否做得到",
+      "confidence": 1.0
+    },
+    {
+      "id": "c9",
+      "speaker": "林宰平",
+      "claim": "如谓自然界亦有不能直接研究，如太阳系进化问题，不能直接将太阳搬到试验室里",
+      "target": "自然界不能直接研究",
+      "claim_type": "描述性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "如谓自然界亦有不能直接研究，如太阳系进化问题，不能直接将太阳搬到试验室里",
+      "confidence": 1.0
+    },
+    {
+      "id": "c10",
+      "speaker": "林宰平",
+      "claim": "可用布拉托（Plateau）之流体球旋转的定律，以油珠替代太阳，试将油珠旋转到一定速率时，他的赤道处，会射出油若干，成一个环，这环也跟着油珠旋转。因此得一个定律：就是凡流体珠旋转的时候，他的离心力随速率而增加，可以使此球的赤道射出若干流体",
+      "target": "布拉托定律",
+      "claim_type": "描述性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "可用布拉托（Plateau）之流体球旋转的定律，以油珠替代太阳，试将油珠旋转到一定速率时，他的赤道处，会射出油若干，成一个环，这环也跟着油珠旋转。因此得一个定律：就是凡流体珠旋转的时候，他的离心力随速率而增加，可以使此球的赤道射出若干流体",
+      "confidence": 1.0
+    }
+  ],
+  "relations": [
+    {
+      "id": "r1",
+      "head": "科学上所谓因果律",
+      "head_type": "概念",
+      "relation": "属于",
+      "relation_subtype": "不适用",
+      "tail": "物理方面",
+      "tail_type": "概念",
+      "polarity": "positive",
+      "stance_score": 1.0,
+      "intensity": 0.6,
+      "evidence": "故科学上所谓因果律，当然适用于物理方面",
+      "confidence": 1.0
+    },
+    {
+      "id": "r2",
+      "head": "林宰平",
+      "head_type": "人物",
+      "relation": "反对",
+      "relation_subtype": "逻辑反驳",
+      "tail": "科学上所谓因果律兼管心理方面",
+      "tail_type": "观点",
+      "polarity": "negative",
+      "stance_score": -1.0,
+      "intensity": 0.8,
+      "evidence": "现在要把物理心理联为一家，科学上所谓因果律，也叫他兼管心理方面，这真是大大的问题了",
+      "confidence": 1.0
+    },
+    {
+      "id": "r3",
+      "head": "心理现象适用科学因果律",
+      "head_type": "观点",
+      "relation": "质疑",
+      "relation_subtype": "逻辑反驳",
+      "tail": "联想律之正确",
+      "tail_type": "概念",
+      "polarity": "negative",
+      "stance_score": -0.8,
+      "intensity": 0.7,
+      "evidence": "心理学上如联想律之正确，能如烧水至一百度即沸腾之正确，保持同一的程度么",
+      "confidence": 1.0
+    },
+    {
+      "id": "r4",
+      "head": "维布定律和费西那定律",
+      "head_type": "概念",
+      "relation": "质疑",
+      "relation_subtype": "逻辑反驳",
+      "tail": "适用于思想、意志、情绪等等",
+      "tail_type": "观点",
+      "polarity": "negative",
+      "stance_score": -0.8,
+      "intensity": 0.7,
+      "evidence": "实验心理学中如维布（Weber）定律，如费西那（Fechner）定律，能否于感觉反应以外，适用于思想、意志、情绪等等，而求其一定的分量比例，用数字把他表显出来么",
+      "confidence": 1.0
+    },
+    {
+      "id": "r5",
+      "head": "思想",
+      "head_type": "概念",
+      "relation": "作为论据支持",
+      "relation_subtype": "不适用",
+      "tail": "若要用科学方法支配他，总须能够“直接的”拿来试验，才算真实",
+      "tail_type": "观点",
+      "polarity": "positive",
+      "stance_score": 0.5,
+      "intensity": 0.5,
+      "evidence": "既是有的，若要用科学方法支配他，总须能够“直接的”拿来试验，才算真实",
+      "confidence": 1.0
+    },
+    {
+      "id": "r6",
+      "head": "直接知道他人思想",
+      "head_type": "观点",
+      "relation": "质疑",
+      "relation_subtype": "事实质疑",
+      "tail": "心理现象适用科学因果律",
+      "tail_type": "观点",
+      "polarity": "negative",
+      "stance_score": -0.9,
+      "intensity": 0.8,
+      "evidence": "然吾人对于他人或其他动物，要直接的知道他的思想之类，究竟是否做得到",
+      "confidence": 1.0
+    },
+    {
+      "id": "r7",
+      "head": "太阳系进化问题",
+      "head_type": "问题",
+      "relation": "类比",
+      "relation_subtype": "不适用",
+      "tail": "直接研究思想",
+      "tail_type": "观点",
+      "polarity": "neutral",
+      "stance_score": 0.0,
+      "intensity": 0.3,
+      "evidence": "如谓自然界亦有不能直接研究，如太阳系进化问题，不能直接将太阳搬到试验室里。然可用布拉托（Plateau）之流体球旋转的定律，以油珠替代太阳",
+      "confidence": 1.0
+    },
+    {
+      "id": "r8",
+      "head": "布拉托之流体球旋转的定律",
+      "head_type": "概念",
+      "relation": "作为论据支持",
+      "relation_subtype": "不适用",
+      "tail": "自然界不能直接研究的问题可通过间接方法研究",
+      "tail_type": "观点",
+      "polarity": "positive",
+      "stance_score": 0.5,
+      "intensity": 0.4,
+      "evidence": "可用布拉托（Plateau）之流体球旋转的定律，以油珠替代太阳，试将油珠旋转到一定速率时，他的赤道处，会射出油若干，成一个环，这环也跟着油珠旋转。因此得一个定律：就是凡流体珠旋转的时候，他的离心力随速率而增加，可以使此球的赤道射出若干流体",
+      "confidence": 1.0
+    }
+  ],
+  "definitions": [
+    {
+      "id": "def1",
+      "term": "科学上所谓因果律",
+      "definition": "科学所需用之因果律是已经证明为真实的，例如物理定律即是已证明之因果定律",
+      "evidence": "科学所需用之因果律是已经证明为真实的，例如物理定律即是已证明之因果定律",
+      "confidence": 1.0
+    }
+  ],
+  "citations": [
+    {
+      "id": "cit1",
+      "citer": "林宰平",
+      "quoted_author": "",
+      "quoted_work": "",
+      "quoted_claim": "可用布拉托（Plateau）之流体球旋转的定律，以油珠替代太阳，试将油珠旋转到一定速率时，他的赤道处，会射出油若干，成一个环，这环也跟着油珠旋转。因此得一个定律：就是凡流体珠旋转的时候，他的离心力随速率而增加，可以使此球的赤道射出若干流体",
+      "function": "作为历史证据",
+      "evidence": "可用布拉托（Plateau）之流体球旋转的定律，以油珠替代太阳，试将油珠旋转到一定速率时，他的赤道处，会射出油若干，成一个环，这环也跟着油珠旋转。因此得一个定律：就是凡流体珠旋转的时候，他的离心力随速率而增加，可以使此球的赤道射出若干流体",
+      "confidence": 1.0
+    }
+  ],
+  "rhetorical_devices": [
+    {
+      "id": "rh1",
+      "expression": "这真是大大的问题了",
+      "device_type": "夸张",
+      "literal_target": "科学上所谓因果律兼管心理方面",
+      "function": "强调问题的严重性，表达反对态度",
+      "evidence": "现在要把物理心理联为一家，科学上所谓因果律，也叫他兼管心理方面，这真是大大的问题了",
+      "confidence": 1.0
+    },
+    {
+      "id": "rh2",
+      "expression": "以油珠替代太阳",
+      "device_type": "类比",
+      "literal_target": "用油珠旋转实验类比太阳系进化研究",
+      "function": "说明自然界不能直接研究的问题可通过间接方法研究",
+      "evidence": "可用布拉托（Plateau）之流体球旋转的定律，以油珠替代太阳",
+      "confidence": 1.0
+    }
+  ],
+  "uncertainties": [
+    {
+      "item": "文本开头'的必属简单'不完整，可能缺少前文，无法确定其完整含义",
+      "reason": "文本片段以'的必属简单'开头，缺少前文，无法判断完整语义"
+    }
+  ]
+}

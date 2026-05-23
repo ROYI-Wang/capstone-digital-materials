@@ -1,0 +1,369 @@
+{
+  "metadata": {
+    "schema_version": "lite_v3.0",
+    "article_id": "吴稚晖_001_b4c0e810",
+    "article_title": "一个新信仰的宇宙观及人生观",
+    "source_author": "吴稚晖",
+    "section_title": "讲到这里，第一层可先用不值钱的玄学理想，近乎游戏的，说道毛厕里的石头亦有感觉。苍蝇的感觉，非即人的感觉，他们感觉的状况，颇极差等。玫瑰树的感觉，非即苍蝇的感觉，他们的感觉，又极差等。如是焉能禁我来瞎说，毛厕里石头的感觉，非即玫瑰树的感觉，他们感觉的状况，也极差等。若欲强分高下，则石头有其寂然不动的感觉，真所谓无私心而合天理，所以贞固永寿。一块毛厕里的石头，可以阅几十代人而依然如故，见数百兆苍蝇存灭，看千万棵玫瑰树忽而芬芳，忽而萎枯。彼如曰毛厕里的石头为万物之灵，理由亦未尝不充足。彼另有彼之可感与彼之可觉，人与苍蝇及玫瑰树之感觉，皆非彼所需，故亦非彼所有，如是而已。然这种蹈空的掉枪花，我们中国古代的玄学鬼常用“孰为正色，孰为正味”等的论调，闹得甚嚣尘上。自然受过科学洗礼的玄学鬼，不肯就把这种空言，来作惟一的搪塞。所以说到第二层，他就要戴上科学面具，正正经经，板起了面孔，来断定毛厕里的石头亦有感觉。他不是说能够",
+    "section_author": "讲到这里，第一层可先用不值钱的玄学理想，近乎游戏的，说道毛厕里的石头亦有感觉。苍蝇的感觉，非即人的感觉，他们感觉的状况，颇极差等。玫瑰树的感觉，非即苍蝇的感觉，他们的感觉，又极差等。如是焉能禁我来瞎说，毛厕里石头的感觉，非即玫瑰树的感觉，他们感觉的状况，也极差等。若欲强分高下，则石头有其寂然不动的感觉，真所谓无私心而合天理，所以贞固永寿。一块毛厕里的石头，可以阅几十代人而依然如故，见数百兆苍蝇存灭，看千万棵玫瑰树忽而芬芳，忽而萎枯。彼如曰毛厕里的石头为万物之灵，理由亦未尝不充足。彼另有彼之可感与彼之可觉，人与苍蝇及玫瑰树之感觉，皆非彼所需，故亦非彼所有，如是而已。然这种蹈空的掉枪花，我们中国古代的玄学鬼常用“孰为正色，孰为正味”等的论调，闹得甚嚣尘上。自然受过科学洗礼的玄学鬼，不肯就把这种空言，来作惟一的搪塞。所以说到第二层，他就要戴上科学面具，正正经经，板起了面孔，来断定毛厕里的石头亦有感觉。他不是说能够",
+    "segment_id": "吴稚晖_001_b4c0e810_s0027",
+    "segment_index": 27,
+    "source_file": "E:\\1研究生\\岭南大学\\论文毕业\\capstone\\资料\\新的内容开始了\\local_upload\\input_吴稚晖\\吴稚晖.txt"
+  },
+  "entities": [
+    {
+      "id": "e1",
+      "name": "隐得来希",
+      "canonical_name": "隐得来希",
+      "type": "概念",
+      "evidence": "隐得来希是“初式”构的，“心是次式的”。",
+      "confidence": IE
+    },
+    {
+      "id": "e2",
+      "name": "物质",
+      "canonical_name": "物质",
+      "type": "概念",
+      "evidence": "隐德来希既被机体构出来的，还要同爸爸（物质）争个二元，真傻小子。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e3",
+      "name": "二元论",
+      "canonical_name": "二元论",
+      "type": "主义/学说/理论",
+      "evidence": "所以他一方面将“隐得来希”同物质“争持”，成立个二元论；",
+      "confidence": 0.9
+    },
+    {
+      "id": "e4",
+      "name": "初式",
+      "canonical_name": "初式",
+      "type": "概念",
+      "evidence": "隐得来希是“初式”构的，“心是次式的”。",
+      "confidence": 0.8
+    },
+    {
+      "id": "e5",
+      "name": "心",
+      "canonical_name": "心",
+      "type": "概念",
+      "evidence": "隐得来希是“初式”构的，“心是次式的”。",
+      "confidence": 0.8
+    },
+    {
+      "id": "e6",
+      "name": "次式",
+      "canonical_name": "次式",
+      "type": "概念",
+      "evidence": "隐得来希是“初式”构的，“心是次式的”。",
+      "confidence": 0.8
+    },
+    {
+      "id": "e7",
+      "name": "宇宙观",
+      "canonical_name": "宇宙观",
+      "type": "概念",
+      "evidence": "好了！现在真要将我的宇宙观的紧要话头，交代明白，便将这篇文章的宇宙观从而结束，",
+      "confidence": 0.9
+    },
+    {
+      "id": "e8",
+      "name": "人生观",
+      "canonical_name": "人生观",
+      "type": "概念",
+      "evidence": "而这篇文章的人生观可以在下期《太平洋杂志》上开始。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e9",
+      "name": "太平洋杂志",
+      "canonical_name": "太平洋杂志",
+      "type": "著作",
+      "evidence": "而这篇文章的人生观可以在下期《太平洋杂志》上开始。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e10",
+      "name": "混沌",
+      "canonical_name": "混沌",
+      "type": "概念",
+      "evidence": "在无始之始，有一个混沌得着实可笑，不能拿言语来形容的怪物，住在无何有之乡，自己对自己说道，闷死我也！",
+      "confidence": 0.9
+    },
+    {
+      "id": "e11",
+      "name": "大千宇宙",
+      "canonical_name": "大千宇宙",
+      "type": "概念",
+      "evidence": "顷刻变起了大千宇宙，换言之，便是说兆兆兆兆的我。",
+      "confidence": 0.8
+    },
+    {
+      "id": "e12",
+      "name": "不思议量",
+      "canonical_name": "不思议量",
+      "type": "概念",
+      "evidence": "无非拿具有质力的若干“不思议”量，合成某某子。",
+      "confidence": 0.8
+    },
+    {
+      "id": "e13",
+      "name": "某某子",
+      "canonical_name": "某某子",
+      "type": "概念",
+      "evidence": "无非拿具有质力的若干“不思议”量，合成某某子。",
+      "confidence": 0.8
+    },
+    {
+      "id": "e14",
+      "name": "电子",
+      "canonical_name": "电子",
+      "type": "概念",
+      "evidence": "合若干某某子，成为电子。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e15",
+      "name": "原子",
+      "canonical_name": "原子",
+      "type": "概念",
+      "evidence": "合若干电子，成为原子。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e16",
+      "name": "绵延创化",
+      "canonical_name": "绵延创化",
+      "type": "概念",
+      "evidence": "你喜欢叫他是绵延创化也好，你滑稽些称他是心境所幻也得。",
+      "confidence": 0.8
+    },
+    {
+      "id": "e17",
+      "name": "心境所幻",
+      "canonical_name": "心境所幻",
+      "type": "概念",
+      "evidence": "你喜欢叫他是绵延创化也好，你滑稽些称他是心境所幻也得。",
+      "confidence": 0.8
+    }
+  ],
+  "claims": [
+    {
+      "id": "c1",
+      "speaker": "作者",
+      "claim": "隐德来希既被机体构出来的，还要同爸爸（物质）争个二元，真傻小子。",
+      "target": "隐得来希",
+      "claim_type": "评价性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "隐德来希既被机体构出来的，还要同爸爸（物质）争个二元，真傻小子。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c2",
+      "speaker": "作者",
+      "claim": "在无始之始，有一个混沌得着实可笑，不能拿言语来形容的怪物，住在无何有之乡，自己对自己说道，闷死我也！",
+      "target": "混沌",
+      "claim_type": "描述性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "在无始之始，有一个混沌得着实可笑，不能拿言语来形容的怪物，住在无何有之乡，自己对自己说道，闷死我也！",
+      "confidence": 0.9
+    },
+    {
+      "id": "c3",
+      "speaker": "作者",
+      "claim": "这个破裂，也可叫做适如其意志，所谓求仁而得仁。",
+      "target": "混沌的破裂",
+      "claim_type": "描述性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "这个破裂，也可叫做适如其意志，所谓求仁而得仁。",
+      "confidence": 0.8
+    },
+    {
+      "id": "c4",
+      "speaker": "作者",
+      "claim": "他那变的方法，也很简单。无非拿具有质力的若干“不思议”量，合成某某子。合若干某某子，成为电子。合若干电子，成为原子。合若干原子，成为星辰日月，山川草木，鸟兽昆虫鱼鳖。",
+      "target": "宇宙生成过程",
+      "claim_type": "描述性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "他那变的方法，也很简单。无非拿具有质力的若干“不思议”量，合成某某子。合若干某某子，成为电子。合若干电子，成为原子。合若干原子，成为星辰日月，山川草木，鸟兽昆虫鱼鳖。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c5",
+      "speaker": "作者",
+      "claim": "终之他是至今没有变好，并且似乎还没有一样东西，值得他惬意，留了永久不变。",
+      "target": "宇宙",
+      "claim_type": "评价性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "终之他是至今没有变好，并且似乎还没有一样东西，值得他惬意，留了永久不变。",
+      "confidence": 0.9
+    }
+  ],
+  "relations": [
+    {
+      "id": "r1",
+      "head": "隐得来希",
+      "head_type": "概念",
+      "relation": "反对",
+      "relation_subtype": "逻辑反驳",
+      "tail": "物质",
+      "tail_type": "概念",
+      "polarity": "negative",
+      "stance_score": -0.8,
+      "intensity": 0.7,
+      "evidence": "隐德来希既被机体构出来的，还要同爸爸（物质）争个二元，真傻小子。",
+      "confidence": 0.9
+    },
+    {
+      "id": "r2",
+      "head": "隐得来希",
+      "head_type": "概念",
+      "relation": "属于",
+      "relation_subtype": "",
+      "tail": "初式",
+      "tail_type": "概念",
+      "polarity": "neutral",
+      "stance_score": 0.0,
+      "intensity": 0.0,
+      "evidence": "隐得来希是“初式”构的，“心是次式的”。",
+      "confidence": 0.8
+    },
+    {
+      "id": "r3",
+      "head": "心",
+      "head_type": "概念",
+      "relation": "属于",
+      "relation_subtype": "",
+      "tail": "次式",
+      "tail_type": "概念",
+      "polarity": "neutral",
+      "stance_score": 0.0,
+      "intensity": 0.0,
+      "evidence": "隐得来希是“初式”构的，“心是次式的”。",
+      "confidence": 0.8
+    },
+    {
+      "id": "r4",
+      "head": "混沌",
+      "head_type": "概念",
+      "relation": "导致",
+      "relation_subtype": "",
+      "tail": "大千宇宙",
+      "tail_type": "概念",
+      "polarity": "neutral",
+      "stance_score": 0.0,
+      "intensity": 0.0,
+      "evidence": "顷刻变起了大千宇宙，换言之，便是说兆兆兆兆的我。",
+      "confidence": 0.8
+    },
+    {
+      "id": "r5",
+      "head": "不思议量",
+      "head_type": "概念",
+      "relation": "导致",
+      "relation_subtype": "",
+      "tail": "某某子",
+      "tail_type": "概念",
+      "polarity": "neutral",
+      "stance_score": 0.0,
+      "intensity": 0.0,
+      "evidence": "无非拿具有质力的若干“不思议”量，合成某某子。",
+      "confidence": 0.8
+    },
+    {
+      "id": "r6",
+      "head": "某某子",
+      "head_type": "概念",
+      "relation": "导致",
+      "relation_subtype": "",
+      "tail": "电子",
+      "tail_type": "概念",
+      "polarity": "neutral",
+      "stance_score": 0.0,
+      "intensity": 0.0,
+      "evidence": "合若干某某子，成为电子。",
+      "confidence": 0.8
+    },
+    {
+      "id": "r7",
+      "head": "电子",
+      "head_type": "概念",
+      "relation": "导致",
+      "relation_subtype": "",
+      "tail": "原子",
+      "tail_type": "概念",
+      "polarity": "neutral",
+      "stance_score": 0.0,
+      "intensity": 0.0,
+      "evidence": "合若干电子，成为原子。",
+      "confidence": 0.8
+    },
+    {
+      "id": "r8",
+      "head": "原子",
+      "head_type": "概念",
+      "relation": "导致",
+      "relation_subtype": "",
+      "tail": "星辰日月，山川草木，鸟兽昆虫鱼鳖",
+      "tail_type": "概念",
+      "polarity": "neutral",
+      "stance_score": 0.0,
+      "intensity": 0.0,
+      "evidence": "合若干原子，成为星辰日月，山川草木，鸟兽昆虫鱼鳖。",
+      "confidence": 0.8
+    }
+  ],
+  "definitions": [
+    {
+      "id": "def1",
+      "term": "隐得来希",
+      "definition": "隐得来希是“初式”构的。",
+      "evidence": "隐得来希是“初式”构的，“心是次式的”。",
+      "confidence": 0.8
+    },
+    {
+      "id": "def2",
+      "term": "心",
+      "definition": "心是次式的。",
+      "evidence": "隐得来希是“初式”构的，“心是次式的”。",
+      "confidence": 0.8
+    }
+  ],
+  "citations": [],
+  "rhetorical_devices": [
+    {
+      "id": "rh1",
+      "expression": "还要同爸爸（物质）争个二元，真傻小子。",
+      "device_type": "比喻",
+      "literal_target": "隐得来希与物质的关系",
+      "function": "以父子关系比喻隐得来希与物质的关系，并贬低隐得来希",
+      "evidence": "隐德来希既被机体构出来的，还要同爸爸（物质）争个二元，真傻小子。",
+      "confidence": 0.9
+    },
+    {
+      "id": "rh2",
+      "expression": "混沌得着实可笑，不能拿言语来形容的怪物",
+      "device_type": "拟人",
+      "literal_target": "宇宙初始状态",
+      "function": "将混沌拟人化，赋予其情感和言语，以生动描述宇宙起源",
+      "evidence": "在无始之始，有一个混沌得着实可笑，不能拿言语来形容的怪物，住在无何有之乡，自己对自己说道，闷死我也！",
+      "confidence": 0.9
+    }
+  ],
+  "uncertainties": [
+    {
+      "item": "三毛，钮子五吊钱，里子值四毛，送了一个面。",
+      "reason": "这句话与上下文逻辑关系不明，可能为引用或比喻，但缺乏明确语境，无法确定其含义和功能。"
+    },
+    {
+      "item": "“隐得来希”与“隐德来希”的拼写差异",
+      "reason": "文本中同时出现“隐得来希”和“隐德来希”，可能为同一概念的不同音译，但无法确定。"
+    }
+  ]
+}

@@ -1,0 +1,651 @@
+{
+  "metadata": {
+    "schema_version": "lite_v3.0",
+    "article_id": "梁启超_002_40d1afac",
+    "article_title": "东荪按",
+    "source_author": "张东荪",
+    "section_title": "",
+    "section_author": "",
+    "segment_id": "梁启超_002_40d1afac_s0002",
+    "segment_index": 2,
+    "source_file": "E:\\1研究生\\岭南大学\\论文毕业\\capstone\\资料\\新的内容开始了\\local_upload\\input_v2_w3\\梁启超.txt"
+  },
+  "entities": [
+    {
+      "id": "e1",
+      "name": "关系",
+      "canonical_name": "关系",
+      "type": "概念",
+      "evidence": "式，即是关系，即是关系的定式。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e2",
+      "name": "关系的定式",
+      "canonical_name": "关系的定式",
+      "type": "概念",
+      "evidence": "式，即是关系，即是关系的定式。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e3",
+      "name": "分类",
+      "canonical_name": "分类",
+      "type": "方法",
+      "evidence": "所以分类乃仍是初步，而不是最后的。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e4",
+      "name": "不变的关系",
+      "canonical_name": "不变的关系",
+      "type": "概念",
+      "evidence": "至于得了这个“不变的关系”的定式便用一个简单明白的符号以表示之",
+      "confidence": 0.9
+    },
+    {
+      "id": "e5",
+      "name": "科学方法",
+      "canonical_name": "科学方法",
+      "type": "方法",
+      "evidence": "这个与其谓是科学方法，毋宁谓是科学的目的。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e6",
+      "name": "科学的目的",
+      "canonical_name": "科学的目的",
+      "type": "概念",
+      "evidence": "这个与其谓是科学方法，毋宁谓是科学的目的。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e7",
+      "name": "天文学",
+      "canonical_name": "天文学",
+      "type": "概念",
+      "evidence": "如天文学便不能离了望远镜",
+      "confidence": 0.9
+    },
+    {
+      "id": "e8",
+      "name": "望远镜",
+      "canonical_name": "望远镜",
+      "type": "概念",
+      "evidence": "如天文学便不能离了望远镜",
+      "confidence": 0.9
+    },
+    {
+      "id": "e9",
+      "name": "生物学",
+      "canonical_name": "生物学",
+      "type": "概念",
+      "evidence": "又如生物学中分出细胞学。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e10",
+      "name": "细胞学",
+      "canonical_name": "细胞学",
+      "type": "概念",
+      "evidence": "又如生物学中分出细胞学。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e11",
+      "name": "统一科学",
+      "canonical_name": "统一科学",
+      "type": "概念",
+      "evidence": "可见以来的统一科学则关系科学的各有方法与分枝发展皆无妨碍。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e12",
+      "name": "关系科学",
+      "canonical_name": "关系科学",
+      "type": "概念",
+      "evidence": "可见以来的统一科学则关系科学的各有方法与分枝发展皆无妨碍。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e13",
+      "name": "分类与归纳",
+      "canonical_name": "分类与归纳",
+      "type": "方法",
+      "evidence": "否则只是一个所谓科学方法（即分类与归纳等）高悬于上，决不能统一各科学。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e14",
+      "name": "论理",
+      "canonical_name": "论理",
+      "type": "概念",
+      "evidence": "科学既各有方法，而普通所谓科学方法又不外乎论理",
+      "confidence": 0.9
+    },
+    {
+      "id": "e15",
+      "name": "汉学家考据方法",
+      "canonical_name": "汉学家考据方法",
+      "type": "方法",
+      "evidence": "我根据这个理由大胆宣告汉学家考据方法不能即算就是科学方法。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e16",
+      "name": "科学方法",
+      "canonical_name": "科学方法",
+      "type": "方法",
+      "evidence": "我根据这个理由大胆宣告汉学家考据方法不能即算就是科学方法。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e17",
+      "name": "汉学家",
+      "canonical_name": "汉学家",
+      "type": "阵营/群体",
+      "evidence": "我承认汉学家有点儿科学精神",
+      "confidence": 0.9
+    },
+    {
+      "id": "e18",
+      "name": "科学精神",
+      "canonical_name": "科学精神",
+      "type": "概念",
+      "evidence": "我承认汉学家有点儿科学精神",
+      "confidence": 0.9
+    },
+    {
+      "id": "e19",
+      "name": "考古学",
+      "canonical_name": "考古学",
+      "type": "概念",
+      "evidence": "本来考古学只是历史地理的一个分支，自有其地位。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e20",
+      "name": "历史地理",
+      "canonical_name": "历史地理",
+      "type": "概念",
+      "evidence": "本来考古学只是历史地理的一个分支，自有其地位。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e21",
+      "name": "考古学的方法",
+      "canonical_name": "考古学的方法",
+      "type": "方法",
+      "evidence": "若把考古学的方法推广而用于其他地方，科学家即承认这个就是科学方法，似乎未免太自贬了。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e22",
+      "name": "科学家",
+      "canonical_name": "科学家",
+      "type": "阵营/群体",
+      "evidence": "若把考古学的方法推广而用于其他地方，科学家即承认这个就是科学方法，似乎未免太自贬了。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e23",
+      "name": "丁先生",
+      "canonical_name": "丁先生",
+      "type": "人物",
+      "evidence": "丁先生说爱因斯坦的相对论是科学，梁先生的历史研究法是科学，胡先生的《红楼梦考证》是科学",
+      "confidence": 0.9
+    },
+    {
+      "id": "e24",
+      "name": "爱因斯坦的相对论",
+      "canonical_name": "爱因斯坦的相对论",
+      "type": "主义/学说/理论",
+      "evidence": "丁先生说爱因斯坦的相对论是科学，梁先生的历史研究法是科学，胡先生的《红楼梦考证》是科学",
+      "confidence": 0.9
+    },
+    {
+      "id": "e25",
+      "name": "梁先生",
+      "canonical_name": "梁先生",
+      "type": "人物",
+      "evidence": "丁先生说爱因斯坦的相对论是科学，梁先生的历史研究法是科学，胡先生的《红楼梦考证》是科学",
+      "confidence": 0.9
+    },
+    {
+      "id": "e26",
+      "name": "历史研究法",
+      "canonical_name": "历史研究法",
+      "type": "方法",
+      "evidence": "丁先生说爱因斯坦的相对论是科学，梁先生的历史研究法是科学，胡先生的《红楼梦考证》是科学",
+      "confidence": 0.9
+    },
+    {
+      "id": "e27",
+      "name": "胡先生",
+      "canonical_name": "胡先生",
+      "type": "人物",
+      "evidence": "丁先生说爱因斯坦的相对论是科学，梁先生的历史研究法是科学，胡先生的《红楼梦考证》是科学",
+      "confidence": 0.9
+    },
+    {
+      "id": "e28",
+      "name": "《红楼梦考证》",
+      "canonical_name": "《红楼梦考证》",
+      "type": "著作",
+      "evidence": "丁先生说爱因斯坦的相对论是科学，梁先生的历史研究法是科学，胡先生的《红楼梦考证》是科学",
+      "confidence": 0.9
+    },
+    {
+      "id": "e29",
+      "name": "笼统的毛病",
+      "canonical_name": "笼统的毛病",
+      "type": "评价",
+      "evidence": "这话亦似乎犯了笼统的毛病罢。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e30",
+      "name": "梁先生",
+      "canonical_name": "梁先生",
+      "type": "人物",
+      "evidence": "特写在此处以求教于梁先生。",
+      "confidence": 0.9
+    }
+  ],
+  "claims": [
+    {
+      "id": "c1",
+      "speaker": "张东荪",
+      "claim": "分类乃仍是初步，而不是最后的。",
+      "target": "分类",
+      "claim_type": "描述性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "所以分类乃仍是初步，而不是最后的。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c2",
+      "speaker": "张东荪",
+      "claim": "得了这个“不变的关系”的定式便用一个简单明白的符号以表示之，但这却不是“概括这些许多事实”。",
+      "target": "不变的关系",
+      "claim_type": "描述性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "至于得了这个“不变的关系”的定式便用一个简单明白的符号以表示之，但这却不是“概括这些许多事实”。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c3",
+      "speaker": "张东荪",
+      "claim": "这个与其谓是科学方法，毋宁谓是科学的目的。",
+      "target": "科学方法",
+      "claim_type": "对比性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "这个与其谓是科学方法，毋宁谓是科学的目的。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c4",
+      "speaker": "张东荪",
+      "claim": "科学以此目的，对于所取的对象可以各取各的方法。",
+      "target": "科学",
+      "claim_type": "描述性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "科学以此目的，对于所取的对象可以各取各的方法。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c5",
+      "speaker": "张东荪",
+      "claim": "可见以来的统一科学则关系科学的各有方法与分枝发展皆无妨碍。",
+      "target": "统一科学",
+      "claim_type": "结论性主张",
+      "claim_status": "作者推论",
+      "polarity": "neutral",
+      "evidence": "可见以来的统一科学则关系科学的各有方法与分枝发展皆无妨碍。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c6",
+      "speaker": "张东荪",
+      "claim": "否则只是一个所谓科学方法（即分类与归纳等）高悬于上，决不能统一各科学。",
+      "target": "科学方法",
+      "claim_type": "因果主张",
+      "claim_status": "作者推论",
+      "polarity": "negative",
+      "evidence": "否则只是一个所谓科学方法（即分类与归纳等）高悬于上，决不能统一各科学。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c7",
+      "speaker": "张东荪",
+      "claim": "科学之所以为科学不在方法的相同，而在目的的一致。",
+      "target": "科学",
+      "claim_type": "定义性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "可见科学之所以为科学不在方法的相同，而在目的的一致。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c8",
+      "speaker": "张东荪",
+      "claim": "科学既各有方法，而普通所谓科学方法又不外乎论理",
+      "target": "科学方法",
+      "claim_type": "描述性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "科学既各有方法，而普通所谓科学方法又不外乎论理",
+      "confidence": 0.9
+    },
+    {
+      "id": "c9",
+      "speaker": "张东荪",
+      "claim": "汉学家考据方法不能即算就是科学方法。",
+      "target": "汉学家考据方法",
+      "claim_type": "评价性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "我根据这个理由大胆宣告汉学家考据方法不能即算就是科学方法。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c10",
+      "speaker": "张东荪",
+      "claim": "汉学家有点儿科学精神",
+      "target": "汉学家",
+      "claim_type": "评价性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "我承认汉学家有点儿科学精神",
+      "confidence": 0.9
+    },
+    {
+      "id": "c11",
+      "speaker": "张东荪",
+      "claim": "不能以一点的相同，即谓完全相同。",
+      "target": "汉学家",
+      "claim_type": "规范性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "不能以一点的相同，即谓完全相同。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c12",
+      "speaker": "张东荪",
+      "claim": "本来考古学只是历史地理的一个分支，自有其地位。",
+      "target": "考古学",
+      "claim_type": "描述性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "本来考古学只是历史地理的一个分支，自有其地位。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c13",
+      "speaker": "张东荪",
+      "claim": "若把考古学的方法推广而用于其他地方，科学家即承认这个就是科学方法，似乎未免太自贬了。",
+      "target": "考古学的方法",
+      "claim_type": "评价性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "若把考古学的方法推广而用于其他地方，科学家即承认这个就是科学方法，似乎未免太自贬了。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c14",
+      "speaker": "丁先生",
+      "claim": "爱因斯坦的相对论是科学，梁先生的历史研究法是科学，胡先生的《红楼梦考证》是科学",
+      "target": "爱因斯坦的相对论",
+      "claim_type": "评价性主张",
+      "claim_status": "间接转述",
+      "polarity": "positive",
+      "evidence": "丁先生说爱因斯坦的相对论是科学，梁先生的历史研究法是科学，胡先生的《红楼梦考证》是科学",
+      "confidence": 0.9
+    },
+    {
+      "id": "c15",
+      "speaker": "张东荪",
+      "claim": "这话亦似乎犯了笼统的毛病罢。",
+      "target": "丁先生",
+      "claim_type": "评价性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "这话亦似乎犯了笼统的毛病罢。",
+      "confidence": 0.9
+    }
+  ],
+  "relations": [
+    {
+      "id": "r1",
+      "head": "分类",
+      "head_type": "方法",
+      "relation": "相关",
+      "relation_subtype": "一般批评",
+      "tail": "初步",
+      "tail_type": "概念",
+      "polarity": "negative",
+      "stance_score": -0.5,
+      "intensity": 0.5,
+      "evidence": "所以分类乃仍是初步，而不是最后的。",
+      "confidence": 0.9
+    },
+    {
+      "id": "r2",
+      "head": "科学方法",
+      "head_type": "方法",
+      "relation": "区分",
+      "relation_subtype": "概念澄清",
+      "tail": "科学的目的",
+      "tail_type": "概念",
+      "polarity": "neutral",
+      "stance_score": 0.0,
+      "intensity": 0.5,
+      "evidence": "这个与其谓是科学方法，毋宁谓是科学的目的。",
+      "confidence": 0.9
+    },
+    {
+      "id": "r3",
+      "head": "科学",
+      "head_type": "概念",
+      "relation": "解释",
+      "relation_subtype": "不适用",
+      "tail": "各取各的方法",
+      "tail_type": "观点",
+      "polarity": "neutral",
+      "stance_score": 0.0,
+      "intensity": 0.3,
+      "evidence": "科学以此目的，对于所取的对象可以各取各的方法。",
+      "confidence": 0.9
+    },
+    {
+      "id": "r4",
+      "head": "统一科学",
+      "head_type": "概念",
+      "relation": "解释",
+      "relation_subtype": "不适用",
+      "tail": "关系科学的各有方法与分枝发展皆无妨碍",
+      "tail_type": "观点",
+      "polarity": "neutral",
+      "stance_score": 0.0,
+      "intensity": 0.3,
+      "evidence": "可见以来的统一科学则关系科学的各有方法与分枝发展皆无妨碍。",
+      "confidence": 0.9
+    },
+    {
+      "id": "r5",
+      "head": "科学方法（即分类与归纳等）高悬于上",
+      "head_type": "观点",
+      "relation": "导致",
+      "relation_subtype": "不适用",
+      "tail": "决不能统一各科学",
+      "tail_type": "观点",
+      "polarity": "negative",
+      "stance_score": -0.5,
+      "intensity": 0.7,
+      "evidence": "否则只是一个所谓科学方法（即分类与归纳等）高悬于上，决不能统一各科学。",
+      "confidence": 0.9
+    },
+    {
+      "id": "r6",
+      "head": "科学之所以为科学",
+      "head_type": "观点",
+      "relation": "解释",
+      "relation_subtype": "不适用",
+      "tail": "不在方法的相同，而在目的的一致",
+      "tail_type": "观点",
+      "polarity": "neutral",
+      "stance_score": 0.0,
+      "intensity": 0.5,
+      "evidence": "可见科学之所以为科学不在方法的相同，而在目的的一致。",
+      "confidence": 0.9
+    },
+    {
+      "id": "r7",
+      "head": "汉学家考据方法",
+      "head_type": "方法",
+      "relation": "相关",
+      "relation_subtype": "一般批评",
+      "tail": "科学方法",
+      "tail_type": "方法",
+      "polarity": "negative",
+      "stance_score": -0.8,
+      "intensity": 0.8,
+      "evidence": "我根据这个理由大胆宣告汉学家考据方法不能即算就是科学方法。",
+      "confidence": 0.9
+    },
+    {
+      "id": "r8",
+      "head": "汉学家",
+      "head_type": "阵营/群体",
+      "relation": "相关",
+      "relation_subtype": "部分肯定",
+      "tail": "科学精神",
+      "tail_type": "概念",
+      "polarity": "positive",
+      "stance_score": 0.5,
+      "intensity": 0.5,
+      "evidence": "我承认汉学家有点儿科学精神",
+      "confidence": 0.9
+    },
+    {
+      "id": "r9",
+      "head": "考古学",
+      "head_type": "概念",
+      "relation": "属于",
+      "relation_subtype": "不适用",
+      "tail": "历史地理",
+      "tail_type": "概念",
+      "polarity": "neutral",
+      "stance_score": 0.0,
+      "intensity": 0.3,
+      "evidence": "本来考古学只是历史地理的一个分支，自有其地位。",
+      "confidence": 0.9
+    },
+    {
+      "id": "r10",
+      "head": "考古学的方法",
+      "head_type": "方法",
+      "relation": "相关",
+      "relation_subtype": "一般批评",
+      "tail": "科学方法",
+      "tail_type": "方法",
+      "polarity": "negative",
+      "stance_score": -0.7,
+      "intensity": 0.7,
+      "evidence": "若把考古学的方法推广而用于其他地方，科学家即承认这个就是科学方法，似乎未免太自贬了。",
+      "confidence": 0.9
+    },
+    {
+      "id": "r11",
+      "head": "丁先生",
+      "head_type": "人物",
+      "relation": "主张",
+      "relation_subtype": "不适用",
+      "tail": "爱因斯坦的相对论是科学，梁先生的历史研究法是科学，胡先生的《红楼梦考证》是科学",
+      "tail_type": "观点",
+      "polarity": "positive",
+      "stance_score": 0.5,
+      "intensity": 0.5,
+      "evidence": "丁先生说爱因斯坦的相对论是科学，梁先生的历史研究法是科学，胡先生的《红楼梦考证》是科学",
+      "confidence": 0.9
+    }
+  ],
+  "definitions": [
+    {
+      "id": "def1",
+      "term": "式",
+      "definition": "式即是关系，即是关系的定式。",
+      "evidence": "式，即是关系，即是关系的定式。",
+      "confidence": 0.9
+    },
+    {
+      "id": "def2",
+      "term": "科学之所以为科学",
+      "definition": "科学之所以为科学不在方法的相同，而在目的的一致。",
+      "evidence": "可见科学之所以为科学不在方法的相同，而在目的的一致。",
+      "confidence": 0.9
+    }
+  ],
+  "citations": [
+    {
+      "id": "cit1",
+      "citer": "张东荪",
+      "quoted_author": "丁先生",
+      "quoted_work": "",
+      "quoted_claim": "爱因斯坦的相对论是科学，梁先生的历史研究法是科学，胡先生的《红楼梦考证》是科学",
+      "function": "作为批评对象",
+      "evidence": "丁先生说爱因斯坦的相对论是科学，梁先生的历史研究法是科学，胡先生的《红楼梦考证》是科学",
+      "confidence": 0.9
+    }
+  ],
+  "rhetorical_devices": [
+    {
+      "id": "rh1",
+      "expression": "似乎未免太自贬了",
+      "device_type": "讽刺",
+      "literal_target": "科学家",
+      "function": "批评科学家轻易承认考古学方法为科学方法的行为",
+      "evidence": "若把考古学的方法推广而用于其他地方，科学家即承认这个就是科学方法，似乎未免太自贬了。",
+      "confidence": 0.9
+    },
+    {
+      "id": "rh2",
+      "expression": "犯了笼统的毛病罢",
+      "device_type": "讽刺",
+      "literal_target": "丁先生",
+      "function": "批评丁先生将不同事物一概称为科学的做法",
+      "evidence": "这话亦似乎犯了笼统的毛病罢。",
+      "confidence": 0.9
+    }
+  ],
+  "uncertainties": [
+    {
+      "item": "“可见以来的统一科学”中的“以来”可能为笔误或排版错误，原文可能为“可见于统一科学”或类似表达。",
+      "reason": "evidence中“可见以来的统一科学”语义不通顺，可能为转录错误。"
+    }
+  ],
+  "_meta": {
+    "status": "success",
+    "stage": "extract",
+    "model": "deepseek-ai/DeepSeek-V4-Flash",
+    "base_url": "https://api.siliconflow.cn/v1",
+    "prompt_version": "v2.0",
+    "schema_version": "lite_v3.0",
+    "segment_id": "梁启超_002_40d1afac_s0002",
+    "article_id": "梁启超_002_40d1afac",
+    "char_start": 1018,
+    "char_end": 1518,
+    "raw_path": "E:\\1研究生\\岭南大学\\论文毕业\\capstone\\资料\\新的内容开始了\\local_upload\\kg_runs_v2\\孙伏园_等3篇\\raw_outputs\\extract\\梁启超_002_40d1afac_s0002.txt",
+    "parsed_at": "2026-05-21T01:53:20",
+    "started_at": "2026-05-21T01:47:29",
+    "elapsed_seconds": 350.732,
+    "strict_evidence_check": true,
+    "drop_unsupported_evidence": true,
+    "request_timeout_seconds": 180
+  }
+}

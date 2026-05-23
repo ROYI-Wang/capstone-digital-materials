@@ -1,0 +1,595 @@
+{
+  "metadata": {
+    "schema_version": "lite_v2.0",
+    "article_id": "孙伏园_001_119b038d",
+    "article_title": "东荪按",
+    "source_author": "张东荪",
+    "section_title": "",
+    "section_author": "",
+    "segment_id": "孙伏园_001_119b038d_s0000",
+    "segment_index": 0,
+    "source_file": "E:\\1研究生\\岭南大学\\论文毕业\\capstone\\资料\\新的内容开始了\\local_upload\\input_w3\\孙伏园.txt"
+  },
+  "entities": [
+    {
+      "id": "e1",
+      "name": "伏园先生",
+      "canonical_name": "孙伏园",
+      "type": "人物",
+      "evidence": "伏园先生于玄科之战的混乱声中独先提出玄学与科学定义的问题",
+      "confidence": 0.9
+    },
+    {
+      "id": "e2",
+      "name": "玄学",
+      "canonical_name": "玄学",
+      "type": "概念",
+      "evidence": "玄学与科学定义的问题",
+      "confidence": 1.0
+    },
+    {
+      "id": "e3",
+      "name": "科学",
+      "canonical_name": "科学",
+      "type": "概念",
+      "evidence": "玄学与科学定义的问题",
+      "confidence": 1.0
+    },
+    {
+      "id": "e4",
+      "name": "玄科之战",
+      "canonical_name": "科玄论战",
+      "type": "事件",
+      "evidence": "伏园先生于玄科之战的混乱声中",
+      "confidence": 0.9
+    },
+    {
+      "id": "e5",
+      "name": "Metaphysics",
+      "canonical_name": "形而上学",
+      "type": "概念",
+      "evidence": "“玄学”本来是 Metaphysics 的译语",
+      "confidence": 1.0
+    },
+    {
+      "id": "e6",
+      "name": "Science",
+      "canonical_name": "科学",
+      "type": "概念",
+      "evidence": "科学当然是 Science 的译语",
+      "confidence": 1.0
+    },
+    {
+      "id": "e7",
+      "name": "哲学",
+      "canonical_name": "哲学",
+      "type": "概念",
+      "evidence": "玄学与科学以外又有一个名词即是“哲学”",
+      "confidence": 1.0
+    },
+    {
+      "id": "e8",
+      "name": "Philosophy",
+      "canonical_name": "哲学",
+      "type": "概念",
+      "evidence": "哲学（Philosophy 的译语）",
+      "confidence": 1.0
+    },
+    {
+      "id": "e9",
+      "name": "认识论",
+      "canonical_name": "认识论",
+      "type": "概念",
+      "evidence": "哲学包括三部分：一为认识论",
+      "confidence": 1.0
+    },
+    {
+      "id": "e10",
+      "name": "Epistemology",
+      "canonical_name": "认识论",
+      "type": "概念",
+      "evidence": "认识论（Epistemology 的译语）",
+      "confidence": 1.0
+    },
+    {
+      "id": "e11",
+      "name": "本体论",
+      "canonical_name": "本体论",
+      "type": "概念",
+      "evidence": "二为本体论（Ontology 的译语）",
+      "confidence": 1.0
+    },
+    {
+      "id": "e12",
+      "name": "Ontology",
+      "canonical_name": "本体论",
+      "type": "概念",
+      "evidence": "本体论（Ontology 的译语）",
+      "confidence": 1.0
+    },
+    {
+      "id": "e13",
+      "name": "宇宙论",
+      "canonical_name": "宇宙论",
+      "type": "概念",
+      "evidence": "三为宇宙论（Cosmology 的译语）",
+      "confidence": 1.0
+    },
+    {
+      "id": "e14",
+      "name": "Cosmology",
+      "canonical_name": "宇宙论",
+      "type": "概念",
+      "evidence": "宇宙论（Cosmology 的译语）",
+      "confidence": 1.0
+    },
+    {
+      "id": "e15",
+      "name": "美英的经验派",
+      "canonical_name": "英美经验派",
+      "type": "阵营/群体",
+      "evidence": "前者以美英的经验派中为多",
+      "confidence": 0.8
+    },
+    {
+      "id": "e16",
+      "name": "大陆的理性派",
+      "canonical_name": "大陆理性派",
+      "type": "阵营/群体",
+      "evidence": "后者以大陆的理性派为多",
+      "confidence": 0.8
+    },
+    {
+      "id": "e17",
+      "name": "丁在君先生",
+      "canonical_name": "丁文江",
+      "type": "人物",
+      "evidence": "我总觉得丁在君先生、张君劢先生各有先入之见",
+      "confidence": Locked
+    },
+    {
+      "id": "e18",
+      "name": "张君劢先生",
+      "canonical_name": "张君劢",
+      "type": "人物",
+      "evidence": "我总觉得丁在君先生、张君劢先生各有先入之见",
+      "confidence": 1.0
+    },
+    {
+      "id": "e19",
+      "name": "胡适之先生",
+      "canonical_name": "胡适",
+      "type": "人物",
+      "evidence": "至于胡适之先生挑剔矛盾律，也是枝叶",
+      "confidence": 1.0
+    },
+    {
+      "id": "e20",
+      "name": "矛盾律",
+      "canonical_name": "矛盾律",
+      "type": "概念",
+      "evidence": "至于胡适之先生挑剔矛盾律",
+      "confidence": 1.0
+    }
+  ],
+  "claims": [
+    {
+      "id": "c1",
+      "speaker": "张东荪",
+      "claim": "伏园先生于玄科之战的混乱声中独先提出玄学与科学定义的问题，以为双方宜先自下定义然后再辩驳，这真可谓独具只眼。",
+      "target": "伏园先生",
+      "claim_type": "价值评价",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "伏园先生于玄科之战的混乱声中独先提出玄学与科学定义的问题，以为双方宜先自下定义然后再辩驳，这真可谓独具只眼。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c2",
+      "speaker": "张东荪",
+      "claim": "我本来久想对于双方提出这个忠告，只因懒于动笔，以致未果。",
+      "target": "双方",
+      "claim_type": "论战策略批评",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "我本来久想对于双方提出这个忠告，只因懒于动笔，以致未果。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c3",
+      "speaker": "张东荪",
+      "claim": "“玄学”本来是 Metaphysics 的译语，科学当然是 Science 的译语，这是人人知道的。",
+      "target": "玄学",
+      "claim_type": "定义性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "“玄学”本来是 Metaphysics 的译语，科学当然是 Science 的译语，这是人人知道的。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c4",
+      "speaker": "张东荪",
+      "claim": "玄学在通常讲来，即是狭义的哲学。",
+      "target": "玄学",
+      "claim_type": "定义性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "而玄学在通常讲来，即是狭义的哲学。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c5",
+      "speaker": "张东荪",
+      "claim": "哲学包括三部分：一为认识论，二为本体论，三为宇宙论。",
+      "target": "哲学",
+      "claim_type": "定义性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "因为哲学包括三部分：一为认识论（Epistemology 的译语),二为本体论（Ontology 的译语),三为宇宙论（Cosmology 的译语）。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c6",
+      "speaker": "张东荪",
+      "claim": "通常名本体论与宇宙论为玄学。",
+      "target": "玄学",
+      "claim_type": "定义性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "通常名本体论与宇宙论为玄学。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c7",
+      "speaker": "张东荪",
+      "claim": "哲学上有两派：一派是始终自限于认识论而不入本体论；一派是由认识论而直入本体论。",
+      "target": "哲学",
+      "claim_type": "定义性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "本来哲学上有两派：一派是始终自限于认识论而不入本体论；一派是由认识论而直入本体论。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c8",
+      "speaker": "张东荪",
+      "claim": "前者以美英的经验派中为多；后者以大陆的理性派为多。",
+      "target": "美英的经验派",
+      "claim_type": "历史解释",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "前者以美英的经验派中为多；后者以大陆的理性派为多。",
+      "confidence": 0.8
+    },
+    {
+      "id": "c9",
+      "speaker": "张东荪",
+      "claim": "这两派的打架本不自今日始。",
+      "target": "美英的经验派",
+      "claim_type": "历史解释",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "这两派的打架本不自今日始。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c10",
+      "speaker": "张东荪",
+      "claim": "这乃是哲学中的论争，而不是科学对于哲学的抗争。",
+      "target": "美英的经验派",
+      "claim_type": "知识论主张",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "我们……应得知道这乃是哲学中的论争，而不是科学对于哲学的抗争。",
+      "confidence": 0.8
+    },
+    {
+      "id": "c11",
+      "speaker": "张东荪",
+      "claim": "丁在君先生、张君劢先生各有先入之见，所以来不及把界说弄清楚，而先就扭做一团了，诚不免有些遗憾。",
+      "target": "丁在君先生",
+      "claim_type": "论战策略批评",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "我总觉得丁在君先生、张君劢先生各有先入之见，所以来不及把界说弄清楚，而先就扭做一团了，诚不免有些遗憾。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c12",
+      "speaker": "张东荪",
+      "claim": "其实这样辩论很少有结果。",
+      "target": "丁在君先生",
+      "claim_type": "论战策略批评",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "其实这样辩论很少有结果。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c13",
+      "speaker": "张东荪",
+      "claim": "胡适之先生挑剔矛盾律，也是枝叶。",
+      "target": "胡适之先生",
+      "claim_type": "论战策略批评",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "至于胡适之先生挑剔矛盾律，也是枝叶。",
+      "confidence": 0.8
+    }
+  ],
+  "relations": [
+    {
+      "id": "r1",
+      "head": "伏园先生",
+      "head_type": "人物",
+      "relation": "主张",
+      "relation_subtype": "不适用",
+      "tail": "玄学与科学定义的问题",
+      "tail_type": "问题",
+      "polarity": "neutral",
+      "evidence": "伏园先生于玄科之战的混乱声中独先提出玄学与科学定义的问题",
+      "confidence": 0.9
+    },
+    {
+      "id": "r2",
+      "head": "张东荪",
+      "head_type": "人物",
+      "relation": "支持",
+      "relation_subtype": "部分肯定",
+      "tail": "伏园先生",
+      "tail_type": "人物",
+      "polarity": "positive",
+      "evidence": "伏园先生……这真可谓独具只眼。我本来久想对于双方提出这个忠告，只因懒于动笔，以致未果。现在只好附伏园先生的骥尾，来说几句。",
+      "confidence": 0.9
+    },
+    {
+      "id": "r3",
+      "head": "玄学",
+      "head_type": "概念",
+      "relation": "定义",
+      "relation_subtype": "概念澄清",
+      "tail": "Metaphysics",
+      "tail_type": "概念",
+      "polarity": "neutral",
+      "evidence": "“玄学”本来是 Metaphysics 的译语",
+      "confidence": 1.0
+    },
+    {
+      "id": "r4",
+      "head": "科学",
+      "head_type": "概念",
+      "relation": "定义",
+      "relation_subtype": "概念澄清",
+      "tail": "Science",
+      "tail_type": "概念",
+      "polarity": "neutral",
+      "evidence": "科学当然是 Science 的译语",
+      "confidence": 1.0
+    },
+    {
+      "id": "r5",
+      "head": "哲学",
+      "head_type": "概念",
+      "relation": "定义",
+      "relation_subtype": "概念澄清",
+      "tail": "Philosophy",
+      "tail_type": "概念",
+      "polarity": "neutral",
+      "evidence": "哲学（Philosophy 的译语）",
+      "confidence": 1.0
+    },
+    {
+      "id": "r6",
+      "head": "玄学",
+      "head_type": "概念",
+      "relation": "属于",
+      "relation_subtype": "不适用",
+      "tail": "哲学",
+      "tail_type": "概念",
+      "polarity": "neutral",
+      "evidence": "而玄学在通常讲来，即是狭义的哲学。",
+      "confidence": 0.9
+    },
+    {
+      "id": "r7",
+      "head": "哲学",
+      "head_type": "概念",
+      "relation": "包含",
+      "relation_subtype": "不适用",
+      "tail": "认识论",
+      "tail_type": "概念",
+      "polarity": "neutral",
+      "evidence": "因为哲学包括三部分：一为认识论",
+      "confidence": 1.0
+    },
+    {
+      "id": "r8",
+      "head": "哲学",
+      "head_type": "概念",
+      "relation": "包含",
+      "relation_subtype": "不适用",
+      "tail": "本体论",
+      "tail_type": "概念",
+      "polarity": "neutral",
+      "evidence": "二为本体论",
+      "confidence": 1.0
+    },
+    {
+      "id": "r9",
+      "head": "哲学",
+      "head_type": "概念",
+      "relation": "包含",
+      "relation_subtype": "不适用",
+      "tail": "宇宙论",
+      "tail_type": "概念",
+      "polarity": "neutral",
+      "evidence": "三为宇宙论",
+      "confidence": 1.0
+    },
+    {
+      "id": "r10",
+      "head": "玄学",
+      "head_type": "概念",
+      "relation": "包含",
+      "relation_subtype": "不适用",
+      "tail": "本体论",
+      "tail_type": "概念",
+      "polarity": "neutral",
+      "evidence": "通常名本体论与宇宙论为玄学。所以玄学是狭义的哲学，而以本体论为中心。",
+      "confidence": 0.9
+    },
+    {
+      "id": "r11",
+      "head": "玄学",
+      "head_type": "概念",
+      "relation": "包含",
+      "relation_subtype": "不适用",
+      "tail": "宇宙论",
+      "tail_type": "概念",
+      "polarity": "neutral",
+      "evidence": "通常名本体论与宇宙论为玄学。",
+      "confidence": 0.9
+    },
+    {
+      "id": "r12",
+      "head": "美英的经验派",
+      "head_type": "阵营/群体",
+      "relation": "区分",
+      "relation_subtype": "概念澄清",
+      "tail": "大陆的理性派",
+      "tail_type": "阵营/群体",
+      "polarity": "neutral",
+      "evidence": "前者以美英的经验派中为多；后者以大陆的理性派为多。",
+      "confidence": 0.8
+    },
+    {
+      "id": "r13",
+      "head": "张东荪",
+      "head_type": "人物",
+      "relation": "批评",
+      "relation_subtype": "概念混淆批评",
+      "tail": "丁在君先生",
+      "tail_type": "人物",
+      "polarity": "negative",
+      "evidence": "我总觉得丁在君先生、张君劢先生各有先入之见，所以来不及把界说弄清楚，而先就扭做一团了，诚不免有些遗憾。",
+      "confidence": 0.9
+    },
+    {
+      "id": "r14",
+      "head": "张东荪",
+      "head_type": "人物",
+      "relation": "批评",
+      "relation_subtype": "概念混淆批评",
+      "tail": "张君劢先生",
+      "tail_type": "人物",
+      "polarity": "negative",
+      "evidence": "我总觉得丁在君先生、张君劢先生各有先入之见，所以来不及把界说弄清楚，而先就扭做一团了，诚不免有些遗憾。",
+      "confidence": 0.9
+    },
+    {
+      "id": "r15",
+      "head": "张东荪",
+      "head_type": "人物",
+      "relation": "批评",
+      "relation_subtype": "一般批评",
+      "tail": "胡适之先生",
+      "tail_type": "人物",
+      "polarity": "negative",
+      "evidence": "至于胡适之先生挑剔矛盾律，也是枝叶。",
+      "confidence": 0.8
+    }
+  ],
+  "definitions": [
+    {
+      "id": "def1",
+      "term": "玄学",
+      "definition": "玄学是Metaphysics的译语，在通常讲来是狭义的哲学，以本体论为中心，通常包括本体论和宇宙论。",
+      "evidence": "“玄学”本来是 Metaphysics 的译语……而玄学在通常讲来，即是狭义的哲学。……通常名本体论与宇宙论为玄学。所以玄学是狭义的哲学，而以本体论为中心。",
+      "confidence": 0.9
+    },
+    {
+      "id": "def2",
+      "term": "科学",
+      "definition": "科学是Science的译语。",
+      "evidence": "科学当然是 Science 的译语",
+      "confidence": 1.0
+    },
+    {
+      "id": "def3",
+      "term": "哲学",
+      "definition": "哲学是Philosophy的译语，包括三部分：认识论、本体论、宇宙论。",
+      "evidence": "哲学（Philosophy 的译语）……因为哲学包括三部分：一为认识论（Epistemology 的译语),二为本体论（Ontology 的译语),三为宇宙论（Cosmology 的译语）。",
+      "confidence": 1.0
+    },
+    {
+      "id": "def4",
+      "term": "认识论",
+      "definition": "认识论是Epistemology的译语，是哲学的一部分。",
+      "evidence": "一为认识论（Epistemology 的译语）",
+      "confidence": 1.0
+    },
+    {
+      "id": "def5",
+      "term": "本体论",
+      "definition": "本体论是Ontology的译语，是哲学的一部分，也是玄学的中心。",
+      "evidence": "二为本体论（Ontology 的译语）……所以玄学是狭义的哲学，而以本体论为中心。",
+      "confidence": 1.0
+    },
+    {
+      "id": "def6",
+      "term": "宇宙论",
+      "definition": "宇宙论是Cosmology的译语，是哲学的一部分。",
+      "evidence": "三为宇宙论（Cosmology 的译语）",
+      "confidence": 1.0
+    }
+  ],
+  "citations": [],
+  "rhetorical_devices": [
+    {
+      "id": "rh1",
+      "expression": "独具只眼",
+      "device_type": "比喻",
+      "literal_target": "伏园先生提出定义问题的眼光独到",
+      "function": "正面评价伏园先生的见解",
+      "evidence": "这真可谓独具只眼。",
+      "confidence": 0.9
+    },
+    {
+      "id": "rh2",
+      "expression": "附伏园先生的骥尾",
+      "device_type": "比喻",
+      "literal_target": "张东荪跟随伏园先生之后发表意见",
+      "function": "谦逊地表示自己是在伏园先生之后发言",
+      "evidence": "现在只好附伏园先生的骥尾，来说几句。",
+      "confidence": 0.9
+    },
+    {
+      "id": "rh3",
+      "expression": "扭做一团",
+      "device_type": "比喻",
+      "literal_target": "丁在君与张君劢激烈争论",
+      "function": "批评双方未先厘清概念就陷入混乱争论",
+      "evidence": "先就扭做一团了",
+      "confidence": 0.9
+    },
+    {
+      "id": "rh4",
+      "expression": "枝叶",
+      "device_type": "比喻",
+      "literal_target": "胡适之挑剔矛盾律的行为是次要的、不重要的",
+      "function": "贬低胡适之的批评，认为其不触及核心",
+      "evidence": "至于胡适之先生挑剔矛盾律，也是枝叶。",
+      "confidence": 0.9
+    }
+  ],
+  "uncertainties": [
+    {
+      "item": "e17 丁在君先生",
+      "reason": "丁在君先生即丁文江，但原文未出现'丁文江'，仅出现'丁在君先生'，故实体名保留'丁在君先生'。"
+    },
+    {
+      "item": "e19 胡适之先生",
+      "reason": "胡适之先生即胡适，但原文未出现'胡适'，仅出现'胡适之先生'，故实体名保留'胡适之先生'。"
+    }
+  ]
+}

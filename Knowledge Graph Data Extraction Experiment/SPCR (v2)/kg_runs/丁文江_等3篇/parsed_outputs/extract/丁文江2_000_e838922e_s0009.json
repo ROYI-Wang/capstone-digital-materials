@@ -1,0 +1,462 @@
+{
+  "metadata": {
+    "schema_version": "lite_v3.0",
+    "article_id": "丁文江2_000_e838922e",
+    "article_title": "玄学与科学——答张君劢",
+    "source_author": "丁文江",
+    "section_title": "",
+    "section_author": "",
+    "segment_id": "丁文江2_000_e838922e_s0009",
+    "segment_index": 9,
+    "source_file": "E:\\1研究生\\岭南大学\\论文毕业\\capstone\\资料\\新的内容开始了\\local_upload\\input_丁文江\\丁文江2.txt"
+  },
+  "entities": [
+    {
+      "id": "e1",
+      "name": "牛顿",
+      "canonical_name": "牛顿",
+      "type": "人物",
+      "evidence": "牛顿的发明，不止于三条公例。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e2",
+      "name": "皮尔逊",
+      "canonical_name": "皮尔逊",
+      "type": "人物",
+      "evidence": "皮尔逊同马哈都是不满意于“力”的观念的人。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e3",
+      "name": "马哈",
+      "canonical_name": "马哈",
+      "type": "人物",
+      "evidence": "皮尔逊同马哈都是不满意于“力”的观念的人。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e4",
+      "name": "君劢",
+      "canonical_name": "君劢",
+      "type": "人物",
+      "evidence": "君劢说，“近年以来，则有爱因斯坦之说，虽其公例之适用范围有不同，然牛顿（即牛顿）公例之至今犹能适用，一切物理学家所公认者也。”",
+      "confidence": 1.0
+    },
+    {
+      "id": "e5",
+      "name": "物理学上的公例",
+      "canonical_name": "物理学上的公例",
+      "type": "概念",
+      "evidence": "因为物理学上的公例时常在那里变迁。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e6",
+      "name": "“力”的观念",
+      "canonical_name": "“力”的观念",
+      "type": "概念",
+      "evidence": "他的“力”的观念，许多人早就觉得不很适用，所以才拿“能力”来替代他。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e7",
+      "name": "“能力”",
+      "canonical_name": "“能力”",
+      "type": "概念",
+      "evidence": "所以才拿“能力”来替代他。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e8",
+      "name": "吸引的现象",
+      "canonical_name": "吸引的现象",
+      "type": "概念",
+      "evidence": "因为爱因斯坦说，吸引的现象是空间的性质，无所谓力，用不着力的观念。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e9",
+      "name": "阿顿",
+      "canonical_name": "阿顿",
+      "type": "概念",
+      "evidence": "君劢说，“物理上之概念，曰阿顿，曰原子，曰质量，曰能力。”似乎不知道“阿顿”就是原子的。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e10",
+      "name": "原子",
+      "canonical_name": "原子",
+      "type": "概念",
+      "evidence": "君劢说，“物理上之概念，曰阿顿，曰原子，曰质量，曰能力。”",
+      "confidence": 1.0
+    },
+    {
+      "id": "e11",
+      "name": "质量",
+      "canonical_name": "质量",
+      "type": "概念",
+      "evidence": "君劢说，“物理上之概念，曰阿顿，曰原子，曰质量，曰能力。”",
+      "confidence": 1.0
+    },
+    {
+      "id": "e12",
+      "name": "能力",
+      "canonical_name": "能力",
+      "type": "概念",
+      "evidence": "君劢说，“物理上之概念，曰阿顿，曰原子，曰质量，曰能力。”",
+      "confidence": 1.0
+    },
+    {
+      "id": "e13",
+      "name": "分子",
+      "canonical_name": "分子",
+      "type": "概念",
+      "evidence": "但是他所谓原子包括分子在内。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e14",
+      "name": "物质最小的单位",
+      "canonical_name": "物质最小的单位",
+      "type": "概念",
+      "evidence": "于是学化学的人都认原子为物质最小的单位，不能再分而为二。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e15",
+      "name": "原质",
+      "canonical_name": "原质",
+      "type": "概念",
+      "evidence": "就是化学上所谓原质的观念也不能成立。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e16",
+      "name": "研究物理学的人",
+      "canonical_name": "研究物理学的人",
+      "type": "阵营/群体",
+      "evidence": "研究物理学的人决计不敢如此武断。",
+      "confidence": 1.0
+    }
+  ],
+  "claims": [
+    {
+      "id": "c1",
+      "speaker": "丁文江",
+      "claim": "研究物理学的人决计不敢如此武断。",
+      "target": "研究物理学的人",
+      "claim_type": "描述性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "研究物理学的人决计不敢如此武断。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c2",
+      "speaker": "丁文江",
+      "claim": "物理学上的公例时常在那里变迁。",
+      "target": "物理学上的公例",
+      "claim_type": "描述性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "因为物理学上的公例时常在那里变迁。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c3",
+      "speaker": "丁文江",
+      "claim": "牛顿的原子光学论，到了十九世纪之初就被人推翻。",
+      "target": "牛顿的原子光学论",
+      "claim_type": "描述性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "他的原子光学论，到了十九世纪之初就被人推翻。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c4",
+      "speaker": "丁文江",
+      "claim": "他的“力”的观念，许多人早就觉得不很适用，所以才拿“能力”来替代他。",
+      "target": "“力”的观念",
+      "claim_type": "描述性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "他的“力”的观念，许多人早就觉得不很适用，所以才拿“能力”来替代他。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c5",
+      "speaker": "丁文江",
+      "claim": "皮尔逊同马哈都是不满意于“力”的观念的人。",
+      "target": "皮尔逊同马哈",
+      "claim_type": "描述性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "皮尔逊同马哈都是不满意于“力”的观念的人。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c6",
+      "speaker": "爱因斯坦",
+      "claim": "吸引的现象是空间的性质，无所谓力，用不着力的观念。",
+      "target": "吸引的现象",
+      "claim_type": "描述性主张",
+      "claim_status": "间接转述",
+      "polarity": "neutral",
+      "evidence": "因为爱因斯坦说，吸引的现象是空间的性质，无所谓力，用不着力的观念。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c7",
+      "speaker": "丁文江",
+      "claim": "空间自己是曲线的，所以凡在空间运行的物质都走曲线，牛顿所说的直线运行，是世界所没有的现象，用不着这种假设。",
+      "target": "空间",
+      "claim_type": "描述性主张",
+      "claim_status": "作者推论",
+      "polarity": "neutral",
+      "evidence": "空间自己是曲线的，所以凡在空间运行的物质都走曲线，牛顿所说的直线运行，是世界所没有的现象，用不着这种假设。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c8",
+      "speaker": "君劢",
+      "claim": "近年以来，则有爱因斯坦之说，虽其公例之适用范围有不同，然牛顿（即牛顿）公例之至今犹能适用，一切物理学家所公认者也。",
+      "target": "牛顿公例",
+      "claim_type": "描述性主张",
+      "claim_status": "直接引用",
+      "polarity": "positive",
+      "evidence": "君劢说，“近年以来，则有爱因斯坦之说，虽其公例之适用范围有不同，然牛顿（即牛顿）公例之至今犹能适用，一切物理学家所公认者也。”",
+      "confidence": 1.0
+    },
+    {
+      "id": "c9",
+      "speaker": "丁文江",
+      "claim": "读者只要看爱因斯坦的“相对论”，再拿牛顿的Principle来比较，就知道他这种话有无根据。",
+      "target": "君劢",
+      "claim_type": "评价性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "读者只要看爱因斯坦的“相对论”，再拿牛顿的Principle来比较，就知道他这种话有无根据。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c10",
+      "speaker": "君劢",
+      "claim": "物理上之概念，曰阿顿，曰原子，曰质量，曰能力。",
+      "target": "物理上之概念",
+      "claim_type": "定义性主张",
+      "claim_status": "直接引用",
+      "polarity": "neutral",
+      "evidence": "君劢说，“物理上之概念，曰阿顿，曰原子，曰质量，曰能力。”",
+      "confidence": 1.0
+    },
+    {
+      "id": "c11",
+      "speaker": "丁文江",
+      "claim": "似乎不知道“阿顿”就是原子的。",
+      "target": "君劢",
+      "claim_type": "评价性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "似乎不知道“阿顿”就是原子的。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c12",
+      "speaker": "丁文江",
+      "claim": "原子论是达尔登创造的，但是他所谓原子包括分子在内。",
+      "target": "原子论",
+      "claim_type": "描述性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "原子论是达尔登创造的，但是他所谓原子包括分子在内。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c13",
+      "speaker": "丁文江",
+      "claim": "于是学化学的人都认原子为物质最小的单位，不能再分而为二。",
+      "target": "学化学的人",
+      "claim_type": "描述性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "于是学化学的人都认原子为物质最小的单位，不能再分而为二。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c14",
+      "speaker": "丁文江",
+      "claim": "于是不但原子论要完全修正，就是化学上所谓原质的观念也不能成立。",
+      "target": "原子论",
+      "claim_type": "结论性主张",
+      "claim_status": "作者推论",
+      "polarity": "negative",
+      "evidence": "于是不但原子论要完全修正，就是化学上所谓原质的观念也不能成立。",
+      "confidence": 1.0
+    }
+  ],
+  "relations": [
+    {
+      "id": "r1",
+      "head": "皮尔逊同马哈",
+      "head_type": "人物",
+      "relation": "支持",
+      "relation_subtype": "不适用",
+      "tail": "不满意于“力”的观念",
+      "tail_type": "观点",
+      "polarity": "positive",
+      "stance_score": 0.0,
+      "intensity": 0.5,
+      "evidence": "皮尔逊同马哈都是不满意于“力”的观念的人。",
+      "confidence": 1.0
+    },
+    {
+      "id": "r2",
+      "head": "吸引的现象是空间的性质",
+      "head_type": "观点",
+      "relation": "解释",
+      "relation_subtype": "不适用",
+      "tail": "无所谓力，用不着力的观念",
+      "tail_type": "观点",
+      "polarity": "neutral",
+      "stance_score": 0.0,
+      "intensity": 0.5,
+      "evidence": "因为爱因斯坦说，吸引的现象是空间的性质，无所谓力，用不着力的观念。",
+      "confidence": 1.0
+    },
+    {
+      "id": "r3",
+      "head": "凡在空间运行的物质都走曲线",
+      "head_type": "观点",
+      "relation": "作为论据支持",
+      "relation_subtype": "不适用",
+      "tail": "牛顿所说的直线运行，是世界所没有的现象，用不着这种假设",
+      "tail_type": "观点",
+      "polarity": "negative",
+      "stance_score": -1.0,
+      "intensity": 0.8,
+      "evidence": "空间自己是曲线的，所以凡在空间运行的物质都走曲线，牛顿所说的直线运行，是世界所没有的现象，用不着这种假设。",
+      "confidence": 1.0
+    },
+    {
+      "id": "r4",
+      "head": "原子论",
+      "head_type": "主义/学说/理论",
+      "relation": "包含",
+      "relation_subtype": "不适用",
+      "tail": "分子",
+      "tail_type": "概念",
+      "polarity": "neutral",
+      "stance_score": 0.0,
+      "intensity": 0.5,
+      "evidence": "原子论是达尔登创造的，但是他所谓原子包括分子在内。",
+      "confidence": 1.0
+    },
+    {
+      "id": "r5",
+      "head": "学化学的人",
+      "head_type": "阵营/群体",
+      "relation": "主张",
+      "relation_subtype": "不适用",
+      "tail": "原子为物质最小的单位，不能再分而为二",
+      "tail_type": "观点",
+      "polarity": "neutral",
+      "stance_score": 0.0,
+      "intensity": 0.5,
+      "evidence": "于是学化学的人都认原子为物质最小的单位，不能再分而为二。",
+      "confidence": 1.0
+    }
+  ],
+  "definitions": [
+    {
+      "id": "def1",
+      "term": "阿顿",
+      "definition": "阿顿就是原子。",
+      "evidence": "似乎不知道“阿顿”就是原子的。",
+      "confidence": 1.0
+    },
+    {
+      "id": "def2",
+      "term": "原子论",
+      "definition": "原子论是达尔登创造的，他所谓原子包括分子在内。",
+      "evidence": "原子论是达尔登创造的，但是他所谓原子包括分子在内。",
+      "confidence": 1.0
+    },
+    {
+      "id": "def3",
+      "term": "原子",
+      "definition": "学化学的人都认原子为物质最小的单位，不能再分而为二。",
+      "evidence": "于是学化学的人都认原子为物质最小的单位，不能再分而为二。",
+      "confidence": 1.0
+    }
+  ],
+  "citations": [
+    {
+      "id": "cit1",
+      "citer": "丁文江",
+      "quoted_author": "君劢",
+      "quoted_work": "",
+      "quoted_claim": "近年以来，则有爱因斯坦之说，虽其公例之适用范围有不同，然牛顿（即牛顿）公例之至今犹能适用，一切物理学家所公认者也。",
+      "function": "作为批评对象",
+      "evidence": "君劢说，“近年以来，则有爱因斯坦之说，虽其公例之适用范围有不同，然牛顿（即牛顿）公例之至今犹能适用，一切物理学家所公认者也。”",
+      "confidence": 1.0
+    },
+    {
+      "id": "cit2",
+      "citer": "丁文江",
+      "quoted_author": "君劢",
+      "quoted_work": "",
+      "quoted_claim": "物理上之概念，曰阿顿，曰原子，曰质量，曰能力。",
+      "function": "作为批评对象",
+      "evidence": "君劢说，“物理上之概念，曰阿顿，曰原子，曰质量，曰能力。”",
+      "confidence": 1.0
+    },
+    {
+      "id": "cit3",
+      "citer": "丁文江",
+      "quoted_author": "爱因斯坦",
+      "quoted_work": "",
+      "quoted_claim": "吸引的现象是空间的性质，无所谓力，用不着力的观念。",
+      "function": "援引权威支持",
+      "evidence": "因为爱因斯坦说，吸引的现象是空间的性质，无所谓力，用不着力的观念。",
+      "confidence": 1.0
+    }
+  ],
+  "rhetorical_devices": [
+    {
+      "id": "rh1",
+      "expression": "有上八洞下八洞的分别",
+      "device_type": "类比",
+      "literal_target": "研究物理学的人决计不敢如此武断",
+      "function": "通过类比说明研究物理学的人不会武断，暗示君劢的武断",
+      "evidence": "有上八洞下八洞的分别。研究物理学的人决计不敢如此武断。",
+      "confidence": 0.8
+    }
+  ],
+  "uncertainties": [
+    {
+      "item": "“有上八洞下八洞的分别”的具体含义",
+      "reason": "文本中未解释“上八洞下八洞”的具体所指，可能是一个比喻或俗语，但无法从当前文本确定其确切含义。"
+    }
+  ],
+  "_meta": {
+    "status": "success",
+    "stage": "extract",
+    "model": "deepseek-ai/DeepSeek-V4-Flash",
+    "base_url": "https://api.siliconflow.cn/v1",
+    "prompt_version": "v2.0",
+    "schema_version": "lite_v3.0",
+    "segment_id": "丁文江2_000_e838922e_s0009",
+    "article_id": "丁文江2_000_e838922e",
+    "char_start": 4463,
+    "char_end": 5039,
+    "raw_path": "E:\\1研究生\\岭南大学\\论文毕业\\capstone\\资料\\新的内容开始了\\local_upload\\kg_runs_v2\\丁文江_等3篇\\raw_outputs\\extract\\丁文江2_000_e838922e_s0009.txt",
+    "parsed_at": "2026-05-21T21:59:09",
+    "started_at": "2026-05-21T21:55:13",
+    "elapsed_seconds": 236.425,
+    "strict_evidence_check": true,
+    "drop_unsupported_evidence": true,
+    "request_timeout_seconds": 180
+  }
+}

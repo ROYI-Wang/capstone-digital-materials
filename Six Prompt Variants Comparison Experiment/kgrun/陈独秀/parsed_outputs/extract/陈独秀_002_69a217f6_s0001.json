@@ -1,0 +1,343 @@
+{
+  "metadata": {
+    "schema_version": "lite_v2.0",
+    "article_id": "陈独秀_002_69a217f6",
+    "article_title": "答张君劢及梁任公",
+    "source_author": "陈独秀",
+    "section_title": "",
+    "section_author": "",
+    "segment_id": "陈独秀_002_69a217f6_s0001",
+    "segment_index": 1,
+    "source_file": "E:\\1研究生\\岭南大学\\论文毕业\\capstone\\资料\\新的内容开始了\\local_upload\\input_w2\\陈独秀.txt"
+  },
+  "entities": [
+    {
+      "id": "e1",
+      "name": "六壬卜算大家",
+      "canonical_name": "六壬卜算大家",
+      "type": "阵营/群体",
+      "evidence": "此事只有请问六壬卜算大家，社会科学无此神通。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e2",
+      "name": "社会科学",
+      "canonical_name": "社会科学",
+      "type": "概念",
+      "evidence": "社会科学无此神通。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e3",
+      "name": "马克思科学的社会主义",
+      "canonical_name": "马克思科学的社会主义",
+      "type": "主义/学说/理论",
+      "evidence": "马克思科学的社会主义，预料资本主义必由发达而崩坏，崩坏后继之者必为社会主义，此乃就人类社会历史的进化一般趋向而言；",
+      "confidence": 0.95
+    },
+    {
+      "id": "e4",
+      "name": "资本主义",
+      "canonical_name": "资本主义",
+      "type": "概念",
+      "evidence": "资本主义必由发达而崩坏",
+      "confidence": 0.9
+    },
+    {
+      "id": "e5",
+      "name": "社会主义",
+      "canonical_name": "社会主义",
+      "type": "概念",
+      "evidence": "崩坏后继之者必为社会主义",
+      "confidence": 0.9
+    },
+    {
+      "id": "e6",
+      "name": "人类社会历史",
+      "canonical_name": "人类社会历史",
+      "type": "概念",
+      "evidence": "此乃就人类社会历史的进化一般趋向而言",
+      "confidence": 0.85
+    },
+    {
+      "id": "e7",
+      "name": "俄国劳农革命",
+      "canonical_name": "俄国劳农革命",
+      "type": "历史事件",
+      "evidence": "俄国劳农革命何以先于英德",
+      "confidence": 0.95
+    },
+    {
+      "id": "e8",
+      "name": "英德劳农革命",
+      "canonical_name": "英德劳农革命",
+      "type": "历史事件",
+      "evidence": "将来英德劳农革命后",
+      "confidence": 0.9
+    },
+    {
+      "id": "e9",
+      "name": "法兰西资本主义",
+      "canonical_name": "法兰西资本主义",
+      "type": "概念",
+      "evidence": "法兰西资本主义之成熟，自始至今都远不及英国",
+      "confidence": 0.85
+    },
+    {
+      "id": "e10",
+      "name": "巴黎共产党之暴动",
+      "canonical_name": "巴黎共产党之暴动",
+      "type": "历史事件",
+      "evidence": "而巴黎共产党之暴动，还远在俄国劳农革命之前",
+      "confidence": 0.9
+    },
+    {
+      "id": "e11",
+      "name": "马克思",
+      "canonical_name": "马克思",
+      "type": "人物",
+      "evidence": "马克思亲见之",
+      "confidence": 0.95
+    },
+    {
+      "id": "e12",
+      "name": "张君劢",
+      "canonical_name": "张君劢",
+      "type": "人物",
+      "evidence": "原不待张君劢先生今天来驳难了",
+      "confidence": 0.95
+    },
+    {
+      "id": "e13",
+      "name": "人类社会因果关系",
+      "canonical_name": "人类社会因果关系",
+      "type": "概念",
+      "evidence": "人类社会因果关系非常复杂",
+      "confidence": 0.85
+    },
+    {
+      "id": "e14",
+      "name": "社会现象",
+      "canonical_name": "社会现象",
+      "type": "概念",
+      "evidence": "所以社会现象也非常复杂",
+      "confidence": 0.85
+    },
+    {
+      "id": "e15",
+      "name": "科学的社会主义",
+      "canonical_name": "科学的社会主义",
+      "type": "主义/学说/理论",
+      "evidence": "社会科学，马克思科学的社会主义，决不像张君劢先生所称引的那样简单",
+      "confidence": 0.9
+    },
+    {
+      "id": "e16",
+      "name": "私有财产之废",
+      "canonical_name": "私有财产之废",
+      "type": "概念",
+      "evidence": "私有财产之废不及二年",
+      "confidence": 0.85
+    },
+    {
+      "id": "e17",
+      "name": "私人买卖",
+      "canonical_name": "私人买卖",
+      "type": "概念",
+      "evidence": "而已许私人买卖私人土地所有权",
+      "confidence": 0.8
+    },
+    {
+      "id": "e18",
+      "name": "私人土地所有权",
+      "canonical_name": "私人土地所有权",
+      "type": "概念",
+      "evidence": "而已许私人买卖私人土地所有权",
+      "confidence": 0.85
+    },
+    {
+      "id": "e19",
+      "name": "外国银行",
+      "canonical_name": "外国银行",
+      "type": "概念",
+      "evidence": "且大招致外国银行与外国资本家",
+      "confidence": 0.85
+    },
+    {
+      "id": "e20",
+      "name": "外国资本家",
+      "canonical_name": "外国资本家",
+      "type": "概念",
+      "evidence": "且大招致外国银行与外国资本家",
+      "confidence": 0.85
+    },
+    {
+      "id": "e21",
+      "name": "科学的社会主义全书",
+      "canonical_name": "科学的社会主义全书",
+      "type": "著作",
+      "evidence": "又遵科学的社会主义全书中何种公例乎？",
+      "confidence": 0.9
+    }
+  ],
+  "claims": [
+    {
+      "id": "c1",
+      "speaker": "陈独秀",
+      "claim": "此事只有请问六壬卜算大家，社会科学无此神通。",
+      "target": "社会科学",
+      "claim_type": "知识论主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "此事只有请问六壬卜算大家，社会科学无此神通。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c2",
+      "speaker": "陈独秀",
+      "claim": "马克思科学的社会主义，预料资本主义必由发达而崩坏，崩坏后继之者必为社会主义，此乃就人类社会历史的进化一般趋向而言。",
+      "target": "马克思科学的社会主义",
+      "claim_type": "定义性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "马克思科学的社会主义，预料资本主义必由发达而崩坏，崩坏后继之者必为社会主义，此乃就人类社会历史的进化一般趋向而言；",
+      "confidence": 0.95
+    },
+    {
+      "id": "c3",
+      "speaker": "陈独秀",
+      "claim": "至于资本主义之崩坏与夫社会主义之现实，果在何国开始及完成，又另有其特殊的因果关系。",
+      "target": "资本主义之崩坏与夫社会主义之现实",
+      "claim_type": "知识论主张",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "至于资本主义之崩坏与夫社会主义之现实，果在何国开始及完成，又另有其特殊的因果关系；",
+      "confidence": 0.9
+    },
+    {
+      "id": "c4",
+      "speaker": "陈独秀",
+      "claim": "在特殊的地域内，倘有特殊的社会现象之因，亦可推见其特殊的社会现象之果（其特定的时空及个人关系，仍非社会科学之事）。",
+      "target": "社会科学",
+      "claim_type": "知识论主张",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "固然，在特殊的地域内，倘有特殊的社会现象之因，亦可推见其特殊的社会现象之果（其特定的时空及个人关系，仍非社会科学之事）。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c5",
+      "speaker": "陈独秀",
+      "claim": "俄国劳农革命何以先于英德，将来英德劳农革命后，其社会主义实现之日程，必速于今日之俄，这是因为他们资本主义发展之进程各有特殊的原因（例如俄国资本不及英德，而集中速度则过之），和马克思所指全人类社会历史进化的过程，是两件事。",
+      "target": "俄国劳农革命",
+      "claim_type": "历史解释",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "俄国劳农革命何以先于英德，将来英德劳农革命后，其社会主义实现之日程，必速于今日之俄，这是因为他们资本主义发展之进程各有特殊的原因（例如俄国资本不及英德，而集中速度则过之），和马克思所指全人类社会历史进化的过程，是两件事。",
+      "confidence": 0.95
+    },
+    {
+      "id": "c6",
+      "speaker": "陈独秀",
+      "claim": "法兰西资本主义之成熟，自始至今都远不及英国，而巴黎共产党之暴动，还远在俄国劳农革命之前，马克思亲见之，原不待张君劢先生今天来驳难了。",
+      "target": "张君劢",
+      "claim_type": "反驳性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "法兰西资本主义之成熟，自始至今都远不及英国，而巴黎共产党之暴动，还远在俄国劳农革命之前，马克思亲见之，原不待张君劢先生今天来驳难了。",
+      "confidence": 0.95
+    },
+    {
+      "id": "c7",
+      "speaker": "陈独秀",
+      "claim": "人类社会因果关系非常复杂，所以社会现象也非常复杂，因此，社会科学，马克思科学的社会主义，决不像张君劢先生所称引的那样简单，并且一定还不像我们今天所知道的这样简单。",
+      "target": "张君劢",
+      "claim_type": "结论性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "人类社会因果关系非常复杂，所以社会现象也非常复杂，因此，社会科学，马克思科学的社会主义，决不像张君劢先生所称引的那样简单，并且一定还不像我们今天所知道的这样简单。",
+      "confidence": 0.95
+    }
+  ],
+  "relations": [
+    {
+      "id": "r1",
+      "head": "陈独秀",
+      "head_type": "人物",
+      "relation": "反驳",
+      "tail": "张君劢",
+      "tail_type": "人物",
+      "polarity": "negative",
+      "evidence": "法兰西资本主义之成熟，自始至今都远不及英国，而巴黎共产党之暴动，还远在俄国劳农革命之前，马克思亲见之，原不待张君劢先生今天来驳难了。",
+      "confidence": 0.95
+    },
+    {
+      "id": "r2",
+      "head": "陈独秀",
+      "head_type": "人物",
+      "relation": "批评",
+      "tail": "张君劢",
+      "tail_type": "人物",
+      "polarity": "negative",
+      "evidence": "社会科学，马克思科学的社会主义，决不像张君劢先生所称引的那样简单",
+      "confidence": 0.9
+    },
+    {
+      "id": "r3",
+      "head": "人类社会因果关系",
+      "head_type": "概念",
+      "relation": "导致",
+      "tail": "社会现象",
+      "tail_type": "概念",
+      "polarity": "neutral",
+      "evidence": "人类社会因果关系非常复杂，所以社会现象也非常复杂",
+      "confidence": 0.9
+    }
+  ],
+  "definitions": [
+    {
+      "id": "def1",
+      "term": "马克思科学的社会主义",
+      "definition": "预料资本主义必由发达而崩坏，崩坏后继之者必为社会主义，此乃就人类社会历史的进化一般趋向而言。",
+      "evidence": "马克思科学的社会主义，预料资本主义必由发达而崩坏，崩坏后继之者必为社会主义，此乃就人类社会历史的进化一般趋向而言；",
+      "confidence": 0.95
+    }
+  ],
+  "citations": [],
+  "rhetorical_devices": [
+    {
+      "id": "rh1",
+      "expression": "翻云覆雨之局",
+      "device_type": "比喻",
+      "literal_target": "俄国在私有财产制度上的政策变化",
+      "function": "讽刺张君劢对俄国政策变化的描述，暗示其变化无常",
+      "evidence": "不知此等翻云覆雨之局，又遵科学的社会主义全书中何种公例乎？",
+      "confidence": 0.9
+    }
+  ],
+  "uncertainties": [
+    {
+      "item": "“此事”具体指代什么",
+      "reason": "文本开头为“，此事只有请问六壬卜算大家”，缺少前文，无法确定“此事”的具体内容。"
+    }
+  ],
+  "_meta": {
+    "status": "success",
+    "stage": "extract",
+    "model": "deepseek-ai/DeepSeek-V4-Flash",
+    "base_url": "https://api.siliconflow.cn/v1",
+    "prompt_version": "extract_prompt_v2.0",
+    "schema_version": "lite_v2.0",
+    "segment_id": "陈独秀_002_69a217f6_s0001",
+    "article_id": "陈独秀_002_69a217f6",
+    "char_start": 518,
+    "char_end": 1085,
+    "raw_path": "E:\\1研究生\\岭南大学\\论文毕业\\capstone\\资料\\新的内容开始了\\local_upload\\kg_runs\\陈独秀\\raw_outputs\\extract\\陈独秀_002_69a217f6_s0001.txt",
+    "parsed_at": "2026-05-20T02:47:17",
+    "started_at": "2026-05-20T02:45:52",
+    "elapsed_seconds": 84.649,
+    "strict_evidence_check": true,
+    "drop_unsupported_evidence": true,
+    "request_timeout_seconds": 180
+  }
+}

@@ -1,0 +1,198 @@
+{
+  "metadata": {
+    "schema_version": "lite_v2.0",
+    "article_id": "丁文江2_000_e838922e",
+    "article_title": "玄学与科学——答张君劢",
+    "source_author": "丁文江",
+    "section_title": "",
+    "section_author": "",
+    "segment_id": "丁文江2_000_e838922e_s0006",
+    "segment_index": 6,
+    "source_file": "E:\\1研究生\\岭南大学\\论文毕业\\capstone\\资料\\新的内容开始了\\local_upload\\input_texts\\丁文江2.txt"
+  },
+  "entities": [
+    {
+      "id": "e1",
+      "name": "君劢",
+      "canonical_name": "张君劢",
+      "type": "人物",
+      "evidence": "君劢做上篇时候的现在，已经不是他做下篇时候的现在",
+      "confidence": 1.0
+    },
+    {
+      "id": "e2",
+      "name": "现在",
+      "canonical_name": "现在",
+      "type": "概念",
+      "evidence": "过去，现在，将来三种时间中最不可靠，最不可捉摸的是现在",
+      "confidence": 1.0
+    },
+    {
+      "id": "e3",
+      "name": "过去",
+      "canonical_name": "过去",
+      "type": "概念",
+      "evidence": "过去，现在，将来三种时间中最不可靠，最不可捉摸的是现在",
+      "confidence": 1.0
+    },
+    {
+      "id": "e4",
+      "name": "将来",
+      "canonical_name": "将来",
+      "type": "概念",
+      "evidence": "过去，现在，将来三种时间中最不可靠，最不可捉摸的是现在",
+      "confidence": 1.0
+    },
+    {
+      "id": "e5",
+      "name": "三岁的小孩子",
+      "canonical_name": "三岁的小孩子",
+      "type": "例证",
+      "evidence": "假如我说三岁的小孩子现在不会说话，将来也不会说话",
+      "confidence": 1.0
+    },
+    {
+      "id": "e6",
+      "name": "人类的进化史",
+      "canonical_name": "人类的进化史",
+      "type": "概念",
+      "evidence": "因为人类的进化史同小孩子的发育史是一样的性质",
+      "confidence": 1.0
+    },
+    {
+      "id": "e7",
+      "name": "小孩子的发育史",
+      "canonical_name": "小孩子的发育史",
+      "type": "概念",
+      "evidence": "因为人类的进化史同小孩子的发育史是一样的性质",
+      "confidence": 1.0
+    }
+  ],
+  "claims": [
+    {
+      "id": "c1",
+      "speaker": "丁文江",
+      "claim": "过去，现在，将来三种时间中最不可靠，最不可捉摸的是现在",
+      "target": "现在",
+      "claim_type": "知识论主张",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "过去，现在，将来三种时间中最不可靠，最不可捉摸的是现在",
+      "confidence": 1.0
+    },
+    {
+      "id": "c2",
+      "speaker": "丁文江",
+      "claim": "讨论现在，没有不讲到过去同将来的",
+      "target": "现在",
+      "claim_type": "方法论主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "所以讨论现在，没有不讲到过去同将来的",
+      "confidence": 1.0
+    },
+    {
+      "id": "c3",
+      "speaker": "丁文江",
+      "claim": "人类的进化史同小孩子的发育史是一样的性质",
+      "target": "人类的进化史",
+      "claim_type": "知识论主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "因为人类的进化史同小孩子的发育史是一样的性质",
+      "confidence": 1.0
+    }
+  ],
+  "relations": [
+    {
+      "id": "r1",
+      "head": "现在",
+      "head_type": "概念",
+      "relation": "属于",
+      "relation_subtype": "不适用",
+      "tail": "时间",
+      "tail_type": "概念",
+      "polarity": "neutral",
+      "evidence": "过去，现在，将来三种时间中最不可靠，最不可捉摸的是现在",
+      "confidence": 1.0
+    },
+    {
+      "id": "r2",
+      "head": "讨论现在",
+      "head_type": "方法论原则",
+      "relation": "导致",
+      "relation_subtype": "不适用",
+      "tail": "讲到过去同将来",
+      "tail_type": "方法论原则",
+      "polarity": "positive",
+      "evidence": "所以讨论现在，没有不讲到过去同将来的",
+      "confidence": 1.0
+    },
+    {
+      "id": "r3",
+      "head": "人类的进化史",
+      "head_type": "概念",
+      "relation": "类比",
+      "relation_subtype": "不适用",
+      "tail": "小孩子的发育史",
+      "tail_type": "概念",
+      "polarity": "positive",
+      "evidence": "因为人类的进化史同小孩子的发育史是一样的性质",
+      "confidence": 1.0
+    }
+  ],
+  "definitions": [
+    {
+      "id": "def1",
+      "term": "现在",
+      "definition": "过去、现在、将来三种时间中最不可靠、最不可捉摸的时间",
+      "evidence": "过去，现在，将来三种时间中最不可靠，最不可捉摸的是现在",
+      "confidence": 1.0
+    }
+  ],
+  "citations": [],
+  "rhetorical_devices": [
+    {
+      "id": "rh1",
+      "expression": "疯子",
+      "device_type": "标签化",
+      "literal_target": "说三岁小孩子现在不会说话将来也不会说话的人",
+      "function": "通过假设情境引出对方可能使用的标签，以论证自己的观点",
+      "evidence": "假如我说三岁的小孩子现在不会说话，将来也不会说话，君劢岂不要说我是“疯子”或是“伪为不知”？",
+      "confidence": 1.0
+    },
+    {
+      "id": "rh2",
+      "expression": "伪为不知",
+      "device_type": "标签化",
+      "literal_target": "假装不知道的人",
+      "function": "通过假设情境引出对方可能使用的标签，以论证自己的观点",
+      "evidence": "假如我说三岁的小孩子现在不会说话，将来也不会说话，君劢岂不要说我是“疯子”或是“伪为不知”？",
+      "confidence": 1.0
+    },
+    {
+      "id": "rh3",
+      "expression": "嫚骂",
+      "device_type": "标签化",
+      "literal_target": "说十年后张君劢的学问、事业、幸福同现在一样的人",
+      "function": "通过假设情境引出对方可能使用的标签，以论证自己的观点",
+      "evidence": "假如我说十年后张君劢的学问，事业，幸福，同现在的君劢一样，他岂不要说我是“嫚骂”？",
+      "confidence": 1.0
+    },
+    {
+      "id": "rh4",
+      "expression": "自杀",
+      "device_type": "夸张",
+      "literal_target": "作者自己",
+      "function": "通过夸张表达对‘将来的中国永远同现在一样’这一假设的强烈否定",
+      "evidence": "假如君劢对我说，将来的中国永远同现在一样——政府避债，国会卖身，部员索薪，军警闹饷，军阀括钱，土匪绑票——我岂不要自杀？",
+      "confidence": 1.0
+    }
+  ],
+  "uncertainties": [
+    {
+      "item": "甲，决不肯这样的老实，决不致于“瞠目咋舌，不知所对”",
+      "reason": "文本开头‘甲’指代不明，无法确定具体人物或阵营，且‘瞠目咋舌，不知所对’可能引用前文或对方说法，但当前文本未提供上下文"
+    }
+  ]
+}

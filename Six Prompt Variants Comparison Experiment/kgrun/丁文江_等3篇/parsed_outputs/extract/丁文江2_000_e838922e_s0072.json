@@ -1,0 +1,287 @@
+{
+  "metadata": {
+    "schema_version": "lite_v2.0",
+    "article_id": "丁文江2_000_e838922e",
+    "article_title": "玄学与科学——答张君劢",
+    "source_author": "丁文江",
+    "section_title": "",
+    "section_author": "",
+    "segment_id": "丁文江2_000_e838922e_s0072",
+    "segment_index": 72,
+    "source_file": "E:\\1研究生\\岭南大学\\论文毕业\\capstone\\资料\\新的内容开始了\\local_upload\\input_texts\\丁文江2.txt"
+  },
+  "entities": [
+    {
+      "id": "e1",
+      "name": "玄学鬼",
+      "canonical_name": "玄学鬼",
+      "type": "Metaphor",
+      "evidence": "玄学鬼看见科学要打他",
+      "confidence": 0.9
+    },
+    {
+      "id": "e2",
+      "name": "科学",
+      "canonical_name": "科学",
+      "type": "Concept",
+      "evidence": "科学要打他",
+      "confidence": 0.9
+    },
+    {
+      "id": "e3",
+      "name": "杜里舒",
+      "canonical_name": "杜里舒",
+      "type": "Person",
+      "evidence": "先找到了在北京的杜里舒",
+      "confidence": 0.9
+    },
+    {
+      "id": "e4",
+      "name": "欧立克",
+      "canonical_name": "欧立克",
+      "type": "Person",
+      "evidence": "请了玄宗的恶鬼欧立克来演他的法术",
+      "confidence": 0.9
+    },
+    {
+      "id": "e5",
+      "name": "韦尔士",
+      "canonical_name": "韦尔士",
+      "type": "Person",
+      "evidence": "硬把科学小说家韦尔士求了出来给他挡一阵",
+      "confidence": 0.9
+    },
+    {
+      "id": "e6",
+      "name": "科学宫",
+      "canonical_name": "科学宫",
+      "type": "Metaphor",
+      "evidence": "你不如到科学宫里去看看",
+      "confidence": 0.9
+    },
+    {
+      "id": "e7",
+      "name": "托姆生",
+      "canonical_name": "托姆生",
+      "type": "Person",
+      "evidence": "他认得是科学宫的门斗托姆生",
+      "confidence": 0.9
+    },
+    {
+      "id": "e8",
+      "name": "《科学引论》",
+      "canonical_name": "《科学引论》",
+      "type": "Book",
+      "evidence": "原来是一本《科学引论》",
+      "confidence": 0.9
+    }
+  ],
+  "claims": [
+    {
+      "id": "c1",
+      "speaker": "丁文江",
+      "claim": "玄学鬼看见科学要打他，连忙的去找了几篇文章来当经咒念，做护身符。",
+      "target": "玄学鬼",
+      "claim_type": "论战策略批评",
+      "claim_status": "作者讽刺性归纳",
+      "polarity": "negative",
+      "evidence": "玄学鬼看见科学要打他，连忙的去找了几篇文章来当经咒念，做护身符。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c2",
+      "speaker": "丁文江",
+      "claim": "玄学鬼先找到了在北京的杜里舒，教了他一大段的经；再飞回伦敦，请了玄宗的恶鬼欧立克来演他的法术。",
+      "target": "玄学鬼",
+      "claim_type": "论战策略批评",
+      "claim_status": "作者讽刺性归纳",
+      "polarity": "negative",
+      "evidence": "先找到了在北京的杜里舒，教了他一大段的经；再飞回伦敦，请了玄宗的恶鬼欧立克来演他的法术。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c3",
+      "speaker": "丁文江",
+      "claim": "玄学鬼硬把科学小说家韦尔士求了出来给他挡一阵。",
+      "target": "玄学鬼",
+      "claim_type": "论战策略批评",
+      "claim_status": "作者讽刺性归纳",
+      "polarity": "negative",
+      "evidence": "硬把科学小说家韦尔士求了出来给他挡一阵。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c4",
+      "speaker": "韦尔士",
+      "claim": "我不是真的科学家，恐怕不中用。你不如到科学宫里去看看。",
+      "target": "玄学鬼",
+      "claim_type": "不明",
+      "claim_status": "直接引用",
+      "polarity": "neutral",
+      "evidence": "韦氏骗他道，“我不是真的科学家，恐怕不中用。你不如到科学宫里去看看。”",
+      "confidence": 0.9
+    },
+    {
+      "id": "c5",
+      "speaker": "丁文江",
+      "claim": "玄学鬼没奈何只得向科学宫走去。走不了许多时，就看见一座很大的宫殿，光芒万丈，紫气千条，门前有三个大金字“科学宫”。",
+      "target": "玄学鬼",
+      "claim_type": "论战策略批评",
+      "claim_status": "作者讽刺性归纳",
+      "polarity": "negative",
+      "evidence": "玄学鬼没奈何只得向科学宫走去。走不了许多时，就看见一座很大的宫殿，光芒万丈，紫气千条，门前有三个大金字“科学宫”。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c6",
+      "speaker": "丁文江",
+      "claim": "玄学鬼在宫殿的左右前后，踱来踱去，不得其门而入。忽然看见照壁墙下，站着一个老头子，在那里宣讲圣谕。他认得是科学宫的门斗托姆生。连忙上前把他手里的书抢了过来一看，原来是一本《科学引论》。",
+      "target": "玄学鬼",
+      "claim_type": "论战策略批评",
+      "claim_status": "作者讽刺性归纳",
+      "polarity": "negative",
+      "evidence": "他在宫殿的左右前后，踱来踱去，不得其门而入。忽然看见照壁墙下，站着一个老头子，在那里宣讲圣谕。他认得是科学宫的门斗托姆生。连忙上前把他手里的书抢了过来一看，原来是一本《科学引论》。",
+      "confidence": 0.9
+    }
+  ],
+  "relations": [
+    {
+      "id": "r1",
+      "head": "玄学鬼",
+      "head_type": "Metaphor",
+      "relation": "CRITICIZES",
+      "tail": "科学",
+      "tail_type": "Concept",
+      "polarity": "negative",
+      "evidence": "玄学鬼看见科学要打他",
+      "confidence": 0.9
+    },
+    {
+      "id": "r2",
+      "head": "玄学鬼",
+      "head_type": "Metaphor",
+      "relation": "ATTRIBUTES_TO",
+      "tail": "科学宫",
+      "tail_type": "Metaphor",
+      "polarity": "negative",
+      "evidence": "玄学鬼没奈何只得向科学宫走去",
+      "confidence": 0.9
+    }
+  ],
+  "definitions": [],
+  "citations": [
+    {
+      "id": "cit1",
+      "citer": "丁文江",
+      "quoted_author": "韦尔士",
+      "quoted_work": "",
+      "quoted_claim": "我不是真的科学家，恐怕不中用。你不如到科学宫里去看看。",
+      "function": "作为批评对象",
+      "evidence": "韦氏骗他道，“我不是真的科学家，恐怕不中用。你不如到科学宫里去看看。”",
+      "confidence": 0.9
+    }
+  ],
+  "rhetorical_devices": [
+    {
+      "id": "rh1",
+      "expression": "玄学鬼",
+      "device_type": "标签化",
+      "literal_target": "玄学家",
+      "function": "贬低对手，将玄学家妖魔化",
+      "evidence": "玄学鬼看见科学要打他",
+      "confidence": 0.9
+    },
+    {
+      "id": "rh2",
+      "expression": "玄学鬼看见科学要打他，连忙的去找了几篇文章来当经咒念，做护身符。",
+      "device_type": "比喻",
+      "literal_target": "玄学家寻找理论依据来对抗科学",
+      "function": "讽刺玄学家把文章当作迷信的经咒，暗示其行为荒谬",
+      "evidence": "玄学鬼看见科学要打他，连忙的去找了几篇文章来当经咒念，做护身符。",
+      "confidence": 0.9
+    },
+    {
+      "id": "rh3",
+      "expression": "玄宗的恶鬼",
+      "device_type": "标签化",
+      "literal_target": "欧立克",
+      "function": "进一步妖魔化欧立克，将其与玄学鬼同列",
+      "evidence": "请了玄宗的恶鬼欧立克来演他的法术",
+      "confidence": 0.9
+    },
+    {
+      "id": "rh4",
+      "expression": "以毒攻毒的恶计",
+      "device_type": "比喻",
+      "literal_target": "玄学家利用科学小说家来对抗科学",
+      "function": "讽刺玄学家策略的卑劣和荒谬",
+      "evidence": "忽然想起以毒攻毒的恶计，硬把科学小说家韦尔士求了出来给他挡一阵",
+      "confidence": 0.9
+    },
+    {
+      "id": "rh5",
+      "expression": "科学宫",
+      "device_type": "比喻",
+      "literal_target": "科学领域或科学殿堂",
+      "function": "将科学比喻为宏伟的宫殿，突出其崇高和难以进入",
+      "evidence": "就看见一座很大的宫殿，光芒万丈，紫气千条，门前有三个大金字“科学宫”",
+      "confidence": 0.9
+    },
+    {
+      "id": "rh6",
+      "expression": "门斗",
+      "device_type": "比喻",
+      "literal_target": "托姆生",
+      "function": "将托姆生比喻为科学宫的看门人，暗示其地位低微",
+      "evidence": "他认得是科学宫的门斗托姆生",
+      "confidence": 0.9
+    },
+    {
+      "id": "rh7",
+      "expression": "宣讲圣谕",
+      "device_type": "比喻",
+      "literal_target": "托姆生讲解科学",
+      "function": "讽刺托姆生讲解科学的方式如同封建时代的圣谕宣讲，暗示其教条",
+      "evidence": "忽然看见照壁墙下，站着一个老头子，在那里宣讲圣谕",
+      "confidence": 0.9
+    },
+    {
+      "id": "rh8",
+      "expression": "抢了过来",
+      "device_type": "比喻",
+      "literal_target": "玄学家粗暴地获取科学著作",
+      "function": "讽刺玄学家对科学著作的粗暴态度",
+      "evidence": "连忙上前把他手里的书抢了过来一看，原来是一本《科学引论》",
+      "confidence": 0.9
+    }
+  ],
+  "uncertainties": [
+    {
+      "item": "杜里舒、欧立克、韦尔士、托姆生是否为真实历史人物，以及《科学引论》是否为真实著作",
+      "reason": "当前文本仅以讽刺故事形式提及，未提供任何背景信息，无法确认其真实性"
+    },
+    {
+      "item": "“玄宗的恶鬼”中“玄宗”的具体含义",
+      "reason": "当前文本未解释“玄宗”指代什么，可能指玄学宗派或玄学传统"
+    }
+  ],
+  "_meta": {
+    "status": "success",
+    "stage": "extract",
+    "model": "deepseek-ai/DeepSeek-V4-Flash",
+    "base_url": "https://api.siliconflow.cn/v1",
+    "prompt_version": "extract_prompt_v2.0",
+    "schema_version": "lite_v2.0",
+    "segment_id": "丁文江2_000_e838922e_s0072",
+    "article_id": "丁文江2_000_e838922e",
+    "char_start": 18092,
+    "char_end": 18427,
+    "raw_path": "E:\\1研究生\\岭南大学\\论文毕业\\capstone\\资料\\新的内容开始了\\local_upload\\kg_runs\\丁文江_等3篇\\raw_outputs\\extract\\丁文江2_000_e838922e_s0072.txt",
+    "parsed_at": "2026-05-19T05:05:53",
+    "started_at": "2026-05-19T05:04:40",
+    "elapsed_seconds": 73.011,
+    "strict_evidence_check": true,
+    "drop_unsupported_evidence": true,
+    "request_timeout_seconds": 180
+  }
+}

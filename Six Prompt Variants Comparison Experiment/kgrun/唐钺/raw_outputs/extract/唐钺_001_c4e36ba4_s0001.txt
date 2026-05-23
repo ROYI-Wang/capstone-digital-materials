@@ -1,0 +1,390 @@
+{
+  "metadata": {
+    "schema_version": "lite_v2.0",
+    "article_id": "唐钺_001_c4e36ba4",
+    "article_title": "“玄学与科学”论争的所给的暗示",
+    "source_author": "唐钺",
+    "section_title": "",
+    "section_author": "",
+    "segment_id": "唐钺_001_c4e36ba4_s0001",
+    "segment_index": 1,
+    "source_file": "E:\\1研究生\\岭南大学\\论文毕业\\capstone\\资料\\新的内容开始了\\local_upload\\input_w1\\唐钺.txt"
+  },
+  "entities": [
+    {
+      "id": "e1",
+      "name": "唐钺",
+      "canonical_name": "唐钺",
+      "type": "人物",
+      "evidence": "经农（饶恕我自己也提起私人的事体，但是，后不为例）把他的诘问君劢那篇文给我看的时候",
+      "confidence": 0.9
+    },
+    {
+      "id": "e2",
+      "name": "张东荪",
+      "canonical_name": "张东荪",
+      "type": "人物",
+      "evidence": "至于张东荪先生却提起双方人数多寡的问题",
+      "confidence": 1.0
+    },
+    {
+      "id": "e3",
+      "name": "君劢",
+      "canonical_name": "张君劢",
+      "type": "人物",
+      "evidence": "看见《努力》上许多文章驳君劢",
+      "confidence": 1.0
+    },
+    {
+      "id": "e4",
+      "name": "在君",
+      "canonical_name": "丁文江",
+      "type": "人物",
+      "evidence": "看见《努力》上许多文章驳君劢，而没有驳在君的",
+      "confidence": 1.0
+    },
+    {
+      "id": "e5",
+      "name": "经农",
+      "canonical_name": "经农",
+      "type": "人物",
+      "evidence": "经农（饶恕我自己也提起私人的事体，但是，后不为例）把他的诘问君劢那篇文给我看的时候",
+      "confidence": 0.9
+    },
+    {
+      "id": "e6",
+      "name": "任公",
+      "canonical_name": "梁启超",
+      "type": "人物",
+      "evidence": "任公所定的国际法里头已经有了",
+      "confidence": 0.9
+    },
+    {
+      "id": "e7",
+      "name": "《努力》",
+      "canonical_name": "《努力周报》",
+      "type": "著作",
+      "evidence": "看见《努力》上许多文章驳君劢",
+      "confidence": 1.0
+    },
+    {
+      "id": "e8",
+      "name": "辩论者",
+      "canonical_name": "辩论者",
+      "type": "阵营/群体",
+      "evidence": "辩论者对于读者应有的关顾",
+      "confidence": 1.0
+    },
+    {
+      "id": "e9",
+      "name": "读者",
+      "canonical_name": "读者",
+      "type": "阵营/群体",
+      "evidence": "辩论者对于读者应有的关顾",
+      "confidence": 1.0
+    },
+    {
+      "id": "e10",
+      "name": "双方",
+      "canonical_name": "论争双方",
+      "type": "阵营/群体",
+      "evidence": "此次论争的诸君，很多都免不了这个手续",
+      "confidence": 0.9
+    },
+    {
+      "id": "e11",
+      "name": "学术上辩论",
+      "canonical_name": "学术辩论",
+      "type": "概念",
+      "evidence": "我想学术上辩论，不是行政会议，要服从大多数的",
+      "confidence": 1.0
+    },
+    {
+      "id": "e12",
+      "name": "行政会议",
+      "canonical_name": "行政会议",
+      "type": "概念",
+      "evidence": "我想学术上辩论，不是行政会议，要服从大多数的",
+      "confidence": 1.0
+    },
+    {
+      "id": "e13",
+      "name": "是非",
+      "canonical_name": "是非",
+      "type": "概念",
+      "evidence": "我们所争的是在他们的主张孰是孰非",
+      "confidence": 1.0
+    },
+    {
+      "id": "e14",
+      "name": "国际法",
+      "canonical_name": "国际法",
+      "type": "比喻/类比",
+      "evidence": "任公所定的国际法里头已经有了",
+      "confidence": 0.8
+    },
+    {
+      "id": "e15",
+      "name": "本题",
+      "canonical_name": "论题",
+      "type": "概念",
+      "evidence": "辩论须紧切本题，不要旁涉枝叶",
+      "confidence": 1.0
+    }
+  ],
+  "claims": [
+    {
+      "id": "c1",
+      "speaker": "唐钺",
+      "claim": "发表文字，原要公众注意。既是要大众注意，不能不尊重读者。",
+      "target": "辩论者",
+      "claim_type": "方法论主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "发表文字，原要公众注意。不然，尽管可以用私函往来讨论，不必登载在报章上头了。既是要大众注意，不能不尊重读者。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c2",
+      "speaker": "唐钺",
+      "claim": "第一应该不浪费笔墨去讥刺对方，因而浪费读者的脑力和时间。",
+      "target": "辩论者",
+      "claim_type": "方法论主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "第一应该不浪费笔墨去讥刺对方，因而浪费读者的脑力和时间。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c3",
+      "speaker": "唐钺",
+      "claim": "第二，不必将作者与对方的私人关系，以及一切其他关于人的——而无关论题的——事情写给读者看。",
+      "target": "辩论者",
+      "claim_type": "方法论主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "第二，不必将作者与对方的私人关系，以及一切其他关于人的——而无关论题的——事情写给读者看。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c4",
+      "speaker": "唐钺",
+      "claim": "此次论争的诸君，很多都免不了这个手续。我觉得这种行为不是顶“知礼的”。",
+      "target": "此次论争的诸君",
+      "claim_type": "论战策略批评",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "此次论争的诸君，很多都免不了这个手续。我觉得这种行为不是顶“知礼的”。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c5",
+      "speaker": "唐钺",
+      "claim": "我想把与本题无关的私人关系写给读者看，有点像把自己家里的“姑姑勃溪”告诉人一样。",
+      "target": "辩论者",
+      "claim_type": "论战策略批评",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "我想把与本题无关的私人关系写给读者看，有点像把自己家里的“姑姑勃溪”告诉人一样。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c6",
+      "speaker": "唐钺",
+      "claim": "张东荪先生却提起双方人数多寡的问题，看见《努力》上许多文章驳君劢，而没有驳在君的，他就做了一篇文驳在君。",
+      "target": "张东荪",
+      "claim_type": "论战策略批评",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "至于张东荪先生却提起双方人数多寡的问题，看见《努力》上许多文章驳君劢，而没有驳在君的，他就做了一篇文驳在君。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c7",
+      "speaker": "唐钺",
+      "claim": "我想学术上辩论，不是行政会议，要服从大多数的。",
+      "target": "学术上辩论",
+      "claim_type": "方法论主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "我想学术上辩论，不是行政会议，要服从大多数的。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c8",
+      "speaker": "唐钺",
+      "claim": "论争的两方，人数多的未必是，人数少的未必非。",
+      "target": "论争的两方",
+      "claim_type": "方法论主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "论争的两方，人数多的未必是，人数少的未必非。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c9",
+      "speaker": "唐钺",
+      "claim": "我们所争的是在他们的主张孰是孰非。",
+      "target": "论争双方",
+      "claim_type": "方法论主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "但是，我们所争的是在他们的主张孰是孰非。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c10",
+      "speaker": "唐钺",
+      "claim": "辩论须紧切本题，不要旁涉枝叶。",
+      "target": "辩论者",
+      "claim_type": "方法论主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "辩论须紧切本题，不要旁涉枝叶。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c11",
+      "speaker": "唐钺",
+      "claim": "君劢的讲演，范围已经广泛。在君又把他稍微放大些。",
+      "target": "君劢",
+      "claim_type": "论战策略批评",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "君劢的讲演，范围已经广泛。在君又把他稍微放大些。",
+      "confidence": 1.0
+    }
+  ],
+  "relations": [
+    {
+      "id": "r1",
+      "head": "唐钺",
+      "head_type": "人物",
+      "relation": "批评",
+      "relation_subtype": "一般批评",
+      "tail": "此次论争的诸君",
+      "tail_type": "阵营/群体",
+      "polarity": "negative",
+      "evidence": "此次论争的诸君，很多都免不了这个手续。我觉得这种行为不是顶“知礼的”。",
+      "confidence": 1.0
+    },
+    {
+      "id": "r2",
+      "head": "唐钺",
+      "head_type": "人物",
+      "relation": "批评",
+      "relation_subtype": "一般批评",
+      "tail": "张东荪",
+      "tail_type": "人物",
+      "polarity": "negative",
+      "evidence": "至于张东荪先生却提起双方人数多寡的问题，看见《努力》上许多文章驳君劢，而没有驳在君的，他就做了一篇文驳在君。",
+      "confidence": 1.0
+    },
+    {
+      "id": "r3",
+      "head": "学术上辩论",
+      "head_type": "概念",
+      "relation": "区分",
+      "relation_subtype": "概念澄清",
+      "tail": "行政会议",
+      "tail_type": "概念",
+      "polarity": "neutral",
+      "evidence": "我想学术上辩论，不是行政会议，要服从大多数的。",
+      "confidence": 1.0
+    },
+    {
+      "id": "r4",
+      "head": "唐钺",
+      "head_type": "人物",
+      "relation": "引用",
+      "relation_subtype": "援引权威",
+      "tail": "任公",
+      "tail_type": "人物",
+      "polarity": "positive",
+      "evidence": "任公所定的国际法里头已经有了，就是，辩论须紧切本题，不要旁涉枝叶。",
+      "confidence": 0.9
+    },
+    {
+      "id": "r5",
+      "head": "唐钺",
+      "head_type": "人物",
+      "relation": "批评",
+      "relation_subtype": "一般批评",
+      "tail": "君劢",
+      "tail_type": "人物",
+      "polarity": "negative",
+      "evidence": "君劢的讲演，范围已经广泛。",
+      "confidence": 1.0
+    },
+    {
+      "id": "r6",
+      "head": "唐钺",
+      "head_type": "人物",
+      "relation": "批评",
+      "relation_subtype": "一般批评",
+      "tail": "在君",
+      "tail_type": "人物",
+      "polarity": "negative",
+      "evidence": "在君又把他稍微放大些。",
+      "confidence": 1.0
+    }
+  ],
+  "definitions": [
+    {
+      "id": "def1",
+      "term": "辩论者对于读者应有的关顾",
+      "definition": "辩论者应尊重读者，不浪费笔墨讥刺对方，不将私人关系等无关论题的事情写给读者看。",
+      "evidence": "第一应该不浪费笔墨去讥刺对方，因而浪费读者的脑力和时间。第二，不必将作者与对方的私人关系，以及一切其他关于人的——而无关论题的——事情写给读者看。",
+      "confidence": 1.0
+    },
+    {
+      "id": "def2",
+      "term": "辩论者对于题目应负的责任",
+      "definition": "辩论须紧切本题，不要旁涉枝叶。",
+      "evidence": "辩论须紧切本题，不要旁涉枝叶。",
+      "confidence": 1.0
+    }
+  ],
+  "citations": [
+    {
+      "id": "cit1",
+      "citer": "唐钺",
+      "quoted_author": "任公",
+      "quoted_work": "",
+      "quoted_claim": "辩论须紧切本题，不要旁涉枝叶",
+      "function": "援引权威支持",
+      "evidence": "任公所定的国际法里头已经有了，就是，辩论须紧切本题，不要旁涉枝叶。",
+      "confidence": 0.9
+    }
+  ],
+  "rhetorical_devices": [
+    {
+      "id": "rh1",
+      "expression": "姑姑勃溪",
+      "device_type": "比喻",
+      "literal_target": "把私人关系等无关论题的事情写给读者看",
+      "function": "通过比喻贬低将私人关系写入论战文章的行为，增强批评效果",
+      "evidence": "我想把与本题无关的私人关系写给读者看，有点像把自己家里的“姑姑勃溪”告诉人一样。",
+      "confidence": 1.0
+    },
+    {
+      "id": "rh2",
+      "expression": "国际法",
+      "device_type": "比喻",
+      "literal_target": "任公所定的辩论规则",
+      "function": "用比喻强调规则的权威性",
+      "evidence": "任公所定的国际法里头已经有了",
+      "confidence": 0.9
+    }
+  ],
+  "uncertainties": [
+    {
+      "item": "经农的具体身份",
+      "reason": "文本中仅出现名字，未提供全名或身份信息，无法确定其具体人物背景。"
+    },
+    {
+      "item": "“任公”是否确指梁启超",
+      "reason": "文本中仅称“任公”，未提供全名，但根据历史背景推测可能指梁启超，但当前文本未明确。"
+    }
+  ]
+}

@@ -1,0 +1,391 @@
+{
+  "metadata": {
+    "schema_version": "lite_v2.0",
+    "article_id": "张东荪_000_a9bf05ee",
+    "article_title": "劳而无功 —— 评丁在君先生口中的科学",
+    "source_author": "张东荪",
+    "section_title": "更举一个好例，这个例就是丁先生的话。丁先生说柏格森说心的绵延如雪的堆积完全是比喻，不能算数。诚然，但请问丁先生为何对于马赫所说思想和天响雷一样（按",
+    "section_author": "更举一个好例，这个例就是丁先生的话。丁先生说柏格森说心的绵延如雪的堆积完全是比喻，不能算数。诚然，但请问丁先生为何对于马赫所说思想和天响雷一样（",
+    "segment_id": "张东荪_000_a9bf05ee_s0014",
+    "segment_index": 14,
+    "source_file": "E:\\1研究生\\岭南大学\\论文毕业\\capstone\\资料\\新的内容开始了\\local_upload\\input_w0\\张东荪.txt"
+  },
+  "entities": [
+    {
+      "id": "e1",
+      "name": "丁先生",
+      "canonical_name": "丁文江",
+      "type": "人物",
+      "evidence": "丁先生怕西洋玄学投入中国的宋学，来借尸还魂",
+      "confidence": 0.9
+    },
+    {
+      "id": "e2",
+      "name": "释迦",
+      "canonical_name": "释迦牟尼",
+      "type": "人物",
+      "evidence": "我想除了释迦便要首推笛卡儿了",
+      "confidence": 0.9
+    },
+    {
+      "id": "e3",
+      "name": "笛卡儿",
+      "canonical_name": "笛卡儿",
+      "type": "人物",
+      "evidence": "我想除了释迦便要首推笛卡儿了",
+      "confidence": 0.9
+    },
+    {
+      "id": "e4",
+      "name": "牛顿",
+      "canonical_name": "牛顿",
+      "type": "人物",
+      "evidence": "牛顿有 Hypotheseses non fingo 的名言，但他自己立有绝对运动与绝对时空",
+      "confidence": 0.9
+    },
+    {
+      "id": "e5",
+      "name": "张先生",
+      "canonical_name": "张君劢",
+      "type": "人物",
+      "evidence": "我固然看不出张先生的玄学妨碍科学在中国的发展至何程度",
+      "confidence": 0.9
+    },
+    {
+      "id": "e6",
+      "name": "科学",
+      "canonical_name": "科学",
+      "type": "概念",
+      "evidence": "以宣传科学而论",
+      "confidence": 0.9
+    },
+    {
+      "id": "e7",
+      "name": "玄学",
+      "canonical_name": "玄学",
+      "type": "概念",
+      "evidence": "丁先生怕西洋玄学投入中国的宋学",
+      "confidence": 0.9
+    },
+    {
+      "id": "e8",
+      "name": "宋学",
+      "canonical_name": "宋学",
+      "type": "概念",
+      "evidence": "丁先生怕西洋玄学投入中国的宋学",
+      "confidence": 0.9
+    },
+    {
+      "id": "e9",
+      "name": "汉学",
+      "canonical_name": "汉学",
+      "type": "概念",
+      "evidence": "丁先生同时却把科学投入汉学",
+      "confidence": 0.9
+    },
+    {
+      "id": "e10",
+      "name": "存疑的精神",
+      "canonical_name": "存疑的精神",
+      "type": "概念",
+      "evidence": "至于存疑的精神，我想除了释迦便要首推笛卡儿了",
+      "confidence": 0.9
+    },
+    {
+      "id": "e11",
+      "name": "奥康的剃刀",
+      "canonical_name": "奥康的剃刀",
+      "type": "概念",
+      "evidence": "可见仅仅一个“奥康的剃刀”不能即算科学",
+      "confidence": 0.9
+    },
+    {
+      "id": "e12",
+      "name": "假说",
+      "canonical_name": "假说",
+      "type": "概念",
+      "evidence": "他的假说可就不算少了",
+      "confidence": 0.9
+    },
+    {
+      "id": "e13",
+      "name": "绝对运动",
+      "canonical_name": "绝对运动",
+      "type": "概念",
+      "evidence": "但他自己立有绝对运动与绝对时空",
+      "confidence": 0.9
+    },
+    {
+      "id": "e14",
+      "name": "绝对时空",
+      "canonical_name": "绝对时空",
+      "type": "概念",
+      "evidence": "但他自己立有绝对运动与绝对时空",
+      "confidence": 0.9
+    },
+    {
+      "id": "e15",
+      "name": "淑种学",
+      "canonical_name": "优生学",
+      "type": "概念",
+      "evidence": "自从淑种学发明以来，对于人类自己的智慧亦可以设法改良",
+      "confidence": 0.9
+    },
+    {
+      "id": "e16",
+      "name": "智慧",
+      "canonical_name": "智慧",
+      "type": "概念",
+      "evidence": "即是能宰割一切的刀其自身。换言之，即是伟大的智慧",
+      "confidence": 0.9
+    }
+  ],
+  "claims": [
+    {
+      "id": "c1",
+      "speaker": "张东荪",
+      "claim": "存疑的精神，除了释迦便要首推笛卡儿了，但这两个人的思想即不是科学",
+      "target": "存疑的精神",
+      "claim_type": "知识论主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "至于存疑的精神，我想除了释迦便要首推笛卡儿了。但这两个人的思想即不是科学。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c2",
+      "speaker": "张东荪",
+      "claim": "仅仅一个“奥康的剃刀”不能即算科学",
+      "target": "奥康的剃刀",
+      "claim_type": "知识论主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "可见仅仅一个“奥康的剃刀”不能即算科学。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c3",
+      "speaker": "张东荪",
+      "claim": "假说的多少完全是程度的等差而没有性质的不同",
+      "target": "假说",
+      "claim_type": "知识论主张",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "可见假说的多少完全是程度的等差而没有性质的不同。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c4",
+      "speaker": "张东荪",
+      "claim": "丁先生怕西洋玄学投入中国的宋学来借尸还魂，这个精神我敬服",
+      "target": "丁先生",
+      "claim_type": "价值评价",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "丁先生怕西洋玄学投入中国的宋学，来借尸还魂，这个精神不但我原谅丁先生，并且还有些敬服",
+      "confidence": 0.9
+    },
+    {
+      "id": "c5",
+      "speaker": "张东荪",
+      "claim": "丁先生同时却把科学投入汉学，做一个同样的借尸还魂",
+      "target": "丁先生",
+      "claim_type": "论战策略批评",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "只可惜丁先生同时却把科学投入汉学，做一个同样的借尸还魂。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c6",
+      "speaker": "张东荪",
+      "claim": "看不出张先生的玄学妨碍科学在中国的发展至何程度",
+      "target": "张先生",
+      "claim_type": "价值评价",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "我固然看不出张先生的玄学妨碍科学在中国的发展至何程度",
+      "confidence": 0.9
+    },
+    {
+      "id": "c7",
+      "speaker": "张东荪",
+      "claim": "实在看不出丁先生这两篇文章促进科学在中国的发展能至何程度",
+      "target": "丁先生",
+      "claim_type": "价值评价",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "然亦实在看不出丁先生这两篇文章促进科学在中国的发展能至何程度。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c8",
+      "speaker": "张东荪",
+      "claim": "科学好像一把快刀，一切东西碰着了必迎刃而解，即最神秘的生命、精神、感情、意志无一不受其宰割。但是只有一个东西，仍然在外，即是能宰割一切的刀其自身，换言之，即是伟大的智慧",
+      "target": "科学",
+      "claim_type": "知识论主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "我尝说科学好像一把快刀，一切东西碰着了必迎刃而解，即最神秘的生命、精神、感情、意志无一不受其宰割。但是只有一个东西，仍然在外，即是能宰割一切的刀其自身。换言之，即是伟大的智慧。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c9",
+      "speaker": "张东荪",
+      "claim": "科学是最富于活气的",
+      "target": "科学",
+      "claim_type": "知识论主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "所以科学是最富于活气的。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c10",
+      "speaker": "张东荪",
+      "claim": "凡把科学认为机括，为呆板，这乃是不懂科学",
+      "target": "科学",
+      "claim_type": "知识论主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "凡把科学认为机括，为呆板，这乃是不懂科学。",
+      "confidence": 0.9
+    }
+  ],
+  "relations": [
+    {
+      "id": "r1",
+      "head": "存疑的精神",
+      "head_type": "概念",
+      "relation": "属于",
+      "tail": "释迦",
+      "tail_type": "人物",
+      "polarity": "neutral",
+      "evidence": "至于存疑的精神，我想除了释迦便要首推笛卡儿了",
+      "confidence": 0.9
+    },
+    {
+      "id": "r2",
+      "head": "存疑的精神",
+      "head_type": "概念",
+      "relation": "属于",
+      "tail": "笛卡儿",
+      "tail_type": "人物",
+      "polarity": "neutral",
+      "evidence": "至于存疑的精神，我想除了释迦便要首推笛卡儿了",
+      "confidence": 0.9
+    },
+    {
+      "id": "r3",
+      "head": "奥康的剃刀",
+      "head_type": "概念",
+      "relation": "属于",
+      "tail": "科学",
+      "tail_type": "概念",
+      "polarity": "negative",
+      "evidence": "可见仅仅一个“奥康的剃刀”不能即算科学。",
+      "confidence": 0.9
+    },
+    {
+      "id": "r4",
+      "head": "科学",
+      "head_type": "概念",
+      "relation": "类比",
+      "tail": "快刀",
+      "tail_type": "比喻/类比",
+      "polarity": "positive",
+      "evidence": "我尝说科学好像一把快刀，一切东西碰着了必迎刃而解",
+      "confidence": 0.9
+    },
+    {
+      "id": "r5",
+      "head": "淑种学",
+      "head_type": "概念",
+      "relation": "导致",
+      "tail": "人类自己的智慧亦可以设法改良",
+      "tail_type": "概念",
+      "polarity": "positive",
+      "evidence": "自从淑种学发明以来，对于人类自己的智慧亦可以设法改良。",
+      "confidence": 0.9
+    }
+  ],
+  "definitions": [
+    {
+      "id": "def1",
+      "term": "科学",
+      "definition": "科学好像一把快刀，能宰割一切，但刀自身（即智慧）在外；科学是最富于活气的，不是机括、呆板的",
+      "evidence": "我尝说科学好像一把快刀，一切东西碰着了必迎刃而解，即最神秘的生命、精神、感情、意志无一不受其宰割。但是只有一个东西，仍然在外，即是能宰割一切的刀其自身。换言之，即是伟大的智慧。",
+      "confidence": 0.9
+    }
+  ],
+  "citations": [
+    {
+      "id": "cit1",
+      "citer": "张东荪",
+      "quoted_author": "牛顿",
+      "quoted_work": "",
+      "quoted_claim": "Hypotheseses non fingo",
+      "function": "作为批评对象",
+      "evidence": "牛顿有 Hypotheseses non fingo 的名言，但他自己立有绝对运动与绝对时空，他的假说可就不算少了。",
+      "confidence": 0.9
+    }
+  ],
+  "rhetorical_devices": [
+    {
+      "id": "rh1",
+      "expression": "借尸还魂",
+      "device_type": "比喻",
+      "literal_target": "西洋玄学与宋学、科学与汉学之间的结合或利用",
+      "function": "批评丁文江一方面反对玄学与宋学结合，另一方面却让科学与汉学结合，形成双重标准",
+      "evidence": "丁先生怕西洋玄学投入中国的宋学，来借尸还魂，这个精神不但我原谅丁先生，并且还有些敬服；只可惜丁先生同时却把科学投入汉学，做一个同样的借尸还魂。",
+      "confidence": 0.9
+    },
+    {
+      "id": "rh2",
+      "expression": "科学好像一把快刀",
+      "device_type": "比喻",
+      "literal_target": "科学具有强大的分析、宰割能力",
+      "function": "正面说明科学的威力，同时指出其局限（刀自身即智慧在外）",
+      "evidence": "我尝说科学好像一把快刀，一切东西碰着了必迎刃而解，即最神秘的生命、精神、感情、意志无一不受其宰割。",
+      "confidence": 0.9
+    },
+    {
+      "id": "rh3",
+      "expression": "遥遥相对",
+      "device_type": "比喻",
+      "literal_target": "丁文江与张君劢各自将科学与玄学与汉学、宋学结合，形成对称局面",
+      "function": "讽刺论战双方都犯了同样的错误，使旁观者失去兴趣",
+      "evidence": "这样遥遥相对一来，使我们旁观者看了大大提不起兴趣来了。",
+      "confidence": 0.9
+    }
+  ],
+  "uncertainties": [
+    {
+      "item": "张东荪对丁文江的批评中“把科学投入汉学”的具体含义",
+      "reason": "文本未详细解释“汉学”在此处的具体指涉，仅作为比喻使用"
+    },
+    {
+      "item": "“淑种学”是否指优生学（eugenics）",
+      "reason": "文本未给出明确定义，仅提及“对于人类自己的智慧亦可以设法改良”"
+    }
+  ],
+  "_meta": {
+    "status": "success",
+    "stage": "extract",
+    "model": "deepseek-ai/DeepSeek-V4-Flash",
+    "base_url": "https://api.siliconflow.cn/v1",
+    "prompt_version": "extract_prompt_v2.0",
+    "schema_version": "lite_v2.0",
+    "segment_id": "张东荪_000_a9bf05ee_s0014",
+    "article_id": "张东荪_000_a9bf05ee",
+    "char_start": 6830,
+    "char_end": 7428,
+    "raw_path": "E:\\1研究生\\岭南大学\\论文毕业\\capstone\\资料\\新的内容开始了\\local_upload\\kg_runs\\张东荪\\raw_outputs\\extract\\张东荪_000_a9bf05ee_s0014.txt",
+    "parsed_at": "2026-05-20T00:17:45",
+    "started_at": "2026-05-20T00:09:02",
+    "elapsed_seconds": 523.188,
+    "strict_evidence_check": true,
+    "drop_unsupported_evidence": true,
+    "request_timeout_seconds": 180
+  }
+}

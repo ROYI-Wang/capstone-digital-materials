@@ -1,0 +1,269 @@
+{
+  "metadata": {
+    "schema_version": "lite_v2.0",
+    "article_id": "张东荪_000_a9bf05ee",
+    "article_title": "劳而无功 —— 评丁在君先生口中的科学",
+    "source_author": "张东荪",
+    "section_title": "丁在君先生为反对张君劢先生的“人生观”，于是拿了“科学”来打“玄学”。迄至昨日止，我已拜读了他的洋洋大文两篇了。我读了他的第一篇文章时候，就觉得有许多话非说不可，但我仍是暂时忍着。后来看见林宰平先生一篇文章，我真跳起来。凡我所蓄于肚里，所要说的话差不多都被林先生说出来了。我十分佩服林先生，却又十分感激林先生，因为这一下我既可不闷得难受，又可不必写得手酸。我肚里的意思虽经林先生发泄了十分之九，然尚有一分，似乎亦应得吐出，方能痛快。所以我看见林先生的文章后即加了一些按",
+    "section_author": "丁在君先生为反对张君劢先生的“人生观”，于是拿了“科学”来打“玄学”。迄至昨日止，我已拜读了他的洋洋大文两篇了。我读了他的第一篇文章时候，就觉得有许多话非说不可，但我仍是暂时忍着。后来看见林宰平先生一篇文章，我真跳起来。凡我所蓄于肚里，所要说的话差不多都被林先生说出来了。我十分佩服林先生，却又十分感激林先生，因为这一下我既可不闷得难受，又可不必写得手酸。我肚里的意思虽经林先生发泄了十分之九，然尚有一分，似乎亦应得吐出，方能痛快。所以我看见林先生的文章后即加了一些",
+    "segment_id": "张东荪_000_a9bf05ee_s0002",
+    "segment_index": 2,
+    "source_file": "E:\\1研究生\\岭南大学\\论文毕业\\capstone\\资料\\新的内容开始了\\local_upload\\input_w0\\张东荪.txt"
+  },
+  "entities": [
+    {
+      "id": "e1",
+      "name": "哲学",
+      "canonical_name": "哲学",
+      "type": "概念",
+      "evidence": "哲学向来分三部：即认识论、本体论、宇宙论便是",
+      "confidence": 1.0
+    },
+    {
+      "id": "e2",
+      "name": "认识论",
+      "canonical_name": "认识论",
+      "type": "概念",
+      "evidence": "哲学向来分三部：即认识论、本体论、宇宙论便是",
+      "confidence": 1.0
+    },
+    {
+      "id": "e3",
+      "name": "本体论",
+      "canonical_name": "本体论",
+      "type": "概念",
+      "evidence": "哲学向来分三部：即认识论、本体论、宇宙论便是",
+      "confidence": 1.0
+    },
+    {
+      "id": "e4",
+      "name": "宇宙论",
+      "canonical_name": "宇宙论",
+      "type": "概念",
+      "evidence": "哲学向来分三部：即认识论、本体论、宇宙论便是",
+      "confidence": 1.0
+    },
+    {
+      "id": "e5",
+      "name": "胡适之",
+      "canonical_name": "胡适",
+      "type": "人物",
+      "evidence": "丁先生最喜欢听胡适之先生的话",
+      "confidence": 1.0
+    },
+    {
+      "id": "e6",
+      "name": "詹姆士",
+      "canonical_name": "威廉·詹姆斯",
+      "type": "人物",
+      "evidence": "丁先生崇拜詹姆士",
+      "confidence": 1.0
+    },
+    {
+      "id": "e7",
+      "name": "《哲学之几问题》",
+      "canonical_name": "《哲学之几问题》",
+      "type": "著作",
+      "evidence": "詹氏在他的《哲学之几问题》一书第一讲上就说玄学在最初的意思是与科学相反",
+      "confidence": 1.0
+    }
+  ],
+  "claims": [
+    {
+      "id": "c1",
+      "speaker": "张东荪",
+      "claim": "丁在君先生对于玄学与哲学的关系始终无一字提及",
+      "target": "丁在君",
+      "claim_type": "论战策略批评",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "对于玄学与哲学的关系亦始终无一字提及",
+      "confidence": 1.0
+    },
+    {
+      "id": "c2",
+      "speaker": "张东荪",
+      "claim": "丁在君先生没有认清敌人就开炮",
+      "target": "丁在君",
+      "claim_type": "论战策略批评",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "敌人尚未认清，就先开炮",
+      "confidence": 1.0
+    },
+    {
+      "id": "c3",
+      "speaker": "张东荪",
+      "claim": "玄学就是哲学，不过范围较狭而已",
+      "target": "玄学",
+      "claim_type": "定义性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "可见玄学就是哲学，不过范围较狭而已",
+      "confidence": 1.0
+    },
+    {
+      "id": "c4",
+      "speaker": "张东荪",
+      "claim": "哲学中本来有两派：一派始终没有深入本体论的野心；一派有这种野心",
+      "target": "哲学",
+      "claim_type": "定义性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "哲学中本来有两派：一派始终没有深入本体论的野心；一派有这种野心",
+      "confidence": 1.0
+    },
+    {
+      "id": "c5",
+      "speaker": "张东荪",
+      "claim": "丁在君先生俯拾当时攻击玄学的话来说，未免近于无的放矢",
+      "target": "丁在君",
+      "claim_type": "论战策略批评",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "丁先生还要俯拾当时攻击玄学（其实当时的玄学只是神学）的话来说，未免近于无的放矢",
+      "confidence": 1.0
+    },
+    {
+      "id": "c6",
+      "speaker": "张东荪",
+      "claim": "丁先生崇拜詹姆士",
+      "target": "丁在君",
+      "claim_type": "价值评价",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "丁先生崇拜詹姆士",
+      "confidence": 1.0
+    },
+    {
+      "id": "c7",
+      "speaker": "詹姆士",
+      "claim": "玄学在最初的意思是与科学相反，其实我们应得变更原有的意思",
+      "target": "玄学",
+      "claim_type": "定义性主张",
+      "claim_status": "直接引用",
+      "polarity": "neutral",
+      "evidence": "詹氏在他的《哲学之几问题》一书第一讲上就说玄学在最初的意思是与科学相反，其实我们应得变更原有的意思",
+      "confidence": 1.0
+    }
+  ],
+  "relations": [
+    {
+      "id": "r1",
+      "head": "哲学",
+      "head_type": "概念",
+      "relation": "包含",
+      "tail": "认识论",
+      "tail_type": "概念",
+      "polarity": "neutral",
+      "evidence": "哲学向来分三部：即认识论、本体论、宇宙论便是",
+      "confidence": 1.0
+    },
+    {
+      "id": "r2",
+      "head": "哲学",
+      "head_type": "概念",
+      "relation": "包含",
+      "tail": "本体论",
+      "tail_type": "概念",
+      "polarity": "neutral",
+      "evidence": "哲学向来分三部：即认识论、本体论、宇宙论便是",
+      "confidence": 1.0
+    },
+    {
+      "id": "r3",
+      "head": "哲学",
+      "head_type": "概念",
+      "relation": "包含",
+      "tail": "宇宙论",
+      "tail_type": "概念",
+      "polarity": "neutral",
+      "evidence": "哲学向来分三部：即认识论、本体论、宇宙论便是",
+      "confidence": 1.0
+    }
+  ],
+  "definitions": [
+    {
+      "id": "def1",
+      "term": "玄学",
+      "definition": "玄学就是哲学，不过范围较狭而已",
+      "evidence": "可见玄学就是哲学，不过范围较狭而已",
+      "confidence": 1.0
+    },
+    {
+      "id": "def2",
+      "term": "哲学",
+      "definition": "哲学向来分三部：即认识论、本体论、宇宙论便是",
+      "evidence": "哲学向来分三部：即认识论、本体论、宇宙论便是",
+      "confidence": 1.0
+    },
+    {
+      "id": "def3",
+      "term": "玄学",
+      "definition": "玄学在最初的意思是与科学相反",
+      "evidence": "玄学在最初的意思是与科学相反",
+      "confidence": 1.0
+    }
+  ],
+  "citations": [
+    {
+      "id": "cit1",
+      "citer": "张东荪",
+      "quoted_author": "詹姆士",
+      "quoted_work": "《哲学之几问题》",
+      "quoted_claim": "玄学在最初的意思是与科学相反，其实我们应得变更原有的意思",
+      "function": "援引权威支持",
+      "evidence": "詹氏在他的《哲学之几问题》一书第一讲上就说玄学在最初的意思是与科学相反，其实我们应得变更原有的意思",
+      "confidence": 1.0
+    }
+  ],
+  "rhetorical_devices": [
+    {
+      "id": "rh1",
+      "expression": "敌人尚未认清，就先开炮",
+      "device_type": "比喻",
+      "literal_target": "丁在君在未明确玄学定义的情况下就批评玄学",
+      "function": "讽刺丁在君论战策略的鲁莽",
+      "evidence": "敌人尚未认清，就先开炮",
+      "confidence": 1.0
+    },
+    {
+      "id": "rh2",
+      "expression": "无的放矢",
+      "device_type": "比喻",
+      "literal_target": "丁在君用攻击神学的话来攻击玄学，目标错误",
+      "function": "批评丁在君批评对象不准确",
+      "evidence": "未免近于无的放矢",
+      "confidence": 1.0
+    }
+  ],
+  "uncertainties": [
+    {
+      "item": "丁在君先生对于玄学与哲学的关系始终无一字提及",
+      "reason": "当前文本未提供丁在君原文，无法核实是否真的无一字提及"
+    },
+    {
+      "item": "丁先生还要俯拾当时攻击玄学（其实当时的玄学只是神学）的话",
+      "reason": "当前文本未提供丁在君原文，无法核实其是否真的使用了攻击神学的话"
+    }
+  ],
+  "_meta": {
+    "status": "success",
+    "stage": "extract",
+    "model": "deepseek-ai/DeepSeek-V4-Flash",
+    "base_url": "https://api.siliconflow.cn/v1",
+    "prompt_version": "extract_prompt_v2.0",
+    "schema_version": "lite_v2.0",
+    "segment_id": "张东荪_000_a9bf05ee_s0002",
+    "article_id": "张东荪_000_a9bf05ee",
+    "char_start": 1008,
+    "char_end": 1413,
+    "raw_path": "E:\\1研究生\\岭南大学\\论文毕业\\capstone\\资料\\新的内容开始了\\local_upload\\kg_runs\\张东荪\\raw_outputs\\extract\\张东荪_000_a9bf05ee_s0002.txt",
+    "parsed_at": "2026-05-19T23:19:59",
+    "started_at": "2026-05-19T23:16:26",
+    "elapsed_seconds": 213.799,
+    "strict_evidence_check": true,
+    "drop_unsupported_evidence": true,
+    "request_timeout_seconds": 180
+  }
+}

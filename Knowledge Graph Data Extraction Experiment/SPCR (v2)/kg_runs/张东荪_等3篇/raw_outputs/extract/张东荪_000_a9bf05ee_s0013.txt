@@ -1,0 +1,545 @@
+{
+  "metadata": {
+    "schema_version": "lite_v3.0",
+    "article_id": "张东荪_000_a9bf05ee",
+    "article_title": "劳而无功 —— 评丁在君先生口中的科学",
+    "source_author": "张东荪",
+    "section_title": "更举一个好例，这个例就是丁先生的话。丁先生说柏格森说心的绵延如雪的堆积完全是比喻，不能算数。诚然，但请问丁先生为何对于马赫所说思想和天响雷一样（按",
+    "section_author": "更举一个好例，这个例就是丁先生的话。丁先生说柏格森说心的绵延如雪的堆积完全是比喻，不能算数。诚然，但请问丁先生为何对于马赫所说思想和天响雷一样（",
+    "segment_id": "张东荪_000_a9bf05ee_s0013",
+    "segment_index": 13,
+    "source_file": "E:\\1研究生\\岭南大学\\论文毕业\\capstone\\资料\\新的内容开始了\\local_upload\\input_v2_w2\\张东荪.txt"
+  },
+  "entities": [
+    {
+      "id": "e1",
+      "name": "丁先生",
+      "canonical_name": "丁在君",
+      "type": "人物",
+      "evidence": "丁先生相信心物是一件东西",
+      "confidence": .src1.0
+    },
+    {
+      "id": "e2",
+      "name": "心物合一论",
+      "canonical_name": "心物合一论",
+      "type": "概念",
+      "evidence": "心物合一论本不是科学乃是哲学",
+      "confidence": 1.0
+    },
+    {
+      "id": "e3",
+      "name": "科学方法",
+      "canonical_name": "科学方法",
+      "type": "概念",
+      "evidence": "科学方法不是科学所穿的衣服可以随便剥下来给别的任何人穿的",
+      "confidence": 1.0
+    },
+    {
+      "id": "e4",
+      "name": "科学",
+      "canonical_name": "科学",
+      "type": "概念",
+      "evidence": "科学方法不是科学所穿的衣服",
+      "confidence": 1.0
+    },
+    {
+      "id": "e5",
+      "name": "罗素",
+      "canonical_name": "罗素",
+      "type": "人物",
+      "evidence": "罗素说心物是由同一的材料构成的",
+      "confidence": 1.0
+    },
+    {
+      "id": "e6",
+      "name": "精神与物质",
+      "canonical_name": "精神与物质",
+      "type": "文章",
+      "evidence": "在他的第二篇第六段“精神与物质”中",
+      "confidence": 1.0
+    },
+    {
+      "id": "e7",
+      "name": "马赫",
+      "canonical_name": "马赫",
+      "type": "人物",
+      "evidence": "引证断简不完的马赫与罗素的话",
+      "confidence": 1.0
+    },
+    {
+      "id": "e8",
+      "name": "汉学家的考据",
+      "canonical_name": "汉学家的考据",
+      "type": "方法",
+      "evidence": "科学方法不是汉学家的考据为理很显明",
+      "confidence": 1.0
+    },
+    {
+      "id": "e9",
+      "name": "实验",
+      "canonical_name": "实验",
+      "type": "方法",
+      "evidence": "科学注重在实验",
+      "confidence": 1.0
+    },
+    {
+      "id": "e10",
+      "name": "存疑的精神",
+      "canonical_name": "存疑的精神",
+      "type": "概念",
+      "evidence": "至于存疑的精神，我想除了释迦便要首推笛卡儿了",
+      "confidence": 1.0
+    },
+    {
+      "id": "e11",
+      "name": "释迦",
+      "canonical_name": "释迦",
+      "type": "人物",
+      "evidence": "除了释迦便要首推笛卡儿了",
+      "confidence": 1.0
+    },
+    {
+      "id": "e12",
+      "name": "笛卡儿",
+      "canonical_name": "笛卡儿",
+      "type": "人物",
+      "evidence": "除了释迦便要首推笛卡儿了",
+      "confidence": 1.0
+    },
+    {
+      "id": "e13",
+      "name": "奥康的剃刀",
+      "canonical_name": "奥康的剃刀",
+      "type": "概念",
+      "evidence": "仅仅一个“奥康的剃刀”不能即算科学",
+      "confidence": 1.0
+    },
+    {
+      "id": "e14",
+      "name": "心物是一件东西",
+      "canonical_name": "心物是一件东西",
+      "type": "观点",
+      "evidence": "丁先生相信心物是一件东西",
+      "confidence": 1.0
+    },
+    {
+      "id": "e15",
+      "name": "心物是由同一的材料构成的",
+      "canonical_name": "心物是由同一的材料构成的",
+      "type": "观点",
+      "evidence": "罗素说心物是由同一的材料构成的",
+      "confidence": 1.0
+    },
+    {
+      "id": "e16",
+      "name": "丁先生的态度却近于武断",
+      "canonical_name": "丁先生的态度却近于武断",
+      "type": "评价",
+      "evidence": "我仍觉得丁先生的态度却近于武断，为科学家所不宜",
+      "confidence": 1.0
+    },
+    {
+      "id": "e17",
+      "name": "科学方法不是汉学家的考据",
+      "canonical_name": "科学方法不是汉学家的考据",
+      "type": "观点",
+      "evidence": "科学方法不是汉学家的考据为理很显明",
+      "confidence": 1.0
+    },
+    {
+      "id": "e18",
+      "name": "仅仅一个“奥康的剃刀”不能即算科学",
+      "canonical_name": "仅仅一个“奥康的剃刀”不能即算科学",
+      "type": "观点",
+      "evidence": "仅仅一个“奥康的剃刀”不能即算科学",
+      "confidence": 1.0
+    }
+  ],
+  "claims": [
+    {
+      "id": "c1",
+      "speaker": "张东荪",
+      "claim": "科学方法不是科学所穿的衣服可以随便剥下来给别的任何人穿的",
+      "target": "科学方法",
+      "claim_type": "描述性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "科学方法不是科学所穿的衣服可以随便剥下来给别的任何人穿的",
+      "confidence": 1.0
+    },
+    {
+      "id": "c2",
+      "speaker": "张东荪",
+      "claim": "心物合一论本不是科学乃是哲学",
+      "target": "心物合一论",
+      "claim_type": "定义性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "心物合一论本不是科学乃是哲学",
+      "confidence": 1.0
+    },
+    {
+      "id": "c3",
+      "speaker": "张东荪",
+      "claim": "丁先生的态度却近于武断，为科学家所不宜",
+      "target": "丁先生",
+      "claim_type": "评价性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "我仍觉得丁先生的态度却近于武断，为科学家所不宜",
+      "confidence": 1.0
+    },
+    {
+      "id": "c4",
+      "speaker": "罗素",
+      "claim": "心物是由同一的材料构成的",
+      "target": "心物",
+      "claim_type": "描述性主张",
+      "claim_status": "间接转述",
+      "polarity": "neutral",
+      "evidence": "罗素说心物是由同一的材料构成的",
+      "confidence": 1.0
+    },
+    {
+      "id": "c5",
+      "speaker": "张东荪",
+      "claim": "科学方法不是汉学家的考据",
+      "target": "科学方法",
+      "claim_type": "对比性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "科学方法不是汉学家的考据为理很显明",
+      "confidence": 1.0
+    },
+    {
+      "id": "c6",
+      "speaker": "张东荪",
+      "claim": "科学注重在实验",
+      "target": "科学",
+      "claim_type": "描述性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "科学注重在实验",
+      "confidence": 1.0
+    },
+    {
+      "id": "c7",
+      "speaker": "张东荪",
+      "claim": "考据不过在故纸堆中寻生活，至于那个故纸是否可靠尚是问题",
+      "target": "考据",
+      "claim_type": "评价性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "考据不过在故纸堆中寻生活，至于那个故纸是否可靠尚是问题",
+      "confidence": 1.0
+    },
+    {
+      "id": "c8",
+      "speaker": "张东荪",
+      "claim": "存疑的精神，除了释迦便要首推笛卡儿了。但这两个人的思想即不是科学",
+      "target": "存疑的精神",
+      "claim_type": "反驳性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "存疑的精神，我想除了释迦便要首推笛卡儿了。但这两个人的思想即不是科学",
+      "confidence": 1.0
+    },
+    {
+      "id": "c9",
+      "speaker": "张东荪",
+      "claim": "仅仅一个“奥康的剃刀”不能即算科学",
+      "target": "奥康的剃刀",
+      "claim_type": "反驳性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "仅仅一个“奥康的剃刀”不能即算科学",
+      "confidence": 1.0
+    }
+  ],
+  "relations": [
+    {
+      "id": "r1",
+      "head": "丁先生",
+      "head_type": "人物",
+      "relation": "主张",
+      "relation_subtype": "不适用",
+      "tail": "心物是一件东西",
+      "tail_type": "观点",
+      "polarity": "neutral",
+      "stance_score": 0.0,
+      "intensity": 0.0,
+      "evidence": "丁先生相信心物是一件东西",
+      "confidence": 1.0
+    },
+    {
+      "id": "r2",
+      "head": "张东荪",
+      "head_type": "人物",
+      "relation": "批评",
+      "relation_subtype": "同阵营内部批评",
+      "tail": "丁先生",
+      "tail_type": "人物",
+      "polarity": "negative",
+      "stance_score": -0.5,
+      "intensity": 0.6,
+      "evidence": "我仍觉得丁先生的态度却近于武断，为科学家所不宜",
+      "confidence": 1.0
+    },
+    {
+      "id": "r3",
+      "head": "张东荪",
+      "head_type": "人物",
+      "relation": "批评",
+      "relation_subtype": "证据不足批评",
+      "tail": "丁先生",
+      "tail_type": "人物",
+      "polarity": "negative",
+      "stance_score": -0.7,
+      "intensity": 0.7,
+      "evidence": "在他的第二篇第六段“精神与物质”中除了引证断简不完的马赫与罗素的话外，简直可算没有说明，即有一两句说明亦是十分模糊",
+      "confidence": 1.0
+    },
+    {
+      "id": "r4",
+      "head": "张东荪",
+      "head_type": "人物",
+      "relation": "批评",
+      "relation_subtype": "一般批评",
+      "tail": "丁先生",
+      "tail_type": "人物",
+      "polarity": "negative",
+      "stance_score": -0.6,
+      "intensity": 0.5,
+      "evidence": "我们研究哲学的人尚且对于这种大问题不敢轻信，而研究科学的人平素对于这些问题既没有在实验室试验过，又没有做过长期的冥想工夫，而竟轻信如此，似非所宜",
+      "confidence": 1.0
+    },
+    {
+      "id": "r5",
+      "head": "科学方法",
+      "head_type": "概念",
+      "relation": "区分",
+      "relation_subtype": "概念澄清",
+      "tail": "汉学家的考据",
+      "tail_type": "方法",
+      "polarity": "negative",
+      "stance_score": -0.8,
+      "intensity": 0.7,
+      "evidence": "科学方法不是汉学家的考据为理很显明",
+      "confidence": 1.0
+    },
+    {
+      "id": "r6",
+      "head": "科学",
+      "head_type": "概念",
+      "relation": "主张",
+      "relation_subtype": "不适用",
+      "tail": "注重在实验",
+      "tail_type": "方法",
+      "polarity": "positive",
+      "stance_score": 0.8,
+      "intensity": 0.6,
+      "evidence": "科学注重在实验",
+      "confidence": 1.0
+    },
+    {
+      "id": "r7",
+      "head": "存疑的精神",
+      "head_type": "概念",
+      "relation": "主张",
+      "relation_subtype": "不适用",
+      "tail": "释迦",
+      "tail_type": "人物",
+      "polarity": "neutral",
+      "stance_score": 0.0,
+      "intensity": 0.0,
+      "evidence": "存疑的精神，我想除了释迦便要首推笛卡儿了",
+      "confidence": 1.0
+    },
+    {
+      "id": "r8",
+      "head": "存疑的精神",
+      "head_type": "概念",
+      "relation": "主张",
+      "relation_subtype": "不适用",
+      "tail": "笛卡儿",
+      "tail_type": "人物",
+      "polarity": "neutral",
+      "stance_score": 0.0,
+      "intensity": 0.0,
+      "evidence": "存疑的精神，我想除了释迦便要首推笛卡儿了",
+      "confidence": 1.0
+    },
+    {
+      "id": "r9",
+      "head": "释迦",
+      "head_type": "人物",
+      "relation": "主张",
+      "relation_subtype": "不适用",
+      "tail": "思想即不是科学",
+      "tail_type": "观点",
+      "polarity": "negative",
+      "stance_score": -0.8,
+      "intensity": 0.7,
+      "evidence": "但这两个人的思想即不是科学",
+      "confidence": 1.0
+    },
+    {
+      "id": "r10",
+      "head": "笛卡儿",
+      "head_type": "人物",
+      "relation": "主张",
+      "relation_subtype": "不适用",
+      "tail": "思想即不是科学",
+      "tail_type": "观点",
+      "polarity": "negative",
+      "stance_score": -0.8,
+      "intensity": 0.7,
+      "evidence": "但这两个人的思想即不是科学",
+      "confidence": 1.0
+    },
+    {
+      "id": "r11",
+      "head": "奥康的剃刀",
+      "head_type": "概念",
+      "relation": "主张",
+      "relation_subtype": "不适用",
+      "tail": "不能即算科学",
+      "tail_type": "观点",
+      "polarity": "negative",
+      "stance_score": -0.8,
+      "intensity": 0.7,
+      "evidence": "仅仅一个“奥康的剃刀”不能即算科学",
+      "confidence": 1.0
+    },
+    {
+      "id": "r12",
+      "head": "张东荪",
+      "head_type": "人物",
+      "relation": "引用",
+      "relation_subtype": "援引权威支持",
+      "tail": "罗素",
+      "tail_type": "人物",
+      "polarity": "neutral",
+      "stance_score": 0.0,
+      "intensity": 0.0,
+      "evidence": "罗素说心物是由同一的材料构成的",
+      "confidence": 1.0
+    },
+    {
+      "id": "r13",
+      "head": "张东荪",
+      "head_type": "人物",
+      "relation": "引用",
+      "relation_subtype": "作为批评对象",
+      "tail": "丁先生",
+      "tail_type": "人物",
+      "polarity": "negative",
+      "stance_score": -0.7,
+      "intensity": 0.7,
+      "evidence": "在他的第二篇第六段“精神与物质”中除了引证断简不完的马赫与罗素的话外，简直可算没有说明",
+      "confidence": 1.0
+    }
+  ],
+  "definitions": [
+    {
+      "id": "def1",
+      "term": "心物合一论",
+      "definition": "心物合一论本不是科学乃是哲学",
+      "evidence": "心物合一论本不是科学乃是哲学",
+      "confidence": 1.0
+    },
+    {
+      "id": "def2",
+      "term": "科学方法",
+      "definition": "科学方法不是科学所穿的衣服可以随便剥下来给别的任何人穿的",
+      "evidence": "科学方法不是科学所穿的衣服可以随便剥下来给别的任何人穿的",
+      "confidence": 1.0
+    },
+    {
+      "id": "def3",
+      "term": "科学",
+      "definition": "科学注重在实验",
+      "evidence": "科学注重在实验",
+      "confidence": 1.0
+    },
+    {
+      "id": "def4",
+      "term": "考据",
+      "definition": "考据不过在故纸堆中寻生活，至于那个故纸是否可靠尚是问题",
+      "evidence": "考据不过在故纸堆中寻生活，至于那个故纸是否可靠尚是问题",
+      "confidence": 1.0
+    }
+  ],
+  "citations": [
+    {
+      "id": "cit1",
+      "citer": "张东荪",
+      "quoted_author": "罗素",
+      "quoted_work": "",
+      "quoted_claim": "心物是由同一的材料构成的",
+      "function": "援引权威支持",
+      "evidence": "罗素说心物是由同一的材料构成的",
+      "confidence": 1.0
+    },
+    {
+      "id": "cit2",
+      "citer": "丁先生",
+      "quoted_author": "马赫",
+      "quoted_work": "",
+      "quoted_claim": "",
+      "function": "作为批评对象",
+      "evidence": "引证断简不完的马赫与罗素的话",
+      "confidence": 1.0
+    },
+    {
+      "id": "cit3",
+      "citer": "丁先生",
+      "quoted_author": "罗素",
+      "quoted_work": "",
+      "quoted_claim": "",
+      "function": "作为批评对象",
+      "evidence": "引证断简不完的马赫与罗素的话",
+      "confidence": 1.0
+    }
+  ],
+  "rhetorical_devices": [
+    {
+      "id": "rh1",
+      "expression": "如影随形",
+      "device_type": "比喻",
+      "literal_target": "这两个东西（科学方法与科学）的关系",
+      "function": "强调科学方法与科学不可分离",
+      "evidence": "这两个东西，如影随形",
+      "confidence": 1.0
+    },
+    {
+      "id": "rh2",
+      "expression": "科学方法不是科学所穿的衣服可以随便剥下来给别的任何人穿的",
+      "device_type": "比喻",
+      "literal_target": "科学方法与科学的关系",
+      "function": "说明科学方法不能脱离科学而独立应用",
+      "evidence": "科学方法不是科学所穿的衣服可以随便剥下来给别的任何人穿的",
+      "confidence": 1.0
+    },
+    {
+      "id": "rh3",
+      "expression": "在故纸堆中寻生活",
+      "device_type": "比喻",
+      "literal_target": "考据的工作方式",
+      "function": "贬低考据，强调其局限于文献",
+      "evidence": "考据不过在故纸堆中寻生活",
+      "confidence": 1.0
+    }
+  ],
+  "uncertainties": [
+    {
+      "item": "丁先生相信心物是一件东西，试问这见解是由科学方法取得呢，还是由科学取得呢？",
+      "reason": "这是一个反问句，未明确给出答案，无法确定张东荪对丁先生心物观的最终判断"
+    },
+    {
+      "item": "我亦是相信心物合一论的",
+      "reason": "张东荪自称相信心物合一论，但未说明其具体内容或与丁先生观点的异同"
+    }
+  ]
+}

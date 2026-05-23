@@ -1,0 +1,320 @@
+{
+  "metadata": {
+    "schema_version": "lite_v2.0",
+    "article_id": "陈独秀_001_d263aca8",
+    "article_title": "答适之",
+    "source_author": "陈独秀",
+    "section_title": "方今国中竟言新文化，而文化转移之枢纽，不外乎人生观。吾有吾之文化，西洋有西洋之文化。西洋之有益者如何采之，有害者如何革除之；凡此取舍之间，皆决之于观点。观点定，而后精神上之思潮、物质上之制度，乃可按",
+    "section_author": "方今国中竟言新文化，而文化转移之枢纽，不外乎人生观。吾有吾之文化，西洋有西洋之文化。西洋之有益者如何采之，有害者如何革除之；凡此取舍之间，皆决之于观点。观点定，而后精神上之思潮、物质上之制度，乃可",
+    "segment_id": "陈独秀_001_d263aca8_s0000",
+    "segment_index": 0,
+    "source_file": "E:\\1研究生\\岭南大学\\论文毕业\\capstone\\资料\\新的内容开始了\\local_upload\\input_w2\\陈独秀.txt"
+  },
+  "entities": [
+    {
+      "id": "e1",
+      "name": "适之",
+      "canonical_name": "胡适",
+      "type": "人物",
+      "evidence": "我对于适之先生这篇序",
+      "confidence": 1.0
+    },
+    {
+      "id": "e2",
+      "name": "梁启超",
+      "canonical_name": "梁启超",
+      "type": "人物",
+      "evidence": "梁启超、张君劢这班人",
+      "confidence": 1.0
+    },
+    {
+      "id": "e3",
+      "name": "张君劢",
+      "canonical_name": "张君劢",
+      "type": "人物",
+      "evidence": "梁启超、张君劢这班人",
+      "confidence": 1.0
+    },
+    {
+      "id": "e4",
+      "name": "科学的人生观",
+      "canonical_name": "科学的人生观",
+      "type": "概念",
+      "evidence": "科学的人生观是否错误？",
+      "confidence": 1.0
+    },
+    {
+      "id": "e5",
+      "name": "科学",
+      "canonical_name": "科学",
+      "type": "概念",
+      "evidence": "科学能否支配一切人生观？",
+      "confidence": 1.0
+    },
+    {
+      "id": "e6",
+      "name": "人生观",
+      "canonical_name": "人生观",
+      "type": "概念",
+      "evidence": "科学能否支配一切人生观？",
+      "confidence": 1.0
+    },
+    {
+      "id": "e7",
+      "name": "唯物即科学的人生观",
+      "canonical_name": "唯物即科学的人生观",
+      "type": "概念",
+      "evidence": "当初也未必不曾经过极肤浅的唯物即科学的人生观",
+      "confidence": 0.9
+    },
+    {
+      "id": "e8",
+      "name": "社会科学",
+      "canonical_name": "社会科学",
+      "type": "概念",
+      "evidence": "只因他们未曾敲过社会科学的门",
+      "confidence": 1.0
+    },
+    {
+      "id": "e9",
+      "name": "人生观超于科学以上",
+      "canonical_name": "人生观超于科学以上",
+      "type": "观点",
+      "evidence": "他们的第一观念便是“人生观超于科学以上”",
+      "confidence": 1.0
+    },
+    {
+      "id": "e10",
+      "name": "科学决不能支配人生",
+      "canonical_name": "科学决不能支配人生",
+      "type": "观点",
+      "evidence": "“科学决不能支配人生”",
+      "confidence": 1.0
+    },
+    {
+      "id": "e11",
+      "name": "科学是否万能问题",
+      "canonical_name": "科学是否万能问题",
+      "type": "问题",
+      "evidence": "我们现在所争的，正是科学是否万能问题",
+      "confidence": 1.0
+    },
+    {
+      "id": "e12",
+      "name": "科学已否破产",
+      "canonical_name": "科学已否破产",
+      "type": "问题",
+      "evidence": "此问题解决了，科学已否破产便不成问题了",
+      "confidence": 1.0
+    },
+    {
+      "id": "e13",
+      "name": "科学的人生观",
+      "canonical_name": "科学的人生观",
+      "type": "观点",
+      "evidence": "只须努力具体的说明科学的人生观",
+      "confidence": 1.0
+    },
+    {
+      "id": "e14",
+      "name": "陈独秀",
+      "canonical_name": "陈独秀",
+      "type": "人物",
+      "evidence": "我对于适之先生这篇序",
+      "confidence": 1.0
+    }
+  ],
+  "claims": [
+    {
+      "id": "c1",
+      "speaker": "陈独秀",
+      "claim": "我对于适之先生这篇序，固然赞美其能成立一家言，但有不能同意之二点",
+      "target": "适之",
+      "claim_type": "评价",
+      "claim_status": "作者直接主张",
+      "polarity": "mixed",
+      "evidence": "我对于适之先生这篇序，固然赞美其能成立一家言，但有不能同意之二点",
+      "confidence": 1.0
+    },
+    {
+      "id": "c2",
+      "speaker": "陈独秀",
+      "claim": "这回的争论当然有两个问题，一个是“科学的人生观是否错误？”一个是“科学能否支配一切人生观？”后者的讨论多于前者",
+      "target": "这回的争论",
+      "claim_type": "问题提出",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "这回的争论当然有两个问题，一个是“科学的人生观是否错误？”一个是“科学能否支配一切人生观？”后者的讨论多于前者",
+      "confidence": 1.0
+    },
+    {
+      "id": "c3",
+      "speaker": "陈独秀",
+      "claim": "适之说是共同的错误，其实是适之个人的错误",
+      "target": "适之",
+      "claim_type": "论战策略批评",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "适之说是共同的错误，其实是适之个人的错误",
+      "confidence": 1.0
+    },
+    {
+      "id": "c4",
+      "speaker": "陈独秀",
+      "claim": "梁启超、张君劢这班人，当初也未必不曾经过极肤浅的唯物即科学的人生观",
+      "target": "梁启超、张君劢",
+      "claim_type": "历史解释",
+      "claim_status": "作者推论",
+      "polarity": "neutral",
+      "evidence": "梁启超、张君劢这班人，当初也未必不曾经过极肤浅的唯物即科学的人生观",
+      "confidence": 0.9
+    },
+    {
+      "id": "c5",
+      "speaker": "陈独秀",
+      "claim": "只因他们未曾敲过社会科学的门，阅世又稍稍久远，接触了许多稀奇古怪的人生观，都和科学的原理原则相隔太远，于是他们的第一观念便是“人生观超于科学以上”，“科学决不能支配人生”",
+      "target": "梁启超、张君劢",
+      "claim_type": "历史解释",
+      "claim_status": "作者推论",
+      "polarity": "negative",
+      "evidence": "只因他们未曾敲过社会科学的门，阅世又稍稍久远，接触了许多稀奇古怪的人生观，都和科学的原理原则相隔太远，于是他们的第一观念便是“人生观超于科学以上”，“科学决不能支配人生”",
+      "confidence": 0.9
+    },
+    {
+      "id": "c6",
+      "speaker": "梁启超",
+      "claim": "我绝不承认科学破产，不过也不承认科学万能罢了",
+      "target": "科学",
+      "claim_type": "价值评价",
+      "claim_status": "直接引用",
+      "polarity": "mixed",
+      "evidence": "他骂得科学简直是罪孽深重不自陨灭祸延人类，而同时却又说：“我绝不承认科学破产，不过也不承认科学万能罢了。”",
+      "confidence": 1.0
+    },
+    {
+      "id": "c7",
+      "speaker": "陈独秀",
+      "claim": "我们现在所争的，正是科学是否万能问题，此问题解决了，科学已否破产便不成问题了",
+      "target": "科学是否万能问题",
+      "claim_type": "论战策略批评",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "我们现在所争的，正是科学是否万能问题，此问题解决了，科学已否破产便不成问题了",
+      "confidence": 1.0
+    },
+    {
+      "id": "c8",
+      "speaker": "陈独秀",
+      "claim": "照适之的意见，只须努力具体的说明科学的人生观，不必去力争科学可否解决人生观的问题，像这样缩短战线，只立而不破的辩论法，不是纵敌，便是收兵",
+      "target": "适之",
+      "claim_type": "论战策略批评",
+      "claim_status": "作者讽刺性归纳",
+      "polarity": "negative",
+      "evidence": "照适之的意见，只须努力具体的说明科学的人生观，不必去力争科学可否解决人生观的问题，像这样缩短战线，只立而不破的辩论法，不是纵敌，便是收兵",
+      "confidence": 0.9
+    },
+    {
+      "id": "c9",
+      "speaker": "陈独秀",
+      "claim": "无论你科学的人生观有如何具体的说明，张君劢、梁启超可以回答你：适之先生！",
+      "target": "适之",
+      "claim_type": "论战策略批评",
+      "claim_status": "作者推论",
+      "polarity": "negative",
+      "evidence": "无论你科学的人生观有如何具体的说明，张君劢、梁启超可以回答你：适之先生！",
+      "confidence": 0.9
+    }
+  ],
+  "relations": [
+    {
+      "id": "r1",
+      "head": "陈独秀",
+      "head_type": "人物",
+      "relation": "回应",
+      "relation_subtype": "部分肯定",
+      "tail": "适之",
+      "tail_type": "人物",
+      "polarity": "mixed",
+      "evidence": "我对于适之先生这篇序，固然赞美其能成立一家言，但有不能同意之二点",
+      "confidence": 1.0
+    },
+    {
+      "id": "r2",
+      "head": "陈独秀",
+      "head_type": "人物",
+      "relation": "批评",
+      "relation_subtype": "概念混淆批评",
+      "tail": "适之",
+      "tail_type": "人物",
+      "polarity": "negative",
+      "evidence": "适之说是共同的错误，其实是适之个人的错误",
+      "confidence": 1.0
+    },
+    {
+      "id": "r3",
+      "head": "陈独秀",
+      "head_type": "人物",
+      "relation": "归因于",
+      "relation_subtype": "不适用",
+      "tail": "梁启超、张君劢",
+      "tail_type": "人物",
+      "polarity": "negative",
+      "evidence": "只因他们未曾敲过社会科学的门，阅世又稍稍久远，接触了许多稀奇古怪的人生观，都和科学的原理原则相隔太远，于是他们的第一观念便是“人生观超于科学以上”，“科学决不能支配人生”",
+      "confidence": 0.9
+    },
+    {
+      "id": "r4",
+      "head": "梁启超",
+      "head_type": "人物",
+      "relation": "主张",
+      "relation_subtype": "不适用",
+      "tail": "科学",
+      "tail_type": "概念",
+      "polarity": "mixed",
+      "evidence": "他骂得科学简直是罪孽深重不自陨灭祸延人类，而同时却又说：“我绝不承认科学破产，不过也不承认科学万能罢了。”",
+      "confidence": 1.0
+    },
+    {
+      "id": "r5",
+      "head": "陈独秀",
+      "head_type": "人物",
+      "relation": "批评",
+      "relation_subtype": "论战策略批评",
+      "tail": "适之",
+      "tail_type": "人物",
+      "polarity": "negative",
+      "evidence": "照适之的意见，只须努力具体的说明科学的人生观，不必去力争科学可否解决人生观的问题，像这样缩短战线，只立而不破的辩论法，不是纵敌，便是收兵",
+      "confidence": 0.9
+    }
+  ],
+  "definitions": [],
+  "citations": [
+    {
+      "id": "cit1",
+      "citer": "陈独秀",
+      "quoted_author": "梁启超",
+      "quoted_work": "",
+      "quoted_claim": "我绝不承认科学破产，不过也不承认科学万能罢了",
+      "function": "作为批评对象",
+      "evidence": "他骂得科学简直是罪孽深重不自陨灭祸延人类，而同时却又说：“我绝不承认科学破产，不过也不承认科学万能罢了。”",
+      "confidence": 1.0
+    }
+  ],
+  "rhetorical_devices": [
+    {
+      "id": "rh1",
+      "expression": "不是纵敌，便是收兵",
+      "device_type": "比喻",
+      "literal_target": "适之的辩论策略",
+      "function": "批评对方辩论策略消极",
+      "evidence": "像这样缩短战线，只立而不破的辩论法，不是纵敌，便是收兵",
+      "confidence": 0.9
+    }
+  ],
+  "uncertainties": [
+    {
+      "item": "section_author 字段内容与 section_title 重复，且包含不完整句子，可能为数据错误",
+      "reason": "section_author 字段内容与 section_title 字段内容完全一致，且均为不完整句子，可能为元数据错误"
+    }
+  ]
+}

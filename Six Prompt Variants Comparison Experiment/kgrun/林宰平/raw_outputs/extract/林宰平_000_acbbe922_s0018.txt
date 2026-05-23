@@ -1,0 +1,290 @@
+{
+  "metadata": {
+    "schema_version": "lite_v2.0",
+    "article_id": "林宰平_000_acbbe922",
+    "article_title": "读丁在君先生的《玄学与科学》",
+    "source_author": "林宰平",
+    "section_title": "",
+    "section_author": "",
+    "segment_id": "林宰平_000_acbbe922_s0018",
+    "segment_index": 18,
+    "source_file": "E:\\1研究生\\岭南大学\\论文毕业\\capstone\\资料\\新的内容开始了\\local_upload\\input_w0\\林宰平.txt"
+  },
+  "entities": [
+    {
+      "id": "e1",
+      "name": "科学家",
+      "canonical_name": "科学家",
+      "type": "阵营/群体",
+      "evidence": "科学家正要反省",
+      "confidence": 0.9
+    },
+    {
+      "id": "e2",
+      "name": "哈特",
+      "canonical_name": "哈特",
+      "type": "人物",
+      "evidence": "哈特在他《疯狂心理》上说",
+      "confidence": 0.9
+    },
+    {
+      "id": "e3",
+      "name": "《疯狂心理》",
+      "canonical_name": "疯狂心理",
+      "type": "著作",
+      "evidence": "哈特在他《疯狂心理》上说",
+      "confidence": 0.9
+    },
+    {
+      "id": "e4",
+      "name": "佛罗特（Freud）",
+      "canonical_name": "佛罗特",
+      "type": "人物",
+      "evidence": "研究变态心理最为先进且最有成绩之维也纳教授佛罗特（Freud）",
+      "confidence": 0.9
+    },
+    {
+      "id": "e5",
+      "name": "新南西学派（New Nancy School）",
+      "canonical_name": "新南西学派",
+      "type": "阵营/群体",
+      "evidence": "又如新南西学派（New Nancy School）",
+      "confidence": 0.9
+    },
+    {
+      "id": "e6",
+      "name": "下意识学派",
+      "canonical_name": "下意识学派",
+      "type": "阵营/群体",
+      "evidence": "英国心理学界居然有“下意识学派”之发生",
+      "confidence": 0.9
+    },
+    {
+      "id": "e7",
+      "name": "心理学",
+      "canonical_name": "心理学",
+      "type": "概念",
+      "evidence": "在心理学上所有常态变态之分",
+      "confidence": 0.9
+    },
+    {
+      "id": "e8",
+      "name": "心的作用",
+      "canonical_name": "心的作用",
+      "type": "概念",
+      "evidence": "我们心的作用，包含许多记忆、经验及冲动之不自觉的部分",
+      "confidence": 0.9
+    },
+    {
+      "id": "e9",
+      "name": "变态心理",
+      "canonical_name": "变态心理",
+      "type": "概念",
+      "evidence": "研究变态心理最为先进且最有成绩之维也纳教授佛罗特",
+      "confidence": 0.9
+    },
+    {
+      "id": "e10",
+      "name": "常态",
+      "canonical_name": "常态",
+      "type": "概念",
+      "evidence": "在心理学上所有常态变态之分，本来是个程度上问题",
+      "confidence": 0.9
+    },
+    {
+      "id": "e11",
+      "name": "变态",
+      "canonical_name": "变态",
+      "type": "概念",
+      "evidence": "在心理学上所有常态变态之分，本来是个程度上问题",
+      "confidence": 0.9
+    },
+    {
+      "id": "e12",
+      "name": "下意识",
+      "canonical_name": "下意识",
+      "type": "概念",
+      "evidence": "又如新南西学派（New Nancy School),对于下意识亦非常热心的予以研究",
+      "confidence": 0.9
+    }
+  ],
+  "claims": [
+    {
+      "id": "c1",
+      "speaker": "林宰平",
+      "claim": "科学家正要反省是否从前科学方法对于这种现象还有不适用，或有欠缺的地方，断不是骂他疯子，不理会他，就算完事",
+      "target": "科学家",
+      "claim_type": "方法论主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "科学家正要反省是否从前科学方法对于这种现象还有不适用，或有欠缺的地方，断不是骂他疯子，不理会他，就算完事",
+      "confidence": 0.9
+    },
+    {
+      "id": "c2",
+      "speaker": "哈特",
+      "claim": "从前研究这种心理，大概都从解剖学，和脑的生理学下手，因有了显微镜的帮助，脑的解剖，研究得很精细，应用实验方法，去研究大脑的生理，使他的研究更进一步。……因研究结果，有种种的发见，遂发生一种热望，以为狂疯病的性质和原因，不久一定可以明白的了。但此种热望，后来还没有实现，因此于生理的方法以外，知道有许多地方，要取给于近来心理的概念的发展",
+      "target": "研究变态心理的方法",
+      "claim_type": "历史解释",
+      "claim_status": "直接引用",
+      "polarity": "neutral",
+      "evidence": "哈特在他《疯狂心理》上说：“从前研究这种心理，大概都从解剖学，和脑的生理学下手，因有了显微镜的帮助，脑的解剖，研究得很精细，应用实验方法，去研究大脑的生理，使他的研究更进一步。……因研究结果，有种种的发见，遂发生一种热望，以为狂疯病的性质和原因，不久一定可以明白的了。但此种热望，后来还没有实现，因此于生理的方法以外，知道有许多地方，要取给于近来心理的概念的发展。”",
+      "confidence": 0.9
+    },
+    {
+      "id": "c3",
+      "speaker": "林宰平",
+      "claim": "近来新心理学所证明，我们心的作用，包含许多记忆、经验及冲动之不自觉的部分",
+      "target": "心的作用",
+      "claim_type": "知识论主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "我们知道近来新心理学所证明，我们心的作用，包含许多记忆、经验及冲动之不自觉的部分",
+      "confidence": 0.9
+    },
+    {
+      "id": "c4",
+      "speaker": "林宰平",
+      "claim": "此等不自觉之心的作用，其影响我们平日思想及行为，比我们能够知觉的，还要占了更大的部分",
+      "target": "不自觉之心的作用",
+      "claim_type": "知识论主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "而且此等不自觉之心的作用，其影响我们平日思想及行为，比我们能够知觉的，还要占了更大的部分",
+      "confidence": 0.9
+    },
+    {
+      "id": "c5",
+      "speaker": "林宰平",
+      "claim": "佛罗特所建立之基本原理及有效的证据，渐为大家所承认",
+      "target": "佛罗特",
+      "claim_type": "价值评价",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "研究变态心理最为先进且最有成绩之维也纳教授佛罗特（Freud）他所建立之基本原理及有效的证据，渐为大家所承认",
+      "confidence": 0.9
+    },
+    {
+      "id": "c6",
+      "speaker": "林宰平",
+      "claim": "在心理学上所有常态变态之分，本来是个程度上问题，并非全然各别之心理现象",
+      "target": "常态与变态",
+      "claim_type": "定义性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "在心理学上所有常态变态之分，本来是个程度上问题，并非全然各别之心理现象",
+      "confidence": 0.9
+    },
+    {
+      "id": "c7",
+      "speaker": "林宰平",
+      "claim": "现在除了极狭隘之心理学家，已经明白我们心的作用，比我们以前所猜想的，实在复杂得多而且广大得多",
+      "target": "心的作用",
+      "claim_type": "知识论主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "现在除了极狭隘之心理学家，已经明白我们心的作用，比我们以前所猜想的，实在复杂得多而且广大得多",
+      "confidence": 0.9
+    }
+  ],
+  "relations": [
+    {
+      "id": "r1",
+      "head": "林宰平",
+      "head_type": "人物",
+      "relation": "引用",
+      "relation_subtype": "援引权威支持",
+      "tail": "哈特",
+      "tail_type": "人物",
+      "polarity": "positive",
+      "evidence": "哈特在他《疯狂心理》上说：“从前研究这种心理，大概都从解剖学，和脑的生理学下手……”",
+      "confidence": 0.9
+    },
+    {
+      "id": "r2",
+      "head": "林宰平",
+      "head_type": "人物",
+      "relation": "引用",
+      "relation_subtype": "援引权威支持",
+      "tail": "佛罗特（Freud）",
+      "tail_type": "人物",
+      "polarity": "positive",
+      "evidence": "研究变态心理最为先进且最有成绩之维也纳教授佛罗特（Freud）他所建立之基本原理及有效的证据，渐为大家所承认",
+      "confidence": 0.9
+    },
+    {
+      "id": "r3",
+      "head": "林宰平",
+      "head_type": "人物",
+      "relation": "批评",
+      "relation_subtype": "证据不足批评",
+      "tail": "科学家",
+      "tail_type": "阵营/群体",
+      "polarity": "negative",
+      "evidence": "科学家正要反省是否从前科学方法对于这种现象还有不适用，或有欠缺的地方，断不是骂他疯子，不理会他，就算完事",
+      "confidence": 0.9
+    },
+    {
+      "id": "r4",
+      "head": "哈特",
+      "head_type": "人物",
+      "relation": "主张",
+      "relation_subtype": "不适用",
+      "tail": "研究变态心理的方法",
+      "tail_type": "概念",
+      "polarity": "neutral",
+      "evidence": "哈特在他《疯狂心理》上说：“从前研究这种心理，大概都从解剖学，和脑的生理学下手……因研究结果，有种种的发见，遂发生一种热望，以为狂疯病的性质和原因，不久一定可以明白的了。但此种热望，后来还没有实现，因此于生理的方法以外，知道有许多地方，要取给于近来心理的概念的发展。”",
+      "confidence": 0.9
+    },
+    {
+      "id": "r5",
+      "head": "常态",
+      "head_type": "概念",
+      "relation": "区分",
+      "relation_subtype": "概念澄清",
+      "tail": "变态",
+      "tail_type": "概念",
+      "polarity": "neutral",
+      "evidence": "在心理学上所有常态变态之分，本来是个程度上问题，并非全然各别之心理现象",
+      "confidence": 0.9
+    }
+  ],
+  "definitions": [
+    {
+      "id": "def1",
+      "term": "常态与变态",
+      "definition": "在心理学上，常态与变态之分是程度上的问题，并非全然各别的心理现象",
+      "evidence": "在心理学上所有常态变态之分，本来是个程度上问题，并非全然各别之心理现象",
+      "confidence": 0.9
+    }
+  ],
+  "citations": [
+    {
+      "id": "cit1",
+      "citer": "林宰平",
+      "quoted_author": "哈特",
+      "quoted_work": "《疯狂心理》",
+      "quoted_claim": "从前研究这种心理，大概都从解剖学，和脑的生理学下手……因研究结果，有种种的发见，遂发生一种热望，以为狂疯病的性质和原因，不久一定可以明白的了。但此种热望，后来还没有实现，因此于生理的方法以外，知道有许多地方，要取给于近来心理的概念的发展",
+      "function": "援引权威支持",
+      "evidence": "哈特在他《疯狂心理》上说：“从前研究这种心理，大概都从解剖学，和脑的生理学下手，因有了显微镜的帮助，脑的解剖，研究得很精细，应用实验方法，去研究大脑的生理，使他的研究更进一步。……因研究结果，有种种的发见，遂发生一种热望，以为狂疯病的性质和原因，不久一定可以明白的了。但此种热望，后来还没有实现，因此于生理的方法以外，知道有许多地方，要取给于近来心理的概念的发展。”",
+      "confidence": 0.9
+    }
+  ],
+  "rhetorical_devices": [
+    {
+      "id": "rh1",
+      "expression": "骂他疯子",
+      "device_type": "比喻",
+      "literal_target": "科学家对变态心理现象的不当处理方式",
+      "function": "批评科学家简单粗暴的态度",
+      "evidence": "断不是骂他疯子，不理会他，就算完事",
+      "confidence": 0.8
+    }
+  ],
+  "uncertainties": [
+    {
+      "item": "林宰平是否在正文中以第一人称出现",
+      "reason": "文本中使用了“我们知道”，但未出现“我”或“吾”等明确第一人称自称，无法确定作者是否在正文中自称"
+    }
+  ]
+}

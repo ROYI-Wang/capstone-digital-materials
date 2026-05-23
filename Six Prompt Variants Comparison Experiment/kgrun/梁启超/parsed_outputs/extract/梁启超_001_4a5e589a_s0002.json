@@ -1,0 +1,312 @@
+{
+  "metadata": {
+    "schema_version": "lite_v2.0",
+    "article_id": "梁启超_001_4a5e589a",
+    "article_title": "人生观与科学",
+    "source_author": "梁启超",
+    "section_title": "",
+    "section_author": "",
+    "segment_id": "梁启超_001_4a5e589a_s0002",
+    "segment_index": 2,
+    "source_file": "E:\\1研究生\\岭南大学\\论文毕业\\capstone\\资料\\新的内容开始了\\local_upload\\input_w3\\梁启超.txt"
+  },
+  "entities": [
+    {
+      "id": "e1",
+      "name": "君劢",
+      "canonical_name": "张君劢",
+      "type": "人物",
+      "evidence": "今且先驳君劢",
+      "confidence": 1.0
+    },
+    {
+      "id": "e2",
+      "name": "在君",
+      "canonical_name": "丁文江",
+      "type": "人物",
+      "evidence": "我对于君劢、在君的主张，觉得他们各有偏宕之处",
+      "confidence": 1.0
+    },
+    {
+      "id": "e3",
+      "name": "科学方法",
+      "canonical_name": "科学方法",
+      "type": "方法",
+      "evidence": "人生问题，有大部分是可以——而且必要用科学方法来解决的",
+      "confidence": 1.0
+    },
+    {
+      "id": "e4",
+      "name": "超科学",
+      "canonical_name": "超科学",
+      "type": "概念",
+      "evidence": "却有一小部分——或者还是最重要的部分是超科学的",
+      "confidence": 1.0
+    },
+    {
+      "id": "e5",
+      "name": "直觉的",
+      "canonical_name": "直觉",
+      "type": "概念",
+      "evidence": "专凭所谓“直觉的”、“自由意志的”来片面决定",
+      "confidence": 1.0
+    },
+    {
+      "id": "e6",
+      "name": "自由意志的",
+      "canonical_name": "自由意志",
+      "type": "概念",
+      "evidence": "专凭所谓“直觉的”、“自由意志的”来片面决定",
+      "confidence": 1.0
+    },
+    {
+      "id": "e7",
+      "name": "我对非我",
+      "canonical_name": "我对非我",
+      "type": "概念",
+      "evidence": "君劢列举“我对非我”之九项",
+      "confidence": 1.0
+    },
+    {
+      "id": "e8",
+      "name": "论理学公例",
+      "canonical_name": "逻辑学公例",
+      "type": "概念",
+      "evidence": "试问论理学公例何者能证其合不合乎",
+      "confidence": 1.0
+    },
+    {
+      "id": "e9",
+      "name": "科学",
+      "canonical_name": "科学",
+      "type": "概念",
+      "evidence": "殊不知科学所推寻之公例乃是",
+      "confidence": 1.0
+    },
+    {
+      "id": "e10",
+      "name": "公例",
+      "canonical_name": "公例",
+      "type": "概念",
+      "evidence": "科学所推寻之公例乃是：（一）在某种条件之下，会发生某种现象。（二）欲变更某种现象，当用某种条件",
+      "confidence": 1.0
+    }
+  ],
+  "claims": [
+    {
+      "id": "c1",
+      "speaker": "梁启超",
+      "claim": "人生问题，有大部分是可以——而且必要用科学方法来解决的。却有一小部分——或者还是最重要的部分是超科学的",
+      "target": "人生问题",
+      "claim_type": "定义性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "人生问题，有大部分是可以——而且必要用科学方法来解决的。却有一小部分——或者还是最重要的部分是超科学的",
+      "confidence": 1.0
+    },
+    {
+      "id": "c2",
+      "speaker": "梁启超",
+      "claim": "君劢、在君的主张各有偏宕之处",
+      "target": "君劢、在君的主张",
+      "claim_type": "论战策略批评",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "我对于君劢、在君的主张，觉得他们各有偏宕之处",
+      "confidence": 1.0
+    },
+    {
+      "id": "c3",
+      "speaker": "梁启超",
+      "claim": "既涉到物界，自然为环境上——时间空间——种种法则所支配，断不能如君劢说的那么单纯，专凭所谓“直觉的”、“自由意志的”来片面决定",
+      "target": "君劢",
+      "claim_type": "反驳性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "既涉到物界，自然为环境上——时间空间——种种法则所支配，断不能如君劢说的那么单纯，专凭所谓“直觉的”、“自由意志的”来片面决定",
+      "confidence": 1.0
+    },
+    {
+      "id": "c4",
+      "speaker": "梁启超",
+      "claim": "君劢列举“我对非我”之九项，他以为不能用科学方法解答者，依我看来什有八九倒是要用科学方法解答",
+      "target": "君劢",
+      "claim_type": "反驳性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "君劢列举“我对非我”之九项，他以为不能用科学方法解答者，依我看来什有八九倒是要用科学方法解答",
+      "confidence": 1.0
+    },
+    {
+      "id": "c5",
+      "speaker": "梁启超",
+      "claim": "君劢以为这类问题既不能骤然下一个笼统普遍的断案，便算屏逐在科学范围以外",
+      "target": "君劢",
+      "claim_type": "反驳性主张",
+      "claim_status": "作者概括",
+      "polarity": "negative",
+      "evidence": "其意以为这类问题既不能骤然下一个笼统普遍的断案，便算屏逐在科学范围以外",
+      "confidence": 1.0
+    },
+    {
+      "id": "c6",
+      "speaker": "梁启超",
+      "claim": "科学所推寻之公例乃是：（一）在某种条件之下，会发生某种现象。（二）欲变更某种现象，当用某种条件。笼统普遍的断案，无论其不能，即能，亦断非科学之所许",
+      "target": "科学",
+      "claim_type": "定义性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "殊不知科学所推寻之公例乃是：（一）在某种条件之下，会发生某种现象。（二）欲变更某种现象，当用某种条件。笼统普遍的断案，无论其不能，即能，亦断非科学之所许",
+      "confidence": 1.0
+    },
+    {
+      "id": "c7",
+      "speaker": "梁启超",
+      "claim": "若仿照君劢的论调，也可以说：“忽衣裘忽衣葛，忽附子玉桂忽大黄芒硝……试问论理学公例何者能证其合不合乎？”然则连衣服饮食都无一定公例可以支配了，天下有这种理吗",
+      "target": "君劢",
+      "claim_type": "反驳性主张",
+      "claim_status": "归谬构造",
+      "polarity": "negative",
+      "evidence": "若仿照君劢的论调，也可以说：“忽衣裘忽衣葛，忽附子玉桂忽大黄芒硝……试问论理学公例何者能证其合不合乎？”然则连衣服饮食都无一定公例可以支配了，天下有这种理吗",
+      "confidence": 1.0
+    },
+    {
+      "id": "c8",
+      "speaker": "梁启超",
+      "claim": "科学之职务不在绝对的普遍的证明衣裘衣葛之孰为合孰为不合，他却能证明某种体气的人在某种温度之下非衣裘或衣葛不可",
+      "target": "科学",
+      "claim_type": "定义性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "殊不知科学之职务不在绝对的普遍的证明衣裘衣葛之孰为合孰为不合，他却能证明某种体气的人在某种温度之下非衣裘或衣葛不可",
+      "confidence": 1.0
+    }
+  ],
+  "relations": [
+    {
+      "id": "r1",
+      "head": "梁启超",
+      "head_type": "人物",
+      "relation": "批评",
+      "tail": "君劢",
+      "tail_type": "人物",
+      "polarity": "negative",
+      "evidence": "我对于君劢、在君的主张，觉得他们各有偏宕之处",
+      "confidence": 1.0
+    },
+    {
+      "id": "r2",
+      "head": "梁启超",
+      "head_type": "人物",
+      "relation": "批评",
+      "tail": "在君",
+      "tail_type": "人物",
+      "polarity": "negative",
+      "evidence": "我对于君劢、在君的主张，觉得他们各有偏宕之处",
+      "confidence": 1.0
+    },
+    {
+      "id": "r3",
+      "head": "梁启超",
+      "head_type": "人物",
+      "relation": "反驳",
+      "tail": "君劢",
+      "tail_type": "人物",
+      "polarity": "negative",
+      "evidence": "既涉到物界，自然为环境上——时间空间——种种法则所支配，断不能如君劢说的那么单纯，专凭所谓“直觉的”、“自由意志的”来片面决定",
+      "confidence": 1.0
+    },
+    {
+      "id": "r4",
+      "head": "梁启超",
+      "head_type": "人物",
+      "relation": "反驳",
+      "tail": "君劢",
+      "tail_type": "人物",
+      "polarity": "negative",
+      "evidence": "君劢列举“我对非我”之九项，他以为不能用科学方法解答者，依我看来什有八九倒是要用科学方法解答",
+      "confidence": 1.0
+    },
+    {
+      "id": "r5",
+      "head": "梁启超",
+      "head_type": "人物",
+      "relation": "归谬",
+      "tail": "君劢",
+      "tail_type": "人物",
+      "polarity": "negative",
+      "evidence": "若仿照君劢的论调，也可以说：“忽衣裘忽衣葛，忽附子玉桂忽大黄芒硝……试问论理学公例何者能证其合不合乎？”然则连衣服饮食都无一定公例可以支配了，天下有这种理吗",
+      "confidence": 1.0
+    },
+    {
+      "id": "r6",
+      "head": "科学",
+      "head_type": "概念",
+      "relation": "定义",
+      "tail": "公例",
+      "tail_type": "概念",
+      "polarity": "positive",
+      "evidence": "科学所推寻之公例乃是：（一）在某种条件之下，会发生某种现象。（二）欲变更某种现象，当用某种条件",
+      "confidence": 1.0
+    }
+  ],
+  "definitions": [
+    {
+      "id": "def1",
+      "term": "科学之职务",
+      "definition": "科学之职务不在绝对的普遍的证明某事物之孰为合孰为不合，而是能证明某种体气的人在某种条件之下非某事物不可。",
+      "evidence": "殊不知科学之职务不在绝对的普遍的证明衣裘衣葛之孰为合孰为不合，他却能证明某种体气的人在某种温度之下非衣裘或衣葛不可",
+      "confidence": 1.0
+    }
+  ],
+  "citations": [],
+  "rhetorical_devices": [
+    {
+      "id": "rh1",
+      "expression": "忽衣裘忽衣葛，忽附子玉桂忽大黄芒硝……试问论理学公例何者能证其合不合乎？",
+      "device_type": "类比",
+      "literal_target": "君劢关于忽君主忽民主等问题的论调",
+      "function": "通过类比将君劢的论证推向荒谬，以反驳其观点",
+      "evidence": "若仿照君劢的论调，也可以说：“忽衣裘忽衣葛，忽附子玉桂忽大黄芒硝……试问论理学公例何者能证其合不合乎？”",
+      "confidence": 1.0
+    },
+    {
+      "id": "rh2",
+      "expression": "天下有这种理吗",
+      "device_type": "反问",
+      "literal_target": "君劢的论证逻辑",
+      "function": "以反问加强反驳语气，强调君劢论证的荒谬性",
+      "evidence": "然则连衣服饮食都无一定公例可以支配了，天下有这种理吗",
+      "confidence": 1.0
+    }
+  ],
+  "uncertainties": [
+    {
+      "item": "梁启超所说的“这两个名词”具体指哪两个名词",
+      "reason": "当前文本未明确说明，需结合前文或上下文判断"
+    },
+    {
+      "item": "“君劢既未尝高谈‘无生’”中的“无生”具体含义",
+      "reason": "当前文本未展开解释，需结合前文或上下文理解"
+    }
+  ],
+  "_meta": {
+    "status": "success",
+    "stage": "extract",
+    "model": "deepseek-ai/DeepSeek-V4-Flash",
+    "base_url": "https://api.siliconflow.cn/v1",
+    "prompt_version": "extract_prompt_v2.0",
+    "schema_version": "lite_v2.0",
+    "segment_id": "梁启超_001_4a5e589a_s0002",
+    "article_id": "梁启超_001_4a5e589a",
+    "char_start": 1014,
+    "char_end": 1609,
+    "raw_path": "E:\\1研究生\\岭南大学\\论文毕业\\capstone\\资料\\新的内容开始了\\local_upload\\kg_runs\\梁启超\\raw_outputs\\extract\\梁启超_001_4a5e589a_s0002.txt",
+    "parsed_at": "2026-05-19T21:05:07",
+    "started_at": "2026-05-19T21:01:38",
+    "elapsed_seconds": 208.474,
+    "strict_evidence_check": true,
+    "drop_unsupported_evidence": true,
+    "request_timeout_seconds": 180
+  }
+}

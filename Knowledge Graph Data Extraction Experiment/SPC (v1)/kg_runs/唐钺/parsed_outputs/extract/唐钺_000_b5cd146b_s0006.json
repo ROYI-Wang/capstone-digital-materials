@@ -1,0 +1,393 @@
+{
+  "metadata": {
+    "schema_version": "lite_v2.0",
+    "article_id": "唐钺_000_b5cd146b",
+    "article_title": "心理现象与因果律",
+    "source_author": "唐钺",
+    "section_title": "",
+    "section_author": "",
+    "segment_id": "唐钺_000_b5cd146b_s0006",
+    "segment_index": 6,
+    "source_file": "E:\\1研究生\\岭南大学\\论文毕业\\capstone\\资料\\新的内容开始了\\local_upload\\input_w1\\唐钺.txt"
+  },
+  "entities": [
+    {
+      "id": "e1",
+      "name": "无因论者",
+      "canonical_name": "无因论者",
+      "type": "阵营/群体",
+      "evidence": "无因论者所以一定要说人格文艺无因的缘故，大抵他们心中有个误解，以为人格文艺若可以分析出原因来，就没有大价值了。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e2",
+      "name": "人格",
+      "canonical_name": "人格",
+      "type": "概念",
+      "evidence": "并且人格也是集合而成的，观于人格有时分裂就知道了。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e3",
+      "name": "文艺作品",
+      "canonical_name": "文艺作品",
+      "type": "概念",
+      "evidence": "文艺作品，也是可以分析出来他的成因的。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e4",
+      "name": "个性",
+      "canonical_name": "个性",
+      "type": "概念",
+      "evidence": "他们说，无论如何分析人格及作品的成因，他们的个性是不能解释的。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e5",
+      "name": "物质现象",
+      "canonical_name": "物质现象",
+      "type": "概念",
+      "evidence": "就是物质现象也是如此。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e6",
+      "name": "心理现象",
+      "canonical_name": "心理现象",
+      "type": "概念",
+      "evidence": "心理现象也是如此。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e7",
+      "name": "事实判断",
+      "canonical_name": "事实判断",
+      "type": "概念",
+      "evidence": "这是混“事实判断”和价值判断为一谈。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e8",
+      "name": "价值判断",
+      "canonical_name": "价值判断",
+      "type": "概念",
+      "evidence": "这是混“事实判断”和价值判断为一谈。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e9",
+      "name": "詹姆斯",
+      "canonical_name": "詹姆斯",
+      "type": "人物",
+      "evidence": "这事，詹姆斯在他的《宗教经验之种种》第一讲中详论过，大意说一个事物的性质、起源、成因等和他的意义重要价值无关。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e10",
+      "name": "《宗教经验之种种》",
+      "canonical_name": "《宗教经验之种种》",
+      "type": "著作",
+      "evidence": "这事，詹姆斯在他的《宗教经验之种种》第一讲中详论过，大意说一个事物的性质、起源、成因等和他的意义重要价值无关。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e11",
+      "name": "浮子堡派",
+      "canonical_name": "浮子堡派",
+      "type": "阵营/群体",
+      "evidence": "（己）无因论者又说，心理现象有因的，不过是与物质有关的部分，至于纯粹思想，即浮子堡派所发见者，一定没有因果可言。",
+      "confidence": 0.8
+    },
+    {
+      "id": "e12",
+      "name": "纯粹思想",
+      "canonical_name": "纯粹思想",
+      "type": "概念",
+      "evidence": "（己）无因论者又说，心理现象有因的，不过是与物质有关的部分，至于纯粹思想，即浮子堡派所发见者，一定没有因果可言。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e13",
+      "name": "心理学者",
+      "canonical_name": "心理学者",
+      "type": "阵营/群体",
+      "evidence": "心理学者没有人不知道感觉情调是有因的，也没有人承认思想是无因的。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e14",
+      "name": "铁岂纳",
+      "canonical_name": "铁岂纳",
+      "type": "人物",
+      "evidence": "构造派巨子铁岂纳就是其中之一",
+      "confidence": 0.9
+    },
+    {
+      "id": "e15",
+      "name": "感觉情调",
+      "canonical_name": "感觉情调",
+      "type": "概念",
+      "evidence": "心理学者没有人不知道感觉情调是有因的，也没有人承认思想是无因的。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e16",
+      "name": "思想",
+      "canonical_name": "思想",
+      "type": "概念",
+      "evidence": "也没有人承认思想是无因的。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e17",
+      "name": "因果",
+      "canonical_name": "因果",
+      "type": "概念",
+      "evidence": "（己）无因论者又说，心理现象有因的，不过是与物质有关的部分，至于纯粹思想，即浮子堡派所发见者，一定没有因果可言。",
+      "confidence": 0.9
+    }
+  ],
+  "claims": [
+    {
+      "id": "c1",
+      "speaker": "唐钺",
+      "claim": "人格也是集合而成的，观于人格有时分裂就知道了。",
+      "target": "人格",
+      "claim_type": "定义性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "并且人格也是集合而成的，观于人格有时分裂就知道了。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c2",
+      "speaker": "唐钺",
+      "claim": "文艺作品，也是可以分析出来他的成因的。",
+      "target": "文艺作品",
+      "claim_type": "知识论主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "文艺作品，也是可以分析出来他的成因的。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c3",
+      "speaker": "无因论者",
+      "claim": "无论如何分析人格及作品的成因，他们的个性是不能解释的。",
+      "target": "人格",
+      "claim_type": "知识论主张",
+      "claim_status": "间接转述",
+      "polarity": "negative",
+      "evidence": "他们说，无论如何分析人格及作品的成因，他们的个性是不能解释的。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c4",
+      "speaker": "唐钺",
+      "claim": "各成分相合的结果，许多都会使我们觉得他有个性，就是物质现象也是如此。",
+      "target": "个性",
+      "claim_type": "知识论主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "须知各成分相合的结果，许多都会使我们觉得他有个性，就是物质现象也是如此。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c5",
+      "speaker": "唐钺",
+      "claim": "水有水的个性，并不是合轻养二气的性质而成的；然而我们却不能因此说水不是轻养化合成功的。",
+      "target": "个性",
+      "claim_type": "知识论主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "比如轻养二气化合成水。水有水的个性，并不是合轻养二气的性质而成的；然而我们却不能因此说水不是轻养化合成功的。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c6",
+      "speaker": "唐钺",
+      "claim": "无因论者所以一定要说人格文艺无因的缘故，大抵他们心中有个误解，以为人格文艺若可以分析出原因来，就没有大价值了。",
+      "target": "无因论者",
+      "claim_type": "论战策略批评",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "无因论者所以一定要说人格文艺无因的缘故，大抵他们心中有个误解，以为人格文艺若可以分析出原因来，就没有大价值了。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c7",
+      "speaker": "唐钺",
+      "claim": "这是混“事实判断”和价值判断为一谈。",
+      "target": "无因论者",
+      "claim_type": "论战策略批评",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "这是混“事实判断”和价值判断为一谈。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c8",
+      "speaker": "詹姆斯",
+      "claim": "一个事物的性质、起源、成因等和他的意义重要价值无关。",
+      "target": "价值判断",
+      "claim_type": "知识论主张",
+      "claim_status": "间接转述",
+      "polarity": "positive",
+      "evidence": "这事，詹姆斯在他的《宗教经验之种种》第一讲中详论过，大意说一个事物的性质、起源、成因等和他的意义重要价值无关。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c9",
+      "speaker": "唐钺",
+      "claim": "我们不用怕因为我们知道人格文艺的原因，文艺人格就失其价值了。",
+      "target": "人格",
+      "claim_type": "结论性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "所以我们不用怕因为我们知道人格文艺的原因，文艺人格就失其价值了。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c10",
+      "speaker": "无因论者",
+      "claim": "心理现象有因的，不过是与物质有关的部分，至于纯粹思想，即浮子堡派所发见者，一定没有因果可言。",
+      "target": "心理现象",
+      "claim_type": "知识论主张",
+      "claim_status": "间接转述",
+      "polarity": "negative",
+      "evidence": "（己）无因论者又说，心理现象有因的，不过是与物质有关的部分，至于纯粹思想，即浮子堡派所发见者，一定没有因果可言。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c11",
+      "speaker": "唐钺",
+      "claim": "这也是搔不着痒的话。",
+      "target": "无因论者",
+      "claim_type": "论战策略批评",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "这也是搔不着痒的话。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c12",
+      "speaker": "唐钺",
+      "claim": "纵使果有这个东西，也不过同感觉情调并列为心理元素罢了。",
+      "target": "纯粹思想",
+      "claim_type": "知识论主张",
+      "claim_status": "作者推论",
+      "polarity": "neutral",
+      "evidence": "纵使果有这个东西，也不过同感觉情调并列为心理元素罢了。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c13",
+      "speaker": "唐钺",
+      "claim": "心理学者没有人不知道感觉情调是有因的，也没有人承认思想是无因的。",
+      "target": "感觉情调",
+      "claim_type": "知识论主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "心理学者没有人不知道感觉情调是有因的，也没有人承认思想是无因的。",
+      "confidence": 0.9
+    }
+  ],
+  "relations": [
+    {
+      "id": "r1",
+      "head": "唐钺",
+      "head_type": "人物",
+      "relation": "相关",
+      "tail": "詹姆斯",
+      "tail_type": "人物",
+      "polarity": "positive",
+      "evidence": "这事，詹姆斯在他的《宗教经验之种种》第一讲中详论过，大意说一个事物的性质、起源、成因等和他的意义重要价值无关。",
+      "confidence": 0.9
+    },
+    {
+      "id": "r2",
+      "head": "唐钺",
+      "head_type": "人物",
+      "relation": "反驳",
+      "tail": "无因论者",
+      "tail_type": "阵营/群体",
+      "polarity": "negative",
+      "evidence": "（己）无因论者又说，心理现象有因的，不过是与物质有关的部分，至于纯粹思想，即浮子堡派所发见者，一定没有因果可言。这也是搔不着痒的话。",
+      "confidence": 0.9
+    }
+  ],
+  "definitions": [
+    {
+      "id": "def1",
+      "term": "人格",
+      "definition": "人格是集合而成的，可以分裂。",
+      "evidence": "并且人格也是集合而成的，观于人格有时分裂就知道了。",
+      "confidence": 0.9
+    },
+    {
+      "id": "def2",
+      "term": "个性",
+      "definition": "各成分相合的结果，许多都会使我们觉得他有个性。",
+      "evidence": "须知各成分相合的结果，许多都会使我们觉得他有个性，就是物质现象也是如此。",
+      "confidence": 0.9
+    }
+  ],
+  "citations": [
+    {
+      "id": "cit1",
+      "citer": "唐钺",
+      "quoted_author": "詹姆斯",
+      "quoted_work": "《宗教经验之种种》",
+      "quoted_claim": "一个事物的性质、起源、成因等和他的意义重要价值无关。",
+      "function": "援引权威支持",
+      "evidence": "这事，詹姆斯在他的《宗教经验之种种》第一讲中详论过，大意说一个事物的性质、起源、成因等和他的意义重要价值无关。",
+      "confidence": 0.9
+    }
+  ],
+  "rhetorical_devices": [
+    {
+      "id": "rh1",
+      "expression": "强词",
+      "device_type": "标签化",
+      "literal_target": "无因论者的观点",
+      "function": "否定对方论证的合理性",
+      "evidence": "这句话不过是强词罢了。",
+      "confidence": 0.9
+    },
+    {
+      "id": "rh2",
+      "expression": "搔不着痒",
+      "device_type": "比喻",
+      "literal_target": "无因论者的论证",
+      "function": "批评对方论证不切要害",
+      "evidence": "这也是搔不着痒的话。",
+      "confidence": 0.9
+    }
+  ],
+  "uncertainties": [
+    {
+      "item": "浮子堡派的具体所指",
+      "reason": "文本中仅出现“浮子堡派”名称，未提供更多信息，无法确定其具体指代。"
+    }
+  ],
+  "_meta": {
+    "status": "success",
+    "stage": "extract",
+    "model": "deepseek-ai/DeepSeek-V4-Flash",
+    "base_url": "https://api.siliconflow.cn/v1",
+    "prompt_version": "extract_prompt_v2.0",
+    "schema_version": "lite_v2.0",
+    "segment_id": "唐钺_000_b5cd146b_s0006",
+    "article_id": "唐钺_000_b5cd146b",
+    "char_start": 3031,
+    "char_end": 3580,
+    "raw_path": "E:\\1研究生\\岭南大学\\论文毕业\\capstone\\资料\\新的内容开始了\\local_upload\\kg_runs\\唐钺\\raw_outputs\\extract\\唐钺_000_b5cd146b_s0006.txt",
+    "parsed_at": "2026-05-20T01:46:49",
+    "started_at": "2026-05-20T01:45:57",
+    "elapsed_seconds": 51.788,
+    "strict_evidence_check": true,
+    "drop_unsupported_evidence": true,
+    "request_timeout_seconds": 180
+  }
+}

@@ -1,0 +1,643 @@
+{
+  "metadata": {
+    "schema_version": "lite_v2.0",
+    "article_id": "王平陵_000_d1d9c442",
+    "article_title": "“科哲之战”的尾声",
+    "source_author": "王平陵",
+    "section_title": "",
+    "section_author": "",
+    "segment_id": "王平陵_000_d1d9c442_s0002",
+    "segment_index": 2,
+    "source_file": "E:\\1研究生\\岭南大学\\论文毕业\\capstone\\资料\\新的内容开始了\\local_upload\\input_w0\\王平陵.txt"
+  },
+  "entities": [
+    {
+      "id": "e1",
+      "name": "科学",
+      "canonical_name": "科学",
+      "type": "概念",
+      "evidence": "学进步，则哲学亦必进步；哲学发达，则科学亦必有同样的发达",
+      "confidence": 1.0
+    },
+    {
+      "id": "e2",
+      "name": "哲学",
+      "canonical_name": "哲学",
+      "type": "概念",
+      "evidence": "学进步，则哲学亦必进步；哲学发达，则科学亦必有同样的发达",
+      "confidence": 1.0
+    },
+    {
+      "id": "e3",
+      "name": "人生",
+      "canonical_name": "人生",
+      "type": "概念",
+      "evidence": "两者各尽其职能，于是人生便得完全的进步了",
+      "confidence": 1.0
+    },
+    {
+      "id": "e4",
+      "name": "信仰",
+      "canonical_name": "信仰",
+      "type": "概念",
+      "evidence": "不凭藉信仰，不依据传说，专恃合理的智能为武器",
+      "confidence": 1.0
+    },
+    {
+      "id": "e5",
+      "name": "传说",
+      "canonical_name": "传说",
+      "type": "概念",
+      "evidence": "不凭藉信仰，不依据传说，专恃合理的智能为武器",
+      "confidence": 1.0
+    },
+    {
+      "id": "e6",
+      "name": "合理的智能",
+      "canonical_name": "合理的智能",
+      "type": "概念",
+      "evidence": "专恃合理的智能为武器，以穷究宇宙之真理的",
+      "confidence": 1.0
+    },
+    {
+      "id": "e7",
+      "name": "宇宙之真理",
+      "canonical_name": "宇宙之真理",
+      "type": "概念",
+      "evidence": "以穷究宇宙之真理的，是为哲学和科学的共同出发点",
+      "confidence": 1.0
+    },
+    {
+      "id": "e8",
+      "name": "实有的全体性及直接性",
+      "canonical_name": "实有的全体性及直接性",
+      "type": "概念",
+      "evidence": "哲学以实有的全体性及直接性为对象",
+      "confidence": 1.0
+    },
+    {
+      "id": "e9",
+      "name": "实有之部分性及间接性",
+      "canonical_name": "实有之部分性及间接性",
+      "type": "概念",
+      "evidence": "科学则以实有之部分性及间接性为对象",
+      "confidence": 1.0
+    },
+    {
+      "id": "e10",
+      "name": "规范及价值",
+      "canonical_name": "规范及价值",
+      "type": "概念",
+      "evidence": "哲学的目标，在创造其规范及价值",
+      "confidence": 1.0
+    },
+    {
+      "id": "e11",
+      "name": "法则与事实",
+      "canonical_name": "法则与事实",
+      "type": "概念",
+      "evidence": "科学的目标，在说明或运用其法则与事实",
+      "confidence": 1.0
+    },
+    {
+      "id": "e12",
+      "name": "全我的要求",
+      "canonical_name": "全我的要求",
+      "type": "概念",
+      "evidence": "哲学以满足全我的要求为目的",
+      "confidence": 1.0
+    },
+    {
+      "id": "e13",
+      "name": "知的要求",
+      "canonical_name": "知的要求",
+      "type": "概念",
+      "evidence": "科学则惟以满足知的要求，及功利的要求为目的",
+      "confidence": 1.0
+    },
+    {
+      "id": "e14",
+      "name": "功利的要求",
+      "canonical_name": "功利的要求",
+      "type": "概念",
+      "evidence": "科学则惟以满足知的要求，及功利的要求为目的",
+      "confidence": 1.0
+    },
+    {
+      "id": "e15",
+      "name": "人格的根本性质",
+      "canonical_name": "人格的根本性质",
+      "type": "概念",
+      "evidence": "哲学的机能，为人格的根本性质",
+      "confidence": 1.0
+    },
+    {
+      "id": "e16",
+      "name": "理知作用",
+      "canonical_name": "理知作用",
+      "type": "概念",
+      "evidence": "而科学的机能，则为理知作用",
+      "confidence": 1.0
+    },
+    {
+      "id": "e17",
+      "name": "自我之学",
+      "canonical_name": "自我之学",
+      "type": "概念",
+      "evidence": "故哲学为“自我之学”，或“主观之学”",
+      "confidence": 1.0
+    },
+    {
+      "id": "e18",
+      "name": "主观之学",
+      "canonical_name": "主观之学",
+      "type": "概念",
+      "evidence": "故哲学为“自我之学”，或“主观之学”",
+      "confidence": 1.0
+    },
+    {
+      "id": "e19",
+      "name": "非我之学",
+      "canonical_name": "非我之学",
+      "type": "概念",
+      "evidence": "故科学为“非我之学”或“客观之学”",
+      "confidence": 1.0
+    },
+    {
+      "id": "e20",
+      "name": "客观之学",
+      "canonical_name": "客观之学",
+      "type": "概念",
+      "evidence": "故科学为“非我之学”或“客观之学”",
+      "confidence": 1.0
+    },
+    {
+      "id": "e21",
+      "name": "根本疑问",
+      "canonical_name": "根本疑问",
+      "type": "概念",
+      "evidence": "哲学以解决根本疑问，满足根本要求为职能",
+      "confidence": 1.0
+    },
+    {
+      "id": "e22",
+      "name": "根本要求",
+      "canonical_name": "根本要求",
+      "type": "概念",
+      "evidence": "哲学以解决根本疑问，满足根本要求为职能",
+      "confidence": 1.0
+    },
+    {
+      "id": "e23",
+      "name": "实用疑问",
+      "canonical_name": "实用疑问",
+      "type": "概念",
+      "evidence": "科学则以解决实用疑问，满足实用要求为职能",
+      "confidence": 1.0
+    },
+    {
+      "id": "e24",
+      "name": "实用要求",
+      "canonical_name": "实用要求",
+      "type": "概念",
+      "evidence": "科学则以解决实用疑问，满足实用要求为职能",
+      "confidence": 1.0
+    },
+    {
+      "id": "e25",
+      "name": "科哲之战",
+      "canonical_name": "科哲之战",
+      "type": "历史事件",
+      "evidence": "自从“科哲之战”两方面正式开火以来，声势非常浩大",
+      "confidence": 1.0
+    },
+    {
+      "id": "e26",
+      "name": "《时事新报·学灯》",
+      "canonical_name": "《时事新报·学灯》",
+      "type": "著作",
+      "evidence": "—— 转录《时事新报·学灯》——",
+      "confidence": 1.0
+    }
+  ],
+  "claims": [
+    {
+      "id": "c1",
+      "speaker": "王平陵",
+      "claim": "学进步，则哲学亦必进步；哲学发达，则科学亦必有同样的发达",
+      "target": "科学",
+      "claim_type": "方法论主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "学进步，则哲学亦必进步；哲学发达，则科学亦必有同样的发达",
+      "confidence": 1.0
+    },
+    {
+      "id": "c2",
+      "speaker": "王平陵",
+      "claim": "两者各尽其职能，于是人生便得完全的进步了",
+      "target": "人生",
+      "claim_type": "结论性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "两者各尽其职能，于是人生便得完全的进步了",
+      "confidence": 1.0
+    },
+    {
+      "id": "c3",
+      "speaker": "王平陵",
+      "claim": "不凭藉信仰，不依据传说，专恃合理的智能为武器，以穷究宇宙之真理的，是为哲学和科学的共同出发点",
+      "target": "哲学",
+      "claim_type": "定义性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "不凭藉信仰，不依据传说，专恃合理的智能为武器，以穷究宇宙之真理的，是为哲学和科学的共同出发点",
+      "confidence": 1.0
+    },
+    {
+      "id": "c4",
+      "speaker": "王平陵",
+      "claim": "哲学以实有的全体性及直接性为对象；所以他的原理是具体的，根本的",
+      "target": "哲学",
+      "claim_type": "定义性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "哲学以实有的全体性及直接性为对象；所以他的原理是具体的，根本的",
+      "confidence": 1.0
+    },
+    {
+      "id": "c5",
+      "speaker": "王平陵",
+      "claim": "科学则以实有之部分性及间接性为对象；所以他的原理是抽象的，表面的，假定的",
+      "target": "科学",
+      "claim_type": "定义性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "科学则以实有之部分性及间接性为对象；所以他的原理是抽象的，表面的，假定的",
+      "confidence": 1.0
+    },
+    {
+      "id": "c6",
+      "speaker": "王平陵",
+      "claim": "哲学的目标，在创造其规范及价值；科学的目标，在说明或运用其法则与事实",
+      "target": "哲学",
+      "claim_type": "定义性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "哲学的目标，在创造其规范及价值；科学的目标，在说明或运用其法则与事实",
+      "confidence": 1.0
+    },
+    {
+      "id": "c7",
+      "speaker": "王平陵",
+      "claim": "哲学以满足全我的要求为目的，科学则惟以满足知的要求，及功利的要求为目的",
+      "target": "哲学",
+      "claim_type": "定义性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "哲学以满足全我的要求为目的，科学则惟以满足知的要求，及功利的要求为目的",
+      "confidence": 1.0
+    },
+    {
+      "id": "c8",
+      "speaker": "王平陵",
+      "claim": "哲学的机能，为人格的根本性质，而科学的机能，则为理知作用",
+      "target": "哲学",
+      "claim_type": "定义性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "哲学的机能，为人格的根本性质，而科学的机能，则为理知作用",
+      "confidence": 1.0
+    },
+    {
+      "id": "c9",
+      "speaker": "王平陵",
+      "claim": "哲学之统一原理，对于实有为内在的，故哲学为“自我之学”，或“主观之学”；科学之统一原理，对于实有为外在的，故科学为“非我之学”或“客观之学”",
+      "target": "哲学",
+      "claim_type": "定义性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "哲学之统一原理，对于实有为内在的，故哲学为“自我之学”，或“主观之学”；科学之统一原理，对于实有为外在的，故科学为“非我之学”或“客观之学”",
+      "confidence": 1.0
+    },
+    {
+      "id": "c10",
+      "speaker": "王平陵",
+      "claim": "哲学以解决根本疑问，满足根本要求为职能，科学则以解决实用疑问，满足实用要求为职能",
+      "target": "哲学",
+      "claim_type": "定义性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "哲学以解决根本疑问，满足根本要求为职能，科学则以解决实用疑问，满足实用要求为职能",
+      "confidence": 1.0
+    },
+    {
+      "id": "c11",
+      "speaker": "王平陵",
+      "claim": "自从“科哲之战”两方面正式开火以来，声势非常浩大，但是现在不知为什么沉寂下去",
+      "target": "科哲之战",
+      "claim_type": "历史解释",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "自从“科哲之战”两方面正式开火以来，声势非常浩大，但是现在不知为什么沉寂下去",
+      "confidence": 1.0
+    },
+    {
+      "id": "c12",
+      "speaker": "王平陵",
+      "claim": "这篇论文，或者已经是“科哲之战”的尾声了",
+      "target": "科哲之战",
+      "claim_type": "价值评价",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "所以我这篇论文，或者已经是“科哲之战”的尾声了",
+      "confidence": 1.0
+    }
+  ],
+  "relations": [
+    {
+      "id": "r1",
+      "head": "科学",
+      "head_type": "概念",
+      "relation": "导致",
+      "tail": "哲学",
+      "tail_type": "概念",
+      "polarity": "positive",
+      "evidence": "学进步，则哲学亦必进步；哲学发达，则科学亦必有同样的发达",
+      "confidence": 1.0
+    },
+    {
+      "id": "r2",
+      "head": "哲学",
+      "head_type": "概念",
+      "relation": "导致",
+      "tail": "科学",
+      "tail_type": "概念",
+      "polarity": "positive",
+      "evidence": "哲学发达，则科学亦必有同样的发达",
+      "confidence": 1.0
+    },
+    {
+      "id": "r3",
+      "head": "哲学",
+      "head_type": "概念",
+      "relation": "区分",
+      "tail": "科学",
+      "tail_type": "概念",
+      "polarity": "neutral",
+      "evidence": "综上所述科学与哲学的异同，现在为明了起见，分别条举于左",
+      "confidence": 1.0
+    },
+    {
+      "id": "r4",
+      "head": "哲学",
+      "head_type": "概念",
+      "relation": "包含",
+      "tail": "实有的全体性及直接性",
+      "tail_type": "概念",
+      "polarity": "neutral",
+      "evidence": "哲学以实有的全体性及直接性为对象",
+      "confidence": 1.0
+    },
+    {
+      "id": "r5",
+      "head": "科学",
+      "head_type": "概念",
+      "relation": "包含",
+      "tail": "实有之部分性及间接性",
+      "tail_type": "概念",
+      "polarity": "neutral",
+      "evidence": "科学则以实有之部分性及间接性为对象",
+      "confidence": 1.0
+    },
+    {
+      "id": "r6",
+      "head": "哲学",
+      "head_type": "概念",
+      "relation": "包含",
+      "tail": "规范及价值",
+      "tail_type": "概念",
+      "polarity": "neutral",
+      "evidence": "哲学的目标，在创造其规范及价值",
+      "confidence": 1.0
+    },
+    {
+      "id": "r7",
+      "head": "科学",
+      "head_type": "概念",
+      "relation": "包含",
+      "tail": "法则与事实",
+      "tail_type": "概念",
+      "polarity": "neutral",
+      "evidence": "科学的目标，在说明或运用其法则与事实",
+      "confidence": 1.0
+    },
+    {
+      "id": "r8",
+      "head": "哲学",
+      "head_type": "概念",
+      "relation": "包含",
+      "tail": "全我的要求",
+      "tail_type": "概念",
+      "polarity": "neutral",
+      "evidence": "哲学以满足全我的要求为目的",
+      "confidence": 1.0
+    },
+    {
+      "id": "r9",
+      "head": "科学",
+      "head_type": "概念",
+      "relation": "包含",
+      "tail": "知的要求",
+      "tail_type": "概念",
+      "polarity": "neutral",
+      "evidence": "科学则惟以满足知的要求，及功利的要求为目的",
+      "confidence": 1.0
+    },
+    {
+      "id": "r10",
+      "head": "科学",
+      "head_type": "概念",
+      "relation": "包含",
+      "tail": "功利的要求",
+      "tail_type": "概念",
+      "polarity": "neutral",
+      "evidence": "科学则惟以满足知的要求，及功利的要求为目的",
+      "confidence": 1.0
+    },
+    {
+      "id": "r11",
+      "head": "哲学",
+      "head_type": "概念",
+      "relation": "包含",
+      "tail": "人格的根本性质",
+      "tail_type": "概念",
+      "polarity": "neutral",
+      "evidence": "哲学的机能，为人格的根本性质",
+      "confidence": 1.0
+    },
+    {
+      "id": "r12",
+      "head": "科学",
+      "head_type": "概念",
+      "relation": "包含",
+      "tail": "理知作用",
+      "tail_type": "概念",
+      "polarity": "neutral",
+      "evidence": "而科学的机能，则为理知作用",
+      "confidence": 1.0
+    },
+    {
+      "id": "r13",
+      "head": "哲学",
+      "head_type": "概念",
+      "relation": "包含",
+      "tail": "自我之学",
+      "tail_type": "概念",
+      "polarity": "neutral",
+      "evidence": "故哲学为“自我之学”，或“主观之学”",
+      "confidence": 1.0
+    },
+    {
+      "id": "r14",
+      "head": "哲学",
+      "head_type": "概念",
+      "relation": "包含",
+      "tail": "主观之学",
+      "tail_type": "概念",
+      "polarity": "neutral",
+      "evidence": "故哲学为“自我之学”，或“主观之学”",
+      "confidence": 1.0
+    },
+    {
+      "id": "r15",
+      "head": "科学",
+      "head_type": "概念",
+      "relation": "包含",
+      "tail": "非我之学",
+      "tail_type": "概念",
+      "polarity": "neutral",
+      "evidence": "故科学为“非我之学”或“客观之学”",
+      "confidence": 1.0
+    },
+    {
+      "id": "r16",
+      "head": "科学",
+      "head_type": "概念",
+      "relation": "包含",
+      "tail": "客观之学",
+      "tail_type": "概念",
+      "polarity": "neutral",
+      "evidence": "故科学为“非我之学”或“客观之学”",
+      "confidence": 1.0
+    },
+    {
+      "id": "r17",
+      "head": "哲学",
+      "head_type": "概念",
+      "relation": "包含",
+      "tail": "根本疑问",
+      "tail_type": "概念",
+      "polarity": "neutral",
+      "evidence": "哲学以解决根本疑问，满足根本要求为职能",
+      "confidence": 1.0
+    },
+    {
+      "id": "r18",
+      "head": "哲学",
+      "head_type": "概念",
+      "relation": "包含",
+      "tail": "根本要求",
+      "tail_type": "概念",
+      "polarity": "neutral",
+      "evidence": "哲学以解决根本疑问，满足根本要求为职能",
+      "confidence": 1.0
+    },
+    {
+      "id": "r19",
+      "head": "科学",
+      "head_type": "概念",
+      "relation": "包含",
+      "tail": "实用疑问",
+      "tail_type": "概念",
+      "polarity": "neutral",
+      "evidence": "科学则以解决实用疑问，满足实用要求为职能",
+      "confidence": 1.0
+    },
+    {
+      "id": "r20",
+      "head": "科学",
+      "head_type": "概念",
+      "relation": "包含",
+      "tail": "实用要求",
+      "tail_type": "概念",
+      "polarity": "neutral",
+      "evidence": "科学则以解决实用疑问，满足实用要求为职能",
+      "confidence": 1.0
+    }
+  ],
+  "definitions": [
+    {
+      "id": "def1",
+      "term": "哲学和科学的共同出发点",
+      "definition": "不凭藉信仰，不依据传说，专恃合理的智能为武器，以穷究宇宙之真理",
+      "evidence": "不凭藉信仰，不依据传说，专恃合理的智能为武器，以穷究宇宙之真理的，是为哲学和科学的共同出发点",
+      "confidence": 1.0
+    },
+    {
+      "id": "def2",
+      "term": "哲学的机能",
+      "definition": "人格的根本性质",
+      "evidence": "哲学的机能，为人格的根本性质",
+      "confidence": 1.0
+    },
+    {
+      "id": "def3",
+      "term": "科学的机能",
+      "definition": "理知作用",
+      "evidence": "而科学的机能，则为理知作用",
+      "confidence": 1.0
+    },
+    {
+      "id": "def4",
+      "term": "哲学",
+      "definition": "自我之学或主观之学，其统一原理对于实有为内在的",
+      "evidence": "哲学之统一原理，对于实有为内在的，故哲学为“自我之学”，或“主观之学”",
+      "confidence": 1.0
+    },
+    {
+      "id": "def5",
+      "term": "科学",
+      "definition": "非我之学或客观之学，其统一原理对于实有为外在的",
+      "evidence": "科学之统一原理，对于实有为外在的，故科学为“非我之学”或“客观之学”",
+      "confidence": 1.0
+    }
+  ],
+  "citations": [],
+  "rhetorical_devices": [],
+  "uncertainties": [
+    {
+      "item": "王平陵是否在正文中以第一人称自称",
+      "reason": "正文中未出现“我”“吾”等第一人称代词，但作者名出现在转录标注中，无法确定作者是否在正文中自称"
+    }
+  ],
+  "_meta": {
+    "status": "success",
+    "stage": "extract",
+    "model": "deepseek-ai/DeepSeek-V4-Flash",
+    "base_url": "https://api.siliconflow.cn/v1",
+    "prompt_version": "extract_prompt_v2.0",
+    "schema_version": "lite_v2.0",
+    "segment_id": "王平陵_000_d1d9c442_s0002",
+    "article_id": "王平陵_000_d1d9c442",
+    "char_start": 1033,
+    "char_end": 1599,
+    "raw_path": "E:\\1研究生\\岭南大学\\论文毕业\\capstone\\资料\\新的内容开始了\\local_upload\\kg_runs\\王平陵\\raw_outputs\\extract\\王平陵_000_d1d9c442_s0002.txt",
+    "parsed_at": "2026-05-19T14:43:19",
+    "started_at": "2026-05-19T14:42:37",
+    "elapsed_seconds": 42.445,
+    "strict_evidence_check": true,
+    "drop_unsupported_evidence": true,
+    "request_timeout_seconds": 180
+  }
+}

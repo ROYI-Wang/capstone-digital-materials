@@ -1,0 +1,649 @@
+{
+  "metadata": {
+    "schema_version": "lite_v3.0",
+    "article_id": "丁文江2_000_e838922e",
+    "article_title": "玄学与科学——答张君劢",
+    "source_author": "丁文江",
+    "section_title": "",
+    "section_author": "",
+    "segment_id": "丁文江2_000_e838922e_s0011",
+    "segment_index": 11,
+    "source_file": "E:\\1研究生\\岭南大学\\论文毕业\\capstone\\资料\\新的内容开始了\\local_upload\\input_丁文江\\丁文江2.txt"
+  },
+  "entities": [
+    {
+      "id": "e1",
+      "name": "进化的学说",
+      "canonical_name": "进化的学说",
+      "type": "主义/学说/理论",
+      "evidence": "若是进化的学说自己不进化，岂非自相矛盾？",
+      "confidence": 0.9
+    },
+    {
+      "id": "e2",
+      "name": "君劢",
+      "canonical_name": "张君劢",
+      "type": "人物",
+      "evidence": "君劢最得意的话是“牢固不拔”的物理学能“推算未来”，不是生物心理学公例所做得到的。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e3",
+      "name": "物理学",
+      "canonical_name": "物理学",
+      "type": "概念",
+      "evidence": "君劢最得意的话是“牢固不拔”的物理学能“推算未来”，不是生物心理学公例所做得到的。",
+      "confidence":  fu0.9
+    },
+    {
+      "id": "e4",
+      "name": "生物心理学公例",
+      "canonical_name": "生物心理学公例",
+      "type": "概念",
+      "evidence": "君劢最得意的话是“牢固不拔”的物理学能“推算未来”，不是生物心理学公例所做得到的。",
+      "confidence": 0.8
+    },
+    {
+      "id": "e5",
+      "name": "推算未来",
+      "canonical_name": "推算未来",
+      "type": "概念",
+      "evidence": "他没有给“推算未来”下一个定义。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e6",
+      "name": "物体上左右各加一力，则其所行之路为平行方形之对角线",
+      "canonical_name": "物体上左右各加一力，则其所行之路为平行方形之对角线",
+      "type": "例证",
+      "evidence": "他只举了一个例说，“物体上左右各加一力，则其所行之路为平行方形之对角线。”",
+      "confidence": 0.9
+    },
+    {
+      "id": "e7",
+      "name": "天文家可以预算天象",
+      "canonical_name": "天文家可以预算天象",
+      "type": "观点",
+      "evidence": "他又说天文家可以预算天象。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e8",
+      "name": "医学",
+      "canonical_name": "医学",
+      "type": "概念",
+      "evidence": "我不知道君劢信不信医学是应用生物学，不过若是有人得了肠气夫斯或是疟疾，连我都可以预算他的温度。",
+      "confidence": 0.8
+    },
+    {
+      "id": "e9",
+      "name": "应用生物学",
+      "canonical_name": "应用生物学",
+      "type": "概念",
+      "evidence": "我不知道君劢信不信医学是应用生物学，不过若是有人得了肠气夫斯或是疟疾，连我都可以预算他的温度。",
+      "confidence": 0.8
+    },
+    {
+      "id": "e10",
+      "name": "肠气夫斯",
+      "canonical_name": "肠气夫斯",
+      "type": "概念",
+      "evidence": "不过若是有人得了肠气夫斯或是疟疾，连我都可以预算他的温度。",
+      "confidence": 0.8
+    },
+    {
+      "id": "e11",
+      "name": "疟疾",
+      "canonical_name": "疟疾",
+      "type": "概念",
+      "evidence": "不过若是有人得了肠气夫斯或是疟疾，连我都可以预算他的温度。",
+      "confidence": 0.8
+    },
+    {
+      "id": "e12",
+      "name": "德夫利士",
+      "canonical_name": "德夫利士",
+      "type": "人物",
+      "evidence": "自从德夫利士重新发现曼德尔公例之后，若是我们拿一种黄皮的玉蜀黍来和白皮的杂种，新生出来的玉蜀黍上面有几粒是黄皮的，几粒是白皮的，都可以预先算得出来。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e13",
+      "name": "曼德尔公例",
+      "canonical_name": "曼德尔公例",
+      "type": "概念",
+      "evidence": "自从德夫利士重新发现曼德尔公例之后，若是我们拿一种黄皮的玉蜀黍来和白皮的杂种，新生出来的玉蜀黍上面有几粒是黄皮的，几粒是白皮的，都可以预先算得出来。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e14",
+      "name": "黄皮的玉蜀黍",
+      "canonical_name": "黄皮的玉蜀黍",
+      "type": "例证",
+      "evidence": "若是我们拿一种黄皮的玉蜀黍来和白皮的杂种，新生出来的玉蜀黍上面有几粒是黄皮的，几粒是白皮的，都可以预先算得出来。",
+      "confidence": 0.8
+    },
+    {
+      "id": "e15",
+      "name": "白皮的杂种",
+      "canonical_name": "白皮的杂种",
+      "type": "例证",
+      "evidence": "若是我们拿一种黄皮的玉蜀黍来和白皮的杂种，新生出来的玉蜀黍上面有几粒是黄皮的，几粒是白皮的，都可以预先算得出来。",
+      "confidence": 0.8
+    },
+    {
+      "id": "e16",
+      "name": "遗传性上大发明",
+      "canonical_name": "遗传性上大发明",
+      "type": "概念",
+      "evidence": "近年来这种遗传性上大发明，在我个人眼光看起来其重要不亚于爱因斯坦的相对论。",
+      "confidence": 0.8
+    },
+    {
+      "id": "e17",
+      "name": "爱因斯坦的相对论",
+      "canonical_name": "爱因斯坦的相对论",
+      "type": "主义/学说/理论",
+      "evidence": "近年来这种遗传性上大发明，在我个人眼光看起来其重要不亚于爱因斯坦的相对论。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e18",
+      "name": "嘉沙尔",
+      "canonical_name": "嘉沙尔",
+      "type": "人物",
+      "evidence": "最近嘉沙尔要证明生殖细胞的独立性，拿一个未成年的黑巴西猪的卵巢，移植在一个成年的雌白巴西猪肚皮里头，四个月以后再用一个雄的白巴西猪给他交合，生下来的三胎，都是黑巴西猪！",
+      "confidence": 0.9
+    },
+    {
+      "id": "e19",
+      "name": "生殖细胞的独立性",
+      "canonical_name": "生殖细胞的独立性",
+      "type": "概念",
+      "evidence": "最近嘉沙尔要证明生殖细胞的独立性，拿一个未成年的黑巴西猪的卵巢，移植在一个成年的雌白巴西猪肚皮里头，四个月以后再用一个雄的白巴西猪给他交合，生下来的三胎，都是黑巴西猪！",
+      "confidence": 0.8
+    },
+    {
+      "id": "e20",
+      "name": "黑巴西猪",
+      "canonical_name": "黑巴西猪",
+      "type": "例证",
+      "evidence": "拿一个未成年的黑巴西猪的卵巢，移植在一个成年的雌白巴西猪肚皮里头，四个月以后再用一个雄的白巴西猪给他交合，生下来的三胎，都是黑巴西猪！",
+      "confidence": 0.8
+    },
+    {
+      "id": "e21",
+      "name": "雌白巴西猪",
+      "canonical_name": "雌白巴西猪",
+      "type": "例证",
+      "evidence": "拿一个未成年的黑巴西猪的卵巢，移植在一个成年的雌白巴西猪肚皮里头，四个月以后再用一个雄的白巴西猪给他交合，生下来的三胎，都是黑巴西猪！",
+      "confidence": 0.8
+    },
+    {
+      "id": "e22",
+      "name": "雄的白巴西猪",
+      "canonical_name": "雄的白巴西猪",
+      "type": "例证",
+      "evidence": "四个月以后再用一个雄的白巴西猪给他交合，生下来的三胎，都是黑巴西猪！",
+      "confidence": 0.8
+    },
+    {
+      "id": "e23",
+      "name": "嘉沙尔的预言",
+      "canonical_name": "嘉沙尔的预言",
+      "type": "观点",
+      "evidence": "同嘉沙尔的预言是一样的。",
+      "confidence": 0.8
+    },
+    {
+      "id": "e24",
+      "name": "心理学",
+      "canonical_name": "心理学",
+      "type": "概念",
+      "evidence": "我的心理学的程度同君劢的生物学差不多，不敢冒昧给他辩护，但是就我所知道的正式心理学以外，动物心理学，孩童心理学，同反常心理学近来发明很多。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e25",
+      "name": "生物学",
+      "canonical_name": "生物学",
+      "type": "概念",
+      "evidence": "我的心理学的程度同君劢的生物学差不多，不敢冒昧给他辩护，但是就我所知道的正式心理学以外，动物心理学，孩童心理学，同反常心理学近来发明很多。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e26",
+      "name": "正式心理学",
+      "canonical_name": "正式心理学",
+      "type": "概念",
+      "evidence": "但是就我所知道的正式心理学以外，动物心理学，孩童心理学，同反常心理学近来发明很多。",
+      "confidence": 0.8
+    },
+    {
+      "id": "e27",
+      "name": "动物心理学",
+      "canonical_name": "动物心理学",
+      "type": "概念",
+      "evidence": "但是就我所知道的正式心理学以外，动物心理学，孩童心理学，同反常心理学近来发明很多。",
+      "confidence": 0.8
+    },
+    {
+      "id": "e28",
+      "name": "孩童心理学",
+      "canonical_name": "孩童心理学",
+      "type": "概念",
+      "evidence": "但是就我所知道的正式心理学以外，动物心理学，孩童心理学，同反常心理学近来发明很多。",
+      "confidence": 0.8
+    },
+    {
+      "id": "e29",
+      "name": "反常心理学",
+      "canonical_name": "反常心理学",
+      "type": "概念",
+      "evidence": "但是就我所知道的正式心理学以外，动物心理学，孩童心理学，同反常心理学近来发明很多。",
+      "confidence": 0.8
+    },
+    {
+      "id": "e30",
+      "name": "动物心理学中的公例",
+      "canonical_name": "动物心理学中的公例",
+      "type": "概念",
+      "evidence": "我对于动物心理学比较的明白一点，我觉得其中的公例尽有可以“预算未来”的，请君劢不要一笔抹杀。",
+      "confidence": 0.8
+    }
+  ],
+  "claims": [
+    {
+      "id": "c1",
+      "speaker": "丁文江",
+      "claim": "若是进化的学说自己不进化，岂非自相矛盾？",
+      "target": "进化的学说",
+      "claim_type": "反驳性主张",
+      "claim_status": "作者推论",
+      "polarity": "negative",
+      "evidence": "若是进化的学说自己不进化，岂非自相矛盾？",
+      "confidence": 0.9
+    },
+    {
+      "id": "c2",
+      "speaker": "君劢",
+      "claim": "“牢固不拔”的物理学能“推算未来”，不是生物心理学公例所做得到的。",
+      "target": "物理学",
+      "claim_type": "对比性主张",
+      "claim_status": "间接转述",
+      "polarity": "positive",
+      "evidence": "君劢最得意的话是“牢固不拔”的物理学能“推算未来”，不是生物心理学公例所做得到的。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c3",
+      "speaker": "丁文江",
+      "claim": "君劢没有给“推算未来”下一个定义。",
+      "target": "君劢",
+      "claim_type": "描述性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "他没有给“推算未来”下一个定义。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c4",
+      "speaker": "君劢",
+      "claim": "物体上左右各加一力，则其所行之路为平行方形之对角线。",
+      "target": "物体",
+      "claim_type": "描述性主张",
+      "claim_status": "间接转述",
+      "polarity": "neutral",
+      "evidence": "他只举了一个例说，“物体上左右各加一力，则其所行之路为平行方形之对角线。”",
+      "confidence": 0.9
+    },
+    {
+      "id": "c5",
+      "speaker": "君劢",
+      "claim": "天文家可以预算天象。",
+      "target": "天文家",
+      "claim_type": "描述性主张",
+      "claim_status": "间接转述",
+      "polarity": "positive",
+      "evidence": "他又说天文家可以预算天象。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c6",
+      "speaker": "丁文江",
+      "claim": "预算天象的把戏，我们三千年前的野蛮祖宗已经会做，不算什么希奇。",
+      "target": "预算天象",
+      "claim_type": "评价性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "读者诸君，预算天象的把戏，我们三千年前的野蛮祖宗已经会做，不算什么希奇。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c7",
+      "speaker": "丁文江",
+      "claim": "若是有人得了肠气夫斯或是疟疾，连我都可以预算他的温度。",
+      "target": "肠气夫斯、疟疾",
+      "claim_type": "描述性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "不过若是有人得了肠气夫斯或是疟疾，连我都可以预算他的温度。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c8",
+      "speaker": "丁文江",
+      "claim": "拿一种黄皮的玉蜀黍来和白皮的杂种，新生出来的玉蜀黍上面有几粒是黄皮的，几粒是白皮的，都可以预先算得出来。",
+      "target": "黄皮的玉蜀黍、白皮的杂种",
+      "claim_type": "描述性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "若是我们拿一种黄皮的玉蜀黍来和白皮的杂种，新生出来的玉蜀黍上面有几粒是黄皮的，几粒是白皮的，都可以预先算得出来。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c9",
+      "speaker": "丁文江",
+      "claim": "近年来这种遗传性上大发明，在我个人眼光看起来其重要不亚于爱因斯坦的相对论。",
+      "target": "遗传性上大发明",
+      "claim_type": "评价性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "近年来这种遗传性上大发明，在我个人眼光看起来其重要不亚于爱因斯坦的相对论。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c10",
+      "speaker": "丁文江",
+      "claim": "嘉沙尔要证明生殖细胞的独立性，拿一个未成年的黑巴西猪的卵巢，移植在一个成年的雌白巴西猪肚皮里头，四个月以后再用一个雄的白巴西猪给他交合，生下来的三胎，都是黑巴西猪！",
+      "target": "嘉沙尔",
+      "claim_type": "描述性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "最近嘉沙尔要证明生殖细胞的独立性，拿一个未成年的黑巴西猪的卵巢，移植在一个成年的雌白巴西猪肚皮里头，四个月以后再用一个雄的白巴西猪给他交合，生下来的三胎，都是黑巴西猪！",
+      "confidence": 0.9
+    },
+    {
+      "id": "c11",
+      "speaker": "丁文江",
+      "claim": "雌的白巴西猪的身体营养，对于原来黑巴西猪的卵巢，没有发生一点影响，而且曼德尔公例也是完全适用，同嘉沙尔的预言是一样的。",
+      "target": "雌的白巴西猪、黑巴西猪的卵巢、曼德尔公例、嘉沙尔的预言",
+      "claim_type": "描述性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "足见得雌的白巴西猪的身体营养，对于原来黑巴西猪的卵巢，没有发生一点影响，而且曼德尔公例也是完全适用，同嘉沙尔的预言是一样的。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c12",
+      "speaker": "丁文江",
+      "claim": "动物心理学中的公例尽有可以“预算未来”的。",
+      "target": "动物心理学中的公例",
+      "claim_type": "描述性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "我对于动物心理学比较的明白一点，我觉得其中的公例尽有可以“预算未来”的，请君劢不要一笔抹杀。",
+      "confidence": 0.9
+    }
+  ],
+  "relations": [
+    {
+      "id": "r1",
+      "head": "进化的学说",
+      "head_type": "主义/学说/理论",
+      "relation": "自相矛盾",
+      "relation_subtype": "归谬",
+      "tail": "进化的学说自己不进化",
+      "tail_type": "观点",
+      "polarity": "negative",
+      "stance_score": -0.8,
+      "intensity": 0.7,
+      "evidence": "若是进化的学说自己不进化，岂非自相矛盾？",
+      "confidence": 0.9
+    },
+    {
+      "id": "r2",
+      "head": "君劢",
+      "head_type": "人物",
+      "relation": "主张",
+      "relation_subtype": "不适用",
+      "tail": "“牢固不拔”的物理学能“推算未来”，不是生物心理学公例所做得到的",
+      "tail_type": "观点",
+      "polarity": "positive",
+      "stance_score": 1.0,
+      "intensity": 0.8,
+      "evidence": "君劢最得意的话是“牢固不拔”的物理学能“推算未来”，不是生物心理学公例所做得到的。",
+      "confidence": 0.9
+    },
+    {
+      "id": "r3",
+      "head": "丁文江",
+      "head_type": "人物",
+      "relation": "批评",
+      "relation_subtype": "概念混淆批评",
+      "tail": "君劢",
+      "tail_type": "人物",
+      "polarity": "negative",
+      "stance_score": -0.7,
+      "intensity": 0.6,
+      "evidence": "他没有给“推算未来”下一个定义。",
+      "confidence": 0.9
+    },
+    {
+      "id": "r4",
+      "head": "君劢",
+      "head_type": "人物",
+      "relation": "主张",
+      "relation_subtype": "不适用",
+      "tail": "物体上左右各加一力，则其所行之路为平行方形之对角线",
+      "tail_type": "观点",
+      "polarity": "positive",
+      "stance_score": 1.0,
+      "intensity": 0.7,
+      "evidence": "他只举了一个例说，“物体上左右各加一力，则其所行之路为平行方形之对角线。”",
+      "confidence": 0.9
+    },
+    {
+      "id": "r5",
+      "head": "君劢",
+      "head_type": "人物",
+      "relation": "主张",
+      "relation_subtype": "不适用",
+      "tail": "天文家可以预算天象",
+      "tail_type": "观点",
+      "polarity": "positive",
+      "stance_score": 1.0,
+      "intensity": 0.7,
+      "evidence": "他又说天文家可以预算天象。",
+      "confidence": 0.9
+    },
+    {
+      "id": "r6",
+      "head": "丁文江",
+      "head_type": "人物",
+      "relation": "反驳",
+      "relation_subtype": "事实质疑",
+      "tail": "天文家可以预算天象",
+      "tail_type": "观点",
+      "polarity": "negative",
+      "stance_score": -0.9,
+      "intensity": 0.8,
+      "evidence": "读者诸君，预算天象的把戏，我们三千年前的野蛮祖宗已经会做，不算什么希奇。",
+      "confidence": 0.9
+    },
+    {
+      "id": "r7",
+      "head": "丁文江",
+      "head_type": "人物",
+      "relation": "反驳",
+      "relation_subtype": "事实质疑",
+      "tail": "不是生物心理学公例所做得到的",
+      "tail_type": "观点",
+      "polarity": "negative",
+      "stance_score": -0.8,
+      "intensity": 0.7,
+      "evidence": "不过若是有人得了肠气夫斯或是疟疾，连我都可以预算他的温度。",
+      "confidence": 0.9
+    },
+    {
+      "id": "r8",
+      "head": "丁文江",
+      "head_type": "人物",
+      "relation": "反驳",
+      "relation_subtype": "事实质疑",
+      "tail": "不是生物心理学公例所做得到的",
+      "tail_type": "观点",
+      "polarity": "negative",
+      "stance_score": -0.8,
+      "intensity": 0.7,
+      "evidence": "若是我们拿一种黄皮的玉蜀黍来和白皮的杂种，新生出来的玉蜀黍上面有几粒是黄皮的，几粒是白皮的，都可以预先算得出来。",
+      "confidence": 0.9
+    },
+    {
+      "id": "r9",
+      "head": "丁文江",
+      "head_type": "人物",
+      "relation": "反驳",
+      "relation_subtype": "事实质疑",
+      "tail": "不是生物心理学公例所做得到的",
+      "tail_type": "观点",
+      "polarity": "negative",
+      "stance_score": -0.8,
+      "intensity": 0.7,
+      "evidence": "足见得雌的白巴西猪的身体营养，对于原来黑巴西猪的卵巢，没有发生一点影响，而且曼德尔公例也是完全适用，同嘉沙尔的预言是一样的。",
+      "confidence": 0.9
+    },
+    {
+      "id": "r10",
+      "head": "丁文江",
+      "head_type": "人物",
+      "relation": "反驳",
+      "relation_subtype": "事实质疑",
+      "tail": "不是生物心理学公例所做得到的",
+      "tail_type": "观点",
+      "polarity": "negative",
+      "stance_score": -0.8,
+      "intensity": 0.7,
+      "evidence": "我对于动物心理学比较的明白一点，我觉得其中的公例尽有可以“预算未来”的，请君劢不要一笔抹杀。",
+      "confidence": 0.9
+    },
+    {
+      "id": "r11",
+      "head": "丁文江",
+      "head_type": "人物",
+      "relation": "评价",
+      "relation_subtype": "部分肯定",
+      "tail": "遗传性上大发明",
+      "tail_type": "概念",
+      "polarity": "positive",
+      "stance_score": 0.9,
+      "intensity": 0.8,
+      "evidence": "近年来这种遗传性上大发明，在我个人眼光看起来其重要不亚于爱因斯坦的相对论。",
+      "confidence": 0.9
+    },
+    {
+      "id": "r12",
+      "head": "嘉沙尔",
+      "head_type": "人物",
+      "relation": "主张",
+      "relation_subtype": "不适用",
+      "tail": "生殖细胞的独立性",
+      "tail_type": "概念",
+      "polarity": "positive",
+      "stance_score": 1.0,
+      "intensity": 0.8,
+      "evidence": "最近嘉沙尔要证明生殖细胞的独立性，拿一个未成年的黑巴西猪的卵巢，移植在一个成年的雌白巴西猪肚皮里头，四个月以后再用一个雄的白巴西猪给他交合，生下来的三胎，都是黑巴西猪！",
+      "confidence": 0.9
+    },
+    {
+      "id": "r13",
+      "head": "嘉沙尔的预言",
+      "head_type": "观点",
+      "relation": "证明",
+      "relation_subtype": "不适用",
+      "tail": "曼德尔公例",
+      "tail_type": "概念",
+      "polarity": "positive",
+      "stance_score": 1.0,
+      "intensity": 0.9,
+      "evidence": "足见得雌的白巴西猪的身体营养，对于原来黑巴西猪的卵巢，没有发生一点影响，而且曼德尔公例也是完全适用，同嘉沙尔的预言是一样的。",
+      "confidence": 0.9
+    },
+    {
+      "id": "r14",
+      "head": "丁文江",
+      "head_type": "人物",
+      "relation": "主张",
+      "relation_subtype": "不适用",
+      "tail": "动物心理学中的公例尽有可以“预算未来”的",
+      "tail_type": "观点",
+      "polarity": "positive",
+      "stance_score": 0.9,
+      "intensity": 0.7,
+      "evidence": "我对于动物心理学比较的明白一点，我觉得其中的公例尽有可以“预算未来”的，请君劢不要一笔抹杀。",
+      "confidence": 0.9
+    }
+  ],
+  "definitions": [],
+  "citations": [
+    {
+      "id": "cit1",
+      "citer": "丁文江",
+      "quoted_author": "德夫利士",
+      "quoted_work": "",
+      "quoted_claim": "重新发现曼德尔公例",
+      "function": "作为历史证据",
+      "evidence": "自从德夫利士重新发现曼德尔公例之后，若是我们拿一种黄皮的玉蜀黍来和白皮的杂种，新生出来的玉蜀黍上面有几粒是黄皮的，几粒是白皮的，都可以预先算得出来。",
+      "confidence": 0.9
+    },
+    {
+      "id": "cit2",
+      "citer": "丁文江",
+      "quoted_author": "嘉沙尔",
+      "quoted_work": "",
+      "quoted_claim": "要证明生殖细胞的独立性，拿一个未成年的黑巴西猪的卵巢，移植在一个成年的雌白巴西猪肚皮里头，四个月以后再用一个雄的白巴西猪给他交合，生下来的三胎，都是黑巴西猪",
+      "function": "作为历史证据",
+      "evidence": "最近嘉沙尔要证明生殖细胞的独立性，拿一个未成年的黑巴西猪的卵巢，移植在一个成年的雌白巴西猪肚皮里头，四个月以后再用一个雄的白巴西猪给他交合，生下来的三胎，都是黑巴西猪！",
+      "confidence": 0.9
+    }
+  ],
+  "rhetorical_devices": [
+    {
+      "id": "rh1",
+      "expression": "预算天象的把戏，我们三千年前的野蛮祖宗已经会做，不算什么希奇",
+      "device_type": "讽刺",
+      "literal_target": "君劢认为天文家可以预算天象的观点",
+      "function": "贬低对手论据，削弱其说服力",
+      "evidence": "读者诸君，预算天象的把戏，我们三千年前的野蛮祖宗已经会做，不算什么希奇。",
+      "confidence": 0.9
+    },
+    {
+      "id": "rh2",
+      "expression": "连我都可以预算他的温度",
+      "device_type": "讽刺",
+      "literal_target": "君劢认为只有物理学能推算未来的观点",
+      "function": "通过自嘲式夸张，反驳对手观点",
+      "evidence": "不过若是有人得了肠气夫斯或是疟疾，连我都可以预算他的温度。",
+      "confidence": 0.9
+    },
+    {
+      "id": "rh3",
+      "expression": "请君劢不要一笔抹杀",
+      "device_type": "讽刺",
+      "literal_target": "君劢对生物心理学公例的态度",
+      "function": "批评对手武断否定",
+      "evidence": "我对于动物心理学比较的明白一点，我觉得其中的公例尽有可以“预算未来”的，请君劢不要一笔抹杀。",
+      "confidence": 0.9
+    }
+  ],
+  "uncertainties": [
+    {
+      "item": "君劢是否信医学是应用生物学",
+      "reason": "丁文江说“我不知道君劢信不信医学是应用生物学”，表明不确定，无法从文本中确定君劢的态度。"
+    },
+    {
+      "item": "丁文江的心理学的程度与君劢的生物学差不多",
+      "reason": "丁文江自称“我的心理学的程度同君劢的生物学差不多”，但未提供具体证据，无法核实。"
+    }
+  ]
+}

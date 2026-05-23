@@ -1,0 +1,327 @@
+{
+  "metadata": {
+    "schema_version": "lite_v3.0",
+    "article_id": "胡适_002_c6a0c3b5",
+    "article_title": "孙行者与张君劢",
+    "source_author": "胡适",
+    "section_title": "",
+    "section_author": "",
+    "segment_id": "胡适_002_c6a0c3b5_s0000",
+    "segment_index": 0,
+    "source_file": "E:\\1研究生\\岭南大学\\论文毕业\\capstone\\资料\\新的内容开始了\\local_upload\\input_胡适\\胡适.txt"
+  },
+  "entities": [
+    {
+      "id": "e1",
+      "name": "孙行者",
+      "canonical_name": "孙行者",
+      "type": "人物",
+      "evidence": "孙行者站在灵霄殿外，耀武扬威的不服气。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e2",
+      "name": "如来",
+      "canonical_name": "如来",
+      "type": "人物",
+      "evidence": "如来伸出一只手掌道：“你有多大本领？能不能跳出我的手心？”",
+      "confidence": 1.0
+    },
+    {
+      "id": "e3",
+      "name": "张君劢",
+      "canonical_name": "张君劢",
+      "type": "人物",
+      "evidence": "我的朋友张君劢近来对于科学家的跋扈，很有点生气。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e4",
+      "name": "赛先生",
+      "canonical_name": "赛先生",
+      "type": "概念",
+      "evidence": "赛先生，你有多大的手心！",
+      "confidence": 1.0
+    },
+    {
+      "id": "e5",
+      "name": "逻辑先生",
+      "canonical_name": "逻辑先生",
+      "type": "概念",
+      "evidence": "你敢用逻辑先生来网罗‘我’吗？",
+      "confidence": 1.0
+    },
+    {
+      "id": "e6",
+      "name": "我",
+      "canonical_name": "我",
+      "type": "概念",
+      "evidence": "你敢用逻辑先生来网罗‘我’吗？",
+      "confidence": 1.0
+    },
+    {
+      "id": "e7",
+      "name": "人生者",
+      "canonical_name": "人生者",
+      "type": "概念",
+      "evidence": "人生者，变也，活动也，自由也，创造也。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e8",
+      "name": "论理学上之三大公例",
+      "canonical_name": "论理学上之三大公例",
+      "type": "概念",
+      "evidence": "试问论理学上之三大公例（曰同一，曰矛盾，曰排中）何者能证其合不合乎？",
+      "confidence": 1.0
+    },
+    {
+      "id": "e9",
+      "name": "论理学上之两大方法",
+      "canonical_name": "论理学上之两大方法",
+      "type": "概念",
+      "evidence": "论理学上之两大方法（曰内纳，曰外绎）何者能推定其前后之相生乎？",
+      "confidence": 1.0
+    },
+    {
+      "id": "e10",
+      "name": "柏格森",
+      "canonical_name": "柏格森",
+      "type": "人物",
+      "evidence": "这是柏格森的高徒的得意腔调。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e11",
+      "name": "科学家",
+      "canonical_name": "科学家",
+      "type": "阵营/群体",
+      "evidence": "我的朋友张君劢近来对于科学家的跋扈，很有点生气。",
+      "confidence": 1.0
+    }
+  ],
+  "claims": [
+    {
+      "id": "c1",
+      "speaker": "张君劢",
+      "claim": "人生者，变也，活动也，自由也，创造也。",
+      "target": "人生者",
+      "claim_type": "定义性主张",
+      "claim_status": "直接引用",
+      "polarity": "positive",
+      "evidence": "人生者，变也，活动也，自由也，创造也。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c2",
+      "speaker": "张君劢",
+      "claim": "论理学上之三大公例（曰同一，曰矛盾，曰排中）何者能证其合不合乎？",
+      "target": "论理学上之三大公例",
+      "claim_type": "问题提出",
+      "claim_status": "直接引用",
+      "polarity": "negative",
+      "evidence": "试问论理学上之三大公例（曰同一，曰矛盾，曰排中）何者能证其合不合乎？",
+      "confidence": 1.0
+    },
+    {
+      "id": "c3",
+      "speaker": "张君劢",
+      "claim": "论理学上之两大方法（曰内纳，曰外绎）何者能推定其前后之相生乎？",
+      "target": "论理学上之两大方法",
+      "claim_type": "问题提出",
+      "claim_status": "直接引用",
+      "polarity": "negative",
+      "evidence": "论理学上之两大方法（曰内纳，曰外绎）何者能推定其前后之相生乎？",
+      "confidence": 1.0
+    },
+    {
+      "id": "c4",
+      "speaker": "胡适",
+      "claim": "他这一个触斗，虽没有十万八千里，却也够长了！",
+      "target": "张君劢",
+      "claim_type": "评价性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "他这一个触斗，虽没有十万八千里，却也够长了！",
+      "confidence": 1.0
+    },
+    {
+      "id": "c5",
+      "speaker": "胡适",
+      "claim": "原来他仍旧不曾跳出赛先生和逻辑先生的手心里！",
+      "target": "张君劢",
+      "claim_type": "结论性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "原来他仍旧不曾跳出赛先生和逻辑先生的手心里！",
+      "confidence": 1.0
+    },
+    {
+      "id": "c6",
+      "speaker": "胡适",
+      "claim": "这是柏格森的高徒的得意腔调。",
+      "target": "张君劢",
+      "claim_type": "评价性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "这是柏格森的高徒的得意腔调。",
+      "confidence": 1.0
+    }
+  ],
+  "relations": [
+    {
+      "id": "r1",
+      "head": "张君劢",
+      "head_type": "人物",
+      "relation": "批评",
+      "relation_subtype": "一般批评",
+      "tail": "科学家",
+      "tail_type": "阵营/群体",
+      "polarity": "negative",
+      "stance_score": -0.5,
+      "intensity": 0.5,
+      "evidence": "我的朋友张君劢近来对于科学家的跋扈，很有点生气。",
+      "confidence": 1.0
+    },
+    {
+      "id": "r2",
+      "head": "张君劢",
+      "head_type": "人物",
+      "relation": "质疑",
+      "relation_subtype": "逻辑反驳",
+      "tail": "论理学上之三大公例",
+      "tail_type": "概念",
+      "polarity": "negative",
+      "stance_score": -0.8,
+      "intensity": 0.7,
+      "evidence": "试问论理学上之三大公例（曰同一，曰矛盾，曰排中）何者能证其合不合乎？",
+      "confidence": 1.0
+    },
+    {
+      "id": "r3",
+      "head": "张君劢",
+      "head_type": "人物",
+      "relation": "质疑",
+      "relation_subtype": "逻辑反驳",
+      "tail": "论理学上之两大方法",
+      "tail_type": "概念",
+      "polarity": "negative",
+      "stance_score": -0.8,
+      "intensity": 0.7,
+      "evidence": "论理学上之两大方法（曰内纳，曰外绎）何者能推定其前后之相生乎？",
+      "confidence": 1.0
+    },
+    {
+      "id": "r4",
+      "head": "胡适",
+      "head_type": "人物",
+      "relation": "反驳",
+      "relation_subtype": "归谬",
+      "tail": "张君劢",
+      "tail_type": "人物",
+      "polarity": "negative",
+      "stance_score": -0.9,
+      "intensity": 0.8,
+      "evidence": "原来他仍旧不曾跳出赛先生和逻辑先生的手心里！",
+      "confidence": 1.0
+    },
+    {
+      "id": "r5",
+      "head": "张君劢",
+      "head_type": "人物",
+      "relation": "引用",
+      "relation_subtype": "援引权威",
+      "tail": "柏格森",
+      "tail_type": "人物",
+      "polarity": "positive",
+      "stance_score": 0.8,
+      "intensity": 0.6,
+      "evidence": "这是柏格森的高徒的得意腔调。他还引了许多师叔师伯的话来助他张目。",
+      "confidence": 1.0
+    },
+    {
+      "id": "r6",
+      "head": "张君劢",
+      "head_type": "人物",
+      "relation": "类比",
+      "relation_subtype": "不适用",
+      "tail": "孙行者",
+      "tail_type": "人物",
+      "polarity": "neutral",
+      "stance_score": 0.0,
+      "intensity": 0.5,
+      "evidence": "他一个触斗，就翻出松坡图书馆的大门外去了。",
+      "confidence": 1.0
+    }
+  ],
+  "definitions": [
+    {
+      "id": "def1",
+      "term": "人生者",
+      "definition": "变也，活动也，自由也，创造也。",
+      "evidence": "人生者，变也，活动也，自由也，创造也。",
+      "confidence": 1.0
+    },
+    {
+      "id": "def2",
+      "term": "论理学上之三大公例",
+      "definition": "曰同一，曰矛盾，曰排中",
+      "evidence": "试问论理学上之三大公例（曰同一，曰矛盾，曰排中）何者能证其合不合乎？",
+      "confidence": 1.0
+    },
+    {
+      "id": "def3",
+      "term": "论理学上之两大方法",
+      "definition": "曰内纳，曰外绎",
+      "evidence": "论理学上之两大方法（曰内纳，曰外绎）何者能推定其前后之相生乎？",
+      "confidence": 1.0
+    }
+  ],
+  "citations": [
+    {
+      "id": "cit1",
+      "citer": "张君劢",
+      "quoted_author": "柏格森",
+      "quoted_work": "",
+      "quoted_claim": "",
+      "function": "援引权威支持",
+      "evidence": "这是柏格森的高徒的得意腔调。他还引了许多师叔师伯的话来助他张目。",
+      "confidence": 1.0
+    }
+  ],
+  "rhetorical_devices": [
+    {
+      "id": "rh1",
+      "expression": "孙行者站在灵霄殿外，耀武扬威的不服气。如来伸出一只手掌道：“你有多大本领？能不能跳出我的手心？”",
+      "device_type": "类比",
+      "literal_target": "张君劢与科学家的争论",
+      "function": "用孙行者与如来的故事类比张君劢试图摆脱科学和逻辑的束缚",
+      "evidence": "孙行者站在灵霄殿外，耀武扬威的不服气。如来伸出一只手掌道：“你有多大本领？能不能跳出我的手心？”",
+      "confidence": 1.0
+    },
+    {
+      "id": "rh2",
+      "expression": "赛先生，你有多大的手心！你敢用逻辑先生来网罗‘我’吗？老张去也！",
+      "device_type": "类比",
+      "literal_target": "张君劢对科学和逻辑的挑战",
+      "function": "将张君劢比作孙行者，将科学和逻辑比作如来，讽刺其无法逃脱",
+      "evidence": "赛先生，你有多大的手心！你敢用逻辑先生来网罗‘我’吗？老张去也！",
+      "confidence": 1.0
+    },
+    {
+      "id": "rh3",
+      "expression": "这是柏格森的高徒的得意腔调。",
+      "device_type": "讽刺",
+      "literal_target": "张君劢",
+      "function": "讽刺张君劢自诩为柏格森高徒的傲慢态度",
+      "evidence": "这是柏格森的高徒的得意腔调。",
+      "confidence": 1.0
+    }
+  ],
+  "uncertainties": [
+    {
+      "item": "张君劢引用的“师叔师伯”具体指哪些人物或著作",
+      "reason": "文本未明确列出，无法确定具体引用对象"
+    }
+  ]
+}

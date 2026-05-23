@@ -1,0 +1,325 @@
+{
+  "metadata": {
+    "schema_version": "lite_v2.0",
+    "article_id": "张东荪_000_a9bf05ee",
+    "article_title": "劳而无功 —— 评丁在君先生口中的科学",
+    "source_author": "张东荪",
+    "section_title": "更举一个好例，这个例就是丁先生的话。丁先生说柏格森说心的绵延如雪的堆积完全是比喻，不能算数。诚然，但请问丁先生为何对于马赫所说思想和天响雷一样（按",
+    "section_author": "更举一个好例，这个例就是丁先生的话。丁先生说柏格森说心的绵延如雪的堆积完全是比喻，不能算数。诚然，但请问丁先生为何对于马赫所说思想和天响雷一样（",
+    "segment_id": "张东荪_000_a9bf05ee_s0009",
+    "segment_index": 9,
+    "source_file": "E:\\1研究生\\岭南大学\\论文毕业\\capstone\\资料\\新的内容开始了\\local_upload\\input_w0\\张东荪.txt"
+  },
+  "entities": [
+    {
+      "id": "e1",
+      "name": "丁先生",
+      "canonical_name": "丁文江",
+      "type": "人物",
+      "evidence": "丁先生在他的第二篇果然拿了证据来了",
+      "confidence": 0.9
+    },
+    {
+      "id": "e2",
+      "name": "我",
+      "canonical_name": "张东荪",
+      "type": "人物",
+      "evidence": "依我这个拙笨的脑筋看去",
+      "confidence": 0.9
+    },
+    {
+      "id": "e3",
+      "name": "科学",
+      "canonical_name": "科学",
+      "type": "概念",
+      "evidence": "科学的真相，才能为人所公认",
+      "confidence": 0.9
+    },
+    {
+      "id": "e4",
+      "name": "人心",
+      "canonical_name": "人心",
+      "type": "概念",
+      "evidence": "科学的确实性即基于人心的相同",
+      "confidence": 0.8
+    },
+    {
+      "id": "e5",
+      "name": "感触思构",
+      "canonical_name": "感触思构",
+      "type": "概念",
+      "evidence": "此处所谓人心是指感触思构而言",
+      "confidence": 0.8
+    },
+    {
+      "id": "e6",
+      "name": "常人",
+      "canonical_name": "常人",
+      "type": "概念",
+      "evidence": "我们所谓‘常人’已经有了统计上的根据",
+      "confidence": 0.8
+    },
+    {
+      "id": "e7",
+      "name": "生物测量学",
+      "canonical_name": "生物测量学",
+      "type": "概念",
+      "evidence": "成功了所谓生物测量学（Biometrics）",
+      "confidence": 0.9
+    },
+    {
+      "id": "e8",
+      "name": "统计的方法",
+      "canonical_name": "统计的方法",
+      "type": "方法",
+      "evidence": "自从塞尔登拿统计的方法来研究生物的现象",
+      "confidence": 0.9
+    },
+    {
+      "id": "e9",
+      "name": "塞尔登",
+      "canonical_name": "塞尔登",
+      "type": "人物",
+      "evidence": "自从塞尔登拿统计的方法来研究生物的现象",
+      "confidence": 0.9
+    },
+    {
+      "id": "e10",
+      "name": "智慧测量",
+      "canonical_name": "智慧测量",
+      "type": "概念",
+      "evidence": "智慧测量的结果同高度是一样",
+      "confidence": 0.8
+    },
+    {
+      "id": "e11",
+      "name": "疯子",
+      "canonical_name": "疯子",
+      "type": "概念",
+      "evidence": "他就是一个怪人，同心理上的疯子一样",
+      "confidence": 0.8
+    },
+    {
+      "id": "e12",
+      "name": "天才",
+      "canonical_name": "天才",
+      "type": "概念",
+      "evidence": "天才的各部分发展相称，能保存生活的常态",
+      "confidence": 0.8
+    }
+  ],
+  "claims": [
+    {
+      "id": "c1",
+      "speaker": "我",
+      "claim": "科学的确实性即基于人心的相同",
+      "target": "科学",
+      "claim_type": "知识论主张",
+      "claim_status": "作者概括",
+      "polarity": "neutral",
+      "evidence": "好像是说科学的确实性即基于人心的相同",
+      "confidence": 0.8
+    },
+    {
+      "id": "c2",
+      "speaker": "我",
+      "claim": "此处所谓人心是指感触思构而言",
+      "target": "人心",
+      "claim_type": "定义性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "特此处所谓人心是指感触思构而言",
+      "confidence": 0.9
+    },
+    {
+      "id": "c3",
+      "speaker": "我",
+      "claim": "我的疑心又起了",
+      "target": "丁先生",
+      "claim_type": "论战策略批评",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "果尔则我的疑心又起了",
+      "confidence": 0.8
+    },
+    {
+      "id": "c4",
+      "speaker": "我",
+      "claim": "拿证据来",
+      "target": "丁先生",
+      "claim_type": "论战策略批评",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "对于丁先生亦说一句“拿证据来！”",
+      "confidence": 0.9
+    },
+    {
+      "id": "c5",
+      "speaker": "丁先生",
+      "claim": "自从塞尔登拿统计的方法来研究生物的现象，成功了所谓生物测量学，我们所谓‘常人’已经有了统计上的根据",
+      "target": "常人",
+      "claim_type": "历史解释",
+      "claim_status": "直接引用",
+      "polarity": "neutral",
+      "evidence": "丁先生在他的第二篇果然拿了证据来了，他说: “这是事实，不是理论。自从塞尔登拿统计的方法来研究生物的现象，成功了所谓生物测量学（Biometrics),我们所谓‘常人’已经有了统计上的根据。”",
+      "confidence": 0.9
+    },
+    {
+      "id": "c6",
+      "speaker": "丁先生",
+      "claim": "英国常人是五尺八英寸高：五尺以下的是矮子，六尺六寸以上的是长人。但是矮子同长人的标准完全是随意的",
+      "target": "常人",
+      "claim_type": "例证",
+      "claim_status": "直接引用",
+      "polarity": "neutral",
+      "evidence": "即如英国的常人是五尺八英寸高：五尺以下的是矮子，六尺六寸以上的是长人。但是矮子同长人的标准完全是随意的",
+      "confidence": 0.9
+    },
+    {
+      "id": "c7",
+      "speaker": "丁先生",
+      "claim": "智慧测量的结果同高度是一样",
+      "target": "智慧测量",
+      "claim_type": "知识论主张",
+      "claim_status": "直接引用",
+      "polarity": "neutral",
+      "evidence": "智慧测量的结果同高度是一样",
+      "confidence": 0.8
+    },
+    {
+      "id": "c8",
+      "speaker": "丁先生",
+      "claim": "假如我们说痴子的智慧是零，天才的是一百，常人的是五十：一至四十九把痴子同常人联合一气；五十一至九十九又把常人同天才的界限相混合",
+      "target": "常人",
+      "claim_type": "例证",
+      "claim_status": "假设情境",
+      "polarity": "neutral",
+      "evidence": "假如我们说痴子的智慧是零，天才的是一百，常人的是五十：一至四十九把痴子同常人联合一气；五十一至九十九又把常人同天才的界限相混合",
+      "confidence": 0.9
+    },
+    {
+      "id": "c9",
+      "speaker": "丁先生",
+      "claim": "肢体与高度相称的是常人；若是一个人头异常的长，身异常的短，或是四肢绝对不能相称，他就是一个怪人，同心理上的疯子一样",
+      "target": "常人",
+      "claim_type": "定义性主张",
+      "claim_status": "直接引用",
+      "polarity": "neutral",
+      "evidence": "肢体与高度相称的是常人；若是一个人头异常的长，身异常的短，或是四肢绝对不能相称，他就是一个怪人，同心理上的疯子一样",
+      "confidence": 0.9
+    },
+    {
+      "id": "c10",
+      "speaker": "丁先生",
+      "claim": "研究疯人心理的学者，都觉得疯子的性质一部分与天才有几分相似，因为都是感觉特别发展的原故，但是疯子的一部分发展过度，失去了心理的平衡，而天才的各部分发展相称，能保存生活的常态",
+      "target": "疯子",
+      "claim_type": "知识论主张",
+      "claim_status": "直接引用",
+      "polarity": "neutral",
+      "evidence": "研究疯人心理的学者，都觉得疯子的性质一部分与天才有几分相似，因为都是感觉特别发展的原故，但是疯子的一部分发展过度，失去了心理的平衡，而天才的各部分发展相称，能保存生活的常态",
+      "confidence": 0.9
+    }
+  ],
+  "relations": [
+    {
+      "id": "r1",
+      "head": "我",
+      "head_type": "人物",
+      "relation": "质疑",
+      "relation_subtype": "证据不足批评",
+      "tail": "丁先生",
+      "tail_type": "人物",
+      "polarity": "negative",
+      "evidence": "我现在学丁先生的乖，对于丁先生亦说一句“拿证据来！”",
+      "confidence": 0.9
+    },
+    {
+      "id": "r2",
+      "head": "丁先生",
+      "head_type": "人物",
+      "relation": "引用",
+      "relation_subtype": "援引权威",
+      "tail": "塞尔登",
+      "tail_type": "人物",
+      "polarity": "positive",
+      "evidence": "自从塞尔登拿统计的方法来研究生物的现象，成功了所谓生物测量学（Biometrics）",
+      "confidence": 0.9
+    },
+    {
+      "id": "r3",
+      "head": "丁先生",
+      "head_type": "人物",
+      "relation": "作为论据支持",
+      "relation_subtype": "不适用",
+      "tail": "常人",
+      "tail_type": "概念",
+      "polarity": "positive",
+      "evidence": "我们所谓‘常人’已经有了统计上的根据",
+      "confidence": 0.8
+    },
+    {
+      "id": "r4",
+      "head": "丁先生",
+      "head_type": "人物",
+      "relation": "作为论据支持",
+      "relation_subtype": "不适用",
+      "tail": "科学",
+      "tail_type": "概念",
+      "polarity": "positive",
+      "evidence": "这是事实，不是理论",
+      "confidence": 0.7
+    }
+  ],
+  "definitions": [
+    {
+      "id": "def1",
+      "term": "人心",
+      "definition": "指感触思构",
+      "evidence": "特此处所谓人心是指感触思构而言",
+      "confidence": 0.9
+    },
+    {
+      "id": "def2",
+      "term": "常人",
+      "definition": "有统计上的根据，如英国常人是五尺八英寸高",
+      "evidence": "我们所谓‘常人’已经有了统计上的根据。即如英国的常人是五尺八英寸高",
+      "confidence": 0.8
+    },
+    {
+      "id": "def3",
+      "term": "怪人",
+      "definition": "人头异常的长，身异常的短，或是四肢绝对不能相称的人，同心理上的疯子一样",
+      "evidence": "若是一个人头异常的长，身异常的短，或是四肢绝对不能相称，他就是一个怪人，同心理上的疯子一样",
+      "confidence": 0.9
+    }
+  ],
+  "citations": [
+    {
+      "id": "cit1",
+      "citer": "丁先生",
+      "quoted_author": "塞尔登",
+      "quoted_work": "",
+      "quoted_claim": "拿统计的方法来研究生物的现象，成功了所谓生物测量学",
+      "function": "援引权威支持",
+      "evidence": "自从塞尔登拿统计的方法来研究生物的现象，成功了所谓生物测量学（Biometrics）",
+      "confidence": 0.9
+    }
+  ],
+  "rhetorical_devices": [
+    {
+      "id": "rh1",
+      "expression": "拿证据来",
+      "device_type": "讽刺",
+      "literal_target": "丁先生要求别人拿证据，自己却未提供充分证据",
+      "function": "讽刺丁先生的双重标准",
+      "evidence": "我现在学丁先生的乖，对于丁先生亦说一句“拿证据来！”",
+      "confidence": 0.9
+    }
+  ],
+  "uncertainties": [
+    {
+      "item": "丁先生所说的“这是事实，不是理论”是否直接回应张东荪的质疑",
+      "reason": "文本中张东荪说“拿证据来”后，丁先生回应“这是事实，不是理论”，但未明确说明这是对张东荪的直接回应，可能只是丁先生原文的起始句。"
+    }
+  ]
+}

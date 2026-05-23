@@ -1,0 +1,625 @@
+{
+  "metadata": {
+    "schema_version": "lite_v3.0",
+    "article_id": "张君劢_002_c870d202",
+    "article_title": "再论人生观与科学并答丁在君",
+    "source_author": "张君劢",
+    "section_title": "",
+    "section_author": "",
+    "segment_id": "张君劢_002_c870d202_s0035",
+    "segment_index": 35,
+    "source_file": "E:\\1研究生\\岭南大学\\论文毕业\\capstone\\资料\\新的内容开始了\\local_upload\\input_张君劢\\张君劢.txt"
+  },
+  "entities": [
+    {
+      "id": "e1",
+      "name": "衣履",
+      "canonical_name": "衣履",
+      "type": "概念",
+      "evidence": "衣履外也",
+      "confidence": 0.9
+    },
+    {
+      "id": "e2",
+      "name": "皮肉",
+      "canonical_name": "皮肉",
+      "type": "概念",
+      "evidence": "皮肉亦外也",
+      "confidence": 0.9
+    },
+    {
+      "id": "e3",
+      "name": "脑神经",
+      "canonical_name": "脑神经",
+      "type": "概念",
+      "evidence": "脑神经亦外也",
+      "confidence": 0.9
+    },
+    {
+      "id": "e4",
+      "name": "足乎己而无待于外者",
+      "canonical_name": "足乎己而无待于外者",
+      "type": "概念",
+      "evidence": "其足乎己而无待于外者，果何物乎？",
+      "confidence": 0.9
+    },
+    {
+      "id": "e5",
+      "name": "内",
+      "canonical_name": "内",
+      "type": "概念",
+      "evidence": "孟子之所谓“求在我”，孔子之所谓“正己”，即我之所谓内也。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e6",
+      "name": "外",
+      "canonical_name": "外",
+      "type": "概念",
+      "evidence": "孟子之所谓“求在外”，孔子之所谓“不求于人”，即我之所谓外也。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e7",
+      "name": "求在我",
+      "canonical_name": "求在我",
+      "type": "概念",
+      "evidence": "孟子曰：“求则得之，舍则失之，是求有益于得也，求在我者也。”",
+      "confidence": 0.9
+    },
+    {
+      "id": "e8",
+      "name": "求在外",
+      "canonical_name": "求在外",
+      "type": "概念",
+      "evidence": "孟子曰：“求之有道，得之有命，是求无益于得也，求在外者也。”",
+      "confidence": 0.9
+    },
+    {
+      "id": "e9",
+      "name": "正己",
+      "canonical_name": "正己",
+      "type": "概念",
+      "evidence": "孔子曰：“君子素其位而行，不愿乎其外。……正己而不求于人则无怨。”",
+      "confidence": 0.9
+    },
+    {
+      "id": "e10",
+      "name": "修身",
+      "canonical_name": "修身",
+      "type": "概念",
+      "evidence": "本此义以言修身，则功利之念在所必摈，而惟行己心之所安可矣。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e11",
+      "name": "功利之念",
+      "canonical_name": "功利之念",
+      "type": "概念",
+      "evidence": "则功利之念在所必摈",
+      "confidence": 0.9
+    },
+    {
+      "id": "e12",
+      "name": "行己心之所安",
+      "canonical_name": "行己心之所安",
+      "type": "概念",
+      "evidence": "而惟行己心之所安可矣",
+      "confidence": 0.9
+    },
+    {
+      "id": "e13",
+      "name": "治国",
+      "canonical_name": "治国",
+      "type": "概念",
+      "evidence": "以言治国，则富国强兵之念在所必摈，而惟求一国之均而安可矣。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e14",
+      "name": "富国强兵之念",
+      "canonical_name": "富国强兵之念",
+      "type": "概念",
+      "evidence": "则富国强兵之念在所必摈",
+      "confidence": 0.9
+    },
+    {
+      "id": "e15",
+      "name": "一国之均而安",
+      "canonical_name": "一国之均而安",
+      "type": "概念",
+      "evidence": "而惟求一国之均而安可矣",
+      "confidence": 0.9
+    },
+    {
+      "id": "e16",
+      "name": "科学的教育",
+      "canonical_name": "科学的教育",
+      "type": "概念",
+      "evidence": "故于今日之科学的教育与工商政策，皆所不满意",
+      "confidence": 0.9
+    },
+    {
+      "id": "e17",
+      "name": "工商政策",
+      "canonical_name": "工商政策",
+      "type": "概念",
+      "evidence": "故于今日之科学的教育与工商政策，皆所不满意",
+      "confidence": 0.9
+    },
+    {
+      "id": "e18",
+      "name": "三重网罗",
+      "canonical_name": "三重网罗",
+      "type": "概念",
+      "evidence": "然以今日之人类，在此三重网罗之中",
+      "confidence": 0.9
+    },
+    {
+      "id": "e19",
+      "name": "内生活",
+      "canonical_name": "内生活",
+      "type": "概念",
+      "evidence": "岂轻轻提倡“内生活”三字所得而转移之者？",
+      "confidence": 0.9
+    },
+    {
+      "id": "e20",
+      "name": "锁国与农国时代",
+      "canonical_name": "锁国与农国时代",
+      "type": "阶段",
+      "evidence": "故在锁国与农国时代，欲以“求在我”之说厘正一国之风俗与政治，已不易矣",
+      "confidence": 0.9
+    },
+    {
+      "id": "e21",
+      "name": "开国与工国时代",
+      "canonical_name": "开国与工国时代",
+      "type": "阶段",
+      "evidence": "在今日之开国与工国时代，则此类学说，更不入耳。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e22",
+      "name": "内生活修养之说",
+      "canonical_name": "内生活修养之说",
+      "type": "主义/学说/理论",
+      "evidence": "而尤觉内生活修养之说不可不竭力提倡",
+      "confidence": 0.9
+    },
+    {
+      "id": "e23",
+      "name": "汉学宋学之得失问题",
+      "canonical_name": "汉学宋学之得失问题",
+      "type": "问题",
+      "evidence": "于是汉学宋学之得失问题以起。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e24",
+      "name": "汉学",
+      "canonical_name": "汉学",
+      "type": "主义/学说/理论",
+      "evidence": "汉学宋学两家，苟各认定范围，曰甲之所研究在考据，在训诂名物",
+      "confidence": 0.9
+    },
+    {
+      "id": "e25",
+      "name": "宋学",
+      "canonical_name": "宋学",
+      "type": "主义/学说/理论",
+      "evidence": "汉学宋学两家，苟各认定范围，曰甲之所研究在考据，在训诂名物；乙之所研究在义理，在心性",
+      "confidence": 0.9
+    },
+    {
+      "id": "e26",
+      "name": "考据",
+      "canonical_name": "考据",
+      "type": "方法",
+      "evidence": "曰甲之所研究在考据，在训诂名物",
+      "confidence": 0.9
+    },
+    {
+      "id": "e27",
+      "name": "训诂名物",
+      "canonical_name": "训诂名物",
+      "type": "方法",
+      "evidence": "曰甲之所研究在考据，在训诂名物",
+      "confidence": 0.9
+    },
+    {
+      "id": "e28",
+      "name": "义理",
+      "canonical_name": "义理",
+      "type": "概念",
+      "evidence": "乙之所研究在义理，在心性",
+      "confidence": 0.9
+    },
+    {
+      "id": "e29",
+      "name": "心性",
+      "canonical_name": "心性",
+      "type": "概念",
+      "evidence": "乙之所研究在义理，在心性",
+      "confidence": 0.9
+    },
+    {
+      "id": "e30",
+      "name": "卫道",
+      "canonical_name": "卫道",
+      "type": "概念",
+      "evidence": "甲曰卫道，乙亦曰卫道",
+      "confidence": 0.9
+    },
+    {
+      "id": "e31",
+      "name": "圣学",
+      "canonical_name": "圣学",
+      "type": "概念",
+      "evidence": "甲曰吾之学为圣学，乙亦曰吾之学为圣学",
+      "confidence": 0.9
+    },
+    {
+      "id": "e32",
+      "name": "经学即理学",
+      "canonical_name": "经学即理学",
+      "type": "观点",
+      "evidence": "甲曰经学即理学",
+      "confidence": 0.9
+    },
+    {
+      "id": "e33",
+      "name": "天下无心外之理，亦无心外之物",
+      "canonical_name": "天下无心外之理，亦无心外之物",
+      "type": "观点",
+      "evidence": "乙曰天下无心外之理，亦无心外之物。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e34",
+      "name": "孟子",
+      "canonical_name": "孟子",
+      "type": "人物",
+      "evidence": "孟子曰：“求则得之，舍则失之，是求有益于得也，求在我者也。”",
+      "confidence": 0.9
+    },
+    {
+      "id": "e35",
+      "name": "孔子",
+      "canonical_name": "孔子",
+      "type": "人物",
+      "evidence": "孔子曰：“君子素其位而行，不愿乎其外。……正己而不求于人则无怨。”",
+      "confidence": 0.9
+    }
+  ],
+  "claims": [
+    {
+      "id": "c1",
+      "speaker": "作者",
+      "claim": "衣履、皮肉、脑神经都是外，而足乎己而无待于外者难以命名。",
+      "target": "",
+      "claim_type": "描述性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "以一人之身言之，衣履外也，皮肉亦外也，脑神经亦外也。其足乎己而无待于外者，果何物乎？吾盖不得而名之矣。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c2",
+      "speaker": "作者",
+      "claim": "孟子之“求在我”和孔子之“正己”就是作者所说的“内”。",
+      "target": "",
+      "claim_type": "定义性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "孟子之所谓“求在我”，孔子之所谓“正己”，即我之所谓内也。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c3",
+      "speaker": "作者",
+      "claim": "以“内”之义修身，则必须摈弃功利之念，只求行己心之所安。",
+      "target": "",
+      "claim_type": "规范性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "本此义以言修身，则功利之念在所必摈，而惟行己心之所安可矣。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c4",
+      "speaker": "作者",
+      "claim": "以“内”之义治国，则必须摈弃富国强兵之念，只求一国之均而安。",
+      "target": "",
+      "claim_type": "规范性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "以言治国，则富国强兵之念在所必摈，而惟求一国之均而安可矣。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c5",
+      "speaker": "作者",
+      "claim": "作者对今日的科学的教育与工商政策不满意，并主张更张。",
+      "target": "科学的教育",
+      "claim_type": "评价性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "吾惟抱此宗旨，故于今日之科学的教育与工商政策，皆所不满意，而必求更张之。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c6",
+      "speaker": "作者",
+      "claim": "在锁国与农国时代，以“求在我”之说厘正风俗政治已不易；在开国与工国时代，此类学说更不入耳。",
+      "target": "",
+      "claim_type": "描述性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "故在锁国与农国时代，欲以“求在我”之说厘正一国之风俗与政治，已不易矣；在今日之开国与工国时代，则此类学说，更不入耳。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c7",
+      "speaker": "作者",
+      "claim": "三重网罗是人类前途莫大之危险，内生活修养之说不可不竭力提倡。",
+      "target": "三重网罗",
+      "claim_type": "评价性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "然吾确认三重网罗实为人类前途莫大之危险，而尤觉内生活修养之说不可不竭力提倡",
+      "confidence": 0.9
+    },
+    {
+      "id": "c8",
+      "speaker": "作者",
+      "claim": "汉学宋学两家如果各自认定范围，则不会相争。",
+      "target": "",
+      "claim_type": "假设情境",
+      "claim_status": "作者推论",
+      "polarity": "neutral",
+      "evidence": "汉学宋学两家，苟各认定范围，曰甲之所研究在考据，在训诂名物；乙之所研究在义理，在心性：则各行其是而不至有壤地相接之争可也。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c9",
+      "speaker": "作者",
+      "claim": "汉学宋学两家实际上都声称卫道、圣学，并互相冲突。",
+      "target": "",
+      "claim_type": "描述性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "惟其不然，甲曰卫道，乙亦曰卫道；甲曰吾之学为圣学，乙亦曰吾之学为圣学；甲曰经学即理学，乙曰天下无心外之理，亦无心外之物。",
+      "confidence": 0.9
+    }
+  ],
+  "relations": [
+    {
+      "id": "r1",
+      "head": "作者",
+      "head_type": "人物",
+      "relation": "引用",
+      "relation_subtype": "援引权威支持",
+      "tail": "孟子",
+      "tail_type": "人物",
+      "polarity": "positive",
+      "stance_score": 0.8,
+      "intensity": 0.6,
+      "evidence": "孟子曰：“求则得之，舍则失之，是求有益于得也，求在我者也。”",
+      "confidence": 0.9
+    },
+    {
+      "id": "r2",
+      "head": "作者",
+      "head_type": "人物",
+      "relation": "引用",
+      "relation_subtype": "援引权威支持",
+      "tail": "孔子",
+      "tail_type": "人物",
+      "polarity": "positive",
+      "stance_score": 0.8,
+      "intensity": 0.6,
+      "evidence": "孔子曰：“君子素其位而行，不愿乎其外。……正己而不求于人则无怨。”",
+      "confidence": 0.9
+    },
+    {
+      "id": "r3",
+      "head": "孟子之所谓“求在我”",
+      "head_type": "概念",
+      "relation": "定义",
+      "relation_subtype": "概念澄清",
+      "tail": "内",
+      "tail_type": "概念",
+      "polarity": "positive",
+      "stance_score": 0.8,
+      "intensity": 0.6,
+      "evidence": "孟子之所谓“求在我”，孔子之所谓“正己”，即我之所谓内也。",
+      "confidence": 0.9
+    },
+    {
+      "id": "r4",
+      "head": "孔子之所谓“正己”",
+      "head_type": "概念",
+      "relation": "定义",
+      "relation_subtype": "概念澄清",
+      "tail": "内",
+      "tail_type": "概念",
+      "polarity": "positive",
+      "stance_score": 0.8,
+      "intensity": 0.6,
+      "evidence": "孟子之所谓“求在我”，孔子之所谓“正己”，即我之所谓内也。",
+      "confidence": 0.9
+    },
+    {
+      "id": "r5",
+      "head": "作者",
+      "head_type": "人物",
+      "relation": "批评",
+      "relation_subtype": "一般批评",
+      "tail": "科学的教育",
+      "tail_type": "概念",
+      "polarity": "negative",
+      "stance_score": -0.8,
+      "intensity": 0.7,
+      "evidence": "故于今日之科学的教育与工商政策，皆所不满意，而必求更张之。",
+      "confidence": 0.9
+    },
+    {
+      "id": "r6",
+      "head": "作者",
+      "head_type": "人物",
+      "relation": "批评",
+      "relation_subtype": "一般批评",
+      "tail": "工商政策",
+      "tail_type": "概念",
+      "polarity": "negative",
+      "stance_score": -0.8,
+      "intensity": 0.7,
+      "evidence": "故于今日之科学的教育与工商政策，皆所不满意，而必求更张之。",
+      "confidence": 0.9
+    },
+    {
+      "id": "r7",
+      "head": "三重网罗",
+      "head_type": "概念",
+      "relation": "导致",
+      "relation_subtype": "不适用",
+      "tail": "人类前途莫大之危险",
+      "tail_type": "概念",
+      "polarity": "negative",
+      "stance_score": -0.9,
+      "intensity": 0.8,
+      "evidence": "然吾确认三重网罗实为人类前途莫大之危险",
+      "confidence": 0.9
+    },
+    {
+      "id": "r8",
+      "head": "内生活修养之说",
+      "head_type": "主义/学说/理论",
+      "relation": "主张",
+      "relation_subtype": "不适用",
+      "tail": "作者",
+      "tail_type": "人物",
+      "polarity": "positive",
+      "stance_score": 0.9,
+      "intensity": 0.8,
+      "evidence": "而尤觉内生活修养之说不可不竭力提倡",
+      "confidence": 0.9
+    },
+    {
+      "id": "r9",
+      "head": "汉学",
+      "head_type": "主义/学说/理论",
+      "relation": "区分",
+      "relation_subtype": "概念澄清",
+      "tail": "宋学",
+      "tail_type": "主义/学说/理论",
+      "polarity": "neutral",
+      "stance_score": 0.0,
+      "intensity": 0.5,
+      "evidence": "汉学宋学两家，苟各认定范围，曰甲之所研究在考据，在训诂名物；乙之所研究在义理，在心性",
+      "confidence": 0.9
+    },
+    {
+      "id": "r10",
+      "head": "汉学",
+      "head_type": "主义/学说/理论",
+      "relation": "主张",
+      "relation_subtype": "不适用",
+      "tail": "经学即理学",
+      "tail_type": "观点",
+      "polarity": "neutral",
+      "stance_score": 0.0,
+      "intensity": 0.5,
+      "evidence": "甲曰经学即理学",
+      "confidence": 0.9
+    },
+    {
+      "id": "r11",
+      "head": "宋学",
+      "head_type": "主义/学说/理论",
+      "relation": "主张",
+      "relation_subtype": "不适用",
+      "tail": "天下无心外之理，亦无心外之物",
+      "tail_type": "观点",
+      "polarity": "neutral",
+      "stance_score": 0.0,
+      "intensity": 0.5,
+      "evidence": "乙曰天下无心外之理，亦无心外之物。",
+      "confidence": 0.9
+    }
+  ],
+  "definitions": [
+    {
+      "id": "def1",
+      "term": "内",
+      "definition": "孟子之“求在我”和孔子之“正己”即作者所谓的内。",
+      "evidence": "孟子之所谓“求在我”，孔子之所谓“正己”，即我之所谓内也。",
+      "confidence": 0.9
+    },
+    {
+      "id": "def2",
+      "term": "外",
+      "definition": "衣履、皮肉、脑神经等外在之物。",
+      "evidence": "以一人之身言之，衣履外也，皮肉亦外也，脑神经亦外也。",
+      "confidence": 0.9
+    },
+    {
+      "id": "def3",
+      "term": "修身",
+      "definition": "摈弃功利之念，惟行己心之所安。",
+      "evidence": "本此义以言修身，则功利之念在所必摈，而惟行己心之所安可矣。",
+      "confidence": 0.9
+    },
+    {
+      "id": "def4",
+      "term": "治国",
+      "definition": "摈弃富国强兵之念，惟求一国之均而安。",
+      "evidence": "以言治国，则富国强兵之念在所必摈，而惟求一国之均而安可矣。",
+      "confidence": 0.9
+    }
+  ],
+  "citations": [
+    {
+      "id": "cit1",
+      "citer": "作者",
+      "quoted_author": "孟子",
+      "quoted_work": "",
+      "quoted_claim": "求则得之，舍则失之，是求有益于得也，求在我者也。求之有道，得之有命，是求无益于得也，求在外者也。",
+      "function": "援引权威支持",
+      "evidence": "孟子曰：“求则得之，舍则失之，是求有益于得也，求在我者也。求之有道，得之有命，是求无益于得也，求在外者也。”",
+      "confidence": 0.9
+    },
+    {
+      "id": "cit2",
+      "citer": "作者",
+      "quoted_author": "孔子",
+      "quoted_work": "",
+      "quoted_claim": "君子素其位而行，不愿乎其外。……正己而不求于人则无怨。",
+      "function": "援引权威支持",
+      "evidence": "孔子曰：“君子素其位而行，不愿乎其外。……正己而不求于人则无怨。”",
+      "confidence": 0.9
+    }
+  ],
+  "rhetorical_devices": [
+    {
+      "id": "rh1",
+      "expression": "三重网罗",
+      "device_type": "比喻",
+      "literal_target": "科学的教育、工商政策等现代性束缚",
+      "function": "形象化地表达作者对现代性负面影响的批判",
+      "evidence": "然以今日之人类，在此三重网罗之中",
+      "confidence": 0.9
+    }
+  ],
+  "uncertainties": [
+    {
+      "item": "三重网罗的具体所指",
+      "reason": "文本中未明确说明三重网罗是哪三重，仅从上下文推测可能指科学的教育、工商政策等。"
+    },
+    {
+      "item": "汉学宋学之争的具体内容",
+      "reason": "文本仅提到双方互相声称卫道、圣学，并各自提出观点，但未展开具体争论细节。"
+    }
+  ]
+}

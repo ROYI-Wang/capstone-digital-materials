@@ -1,0 +1,401 @@
+{
+  "metadata": {
+    "schema_version": "lite_v2.0",
+    "article_id": "陈独秀_001_d263aca8",
+    "article_title": "答适之",
+    "source_author": "陈独秀",
+    "section_title": "方今国中竟言新文化，而文化转移之枢纽，不外乎人生观。吾有吾之文化，西洋有西洋之文化。西洋之有益者如何采之，有害者如何革除之；凡此取舍之间，皆决之于观点。观点定，而后精神上之思潮、物质上之制度，乃可按",
+    "section_author": "方今国中竟言新文化，而文化转移之枢纽，不外乎人生观。吾有吾之文化，西洋有西洋之文化。西洋之有益者如何采之，有害者如何革除之；凡此取舍之间，皆决之于观点。观点定，而后精神上之思潮、物质上之制度，乃可",
+    "segment_id": "陈独秀_001_d263aca8_s0001",
+    "segment_index": 1,
+    "source_file": "E:\\1研究生\\岭南大学\\论文毕业\\capstone\\资料\\新的内容开始了\\local_upload\\input_w2\\陈独秀.txt"
+  },
+  "entities": [
+    {
+      "id": "e1",
+      "name": "陈独秀",
+      "canonical_name": "陈独秀",
+      "type": "人物",
+      "evidence": "我则以为，固然在主观上须建设科学的人生观之信仰，而更须在客观上对于一切超科学的人生观加以科学的解释，毕竟证明科学之威权是万能的，方能使玄学鬼无路可走，无缝可钻。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e2",
+      "name": "适之",
+      "canonical_name": "胡适",
+      "type": "人物",
+      "evidence": "适之只重在我们自己主观的说明，而疏忽了社会一般客观的说明",
+      "confidence": 1.0
+    },
+    {
+      "id": "e3",
+      "name": "张君劢",
+      "canonical_name": "张君劢",
+      "type": "人物",
+      "evidence": "张君劢、梁启超可以回答你",
+      "confidence": 1.0
+    },
+    {
+      "id": "e4",
+      "name": "梁启超",
+      "canonical_name": "梁启超",
+      "type": "人物",
+      "evidence": "张君劢、梁启超可以回答你",
+      "confidence": 1.0
+    },
+    {
+      "id": "e5",
+      "name": "科学",
+      "canonical_name": "科学",
+      "type": "概念",
+      "evidence": "去力争科学可否解决人生观的问题",
+      "confidence": 1.0
+    },
+    {
+      "id": "e6",
+      "name": "人生观",
+      "canonical_name": "人生观",
+      "type": "概念",
+      "evidence": "去力争科学可否解决人生观的问题",
+      "confidence": 1.0
+    },
+    {
+      "id": "e7",
+      "name": "科学的人生观",
+      "canonical_name": "科学的人生观",
+      "type": "概念",
+      "evidence": "无论你科学的人生观有如何具体的说明",
+      "confidence": 1.0
+    },
+    {
+      "id": "e8",
+      "name": "超科学的人生观",
+      "canonical_name": "超科学的人生观",
+      "type": "概念",
+      "evidence": "对于一切超科学的人生观加以科学的解释",
+      "confidence": 1.0
+    },
+    {
+      "id": "e9",
+      "name": "做官发财的人生观",
+      "canonical_name": "做官发财的人生观",
+      "type": "概念",
+      "evidence": "做官发财的人生观，靠天吃饭的人生观，求神问卜的人生观",
+      "confidence": 1.0
+    },
+    {
+      "id": "e10",
+      "name": "靠天吃饭的人生观",
+      "canonical_name": "靠天吃饭的人生观",
+      "type": "概念",
+      "evidence": "靠天吃饭的人生观，求神问卜的人生观",
+      "confidence": 1.0
+    },
+    {
+      "id": "e11",
+      "name": "求神问卜的人生观",
+      "canonical_name": "求神问卜的人生观",
+      "type": "概念",
+      "evidence": "求神问卜的人生观",
+      "confidence": 1.0
+    },
+    {
+      "id": "e12",
+      "name": "《安士全书》的人生观",
+      "canonical_name": "《安士全书》的人生观",
+      "type": "概念",
+      "evidence": "《安士全书》的人生观",
+      "confidence": 1.0
+    },
+    {
+      "id": "e13",
+      "name": "《太上感应篇》的人生观",
+      "canonical_name": "《太上感应篇》的人生观",
+      "type": "概念",
+      "evidence": "《太上感应篇》的人生观",
+      "confidence": 1.0
+    },
+    {
+      "id": "e14",
+      "name": "科学万能",
+      "canonical_name": "科学万能",
+      "type": "概念",
+      "evidence": "不能证明科学万能",
+      "confidence": 1.0
+    },
+    {
+      "id": "e15",
+      "name": "玄学",
+      "canonical_name": "玄学",
+      "type": "概念",
+      "evidence": "使玄学游魂尚有四出的余地",
+      "confidence": 1.0
+    },
+    {
+      "id": "e16",
+      "name": "玄学鬼",
+      "canonical_name": "玄学鬼",
+      "type": "比喻/类比",
+      "evidence": "方能使玄学鬼无路可走，无缝可钻。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e17",
+      "name": "唯物的历史观",
+      "canonical_name": "唯物史观",
+      "type": "主义/学说/理论",
+      "evidence": "唯物的历史观”是我们的根本思想",
+      "confidence": 1.0
+    },
+    {
+      "id": "e18",
+      "name": "唯物史观",
+      "canonical_name": "唯物史观",
+      "type": "主义/学说/理论",
+      "evidence": "我依据唯物史观的理论来讨论人生观",
+      "confidence": 1.0
+    },
+    {
+      "id": "e19",
+      "name": "历史观",
+      "canonical_name": "历史观",
+      "type": "概念",
+      "evidence": "名为历史观，其实不限于历史，并应用于人生观及社会观。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e20",
+      "name": "社会观",
+      "canonical_name": "社会观",
+      "type": "概念",
+      "evidence": "并应用于人生观及社会观。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e21",
+      "name": "客观的物质原因",
+      "canonical_name": "客观的物质原因",
+      "type": "概念",
+      "evidence": "只有客观的物质原因可以变动社会，可以解释历史，可以支配人生观",
+      "confidence": 1.0
+    }
+  ],
+  "claims": [
+    {
+      "id": "c1",
+      "speaker": "陈独秀",
+      "claim": "像这样缩短战线，只立而不破的辩论法，不是纵敌，便是收兵。",
+      "target": "适之",
+      "claim_type": "论战策略批评",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "像这样缩短战线，只立而不破的辩论法，不是纵敌，便是收兵。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c2",
+      "speaker": "陈独秀",
+      "claim": "适之只重在我们自己主观的说明，而疏忽了社会一般客观的说明，只说明了科学的人生观自身之美满，未说明科学对于一切人生观之威权，不能证明科学万能，使玄学游魂尚有四出的余地。",
+      "target": "适之",
+      "claim_type": "论战策略批评",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "适之只重在我们自己主观的说明，而疏忽了社会一般客观的说明，只说明了科学的人生观自身之美满，未说明科学对于一切人生观之威权，不能证明科学万能，使玄学游魂尚有四出的余地。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c3",
+      "speaker": "陈独秀",
+      "claim": "固然在主观上须建设科学的人生观之信仰，而更须在客观上对于一切超科学的人生观加以科学的解释，毕竟证明科学之威权是万能的，方能使玄学鬼无路可走，无缝可钻。",
+      "target": "科学",
+      "claim_type": "方法论主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "我则以为，固然在主观上须建设科学的人生观之信仰，而更须在客观上对于一切超科学的人生观加以科学的解释，毕竟证明科学之威权是万能的，方能使玄学鬼无路可走，无缝可钻。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c4",
+      "speaker": "陈独秀",
+      "claim": "唯物的历史观是我们的根本思想，名为历史观，其实不限于历史，并应用于人生观及社会观。",
+      "target": "唯物的历史观",
+      "claim_type": "定义性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "唯物的历史观”是我们的根本思想，名为历史观，其实不限于历史，并应用于人生观及社会观。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c5",
+      "speaker": "陈独秀",
+      "claim": "只有客观的物质原因可以变动社会，可以解释历史，可以支配人生观。",
+      "target": "客观的物质原因",
+      "claim_type": "本体论主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "只有客观的物质原因可以变动社会，可以解释历史，可以支配人生观",
+      "confidence": 1.0
+    },
+    {
+      "id": "c6",
+      "speaker": "陈独秀",
+      "claim": "我依据唯物史观的理论来讨论人生观，适之便欲强为分别。",
+      "target": "适之",
+      "claim_type": "论战策略批评",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "我依据唯物史观的理论来讨论人生观，适之便欲强为分别；",
+      "confidence": 1.0
+    },
+    {
+      "id": "c7",
+      "speaker": "张君劢、梁启超",
+      "claim": "我们本来不曾承认科学破产，但是人类社会除了你这样高明的人生观以外，另外还有许多人生观，如做官发财的人生观，靠天吃饭的人生观，求神问卜的人生观，《安士全书》的人生观，《太上感应篇》的人生观，其余三天三夜也说不尽的人生观，却都是超科学的，却都是科学所不能支配的，他们的世界大得很哩，科学的万能在那里？",
+      "target": "适之",
+      "claim_type": "反驳性主张",
+      "claim_status": "作者讽刺性归纳",
+      "polarity": "negative",
+      "evidence": "张君劢、梁启超可以回答你：适之先生！我们佩服你科学的人生观也很高明，我们本来不曾承认科学破产，但是人类社会除了你这样高明的人生观以外，另外还有许多人生观，如先生所说的做官发财的人生观，靠天吃饭的人生观，求神问卜的人生观，《安士全书》的人生观，《太上感应篇》的人生观，其余三天三夜也说不尽的人生观，却都是超科学的，却都是科学所不能支配的，他们的世界大得很哩，科学的万能在那里？",
+      "confidence": 1.0
+    }
+  ],
+  "relations": [
+    {
+      "id": "r1",
+      "head": "陈独秀",
+      "head_type": "人物",
+      "relation": "批评",
+      "relation_subtype": "论战策略批评",
+      "tail": "适之",
+      "tail_type": "人物",
+      "polarity": "negative",
+      "evidence": "像这样缩短战线，只立而不破的辩论法，不是纵敌，便是收兵。",
+      "confidence": 1.0
+    },
+    {
+      "id": "r2",
+      "head": "陈独秀",
+      "head_type": "人物",
+      "relation": "批评",
+      "relation_subtype": "证据不足批评",
+      "tail": "适之",
+      "tail_type": "人物",
+      "polarity": "negative",
+      "evidence": "适之只重在我们自己主观的说明，而疏忽了社会一般客观的说明，只说明了科学的人生观自身之美满，未说明科学对于一切人生观之威权，不能证明科学万能，使玄学游魂尚有四出的余地。",
+      "confidence": 1.0
+    },
+    {
+      "id": "r3",
+      "head": "陈独秀",
+      "head_type": "人物",
+      "relation": "主张",
+      "relation_subtype": "不适用",
+      "tail": "科学",
+      "tail_type": "概念",
+      "polarity": "positive",
+      "evidence": "我则以为，固然在主观上须建设科学的人生观之信仰，而更须在客观上对于一切超科学的人生观加以科学的解释，毕竟证明科学之威权是万能的，方能使玄学鬼无路可走，无缝可钻。",
+      "confidence": 1.0
+    },
+    {
+      "id": "r4",
+      "head": "陈独秀",
+      "head_type": "人物",
+      "relation": "定义",
+      "relation_subtype": "概念澄清",
+      "tail": "唯物的历史观",
+      "tail_type": "主义/学说/理论",
+      "polarity": "positive",
+      "evidence": "唯物的历史观”是我们的根本思想，名为历史观，其实不限于历史，并应用于人生观及社会观。",
+      "confidence": 1.0
+    },
+    {
+      "id": "r5",
+      "head": "陈独秀",
+      "head_type": "人物",
+      "relation": "批评",
+      "relation_subtype": "概念混淆批评",
+      "tail": "适之",
+      "tail_type": "人物",
+      "polarity": "negative",
+      "evidence": "我依据唯物史观的理论来讨论人生观，适之便欲强为分别；",
+      "confidence": 1.0
+    },
+    {
+      "id": "r6",
+      "head": "陈独秀",
+      "head_type": "人物",
+      "relation": "归谬",
+      "relation_subtype": "归谬",
+      "tail": "张君劢、梁启超",
+      "tail_type": "人物",
+      "polarity": "negative",
+      "evidence": "张君劢、梁启超可以回答你：适之先生！我们佩服你科学的人生观也很高明，我们本来不曾承认科学破产，但是人类社会除了你这样高明的人生观以外，另外还有许多人生观，如先生所说的做官发财的人生观，靠天吃饭的人生观，求神问卜的人生观，《安士全书》的人生观，《太上感应篇》的人生观，其余三天三夜也说不尽的人生观，却都是超科学的，却都是科学所不能支配的，他们的世界大得很哩，科学的万能在那里？",
+      "confidence": 1.0
+    }
+  ],
+  "definitions": [
+    {
+      "id": "def1",
+      "term": "唯物的历史观",
+      "definition": "唯物的历史观是我们的根本思想，名为历史观，其实不限于历史，并应用于人生观及社会观。",
+      "evidence": "唯物的历史观”是我们的根本思想，名为历史观，其实不限于历史，并应用于人生观及社会观。",
+      "confidence": 1.0
+    }
+  ],
+  "citations": [
+    {
+      "id": "cit1",
+      "citer": "陈独秀",
+      "quoted_author": "适之",
+      "quoted_work": "",
+      "quoted_claim": "独秀说的是一种历史观",
+      "function": "作为批评对象",
+      "evidence": "适之说：“独秀说的是一种历史观,(我明明说只有客观的物质原因可以变动社会，可以解释历史，可以支配人生观，何尝专指历史?）而我们讨论的是人生观。”",
+      "confidence": 1.0
+    }
+  ],
+  "rhetorical_devices": [
+    {
+      "id": "rh1",
+      "expression": "玄学游魂",
+      "device_type": "比喻",
+      "literal_target": "玄学思想残余",
+      "function": "贬低对手，暗示玄学已死但仍有影响",
+      "evidence": "使玄学游魂尚有四出的余地",
+      "confidence": 1.0
+    },
+    {
+      "id": "rh2",
+      "expression": "玄学鬼",
+      "device_type": "比喻",
+      "literal_target": "玄学论者",
+      "function": "贬低对手，将其妖魔化",
+      "evidence": "方能使玄学鬼无路可走，无缝可钻。",
+      "confidence": 1.0
+    },
+    {
+      "id": "rh3",
+      "expression": "无路可走，无缝可钻",
+      "device_type": "夸张",
+      "literal_target": "彻底驳倒玄学",
+      "function": "强调科学万能论证的彻底性",
+      "evidence": "方能使玄学鬼无路可走，无缝可钻。",
+      "confidence": 1.0
+    },
+    {
+      "id": "rh4",
+      "expression": "三天三夜也说不尽的人生观",
+      "device_type": "夸张",
+      "literal_target": "人生观种类繁多",
+      "function": "强调超科学人生观数量之多，以质疑科学万能",
+      "evidence": "其余三天三夜也说不尽的人生观",
+      "confidence": 1.0
+    }
+  ],
+  "uncertainties": [
+    {
+      "item": "section_author 字段内容与 section_title 重复，且包含不完整句子，可能为数据错误。",
+      "reason": "section_author 字段内容与 section_title 字段内容完全一致，且均为不完整句子，可能为元数据录入错误。"
+    }
+  ]
+}

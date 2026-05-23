@@ -1,0 +1,336 @@
+{
+  "metadata": {
+    "schema_version": "lite_v2.0",
+    "article_id": "张东荪_000_a9bf05ee",
+    "article_title": "劳而无功 —— 评丁在君先生口中的科学",
+    "source_author": "张东荪",
+    "section_title": "更举一个好例，这个例就是丁先生的话。丁先生说柏格森说心的绵延如雪的堆积完全是比喻，不能算数。诚然，但请问丁先生为何对于马赫所说思想和天响雷一样（按",
+    "section_author": "更举一个好例，这个例就是丁先生的话。丁先生说柏格森说心的绵延如雪的堆积完全是比喻，不能算数。诚然，但请问丁先生为何对于马赫所说思想和天响雷一样（",
+    "segment_id": "张东荪_000_a9bf05ee_s0011",
+    "segment_index": 11,
+    "source_file": "E:\\1研究生\\岭南大学\\论文毕业\\capstone\\资料\\新的内容开始了\\local_upload\\input_w0\\张东荪.txt"
+  },
+  "entities": [
+    {
+      "id": "e1",
+      "name": "丁先生",
+      "canonical_name": "丁文江",
+      "type": "人物",
+      "evidence": "丁先生当然晓得",
+      "confidence": 0.9
+    },
+    {
+      "id": "e2",
+      "name": "过达德",
+      "canonical_name": "过达德",
+      "type": "人物",
+      "evidence": "过达德所著",
+      "confidence": 0.9
+    },
+    {
+      "id": "e3",
+      "name": "《人类的效率与智力的层次》",
+      "canonical_name": "《人类的效率与智力的层次》",
+      "type": "著作",
+      "evidence": "名曰《人类的效率与智力的层次》",
+      "confidence": 0.9
+    },
+    {
+      "id": "e4",
+      "name": "科学",
+      "canonical_name": "科学",
+      "type": "概念",
+      "evidence": "科学的确实性",
+      "confidence": 0.9
+    },
+    {
+      "id": "e5",
+      "name": "相对论",
+      "canonical_name": "相对论",
+      "type": "概念",
+      "evidence": "相对论即要失了科学的资格",
+      "confidence": 0.9
+    },
+    {
+      "id": "e6",
+      "name": "数学",
+      "canonical_name": "数学",
+      "type": "概念",
+      "evidence": "数学上的二加二是四",
+      "confidence": 0.9
+    },
+    {
+      "id": "e7",
+      "name": "空间弯",
+      "canonical_name": "空间弯",
+      "type": "概念",
+      "evidence": "相对论上有“空间弯”",
+      "confidence": 0.9
+    },
+    {
+      "id": "e8",
+      "name": "第四量向",
+      "canonical_name": "第四量向",
+      "type": "概念",
+      "evidence": "不能看见第四量向",
+      "confidence": 0.9
+    },
+    {
+      "id": "e9",
+      "name": "先天智力",
+      "canonical_name": "先天智力",
+      "type": "概念",
+      "evidence": "有一个不因学习而改的先天智力",
+      "confidence": 0.9
+    },
+    {
+      "id": "e10",
+      "name": "科学方法",
+      "canonical_name": "科学方法",
+      "type": "概念",
+      "evidence": "凡用科学方法都是科学",
+      "confidence": 0.9
+    },
+    {
+      "id": "e11",
+      "name": "形式论理",
+      "canonical_name": "形式论理",
+      "type": "概念",
+      "evidence": "科学方法若即是形式论理",
+      "confidence": 0.9
+    },
+    {
+      "id": "e12",
+      "name": "玄学",
+      "canonical_name": "玄学",
+      "type": "概念",
+      "evidence": "玄学用之",
+      "confidence": 0.9
+    },
+    {
+      "id": "e13",
+      "name": "科学的确实性",
+      "canonical_name": "科学的确实性",
+      "type": "概念",
+      "evidence": "科学的确实性是基于人心的相同",
+      "confidence": 0.9
+    },
+    {
+      "id": "e14",
+      "name": "人心的相同",
+      "canonical_name": "人心的相同",
+      "type": "概念",
+      "evidence": "基于人心的相同",
+      "confidence": 0.9
+    },
+    {
+      "id": "e15",
+      "name": "智力实验",
+      "canonical_name": "智力实验",
+      "type": "概念",
+      "evidence": "科学的智力实验法",
+      "confidence": 0.9
+    },
+    {
+      "id": "e16",
+      "name": "玄学的假定",
+      "canonical_name": "玄学的假定",
+      "type": "概念",
+      "evidence": "背后先有一个玄学的假定",
+      "confidence": 0.9
+    }
+  ],
+  "claims": [
+    {
+      "id": "c1",
+      "speaker": "张东荪",
+      "claim": "若科学确实性的标准在人心的相同，恐怕相对论即要失了科学的资格，因为百人中就未必能有四个人懂相对论的。",
+      "target": "丁先生",
+      "claim_type": "反驳性主张",
+      "claim_status": "作者推论",
+      "polarity": "negative",
+      "evidence": "若科学确实性的标准在人心的相同，恐怕相对论即要失了科学的资格，因为百人中就未必能有四个人懂相对论的。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c2",
+      "speaker": "张东荪",
+      "claim": "数学上的二加二是四，其确实性不是基于人心的相同。",
+      "target": "丁先生",
+      "claim_type": "反驳性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "难道数学上的二加二是四，其确实性是基于人心的相同么？",
+      "confidence": 0.9
+    },
+    {
+      "id": "c3",
+      "speaker": "张东荪",
+      "claim": "若说科学的确实性是基于人心的相同，实在危险得很。",
+      "target": "丁先生",
+      "claim_type": "反驳性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "可见若说科学的确实性是基于人心的相同，实在危险得很。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c4",
+      "speaker": "过达德",
+      "claim": "有一个不因学习而改的先天智力，所测的即是这个抽象的智力而不是具体的学习。",
+      "target": "",
+      "claim_type": "知识论主张",
+      "claim_status": "间接转述",
+      "polarity": "neutral",
+      "evidence": "过达德告诉我们说有一个不因学习而改的先天智力，所测的即是这个抽象的智力而不是具体的学习。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c5",
+      "speaker": "张东荪",
+      "claim": "科学的智力实验法背后先有一个玄学的假定。",
+      "target": "丁先生",
+      "claim_type": "反驳性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "不料货真价实的科学方法却背后先有一个玄学的假定。但是削去这个假定，科学的智力实验法亦立不住了。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c6",
+      "speaker": "丁先生",
+      "claim": "凡用科学方法都是科学。",
+      "target": "",
+      "claim_type": "定义性主张",
+      "claim_status": "间接转述",
+      "polarity": "neutral",
+      "evidence": "至于丁先生说凡用科学方法都是科学",
+      "confidence": 0.9
+    },
+    {
+      "id": "c7",
+      "speaker": "张东荪",
+      "claim": "科学方法若即是形式论理，则不但玄学用之，宗教用之，乃至小说戏曲亦都用之。于是普天之下莫非科学。",
+      "target": "丁先生",
+      "claim_type": "反驳性主张",
+      "claim_status": "作者推论",
+      "polarity": "negative",
+      "evidence": "科学方法若即是形式论理，则不但玄学用之，宗教用之，乃至小说戏曲亦都用之。于是普天之下莫非科学。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c8",
+      "speaker": "张东荪",
+      "claim": "科学既早已如此普遍，丁先生大可不必再费九牛二虎之力以提倡了。",
+      "target": "丁先生",
+      "claim_type": "论战策略批评",
+      "claim_status": "作者讽刺性归纳",
+      "polarity": "negative",
+      "evidence": "科学既早已如此普遍，丁先生大可不必再费九牛二虎之力以提倡了。",
+      "confidence": 0.9
+    }
+  ],
+  "relations": [
+    {
+      "id": "r1",
+      "head": "科学的确实性",
+      "head_type": "概念",
+      "relation": "归因于",
+      "tail": "人心的相同",
+      "tail_type": "概念",
+      "polarity": "negative",
+      "evidence": "科学的确实性是基于人心的相同",
+      "confidence": 0.9
+    },
+    {
+      "id": "r2",
+      "head": "科学方法",
+      "head_type": "概念",
+      "relation": "属于",
+      "tail": "形式论理",
+      "tail_type": "概念",
+      "polarity": "neutral",
+      "evidence": "科学方法若即是形式论理",
+      "confidence": 0.9
+    }
+  ],
+  "definitions": [
+    {
+      "id": "def1",
+      "term": "先天智力",
+      "definition": "不因学习而改的抽象智力",
+      "evidence": "有一个不因学习而改的先天智力，所测的即是这个抽象的智力而不是具体的学习",
+      "confidence": 0.9
+    }
+  ],
+  "citations": [
+    {
+      "id": "cit1",
+      "citer": "张东荪",
+      "quoted_author": "过达德",
+      "quoted_work": "《人类的效率与智力的层次》",
+      "quoted_claim": "有一个不因学习而改的先天智力，所测的即是这个抽象的智力而不是具体的学习",
+      "function": "作为论据支持",
+      "evidence": "过达德告诉我们说有一个不因学习而改的先天智力，所测的即是这个抽象的智力而不是具体的学习。",
+      "confidence": 0.9
+    }
+  ],
+  "rhetorical_devices": [
+    {
+      "id": "rh1",
+      "expression": "九牛二虎之力",
+      "device_type": "夸张",
+      "literal_target": "丁先生提倡科学的努力",
+      "function": "讽刺丁先生主张的荒谬性",
+      "evidence": "丁先生大可不必再费九牛二虎之力以提倡了。",
+      "confidence": 0.9
+    },
+    {
+      "id": "rh2",
+      "expression": "普天之下莫非科学",
+      "device_type": "夸张",
+      "literal_target": "科学方法等同于形式论理导致科学泛化",
+      "function": "归谬丁先生关于科学方法的定义",
+      "evidence": "于是普天之下莫非科学。",
+      "confidence": 0.9
+    },
+    {
+      "id": "rh3",
+      "expression": "货真价实的科学方法",
+      "device_type": "反语",
+      "literal_target": "丁先生所推崇的科学方法",
+      "function": "讽刺科学方法背后有玄学假定",
+      "evidence": "不料货真价实的科学方法却背后先有一个玄学的假定。",
+      "confidence": 0.9
+    }
+  ],
+  "uncertainties": [
+    {
+      "item": "丁先生是否明确主张“科学的确实性是基于人心的相同”",
+      "reason": "文本中张东荪以此作为反驳对象，但未直接引用丁先生原话，可能是张东荪对丁先生观点的概括或推论。"
+    },
+    {
+      "item": "丁先生是否明确主张“凡用科学方法都是科学”",
+      "reason": "文本中张东荪转述此观点，但未提供丁先生原话，可能是张东荪的概括。"
+    }
+  ],
+  "_meta": {
+    "status": "success",
+    "stage": "extract",
+    "model": "deepseek-ai/DeepSeek-V4-Flash",
+    "base_url": "https://api.siliconflow.cn/v1",
+    "prompt_version": "extract_prompt_v2.0",
+    "schema_version": "lite_v2.0",
+    "segment_id": "张东荪_000_a9bf05ee_s0011",
+    "article_id": "张东荪_000_a9bf05ee",
+    "char_start": 5338,
+    "char_end": 5930,
+    "raw_path": "E:\\1研究生\\岭南大学\\论文毕业\\capstone\\资料\\新的内容开始了\\local_upload\\kg_runs\\张东荪\\raw_outputs\\extract\\张东荪_000_a9bf05ee_s0011.txt",
+    "parsed_at": "2026-05-19T23:59:26",
+    "started_at": "2026-05-19T23:58:52",
+    "elapsed_seconds": 34.051,
+    "strict_evidence_check": true,
+    "drop_unsupported_evidence": true,
+    "request_timeout_seconds": 180
+  }
+}

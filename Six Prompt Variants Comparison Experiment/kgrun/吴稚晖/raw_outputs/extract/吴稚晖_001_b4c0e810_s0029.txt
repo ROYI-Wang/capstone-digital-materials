@@ -1,0 +1,520 @@
+{
+  "metadata": {
+    "schema_version": "lite_v2.0",
+    "article_id": "吴稚晖_001_b4c0e810",
+    "article_title": "一个新信仰的宇宙观及人生观",
+    "source_author": "吴稚晖",
+    "section_title": "讲到这里，第一层可先用不值钱的玄学理想，近乎游戏的，说道毛厕里的石头亦有感觉。苍蝇的感觉，非即人的感觉，他们感觉的状况，颇极差等。玫瑰树的感觉，非即苍蝇的感觉，他们的感觉，又极差等。如是焉能禁我来瞎说，毛厕里石头的感觉，非即玫瑰树的感觉，他们感觉的状况，也极差等。若欲强分高下，则石头有其寂然不动的感觉，真所谓无私心而合天理，所以贞固永寿。一块毛厕里的石头，可以阅几十代人而依然如故，见数百兆苍蝇存灭，看千万棵玫瑰树忽而芬芳，忽而萎枯。彼如曰毛厕里的石头为万物之灵，理由亦未尝不充足。彼另有彼之可感与彼之可觉，人与苍蝇及玫瑰树之感觉，皆非彼所需，故亦非彼所有，如是而已。然这种蹈空的掉枪花，我们中国古代的玄学鬼常用“孰为正色，孰为正味”等的论调，闹得甚嚣尘上。自然受过科学洗礼的玄学鬼，不肯就把这种空言，来作惟一的搪塞。所以说到第二层，他就要戴上科学面具，正正经经，板起了面孔，来断定毛厕里的石头亦有感觉。他不是说能够",
+    "section_author": "讲到这里，第一层可先用不值钱的玄学理想，近乎游戏的，说道毛厕里的石头亦有感觉。苍蝇的感觉，非即人的感觉，他们感觉的状况，颇极差等。玫瑰树的感觉，非即苍蝇的感觉，他们的感觉，又极差等。如是焉能禁我来瞎说，毛厕里石头的感觉，非即玫瑰树的感觉，他们感觉的状况，也极差等。若欲强分高下，则石头有其寂然不动的感觉，真所谓无私心而合天理，所以贞固永寿。一块毛厕里的石头，可以阅几十代人而依然如故，见数百兆苍蝇存灭，看千万棵玫瑰树忽而芬芳，忽而萎枯。彼如曰毛厕里的石头为万物之灵，理由亦未尝不充足。彼另有彼之可感与彼之可觉，人与苍蝇及玫瑰树之感觉，皆非彼所需，故亦非彼所有，如是而已。然这种蹈空的掉枪花，我们中国古代的玄学鬼常用“孰为正色，孰为正味”等的论调，闹得甚嚣尘上。自然受过科学洗礼的玄学鬼，不肯就把这种空言，来作惟一的搪塞。所以说到第二层，他就要戴上科学面具，正正经经，板起了面孔，来断定毛厕里的石头亦有感觉。他不是说能够",
+    "segment_id": "吴稚晖_001_b4c0e810_s0029",
+    "segment_index": 29,
+    "source_file": "E:\\1研究生\\岭南大学\\论文毕业\\capstone\\资料\\新的内容开始了\\local_upload\\input_w0\\吴稚晖.txt"
+  },
+  "entities": [
+    {
+      "id": "e1",
+      "name": "梁漱溟",
+      "canonical_name": "梁漱溟",
+      "type": "人物",
+      "evidence": "梁漱溟先生所谓三条路",
+      "confidence": 1.0
+    },
+    {
+      "id": "e2",
+      "name": "胡适之",
+      "canonical_name": "胡适之",
+      "type": "人物",
+      "evidence": "胡适之先生虽嫌他包含过多",
+      "confidence": 1.0
+    },
+    {
+      "id": "e3",
+      "name": "孔二先生",
+      "canonical_name": "孔子",
+      "type": "人物",
+      "evidence": "孔二先生以前的民族心里，会造成孔二先生的学说",
+      "confidence": 1.0
+    },
+    {
+      "id": "e4",
+      "name": "梁卓如",
+      "canonical_name": "梁启超",
+      "type": "人物",
+      "evidence": "逼住了梁卓如、梁漱溟、张君劢、章行严诸位聪明绝顶的先生",
+      "confidence": 1.0
+    },
+    {
+      "id": "e5",
+      "name": "张君劢",
+      "canonical_name": "张君劢",
+      "type": "人物",
+      "evidence": "逼住了梁卓如、梁漱溟、张君劢、章行严诸位聪明绝顶的先生",
+      "confidence": 1.0
+    },
+    {
+      "id": "e6",
+      "name": "章行严",
+      "canonical_name": "章士钊",
+      "type": "人物",
+      "evidence": "逼住了梁卓如、梁漱溟、张君劢、章行严诸位聪明绝顶的先生",
+      "confidence": 1.0
+    },
+    {
+      "id": "e7",
+      "name": "庄周",
+      "canonical_name": "庄子",
+      "type": "人物",
+      "evidence": "虽一路有什么庄周、墨翟、胡适之、丁文江、任鸿隽等许多异端",
+      "confidence": 1.0
+    },
+    {
+      "id": "e8",
+      "name": "墨翟",
+      "canonical_name": "墨子",
+      "type": "人物",
+      "evidence": "虽一路有什么庄周、墨翟、胡适之、丁文江、任鸿隽等许多异端",
+      "confidence": 1.0
+    },
+    {
+      "id": "e9",
+      "name": "丁文江",
+      "canonical_name": "丁文江",
+      "type": "人物",
+      "evidence": "虽一路有什么庄周、墨翟、胡适之、丁文江、任鸿隽等许多异端",
+      "confidence": 1.0
+    },
+    {
+      "id": "e10",
+      "name": "任鸿隽",
+      "canonical_name": "任鸿隽",
+      "type": "人物",
+      "evidence": "虽一路有什么庄周、墨翟、胡适之、丁文江、任鸿隽等许多异端",
+      "confidence": 1.0
+    },
+    {
+      "id": "e11",
+      "name": "吴稚晖",
+      "canonical_name": "吴稚晖",
+      "type": "人物",
+      "evidence": "我们在柴积上日黄中搅扰着，那更不相干了。不过我们自己把小锣镗镗的敲着，唱个道情儿罢了。你老有什么人生观？朋友呀！下文再详细说罢。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e12",
+      "name": "三条路",
+      "canonical_name": "三条路",
+      "type": "概念",
+      "evidence": "梁漱溟先生所谓三条路",
+      "confidence": 1.0
+    },
+    {
+      "id": "e13",
+      "name": "西洋",
+      "canonical_name": "西洋",
+      "type": "阵营/群体",
+      "evidence": "他把三条路做了西洋、印度、中国的三代表",
+      "confidence": 1.0
+    },
+    {
+      "id": "e14",
+      "name": "印度",
+      "canonical_name": "印度",
+      "type": "阵营/群体",
+      "evidence": "他把三条路做了西洋、印度、中国的三代表",
+      "confidence": 1.0
+    },
+    {
+      "id": "e15",
+      "name": "中国",
+      "canonical_name": "中国",
+      "type": "阵营/群体",
+      "evidence": "他把三条路做了西洋、印度、中国的三代表",
+      "confidence": 1.0
+    },
+    {
+      "id": "e16",
+      "name": "人生观",
+      "canonical_name": "人生观",
+      "type": "概念",
+      "evidence": "你老有什么人生观？朋友呀！下文再详细说罢。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e17",
+      "name": "人",
+      "canonical_name": "人",
+      "type": "概念",
+      "evidence": "什么叫做人？先要恭敬的又好像滑稽的对答道：人便是宇宙万有中叫做动物的动物。人又便是动物万类中叫做哺乳动物的哺乳动物。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e18",
+      "name": "动物",
+      "canonical_name": "动物",
+      "type": "概念",
+      "evidence": "人便是宇宙万有中叫做动物的动物。人又便是动物万类中叫做哺乳动物的哺乳动物。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e19",
+      "name": "哺乳动物",
+      "canonical_name": "哺乳动物",
+      "type": "概念",
+      "evidence": "人又便是动物万类中叫做哺乳动物的哺乳动物。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e20",
+      "name": "真美善",
+      "canonical_name": "真美善",
+      "type": "概念",
+      "evidence": "什么叫做真美善，与其毕竟达不到，不如说“苟真矣”，“苟美矣”，“苟善矣”，我说达到，便算达到，岂不停当？",
+      "confidence": 1.0
+    }
+  ],
+  "claims": [
+    {
+      "id": "c1",
+      "speaker": "吴稚晖",
+      "claim": "那三条路是容易随着环境，时时变换走的。",
+      "target": "三条路",
+      "claim_type": "社会理论主张",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "那三条路是容易随着环境，时时变换走的。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c2",
+      "speaker": "吴稚晖",
+      "claim": "环境的力量能成功一个总算账，却竟有一大民族，共上了一条路，中国向来走的是两路。",
+      "target": "中国",
+      "claim_type": "历史解释",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "可是环境的力量能成功一个总算账，却竟有一大民族，共上了一条路，中国向来走的是两路。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c3",
+      "speaker": "吴稚晖",
+      "claim": "孔二先生以前的民族心里，会造成孔二先生的学说。",
+      "target": "孔二先生",
+      "claim_type": "历史解释",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "所以孔二先生以前的民族心里，会造成孔二先生的学说。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c4",
+      "speaker": "吴稚晖",
+      "claim": "孔二先生又能隔了二千五百年用间接直接的方法，来逼住了梁卓如、梁漱溟、张君劢、章行严诸位聪明绝顶的先生，进他的圈套。",
+      "target": "孔二先生",
+      "claim_type": "历史解释",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "孔二先生又能隔了二千五百年用间接直接的方法，来逼住了梁卓如、梁漱溟、张君劢、章行严诸位聪明绝顶的先生，进他的圈套。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c5",
+      "speaker": "吴稚晖",
+      "claim": "虽一路有什么庄周、墨翟、胡适之、丁文江、任鸿隽等许多异端，全不济事。",
+      "target": "庄周、墨翟、胡适之、丁文江、任鸿隽",
+      "claim_type": "价值评价",
+      "claim_status": "作者直接主张",
+      "polarity": "mixed",
+      "evidence": "虽一路有什么庄周、墨翟、胡适之、丁文江、任鸿隽等许多异端，全不济事。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c6",
+      "speaker": "吴稚晖",
+      "claim": "人便是宇宙万有中叫做动物的动物。人又便是动物万类中叫做哺乳动物的哺乳动物。",
+      "target": "人",
+      "claim_type": "定义性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "人便是宇宙万有中叫做动物的动物。人又便是动物万类中叫做哺乳动物的哺乳动物。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c7",
+      "speaker": "吴稚晖",
+      "claim": "什么叫做真美善，与其毕竟达不到，不如说“苟真矣”，“苟美矣”，“苟善矣”，我说达到，便算达到，岂不停当？",
+      "target": "真美善",
+      "claim_type": "定义性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "什么叫做真美善，与其毕竟达不到，不如说“苟真矣”，“苟美矣”，“苟善矣”，我说达到，便算达到，岂不停当？",
+      "confidence": 1.0
+    },
+    {
+      "id": "c8",
+      "speaker": "吴稚晖",
+      "claim": "这三种人，就是梁漱溟先生所谓三条路，他把三条路做了西洋、印度、中国的三代表，胡适之先生虽嫌他包含过多，然也可以笼统的代表一代表。",
+      "target": "梁漱溟",
+      "claim_type": "社会理论主张",
+      "claim_status": "间接转述",
+      "polarity": "neutral",
+      "evidence": "这三种人，就是梁漱溟先生所谓三条路，他把三条路做了西洋、印度、中国的三代表，胡适之先生虽嫌他包含过多，然也可以笼统的代表一代表。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c9",
+      "speaker": "胡适之",
+      "claim": "梁漱溟的包含过多。",
+      "target": "梁漱溟",
+      "claim_type": "价值评价",
+      "claim_status": "间接转述",
+      "polarity": "negative",
+      "evidence": "胡适之先生虽嫌他包含过多",
+      "confidence": 1.0
+    }
+  ],
+  "relations": [
+    {
+      "id": "r1",
+      "head": "吴稚晖",
+      "head_type": "人物",
+      "relation": "引用",
+      "relation_subtype": "援引权威",
+      "tail": "梁漱溟",
+      "tail_type": "人物",
+      "polarity": "neutral",
+      "evidence": "这三种人，就是梁漱溟先生所谓三条路",
+      "confidence": 1.0
+    },
+    {
+      "id": "r2",
+      "head": "吴稚晖",
+      "head_type": "人物",
+      "relation": "引用",
+      "relation_subtype": "援引权威",
+      "tail": "胡适之",
+      "tail_type": "人物",
+      "polarity": "neutral",
+      "evidence": "胡适之先生虽嫌他包含过多",
+      "confidence": 1.0
+    },
+    {
+      "id": "r3",
+      "head": "孔二先生",
+      "head_type": "人物",
+      "relation": "影响",
+      "relation_subtype": "不适用",
+      "tail": "梁卓如",
+      "tail_type": "人物",
+      "polarity": "negative",
+      "evidence": "孔二先生又能隔了二千五百年用间接直接的方法，来逼住了梁卓如、梁漱溟、张君劢、章行严诸位聪明绝顶的先生，进他的圈套。",
+      "confidence": 1.0
+    },
+    {
+      "id": "r4",
+      "head": "孔二先生",
+      "head_type": "人物",
+      "relation": "影响",
+      "relation_subtype": "不适用",
+      "tail": "梁漱溟",
+      "tail_type": "人物",
+      "polarity": "negative",
+      "evidence": "孔二先生又能隔了二千五百年用间接直接的方法，来逼住了梁卓如、梁漱溟、张君劢、章行严诸位聪明绝顶的先生，进他的圈套。",
+      "confidence": 1.0
+    },
+    {
+      "id": "r5",
+      "head": "孔二先生",
+      "head_type": "人物",
+      "relation": "影响",
+      "relation_subtype": "不适用",
+      "tail": "张君劢",
+      "tail_type": "人物",
+      "polarity": "negative",
+      "evidence": "孔二先生又能隔了二千五百年用间接直接的方法，来逼住了梁卓如、梁漱溟、张君劢、章行严诸位聪明绝顶的先生，进他的圈套。",
+      "confidence": 1.0
+    },
+    {
+      "id": "r6",
+      "head": "孔二先生",
+      "head_type": "人物",
+      "relation": "影响",
+      "relation_subtype": "不适用",
+      "tail": "章行严",
+      "tail_type": "人物",
+      "polarity": "negative",
+      "evidence": "孔二先生又能隔了二千五百年用间接直接的方法，来逼住了梁卓如、梁漱溟、张君劢、章行严诸位聪明绝顶的先生，进他的圈套。",
+      "confidence": 1.0
+    },
+    {
+      "id": "r7",
+      "head": "庄周",
+      "head_type": "人物",
+      "relation": "属于",
+      "relation_subtype": "不适用",
+      "tail": "异端",
+      "tail_type": "概念",
+      "polarity": "neutral",
+      "evidence": "虽一路有什么庄周、墨翟、胡适之、丁文江、任鸿隽等许多异端",
+      "confidence": 1.0
+    },
+    {
+      "id": "r8",
+      "head": "墨翟",
+      "head_type": "人物",
+      "relation": "属于",
+      "relation_subtype": "不适用",
+      "tail": "异端",
+      "tail_type": "概念",
+      "polarity": "neutral",
+      "evidence": "虽一路有什么庄周、墨翟、胡适之、丁文江、任鸿隽等许多异端",
+      "confidence": 1.0
+    },
+    {
+      "id": "r9",
+      "head": "胡适之",
+      "head_type": "人物",
+      "relation": "属于",
+      "relation_subtype": "不适用",
+      "tail": "异端",
+      "tail_type": "概念",
+      "polarity": "neutral",
+      "evidence": "虽一路有什么庄周、墨翟、胡适之、丁文江、任鸿隽等许多异端",
+      "confidence": 1.0
+    },
+    {
+      "id": "r10",
+      "head": "丁文江",
+      "head_type": "人物",
+      "relation": "属于",
+      "relation_subtype": "不适用",
+      "tail": "异端",
+      "tail_type": "概念",
+      "polarity": "neutral",
+      "evidence": "虽一路有什么庄周、墨翟、胡适之、丁文江、任鸿隽等许多异端",
+      "confidence": 1.0
+    },
+    {
+      "id": "r11",
+      "head": "任鸿隽",
+      "head_type": "人物",
+      "relation": "属于",
+      "relation_subtype": "不适用",
+      "tail": "异端",
+      "tail_type": "概念",
+      "polarity": "neutral",
+      "evidence": "虽一路有什么庄周、墨翟、胡适之、丁文江、任鸿隽等许多异端",
+      "confidence": 1.0
+    },
+    {
+      "id": "r12",
+      "head": "人",
+      "head_type": "概念",
+      "relation": "属于",
+      "relation_subtype": "不适用",
+      "tail": "动物",
+      "tail_type": "概念",
+      "polarity": "neutral",
+      "evidence": "人便是宇宙万有中叫做动物的动物。",
+      "confidence": 1.0
+    },
+    {
+      "id": "r13",
+      "head": "人",
+      "head_type": "概念",
+      "relation": "属于",
+      "relation_subtype": "不适用",
+      "tail": "哺乳动物",
+      "tail_type": "概念",
+      "polarity": "neutral",
+      "evidence": "人又便是动物万类中叫做哺乳动物的哺乳动物。",
+      "confidence": 1.0
+    }
+  ],
+  "definitions": [
+    {
+      "id": "def1",
+      "term": "人",
+      "definition": "人是宇宙万有中的动物，也是动物中的哺乳动物。",
+      "evidence": "人便是宇宙万有中叫做动物的动物。人又便是动物万类中叫做哺乳动物的哺乳动物。",
+      "confidence": 1.0
+    },
+    {
+      "id": "def2",
+      "term": "真美善",
+      "definition": "真美善是达不到的，不如说“苟真矣”“苟美矣”“苟善矣”，自己说达到便算达到。",
+      "evidence": "什么叫做真美善，与其毕竟达不到，不如说“苟真矣”，“苟美矣”，“苟善矣”，我说达到，便算达到，岂不停当？",
+      "confidence": 1.0
+    }
+  ],
+  "citations": [
+    {
+      "id": "cit1",
+      "citer": "吴稚晖",
+      "quoted_author": "梁漱溟",
+      "quoted_work": "",
+      "quoted_claim": "三条路代表西洋、印度、中国",
+      "function": "援引权威支持",
+      "evidence": "这三种人，就是梁漱溟先生所谓三条路，他把三条路做了西洋、印度、中国的三代表",
+      "confidence": 1.0
+    },
+    {
+      "id": "cit2",
+      "citer": "吴稚晖",
+      "quoted_author": "胡适之",
+      "quoted_work": "",
+      "quoted_claim": "梁漱溟的包含过多",
+      "function": "援引权威支持",
+      "evidence": "胡适之先生虽嫌他包含过多",
+      "confidence": 1.0
+    }
+  ],
+  "rhetorical_devices": [
+    {
+      "id": "rh1",
+      "expression": "他人骑马我骑驴，仔细想来终不如，蓦地回头挑担汉，……",
+      "device_type": "比喻",
+      "literal_target": "折中态度",
+      "function": "用比喻形象地描述折中者的心态",
+      "evidence": "他又摇头吟哦曰：“他人骑马我骑驴，仔细想来终不如，蓦地回头挑担汉，……”",
+      "confidence": 1.0
+    },
+    {
+      "id": "rh2",
+      "expression": "进他的圈套",
+      "device_type": "比喻",
+      "literal_target": "被孔子的学说影响或束缚",
+      "function": "用比喻表达对孔子学说影响的负面评价",
+      "evidence": "孔二先生又能隔了二千五百年用间接直接的方法，来逼住了梁卓如、梁漱溟、张君劢、章行严诸位聪明绝顶的先生，进他的圈套。",
+      "confidence": 1.0
+    },
+    {
+      "id": "rh3",
+      "expression": "异端",
+      "device_type": "标签化",
+      "literal_target": "庄周、墨翟、胡适之、丁文江、任鸿隽等人",
+      "function": "用标签化方式将这些人归为与主流不同的异端",
+      "evidence": "虽一路有什么庄周、墨翟、胡适之、丁文江、任鸿隽等许多异端",
+      "confidence": 1.0
+    },
+    {
+      "id": "rh4",
+      "expression": "我们在柴积上日黄中搅扰着，那更不相干了。不过我们自己把小锣镗镗的敲着，唱个道情儿罢了。",
+      "device_type": "比喻",
+      "literal_target": "作者自谦或自嘲的处境",
+      "function": "用比喻自嘲，表示自己无关紧要",
+      "evidence": "我们在柴积上日黄中搅扰着，那更不相干了。不过我们自己把小锣镗镗的敲着，唱个道情儿罢了。",
+      "confidence": 1.0
+    }
+  ],
+  "uncertainties": [
+    {
+      "item": "文本开头“球里一样，不依旧闷死么。有勇气，何尝不可连那听不到、看不见、闻不出、摸不着的一个境界，索性也牺牲了。”与后续内容关系不明，可能属于前一段落，无法确定其完整含义。",
+      "reason": "文本片段开头不完整，缺少上下文，无法准确判断其与后续内容的逻辑关系。"
+    },
+    {
+      "item": "“（丙）他说，不要高兴，亦不要太烦恼，我来折中，我来折中。”中的“他”指代不明。",
+      "reason": "前文未出现明确指代对象，无法确定“他”是谁。"
+    }
+  ]
+}

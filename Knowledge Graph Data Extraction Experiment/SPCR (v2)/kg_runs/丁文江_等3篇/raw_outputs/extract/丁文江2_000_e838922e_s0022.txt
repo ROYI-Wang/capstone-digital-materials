@@ -1,0 +1,378 @@
+{
+  "metadata": {
+    "schema_version": "lite_v3.0",
+    "article_id": "丁文江2_000_e838922e",
+    "article_title": "玄学与科学——答张君劢",
+    "source_author": "丁文江",
+    "section_title": "",
+    "section_author": "",
+    "segment_id": "丁文江2_000_e838922e_s0022",
+    "segment_index": 22,
+    "source_file": "E:\\1研究生\\岭南大学\\论文毕业\\capstone\\资料\\新的内容开始了\\local_upload\\input_丁文江\\丁文江2.txt"
+  },
+  "entities": [
+    {
+      "id": "e1",
+      "name": "拉氏",
+      "canonical_name": "拉马克",
+      "type": "人物",
+      "evidence": "拉氏已经死了三十九年",
+      "confidence": 0.9
+    },
+    {
+      "id": "e2",
+      "name": "达尔文",
+      "canonical_name": "达尔文",
+      "type": "人物",
+      "evidence": "达尔文所举的事实",
+      "confidence": 1.0
+    },
+    {
+      "id": "e3",
+      "name": "拉马克",
+      "canonical_name": "拉马克",
+      "type": "人物",
+      "evidence": "拉马克所不知道的",
+      "confidence": 1.0
+    },
+    {
+      "id": "e4",
+      "name": "牛顿",
+      "canonical_name": "牛顿",
+      "type": "人物",
+      "evidence": "牛顿死于七二七年",
+      "confidence": 1.0
+    },
+    {
+      "id": "e5",
+      "name": "爱因斯坦",
+      "canonical_name": "爱因斯坦",
+      "type": "人物",
+      "evidence": "爱因斯坦相对论所根据的事实",
+      "confidence": 1.0
+    },
+    {
+      "id": "e6",
+      "name": "柏格森",
+      "canonical_name": "柏格森",
+      "type": "人物",
+      "evidence": "柏格森先生的直觉",
+      "confidence": 1.0
+    },
+    {
+      "id": "e7",
+      "name": "君劢",
+      "canonical_name": "张君劢",
+      "type": "人物",
+      "evidence": "君劢所“姑置勿论”的理由",
+      "confidence": 1.0
+    },
+    {
+      "id": "e8",
+      "name": "疯子",
+      "canonical_name": "疯子",
+      "type": "概念",
+      "evidence": "与我所说的疯子又有什么关系",
+      "confidence": 0.8
+    },
+    {
+      "id": "e9",
+      "name": "人生观",
+      "canonical_name": "人生观",
+      "type": "概念",
+      "evidence": "我们两个人的人生观不一样",
+      "confidence": 1.0
+    },
+    {
+      "id": "e10",
+      "name": "科学毒",
+      "canonical_name": "科学毒",
+      "type": "概念",
+      "evidence": "一个“中了科学毒”",
+      "confidence": 0.9
+    },
+    {
+      "id": "e11",
+      "name": "玄学鬼",
+      "canonical_name": "玄学鬼",
+      "type": "概念",
+      "evidence": "一个“被玄学鬼附上身”",
+      "confidence": 0.9
+    },
+    {
+      "id": "e12",
+      "name": "觉官组织",
+      "canonical_name": "觉官组织",
+      "type": "概念",
+      "evidence": "他的官觉组织真正和我的是两样的",
+      "confidence": 1.0
+    },
+    {
+      "id": "e13",
+      "name": "柏格森的直觉主义",
+      "canonical_name": "柏格森的直觉主义",
+      "type": "主义/学说/理论",
+      "evidence": "若是相信柏格森的直觉主义的人",
+      "confidence": 1.0
+    },
+    {
+      "id": "e14",
+      "name": "直觉",
+      "canonical_name": "直觉",
+      "type": "概念",
+      "evidence": "你们有你们的直觉，我们有我们的直觉",
+      "confidence": 1.0
+    },
+    {
+      "id": "e15",
+      "name": "审查、概念、推论",
+      "canonical_name": "审查、概念、推论",
+      "type": "概念",
+      "evidence": "我第一篇讲审查、概念、推论所举的第三条",
+      "confidence": 0.9
+    },
+    {
+      "id": "e16",
+      "name": "推论",
+      "canonical_name": "推论",
+      "type": "概念",
+      "evidence": "凡推论不能使寻常有论理训练的人依了所根据的概念，也能得同样的推论",
+      "confidence": 1.0
+    },
+    {
+      "id": "e17",
+      "name": "巴尔福",
+      "canonical_name": "巴尔福",
+      "type": "人物",
+      "evidence": "巴尔福有一篇文章载在惜培德杂志上",
+      "confidence": 1.0
+    },
+    {
+      "id": "e18",
+      "name": "惜培德杂志",
+      "canonical_name": "惜培德杂志",
+      "type": "著作",
+      "evidence": "巴尔福有一篇文章载在惜培德杂志上",
+      "confidence": 0.9
+    },
+    {
+      "id": "e19",
+      "name": "自由意向的学说",
+      "canonical_name": "自由意向的学说",
+      "type": "主义/学说/理论",
+      "evidence": "人类有自由意向的学说",
+      "confidence": 1.0
+    },
+    {
+      "id": "e20",
+      "name": "情感问题",
+      "canonical_name": "情感问题",
+      "type": "概念",
+      "evidence": "他的肯不肯是情感问题",
+      "confidence": 0.9
+    }
+  ],
+  "claims": [
+    {
+      "id": "c1",
+      "speaker": "丁文江",
+      "claim": "拉马克同达尔文，牛顿同爱因斯坦的觉官印象不相同",
+      "target": "君劢",
+      "claim_type": "反驳性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "他们觉官印象不相同，自然有许多君劢所“姑置勿论”的理由",
+      "confidence": 0.9
+    },
+    {
+      "id": "c2",
+      "speaker": "丁文江",
+      "claim": "议论不相同，就是说觉官组织不相同，没有事实的根据",
+      "target": "君劢",
+      "claim_type": "反驳性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "议论不相同，就是说觉官组织不相同，有什么事实的根据",
+      "confidence": 0.9
+    },
+    {
+      "id": "c3",
+      "speaker": "丁文江",
+      "claim": "凡推论不能使寻常有论理训练的人依了所根据的概念，也能得同样的推论，科学不承认是真的",
+      "target": "",
+      "claim_type": "定义性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "凡推论不能使寻常有论理训练的人依了所根据的概念，也能得同样的推论，科学不承认是真的",
+      "confidence": 1.0
+    },
+    {
+      "id": "c4",
+      "speaker": "巴尔福",
+      "claim": "人类有自由意向的学说，科学上的根据很薄弱，但是他觉得这种学说很可爱，不肯放弃他",
+      "target": "自由意向的学说",
+      "claim_type": "评价性主张",
+      "claim_status": "间接转述",
+      "polarity": "mixed",
+      "evidence": "他说人类有自由意向的学说，科学上的根据很薄弱，他是知道的，但是他觉得这种学说很可爱，不肯放弃他",
+      "confidence": 0.9
+    },
+    {
+      "id": "c5",
+      "speaker": "丁文江",
+      "claim": "巴尔福的肯不肯是情感问题",
+      "target": "巴尔福",
+      "claim_type": "评价性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "足见得他的肯不肯是情感问题",
+      "confidence": 0.9
+    }
+  ],
+  "relations": [
+    {
+      "id": "r1",
+      "head": "君劢",
+      "head_type": "人物",
+      "relation": "主张",
+      "relation_subtype": "不适用",
+      "tail": "拉马克同达尔文，牛顿同爱因斯坦有相同的觉官印象",
+      "tail_type": "观点",
+      "polarity": "negative",
+      "stance_score": -0.8,
+      "intensity": 0.7,
+      "evidence": "如何可以说拉马克同达尔文，牛顿同爱因斯坦有相同的觉官印象",
+      "confidence": 0.9
+    },
+    {
+      "id": "r2",
+      "head": "丁文江",
+      "head_type": "人物",
+      "relation": "反驳",
+      "relation_subtype": "事实质疑",
+      "tail": "君劢",
+      "tail_type": "人物",
+      "polarity": "negative",
+      "stance_score": -0.9,
+      "intensity": 0.8,
+      "evidence": "如何可以说拉马克同达尔文，牛顿同爱因斯坦有相同的觉官印象",
+      "confidence": 0.9
+    },
+    {
+      "id": "r3",
+      "head": "丁文江",
+      "head_type": "人物",
+      "relation": "反驳",
+      "relation_subtype": "事实质疑",
+      "tail": "君劢",
+      "tail_type": "人物",
+      "polarity": "negative",
+      "stance_score": -0.9,
+      "intensity": 0.8,
+      "evidence": "议论不相同，就是说觉官组织不相同，有什么事实的根据",
+      "confidence": 0.9
+    },
+    {
+      "id": "r4",
+      "head": "丁文江",
+      "head_type": "人物",
+      "relation": "反驳",
+      "relation_subtype": "归谬",
+      "tail": "相信柏格森的直觉主义的人",
+      "tail_type": "阵营/群体",
+      "polarity": "negative",
+      "stance_score": -0.9,
+      "intensity": 0.9,
+      "evidence": "若是相信柏格森的直觉主义的人，真正相信他们的觉官组织与我们两样，我只好对他们说：“你说有你们的直觉，我们有我们的直觉，除非你们能证明，你们的觉官组织比我们的高明，我们用不着你们的直觉！”",
+      "confidence": 0.9
+    },
+    {
+      "id": "r5",
+      "head": "丁文江",
+      "head_type": "人物",
+      "relation": "引用",
+      "relation_subtype": "援引权威支持",
+      "tail": "巴尔福",
+      "tail_type": "人物",
+      "polarity": "neutral",
+      "stance_score": 0.0,
+      "intensity": 0.3,
+      "evidence": "我记得巴尔福有一篇文章载在惜培德杂志上。他说人类有自由意向的学说，科学上的根据很薄弱，他是知道的，但是他觉得这种学说很可爱，不肯放弃他",
+      "confidence": 0.9
+    },
+    {
+      "id": "r6",
+      "head": "丁文江",
+      "head_type": "人物",
+      "relation": "解释",
+      "relation_subtype": "不适用",
+      "tail": "能得同样的推论，不是说一定得同样的推论",
+      "tail_type": "观点",
+      "polarity": "neutral",
+      "stance_score": 0.0,
+      "intensity": 0.3,
+      "evidence": "我说能得同样的推论，不是说一定得同样的推论，因为能不能是一件事，肯不肯又是一件事",
+      "confidence": 0.9
+    }
+  ],
+  "definitions": [
+    {
+      "id": "def1",
+      "term": "推论",
+      "definition": "凡推论不能使寻常有论理训练的人依了所根据的概念，也能得同样的推论，科学不承认是真的",
+      "evidence": "凡推论不能使寻常有论理训练的人依了所根据的概念，也能得同样的推论，科学不承认是真的",
+      "confidence": 1.0
+    }
+  ],
+  "citations": [
+    {
+      "id": "cit1",
+      "citer": "丁文江",
+      "quoted_author": "巴尔福",
+      "quoted_work": "惜培德杂志",
+      "quoted_claim": "人类有自由意向的学说，科学上的根据很薄弱，他是知道的，但是他觉得这种学说很可爱，不肯放弃他",
+      "function": "援引权威支持",
+      "evidence": "我记得巴尔福有一篇文章载在惜培德杂志上。他说人类有自由意向的学说，科学上的根据很薄弱，他是知道的，但是他觉得这种学说很可爱，不肯放弃他",
+      "confidence": 0.9
+    }
+  ],
+  "rhetorical_devices": [
+    {
+      "id": "rh1",
+      "expression": "中了科学毒",
+      "device_type": "标签化",
+      "literal_target": "丁文江",
+      "function": "讽刺性标签，用于反驳君劢对丁文江的指责",
+      "evidence": "一个“中了科学毒”",
+      "confidence": 0.9
+    },
+    {
+      "id": "rh2",
+      "expression": "被玄学鬼附上身",
+      "device_type": "标签化",
+      "literal_target": "张君劢",
+      "function": "讽刺性标签，用于反驳君劢的立场",
+      "evidence": "一个“被玄学鬼附上身”",
+      "confidence": 0.9
+    },
+    {
+      "id": "rh3",
+      "expression": "你说有你们的直觉，我们有我们的直觉，除非你们能证明，你们的觉官组织比我们的高明，我们用不着你们的直觉",
+      "device_type": "归谬",
+      "literal_target": "相信柏格森的直觉主义的人",
+      "function": "归谬构造，将对方观点推到荒谬结论",
+      "evidence": "你说有你们的直觉，我们有我们的直觉，除非你们能证明，你们的觉官组织比我们的高明，我们用不着你们的直觉",
+      "confidence": 0.9
+    }
+  ],
+  "uncertainties": [
+    {
+      "item": "拉氏",
+      "reason": "文本中仅出现“拉氏”，根据上下文推测为拉马克，但未明确全名"
+    },
+    {
+      "item": "惜培德杂志",
+      "reason": "杂志名称可能为音译，无法确认准确名称"
+    }
+  ]
+}

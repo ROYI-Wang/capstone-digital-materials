@@ -1,0 +1,334 @@
+{
+  "metadata": {
+    "schema_version": "lite_v3.0",
+    "article_id": "胡适_002_c6a0c3b5",
+    "article_title": "孙行者与张君劢",
+    "source_author": "胡适",
+    "section_title": "",
+    "section_author": "",
+    "segment_id": "胡适_002_c6a0c3b5_s0001",
+    "segment_index": 1,
+    "source_file": "E:\\1研究生\\岭南大学\\论文毕业\\capstone\\资料\\新的内容开始了\\local_upload\\input_胡适\\胡适.txt"
+  },
+  "entities": [
+    {
+      "id": "e1",
+      "name": "柏格森的高徒",
+      "canonical_name": "柏格森的高徒",
+      "type": "人物",
+      "evidence": "这是柏格森的高徒的得意腔调。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e2",
+      "name": "逻辑先生的五样法宝",
+      "canonical_name": "逻辑先生的五样法宝",
+      "type": "概念",
+      "evidence": "然而他所指出的逻辑先生的五样法宝，我们只消祭起一样来，已够打出他的原形来了。",
+      "confidence": 0.8
+    },
+    {
+      "id": "e3",
+      "name": "矛盾律",
+      "canonical_name": "矛盾律",
+      "type": "概念",
+      "evidence": "我们祭起的法宝，是论理学上的矛盾律：",
+      "confidence": 0.9
+    },
+    {
+      "id": "e4",
+      "name": "张君劢",
+      "canonical_name": "张君劢",
+      "type": "人物",
+      "evidence": "【矛一】张君劢说：",
+      "confidence": 1.0
+    },
+    {
+      "id": "e5",
+      "name": "精神科学中有何种公例，可以推算未来之变化，如天文学之于天象，力学之于物体者乎？吾敢断言曰，必无而已。",
+      "canonical_name": "精神科学无公例可推算未来",
+      "type": "观点",
+      "evidence": "【矛一】张君劢说：\n> “精神科学中有何种公例，可以推算未来之变化，如天文学之于天象，力学之于物体者乎？吾敢断言曰，必无而已。”",
+      "confidence": 0.9
+    },
+    {
+      "id": "e6",
+      "name": "人类目的，屡变不已；虽变也，不趋于恶而必趋于善。",
+      "canonical_name": "人类目的必趋于善",
+      "type": "观点",
+      "evidence": "【盾一】张君劢又说：\n> “人类目的，屡变不已；虽变也，不趋于恶而必趋于善。”",
+      "confidence": 0.9
+    },
+    {
+      "id": "e7",
+      "name": "精神科学之公例，惟限于已过之事，而于未来之事，则不能推算。",
+      "canonical_name": "精神科学公例限于已过之事",
+      "type": "观点",
+      "evidence": "【矛二】张君劢说：\n> “精神科学之公例，惟限于已过之事，而于未来之事，则不能推算。”",
+      "confidence": 0.9
+    },
+    {
+      "id": "e8",
+      "name": "人类目的，屡变不已；虽变也，不趋于恶而必趋于善。其所以然之故，至为玄妙，不可测度。然据既往以测将来，其有持改革之说者，大抵图所以益世而非所以害世。此可以深信而不疑者也。",
+      "canonical_name": "据既往以测将来可深信",
+      "type": "观点",
+      "evidence": "【盾二】张君劢说：\n> “人类目的，屡变不已；虽变也，不趋于恶而必趋于善。其所以然之故，至为玄妙，不可测度。然据既往以测将来，其有持改革之说者，大抵图所以益世而非所以害世。此可以深信而不疑者也。”",
+      "confidence": 0.9
+    },
+    {
+      "id": "e9",
+      "name": "人生观不为论理方法与因果律所支配。",
+      "canonical_name": "人生观不为论理方法与因果律所支配",
+      "type": "观点",
+      "evidence": "【矛三】“人生观不为论理方法与因果律所支配。”",
+      "confidence": 0.9
+    }
+  ],
+  "claims": [
+    {
+      "id": "c1",
+      "speaker": "胡适",
+      "claim": "这是柏格森的高徒的得意腔调。",
+      "target": "柏格森的高徒",
+      "claim_type": "评价性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "这是柏格森的高徒的得意腔调。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c2",
+      "speaker": "胡适",
+      "claim": "他还引了许多师叔师伯的话来助他张目。",
+      "target": "柏格森的高徒",
+      "claim_type": "描述性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "他还引了许多师叔师伯的话来助他张目。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c3",
+      "speaker": "胡适",
+      "claim": "然而他所指出的逻辑先生的五样法宝，我们只消祭起一样来，已够打出他的原形来了。",
+      "target": "柏格森的高徒",
+      "claim_type": "反驳性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "然而他所指出的逻辑先生的五样法宝，我们只消祭起一样来，已够打出他的原形来了。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c4",
+      "speaker": "张君劢",
+      "claim": "精神科学中有何种公例，可以推算未来之变化，如天文学之于天象，力学之于物体者乎？吾敢断言曰，必无而已。",
+      "target": "精神科学",
+      "claim_type": "结论性主张",
+      "claim_status": "直接引用",
+      "polarity": "negative",
+      "evidence": "【矛一】张君劢说：\n> “精神科学中有何种公例，可以推算未来之变化，如天文学之于天象，力学之于物体者乎？吾敢断言曰，必无而已。”",
+      "confidence": 0.9
+    },
+    {
+      "id": "c5",
+      "speaker": "张君劢",
+      "claim": "人类目的，屡变不已；虽变也，不趋于恶而必趋于善。",
+      "target": "人类目的",
+      "claim_type": "描述性主张",
+      "claim_status": "直接引用",
+      "polarity": "positive",
+      "evidence": "【盾一】张君劢又说：\n> “人类目的，屡变不已；虽变也，不趋于恶而必趋于善。”",
+      "confidence": 0.9
+    },
+    {
+      "id": "c6",
+      "speaker": "张君劢",
+      "claim": "精神科学之公例，惟限于已过之事，而于未来之事，则不能推算。",
+      "target": "精神科学之公例",
+      "claim_type": "描述性主张",
+      "claim_status": "直接引用",
+      "polarity": "negative",
+      "evidence": "【矛二】张君劢说：\n> “精神科学之公例，惟限于已过之事，而于未来之事，则不能推算。”",
+      "confidence": 0.9
+    },
+    {
+      "id": "c7",
+      "speaker": "张君劢",
+      "claim": "人类目的，屡变不已；虽变也，不趋于恶而必趋于善。其所以然之故，至为玄妙，不可测度。然据既往以测将来，其有持改革之说者，大抵图所以益世而非所以害世。此可以深信而不疑者也。",
+      "target": "人类目的",
+      "claim_type": "结论性主张",
+      "claim_status": "直接引用",
+      "polarity": "positive",
+      "evidence": "【盾二】张君劢说：\n> “人类目的，屡变不已；虽变也，不趋于恶而必趋于善。其所以然之故，至为玄妙，不可测度。然据既往以测将来，其有持改革之说者，大抵图所以益世而非所以害世。此可以深信而不疑者也。”",
+      "confidence": 0.9
+    },
+    {
+      "id": "c8",
+      "speaker": "张君劢",
+      "claim": "人生观不为论理方法与因果律所支配。",
+      "target": "人生观",
+      "claim_type": "结论性主张",
+      "claim_status": "直接引用",
+      "polarity": "negative",
+      "evidence": "【矛三】“人生观不为论理方法与因果律所支配。”",
+      "confidence": 0.9
+    },
+    {
+      "id": "c9",
+      "speaker": "胡适",
+      "claim": "前面一个“必”字的矛，后面一个“必”字的盾，遥遥相对，好看煞人！",
+      "target": "张君劢",
+      "claim_type": "评价性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "前面一个“必”字的矛，后面一个“必”字的盾，遥遥相对，好看煞人！",
+      "confidence": 0.9
+    },
+    {
+      "id": "c10",
+      "speaker": "胡适",
+      "claim": "请问“据既往以测将来”是不是“以已成之例推算未来？”",
+      "target": "张君劢",
+      "claim_type": "问题提出",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "请问“据既往以测将来”是不是“以已成之例推算未来？”",
+      "confidence": 0.9
+    }
+  ],
+  "relations": [
+    {
+      "id": "r1",
+      "head": "胡适",
+      "head_type": "人物",
+      "relation": "批评",
+      "relation_subtype": "讽刺",
+      "tail": "柏格森的高徒",
+      "tail_type": "人物",
+      "polarity": "negative",
+      "stance_score": -0.8,
+      "intensity": 0.7,
+      "evidence": "这是柏格森的高徒的得意腔调。",
+      "confidence": 0.9
+    },
+    {
+      "id": "r2",
+      "head": "张君劢",
+      "head_type": "人物",
+      "relation": "自相矛盾",
+      "relation_subtype": "不适用",
+      "tail": "张君劢",
+      "tail_type": "人物",
+      "polarity": "negative",
+      "stance_score": 0.0,
+      "intensity": 0.0,
+      "evidence": "【矛一】张君劢说：\n> “精神科学中有何种公例，可以推算未来之变化，如天文学之于天象，力学之于物体者乎？吾敢断言曰，必无而已。”\n【盾一】张君劢又说：\n> “人类目的，屡变不已；虽变也，不趋于恶而必趋于善。”",
+      "confidence": 0.9
+    },
+    {
+      "id": "r3",
+      "head": "张君劢",
+      "head_type": "人物",
+      "relation": "自相矛盾",
+      "relation_subtype": "不适用",
+      "tail": "张君劢",
+      "tail_type": "人物",
+      "polarity": "negative",
+      "stance_score": 0.0,
+      "intensity": 0.0,
+      "evidence": "【矛二】张君劢说：\n> “精神科学之公例，惟限于已过之事，而于未来之事，则不能推算。”\n> “精神科学……决不能以已成之例，推算未来也。”\n【盾二】张君劢说：\n> “人类目的，屡变不已；虽变也，不趋于恶而必趋于善。其所以然之故，至为玄妙，不可测度。然据既往以测将来，其有持改革之说者，大抵图所以益世而非所以害世。此可以深信而不疑者也。”",
+      "confidence": 0.9
+    }
+  ],
+  "definitions": [],
+  "citations": [],
+  "rhetorical_devices": [
+    {
+      "id": "rh1",
+      "expression": "得意腔调",
+      "device_type": "讽刺",
+      "literal_target": "柏格森的高徒的言论方式",
+      "function": "贬低对手，暗示其言论傲慢无据",
+      "evidence": "这是柏格森的高徒的得意腔调。",
+      "confidence": 0.9
+    },
+    {
+      "id": "rh2",
+      "expression": "师叔师伯",
+      "device_type": "标签化",
+      "literal_target": "柏格森学派的其他学者",
+      "function": "以家族化称呼贬低对手的学术传承，暗示其依赖权威而非理性",
+      "evidence": "他还引了许多师叔师伯的话来助他张目。",
+      "confidence": 0.9
+    },
+    {
+      "id": "rh3",
+      "expression": "逻辑先生的五样法宝",
+      "device_type": "比喻",
+      "literal_target": "逻辑学的方法或原则",
+      "function": "以神话化比喻强调逻辑方法的威力，为反驳铺垫",
+      "evidence": "然而他所指出的逻辑先生的五样法宝，我们只消祭起一样来，已够打出他的原形来了。",
+      "confidence": 0.9
+    },
+    {
+      "id": "rh4",
+      "expression": "祭起",
+      "device_type": "比喻",
+      "literal_target": "使用逻辑方法",
+      "function": "以宗教仪式化比喻增强反驳的戏剧性",
+      "evidence": "我们只消祭起一样来，已够打出他的原形来了。",
+      "confidence": 0.9
+    },
+    {
+      "id": "rh5",
+      "expression": "打出他的原形",
+      "device_type": "比喻",
+      "literal_target": "揭露对手的错误或本质",
+      "function": "以神话中妖怪现原形比喻揭露对手的荒谬",
+      "evidence": "已够打出他的原形来了。",
+      "confidence": 0.9
+    },
+    {
+      "id": "rh6",
+      "expression": "前面一个“必”字的矛，后面一个“必”字的盾，遥遥相对，好看煞人！",
+      "device_type": "讽刺",
+      "literal_target": "张君劢言论中的自相矛盾",
+      "function": "以戏剧化对比讽刺对手的矛盾",
+      "evidence": "前面一个“必”字的矛，后面一个“必”字的盾，遥遥相对，好看煞人！",
+      "confidence": 0.9
+    }
+  ],
+  "uncertainties": [
+    {
+      "item": "柏格森的高徒是否指张君劢",
+      "reason": "文本中未明确说明“柏格森的高徒”就是张君劢，但上下文暗示可能指张君劢。"
+    },
+    {
+      "item": "师叔师伯的具体指代",
+      "reason": "文本未明确说明师叔师伯是谁，仅知是柏格森学派的其他学者。"
+    },
+    {
+      "item": "逻辑先生的五样法宝具体指什么",
+      "reason": "文本未具体说明五样法宝的内容，仅提到矛盾律。"
+    }
+  ],
+  "_meta": {
+    "status": "success",
+    "stage": "extract",
+    "model": "deepseek-ai/DeepSeek-V4-Flash",
+    "base_url": "https://api.siliconflow.cn/v1",
+    "prompt_version": "v2.0",
+    "schema_version": "lite_v3.0",
+    "segment_id": "胡适_002_c6a0c3b5_s0001",
+    "article_id": "胡适_002_c6a0c3b5",
+    "char_start": 492,
+    "char_end": 1083,
+    "raw_path": "E:\\1研究生\\岭南大学\\论文毕业\\capstone\\资料\\新的内容开始了\\local_upload\\kg_runs_v2\\胡适\\raw_outputs\\extract\\胡适_002_c6a0c3b5_s0001.txt",
+    "parsed_at": "2026-05-21T20:44:44",
+    "started_at": "2026-05-21T20:40:06",
+    "elapsed_seconds": 277.601,
+    "strict_evidence_check": true,
+    "drop_unsupported_evidence": true,
+    "request_timeout_seconds": 180
+  }
+}

@@ -1,0 +1,413 @@
+{
+  "metadata": {
+    "schema_version": "lite_v2.0",
+    "article_id": "陈独秀_002_69a217f6",
+    "article_title": "答张君劢及梁任公",
+    "source_author": "陈独秀",
+    "section_title": "",
+    "section_author": "",
+    "segment_id": "陈独秀_002_69a217f6_s0007",
+    "segment_index": 7,
+    "source_file": "E:\\1研究生\\岭南大学\\论文毕业\\capstone\\资料\\新的内容开始了\\local_upload\\input_w2\\陈独秀.txt"
+  },
+  "entities": [
+    {
+      "id": "e1",
+      "name": "陈独秀",
+      "canonical_name": "陈独秀",
+      "type": "人物",
+      "evidence": "吾再简单的正告张先生",
+      "confidence": 1.0
+    },
+    {
+      "id": "e2",
+      "name": "张君劢",
+      "canonical_name": "张君劢",
+      "type": "人物",
+      "evidence": "吾再简单的正告张先生",
+      "confidence": 1.0
+    },
+    {
+      "id": "e3",
+      "name": "社会现象",
+      "canonical_name": "社会现象",
+      "type": "概念",
+      "evidence": "他又是指社会现象而非指个人态度",
+      "confidence": 1.0
+    },
+    {
+      "id": "e4",
+      "name": "个人态度",
+      "canonical_name": "个人态度",
+      "type": "概念",
+      "evidence": "他又是指社会现象而非指个人态度",
+      "confidence": 1.0
+    },
+    {
+      "id": "e5",
+      "name": "社会心理",
+      "canonical_name": "社会心理",
+      "type": "概念",
+      "evidence": "社会现象变迁之动因及大多数个人对此变迁之态度即社会心理",
+      "confidence": 1.0
+    },
+    {
+      "id": "e6",
+      "name": "因果律",
+      "canonical_name": "因果律",
+      "type": "概念",
+      "evidence": "而为因果律所支配",
+      "confidence": 1.0
+    },
+    {
+      "id": "e7",
+      "name": "物质",
+      "canonical_name": "物质",
+      "type": "概念",
+      "evidence": "推求其最初原因都是物质的",
+      "confidence": 1.0
+    },
+    {
+      "id": "e8",
+      "name": "社会科学家",
+      "canonical_name": "社会科学家",
+      "type": "阵营/群体",
+      "evidence": "社会科学家才有加以物质的因果的说明之可能",
+      "confidence": 1.0
+    },
+    {
+      "id": "e9",
+      "name": "人生观",
+      "canonical_name": "人生观",
+      "type": "概念",
+      "evidence": "即不同的人生观",
+      "confidence": 1.0
+    },
+    {
+      "id": "e10",
+      "name": "自由意志",
+      "canonical_name": "自由意志",
+      "type": "概念",
+      "evidence": "个人自由意志之活动",
+      "confidence": 1.0
+    },
+    {
+      "id": "e11",
+      "name": "心理现象的因果律",
+      "canonical_name": "心理现象的因果律",
+      "type": "概念",
+      "evidence": "心理现象的因果律支配",
+      "confidence": 1.0
+    },
+    {
+      "id": "e12",
+      "name": "穆勒约翰",
+      "canonical_name": "穆勒约翰",
+      "type": "人物",
+      "evidence": "张先生自己却连篇累牍的称引穆勒约翰与詹姆士",
+      "confidence": 1.0
+    },
+    {
+      "id": "e13",
+      "name": "詹姆士",
+      "canonical_name": "詹姆士",
+      "type": "人物",
+      "evidence": "张先生自己却连篇累牍的称引穆勒约翰与詹姆士",
+      "confidence": 1.0
+    },
+    {
+      "id": "e14",
+      "name": "马氏之言",
+      "canonical_name": "马氏之言",
+      "type": "观点",
+      "evidence": "张先生说我生当今日而犹守马氏之言若圣经贤传",
+      "confidence": 0.8
+    }
+  ],
+  "claims": [
+    {
+      "id": "c1",
+      "speaker": "张君劢",
+      "claim": "小家族后之家庭制度如何，谁知之乎？公有财产后之制度如何，谁知之乎？",
+      "target": "社会现象",
+      "claim_type": "问题提出",
+      "claim_status": "间接转述",
+      "polarity": "neutral",
+      "evidence": "小家族后之家庭制度如何，谁知之乎？公有财产后之制度如何，谁知之乎？",
+      "confidence": 0.9
+    },
+    {
+      "id": "c2",
+      "speaker": "陈独秀",
+      "claim": "张君劢是指社会现象而非指个人态度，其论点不明",
+      "target": "张君劢",
+      "claim_type": "论战策略批评",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "他又是指社会现象而非指个人态度，其论点不明如此！",
+      "confidence": 0.9
+    },
+    {
+      "id": "c3",
+      "speaker": "陈独秀",
+      "claim": "社会现象变迁之动因及大多数个人对此变迁之态度即社会心理，推求其最初原因都是物质的，而为因果律所支配",
+      "target": "社会现象",
+      "claim_type": "知识论主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "社会现象变迁之动因及大多数个人对此变迁之态度即社会心理，推求其最初原因都是物质的，而为因果律所支配",
+      "confidence": 0.9
+    },
+    {
+      "id": "c4",
+      "speaker": "陈独秀",
+      "claim": "社会科学家有加以物质的因果的说明之可能",
+      "target": "社会科学家",
+      "claim_type": "方法论主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "社会科学家才有加以物质的因果的说明之可能",
+      "confidence": 0.9
+    },
+    {
+      "id": "c5",
+      "speaker": "陈独秀",
+      "claim": "个人对于各项问题之态度之变迁，其异时而态度不同者，则是明显的社会心理或隐伏的社会实质变迁之结果",
+      "target": "个人态度",
+      "claim_type": "知识论主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "其异时而态度不同者（即乙曰以为是，乙曰以为非），则仍是明显的社会心理或隐伏的社会实质变迁之结果",
+      "confidence": 0.9
+    },
+    {
+      "id": "c6",
+      "speaker": "陈独秀",
+      "claim": "个人不同的历史和环境递造成个人不同的态度，即不同的人生观",
+      "target": "人生观",
+      "claim_type": "知识论主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "因社会之新旧变迁终属相续而相错，没有截然的突变，于是个人不同的历史和环境递造成个人不同的态度，即不同的人生观",
+      "confidence": 0.9
+    },
+    {
+      "id": "c7",
+      "speaker": "陈独秀",
+      "claim": "个人意志之活动，在一定范围内是事实，而非绝对自由，因为个人的意志自由是为社会现象的因果律并心理现象的因果律支配，而非支配因果律者",
+      "target": "自由意志",
+      "claim_type": "知识论主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "在一定范围内，个人意志之活动，诚然是事实，而非绝对自由，因为个人的意志自由是为社会现象的因果律并心理现象的因果律支配，而非支配因果律者",
+      "confidence": 0.9
+    },
+    {
+      "id": "c8",
+      "speaker": "陈独秀",
+      "claim": "讨论真理，当以符合实际与否为标准，不当以其说新旧为标准",
+      "target": "真理",
+      "claim_type": "方法论主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "讨论真理，当以符合实际与否为标准，不当以其说新旧为标准",
+      "confidence": 0.9
+    },
+    {
+      "id": "c9",
+      "speaker": "张君劢",
+      "claim": "陈独秀生当今日而犹守马氏之言若圣经贤传",
+      "target": "陈独秀",
+      "claim_type": "论战策略批评",
+      "claim_status": "间接转述",
+      "polarity": "negative",
+      "evidence": "张先生说我生当今日而犹守马氏之言若圣经贤传",
+      "confidence": 0.9
+    },
+    {
+      "id": "c10",
+      "speaker": "陈独秀",
+      "claim": "张君劢自己连篇累牍的称引穆勒约翰与詹姆士",
+      "target": "张君劢",
+      "claim_type": "论战策略批评",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "张先生自己却连篇累牍的称引穆勒约翰与詹姆士（我生平论著绝不似张先生动辄称引古人）",
+      "confidence": 0.9
+    }
+  ],
+  "relations": [
+    {
+      "id": "r1",
+      "head": "陈独秀",
+      "head_type": "人物",
+      "relation": "回应",
+      "relation_subtype": "逻辑反驳",
+      "tail": "张君劢",
+      "tail_type": "人物",
+      "polarity": "negative",
+      "evidence": "吾再简单的正告张先生",
+      "confidence": 0.9
+    },
+    {
+      "id": "r2",
+      "head": "陈独秀",
+      "head_type": "人物",
+      "relation": "批评",
+      "relation_subtype": "概念混淆批评",
+      "tail": "张君劢",
+      "tail_type": "人物",
+      "polarity": "negative",
+      "evidence": "他又是指社会现象而非指个人态度，其论点不明如此！",
+      "confidence": 0.9
+    },
+    {
+      "id": "r3",
+      "head": "社会现象",
+      "head_type": "概念",
+      "relation": "归因于",
+      "relation_subtype": "不适用",
+      "tail": "物质",
+      "tail_type": "概念",
+      "polarity": "positive",
+      "evidence": "推求其最初原因都是物质的",
+      "confidence": 0.9
+    },
+    {
+      "id": "r4",
+      "head": "社会现象",
+      "head_type": "概念",
+      "relation": "属于",
+      "relation_subtype": "不适用",
+      "tail": "因果律",
+      "tail_type": "概念",
+      "polarity": "positive",
+      "evidence": "而为因果律所支配",
+      "confidence": 0.9
+    },
+    {
+      "id": "r5",
+      "head": "社会科学家",
+      "head_type": "阵营/群体",
+      "relation": "解释",
+      "relation_subtype": "不适用",
+      "tail": "社会现象",
+      "tail_type": "概念",
+      "polarity": "positive",
+      "evidence": "社会科学家才有加以物质的因果的说明之可能",
+      "confidence": 0.9
+    },
+    {
+      "id": "r6",
+      "head": "个人态度",
+      "head_type": "概念",
+      "relation": "归因于",
+      "relation_subtype": "不适用",
+      "tail": "社会心理",
+      "tail_type": "概念",
+      "polarity": "positive",
+      "evidence": "其异时而态度不同者（即乙曰以为是，乙曰以为非），则仍是明显的社会心理或隐伏的社会实质变迁之结果",
+      "confidence": 0.9
+    },
+    {
+      "id": "r7",
+      "head": "个人态度",
+      "head_type": "概念",
+      "relation": "归因于",
+      "relation_subtype": "不适用",
+      "tail": "历史和环境",
+      "tail_type": "概念",
+      "polarity": "positive",
+      "evidence": "个人不同的历史和环境递造成个人不同的态度",
+      "confidence": 0.9
+    },
+    {
+      "id": "r8",
+      "head": "个人态度",
+      "head_type": "概念",
+      "relation": "属于",
+      "relation_subtype": "不适用",
+      "tail": "人生观",
+      "tail_type": "概念",
+      "polarity": "positive",
+      "evidence": "即不同的人生观",
+      "confidence": 0.9
+    },
+    {
+      "id": "r9",
+      "head": "自由意志",
+      "head_type": "概念",
+      "relation": "属于",
+      "relation_subtype": "不适用",
+      "tail": "因果律",
+      "tail_type": "概念",
+      "polarity": "positive",
+      "evidence": "个人的意志自由是为社会现象的因果律并心理现象的因果律支配",
+      "confidence": 0.9
+    },
+    {
+      "id": "r10",
+      "head": "陈独秀",
+      "head_type": "人物",
+      "relation": "批评",
+      "relation_subtype": "讽刺",
+      "tail": "张君劢",
+      "tail_type": "人物",
+      "polarity": "negative",
+      "evidence": "张先生自己却连篇累牍的称引穆勒约翰与詹姆士（我生平论著绝不似张先生动辄称引古人）",
+      "confidence": 0.9
+    }
+  ],
+  "definitions": [
+    {
+      "id": "def1",
+      "term": "社会心理",
+      "definition": "社会现象变迁之动因及大多数个人对此变迁之态度",
+      "evidence": "社会现象变迁之动因及大多数个人对此变迁之态度即社会心理",
+      "confidence": 0.9
+    }
+  ],
+  "citations": [
+    {
+      "id": "cit1",
+      "citer": "张君劢",
+      "quoted_author": "穆勒约翰",
+      "quoted_work": "",
+      "quoted_claim": "",
+      "function": "援引权威支持",
+      "evidence": "张先生自己却连篇累牍的称引穆勒约翰与詹姆士",
+      "confidence": 0.8
+    },
+    {
+      "id": "cit2",
+      "citer": "张君劢",
+      "quoted_author": "詹姆士",
+      "quoted_work": "",
+      "quoted_claim": "",
+      "function": "援引权威支持",
+      "evidence": "张先生自己却连篇累牍的称引穆勒约翰与詹姆士",
+      "confidence": 0.8
+    }
+  ],
+  "rhetorical_devices": [
+    {
+      "id": "rh1",
+      "expression": "若圣经贤传",
+      "device_type": "比喻",
+      "literal_target": "马氏之言",
+      "function": "讽刺张君劢对陈独秀的指责",
+      "evidence": "张先生说我生当今日而犹守马氏之言若圣经贤传",
+      "confidence": 0.9
+    }
+  ],
+  "uncertainties": [
+    {
+      "item": "张君劢的论点具体内容",
+      "reason": "文本中只转述了张君劢的两个反问句，但未完整呈现其论点，无法全面抽取。"
+    },
+    {
+      "item": "马氏之言的具体指代",
+      "reason": "文本未明确说明马氏之言指代什么学说或著作。"
+    }
+  ]
+}

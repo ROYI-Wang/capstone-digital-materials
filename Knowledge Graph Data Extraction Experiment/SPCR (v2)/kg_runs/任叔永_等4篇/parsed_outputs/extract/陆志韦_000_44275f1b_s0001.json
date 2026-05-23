@@ -1,0 +1,516 @@
+{
+  "metadata": {
+    "schema_version": "lite_v3.0",
+    "article_id": "陆志韦_000_44275f1b",
+    "article_title": "“死狗”的心理学",
+    "source_author": "陆志韦",
+    "section_title": "",
+    "section_author": "",
+    "segment_id": "陆志韦_000_44275f1b_s0001",
+    "segment_index": 1,
+    "source_file": "E:\\1研究生\\岭南大学\\论文毕业\\capstone\\资料\\新的内容开始了\\local_upload\\input_v2_w1\\陆志韦.txt"
+  },
+  "entities": [
+    {
+      "id": "e1",
+      "name": "心理学",
+      "canonical_name": "心理学",
+      "type": "概念",
+      "evidence": "心理学只算得三十六着中最后一着的护身符",
+      "confidence": 1.0
+    },
+    {
+      "id": "e2",
+      "name": "丁先生",
+      "canonical_name": "丁先生",
+      "type": "人物",
+      "evidence": "丁先生呼心理学说，“走狗来”",
+      "confidence": 1.0
+    },
+    {
+      "id": "e3",
+      "name": "张先生",
+      "canonical_name": "张先生",
+      "type": "人物",
+      "evidence": "张先生把心理狗头上拍了两拍",
+      "confidence": 1.0
+    },
+    {
+      "id": "e4",
+      "name": "哲学",
+      "canonical_name": "哲学",
+      "type": "概念",
+      "evidence": "哲学的走狗",
+      "confidence": 1.0
+    },
+    {
+      "id": "e5",
+      "name": "科学",
+      "canonical_name": "科学",
+      "type": "概念",
+      "evidence": "心理学为哲学与科学开一条来往的路线",
+      "confidence": 1.0
+    },
+    {
+      "id": "e6",
+      "name": "玄学家",
+      "canonical_name": "玄学家",
+      "type": "阵营/群体",
+      "evidence": "现在偏受玄学家与科学家的抬举了",
+      "confidence": 1.0
+    },
+    {
+      "id": "e7",
+      "name": "科学家",
+      "canonical_name": "科学家",
+      "type": "阵营/群体",
+      "evidence": "现在偏受玄学家与科学家的抬举了",
+      "confidence": 1.0
+    },
+    {
+      "id": "e8",
+      "name": "Pearson",
+      "canonical_name": "Pearson",
+      "type": "人物",
+      "evidence": "尽可你推Pearson我奉Mach",
+      "confidence": 1.0
+    },
+    {
+      "id": "e9",
+      "name": "Mach",
+      "canonical_name": "Mach",
+      "type": "人物",
+      "evidence": "尽可你推Pearson我奉Mach",
+      "confidence": 1.0
+    },
+    {
+      "id": "e10",
+      "name": "Helmholtz",
+      "canonical_name": "Helmholtz",
+      "type": "人物",
+      "evidence": "甚至把Helmholtz的错误都信以为真理了",
+      "confidence": 1.0
+    },
+    {
+      "id": "e11",
+      "name": "天才",
+      "canonical_name": "天才",
+      "type": "概念",
+      "evidence": "天才与疯子都是感觉特别发展",
+      "confidence": 1.0
+    },
+    {
+      "id": "e12",
+      "name": "疯子",
+      "canonical_name": "疯子",
+      "type": "概念",
+      "evidence": "天才与疯子都是感觉特别发展",
+      "confidence": 1.0
+    },
+    {
+      "id": "e13",
+      "name": "张东荪",
+      "canonical_name": "张东荪",
+      "type": "人物",
+      "evidence": "张东荪先生是我的知交",
+      "confidence": 1.0
+    },
+    {
+      "id": "e14",
+      "name": "Goddard",
+      "canonical_name": "Goddard",
+      "type": "人物",
+      "evidence": "他自己赞成Goddard",
+      "confidence": 1.0
+    },
+    {
+      "id": "e15",
+      "name": "林宰平",
+      "canonical_name": "林宰平",
+      "type": "人物",
+      "evidence": "近来还有一位林宰平先生自己尝了自己的吐涎还没有知道",
+      "confidence": 1.0
+    },
+    {
+      "id": "e16",
+      "name": "智力测验",
+      "canonical_name": "智力测验",
+      "type": "概念",
+      "evidence": "他自己没有读过许多智力测验的理论书",
+      "confidence": 1.0
+    },
+    {
+      "id": "e17",
+      "name": "色盲人看玫瑰花是绿的",
+      "canonical_name": "色盲人看玫瑰花是绿的",
+      "type": "例证",
+      "evidence": "譬如说色盲人看玫瑰花是绿的",
+      "confidence": 1.0
+    },
+    {
+      "id": "e18",
+      "name": "电流直接引起味觉",
+      "canonical_name": "电流直接引起味觉",
+      "type": "观点",
+      "evidence": "倒说电流直接引起味觉",
+      "confidence": 1.0
+    }
+  ],
+  "claims": [
+    {
+      "id": "c1",
+      "speaker": "陆志韦",
+      "claim": "两先生都没有了解心理学",
+      "target": "丁先生、张先生",
+      "claim_type": "评价性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "我们胆大的说：两先生都没有了解心理学",
+      "confidence": 1.0
+    },
+    {
+      "id": "c2",
+      "speaker": "陆志韦",
+      "claim": "他们原不必牵涉心理学",
+      "target": "丁先生、张先生",
+      "claim_type": "评价性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "我们再硬着头皮说：他们原不必牵涉心理学",
+      "confidence": 1.0
+    },
+    {
+      "id": "c3",
+      "speaker": "丁先生",
+      "claim": "色盲人看玫瑰花是绿的",
+      "target": "",
+      "claim_type": "描述性主张",
+      "claim_status": "间接转述",
+      "polarity": "neutral",
+      "evidence": "譬如说色盲人看玫瑰花是绿的",
+      "confidence": 0.8
+    },
+    {
+      "id": "c4",
+      "speaker": "陆志韦",
+      "claim": "丁先生信仰而偏袒科学家，甚至把Helmholtz的错误都信以为真理了",
+      "target": "丁先生",
+      "claim_type": "评价性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "丁先生信仰而偏袒科学家，甚至把Helmholtz的错误都信以为真理了",
+      "confidence": 1.0
+    },
+    {
+      "id": "c5",
+      "speaker": "丁先生",
+      "claim": "天才与疯子都是感觉特别发展",
+      "target": "",
+      "claim_type": "描述性主张",
+      "claim_status": "间接转述",
+      "polarity": "neutral",
+      "evidence": "又如说天才与疯子都是感觉特别发展",
+      "confidence": 0.8
+    },
+    {
+      "id": "c6",
+      "speaker": "陆志韦",
+      "claim": "那竟是奉了上谕，捏造证据",
+      "target": "丁先生",
+      "claim_type": "评价性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "那竟是奉了上谕，捏造证据",
+      "confidence": 1.0
+    },
+    {
+      "id": "c7",
+      "speaker": "陆志韦",
+      "claim": "张先生不得已而谈心理，我们觉得他的措辞比丁先生稳健得多",
+      "target": "张先生",
+      "claim_type": "评价性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "张先生不得已而谈心理，我们觉得他的措辞比丁先生稳健得多",
+      "confidence": 1.0
+    },
+    {
+      "id": "c8",
+      "speaker": "陆志韦",
+      "claim": "他只是述学而不叙事，偏固是偏，还没有钦定现象",
+      "target": "张先生",
+      "claim_type": "评价性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "mixed",
+      "evidence": "他只是述学而不叙事，偏固是偏，还没有钦定现象",
+      "confidence": 1.0
+    },
+    {
+      "id": "c9",
+      "speaker": "陆志韦",
+      "claim": "张东荪先生是我的知交，他的出言不慎我们也不能为他曲谅",
+      "target": "张东荪",
+      "claim_type": "评价性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "张东荪先生是我的知交，他的出言不慎我们也不能为他曲谅",
+      "confidence": 1.0
+    },
+    {
+      "id": "c10",
+      "speaker": "张东荪",
+      "claim": "实在没有几本书",
+      "target": "智力测验的理论书",
+      "claim_type": "描述性主张",
+      "claim_status": "间接转述",
+      "polarity": "neutral",
+      "evidence": "他自己没有读过许多智力测验的理论书，偏说实在没有几本书",
+      "confidence": 0.8
+    },
+    {
+      "id": "c11",
+      "speaker": "张东荪",
+      "claim": "科学的智力测验，除了玄学的假定，就立不住",
+      "target": "科学的智力测验",
+      "claim_type": "评价性主张",
+      "claim_status": "间接转述",
+      "polarity": "negative",
+      "evidence": "他自己赞成Goddard,竟敢说科学的智力测验，除了玄学的假定，就立不住",
+      "confidence": 0.8
+    },
+    {
+      "id": "c12",
+      "speaker": "林宰平",
+      "claim": "电流直接引起味觉",
+      "target": "",
+      "claim_type": "描述性主张",
+      "claim_status": "间接转述",
+      "polarity": "neutral",
+      "evidence": "倒说电流直接引起味觉",
+      "confidence": 0.8
+    },
+    {
+      "id": "c13",
+      "speaker": "陆志韦",
+      "claim": "这些都是事实的问题。是则是，非则非，无从辩论",
+      "target": "丁先生、张东荪、林宰平",
+      "claim_type": "结论性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "这些都是事实的问题。是则是，非则非，无从辩论",
+      "confidence": 1.0
+    }
+  ],
+  "relations": [
+    {
+      "id": "r1",
+      "head": "丁先生",
+      "head_type": "人物",
+      "relation": "批评",
+      "relation_subtype": "事实质疑",
+      "tail": "心理学",
+      "tail_type": "概念",
+      "polarity": "negative",
+      "stance_score": -0.8,
+      "intensity": 0.7,
+      "evidence": "丁先生呼心理学说，“走狗来”，走狗有时偏不来，于是破口说，“你也造反了，你这哲学的走狗”",
+      "confidence": 1.0
+    },
+    {
+      "id": "r2",
+      "head": "陆志韦",
+      "head_type": "人物",
+      "relation": "批评",
+      "relation_subtype": "概念混淆批评",
+      "tail": "丁先生",
+      "tail_type": "人物",
+      "polarity": "negative",
+      "stance_score": -0.9,
+      "intensity": 0.8,
+      "evidence": "我们很可惜丁先生出言不慎",
+      "confidence": 1.0
+    },
+    {
+      "id": "r3",
+      "head": "陆志韦",
+      "head_type": "人物",
+      "relation": "批评",
+      "relation_subtype": "事实质疑",
+      "tail": "丁先生",
+      "tail_type": "人物",
+      "polarity": "negative",
+      "stance_score": -0.9,
+      "intensity": 0.8,
+      "evidence": "丁先生信仰而偏袒科学家，甚至把Helmholtz的错误都信以为真理了",
+      "confidence": 1.0
+    },
+    {
+      "id": "r4",
+      "head": "陆志韦",
+      "head_type": "人物",
+      "relation": "相关",
+      "relation_subtype": "部分肯定",
+      "tail": "张先生",
+      "tail_type": "人物",
+      "polarity": "mixed",
+      "stance_score": 0.3,
+      "intensity": 0.5,
+      "evidence": "张先生不得已而谈心理，我们觉得他的措辞比丁先生稳健得多",
+      "confidence": 1.0
+    },
+    {
+      "id": "r5",
+      "head": "陆志韦",
+      "head_type": "人物",
+      "relation": "批评",
+      "relation_subtype": "同阵营内部批评",
+      "tail": "张东荪",
+      "tail_type": "人物",
+      "polarity": "negative",
+      "stance_score": -0.6,
+      "intensity": 0.6,
+      "evidence": "张东荪先生是我的知交，他的出言不慎我们也不能为他曲谅",
+      "confidence": 1.0
+    },
+    {
+      "id": "r6",
+      "head": "陆志韦",
+      "head_type": "人物",
+      "relation": "批评",
+      "relation_subtype": "事实质疑",
+      "tail": "林宰平",
+      "tail_type": "人物",
+      "polarity": "negative",
+      "stance_score": -0.8,
+      "intensity": 0.7,
+      "evidence": "近来还有一位林宰平先生自己尝了自己的吐涎还没有知道，倒说电流直接引起味觉",
+      "confidence": 1.0
+    },
+    {
+      "id": "r7",
+      "head": "心理学",
+      "head_type": "概念",
+      "relation": "作为论据支持",
+      "relation_subtype": "不适用",
+      "tail": "哲学与科学",
+      "tail_type": "概念",
+      "polarity": "positive",
+      "stance_score": 0.5,
+      "intensity": 0.3,
+      "evidence": "心理学为哲学与科学开一条来往的路线",
+      "confidence": 1.0
+    }
+  ],
+  "definitions": [],
+  "citations": [
+    {
+      "id": "cit1",
+      "citer": "丁先生",
+      "quoted_author": "Helmholtz",
+      "quoted_work": "",
+      "quoted_claim": "Helmholtz的错误",
+      "function": "作为批评对象",
+      "evidence": "甚至把Helmholtz的错误都信以为真理了",
+      "confidence": 0.8
+    },
+    {
+      "id": "cit2",
+      "citer": "张东荪",
+      "quoted_author": "Goddard",
+      "quoted_work": "",
+      "quoted_claim": "科学的智力测验，除了玄学的假定，就立不住",
+      "function": "援引权威支持",
+      "evidence": "他自己赞成Goddard,竟敢说科学的智力测验，除了玄学的假定，就立不住",
+      "confidence": 0.8
+    }
+  ],
+  "rhetorical_devices": [
+    {
+      "id": "rh1",
+      "expression": "走狗",
+      "device_type": "比喻",
+      "literal_target": "心理学",
+      "function": "贬低心理学，将其比作听命于哲学的工具",
+      "evidence": "丁先生呼心理学说，“走狗来”",
+      "confidence": 1.0
+    },
+    {
+      "id": "rh2",
+      "expression": "哲学的走狗",
+      "device_type": "标签化",
+      "literal_target": "心理学",
+      "function": "进一步贬低心理学，将其归为哲学的附庸",
+      "evidence": "你也造反了，你这哲学的走狗",
+      "confidence": 1.0
+    },
+    {
+      "id": "rh3",
+      "expression": "好狗好狗",
+      "device_type": "讽刺",
+      "literal_target": "心理学",
+      "function": "以讽刺口吻对待心理学",
+      "evidence": "张先生把心理狗头上拍了两拍，“好狗好狗”",
+      "confidence": 1.0
+    },
+    {
+      "id": "rh4",
+      "expression": "奉了上谕，捏造证据",
+      "device_type": "讽刺",
+      "literal_target": "丁先生",
+      "function": "讽刺丁先生盲目相信权威，编造证据",
+      "evidence": "那竟是奉了上谕，捏造证据",
+      "confidence": 1.0
+    },
+    {
+      "id": "rh5",
+      "expression": "钦定现象",
+      "device_type": "讽刺",
+      "literal_target": "丁先生",
+      "function": "讽刺丁先生将现象当作钦定事实",
+      "evidence": "还没有钦定现象",
+      "confidence": 1.0
+    },
+    {
+      "id": "rh6",
+      "expression": "自己尝了自己的吐涎还没有知道",
+      "device_type": "讽刺",
+      "literal_target": "林宰平",
+      "function": "讽刺林宰平缺乏基本常识",
+      "evidence": "近来还有一位林宰平先生自己尝了自己的吐涎还没有知道",
+      "confidence": 1.0
+    }
+  ],
+  "uncertainties": [
+    {
+      "item": "丁先生、张先生的具体身份",
+      "reason": "文本未明确说明丁先生、张先生的全名或背景"
+    },
+    {
+      "item": "“法律贱商人，商人已富贵矣”的引用来源",
+      "reason": "文本未说明此句的出处或引用功能"
+    },
+    {
+      "item": "“跻于命妇的地位”的具体所指",
+      "reason": "文本未明确解释此短语的含义"
+    }
+  ],
+  "_meta": {
+    "status": "success",
+    "stage": "extract",
+    "model": "deepseek-ai/DeepSeek-V4-Flash",
+    "base_url": "https://api.siliconflow.cn/v1",
+    "prompt_version": "v2.0",
+    "schema_version": "lite_v3.0",
+    "segment_id": "陆志韦_000_44275f1b_s0001",
+    "article_id": "陆志韦_000_44275f1b",
+    "char_start": 513,
+    "char_end": 1107,
+    "raw_path": "E:\\1研究生\\岭南大学\\论文毕业\\capstone\\资料\\新的内容开始了\\local_upload\\kg_runs_v2\\任叔永_等4篇\\raw_outputs\\extract\\陆志韦_000_44275f1b_s0001.txt",
+    "parsed_at": "2026-05-21T03:25:28",
+    "started_at": "2026-05-21T03:20:06",
+    "elapsed_seconds": 321.786,
+    "strict_evidence_check": true,
+    "drop_unsupported_evidence": true,
+    "request_timeout_seconds": 180
+  }
+}

@@ -1,0 +1,423 @@
+{
+  "metadata": {
+    "schema_version": "lite_v2.0",
+    "article_id": "菊农_000_b90d5dfb",
+    "article_title": "人格与教育",
+    "source_author": "菊农",
+    "section_title": "",
+    "section_author": "",
+    "segment_id": "菊农_000_b90d5dfb_s0006",
+    "segment_index": 6,
+    "source_file": "E:\\1研究生\\岭南大学\\论文毕业\\capstone\\资料\\新的内容开始了\\local_upload\\input_w0\\菊农.txt"
+  },
+  "entities": [
+    {
+      "id": "e1",
+      "name": "人",
+      "canonical_name": "人",
+      "type": "概念",
+      "evidence": "人不是为应付环境而生的，人不是生来解决实际问题的，人有人生的理想",
+      "confidence": 0.9
+    },
+    {
+      "id": "e2",
+      "name": "人格",
+      "canonical_name": "人格",
+      "type": "概念",
+      "evidence": "在我们求人格实现的教育目的下，是决计不够的",
+      "confidence": 0.9
+    },
+    {
+      "id": "e3",
+      "name": "教育",
+      "canonical_name": "教育",
+      "type": "概念",
+      "evidence": "教育的目的是人格的实现",
+      "confidence": 0.9
+    },
+    {
+      "id": "e4",
+      "name": "内心自由",
+      "canonical_name": "内心自由",
+      "type": "概念",
+      "evidence": "我们所要求的是内心自由",
+      "confidence": 0.9
+    },
+    {
+      "id": "e5",
+      "name": "自觉",
+      "canonical_name": "自觉",
+      "type": "概念",
+      "evidence": "取得内心自由的最要紧的事情，当然是自觉",
+      "confidence": 0.9
+    },
+    {
+      "id": "e6",
+      "name": "物",
+      "canonical_name": "物",
+      "type": "概念",
+      "evidence": "原来“人”与“物”不同之点，正因为“物”是他动的，“人”是自动的",
+      "confidence": 0.9
+    },
+    {
+      "id": "e7",
+      "name": "自由意志",
+      "canonical_name": "自由意志",
+      "type": "概念",
+      "evidence": "“物”是受支配的，“人”是自由意志的",
+      "confidence": 0.9
+    },
+    {
+      "id": "e8",
+      "name": "社会",
+      "canonical_name": "社会",
+      "type": "概念",
+      "evidence": "如何调和社会与个人的问题",
+      "confidence": 0.9
+    },
+    {
+      "id": "e9",
+      "name": "个人",
+      "canonical_name": "个人",
+      "type": "概念",
+      "evidence": "如何调和社会与个人的问题",
+      "confidence": 0.9
+    },
+    {
+      "id": "e10",
+      "name": "孟禄",
+      "canonical_name": "孟禄",
+      "type": "人物",
+      "evidence": "孟禄氏说个人与社会的问题是人类生活中最初就有的问题",
+      "confidence": 0.9
+    }
+  ],
+  "claims": [
+    {
+      "id": "c1",
+      "speaker": "菊农",
+      "claim": "人不是为应付环境而生的，人不是生来解决实际问题的，人有人生的理想",
+      "target": "人",
+      "claim_type": "本体论主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "人不是为应付环境而生的，人不是生来解决实际问题的，人有人生的理想",
+      "confidence": 0.9
+    },
+    {
+      "id": "c2",
+      "speaker": "菊农",
+      "claim": "实际教育虽不可没有，却仅仅是一小部分",
+      "target": "教育",
+      "claim_type": "价值评价",
+      "claim_status": "作者直接主张",
+      "polarity": "mixed",
+      "evidence": "实际教育虽不可没有，却仅仅是一小部分",
+      "confidence": 0.9
+    },
+    {
+      "id": "c3",
+      "speaker": "菊农",
+      "claim": "我们所要求的是内心自由",
+      "target": "内心自由",
+      "claim_type": "方法论主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "我们所要求的是内心自由",
+      "confidence": 0.9
+    },
+    {
+      "id": "c4",
+      "speaker": "菊农",
+      "claim": "取得内心自由的最要紧的事情，当然是自觉",
+      "target": "自觉",
+      "claim_type": "方法论主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "取得内心自由的最要紧的事情，当然是自觉",
+      "confidence": 0.9
+    },
+    {
+      "id": "c5",
+      "speaker": "菊农",
+      "claim": "自觉便是人格的实现的第一步",
+      "target": "人格",
+      "claim_type": "方法论主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "自觉便是人格的实现的第一步",
+      "confidence": 0.9
+    },
+    {
+      "id": "c6",
+      "speaker": "菊农",
+      "claim": "人格之实现非从自觉的努力出发不可",
+      "target": "人格",
+      "claim_type": "方法论主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "人格之实现非从自觉的努力出发不可",
+      "confidence": 0.9
+    },
+    {
+      "id": "c7",
+      "speaker": "菊农",
+      "claim": "“人”与“物”不同之点，正因为“物”是他动的，“人”是自动的",
+      "target": "人",
+      "claim_type": "定义性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "原来“人”与“物”不同之点，正因为“物”是他动的，“人”是自动的",
+      "confidence": 0.9
+    },
+    {
+      "id": "c8",
+      "speaker": "菊农",
+      "claim": "“物”是受支配的，“人”是自由意志的",
+      "target": "人",
+      "claim_type": "定义性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "“物”是受支配的，“人”是自由意志的",
+      "confidence": 0.9
+    },
+    {
+      "id": "c9",
+      "speaker": "菊农",
+      "claim": "人是靠自觉的努力活动的，他的活动，他的行为是自主的",
+      "target": "人",
+      "claim_type": "本体论主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "人是靠自觉的努力活动的，他的活动，他的行为是自主的",
+      "confidence": 0.9
+    },
+    {
+      "id": "c10",
+      "speaker": "菊农",
+      "claim": "教育的目的是人格的实现",
+      "target": "教育",
+      "claim_type": "定义性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "我们认为教育的目的是人格的实现",
+      "confidence": 0.9
+    },
+    {
+      "id": "c11",
+      "speaker": "菊农",
+      "claim": "教育的任务一方面要排除外物的障碍，一方面要磨练人格的自觉",
+      "target": "教育",
+      "claim_type": "方法论主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "教育的任务一方面要排除外物的障碍，一方面要磨练人格的自觉",
+      "confidence": 0.9
+    },
+    {
+      "id": "c12",
+      "speaker": "菊农",
+      "claim": "教育上最重要的问题，是如何调和社会与个人的问题",
+      "target": "教育",
+      "claim_type": "问题提出",
+      "claim_status": "作者概括",
+      "polarity": "neutral",
+      "evidence": "教育上最重要的问题，据许多教育家说，是如何调和社会与个人的问题",
+      "confidence": 0.9
+    },
+    {
+      "id": "c13",
+      "speaker": "孟禄",
+      "claim": "个人与社会的问题是人类生活中最初就有的问题",
+      "target": "个人",
+      "claim_type": "历史解释",
+      "claim_status": "间接转述",
+      "polarity": "neutral",
+      "evidence": "孟禄氏说个人与社会的问题是人类生活中最初就有的问题",
+      "confidence": 0.9
+    },
+    {
+      "id": "c14",
+      "speaker": "菊农",
+      "claim": "无论偏重个人或偏重社会都必定发生不良的影响",
+      "target": "个人",
+      "claim_type": "价值评价",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "无论偏重个人或偏重社会都必定发生不良的影响",
+      "confidence": 0.9
+    },
+    {
+      "id": "c15",
+      "speaker": "菊农",
+      "claim": "只要换一换观点，这问题便落空",
+      "target": "社会",
+      "claim_type": "方法论主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "但是据我们看来，只要换一换观点，这问题便落空",
+      "confidence": 0.9
+    },
+    {
+      "id": "c16",
+      "speaker": "菊农",
+      "claim": "个人与社会，本来不是可以对待的",
+      "target": "个人",
+      "claim_type": "本体论主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "个人与社会，本来不是可以对待的",
+      "confidence": 0.9
+    },
+    {
+      "id": "c17",
+      "speaker": "菊农",
+      "claim": "社会和个人是一全体的两方面",
+      "target": "社会",
+      "claim_type": "定义性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "社会和个人是一全体的两方面",
+      "confidence": 0.9
+    },
+    {
+      "id": "c18",
+      "speaker": "菊农",
+      "claim": "谁又见过纯粹独立的个人？谁又见过脱离个人的社会？",
+      "target": "个人",
+      "claim_type": "论据",
+      "claim_status": "作者推论",
+      "polarity": "negative",
+      "evidence": "在我们经验所及的范围里，谁又见过纯粹独立的个人？谁又见过脱离个人的社会？",
+      "confidence": 0.9
+    }
+  ],
+  "relations": [
+    {
+      "id": "r1",
+      "head": "自觉",
+      "head_type": "概念",
+      "relation": "导致",
+      "tail": "内心自由",
+      "tail_type": "概念",
+      "polarity": "positive",
+      "evidence": "取得内心自由的最要紧的事情，当然是自觉",
+      "confidence": 0.9
+    },
+    {
+      "id": "r2",
+      "head": "自觉",
+      "head_type": "概念",
+      "relation": "属于",
+      "tail": "人格",
+      "tail_type": "概念",
+      "polarity": "positive",
+      "evidence": "自觉便是人格的实现的第一步",
+      "confidence": 0.9
+    },
+    {
+      "id": "r3",
+      "head": "人",
+      "head_type": "概念",
+      "relation": "区分",
+      "tail": "物",
+      "tail_type": "概念",
+      "polarity": "positive",
+      "evidence": "原来“人”与“物”不同之点，正因为“物”是他动的，“人”是自动的",
+      "confidence": 0.9
+    },
+    {
+      "id": "r4",
+      "head": "教育",
+      "head_type": "概念",
+      "relation": "定义",
+      "tail": "人格",
+      "tail_type": "概念",
+      "polarity": "positive",
+      "evidence": "我们认为教育的目的是人格的实现",
+      "confidence": 0.9
+    },
+    {
+      "id": "r5",
+      "head": "个人",
+      "head_type": "概念",
+      "relation": "包含",
+      "tail": "社会",
+      "tail_type": "概念",
+      "polarity": "positive",
+      "evidence": "社会和个人是一全体的两方面",
+      "confidence": 0.9
+    }
+  ],
+  "definitions": [
+    {
+      "id": "def1",
+      "term": "人",
+      "definition": "人是自动的、有自由意志的、靠自觉努力活动的存在",
+      "evidence": "原来“人”与“物”不同之点，正因为“物”是他动的，“人”是自动的。“物”是受支配的，“人”是自由意志的。人是靠自觉的努力活动的，他的活动，他的行为是自主的",
+      "confidence": 0.9
+    },
+    {
+      "id": "def2",
+      "term": "人格",
+      "definition": "人格的实现是教育的最终目的，通过自觉的努力实现",
+      "evidence": "我们认为教育的目的是人格的实现",
+      "confidence": 0.9
+    },
+    {
+      "id": "def3",
+      "term": "社会",
+      "definition": "社会和个人是一全体的两方面，不能分开",
+      "evidence": "社会和个人是一全体的两方面",
+      "confidence": 0.9
+    }
+  ],
+  "citations": [
+    {
+      "id": "cit1",
+      "citer": "菊农",
+      "quoted_author": "孟禄",
+      "quoted_work": "",
+      "quoted_claim": "个人与社会的问题是人类生活中最初就有的问题",
+      "function": "作为批评对象",
+      "evidence": "孟禄氏说个人与社会的问题是人类生活中最初就有的问题",
+      "confidence": 0.9
+    }
+  ],
+  "rhetorical_devices": [
+    {
+      "id": "rh1",
+      "expression": "燃着自由意志的火把",
+      "device_type": "比喻",
+      "literal_target": "依靠自由意志进行自觉努力",
+      "function": "形象化地强调自由意志在人格实现中的动力作用",
+      "evidence": "燃着自由意志的火把，即在此自觉的努力之途中实现其人格，不愁不功果圆满",
+      "confidence": 0.9
+    }
+  ],
+  "uncertainties": [
+    {
+      "item": "“许多教育家”的具体身份",
+      "reason": "文本仅提到“据许多教育家说”，未列出具体人物，无法抽取为实体"
+    }
+  ],
+  "_meta": {
+    "status": "success",
+    "stage": "extract",
+    "model": "deepseek-ai/DeepSeek-V4-Flash",
+    "base_url": "https://api.siliconflow.cn/v1",
+    "prompt_version": "extract_prompt_v2.0",
+    "schema_version": "lite_v2.0",
+    "segment_id": "菊农_000_b90d5dfb_s0006",
+    "article_id": "菊农_000_b90d5dfb",
+    "char_start": 3032,
+    "char_end": 3615,
+    "raw_path": "E:\\1研究生\\岭南大学\\论文毕业\\capstone\\资料\\新的内容开始了\\local_upload\\kg_runs\\菊农\\raw_outputs\\extract\\菊农_000_b90d5dfb_s0006.txt",
+    "parsed_at": "2026-05-19T21:58:36",
+    "started_at": "2026-05-19T21:58:13",
+    "elapsed_seconds": 23.335,
+    "strict_evidence_check": true,
+    "drop_unsupported_evidence": true,
+    "request_timeout_seconds": 180
+  }
+}

@@ -1,0 +1,512 @@
+{
+  "metadata": {
+    "schema_version": "lite_v3.0",
+    "article_id": "林宰平_000_acbbe922",
+    "article_title": "读丁在君先生的《玄学与科学》",
+    "source_author": "林宰平",
+    "section_title": "",
+    "section_author": "",
+    "segment_id": "林宰平_000_acbbe922_s0003",
+    "segment_index": 3,
+    "source_file": "E:\\1研究生\\岭南大学\\论文毕业\\capstone\\资料\\新的内容开始了\\local_upload\\input_林宰平\\林宰平.txt"
+  },
+  "entities": [
+    {
+      "id": "e1",
+      "name": "人类心理",
+      "canonical_name": "人类心理",
+      "type": "概念",
+      "evidence": "人类心理，我们固然不能不认为是一种极伟大的理想",
+      "confidence": 0.9
+    },
+    {
+      "id": "e2",
+      "name": "科学",
+      "canonical_name": "科学",
+      "type": "概念",
+      "evidence": "用科学改良人心",
+      "confidence": 0.9
+    },
+    {
+      "id": "e3",
+      "name": "科学和科学的方法",
+      "canonical_name": "科学和科学的方法",
+      "type": "概念",
+      "evidence": "现在要问到科学和科学的方法，到底是不是一个东西？",
+      "confidence": 0.9
+    },
+    {
+      "id": "e4",
+      "name": "科学的范围",
+      "canonical_name": "科学的范围",
+      "type": "概念",
+      "evidence": "科学的范围一天推广一天",
+      "confidence": 0.9
+    },
+    {
+      "id": "e5",
+      "name": "笛卡儿",
+      "canonical_name": "笛卡儿",
+      "type": "人物",
+      "evidence": "自笛卡儿把数学看做一切科学的中心",
+      "confidence": 0.9
+    },
+    {
+      "id": "e6",
+      "name": "数学",
+      "canonical_name": "数学",
+      "type": "概念",
+      "evidence": "自笛卡儿把数学看做一切科学的中心",
+      "confidence": 0.9
+    },
+    {
+      "id": "e7",
+      "name": "能数能量",
+      "canonical_name": "能数能量",
+      "type": "概念",
+      "evidence": "以能数能量的认为科学",
+      "confidence": 0.9
+    },
+    {
+      "id": "e8",
+      "name": "不能数不能量",
+      "canonical_name": "不能数不能量",
+      "type": "概念",
+      "evidence": "不能数不能量的皆非科学",
+      "confidence": 0.9
+    },
+    {
+      "id": "e9",
+      "name": "经验的科学",
+      "canonical_name": "经验的科学",
+      "type": "概念",
+      "evidence": "于超经验的数学以外，还认有经验的科学",
+      "confidence": 0.9
+    },
+    {
+      "id": "e10",
+      "name": "物质与精神之分",
+      "canonical_name": "物质与精神之分",
+      "type": "概念",
+      "evidence": "物质与精神之分，殆为多数所采用",
+      "confidence": 0.9
+    },
+    {
+      "id": "e11",
+      "name": "朋斯姆",
+      "canonical_name": "朋斯姆",
+      "type": "人物",
+      "evidence": "有名之朋斯姆（Bentham 1748—1832 英国伦理学及法理学者）分类",
+      "confidence": 0.9
+    },
+    {
+      "id": "e12",
+      "name": "安比尔",
+      "canonical_name": "安比尔",
+      "type": "人物",
+      "evidence": "安比尔（Ampere 1775—1836 法国物理学者）分类",
+      "confidence": 0.9
+    },
+    {
+      "id": "e13",
+      "name": "冯德",
+      "canonical_name": "冯德",
+      "type": "人物",
+      "evidence": "晚近如冯德的分类等",
+      "confidence": 0.9
+    },
+    {
+      "id": "e14",
+      "name": "纯粹形式的科学",
+      "canonical_name": "纯粹形式的科学",
+      "type": "概念",
+      "evidence": "纯粹形式的科学 ss 数学",
+      "confidence": 0.9
+    },
+    {
+      "id": "e15",
+      "name": "客观的经验",
+      "canonical_name": "客观的经验",
+      "type": "概念",
+      "evidence": "自然科学研究客观的经验",
+      "confidence": 0.9
+    },
+    {
+      "id": "e16",
+      "name": "主观直接的经验",
+      "canonical_name": "主观直接的经验",
+      "type": "概念",
+      "evidence": "精神科学研究主观直接的经验",
+      "confidence": 0.9
+    },
+    {
+      "id": "e17",
+      "name": "在君先生",
+      "canonical_name": "在君先生",
+      "type": "人物",
+      "evidence": "这种分类在在君先生看来恐怕总有一半玄学的嫌疑",
+      "confidence": 0.9
+    },
+    {
+      "id": "e18",
+      "name": "玄学",
+      "canonical_name": "玄学",
+      "type": "概念",
+      "evidence": "这种分类在在君先生看来恐怕总有一半玄学的嫌疑",
+      "confidence": 0.9
+    }
+  ],
+  "claims": [
+    {
+      "id": "c1",
+      "speaker": "林宰平",
+      "claim": "人类心理，我们固然不能不认为是一种极伟大的理想",
+      "target": "人类心理",
+      "claim_type": "评价性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "人类心理，我们固然不能不认为是一种极伟大的理想",
+      "confidence": 0.9
+    },
+    {
+      "id": "c2",
+      "speaker": "林宰平",
+      "claim": "用科学改良人心，究竟有没有完全的效力呢?",
+      "target": "科学",
+      "claim_type": "问题提出",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "用科学改良人心，究竟有没有完全的效力呢?",
+      "confidence": 0.9
+    },
+    {
+      "id": "c3",
+      "speaker": "林宰平",
+      "claim": "科学和科学的方法，到底是不是一个东西？",
+      "target": "科学和科学的方法",
+      "claim_type": "问题提出",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "现在要问到科学和科学的方法，到底是不是一个东西？",
+      "confidence": 0.9
+    },
+    {
+      "id": "c4",
+      "speaker": "林宰平",
+      "claim": "科学的范围一天推广一天",
+      "target": "科学的范围",
+      "claim_type": "描述性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "科学的范围一天推广一天",
+      "confidence": 0.9
+    },
+    {
+      "id": "c5",
+      "speaker": "林宰平",
+      "claim": "尽管怎样的推广，毕竟他有他的范围",
+      "target": "科学的范围",
+      "claim_type": "描述性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "不过尽管怎样的推广，毕竟他有他的范围",
+      "confidence": 0.9
+    },
+    {
+      "id": "c6",
+      "speaker": "林宰平",
+      "claim": "各人所取的标准不同，所以各自立个分类",
+      "target": "分类",
+      "claim_type": "因果主张",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "不过各人所取的标准不同，所以各自立个分类",
+      "confidence": 0.9
+    },
+    {
+      "id": "c7",
+      "speaker": "林宰平",
+      "claim": "自笛卡儿把数学看做一切科学的中心，以能数能量的认为科学，不能数不能量的皆非科学，这种分类法自然是很狭窄的了",
+      "target": "笛卡儿",
+      "claim_type": "评价性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "自笛卡儿把数学看做一切科学的中心，以能数能量的认为科学，不能数不能量的皆非科学，这种分类法自然是很狭窄的了",
+      "confidence": 0.9
+    },
+    {
+      "id": "c8",
+      "speaker": "林宰平",
+      "claim": "其后渐渐放宽的分类，于超经验的数学以外，还认有经验的科学",
+      "target": "分类",
+      "claim_type": "描述性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "其后渐渐放宽的分类，于超经验的数学以外，还认有经验的科学",
+      "confidence": 0.9
+    },
+    {
+      "id": "c9",
+      "speaker": "林宰平",
+      "claim": "物质与精神之分，殆为多数所采用",
+      "target": "物质与精神之分",
+      "claim_type": "描述性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "物质与精神之分，殆为多数所采用",
+      "confidence": 0.9
+    },
+    {
+      "id": "c10",
+      "speaker": "林宰平",
+      "claim": "冯德分类号称完美",
+      "target": "冯德分类",
+      "claim_type": "评价性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "冯德分类号称完美",
+      "confidence": 0.9
+    },
+    {
+      "id": "c11",
+      "speaker": "林宰平",
+      "claim": "自然科学研究客观的经验，精神科学研究主观直接的经验",
+      "target": "自然科学",
+      "claim_type": "定义性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "自然科学研究客观的经验，精神科学研究主观直接的经验",
+      "confidence": 0.9
+    },
+    {
+      "id": "c12",
+      "speaker": "林宰平",
+      "claim": "这种分类在在君先生看来恐怕总有一半玄学的嫌疑",
+      "target": "这种分类",
+      "claim_type": "评价性主张",
+      "claim_status": "作者推论",
+      "polarity": "negative",
+      "evidence": "这种分类在在君先生看来恐怕总有一半玄学的嫌疑",
+      "confidence": 0.9
+    }
+  ],
+  "relations": [
+    {
+      "id": "r1",
+      "head": "人类心理",
+      "head_type": "概念",
+      "relation": "相关",
+      "relation_subtype": "一般批评",
+      "tail": "极伟大的理想",
+      "tail_type": "概念",
+      "polarity": "positive",
+      "stance_score": 0.8,
+      "intensity": 0.6,
+      "evidence": "人类心理，我们固然不能不认为是一种极伟大的理想",
+      "confidence": 0.9
+    },
+    {
+      "id": "r2",
+      "head": "科学",
+      "head_type": "概念",
+      "relation": "质疑",
+      "relation_subtype": "事实质疑",
+      "tail": "改良人心",
+      "tail_type": "概念",
+      "polarity": "negative",
+      "stance_score": -0.5,
+      "intensity": 0.5,
+      "evidence": "用科学改良人心，究竟有没有完全的效力呢?",
+      "confidence": 0.9
+    },
+    {
+      "id": "r3",
+      "head": "科学和科学的方法",
+      "head_type": "概念",
+      "relation": "质疑",
+      "relation_subtype": "概念混淆批评",
+      "tail": "一个东西",
+      "tail_type": "概念",
+      "polarity": "neutral",
+      "stance_score": 0.0,
+      "intensity": 0.3,
+      "evidence": "现在要问到科学和科学的方法，到底是不是一个东西？",
+      "confidence": 0.9
+    },
+    {
+      "id": "r4",
+      "head": "各人所取的标准不同",
+      "head_type": "概念",
+      "relation": "导致",
+      "relation_subtype": "不适用",
+      "tail": "各自立个分类",
+      "tail_type": "概念",
+      "polarity": "neutral",
+      "stance_score": 0.0,
+      "intensity": 0.0,
+      "evidence": "不过各人所取的标准不同，所以各自立个分类",
+      "confidence": 0.9
+    },
+    {
+      "id": "r5",
+      "head": "笛卡儿",
+      "head_type": "人物",
+      "relation": "相关",
+      "relation_subtype": "一般批评",
+      "tail": "这种分类法自然是很狭窄的了",
+      "tail_type": "评价",
+      "polarity": "negative",
+      "stance_score": -0.7,
+      "intensity": 0.6,
+      "evidence": "自笛卡儿把数学看做一切科学的中心，以能数能量的认为科学，不能数不能量的皆非科学，这种分类法自然是很狭窄的了",
+      "confidence": 0.9
+    },
+    {
+      "id": "r6",
+      "head": "冯德分类",
+      "head_type": "概念",
+      "relation": "相关",
+      "relation_subtype": "部分肯定",
+      "tail": "号称完美",
+      "tail_type": "评价",
+      "polarity": "positive",
+      "stance_score": 0.6,
+      "intensity": 0.5,
+      "evidence": "冯德分类号称完美",
+      "confidence": 0.9
+    },
+    {
+      "id": "r7",
+      "head": "这种分类",
+      "head_type": "概念",
+      "relation": "相关",
+      "relation_subtype": "一般批评",
+      "tail": "在君先生",
+      "tail_type": "人物",
+      "polarity": "negative",
+      "stance_score": -0.5,
+      "intensity": 0.4,
+      "evidence": "这种分类在在君先生看来恐怕总有一半玄学的嫌疑",
+      "confidence": 0.9
+    }
+  ],
+  "definitions": [
+    {
+      "id": "def1",
+      "term": "科学",
+      "definition": "以能数能量的认为科学，不能数不能量的皆非科学",
+      "evidence": "以能数能量的认为科学，不能数不能量的皆非科学",
+      "confidence": 0.9
+    },
+    {
+      "id": "def2",
+      "term": "科学",
+      "definition": "于超经验的数学以外，还认有经验的科学",
+      "evidence": "于超经验的数学以外，还认有经验的科学",
+      "confidence": 0.9
+    },
+    {
+      "id": "def3",
+      "term": "科学",
+      "definition": "纯粹形式的科学 ss 数学；经验的实质科学 ss 自然科学 精神科学",
+      "evidence": "科学 \\left\\{\\begin{aligned}( 一 ) 纯粹形式的科学 ss 数学 \\\\ ( 二 ) 经验的实质科学 ss\\left\\{\\begin{aligned}( 一 ) 自然科学 \\\\ ( 二 ) 精神科学 \\end{aligned}\\right.\\end{aligned}\\right.",
+      "confidence": 0.9
+    },
+    {
+      "id": "def4",
+      "term": "自然科学",
+      "definition": "研究客观的经验",
+      "evidence": "自然科学研究客观的经验",
+      "confidence": 0.9
+    },
+    {
+      "id": "def5",
+      "term": "精神科学",
+      "definition": "研究主观直接的经验",
+      "evidence": "精神科学研究主观直接的经验",
+      "confidence": 0.9
+    }
+  ],
+  "citations": [
+    {
+      "id": "cit1",
+      "citer": "林宰平",
+      "quoted_author": "笛卡儿",
+      "quoted_work": "",
+      "quoted_claim": "把数学看做一切科学的中心，以能数能量的认为科学，不能数不能量的皆非科学",
+      "function": "作为批评对象",
+      "evidence": "自笛卡儿把数学看做一切科学的中心，以能数能量的认为科学，不能数不能量的皆非科学",
+      "confidence": 0.9
+    },
+    {
+      "id": "cit2",
+      "citer": "林宰平",
+      "quoted_author": "朋斯姆",
+      "quoted_work": "",
+      "quoted_claim": "分类",
+      "function": "中性提及",
+      "evidence": "有名之朋斯姆（Bentham 1748—1832 英国伦理学及法理学者）分类",
+      "confidence": 0.9
+    },
+    {
+      "id": "cit3",
+      "citer": "林宰平",
+      "quoted_author": "安比尔",
+      "quoted_work": "",
+      "quoted_claim": "分类",
+      "function": "中性提及",
+      "evidence": "安比尔（Ampere 1775—1836 法国物理学者）分类",
+      "confidence": 0.9
+    },
+    {
+      "id": "cit4",
+      "citer": "林宰平",
+      "quoted_author": "冯德",
+      "quoted_work": "",
+      "quoted_claim": "分类",
+      "function": "中性提及",
+      "evidence": "晚近如冯德的分类等",
+      "confidence": 0.9
+    }
+  ],
+  "rhetorical_devices": [
+    {
+      "id": "rh1",
+      "expression": "这种分类在在君先生看来恐怕总有一半玄学的嫌疑",
+      "device_type": "讽刺",
+      "literal_target": "冯德分类",
+      "function": "暗示冯德分类包含玄学成分，可能被在君先生批评",
+      "evidence": "这种分类在在君先生看来恐怕总有一半玄学的嫌疑",
+      "confidence": 0.9
+    }
+  ],
+  "uncertainties": [
+    {
+      "item": "冯德分类的具体内容是否完全准确",
+      "reason": "文本中只给出了分类框架，未详细说明冯德分类的完整内容"
+    },
+    {
+      "item": "在君先生对冯德分类的态度",
+      "reason": "文本中只是作者推测在君先生可能认为有玄学嫌疑，并非在君先生直接表述"
+    }
+  ],
+  "_meta": {
+    "status": "success",
+    "stage": "extract",
+    "model": "deepseek-ai/DeepSeek-V4-Flash",
+    "base_url": "https://api.siliconflow.cn/v1",
+    "prompt_version": "v2.0",
+    "schema_version": "lite_v3.0",
+    "segment_id": "林宰平_000_acbbe922_s0003",
+    "article_id": "林宰平_000_acbbe922",
+    "char_start": 1525,
+    "char_end": 2115,
+    "raw_path": "E:\\1研究生\\岭南大学\\论文毕业\\capstone\\资料\\新的内容开始了\\local_upload\\kg_runs_v2\\林宰平\\raw_outputs\\extract\\林宰平_000_acbbe922_s0003.txt",
+    "parsed_at": "2026-05-21T16:47:35",
+    "started_at": "2026-05-21T16:38:50",
+    "elapsed_seconds": 525.011,
+    "strict_evidence_check": true,
+    "drop_unsupported_evidence": true,
+    "request_timeout_seconds": 180
+  }
+}

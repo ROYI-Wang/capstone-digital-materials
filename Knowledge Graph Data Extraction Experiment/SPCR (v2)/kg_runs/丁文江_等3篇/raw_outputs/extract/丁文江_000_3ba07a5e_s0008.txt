@@ -1,0 +1,689 @@
+{
+  "metadata": {
+    "schema_version": "lite_v3.0",
+    "article_id": "丁文江_000_3ba07a5e",
+    "article_title": "玄学与科学 ——评张君劢的《人生观》",
+    "source_author": "丁文江",
+    "section_title": "",
+    "section_author": "",
+    "segment_id": "丁文江_000_3ba07a5e_s0008",
+    "segment_index": 8,
+    "source_file": "E:\\1研究生\\岭南大学\\论文毕业\\capstone\\资料\\新的内容开始了\\local_upload\\input_丁文江\\丁文江.txt"
+  },
+  "entities": [
+    {
+      "id": "e1",
+      "name": "戒文士",
+      "canonical_name": "戒文士",
+      "type": "人物",
+      "evidence": "戒文士的《科学原则》讲得最详细。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e2",
+      "name": "《科学原则》",
+      "canonical_name": "《科学原则》",
+      "type": "著作",
+      "evidence": "戒文士的《科学原则》讲得最详细。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e3",
+      "name": "证据责任问题",
+      "canonical_name": "证据责任问题",
+      "type": "概念",
+      "evidence": "就是所谓证据责任问题。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e4",
+      "name": "存疑的唯心论",
+      "canonical_name": "存疑的唯心论",
+      "type": "主义/学说/理论",
+      "evidence": "用哲学的名词讲起来，可以说是存疑的唯心论。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e5",
+      "name": "赫胥黎",
+      "canonical_name": "赫胥黎",
+      "type": "人物",
+      "evidence": "凡研究过哲学问题的科学家如赫胥黎、达尔文、斯宾塞、詹姆士、皮尔逊、杜威，以及德国马哈派的哲学，细节虽有不同，大体无不如此。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e6",
+      "name": "达尔文",
+      "canonical_name": "达尔文",
+      "type": "人物",
+      "evidence": "凡研究过哲学问题的科学家如赫胥黎、达尔文、斯宾塞、詹姆士、皮尔逊、杜威，以及德国马哈派的哲学，细节虽有不同，大体无不如此。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e7",
+      "name": "斯宾塞",
+      "canonical_name": "斯宾塞",
+      "type": "人物",
+      "evidence": "凡研究过哲学问题的科学家如赫胥黎、达尔文、斯宾塞、詹姆士、皮尔逊、杜威，以及德国马哈派的哲学，细节虽有不同，大体无不如此。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e8",
+      "name": "詹姆士",
+      "canonical_name": "詹姆士",
+      "type": "人物",
+      "evidence": "凡研究过哲学问题的科学家如赫胥黎、达尔文、斯宾塞、詹姆士、皮尔逊、杜威，以及德国马哈派的哲学，细节虽有不同，大体无不如此。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e9",
+      "name": "皮尔逊",
+      "canonical_name": "皮尔逊",
+      "type": "人物",
+      "evidence": "凡研究过哲学问题的科学家如赫胥黎、达尔文、斯宾塞、詹姆士、皮尔逊、杜威，以及德国马哈派的哲学，细节虽有不同，大体无不如此。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e10",
+      "name": "杜威",
+      "canonical_name": "杜威",
+      "type": "人物",
+      "evidence": "凡研究过哲学问题的科学家如赫胥黎、达尔文、斯宾塞、詹姆士、皮尔逊、杜威，以及德国马哈派的哲学，细节虽有不同，大体无不如此。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e11",
+      "name": "德国马哈派的哲学",
+      "canonical_name": "德国马哈派的哲学",
+      "type": "主义/学说/理论",
+      "evidence": "凡研究过哲学问题的科学家如赫胥黎、达尔文、斯宾塞、詹姆士、皮尔逊、杜威，以及德国马哈派的哲学，细节虽有不同，大体无不如此。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e12",
+      "name": "唯心",
+      "canonical_name": "唯心",
+      "type": "概念",
+      "evidence": "因为他们以觉官感触为我们知道物体唯一的方法，物体的概念为心理上的现象，所以说是唯心。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e13",
+      "name": "存疑",
+      "canonical_name": "存疑",
+      "type": "概念",
+      "evidence": "觉官感触的外界，自觉的后面，有没有物，物体本质是什么东西？他们都认为不知，应该存而不论，所以说是存疑。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e14",
+      "name": "玄学家",
+      "canonical_name": "玄学家",
+      "type": "阵营/群体",
+      "evidence": "他们是玄学家最大的敌人，因为玄学家吃饭的家伙，就是存疑唯心论者所认为不可知的，存而不论的，离心理而独立的本体。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e15",
+      "name": "存疑唯心论者",
+      "canonical_name": "存疑唯心论者",
+      "type": "阵营/群体",
+      "evidence": "他们是玄学家最大的敌人，因为玄学家吃饭的家伙，就是存疑唯心论者所认为不可知的，存而不论的，离心理而独立的本体。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e16",
+      "name": "本体",
+      "canonical_name": "本体",
+      "type": "概念",
+      "evidence": "离心理而独立的本体。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e17",
+      "name": "伯克莱",
+      "canonical_name": "伯克莱",
+      "type": "人物",
+      "evidence": "这种不可思议的东西，伯克莱叫他为上帝；康德、叔本华叫他为意向；布康那叫他为物质，克列福叫他为心理质，张君劢叫他为我。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e18",
+      "name": "康德",
+      "canonical_name": "康德",
+      "type": "人物",
+      "evidence": "这种不可思议的东西，伯克莱叫他为上帝；康德、叔本华叫他为意向；布康那叫他为物质，克列福叫他为心理质，张君劢叫他为我。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e19",
+      "name": "叔本华",
+      "canonical_name": "叔本华",
+      "type": "人物",
+      "evidence": "这种不可思议的东西，伯克莱叫他为上帝；康德、叔本华叫他为意向；布康那叫他为物质，克列福叫他为心理质，张君劢叫他为我。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e20",
+      "name": "布康那",
+      "canonical_name": "布康那",
+      "type": "人物",
+      "evidence": "这种不可思议的东西，伯克莱叫他为上帝；康德、叔本华叫他为意向；布康那叫他为物质，克列福叫他为心理质，张君劢叫他为我。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e21",
+      "name": "克列福",
+      "canonical_name": "克列福",
+      "type": "人物",
+      "evidence": "这种不可思议的东西，伯克莱叫他为上帝；康德、叔本华叫他为意向；布康那叫他为物质，克列福叫他为心理质，张君劢叫他为我。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e22",
+      "name": "张君劢",
+      "canonical_name": "张君劢",
+      "type": "人物",
+      "evidence": "这种不可思议的东西，伯克莱叫他为上帝；康德、叔本华叫他为意向；布康那叫他为物质，克列福叫他为心理质，张君劢叫他为我。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e23",
+      "name": "上帝",
+      "canonical_name": "上帝",
+      "type": "概念",
+      "evidence": "这种不可思议的东西，伯克莱叫他为上帝；康德、叔本华叫他为意向；布康那叫他为物质，克列福叫他为心理质，张君劢叫他为我。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e24",
+      "name": "意向",
+      "canonical_name": "意向",
+      "type": "概念",
+      "evidence": "这种不可思议的东西，伯克莱叫他为上帝；康德、叔本华叫他为意向；布康那叫他为物质，克列福叫他为心理质，张君劢叫他为我。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e25",
+      "name": "物质",
+      "canonical_name": "物质",
+      "type": "概念",
+      "evidence": "这种不可思议的东西，伯克莱叫他为上帝；康德、叔本华叫他为意向；布康那叫他为物质，克列福叫他为心理质，张君劢叫他为我。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e26",
+      "name": "心理质",
+      "canonical_name": "心理质",
+      "type": "概念",
+      "evidence": "这种不可思议的东西，伯克莱叫他为上帝；康德、叔本华叫他为意向；布康那叫他为物质，克列福叫他为心理质，张君劢叫他为我。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e27",
+      "name": "我",
+      "canonical_name": "我",
+      "type": "概念",
+      "evidence": "这种不可思议的东西，伯克莱叫他为上帝；康德、叔本华叫他为意向；布康那叫他为物质，克列福叫他为心理质，张君劢叫他为我。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e28",
+      "name": "科学知识论",
+      "canonical_name": "科学知识论",
+      "type": "概念",
+      "evidence": "以上所讲的是一种浅近的科学知识论。",
+      "confidence": 0.9
+    }
+  ],
+  "claims": [
+    {
+      "id": "c1",
+      "speaker": "丁文江",
+      "claim": "许多假设的事实，不能证明他有，也不能证明他无，但是我们决不因为不能反证他，就承认是真的。",
+      "target": "证据责任问题",
+      "claim_type": "描述性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "许多假设的事实，不能证明他有，也不能证明他无，但是我们决不因为不能反证他，就承认是真的。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c2",
+      "speaker": "丁文江",
+      "claim": "提出这种事实来的人，有证明他有的义务。他不能证明，他的官司就输了。",
+      "target": "证据责任问题",
+      "claim_type": "描述性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "因为提出这种事实来的人，有证明他有的义务。他不能证明，他的官司就输了。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c3",
+      "speaker": "丁文江",
+      "claim": "譬如有一个人说他白日能看见鬼——这是他的自觉，我们不能证明他看不见鬼，然而证明的责任是在他，不在我们。",
+      "target": "证据责任问题",
+      "claim_type": "例证",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "譬如有一个人说他白日能看见鬼——这是他的自觉，我们不能证明他看不见鬼，然而证明的责任是在他，不在我们。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c4",
+      "speaker": "丁文江",
+      "claim": "常人都看不见鬼的，所以我们说他不是说谎，就是有神经病。",
+      "target": "证据责任问题",
+      "claim_type": "结论性主张",
+      "claim_status": "作者推论",
+      "polarity": "positive",
+      "evidence": "况且常人都看不见鬼的，所以我们说他不是说谎，就是有神经病。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c5",
+      "speaker": "丁文江",
+      "claim": "以上所讲的是一种浅近的科学知识论。用哲学的名词讲起来，可以说是存疑的唯心论。",
+      "target": "存疑的唯心论",
+      "claim_type": "定义性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "以上所讲的是一种浅近的科学知识论。用哲学的名词讲起来，可以说是存疑的唯心论。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c6",
+      "speaker": "丁文江",
+      "claim": "凡研究过哲学问题的科学家如赫胥黎、达尔文、斯宾塞、詹姆士、皮尔逊、杜威，以及德国马哈派的哲学，细节虽有不同，大体无不如此。",
+      "target": "存疑的唯心论",
+      "claim_type": "描述性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "凡研究过哲学问题的科学家如赫胥黎、达尔文、斯宾塞、詹姆士、皮尔逊、杜威，以及德国马哈派的哲学，细节虽有不同，大体无不如此。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c7",
+      "speaker": "丁文江",
+      "claim": "因为他们以觉官感触为我们知道物体唯一的方法，物体的概念为心理上的现象，所以说是唯心。",
+      "target": "唯心",
+      "claim_type": "因果主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "因为他们以觉官感触为我们知道物体唯一的方法，物体的概念为心理上的现象，所以说是唯心。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c8",
+      "speaker": "丁文江",
+      "claim": "觉官感触的外界，自觉的后面，有没有物，物体本质是什么东西？他们都认为不知，应该存而不论，所以说是存疑。",
+      "target": "存疑",
+      "claim_type": "因果主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "觉官感触的外界，自觉的后面，有没有物，物体本质是什么东西？他们都认为不知，应该存而不论，所以说是存疑。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c9",
+      "speaker": "丁文江",
+      "claim": "他们是玄学家最大的敌人，因为玄学家吃饭的家伙，就是存疑唯心论者所认为不可知的，存而不论的，离心理而独立的本体。",
+      "target": "玄学家",
+      "claim_type": "评价性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "他们是玄学家最大的敌人，因为玄学家吃饭的家伙，就是存疑唯心论者所认为不可知的，存而不论的，离心理而独立的本体。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c10",
+      "speaker": "丁文江",
+      "claim": "这种不可思议的东西，伯克莱叫他为上帝；康德、叔本华叫他为意向；布康那叫他为物质，克列福叫他为心理质，张君劢叫他为我。",
+      "target": "本体",
+      "claim_type": "描述性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "这种不可思议的东西，伯克莱叫他为上帝；康德、叔本华叫他为意向；布康那叫他为物质，克列福叫他为心理质，张君劢叫他为我。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c11",
+      "speaker": "丁文江",
+      "claim": "他们始终没有大家公认的定义方法，各有各的神秘，而同是强不知以为知。",
+      "target": "玄学家",
+      "claim_type": "评价性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "他们始终没有大家公认的定义方法，各有各的神秘，而同是强不知以为知。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c12",
+      "speaker": "丁文江",
+      "claim": "旁人说他模糊，他自己却以为玄妙。",
+      "target": "玄学家",
+      "claim_type": "评价性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "旁人说他模糊，他自己却以为玄妙。",
+      "confidence": 0.9
+    }
+  ],
+  "relations": [
+    {
+      "id": "r1",
+      "head": "证据责任问题",
+      "head_type": "概念",
+      "relation": "解释",
+      "relation_subtype": "概念澄清",
+      "tail": "许多假设的事实，不能证明他有，也不能证明他无，但是我们决不因为不能反证他，就承认是真的。",
+      "tail_type": "观点",
+      "polarity": "positive",
+      "stance_score": 1.0,
+      "intensity": 0.6,
+      "evidence": "许多假设的事实，不能证明他有，也不能证明他无，但是我们决不因为不能反证他，就承认是真的。",
+      "confidence": 0.9
+    },
+    {
+      "id": "r2",
+      "head": "证据责任问题",
+      "head_type": "概念",
+      "relation": "解释",
+      "relation_subtype": "概念澄清",
+      "tail": "提出这种事实来的人，有证明他有的义务。他不能证明，他的官司就输了。",
+      "tail_type": "观点",
+      "polarity": "positive",
+      "stance_score": 1.0,
+      "intensity": 0.6,
+      "evidence": "因为提出这种事实来的人，有证明他有的义务。他不能证明，他的官司就输了。",
+      "confidence": 0.9
+    },
+    {
+      "id": "r3",
+      "head": "证据责任问题",
+      "head_type": "概念",
+      "relation": "例证",
+      "relation_subtype": "不适用",
+      "tail": "譬如有一个人说他白日能看见鬼——这是他的自觉，我们不能证明他看不见鬼，然而证明的责任是在他，不在我们。",
+      "tail_type": "观点",
+      "polarity": "positive",
+      "stance_score": 1.0,
+      "intensity": 0.5,
+      "evidence": "譬如有一个人说他白日能看见鬼——这是他的自觉，我们不能证明他看不见鬼，然而证明的责任是在他，不在我们。",
+      "confidence": 0.9
+    },
+    {
+      "id": "r4",
+      "head": "常人都看不见鬼的",
+      "head_type": "观点",
+      "relation": "推出",
+      "relation_subtype": "不适用",
+      "tail": "所以我们说他不是说谎，就是有神经病。",
+      "tail_type": "结论",
+      "polarity": "positive",
+      "stance_score": 1.0,
+      "intensity": 0.7,
+      "evidence": "况且常人都看不见鬼的，所以我们说他不是说谎，就是有神经病。",
+      "confidence": 0.9
+    },
+    {
+      "id": "r5",
+      "head": "科学知识论",
+      "head_type": "概念",
+      "relation": "定义",
+      "relation_subtype": "概念澄清",
+      "tail": "存疑的唯心论",
+      "tail_type": "主义/学说/理论",
+      "polarity": "positive",
+      "stance_score": 1.0,
+      "intensity": 0.5,
+      "evidence": "以上所讲的是一种浅近的科学知识论。用哲学的名词讲起来，可以说是存疑的唯心论。",
+      "confidence": 0.9
+    },
+    {
+      "id": "r6",
+      "head": "存疑的唯心论",
+      "head_type": "主义/学说/理论",
+      "relation": "支持",
+      "relation_subtype": "援引权威",
+      "tail": "赫胥黎、达尔文、斯宾塞、詹姆士、皮尔逊、杜威，以及德国马哈派的哲学",
+      "tail_type": "阵营/群体",
+      "polarity": "positive",
+      "stance_score": 1.0,
+      "intensity": 0.6,
+      "evidence": "凡研究过哲学问题的科学家如赫胥黎、达尔文、斯宾塞、詹姆士、皮尔逊、杜威，以及德国马哈派的哲学，细节虽有不同，大体无不如此。",
+      "confidence": 0.9
+    },
+    {
+      "id": "r7",
+      "head": "存疑的唯心论",
+      "head_type": "主义/学说/理论",
+      "relation": "解释",
+      "relation_subtype": "概念澄清",
+      "tail": "因为他们以觉官感触为我们知道物体唯一的方法，物体的概念为心理上的现象，所以说是唯心。",
+      "tail_type": "观点",
+      "polarity": "positive",
+      "stance_score": 1.0,
+      "intensity": 0.5,
+      "evidence": "因为他们以觉官感触为我们知道物体唯一的方法，物体的概念为心理上的现象，所以说是唯心。",
+      "confidence": 0.9
+    },
+    {
+      "id": "r8",
+      "head": "存疑的唯心论",
+      "head_type": "主义/学说/理论",
+      "relation": "解释",
+      "relation_subtype": "概念澄清",
+      "tail": "觉官感触的外界，自觉的后面，有没有物，物体本质是什么东西？他们都认为不知，应该存而不论，所以说是存疑。",
+      "tail_type": "观点",
+      "polarity": "positive",
+      "stance_score": 1.0,
+      "intensity": 0.5,
+      "evidence": "觉官感触的外界，自觉的后面，有没有物，物体本质是什么东西？他们都认为不知，应该存而不论，所以说是存疑。",
+      "confidence": 0.9
+    },
+    {
+      "id": "r9",
+      "head": "存疑唯心论者",
+      "head_type": "阵营/群体",
+      "relation": "反对",
+      "relation_subtype": "逻辑反驳",
+      "tail": "玄学家",
+      "tail_type": "阵营/群体",
+      "polarity": "negative",
+      "stance_score": -0.8,
+      "intensity": 0.8,
+      "evidence": "他们是玄学家最大的敌人，因为玄学家吃饭的家伙，就是存疑唯心论者所认为不可知的，存而不论的，离心理而独立的本体。",
+      "confidence": 0.9
+    },
+    {
+      "id": "r10",
+      "head": "玄学家",
+      "head_type": "阵营/群体",
+      "relation": "批评",
+      "relation_subtype": "概念混淆批评",
+      "tail": "本体",
+      "tail_type": "概念",
+      "polarity": "negative",
+      "stance_score": -0.9,
+      "intensity": 0.9,
+      "evidence": "因为玄学家吃饭的家伙，就是存疑唯心论者所认为不可知的，存而不论的，离心理而独立的本体。",
+      "confidence": 0.9
+    },
+    {
+      "id": "r11",
+      "head": "伯克莱",
+      "head_type": "人物",
+      "relation": "定义",
+      "relation_subtype": "概念澄清",
+      "tail": "上帝",
+      "tail_type": "概念",
+      "polarity": "neutral",
+      "stance_score": 0.0,
+      "intensity": 0.3,
+      "evidence": "这种不可思议的东西，伯克莱叫他为上帝；康德、叔本华叫他为意向；布康那叫他为物质，克列福叫他为心理质，张君劢叫他为我。",
+      "confidence": 0.9
+    },
+    {
+      "id": "r12",
+      "head": "康德",
+      "head_type": "人物",
+      "relation": "定义",
+      "relation_subtype": "概念澄清",
+      "tail": "意向",
+      "tail_type": "概念",
+      "polarity": "neutral",
+      "stance_score": 0.0,
+      "intensity": 0.3,
+      "evidence": "这种不可思议的东西，伯克莱叫他为上帝；康德、叔本华叫他为意向；布康那叫他为物质，克列福叫他为心理质，张君劢叫他为我。",
+      "confidence": 0.9
+    },
+    {
+      "id": "r13",
+      "head": "叔本华",
+      "head_type": "人物",
+      "relation": "定义",
+      "relation_subtype": "概念澄清",
+      "tail": "意向",
+      "tail_type": "概念",
+      "polarity": "neutral",
+      "stance_score": 0.0,
+      "intensity": 0.3,
+      "evidence": "这种不可思议的东西，伯克莱叫他为上帝；康德、叔本华叫他为意向；布康那叫他为物质，克列福叫他为心理质，张君劢叫他为我。",
+      "confidence": 0.9
+    },
+    {
+      "id": "r14",
+      "head": "布康那",
+      "head_type": "人物",
+      "relation": "定义",
+      "relation_subtype": "概念澄清",
+      "tail": "物质",
+      "tail_type": "概念",
+      "polarity": "neutral",
+      "stance_score": 0.0,
+      "intensity": 0.3,
+      "evidence": "这种不可思议的东西，伯克莱叫他为上帝；康德、叔本华叫他为意向；布康那叫他为物质，克列福叫他为心理质，张君劢叫他为我。",
+      "confidence": 0.9
+    },
+    {
+      "id": "r15",
+      "head": "克列福",
+      "head_type": "人物",
+      "relation": "定义",
+      "relation_subtype": "概念澄清",
+      "tail": "心理质",
+      "tail_type": "概念",
+      "polarity": "neutral",
+      "stance_score": 0.0,
+      "intensity": 0.3,
+      "evidence": "这种不可思议的东西，伯克莱叫他为上帝；康德、叔本华叫他为意向；布康那叫他为物质，克列福叫他为心理质，张君劢叫他为我。",
+      "confidence": 0.9
+    },
+    {
+      "id": "r16",
+      "head": "张君劢",
+      "head_type": "人物",
+      "relation": "定义",
+      "relation_subtype": "概念澄清",
+      "tail": "我",
+      "tail_type": "概念",
+      "polarity": "neutral",
+      "stance_score": 0.0,
+      "intensity": 0.3,
+      "evidence": "这种不可思议的东西，伯克莱叫他为上帝；康德、叔本华叫他为意向；布康那叫他为物质，克列福叫他为心理质，张君劢叫他为我。",
+      "confidence": 0.9
+    },
+    {
+      "id": "r17",
+      "head": "玄学家",
+      "head_type": "阵营/群体",
+      "relation": "批评",
+      "relation_subtype": "概念混淆批评",
+      "tail": "他们始终没有大家公认的定义方法，各有各的神秘，而同是强不知以为知。",
+      "tail_type": "评价",
+      "polarity": "negative",
+      "stance_score": -0.9,
+      "intensity": 0.9,
+      "evidence": "他们始终没有大家公认的定义方法，各有各的神秘，而同是强不知以为知。",
+      "confidence": 0.9
+    },
+    {
+      "id": "r18",
+      "head": "玄学家",
+      "head_type": "阵营/群体",
+      "relation": "批评",
+      "relation_subtype": "讽刺",
+      "tail": "旁人说他模糊，他自己却以为玄妙。",
+      "tail_type": "评价",
+      "polarity": "negative",
+      "stance_score": -0.9,
+      "intensity": 0.8,
+      "evidence": "旁人说他模糊，他自己却以为玄妙。",
+      "confidence": 0.9
+    }
+  ],
+  "definitions": [
+    {
+      "id": "def1",
+      "term": "存疑的唯心论",
+      "definition": "以觉官感触为知道物体唯一的方法，认为物体的概念是心理现象，对觉官感触外界和自觉后面是否有物、物体本质是什么存而不论。",
+      "evidence": "因为他们以觉官感触为我们知道物体唯一的方法，物体的概念为心理上的现象，所以说是唯心。觉官感触的外界，自觉的后面，有没有物，物体本质是什么东西？他们都认为不知，应该存而不论，所以说是存疑。",
+      "confidence": 0.9
+    },
+    {
+      "id": "def2",
+      "term": "证据责任",
+      "definition": "提出事实的人有证明该事实存在的义务，不能证明则其主张不成立。",
+      "evidence": "因为提出这种事实来的人，有证明他有的义务。他不能证明，他的官司就输了。",
+      "confidence": 0.9
+    }
+  ],
+  "citations": [
+    {
+      "id": "cit1",
+      "citer": "丁文江",
+      "quoted_author": "戒文士",
+      "quoted_work": "《科学原则》",
+      "quoted_claim": "训练，很容易以伪为真。",
+      "function": "援引权威支持",
+      "evidence": "戒文士的《科学原则》讲得最详细。",
+      "confidence": 0.9
+    }
+  ],
+  "rhetorical_devices": [
+    {
+      "id": "rh1",
+      "expression": "玄学家吃饭的家伙",
+      "device_type": "比喻",
+      "literal_target": "玄学家赖以存在的根本（本体）",
+      "function": "贬低玄学家的核心概念，将其比喻为谋生工具，暗示其不严肃。",
+      "evidence": "因为玄学家吃饭的家伙，就是存疑唯心论者所认为不可知的，存而不论的，离心理而独立的本体。",
+      "confidence": 0.9
+    },
+    {
+      "id": "rh2",
+      "expression": "旁人说他模糊，他自己却以为玄妙。",
+      "device_type": "讽刺",
+      "literal_target": "玄学家自我认知与外界评价的对比",
+      "function": "讽刺玄学家自以为是，实际模糊不清。",
+      "evidence": "旁人说他模糊，他自己却以为玄妙。",
+      "confidence": 0.9
+    }
+  ],
+  "uncertainties": [
+    {
+      "item": "戒文士",
+      "reason": "人名可能为音译，不确定标准译名。"
+    },
+    {
+      "item": "布康那",
+      "reason": "人名可能为音译，不确定标准译名。"
+    },
+    {
+      "item": "克列福",
+      "reason": "人名可能为音译，不确定标准译名。"
+    }
+  ]
+}

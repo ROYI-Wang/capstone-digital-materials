@@ -1,0 +1,298 @@
+{
+  "metadata": {
+    "schema_version": "lite_v2.0",
+    "article_id": "陆志韦_000_44275f1b",
+    "article_title": "“死狗”的心理学",
+    "source_author": "陆志韦",
+    "section_title": "",
+    "section_author": "",
+    "segment_id": "陆志韦_000_44275f1b_s0002",
+    "segment_index": 2,
+    "source_file": "E:\\1研究生\\岭南大学\\论文毕业\\capstone\\资料\\新的内容开始了\\local_upload\\input_w1\\陆志韦.txt"
+  },
+  "entities": [
+    {
+      "id": "e1",
+      "name": "林宰平",
+      "canonical_name": "林宰平",
+      "type": "人物",
+      "evidence": "近来还有一位林宰平先生自己尝了自己的吐涎还没有知道",
+      "confidence": 1.0
+    },
+    {
+      "id": "e2",
+      "name": "丁张两先生",
+      "canonical_name": "丁文江、张君劢",
+      "type": "人物",
+      "evidence": "末了，我们再为丁张两先生提起一段故事",
+      "confidence": 0.9
+    },
+    {
+      "id": "e3",
+      "name": "诸公",
+      "canonical_name": "诸公",
+      "type": "阵营/群体",
+      "evidence": "诸公是当代名流，发言轻重，我们但愿诸公不要强不知以为知",
+      "confidence": 1.0
+    },
+    {
+      "id": "e4",
+      "name": "心理学",
+      "canonical_name": "心理学",
+      "type": "概念",
+      "evidence": "心理学的受罪恐怕也因为他的名词太普通",
+      "confidence": 1.0
+    },
+    {
+      "id": "e5",
+      "name": "智力测验",
+      "canonical_name": "智力测验",
+      "type": "概念",
+      "evidence": "智力测验，除了玄学的假定，就立不住",
+      "confidence": 1.0
+    },
+    {
+      "id": "e6",
+      "name": "玄学的假定",
+      "canonical_name": "玄学的假定",
+      "type": "概念",
+      "evidence": "智力测验，除了玄学的假定，就立不住",
+      "confidence": 1.0
+    },
+    {
+      "id": "e7",
+      "name": "试验心理学",
+      "canonical_name": "试验心理学",
+      "type": "概念",
+      "evidence": "但愿以后普通心理学的名词能像试验心理学的名词的秘奥",
+      "confidence": 1.0
+    },
+    {
+      "id": "e8",
+      "name": "普通心理学",
+      "canonical_name": "普通心理学",
+      "type": "概念",
+      "evidence": "但愿以后普通心理学的名词能像试验心理学的名词的秘奥",
+      "confidence": 1.0
+    },
+    {
+      "id": "e9",
+      "name": "有机化学",
+      "canonical_name": "有机化学",
+      "type": "概念",
+      "evidence": "或者竟像有机化学的名词的野蛮",
+      "confidence": 1.0
+    },
+    {
+      "id": "e10",
+      "name": "《子不语》",
+      "canonical_name": "《子不语》",
+      "type": "著作",
+      "evidence": "《子不语》里有一则题为“鬼球”",
+      "confidence": 1.0
+    },
+    {
+      "id": "e11",
+      "name": "“鬼球”",
+      "canonical_name": "“鬼球”",
+      "type": "著作",
+      "evidence": "《子不语》里有一则题为“鬼球”",
+      "confidence": 1.0
+    },
+    {
+      "id": "e12",
+      "name": "球",
+      "canonical_name": "球",
+      "type": "比喻/类比",
+      "evidence": "心理学就是那球",
+      "confidence": 1.0
+    }
+  ],
+  "claims": [
+    {
+      "id": "c1",
+      "speaker": "陆志韦",
+      "claim": "智力测验，除了玄学的假定，就立不住",
+      "target": "智力测验",
+      "claim_type": "知识论主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "智力测验，除了玄学的假定，就立不住",
+      "confidence": 1.0
+    },
+    {
+      "id": "c2",
+      "speaker": "陆志韦",
+      "claim": "林宰平自己尝了自己的吐涎还没有知道，倒说电流直接引起味觉，这些都是事实的问题，是则是，非则非，无从辩论",
+      "target": "林宰平",
+      "claim_type": "事实质疑",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "近来还有一位林宰平先生自己尝了自己的吐涎还没有知道，倒说电流直接引起味觉。这些都是事实的问题。是则是，非则非，无从辩论。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c3",
+      "speaker": "陆志韦",
+      "claim": "诸公不要强不知以为知",
+      "target": "诸公",
+      "claim_type": "论战策略批评",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "诸公是当代名流，发言轻重，我们但愿诸公不要强不知以为知",
+      "confidence": 1.0
+    },
+    {
+      "id": "c4",
+      "speaker": "陆志韦",
+      "claim": "诸公既已屈驾到心理学的领域里，发言须对我们负责任",
+      "target": "诸公",
+      "claim_type": "论战策略批评",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "既已屈驾到心理学的领域里，我们当然十分欢迎，不过诸公的发言须对于我们负责任了",
+      "confidence": 1.0
+    },
+    {
+      "id": "c5",
+      "speaker": "陆志韦",
+      "claim": "心理学的受罪恐怕也因为他的名词太普通，不知底蕴人容易滥用",
+      "target": "心理学",
+      "claim_type": "社会理论主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "心理学的受罪恐怕也因为他的名词太普通，不知底蕴人容易滥用",
+      "confidence": 1.0
+    },
+    {
+      "id": "c6",
+      "speaker": "陆志韦",
+      "claim": "但愿以后普通心理学的名词能像试验心理学的名词的秘奥，或者竟像有机化学的名词的野蛮",
+      "target": "普通心理学",
+      "claim_type": "方法论主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "但愿以后普通心理学的名词能像试验心理学的名词的秘奥，或者竟像有机化学的名词的野蛮",
+      "confidence": 1.0
+    },
+    {
+      "id": "c7",
+      "speaker": "陆志韦",
+      "claim": "丁张两先生踢了一夜，天亮了，球亦开口说话了",
+      "target": "丁张两先生",
+      "claim_type": "论战策略批评",
+      "claim_status": "作者讽刺性归纳",
+      "polarity": "negative",
+      "evidence": "你们踢了一夜，天亮了，球亦开口说话了",
+      "confidence": 1.0
+    }
+  ],
+  "relations": [
+    {
+      "id": "r1",
+      "head": "智力测验",
+      "head_type": "概念",
+      "relation": "相关",
+      "tail": "玄学的假定",
+      "tail_type": "概念",
+      "polarity": "negative",
+      "evidence": "智力测验，除了玄学的假定，就立不住",
+      "confidence": 1.0
+    },
+    {
+      "id": "r2",
+      "head": "陆志韦",
+      "head_type": "人物",
+      "relation": "批评",
+      "tail": "林宰平",
+      "tail_type": "人物",
+      "polarity": "negative",
+      "evidence": "近来还有一位林宰平先生自己尝了自己的吐涎还没有知道，倒说电流直接引起味觉",
+      "confidence": 1.0
+    },
+    {
+      "id": "r3",
+      "head": "陆志韦",
+      "head_type": "人物",
+      "relation": "批评",
+      "tail": "诸公",
+      "tail_type": "阵营/群体",
+      "polarity": "negative",
+      "evidence": "诸公是当代名流，发言轻重，我们但愿诸公不要强不知以为知",
+      "confidence": 1.0
+    },
+    {
+      "id": "r4",
+      "head": "心理学",
+      "head_type": "概念",
+      "relation": "类比",
+      "tail": "球",
+      "tail_type": "比喻/类比",
+      "polarity": "neutral",
+      "evidence": "心理学就是那球",
+      "confidence": 1.0
+    }
+  ],
+  "definitions": [],
+  "citations": [
+    {
+      "id": "cit1",
+      "citer": "陆志韦",
+      "quoted_author": "袁枚",
+      "quoted_work": "《子不语》",
+      "quoted_claim": "鬼球",
+      "function": "作为批评对象",
+      "evidence": "《子不语》里有一则题为“鬼球”，心理学就是那球，而先生们自己已有定谳。你们踢了一夜，天亮了，球亦开口说话了。",
+      "confidence": 0.8
+    }
+  ],
+  "rhetorical_devices": [
+    {
+      "id": "rh1",
+      "expression": "心理学就是那球，而先生们自己已有定谳。你们踢了一夜，天亮了，球亦开口说话了",
+      "device_type": "类比",
+      "literal_target": "丁张两先生关于心理学的争论",
+      "function": "讽刺丁张两先生对心理学的争论如同踢球，最终心理学自己说话（暗示心理学自有其客观性）",
+      "evidence": "末了，我们再为丁张两先生提起一段故事，以博一笑。《子不语》里有一则题为“鬼球”，心理学就是那球，而先生们自己已有定谳。你们踢了一夜，天亮了，球亦开口说话了。",
+      "confidence": 1.0
+    },
+    {
+      "id": "rh2",
+      "expression": "但愿以后普通心理学的名词能像试验心理学的名词的秘奥，或者竟像有机化学的名词的野蛮",
+      "device_type": "比喻",
+      "literal_target": "普通心理学的名词",
+      "function": "通过比喻表达希望普通心理学的名词变得像试验心理学和有机化学的名词一样专业、不易被滥用",
+      "evidence": "但愿以后普通心理学的名词能像试验心理学的名词的秘奥，或者竟像有机化学的名词的野蛮",
+      "confidence": 1.0
+    }
+  ],
+  "uncertainties": [
+    {
+      "item": "丁张两先生具体指丁文江和张君劢",
+      "reason": "文本中只出现'丁张两先生'，未给出全名，根据论战背景推断，但原文未明确"
+    },
+    {
+      "item": "《子不语》的作者袁枚",
+      "reason": "文本未提及作者，仅出现书名"
+    }
+  ],
+  "_meta": {
+    "status": "success",
+    "stage": "extract",
+    "model": "deepseek-ai/DeepSeek-V4-Flash",
+    "base_url": "https://api.siliconflow.cn/v1",
+    "prompt_version": "extract_prompt_v2.0",
+    "schema_version": "lite_v2.0",
+    "segment_id": "陆志韦_000_44275f1b_s0002",
+    "article_id": "陆志韦_000_44275f1b",
+    "char_start": 1029,
+    "char_end": 1442,
+    "raw_path": "E:\\1研究生\\岭南大学\\论文毕业\\capstone\\资料\\新的内容开始了\\local_upload\\kg_runs\\陆志韦\\raw_outputs\\extract\\陆志韦_000_44275f1b_s0002.txt",
+    "parsed_at": "2026-05-19T14:30:49",
+    "started_at": "2026-05-19T14:30:12",
+    "elapsed_seconds": 36.696,
+    "strict_evidence_check": true,
+    "drop_unsupported_evidence": true,
+    "request_timeout_seconds": 180
+  }
+}

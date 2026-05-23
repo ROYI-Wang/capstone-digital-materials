@@ -1,0 +1,701 @@
+{
+  "metadata": {
+    "schema_version": "lite_v2.0",
+    "article_id": "丁文江3_000_94b5c2f9",
+    "article_title": "“玄学与科学”论争的余兴",
+    "source_author": "丁文江",
+    "section_title": "",
+    "section_author": "",
+    "segment_id": "丁文江3_000_94b5c2f9_s0007",
+    "segment_index": 7,
+    "source_file": "E:\\1研究生\\岭南大学\\论文毕业\\capstone\\资料\\新的内容开始了\\local_upload\\input_texts\\丁文江3.txt"
+  },
+  "entities": [
+    {
+      "id": "e1",
+      "name": "达尔文",
+      "canonical_name": "达尔文",
+      "type": "人物",
+      "evidence": "达尔文著《物种由来》",
+      "confidence": 1.0
+    },
+    {
+      "id": "e2",
+      "name": "威尔逊",
+      "canonical_name": "威尔逊",
+      "type": "人物",
+      "evidence": "威尔逊著《发生同遗传中的细胞》",
+      "confidence": 1.0
+    },
+    {
+      "id": "e3",
+      "name": "孔克林",
+      "canonical_name": "孔克林",
+      "type": "人物",
+      "evidence": "孔克林著《遗传与环境》",
+      "confidence": 1.0
+    },
+    {
+      "id": "e4",
+      "name": "托姆森",
+      "canonical_name": "托姆森",
+      "type": "人物",
+      "evidence": "托姆森著《遗传性》",
+      "confidence": 1.0
+    },
+    {
+      "id": "e5",
+      "name": "安音斯坦",
+      "canonical_name": "安音斯坦",
+      "type": "人物",
+      "evidence": "安音斯坦著《相对论》",
+      "confidence": 1.0
+    },
+    {
+      "id": "e6",
+      "name": "苏点",
+      "canonical_name": "苏点",
+      "type": "人物",
+      "evidence": "苏点著《物质与能力》",
+      "confidence": 1.0
+    },
+    {
+      "id": "e7",
+      "name": "施罗森",
+      "canonical_name": "施罗森",
+      "type": "人物",
+      "evidence": "施罗森著《创造的化学》",
+      "confidence": 1.0
+    },
+    {
+      "id": "e8",
+      "name": "琦士",
+      "canonical_name": "琦士",
+      "type": "人物",
+      "evidence": "琦士著《人类的古代》",
+      "confidence": 1.0
+    },
+    {
+      "id": "e9",
+      "name": "德克峨士",
+      "canonical_name": "德克峨士",
+      "type": "人物",
+      "evidence": "德克峨士著《体形学与人种学》",
+      "confidence": 1.0
+    },
+    {
+      "id": "e10",
+      "name": "戈登外叟",
+      "canonical_name": "戈登外叟",
+      "type": "人物",
+      "evidence": "戈登外叟著《人种学引论》",
+      "confidence": 1.0
+    },
+    {
+      "id": "e11",
+      "name": "赛推克",
+      "canonical_name": "赛推克",
+      "type": "人物",
+      "evidence": "赛推克著《科学小史》",
+      "confidence": 1.0
+    },
+    {
+      "id": "e12",
+      "name": "梅尔士",
+      "canonical_name": "梅尔士",
+      "type": "人物",
+      "evidence": "梅尔士著《十九世纪欧洲思想史》",
+      "confidence": 1.0
+    },
+    {
+      "id": "e13",
+      "name": "皮尔逊",
+      "canonical_name": "皮尔逊",
+      "type": "人物",
+      "evidence": "皮尔逊著《科学规范》",
+      "confidence": 1.0
+    },
+    {
+      "id": "e14",
+      "name": "詹文斯",
+      "canonical_name": "詹文斯",
+      "type": "人物",
+      "evidence": "詹文斯著《科学通则》",
+      "confidence": 1.0
+    },
+    {
+      "id": "e15",
+      "name": "赫胥黎",
+      "canonical_name": "赫胥黎",
+      "type": "人物",
+      "evidence": "赫胥黎著《科学与教育》",
+      "confidence": 1.0
+    },
+    {
+      "id": "e16",
+      "name": "韦布伦",
+      "canonical_name": "韦布伦",
+      "type": "人物",
+      "evidence": "韦布伦著《近代文化中科学的地位》",
+      "confidence": 1.0
+    },
+    {
+      "id": "e17",
+      "name": "《物种由来》",
+      "canonical_name": "《物种由来》",
+      "type": "著作",
+      "evidence": "达尔文著《物种由来》",
+      "confidence": 1.0
+    },
+    {
+      "id": "e18",
+      "name": "《发生同遗传中的细胞》",
+      "canonical_name": "《发生同遗传中的细胞》",
+      "type": "著作",
+      "evidence": "威尔逊著《发生同遗传中的细胞》",
+      "confidence": 1.0
+    },
+    {
+      "id": "e19",
+      "name": "《试验动物学》",
+      "canonical_name": "《试验动物学》",
+      "type": "著作",
+      "evidence": "根据《试验动物学》",
+      "confidence": 1.0
+    },
+    {
+      "id": "e20",
+      "name": "《遗传与环境》",
+      "canonical_name": "《遗传与环境》",
+      "type": "著作",
+      "evidence": "孔克林著《遗传与环境》",
+      "confidence": 1.0
+    },
+    {
+      "id": "e21",
+      "name": "《遗传性》",
+      "canonical_name": "《遗传性》",
+      "type": "著作",
+      "evidence": "托姆森著《遗传性》",
+      "confidence": 1.0
+    },
+    {
+      "id": "e22",
+      "name": "《相对论》",
+      "canonical_name": "《相对论》",
+      "type": "著作",
+      "evidence": "安音斯坦著《相对论》",
+      "confidence": 1.0
+    },
+    {
+      "id": "e23",
+      "name": "《物质与能力》",
+      "canonical_name": "《物质与能力》",
+      "type": "著作",
+      "evidence": "苏点著《物质与能力》",
+      "confidence": 1.0
+    },
+    {
+      "id": "e24",
+      "name": "《创造的化学》",
+      "canonical_name": "《创造的化学》",
+      "type": "著作",
+      "evidence": "施罗森著《创造的化学》",
+      "confidence": 1.0
+    },
+    {
+      "id": "e25",
+      "name": "《人类的古代》",
+      "canonical_name": "《人类的古代》",
+      "type": "著作",
+      "evidence": "琦士著《人类的古代》",
+      "confidence": 1.0
+    },
+    {
+      "id": "e26",
+      "name": "《体形学与人种学》",
+      "canonical_name": "《体形学与人种学》",
+      "type": "著作",
+      "evidence": "德克峨士著《体形学与人种学》",
+      "confidence": 1.0
+    },
+    {
+      "id": "e27",
+      "name": "《有史以前的人》",
+      "canonical_name": "《有史以前的人》",
+      "type": "著作",
+      "evidence": "德克峨士著《有史以前的人》",
+      "confidence": 1.0
+    },
+    {
+      "id": "e28",
+      "name": "《人种学引论》",
+      "canonical_name": "《人种学引论》",
+      "type": "著作",
+      "evidence": "戈登外叟著《人种学引论》",
+      "confidence": 1.0
+    },
+    {
+      "id": "e29",
+      "name": "《科学小史》",
+      "canonical_name": "《科学小史》",
+      "type": "著作",
+      "evidence": "赛推克著《科学小史》",
+      "confidence": 1.0
+    },
+    {
+      "id": "e30",
+      "name": "《十九世纪欧洲思想史》",
+      "canonical_name": "《十九世纪欧洲思想史》",
+      "type": "著作",
+      "evidence": "梅尔士著《十九世纪欧洲思想史》",
+      "confidence": 1.0
+    },
+    {
+      "id": "e31",
+      "name": "《科学规范》",
+      "canonical_name": "《科学规范》",
+      "type": "著作",
+      "evidence": "皮尔逊著《科学规范》",
+      "confidence": 1.0
+    },
+    {
+      "id": "e32",
+      "name": "《科学通则》",
+      "canonical_name": "《科学通则》",
+      "type": "著作",
+      "evidence": "詹文斯著《科学通则》",
+      "confidence": 1.0
+    },
+    {
+      "id": "e33",
+      "name": "《科学与教育》",
+      "canonical_name": "《科学与教育》",
+      "type": "著作",
+      "evidence": "赫胥黎著《科学与教育》",
+      "confidence": 1.0
+    },
+    {
+      "id": "e34",
+      "name": "《近代文化中科学的地位》",
+      "canonical_name": "《近代文化中科学的地位》",
+      "type": "著作",
+      "evidence": "韦布伦著《近代文化中科学的地位》",
+      "confidence": 1.0
+    },
+    {
+      "id": "e35",
+      "name": "生物学同演化论",
+      "canonical_name": "生物学同演化论",
+      "type": "概念",
+      "evidence": "关于生物学同演化论的",
+      "confidence": 1.0
+    },
+    {
+      "id": "e36",
+      "name": "理化学",
+      "canonical_name": "理化学",
+      "type": "概念",
+      "evidence": "关于理化学的",
+      "confidence": 1.0
+    },
+    {
+      "id": "e37",
+      "name": "人类学",
+      "canonical_name": "人类学",
+      "type": "概念",
+      "evidence": "关于人类学的",
+      "confidence": 1.0
+    },
+    {
+      "id": "e38",
+      "name": "科学的历史、方法、同人生的关系",
+      "canonical_name": "科学的历史、方法、同人生的关系",
+      "type": "概念",
+      "evidence": "关于科学的历史、方法、同人生的关系",
+      "confidence": 1.0
+    }
+  ],
+  "claims": [
+    {
+      "id": "c1",
+      "speaker": "丁文江",
+      "claim": "这一次参考过的书列举出来，供读者选择。",
+      "target": "",
+      "claim_type": "方法论主张",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "这一次参考过的书列举出来，供读者选择。",
+      "confidence": 1.0
+    }
+  ],
+  "relations": [
+    {
+      "id": "r1",
+      "head": "丁文江",
+      "head_type": "人物",
+      "relation": "引用",
+      "relation_subtype": "援引权威",
+      "tail": "达尔文",
+      "tail_type": "人物",
+      "polarity": "neutral",
+      "evidence": "达尔文著《物种由来》",
+      "confidence": 1.0
+    },
+    {
+      "id": "r2",
+      "head": "丁文江",
+      "head_type": "人物",
+      "relation": "引用",
+      "relation_subtype": "援引权威",
+      "tail": "威尔逊",
+      "tail_type": "人物",
+      "polarity": "neutral",
+      "evidence": "威尔逊著《发生同遗传中的细胞》",
+      "confidence": 1.0
+    },
+    {
+      "id": "r3",
+      "head": "丁文江",
+      "head_type": "人物",
+      "relation": "引用",
+      "relation_subtype": "援引权威",
+      "tail": "孔克林",
+      "tail_type": "人物",
+      "polarity": "neutral",
+      "evidence": "孔克林著《遗传与环境》",
+      "confidence": 1.0
+    },
+    {
+      "id": "r4",
+      "head": "丁文江",
+      "head_type": "人物",
+      "relation": "引用",
+      "relation_subtype": "援引权威",
+      "tail": "托姆森",
+      "tail_type": "人物",
+      "polarity": "neutral",
+      "evidence": "托姆森著《遗传性》",
+      "confidence": 1.0
+    },
+    {
+      "id": "r5",
+      "head": "丁文江",
+      "head_type": "人物",
+      "relation": "引用",
+      "relation_subtype": "援引权威",
+      "tail": "安音斯坦",
+      "tail_type": "人物",
+      "polarity": "neutral",
+      "evidence": "安音斯坦著《相对论》",
+      "confidence": 1.0
+    },
+    {
+      "id": "r6",
+      "head": "丁文江",
+      "head_type": "人物",
+      "relation": "引用",
+      "relation_subtype": "援引权威",
+      "tail": "苏点",
+      "tail_type": "人物",
+      "polarity": "neutral",
+      "evidence": "苏点著《物质与能力》",
+      "confidence": 1.0
+    },
+    {
+      "id": "r7",
+      "head": "丁文江",
+      "head_type": "人物",
+      "relation": "引用",
+      "relation_subtype": "援引权威",
+      "tail": "施罗森",
+      "tail_type": "人物",
+      "polarity": "neutral",
+      "evidence": "施罗森著《创造的化学》",
+      "confidence": 1.0
+    },
+    {
+      "id": "r8",
+      "head": "丁文江",
+      "head_type": "人物",
+      "relation": "引用",
+      "relation_subtype": "援引权威",
+      "tail": "琦士",
+      "tail_type": "人物",
+      "polarity": "neutral",
+      "evidence": "琦士著《人类的古代》",
+      "confidence": 1.0
+    },
+    {
+      "id": "r9",
+      "head": "丁文江",
+      "head_type": "人物",
+      "relation": "引用",
+      "relation_subtype": "援引权威",
+      "tail": "德克峨士",
+      "tail_type": "人物",
+      "polarity": "neutral",
+      "evidence": "德克峨士著《体形学与人种学》",
+      "confidence": 1.0
+    },
+    {
+      "id": "r10",
+      "head": "丁文江",
+      "head_type": "人物",
+      "relation": "引用",
+      "relation_subtype": "援引权威",
+      "tail": "戈登外叟",
+      "tail_type": "人物",
+      "polarity": "neutral",
+      "evidence": "戈登外叟著《人种学引论》",
+      "confidence": 1.0
+    },
+    {
+      "id": "r11",
+      "head": "丁文江",
+      "head_type": "人物",
+      "relation": "引用",
+      "relation_subtype": "援引权威",
+      "tail": "赛推克",
+      "tail_type": "人物",
+      "polarity": "neutral",
+      "evidence": "赛推克著《科学小史》",
+      "confidence": 1.0
+    },
+    {
+      "id": "r12",
+      "head": "丁文江",
+      "head_type": "人物",
+      "relation": "引用",
+      "relation_subtype": "援引权威",
+      "tail": "梅尔士",
+      "tail_type": "人物",
+      "polarity": "neutral",
+      "evidence": "梅尔士著《十九世纪欧洲思想史》",
+      "confidence": 1.0
+    },
+    {
+      "id": "r13",
+      "head": "丁文江",
+      "head_type": "人物",
+      "relation": "引用",
+      "relation_subtype": "援引权威",
+      "tail": "皮尔逊",
+      "tail_type": "人物",
+      "polarity": "neutral",
+      "evidence": "皮尔逊著《科学规范》",
+      "confidence": 1.0
+    },
+    {
+      "id": "r14",
+      "head": "丁文江",
+      "head_type": "人物",
+      "relation": "引用",
+      "relation_subtype": "援引权威",
+      "tail": "詹文斯",
+      "tail_type": "人物",
+      "polarity": "neutral",
+      "evidence": "詹文斯著《科学通则》",
+      "confidence": 1.0
+    },
+    {
+      "id": "r15",
+      "head": "丁文江",
+      "head_type": "人物",
+      "relation": "引用",
+      "relation_subtype": "援引权威",
+      "tail": "赫胥黎",
+      "tail_type": "人物",
+      "polarity": "neutral",
+      "evidence": "赫胥黎著《科学与教育》",
+      "confidence": 1.0
+    },
+    {
+      "id": "r16",
+      "head": "丁文江",
+      "head_type": "人物",
+      "relation": "引用",
+      "relation_subtype": "援引权威",
+      "tail": "韦布伦",
+      "tail_type": "人物",
+      "polarity": "neutral",
+      "evidence": "韦布伦著《近代文化中科学的地位》",
+      "confidence": 1.0
+    }
+  ],
+  "definitions": [],
+  "citations": [
+    {
+      "id": "cit1",
+      "citer": "丁文江",
+      "quoted_author": "达尔文",
+      "quoted_work": "《物种由来》",
+      "quoted_claim": "",
+      "function": "作为思想来源",
+      "evidence": "达尔文著《物种由来》",
+      "confidence": 1.0
+    },
+    {
+      "id": "cit2",
+      "citer": "丁文江",
+      "quoted_author": "威尔逊",
+      "quoted_work": "《发生同遗传中的细胞》",
+      "quoted_claim": "",
+      "function": "作为思想来源",
+      "evidence": "威尔逊著《发生同遗传中的细胞》",
+      "confidence": 1.0
+    },
+    {
+      "id": "cit3",
+      "citer": "丁文江",
+      "quoted_author": "孔克林",
+      "quoted_work": "《遗传与环境》",
+      "quoted_claim": "",
+      "function": "作为思想来源",
+      "evidence": "孔克林著《遗传与环境》",
+      "confidence": 1.0
+    },
+    {
+      "id": "cit4",
+      "citer": "丁文江",
+      "quoted_author": "托姆森",
+      "quoted_work": "《遗传性》",
+      "quoted_claim": "",
+      "function": "作为思想来源",
+      "evidence": "托姆森著《遗传性》",
+      "confidence": 1.0
+    },
+    {
+      "id": "cit5",
+      "citer": "丁文江",
+      "quoted_author": "安音斯坦",
+      "quoted_work": "《相对论》",
+      "quoted_claim": "",
+      "function": "作为思想来源",
+      "evidence": "安音斯坦著《相对论》",
+      "confidence": 1.0
+    },
+    {
+      "id": "cit6",
+      "citer": "丁文江",
+      "quoted_author": "苏点",
+      "quoted_work": "《物质与能力》",
+      "quoted_claim": "",
+      "function": "作为思想来源",
+      "evidence": "苏点著《物质与能力》",
+      "confidence": 1.0
+    },
+    {
+      "id": "cit7",
+      "citer": "丁文江",
+      "quoted_author": "施罗森",
+      "quoted_work": "《创造的化学》",
+      "quoted_claim": "",
+      "function": "作为思想来源",
+      "evidence": "施罗森著《创造的化学》",
+      "confidence": 1.0
+    },
+    {
+      "id": "cit8",
+      "citer": "丁文江",
+      "quoted_author": "琦士",
+      "quoted_work": "《人类的古代》",
+      "quoted_claim": "",
+      "function": "作为思想来源",
+      "evidence": "琦士著《人类的古代》",
+      "confidence": 1.0
+    },
+    {
+      "id": "cit9",
+      "citer": "丁文江",
+      "quoted_author": "德克峨士",
+      "quoted_work": "《体形学与人种学》",
+      "quoted_claim": "",
+      "function": "作为思想来源",
+      "evidence": "德克峨士著《体形学与人种学》",
+      "confidence": 1.0
+    },
+    {
+      "id": "cit10",
+      "citer": "丁文江",
+      "quoted_author": "德克峨士",
+      "quoted_work": "《有史以前的人》",
+      "quoted_claim": "",
+      "function": "作为思想来源",
+      "evidence": "德克峨士著《有史以前的人》",
+      "confidence": 1.0
+    },
+    {
+      "id": "cit11",
+      "citer": "丁文江",
+      "quoted_author": "戈登外叟",
+      "quoted_work": "《人种学引论》",
+      "quoted_claim": "",
+      "function": "作为思想来源",
+      "evidence": "戈登外叟著《人种学引论》",
+      "confidence": 1.0
+    },
+    {
+      "id": "cit12",
+      "citer": "丁文江",
+      "quoted_author": "赛推克",
+      "quoted_work": "《科学小史》",
+      "quoted_claim": "",
+      "function": "作为思想来源",
+      "evidence": "赛推克著《科学小史》",
+      "confidence": 1.0
+    },
+    {
+      "id": "cit13",
+      "citer": "丁文江",
+      "quoted_author": "梅尔士",
+      "quoted_work": "《十九世纪欧洲思想史》",
+      "quoted_claim": "",
+      "function": "作为思想来源",
+      "evidence": "梅尔士著《十九世纪欧洲思想史》",
+      "confidence": 1.0
+    },
+    {
+      "id": "cit14",
+      "citer": "丁文江",
+      "quoted_author": "皮尔逊",
+      "quoted_work": "《科学规范》",
+      "quoted_claim": "",
+      "function": "作为思想来源",
+      "evidence": "皮尔逊著《科学规范》",
+      "confidence": 1.0
+    },
+    {
+      "id": "cit15",
+      "citer": "丁文江",
+      "quoted_author": "詹文斯",
+      "quoted_work": "《科学通则》",
+      "quoted_claim": "",
+      "function": "作为思想来源",
+      "evidence": "詹文斯著《科学通则》",
+      "confidence": 1.0
+    },
+    {
+      "id": "cit16",
+      "citer": "丁文江",
+      "quoted_author": "赫胥黎",
+      "quoted_work": "《科学与教育》",
+      "quoted_claim": "",
+      "function": "作为思想来源",
+      "evidence": "赫胥黎著《科学与教育》",
+      "confidence": 1.0
+    },
+    {
+      "id": "cit17",
+      "citer": "丁文江",
+      "quoted_author": "韦布伦",
+      "quoted_work": "《近代文化中科学的地位》",
+      "quoted_claim": "",
+      "function": "作为思想来源",
+      "evidence": "韦布伦著《近代文化中科学的地位》",
+      "confidence": 1.0
+    }
+  ],
+  "rhetorical_devices": [],
+  "uncertainties": []
+}

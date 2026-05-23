@@ -1,0 +1,272 @@
+{
+  "metadata": {
+    "schema_version": "lite_v2.0",
+    "article_id": "丁文江2_000_e838922e",
+    "article_title": "玄学与科学——答张君劢",
+    "source_author": "丁文江",
+    "section_title": "",
+    "section_author": "",
+    "segment_id": "丁文江2_000_e838922e_s0002",
+    "segment_index": 2,
+    "source_file": "E:\\1研究生\\岭南大学\\论文毕业\\capstone\\资料\\新的内容开始了\\local_upload\\input_texts\\丁文江2.txt"
+  },
+  "entities": [
+    {
+      "id": "e1",
+      "name": "玄学与科学",
+      "canonical_name": "玄学与科学",
+      "type": "著作",
+      "evidence": "“玄学与科学”这种题目",
+      "confidence": 0.9
+    },
+    {
+      "id": "e2",
+      "name": "《努力》",
+      "canonical_name": "努力周报",
+      "type": "著作",
+      "evidence": "《努力》同《晨报》都是给一班人看的",
+      "confidence": 0.9
+    },
+    {
+      "id": "e3",
+      "name": "《晨报》",
+      "canonical_name": "晨报",
+      "type": "著作",
+      "evidence": "《努力》同《晨报》都是给一班人看的",
+      "confidence": 0.9
+    },
+    {
+      "id": "e4",
+      "name": "《国学季刊》",
+      "canonical_name": "国学季刊",
+      "type": "著作",
+      "evidence": "我若是在《国学季刊》或是《地质汇报》上边做文章",
+      "confidence": 0.9
+    },
+    {
+      "id": "e5",
+      "name": "《地质汇报》",
+      "canonical_name": "地质汇报",
+      "type": "著作",
+      "evidence": "我若是在《国学季刊》或是《地质汇报》上边做文章",
+      "confidence": 0.9
+    },
+    {
+      "id": "e6",
+      "name": "杜里舒先生",
+      "canonical_name": "杜里舒",
+      "type": "人物",
+      "evidence": "向来不屑得替人家辩论的君劢居然肯把杜里舒先生的讲义搁起",
+      "confidence": 0.9
+    },
+    {
+      "id": "e7",
+      "name": "君劢",
+      "canonical_name": "张君劢",
+      "type": "人物",
+      "evidence": "向来不屑得替人家辩论的君劢居然肯把杜里舒先生的讲义搁起",
+      "confidence": 0.9
+    },
+    {
+      "id": "e8",
+      "name": "任公",
+      "canonical_name": "梁启超",
+      "type": "人物",
+      "evidence": "我很感谢任公，宣布了我们向日的交情",
+      "confidence": 0.9
+    },
+    {
+      "id": "e9",
+      "name": "《诗经》",
+      "canonical_name": "诗经",
+      "type": "著作",
+      "evidence": "我又可以引用《诗经》说",
+      "confidence": 0.9
+    }
+  ],
+  "claims": [
+    {
+      "id": "c1",
+      "speaker": "丁文江",
+      "claim": "“玄学与科学”这种题目，是要有特别兴味的人方才觉得有趣",
+      "target": "玄学与科学",
+      "claim_type": "价值评价",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "“玄学与科学”这种题目，是要有特别兴味的人方才觉得有趣",
+      "confidence": 0.9
+    },
+    {
+      "id": "c2",
+      "speaker": "丁文江",
+      "claim": "《努力》同《晨报》都是给一班人看的，不带一点滑稽，恐怕人家看不了几行，就要睡觉",
+      "target": "《努力》",
+      "claim_type": "论战策略批评",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "《努力》同《晨报》都是给一班人看的，不带一点滑稽，恐怕人家看不了几行，就要睡觉",
+      "confidence": 0.9
+    },
+    {
+      "id": "c3",
+      "speaker": "丁文江",
+      "claim": "我若是在《国学季刊》或是《地质汇报》上边做文章，当然不敢如此放肆",
+      "target": "丁文江",
+      "claim_type": "论战策略批评",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "我若是在《国学季刊》或是《地质汇报》上边做文章，当然不敢如此放肆",
+      "confidence": 0.9
+    },
+    {
+      "id": "c4",
+      "speaker": "丁文江",
+      "claim": "向来不屑得替人家辩论的君劢居然肯把杜里舒先生的讲义搁起，来做几万字的答辞，足见得我的虐谑已经有“抛砖引玉”的效果",
+      "target": "张君劢",
+      "claim_type": "论战策略批评",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "向来不屑得替人家辩论的君劢居然肯把杜里舒先生的讲义搁起，来做几万字的答辞，足见得我的虐谑已经有“抛砖引玉”的效果",
+      "confidence": 0.9
+    },
+    {
+      "id": "c5",
+      "speaker": "丁文江",
+      "claim": "我很感谢任公，宣布了我们向日的交情，可以免除读者的误会",
+      "target": "梁启超",
+      "claim_type": "价值评价",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "我很感谢任公，宣布了我们向日的交情，可以免除读者的误会",
+      "confidence": 0.9
+    },
+    {
+      "id": "c6",
+      "speaker": "丁文江",
+      "claim": "我们这种战争，劈头就不遵守国际公法，因为宣战了一个月，仍旧没有绝交",
+      "target": "丁文江",
+      "claim_type": "论战策略批评",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "我们这种战争，劈头就不遵守国际公法，因为宣战了一个月，仍旧没有绝交",
+      "confidence": 0.9
+    },
+    {
+      "id": "c7",
+      "speaker": "丁文江",
+      "claim": "见了面依旧是剧谈，依旧是“每谈必吵”，吵的程度比做文章还要利害十倍",
+      "target": "丁文江",
+      "claim_type": "论战策略批评",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "见了面依旧是剧谈，依旧是“每谈必吵”，吵的程度比做文章还要利害十倍",
+      "confidence": 0.9
+    },
+    {
+      "id": "c8",
+      "speaker": "丁文江",
+      "claim": "两方面毫无秘密，毫无成心",
+      "target": "丁文江",
+      "claim_type": "论战策略批评",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "况且两方面毫无秘密，毫无成心",
+      "confidence": 0.9
+    }
+  ],
+  "relations": [
+    {
+      "id": "r1",
+      "head": "丁文江",
+      "head_type": "人物",
+      "relation": "引用",
+      "relation_subtype": "援引权威",
+      "tail": "《诗经》",
+      "tail_type": "著作",
+      "polarity": "neutral",
+      "evidence": "我又可以引用《诗经》说：“善戏谑兮，不为虐兮。”",
+      "confidence": 0.9
+    },
+    {
+      "id": "r2",
+      "head": "丁文江",
+      "head_type": "人物",
+      "relation": "回应",
+      "relation_subtype": "一般批评",
+      "tail": "张君劢",
+      "tail_type": "人物",
+      "polarity": "positive",
+      "evidence": "向来不屑得替人家辩论的君劢居然肯把杜里舒先生的讲义搁起，来做几万字的答辞，足见得我的虐谑已经有“抛砖引玉”的效果",
+      "confidence": 0.9
+    },
+    {
+      "id": "r3",
+      "head": "丁文江",
+      "head_type": "人物",
+      "relation": "回应",
+      "relation_subtype": "部分肯定",
+      "tail": "梁启超",
+      "tail_type": "人物",
+      "polarity": "positive",
+      "evidence": "我很感谢任公，宣布了我们向日的交情，可以免除读者的误会",
+      "confidence": 0.9
+    }
+  ],
+  "definitions": [],
+  "citations": [
+    {
+      "id": "cit1",
+      "citer": "丁文江",
+      "quoted_author": "《诗经》",
+      "quoted_work": "《诗经》",
+      "quoted_claim": "善戏谑兮，不为虐兮",
+      "function": "援引权威支持",
+      "evidence": "我又可以引用《诗经》说：“善戏谑兮，不为虐兮。”",
+      "confidence": 0.9
+    }
+  ],
+  "rhetorical_devices": [
+    {
+      "id": "rh1",
+      "expression": "抛砖引玉",
+      "device_type": "比喻",
+      "literal_target": "丁文张君劢的答辞",
+      "function": "用比喻说明自己的戏谑引来了对方的回应，自谦且肯定对方参与",
+      "evidence": "足见得我的虐谑已经有“抛砖引玉”的效果",
+      "confidence": 0.9
+    },
+    {
+      "id": "rh2",
+      "expression": "战争",
+      "device_type": "比喻",
+      "literal_target": "丁文江与张君劢的论战",
+      "function": "将学术论战比喻为战争，强调对抗性",
+      "evidence": "我们这种战争，劈头就不遵守国际公法",
+      "confidence": 0.9
+    },
+    {
+      "id": "rh3",
+      "expression": "不遵守国际公法",
+      "device_type": "比喻",
+      "literal_target": "论战双方没有绝交",
+      "function": "用国际公法比喻论战规则，幽默地说明双方虽论战但未绝交",
+      "evidence": "我们这种战争，劈头就不遵守国际公法，因为宣战了一个月，仍旧没有绝交",
+      "confidence": 0.9
+    },
+    {
+      "id": "rh4",
+      "expression": "每谈必吵",
+      "device_type": "夸张",
+      "literal_target": "丁文江与梁启超见面时的争论",
+      "function": "夸张地描述争论的激烈程度",
+      "evidence": "见了面依旧是剧谈，依旧是“每谈必吵”，吵的程度比做文章还要利害十倍",
+      "confidence": 0.9
+    }
+  ],
+  "uncertainties": [
+    {
+      "item": "“予岂好谑哉？予不得已也”是否直接引用孟子或为丁文江自创文言表达",
+      "reason": "文本中未明确说明出处，仅说“我若是做文言，我一定要说”，可能为丁文江自拟，也可能化用孟子语，但原文未提供引用来源"
+    }
+  ]
+}

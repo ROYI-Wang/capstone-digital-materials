@@ -1,0 +1,261 @@
+{
+  "metadata": {
+    "schema_version": "lite_v2.0",
+    "article_id": "丁文江_000_3ba07a5e",
+    "article_title": "玄学与科学 ——评张君劢的《人生观》",
+    "source_author": "丁文江",
+    "section_title": "",
+    "section_author": "",
+    "segment_id": "丁文江_000_3ba07a5e_s0007",
+    "segment_index": 7,
+    "source_file": "E:\\1研究生\\岭南大学\\论文毕业\\capstone\\资料\\新的内容开始了\\local_upload\\input_texts\\丁文江.txt"
+  },
+  "entities": [
+    {
+      "id": "e1",
+      "name": "张君劢",
+      "canonical_name": "张君劢",
+      "type": "Person",
+      "evidence": "诸君试拿张君劢自己的表式来列起来",
+      "confidence": 1.0
+    },
+    {
+      "id": "e2",
+      "name": "自由贸易",
+      "canonical_name": "自由贸易",
+      "type": "Concept",
+      "evidence": "（十二）就我与我之贸易关系——自由贸易，保护贸易",
+      "confidence": 1.0
+    },
+    {
+      "id": "e3",
+      "name": "保护贸易",
+      "canonical_name": "保护贸易",
+      "type": "Concept",
+      "evidence": "（十二）就我与我之贸易关系——自由贸易，保护贸易",
+      "confidence": 1.0
+    },
+    {
+      "id": "e4",
+      "name": "感觉主义",
+      "canonical_name": "感觉主义",
+      "type": "Theory",
+      "evidence": "（十三）就我与我之知识起源——感觉主义，范畴主义",
+      "confidence": 1.0
+    },
+    {
+      "id": "e5",
+      "name": "范畴主义",
+      "canonical_name": "范畴主义",
+      "type": "Theory",
+      "evidence": "（十三）就我与我之知识起源——感觉主义，范畴主义",
+      "confidence": 1.0
+    },
+    {
+      "id": "e6",
+      "name": "大家族主义",
+      "canonical_name": "大家族主义",
+      "type": "Concept",
+      "evidence": "为什么前二者“不失为客观”，而大家族主义小家族主义等等一定是主观的？",
+      "confidence": 1.0
+    },
+    {
+      "id": "e7",
+      "name": "小家族主义",
+      "canonical_name": "小家族主义",
+      "type": "Concept",
+      "evidence": "为什么前二者“不失为客观”，而大家族主义小家族主义等等一定是主观的？",
+      "confidence": 1.0
+    },
+    {
+      "id": "e8",
+      "name": "性善性恶",
+      "canonical_name": "性善性恶",
+      "type": "Concept",
+      "evidence": "学生物学的人谁不知道性善性恶和达尔文的生存竞争论同是科学问题，而且是已经解决的问题？",
+      "confidence": 1.0
+    },
+    {
+      "id": "e9",
+      "name": "达尔文的生存竞争论",
+      "canonical_name": "达尔文的生存竞争论",
+      "type": "Theory",
+      "evidence": "学生物学的人谁不知道性善性恶和达尔文的生存竞争论同是科学问题，而且是已经解决的问题？",
+      "confidence": 1.0
+    },
+    {
+      "id": "e10",
+      "name": "科学",
+      "canonical_name": "科学",
+      "type": "Concept",
+      "evidence": "学生物学的人谁不知道性善性恶和达尔文的生存竞争论同是科学问题，而且是已经解决的问题？",
+      "confidence": 1.0
+    },
+    {
+      "id": "e11",
+      "name": "人生观",
+      "canonical_name": "人生观",
+      "type": "Concept",
+      "evidence": "但是他说他是主观的，是人生观，绝不能施以一种试验，以证甲之是与乙之非！",
+      "confidence": 1.0
+    },
+    {
+      "id": "e12",
+      "name": "物质科学",
+      "canonical_name": "物质科学",
+      "type": "Concept",
+      "evidence": "就是他所说的物质科学同精神科学的分别也不是真能成立的。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e13",
+      "name": "精神科学",
+      "canonical_name": "精神科学",
+      "type": "Concept",
+      "evidence": "就是他所说的物质科学同精神科学的分别也不是真能成立的。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e14",
+      "name": "知识论",
+      "canonical_name": "知识论",
+      "type": "Concept",
+      "evidence": "要说明这一点，不得不请读者同我研究研究知识论。",
+      "confidence": 1.0
+    }
+  ],
+  "claims": [
+    {
+      "id": "c1",
+      "speaker": "丁文江",
+      "claim": "张君劢的（十二）（十三）与他的（一）至（九）没有根本的分别",
+      "target": "张君劢",
+      "claim_type": "反驳性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "试问我的（十二）（十三）与他的（一）至（九）有什么根本的分别？",
+      "confidence": 1.0
+    },
+    {
+      "id": "c2",
+      "speaker": "丁文江",
+      "claim": "大家族主义小家族主义等不一定是主观的",
+      "target": "张君劢",
+      "claim_type": "反驳性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "为什么前二者“不失为客观”，而大家族主义小家族主义等等一定是主观的？",
+      "confidence": 1.0
+    },
+    {
+      "id": "c3",
+      "speaker": "丁文江",
+      "claim": "性善性恶和达尔文的生存竞争论同是科学问题，而且是已经解决的问题",
+      "target": "",
+      "claim_type": "知识论主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "学生物学的人谁不知道性善性恶和达尔文的生存竞争论同是科学问题，而且是已经解决的问题？",
+      "confidence": 1.0
+    },
+    {
+      "id": "c4",
+      "speaker": "张君劢",
+      "claim": "性善性恶和达尔文的生存竞争论是主观的，是人生观，绝不能施以一种试验，以证甲之是与乙之非",
+      "target": "",
+      "claim_type": "知识论主张",
+      "claim_status": "间接转述",
+      "polarity": "negative",
+      "evidence": "但是他说他是主观的，是人生观，绝不能施以一种试验，以证甲之是与乙之非！",
+      "confidence": 1.0
+    },
+    {
+      "id": "c5",
+      "speaker": "丁文江",
+      "claim": "张君劢没有法子把人生观同科学真正分家",
+      "target": "张君劢",
+      "claim_type": "反驳性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "只看他没有法子把人生观同科学真正分家，就知道他们本来是同气连枝的了。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c6",
+      "speaker": "丁文江",
+      "claim": "人生观同科学本来是同气连枝的",
+      "target": "",
+      "claim_type": "知识论主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "只看他没有法子把人生观同科学真正分家，就知道他们本来是同气连枝的了。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c7",
+      "speaker": "丁文江",
+      "claim": "物质科学同精神科学的分别不是真能成立的",
+      "target": "张君劢",
+      "claim_type": "反驳性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "不但是人生观同科学的界限分不开，就是他所说的物质科学同精神科学的分别也不是真能成立的。",
+      "confidence": 1.0
+    }
+  ],
+  "relations": [
+    {
+      "id": "r1",
+      "head": "性善性恶和达尔文的生存竞争论",
+      "head_type": "Concept",
+      "relation": "PART_OF",
+      "tail": "科学问题",
+      "tail_type": "Concept",
+      "polarity": "positive",
+      "evidence": "学生物学的人谁不知道性善性恶和达尔文的生存竞争论同是科学问题，而且是已经解决的问题？",
+      "confidence": 1.0
+    }
+  ],
+  "definitions": [],
+  "citations": [],
+  "rhetorical_devices": [
+    {
+      "id": "rh1",
+      "expression": "同气连枝",
+      "device_type": "比喻",
+      "literal_target": "人生观与科学的关系",
+      "function": "形象化地说明人生观与科学不可分割，反驳张君劢的划分",
+      "evidence": "只看他没有法子把人生观同科学真正分家，就知道他们本来是同气连枝的了。",
+      "confidence": 1.0
+    }
+  ],
+  "uncertainties": [
+    {
+      "item": "张君劢自己的表式中的（一）至（九）具体内容",
+      "reason": "当前文本未列出（一）至（九）的具体条目，无法确定其内容"
+    },
+    {
+      "item": "“学生物学的人”是否特指某个人物或群体",
+      "reason": "当前文本未明确具体指代，可能泛指生物学研究者"
+    }
+  ],
+  "_meta": {
+    "status": "success",
+    "stage": "extract",
+    "model": "deepseek-ai/DeepSeek-V4-Flash",
+    "base_url": "https://api.siliconflow.cn/v1",
+    "prompt_version": "extract_prompt_v2.0",
+    "schema_version": "lite_v2.0",
+    "segment_id": "丁文江_000_3ba07a5e_s0007",
+    "article_id": "丁文江_000_3ba07a5e",
+    "char_start": 1799,
+    "char_end": 2137,
+    "raw_path": "E:\\1研究生\\岭南大学\\论文毕业\\capstone\\资料\\新的内容开始了\\local_upload\\kg_runs\\丁文江_等3篇\\raw_outputs\\extract\\丁文江_000_3ba07a5e_s0007.txt",
+    "parsed_at": "2026-05-19T02:22:52",
+    "started_at": "2026-05-19T02:21:06",
+    "elapsed_seconds": 106.159,
+    "strict_evidence_check": true,
+    "drop_unsupported_evidence": true,
+    "request_timeout_seconds": 180
+  }
+}

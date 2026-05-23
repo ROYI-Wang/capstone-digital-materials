@@ -1,0 +1,600 @@
+{
+  "metadata": {
+    "schema_version": "lite_v3.0",
+    "article_id": "张君劢_001_688ab8ae",
+    "article_title": "人生观（中篇）",
+    "source_author": "张君劢",
+    "section_title": "",
+    "section_author": "",
+    "segment_id": "张君劢_001_688ab8ae_s0002",
+    "segment_index": 2,
+    "source_file": "E:\\1研究生\\岭南大学\\论文毕业\\capstone\\资料\\新的内容开始了\\local_upload\\input_张君劢\\张君劢.txt"
+  },
+  "entities": [
+    {
+      "id": "e1",
+      "name": "达氏",
+      "canonical_name": "达氏",
+      "type": "人物",
+      "evidence": "达氏、詹氏、杜氏、马氏数人。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e2",
+      "name": "詹氏",
+      "canonical_name": "詹氏",
+      "type": "人物",
+      "evidence": "达氏、詹氏、杜氏、马氏数人。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e3",
+      "name": "杜氏",
+      "canonical_name": "杜氏",
+      "type": "人物",
+      "evidence": "达氏、詹氏、杜氏、马氏数人。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e4",
+      "name": "马氏",
+      "canonical_name": "马氏",
+      "type": "人物",
+      "evidence": "达氏、詹氏、杜氏、马氏数人。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e5",
+      "name": "布虚那",
+      "canonical_name": "布虚那",
+      "type": "人物",
+      "evidence": "德医学家布虚那有心为物质之说。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e6",
+      "name": "马勒蓄氏",
+      "canonical_name": "马勒蓄氏",
+      "type": "人物",
+      "evidence": "生理学家马勒蓄氏有无磷质则无思想之说。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e7",
+      "name": "在君",
+      "canonical_name": "在君",
+      "type": "人物",
+      "evidence": "以在君之尊重科学家，何独于布虚那氏、马勒蓄氏而薄之。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e8",
+      "name": "知识论",
+      "canonical_name": "知识论",
+      "type": "概念",
+      "evidence": "知识论者，哲学范围内事也，与科学无涉者也。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e9",
+      "name": "科学",
+      "canonical_name": "科学",
+      "type": "概念",
+      "evidence": "知识论者，哲学范围内事也，与科学无涉者也。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e10",
+      "name": "哲学",
+      "canonical_name": "哲学",
+      "type": "概念",
+      "evidence": "知识论者，哲学范围内事也，与科学无涉者也。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e11",
+      "name": "洛克",
+      "canonical_name": "洛克",
+      "type": "人物",
+      "evidence": "自洛克、康德以下，迄于今日英美之新惟实主义，同为唯心主义，而其中有大同小异；同为唯物主义，而其中亦有大同小异；千差万别，几于不可爬梳。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e12",
+      "name": "康德",
+      "canonical_name": "康德",
+      "type": "人物",
+      "evidence": "自洛克、康德以下，迄于今日英美之新惟实主义，同为唯心主义，而其中有大同小异；同为唯物主义，而其中亦有大同小异；千差万别，几于不可爬梳。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e13",
+      "name": "新惟实主义",
+      "canonical_name": "新惟实主义",
+      "type": "主义/学说/理论",
+      "evidence": "自洛克、康德以下，迄于今日英美之新惟实主义，同为唯心主义，而其中有大同小异；同为唯物主义，而其中亦有大同小异；千差万别，几于不可爬梳。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e14",
+      "name": "唯心主义",
+      "canonical_name": "唯心主义",
+      "type": "主义/学说/理论",
+      "evidence": "自洛克、康德以下，迄于今日英美之新惟实主义，同为唯心主义，而其中有大同小异；同为唯物主义，而其中亦有大同小异；千差万别，几于不可爬梳。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e15",
+      "name": "唯物主义",
+      "canonical_name": "唯物主义",
+      "type": "主义/学说/理论",
+      "evidence": "自洛克、康德以下，迄于今日英美之新惟实主义，同为唯心主义，而其中有大同小异；同为唯物主义，而其中亦有大同小异；千差万别，几于不可爬梳。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e16",
+      "name": "科学的知识论",
+      "canonical_name": "科学的知识论",
+      "type": "概念",
+      "evidence": "科学的知识论之名词，既已不能成立，则在君所倚为根据之知识论，已有一二百年之哲学史代吾人作辩护士。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e17",
+      "name": "皮尔逊",
+      "canonical_name": "皮尔逊",
+      "type": "人物",
+      "evidence": "而皮尔逊之言，已无取一一细究。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e18",
+      "name": "官觉之感触",
+      "canonical_name": "官觉之感触",
+      "type": "概念",
+      "evidence": "（一）思想内容之所以组成，则在官觉之感触。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e19",
+      "name": "因果概念",
+      "canonical_name": "因果概念",
+      "type": "概念",
+      "evidence": "（二）因知觉或经历之往复不已，因而科学上有因果概念。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e20",
+      "name": "经历之往复不已",
+      "canonical_name": "经历之往复不已",
+      "type": "概念",
+      "evidence": "在君善读皮氏书，然“经历之往复不已”一条，乃忘却列举，不知是何用意？",
+      "confidence": 0.9
+    },
+    {
+      "id": "e21",
+      "name": "英国学派",
+      "canonical_name": "英国学派",
+      "type": "阵营/群体",
+      "evidence": "英国学派好以经验或感觉为出发点，然反诘以感觉之中并无无形之因果概念在，则彼必答曰，是由其事之屡屡出现，成为一种往复不已之态，此因果概念之所由来也。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e22",
+      "name": "休谟",
+      "canonical_name": "休谟",
+      "type": "人物",
+      "evidence": "此说也，出自休谟，今已成为传统的学说。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e23",
+      "name": "传统的学说",
+      "canonical_name": "传统的学说",
+      "type": "概念",
+      "evidence": "此说也，出自休谟，今已成为传统的学说。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e24",
+      "name": "心为物质之说",
+      "canonical_name": "心为物质之说",
+      "type": "观点",
+      "evidence": "德医学家布虚那有心为物质之说。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e25",
+      "name": "无磷质则无思想之说",
+      "canonical_name": "无磷质则无思想之说",
+      "type": "观点",
+      "evidence": "生理学家马勒蓄氏有无磷质则无思想之说。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e26",
+      "name": "科学家之知识论，不必优于哲学家之知识论；哲学家之知识论，不必劣于科学家之知识论",
+      "canonical_name": "科学家之知识论，不必优于哲学家之知识论；哲学家之知识论，不必劣于科学家之知识论",
+      "type": "观点",
+      "evidence": "科学家之知识论，不必优于哲学家之知识论；哲学家之知识论，不必劣于科学家之知识论。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e27",
+      "name": "有因必有果者，非必然之真理也，乃心理上之信仰或习惯为之也",
+      "canonical_name": "有因必有果者，非必然之真理也，乃心理上之信仰或习惯为之也",
+      "type": "观点",
+      "evidence": "惟如是，有因必有果者，非必然之真理也，乃心理上之信仰或习惯为之也。",
+      "confidence": 0.9
+    }
+  ],
+  "claims": [
+    {
+      "id": "c1",
+      "speaker": "张君劢",
+      "claim": "知识论者，哲学范围内事也，与科学无涉者也。",
+      "target": "知识论",
+      "claim_type": "定义性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "知识论者，哲学范围内事也，与科学无涉者也。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c2",
+      "speaker": "张君劢",
+      "claim": "科学家之知识论，不必优于哲学家之知识论；哲学家之知识论，不必劣于科学家之知识论。",
+      "target": "科学家之知识论",
+      "claim_type": "对比性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "科学家之知识论，不必优于哲学家之知识论；哲学家之知识论，不必劣于科学家之知识论。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c3",
+      "speaker": "张君劢",
+      "claim": "科学的知识论之名词，既已不能成立。",
+      "target": "科学的知识论",
+      "claim_type": "结论性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "科学的知识论之名词，既已不能成立，则在君所倚为根据之知识论，已有一二百年之哲学史代吾人作辩护士。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c4",
+      "speaker": "张君劢",
+      "claim": "在君所倚为根据之知识论，已有一二百年之哲学史代吾人作辩护士。",
+      "target": "在君所倚为根据之知识论",
+      "claim_type": "评价性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "科学的知识论之名词，既已不能成立，则在君所倚为根据之知识论，已有一二百年之哲学史代吾人作辩护士。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c5",
+      "speaker": "皮尔逊",
+      "claim": "思想内容之所以组成，则在官觉之感触。",
+      "target": "思想内容",
+      "claim_type": "描述性主张",
+      "claim_status": "间接转述",
+      "polarity": "neutral",
+      "evidence": "（一）思想内容之所以组成，则在官觉之感触。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c6",
+      "speaker": "皮尔逊",
+      "claim": "因知觉或经历之往复不已，因而科学上有因果概念。",
+      "target": "因果概念",
+      "claim_type": "因果主张",
+      "claim_status": "间接转述",
+      "polarity": "neutral",
+      "evidence": "（二）因知觉或经历之往复不已，因而科学上有因果概念。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c7",
+      "speaker": "皮尔逊",
+      "claim": "科学之所有事者，即将此官觉之感触，分类而排列之，以求其先后之序。",
+      "target": "科学",
+      "claim_type": "定义性主张",
+      "claim_status": "间接转述",
+      "polarity": "neutral",
+      "evidence": "（三）科学之所有事者，即将此官觉之感触，分类而排列之，以求其先后之序。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c8",
+      "speaker": "英国学派",
+      "claim": "感觉之中并无无形之因果概念在，是由其事之屡屡出现，成为一种往复不已之态，此因果概念之所由来也。",
+      "target": "因果概念",
+      "claim_type": "因果主张",
+      "claim_status": "间接转述",
+      "polarity": "neutral",
+      "evidence": "英国学派好以经验或感觉为出发点，然反诘以感觉之中并无无形之因果概念在，则彼必答曰，是由其事之屡屡出现，成为一种往复不已之态，此因果概念之所由来也。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c9",
+      "speaker": "英国学派",
+      "claim": "有因必有果者，非必然之真理也，乃心理上之信仰或习惯为之也。",
+      "target": "有因必有果",
+      "claim_type": "描述性主张",
+      "claim_status": "间接转述",
+      "polarity": "neutral",
+      "evidence": "惟如是，有因必有果者，非必然之真理也，乃心理上之信仰或习惯为之也。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c10",
+      "speaker": "张君劢",
+      "claim": "在君善读皮氏书，然“经历之往复不已”一条，乃忘却列举，不知是何用意？",
+      "target": "在君",
+      "claim_type": "问题提出",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "在君善读皮氏书，然“经历之往复不已”一条，乃忘却列举，不知是何用意？",
+      "confidence": 0.9
+    }
+  ],
+  "relations": [
+    {
+      "id": "r1",
+      "head": "知识论",
+      "head_type": "概念",
+      "relation": "定义",
+      "relation_subtype": "概念澄清",
+      "tail": "哲学范围内事",
+      "tail_type": "概念",
+      "polarity": "positive",
+      "stance_score": 1.0,
+      "intensity": 0.8,
+      "evidence": "知识论者，哲学范围内事也，与科学无涉者也。",
+      "confidence": 0.9
+    },
+    {
+      "id": "r2",
+      "head": "知识论",
+      "head_type": "概念",
+      "relation": "区分",
+      "relation_subtype": "概念澄清",
+      "tail": "科学",
+      "tail_type": "概念",
+      "polarity": "negative",
+      "stance_score": -1.0,
+      "intensity": 0.8,
+      "evidence": "知识论者，哲学范围内事也，与科学无涉者也。",
+      "confidence": 0.9
+    },
+    {
+      "id": "r3",
+      "head": "张君劢",
+      "head_type": "人物",
+      "relation": "批评",
+      "relation_subtype": "概念混淆批评",
+      "tail": "在君",
+      "tail_type": "人物",
+      "polarity": "negative",
+      "stance_score": -0.8,
+      "intensity": 0.7,
+      "evidence": "科学的知识论之名词，既已不能成立，则在君所倚为根据之知识论，已有一二百年之哲学史代吾人作辩护士。",
+      "confidence": 0.9
+    },
+    {
+      "id": "r4",
+      "head": "张君劢",
+      "head_type": "人物",
+      "relation": "批评",
+      "relation_subtype": "证据不足批评",
+      "tail": "在君",
+      "tail_type": "人物",
+      "polarity": "negative",
+      "stance_score": -0.7,
+      "intensity": 0.6,
+      "evidence": "在君善读皮氏书，然“经历之往复不已”一条，乃忘却列举，不知是何用意？",
+      "confidence": 0.9
+    },
+    {
+      "id": "r5",
+      "head": "张君劢",
+      "head_type": "人物",
+      "relation": "质疑",
+      "relation_subtype": "事实质疑",
+      "tail": "在君",
+      "tail_type": "人物",
+      "polarity": "negative",
+      "stance_score": -0.6,
+      "intensity": 0.5,
+      "evidence": "以在君之尊重科学家，何独于布虚那氏、马勒蓄氏而薄之。",
+      "confidence": 0.9
+    },
+    {
+      "id": "r6",
+      "head": "张君劢",
+      "head_type": "人物",
+      "relation": "评价",
+      "relation_subtype": "一般批评",
+      "tail": "皮尔逊",
+      "tail_type": "人物",
+      "polarity": "negative",
+      "stance_score": -0.5,
+      "intensity": 0.4,
+      "evidence": "而皮尔逊之言，已无取一一细究。",
+      "confidence": 0.9
+    },
+    {
+      "id": "r7",
+      "head": "张君劢",
+      "head_type": "人物",
+      "relation": "引用",
+      "relation_subtype": "作为批评对象",
+      "tail": "皮尔逊",
+      "tail_type": "人物",
+      "polarity": "neutral",
+      "stance_score": 0.0,
+      "intensity": 0.3,
+      "evidence": "然吾人姑让一步，以皮尔逊为诉讼之一造而与之对质。",
+      "confidence": 0.9
+    },
+    {
+      "id": "r8",
+      "head": "张君劢",
+      "head_type": "人物",
+      "relation": "引用",
+      "relation_subtype": "作为思想来源",
+      "tail": "休谟",
+      "tail_type": "人物",
+      "polarity": "neutral",
+      "stance_score": 0.0,
+      "intensity": 0.3,
+      "evidence": "此说也，出自休谟，今已成为传统的学说。",
+      "confidence": 0.9
+    },
+    {
+      "id": "r9",
+      "head": "英国学派",
+      "head_type": "阵营/群体",
+      "relation": "归因于",
+      "relation_subtype": "不适用",
+      "tail": "休谟",
+      "tail_type": "人物",
+      "polarity": "neutral",
+      "stance_score": 0.0,
+      "intensity": 0.3,
+      "evidence": "此说也，出自休谟，今已成为传统的学说。",
+      "confidence": 0.9
+    },
+    {
+      "id": "r10",
+      "head": "经历之往复不已",
+      "head_type": "概念",
+      "relation": "导致",
+      "relation_subtype": "不适用",
+      "tail": "因果概念",
+      "tail_type": "概念",
+      "polarity": "neutral",
+      "stance_score": 0.0,
+      "intensity": 0.3,
+      "evidence": "（二）因知觉或经历之往复不已，因而科学上有因果概念。",
+      "confidence": 0.9
+    },
+    {
+      "id": "r11",
+      "head": "官觉之感触",
+      "head_type": "概念",
+      "relation": "作为论据支持",
+      "relation_subtype": "不适用",
+      "tail": "思想内容",
+      "tail_type": "概念",
+      "polarity": "neutral",
+      "stance_score": 0.0,
+      "intensity": 0.3,
+      "evidence": "（一）思想内容之所以组成，则在官觉之感触。",
+      "confidence": 0.9
+    }
+  ],
+  "definitions": [
+    {
+      "id": "def1",
+      "term": "知识论",
+      "definition": "哲学范围内事，与科学无涉。",
+      "evidence": "知识论者，哲学范围内事也，与科学无涉者也。",
+      "confidence": 0.9
+    },
+    {
+      "id": "def2",
+      "term": "科学的知识论",
+      "definition": "此名词不能成立。",
+      "evidence": "科学的知识论之名词，既已不能成立。",
+      "confidence": 0.9
+    }
+  ],
+  "citations": [
+    {
+      "id": "cit1",
+      "citer": "张君劢",
+      "quoted_author": "皮尔逊",
+      "quoted_work": "",
+      "quoted_claim": "思想内容之所以组成，则在官觉之感触。",
+      "function": "作为批评对象",
+      "evidence": "（一）思想内容之所以组成，则在官觉之感触。",
+      "confidence": 0.9
+    },
+    {
+      "id": "cit2",
+      "citer": "张君劢",
+      "quoted_author": "皮尔逊",
+      "quoted_work": "",
+      "quoted_claim": "因知觉或经历之往复不已，因而科学上有因果概念。",
+      "function": "作为批评对象",
+      "evidence": "（二）因知觉或经历之往复不已，因而科学上有因果概念。",
+      "confidence": 0.9
+    },
+    {
+      "id": "cit3",
+      "citer": "张君劢",
+      "quoted_author": "皮尔逊",
+      "quoted_work": "",
+      "quoted_claim": "科学之所有事者，即将此官觉之感触，分类而排列之，以求其先后之序。",
+      "function": "作为批评对象",
+      "evidence": "（三）科学之所有事者，即将此官觉之感触，分类而排列之，以求其先后之序。",
+      "confidence": 0.9
+    },
+    {
+      "id": "cit4",
+      "citer": "张君劢",
+      "quoted_author": "休谟",
+      "quoted_work": "",
+      "quoted_claim": "有因必有果者，非必然之真理也，乃心理上之信仰或习惯为之也。",
+      "function": "作为思想来源",
+      "evidence": "此说也，出自休谟，今已成为传统的学说。",
+      "confidence": 0.9
+    }
+  ],
+  "rhetorical_devices": [
+    {
+      "id": "rh1",
+      "expression": "以在君之尊重科学家，何独于布虚那氏、马勒蓄氏而薄之。",
+      "device_type": "讽刺",
+      "literal_target": "在君",
+      "function": "质疑在君对科学家的态度不一致",
+      "evidence": "以在君之尊重科学家，何独于布虚那氏、马勒蓄氏而薄之。",
+      "confidence": 0.9
+    },
+    {
+      "id": "rh2",
+      "expression": "在君所倚为根据之知识论，已有一二百年之哲学史代吾人作辩护士。",
+      "device_type": "讽刺",
+      "literal_target": "在君所倚为根据之知识论",
+      "function": "讽刺在君的知识论已被哲学史反驳",
+      "evidence": "科学的知识论之名词，既已不能成立，则在君所倚为根据之知识论，已有一二百年之哲学史代吾人作辩护士。",
+      "confidence": 0.9
+    },
+    {
+      "id": "rh3",
+      "expression": "以皮尔逊为诉讼之一造而与之对质",
+      "device_type": "比喻",
+      "literal_target": "皮尔逊",
+      "function": "将论辩比作诉讼对质，强调批判性",
+      "evidence": "然吾人姑让一步，以皮尔逊为诉讼之一造而与之对质。",
+      "confidence": 0.9
+    }
+  ],
+  "uncertainties": [
+    {
+      "item": "达氏、詹氏、杜氏、马氏的具体身份",
+      "reason": "文本仅列出姓氏，未提供全名或背景，无法确定具体人物。"
+    },
+    {
+      "item": "布虚那、马勒蓄氏的具体身份",
+      "reason": "文本仅提及德医学家、生理学家，未提供全名或详细背景。"
+    },
+    {
+      "item": "在君是否确实遗漏了“经历之往复不已”一条",
+      "reason": "文本仅基于作者张君劢的陈述，未提供在君方面的回应。"
+    }
+  ]
+}

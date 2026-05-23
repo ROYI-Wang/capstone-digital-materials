@@ -1,0 +1,366 @@
+{
+  "metadata": {
+    "schema_version": "lite_v2.0",
+    "article_id": "林宰平_000_acbbe922",
+    "article_title": "读丁在君先生的《玄学与科学》",
+    "source_author": "林宰平",
+    "section_title": "",
+    "section_author": "",
+    "segment_id": "林宰平_000_acbbe922_s0017",
+    "segment_index": 17,
+    "source_file": "E:\\1研究生\\岭南大学\\论文毕业\\capstone\\资料\\新的内容开始了\\local_upload\\input_w0\\林宰平.txt"
+  },
+  "entities": [
+    {
+      "id": "e1",
+      "name": "天才",
+      "canonical_name": "天才",
+      "type": "概念",
+      "evidence": "我们能承认他们是天才是豪杰",
+      "confidence": 0.9
+    },
+    {
+      "id": "e2",
+      "name": "豪杰",
+      "canonical_name": "豪杰",
+      "type": "概念",
+      "evidence": "我们能承认他们是天才是豪杰",
+      "confidence": 0.9
+    },
+    {
+      "id": "e3",
+      "name": "知觉",
+      "canonical_name": "知觉",
+      "type": "概念",
+      "evidence": "正是因为他们的知觉、概念、推论的方法，完全与我们相同",
+      "confidence": 0.9
+    },
+    {
+      "id": "e4",
+      "name": "概念",
+      "canonical_name": "概念",
+      "type": "概念",
+      "evidence": "正是因为他们的知觉、概念、推论的方法，完全与我们相同",
+      "confidence": 0.9
+    },
+    {
+      "id": "e5",
+      "name": "推论",
+      "canonical_name": "推论",
+      "type": "概念",
+      "evidence": "正是因为他们的知觉、概念、推论的方法，完全与我们相同",
+      "confidence": 0.9
+    },
+    {
+      "id": "e6",
+      "name": "反常",
+      "canonical_name": "反常",
+      "type": "概念",
+      "evidence": "不是反常，不是疯子",
+      "confidence": 0.9
+    },
+    {
+      "id": "e7",
+      "name": "疯子",
+      "canonical_name": "疯子",
+      "type": "概念",
+      "evidence": "不是反常，不是疯子",
+      "confidence": 0.9
+    },
+    {
+      "id": "e8",
+      "name": "科学",
+      "canonical_name": "科学",
+      "type": "概念",
+      "evidence": "科学不承认他是真的",
+      "confidence": 0.9
+    },
+    {
+      "id": "e9",
+      "name": "论理",
+      "canonical_name": "论理",
+      "type": "概念",
+      "evidence": "推论当然离不了论理",
+      "confidence": 0.9
+    },
+    {
+      "id": "e10",
+      "name": "形式理论",
+      "canonical_name": "形式理论",
+      "type": "概念",
+      "evidence": "论理若趋重形式理论",
+      "confidence": 0.9
+    },
+    {
+      "id": "e11",
+      "name": "事实",
+      "canonical_name": "事实",
+      "type": "概念",
+      "evidence": "他和事实还是两事",
+      "confidence": 0.9
+    },
+    {
+      "id": "e12",
+      "name": "新康德派",
+      "canonical_name": "新康德派",
+      "type": "阵营/群体",
+      "evidence": "新康德派中如马堡学派",
+      "confidence": 0.9
+    },
+    {
+      "id": "e13",
+      "name": "马堡学派",
+      "canonical_name": "马堡学派",
+      "type": "阵营/群体",
+      "evidence": "新康德派中如马堡学派,(Die Marburger Schule）",
+      "confidence": 0.9
+    },
+    {
+      "id": "e14",
+      "name": "觉官感触",
+      "canonical_name": "觉官感触",
+      "type": "概念",
+      "evidence": "不承认有所谓觉官感触",
+      "confidence": 0.9
+    },
+    {
+      "id": "e15",
+      "name": "十九世纪",
+      "canonical_name": "19世纪",
+      "type": "阶段",
+      "evidence": "科学在十九世纪，已经占了非常的势力",
+      "confidence": 0.9
+    },
+    {
+      "id": "e16",
+      "name": "神秘的潜在意识",
+      "canonical_name": "神秘的潜在意识",
+      "type": "概念",
+      "evidence": "何以神秘的潜在意识，以及诸种变态心理，反发达于二十世纪之今日",
+      "confidence": 0.9
+    },
+    {
+      "id": "e17",
+      "name": "变态心理",
+      "canonical_name": "变态心理",
+      "type": "概念",
+      "evidence": "何以神秘的潜在意识，以及诸种变态心理，反发达于二十世纪之今日",
+      "confidence": 0.9
+    },
+    {
+      "id": "e18",
+      "name": "二十世纪",
+      "canonical_name": "20世纪",
+      "type": "阶段",
+      "evidence": "反发达于二十世纪之今日",
+      "confidence": 0.9
+    },
+    {
+      "id": "e19",
+      "name": "科学家",
+      "canonical_name": "科学家",
+      "type": "阵营/群体",
+      "evidence": "科学家正要反省",
+      "confidence": 0.9
+    },
+    {
+      "id": "e20",
+      "name": "科学方法",
+      "canonical_name": "科学方法",
+      "type": "方法",
+      "evidence": "是否从前科学方法对于这种现象还有不适用",
+      "confidence": 0.9
+    },
+    {
+      "id": "e21",
+      "name": "林宰平",
+      "canonical_name": "林宰平",
+      "type": "人物",
+      "evidence": "（作者在文本中以第一人称“我们”出现，且元数据中source_author为林宰平）",
+      "confidence": 0.9
+    }
+  ],
+  "claims": [
+    {
+      "id": "c1",
+      "speaker": "林宰平",
+      "claim": "我们能承认他们是天才是豪杰，正是因为他们的知觉、概念、推论的方法，完全与我们相同。不然我们安晓得自命为天才豪杰的人，不是反常，不是疯子？",
+      "target": "天才与豪杰的认知标准",
+      "claim_type": "知识论主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "我们能承认他们是天才是豪杰，正是因为他们的知觉、概念、推论的方法，完全与我们相同。不然我们安晓得自命为天才豪杰的人，不是反常，不是疯子？",
+      "confidence": 0.9
+    },
+    {
+      "id": "c2",
+      "speaker": "林宰平",
+      "claim": "这一段只是前条的说明，实在看不出是原则而且是“很重要的”。",
+      "target": "丁在君（丁文江）的审查方法",
+      "claim_type": "论战策略批评",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "可惜看了大失望了。这一段只是前条的说明，实在看不出是原则而且是“很重要的”。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c3",
+      "speaker": "林宰平",
+      "claim": "第一，无问题。",
+      "target": "丁在君的第一条审查方法",
+      "claim_type": "评价",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "此三条中，第一，无问题。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c4",
+      "speaker": "林宰平",
+      "claim": "第二，要和上文第一个原则合起来讨论。",
+      "target": "丁在君的第二条审查方法",
+      "claim_type": "论战策略批评",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "第二，要和上文第一个原则合起来讨论。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c5",
+      "speaker": "林宰平",
+      "claim": "推论当然离不了论理，不过论理若趋重形式理论，他和事实还是两事。",
+      "target": "论理与事实的关系",
+      "claim_type": "知识论主张",
+      "claim_status": "作者直接主张",
+      "polarity": "mixed",
+      "evidence": "推论当然离不了论理，不过论理若趋重形式理论，他和事实还是两事。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c6",
+      "speaker": "林宰平",
+      "claim": "新康德派中如马堡学派,(Die Marburger Schule）只为要贯彻其论理的见解，他们所注重专在思想的形式，至于不承认有所谓觉官感触。",
+      "target": "马堡学派",
+      "claim_type": "知识论主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "新康德派中如马堡学派,(Die Marburger Schule）只为要贯彻其论理的见解，他们所注重专在思想的形式，至于不承认有所谓觉官感触。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c7",
+      "speaker": "林宰平",
+      "claim": "科学在十九世纪，已经占了非常的势力，何以神秘的潜在意识，以及诸种变态心理，反发达于二十世纪之今日？科学家正要反省是否从前科学方法对于这种现象还有不适用，或有欠缺的地方，断不是骂他疯子，不理会他，就算完事。",
+      "target": "科学家对待神秘潜在意识和变态心理的态度",
+      "claim_type": "文明批评",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "科学在十九世纪，已经占了非常的势力，何以神秘的潜在意识，以及诸种变态心理，反发达于二十世纪之今日？科学家正要反省是否从前科学方法对于这种现象还有不适用，或有欠缺的地方，断不是骂他疯子，不理会他，就算完事。",
+      "confidence": 0.9
+    }
+  ],
+  "relations": [
+    {
+      "id": "r1",
+      "head": "林宰平",
+      "head_type": "人物",
+      "relation": "批评",
+      "relation_subtype": "证据不足批评",
+      "tail": "丁在君（丁文江）的审查方法",
+      "tail_type": "观点",
+      "polarity": "negative",
+      "evidence": "可惜看了大失望了。这一段只是前条的说明，实在看不出是原则而且是“很重要的”。",
+      "confidence": 0.9
+    },
+    {
+      "id": "r2",
+      "head": "林宰平",
+      "head_type": "人物",
+      "relation": "批评",
+      "relation_subtype": "概念混淆批评",
+      "tail": "马堡学派",
+      "tail_type": "阵营/群体",
+      "polarity": "negative",
+      "evidence": "新康德派中如马堡学派,(Die Marburger Schule）只为要贯彻其论理的见解，他们所注重专在思想的形式，至于不承认有所谓觉官感触。",
+      "confidence": 0.9
+    },
+    {
+      "id": "r3",
+      "head": "林宰平",
+      "head_type": "人物",
+      "relation": "批评",
+      "relation_subtype": "一般批评",
+      "tail": "科学家",
+      "tail_type": "阵营/群体",
+      "polarity": "negative",
+      "evidence": "科学家正要反省是否从前科学方法对于这种现象还有不适用，或有欠缺的地方，断不是骂他疯子，不理会他，就算完事。",
+      "confidence": 0.9
+    },
+    {
+      "id": "r4",
+      "head": "论理",
+      "head_type": "概念",
+      "relation": "区分",
+      "relation_subtype": "概念澄清",
+      "tail": "事实",
+      "tail_type": "概念",
+      "polarity": "neutral",
+      "evidence": "推论当然离不了论理，不过论理若趋重形式理论，他和事实还是两事。",
+      "confidence": 0.9
+    },
+    {
+      "id": "r5",
+      "head": "马堡学派",
+      "head_type": "阵营/群体",
+      "relation": "属于",
+      "relation_subtype": "不适用",
+      "tail": "新康德派",
+      "tail_type": "阵营/群体",
+      "polarity": "neutral",
+      "evidence": "新康德派中如马堡学派,(Die Marburger Schule）",
+      "confidence": 0.9
+    }
+  ],
+  "definitions": [
+    {
+      "id": "def1",
+      "term": "天才",
+      "definition": "天才的知觉、概念、推论的方法与常人相同，否则可能是反常或疯子。",
+      "evidence": "我们能承认他们是天才是豪杰，正是因为他们的知觉、概念、推论的方法，完全与我们相同。不然我们安晓得自命为天才豪杰的人，不是反常，不是疯子？",
+      "confidence": 0.9
+    }
+  ],
+  "citations": [
+    {
+      "id": "cit1",
+      "citer": "林宰平",
+      "quoted_author": "丁在君（丁文江）",
+      "quoted_work": "",
+      "quoted_claim": "审查方法的三条原则",
+      "function": "作为批评对象",
+      "evidence": "其三条审查的方法，字数不多，全抄如下: “第一：凡概念推论若是自相矛盾，科学不承认他是真的。” “第二：凡概念不能从不反常的人的知觉推断出来的，科学不承认他是真的。” “第三：凡推论不能使寻常有论理训练的人，依了所根据的概念也能得同样的推论，科学不承认是真的。”",
+      "confidence": 0.9
+    }
+  ],
+  "rhetorical_devices": [
+    {
+      "id": "rh1",
+      "expression": "骂他疯子",
+      "device_type": "标签化",
+      "literal_target": "科学家对神秘潜在意识和变态心理的否定态度",
+      "function": "批评科学家简单粗暴的否定态度",
+      "evidence": "断不是骂他疯子，不理会他，就算完事。",
+      "confidence": 0.9
+    }
+  ],
+  "uncertainties": [
+    {
+      "item": "丁在君（丁文江）是否在文本中明确出现",
+      "reason": "文本中未直接出现“丁在君”或“丁文江”的名字，但“前条”“第一个原则”“审查的方法”等指代可能指向丁文江的观点，需结合上下文确认。"
+    },
+    {
+      "item": "“第一个原则”的具体内容",
+      "reason": "文本提到“第一个原则”，但未在当前片段中给出其内容，无法抽取。"
+    }
+  ]
+}

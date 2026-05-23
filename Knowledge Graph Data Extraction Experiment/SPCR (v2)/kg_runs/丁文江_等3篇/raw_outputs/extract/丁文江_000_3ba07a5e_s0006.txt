@@ -1,0 +1,565 @@
+{
+  "metadata": {
+    "schema_version": "lite_v3.0",
+    "article_id": "丁文江_000_3ba07a5e",
+    "article_title": "玄学与科学 ——评张君劢的《人生观》",
+    "source_author": "丁文江",
+    "section_title": "",
+    "section_author": "",
+    "segment_id": "丁文江_000_3ba07a5e_s0006",
+    "segment_index": 6,
+    "source_file": "E:\\1研究生\\岭南大学\\论文毕业\\capstone\\资料\\新的内容开始了\\local_upload\\input_丁文江\\丁文江.txt"
+  },
+  "entities": [
+    {
+      "id": "e1",
+      "name": "自觉现象",
+      "canonical_name": "自觉现象",
+      "type": "概念",
+      "evidence": "我从我的自觉现象推论起来，说旁人也有自觉，是与科学方法不违背的。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e2",
+      "name": "科学方法",
+      "canonical_name": "科学方法",
+      "type": "方法",
+      "evidence": "我从我的自觉现象推论起来，说旁人也有自觉，是与科学方法不违背的。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e3",
+      "name": "原子",
+      "canonical_name": "原子",
+      "type": "概念",
+      "evidence": "理化学者说有原子，但是他们何尝能用觉官去感触原子？",
+      "confidence": 0.9
+    },
+    {
+      "id": "e4",
+      "name": "觉官",
+      "canonical_name": "觉官",
+      "type": "概念",
+      "evidence": "但是他们何尝能用觉官去感触原子？",
+      "confidence": 0.9
+    },
+    {
+      "id": "e5",
+      "name": "心理上的内容",
+      "canonical_name": "心理上的内容",
+      "type": "概念",
+      "evidence": "所以心理上的内容至为丰富，并不限于同时的直接感触，和可以直接感触的东西——这种心理上的内容都是科学的材料。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e6",
+      "name": "科学的材料",
+      "canonical_name": "科学的材料",
+      "type": "概念",
+      "evidence": "这种心理上的内容都是科学的材料。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e7",
+      "name": "物质",
+      "canonical_name": "物质",
+      "type": "概念",
+      "evidence": "我们所晓得的物质，本不过是心理上的觉官感触，由知觉而成概念，由概念而生推论。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e8",
+      "name": "知觉",
+      "canonical_name": "知觉",
+      "type": "概念",
+      "evidence": "由知觉而成概念，由概念而生推论。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e9",
+      "name": "概念",
+      "canonical_name": "概念",
+      "type": "概念",
+      "evidence": "由知觉而成概念，由概念而生推论。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e10",
+      "name": "推论",
+      "canonical_name": "推论",
+      "type": "概念",
+      "evidence": "由概念而生推论。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e11",
+      "name": "精神科学",
+      "canonical_name": "精神科学",
+      "type": "概念",
+      "evidence": "有什么精神科学、物质科学的分别？",
+      "confidence": 0.9
+    },
+    {
+      "id": "e12",
+      "name": "物质科学",
+      "canonical_name": "物质科学",
+      "type": "概念",
+      "evidence": "有什么精神科学、物质科学的分别？",
+      "confidence": 0.9
+    },
+    {
+      "id": "e13",
+      "name": "心理上的现象",
+      "canonical_name": "心理上的现象",
+      "type": "概念",
+      "evidence": "又如何可以说纯粹心理上的现象不受科学方法的支配？",
+      "confidence": 0.9
+    },
+    {
+      "id": "e14",
+      "name": "科学方法",
+      "canonical_name": "科学方法",
+      "type": "方法",
+      "evidence": "又如何可以说纯粹心理上的现象不受科学方法的支配？",
+      "confidence": 0.9
+    },
+    {
+      "id": "e15",
+      "name": "审查方法",
+      "canonical_name": "审查方法",
+      "type": "方法",
+      "evidence": "这种审查方法是根据两条很重要的原则：",
+      "confidence": 0.9
+    },
+    {
+      "id": "e16",
+      "name": "凡常人心理的内容，其性质都是相同的",
+      "canonical_name": "凡常人心理的内容，其性质都是相同的",
+      "type": "观点",
+      "evidence": "（一）凡常人心理的内容，其性质都是相同的。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e17",
+      "name": "心理上联想的能力",
+      "canonical_name": "心理上联想的能力",
+      "type": "概念",
+      "evidence": "心理上联想的能力，第一是看一个人觉官感触的经验，第二是他脑经思想力的强弱。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e18",
+      "name": "环境",
+      "canonical_name": "环境",
+      "type": "概念",
+      "evidence": "换言之，就是一个人的环境同遗传。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e19",
+      "name": "遗传",
+      "canonical_name": "遗传",
+      "type": "概念",
+      "evidence": "换言之，就是一个人的环境同遗传。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e20",
+      "name": "反常的人",
+      "canonical_name": "反常的人",
+      "type": "概念",
+      "evidence": "反常的人我们叫他为疯子痴子",
+      "confidence": 0.9
+    },
+    {
+      "id": "e21",
+      "name": "疯子痴子",
+      "canonical_name": "疯子痴子",
+      "type": "概念",
+      "evidence": "反常的人我们叫他为疯子痴子",
+      "confidence": 0.9
+    },
+    {
+      "id": "e22",
+      "name": "思想的工具",
+      "canonical_name": "思想的工具",
+      "type": "概念",
+      "evidence": "我的思想的工具是同常人的一类的机器。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e23",
+      "name": "物质的思构",
+      "canonical_name": "物质的思构",
+      "type": "概念",
+      "evidence": "觉官的感触相同，所以物质的“思构”相同",
+      "confidence": 0.9
+    },
+    {
+      "id": "e24",
+      "name": "科学的真相",
+      "canonical_name": "科学的真相",
+      "type": "概念",
+      "evidence": "科学的真相，才能为人所公认。",
+      "confidence": 0.9
+    }
+  ],
+  "claims": [
+    {
+      "id": "c1",
+      "speaker": "丁文江",
+      "claim": "我从我的自觉现象推论起来，说旁人也有自觉，是与科学方法不违背的。",
+      "target": "",
+      "claim_type": "描述性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "我从我的自觉现象推论起来，说旁人也有自觉，是与科学方法不违背的。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c2",
+      "speaker": "丁文江",
+      "claim": "心理上的内容至为丰富，并不限于同时的直接感触，和可以直接感触的东西——这种心理上的内容都是科学的材料。",
+      "target": "",
+      "claim_type": "定义性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "所以心理上的内容至为丰富，并不限于同时的直接感触，和可以直接感触的东西——这种心理上的内容都是科学的材料。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c3",
+      "speaker": "丁文江",
+      "claim": "我们所晓得的物质，本不过是心理上的觉官感触，由知觉而成概念，由概念而生推论。",
+      "target": "",
+      "claim_type": "定义性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "我们所晓得的物质，本不过是心理上的觉官感触，由知觉而成概念，由概念而生推论。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c4",
+      "speaker": "丁文江",
+      "claim": "科学所研究的不外乎这种概念同推论，有什么精神科学、物质科学的分别？",
+      "target": "",
+      "claim_type": "反驳性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "科学所研究的不外乎这种概念同推论，有什么精神科学、物质科学的分别？",
+      "confidence": 0.9
+    },
+    {
+      "id": "c5",
+      "speaker": "丁文江",
+      "claim": "纯粹心理上的现象不受科学方法的支配",
+      "target": "",
+      "claim_type": "反驳性主张",
+      "claim_status": "作者讽刺性归纳",
+      "polarity": "negative",
+      "evidence": "又如何可以说纯粹心理上的现象不受科学方法的支配？",
+      "confidence": 0.9
+    },
+    {
+      "id": "c6",
+      "speaker": "丁文江",
+      "claim": "凡常人心理的内容，其性质都是相同的。",
+      "target": "",
+      "claim_type": "描述性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "（一）凡常人心理的内容，其性质都是相同的。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c7",
+      "speaker": "丁文江",
+      "claim": "心理上联想的能力，第一是看一个人觉官感触的经验，第二是他脑经思想力的强弱。",
+      "target": "",
+      "claim_type": "描述性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "心理上联想的能力，第一是看一个人觉官感触的经验，第二是他脑经思想力的强弱。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c8",
+      "speaker": "丁文江",
+      "claim": "我的思想的工具是同常人的一类的机器。",
+      "target": "",
+      "claim_type": "描述性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "我的思想的工具是同常人的一类的机器。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c9",
+      "speaker": "丁文江",
+      "claim": "觉官的感触相同，所以物质的“思构”相同，知觉概念推论的手续无不相同，科学的真相，才能为人所公认。",
+      "target": "",
+      "claim_type": "因果主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "觉官的感触相同，所以物质的“思构”相同，知觉概念推论的手续无不相同，科学的真相，才能为人所公认。",
+      "confidence": 0.9
+    }
+  ],
+  "relations": [
+    {
+      "id": "r1",
+      "head": "自觉现象",
+      "head_type": "概念",
+      "relation": "作为论据支持",
+      "relation_subtype": "不适用",
+      "tail": "科学方法",
+      "tail_type": "方法",
+      "polarity": "positive",
+      "stance_score": 1.0,
+      "intensity": 0.5,
+      "evidence": "我从我的自觉现象推论起来，说旁人也有自觉，是与科学方法不违背的。",
+      "confidence": 0.9
+    },
+    {
+      "id": "r2",
+      "head": "心理上的内容",
+      "head_type": "概念",
+      "relation": "定义",
+      "relation_subtype": "概念澄清",
+      "tail": "科学的材料",
+      "tail_type": "概念",
+      "polarity": "positive",
+      "stance_score": 1.0,
+      "intensity": 0.5,
+      "evidence": "这种心理上的内容都是科学的材料。",
+      "confidence": 0.9
+    },
+    {
+      "id": "r3",
+      "head": "物质",
+      "head_type": "概念",
+      "relation": "定义",
+      "relation_subtype": "概念澄清",
+      "tail": "心理上的觉官感触",
+      "tail_type": "概念",
+      "polarity": "positive",
+      "stance_score": 1.0,
+      "intensity": 0.5,
+      "evidence": "我们所晓得的物质，本不过是心理上的觉官感触，由知觉而成概念，由概念而生推论。",
+      "confidence": 0.9
+    },
+    {
+      "id": "r4",
+      "head": "科学",
+      "head_type": "概念",
+      "relation": "定义",
+      "relation_subtype": "概念澄清",
+      "tail": "概念同推论",
+      "tail_type": "概念",
+      "polarity": "positive",
+      "stance_score": 1.0,
+      "intensity": 0.5,
+      "evidence": "科学所研究的不外乎这种概念同推论",
+      "confidence": 0.9
+    },
+    {
+      "id": "r5",
+      "head": "精神科学",
+      "head_type": "概念",
+      "relation": "区分",
+      "relation_subtype": "概念澄清",
+      "tail": "物质科学",
+      "tail_type": "概念",
+      "polarity": "negative",
+      "stance_score": -1.0,
+      "intensity": 0.8,
+      "evidence": "有什么精神科学、物质科学的分别？",
+      "confidence": 0.9
+    },
+    {
+      "id": "r6",
+      "head": "心理上的现象",
+      "head_type": "概念",
+      "relation": "反驳",
+      "relation_subtype": "逻辑反驳",
+      "tail": "科学方法",
+      "tail_type": "方法",
+      "polarity": "negative",
+      "stance_score": -1.0,
+      "intensity": 0.8,
+      "evidence": "又如何可以说纯粹心理上的现象不受科学方法的支配？",
+      "confidence": 0.9
+    },
+    {
+      "id": "r7",
+      "head": "审查方法",
+      "head_type": "方法",
+      "relation": "基于",
+      "relation_subtype": "不适用",
+      "tail": "凡常人心理的内容，其性质都是相同的",
+      "tail_type": "观点",
+      "polarity": "positive",
+      "stance_score": 1.0,
+      "intensity": 0.5,
+      "evidence": "这种审查方法是根据两条很重要的原则：\n\n（一）凡常人心理的内容，其性质都是相同的。",
+      "confidence": 0.9
+    },
+    {
+      "id": "r8",
+      "head": "心理上联想的能力",
+      "head_type": "概念",
+      "relation": "归因于",
+      "relation_subtype": "不适用",
+      "tail": "觉官感触的经验",
+      "tail_type": "概念",
+      "polarity": "positive",
+      "stance_score": 1.0,
+      "intensity": 0.5,
+      "evidence": "心理上联想的能力，第一是看一个人觉官感触的经验，第二是他脑经思想力的强弱。",
+      "confidence": 0.9
+    },
+    {
+      "id": "r9",
+      "head": "心理上联想的能力",
+      "head_type": "概念",
+      "relation": "归因于",
+      "relation_subtype": "不适用",
+      "tail": "脑经思想力的强弱",
+      "tail_type": "概念",
+      "polarity": "positive",
+      "stance_score": 1.0,
+      "intensity": 0.5,
+      "evidence": "心理上联想的能力，第一是看一个人觉官感触的经验，第二是他脑经思想力的强弱。",
+      "confidence": 0.9
+    },
+    {
+      "id": "r10",
+      "head": "觉官感触的经验",
+      "head_type": "概念",
+      "relation": "解释",
+      "relation_subtype": "不适用",
+      "tail": "环境",
+      "tail_type": "概念",
+      "polarity": "positive",
+      "stance_score": 1.0,
+      "intensity": 0.5,
+      "evidence": "换言之，就是一个人的环境同遗传。",
+      "confidence": 0.9
+    },
+    {
+      "id": "r11",
+      "head": "脑经思想力的强弱",
+      "head_type": "概念",
+      "relation": "解释",
+      "relation_subtype": "不适用",
+      "tail": "遗传",
+      "tail_type": "概念",
+      "polarity": "positive",
+      "stance_score": 1.0,
+      "intensity": 0.5,
+      "evidence": "换言之，就是一个人的环境同遗传。",
+      "confidence": 0.9
+    },
+    {
+      "id": "r12",
+      "head": "觉官的感触相同",
+      "head_type": "观点",
+      "relation": "导致",
+      "relation_subtype": "不适用",
+      "tail": "物质的思构相同",
+      "tail_type": "概念",
+      "polarity": "positive",
+      "stance_score": 1.0,
+      "intensity": 0.5,
+      "evidence": "觉官的感触相同，所以物质的“思构”相同",
+      "confidence": 0.9
+    },
+    {
+      "id": "r13",
+      "head": "物质的思构相同",
+      "head_type": "概念",
+      "relation": "导致",
+      "relation_subtype": "不适用",
+      "tail": "知觉概念推论的手续无不相同",
+      "tail_type": "概念",
+      "polarity": "positive",
+      "stance_score": 1.0,
+      "intensity": 0.5,
+      "evidence": "觉官的感触相同，所以物质的“思构”相同，知觉概念推论的手续无不相同",
+      "confidence": 0.9
+    },
+    {
+      "id": "r14",
+      "head": "知觉概念推论的手续无不相同",
+      "head_type": "概念",
+      "relation": "导致",
+      "relation_subtype": "不适用",
+      "tail": "科学的真相，才能为人所公认",
+      "tail_type": "概念",
+      "polarity": "positive",
+      "stance_score": 1.0,
+      "intensity": 0.5,
+      "evidence": "觉官的感触相同，所以物质的“思构”相同，知觉概念推论的手续无不相同，科学的真相，才能为人所公认。",
+      "confidence": 0.9
+    }
+  ],
+  "definitions": [
+    {
+      "id": "def1",
+      "term": "心理上的内容",
+      "definition": "心理上的内容至为丰富，并不限于同时的直接感触，和可以直接感触的东西，都是科学的材料。",
+      "evidence": "所以心理上的内容至为丰富，并不限于同时的直接感触，和可以直接感触的东西——这种心理上的内容都是科学的材料。",
+      "confidence": 0.9
+    },
+    {
+      "id": "def2",
+      "term": "物质",
+      "definition": "我们所晓得的物质，本不过是心理上的觉官感触，由知觉而成概念，由概念而生推论。",
+      "evidence": "我们所晓得的物质，本不过是心理上的觉官感触，由知觉而成概念，由概念而生推论。",
+      "confidence": 0.9
+    },
+    {
+      "id": "def3",
+      "term": "科学",
+      "definition": "科学所研究的不外乎这种概念同推论。",
+      "evidence": "科学所研究的不外乎这种概念同推论",
+      "confidence": 0.9
+    },
+    {
+      "id": "def4",
+      "term": "反常的人",
+      "definition": "反常的人我们叫他为疯子痴子。",
+      "evidence": "反常的人我们叫他为疯子痴子",
+      "confidence": 0.9
+    }
+  ],
+  "citations": [
+    {
+      "id": "cit1",
+      "citer": "丁文江",
+      "quoted_author": "理化学者",
+      "quoted_work": "",
+      "quoted_claim": "说有原子",
+      "function": "作为论据支持",
+      "evidence": "科学中这样的推论甚多，譬如理化学者说有原子，但是他们何尝能用觉官去感触原子？",
+      "confidence": 0.9
+    }
+  ],
+  "rhetorical_devices": [
+    {
+      "id": "rh1",
+      "expression": "我的思想的工具是同常人的一类的机器",
+      "device_type": "类比",
+      "literal_target": "思想的工具与机器类比",
+      "function": "说明常人思想工具性质相同，只是效能不同",
+      "evidence": "我的思想的工具是同常人的一类的机器。",
+      "confidence": 0.9
+    }
+  ],
+  "uncertainties": [
+    {
+      "item": "文本中提到的“两条很重要的原则”只明确列出了第一条，第二条未出现，可能属于文本截断。",
+      "reason": "文本中只出现了“（一）凡常人心理的内容，其性质都是相同的。”，未出现第二条原则。"
+    }
+  ]
+}

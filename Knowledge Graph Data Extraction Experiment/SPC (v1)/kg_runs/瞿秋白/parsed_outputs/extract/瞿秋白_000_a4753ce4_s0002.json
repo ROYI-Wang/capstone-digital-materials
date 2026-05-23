@@ -1,0 +1,305 @@
+{
+  "metadata": {
+    "schema_version": "lite_v2.0",
+    "article_id": "瞿秋白_000_a4753ce4",
+    "article_title": "《自由世界与必然世界》",
+    "source_author": "瞿秋白",
+    "section_title": "资本主义时代的强有力的生产工具若能变成公共的财产，生产制度若得按",
+    "section_author": "资本主义时代的强有力的生产工具若能变成公共的财产，生产制度若得",
+    "segment_id": "瞿秋白_000_a4753ce4_s0002",
+    "segment_index": 2,
+    "source_file": "E:\\1研究生\\岭南大学\\论文毕业\\capstone\\资料\\新的内容开始了\\local_upload\\input_w2\\瞿秋白.txt"
+  },
+  "entities": [
+    {
+      "id": "e1",
+      "name": "旧派的唯物论",
+      "canonical_name": "旧唯物论",
+      "type": "主义/学说/理论",
+      "evidence": "旧派的唯物论向来不设这种问题。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e2",
+      "name": "唯用主义（实验主义）",
+      "canonical_name": "实验主义",
+      "type": "主义/学说/理论",
+      "evidence": "他们的历史观实在是唯用主义（实验主义）的",
+      "confidence": 0.9
+    },
+    {
+      "id": "e3",
+      "name": "唯物论",
+      "canonical_name": "唯物论",
+      "type": "主义/学说/理论",
+      "evidence": "这算是唯物论！",
+      "confidence": 0.9
+    },
+    {
+      "id": "e4",
+      "name": "黑智儿（黑格尔）",
+      "canonical_name": "黑格尔",
+      "type": "人物",
+      "evidence": "黑智儿（黑格尔）的历史哲学不承认个人的动机是最后原因",
+      "confidence": 0.9
+    },
+    {
+      "id": "e5",
+      "name": "客观的唯心论",
+      "canonical_name": "客观唯心论",
+      "type": "主义/学说/理论",
+      "evidence": "客观的唯心论之谬误，就在于此。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e6",
+      "name": "历史现象",
+      "canonical_name": "历史现象",
+      "type": "概念",
+      "evidence": "历史现象的研究应当更深一层。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e7",
+      "name": "最后原因",
+      "canonical_name": "最后原因",
+      "type": "概念",
+      "evidence": "最后原因却是造成这些种种动机的现实力量。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e8",
+      "name": "动机",
+      "canonical_name": "动机",
+      "type": "概念",
+      "evidence": "英雄伟人以至于群众的动机",
+      "confidence": 0.9
+    },
+    {
+      "id": "e9",
+      "name": "现实力量",
+      "canonical_name": "现实力量",
+      "type": "概念",
+      "evidence": "最后原因却是造成这些种种动机的现实力量。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e10",
+      "name": "历史哲学",
+      "canonical_name": "历史哲学",
+      "type": "概念",
+      "evidence": "黑智儿（黑格尔）的历史哲学不承认个人的动机是最后原因",
+      "confidence": 0.9
+    },
+    {
+      "id": "e11",
+      "name": "群众的动机",
+      "canonical_name": "群众动机",
+      "type": "概念",
+      "evidence": "总敌不过群众的动机，或是民族的，或是阶级的",
+      "confidence": 0.9
+    },
+    {
+      "id": "e12",
+      "name": "个人的动机",
+      "canonical_name": "个人动机",
+      "type": "概念",
+      "evidence": "个人的动机无论如何重要，总敌不过群众的动机",
+      "confidence": 0.9
+    }
+  ],
+  "claims": [
+    {
+      "id": "c1",
+      "speaker": "瞿秋白",
+      "claim": "旧派的唯物论向来不设这种问题。",
+      "target": "旧派的唯物论",
+      "claim_type": "知识论主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "旧派的唯物论向来不设这种问题。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c2",
+      "speaker": "瞿秋白",
+      "claim": "旧派唯物论的历史观实在是唯用主义（实验主义）的",
+      "target": "旧派的唯物论",
+      "claim_type": "定义性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "他们的历史观实在是唯用主义（实验主义）的",
+      "confidence": 0.9
+    },
+    {
+      "id": "c3",
+      "speaker": "瞿秋白",
+      "claim": "旧派唯物论以为思想的动机是历史事实的最后原因，而不去研究那思想动机后所隐匿的动机。",
+      "target": "旧派的唯物论",
+      "claim_type": "知识论主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "他以为思想的动机是历史事实的最后原因，而不去研究那思想动机后所隐匿的动机。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c4",
+      "speaker": "瞿秋白",
+      "claim": "旧派唯物论这种学说自己就反对唯物论",
+      "target": "旧派的唯物论",
+      "claim_type": "论战策略批评",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "其实这种学说自己就反对唯物论",
+      "confidence": 0.9
+    },
+    {
+      "id": "c5",
+      "speaker": "瞿秋白",
+      "claim": "旧派唯物论的不一贯，不在于他承认思想动机之存在，而在于他不追究思想动机之后的最后原因。",
+      "target": "旧派的唯物论",
+      "claim_type": "论战策略批评",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "这种学说的不一贯，不在于他承认思想动机之存在，而在于他不追究思想动机之后的最后原因。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c6",
+      "speaker": "瞿秋白",
+      "claim": "英雄伟人以至于群众的动机，都不是历史现象的最后原因；最后原因却是造成这些种种动机的现实力量。",
+      "target": "历史现象",
+      "claim_type": "知识论主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "英雄伟人以至于群众的动机，不论是显而易见的或是隐匿难见的，都不是历史现象的最后原因；最后原因却是造成这些种种动机的现实力量。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c7",
+      "speaker": "瞿秋白",
+      "claim": "黑智儿（黑格尔）的历史哲学不承认个人的动机是最后原因，然而他承认是哲学思想的流派：他寻求最后的原因不在历史之中，而在历史之外。",
+      "target": "黑智儿（黑格尔）",
+      "claim_type": "历史解释",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "黑智儿（黑格尔）的历史哲学不承认个人的动机是最后原因，然而他承认是哲学思想的流派：他寻求最后的原因不在历史之中，而在历史之外。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c8",
+      "speaker": "瞿秋白",
+      "claim": "客观的唯心论之谬误，就在于此。",
+      "target": "客观的唯心论",
+      "claim_type": "论战策略批评",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "客观的唯心论之谬误，就在于此。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c9",
+      "speaker": "瞿秋白",
+      "claim": "个人的动机无论如何重要，总敌不过群众的动机，或是民族的，或是阶级的；所以研究历史的原因，必须追究群众动机的根源。",
+      "target": "历史原因",
+      "claim_type": "方法论主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "个人的动机无论如何重要，总敌不过群众的动机，或是民族的，或是阶级的；所以研究历史的原因，必须追究群众动机的根源。",
+      "confidence": 0.9
+    }
+  ],
+  "relations": [
+    {
+      "id": "r1",
+      "head": "个人的动机",
+      "head_type": "概念",
+      "relation": "对比",
+      "tail": "群众的动机",
+      "tail_type": "概念",
+      "polarity": "neutral",
+      "evidence": "个人的动机无论如何重要，总敌不过群众的动机，或是民族的，或是阶级的",
+      "confidence": 0.9
+    },
+    {
+      "id": "r2",
+      "head": "历史现象",
+      "head_type": "概念",
+      "relation": "解释",
+      "tail": "最后原因",
+      "tail_type": "概念",
+      "polarity": "positive",
+      "evidence": "英雄伟人以至于群众的动机，不论是显而易见的或是隐匿难见的，都不是历史现象的最后原因；最后原因却是造成这些种种动机的现实力量。",
+      "confidence": 0.9
+    },
+    {
+      "id": "r3",
+      "head": "最后原因",
+      "head_type": "概念",
+      "relation": "解释",
+      "tail": "现实力量",
+      "tail_type": "概念",
+      "polarity": "positive",
+      "evidence": "最后原因却是造成这些种种动机的现实力量。",
+      "confidence": 0.9
+    },
+    {
+      "id": "r4",
+      "head": "群众的动机",
+      "head_type": "概念",
+      "relation": "作为论据支持",
+      "tail": "研究历史的原因，必须追究群众动机的根源",
+      "tail_type": "方法论原则",
+      "polarity": "positive",
+      "evidence": "个人的动机无论如何重要，总敌不过群众的动机，或是民族的，或是阶级的；所以研究历史的原因，必须追究群众动机的根源。",
+      "confidence": 0.9
+    }
+  ],
+  "definitions": [
+    {
+      "id": "def1",
+      "term": "最后原因",
+      "definition": "造成种种动机的现实力量",
+      "evidence": "最后原因却是造成这些种种动机的现实力量。",
+      "confidence": 0.9
+    },
+    {
+      "id": "def2",
+      "term": "历史现象的最后原因",
+      "definition": "不是个人的动机，而是造成这些动机的现实力量",
+      "evidence": "英雄伟人以至于群众的动机，不论是显而易见的或是隐匿难见的，都不是历史现象的最后原因；最后原因却是造成这些种种动机的现实力量。",
+      "confidence": 0.9
+    }
+  ],
+  "citations": [],
+  "rhetorical_devices": [],
+  "uncertainties": [
+    {
+      "item": "旧派的唯物论具体指哪些思想家或流派",
+      "reason": "文本未明确说明，仅以'旧派的唯物论'指称，无法确定具体对象。"
+    },
+    {
+      "item": "黑智儿（黑格尔）解释希腊史的具体例子是否准确",
+      "reason": "文本仅举例'希腊史是真美个性之创造过程，说是艺术作品的实现'，但未提供更详细出处，无法核实。"
+    }
+  ],
+  "_meta": {
+    "status": "success",
+    "stage": "extract",
+    "model": "deepseek-ai/DeepSeek-V4-Flash",
+    "base_url": "https://api.siliconflow.cn/v1",
+    "prompt_version": "extract_prompt_v2.0",
+    "schema_version": "lite_v2.0",
+    "segment_id": "瞿秋白_000_a4753ce4_s0002",
+    "article_id": "瞿秋白_000_a4753ce4",
+    "char_start": 1017,
+    "char_end": 1595,
+    "raw_path": "E:\\1研究生\\岭南大学\\论文毕业\\capstone\\资料\\新的内容开始了\\local_upload\\kg_runs\\瞿秋白\\raw_outputs\\extract\\瞿秋白_000_a4753ce4_s0002.txt",
+    "parsed_at": "2026-05-19T23:41:02",
+    "started_at": "2026-05-19T23:38:54",
+    "elapsed_seconds": 128.105,
+    "strict_evidence_check": true,
+    "drop_unsupported_evidence": true,
+    "request_timeout_seconds": 180
+  }
+}

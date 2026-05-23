@@ -1,0 +1,457 @@
+{
+  "metadata": {
+    "schema_version": "lite_v2.0",
+    "article_id": "张君劢_002_c870d202",
+    "article_title": "再论人生观与科学并答丁在君",
+    "source_author": "张君劢",
+    "section_title": "",
+    "section_author": "",
+    "segment_id": "张君劢_002_c870d202_s0021",
+    "segment_index": 21,
+    "source_file": "E:\\1研究生\\岭南大学\\论文毕业\\capstone\\资料\\新的内容开始了\\local_upload\\input_w3\\张君劢.txt"
+  },
+  "entities": [
+    {
+      "id": "e1",
+      "name": "詹姆士",
+      "canonical_name": "詹姆士",
+      "type": "人物",
+      "evidence": "詹姆士有言，唯心主义者，好以全体解释部分",
+      "confidence": 1.0
+    },
+    {
+      "id": "e2",
+      "name": "唯心主义者",
+      "canonical_name": "唯心主义者",
+      "type": "阵营/群体",
+      "evidence": "唯心主义者，好以全体解释部分",
+      "confidence": 1.0
+    },
+    {
+      "id": "e3",
+      "name": "唯物主义",
+      "canonical_name": "唯物主义",
+      "type": "主义/学说/理论",
+      "evidence": "在君如能弃其唯物主义或唯觉主义从我而学为唯心主义者",
+      "confidence": 1.0
+    },
+    {
+      "id": "e4",
+      "name": "唯觉主义",
+      "canonical_name": "唯觉主义",
+      "type": "主义/学说/理论",
+      "evidence": "在君如能弃其唯物主义或唯觉主义从我而学为唯心主义者",
+      "confidence": 1.0
+    },
+    {
+      "id": "e5",
+      "name": "唯心主义",
+      "canonical_name": "唯心主义",
+      "type": "主义/学说/理论",
+      "evidence": "在君如能弃其唯物主义或唯觉主义从我而学为唯心主义者",
+      "confidence": 1.0
+    },
+    {
+      "id": "e6",
+      "name": "科学",
+      "canonical_name": "科学",
+      "type": "概念",
+      "evidence": "科学决不能支配人生",
+      "confidence": 1.0
+    },
+    {
+      "id": "e7",
+      "name": "人生观",
+      "canonical_name": "人生观",
+      "type": "概念",
+      "evidence": "人生观虽出于自由意志而不至于不可以一朝居者",
+      "confidence": 1.0
+    },
+    {
+      "id": "e8",
+      "name": "自由意志",
+      "canonical_name": "自由意志",
+      "type": "概念",
+      "evidence": "人生观虽出于自由意志而不至于不可以一朝居者",
+      "confidence": 1.0
+    },
+    {
+      "id": "e9",
+      "name": "哲学",
+      "canonical_name": "哲学",
+      "type": "概念",
+      "evidence": "乃不能不舍科学而别求一种解释于哲学或玄学中",
+      "confidence": 1.0
+    },
+    {
+      "id": "e10",
+      "name": "玄学",
+      "canonical_name": "玄学",
+      "type": "概念",
+      "evidence": "乃不能不舍科学而别求一种解释于哲学或玄学中",
+      "confidence": 1.0
+    },
+    {
+      "id": "e11",
+      "name": "科学教育",
+      "canonical_name": "科学教育",
+      "type": "概念",
+      "evidence": "我对于科学教育与玄学教育之态度",
+      "confidence": 1.0
+    },
+    {
+      "id": "e12",
+      "name": "玄学教育",
+      "canonical_name": "玄学教育",
+      "type": "概念",
+      "evidence": "我对于科学教育与玄学教育之态度",
+      "confidence": 1.0
+    },
+    {
+      "id": "e13",
+      "name": "精神界",
+      "canonical_name": "精神界",
+      "type": "概念",
+      "evidence": "官觉界以上，尚有精神界",
+      "confidence": 1.0
+    },
+    {
+      "id": "e14",
+      "name": "官觉界",
+      "canonical_name": "官觉界",
+      "type": "概念",
+      "evidence": "官觉界以上，尚有精神界",
+      "confidence": 1.0
+    },
+    {
+      "id": "e15",
+      "name": "宗教美术",
+      "canonical_name": "宗教美术",
+      "type": "概念",
+      "evidence": "除学问上之知识外，尚有宗教美术亦为求真之途径",
+      "confidence": 1.0
+    },
+    {
+      "id": "e16",
+      "name": "因果",
+      "canonical_name": "因果",
+      "type": "概念",
+      "evidence": "历史之新陈代谢，皆人类之自由行为，故无因果可言",
+      "confidence": 1.0
+    },
+    {
+      "id": "e17",
+      "name": "教育",
+      "canonical_name": "教育",
+      "type": "概念",
+      "evidence": "辅助之法，莫如教育",
+      "confidence": 1.0
+    }
+  ],
+  "claims": [
+    {
+      "id": "c1",
+      "speaker": "张君劢",
+      "claim": "据既往以测将来，其有持改革之说者，大抵图所以益世而非所以害世，此可以深信而不疑者也",
+      "target": "改革之说",
+      "claim_type": "社会理论主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "然据既往以测将来，其有持改革之说者，大抵图所以益世而非所以害世，此可以深信而不疑者也",
+      "confidence": 0.9
+    },
+    {
+      "id": "c2",
+      "speaker": "詹姆士",
+      "claim": "唯心主义者，好以全体解释部分",
+      "target": "唯心主义者",
+      "claim_type": "定义性主张",
+      "claim_status": "直接引用",
+      "polarity": "neutral",
+      "evidence": "詹姆士有言，唯心主义者，好以全体解释部分",
+      "confidence": 1.0
+    },
+    {
+      "id": "c3",
+      "speaker": "张君劢",
+      "claim": "以詹氏言，验诸唯心主义者之道德论，可谓其小我之中，以已具有大我性为前提，故其立言自能贯彻",
+      "target": "唯心主义者之道德论",
+      "claim_type": "知识论主张",
+      "claim_status": "作者推论",
+      "polarity": "positive",
+      "evidence": "以詹氏言，验诸唯心主义者之道德论，可谓其小我之中，以已具有大我性为前提，故其立言自能贯彻",
+      "confidence": 0.8
+    },
+    {
+      "id": "c4",
+      "speaker": "张君劢",
+      "claim": "在君如能弃其唯物主义或唯觉主义从我而学为唯心主义者，则人生观虽出于自由意志而不至于不可以一朝居者，其义自可豁然贯通",
+      "target": "丁在君",
+      "claim_type": "论战策略批评",
+      "claim_status": "作者直接主张",
+      "polarity": "mixed",
+      "evidence": "在君如能弃其唯物主义或唯觉主义从我而学为唯心主义者，则人生观虽出于自由意志而不至于不可以一朝居者，其义自可豁然贯通",
+      "confidence": 0.9
+    },
+    {
+      "id": "c5",
+      "speaker": "张君劢",
+      "claim": "若抱其唯物主义唯觉主义而不变，虽我百端辨说，恐亦无法以回在君之观听也",
+      "target": "丁在君",
+      "claim_type": "论战策略批评",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "若抱其唯物主义唯觉主义而不变，虽我百端辨说，恐亦无法以回在君之观听也",
+      "confidence": 0.9
+    },
+    {
+      "id": "c6",
+      "speaker": "张君劢",
+      "claim": "官觉界以上，尚有精神界",
+      "target": "精神界",
+      "claim_type": "本体论主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "官觉界以上，尚有精神界",
+      "confidence": 1.0
+    },
+    {
+      "id": "c7",
+      "speaker": "张君劢",
+      "claim": "学问上之是非真伪，即此精神之综合作用之表示",
+      "target": "学问上之是非真伪",
+      "claim_type": "知识论主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "学问上之是非真伪，即此精神之综合作用之表示",
+      "confidence": 0.9
+    },
+    {
+      "id": "c8",
+      "speaker": "张君劢",
+      "claim": "官觉与概念相合，知识乃以成立",
+      "target": "知识",
+      "claim_type": "知识论主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "官觉与概念相合，知识乃以成立",
+      "confidence": 1.0
+    },
+    {
+      "id": "c9",
+      "speaker": "张君劢",
+      "claim": "除学问上之知识外，尚有宗教美术亦为求真之途径",
+      "target": "宗教美术",
+      "claim_type": "知识论主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "除学问上之知识外，尚有宗教美术亦为求真之途径",
+      "confidence": 1.0
+    },
+    {
+      "id": "c10",
+      "speaker": "张君劢",
+      "claim": "学问上知识之成立，就固定状态施以理智之作用",
+      "target": "学问上知识之成立",
+      "claim_type": "知识论主张",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "学问上知识之成立，就固定状态施以理智之作用",
+      "confidence": 0.9
+    },
+    {
+      "id": "c11",
+      "speaker": "张君劢",
+      "claim": "人生所以变迁之故，则出于纯粹心理，故为自由的",
+      "target": "人生所以变迁之故",
+      "claim_type": "本体论主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "若夫人生所以变迁之故，则出于纯粹心理，故为自由的",
+      "confidence": 0.9
+    },
+    {
+      "id": "c12",
+      "speaker": "张君劢",
+      "claim": "历史之新陈代谢，皆人类之自由行为，故无因果可言",
+      "target": "历史之新陈代谢",
+      "claim_type": "社会理论主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "历史之新陈代谢，皆人类之自由行为，故无因果可言",
+      "confidence": 1.0
+    },
+    {
+      "id": "c13",
+      "speaker": "张君劢",
+      "claim": "科学决不能支配人生",
+      "target": "科学",
+      "claim_type": "结论性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "科学决不能支配人生",
+      "confidence": 1.0
+    },
+    {
+      "id": "c14",
+      "speaker": "张君劢",
+      "claim": "乃不能不舍科学而别求一种解释于哲学或玄学中",
+      "target": "科学",
+      "claim_type": "方法论主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "乃不能不舍科学而别求一种解释于哲学或玄学中",
+      "confidence": 1.0
+    }
+  ],
+  "relations": [
+    {
+      "id": "r1",
+      "head": "张君劢",
+      "head_type": "人物",
+      "relation": "相关",
+      "tail": "詹姆士",
+      "tail_type": "人物",
+      "polarity": "positive",
+      "evidence": "詹姆士有言，唯心主义者，好以全体解释部分",
+      "confidence": 1.0
+    },
+    {
+      "id": "r2",
+      "head": "张君劢",
+      "head_type": "人物",
+      "relation": "主张",
+      "tail": "官觉界以上，尚有精神界",
+      "tail_type": "观点",
+      "polarity": "positive",
+      "evidence": "官觉界以上，尚有精神界",
+      "confidence": 1.0
+    },
+    {
+      "id": "r3",
+      "head": "张君劢",
+      "head_type": "人物",
+      "relation": "主张",
+      "tail": "科学决不能支配人生",
+      "tail_type": "观点",
+      "polarity": "negative",
+      "evidence": "科学决不能支配人生",
+      "confidence": 1.0
+    },
+    {
+      "id": "r4",
+      "head": "历史之新陈代谢",
+      "head_type": "概念",
+      "relation": "归因于",
+      "tail": "人类之自由行为",
+      "tail_type": "概念",
+      "polarity": "positive",
+      "evidence": "历史之新陈代谢，皆人类之自由行为，故无因果可言",
+      "confidence": 1.0
+    },
+    {
+      "id": "r5",
+      "head": "人生所以变迁之故",
+      "head_type": "概念",
+      "relation": "归因于",
+      "tail": "纯粹心理",
+      "tail_type": "概念",
+      "polarity": "positive",
+      "evidence": "若夫人生所以变迁之故，则出于纯粹心理，故为自由的",
+      "confidence": 0.9
+    },
+    {
+      "id": "r6",
+      "head": "知识",
+      "head_type": "概念",
+      "relation": "归因于",
+      "tail": "官觉与概念相合",
+      "tail_type": "概念",
+      "polarity": "positive",
+      "evidence": "官觉与概念相合，知识乃以成立",
+      "confidence": 1.0
+    }
+  ],
+  "definitions": [
+    {
+      "id": "def1",
+      "term": "精神界",
+      "definition": "官觉界以上的一个领域",
+      "evidence": "官觉界以上，尚有精神界",
+      "confidence": 0.9
+    },
+    {
+      "id": "def2",
+      "term": "知识",
+      "definition": "官觉与概念相合而成",
+      "evidence": "官觉与概念相合，知识乃以成立",
+      "confidence": 1.0
+    },
+    {
+      "id": "def3",
+      "term": "学问上知识之成立",
+      "definition": "就固定状态施以理智之作用",
+      "evidence": "学问上知识之成立，就固定状态施以理智之作用",
+      "confidence": 0.9
+    },
+    {
+      "id": "def4",
+      "term": "人生所以变迁之故",
+      "definition": "出于纯粹心理，故为自由的",
+      "evidence": "若夫人生所以变迁之故，则出于纯粹心理，故为自由的",
+      "confidence": 0.9
+    }
+  ],
+  "citations": [
+    {
+      "id": "cit1",
+      "citer": "张君劢",
+      "quoted_author": "詹姆士",
+      "quoted_work": "",
+      "quoted_claim": "唯心主义者，好以全体解释部分",
+      "function": "援引权威支持",
+      "evidence": "詹姆士有言，唯心主义者，好以全体解释部分",
+      "confidence": 1.0
+    }
+  ],
+  "rhetorical_devices": [
+    {
+      "id": "rh1",
+      "expression": "虽我百端辨说，恐亦无法以回在君之观听也",
+      "device_type": "夸张",
+      "literal_target": "张君劢自认为无法说服丁在君",
+      "function": "强调对方立场顽固",
+      "evidence": "虽我百端辨说，恐亦无法以回在君之观听也",
+      "confidence": 0.8
+    }
+  ],
+  "uncertainties": [
+    {
+      "item": "所以然之故，至为玄妙，不可测度",
+      "reason": "此句未明确主语，无法确定所指对象"
+    },
+    {
+      "item": "唯心主义者之道德论",
+      "reason": "未具体说明道德论内容，仅作概括性评价"
+    }
+  ],
+  "_meta": {
+    "status": "success",
+    "stage": "extract",
+    "model": "deepseek-ai/DeepSeek-V4-Flash",
+    "base_url": "https://api.siliconflow.cn/v1",
+    "prompt_version": "extract_prompt_v2.0",
+    "schema_version": "lite_v2.0",
+    "segment_id": "张君劢_002_c870d202_s0021",
+    "article_id": "张君劢_002_c870d202",
+    "char_start": 10532,
+    "char_end": 11118,
+    "raw_path": "E:\\1研究生\\岭南大学\\论文毕业\\capstone\\资料\\新的内容开始了\\local_upload\\kg_runs\\张君劢\\raw_outputs\\extract\\张君劢_002_c870d202_s0021.txt",
+    "parsed_at": "2026-05-20T03:52:04",
+    "started_at": "2026-05-20T03:50:01",
+    "elapsed_seconds": 123.321,
+    "strict_evidence_check": true,
+    "drop_unsupported_evidence": true,
+    "request_timeout_seconds": 180
+  }
+}

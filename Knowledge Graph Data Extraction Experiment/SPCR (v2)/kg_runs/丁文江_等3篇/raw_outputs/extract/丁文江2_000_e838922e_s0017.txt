@@ -1,0 +1,497 @@
+{
+  "metadata": {
+    "schema_version": "lite_v3.0",
+    "article_id": "丁文江2_000_e838922e",
+    "article_title": "玄学与科学——答张君劢",
+    "source_author": "丁文江",
+    "section_title": "",
+    "section_author": "",
+    "segment_id": "丁文江2_000_e838922e_s0017",
+    "segment_index": 17,
+    "source_file": "E:\\1研究生\\岭南大学\\论文毕业\\capstone\\资料\\新的内容开始了\\local_upload\\input_丁文江\\丁文江2.txt"
+  },
+  "entities": [
+    {
+      "id": "e1",
+      "name": "柏格森",
+      "canonical_name": "柏格森",
+      "type": "人物",
+      "evidence": "用比喻猜想来假充证据，柏格森要算第一。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e2",
+      "name": "比喻猜想",
+      "canonical_name": "比喻猜想",
+      "type": "方法",
+      "evidence": "他把比喻猜想来做证据，我们一定要戳穿了他的西洋镜，免得他蒙混人。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e3",
+      "name": "证据",
+      "canonical_name": "证据",
+      "type": "概念",
+      "evidence": "他的证据不充分，我们不信他；他把比喻猜想来做证据，我们一定要戳穿了他的西洋镜，免得他蒙混人。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e4",
+      "name": "西洋镜",
+      "canonical_name": "西洋镜",
+      "type": "比喻/类比",
+      "evidence": "我们一定要戳穿了他的西洋镜，免得他蒙混人。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e5",
+      "name": "《创造的演化》",
+      "canonical_name": "创造的演化",
+      "type": "著作",
+      "evidence": "他把说：“从一种状态变到另一种状态，同固守于一种状态是没有根本的分别。”（《创造的演化》第二页）",
+      "confidence": 1.0
+    },
+    {
+      "id": "e6",
+      "name": "心理的生活是时间造成的，时间是有抵抗力的，有物质的",
+      "canonical_name": "心理的生活是时间造成的，时间是有抵抗力的，有物质的",
+      "type": "观点",
+      "evidence": "他又说：“心理的生活是时间造成的，时间是有抵抗力的，有物质的。”",
+      "confidence": 1.0
+    },
+    {
+      "id": "e7",
+      "name": "时间",
+      "canonical_name": "时间",
+      "type": "概念",
+      "evidence": "在心理学上时间是觉官的感觉，在物理学上时间是空间的补充，都是根据于可以试验的事实来的，你的这种时间何从而来？",
+      "confidence": 1.0
+    },
+    {
+      "id": "e8",
+      "name": "心理状态同雪球的关系",
+      "canonical_name": "心理状态同雪球的关系",
+      "type": "比喻/类比",
+      "evidence": "他说心里的状态同滚雪球一样，越滚越堆积得多。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e9",
+      "name": "流水同生物的同点",
+      "canonical_name": "流水同生物的同点",
+      "type": "比喻/类比",
+      "evidence": "又说生物同流水向前流一样，越流分支越多。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e10",
+      "name": "存疑学者",
+      "canonical_name": "存疑学者",
+      "type": "阵营/群体",
+      "evidence": "不但柏格森这种玄而又玄的话一攻便破，存疑学者对于康德的“断言命令”，倭伊铿的“精神生活”，欧立克的“精神元素”都只有一句话：“拿证据来！”",
+      "confidence": 1.0
+    },
+    {
+      "id": "e11",
+      "name": "康德",
+      "canonical_name": "康德",
+      "type": "人物",
+      "evidence": "存疑学者对于康德的“断言命令”，倭伊铿的“精神生活”，欧立克的“精神元素”都只有一句话：“拿证据来！”",
+      "confidence": 1.0
+    },
+    {
+      "id": "e12",
+      "name": "断言命令",
+      "canonical_name": "断言命令",
+      "type": "概念",
+      "evidence": "存疑学者对于康德的“断言命令”，倭伊铿的“精神生活”，欧立克的“精神元素”都只有一句话：“拿证据来！”",
+      "confidence": 1.0
+    },
+    {
+      "id": "e13",
+      "name": "倭伊铿",
+      "canonical_name": "倭伊铿",
+      "type": "人物",
+      "evidence": "存疑学者对于康德的“断言命令”，倭伊铿的“精神生活”，欧立克的“精神元素”都只有一句话：“拿证据来！”",
+      "confidence": 1.0
+    },
+    {
+      "id": "e14",
+      "name": "精神生活",
+      "canonical_name": "精神生活",
+      "type": "概念",
+      "evidence": "存疑学者对于康德的“断言命令”，倭伊铿的“精神生活”，欧立克的“精神元素”都只有一句话：“拿证据来！”",
+      "confidence": 1.0
+    },
+    {
+      "id": "e15",
+      "name": "欧立克",
+      "canonical_name": "欧立克",
+      "type": "人物",
+      "evidence": "存疑学者对于康德的“断言命令”，倭伊铿的“精神生活”，欧立克的“精神元素”都只有一句话：“拿证据来！”",
+      "confidence": 1.0
+    },
+    {
+      "id": "e16",
+      "name": "精神元素",
+      "canonical_name": "精神元素",
+      "type": "概念",
+      "evidence": "存疑学者对于康德的“断言命令”，倭伊铿的“精神生活”，欧立克的“精神元素”都只有一句话：“拿证据来！”",
+      "confidence": 1.0
+    },
+    {
+      "id": "e17",
+      "name": "唯觉主义",
+      "canonical_name": "唯觉主义",
+      "type": "主义/学说/理论",
+      "evidence": "用君劢的名词，我的知识论是唯觉主义。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e18",
+      "name": "知识论",
+      "canonical_name": "知识论",
+      "type": "概念",
+      "evidence": "用君劢的名词，我的知识论是唯觉主义。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e19",
+      "name": "科学方法",
+      "canonical_name": "科学方法",
+      "type": "方法",
+      "evidence": "是因为这种知识论是根据于可以用科学方法试验的觉官感触，与正统派哲学的根据不同。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e20",
+      "name": "觉官感触",
+      "canonical_name": "觉官感触",
+      "type": "概念",
+      "evidence": "是因为这种知识论是根据于可以用科学方法试验的觉官感触，与正统派哲学的根据不同。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e21",
+      "name": "正统派哲学",
+      "canonical_name": "正统派哲学",
+      "type": "主义/学说/理论",
+      "evidence": "是因为这种知识论是根据于可以用科学方法试验的觉官感触，与正统派哲学的根据不同。",
+      "confidence": 1.0
+    }
+  ],
+  "claims": [
+    {
+      "id": "c1",
+      "speaker": "丁文江",
+      "claim": "他的证据不充分，我们不信他",
+      "target": "柏格森",
+      "claim_type": "评价性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "他的证据不充分，我们不信他；他把比喻猜想来做证据，我们一定要戳穿了他的西洋镜，免得他蒙混人。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c2",
+      "speaker": "丁文江",
+      "claim": "他把比喻猜想来做证据，我们一定要戳穿了他的西洋镜，免得他蒙混人",
+      "target": "柏格森",
+      "claim_type": "评价性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "他把比喻猜想来做证据，我们一定要戳穿了他的西洋镜，免得他蒙混人。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c3",
+      "speaker": "柏格森",
+      "claim": "从一种状态变到另一种状态，同固守于一种状态是没有根本的分别",
+      "target": "",
+      "claim_type": "描述性主张",
+      "claim_status": "直接引用",
+      "polarity": "neutral",
+      "evidence": "他把说：“从一种状态变到另一种状态，同固守于一种状态是没有根本的分别。”（《创造的演化》第二页）",
+      "confidence": 1.0
+    },
+    {
+      "id": "c4",
+      "speaker": "丁文江",
+      "claim": "在心理学上时间是觉官的感觉，在物理学上时间是空间的补充，都是根据于可以试验的事实来的",
+      "target": "柏格森",
+      "claim_type": "反驳性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "在心理学上时间是觉官的感觉，在物理学上时间是空间的补充，都是根据于可以试验的事实来的，你的这种时间何从而来？你怎样来证明他是有抵抗力的，有物质的？",
+      "confidence": 1.0
+    },
+    {
+      "id": "c5",
+      "speaker": "丁文江",
+      "claim": "你的这种时间何从而来？你怎样来证明他是有抵抗力的，有物质的？",
+      "target": "柏格森",
+      "claim_type": "问题提出",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "在心理学上时间是觉官的感觉，在物理学上时间是空间的补充，都是根据于可以试验的事实来的，你的这种时间何从而来？你怎样来证明他是有抵抗力的，有物质的？",
+      "confidence": 1.0
+    },
+    {
+      "id": "c6",
+      "speaker": "柏格森",
+      "claim": "心里的状态同滚雪球一样，越滚越堆积得多",
+      "target": "",
+      "claim_type": "描述性主张",
+      "claim_status": "间接转述",
+      "polarity": "neutral",
+      "evidence": "他说心里的状态同滚雪球一样，越滚越堆积得多。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c7",
+      "speaker": "柏格森",
+      "claim": "生物同流水向前流一样，越流分支越多",
+      "target": "",
+      "claim_type": "描述性主张",
+      "claim_status": "间接转述",
+      "polarity": "neutral",
+      "evidence": "又说生物同流水向前流一样，越流分支越多。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c8",
+      "speaker": "丁文江",
+      "claim": "这都是比喻，请你把心理状态同雪球的关系，流水同生物的同点，用事实来证明白了，然后再从这种比喻上发生你的无限制的推论",
+      "target": "柏格森",
+      "claim_type": "反驳性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "慢来，慢来！这都是比喻，请你把心理状态同雪球的关系，流水同生物的同点，用事实来证明白了，然后再从这种比喻上发生你的无限制的推论。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c9",
+      "speaker": "丁文江",
+      "claim": "不但柏格森这种玄而又玄的话一攻便破",
+      "target": "柏格森",
+      "claim_type": "评价性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "不但柏格森这种玄而又玄的话一攻便破，存疑学者对于康德的“断言命令”，倭伊铿的“精神生活”，欧立克的“精神元素”都只有一句话：“拿证据来！”",
+      "confidence": 1.0
+    },
+    {
+      "id": "c10",
+      "speaker": "存疑学者",
+      "claim": "拿证据来",
+      "target": "康德的“断言命令”，倭伊铿的“精神生活”，欧立克的“精神元素”",
+      "claim_type": "回应性主张",
+      "claim_status": "作者概括",
+      "polarity": "negative",
+      "evidence": "存疑学者对于康德的“断言命令”，倭伊铿的“精神生活”，欧立克的“精神元素”都只有一句话：“拿证据来！”",
+      "confidence": 1.0
+    },
+    {
+      "id": "c11",
+      "speaker": "丁文江",
+      "claim": "我的知识论是唯觉主义",
+      "target": "",
+      "claim_type": "定义性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "用君劢的名词，我的知识论是唯觉主义。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c12",
+      "speaker": "丁文江",
+      "claim": "这种知识论是根据于可以用科学方法试验的觉官感触，与正统派哲学的根据不同",
+      "target": "",
+      "claim_type": "定义性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "是因为这种知识论是根据于可以用科学方法试验的觉官感触，与正统派哲学的根据不同。",
+      "confidence": 1.0
+    }
+  ],
+  "relations": [
+    {
+      "id": "r1",
+      "head": "丁文江",
+      "head_type": "人物",
+      "relation": "批评",
+      "relation_subtype": "证据不足批评",
+      "tail": "柏格森",
+      "tail_type": "人物",
+      "polarity": "negative",
+      "stance_score": -1.0,
+      "intensity": 0.9,
+      "evidence": "他的证据不充分，我们不信他；他把比喻猜想来做证据，我们一定要戳穿了他的西洋镜，免得他蒙混人。",
+      "confidence": 1.0
+    },
+    {
+      "id": "r2",
+      "head": "丁文江",
+      "head_type": "人物",
+      "relation": "批评",
+      "relation_subtype": "概念混淆批评",
+      "tail": "柏格森",
+      "tail_type": "人物",
+      "polarity": "negative",
+      "stance_score": -1.0,
+      "intensity": 0.9,
+      "evidence": "他把比喻猜想来做证据，我们一定要戳穿了他的西洋镜，免得他蒙混人。",
+      "confidence": 1.0
+    },
+    {
+      "id": "r3",
+      "head": "丁文江",
+      "head_type": "人物",
+      "relation": "质疑",
+      "relation_subtype": "事实质疑",
+      "tail": "柏格森",
+      "tail_type": "人物",
+      "polarity": "negative",
+      "stance_score": -1.0,
+      "intensity": 0.8,
+      "evidence": "在心理学上时间是觉官的感觉，在物理学上时间是空间的补充，都是根据于可以试验的事实来的，你的这种时间何从而来？你怎样来证明他是有抵抗力的，有物质的？",
+      "confidence": 1.0
+    },
+    {
+      "id": "r4",
+      "head": "丁文江",
+      "head_type": "人物",
+      "relation": "批评",
+      "relation_subtype": "逻辑反驳",
+      "tail": "柏格森",
+      "tail_type": "人物",
+      "polarity": "negative",
+      "stance_score": -1.0,
+      "intensity": 0.9,
+      "evidence": "慢来，慢来！这都是比喻，请你把心理状态同雪球的关系，流水同生物的同点，用事实来证明白了，然后再从这种比喻上发生你的无限制的推论。",
+      "confidence": 1.0
+    },
+    {
+      "id": "r5",
+      "head": "丁文江",
+      "head_type": "人物",
+      "relation": "评价",
+      "relation_subtype": "一般批评",
+      "tail": "柏格森",
+      "tail_type": "人物",
+      "polarity": "negative",
+      "stance_score": -1.0,
+      "intensity": 0.8,
+      "evidence": "不但柏格森这种玄而又玄的话一攻便破，存疑学者对于康德的“断言命令”，倭伊铿的“精神生活”，欧立克的“精神元素”都只有一句话：“拿证据来！”",
+      "confidence": 1.0
+    },
+    {
+      "id": "r6",
+      "head": "存疑学者",
+      "head_type": "阵营/群体",
+      "relation": "质疑",
+      "relation_subtype": "证据不足批评",
+      "tail": "康德的“断言命令”，倭伊铿的“精神生活”，欧立克的“精神元素”",
+      "tail_type": "概念",
+      "polarity": "negative",
+      "stance_score": -1.0,
+      "intensity": 0.9,
+      "evidence": "存疑学者对于康德的“断言命令”，倭伊铿的“精神生活”，欧立克的“精神元素”都只有一句话：“拿证据来！”",
+      "confidence": 1.0
+    },
+    {
+      "id": "r7",
+      "head": "丁文江",
+      "head_type": "人物",
+      "relation": "定义",
+      "relation_subtype": "概念澄清",
+      "tail": "唯觉主义",
+      "tail_type": "主义/学说/理论",
+      "polarity": "neutral",
+      "stance_score": 0.0,
+      "intensity": 0.5,
+      "evidence": "用君劢的名词，我的知识论是唯觉主义。",
+      "confidence": 1.0
+    },
+    {
+      "id": "r8",
+      "head": "丁文江",
+      "head_type": "人物",
+      "relation": "区分",
+      "relation_subtype": "概念澄清",
+      "tail": "正统派哲学",
+      "tail_type": "主义/学说/理论",
+      "polarity": "neutral",
+      "stance_score": 0.0,
+      "intensity": 0.5,
+      "evidence": "是因为这种知识论是根据于可以用科学方法试验的觉官感触，与正统派哲学的根据不同。",
+      "confidence": 1.0
+    }
+  ],
+  "definitions": [
+    {
+      "id": "def1",
+      "term": "唯觉主义",
+      "definition": "丁文江的知识论，根据于可以用科学方法试验的觉官感触，与正统派哲学的根据不同。",
+      "evidence": "用君劢的名词，我的知识论是唯觉主义。我说他是“科学的”，并不是说已经“有定论的”——这是君劢自己对“科学的”下的定义，与我不相干——是因为这种知识论是根据于可以用科学方法试验的觉官感触，与正统派哲学的根据不同。",
+      "confidence": 1.0
+    }
+  ],
+  "citations": [
+    {
+      "id": "cit1",
+      "citer": "丁文江",
+      "quoted_author": "柏格森",
+      "quoted_work": "《创造的演化》",
+      "quoted_claim": "从一种状态变到另一种状态，同固守于一种状态是没有根本的分别",
+      "function": "作为批评对象",
+      "evidence": "他把说：“从一种状态变到另一种状态，同固守于一种状态是没有根本的分别。”（《创造的演化》第二页）",
+      "confidence": 1.0
+    },
+    {
+      "id": "cit2",
+      "citer": "丁文江",
+      "quoted_author": "柏格森",
+      "quoted_work": "",
+      "quoted_claim": "心理的生活是时间造成的，时间是有抵抗力的，有物质的",
+      "function": "作为批评对象",
+      "evidence": "他又说：“心理的生活是时间造成的，时间是有抵抗力的，有物质的。”",
+      "confidence": 1.0
+    }
+  ],
+  "rhetorical_devices": [
+    {
+      "id": "rh1",
+      "expression": "戳穿了他的西洋镜",
+      "device_type": "比喻",
+      "literal_target": "揭露柏格森用比喻猜想冒充证据的欺骗行为",
+      "function": "增强批评的生动性和贬义色彩",
+      "evidence": "我们一定要戳穿了他的西洋镜，免得他蒙混人。",
+      "confidence": 1.0
+    },
+    {
+      "id": "rh2",
+      "expression": "玄而又玄",
+      "device_type": "标签化",
+      "literal_target": "柏格森的话",
+      "function": "贬低对手观点，暗示其不可靠",
+      "evidence": "不但柏格森这种玄而又玄的话一攻便破",
+      "confidence": 1.0
+    },
+    {
+      "id": "rh3",
+      "expression": "慢来，慢来！",
+      "device_type": "讽刺",
+      "literal_target": "柏格森使用比喻的做法",
+      "function": "表达不屑和制止，增强反驳的戏剧性",
+      "evidence": "慢来，慢来！这都是比喻，请你把心理状态同雪球的关系，流水同生物的同点，用事实来证明白了，然后再从这种比喻上发生你的无限制的推论。",
+      "confidence": 1.0
+    }
+  ],
+  "uncertainties": [
+    {
+      "item": "君劢对“科学的”下的定义",
+      "reason": "文本中只提到“这是君劢自己对‘科学的’下的定义”，但未给出具体定义内容。"
+    }
+  ]
+}

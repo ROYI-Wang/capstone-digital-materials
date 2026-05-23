@@ -1,0 +1,550 @@
+{
+  "metadata": {
+    "schema_version": "lite_v2.0",
+    "article_id": "菊农_000_b90d5dfb",
+    "article_title": "人格与教育",
+    "source_author": "菊农",
+    "section_title": "",
+    "section_author": "",
+    "segment_id": "菊农_000_b90d5dfb_s0005",
+    "segment_index": 5,
+    "source_file": "E:\\1研究生\\岭南大学\\论文毕业\\capstone\\资料\\新的内容开始了\\local_upload\\input_w2\\菊农.txt"
+  },
+  "entities": [
+    {
+      "id": "e1",
+      "name": "人格",
+      "canonical_name": "人格",
+      "type": "概念",
+      "evidence": "献于大的全体；换言之，便是实现小己的人格以求超人格的实现。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e2",
+      "name": "超人格",
+      "canonical_name": "超人格",
+      "type": "概念",
+      "evidence": "献于大的全体；换言之，便是实现小己的人格以求超人格的实现。",
+      "confidence": 0.8
+    },
+    {
+      "id": "e3",
+      "name": "教育",
+      "canonical_name": "教育",
+      "type": "概念",
+      "evidence": "觉得现代的教育竟是与我们的理想背道而驰。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e4",
+      "name": "教育的目的",
+      "canonical_name": "教育的目的",
+      "type": "概念",
+      "evidence": "什么是教育的目的？不是教人做好公民，亦不是教人做环境的奴隶，乃是教人做“人”。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e5",
+      "name": "人",
+      "canonical_name": "人",
+      "type": "概念",
+      "evidence": "乃是教人做“人”。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e6",
+      "name": "人格的实现",
+      "canonical_name": "人格的实现",
+      "type": "概念",
+      "evidence": "我们便说教育的目的是求人格的实现，求人格的完成。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e7",
+      "name": "人格的完成",
+      "canonical_name": "人格的完成",
+      "type": "概念",
+      "evidence": "我们便说教育的目的是求人格的实现，求人格的完成。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e8",
+      "name": "人生的意义",
+      "canonical_name": "人生的意义",
+      "type": "概念",
+      "evidence": "要使人了解人生的意义，做人便好好做一个完全的自由的“人”。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e9",
+      "name": "教育的中心问题",
+      "canonical_name": "教育的中心问题",
+      "type": "问题",
+      "evidence": "人要怎样的做？人格如何而能实现？便是教育的中心问题。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e10",
+      "name": "教育的任务",
+      "canonical_name": "教育的任务",
+      "type": "概念",
+      "evidence": "所以教育的任务有两方面，一方面求身与心的调和的发展，无使为外物所制。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e11",
+      "name": "身与心的调和",
+      "canonical_name": "身与心的调和",
+      "type": "概念",
+      "evidence": "所以教育的任务有两方面，一方面求身与心的调和的发展，无使为外物所制。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e12",
+      "name": "外物",
+      "canonical_name": "外物",
+      "type": "概念",
+      "evidence": "外物是精神自由的阻碍，是足以妨碍人向上的。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e13",
+      "name": "精神自由",
+      "canonical_name": "精神自由",
+      "type": "概念",
+      "evidence": "外物是精神自由的阻碍，是足以妨碍人向上的。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e14",
+      "name": "自然科学",
+      "canonical_name": "自然科学",
+      "type": "概念",
+      "evidence": "一切对于外界的研究（自然科学物理学的研究),只是在知识上对于外物有一种了解。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e15",
+      "name": "物理学",
+      "canonical_name": "物理学",
+      "type": "概念",
+      "evidence": "一切对于外界的研究（自然科学物理学的研究),只是在知识上对于外物有一种了解。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e16",
+      "name": "知识",
+      "canonical_name": "知识",
+      "type": "概念",
+      "evidence": "一切对于外界的研究（自然科学物理学的研究),只是在知识上对于外物有一种了解。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e17",
+      "name": "科学的知识",
+      "canonical_name": "科学的知识",
+      "type": "概念",
+      "evidence": "所以各种科学的知识，都是教人不要做物界的奴隶。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e18",
+      "name": "物界",
+      "canonical_name": "物界",
+      "type": "概念",
+      "evidence": "所以各种科学的知识，都是教人不要做物界的奴隶。",
+      "confidence": 0.8
+    },
+    {
+      "id": "e19",
+      "name": "理知",
+      "canonical_name": "理知",
+      "type": "概念",
+      "evidence": "人们用理知得来的知识只是相对的知识。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e20",
+      "name": "相对的知识",
+      "canonical_name": "相对的知识",
+      "type": "概念",
+      "evidence": "人们用理知得来的知识只是相对的知识。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e21",
+      "name": "实际教育",
+      "canonical_name": "实际教育",
+      "type": "概念",
+      "evidence": "所以仅仅有实际教育，还是不够的。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e22",
+      "name": "人格的自觉",
+      "canonical_name": "人格的自觉",
+      "type": "概念",
+      "evidence": "教育的任务除此以外，最要紧的是人格的自觉。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e23",
+      "name": "人生的理想",
+      "canonical_name": "人生的理想",
+      "type": "概念",
+      "evidence": "人有人生的理想，所以实际教育虽不可没有，却仅仅是一小部分。",
+      "confidence": 0.9
+    }
+  ],
+  "claims": [
+    {
+      "id": "c1",
+      "speaker": "菊农",
+      "claim": "现代的教育竟是与我们的理想背道而驰。",
+      "target": "教育",
+      "claim_type": "价值评价",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "觉得现代的教育竟是与我们的理想背道而驰。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c2",
+      "speaker": "菊农",
+      "claim": "教育的目的不是教人做好公民，亦不是教人做环境的奴隶，乃是教人做“人”。",
+      "target": "教育的目的",
+      "claim_type": "定义性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "什么是教育的目的？不是教人做好公民，亦不是教人做环境的奴隶，乃是教人做“人”。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c3",
+      "speaker": "菊农",
+      "claim": "教育的目的是求人格的实现，求人格的完成。",
+      "target": "教育的目的",
+      "claim_type": "定义性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "我们便说教育的目的是求人格的实现，求人格的完成。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c4",
+      "speaker": "菊农",
+      "claim": "要使人了解人生的意义，做人便好好做一个完全的自由的“人”。",
+      "target": "教育的目的",
+      "claim_type": "定义性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "申言之，要使人了解人生的意义，做人便好好做一个完全的自由的“人”。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c5",
+      "speaker": "菊农",
+      "claim": "教育的任务有两方面，一方面求身与心的调和的发展，无使为外物所制。",
+      "target": "教育的任务",
+      "claim_type": "定义性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "所以教育的任务有两方面，一方面求身与心的调和的发展，无使为外物所制。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c6",
+      "speaker": "菊农",
+      "claim": "外物是精神自由的阻碍，是足以妨碍人向上的。",
+      "target": "外物",
+      "claim_type": "定义性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "外物是精神自由的阻碍，是足以妨碍人向上的。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c7",
+      "speaker": "菊农",
+      "claim": "一切对于外界的研究（自然科学物理学的研究),只是在知识上对于外物有一种了解。",
+      "target": "自然科学",
+      "claim_type": "知识论主张",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "一切对于外界的研究（自然科学物理学的研究),只是在知识上对于外物有一种了解。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c8",
+      "speaker": "菊农",
+      "claim": "各种科学的知识，都是教人不要做物界的奴隶。",
+      "target": "科学的知识",
+      "claim_type": "知识论主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "所以各种科学的知识，都是教人不要做物界的奴隶。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c9",
+      "speaker": "菊农",
+      "claim": "人们用理知得来的知识只是相对的知识。",
+      "target": "理知",
+      "claim_type": "知识论主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "人们用理知得来的知识只是相对的知识。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c10",
+      "speaker": "菊农",
+      "claim": "得了这种知识固然可以解决实际上的各项问题，对付实际上随处发生的事情；但是人仍不能完全免乎他的桎梏。",
+      "target": "知识",
+      "claim_type": "知识论主张",
+      "claim_status": "作者直接主张",
+      "polarity": "mixed",
+      "evidence": "得了这种知识固然可以解决实际上的各项问题，对付实际上随处发生的事情；但是人仍不能完全免乎他的桎梏。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c11",
+      "speaker": "菊农",
+      "claim": "仅仅有实际教育，还是不够的。",
+      "target": "实际教育",
+      "claim_type": "价值评价",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "所以仅仅有实际教育，还是不够的。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c12",
+      "speaker": "菊农",
+      "claim": "教育的任务除此以外，最要紧的是人格的自觉。",
+      "target": "教育的任务",
+      "claim_type": "定义性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "教育的任务除此以外，最要紧的是人格的自觉。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c13",
+      "speaker": "菊农",
+      "claim": "实际教育虽不可没有，却仅仅是一小部分。",
+      "target": "实际教育",
+      "claim_type": "价值评价",
+      "claim_status": "作者直接主张",
+      "polarity": "mixed",
+      "evidence": "实际教育虽不可没有，却仅仅是一小部分。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c14",
+      "speaker": "菊农",
+      "claim": "在我们求人格实现的教育目的下，是决计不够的。",
+      "target": "实际教育",
+      "claim_type": "价值评价",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "在我们求人格实现的教育目的下，是决计不够的。",
+      "confidence": 0.9
+    }
+  ],
+  "relations": [
+    {
+      "id": "r1",
+      "head": "教育的目的",
+      "head_type": "概念",
+      "relation": "定义",
+      "tail": "人格的实现",
+      "tail_type": "概念",
+      "polarity": "positive",
+      "evidence": "我们便说教育的目的是求人格的实现，求人格的完成。",
+      "confidence": 0.9
+    },
+    {
+      "id": "r2",
+      "head": "教育的目的",
+      "head_type": "概念",
+      "relation": "定义",
+      "tail": "人格的完成",
+      "tail_type": "概念",
+      "polarity": "positive",
+      "evidence": "我们便说教育的目的是求人格的实现，求人格的完成。",
+      "confidence": 0.9
+    },
+    {
+      "id": "r3",
+      "head": "教育的目的",
+      "head_type": "概念",
+      "relation": "区分",
+      "tail": "教人做好公民",
+      "tail_type": "概念",
+      "polarity": "negative",
+      "evidence": "什么是教育的目的？不是教人做好公民，亦不是教人做环境的奴隶，乃是教人做“人”。",
+      "confidence": 0.9
+    },
+    {
+      "id": "r4",
+      "head": "教育的目的",
+      "head_type": "概念",
+      "relation": "区分",
+      "tail": "教人做环境的奴隶",
+      "tail_type": "概念",
+      "polarity": "negative",
+      "evidence": "什么是教育的目的？不是教人做好公民，亦不是教人做环境的奴隶，乃是教人做“人”。",
+      "confidence": 0.9
+    },
+    {
+      "id": "r5",
+      "head": "教育的任务",
+      "head_type": "概念",
+      "relation": "包含",
+      "tail": "身与心的调和",
+      "tail_type": "概念",
+      "polarity": "positive",
+      "evidence": "所以教育的任务有两方面，一方面求身与心的调和的发展，无使为外物所制。",
+      "confidence": 0.9
+    },
+    {
+      "id": "r6",
+      "head": "教育的任务",
+      "head_type": "概念",
+      "relation": "包含",
+      "tail": "人格的自觉",
+      "tail_type": "概念",
+      "polarity": "positive",
+      "evidence": "教育的任务除此以外，最要紧的是人格的自觉。",
+      "confidence": 0.9
+    },
+    {
+      "id": "r7",
+      "head": "外物",
+      "head_type": "概念",
+      "relation": "导致",
+      "tail": "精神自由",
+      "tail_type": "概念",
+      "polarity": "negative",
+      "evidence": "外物是精神自由的阻碍，是足以妨碍人向上的。",
+      "confidence": 0.9
+    },
+    {
+      "id": "r8",
+      "head": "科学的知识",
+      "head_type": "概念",
+      "relation": "解释",
+      "tail": "不要做物界的奴隶",
+      "tail_type": "概念",
+      "polarity": "positive",
+      "evidence": "所以各种科学的知识，都是教人不要做物界的奴隶。",
+      "confidence": 0.9
+    },
+    {
+      "id": "r9",
+      "head": "理知",
+      "head_type": "概念",
+      "relation": "导致",
+      "tail": "相对的知识",
+      "tail_type": "概念",
+      "polarity": "negative",
+      "evidence": "人们用理知得来的知识只是相对的知识。",
+      "confidence": 0.9
+    },
+    {
+      "id": "r10",
+      "head": "知识",
+      "head_type": "概念",
+      "relation": "解释",
+      "tail": "解决实际上的各项问题",
+      "tail_type": "概念",
+      "polarity": "positive",
+      "evidence": "得了这种知识固然可以解决实际上的各项问题，对付实际上随处发生的事情；但是人仍不能完全免乎他的桎梏。",
+      "confidence": 0.9
+    },
+    {
+      "id": "r11",
+      "head": "知识",
+      "head_type": "概念",
+      "relation": "解释",
+      "tail": "不能完全免乎他的桎梏",
+      "tail_type": "概念",
+      "polarity": "negative",
+      "evidence": "得了这种知识固然可以解决实际上的各项问题，对付实际上随处发生的事情；但是人仍不能完全免乎他的桎梏。",
+      "confidence": 0.9
+    },
+    {
+      "id": "r12",
+      "head": "实际教育",
+      "head_type": "概念",
+      "relation": "包含",
+      "tail": "一小部分",
+      "tail_type": "概念",
+      "polarity": "negative",
+      "evidence": "实际教育虽不可没有，却仅仅是一小部分。",
+      "confidence": 0.9
+    }
+  ],
+  "definitions": [
+    {
+      "id": "def1",
+      "term": "教育的目的",
+      "definition": "教育的目的不是教人做好公民或环境的奴隶，而是教人做“人”，即求人格的实现与完成。",
+      "evidence": "什么是教育的目的？不是教人做好公民，亦不是教人做环境的奴隶，乃是教人做“人”。",
+      "confidence": 0.9
+    },
+    {
+      "id": "def2",
+      "term": "教育的任务",
+      "definition": "教育的任务有两方面：一是求身与心的调和的发展，无使为外物所制；二是人格的自觉。",
+      "evidence": "所以教育的任务有两方面，一方面求身与心的调和的发展，无使为外物所制。",
+      "confidence": 0.9
+    },
+    {
+      "id": "def3",
+      "term": "外物",
+      "definition": "外物是精神自由的阻碍，是足以妨碍人向上的。",
+      "evidence": "外物是精神自由的阻碍，是足以妨碍人向上的。",
+      "confidence": 0.9
+    },
+    {
+      "id": "def4",
+      "term": "理知",
+      "definition": "人们用理知得来的知识只是相对的知识。",
+      "evidence": "人们用理知得来的知识只是相对的知识。",
+      "confidence": 0.9
+    }
+  ],
+  "citations": [],
+  "rhetorical_devices": [],
+  "uncertainties": [
+    {
+      "item": "文本中“献于大的全体”一句含义不明，无法确定其具体所指。",
+      "reason": "该句缺乏上下文，无法判断“大的全体”指代什么实体或概念。"
+    },
+    {
+      "item": "“真理是如此的”中的“真理”具体指代什么不明确。",
+      "reason": "文本中未明确说明“真理”的具体内容。"
+    }
+  ],
+  "_meta": {
+    "status": "success",
+    "stage": "extract",
+    "model": "deepseek-ai/DeepSeek-V4-Flash",
+    "base_url": "https://api.siliconflow.cn/v1",
+    "prompt_version": "extract_prompt_v2.0",
+    "schema_version": "lite_v2.0",
+    "segment_id": "菊农_000_b90d5dfb_s0005",
+    "article_id": "菊农_000_b90d5dfb",
+    "char_start": 2517,
+    "char_end": 3112,
+    "raw_path": "E:\\1研究生\\岭南大学\\论文毕业\\capstone\\资料\\新的内容开始了\\local_upload\\kg_runs\\菊农\\raw_outputs\\extract\\菊农_000_b90d5dfb_s0005.txt",
+    "parsed_at": "2026-05-19T22:44:18",
+    "started_at": "2026-05-19T22:40:18",
+    "elapsed_seconds": 239.967,
+    "strict_evidence_check": true,
+    "drop_unsupported_evidence": true,
+    "request_timeout_seconds": 180
+  }
+}

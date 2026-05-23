@@ -1,0 +1,580 @@
+{
+  "metadata": {
+    "schema_version": "lite_v3.0",
+    "article_id": "丁文江_000_3ba07a5e",
+    "article_title": "玄学与科学 ——评张君劢的《人生观》",
+    "source_author": "丁文江",
+    "section_title": "",
+    "section_author": "",
+    "segment_id": "丁文江_000_3ba07a5e_s0019",
+    "segment_index": 19,
+    "source_file": "E:\\1研究生\\岭南大学\\论文毕业\\capstone\\资料\\新的内容开始了\\local_upload\\input_丁文江\\丁文江.txt"
+  },
+  "entities": [
+    {
+      "id": "e1",
+      "name": "张之洞",
+      "canonical_name": "张之洞",
+      "type": "人物",
+      "evidence": "很像我们的张之洞",
+      "confidence": 1.0
+    },
+    {
+      "id": "e2",
+      "name": "玄学",
+      "canonical_name": "玄学",
+      "type": "概念",
+      "evidence": "要以玄学为体，科学为用",
+      "confidence": 1.0
+    },
+    {
+      "id": "e3",
+      "name": "科学",
+      "canonical_name": "科学",
+      "type": "概念",
+      "evidence": "要以玄学为体，科学为用",
+      "confidence": 1.0
+    },
+    {
+      "id": "e4",
+      "name": "阎百诗",
+      "canonical_name": "阎百诗",
+      "type": "人物",
+      "evidence": "阎百诗推翻了伪古文《尚书》",
+      "confidence": 1.0
+    },
+    {
+      "id": "e5",
+      "name": "伪古文《尚书》",
+      "canonical_name": "伪古文《尚书》",
+      "type": "著作",
+      "evidence": "阎百诗推翻了伪古文《尚书》",
+      "confidence": 1.0
+    },
+    {
+      "id": "e6",
+      "name": "安基尔",
+      "canonical_name": "安基尔",
+      "type": "人物",
+      "evidence": "安基尔做一部书，叫做《大幻影》",
+      "confidence": 1.0
+    },
+    {
+      "id": "e7",
+      "name": "《大幻影》",
+      "canonical_name": "《大幻影》",
+      "type": "著作",
+      "evidence": "安基尔做一部书，叫做《大幻影》",
+      "confidence": 1.0
+    },
+    {
+      "id": "e8",
+      "name": "玄学家",
+      "canonical_name": "玄学家",
+      "type": "阵营/群体",
+      "evidence": "一班应负责任的玄学家、教育家、政治家",
+      "confidence": 1.0
+    },
+    {
+      "id": "e9",
+      "name": "教育家",
+      "canonical_name": "教育家",
+      "type": "阵营/群体",
+      "evidence": "一班应负责任的玄学家、教育家、政治家",
+      "confidence": 1.0
+    },
+    {
+      "id": "e10",
+      "name": "政治家",
+      "canonical_name": "政治家",
+      "type": "阵营/群体",
+      "evidence": "一班应负责任的玄学家、教育家、政治家",
+      "confidence": 1.0
+    },
+    {
+      "id": "e11",
+      "name": "科学",
+      "canonical_name": "科学",
+      "type": "概念",
+      "evidence": "反要把物质文明的罪名加到纯洁高尚的科学身上",
+      "confidence": 1.0
+    },
+    {
+      "id": "e12",
+      "name": "物质文明",
+      "canonical_name": "物质文明",
+      "type": "概念",
+      "evidence": "反要把物质文明的罪名加到纯洁高尚的科学身上",
+      "confidence": 1.0
+    },
+    {
+      "id": "e13",
+      "name": "精神文明",
+      "canonical_name": "精神文明",
+      "type": "概念",
+      "evidence": "赶快抬出我们的精神文明来补救物质文明",
+      "confidence": 1.0
+    },
+    {
+      "id": "e14",
+      "name": "张君劢",
+      "canonical_name": "张君劢",
+      "type": "人物",
+      "evidence": "张君劢说：“自孔孟以至宋元明之理学家侧重内心生活之修养，其结果为精神文明。”",
+      "confidence": 1.0
+    },
+    {
+      "id": "e15",
+      "name": "孔孟",
+      "canonical_name": "孔孟",
+      "type": "人物",
+      "evidence": "自孔孟以至宋元明之理学家侧重内心生活之修养",
+      "confidence": 1.0
+    },
+    {
+      "id": "e16",
+      "name": "理学家",
+      "canonical_name": "理学家",
+      "type": "阵营/群体",
+      "evidence": "自孔孟以至宋元明之理学家侧重内心生活之修养",
+      "confidence": 1.0
+    },
+    {
+      "id": "e17",
+      "name": "内心生活之修养",
+      "canonical_name": "内心生活之修养",
+      "type": "概念",
+      "evidence": "自孔孟以至宋元明之理学家侧重内心生活之修养",
+      "confidence": 1.0
+    },
+    {
+      "id": "e18",
+      "name": "精神文明",
+      "canonical_name": "精神文明",
+      "type": "概念",
+      "evidence": "其结果为精神文明",
+      "confidence": 1.0
+    },
+    {
+      "id": "e19",
+      "name": "科学方法",
+      "canonical_name": "科学方法",
+      "type": "方法",
+      "evidence": "许多中国人不知道科学方法和近三百年经学大师治学的方法是一样的",
+      "confidence": 1.0
+    },
+    {
+      "id": "e20",
+      "name": "近三百年经学大师治学的方法",
+      "canonical_name": "近三百年经学大师治学的方法",
+      "type": "方法",
+      "evidence": "许多中国人不知道科学方法和近三百年经学大师治学的方法是一样的",
+      "confidence": 1.0
+    },
+    {
+      "id": "e21",
+      "name": "西洋的科学",
+      "canonical_name": "西洋的科学",
+      "type": "概念",
+      "evidence": "他们误以为西洋的科学是机械的，物质的，向外的，形而下的",
+      "confidence": 1.0
+    },
+    {
+      "id": "e22",
+      "name": "欧洲玄学家",
+      "canonical_name": "欧洲玄学家",
+      "type": "阵营/群体",
+      "evidence": "这种学说自然很合欧洲玄学家的脾胃",
+      "confidence": 1.0
+    }
+  ],
+  "claims": [
+    {
+      "id": "c1",
+      "speaker": "丁文江",
+      "claim": "他们这班人的心理，很像我们的张之洞，要以玄学为体，科学为用",
+      "target": "他们这班人",
+      "claim_type": "对比性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "他们这班人的心理，很像我们的张之洞，要以玄学为体，科学为用",
+      "confidence": 1.0
+    },
+    {
+      "id": "c2",
+      "speaker": "丁文江",
+      "claim": "他们不敢扫除科学，因为工业要利用他，但是天天在那里防范科学，不要侵入他们的饭碗界里来",
+      "target": "他们",
+      "claim_type": "描述性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "他们不敢扫除科学，因为工业要利用他，但是天天在那里防范科学，不要侵入他们的饭碗界里来",
+      "confidence": 1.0
+    },
+    {
+      "id": "c3",
+      "speaker": "丁文江",
+      "claim": "欧美的工业虽然是利用科学的发明，他们的政治社会却绝对的缺乏科学精神",
+      "target": "欧美的政治社会",
+      "claim_type": "描述性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "欧美的工业虽然是利用科学的发明，他们的政治社会却绝对的缺乏科学精神",
+      "confidence": 1.0
+    },
+    {
+      "id": "c4",
+      "speaker": "丁文江",
+      "claim": "这和前清的经师尽管承认阎百诗推翻了伪古文《尚书》，然而科场考试仍旧有伪《尚书》在内，是一样的道理",
+      "target": "前清的经师",
+      "claim_type": "对比性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "这和前清的经师尽管承认阎百诗推翻了伪古文《尚书》，然而科场考试仍旧有伪《尚书》在内，是一样的道理",
+      "confidence": 1.0
+    },
+    {
+      "id": "c5",
+      "speaker": "丁文江",
+      "claim": "人生观不能统一也是为此，战争不能废止也是为此",
+      "target": "人生观不能统一、战争不能废止",
+      "claim_type": "因果主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "人生观不能统一也是为此，战争不能废止也是为此",
+      "confidence": 1.0
+    },
+    {
+      "id": "c6",
+      "speaker": "丁文江",
+      "claim": "安基尔做一部书，叫做《大幻影》，用科学方法研究战争与经济的关系，详细证明战争的结果，战胜国也是一样的破产，苦口的反对战争",
+      "target": "安基尔",
+      "claim_type": "描述性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "安基尔做一部书，叫做《大幻影》，用科学方法研究战争与经济的关系，详细证明战争的结果，战胜国也是一样的破产，苦口的反对战争",
+      "confidence": 1.0
+    },
+    {
+      "id": "c7",
+      "speaker": "丁文江",
+      "claim": "当时欧洲的政治家没有不笑他迂腐的",
+      "target": "欧洲的政治家",
+      "claim_type": "描述性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "当时欧洲的政治家没有不笑他迂腐的",
+      "confidence": 1.0
+    },
+    {
+      "id": "c8",
+      "speaker": "丁文江",
+      "claim": "欧洲的国家果然都因为战争破了产了",
+      "target": "欧洲的国家",
+      "claim_type": "描述性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "到了如今，欧洲的国家果然都因为战争破了产了",
+      "confidence": 1.0
+    },
+    {
+      "id": "c9",
+      "speaker": "丁文江",
+      "claim": "一班应负责任的玄学家、教育家、政治家却丝毫不肯悔过，反要把物质文明的罪名加到纯洁高尚的科学身上，说他是“务外逐物”",
+      "target": "玄学家、教育家、政治家",
+      "claim_type": "评价性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "一班应负责任的玄学家、教育家、政治家却丝毫不肯悔过，反要把物质文明的罪名加到纯洁高尚的科学身上，说他是“务外逐物”",
+      "confidence": 1.0
+    },
+    {
+      "id": "c10",
+      "speaker": "丁文江",
+      "claim": "许多中国人不知道科学方法和近三百年经学大师治学的方法是一样的",
+      "target": "许多中国人",
+      "claim_type": "描述性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "许多中国人不知道科学方法和近三百年经学大师治学的方法是一样的",
+      "confidence": 1.0
+    },
+    {
+      "id": "c11",
+      "speaker": "丁文江",
+      "claim": "他们误以为西洋的科学是机械的，物质的，向外的，形而下的",
+      "target": "他们",
+      "claim_type": "描述性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "他们误以为西洋的科学是机械的，物质的，向外的，形而下的",
+      "confidence": 1.0
+    },
+    {
+      "id": "c12",
+      "speaker": "丁文江",
+      "claim": "庚子以后，要以科学为用，不敢公然诽谤科学",
+      "target": "许多中国人",
+      "claim_type": "描述性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "庚子以后，要以科学为用，不敢公然诽谤科学",
+      "confidence": 1.0
+    },
+    {
+      "id": "c13",
+      "speaker": "丁文江",
+      "claim": "欧战发生，这种人的机会来了。产生科学的欧洲要破产了！赶快抬出我们的精神文明来补救物质文明",
+      "target": "这种人",
+      "claim_type": "描述性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "欧战发生，这种人的机会来了。产生科学的欧洲要破产了！赶快抬出我们的精神文明来补救物质文明",
+      "confidence": 1.0
+    },
+    {
+      "id": "c14",
+      "speaker": "丁文江",
+      "claim": "这种学说自然很合欧洲玄学家的脾胃",
+      "target": "这种学说",
+      "claim_type": "评价性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "这种学说自然很合欧洲玄学家的脾胃",
+      "confidence": 1.0
+    },
+    {
+      "id": "c15",
+      "speaker": "张君劢",
+      "claim": "自孔孟以至宋元明之理学家侧重内心生活之修养，其结果为精神文明",
+      "target": "精神文明",
+      "claim_type": "定义性主张",
+      "claim_status": "直接引用",
+      "polarity": "positive",
+      "evidence": "张君劢说：“自孔孟以至宋元明之理学家侧重内心生活之修养，其结果为精神文明。”",
+      "confidence": 1.0
+    },
+    {
+      "id": "c16",
+      "speaker": "丁文江",
+      "claim": "我们试拿历史来看看这种精神文明的结果",
+      "target": "精神文明",
+      "claim_type": "问题提出",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "我们试拿历史来看看这种精神文明的结果",
+      "confidence": 1.0
+    }
+  ],
+  "relations": [
+    {
+      "id": "r1",
+      "head": "他们这班人",
+      "head_type": "阵营/群体",
+      "relation": "类比",
+      "relation_subtype": "不适用",
+      "tail": "张之洞",
+      "tail_type": "人物",
+      "polarity": "negative",
+      "stance_score": -0.8,
+      "intensity": 0.7,
+      "evidence": "他们这班人的心理，很像我们的张之洞，要以玄学为体，科学为用",
+      "confidence": 1.0
+    },
+    {
+      "id": "r2",
+      "head": "他们",
+      "head_type": "阵营/群体",
+      "relation": "反对",
+      "relation_subtype": "一般批评",
+      "tail": "科学",
+      "tail_type": "概念",
+      "polarity": "negative",
+      "stance_score": -0.8,
+      "intensity": 0.7,
+      "evidence": "他们不敢扫除科学，因为工业要利用他，但是天天在那里防范科学，不要侵入他们的饭碗界里来",
+      "confidence": 1.0
+    },
+    {
+      "id": "r3",
+      "head": "安基尔",
+      "head_type": "人物",
+      "relation": "主张",
+      "relation_subtype": "不适用",
+      "tail": "战争的结果，战胜国也是一样的破产",
+      "tail_type": "观点",
+      "polarity": "positive",
+      "stance_score": 1.0,
+      "intensity": 0.8,
+      "evidence": "安基尔做一部书，叫做《大幻影》，用科学方法研究战争与经济的关系，详细证明战争的结果，战胜国也是一样的破产，苦口的反对战争",
+      "confidence": 1.0
+    },
+    {
+      "id": "r4",
+      "head": "玄学家、教育家、政治家",
+      "head_type": "阵营/群体",
+      "relation": "批评",
+      "relation_subtype": "道德指责",
+      "tail": "科学",
+      "tail_type": "概念",
+      "polarity": "negative",
+      "stance_score": -0.9,
+      "intensity": 0.9,
+      "evidence": "一班应负责任的玄学家、教育家、政治家却丝毫不肯悔过，反要把物质文明的罪名加到纯洁高尚的科学身上，说他是“务外逐物”",
+      "confidence": 1.0
+    },
+    {
+      "id": "r5",
+      "head": "许多中国人",
+      "head_type": "阵营/群体",
+      "relation": "混淆",
+      "relation_subtype": "概念混淆批评",
+      "tail": "科学方法",
+      "tail_type": "方法",
+      "polarity": "negative",
+      "stance_score": -0.7,
+      "intensity": 0.6,
+      "evidence": "许多中国人不知道科学方法和近三百年经学大师治学的方法是一样的",
+      "confidence": 1.0
+    },
+    {
+      "id": "r6",
+      "head": "他们",
+      "head_type": "阵营/群体",
+      "relation": "相关",
+      "relation_subtype": "一般批评",
+      "tail": "西洋的科学",
+      "tail_type": "概念",
+      "polarity": "negative",
+      "stance_score": -0.7,
+      "intensity": 0.6,
+      "evidence": "他们误以为西洋的科学是机械的，物质的，向外的，形而下的",
+      "confidence": 1.0
+    },
+    {
+      "id": "r7",
+      "head": "这种学说",
+      "head_type": "观点",
+      "relation": "支持",
+      "relation_subtype": "援引权威",
+      "tail": "欧洲玄学家",
+      "tail_type": "阵营/群体",
+      "polarity": "negative",
+      "stance_score": -0.6,
+      "intensity": 0.5,
+      "evidence": "这种学说自然很合欧洲玄学家的脾胃",
+      "confidence": 1.0
+    },
+    {
+      "id": "r8",
+      "head": "张君劢",
+      "head_type": "人物",
+      "relation": "定义",
+      "relation_subtype": "概念澄清",
+      "tail": "精神文明",
+      "tail_type": "概念",
+      "polarity": "positive",
+      "stance_score": 0.0,
+      "intensity": 0.5,
+      "evidence": "张君劢说：“自孔孟以至宋元明之理学家侧重内心生活之修养，其结果为精神文明。”",
+      "confidence": 1.0
+    }
+  ],
+  "definitions": [
+    {
+      "id": "def1",
+      "term": "精神文明",
+      "definition": "自孔孟以至宋元明之理学家侧重内心生活之修养，其结果为精神文明",
+      "evidence": "张君劢说：“自孔孟以至宋元明之理学家侧重内心生活之修养，其结果为精神文明。”",
+      "confidence": 1.0
+    }
+  ],
+  "citations": [
+    {
+      "id": "cit1",
+      "citer": "丁文江",
+      "quoted_author": "张君劢",
+      "quoted_work": "",
+      "quoted_claim": "自孔孟以至宋元明之理学家侧重内心生活之修养，其结果为精神文明",
+      "function": "作为批评对象",
+      "evidence": "张君劢说：“自孔孟以至宋元明之理学家侧重内心生活之修养，其结果为精神文明。”",
+      "confidence": 1.0
+    }
+  ],
+  "rhetorical_devices": [
+    {
+      "id": "rh1",
+      "expression": "很像我们的张之洞，要以玄学为体，科学为用",
+      "device_type": "类比",
+      "literal_target": "他们这班人的心理",
+      "function": "通过类比张之洞的立场，批评他们表面利用科学实则防范科学的态度",
+      "evidence": "他们这班人的心理，很像我们的张之洞，要以玄学为体，科学为用",
+      "confidence": 1.0
+    },
+    {
+      "id": "rh2",
+      "expression": "不要侵入他们的饭碗界里来",
+      "device_type": "比喻",
+      "literal_target": "科学侵入他们的领域",
+      "function": "用饭碗比喻利益范围，讽刺他们防范科学是为了保护自身利益",
+      "evidence": "但是天天在那里防范科学，不要侵入他们的饭碗界里来",
+      "confidence": 1.0
+    },
+    {
+      "id": "rh3",
+      "expression": "纯洁高尚的科学",
+      "device_type": "反语",
+      "literal_target": "科学",
+      "function": "用反语强调科学被错误指责，讽刺玄学家等将物质文明罪名加于科学",
+      "evidence": "反要把物质文明的罪名加到纯洁高尚的科学身上",
+      "confidence": 1.0
+    },
+    {
+      "id": "rh4",
+      "expression": "务外逐物",
+      "device_type": "标签化",
+      "literal_target": "科学",
+      "function": "引用玄学家对科学的贬称，讽刺其指责",
+      "evidence": "说他是“务外逐物”",
+      "confidence": 1.0
+    },
+    {
+      "id": "rh5",
+      "expression": "赶快抬出我们的精神文明来补救物质文明",
+      "device_type": "讽刺",
+      "literal_target": "这种人的学说",
+      "function": "讽刺他们借欧战机会宣扬精神文明以补救物质文明",
+      "evidence": "赶快抬出我们的精神文明来补救物质文明",
+      "confidence": 1.0
+    }
+  ],
+  "uncertainties": [
+    {
+      "item": "“他们这班人”具体指代哪些群体",
+      "reason": "文本未明确说明，仅通过上下文推测可能指代某些玄学家或反对科学者"
+    },
+    {
+      "item": "“前清的经师”与“他们这班人”的类比是否完全对应",
+      "reason": "文本未详细说明类比的具体对应关系"
+    }
+  ],
+  "_meta": {
+    "status": "success",
+    "stage": "extract",
+    "model": "deepseek-ai/DeepSeek-V4-Flash",
+    "base_url": "https://api.siliconflow.cn/v1",
+    "prompt_version": "v2.0",
+    "schema_version": "lite_v3.0",
+    "segment_id": "丁文江_000_3ba07a5e_s0019",
+    "article_id": "丁文江_000_3ba07a5e",
+    "char_start": 9660,
+    "char_end": 10254,
+    "raw_path": "E:\\1研究生\\岭南大学\\论文毕业\\capstone\\资料\\新的内容开始了\\local_upload\\kg_runs_v2\\丁文江_等3篇\\raw_outputs\\extract\\丁文江_000_3ba07a5e_s0019.txt",
+    "parsed_at": "2026-05-21T20:25:51",
+    "started_at": "2026-05-21T20:12:47",
+    "elapsed_seconds": 784.254,
+    "strict_evidence_check": true,
+    "drop_unsupported_evidence": true,
+    "request_timeout_seconds": 180
+  }
+}

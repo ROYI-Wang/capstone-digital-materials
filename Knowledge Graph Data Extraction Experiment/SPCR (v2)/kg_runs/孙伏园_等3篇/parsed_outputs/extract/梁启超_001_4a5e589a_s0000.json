@@ -1,0 +1,414 @@
+{
+  "metadata": {
+    "schema_version": "lite_v3.0",
+    "article_id": "梁启超_001_4a5e589a",
+    "article_title": "人生观与科学",
+    "source_author": "梁启超",
+    "section_title": "",
+    "section_author": "",
+    "segment_id": "梁启超_001_4a5e589a_s0000",
+    "segment_index": 0,
+    "source_file": "E:\\1研究生\\岭南大学\\论文毕业\\capstone\\资料\\新的内容开始了\\local_upload\\input_v2_w3\\梁启超.txt"
+  },
+  "entities": [
+    {
+      "id": "e1",
+      "name": "张君劢",
+      "canonical_name": "张君劢",
+      "type": "人物",
+      "evidence": "张君劢在清华学校演说一篇《人生观》",
+      "confidence": 1.0
+    },
+    {
+      "id": "e2",
+      "name": "丁在君",
+      "canonical_name": "丁在君",
+      "type": "人物",
+      "evidence": "丁在君做了一篇《玄学与科学》和他宣战",
+      "confidence": 1.0
+    },
+    {
+      "id": "e3",
+      "name": "《人生观》",
+      "canonical_name": "人生观",
+      "type": "文章",
+      "evidence": "张君劢在清华学校演说一篇《人生观》",
+      "confidence": 1.0
+    },
+    {
+      "id": "e4",
+      "name": "《玄学与科学》",
+      "canonical_name": "玄学与科学",
+      "type": "文章",
+      "evidence": "丁在君做了一篇《玄学与科学》和他宣战",
+      "confidence": 1.0
+    },
+    {
+      "id": "e5",
+      "name": "我",
+      "canonical_name": "梁启超",
+      "type": "人物",
+      "evidence": "我不免也见猎心喜，要把我自己意见写点出来助兴了",
+      "confidence": 1.0
+    },
+    {
+      "id": "e6",
+      "name": "我们最亲爱的两位老友",
+      "canonical_name": "张君劢和丁在君",
+      "type": "阵营/群体",
+      "evidence": "我们最亲爱的两位老友，忽然在学界上变成对垒的两造",
+      "confidence": 0.8
+    },
+    {
+      "id": "e7",
+      "name": "学界",
+      "canonical_name": "学界",
+      "type": "阵营/群体",
+      "evidence": "忽然在学界上变成对垒的两造",
+      "confidence": 1.0
+    },
+    {
+      "id": "e8",
+      "name": "两造",
+      "canonical_name": "两造",
+      "type": "阵营/群体",
+      "evidence": "忽然在学界上变成对垒的两造",
+      "confidence": 1.0
+    },
+    {
+      "id": "e9",
+      "name": "观战的新闻记者",
+      "canonical_name": "观战的新闻记者",
+      "type": "比喻/类比",
+      "evidence": "我不过是一个观战的新闻记者，把所视察得来的战况随手批评一下便了",
+      "confidence": 1.0
+    },
+    {
+      "id": "e10",
+      "name": "战况",
+      "canonical_name": "战况",
+      "type": "比喻/类比",
+      "evidence": "把所视察得来的战况随手批评一下便了",
+      "confidence": 1.0
+    },
+    {
+      "id": "e11",
+      "name": "科学",
+      "canonical_name": "科学",
+      "type": "概念",
+      "evidence": "我是对于科学、玄学都没有深造研究的人",
+      "confidence": 1.0
+    },
+    {
+      "id": "e12",
+      "name": "玄学",
+      "canonical_name": "玄学",
+      "type": "概念",
+      "evidence": "我是对于科学、玄学都没有深造研究的人",
+      "confidence": 1.0
+    },
+    {
+      "id": "e13",
+      "name": "科学的智识论与所谓“玄学鬼”",
+      "canonical_name": "科学的智识论与所谓“玄学鬼”",
+      "type": "文章",
+      "evidence": "做完这篇之后，打算还跟着做几篇：（一）科学的智识论与所谓“玄学鬼”",
+      "confidence": 1.0
+    },
+    {
+      "id": "e14",
+      "name": "科学教育与超科学教育",
+      "canonical_name": "科学教育与超科学教育",
+      "type": "文章",
+      "evidence": "（二）科学教育与超科学教育",
+      "confidence": 1.0
+    },
+    {
+      "id": "e15",
+      "name": "论战者之态度",
+      "canonical_name": "论战者之态度",
+      "type": "文章",
+      "evidence": "（三）论战者之态度……等等",
+      "confidence": 1.0
+    },
+    {
+      "id": "e16",
+      "name": "几位朋友",
+      "canonical_name": "几位朋友",
+      "type": "阵营/群体",
+      "evidence": "听说有几位朋友都要参战",
+      "confidence": 1.0
+    },
+    {
+      "id": "e17",
+      "name": "张丁两君头一次交绥的文章",
+      "canonical_name": "张丁两君头一次交绥的文章",
+      "type": "文章",
+      "evidence": "所以这一篇纯是对于张丁两君头一次交绥的文章下批评",
+      "confidence": 1.0
+    },
+    {
+      "id": "e18",
+      "name": "他们二次彼此答辩的话",
+      "canonical_name": "他们二次彼此答辩的话",
+      "type": "文章",
+      "evidence": "他们二次彼此答辩的话，好留待下次",
+      "confidence": 1.0
+    },
+    {
+      "id": "e19",
+      "name": "其余陆续参战的文章",
+      "canonical_name": "其余陆续参战的文章",
+      "type": "文章",
+      "evidence": "其余陆续参战的文章，我很盼早些出现",
+      "confidence": 1.0
+    }
+  ],
+  "claims": [
+    {
+      "id": "c1",
+      "speaker": "梁启超",
+      "claim": "我不免也见猎心喜，要把我自己意见写点出来助兴了",
+      "target": "",
+      "claim_type": "描述性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "我不免也见猎心喜，要把我自己意见写点出来助兴了",
+      "confidence": 1.0
+    },
+    {
+      "id": "c2",
+      "speaker": "梁启超",
+      "claim": "我不是加在那一造去“参战”；也不是想斡旋两造做“调人”；尤其不配充当“国际法庭的公断人”",
+      "target": "",
+      "claim_type": "描述性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "我不是加在那一造去“参战”；也不是想斡旋两造做“调人”；尤其不配充当“国际法庭的公断人”",
+      "confidence": 1.0
+    },
+    {
+      "id": "c3",
+      "speaker": "梁启超",
+      "claim": "我不过是一个观战的新闻记者，把所视察得来的战况随手批评一下便了",
+      "target": "",
+      "claim_type": "描述性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "我不过是一个观战的新闻记者，把所视察得来的战况随手批评一下便了",
+      "confidence": 1.0
+    },
+    {
+      "id": "c4",
+      "speaker": "梁启超",
+      "claim": "我是对于科学、玄学都没有深造研究的人",
+      "target": "",
+      "claim_type": "描述性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "我是对于科学、玄学都没有深造研究的人",
+      "confidence": 1.0
+    },
+    {
+      "id": "c5",
+      "speaker": "梁启超",
+      "claim": "我所批评的一点不敢自以为是",
+      "target": "",
+      "claim_type": "描述性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "我所批评的一点不敢自以为是",
+      "confidence": 1.0
+    },
+    {
+      "id": "c6",
+      "speaker": "梁启超",
+      "claim": "我两位老友以及其他参战人观战人把我的批评给我一个心折的反驳，我是最欢迎的",
+      "target": "",
+      "claim_type": "描述性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "我两位老友以及其他参战人观战人把我的批评给我一个心折的反驳，我是最欢迎的",
+      "confidence": 1.0
+    },
+    {
+      "id": "c7",
+      "speaker": "梁启超",
+      "claim": "这回战争范围，已经蔓延得很大了，几乎令观战人应接不暇",
+      "target": "",
+      "claim_type": "描述性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "这回战争范围，已经蔓延得很大了，几乎令观战人应接不暇",
+      "confidence": 1.0
+    },
+    {
+      "id": "c8",
+      "speaker": "梁启超",
+      "claim": "这一篇纯是对于张丁两君头一次交绥的文章下批评",
+      "target": "",
+      "claim_type": "描述性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "所以这一篇纯是对于张丁两君头一次交绥的文章下批评",
+      "confidence": 1.0
+    },
+    {
+      "id": "c9",
+      "speaker": "梁启超",
+      "claim": "他们二次彼此答辩的话，好留待下次",
+      "target": "",
+      "claim_type": "描述性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "他们二次彼此答辩的话，好留待下次",
+      "confidence": 1.0
+    },
+    {
+      "id": "c10",
+      "speaker": "梁启超",
+      "claim": "其余陆续参战的文章，我很盼早些出现",
+      "target": "",
+      "claim_type": "描述性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "其余陆续参战的文章，我很盼早些出现",
+      "confidence": 1.0
+    }
+  ],
+  "relations": [
+    {
+      "id": "r1",
+      "head": "张君劢",
+      "head_type": "人物",
+      "relation": "主张",
+      "relation_subtype": "不适用",
+      "tail": "《人生观》",
+      "tail_type": "文章",
+      "polarity": "neutral",
+      "stance_score": 0.0,
+      "intensity": 0.0,
+      "evidence": "张君劢在清华学校演说一篇《人生观》",
+      "confidence": 1.0
+    },
+    {
+      "id": "r2",
+      "head": "丁在君",
+      "head_type": "人物",
+      "relation": "主张",
+      "relation_subtype": "不适用",
+      "tail": "《玄学与科学》",
+      "tail_type": "文章",
+      "polarity": "neutral",
+      "stance_score": 0.0,
+      "intensity": 0.0,
+      "evidence": "丁在君做了一篇《玄学与科学》和他宣战",
+      "confidence": 1.0
+    },
+    {
+      "id": "r3",
+      "head": "梁启超",
+      "head_type": "人物",
+      "relation": "相关",
+      "relation_subtype": "一般批评",
+      "tail": "张丁两君头一次交绥的文章",
+      "tail_type": "文章",
+      "polarity": "neutral",
+      "stance_score": 0.0,
+      "intensity": 0.0,
+      "evidence": "所以这一篇纯是对于张丁两君头一次交绥的文章下批评",
+      "confidence": 1.0
+    }
+  ],
+  "definitions": [],
+  "citations": [],
+  "rhetorical_devices": [
+    {
+      "id": "rh1",
+      "expression": "见猎心喜",
+      "device_type": "比喻",
+      "literal_target": "作者对论战产生兴趣并想参与",
+      "function": "形象化表达作者参与论战的动机",
+      "evidence": "我不免也见猎心喜，要把我自己意见写点出来助兴了",
+      "confidence": 1.0
+    },
+    {
+      "id": "rh2",
+      "expression": "对垒的两造",
+      "device_type": "比喻",
+      "literal_target": "张君劢和丁在君在学术上对立",
+      "function": "将学术争论比喻为军事对抗",
+      "evidence": "忽然在学界上变成对垒的两造",
+      "confidence": 1.0
+    },
+    {
+      "id": "rh3",
+      "expression": "观战的新闻记者",
+      "device_type": "比喻",
+      "literal_target": "作者自比观察者而非参与者",
+      "function": "表明作者的中立旁观立场",
+      "evidence": "我不过是一个观战的新闻记者，把所视察得来的战况随手批评一下便了",
+      "confidence": 1.0
+    },
+    {
+      "id": "rh4",
+      "expression": "战况",
+      "device_type": "比喻",
+      "literal_target": "论战的内容和进展",
+      "function": "将学术争论比喻为战争",
+      "evidence": "把所视察得来的战况随手批评一下便了",
+      "confidence": 1.0
+    },
+    {
+      "id": "rh5",
+      "expression": "战争范围",
+      "device_type": "比喻",
+      "literal_target": "论战涉及的范围",
+      "function": "将学术争论比喻为战争",
+      "evidence": "这回战争范围，已经蔓延得很大了",
+      "confidence": 1.0
+    },
+    {
+      "id": "rh6",
+      "expression": "崔颢题诗",
+      "device_type": "比喻",
+      "literal_target": "担心别人先写出更好的文章让自己不敢下笔",
+      "function": "用典故表达写作的顾虑",
+      "evidence": "再多看几篇，也许“崔颢题诗”叫我搁笔",
+      "confidence": 1.0
+    }
+  ],
+  "uncertainties": [
+    {
+      "item": "张丁论战的具体内容",
+      "reason": "文本仅提及张君劢演说《人生观》和丁在君作《玄学与科学》宣战，未提供论战具体观点"
+    },
+    {
+      "item": "“科学的智识论与所谓‘玄学鬼’”等后续文章是否完成",
+      "reason": "作者表示‘打算还跟着做几篇’，但未确认实际完成"
+    },
+    {
+      "item": "“几位朋友”具体指谁",
+      "reason": "文本未明确列出参战朋友的身份"
+    }
+  ],
+  "_meta": {
+    "status": "success",
+    "stage": "extract",
+    "model": "deepseek-ai/DeepSeek-V4-Flash",
+    "base_url": "https://api.siliconflow.cn/v1",
+    "prompt_version": "v2.0",
+    "schema_version": "lite_v3.0",
+    "segment_id": "梁启超_001_4a5e589a_s0000",
+    "article_id": "梁启超_001_4a5e589a",
+    "char_start": 0,
+    "char_end": 580,
+    "raw_path": "E:\\1研究生\\岭南大学\\论文毕业\\capstone\\资料\\新的内容开始了\\local_upload\\kg_runs_v2\\孙伏园_等3篇\\raw_outputs\\extract\\梁启超_001_4a5e589a_s0000.txt",
+    "parsed_at": "2026-05-21T01:36:13",
+    "started_at": "2026-05-21T01:32:42",
+    "elapsed_seconds": 211.87,
+    "strict_evidence_check": true,
+    "drop_unsupported_evidence": true,
+    "request_timeout_seconds": 180
+  }
+}

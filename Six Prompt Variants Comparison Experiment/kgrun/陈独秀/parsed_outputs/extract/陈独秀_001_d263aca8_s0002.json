@@ -1,0 +1,406 @@
+{
+  "metadata": {
+    "schema_version": "lite_v2.0",
+    "article_id": "陈独秀_001_d263aca8",
+    "article_title": "答适之",
+    "source_author": "陈独秀",
+    "section_title": "方今国中竟言新文化，而文化转移之枢纽，不外乎人生观。吾有吾之文化，西洋有西洋之文化。西洋之有益者如何采之，有害者如何革除之；凡此取舍之间，皆决之于观点。观点定，而后精神上之思潮、物质上之制度，乃可按",
+    "section_author": "方今国中竟言新文化，而文化转移之枢纽，不外乎人生观。吾有吾之文化，西洋有西洋之文化。西洋之有益者如何采之，有害者如何革除之；凡此取舍之间，皆决之于观点。观点定，而后精神上之思潮、物质上之制度，乃可",
+    "segment_id": "陈独秀_001_d263aca8_s0002",
+    "segment_index": 2,
+    "source_file": "E:\\1研究生\\岭南大学\\论文毕业\\capstone\\资料\\新的内容开始了\\local_upload\\input_w2\\陈独秀.txt"
+  },
+  "entities": [
+    {
+      "id": "e1",
+      "name": "适之",
+      "canonical_name": "胡适",
+      "type": "人物",
+      "evidence": "适之便欲强为分别",
+      "confidence": 1.0
+    },
+    {
+      "id": "e2",
+      "name": "唯物史观",
+      "canonical_name": "唯物史观",
+      "type": "主义/学说/理论",
+      "evidence": "我依据唯物史观的理论来讨论人生观",
+      "confidence": 1.0
+    },
+    {
+      "id": "e3",
+      "name": "实验主义",
+      "canonical_name": "实验主义",
+      "type": "主义/学说/理论",
+      "evidence": "倘适之依据实验主义的理论来讨论人生观",
+      "confidence": 1.0
+    },
+    {
+      "id": "e4",
+      "name": "人生观",
+      "canonical_name": "人生观",
+      "type": "概念",
+      "evidence": "我们讨论的是人生观",
+      "confidence": 1.0
+    },
+    {
+      "id": "e5",
+      "name": "客观的物质原因",
+      "canonical_name": "客观的物质原因",
+      "type": "概念",
+      "evidence": "明明说只有客观的物质原因可以变动社会，可以解释历史，可以支配人生观",
+      "confidence": 1.0
+    },
+    {
+      "id": "e6",
+      "name": "经济",
+      "canonical_name": "经济",
+      "type": "概念",
+      "evidence": "在人类社会，自然以经济（即生产方法）为骨干",
+      "confidence": 1.0
+    },
+    {
+      "id": "e7",
+      "name": "生产方法",
+      "canonical_name": "生产方法",
+      "type": "概念",
+      "evidence": "即生产方法",
+      "confidence": 1.0
+    },
+    {
+      "id": "e8",
+      "name": "心的现象",
+      "canonical_name": "心的现象",
+      "type": "概念",
+      "evidence": "由物而发生之心的现象",
+      "confidence": 1.0
+    },
+    {
+      "id": "e9",
+      "name": "精神现象",
+      "canonical_name": "精神现象",
+      "type": "概念",
+      "evidence": "有心的现象即精神现象这种事实",
+      "confidence": 1.0
+    },
+    {
+      "id": "e10",
+      "name": "唯物论者",
+      "canonical_name": "唯物论者",
+      "type": "阵营/群体",
+      "evidence": "世界上无论如何彻底的唯物论者",
+      "confidence": 1.0
+    },
+    {
+      "id": "e11",
+      "name": "唯物史观的哲学者",
+      "canonical_name": "唯物史观的哲学者",
+      "type": "阵营/群体",
+      "evidence": "唯物史观的哲学者也并不是不重视思想文化宗教道德教育等心的现象之存在",
+      "confidence": 1.0
+    },
+    {
+      "id": "e12",
+      "name": "思想",
+      "canonical_name": "思想",
+      "type": "概念",
+      "evidence": "思想文化宗教道德教育等心的现象",
+      "confidence": 1.0
+    },
+    {
+      "id": "e13",
+      "name": "文化",
+      "canonical_name": "文化",
+      "type": "概念",
+      "evidence": "思想文化宗教道德教育等心的现象",
+      "confidence": 1.0
+    },
+    {
+      "id": "e14",
+      "name": "宗教",
+      "canonical_name": "宗教",
+      "type": "概念",
+      "evidence": "思想文化宗教道德教育等心的现象",
+      "confidence": 1.0
+    },
+    {
+      "id": "e15",
+      "name": "道德",
+      "canonical_name": "道德",
+      "type": "概念",
+      "evidence": "思想文化宗教道德教育等心的现象",
+      "confidence": 1.0
+    },
+    {
+      "id": "e16",
+      "name": "教育",
+      "canonical_name": "教育",
+      "type": "概念",
+      "evidence": "思想文化宗教道德教育等心的现象",
+      "confidence": 1.0
+    },
+    {
+      "id": "e17",
+      "name": "经济的基础上面之建筑物",
+      "canonical_name": "经济基础之上的建筑物",
+      "type": "概念",
+      "evidence": "都是经济的基础上面之建筑物",
+      "confidence": 1.0
+    },
+    {
+      "id": "e18",
+      "name": "一元论",
+      "canonical_name": "一元论",
+      "type": "主义/学说/理论",
+      "evidence": "之一元论",
+      "confidence": 1.0
+    },
+    {
+      "id": "e19",
+      "name": "多元论",
+      "canonical_name": "多元论",
+      "type": "主义/学说/理论",
+      "evidence": "之多元论",
+      "confidence": 1.0
+    },
+    {
+      "id": "e20",
+      "name": "历史",
+      "canonical_name": "历史",
+      "type": "概念",
+      "evidence": "可以解释历史",
+      "confidence": 1.0
+    },
+    {
+      "id": "e21",
+      "name": "社会",
+      "canonical_name": "社会",
+      "type": "概念",
+      "evidence": "可以变动社会",
+      "confidence": 1.0
+    }
+  ],
+  "claims": [
+    {
+      "id": "c1",
+      "speaker": "陈独秀",
+      "claim": "只有客观的物质原因可以变动社会，可以解释历史，可以支配人生观",
+      "target": "唯物史观",
+      "claim_type": "定义性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "明明说只有客观的物质原因可以变动社会，可以解释历史，可以支配人生观",
+      "confidence": 1.0
+    },
+    {
+      "id": "c2",
+      "speaker": "陈独秀",
+      "claim": "适之依据实验主义的理论来讨论人生观，别人若说适之说的是一种实验主义的哲学，适之不会服",
+      "target": "适之",
+      "claim_type": "论战策略批评",
+      "claim_status": "作者推论",
+      "polarity": "negative",
+      "evidence": "倘适之依据实验主义的理论来讨论人生观，别人若说：“我们讨论的是人生观，适之说的是一种实验主义的哲学，”适之服是不服？",
+      "confidence": 0.9
+    },
+    {
+      "id": "c3",
+      "speaker": "陈独秀",
+      "claim": "适之好像于唯物史观的理论还不大清楚，因此发生了许多误会",
+      "target": "适之",
+      "claim_type": "论战策略批评",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "适之好像于唯物史观的理论还不大清楚，因此发生了许多误会",
+      "confidence": 0.9
+    },
+    {
+      "id": "c4",
+      "speaker": "陈独秀",
+      "claim": "唯物史观所谓客观的物质原因，在人类社会，自然以经济（即生产方法）为骨干",
+      "target": "唯物史观",
+      "claim_type": "定义性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "第一，唯物史观所谓客观的物质原因，在人类社会，自然以经济（即生产方法）为骨干",
+      "confidence": 1.0
+    },
+    {
+      "id": "c5",
+      "speaker": "陈独秀",
+      "claim": "唯物史观所谓客观的物质原因，是指物质的本因而言，由物而发生之心的现象，当然不包括在内",
+      "target": "唯物史观",
+      "claim_type": "定义性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "第二，唯物史观所谓客观的物质原因，是指物质的本因而言，由物而发生之心的现象，当然不包括在内",
+      "confidence": 1.0
+    },
+    {
+      "id": "c6",
+      "speaker": "陈独秀",
+      "claim": "世界上无论如何彻底的唯物论者，断不能不承认有心的现象即精神现象这种事实",
+      "target": "唯物论者",
+      "claim_type": "知识论主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "世界上无论如何彻底的唯物论者，断不能不承认有心的现象即精神现象这种事实",
+      "confidence": 1.0
+    },
+    {
+      "id": "c7",
+      "speaker": "陈独秀",
+      "claim": "唯物史观的哲学者也并不是不重视思想文化宗教道德教育等心的现象之存在，惟只承认他们都是经济的基础上面之建筑物，而非基础之本身",
+      "target": "唯物史观的哲学者",
+      "claim_type": "定义性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "唯物史观的哲学者也并不是不重视思想文化宗教道德教育等心的现象之存在，惟只承认他们都是经济的基础上面之建筑物，而非基础之本身",
+      "confidence": 1.0
+    },
+    {
+      "id": "c8",
+      "speaker": "陈独秀",
+      "claim": "一元论和多元论是适之和我们争论之焦点",
+      "target": "适之",
+      "claim_type": "问题提出",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "这本是适之和我们争论之焦点",
+      "confidence": 1.0
+    }
+  ],
+  "relations": [
+    {
+      "id": "r1",
+      "head": "客观的物质原因",
+      "head_type": "概念",
+      "relation": "解释",
+      "tail": "社会",
+      "tail_type": "概念",
+      "polarity": "positive",
+      "evidence": "只有客观的物质原因可以变动社会",
+      "confidence": 1.0
+    },
+    {
+      "id": "r2",
+      "head": "心的现象",
+      "head_type": "概念",
+      "relation": "属于",
+      "tail": "精神现象",
+      "tail_type": "概念",
+      "polarity": "positive",
+      "evidence": "有心的现象即精神现象这种事实",
+      "confidence": 1.0
+    },
+    {
+      "id": "r3",
+      "head": "思想",
+      "head_type": "概念",
+      "relation": "属于",
+      "tail": "心的现象",
+      "tail_type": "概念",
+      "polarity": "positive",
+      "evidence": "思想文化宗教道德教育等心的现象",
+      "confidence": 1.0
+    },
+    {
+      "id": "r4",
+      "head": "文化",
+      "head_type": "概念",
+      "relation": "属于",
+      "tail": "心的现象",
+      "tail_type": "概念",
+      "polarity": "positive",
+      "evidence": "思想文化宗教道德教育等心的现象",
+      "confidence": 1.0
+    },
+    {
+      "id": "r5",
+      "head": "宗教",
+      "head_type": "概念",
+      "relation": "属于",
+      "tail": "心的现象",
+      "tail_type": "概念",
+      "polarity": "positive",
+      "evidence": "思想文化宗教道德教育等心的现象",
+      "confidence": 1.0
+    },
+    {
+      "id": "r6",
+      "head": "道德",
+      "head_type": "概念",
+      "relation": "属于",
+      "tail": "心的现象",
+      "tail_type": "概念",
+      "polarity": "positive",
+      "evidence": "思想文化宗教道德教育等心的现象",
+      "confidence": 1.0
+    },
+    {
+      "id": "r7",
+      "head": "教育",
+      "head_type": "概念",
+      "relation": "属于",
+      "tail": "心的现象",
+      "tail_type": "概念",
+      "polarity": "positive",
+      "evidence": "思想文化宗教道德教育等心的现象",
+      "confidence": 1.0
+    }
+  ],
+  "definitions": [
+    {
+      "id": "def1",
+      "term": "客观的物质原因",
+      "definition": "在人类社会以经济（即生产方法）为骨干，指物质的本因，不包括由物而生的心的现象",
+      "evidence": "第一，唯物史观所谓客观的物质原因，在人类社会，自然以经济（即生产方法）为骨干。第二，唯物史观所谓客观的物质原因，是指物质的本因而言，由物而发生之心的现象，当然不包括在内",
+      "confidence": 1.0
+    },
+    {
+      "id": "def2",
+      "term": "经济的基础上面之建筑物",
+      "definition": "思想、文化、宗教、道德、教育等心的现象是经济基础之上的建筑物，而非基础本身",
+      "evidence": "都是经济的基础上面之建筑物，而非基础之本身",
+      "confidence": 1.0
+    },
+    {
+      "id": "def3",
+      "term": "多元论",
+      "definition": "经济与制度、宗教、思想、政治、道德、文化、教育等并列，不承认经济为唯一基础",
+      "evidence": "之多元论",
+      "confidence": 1.0
+    }
+  ],
+  "citations": [],
+  "rhetorical_devices": [],
+  "uncertainties": [
+    {
+      "item": "适之是否真的不承认唯物史观是一种哲学",
+      "reason": "文本中陈独秀说“或者适之还不承认唯物史观也是一种哲学，想适之不至如此”，这是一种推测语气，不确定适之的真实态度"
+    },
+    {
+      "item": "陈独秀所引用的“明明说只有客观的物质原因可以变动社会，可以解释历史，可以支配人生观”是否是对适之原话的准确转述",
+      "reason": "文本中未提供适之原话，无法确认转述的准确性"
+    }
+  ],
+  "_meta": {
+    "status": "success",
+    "stage": "extract",
+    "model": "deepseek-ai/DeepSeek-V4-Flash",
+    "base_url": "https://api.siliconflow.cn/v1",
+    "prompt_version": "extract_prompt_v2.0",
+    "schema_version": "lite_v2.0",
+    "segment_id": "陈独秀_001_d263aca8_s0002",
+    "article_id": "陈独秀_001_d263aca8",
+    "char_start": 904,
+    "char_end": 1456,
+    "raw_path": "E:\\1研究生\\岭南大学\\论文毕业\\capstone\\资料\\新的内容开始了\\local_upload\\kg_runs\\陈独秀\\raw_outputs\\extract\\陈独秀_001_d263aca8_s0002.txt",
+    "parsed_at": "2026-05-20T02:05:14",
+    "started_at": "2026-05-20T02:02:44",
+    "elapsed_seconds": 150.003,
+    "strict_evidence_check": true,
+    "drop_unsupported_evidence": true,
+    "request_timeout_seconds": 180
+  }
+}

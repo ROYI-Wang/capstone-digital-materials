@@ -1,0 +1,537 @@
+{
+  "metadata": {
+    "schema_version": "lite_v3.0",
+    "article_id": "瞿秋白_000_a4753ce4",
+    "article_title": "《自由世界与必然世界》",
+    "source_author": "瞿秋白",
+    "section_title": "资本主义时代的强有力的生产工具若能变成公共的财产，生产制度若得按",
+    "section_author": "资本主义时代的强有力的生产工具若能变成公共的财产，生产制度若得",
+    "segment_id": "瞿秋白_000_a4753ce4_s0007",
+    "segment_index": 7,
+    "source_file": "E:\\1研究生\\岭南大学\\论文毕业\\capstone\\资料\\新的内容开始了\\local_upload\\input_瞿秋白\\瞿秋白.txt"
+  },
+  "entities": [
+    {
+      "id": "e1",
+      "name": "障碍力的必然",
+      "canonical_name": "障碍力的必然",
+      "type": "概念",
+      "evidence": "主观的行动，“障碍力的必然”是主观的受动。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e2",
+      "name": "因果的必然",
+      "canonical_name": "因果的必然",
+      "type": "概念",
+      "evidence": "至于“因果的必然”才是客观的解释。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e3",
+      "name": "社会发展既有因果的必然",
+      "canonical_name": "社会发展既有因果的必然",
+      "type": "观点",
+      "evidence": "或者以为社会发展既有因果的必然，便可以绝不行动，便无从有意识地去助长某种历史的发展。",
+      "confidence": 0.8
+    },
+    {
+      "id": "e4",
+      "name": "这种学说",
+      "canonical_name": "这种学说",
+      "type": "主义/学说/理论",
+      "evidence": "这种学说以为只有两种情形：“或者我认这种现象是必然的，不可免的，那便用不着去助长他；或若我的行动是引起这种现象所必需的，那便这种现象不能叫做必然的。谁又竭力去助长那必然的不可免的太阳之东升呢？”",
+      "confidence": 0.8
+    },
+    {
+      "id": "e5",
+      "name": "太阳之东升",
+      "canonical_name": "太阳之东升",
+      "type": "比喻/类比",
+      "evidence": "谁又竭力去助长那必然的不可免的太阳之东升呢？",
+      "confidence": 0.9
+    },
+    {
+      "id": "e6",
+      "name": "历史",
+      "canonical_name": "历史",
+      "type": "概念",
+      "evidence": "历史是人做的；当然，人的意向不能不是历史发展的一因素。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e7",
+      "name": "人的意向",
+      "canonical_name": "人的意向",
+      "type": "概念",
+      "evidence": "历史是人做的；当然，人的意向不能不是历史发展的一因素。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e8",
+      "name": "必然",
+      "canonical_name": "必然",
+      "type": "概念",
+      "evidence": "可是，人所做成的历史偏偏是这样的而不是那样的，正因为其中亦有个“必然”在。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e9",
+      "name": "意向",
+      "canonical_name": "意向",
+      "type": "概念",
+      "evidence": "“意向”并不与“必然”不相并立；不过意向亦受“必然”的规定罢了。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e10",
+      "name": "每一阶级",
+      "canonical_name": "每一阶级",
+      "type": "阵营/群体",
+      "evidence": "每一阶级倾向于求解放，行社会的变革，他的行动亦是这一变革的因。",
+      "confidence": 0.8
+    },
+    {
+      "id": "e11",
+      "name": "社会的变革",
+      "canonical_name": "社会的变革",
+      "type": "概念",
+      "evidence": "每一阶级倾向于求解放，行社会的变革，他的行动亦是这一变革的因。",
+      "confidence": 0.8
+    },
+    {
+      "id": "e12",
+      "name": "某种经济发展",
+      "canonical_name": "某种经济发展",
+      "type": "概念",
+      "evidence": "然而他的行动及种种意向又是某种经济发展的果，所以他自己亦受“必然”的规定。",
+      "confidence": 0.8
+    },
+    {
+      "id": "e13",
+      "name": "社会学",
+      "canonical_name": "社会学",
+      "type": "概念",
+      "evidence": "社会学之所以能成科学，全在于他能解释明白人之社会的目的何故发生；",
+      "confidence": 0.9
+    },
+    {
+      "id": "e14",
+      "name": "社会的目的",
+      "canonical_name": "社会的目的",
+      "type": "概念",
+      "evidence": "社会的目的是社会发展过程之必然的果，追寻他最后的原因，却在于经济发展。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e15",
+      "name": "经济发展",
+      "canonical_name": "经济发展",
+      "type": "概念",
+      "evidence": "社会的目的是社会发展过程之必然的果，追寻他最后的原因，却在于经济发展。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e16",
+      "name": "历史的必然",
+      "canonical_name": "历史的必然",
+      "type": "概念",
+      "evidence": "既然知道历史的必然，人的行动就更可以“自由些”，——更容易达到目的些；",
+      "confidence": 0.9
+    }
+  ],
+  "claims": [
+    {
+      "id": "c1",
+      "speaker": "资本主义时代的强有力的生产工具若能变成公共的财产，生产制度若得",
+      "claim": "主观的行动，“障碍力的必然”是主观的受动。",
+      "target": "障碍力的必然",
+      "claim_type": "定义性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "主观的行动，“障碍力的必然”是主观的受动。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c2",
+      "speaker": "资本主义时代的强有力的生产工具若能变成公共的财产，生产制度若得",
+      "claim": "“因果的必然”才是客观的解释。",
+      "target": "因果的必然",
+      "claim_type": "定义性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "至于“因果的必然”才是客观的解释。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c3",
+      "speaker": "某种学说",
+      "claim": "社会发展既有因果的必然，便可以绝不行动，便无从有意识地去助长某种历史的发展。",
+      "target": "社会发展",
+      "claim_type": "描述性主张",
+      "claim_status": "间接转述",
+      "polarity": "negative",
+      "evidence": "或者以为社会发展既有因果的必然，便可以绝不行动，便无从有意识地去助长某种历史的发展。",
+      "confidence": 0.8
+    },
+    {
+      "id": "c4",
+      "speaker": "这种学说",
+      "claim": "只有两种情形：“或者我认这种现象是必然的，不可免的，那便用不着去助长他；或若我的行动是引起这种现象所必需的，那便这种现象不能叫做必然的。谁又竭力去助长那必然的不可免的太阳之东升呢？”",
+      "target": "必然",
+      "claim_type": "描述性主张",
+      "claim_status": "间接转述",
+      "polarity": "negative",
+      "evidence": "这种学说以为只有两种情形：“或者我认这种现象是必然的，不可免的，那便用不着去助长他；或若我的行动是引起这种现象所必需的，那便这种现象不能叫做必然的。谁又竭力去助长那必然的不可免的太阳之东升呢？”",
+      "confidence": 0.8
+    },
+    {
+      "id": "c5",
+      "speaker": "资本主义时代的强有力的生产工具若能变成公共的财产，生产制度若得",
+      "claim": "太阳之东升与人类社会关系绝无联系，亦不是他的因，亦不是他的果。",
+      "target": "太阳之东升",
+      "claim_type": "描述性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "虽然！太阳之东升与人类社会关系绝无联系，亦不是他的因，亦不是他的果。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c6",
+      "speaker": "资本主义时代的强有力的生产工具若能变成公共的财产，生产制度若得",
+      "claim": "历史是人做的；当然，人的意向不能不是历史发展的一因素。",
+      "target": "历史",
+      "claim_type": "描述性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "历史是人做的；当然，人的意向不能不是历史发展的一因素。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c7",
+      "speaker": "资本主义时代的强有力的生产工具若能变成公共的财产，生产制度若得",
+      "claim": "人所做成的历史偏偏是这样的而不是那样的，正因为其中亦有个“必然”在。",
+      "target": "历史",
+      "claim_type": "因果主张",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "可是，人所做成的历史偏偏是这样的而不是那样的，正因为其中亦有个“必然”在。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c8",
+      "speaker": "资本主义时代的强有力的生产工具若能变成公共的财产，生产制度若得",
+      "claim": "既有这一“必然”，便有这“必然”的果——人的某种意向。",
+      "target": "必然",
+      "claim_type": "因果主张",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "既有这一“必然”，便有这“必然”的果——人的某种意向。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c9",
+      "speaker": "资本主义时代的强有力的生产工具若能变成公共的财产，生产制度若得",
+      "claim": "此种意向再回过去做社会发展因素。",
+      "target": "意向",
+      "claim_type": "描述性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "此种意向再回过去做社会发展因素。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c10",
+      "speaker": "资本主义时代的强有力的生产工具若能变成公共的财产，生产制度若得",
+      "claim": "“意向”并不与“必然”不相并立；不过意向亦受“必然”的规定罢了。",
+      "target": "意向",
+      "claim_type": "描述性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "“意向”并不与“必然”不相并立；不过意向亦受“必然”的规定罢了。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c11",
+      "speaker": "资本主义时代的强有力的生产工具若能变成公共的财产，生产制度若得",
+      "claim": "每一阶级倾向于求解放，行社会的变革，他的行动亦是这一变革的因。",
+      "target": "每一阶级",
+      "claim_type": "描述性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "每一阶级倾向于求解放，行社会的变革，他的行动亦是这一变革的因。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c12",
+      "speaker": "资本主义时代的强有力的生产工具若能变成公共的财产，生产制度若得",
+      "claim": "他的行动及种种意向又是某种经济发展的果，所以他自己亦受“必然”的规定。",
+      "target": "每一阶级",
+      "claim_type": "因果主张",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "然而他的行动及种种意向又是某种经济发展的果，所以他自己亦受“必然”的规定。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c13",
+      "speaker": "资本主义时代的强有力的生产工具若能变成公共的财产，生产制度若得",
+      "claim": "社会学之所以能成科学，全在于他能解释明白人之社会的目的何故发生；",
+      "target": "社会学",
+      "claim_type": "因果主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "社会学之所以能成科学，全在于他能解释明白人之社会的目的何故发生；",
+      "confidence": 0.9
+    },
+    {
+      "id": "c14",
+      "speaker": "资本主义时代的强有力的生产工具若能变成公共的财产，生产制度若得",
+      "claim": "社会的目的是社会发展过程之必然的果，追寻他最后的原因，却在于经济发展。",
+      "target": "社会的目的",
+      "claim_type": "因果主张",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "社会的目的是社会发展过程之必然的果，追寻他最后的原因，却在于经济发展。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c15",
+      "speaker": "资本主义时代的强有力的生产工具若能变成公共的财产，生产制度若得",
+      "claim": "既然知道历史的必然，人的行动就更可以“自由些”，——更容易达到目的些；",
+      "target": "历史的必然",
+      "claim_type": "因果主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "既然知道历史的必然，人的行动就更可以“自由些”，——更容易达到目的些；",
+      "confidence": 0.9
+    }
+  ],
+  "relations": [
+    {
+      "id": "r1",
+      "head": "障碍力的必然",
+      "head_type": "概念",
+      "relation": "定义",
+      "relation_subtype": "概念澄清",
+      "tail": "主观的受动",
+      "tail_type": "概念",
+      "polarity": "neutral",
+      "stance_score": 0.0,
+      "intensity": 0.3,
+      "evidence": "主观的行动，“障碍力的必然”是主观的受动。",
+      "confidence": 0.9
+    },
+    {
+      "id": "r2",
+      "head": "因果的必然",
+      "head_type": "概念",
+      "relation": "定义",
+      "relation_subtype": "概念澄清",
+      "tail": "客观的解释",
+      "tail_type": "概念",
+      "polarity": "positive",
+      "stance_score": 0.5,
+      "intensity": 0.5,
+      "evidence": "至于“因果的必然”才是客观的解释。",
+      "confidence": 0.9
+    },
+    {
+      "id": "r3",
+      "head": "资本主义时代的强有力的生产工具若能变成公共的财产，生产制度若得",
+      "head_type": "人物",
+      "relation": "反驳",
+      "relation_subtype": "逻辑反驳",
+      "tail": "这种学说",
+      "tail_type": "主义/学说/理论",
+      "polarity": "negative",
+      "stance_score": -0.8,
+      "intensity": 0.7,
+      "evidence": "或者以为社会发展既有因果的必然，便可以绝不行动，便无从有意识地去助长某种历史的发展。这种学说以为只有两种情形：“或者我认这种现象是必然的，不可免的，那便用不着去助长他；或若我的行动是引起这种现象所必需的，那便这种现象不能叫做必然的。谁又竭力去助长那必然的不可免的太阳之东升呢？”",
+      "confidence": 0.8
+    },
+    {
+      "id": "r4",
+      "head": "太阳之东升",
+      "head_type": "比喻/类比",
+      "relation": "对比",
+      "relation_subtype": "不适用",
+      "tail": "社会现象",
+      "tail_type": "概念",
+      "polarity": "negative",
+      "stance_score": -0.5,
+      "intensity": 0.5,
+      "evidence": "虽然！太阳之东升与人类社会关系绝无联系，亦不是他的因，亦不是他的果。所以他可与社会现象相对待。",
+      "confidence": 0.9
+    },
+    {
+      "id": "r5",
+      "head": "历史",
+      "head_type": "概念",
+      "relation": "解释",
+      "relation_subtype": "不适用",
+      "tail": "人的意向",
+      "tail_type": "概念",
+      "polarity": "neutral",
+      "stance_score": 0.0,
+      "intensity": 0.3,
+      "evidence": "历史是人做的；当然，人的意向不能不是历史发展的一因素。",
+      "confidence": 0.9
+    },
+    {
+      "id": "r6",
+      "head": "必然",
+      "head_type": "概念",
+      "relation": "导致",
+      "relation_subtype": "不适用",
+      "tail": "人的某种意向",
+      "tail_type": "概念",
+      "polarity": "neutral",
+      "stance_score": 0.0,
+      "intensity": 0.3,
+      "evidence": "既有这一“必然”，便有这“必然”的果——人的某种意向。",
+      "confidence": 0.9
+    },
+    {
+      "id": "r7",
+      "head": "意向",
+      "head_type": "概念",
+      "relation": "属于",
+      "relation_subtype": "不适用",
+      "tail": "必然",
+      "tail_type": "概念",
+      "polarity": "neutral",
+      "stance_score": 0.0,
+      "intensity": 0.3,
+      "evidence": "“意向”并不与“必然”不相并立；不过意向亦受“必然”的规定罢了。",
+      "confidence": 0.9
+    },
+    {
+      "id": "r8",
+      "head": "每一阶级",
+      "head_type": "阵营/群体",
+      "relation": "导致",
+      "relation_subtype": "不适用",
+      "tail": "社会的变革",
+      "tail_type": "概念",
+      "polarity": "neutral",
+      "stance_score": 0.0,
+      "intensity": 0.3,
+      "evidence": "每一阶级倾向于求解放，行社会的变革，他的行动亦是这一变革的因。",
+      "confidence": 0.9
+    },
+    {
+      "id": "r9",
+      "head": "某种经济发展",
+      "head_type": "概念",
+      "relation": "导致",
+      "relation_subtype": "不适用",
+      "tail": "他的行动及种种意向",
+      "tail_type": "概念",
+      "polarity": "neutral",
+      "stance_score": 0.0,
+      "intensity": 0.3,
+      "evidence": "然而他的行动及种种意向又是某种经济发展的果，所以他自己亦受“必然”的规定。",
+      "confidence": 0.9
+    },
+    {
+      "id": "r10",
+      "head": "社会学",
+      "head_type": "概念",
+      "relation": "解释",
+      "relation_subtype": "不适用",
+      "tail": "人之社会的目的何故发生",
+      "tail_type": "概念",
+      "polarity": "positive",
+      "stance_score": 0.5,
+      "intensity": 0.5,
+      "evidence": "社会学之所以能成科学，全在于他能解释明白人之社会的目的何故发生；",
+      "confidence": 0.9
+    },
+    {
+      "id": "r11",
+      "head": "社会的目的",
+      "head_type": "概念",
+      "relation": "归因于",
+      "relation_subtype": "不适用",
+      "tail": "经济发展",
+      "tail_type": "概念",
+      "polarity": "neutral",
+      "stance_score": 0.0,
+      "intensity": 0.3,
+      "evidence": "社会的目的是社会发展过程之必然的果，追寻他最后的原因，却在于经济发展。",
+      "confidence": 0.9
+    },
+    {
+      "id": "r12",
+      "head": "知道历史的必然",
+      "head_type": "概念",
+      "relation": "导致",
+      "relation_subtype": "不适用",
+      "tail": "人的行动就更可以“自由些”",
+      "tail_type": "概念",
+      "polarity": "positive",
+      "stance_score": 0.8,
+      "intensity": 0.6,
+      "evidence": "既然知道历史的必然，人的行动就更可以“自由些”，——更容易达到目的些；",
+      "confidence": 0.9
+    }
+  ],
+  "definitions": [
+    {
+      "id": "def1",
+      "term": "障碍力的必然",
+      "definition": "主观的受动",
+      "evidence": "主观的行动，“障碍力的必然”是主观的受动。",
+      "confidence": 0.9
+    },
+    {
+      "id": "def2",
+      "term": "因果的必然",
+      "definition": "客观的解释",
+      "evidence": "至于“因果的必然”才是客观的解释。",
+      "confidence": 0.9
+    }
+  ],
+  "citations": [],
+  "rhetorical_devices": [
+    {
+      "id": "rh1",
+      "expression": "谁又竭力去助长那必然的不可免的太阳之东升呢？",
+      "device_type": "归谬",
+      "literal_target": "太阳之东升",
+      "function": "通过归谬手法，将对方观点推向荒谬，即如果必然则无需行动，那么太阳东升也无需助长，但太阳东升与社会现象不同，从而反驳对方。",
+      "evidence": "谁又竭力去助长那必然的不可免的太阳之东升呢？",
+      "confidence": 0.9
+    }
+  ],
+  "uncertainties": [
+    {
+      "item": "“这种学说”的具体指代",
+      "reason": "文本中未明确说明“这种学说”具体指代何种学说或人物，仅以“或者以为”和“这种学说”指称，无法确定具体来源。"
+    },
+    {
+      "item": "“每一阶级”的具体范围",
+      "reason": "文本中“每一阶级”未具体说明是哪些阶级，仅作为泛指。"
+    }
+  ],
+  "_meta": {
+    "status": "success",
+    "stage": "extract",
+    "model": "deepseek-ai/DeepSeek-V4-Flash",
+    "base_url": "https://api.siliconflow.cn/v1",
+    "prompt_version": "v2.0",
+    "schema_version": "lite_v3.0",
+    "segment_id": "瞿秋白_000_a4753ce4_s0007",
+    "article_id": "瞿秋白_000_a4753ce4",
+    "char_start": 3517,
+    "char_end": 4085,
+    "raw_path": "E:\\1研究生\\岭南大学\\论文毕业\\capstone\\资料\\新的内容开始了\\local_upload\\kg_runs_v2\\瞿秋白\\raw_outputs\\extract\\瞿秋白_000_a4753ce4_s0007.txt",
+    "parsed_at": "2026-05-21T21:43:30",
+    "started_at": "2026-05-21T21:36:51",
+    "elapsed_seconds": 398.858,
+    "strict_evidence_check": true,
+    "drop_unsupported_evidence": true,
+    "request_timeout_seconds": 180
+  }
+}

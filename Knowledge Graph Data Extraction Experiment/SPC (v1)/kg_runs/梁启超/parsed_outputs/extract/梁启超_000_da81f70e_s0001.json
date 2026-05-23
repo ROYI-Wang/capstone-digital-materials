@@ -1,0 +1,277 @@
+{
+  "metadata": {
+    "schema_version": "lite_v2.0",
+    "article_id": "梁启超_000_da81f70e",
+    "article_title": "关于玄学科学论战之“战时国际公法”",
+    "source_author": "梁启超",
+    "section_title": "",
+    "section_author": "",
+    "segment_id": "梁启超_000_da81f70e_s0001",
+    "segment_index": 1,
+    "source_file": "E:\\1研究生\\岭南大学\\论文毕业\\capstone\\资料\\新的内容开始了\\local_upload\\input_w3\\梁启超.txt"
+  },
+  "entities": [
+    {
+      "id": "e1",
+      "name": "在君",
+      "canonical_name": "丁文江",
+      "type": "人物",
+      "evidence": "在君和君劢交谊不同寻常。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e2",
+      "name": "君劢",
+      "canonical_name": "张君劢",
+      "type": "人物",
+      "evidence": "在君和君劢交谊不同寻常。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e3",
+      "name": "攻守两方",
+      "canonical_name": "论战双方",
+      "type": "阵营/群体",
+      "evidence": "但又希望攻守两方无论何时都集精力向一个要塞。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e4",
+      "name": "观战人",
+      "canonical_name": "观战者",
+      "type": "阵营/群体",
+      "evidence": "令观战人摸不着头脑。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e5",
+      "name": "两位领袖大将",
+      "canonical_name": "论战领袖",
+      "type": "阵营/群体",
+      "evidence": "我希望两位领袖大将和将来的参战人都注意恪守。",
+      "confidence": 0.8
+    },
+    {
+      "id": "e6",
+      "name": "将来的参战人",
+      "canonical_name": "未来参战者",
+      "type": "阵营/群体",
+      "evidence": "我希望两位领袖大将和将来的参战人都注意恪守。",
+      "confidence": 0.8
+    }
+  ],
+  "claims": [
+    {
+      "id": "c1",
+      "speaker": "梁启超",
+      "claim": "希望攻守两方无论何时都集精力向一个要塞。这个要塞工作做完，才移到别个。不可同时混战，令观战人摸不着头脑。",
+      "target": "攻守两方",
+      "claim_type": "论战策略批评",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "但又希望攻守两方无论何时都集精力向一个要塞。这个要塞工作做完，才移到别个。不可同时混战，令观战人摸不着头脑。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c2",
+      "speaker": "梁启超",
+      "claim": "希望措词庄重恳挚，万不可有嘲笑或谩骂语。倘若一方面偶然不检，也希望他方面别要效尤。",
+      "target": "攻守两方",
+      "claim_type": "论战策略批评",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "第二：我希望措词庄重恳挚，万不可有嘲笑或谩骂语。倘若一方面偶然不检，也希望他方面别要效尤。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c3",
+      "speaker": "梁启超",
+      "claim": "在君和君劢交谊不同寻常。他们太相熟了，脱略形迹惯了，每见面必谈，每谈必吵，每吵必极诙谐有意趣。",
+      "target": "在君和君劢",
+      "claim_type": "价值评价",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "在君和君劢交谊不同寻常。他们太相熟了，脱略形迹惯了，每见面必谈，每谈必吵，每吵必极诙谐有意趣。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c4",
+      "speaker": "梁启超",
+      "claim": "他们无论吵到怎么田地，再不会伤私人感情，我是敢下保证的。",
+      "target": "在君和君劢",
+      "claim_type": "价值评价",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "他们无论吵到怎么田地，再不会伤私人感情，我是敢下保证的。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c5",
+      "speaker": "梁启超",
+      "claim": "“著诸竹帛”的文章，到底和随便剧谈有点不同。况且这回论战题目太重大了，行文更要格外勤恳郑重。否则令人看作游戏文章，便会把原来精神失掉大半。",
+      "target": "论战文章",
+      "claim_type": "论战策略批评",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "但“著诸竹帛”的文章，到底和随便剧谈有点不同。况且这回论战题目太重大了，行文更要格外勤恳郑重。否则令人看作游戏文章，便会把原来精神失掉大半。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c6",
+      "speaker": "梁启超",
+      "claim": "我希望这回论战能做往后学问上乃至其他主义上一切论战之模范。所以“虐谑”、“诡辩”、“愤争”的态度务要划除净尽。",
+      "target": "这回论战",
+      "claim_type": "论战策略批评",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "再者，我希望这回论战能做往后学问上乃至其他主义上一切论战之模范。所以“虐谑”、“诡辩”、“愤争”的态度务要划除净尽。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c7",
+      "speaker": "梁启超",
+      "claim": "现在两造交绥伊始，像已不免有些越轨的言论。我希望双方都向对造道一番歉，以后万不可再如此。",
+      "target": "两造",
+      "claim_type": "论战策略批评",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "现在两造交绥伊始，像已不免有些越轨的言论。我希望双方都向对造道一番歉，以后万不可再如此。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c8",
+      "speaker": "梁启超",
+      "claim": "以上两条“公法”，我希望两位领袖大将和将来的参战人都注意恪守。我自己将来若到参战时，也要勉励自己恪守。",
+      "target": "两位领袖大将和将来的参战人",
+      "claim_type": "论战策略批评",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "以上两条“公法”，我希望两位领袖大将和将来的参战人都注意恪守。我自己将来若到参战时，也要勉励自己恪守。",
+      "confidence": 1.0
+    }
+  ],
+  "relations": [
+    {
+      "id": "r1",
+      "head": "梁启超",
+      "head_type": "人物",
+      "relation": "主张",
+      "tail": "希望攻守两方无论何时都集精力向一个要塞",
+      "tail_type": "观点",
+      "polarity": "positive",
+      "evidence": "但又希望攻守两方无论何时都集精力向一个要塞。",
+      "confidence": 1.0
+    },
+    {
+      "id": "r2",
+      "head": "梁启超",
+      "head_type": "人物",
+      "relation": "主张",
+      "tail": "希望措词庄重恳挚，万不可有嘲笑或谩骂语",
+      "tail_type": "观点",
+      "polarity": "positive",
+      "evidence": "第二：我希望措词庄重恳挚，万不可有嘲笑或谩骂语。",
+      "confidence": 1.0
+    },
+    {
+      "id": "r3",
+      "head": "梁启超",
+      "head_type": "人物",
+      "relation": "相关",
+      "tail": "现在两造交绥伊始，像已不免有些越轨的言论",
+      "tail_type": "观点",
+      "polarity": "negative",
+      "evidence": "现在两造交绥伊始，像已不免有些越轨的言论。",
+      "confidence": 0.9
+    },
+    {
+      "id": "r4",
+      "head": "梁启超",
+      "head_type": "人物",
+      "relation": "主张",
+      "tail": "我希望这回论战能做往后学问上乃至其他主义上一切论战之模范",
+      "tail_type": "观点",
+      "polarity": "positive",
+      "evidence": "再者，我希望这回论战能做往后学问上乃至其他主义上一切论战之模范。",
+      "confidence": 1.0
+    }
+  ],
+  "definitions": [],
+  "citations": [],
+  "rhetorical_devices": [
+    {
+      "id": "rh1",
+      "expression": "集精力向一个要塞",
+      "device_type": "比喻",
+      "literal_target": "集中讨论一个核心问题",
+      "function": "形象说明论战应聚焦于单一议题",
+      "evidence": "但又希望攻守两方无论何时都集精力向一个要塞。",
+      "confidence": 0.9
+    },
+    {
+      "id": "rh2",
+      "expression": "混战",
+      "device_type": "比喻",
+      "literal_target": "同时讨论多个议题导致混乱",
+      "function": "批评论战分散议题的弊端",
+      "evidence": "不可同时混战，令观战人摸不着头脑。",
+      "confidence": 0.9
+    },
+    {
+      "id": "rh3",
+      "expression": "摸不着头脑",
+      "device_type": "比喻",
+      "literal_target": "观战者无法理解论战内容",
+      "function": "强调论战混乱的后果",
+      "evidence": "令观战人摸不着头脑。",
+      "confidence": 0.9
+    },
+    {
+      "id": "rh4",
+      "expression": "著诸竹帛",
+      "device_type": "比喻",
+      "literal_target": "正式发表的文章",
+      "function": "区分正式文章与私下谈话",
+      "evidence": "但“著诸竹帛”的文章，到底和随便剧谈有点不同。",
+      "confidence": 0.9
+    },
+    {
+      "id": "rh5",
+      "expression": "游戏文章",
+      "device_type": "标签化",
+      "literal_target": "不严肃、不郑重的文章",
+      "function": "警告论战文章若轻浮会失去价值",
+      "evidence": "否则令人看作游戏文章，便会把原来精神失掉大半。",
+      "confidence": 0.9
+    }
+  ],
+  "uncertainties": [
+    {
+      "item": "“两造交绥伊始”中的“两造”具体指哪两方",
+      "reason": "文本未明确说明，可能指科学派和玄学派，但未逐字出现"
+    },
+    {
+      "item": "“越轨的言论”具体指什么内容",
+      "reason": "文本未具体说明哪些言论越轨"
+    }
+  ],
+  "_meta": {
+    "status": "success",
+    "stage": "extract",
+    "model": "deepseek-ai/DeepSeek-V4-Flash",
+    "base_url": "https://api.siliconflow.cn/v1",
+    "prompt_version": "extract_prompt_v2.0",
+    "schema_version": "lite_v2.0",
+    "segment_id": "梁启超_000_da81f70e_s0001",
+    "article_id": "梁启超_000_da81f70e",
+    "char_start": 510,
+    "char_end": 979,
+    "raw_path": "E:\\1研究生\\岭南大学\\论文毕业\\capstone\\资料\\新的内容开始了\\local_upload\\kg_runs\\梁启超\\raw_outputs\\extract\\梁启超_000_da81f70e_s0001.txt",
+    "parsed_at": "2026-05-19T20:58:35",
+    "started_at": "2026-05-19T20:56:45",
+    "elapsed_seconds": 109.375,
+    "strict_evidence_check": true,
+    "drop_unsupported_evidence": true,
+    "request_timeout_seconds": 180
+  }
+}

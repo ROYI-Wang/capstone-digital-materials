@@ -1,0 +1,698 @@
+{
+  "metadata": {
+    "schema_version": "lite_v2.0",
+    "article_id": "瞿秋白_000_a4753ce4",
+    "article_title": "《自由世界与必然世界》",
+    "source_author": "瞿秋白",
+    "section_title": "资本主义时代的强有力的生产工具若能变成公共的财产，生产制度若得按",
+    "section_author": "资本主义时代的强有力的生产工具若能变成公共的财产，生产制度若得",
+    "segment_id": "瞿秋白_000_a4753ce4_s0010",
+    "segment_index": 10,
+    "source_file": "E:\\1研究生\\岭南大学\\论文毕业\\capstone\\资料\\新的内容开始了\\local_upload\\input_w2\\瞿秋白.txt"
+  },
+  "entities": [
+    {
+      "id": "e1",
+      "name": "孙文",
+      "canonical_name": "孙文",
+      "type": "人物",
+      "evidence": "而能生一孙文恰好与罗倍士比埃尔相似",
+      "confidence": 0.8
+    },
+    {
+      "id": "e2",
+      "name": "罗倍士比埃尔",
+      "canonical_name": "罗倍士比埃尔",
+      "type": "人物",
+      "evidence": "而能生一孙文恰好与罗倍士比埃尔相似",
+      "confidence": 0.9
+    },
+    {
+      "id": "e3",
+      "name": "社会现象",
+      "canonical_name": "社会现象",
+      "type": "概念",
+      "evidence": "那才足以证明社会现象之无因果呢",
+      "confidence": 0.9
+    },
+    {
+      "id": "e4",
+      "name": "因果",
+      "canonical_name": "因果",
+      "type": "概念",
+      "evidence": "那才足以证明社会现象之无因果呢",
+      "confidence": 0.9
+    },
+    {
+      "id": "e5",
+      "name": "英雄",
+      "canonical_name": "英雄",
+      "type": "概念",
+      "evidence": "英雄或天才能参加伟大的历史运动",
+      "confidence": 0.9
+    },
+    {
+      "id": "e6",
+      "name": "天才",
+      "canonical_name": "天才",
+      "type": "概念",
+      "evidence": "英雄或天才能参加伟大的历史运动",
+      "confidence": 0.9
+    },
+    {
+      "id": "e7",
+      "name": "历史工具",
+      "canonical_name": "历史工具",
+      "type": "概念",
+      "evidence": "能当得起历史工具",
+      "confidence": 0.9
+    },
+    {
+      "id": "e8",
+      "name": "社会现象的必然公律",
+      "canonical_name": "社会现象的必然公律",
+      "type": "概念",
+      "evidence": "他至少要能知道几分社会现象的必然公律",
+      "confidence": 0.9
+    },
+    {
+      "id": "e9",
+      "name": "自然现象的公律",
+      "canonical_name": "自然现象的公律",
+      "type": "概念",
+      "evidence": "那自然现象的公律，若是没有物质，必不能有",
+      "confidence": 0.9
+    },
+    {
+      "id": "e10",
+      "name": "物质",
+      "canonical_name": "物质",
+      "type": "概念",
+      "evidence": "若是没有物质，必不能有",
+      "confidence": 0.9
+    },
+    {
+      "id": "e11",
+      "name": "社会现象的公律",
+      "canonical_name": "社会现象的公律",
+      "type": "概念",
+      "evidence": "社会现象的公律，若是没有人，亦决不能有",
+      "confidence": 0.9
+    },
+    {
+      "id": "e12",
+      "name": "人",
+      "canonical_name": "人",
+      "type": "概念",
+      "evidence": "社会现象的公律，若是没有人，亦决不能有",
+      "confidence": 0.9
+    },
+    {
+      "id": "e13",
+      "name": "个性",
+      "canonical_name": "个性",
+      "type": "概念",
+      "evidence": "决不能据此便说个性可以不顾社会公律",
+      "confidence": 0.9
+    },
+    {
+      "id": "e14",
+      "name": "社会公律",
+      "canonical_name": "社会公律",
+      "type": "概念",
+      "evidence": "决不能据此便说个性可以不顾社会公律",
+      "confidence": 0.9
+    },
+    {
+      "id": "e15",
+      "name": "因果律",
+      "canonical_name": "因果律",
+      "type": "概念",
+      "evidence": "然而的意志行为都受因果律的支配",
+      "confidence": 0.9
+    },
+    {
+      "id": "e16",
+      "name": "自由",
+      "canonical_name": "自由",
+      "type": "概念",
+      "evidence": "能得多量的自由",
+      "confidence": 0.9
+    },
+    {
+      "id": "e17",
+      "name": "必然论",
+      "canonical_name": "必然论",
+      "type": "主义/学说/理论",
+      "evidence": "因此，“必然论”是社会的有定论（diterminisme），而不是“宿命论”（fatalisme）",
+      "confidence": 0.9
+    },
+    {
+      "id": "e18",
+      "name": "社会的有定论",
+      "canonical_name": "社会的有定论",
+      "type": "主义/学说/理论",
+      "evidence": "因此，“必然论”是社会的有定论（diterminisme），而不是“宿命论”（fatalisme）",
+      "confidence": 0.9
+    },
+    {
+      "id": "e19",
+      "name": "宿命论",
+      "canonical_name": "宿命论",
+      "type": "主义/学说/理论",
+      "evidence": "而不是“宿命论”（fatalisme）",
+      "confidence": 0.9
+    },
+    {
+      "id": "e20",
+      "name": "因果的必然",
+      "canonical_name": "因果的必然",
+      "type": "概念",
+      "evidence": "社会的有定论说明“因果的必然”",
+      "confidence": 0.9
+    },
+    {
+      "id": "e21",
+      "name": "宿命主义",
+      "canonical_name": "宿命主义",
+      "type": "主义/学说/理论",
+      "evidence": "方趋于任运的宿命主义",
+      "confidence": 0.9
+    },
+    {
+      "id": "e22",
+      "name": "侥幸主义",
+      "canonical_name": "侥幸主义",
+      "type": "主义/学说/理论",
+      "evidence": "或者行险的侥幸主义",
+      "confidence": 0.9
+    },
+    {
+      "id": "e23",
+      "name": "经济",
+      "canonical_name": "经济",
+      "type": "概念",
+      "evidence": "社会的有定论说社会现象的最后原因在于经济",
+      "confidence": 0.9
+    },
+    {
+      "id": "e24",
+      "name": "心理现象",
+      "canonical_name": "心理现象",
+      "type": "概念",
+      "evidence": "并不曾否认社会里的心理现象及个性天才",
+      "confidence": 0.9
+    },
+    {
+      "id": "e25",
+      "name": "个性天才",
+      "canonical_name": "个性天才",
+      "type": "概念",
+      "evidence": "并不曾否认社会里的心理现象及个性天才",
+      "confidence": 0.9
+    },
+    {
+      "id": "e26",
+      "name": "科学与人生观的论战",
+      "canonical_name": "科学与人生观的论战",
+      "type": "历史事件",
+      "evidence": "“科学与人生观的论战”里",
+      "confidence": 0.9
+    },
+    {
+      "id": "e27",
+      "name": "人生派",
+      "canonical_name": "人生派",
+      "type": "阵营/群体",
+      "evidence": "人生派一让步到仅仅“情感是超科学的”（梁启超）",
+      "confidence": 0.9
+    },
+    {
+      "id": "e28",
+      "name": "情感",
+      "canonical_name": "情感",
+      "type": "概念",
+      "evidence": "仅仅“情感是超科学的”",
+      "confidence": 0.9
+    },
+    {
+      "id": "e29",
+      "name": "科学",
+      "canonical_name": "科学",
+      "type": "概念",
+      "evidence": "仅仅“情感是超科学的”",
+      "confidence": 0.9
+    },
+    {
+      "id": "e30",
+      "name": "梁启超",
+      "canonical_name": "梁启超",
+      "type": "人物",
+      "evidence": "仅仅“情感是超科学的”（梁启超）",
+      "confidence": 0.9
+    },
+    {
+      "id": "e31",
+      "name": "先天的义务意识",
+      "canonical_name": "先天的义务意识",
+      "type": "概念",
+      "evidence": "再让步到仅仅“先天的义务意识是超科学的”（范寿康）",
+      "confidence": 0.9
+    },
+    {
+      "id": "e32",
+      "name": "范寿康",
+      "canonical_name": "范寿康",
+      "type": "人物",
+      "evidence": "再让步到仅仅“先天的义务意识是超科学的”（范寿康）",
+      "confidence": 0.9
+    },
+    {
+      "id": "e33",
+      "name": "戊戌",
+      "canonical_name": "戊戌",
+      "type": "历史事件",
+      "evidence": "戊戌（维新变法）以前的旧中国里",
+      "confidence": 0.9
+    },
+    {
+      "id": "e34",
+      "name": "维新变法",
+      "canonical_name": "维新变法",
+      "type": "历史事件",
+      "evidence": "戊戌（维新变法）以前的旧中国里",
+      "confidence": 0.9
+    },
+    {
+      "id": "e35",
+      "name": "旧中国",
+      "canonical_name": "旧中国",
+      "type": "概念",
+      "evidence": "戊戌（维新变法）以前的旧中国里",
+      "confidence": 0.9
+    },
+    {
+      "id": "e36",
+      "name": "儒者",
+      "canonical_name": "儒者",
+      "type": "阵营/群体",
+      "evidence": "“儒者”遇着李贽、谭嗣同、梁启超之流",
+      "confidence": 0.9
+    },
+    {
+      "id": "e37",
+      "name": "李贽",
+      "canonical_name": "李贽",
+      "type": "人物",
+      "evidence": "“儒者”遇着李贽、谭嗣同、梁启超之流",
+      "confidence": 0.9
+    },
+    {
+      "id": "e38",
+      "name": "谭嗣同",
+      "canonical_name": "谭嗣同",
+      "type": "人物",
+      "evidence": "“儒者”遇着李贽、谭嗣同、梁启超之流",
+      "confidence": 0.9
+    }
+  ],
+  "claims": [
+    {
+      "id": "c1",
+      "speaker": "瞿秋白",
+      "claim": "能生一孙文恰好与罗倍士比埃尔相似，那才足以证明社会现象之无因果",
+      "target": "社会现象",
+      "claim_type": "反驳性主张",
+      "claim_status": "作者推论",
+      "polarity": "negative",
+      "evidence": "而能生一孙文恰好与罗倍士比埃尔相似，那才足以证明社会现象之无因果呢",
+      "confidence": 0.9
+    },
+    {
+      "id": "c2",
+      "speaker": "瞿秋白",
+      "claim": "英雄或天才能参加伟大的历史运动，能当得起历史工具，是很荣耀的事",
+      "target": "英雄",
+      "claim_type": "价值评价",
+      "claim_status": "",
+      "polarity": "positive",
+      "evidence": "英雄或天才能参加伟大的历史运动，能当得起历史工具，是很荣耀的事",
+      "confidence": 0.9
+    },
+    {
+      "id": "c3",
+      "speaker": "瞿秋白",
+      "claim": "英雄或天才能参加伟大的历史运动，能当得起历史工具，然而他至少要能知道几分社会现象的必然公律",
+      "target": "英雄",
+      "claim_type": "方法论主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "然而他至少要能知道几分社会现象的必然公律",
+      "confidence": 0.9
+    },
+    {
+      "id": "c4",
+      "speaker": "瞿秋白",
+      "claim": "那自然现象的公律，若是没有物质，必不能有",
+      "target": "自然现象的公律",
+      "claim_type": "本体论主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "那自然现象的公律，若是没有物质，必不能有",
+      "confidence": 0.9
+    },
+    {
+      "id": "c5",
+      "speaker": "瞿秋白",
+      "claim": "社会现象的公律，若是没有人，亦决不能有",
+      "target": "社会现象的公律",
+      "claim_type": "本体论主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "社会现象的公律，若是没有人，亦决不能有",
+      "confidence": 0.9
+    },
+    {
+      "id": "c6",
+      "speaker": "瞿秋白",
+      "claim": "决不能据此便说个性可以不顾社会公律",
+      "target": "个性",
+      "claim_type": "方法论主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "可是决不能据此便说个性可以不顾社会公律",
+      "confidence": 0.9
+    },
+    {
+      "id": "c7",
+      "speaker": "瞿秋白",
+      "claim": "社会现象是人造的，然而的意志行为都受因果律的支配",
+      "target": "社会现象",
+      "claim_type": "本体论主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "总之，社会现象是人造的，然而的意志行为都受因果律的支配",
+      "confidence": 0.9
+    },
+    {
+      "id": "c8",
+      "speaker": "瞿秋白",
+      "claim": "人若能探悉这些因果律，则其意志行为更切于实际而能得多量的自由，然后能开始实行自己合理的理想",
+      "target": "因果律",
+      "claim_type": "方法论主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "人若能探悉这些因果律，则其意志行为更切于实际而能得多量的自由，然后能开始实行自己合理的理想",
+      "confidence": 0.9
+    },
+    {
+      "id": "c9",
+      "speaker": "瞿秋白",
+      "claim": "“必然论”是社会的有定论，而不是“宿命论”",
+      "target": "必然论",
+      "claim_type": "定义性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "因此，“必然论”是社会的有定论（diterminisme），而不是“宿命论”（fatalisme）",
+      "confidence": 0.9
+    },
+    {
+      "id": "c10",
+      "speaker": "瞿秋白",
+      "claim": "社会的有定论说明“因果的必然”",
+      "target": "社会的有定论",
+      "claim_type": "定义性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "社会的有定论说明“因果的必然”",
+      "confidence": 0.9
+    },
+    {
+      "id": "c11",
+      "speaker": "瞿秋白",
+      "claim": "只有不知道“因果的必然”的人，方趋于任运的宿命主义，或者行险的侥幸主义",
+      "target": "因果的必然",
+      "claim_type": "社会理论主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "只有不知道“因果的必然”的人，方趋于任运的宿命主义，或者行险的侥幸主义",
+      "confidence": 0.9
+    },
+    {
+      "id": "c12",
+      "speaker": "瞿秋白",
+      "claim": "社会的有定论说社会现象的最后原因在于经济",
+      "target": "社会的有定论",
+      "claim_type": "定义性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "社会的有定论说社会现象的最后原因在于经济",
+      "confidence": 0.9
+    },
+    {
+      "id": "c13",
+      "speaker": "瞿秋白",
+      "claim": "社会的有定论并不曾否认社会里的心理现象及个性天才，他仅仅解释心理及天才的原因而已",
+      "target": "社会的有定论",
+      "claim_type": "方法论主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "社会的有定论说社会现象的最后原因在于经济，并不曾否认社会里的心理现象及个性天才，他仅仅解释心理及天才的原因而已",
+      "confidence": 0.9
+    },
+    {
+      "id": "c14",
+      "speaker": "瞿秋白",
+      "claim": "人生派一让步到仅仅“情感是超科学的”（梁启超）",
+      "target": "人生派",
+      "claim_type": "论战策略批评",
+      "claim_status": "作者概括",
+      "polarity": "negative",
+      "evidence": "“科学与人生观的论战”里，人生派一让步到仅仅“情感是超科学的”（梁启超）",
+      "confidence": 0.9
+    },
+    {
+      "id": "c15",
+      "speaker": "瞿秋白",
+      "claim": "人生派再让步到仅仅“先天的义务意识是超科学的”（范寿康）",
+      "target": "人生派",
+      "claim_type": "论战策略批评",
+      "claim_status": "作者概括",
+      "polarity": "negative",
+      "evidence": "再让步到仅仅“先天的义务意识是超科学的”（范寿康）",
+      "confidence": 0.9
+    },
+    {
+      "id": "c16",
+      "speaker": "梁启超",
+      "claim": "情感是超科学的",
+      "target": "情感",
+      "claim_type": "知识论主张",
+      "claim_status": "间接转述",
+      "polarity": "positive",
+      "evidence": "仅仅“情感是超科学的”（梁启超）",
+      "confidence": 0.9
+    },
+    {
+      "id": "c17",
+      "speaker": "范寿康",
+      "claim": "先天的义务意识是超科学的",
+      "target": "先天的义务意识",
+      "claim_type": "知识论主张",
+      "claim_status": "间接转述",
+      "polarity": "positive",
+      "evidence": "再让步到仅仅“先天的义务意识是超科学的”（范寿康）",
+      "confidence": 0.9
+    },
+    {
+      "id": "c18",
+      "speaker": "瞿秋白",
+      "claim": "戊戌以前的旧中国里，“儒者”遇着李贽、谭嗣同、梁启超之流，不由得不起一种极厌恶的情感，他们先天的义务意识是要请这班“大逆不道”的人上菜市口去砍头",
+      "target": "儒者",
+      "claim_type": "历史解释",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "戊戌（维新变法）以前的旧中国里，“儒者”遇着李贽、谭嗣同、梁启超之流，不由得不起一种极厌恶的情感，他们先天的义务意识是要请这班“大逆不道”的人上菜市口去砍头",
+      "confidence": 0.9
+    }
+  ],
+  "relations": [
+    {
+      "id": "r1",
+      "head": "孙文",
+      "head_type": "人物",
+      "relation": "类比",
+      "tail": "罗倍士比埃尔",
+      "tail_type": "人物",
+      "polarity": "neutral",
+      "evidence": "而能生一孙文恰好与罗倍士比埃尔相似",
+      "confidence": 0.9
+    },
+    {
+      "id": "r2",
+      "head": "自然现象的公律",
+      "head_type": "概念",
+      "relation": "归因于",
+      "tail": "物质",
+      "tail_type": "概念",
+      "polarity": "positive",
+      "evidence": "那自然现象的公律，若是没有物质，必不能有",
+      "confidence": 0.9
+    },
+    {
+      "id": "r3",
+      "head": "社会现象的公律",
+      "head_type": "概念",
+      "relation": "归因于",
+      "tail": "人",
+      "tail_type": "概念",
+      "polarity": "positive",
+      "evidence": "社会现象的公律，若是没有人，亦决不能有",
+      "confidence": 0.9
+    },
+    {
+      "id": "r4",
+      "head": "必然论",
+      "head_type": "主义/学说/理论",
+      "relation": "定义",
+      "tail": "社会的有定论",
+      "tail_type": "主义/学说/理论",
+      "polarity": "positive",
+      "evidence": "因此，“必然论”是社会的有定论（diterminisme），而不是“宿命论”（fatalisme）",
+      "confidence": 0.9
+    },
+    {
+      "id": "r5",
+      "head": "社会的有定论",
+      "head_type": "主义/学说/理论",
+      "relation": "解释",
+      "tail": "因果的必然",
+      "tail_type": "概念",
+      "polarity": "positive",
+      "evidence": "社会的有定论说明“因果的必然”",
+      "confidence": 0.9
+    },
+    {
+      "id": "r6",
+      "head": "社会的有定论",
+      "head_type": "主义/学说/理论",
+      "relation": "归因于",
+      "tail": "经济",
+      "tail_type": "概念",
+      "polarity": "positive",
+      "evidence": "社会的有定论说社会现象的最后原因在于经济",
+      "confidence": 0.9
+    },
+    {
+      "id": "r7",
+      "head": "人生派",
+      "head_type": "阵营/群体",
+      "relation": "主张",
+      "tail": "情感是超科学的",
+      "tail_type": "观点",
+      "polarity": "positive",
+      "evidence": "人生派一让步到仅仅“情感是超科学的”（梁启超）",
+      "confidence": 0.9
+    },
+    {
+      "id": "r8",
+      "head": "儒者",
+      "head_type": "阵营/群体",
+      "relation": "批评",
+      "tail": "李贽",
+      "tail_type": "人物",
+      "polarity": "negative",
+      "evidence": "“儒者”遇着李贽、谭嗣同、梁启超之流，不由得不起一种极厌恶的情感，他们先天的义务意识是要请这班“大逆不道”的人上菜市口去砍头",
+      "confidence": 0.9
+    },
+    {
+      "id": "r9",
+      "head": "儒者",
+      "head_type": "阵营/群体",
+      "relation": "批评",
+      "tail": "谭嗣同",
+      "tail_type": "人物",
+      "polarity": "negative",
+      "evidence": "“儒者”遇着李贽、谭嗣同、梁启超之流，不由得不起一种极厌恶的情感，他们先天的义务意识是要请这班“大逆不道”的人上菜市口去砍头",
+      "confidence": 0.9
+    },
+    {
+      "id": "r10",
+      "head": "儒者",
+      "head_type": "阵营/群体",
+      "relation": "批评",
+      "tail": "梁启超",
+      "tail_type": "人物",
+      "polarity": "negative",
+      "evidence": "“儒者”遇着李贽、谭嗣同、梁启超之流，不由得不起一种极厌恶的情感，他们先天的义务意识是要请这班“大逆不道”的人上菜市口去砍头",
+      "confidence": 0.9
+    }
+  ],
+  "definitions": [
+    {
+      "id": "def1",
+      "term": "必然论",
+      "definition": "必然论是社会的有定论，而不是宿命论",
+      "evidence": "因此，“必然论”是社会的有定论（diterminisme），而不是“宿命论”（fatalisme）",
+      "confidence": 0.9
+    }
+  ],
+  "citations": [
+    {
+      "id": "cit1",
+      "citer": "瞿秋白",
+      "quoted_author": "梁启超",
+      "quoted_work": "",
+      "quoted_claim": "情感是超科学的",
+      "function": "作为批评对象",
+      "evidence": "人生派一让步到仅仅“情感是超科学的”（梁启超）",
+      "confidence": 0.9
+    },
+    {
+      "id": "cit2",
+      "citer": "瞿秋白",
+      "quoted_author": "范寿康",
+      "quoted_work": "",
+      "quoted_claim": "先天的义务意识是超科学的",
+      "function": "作为批评对象",
+      "evidence": "再让步到仅仅“先天的义务意识是超科学的”（范寿康）",
+      "confidence": 0.9
+    }
+  ],
+  "rhetorical_devices": [
+    {
+      "id": "rh1",
+      "expression": "大逆不道",
+      "device_type": "标签化",
+      "literal_target": "李贽、谭嗣同、梁启超",
+      "function": "揭示儒者对其的负面道德评价",
+      "evidence": "他们先天的义务意识是要请这班“大逆不道”的人上菜市口去砍头",
+      "confidence": 0.9
+    }
+  ],
+  "uncertainties": [
+    {
+      "item": "文本中“然而的意志行为都受因果律的支配”一句中“的”字可能为笔误或排版错误，原意可能是“然而人的意志行为都受因果律的支配”",
+      "reason": "原文为“然而的意志行为都受因果律的支配”，缺少主语，根据上下文推测主语应为“人”"
+    }
+  ],
+  "_meta": {
+    "status": "success",
+    "stage": "extract",
+    "model": "deepseek-ai/DeepSeek-V4-Flash",
+    "base_url": "https://api.siliconflow.cn/v1",
+    "prompt_version": "extract_prompt_v2.0",
+    "schema_version": "lite_v2.0",
+    "segment_id": "瞿秋白_000_a4753ce4_s0010",
+    "article_id": "瞿秋白_000_a4753ce4",
+    "char_start": 5021,
+    "char_end": 5587,
+    "raw_path": "E:\\1研究生\\岭南大学\\论文毕业\\capstone\\资料\\新的内容开始了\\local_upload\\kg_runs\\瞿秋白\\raw_outputs\\extract\\瞿秋白_000_a4753ce4_s0010.txt",
+    "parsed_at": "2026-05-20T00:16:37",
+    "started_at": "2026-05-20T00:12:26",
+    "elapsed_seconds": 250.776,
+    "strict_evidence_check": true,
+    "drop_unsupported_evidence": true,
+    "request_timeout_seconds": 180
+  }
+}

@@ -1,0 +1,508 @@
+{
+  "metadata": {
+    "schema_version": "lite_v3.0",
+    "article_id": "王星拱_000_4d6fdc04",
+    "article_title": "科学与人生观",
+    "source_author": "王星拱",
+    "section_title": "",
+    "section_author": "",
+    "segment_id": "王星拱_000_4d6fdc04_s0004",
+    "segment_index": 4,
+    "source_file": "E:\\1研究生\\岭南大学\\论文毕业\\capstone\\资料\\新的内容开始了\\local_upload\\input_v2_w0\\王星拱.txt"
+  },
+  "entities": [
+    {
+      "id": "e1",
+      "name": "过去的现象",
+      "canonical_name": "过去的现象",
+      "type": "概念",
+      "evidence": "过去的现象，都是现在现象发生的原因",
+      "confidence": 0.9
+    },
+    {
+      "id": "e2",
+      "name": "现在现象",
+      "canonical_name": "现在现象",
+      "type": "概念",
+      "evidence": "过去的现象，都是现在现象发生的原因",
+      "confidence": 0.9
+    },
+    {
+      "id": "e3",
+      "name": "原因",
+      "canonical_name": "原因",
+      "type": "概念",
+      "evidence": "过去的现象，都是现在现象发生的原因",
+      "confidence": 0.9
+    },
+    {
+      "id": "e4",
+      "name": "所有过去都成现在",
+      "canonical_name": "所有过去都成现在",
+      "type": "观点",
+      "evidence": "套佛家一句话来说，就是所有过去都成现在",
+      "confidence": 0.8
+    },
+    {
+      "id": "e5",
+      "name": "宇宙间所有过去的现象之共总",
+      "canonical_name": "宇宙间所有过去的现象之共总",
+      "type": "概念",
+      "evidence": "宇宙间所有过去的现象之共总，是时时刻刻不同的",
+      "confidence": 0.9
+    },
+    {
+      "id": "e6",
+      "name": "同因的现象",
+      "canonical_name": "同因的现象",
+      "type": "概念",
+      "evidence": "既没有同因的现象，那里能有因果的现象呢",
+      "confidence": 0.9
+    },
+    {
+      "id": "e7",
+      "name": "因果的现象",
+      "canonical_name": "因果的现象",
+      "type": "概念",
+      "evidence": "既没有同因的现象，那里能有因果的现象呢",
+      "confidence": 0.9
+    },
+    {
+      "id": "e8",
+      "name": "同因必生同果",
+      "canonical_name": "同因必生同果",
+      "type": "观点",
+      "evidence": "同因必生同果，不过是一句便利的虚诞",
+      "confidence": 0.9
+    },
+    {
+      "id": "e9",
+      "name": "科学的意见",
+      "canonical_name": "科学的意见",
+      "type": "阵营/群体",
+      "evidence": "然而科学的意见，却不与此相同",
+      "confidence": 0.8
+    },
+    {
+      "id": "e10",
+      "name": "个体的性质",
+      "canonical_name": "个体的性质",
+      "type": "概念",
+      "evidence": "从个体方面看待，是为个体的性质",
+      "confidence": 0.9
+    },
+    {
+      "id": "e11",
+      "name": "类的性质",
+      "canonical_name": "类的性质",
+      "type": "概念",
+      "evidence": "从类的方面看待，是为类的性质",
+      "confidence": 0.9
+    },
+    {
+      "id": "e12",
+      "name": "科学的定律",
+      "canonical_name": "科学的定律",
+      "type": "概念",
+      "evidence": "科学的定律，是建筑在类的性质上面的",
+      "confidence": 0.9
+    },
+    {
+      "id": "e13",
+      "name": "一类中之分子所共有的若干性质",
+      "canonical_name": "一类中之分子所共有的若干性质",
+      "type": "概念",
+      "evidence": "类的性质，是一类中之分子所共有的若干性质",
+      "confidence": 0.9
+    },
+    {
+      "id": "e14",
+      "name": "一类中之分子必有的性质",
+      "canonical_name": "一类中之分子必有的性质",
+      "type": "概念",
+      "evidence": "是一类中之分子必有的性质",
+      "confidence": 0.9
+    },
+    {
+      "id": "e15",
+      "name": "一类中之分子性质之平均代表",
+      "canonical_name": "一类中之分子性质之平均代表",
+      "type": "概念",
+      "evidence": "是一类中之分子性质之平均代表",
+      "confidence": 0.9
+    },
+    {
+      "id": "e16",
+      "name": "形式逻辑与数学中之类的性质",
+      "canonical_name": "形式逻辑与数学中之类的性质",
+      "type": "概念",
+      "evidence": "形式逻辑与数学中之类的性质，都归第一种",
+      "confidence": 0.9
+    },
+    {
+      "id": "e17",
+      "name": "沾滞物质的科学",
+      "canonical_name": "沾滞物质的科学",
+      "type": "概念",
+      "evidence": "在沾滞物质的科学之中，类之性质都归第二种",
+      "confidence": 0.8
+    },
+    {
+      "id": "e18",
+      "name": "定性的平均代表",
+      "canonical_name": "定性的平均代表",
+      "type": "概念",
+      "evidence": "一是定性的平均代表",
+      "confidence": 0.9
+    },
+    {
+      "id": "e19",
+      "name": "凡物受热则膨胀",
+      "canonical_name": "凡物受热则膨胀",
+      "type": "例证",
+      "evidence": "例如凡物受热则膨胀，是物类之类的性质",
+      "confidence": 0.9
+    },
+    {
+      "id": "e20",
+      "name": "水在零度四度之间，受热则反收缩",
+      "canonical_name": "水在零度四度之间，受热则反收缩",
+      "type": "例证",
+      "evidence": "然而水在零度四度之间，受热则反收缩",
+      "confidence": 0.9
+    },
+    {
+      "id": "e21",
+      "name": "一种镍渗金，受热亦不膨胀，受冷亦不收缩",
+      "canonical_name": "一种镍渗金，受热亦不膨胀，受冷亦不收缩",
+      "type": "例证",
+      "evidence": "有一种镍渗金，受热亦不膨胀，受冷亦不收缩",
+      "confidence": 0.9
+    }
+  ],
+  "claims": [
+    {
+      "id": "c1",
+      "speaker": "王星拱",
+      "claim": "过去的现象，都是现在现象发生的原因",
+      "target": "",
+      "claim_type": "因果主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "过去的现象，都是现在现象发生的原因",
+      "confidence": 0.9
+    },
+    {
+      "id": "c2",
+      "speaker": "佛家",
+      "claim": "所有过去都成现在",
+      "target": "",
+      "claim_type": "描述性主张",
+      "claim_status": "间接转述",
+      "polarity": "neutral",
+      "evidence": "套佛家一句话来说，就是所有过去都成现在",
+      "confidence": 0.8
+    },
+    {
+      "id": "c3",
+      "speaker": "王星拱",
+      "claim": "宇宙间所有过去的现象之共总，是时时刻刻不同的",
+      "target": "",
+      "claim_type": "描述性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "宇宙间所有过去的现象之共总，是时时刻刻不同的",
+      "confidence": 0.9
+    },
+    {
+      "id": "c4",
+      "speaker": "王星拱",
+      "claim": "宇宙间永远没有同因的现象",
+      "target": "",
+      "claim_type": "描述性主张",
+      "claim_status": "作者推论",
+      "polarity": "positive",
+      "evidence": "所以宇宙间永远没有同因的现象",
+      "confidence": 0.9
+    },
+    {
+      "id": "c5",
+      "speaker": "王星拱",
+      "claim": "既没有同因的现象，那里能有因果的现象呢",
+      "target": "",
+      "claim_type": "问题提出",
+      "claim_status": "作者推论",
+      "polarity": "negative",
+      "evidence": "既没有同因的现象，那里能有因果的现象呢",
+      "confidence": 0.9
+    },
+    {
+      "id": "c6",
+      "speaker": "王星拱",
+      "claim": "同因必生同果，不过是一句便利的虚诞",
+      "target": "同因必生同果",
+      "claim_type": "评价性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "同因必生同果，不过是一句便利的虚诞",
+      "confidence": 0.9
+    },
+    {
+      "id": "c7",
+      "speaker": "科学的意见",
+      "claim": "科学的意见，却不与此相同",
+      "target": "",
+      "claim_type": "对比性主张",
+      "claim_status": "作者概括",
+      "polarity": "positive",
+      "evidence": "然而科学的意见，却不与此相同",
+      "confidence": 0.8
+    },
+    {
+      "id": "c8",
+      "speaker": "王星拱",
+      "claim": "科学的定律，是建筑在类的性质上面的",
+      "target": "科学的定律",
+      "claim_type": "定义性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "科学的定律，是建筑在类的性质上面的",
+      "confidence": 0.9
+    },
+    {
+      "id": "c9",
+      "speaker": "王星拱",
+      "claim": "类的性质，可以分为两种",
+      "target": "类的性质",
+      "claim_type": "定义性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "类的性质，可以分为两种",
+      "confidence": 0.9
+    },
+    {
+      "id": "c10",
+      "speaker": "王星拱",
+      "claim": "形式逻辑与数学中之类的性质，都归第一种",
+      "target": "形式逻辑与数学中之类的性质",
+      "claim_type": "描述性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "形式逻辑与数学中之类的性质，都归第一种",
+      "confidence": 0.9
+    },
+    {
+      "id": "c11",
+      "speaker": "王星拱",
+      "claim": "在沾滞物质的科学之中，类之性质都归第二种",
+      "target": "沾滞物质的科学",
+      "claim_type": "描述性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "在沾滞物质的科学之中，类之性质都归第二种",
+      "confidence": 0.9
+    },
+    {
+      "id": "c12",
+      "speaker": "王星拱",
+      "claim": "这种平均代表的类的性质，又有二种",
+      "target": "平均代表的类的性质",
+      "claim_type": "定义性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "这种平均代表的类的性质，又有二种",
+      "confidence": 0.9
+    }
+  ],
+  "relations": [
+    {
+      "id": "r1",
+      "head": "过去的现象",
+      "head_type": "概念",
+      "relation": "导致",
+      "relation_subtype": "不适用",
+      "tail": "现在现象",
+      "tail_type": "概念",
+      "polarity": "positive",
+      "stance_score": 0.0,
+      "intensity": 0.5,
+      "evidence": "过去的现象，都是现在现象发生的原因",
+      "confidence": 0.9
+    },
+    {
+      "id": "r2",
+      "head": "宇宙间所有过去的现象之共总",
+      "head_type": "概念",
+      "relation": "导致",
+      "relation_subtype": "不适用",
+      "tail": "宇宙间永远没有同因的现象",
+      "tail_type": "观点",
+      "polarity": "positive",
+      "stance_score": 0.0,
+      "intensity": 0.5,
+      "evidence": "宇宙间所有过去的现象之共总，是时时刻刻不同的, 所以宇宙间永远没有同因的现象",
+      "confidence": 0.9
+    },
+    {
+      "id": "r3",
+      "head": "王星拱",
+      "head_type": "人物",
+      "relation": "相关",
+      "relation_subtype": "一般批评",
+      "tail": "同因必生同果",
+      "tail_type": "观点",
+      "polarity": "negative",
+      "stance_score": -0.8,
+      "intensity": 0.7,
+      "evidence": "同因必生同果，不过是一句便利的虚诞",
+      "confidence": 0.9
+    },
+    {
+      "id": "r4",
+      "head": "科学的定律",
+      "head_type": "概念",
+      "relation": "属于",
+      "relation_subtype": "不适用",
+      "tail": "类的性质",
+      "tail_type": "概念",
+      "polarity": "positive",
+      "stance_score": 0.0,
+      "intensity": 0.5,
+      "evidence": "科学的定律，是建筑在类的性质上面的",
+      "confidence": 0.9
+    },
+    {
+      "id": "r5",
+      "head": "类的性质",
+      "head_type": "概念",
+      "relation": "包含",
+      "relation_subtype": "不适用",
+      "tail": "一类中之分子必有的性质",
+      "tail_type": "概念",
+      "polarity": "positive",
+      "stance_score": 0.0,
+      "intensity": 0.5,
+      "evidence": "类的性质，可以分为两种:(一）是一类中之分子必有的性质",
+      "confidence": 0.9
+    },
+    {
+      "id": "r6",
+      "head": "平均代表的类的性质",
+      "head_type": "概念",
+      "relation": "包含",
+      "relation_subtype": "不适用",
+      "tail": "定性的平均代表",
+      "tail_type": "概念",
+      "polarity": "positive",
+      "stance_score": 0.0,
+      "intensity": 0.5,
+      "evidence": "这种平均代表的类的性质，又有二种：一是定性的平均代表",
+      "confidence": 0.9
+    }
+  ],
+  "definitions": [
+    {
+      "id": "def1",
+      "term": "个体的性质",
+      "definition": "一件东西所有无限的性质",
+      "evidence": "个体的性质，是一件东西所有无限的性质",
+      "confidence": 0.9
+    },
+    {
+      "id": "def2",
+      "term": "类的性质",
+      "definition": "一类中之分子所共有的若干性质",
+      "evidence": "类的性质，是一类中之分子所共有的若干性质",
+      "confidence": 0.9
+    },
+    {
+      "id": "def3",
+      "term": "科学的定律",
+      "definition": "建筑在类的性质上面的",
+      "evidence": "科学的定律，是建筑在类的性质上面的",
+      "confidence": 0.9
+    },
+    {
+      "id": "def4",
+      "term": "一类中之分子必有的性质",
+      "definition": "一类中之分子必有的性质",
+      "evidence": "是一类中之分子必有的性质",
+      "confidence": 0.9
+    },
+    {
+      "id": "def5",
+      "term": "一类中之分子性质之平均代表",
+      "definition": "一类中之分子性质之平均代表",
+      "evidence": "是一类中之分子性质之平均代表",
+      "confidence": 0.9
+    },
+    {
+      "id": "def6",
+      "term": "定性的平均代表",
+      "definition": "定性的平均代表",
+      "evidence": "一是定性的平均代表",
+      "confidence": 0.9
+    }
+  ],
+  "citations": [
+    {
+      "id": "cit1",
+      "citer": "王星拱",
+      "quoted_author": "佛家",
+      "quoted_work": "",
+      "quoted_claim": "所有过去都成现在",
+      "function": "中性提及",
+      "evidence": "套佛家一句话来说，就是所有过去都成现在",
+      "confidence": 0.8
+    }
+  ],
+  "rhetorical_devices": [
+    {
+      "id": "rh1",
+      "expression": "套佛家一句话来说",
+      "device_type": "类比",
+      "literal_target": "所有过去都成现在",
+      "function": "借用佛家语来类比说明过去与现在的关系",
+      "evidence": "套佛家一句话来说，就是所有过去都成现在",
+      "confidence": 0.8
+    },
+    {
+      "id": "rh2",
+      "expression": "便利的虚诞",
+      "device_type": "标签化",
+      "literal_target": "同因必生同果",
+      "function": "贬低对手观点，将其定性为虚妄不实",
+      "evidence": "同因必生同果，不过是一句便利的虚诞",
+      "confidence": 0.9
+    }
+  ],
+  "uncertainties": [
+    {
+      "item": "佛家",
+      "reason": "文本中仅出现'佛家'，未指明具体人物或著作，无法确定具体引用来源"
+    },
+    {
+      "item": "科学的意见",
+      "reason": "文本中'科学的意见'作为阵营出现，但未明确其具体代表或主张内容，仅说'不与此相同'"
+    }
+  ],
+  "_meta": {
+    "status": "success",
+    "stage": "extract",
+    "model": "deepseek-ai/DeepSeek-V4-Flash",
+    "base_url": "https://api.siliconflow.cn/v1",
+    "prompt_version": "v2.0",
+    "schema_version": "lite_v3.0",
+    "segment_id": "王星拱_000_4d6fdc04_s0004",
+    "article_id": "王星拱_000_4d6fdc04",
+    "char_start": 2052,
+    "char_end": 2644,
+    "raw_path": "E:\\1研究生\\岭南大学\\论文毕业\\capstone\\资料\\新的内容开始了\\local_upload\\kg_runs_v2\\王平陵_等4篇\\raw_outputs\\extract\\王星拱_000_4d6fdc04_s0004.txt",
+    "parsed_at": "2026-05-21T04:07:59",
+    "started_at": "2026-05-21T04:07:19",
+    "elapsed_seconds": 40.295,
+    "strict_evidence_check": true,
+    "drop_unsupported_evidence": true,
+    "request_timeout_seconds": 180
+  }
+}

@@ -1,0 +1,374 @@
+{
+  "metadata": {
+    "schema_version": "lite_v2.0",
+    "article_id": "范寿康_000_14d2ac72",
+    "article_title": "评所谓“科学与玄学之争”",
+    "source_author": "范寿康",
+    "section_title": "",
+    "section_author": "",
+    "segment_id": "范寿康_000_14d2ac72_s0012",
+    "segment_index": 12,
+    "source_file": "E:\\1研究生\\岭南大学\\论文毕业\\capstone\\资料\\新的内容开始了\\local_upload\\input_w1\\范寿康.txt"
+  },
+  "entities": [
+    {
+      "id": "e1",
+      "name": "张君劢",
+      "canonical_name": "张君劢",
+      "type": "人物",
+      "evidence": "张君劢氏在《人生观》里面",
+      "confidence": 1.0
+    },
+    {
+      "id": "e2",
+      "name": "丁文江",
+      "canonical_name": "丁文江",
+      "type": "人物",
+      "evidence": "引起了科学家丁文江氏的攻击",
+      "confidence": 1.0
+    },
+    {
+      "id": "e3",
+      "name": "胡适之",
+      "canonical_name": "胡适之",
+      "type": "人物",
+      "evidence": "胡适之那篇《孙行者与张君劢》",
+      "confidence": 1.0
+    },
+    {
+      "id": "e4",
+      "name": "王星拱",
+      "canonical_name": "王星拱",
+      "type": "人物",
+      "evidence": "丁文江、王星拱、唐钺等研究狭义的科学的诸氏",
+      "confidence": 1.0
+    },
+    {
+      "id": "e5",
+      "name": "唐钺",
+      "canonical_name": "唐钺",
+      "type": "人物",
+      "evidence": "丁文江、王星拱、唐钺等研究狭义的科学的诸氏",
+      "confidence": 1.0
+    },
+    {
+      "id": "e6",
+      "name": "科学家",
+      "canonical_name": "科学家",
+      "type": "阵营/群体",
+      "evidence": "引起了科学家丁文江氏的攻击",
+      "confidence": 1.0
+    },
+    {
+      "id": "e7",
+      "name": "人生观",
+      "canonical_name": "人生观",
+      "type": "概念",
+      "evidence": "为伦理规范——人生观——一部分是先天的，一部分是后天的",
+      "confidence": 1.0
+    },
+    {
+      "id": "e8",
+      "name": "科学",
+      "canonical_name": "科学",
+      "type": "概念",
+      "evidence": "决不是科学所能干涉",
+      "confidence": 1.0
+    },
+    {
+      "id": "e9",
+      "name": "因果律",
+      "canonical_name": "因果律",
+      "type": "概念",
+      "evidence": "人类的意志全受因果律（狭义）的支配",
+      "confidence": 1.0
+    },
+    {
+      "id": "e10",
+      "name": "《人生观》",
+      "canonical_name": "《人生观》",
+      "type": "著作",
+      "evidence": "张君劢氏在《人生观》里面",
+      "confidence": 1.0
+    },
+    {
+      "id": "e11",
+      "name": "《孙行者与张君劢》",
+      "canonical_name": "《孙行者与张君劢》",
+      "type": "著作",
+      "evidence": "胡适之那篇《孙行者与张君劢》",
+      "confidence": 1.0
+    },
+    {
+      "id": "e12",
+      "name": "自由",
+      "canonical_name": "自由",
+      "type": "概念",
+      "evidence": "他们否认自由和道德",
+      "confidence": 1.0
+    },
+    {
+      "id": "e13",
+      "name": "道德",
+      "canonical_name": "道德",
+      "type": "概念",
+      "evidence": "他们否认自由和道德",
+      "confidence": 1.0
+    }
+  ],
+  "claims": [
+    {
+      "id": "c1",
+      "speaker": "范寿康",
+      "claim": "为伦理规范——人生观——一部分是先天的，一部分是后天的。先天的形式是由主观的直觉而得，决不是科学所能干涉。后天的内容应由科学的方法探讨而定，决不是主观所应妄定。",
+      "target": "人生观",
+      "claim_type": "定义性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "为伦理规范——人生观——一部分是先天的，一部分是后天的。先天的形式是由主观的直觉而得，决不是科学所能干涉。后天的内容应由科学的方法探讨而定，决不是主观所应妄定。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c2",
+      "speaker": "范寿康",
+      "claim": "人生观的形式方面是超科学的，但是人生观的内容方面却是科学的。",
+      "target": "人生观",
+      "claim_type": "定义性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "人生观的形式方面是超科学的，但是人生观的内容方面却是科学的。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c3",
+      "speaker": "范寿康",
+      "claim": "形式方面普遍妥当，始终不变，除实践外，实无更事研究的必要，所以现应研究的实偏于内容方面，而为研究内容的法则起见，尤不得不采用科学研究法。",
+      "target": "人生观",
+      "claim_type": "方法论主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "形式方面普遍妥当，始终不变，除实践外，实无更事研究的必要，所以现应研究的实偏于内容方面，而为研究内容的法则起见，尤不得不采用科学研究法。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c4",
+      "speaker": "范寿康",
+      "claim": "在这一种意义，人生观与科学二者，大部分是有关系，而同时科学却不能解决人生问题的全部。",
+      "target": "人生观与科学的关系",
+      "claim_type": "结论性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "在这一种意义，人生观与科学二者，大部分是有关系，而同时科学却不能解决人生问题的全部。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c5",
+      "speaker": "张君劢",
+      "claim": "人生观与科学二者完全绝缘，以为人生观的各项问题决非科学（广义）所能解决，而科学所能解决的决非人生观上的问题。",
+      "target": "人生观与科学的关系",
+      "claim_type": "知识论主张",
+      "claim_status": "间接转述",
+      "polarity": "negative",
+      "evidence": "张君劢氏在《人生观》里面，把人生观与科学二者完全绝缘，以为人生观的各项问题决非科学（广义）所能解决，而科学所能解决的决非人生观上的问题。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c6",
+      "speaker": "范寿康",
+      "claim": "这一种立论未免过于超绝事实，无怪乎引起了科学家丁文江氏的攻击。",
+      "target": "张君劢",
+      "claim_type": "价值评价",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "这一种立论未免过于超绝事实，无怪乎引起了科学家丁文江氏的攻击。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c7",
+      "speaker": "范寿康",
+      "claim": "张氏自己弄到后来也不能自圆其说，居然现出胡适之那篇《孙行者与张君劢》中的三对矛盾来。",
+      "target": "张君劢",
+      "claim_type": "论战策略批评",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "更进一层，就是张氏自己弄到后来也不能自圆其说，居然现出胡适之那篇《孙行者与张君劢》中的三对矛盾来。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c8",
+      "speaker": "范寿康",
+      "claim": "我对于这一种人生观与科学完全无关的见解不得不表示反对。",
+      "target": "张君劢",
+      "claim_type": "反驳性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "我对于这一种人生观与科学完全无关的见解不得不表示反对。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c9",
+      "speaker": "丁文江、王星拱、唐钺等研究狭义的科学的诸氏",
+      "claim": "人生观的解决全赖狭义的科学，狭义的科学能够解决人生观的全部。",
+      "target": "人生观与科学的关系",
+      "claim_type": "知识论主张",
+      "claim_status": "间接转述",
+      "polarity": "negative",
+      "evidence": "他们对于科学（狭义）与人生观二者似乎都有主张完全相关的倾向。换句话说：他们都以为人生观的解决全赖狭义的科学，狭义的科学能够解决人生观的全部。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c10",
+      "speaker": "丁文江、王星拱、唐钺等研究狭义的科学的诸氏",
+      "claim": "人类的意志全受因果律（狭义）的支配，他们看人类直同机械一样，他们否认自由和道德。",
+      "target": "人类意志",
+      "claim_type": "知识论主张",
+      "claim_status": "间接转述",
+      "polarity": "negative",
+      "evidence": "弄到结局，他们竟至承认人类的意志全受因果律（狭义）的支配，他们看人类直同机械一样，他们否认自由和道德。",
+      "confidence": 1.0
+    }
+  ],
+  "relations": [
+    {
+      "id": "r1",
+      "head": "范寿康",
+      "head_type": "人物",
+      "relation": "批评",
+      "tail": "张君劢",
+      "tail_type": "人物",
+      "polarity": "negative",
+      "evidence": "张君劢氏在《人生观》里面，把人生观与科学二者完全绝缘，以为人生观的各项问题决非科学（广义）所能解决，而科学所能解决的决非人生观上的问题。这一种立论未免过于超绝事实",
+      "confidence": 1.0
+    },
+    {
+      "id": "r2",
+      "head": "范寿康",
+      "head_type": "人物",
+      "relation": "批评",
+      "tail": "丁文江、王星拱、唐钺等研究狭义的科学的诸氏",
+      "tail_type": "阵营/群体",
+      "polarity": "negative",
+      "evidence": "至于丁文江、王星拱、唐钺等研究狭义的科学的诸氏呢，他们对于科学（狭义）与人生观二者似乎都有主张完全相关的倾向。换句话说：他们都以为人生观的解决全赖狭义的科学，狭义的科学能够解决人生观的全部。弄到结局，他们竟至承认人类的意志全受因果律（狭义）的支配，他们看人类直同机械一样，他们否认自由和道德。",
+      "confidence": 1.0
+    },
+    {
+      "id": "r3",
+      "head": "范寿康",
+      "head_type": "人物",
+      "relation": "定义",
+      "tail": "人生观",
+      "tail_type": "概念",
+      "polarity": "positive",
+      "evidence": "为伦理规范——人生观——一部分是先天的，一部分是后天的。先天的形式是由主观的直觉而得，决不是科学所能干涉。后天的内容应由科学的方法探讨而定，决不是主观所应妄定。",
+      "confidence": 1.0
+    },
+    {
+      "id": "r4",
+      "head": "范寿康",
+      "head_type": "人物",
+      "relation": "区分",
+      "tail": "人生观的形式方面",
+      "tail_type": "概念",
+      "polarity": "positive",
+      "evidence": "人生观的形式方面是超科学的，但是人生观的内容方面却是科学的。",
+      "confidence": 1.0
+    },
+    {
+      "id": "r5",
+      "head": "范寿康",
+      "head_type": "人物",
+      "relation": "区分",
+      "tail": "人生观的内容方面",
+      "tail_type": "概念",
+      "polarity": "positive",
+      "evidence": "人生观的形式方面是超科学的，但是人生观的内容方面却是科学的。",
+      "confidence": 1.0
+    },
+    {
+      "id": "r6",
+      "head": "张君劢",
+      "head_type": "人物",
+      "relation": "主张",
+      "tail": "人生观与科学二者完全绝缘",
+      "tail_type": "观点",
+      "polarity": "negative",
+      "evidence": "张君劢氏在《人生观》里面，把人生观与科学二者完全绝缘，以为人生观的各项问题决非科学（广义）所能解决，而科学所能解决的决非人生观上的问题。",
+      "confidence": 1.0
+    },
+    {
+      "id": "r7",
+      "head": "胡适之",
+      "head_type": "人物",
+      "relation": "批评",
+      "tail": "张君劢",
+      "tail_type": "人物",
+      "polarity": "negative",
+      "evidence": "居然现出胡适之那篇《孙行者与张君劢》中的三对矛盾来",
+      "confidence": 1.0
+    }
+  ],
+  "definitions": [
+    {
+      "id": "def1",
+      "term": "人生观",
+      "definition": "伦理规范，一部分是先天的（形式由主观直觉而得），一部分是后天的（内容由科学方法探讨而定）。形式方面超科学，内容方面科学。",
+      "evidence": "为伦理规范——人生观——一部分是先天的，一部分是后天的。先天的形式是由主观的直觉而得，决不是科学所能干涉。后天的内容应由科学的方法探讨而定，决不是主观所应妄定。",
+      "confidence": 1.0
+    },
+    {
+      "id": "def2",
+      "term": "人生观的形式方面",
+      "definition": "超科学的，普遍妥当，始终不变，除实践外无更事研究的必要。",
+      "evidence": "人生观的形式方面是超科学的，但是人生观的内容方面却是科学的。而形式方面普遍妥当，始终不变，除实践外，实无更事研究的必要",
+      "confidence": 1.0
+    },
+    {
+      "id": "def3",
+      "term": "人生观的内容方面",
+      "definition": "科学的，应由科学的方法探讨而定，是现应研究的重点。",
+      "evidence": "人生观的内容方面却是科学的。而形式方面普遍妥当，始终不变，除实践外，实无更事研究的必要，所以现应研究的实偏于内容方面，而为研究内容的法则起见，尤不得不采用科学研究法。",
+      "confidence": 1.0
+    }
+  ],
+  "citations": [],
+  "rhetorical_devices": [
+    {
+      "id": "rh1",
+      "expression": "他们看人类直同机械一样",
+      "device_type": "比喻",
+      "literal_target": "丁文江、王星拱、唐钺等研究狭义的科学的诸氏对人类意志的看法",
+      "function": "通过比喻强调对方观点将人类视为无自由意志的机械，从而批评其否认自由和道德的极端性",
+      "evidence": "他们看人类直同机械一样",
+      "confidence": 1.0
+    }
+  ],
+  "uncertainties": [
+    {
+      "item": "“三对矛盾”的具体内容",
+      "reason": "文本仅提及“三对矛盾”，未具体说明是哪三对，无法进一步抽取。"
+    },
+    {
+      "item": "“狭义的科学的诸氏”是否包括丁文江、王星拱、唐钺之外的其他人物",
+      "reason": "文本列举了丁文江、王星拱、唐钺，但“等”字可能包含其他人，无法确定。"
+    }
+  ],
+  "_meta": {
+    "status": "success",
+    "stage": "extract",
+    "model": "deepseek-ai/DeepSeek-V4-Flash",
+    "base_url": "https://api.siliconflow.cn/v1",
+    "prompt_version": "extract_prompt_v2.0",
+    "schema_version": "lite_v2.0",
+    "segment_id": "范寿康_000_14d2ac72_s0012",
+    "article_id": "范寿康_000_14d2ac72",
+    "char_start": 6002,
+    "char_end": 6585,
+    "raw_path": "E:\\1研究生\\岭南大学\\论文毕业\\capstone\\资料\\新的内容开始了\\local_upload\\kg_runs\\范寿康\\raw_outputs\\extract\\范寿康_000_14d2ac72_s0012.txt",
+    "parsed_at": "2026-05-20T00:16:20",
+    "started_at": "2026-05-20T00:06:37",
+    "elapsed_seconds": 582.896,
+    "strict_evidence_check": true,
+    "drop_unsupported_evidence": true,
+    "request_timeout_seconds": 180
+  }
+}

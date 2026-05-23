@@ -1,0 +1,389 @@
+{
+  "metadata": {
+    "schema_version": "lite_v2.0",
+    "article_id": "陈独秀_002_69a217f6",
+    "article_title": "答张君劢及梁任公",
+    "source_author": "陈独秀",
+    "section_title": "",
+    "section_author": "",
+    "segment_id": "陈独秀_002_69a217f6_s0014",
+    "segment_index": 14,
+    "source_file": "E:\\1研究生\\岭南大学\\论文毕业\\capstone\\资料\\新的内容开始了\\local_upload\\input_w2\\陈独秀.txt"
+  },
+  "entities": [
+    {
+      "id": "e1",
+      "name": "梁先生",
+      "canonical_name": "梁任公",
+      "type": "人物",
+      "evidence": "梁先生所信分明是二元论",
+      "confidence": 0.9
+    },
+    {
+      "id": "e2",
+      "name": "物质论者",
+      "canonical_name": "物质论者",
+      "type": "阵营/群体",
+      "evidence": "物质论者是说世间一切都是物质",
+      "confidence": 0.9
+    },
+    {
+      "id": "e3",
+      "name": "精神论者",
+      "canonical_name": "精神论者",
+      "type": "阵营/群体",
+      "evidence": "精神论者是说世间一切都是精神",
+      "confidence": 0.9
+    },
+    {
+      "id": "e4",
+      "name": "二元论者",
+      "canonical_name": "二元论者",
+      "type": "阵营/群体",
+      "evidence": "如二元论者之所想象",
+      "confidence": 0.9
+    },
+    {
+      "id": "e5",
+      "name": "物质",
+      "canonical_name": "物质",
+      "type": "概念",
+      "evidence": "世间一切都是物质",
+      "confidence": 0.9
+    },
+    {
+      "id": "e6",
+      "name": "精神",
+      "canonical_name": "精神",
+      "type": "概念",
+      "evidence": "世间一切都是精神",
+      "confidence": 0.9
+    },
+    {
+      "id": "e7",
+      "name": "一元论",
+      "canonical_name": "一元论",
+      "type": "主义/学说/理论",
+      "evidence": "其均为一元论则同",
+      "confidence": 0.9
+    },
+    {
+      "id": "e8",
+      "name": "二元论",
+      "canonical_name": "二元论",
+      "type": "主义/学说/理论",
+      "evidence": "梁先生所信分明是二元论",
+      "confidence": 0.9
+    },
+    {
+      "id": "e9",
+      "name": "唯物论",
+      "canonical_name": "唯物论",
+      "type": "主义/学说/理论",
+      "evidence": "唯物论就是物质一元论",
+      "confidence": 0.9
+    },
+    {
+      "id": "e10",
+      "name": "唯心论",
+      "canonical_name": "唯心论",
+      "type": "主义/学说/理论",
+      "evidence": "客观的唯心论",
+      "confidence": 0.9
+    },
+    {
+      "id": "e11",
+      "name": "精神一元论",
+      "canonical_name": "精神一元论",
+      "type": "主义/学说/理论",
+      "evidence": "精神一元论的招牌便须自己取下",
+      "confidence": 0.9
+    },
+    {
+      "id": "e12",
+      "name": "物质一元论",
+      "canonical_name": "物质一元论",
+      "type": "主义/学说/理论",
+      "evidence": "唯物论就是物质一元论",
+      "confidence": 0.9
+    },
+    {
+      "id": "e13",
+      "name": "李斯",
+      "canonical_name": "李斯",
+      "type": "人物",
+      "evidence": "李斯董仲舒对于人为的学说定一尊绝异端",
+      "confidence": 0.9
+    },
+    {
+      "id": "e14",
+      "name": "董仲舒",
+      "canonical_name": "董仲舒",
+      "type": "人物",
+      "evidence": "李斯董仲舒对于人为的学说定一尊绝异端",
+      "confidence": 0.9
+    }
+  ],
+  "claims": [
+    {
+      "id": "c1",
+      "speaker": "陈独秀",
+      "claim": "物质论者是说世间一切都是物质，精神亦为物质所生",
+      "target": "物质论者",
+      "claim_type": "定义性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "物质论者是说世间一切都是物质，精神亦为物质所生",
+      "confidence": 0.9
+    },
+    {
+      "id": "c2",
+      "speaker": "陈独秀",
+      "claim": "精神论者是说世间一切都是精神，物质亦为精神所生",
+      "target": "精神论者",
+      "claim_type": "定义性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "精神论者是说世间一切都是精神，物质亦为精神所生",
+      "confidence": 0.9
+    },
+    {
+      "id": "c3",
+      "speaker": "陈独秀",
+      "claim": "物质论者与精神论者二者结论虽正相反对，其均为一元论则同",
+      "target": "物质论者",
+      "claim_type": "定义性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "二者结论虽正相反对，其均为一元论则同",
+      "confidence": 0.9
+    },
+    {
+      "id": "c4",
+      "speaker": "陈独秀",
+      "claim": "一元便与“唯”无别",
+      "target": "一元论",
+      "claim_type": "定义性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "一元便与“唯”无别",
+      "confidence": 0.9
+    },
+    {
+      "id": "c5",
+      "speaker": "陈独秀",
+      "claim": "二元论之归结，恒为客观的唯心论",
+      "target": "二元论",
+      "claim_type": "知识论主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "二元论之归结，恒为客观的唯心论",
+      "confidence": 0.9
+    },
+    {
+      "id": "c6",
+      "speaker": "陈独秀",
+      "claim": "二元论终不能成立",
+      "target": "二元论",
+      "claim_type": "结论性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "二元论终不能成立也如此",
+      "confidence": 0.9
+    },
+    {
+      "id": "c7",
+      "speaker": "陈独秀",
+      "claim": "梁先生所信分明是二元论",
+      "target": "梁先生",
+      "claim_type": "价值评价",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "梁先生所信分明是二元论",
+      "confidence": 0.9
+    },
+    {
+      "id": "c8",
+      "speaker": "陈独秀",
+      "claim": "梁先生自己无可“唯”便责骂他人“唯”，自己主张二元便责骂他人主张一元，这是何等“学术界专制帝王的口吻”",
+      "target": "梁先生",
+      "claim_type": "论战策略批评",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "自己无可“唯”便责骂他人“唯”，自己主张二元便责骂他人主张一元（“唯”就是一元，唯物论就是物质一元论），便下哀的美敦书来宣战，这是何等“学术界专制帝王的口吻”",
+      "confidence": 0.9
+    },
+    {
+      "id": "c9",
+      "speaker": "陈独秀",
+      "claim": "梁先生将客观的说明宇宙现象之“唯”与李斯董仲舒对于人为的学说定一尊绝异端并为一谈，是浮光掠影的望文生义",
+      "target": "梁先生",
+      "claim_type": "论战策略批评",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "客观的说明宇宙现象之“唯”，和李斯董仲舒对于人为的学说定一尊绝异端迥不相类，乃梁先生竟并为一谈，这是何等浮光掠影的望文生义",
+      "confidence": 0.9
+    },
+    {
+      "id": "c10",
+      "speaker": "陈独秀",
+      "claim": "浮光掠影的望文生义而不能深入骨髓解析其内容，或者正是梁先生一生治学之受病处",
+      "target": "梁先生",
+      "claim_type": "价值评价",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "浮光掠影的望文生义而不能深入骨髓解析其内容，或者正是梁先生一生治学之受病处",
+      "confidence": 0.9
+    },
+    {
+      "id": "c11",
+      "speaker": "陈独秀",
+      "claim": "梁先生果真欲在学术界指导青年，须先于自己受病处深加猛省",
+      "target": "梁先生",
+      "claim_type": "教育主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "梁先生果真欲在学术界指导青年，须先于自己受病处深加猛省",
+      "confidence": 0.9
+    },
+    {
+      "id": "c12",
+      "speaker": "陈独秀",
+      "claim": "我知道梁先生不是饰非文过的懦夫，故敢进直言",
+      "target": "梁先生",
+      "claim_type": "价值评价",
+      "claim_status": "作者直接主张",
+      "polarity": "mixed",
+      "evidence": "我知道梁先生不是饰非文过的懦夫，故敢进直言",
+      "confidence": 0.9
+    }
+  ],
+  "relations": [
+    {
+      "id": "r1",
+      "head": "二元论",
+      "head_type": "主义/学说/理论",
+      "relation": "导致",
+      "tail": "唯心论",
+      "tail_type": "主义/学说/理论",
+      "polarity": "negative",
+      "evidence": "二元论之归结，恒为客观的唯心论",
+      "confidence": 0.9
+    },
+    {
+      "id": "r2",
+      "head": "陈独秀",
+      "head_type": "人物",
+      "relation": "批评",
+      "tail": "梁先生",
+      "tail_type": "人物",
+      "polarity": "negative",
+      "evidence": "客观的说明宇宙现象之“唯”，和李斯董仲舒对于人为的学说定一尊绝异端迥不相类，乃梁先生竟并为一谈",
+      "confidence": 0.9
+    },
+    {
+      "id": "r3",
+      "head": "陈独秀",
+      "head_type": "人物",
+      "relation": "批评",
+      "tail": "梁先生",
+      "tail_type": "人物",
+      "polarity": "negative",
+      "evidence": "浮光掠影的望文生义而不能深入骨髓解析其内容，或者正是梁先生一生治学之受病处",
+      "confidence": 0.9
+    },
+    {
+      "id": "r4",
+      "head": "陈独秀",
+      "head_type": "人物",
+      "relation": "相关",
+      "tail": "梁先生",
+      "tail_type": "人物",
+      "polarity": "mixed",
+      "evidence": "我知道梁先生不是饰非文过的懦夫，故敢进直言",
+      "confidence": 0.9
+    }
+  ],
+  "definitions": [
+    {
+      "id": "def1",
+      "term": "一元论",
+      "definition": "物质论者或精神论者认为世界根本都是物质或都是精神，一元便与“唯”无别",
+      "evidence": "物质论者是说世间一切都是物质，精神亦为物质所生；精神论者是说世间一切都是精神，物质亦为精神所生；二者结论虽正相反对，其均为一元论则同，一元便与“唯”无别",
+      "confidence": 0.9
+    },
+    {
+      "id": "def2",
+      "term": "二元论",
+      "definition": "认为物质与精神分途并进各别为一世界的学说",
+      "evidence": "分途并进各别为一世界如二元论者之所想象",
+      "confidence": 0.9
+    },
+    {
+      "id": "def3",
+      "term": "唯物论",
+      "definition": "物质一元论",
+      "evidence": "唯物论就是物质一元论",
+      "confidence": 0.9
+    }
+  ],
+  "citations": [],
+  "rhetorical_devices": [
+    {
+      "id": "rh1",
+      "expression": "学术界专制帝王的口吻",
+      "device_type": "讽刺",
+      "literal_target": "梁先生批评他人“唯”并宣战的行为",
+      "function": "讽刺梁先生以专制帝王的口吻对待学术争论",
+      "evidence": "这是何等“学术界专制帝王的口吻”",
+      "confidence": 0.9
+    },
+    {
+      "id": "rh2",
+      "expression": "浮光掠影的望文生义",
+      "device_type": "比喻",
+      "literal_target": "梁先生将不同概念混为一谈的治学方式",
+      "function": "批评梁先生治学肤浅，不深入分析",
+      "evidence": "这是何等浮光掠影的望文生义",
+      "confidence": 0.9
+    },
+    {
+      "id": "rh3",
+      "expression": "深入骨髓解析其内容",
+      "device_type": "比喻",
+      "literal_target": "深入分析概念内容",
+      "function": "与浮光掠影形成对比，强调深入分析的必要",
+      "evidence": "浮光掠影的望文生义而不能深入骨髓解析其内容",
+      "confidence": 0.9
+    }
+  ],
+  "uncertainties": [
+    {
+      "item": "梁先生是否确实主张二元论并责骂他人“唯”",
+      "reason": "文本中陈独秀直接断言梁先生所信是二元论并批评其行为，但未提供梁先生原文证据，无法确认梁先生真实主张"
+    },
+    {
+      "item": "梁先生是否确实将客观的说明宇宙现象之“唯”与李斯董仲舒的定一尊并为一谈",
+      "reason": "文本中陈独秀批评梁先生并为一谈，但未引用梁先生原文，无法确认梁先生是否确实如此"
+    }
+  ],
+  "_meta": {
+    "status": "success",
+    "stage": "extract",
+    "model": "deepseek-ai/DeepSeek-V4-Flash",
+    "base_url": "https://api.siliconflow.cn/v1",
+    "prompt_version": "extract_prompt_v2.0",
+    "schema_version": "lite_v2.0",
+    "segment_id": "陈独秀_002_69a217f6_s0014",
+    "article_id": "陈独秀_002_69a217f6",
+    "char_start": 6896,
+    "char_end": 7490,
+    "raw_path": "E:\\1研究生\\岭南大学\\论文毕业\\capstone\\资料\\新的内容开始了\\local_upload\\kg_runs\\陈独秀\\raw_outputs\\extract\\陈独秀_002_69a217f6_s0014.txt",
+    "parsed_at": "2026-05-20T03:15:30",
+    "started_at": "2026-05-20T03:10:00",
+    "elapsed_seconds": 329.86,
+    "strict_evidence_check": true,
+    "drop_unsupported_evidence": true,
+    "request_timeout_seconds": 180
+  }
+}

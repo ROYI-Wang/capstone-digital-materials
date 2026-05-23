@@ -1,0 +1,404 @@
+{
+  "metadata": {
+    "schema_version": "lite_v3.0",
+    "article_id": "丁文江_000_3ba07a5e",
+    "article_title": "玄学与科学 ——评张君劢的《人生观》",
+    "source_author": "丁文江",
+    "section_title": "",
+    "section_author": "",
+    "segment_id": "丁文江_000_3ba07a5e_s0011",
+    "segment_index": 11,
+    "source_file": "E:\\1研究生\\岭南大学\\论文毕业\\capstone\\资料\\新的内容开始了\\local_upload\\input_丁文江\\丁文江.txt"
+  },
+  "entities": [
+    {
+      "id": "e1",
+      "name": "玄学家",
+      "canonical_name": "玄学家",
+      "type": "阵营/群体",
+      "evidence": "玄学家总说科学研究的是死的，活的东西不能以一例相绳",
+      "confidence": 1.0
+    },
+    {
+      "id": "e2",
+      "name": "科学",
+      "canonical_name": "科学",
+      "type": "概念",
+      "evidence": "从此向来属于玄学的宇宙就被科学抢去",
+      "confidence": 1.0
+    },
+    {
+      "id": "e3",
+      "name": "玄学",
+      "canonical_name": "玄学",
+      "type": "概念",
+      "evidence": "从此向来属于玄学的宇宙就被科学抢去",
+      "confidence": 1.0
+    },
+    {
+      "id": "e4",
+      "name": "达尔文",
+      "canonical_name": "达尔文",
+      "type": "人物",
+      "evidence": "无奈达尔文不知趣，又做了一部《物种由来》",
+      "confidence": 1.0
+    },
+    {
+      "id": "e5",
+      "name": "《物种由来》",
+      "canonical_name": "《物种由来》",
+      "type": "著作",
+      "evidence": "又做了一部《物种由来》",
+      "confidence": 1.0
+    },
+    {
+      "id": "e6",
+      "name": "张君劢",
+      "canonical_name": "张君劢",
+      "type": "人物",
+      "evidence": "读者注意，张君劢把达尔文的生存竞争论归入他的人生观！",
+      "confidence": 1.0
+    },
+    {
+      "id": "e7",
+      "name": "生存竞争论",
+      "canonical_name": "生存竞争论",
+      "type": "概念",
+      "evidence": "张君劢把达尔文的生存竞争论归入他的人生观",
+      "confidence": 1.0
+    },
+    {
+      "id": "e8",
+      "name": "人生观",
+      "canonical_name": "人生观",
+      "type": "概念",
+      "evidence": "张君劢把达尔文的生存竞争论归入他的人生观",
+      "confidence": 1.0
+    },
+    {
+      "id": "e9",
+      "name": "生物学",
+      "canonical_name": "生物学",
+      "type": "概念",
+      "evidence": "生物学又变做科学了",
+      "confidence": 1.0
+    },
+    {
+      "id": "e10",
+      "name": "心理学",
+      "canonical_name": "心理学",
+      "type": "概念",
+      "evidence": "连玄学家当做看家狗的心理学，也宣告了独立",
+      "confidence": 1.0
+    },
+    {
+      "id": "e11",
+      "name": "本体论",
+      "canonical_name": "本体论",
+      "type": "概念",
+      "evidence": "玄学于是从根本哲学，退避到本体论",
+      "confidence": 1.0
+    },
+    {
+      "id": "e12",
+      "name": "科学方法",
+      "canonical_name": "科学方法",
+      "type": "方法",
+      "evidence": "知道在知识界内，科学方法是万能",
+      "confidence": 1.0
+    },
+    {
+      "id": "e13",
+      "name": "玄学的鬼",
+      "canonical_name": "玄学的鬼",
+      "type": "比喻/类比",
+      "evidence": "我说玄学的鬼附在张君劢身上",
+      "confidence": 1.0
+    },
+    {
+      "id": "e14",
+      "name": "柏格森",
+      "canonical_name": "柏格森",
+      "type": "人物",
+      "evidence": "张君劢的人生观，一部分是从玄学大家柏格森化出来的",
+      "confidence": 1.0
+    },
+    {
+      "id": "e15",
+      "name": "胡适之",
+      "canonical_name": "胡适之",
+      "type": "人物",
+      "evidence": "读者可以看胡适之的《五十年来世界之哲学》",
+      "confidence": 1.0
+    },
+    {
+      "id": "e16",
+      "name": "《五十年来世界之哲学》",
+      "canonical_name": "《五十年来世界之哲学》",
+      "type": "著作",
+      "evidence": "读者可以看胡适之的《五十年来世界之哲学》",
+      "confidence": 1.0
+    },
+    {
+      "id": "e17",
+      "name": "盲目冲动",
+      "canonical_name": "盲目冲动",
+      "type": "评价",
+      "evidence": "他也说他是“盲目冲动”",
+      "confidence": 1.0
+    },
+    {
+      "id": "e18",
+      "name": "罗素",
+      "canonical_name": "罗素",
+      "type": "人物",
+      "evidence": "罗素在北京的时候，听说有人要请柏格森到中国来演讲，即对我说",
+      "confidence": 1.0
+    }
+  ],
+  "claims": [
+    {
+      "id": "c1",
+      "speaker": "玄学家",
+      "claim": "科学研究的是死的，活的东西不能以一例相绳",
+      "target": "科学",
+      "claim_type": "反驳性主张",
+      "claim_status": "对手直接主张",
+      "polarity": "negative",
+      "evidence": "玄学家总说科学研究的是死的，活的东西不能以一例相绳",
+      "confidence": 1.0
+    },
+    {
+      "id": "c2",
+      "speaker": "丁文江",
+      "claim": "真理究竟战胜，生物学又变做科学了",
+      "target": "生物学",
+      "claim_type": "结论性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "真理究竟战胜，生物学又变做科学了",
+      "confidence": 1.0
+    },
+    {
+      "id": "c3",
+      "speaker": "丁文江",
+      "claim": "在知识界内，科学方法是万能，不怕玄学终久不投降",
+      "target": "科学方法",
+      "claim_type": "结论性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "知道在知识界内，科学方法是万能，不怕玄学终久不投降",
+      "confidence": 1.0
+    },
+    {
+      "id": "c4",
+      "speaker": "丁文江",
+      "claim": "玄学的鬼附在张君劢身上",
+      "target": "张君劢",
+      "claim_type": "评价性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "我说玄学的鬼附在张君劢身上，不是冤枉他的了",
+      "confidence": 1.0
+    },
+    {
+      "id": "c5",
+      "speaker": "丁文江",
+      "claim": "张君劢的人生观，一部分是从玄学大家柏格森化出来的",
+      "target": "张君劢的人生观",
+      "claim_type": "描述性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "张君劢的人生观，一部分是从玄学大家柏格森化出来的",
+      "confidence": 1.0
+    },
+    {
+      "id": "c6",
+      "speaker": "胡适之",
+      "claim": "柏格森是“盲目冲动”",
+      "target": "柏格森",
+      "claim_type": "评价性主张",
+      "claim_status": "间接转述",
+      "polarity": "negative",
+      "evidence": "他也说他是“盲目冲动”",
+      "confidence": 1.0
+    },
+    {
+      "id": "c7",
+      "speaker": "罗素",
+      "claim": "柏格森的盛名是骗巴黎的时髦妇人得来的。他对于哲学可谓毫无贡献；同行的人都很看不起他",
+      "target": "柏格森",
+      "claim_type": "评价性主张",
+      "claim_status": "间接转述",
+      "polarity": "negative",
+      "evidence": "罗素在北京的时候，听说有人要请柏格森到中国来演讲，即对我说，“我很奇怪你们为什么要请柏格森。他的盛名是骗巴黎的时髦妇人得来的。他对于哲学可谓毫无贡献；同行的人都很看不起他”",
+      "confidence": 1.0
+    },
+    {
+      "id": "c8",
+      "speaker": "丁文江",
+      "claim": "柏格森的主张，也没有张君劢这样鲁莽",
+      "target": "柏格森的主张",
+      "claim_type": "对比性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "mixed",
+      "evidence": "然而平心而论，柏格森的主张，也没有张君劢这样鲁莽",
+      "confidence": 1.0
+    }
+  ],
+  "relations": [
+    {
+      "id": "r1",
+      "head": "玄学家",
+      "head_type": "阵营/群体",
+      "relation": "主张",
+      "relation_subtype": "不适用",
+      "tail": "科学研究的是死的，活的东西不能以一例相绳",
+      "tail_type": "观点",
+      "polarity": "negative",
+      "stance_score": -0.5,
+      "intensity": 0.5,
+      "evidence": "玄学家总说科学研究的是死的，活的东西不能以一例相绳",
+      "confidence": 1.0
+    },
+    {
+      "id": "r2",
+      "head": "张君劢",
+      "head_type": "人物",
+      "relation": "主张",
+      "relation_subtype": "不适用",
+      "tail": "达尔文的生存竞争论归入他的人生观",
+      "tail_type": "观点",
+      "polarity": "neutral",
+      "stance_score": 0.0,
+      "intensity": 0.0,
+      "evidence": "张君劢把达尔文的生存竞争论归入他的人生观",
+      "confidence": 1.0
+    },
+    {
+      "id": "r3",
+      "head": "丁文江",
+      "head_type": "人物",
+      "relation": "主张",
+      "relation_subtype": "不适用",
+      "tail": "在知识界内，科学方法是万能，不怕玄学终久不投降",
+      "tail_type": "观点",
+      "polarity": "positive",
+      "stance_score": 1.0,
+      "intensity": 0.9,
+      "evidence": "知道在知识界内，科学方法是万能，不怕玄学终久不投降",
+      "confidence": 1.0
+    },
+    {
+      "id": "r4",
+      "head": "丁文江",
+      "head_type": "人物",
+      "relation": "相关",
+      "relation_subtype": "讽刺",
+      "tail": "张君劢",
+      "tail_type": "人物",
+      "polarity": "negative",
+      "stance_score": -0.8,
+      "intensity": 0.8,
+      "evidence": "我说玄学的鬼附在张君劢身上，不是冤枉他的了",
+      "confidence": 1.0
+    },
+    {
+      "id": "r5",
+      "head": "张君劢的人生观",
+      "head_type": "概念",
+      "relation": "源自",
+      "relation_subtype": "不适用",
+      "tail": "柏格森",
+      "tail_type": "人物",
+      "polarity": "neutral",
+      "stance_score": 0.0,
+      "intensity": 0.0,
+      "evidence": "张君劢的人生观，一部分是从玄学大家柏格森化出来的",
+      "confidence": 1.0
+    },
+    {
+      "id": "r6",
+      "head": "丁文江",
+      "head_type": "人物",
+      "relation": "对比",
+      "relation_subtype": "不适用",
+      "tail": "柏格森的主张，也没有张君劢这样鲁莽",
+      "tail_type": "观点",
+      "polarity": "mixed",
+      "stance_score": 0.3,
+      "intensity": 0.4,
+      "evidence": "然而平心而论，柏格森的主张，也没有张君劢这样鲁莽",
+      "confidence": 1.0
+    }
+  ],
+  "definitions": [],
+  "citations": [],
+  "rhetorical_devices": [
+    {
+      "id": "rh1",
+      "expression": "玄学家当做看家狗的心理学",
+      "device_type": "比喻",
+      "literal_target": "心理学",
+      "function": "讽刺玄学家将心理学视为自己的专属领域",
+      "evidence": "连玄学家当做看家狗的心理学，也宣告了独立",
+      "confidence": 1.0
+    },
+    {
+      "id": "rh2",
+      "expression": "玄学的鬼附在张君劢身上",
+      "device_type": "比喻",
+      "literal_target": "张君劢",
+      "function": "贬低张君劢，将其思想归为玄学迷信",
+      "evidence": "我说玄学的鬼附在张君劢身上，不是冤枉他的了",
+      "confidence": 1.0
+    },
+    {
+      "id": "rh3",
+      "expression": "与张君劢一鼻孔出气",
+      "device_type": "比喻",
+      "literal_target": "玄学家与张君劢",
+      "function": "讽刺玄学家与张君劢观点一致",
+      "evidence": "但是玄学家总说科学研究的是死的，活的东西不能以一例相绳。（与张君劢一鼻孔出气。）",
+      "confidence": 1.0
+    },
+    {
+      "id": "rh4",
+      "expression": "骗巴黎的时髦妇人得来的",
+      "device_type": "讽刺",
+      "literal_target": "柏格森的盛名",
+      "function": "贬低柏格森的声誉来源",
+      "evidence": "他的盛名是骗巴黎的时髦妇人得来的",
+      "confidence": 1.0
+    }
+  ],
+  "uncertainties": [
+    {
+      "item": "“与张君劢一鼻孔出气”是否直接出自玄学家之口，还是丁文江的评论",
+      "reason": "原文以括号形式出现，可能是丁文江的插入评论，但未明确标注说话者"
+    },
+    {
+      "item": "“读者注意，张君劢把达尔文的生存竞争论归入他的人生观！”中感叹号是否表示丁文江的惊讶或批评",
+      "reason": "感叹号可能表示强调或讽刺，但文本未明确说明"
+    }
+  ],
+  "_meta": {
+    "status": "success",
+    "stage": "extract",
+    "model": "deepseek-ai/DeepSeek-V4-Flash",
+    "base_url": "https://api.siliconflow.cn/v1",
+    "prompt_version": "v2.0",
+    "schema_version": "lite_v3.0",
+    "segment_id": "丁文江_000_3ba07a5e_s0011",
+    "article_id": "丁文江_000_3ba07a5e",
+    "char_start": 5596,
+    "char_end": 6185,
+    "raw_path": "E:\\1研究生\\岭南大学\\论文毕业\\capstone\\资料\\新的内容开始了\\local_upload\\kg_runs_v2\\丁文江_等3篇\\raw_outputs\\extract\\丁文江_000_3ba07a5e_s0011.txt",
+    "parsed_at": "2026-05-21T18:31:19",
+    "started_at": "2026-05-21T18:22:38",
+    "elapsed_seconds": 521.25,
+    "strict_evidence_check": true,
+    "drop_unsupported_evidence": true,
+    "request_timeout_seconds": 180
+  }
+}

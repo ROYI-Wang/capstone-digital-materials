@@ -1,0 +1,414 @@
+{
+  "metadata": {
+    "schema_version": "lite_v3.0",
+    "article_id": "林宰平_000_acbbe922",
+    "article_title": "读丁在君先生的《玄学与科学》",
+    "source_author": "林宰平",
+    "section_title": "",
+    "section_author": "",
+    "segment_id": "林宰平_000_acbbe922_s0031",
+    "segment_index": 31,
+    "source_file": "E:\\1研究生\\岭南大学\\论文毕业\\capstone\\资料\\新的内容开始了\\local_upload\\input_林宰平\\林宰平.txt"
+  },
+  "entities": [
+    {
+      "id": "e1",
+      "name": "科学方法万能者",
+      "canonical_name": "科学方法万能者",
+      "type": "阵营/群体",
+      "evidence": "由一二主张科学方法万能者之不宽厚的态度所招惹出来的反动呢?",
+      "confidence": 0.9
+    },
+    {
+      "id": "e2",
+      "name": "科学",
+      "canonical_name": "科学",
+      "type": "概念",
+      "evidence": "科学的本身，他原没有甚么好坏的问题。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e3",
+      "name": "在君先生",
+      "canonical_name": "丁在君",
+      "type": "人物",
+      "evidence": "若使在十年以前，连在君先生这样的极端主张，我们也不想批驳他",
+      "confidence": 1.0
+    },
+    {
+      "id": "e4",
+      "name": "海内真科学家",
+      "canonical_name": "海内真科学家",
+      "type": "阵营/群体",
+      "evidence": "海内真科学家固然并不多",
+      "confidence": 0.9
+    },
+    {
+      "id": "e5",
+      "name": "敝国的通病",
+      "canonical_name": "敝国的通病",
+      "type": "概念",
+      "evidence": "我们敝国的通病最喜欢讲空话，讲大话",
+      "confidence": 0.8
+    },
+    {
+      "id": "e6",
+      "name": "在君先生这种提倡科学",
+      "canonical_name": "在君先生这种提倡科学",
+      "type": "观点",
+      "evidence": "像在君先生这种提倡科学正合敝国大国民的老脾气",
+      "confidence": 0.8
+    },
+    {
+      "id": "e7",
+      "name": "在君先生这篇文章的讲法和态度",
+      "canonical_name": "在君先生这篇文章的讲法和态度",
+      "type": "观点",
+      "evidence": "但是在君先生这篇文章的讲法和态度，我是不敢附和的。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e8",
+      "name": "杜威",
+      "canonical_name": "杜威",
+      "type": "人物",
+      "evidence": "我从前听见杜威讲到进化论在欧洲不知引起多少的争论",
+      "confidence": 1.0
+    },
+    {
+      "id": "e9",
+      "name": "进化论",
+      "canonical_name": "进化论",
+      "type": "主义/学说/理论",
+      "evidence": "我从前听见杜威讲到进化论在欧洲不知引起多少的争论",
+      "confidence": 1.0
+    }
+  ],
+  "claims": [
+    {
+      "id": "c1",
+      "speaker": "林宰平",
+      "claim": "由一二主张科学方法万能者之不宽厚的态度所招惹出来的反动",
+      "target": "科学方法万能者",
+      "claim_type": "因果主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "由一二主张科学方法万能者之不宽厚的态度所招惹出来的反动呢?",
+      "confidence": 0.8
+    },
+    {
+      "id": "c2",
+      "speaker": "林宰平",
+      "claim": "科学的本身，他原没有甚么好坏的问题。",
+      "target": "科学",
+      "claim_type": "描述性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "科学的本身，他原没有甚么好坏的问题。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c3",
+      "speaker": "林宰平",
+      "claim": "利用他来求知识，乃至应用其方法于任何方面，科学自己也并没居功。",
+      "target": "科学",
+      "claim_type": "描述性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "利用他来求知识，乃至应用其方法于任何方面，科学自己也并没居功。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c4",
+      "speaker": "林宰平",
+      "claim": "反过来利用他帮助资本家，利用他来打仗，吃人膏血，孤人妻子，科学自身也不任过。",
+      "target": "科学",
+      "claim_type": "描述性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "反过来利用他帮助资本家，利用他来打仗，吃人膏血，孤人妻子，科学自身也不任过。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c5",
+      "speaker": "林宰平",
+      "claim": "在君先生这样的极端主张",
+      "target": "在君先生",
+      "claim_type": "评价性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "若使在十年以前，连在君先生这样的极端主张，我们也不想批驳他",
+      "confidence": 0.9
+    },
+    {
+      "id": "c6",
+      "speaker": "林宰平",
+      "claim": "海内真科学家固然并不多，但是知道科学是重要的，这几年似乎很不在少数。",
+      "target": "海内真科学家",
+      "claim_type": "描述性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "mixed",
+      "evidence": "海内真科学家固然并不多，但是知道科学是重要的，这几年似乎很不在少数。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c7",
+      "speaker": "林宰平",
+      "claim": "现在提倡科学，正要为他显出真正的价值，筑了坚实的基础，别像吹胰子泡似的，吹得太大，反而吹破了。",
+      "target": "科学",
+      "claim_type": "规范性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "现在提倡科学，正要为他显出真正的价值，筑了坚实的基础，别像吹胰子泡似的，吹得太大，反而吹破了。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c8",
+      "speaker": "林宰平",
+      "claim": "我们敝国的通病最喜欢讲空话，讲大话",
+      "target": "敝国的通病",
+      "claim_type": "描述性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "我们敝国的通病最喜欢讲空话，讲大话",
+      "confidence": 0.9
+    },
+    {
+      "id": "c9",
+      "speaker": "林宰平",
+      "claim": "像在君先生这种提倡科学正合敝国大国民的老脾气",
+      "target": "在君先生这种提倡科学",
+      "claim_type": "评价性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "像在君先生这种提倡科学正合敝国大国民的老脾气，说几句科学的理论，摇头晃脑的也要自命是科学家",
+      "confidence": 0.9
+    },
+    {
+      "id": "c10",
+      "speaker": "林宰平",
+      "claim": "在君先生把科学极力的普遍化，烧酒对水卖，分量越多，价值越少了。",
+      "target": "在君先生",
+      "claim_type": "评价性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "在君先生把科学极力的普遍化，烧酒对水卖，分量越多，价值越少了。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c11",
+      "speaker": "林宰平",
+      "claim": "科学我是相信的。",
+      "target": "科学",
+      "claim_type": "评价性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "科学我是相信的。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c12",
+      "speaker": "林宰平",
+      "claim": "在君先生的热心，和他很好的用意，我自谓不是全不了解的。",
+      "target": "在君先生",
+      "claim_type": "评价性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "在君先生的热心，和他很好的用意，我自谓不是全不了解的。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c13",
+      "speaker": "林宰平",
+      "claim": "在君先生这篇文章的讲法和态度，我是不敢附和的。",
+      "target": "在君先生这篇文章的讲法和态度",
+      "claim_type": "评价性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "但是在君先生这篇文章的讲法和态度，我是不敢附和的。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c14",
+      "speaker": "杜威",
+      "claim": "进化论在欧洲不知引起多少的争论，一直到今还没有完全停止，欧洲之学术思想，也因此生出极大的变革和进步。",
+      "target": "进化论",
+      "claim_type": "因果主张",
+      "claim_status": "间接转述",
+      "polarity": "neutral",
+      "evidence": "我从前听见杜威讲到进化论在欧洲不知引起多少的争论，一直到今还没有完全停止，欧洲之学术思想，也因此生出极大的变革和进步。",
+      "confidence": 0.8
+    }
+  ],
+  "relations": [
+    {
+      "id": "r1",
+      "head": "科学方法万能者之不宽厚的态度",
+      "head_type": "概念",
+      "relation": "导致",
+      "relation_subtype": "不适用",
+      "tail": "反动",
+      "tail_type": "概念",
+      "polarity": "negative",
+      "stance_score": -0.5,
+      "intensity": 0.5,
+      "evidence": "由一二主张科学方法万能者之不宽厚的态度所招惹出来的反动呢?",
+      "confidence": 0.8
+    },
+    {
+      "id": "r2",
+      "head": "林宰平",
+      "head_type": "人物",
+      "relation": "批评",
+      "relation_subtype": "一般批评",
+      "tail": "在君先生这样的极端主张",
+      "tail_type": "观点",
+      "polarity": "negative",
+      "stance_score": -0.7,
+      "intensity": 0.6,
+      "evidence": "若使在十年以前，连在君先生这样的极端主张，我们也不想批驳他",
+      "confidence": 0.9
+    },
+    {
+      "id": "r3",
+      "head": "林宰平",
+      "head_type": "人物",
+      "relation": "批评",
+      "relation_subtype": "讽刺",
+      "tail": "在君先生这种提倡科学",
+      "tail_type": "观点",
+      "polarity": "negative",
+      "stance_score": -0.8,
+      "intensity": 0.8,
+      "evidence": "像在君先生这种提倡科学正合敝国大国民的老脾气，说几句科学的理论，摇头晃脑的也要自命是科学家",
+      "confidence": 0.9
+    },
+    {
+      "id": "r4",
+      "head": "林宰平",
+      "head_type": "人物",
+      "relation": "批评",
+      "relation_subtype": "讽刺",
+      "tail": "在君先生把科学极力的普遍化",
+      "tail_type": "观点",
+      "polarity": "negative",
+      "stance_score": -0.8,
+      "intensity": 0.8,
+      "evidence": "在君先生把科学极力的普遍化，烧酒对水卖，分量越多，价值越少了。",
+      "confidence": 0.9
+    },
+    {
+      "id": "r5",
+      "head": "林宰平",
+      "head_type": "人物",
+      "relation": "支持",
+      "relation_subtype": "部分肯定",
+      "tail": "在君先生的热心，和他很好的用意",
+      "tail_type": "观点",
+      "polarity": "positive",
+      "stance_score": 0.6,
+      "intensity": 0.5,
+      "evidence": "在君先生的热心，和他很好的用意，我自谓不是全不了解的。",
+      "confidence": 0.9
+    },
+    {
+      "id": "r6",
+      "head": "林宰平",
+      "head_type": "人物",
+      "relation": "批评",
+      "relation_subtype": "一般批评",
+      "tail": "在君先生这篇文章的讲法和态度",
+      "tail_type": "观点",
+      "polarity": "negative",
+      "stance_score": -0.8,
+      "intensity": 0.7,
+      "evidence": "但是在君先生这篇文章的讲法和态度，我是不敢附和的。",
+      "confidence": 1.0
+    },
+    {
+      "id": "r7",
+      "head": "林宰平",
+      "head_type": "人物",
+      "relation": "相关",
+      "relation_subtype": "援引权威支持",
+      "tail": "杜威",
+      "tail_type": "人物",
+      "polarity": "neutral",
+      "stance_score": 0.0,
+      "intensity": 0.3,
+      "evidence": "我从前听见杜威讲到进化论在欧洲不知引起多少的争论，一直到今还没有完全停止，欧洲之学术思想，也因此生出极大的变革和进步。",
+      "confidence": 0.9
+    }
+  ],
+  "definitions": [],
+  "citations": [
+    {
+      "id": "cit1",
+      "citer": "林宰平",
+      "quoted_author": "杜威",
+      "quoted_work": "",
+      "quoted_claim": "进化论在欧洲不知引起多少的争论，一直到今还没有完全停止，欧洲之学术思想，也因此生出极大的变革和进步。",
+      "function": "援引权威支持",
+      "evidence": "我从前听见杜威讲到进化论在欧洲不知引起多少的争论，一直到今还没有完全停止，欧洲之学术思想，也因此生出极大的变革和进步。",
+      "confidence": 0.8
+    }
+  ],
+  "rhetorical_devices": [
+    {
+      "id": "rh1",
+      "expression": "吹胰子泡似的，吹得太大，反而吹破了",
+      "device_type": "比喻",
+      "literal_target": "提倡科学的方式",
+      "function": "批评过度提倡科学可能适得其反",
+      "evidence": "现在提倡科学，正要为他显出真正的价值，筑了坚实的基础，别像吹胰子泡似的，吹得太大，反而吹破了。",
+      "confidence": 0.9
+    },
+    {
+      "id": "rh2",
+      "expression": "烧酒对水卖，分量越多，价值越少了",
+      "device_type": "比喻",
+      "literal_target": "在君先生把科学极力的普遍化",
+      "function": "批评科学普遍化导致价值降低",
+      "evidence": "在君先生把科学极力的普遍化，烧酒对水卖，分量越多，价值越少了。",
+      "confidence": 0.9
+    },
+    {
+      "id": "rh3",
+      "expression": "摇头晃脑的也要自命是科学家",
+      "device_type": "讽刺",
+      "literal_target": "说几句科学的理论的人",
+      "function": "讽刺那些轻易自命科学家的人",
+      "evidence": "说几句科学的理论，摇头晃脑的也要自命是科学家",
+      "confidence": 0.9
+    }
+  ],
+  "uncertainties": [
+    {
+      "item": "一二主张科学方法万能者",
+      "reason": "未明确具体指代何人，仅从文本无法确定具体人物"
+    },
+    {
+      "item": "杜威讲到进化论在欧洲的争论",
+      "reason": "文本为间接转述，杜威原话的具体内容无法确认"
+    }
+  ],
+  "_meta": {
+    "status": "success",
+    "stage": "extract",
+    "model": "deepseek-ai/DeepSeek-V4-Flash",
+    "base_url": "https://api.siliconflow.cn/v1",
+    "prompt_version": "v2.0",
+    "schema_version": "lite_v3.0",
+    "segment_id": "林宰平_000_acbbe922_s0031",
+    "article_id": "林宰平_000_acbbe922",
+    "char_start": 15275,
+    "char_end": 15856,
+    "raw_path": "E:\\1研究生\\岭南大学\\论文毕业\\capstone\\资料\\新的内容开始了\\local_upload\\kg_runs_v2\\林宰平\\raw_outputs\\extract\\林宰平_000_acbbe922_s0031.txt",
+    "parsed_at": "2026-05-21T20:59:08",
+    "started_at": "2026-05-21T20:51:49",
+    "elapsed_seconds": 439.162,
+    "strict_evidence_check": true,
+    "drop_unsupported_evidence": true,
+    "request_timeout_seconds": 180
+  }
+}

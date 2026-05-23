@@ -1,0 +1,345 @@
+{
+  "metadata": {
+    "schema_version": "lite_v2.0",
+    "article_id": "丁文江_000_3ba07a5e",
+    "article_title": "玄学与科学 ——评张君劢的《人生观》",
+    "source_author": "丁文江",
+    "section_title": "",
+    "section_author": "",
+    "segment_id": "丁文江_000_3ba07a5e_s0019",
+    "segment_index": 19,
+    "source_file": "E:\\1研究生\\岭南大学\\论文毕业\\capstone\\资料\\新的内容开始了\\local_upload\\input_texts\\丁文江.txt"
+  },
+  "entities": [
+    {
+      "id": "e1",
+      "name": "玄学家",
+      "canonical_name": "玄学家",
+      "type": "阵营/群体",
+      "evidence": "玄学家偏要叫这种电话生说，他有法子可以晓得打电话的人是什么样子，穿的什么衣服，岂不是骗人？",
+      "confidence": IE
+    },
+    {
+      "id": "e2",
+      "name": "张君劢",
+      "canonical_name": "张君劢",
+      "type": "人物",
+      "evidence": "再看张君劢的《人生观》下半篇",
+      "confidence": 1.0
+    },
+    {
+      "id": "e3",
+      "name": "《人生观》",
+      "canonical_name": "《人生观》",
+      "type": "著作",
+      "evidence": "再看张君劢的《人生观》下半篇",
+      "confidence": 1.0
+    },
+    {
+      "id": "e4",
+      "name": "科学",
+      "canonical_name": "科学",
+      "type": "概念",
+      "evidence": "科学回答他，凡不可以用论理学批评研究的，不是真知识",
+      "confidence": 1.0
+    },
+    {
+      "id": "e5",
+      "name": "论理学方法",
+      "canonical_name": "论理学方法",
+      "type": "方法",
+      "evidence": "他说人生观不为论理学方法所支配",
+      "confidence": 1.0
+    },
+    {
+      "id": "e6",
+      "name": "人生观",
+      "canonical_name": "人生观",
+      "type": "概念",
+      "evidence": "他说人生观不为论理学方法所支配",
+      "confidence": 1.0
+    },
+    {
+      "id": "e7",
+      "name": "论理学",
+      "canonical_name": "论理学",
+      "type": "概念",
+      "evidence": "凡不可以用论理学批评研究的，不是真知识",
+      "confidence": 1.0
+    },
+    {
+      "id": "e8",
+      "name": "真知识",
+      "canonical_name": "真知识",
+      "type": "概念",
+      "evidence": "凡不可以用论理学批评研究的，不是真知识",
+      "confidence": 1.0
+    },
+    {
+      "id": "e9",
+      "name": "纯粹之心理现象",
+      "canonical_name": "纯粹之心理现象",
+      "type": "概念",
+      "evidence": "他说“纯粹之心理现象”在因果律之例外",
+      "confidence": 1.0
+    },
+    {
+      "id": "e10",
+      "name": "因果律",
+      "canonical_name": "因果律",
+      "type": "概念",
+      "evidence": "他说“纯粹之心理现象”在因果律之例外",
+      "confidence": 1.0
+    },
+    {
+      "id": "e11",
+      "name": "心理的现象",
+      "canonical_name": "心理的现象",
+      "type": "概念",
+      "evidence": "科学的材料原都是心理的现象",
+      "confidence": 1.0
+    },
+    {
+      "id": "e12",
+      "name": "个性",
+      "canonical_name": "个性",
+      "type": "概念",
+      "evidence": "他再三的注重个性，注重直觉，但是他把个性直觉放逐于论理方法定义之外",
+      "confidence": 1.0
+    },
+    {
+      "id": "e13",
+      "name": "直觉",
+      "canonical_name": "直觉",
+      "type": "概念",
+      "evidence": "他再三的注重个性，注重直觉，但是他把个性直觉放逐于论理方法定义之外",
+      "confidence": 1.0
+    },
+    {
+      "id": "e14",
+      "name": "论理方法",
+      "canonical_name": "论理方法",
+      "type": "方法",
+      "evidence": "他把个性直觉放逐于论理方法定义之外",
+      "confidence": 1.0
+    },
+    {
+      "id": "e15",
+      "name": "科学",
+      "canonical_name": "科学",
+      "type": "概念",
+      "evidence": "科学未尝不注重个性直觉，但是科学所承认的个性直觉，是“根据于经验的暗示，从活经验里涌出来的”",
+      "confidence": 1.0
+    },
+    {
+      "id": "e16",
+      "name": "经验的暗示",
+      "canonical_name": "经验的暗示",
+      "type": "概念",
+      "evidence": "根据于经验的暗示，从活经验里涌出来的",
+      "confidence": 1.0
+    },
+    {
+      "id": "e17",
+      "name": "活经验",
+      "canonical_name": "活经验",
+      "type": "概念",
+      "evidence": "根据于经验的暗示，从活经验里涌出来的",
+      "confidence": 1.0
+    }
+  ],
+  "claims": [
+    {
+      "id": "c1",
+      "speaker": "丁文江",
+      "claim": "玄学家偏要叫这种电话生说，他有法子可以晓得打电话的人是什么样子，穿的什么衣服，岂不是骗人？",
+      "target": "玄学家",
+      "claim_type": "论战策略批评",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "玄学家偏要叫这种电话生说，他有法子可以晓得打电话的人是什么样子，穿的什么衣服，岂不是骗人？",
+      "confidence": 1.0
+    },
+    {
+      "id": "c2",
+      "speaker": "张君劢",
+      "claim": "人生观不为论理学方法所支配",
+      "target": "人生观",
+      "claim_type": "方法论主张",
+      "claim_status": "间接转述",
+      "polarity": "negative",
+      "evidence": "他说人生观不为论理学方法所支配",
+      "confidence": 1.0
+    },
+    {
+      "id": "c3",
+      "speaker": "丁文江",
+      "claim": "凡不可以用论理学批评研究的，不是真知识",
+      "target": "真知识",
+      "claim_type": "知识论主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "科学回答他，凡不可以用论理学批评研究的，不是真知识",
+      "confidence": 1.0
+    },
+    {
+      "id": "c4",
+      "speaker": "张君劢",
+      "claim": "“纯粹之心理现象”在因果律之例外",
+      "target": "纯粹之心理现象",
+      "claim_type": "知识论主张",
+      "claim_status": "间接转述",
+      "polarity": "negative",
+      "evidence": "他说“纯粹之心理现象”在因果律之例外",
+      "confidence": 1.0
+    },
+    {
+      "id": "c5",
+      "speaker": "丁文江",
+      "claim": "科学的材料原都是心理的现象，若是你所说的现象是真的，决逃不出科学的范围",
+      "target": "纯粹之心理现象",
+      "claim_type": "知识论主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "科学回答他，科学的材料原都是心理的现象，若是你所说的现象是真的，决逃不出科学的范围",
+      "confidence": 1.0
+    },
+    {
+      "id": "c6",
+      "speaker": "丁文江",
+      "claim": "科学所承认的个性直觉，是“根据于经验的暗示，从活经验里涌出来的”",
+      "target": "个性直觉",
+      "claim_type": "定义性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "科学未尝不注重个性直觉，但是科学所承认的个性直觉，是“根据于经验的暗示，从活经验里涌出来的”",
+      "confidence": 1.0
+    }
+  ],
+  "relations": [
+    {
+      "id": "r1",
+      "head": "玄学家",
+      "head_type": "阵营/群体",
+      "relation": "批评",
+      "relation_subtype": "讽刺",
+      "tail": "丁文江",
+      "tail_type": "人物",
+      "polarity": "negative",
+      "evidence": "玄学家偏要叫这种电话生说，他有法子可以晓得打电话的人是什么样子，穿的什么衣服，岂不是骗人？",
+      "confidence": 1.0
+    },
+    {
+      "id": "r2",
+      "head": "丁文江",
+      "head_type": "人物",
+      "relation": "回应",
+      "relation_subtype": "逻辑反驳",
+      "tail": "张君劢",
+      "tail_type": "人物",
+      "polarity": "negative",
+      "evidence": "科学回答他，凡不可以用论理学批评研究的，不是真知识",
+      "confidence": 1.0
+    },
+    {
+      "id": "r3",
+      "head": "丁文江",
+      "head_type": "人物",
+      "relation": "回应",
+      "relation_subtype": "逻辑反驳",
+      "tail": "张君劢",
+      "tail_type": "人物",
+      "polarity": "negative",
+      "evidence": "科学回答他，科学的材料原都是心理的现象，若是你所说的现象是真的，决逃不出科学的范围",
+      "confidence": 1.0
+    },
+    {
+      "id": "r4",
+      "head": "丁文江",
+      "head_type": "人物",
+      "relation": "批评",
+      "relation_subtype": "概念混淆批评",
+      "tail": "张君劢",
+      "tail_type": "人物",
+      "polarity": "negative",
+      "evidence": "他再三的注重个性，注重直觉，但是他把个性直觉放逐于论理方法定义之外",
+      "confidence": 1.0
+    },
+    {
+      "id": "r5",
+      "head": "丁文江",
+      "head_type": "人物",
+      "relation": "区分",
+      "relation_subtype": "概念澄清",
+      "tail": "个性直觉",
+      "tail_type": "概念",
+      "polarity": "positive",
+      "evidence": "科学未尝不注重个性直觉，但是科学所承认的个性直觉，是“根据于经验的暗示，从活经验里涌出来的”",
+      "confidence": 1.0
+    }
+  ],
+  "definitions": [
+    {
+      "id": "def1",
+      "term": "真知识",
+      "definition": "凡不可以用论理学批评研究的，不是真知识",
+      "evidence": "凡不可以用论理学批评研究的，不是真知识",
+      "confidence": 1.0
+    },
+    {
+      "id": "def2",
+      "term": "个性直觉",
+      "definition": "科学所承认的个性直觉，是“根据于经验的暗示，从活经验里涌出来的”",
+      "evidence": "科学未尝不注重个性直觉，但是科学所承认的个性直觉，是“根据于经验的暗示，从活经验里涌出来的”",
+      "confidence": 1.0
+    }
+  ],
+  "citations": [
+    {
+      "id": "cit1",
+      "citer": "丁文江",
+      "quoted_author": "张君劢",
+      "quoted_work": "《人生观》",
+      "quoted_claim": "人生观不为论理学方法所支配",
+      "function": "作为批评对象",
+      "evidence": "他说人生观不为论理学方法所支配",
+      "confidence": 1.0
+    },
+    {
+      "id": "cit2",
+      "citer": "丁文江",
+      "quoted_author": "张君劢",
+      "quoted_work": "《人生观》",
+      "quoted_claim": "“纯粹之心理现象”在因果律之例外",
+      "function": "作为批评对象",
+      "evidence": "他说“纯粹之心理现象”在因果律之例外",
+      "confidence": 1.0
+    }
+  ],
+  "rhetorical_devices": [
+    {
+      "id": "rh1",
+      "expression": "电话生",
+      "device_type": "比喻",
+      "literal_target": "人的觉官感触",
+      "function": "用电话生不能出电话室的圈子比喻觉官感触的局限，进而讽刺玄学家声称能超出此局限是骗人",
+      "evidence": "觉官感触的范围，正如这种接线生不能出电话室的圈子，叫电话的范围。玄学家偏要叫这种电话生说，他有法子可以晓得打电话的人是什么样子，穿的什么衣服，岂不是骗人？",
+      "confidence": 1.0
+    },
+    {
+      "id": "rh2",
+      "expression": "岂不是骗人？",
+      "device_type": "讽刺",
+      "literal_target": "玄学家声称能知道觉官感触范围之外的事物",
+      "function": "以反问语气讽刺玄学家的主张是骗人",
+      "evidence": "玄学家偏要叫这种电话生说，他有法子可以晓得打电话的人是什么样子，穿的什么衣服，岂不是骗人？",
+      "confidence": 1.0
+    }
+  ],
+  "uncertainties": [
+    {
+      "item": "第一段开头的逗号前内容缺失，可能影响对“觉官感触的范围”比喻的完整理解",
+      "reason": "文本以逗号开头，前文缺失"
+    }
+  ]
+}

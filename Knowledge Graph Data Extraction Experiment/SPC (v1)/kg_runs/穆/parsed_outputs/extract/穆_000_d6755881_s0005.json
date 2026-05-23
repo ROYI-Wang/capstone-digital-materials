@@ -1,0 +1,230 @@
+{
+  "metadata": {
+    "schema_version": "lite_v2.0",
+    "article_id": "穆_000_d6755881",
+    "article_title": "旁观者言",
+    "source_author": "穆",
+    "section_title": "往往有一种直率的口吻，说这是自然有的，或是说道是不应该有的；但是在科学家的口里，他们决不如此说。事实的出现，定有他出现的原因，不能说他自然有；既有他出现的原因，便也不应说他不应该有。科学家只叫人知道，在如何条件之下，某事实便会有，在如何条件之下，某事实便会无。这种态度，应用人生观上，当正可有绝大之影响。譬如论到家庭问题，说他是天然的罢，便懒了人们改革的心愿；现在晓得家庭的组织，并不是天生便如此了，并不是理所当然了，鼓动起人们改革的希望和勇气。但是家庭之间充满了厌恶咒咀和冲突，儿子觉得父亲是可厌恶的，丈夫觉得妻室是可咒咀的，人们的集合，便是罪恶苦痛，感情之流露便是冲突，这不是现在中国家庭新旧交代的现状吗？一般人怪他是物质生活之流弊，是科学教育之传主母，我想科学那肯承受呢？科学家对于这种问题，一定能根据事实，描出他的来因去果，求一个圆满解决的方法。只因他因果的观念深了，所以不看得事实的善恶（都是条件下的产儿),不见得吾心之好恶（都要在条件下去解决),低着头承认他，平着气含容他，细着心查察他，按",
+    "section_author": "往往有一种直率的口吻，说这是自然有的，或是说道是不应该有的；但是在科学家的口里，他们决不如此说。事实的出现，定有他出现的原因，不能说他自然有；既有他出现的原因，便也不应说他不应该有。科学家只叫人知道，在如何条件之下，某事实便会有，在如何条件之下，某事实便会无。这种态度，应用人生观上，当正可有绝大之影响。譬如论到家庭问题，说他是天然的罢，便懒了人们改革的心愿；现在晓得家庭的组织，并不是天生便如此了，并不是理所当然了，鼓动起人们改革的希望和勇气。但是家庭之间充满了厌恶咒咀和冲突，儿子觉得父亲是可厌恶的，丈夫觉得妻室是可咒咀的，人们的集合，便是罪恶苦痛，感情之流露便是冲突，这不是现在中国家庭新旧交代的现状吗？一般人怪他是物质生活之流弊，是科学教育之传主母，我想科学那肯承受呢？科学家对于这种问题，一定能根据事实，描出他的来因去果，求一个圆满解决的方法。只因他因果的观念深了，所以不看得事实的善恶（都是条件下的产儿),不见得吾心之好恶（都要在条件下去解决),低着头承认他，平着气含容他，细着心查察他，",
+    "segment_id": "穆_000_d6755881_s0005",
+    "segment_index": 5,
+    "source_file": "E:\\1研究生\\岭南大学\\论文毕业\\capstone\\资料\\新的内容开始了\\local_upload\\input_retry\\穆.txt"
+  },
+  "entities": [
+    {
+      "id": "e1",
+      "name": "张先生",
+      "canonical_name": "张君劢",
+      "type": "人物",
+      "evidence": "张先生反对科学，说近世国家主义也是科学之流弊所致",
+      "confidence": 0.9
+    },
+    {
+      "id": "e2",
+      "name": "科学",
+      "canonical_name": "科学",
+      "type": "概念",
+      "evidence": "张先生反对科学，说近世国家主义也是科学之流弊所致",
+      "confidence": 1.0
+    },
+    {
+      "id": "e3",
+      "name": "国家主义",
+      "canonical_name": "国家主义",
+      "type": "主义/学说/理论",
+      "evidence": "说近世国家主义也是科学之流弊所致",
+      "confidence": 0.9
+    },
+    {
+      "id": "e4",
+      "name": "形上的内心生活",
+      "canonical_name": "形上的内心生活",
+      "type": "概念",
+      "evidence": "所以要提出形上的内心生活来补偏救弊",
+      "confidence": 0.8
+    },
+    {
+      "id": "e5",
+      "name": "世界主义",
+      "canonical_name": "世界主义",
+      "type": "主义/学说/理论",
+      "evidence": "科学并非与世界主义立于恰相反对的地位",
+      "confidence": 0.9
+    },
+    {
+      "id": "e6",
+      "name": "罗素",
+      "canonical_name": "罗素",
+      "type": "人物",
+      "evidence": "罗素可以说是受过科学薰染的一个人",
+      "confidence": 1.0
+    },
+    {
+      "id": "e7",
+      "name": "欧洲大战争",
+      "canonical_name": "欧战",
+      "type": "历史事件",
+      "evidence": "他对于这次欧洲大战争所下的观察批评",
+      "confidence": 0.9
+    },
+    {
+      "id": "e8",
+      "name": "丁先生",
+      "canonical_name": "丁文江",
+      "type": "人物",
+      "evidence": "却不似丁先生似的把科学两字抹杀其他一切",
+      "confidence": 0.9
+    },
+    {
+      "id": "e9",
+      "name": "丁、张两位先生",
+      "canonical_name": "丁文江、张君劢",
+      "type": "人物",
+      "evidence": "不晓丁、张两位先生对他感想如何?",
+      "confidence": 0.9
+    },
+    {
+      "id": "e10",
+      "name": "《时事新报·学灯》",
+      "canonical_name": "《时事新报·学灯》",
+      "type": "著作",
+      "evidence": "—— 转录《时事新报·学灯》——",
+      "confidence": 1.0
+    }
+  ],
+  "claims": [
+    {
+      "id": "c1",
+      "speaker": "张先生",
+      "claim": "近世国家主义是科学之流弊所致",
+      "target": "科学",
+      "claim_type": "社会理论主张",
+      "claim_status": "间接转述",
+      "polarity": "negative",
+      "evidence": "张先生反对科学，说近世国家主义也是科学之流弊所致",
+      "confidence": 0.9
+    },
+    {
+      "id": "c2",
+      "speaker": "张先生",
+      "claim": "要提出形上的内心生活来补偏救弊",
+      "target": "形上的内心生活",
+      "claim_type": "方法论主张",
+      "claim_status": "间接转述",
+      "polarity": "positive",
+      "evidence": "所以要提出形上的内心生活来补偏救弊",
+      "confidence": 0.8
+    },
+    {
+      "id": "c3",
+      "speaker": "穆",
+      "claim": "科学并非与世界主义立于恰相反对的地位",
+      "target": "科学",
+      "claim_type": "反驳性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "我现在要说的，科学并非与世界主义立于恰相反对的地位",
+      "confidence": 0.9
+    },
+    {
+      "id": "c4",
+      "speaker": "穆",
+      "claim": "人类真心要走向世界主义上去，科学到底也可以效万一之微劳",
+      "target": "科学",
+      "claim_type": "方法论主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "人类真心要走向世界主义上去，我虽不说完全要靠科学，科学到底也可以效万一之微劳",
+      "confidence": 0.8
+    },
+    {
+      "id": "c5",
+      "speaker": "穆",
+      "claim": "罗素可以说是受过科学薰染的一个人",
+      "target": "罗素",
+      "claim_type": "价值评价",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "罗素可以说是受过科学薰染的一个人",
+      "confidence": 0.9
+    },
+    {
+      "id": "c6",
+      "speaker": "穆",
+      "claim": "罗素对于这次欧洲大战争所下的观察批评和以后人类应该走的路的提供，也不好说他一些没有科学的头脑，即使说他充满着科学的精神，也不十分过分",
+      "target": "罗素",
+      "claim_type": "价值评价",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "他对于这次欧洲大战争所下的观察批评和以后人类应该走的路的提供，也不好说他一些没有科学的头脑，即使说他充满着科学的精神，也不十分过分",
+      "confidence": 0.8
+    },
+    {
+      "id": "c7",
+      "speaker": "穆",
+      "claim": "罗素的书中尽力提倡解放人类各种的正当冲动而使之自由，对于宗教文学美术等等均有相当之意见，却不似丁先生似的把科学两字抹杀其他一切",
+      "target": "丁先生",
+      "claim_type": "论战策略批评",
+      "claim_status": "作者直接主张",
+      "polarity": "mixed",
+      "evidence": "但是罗素的书中尽力提倡解放人类各种的正当冲动而使之自由，对于宗教文学美术等等均有相当之意见，却不似丁先生似的把科学两字抹杀其他一切",
+      "confidence": 0.8
+    }
+  ],
+  "relations": [
+    {
+      "id": "r1",
+      "head": "张先生",
+      "head_type": "人物",
+      "relation": "反对",
+      "tail": "科学",
+      "tail_type": "概念",
+      "polarity": "negative",
+      "evidence": "张先生反对科学，说近世国家主义也是科学之流弊所致",
+      "confidence": 0.9
+    }
+  ],
+  "definitions": [],
+  "citations": [
+    {
+      "id": "cit1",
+      "citer": "穆",
+      "quoted_author": "罗素",
+      "quoted_work": "",
+      "quoted_claim": "解放人类各种的正当冲动而使之自由，对于宗教文学美术等等均有相当之意见",
+      "function": "援引权威支持",
+      "evidence": "但是罗素的书中尽力提倡解放人类各种的正当冲动而使之自由，对于宗教文学美术等等均有相当之意见",
+      "confidence": 0.8
+    }
+  ],
+  "rhetorical_devices": [],
+  "uncertainties": [
+    {
+      "item": "“之态度已经缺憾了”一句因文本截断，无法确定完整含义和归属",
+      "reason": "文本开头为“之态度已经缺憾了”，缺少前文，无法判断主语和完整语义"
+    },
+    {
+      "item": "“科学教育之传主母”中的“传主母”是否为笔误或特定术语",
+      "reason": "原文为“科学教育之传主母”，可能为“传播”或“传主”之误，但无法确定"
+    }
+  ],
+  "_meta": {
+    "status": "success",
+    "stage": "extract",
+    "model": "deepseek-ai/DeepSeek-V4-Flash",
+    "base_url": "https://api.siliconflow.cn/v1",
+    "prompt_version": "extract_prompt_v2.0",
+    "schema_version": "lite_v2.0",
+    "segment_id": "穆_000_d6755881_s0005",
+    "article_id": "穆_000_d6755881",
+    "char_start": 2545,
+    "char_end": 2951,
+    "raw_path": "E:\\1研究生\\岭南大学\\论文毕业\\capstone\\资料\\新的内容开始了\\local_upload\\kg_runs\\穆\\raw_outputs\\extract\\穆_000_d6755881_s0005.txt",
+    "parsed_at": "2026-05-19T15:59:16",
+    "started_at": "2026-05-19T15:54:39",
+    "elapsed_seconds": 276.981,
+    "strict_evidence_check": true,
+    "drop_unsupported_evidence": true,
+    "request_timeout_seconds": 180
+  }
+}

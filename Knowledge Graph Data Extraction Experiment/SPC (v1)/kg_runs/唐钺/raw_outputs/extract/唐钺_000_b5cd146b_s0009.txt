@@ -1,0 +1,394 @@
+{
+  "metadata": {
+    "schema_version": "lite_v2.0",
+    "article_id": "唐钺_000_b5cd146b",
+    "article_title": "心理现象与因果律",
+    "source_author": "唐钺",
+    "section_title": "",
+    "section_author": "",
+    "segment_id": "唐钺_000_b5cd146b_s0009",
+    "segment_index": 9,
+    "source_file": "E:\\1研究生\\岭南大学\\论文毕业\\capstone\\资料\\新的内容开始了\\local_upload\\input_w1\\唐钺.txt"
+  },
+  "entities": [
+    {
+      "id": "e1",
+      "name": "达尔文",
+      "canonical_name": "达尔文",
+      "type": "人物",
+      "evidence": "同后来的达尔文的人猿同祖说发明以后",
+      "confidence": 1.0
+    },
+    {
+      "id": "e2",
+      "name": "人猿同祖说",
+      "canonical_name": "人猿同祖说",
+      "type": "概念",
+      "evidence": "同后来的达尔文的人猿同祖说发明以后",
+      "confidence": 1.0
+    },
+    {
+      "id": "e3",
+      "name": "人生观",
+      "canonical_name": "人生观",
+      "type": "概念",
+      "evidence": "世界人类的人生观起绝大变动",
+      "confidence": 1.0
+    },
+    {
+      "id": "e4",
+      "name": "直觉",
+      "canonical_name": "直觉",
+      "type": "概念",
+      "evidence": "若人生观是直觉的，无因的",
+      "confidence": 1.0
+    },
+    {
+      "id": "e5",
+      "name": "无因",
+      "canonical_name": "无因",
+      "type": "概念",
+      "evidence": "若人生观是直觉的，无因的",
+      "confidence": 1.0
+    },
+    {
+      "id": "e6",
+      "name": "自然界的知识",
+      "canonical_name": "自然界的知识",
+      "type": "概念",
+      "evidence": "何以随自然界的知识而变更呢",
+      "confidence": 1.0
+    },
+    {
+      "id": "e7",
+      "name": "罗素",
+      "canonical_name": "罗素",
+      "type": "人物",
+      "evidence": "罗素说：“从经验看来，我们的意志，大多数分明都是有因的”",
+      "confidence": 1.0
+    },
+    {
+      "id": "e8",
+      "name": "意志",
+      "canonical_name": "意志",
+      "type": "概念",
+      "evidence": "我们的意志，大多数分明都是有因的",
+      "confidence": 1.0
+    },
+    {
+      "id": "e9",
+      "name": "一切物质现象",
+      "canonical_name": "一切物质现象",
+      "type": "概念",
+      "evidence": "一切物质现象都是有因的",
+      "confidence": 1.0
+    },
+    {
+      "id": "e10",
+      "name": "一切心理现象",
+      "canonical_name": "一切心理现象",
+      "type": "概念",
+      "evidence": "一切心理现象都是有因的",
+      "confidence": 1.0
+    },
+    {
+      "id": "e11",
+      "name": "无因论者",
+      "canonical_name": "无因论者",
+      "type": "阵营/群体",
+      "evidence": "无因论者的主张的最要动机",
+      "confidence": 1.0
+    },
+    {
+      "id": "e12",
+      "name": "精神生活",
+      "canonical_name": "精神生活",
+      "type": "概念",
+      "evidence": "人们的精神生活就没有自由",
+      "confidence": 1.0
+    },
+    {
+      "id": "e13",
+      "name": "自由",
+      "canonical_name": "自由",
+      "type": "概念",
+      "evidence": "人们的精神生活就没有自由",
+      "confidence": 1.0
+    },
+    {
+      "id": "e14",
+      "name": "鲍尔森",
+      "canonical_name": "鲍尔森",
+      "type": "人物",
+      "evidence": "德国唯心论者鲍尔森在他的《哲学导言》中",
+      "confidence": 1.0
+    },
+    {
+      "id": "e15",
+      "name": "《哲学导言》",
+      "canonical_name": "《哲学导言》",
+      "type": "著作",
+      "evidence": "德国唯心论者鲍尔森在他的《哲学导言》中",
+      "confidence": 1.0
+    },
+    {
+      "id": "e16",
+      "name": "因",
+      "canonical_name": "因",
+      "type": "概念",
+      "evidence": "假如我们给因的观念下正当的定义",
+      "confidence": 1.0
+    },
+    {
+      "id": "e17",
+      "name": "休谟",
+      "canonical_name": "休谟",
+      "type": "人物",
+      "evidence": "假如我们取休谟和莱勃尼兹对于因字的用法",
+      "confidence": 1.0
+    },
+    {
+      "id": "e18",
+      "name": "莱勃尼兹",
+      "canonical_name": "莱勃尼兹",
+      "type": "人物",
+      "evidence": "假如我们取休谟和莱勃尼兹对于因字的用法",
+      "confidence": 1.0
+    },
+    {
+      "id": "e19",
+      "name": "因果律",
+      "canonical_name": "因果律",
+      "type": "概念",
+      "evidence": "因果律明明流行于心理界中，同自然界中一样",
+      "confidence": 1.0
+    },
+    {
+      "id": "e20",
+      "name": "心理界",
+      "canonical_name": "心理界",
+      "type": "概念",
+      "evidence": "因果律明明流行于心理界中，同自然界中一样",
+      "confidence": 1.0
+    },
+    {
+      "id": "e21",
+      "name": "自然界",
+      "canonical_name": "自然界",
+      "type": "概念",
+      "evidence": "因果律明明流行于心理界中，同自然界中一样",
+      "confidence": 1.0
+    },
+    {
+      "id": "e22",
+      "name": "一律性",
+      "canonical_name": "一律性",
+      "type": "概念",
+      "evidence": "心理界有如此的一律性，是无可疑的",
+      "confidence": 1.0
+    },
+    {
+      "id": "e23",
+      "name": "唐钺",
+      "canonical_name": "唐钺",
+      "type": "人物",
+      "evidence": "我可以扩充他的话而说：一切心理现象都是有因的",
+      "confidence": 1.0
+    },
+    {
+      "id": "e24",
+      "name": "Scientific Method in Philosophy",
+      "canonical_name": "Scientific Method in Philosophy",
+      "type": "著作",
+      "evidence": "（Russell, Scientific Method in Philosophy, P. 232）",
+      "confidence": 1.0
+    }
+  ],
+  "claims": [
+    {
+      "id": "c1",
+      "speaker": "唐钺",
+      "claim": "同后来的达尔文的人猿同祖说发明以后，世界人类的人生观起绝大变动；这是无可疑的历史事实。",
+      "target": "人生观",
+      "claim_type": "历史解释",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "同后来的达尔文的人猿同祖说发明以后，世界人类的人生观起绝大变动；这是无可疑的历史事实。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c2",
+      "speaker": "唐钺",
+      "claim": "若人生观是直觉的，无因的，何以随自然界的知识而变更呢？",
+      "target": "人生观",
+      "claim_type": "问题提出",
+      "claim_status": "作者推论",
+      "polarity": "negative",
+      "evidence": "若人生观是直觉的，无因的，何以随自然界的知识而变更呢？",
+      "confidence": 1.0
+    },
+    {
+      "id": "c3",
+      "speaker": "罗素",
+      "claim": "从经验看来，我们的意志，大多数分明都是有因的，然而我们却不能因此说一切意志一定都是有因的。但是我们可以说‘一切意志谅必都是有因的’的理由，同我们可以说‘一切物质现象都是有因的’的理由一样。",
+      "target": "意志",
+      "claim_type": "知识论主张",
+      "claim_status": "直接引用",
+      "polarity": "positive",
+      "evidence": "罗素说：“从经验看来，我们的意志，大多数分明都是有因的，然而我们却不能因此说一切意志一定都是有因的。但是我们可以说‘一切意志谅必都是有因的’的理由，同我们可以说‘一切物质现象都是有因的’的理由一样。”",
+      "confidence": 1.0
+    },
+    {
+      "id": "c4",
+      "speaker": "唐钺",
+      "claim": "一切心理现象都是有因的。这句话可信的程度，同“一切物质现象都是有因的”那句话的可信的程度相等。",
+      "target": "一切心理现象",
+      "claim_type": "知识论主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "我可以扩充他的话而说：一切心理现象都是有因的。这句话可信的程度，同“一切物质现象都是有因的”那句话的可信的程度相等。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c5",
+      "speaker": "唐钺",
+      "claim": "无因论者的主张的最要动机，恐怕是以为心理现象若是都是有因的，人们的精神生活就没有自由。这种误会，上文已经解释过。",
+      "target": "无因论者",
+      "claim_type": "论战策略批评",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "无因论者的主张的最要动机，恐怕是以为心理现象若是都是有因的，人们的精神生活就没有自由。这种误会，上文已经解释过。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c6",
+      "speaker": "鲍尔森",
+      "claim": "假如我们给因的观念下正当的定义，假如我们取休谟和莱勃尼兹对于因字的用法——许多元素的变化间的有规则的和调（这与本篇的定义相同，不过语句有异而已），那末，因果律明明流行于心理界中，同自然界中一样。或者在心理界要找出一律性来，或是约这种一律性为基本公例，是比在自然界难些。但是，心理界有如此的一律性，是无可疑的。两界中都没有孤立或无定律的元素；每一个元素，是与前此的、同时的、及此后的许多元素有确定的关系。",
+      "target": "因果律",
+      "claim_type": "知识论主张",
+      "claim_status": "直接引用",
+      "polarity": "positive",
+      "evidence": "德国唯心论者鲍尔森在他的《哲学导言》中有一段说有因和自由是并行不悖的，我引他的话作本篇的结束：“假如我们给因的观念下正当的定义，假如我们取休谟和莱勃尼兹对于因字的用法——许多元素的变化间的有规则的和调（这与本篇的定义相同，不过语句有异而已），那末，因果律明明流行于心理界中，同自然界中一样。或者在心理界要找出一律性来，或是约这种一律性为基本公例，是比在自然界难些。但是，心理界有如此的一律性，是无可疑的。两界中都没有孤立或无定律的元素；每一个元素，是与前此的、同时的、及此后的许多元素有确定的关系。”",
+      "confidence": 1.0
+    }
+  ],
+  "relations": [
+    {
+      "id": "r1",
+      "head": "人猿同祖说",
+      "head_type": "概念",
+      "relation": "导致",
+      "relation_subtype": "不适用",
+      "tail": "人生观",
+      "tail_type": "概念",
+      "polarity": "positive",
+      "evidence": "同后来的达尔文的人猿同祖说发明以后，世界人类的人生观起绝大变动",
+      "confidence": 1.0
+    },
+    {
+      "id": "r2",
+      "head": "唐钺",
+      "head_type": "人物",
+      "relation": "引用",
+      "relation_subtype": "援引权威支持",
+      "tail": "罗素",
+      "tail_type": "人物",
+      "polarity": "positive",
+      "evidence": "罗素说：“从经验看来，我们的意志，大多数分明都是有因的”",
+      "confidence": 1.0
+    },
+    {
+      "id": "r3",
+      "head": "唐钺",
+      "head_type": "人物",
+      "relation": "引用",
+      "relation_subtype": "援引权威支持",
+      "tail": "鲍尔森",
+      "tail_type": "人物",
+      "polarity": "positive",
+      "evidence": "德国唯心论者鲍尔森在他的《哲学导言》中有一段说有因和自由是并行不悖的，我引他的话作本篇的结束",
+      "confidence": 1.0
+    },
+    {
+      "id": "r4",
+      "head": "唐钺",
+      "head_type": "人物",
+      "relation": "反驳",
+      "relation_subtype": "逻辑反驳",
+      "tail": "无因论者",
+      "tail_type": "阵营/群体",
+      "polarity": "negative",
+      "evidence": "无因论者的主张的最要动机，恐怕是以为心理现象若是都是有因的，人们的精神生活就没有自由。这种误会，上文已经解释过。",
+      "confidence": 1.0
+    },
+    {
+      "id": "r5",
+      "head": "因果律",
+      "head_type": "概念",
+      "relation": "属于",
+      "relation_subtype": "不适用",
+      "tail": "心理界",
+      "tail_type": "概念",
+      "polarity": "positive",
+      "evidence": "因果律明明流行于心理界中，同自然界中一样",
+      "confidence": 1.0
+    },
+    {
+      "id": "r6",
+      "head": "因果律",
+      "head_type": "概念",
+      "relation": "属于",
+      "relation_subtype": "不适用",
+      "tail": "自然界",
+      "tail_type": "概念",
+      "polarity": "positive",
+      "evidence": "因果律明明流行于心理界中，同自然界中一样",
+      "confidence": 1.0
+    },
+    {
+      "id": "r7",
+      "head": "心理界",
+      "head_type": "概念",
+      "relation": "对比",
+      "relation_subtype": "不适用",
+      "tail": "自然界",
+      "tail_type": "概念",
+      "polarity": "neutral",
+      "evidence": "或者在心理界要找出一律性来，或是约这种一律性为基本公例，是比在自然界难些",
+      "confidence": 1.0
+    }
+  ],
+  "definitions": [
+    {
+      "id": "def1",
+      "term": "因",
+      "definition": "许多元素的变化间的有规则的和调",
+      "evidence": "假如我们取休谟和莱勃尼兹对于因字的用法——许多元素的变化间的有规则的和调（这与本篇的定义相同，不过语句有异而已）",
+      "confidence": 1.0
+    }
+  ],
+  "citations": [
+    {
+      "id": "cit1",
+      "citer": "唐钺",
+      "quoted_author": "罗素",
+      "quoted_work": "Scientific Method in Philosophy",
+      "quoted_claim": "从经验看来，我们的意志，大多数分明都是有因的，然而我们却不能因此说一切意志一定都是有因的。但是我们可以说‘一切意志谅必都是有因的’的理由，同我们可以说‘一切物质现象都是有因的’的理由一样。",
+      "function": "援引权威支持",
+      "evidence": "罗素说：“从经验看来，我们的意志，大多数分明都是有因的，然而我们却不能因此说一切意志一定都是有因的。但是我们可以说‘一切意志谅必都是有因的’的理由，同我们可以说‘一切物质现象都是有因的’的理由一样。”（Russell, Scientific Method in Philosophy, P. 232）",
+      "confidence": 1.0
+    },
+    {
+      "id": "cit2",
+      "citer": "唐钺",
+      "quoted_author": "鲍尔森",
+      "quoted_work": "《哲学导言》",
+      "quoted_claim": "假如我们给因的观念下正当的定义，假如我们取休谟和莱勃尼兹对于因字的用法——许多元素的变化间的有规则的和调（这与本篇的定义相同，不过语句有异而已），那末，因果律明明流行于心理界中，同自然界中一样。或者在心理界要找出一律性来，或是约这种一律性为基本公例，是比在自然界难些。但是，心理界有如此的一律性，是无可疑的。两界中都没有孤立或无定律的元素；每一个元素，是与前此的、同时的、及此后的许多元素有确定的关系。",
+      "function": "援引权威支持",
+      "evidence": "德国唯心论者鲍尔森在他的《哲学导言》中有一段说有因和自由是并行不悖的，我引他的话作本篇的结束：“假如我们给因的观念下正当的定义，假如我们取休谟和莱勃尼兹对于因字的用法——许多元素的变化间的有规则的和调（这与本篇的定义相同，不过语句有异而已），那末，因果律明明流行于心理界中，同自然界中一样。或者在心理界要找出一律性来，或是约这种一律性为基本公例，是比在自然界难些。但是，心理界有如此的一律性，是无可疑的。两界中都没有孤立或无定律的元素；每一个元素，是与前此的、同时的、及此后的许多元素有确定的关系。”",
+      "confidence": 1.0
+    }
+  ],
+  "rhetorical_devices": [],
+  "uncertainties": []
+}

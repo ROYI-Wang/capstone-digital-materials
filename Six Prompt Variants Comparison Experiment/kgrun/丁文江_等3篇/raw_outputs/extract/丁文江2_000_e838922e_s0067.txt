@@ -1,0 +1,300 @@
+{
+  "metadata": {
+    "schema_version": "lite_v2.0",
+    "article_id": "丁文江2_000_e838922e",
+    "article_title": "玄学与科学——答张君劢",
+    "source_author": "丁文江",
+    "section_title": "",
+    "section_author": "",
+    "segment_id": "丁文江2_000_e838922e_s0067",
+    "segment_index": 67,
+    "source_file": "E:\\1研究生\\岭南大学\\论文毕业\\capstone\\资料\\新的内容开始了\\local_upload\\input_texts\\丁文江2.txt"
+  },
+  "entities": [
+    {
+      "id": "e1",
+      "name": "国际地质学会",
+      "canonical_name": "国际地质学会",
+      "type": "阵营/群体",
+      "evidence": "这一次国际地质学会的外国人，都说他“真有发明”。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e2",
+      "name": "《扬子江下游之地质》",
+      "canonical_name": "《扬子江下游之地质》",
+      "type": "著作",
+      "evidence": "就是作者的《扬子江下游之地质》同《云南东部之地层构造》，虽不能真有发明，也还不至于“抄袭外人之言”。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e3",
+      "name": "《云南东部之地层构造》",
+      "canonical_name": "《云南东部之地层构造》",
+      "type": "著作",
+      "evidence": "就是作者的《扬子江下游之地质》同《云南东部之地层构造》，虽不能真有发明，也还不至于“抄袭外人之言”。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e4",
+      "name": "人生观",
+      "canonical_name": "人生观",
+      "type": "概念",
+      "evidence": "（例三）“以为人生观为可以理智剖解，可以论理方法支配，数十年前或有如在君之所信者，今则已无一人矣。”",
+      "confidence": 0.9
+    },
+    {
+      "id": "e5",
+      "name": "理智",
+      "canonical_name": "理智",
+      "type": "概念",
+      "evidence": "（例三）“以为人生观为可以理智剖解，可以论理方法支配，数十年前或有如在君之所信者，今则已无一人矣。”",
+      "confidence": 0.9
+    },
+    {
+      "id": "e6",
+      "name": "论理方法",
+      "canonical_name": "论理方法",
+      "type": "方法",
+      "evidence": "（例三）“以为人生观为可以理智剖解，可以论理方法支配，数十年前或有如在君之所信者，今则已无一人矣。”",
+      "confidence": 0.9
+    },
+    {
+      "id": "e7",
+      "name": "科学",
+      "canonical_name": "科学",
+      "type": "概念",
+      "evidence": "（例三）……“科学能支配人生乎？不能支配人生乎？此问题自十七世纪之末，欧美人始有怀疑之者，今当为一种新说。”",
+      "confidence": 0.9
+    },
+    {
+      "id": "e8",
+      "name": "人生",
+      "canonical_name": "人生",
+      "type": "概念",
+      "evidence": "（例三）……“科学能支配人生乎？不能支配人生乎？此问题自十七世纪之末，欧美人始有怀疑之者，今当为一种新说。”",
+      "confidence": 0.9
+    },
+    {
+      "id": "e9",
+      "name": "欧立克",
+      "canonical_name": "欧立克",
+      "type": "人物",
+      "evidence": "欧立克是以为人生观不受科学支配的人。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e10",
+      "name": "托姆生",
+      "canonical_name": "托姆生",
+      "type": "人物",
+      "evidence": "他说托姆生是“英国第一流之生物学家”，“其不带杜氏之玄学气味，当为海内科学家公认”。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e11",
+      "name": "杜氏",
+      "canonical_name": "杜氏",
+      "type": "人物",
+      "evidence": "他说托姆生是“英国第一流之生物学家”，“其不带杜氏之玄学气味，当为海内科学家公认”。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e12",
+      "name": "玄学",
+      "canonical_name": "玄学",
+      "type": "概念",
+      "evidence": "他说托姆生是“英国第一流之生物学家”，“其不带杜氏之玄学气味，当为海内科学家公认”。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e13",
+      "name": "海内科学家",
+      "canonical_name": "海内科学家",
+      "type": "阵营/群体",
+      "evidence": "他说托姆生是“英国第一流之生物学家”，“其不带杜氏之玄学气味，当为海内科学家公认”。",
+      "confidence": 0.9
+    }
+  ],
+  "claims": [
+    {
+      "id": "c1",
+      "speaker": "丁文江",
+      "claim": "这一次国际地质学会的外国人，都说他“真有发明”。",
+      "target": "作者（丁文江？）",
+      "claim_type": "价值评价",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "这一次国际地质学会的外国人，都说他“真有发明”。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c2",
+      "speaker": "丁文江",
+      "claim": "作者的《扬子江下游之地质》同《云南东部之地层构造》，虽不能真有发明，也还不至于“抄袭外人之言”。",
+      "target": "作者（丁文江？）",
+      "claim_type": "价值评价",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "就是作者的《扬子江下游之地质》同《云南东部之地层构造》，虽不能真有发明，也还不至于“抄袭外人之言”。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c3",
+      "speaker": "张君劢",
+      "claim": "以为人生观为可以理智剖解，可以论理方法支配，数十年前或有如在君之所信者，今则已无一人矣。",
+      "target": "丁文江",
+      "claim_type": "反驳性主张",
+      "claim_status": "间接转述",
+      "polarity": "negative",
+      "evidence": "（例三）“以为人生观为可以理智剖解，可以论理方法支配，数十年前或有如在君之所信者，今则已无一人矣。”",
+      "confidence": 0.9
+    },
+    {
+      "id": "c4",
+      "speaker": "丁文江",
+      "claim": "我孤立于世界，顽固得固然可怜，然而以一人敌全世界的人，连我自己也觉得勇气可喜。",
+      "target": "张君劢",
+      "claim_type": "论战策略批评",
+      "claim_status": "作者讽刺性归纳",
+      "polarity": "negative",
+      "evidence": "如此说来，我孤立于世界，顽固得固然可怜，然而以一人敌全世界的人，连我自己也觉得勇气可喜。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c5",
+      "speaker": "张君劢",
+      "claim": "科学能支配人生乎？不能支配人生乎？此问题自十七世纪之末，欧美人始有怀疑之者，今当为一种新说。",
+      "target": "科学支配人生问题",
+      "claim_type": "问题提出",
+      "claim_status": "间接转述",
+      "polarity": "neutral",
+      "evidence": "无奈君劢又说：“科学能支配人生乎？不能支配人生乎？此问题自十七世纪之末，欧美人始有怀疑之者，今当为一种新说。”",
+      "confidence": 0.9
+    },
+    {
+      "id": "c6",
+      "speaker": "丁文江",
+      "claim": "君劢同欧立克也是孤立于世界的？",
+      "target": "张君劢",
+      "claim_type": "反驳性主张",
+      "claim_status": "作者推论",
+      "polarity": "negative",
+      "evidence": "然则君劢同欧立克也是孤立于世界的？",
+      "confidence": 0.9
+    },
+    {
+      "id": "c7",
+      "speaker": "欧立克",
+      "claim": "吾之立脚点至今无人承认。",
+      "target": "欧立克自己的观点",
+      "claim_type": "价值评价",
+      "claim_status": "直接引用",
+      "polarity": "negative",
+      "evidence": "君劢引他说，“吾之立脚点至今无人承认。”",
+      "confidence": 0.9
+    },
+    {
+      "id": "c8",
+      "speaker": "张君劢",
+      "claim": "托姆生是“英国第一流之生物学家”，“其不带杜氏之玄学气味，当为海内科学家公认”。",
+      "target": "托姆生",
+      "claim_type": "价值评价",
+      "claim_status": "间接转述",
+      "polarity": "positive",
+      "evidence": "他说托姆生是“英国第一流之生物学家”，“其不带杜氏之玄学气味，当为海内科学家公认”。",
+      "confidence": 0.9
+    }
+  ],
+  "relations": [
+    {
+      "id": "r1",
+      "head": "丁文江",
+      "head_type": "人物",
+      "relation": "回应",
+      "relation_subtype": "归谬",
+      "tail": "张君劢",
+      "tail_type": "人物",
+      "polarity": "negative",
+      "evidence": "如此说来，我孤立于世界，顽固得固然可怜，然而以一人敌全世界的人，连我自己也觉得勇气可喜。无奈君劢又说：“科学能支配人生乎？不能支配人生乎？此问题自十七世纪之末，欧美人始有怀疑之者，今当为一种新说。”欧立克是以为人生观不受科学支配的人。君劢引他说，“吾之立脚点至今无人承认。”然则君劢同欧立克也是孤立于世界的？",
+      "confidence": 0.9
+    },
+    {
+      "id": "r2",
+      "head": "张君劢",
+      "head_type": "人物",
+      "relation": "引用",
+      "relation_subtype": "援引权威",
+      "tail": "欧立克",
+      "tail_type": "人物",
+      "polarity": "neutral",
+      "evidence": "君劢引他说，“吾之立脚点至今无人承认。”",
+      "confidence": 0.9
+    },
+    {
+      "id": "r3",
+      "head": "张君劢",
+      "head_type": "人物",
+      "relation": "引用",
+      "relation_subtype": "援引权威",
+      "tail": "托姆生",
+      "tail_type": "人物",
+      "polarity": "neutral",
+      "evidence": "他说托姆生是“英国第一流之生物学家”，“其不带杜氏之玄学气味，当为海内科学家公认”。",
+      "confidence": 0.9
+    }
+  ],
+  "definitions": [],
+  "citations": [
+    {
+      "id": "cit1",
+      "citer": "张君劢",
+      "quoted_author": "欧立克",
+      "quoted_work": "",
+      "quoted_claim": "吾之立脚点至今无人承认。",
+      "function": "援引权威支持",
+      "evidence": "君劢引他说，“吾之立脚点至今无人承认。”",
+      "confidence": 0.9
+    },
+    {
+      "id": "cit2",
+      "citer": "张君劢",
+      "quoted_author": "托姆生",
+      "quoted_work": "",
+      "quoted_claim": "托姆生是“英国第一流之生物学家”，“其不带杜氏之玄学气味，当为海内科学家公认”。",
+      "function": "援引权威支持",
+      "evidence": "他说托姆生是“英国第一流之生物学家”，“其不带杜氏之玄学气味，当为海内科学家公认”。",
+      "confidence": 0.9
+    }
+  ],
+  "rhetorical_devices": [
+    {
+      "id": "rh1",
+      "expression": "我孤立于世界，顽固得固然可怜，然而以一人敌全世界的人，连我自己也觉得勇气可喜。",
+      "device_type": "讽刺",
+      "literal_target": "丁文江自己",
+      "function": "通过反讽张君劢的论断，指出其逻辑矛盾",
+      "evidence": "如此说来，我孤立于世界，顽固得固然可怜，然而以一人敌全世界的人，连我自己也觉得勇气可喜。",
+      "confidence": 0.9
+    },
+    {
+      "id": "rh2",
+      "expression": "然则君劢同欧立克也是孤立于世界的？",
+      "device_type": "归谬",
+      "literal_target": "张君劢和欧立克",
+      "function": "将张君劢的逻辑推向荒谬，指出其自相矛盾",
+      "evidence": "然则君劢同欧立克也是孤立于世界的？",
+      "confidence": 0.9
+    }
+  ],
+  "uncertainties": [
+    {
+      "item": "例三和例四中的“他”具体指代谁？",
+      "reason": "文本中“他说托姆生是……”的“他”未明确说明，可能指张君劢，但需确认。"
+    },
+    {
+      "item": "“作者”在“作者的《扬子江下游之地质》”中具体指谁？",
+      "reason": "根据上下文可能指丁文江自己，但文本未明确说明。"
+    }
+  ]
+}

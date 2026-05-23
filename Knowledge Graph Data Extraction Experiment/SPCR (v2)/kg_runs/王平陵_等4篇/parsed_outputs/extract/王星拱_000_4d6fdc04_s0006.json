@@ -1,0 +1,233 @@
+{
+  "metadata": {
+    "schema_version": "lite_v3.0",
+    "article_id": "王星拱_000_4d6fdc04",
+    "article_title": "科学与人生观",
+    "source_author": "王星拱",
+    "section_title": "",
+    "section_author": "",
+    "segment_id": "王星拱_000_4d6fdc04_s0006",
+    "segment_index": 6,
+    "source_file": "E:\\1研究生\\岭南大学\\论文毕业\\capstone\\资料\\新的内容开始了\\local_upload\\input_v2_w0\\王星拱.txt"
+  },
+  "entities": [
+    {
+      "id": "e1",
+      "name": "平均代表",
+      "canonical_name": "平均代表",
+      "type": "概念",
+      "evidence": "严重的讨论，还要归到平均代表之类的性质之问题。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e2",
+      "name": "个体的性质",
+      "canonical_name": "个体的性质",
+      "type": "概念",
+      "evidence": "个体的性质，既是真实的，这个类之性质自然也是真实的。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e3",
+      "name": "受热则膨胀",
+      "canonical_name": "受热则膨胀",
+      "type": "概念",
+      "evidence": "受热则膨胀，也是这些个体的性质之一端，但是这个“受热则膨胀”的性质是所有的物所共有的，至少也是多数的物所共有的。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e4",
+      "name": "定量的平均代表的类的性质",
+      "canonical_name": "定量的平均代表的类的性质",
+      "type": "概念",
+      "evidence": "至于定量的平均代表的类的性质，也是真实的。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e5",
+      "name": "类的平均",
+      "canonical_name": "类的平均",
+      "type": "概念",
+      "evidence": "一类中各分子的性质，总有一个类的平均 (Race average）。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e6",
+      "name": "攻击者",
+      "canonical_name": "攻击者",
+      "type": "阵营/群体",
+      "evidence": "并没有如攻击者所说的那么与真实不符。",
+      "confidence": 0.8
+    }
+  ],
+  "claims": [
+    {
+      "id": "c1",
+      "speaker": "王星拱",
+      "claim": "定性之平均代表的类的性质，就是各分子之个体的性质之一部分。",
+      "target": "平均代表",
+      "claim_type": "定义性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "定性之平均代表的类的性质，就是各分子之个体的性质之一部分。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c2",
+      "speaker": "王星拱",
+      "claim": "个体的性质，既是真实的，这个类之性质自然也是真实的。",
+      "target": "类之性质",
+      "claim_type": "因果主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "个体的性质，既是真实的，这个类之性质自然也是真实的。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c3",
+      "speaker": "王星拱",
+      "claim": "定量的平均代表的类的性质，也是真实的。",
+      "target": "定量的平均代表的类的性质",
+      "claim_type": "描述性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "至于定量的平均代表的类的性质，也是真实的。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c4",
+      "speaker": "王星拱",
+      "claim": "一类中各分子的性质，总有一个类的平均。",
+      "target": "类的平均",
+      "claim_type": "描述性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "一类中各分子的性质，总有一个类的平均 (Race average）。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c5",
+      "speaker": "王星拱",
+      "claim": "个体之性质即为类之性质，并不是不可能的。",
+      "target": "个体之性质",
+      "claim_type": "描述性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "足见个体之性质即为类之性质，并不是不可能的。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c6",
+      "speaker": "攻击者",
+      "claim": "平均代表与真实不符。",
+      "target": "平均代表",
+      "claim_type": "评价性主张",
+      "claim_status": "间接转述",
+      "polarity": "negative",
+      "evidence": "并没有如攻击者所说的那么与真实不符。",
+      "confidence": 0.8
+    },
+    {
+      "id": "c7",
+      "speaker": "王星拱",
+      "claim": "平均代表并没有如攻击者所说的那么与真实不符。",
+      "target": "攻击者",
+      "claim_type": "反驳性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "并没有如攻击者所说的那么与真实不符。",
+      "confidence": 0.9
+    }
+  ],
+  "relations": [
+    {
+      "id": "r1",
+      "head": "定性之平均代表的类的性质",
+      "head_type": "概念",
+      "relation": "定义",
+      "relation_subtype": "概念澄清",
+      "tail": "各分子之个体的性质之一部分",
+      "tail_type": "概念",
+      "polarity": "positive",
+      "stance_score": 1.0,
+      "intensity": 0.5,
+      "evidence": "定性之平均代表的类的性质，就是各分子之个体的性质之一部分。",
+      "confidence": 0.9
+    },
+    {
+      "id": "r2",
+      "head": "个体的性质",
+      "head_type": "概念",
+      "relation": "导致",
+      "relation_subtype": "不适用",
+      "tail": "类之性质",
+      "tail_type": "概念",
+      "polarity": "positive",
+      "stance_score": 1.0,
+      "intensity": 0.6,
+      "evidence": "个体的性质，既是真实的，这个类之性质自然也是真实的。",
+      "confidence": 0.9
+    },
+    {
+      "id": "r3",
+      "head": "王星拱",
+      "head_type": "人物",
+      "relation": "反驳",
+      "relation_subtype": "逻辑反驳",
+      "tail": "攻击者",
+      "tail_type": "阵营/群体",
+      "polarity": "negative",
+      "stance_score": -1.0,
+      "intensity": 0.7,
+      "evidence": "并没有如攻击者所说的那么与真实不符。",
+      "confidence": 0.8
+    }
+  ],
+  "definitions": [
+    {
+      "id": "def1",
+      "term": "定性之平均代表的类的性质",
+      "definition": "各分子之个体的性质之一部分。",
+      "evidence": "定性之平均代表的类的性质，就是各分子之个体的性质之一部分。",
+      "confidence": 0.9
+    },
+    {
+      "id": "def2",
+      "term": "类的平均",
+      "definition": "一类中各分子的性质的总的平均。",
+      "evidence": "一类中各分子的性质，总有一个类的平均 (Race average）。",
+      "confidence": 0.8
+    }
+  ],
+  "citations": [],
+  "rhetorical_devices": [],
+  "uncertainties": [
+    {
+      "item": "攻击者具体指谁",
+      "reason": "文本中仅出现'攻击者'，未明确其身份或具体观点。"
+    },
+    {
+      "item": "平均代表与真实不符的具体说法",
+      "reason": "文本仅转述了攻击者的观点，未提供原话。"
+    }
+  ],
+  "_meta": {
+    "status": "success",
+    "stage": "extract",
+    "model": "deepseek-ai/DeepSeek-V4-Flash",
+    "base_url": "https://api.siliconflow.cn/v1",
+    "prompt_version": "v2.0",
+    "schema_version": "lite_v3.0",
+    "segment_id": "王星拱_000_4d6fdc04_s0006",
+    "article_id": "王星拱_000_4d6fdc04",
+    "char_start": 3043,
+    "char_end": 3621,
+    "raw_path": "E:\\1研究生\\岭南大学\\论文毕业\\capstone\\资料\\新的内容开始了\\local_upload\\kg_runs_v2\\王平陵_等4篇\\raw_outputs\\extract\\王星拱_000_4d6fdc04_s0006.txt",
+    "parsed_at": "2026-05-21T02:21:05",
+    "started_at": "2026-05-21T02:20:51",
+    "elapsed_seconds": 14.236,
+    "strict_evidence_check": true,
+    "drop_unsupported_evidence": true,
+    "request_timeout_seconds": 180
+  }
+}

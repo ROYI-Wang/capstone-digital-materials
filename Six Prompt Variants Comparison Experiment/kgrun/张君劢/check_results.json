@@ -1,0 +1,2131 @@
+{
+  "check_results": [
+    {
+      "segment_id": "张君劢_000_e090c0d2_s0000",
+      "high": 10,
+      "medium": 21,
+      "low": 0,
+      "issues": {
+        "type_errors": [],
+        "attribution_errors": [],
+        "direction_errors": [],
+        "missing_nodes": [
+          {
+            "node": "人生观",
+            "node_type": "概念",
+            "reason": "文本核心概念，被多次讨论和定义，应抽取为概念节点。",
+            "severity": "high"
+          },
+          {
+            "node": "科学",
+            "node_type": "概念",
+            "reason": "与人生观对比的核心概念，应抽取。",
+            "severity": "high"
+          },
+          {
+            "node": "我",
+            "node_type": "概念",
+            "reason": "人生观之中心点，被明确定义，应抽取。",
+            "severity": "high"
+          },
+          {
+            "node": "非我",
+            "node_type": "概念",
+            "reason": "与我对待的概念，应抽取。",
+            "severity": "high"
+          },
+          {
+            "node": "因果律",
+            "node_type": "概念",
+            "reason": "科学所支配的规律，被提及，应抽取。",
+            "severity": "medium"
+          },
+          {
+            "node": "大家族主义",
+            "node_type": "概念",
+            "reason": "人生观问题之一，被列举，应抽取。",
+            "severity": "medium"
+          },
+          {
+            "node": "小家族主义",
+            "node_type": "概念",
+            "reason": "同上。",
+            "severity": "medium"
+          },
+          {
+            "node": "男尊女卑主义",
+            "node_type": "概念",
+            "reason": "同上。",
+            "severity": "medium"
+          },
+          {
+            "node": "男女平等主义",
+            "node_type": "概念",
+            "reason": "同上。",
+            "severity": "medium"
+          },
+          {
+            "node": "私有财产制",
+            "node_type": "概念",
+            "reason": "同上。",
+            "severity": "medium"
+          },
+          {
+            "node": "公有财产制",
+            "node_type": "概念",
+            "reason": "同上。",
+            "severity": "medium"
+          },
+          {
+            "node": "守旧主义",
+            "node_type": "概念",
+            "reason": "同上。",
+            "severity": "medium"
+          },
+          {
+            "node": "维新主义",
+            "node_type": "概念",
+            "reason": "同上。",
+            "severity": "medium"
+          },
+          {
+            "node": "物质文明",
+            "node_type": "概念",
+            "reason": "同上。",
+            "severity": "medium"
+          },
+          {
+            "node": "精神文明",
+            "node_type": "概念",
+            "reason": "同上。",
+            "severity": "medium"
+          },
+          {
+            "node": "科学能支配人生观吗",
+            "node_type": "问题",
+            "reason": "文本隐含的核心争论问题，应抽取。",
+            "severity": "high"
+          }
+        ],
+        "missing_links": [
+          {
+            "source": "人生观",
+            "relation": "中心点是",
+            "target": "我",
+            "reason": "文本明确说“人生观之中心点，是曰我”。",
+            "severity": "high"
+          },
+          {
+            "source": "我",
+            "relation": "对待",
+            "target": "非我",
+            "reason": "文本说“与我对待者，则非我也”。",
+            "severity": "high"
+          },
+          {
+            "source": "科学",
+            "relation": "有",
+            "target": "原理原则",
+            "reason": "文本说“科学之中，有一定之原理原则”。",
+            "severity": "high"
+          },
+          {
+            "source": "科学",
+            "relation": "受支配于",
+            "target": "因果律",
+            "reason": "文本说“皆为因果律所支配”。",
+            "severity": "high"
+          },
+          {
+            "source": "人生观",
+            "relation": "不同于",
+            "target": "科学",
+            "reason": "文本反复对比，强调人生观无统一标准。",
+            "severity": "high"
+          },
+          {
+            "source": "人生观",
+            "relation": "包含问题",
+            "target": "大家族主义",
+            "reason": "文本列举人生观问题。",
+            "severity": "medium"
+          },
+          {
+            "source": "人生观",
+            "relation": "包含问题",
+            "target": "小家族主义",
+            "reason": "同上。",
+            "severity": "medium"
+          },
+          {
+            "source": "人生观",
+            "relation": "包含问题",
+            "target": "男尊女卑主义",
+            "reason": "同上。",
+            "severity": "medium"
+          },
+          {
+            "source": "人生观",
+            "relation": "包含问题",
+            "target": "男女平等主义",
+            "reason": "同上。",
+            "severity": "medium"
+          },
+          {
+            "source": "人生观",
+            "relation": "包含问题",
+            "target": "私有财产制",
+            "reason": "同上。",
+            "severity": "medium"
+          },
+          {
+            "source": "人生观",
+            "relation": "包含问题",
+            "target": "公有财产制",
+            "reason": "同上。",
+            "severity": "medium"
+          },
+          {
+            "source": "人生观",
+            "relation": "包含问题",
+            "target": "守旧主义",
+            "reason": "同上。",
+            "severity": "medium"
+          },
+          {
+            "source": "人生观",
+            "relation": "包含问题",
+            "target": "维新主义",
+            "reason": "同上。",
+            "severity": "medium"
+          },
+          {
+            "source": "人生观",
+            "relation": "包含问题",
+            "target": "物质文明",
+            "reason": "同上。",
+            "severity": "medium"
+          },
+          {
+            "source": "人生观",
+            "relation": "包含问题",
+            "target": "精神文明",
+            "reason": "同上。",
+            "severity": "medium"
+          }
+        ],
+        "normalization_issues": [],
+        "relation_type_issues": [],
+        "polarity_issues": [],
+        "evidence_issues": [],
+        "rhetorical_device_issues": []
+      }
+    },
+    {
+      "segment_id": "张君劢_000_e090c0d2_s0008",
+      "high": 10,
+      "medium": 11,
+      "low": 0,
+      "issues": {
+        "type_errors": [],
+        "attribution_errors": [],
+        "direction_errors": [],
+        "missing_nodes": [
+          {
+            "node": "个人与社会之关系问题",
+            "node_type": "问题",
+            "reason": "文本明确讨论'个人与社会'的冲突问题，是核心争论点，应作为问题节点抽取。",
+            "severity": "high"
+          },
+          {
+            "node": "国家主义与世界主义之争",
+            "node_type": "问题",
+            "reason": "文本明确提及'国家主义与世界主义之争'，是另一个争论问题，应作为问题节点。",
+            "severity": "high"
+          },
+          {
+            "node": "人生观",
+            "node_type": "概念",
+            "reason": "文本强调人生观是文化转移的枢纽，是核心概念，应抽取。",
+            "severity": "high"
+          },
+          {
+            "node": "文化转移之枢纽",
+            "node_type": "概念",
+            "reason": "文本提出'文化转移之枢纽，不外乎人生观'，这是一个重要命题中的概念。",
+            "severity": "medium"
+          },
+          {
+            "node": "个人",
+            "node_type": "概念",
+            "reason": "文本讨论个人与社会的关系，'个人'是基本概念。",
+            "severity": "medium"
+          },
+          {
+            "node": "社会",
+            "node_type": "概念",
+            "reason": "文本讨论个人与社会的关系，'社会'是基本概念。",
+            "severity": "medium"
+          },
+          {
+            "node": "国家主义",
+            "node_type": "主义/学说/理论",
+            "reason": "文本提及'国家主义与世界主义之争'，国家主义是争论一方。",
+            "severity": "high"
+          },
+          {
+            "node": "世界主义",
+            "node_type": "主义/学说/理论",
+            "reason": "文本提及'国家主义与世界主义之争'，世界主义是争论另一方。",
+            "severity": "high"
+          },
+          {
+            "node": "国货说",
+            "node_type": "观点",
+            "reason": "文本提及'国货说'作为国家主义相关观点，应抽取。",
+            "severity": "medium"
+          },
+          {
+            "node": "收回权利说",
+            "node_type": "观点",
+            "reason": "文本提及'收回权利说'作为国家主义相关观点，应抽取。",
+            "severity": "medium"
+          },
+          {
+            "node": "西洋文化",
+            "node_type": "概念",
+            "reason": "文本对比'吾有吾之文化'与'西洋有西洋之文化'，西洋文化是重要概念。",
+            "severity": "medium"
+          },
+          {
+            "node": "吾之文化",
+            "node_type": "概念",
+            "reason": "文本对比'吾有吾之文化'与'西洋有西洋之文化'，吾之文化是重要概念。",
+            "severity": "medium"
+          }
+        ],
+        "missing_links": [
+          {
+            "source": "个人与社会之关系问题",
+            "relation": "包含",
+            "target": "个人",
+            "reason": "问题涉及个人与社会的关系，应建立包含关系。",
+            "severity": "medium"
+          },
+          {
+            "source": "个人与社会之关系问题",
+            "relation": "包含",
+            "target": "社会",
+            "reason": "问题涉及个人与社会的关系，应建立包含关系。",
+            "severity": "medium"
+          },
+          {
+            "source": "国家主义与世界主义之争",
+            "relation": "包含",
+            "target": "国家主义",
+            "reason": "争论包含国家主义一方。",
+            "severity": "high"
+          },
+          {
+            "source": "国家主义与世界主义之争",
+            "relation": "包含",
+            "target": "世界主义",
+            "reason": "争论包含世界主义一方。",
+            "severity": "high"
+          },
+          {
+            "source": "国家主义",
+            "relation": "包含",
+            "target": "国货说",
+            "reason": "国货说是国家主义的具体表现。",
+            "severity": "medium"
+          },
+          {
+            "source": "国家主义",
+            "relation": "包含",
+            "target": "收回权利说",
+            "reason": "收回权利说是国家主义的具体表现。",
+            "severity": "medium"
+          },
+          {
+            "source": "人生观",
+            "relation": "决定",
+            "target": "文化转移之枢纽",
+            "reason": "文本说'文化转移之枢纽，不外乎人生观'，即人生观决定文化转移。",
+            "severity": "high"
+          },
+          {
+            "source": "人生观",
+            "relation": "决定",
+            "target": "吾之文化",
+            "reason": "文本说'吾有吾之文化...凡此取舍之间，皆决之于观点'，即人生观决定文化取舍。",
+            "severity": "high"
+          },
+          {
+            "source": "人生观",
+            "relation": "决定",
+            "target": "西洋文化",
+            "reason": "文本说'西洋有西洋之文化...凡此取舍之间，皆决之于观点'，即人生观决定对西洋文化的取舍。",
+            "severity": "high"
+          }
+        ],
+        "normalization_issues": [],
+        "relation_type_issues": [],
+        "polarity_issues": [],
+        "evidence_issues": [],
+        "rhetorical_device_issues": []
+      }
+    },
+    {
+      "segment_id": "张君劢_001_688ab8ae_s0007",
+      "high": 42,
+      "medium": 1,
+      "low": 3,
+      "issues": {
+        "type_errors": [],
+        "attribution_errors": [],
+        "direction_errors": [],
+        "missing_nodes": [
+          {
+            "node": "感觉主义",
+            "node_type": "主义/学说/理论",
+            "reason": "文本中多次提及“感觉主义”，是核心概念，应抽取为实体。",
+            "severity": "high"
+          },
+          {
+            "node": "皮尔逊之知识论",
+            "node_type": "主义/学说/理论",
+            "reason": "文本明确讨论“皮尔逊之知识论”，是重要理论节点。",
+            "severity": "high"
+          },
+          {
+            "node": "中央电话交换所譬喻",
+            "node_type": "比喻/类比",
+            "reason": "文本详细描述了皮尔逊的“接线生”比喻，是重要修辞节点。",
+            "severity": "high"
+          },
+          {
+            "node": "达尔文",
+            "node_type": "人物",
+            "reason": "文本中提及达尔文及其观点，应抽取为人物实体。",
+            "severity": "high"
+          },
+          {
+            "node": "拉马克",
+            "node_type": "人物",
+            "reason": "文本中提及拉马克及其观点，应抽取为人物实体。",
+            "severity": "high"
+          },
+          {
+            "node": "牛顿",
+            "node_type": "人物",
+            "reason": "文本中提及牛顿及其观点，应抽取为人物实体。",
+            "severity": "high"
+          },
+          {
+            "node": "爱因斯坦",
+            "node_type": "人物",
+            "reason": "文本中提及爱因斯坦及其观点，应抽取为人物实体。",
+            "severity": "high"
+          },
+          {
+            "node": "休谟",
+            "node_type": "人物",
+            "reason": "文本中提及休谟及其观点，应抽取为人物实体。",
+            "severity": "high"
+          },
+          {
+            "node": "洛克",
+            "node_type": "人物",
+            "reason": "文本中提及洛克及其观点，应抽取为人物实体。",
+            "severity": "high"
+          },
+          {
+            "node": "康德",
+            "node_type": "人物",
+            "reason": "文本中提及康德及其观点，应抽取为人物实体。",
+            "severity": "high"
+          },
+          {
+            "node": "马哈",
+            "node_type": "人物",
+            "reason": "文本中提及马哈及其观点，应抽取为人物实体。",
+            "severity": "high"
+          },
+          {
+            "node": "詹姆士",
+            "node_type": "人物",
+            "reason": "文本中提及詹姆士及其观点，应抽取为人物实体。",
+            "severity": "high"
+          },
+          {
+            "node": "罗杰司",
+            "node_type": "人物",
+            "reason": "文本中提及罗杰司及其评论，应抽取为人物实体。",
+            "severity": "high"
+          },
+          {
+            "node": "环境使然",
+            "node_type": "观点",
+            "reason": "达尔文关于器官差异原因的观点，应抽取为观点节点。",
+            "severity": "high"
+          },
+          {
+            "node": "用不用使然",
+            "node_type": "观点",
+            "reason": "拉马克关于器官差异原因的观点，应抽取为观点节点。",
+            "severity": "high"
+          },
+          {
+            "node": "时空绝对",
+            "node_type": "观点",
+            "reason": "牛顿关于时空的观点，应抽取为观点节点。",
+            "severity": "high"
+          },
+          {
+            "node": "时空相对",
+            "node_type": "观点",
+            "reason": "爱因斯坦关于时空的观点，应抽取为观点节点。",
+            "severity": "high"
+          },
+          {
+            "node": "知识起于感觉",
+            "node_type": "观点",
+            "reason": "休谟、洛克关于知识来源的观点，应抽取为观点节点。",
+            "severity": "high"
+          },
+          {
+            "node": "知识之成立，除觉摄外，依赖理性为根据",
+            "node_type": "观点",
+            "reason": "康德关于知识来源的观点，应抽取为观点节点。",
+            "severity": "high"
+          },
+          {
+            "node": "不认有所谓我",
+            "node_type": "观点",
+            "reason": "马哈关于自我的观点，应抽取为观点节点。",
+            "severity": "high"
+          },
+          {
+            "node": "承认有我",
+            "node_type": "观点",
+            "reason": "詹姆士关于自我的观点，应抽取为观点节点。",
+            "severity": "high"
+          },
+          {
+            "node": "以感觉为知识材料之最后根源，以常人官觉组织之相同为推理相同之惟一根据，则断断乎其不可通",
+            "node_type": "观点",
+            "reason": "作者对感觉主义的核心反驳，应抽取为观点节点。",
+            "severity": "high"
+          },
+          {
+            "node": "人心如电话局之接线生然",
+            "node_type": "比喻/类比",
+            "reason": "皮尔逊的比喻，应抽取为修辞节点。",
+            "severity": "high"
+          },
+          {
+            "node": "人类之辨别真伪，乃思想之本质",
+            "node_type": "观点",
+            "reason": "作者对思想本质的论断，应抽取为观点节点。",
+            "severity": "high"
+          },
+          {
+            "node": "心之为用，决非如接线生之接线而已",
+            "node_type": "观点",
+            "reason": "作者对皮尔逊比喻的反驳，应抽取为观点节点。",
+            "severity": "high"
+          }
+        ],
+        "missing_links": [
+          {
+            "source": "达尔文",
+            "relation": "主张",
+            "target": "环境使然",
+            "reason": "文本明确说“达尔文曰：是环境使然”，应建立人物与观点的归属关系。",
+            "severity": "high"
+          },
+          {
+            "source": "拉马克",
+            "relation": "主张",
+            "target": "用不用使然",
+            "reason": "文本明确说“拉马克曰：是用不用使然”，应建立归属关系。",
+            "severity": "high"
+          },
+          {
+            "source": "牛顿",
+            "relation": "主张",
+            "target": "时空绝对",
+            "reason": "文本明确说“牛顿曰：时空绝对”，应建立归属关系。",
+            "severity": "high"
+          },
+          {
+            "source": "爱因斯坦",
+            "relation": "主张",
+            "target": "时空相对",
+            "reason": "文本明确说“爱因斯坦曰：时空相对”，应建立归属关系。",
+            "severity": "high"
+          },
+          {
+            "source": "休谟",
+            "relation": "主张",
+            "target": "知识起于感觉",
+            "reason": "文本明确说“休谟、洛克曰：知识起于感觉”，应建立归属关系。",
+            "severity": "high"
+          },
+          {
+            "source": "洛克",
+            "relation": "主张",
+            "target": "知识起于感觉",
+            "reason": "同上，洛克也主张此观点。",
+            "severity": "high"
+          },
+          {
+            "source": "康德",
+            "relation": "主张",
+            "target": "知识之成立，除觉摄外，依赖理性为根据",
+            "reason": "文本明确说“康德曰：知识之成立，除觉摄外，依赖理性为根据”，应建立归属关系。",
+            "severity": "high"
+          },
+          {
+            "source": "马哈",
+            "relation": "主张",
+            "target": "不认有所谓我",
+            "reason": "文本明确说“马哈不认有所谓我”，应建立归属关系。",
+            "severity": "high"
+          },
+          {
+            "source": "詹姆士",
+            "relation": "主张",
+            "target": "承认有我",
+            "reason": "文本明确说“詹姆士承认之”，应建立归属关系。",
+            "severity": "high"
+          },
+          {
+            "source": "皮尔逊之知识论",
+            "relation": "包含",
+            "target": "中央电话交换所譬喻",
+            "reason": "皮尔逊的知识论中包含此比喻，应建立包含关系。",
+            "severity": "high"
+          },
+          {
+            "source": "中央电话交换所譬喻",
+            "relation": "支持",
+            "target": "感觉主义",
+            "reason": "皮尔逊用此比喻支持感觉主义，应建立支持关系。",
+            "severity": "high"
+          },
+          {
+            "source": "作者",
+            "relation": "反驳",
+            "target": "中央电话交换所譬喻",
+            "reason": "作者通过“人类之辨别真伪，乃思想之本质”反驳此比喻，应建立反驳关系。",
+            "severity": "high"
+          },
+          {
+            "source": "作者",
+            "relation": "主张",
+            "target": "以感觉为知识材料之最后根源，以常人官觉组织之相同为推理相同之惟一根据，则断断乎其不可通",
+            "reason": "这是作者的核心反驳观点，应建立归属关系。",
+            "severity": "high"
+          },
+          {
+            "source": "作者",
+            "relation": "主张",
+            "target": "人类之辨别真伪，乃思想之本质",
+            "reason": "这是作者对思想本质的论断，应建立归属关系。",
+            "severity": "high"
+          },
+          {
+            "source": "作者",
+            "relation": "主张",
+            "target": "心之为用，决非如接线生之接线而已",
+            "reason": "这是作者对皮尔逊比喻的反驳，应建立归属关系。",
+            "severity": "high"
+          },
+          {
+            "source": "罗杰司",
+            "relation": "评价",
+            "target": "皮尔逊之知识论",
+            "reason": "文本提到“美人罗杰司尝评皮氏”，应建立评价关系，但具体评价内容未给出，需注意。",
+            "severity": "medium"
+          }
+        ],
+        "normalization_issues": [
+          {
+            "surface_forms": [
+              "马哈",
+              "马赫"
+            ],
+            "suggested_canonical": "马赫",
+            "reason": "马哈通常译为马赫，需统一。",
+            "severity": "low"
+          },
+          {
+            "surface_forms": [
+              "詹姆士",
+              "詹姆斯"
+            ],
+            "suggested_canonical": "詹姆斯",
+            "reason": "詹姆士通常译为詹姆斯，需统一。",
+            "severity": "low"
+          },
+          {
+            "surface_forms": [
+              "罗杰司",
+              "罗杰斯"
+            ],
+            "suggested_canonical": "罗杰斯",
+            "reason": "罗杰司通常译为罗杰斯，需统一。",
+            "severity": "low"
+          }
+        ],
+        "relation_type_issues": [],
+        "polarity_issues": [],
+        "evidence_issues": [],
+        "rhetorical_device_issues": [
+          {
+            "item": "中央电话交换所譬喻",
+            "problem": "未抽取为修辞节点，且未说明其论证功能。",
+            "suggested_fix": "抽取为比喻/类比节点，并说明其literal_target为“人心接受感觉的过程”，论证功能为支持感觉主义。",
+            "severity": "high"
+          },
+          {
+            "item": "人心如电话局之接线生然",
+            "problem": "未抽取为修辞节点。",
+            "suggested_fix": "抽取为比喻/类比节点，并说明其literal_target为“人心”，论证功能为支持感觉主义。",
+            "severity": "high"
+          }
+        ]
+      }
+    },
+    {
+      "segment_id": "张君劢_001_688ab8ae_s0015",
+      "high": 20,
+      "medium": 19,
+      "low": 3,
+      "issues": {
+        "type_errors": [],
+        "attribution_errors": [],
+        "direction_errors": [],
+        "missing_nodes": [
+          {
+            "node": "托氏（托尔斯泰）",
+            "node_type": "人物",
+            "reason": "文本中明确提到托氏及其观点，应抽取为人物节点。",
+            "severity": "high"
+          },
+          {
+            "node": "兰克司德",
+            "node_type": "人物",
+            "reason": "文本中引用兰克司德之语，应抽取为人物节点。",
+            "severity": "high"
+          },
+          {
+            "node": "在君（丁文江）",
+            "node_type": "人物",
+            "reason": "文本中多次提及在君及其观点，应抽取为人物节点。",
+            "severity": "high"
+          },
+          {
+            "node": "物理家",
+            "node_type": "阵营/群体",
+            "reason": "文本中提及物理家无法解释质之本质，应抽取为群体节点。",
+            "severity": "medium"
+          },
+          {
+            "node": "生物学家",
+            "node_type": "阵营/群体",
+            "reason": "文本中提及生物学家无法解释细胞之本质，应抽取为群体节点。",
+            "severity": "medium"
+          },
+          {
+            "node": "科学家",
+            "node_type": "阵营/群体",
+            "reason": "文本中提及科学家无法解释生物来源、心理与身体关系，应抽取为群体节点。",
+            "severity": "medium"
+          },
+          {
+            "node": "玄学",
+            "node_type": "概念",
+            "reason": "文本中多次讨论玄学，并给出定义，应抽取为概念节点。",
+            "severity": "high"
+          },
+          {
+            "node": "科学",
+            "node_type": "概念",
+            "reason": "文本中讨论科学之局限，应抽取为概念节点。",
+            "severity": "high"
+          },
+          {
+            "node": "宇宙之神奇",
+            "node_type": "概念",
+            "reason": "文本中托氏提及宇宙之神奇非科学所能尽灭，应抽取为概念节点。",
+            "severity": "medium"
+          },
+          {
+            "node": "质之本质",
+            "node_type": "概念",
+            "reason": "文本开头讨论质之本质，应抽取为概念节点。",
+            "severity": "medium"
+          },
+          {
+            "node": "细胞之本质",
+            "node_type": "概念",
+            "reason": "文本中提及细胞之本质，应抽取为概念节点。",
+            "severity": "medium"
+          },
+          {
+            "node": "生物之来源",
+            "node_type": "概念",
+            "reason": "文本中提及生物之来源，应抽取为概念节点。",
+            "severity": "medium"
+          },
+          {
+            "node": "心理与身体之关系",
+            "node_type": "概念",
+            "reason": "文本中提及心理与身体之关系，应抽取为概念节点。",
+            "severity": "medium"
+          },
+          {
+            "node": "超物理界超官觉界",
+            "node_type": "概念",
+            "reason": "文本中给出玄学之定义，应抽取为概念节点。",
+            "severity": "high"
+          },
+          {
+            "node": "伽利略罪状之宣告",
+            "node_type": "历史事件",
+            "reason": "文本中提及伽利略罪状之宣告，应抽取为事件节点。",
+            "severity": "medium"
+          },
+          {
+            "node": "伽利略之发明力学",
+            "node_type": "历史事件",
+            "reason": "文本中提及伽利略之发明力学，应抽取为事件节点。",
+            "severity": "medium"
+          },
+          {
+            "node": "玄学在欧洲是否‘没有地方混饭吃’",
+            "node_type": "问题",
+            "reason": "文本中明确以该问题为标题，应抽取为问题节点。",
+            "severity": "high"
+          },
+          {
+            "node": "《科学引论》",
+            "node_type": "著作",
+            "reason": "文本中引用《科学引论》并注明页码，应抽取为著作节点。",
+            "severity": "medium"
+          },
+          {
+            "node": "《玄学与科学》",
+            "node_type": "文章",
+            "reason": "文本中提及在君之文《玄学与科学》，应抽取为文章节点。",
+            "severity": "medium"
+          }
+        ],
+        "missing_links": [
+          {
+            "source": "托氏",
+            "relation": "主张",
+            "target": "宇宙之神奇，决非科学所能尽灭",
+            "reason": "文本中托氏断曰宇宙之神奇非科学所能尽灭，应建立主张关系。",
+            "severity": "high"
+          },
+          {
+            "source": "托氏",
+            "relation": "引用",
+            "target": "兰克司德",
+            "reason": "托氏引兰克司德之语，应建立引用关系。",
+            "severity": "high"
+          },
+          {
+            "source": "兰克司德",
+            "relation": "主张",
+            "target": "此等事物，非今日科学所能解释，且永非他日之科学所能解释",
+            "reason": "兰克司德之语应作为其主张。",
+            "severity": "high"
+          },
+          {
+            "source": "作者（张君劢）",
+            "relation": "批评",
+            "target": "在君",
+            "reason": "作者以‘螳臂当车’‘蟪蛄不知春秋’批评在君，应建立批评关系。",
+            "severity": "high"
+          },
+          {
+            "source": "作者（张君劢）",
+            "relation": "主张",
+            "target": "玄学之在欧美，生耶死耶，请与读者一研究之",
+            "reason": "作者提出研究玄学生死之问题，应建立主张关系。",
+            "severity": "medium"
+          },
+          {
+            "source": "作者（张君劢）",
+            "relation": "主张",
+            "target": "玄学之名，本作为超物理界超官觉界解释",
+            "reason": "作者给出玄学之定义，应建立主张关系。",
+            "severity": "high"
+          },
+          {
+            "source": "玄学",
+            "relation": "定义",
+            "target": "超物理界超官觉界",
+            "reason": "文本中明确给出玄学之定义，应建立定义关系。",
+            "severity": "high"
+          },
+          {
+            "source": "在君",
+            "relation": "主张",
+            "target": "玄学……到近来渐渐没有地方混饭吃",
+            "reason": "文本中提及在君念念不忘吃饭问题，应建立主张关系。",
+            "severity": "high"
+          },
+          {
+            "source": "在君",
+            "relation": "主张",
+            "target": "玄学家吃饭的家伙",
+            "reason": "文本中提及在君之语，应建立主张关系。",
+            "severity": "high"
+          },
+          {
+            "source": "在君",
+            "relation": "主张",
+            "target": "科学万能",
+            "reason": "文本中提及在君科学万能之语，应建立主张关系。",
+            "severity": "high"
+          },
+          {
+            "source": "作者（张君劢）",
+            "relation": "批评",
+            "target": "在君之文《玄学与科学》",
+            "reason": "作者批评在君取此名以投合时好，应建立批评关系。",
+            "severity": "medium"
+          },
+          {
+            "source": "作者（张君劢）",
+            "relation": "主张",
+            "target": "玄学一名含义之混，故于研究之始，不可不先定范围",
+            "reason": "作者提出研究玄学需先定范围，应建立主张关系。",
+            "severity": "medium"
+          },
+          {
+            "source": "伽利略罪状之宣告",
+            "relation": "归因于",
+            "target": "玄学",
+            "reason": "文本中提及有人将伽利略罪状归因于玄学，应建立归因关系。",
+            "severity": "high"
+          },
+          {
+            "source": "作者（张君劢）",
+            "relation": "反驳",
+            "target": "伽利略罪状之宣告归因于玄学",
+            "reason": "作者说‘然而玄学不任受也’，应建立反驳关系。",
+            "severity": "high"
+          },
+          {
+            "source": "伽利略之发明力学",
+            "relation": "归因于",
+            "target": "玄学",
+            "reason": "文本中提及有人将伽利略发明力学上溯至玄学，应建立归因关系。",
+            "severity": "high"
+          },
+          {
+            "source": "作者（张君劢）",
+            "relation": "反驳",
+            "target": "伽利略之发明力学归因于玄学",
+            "reason": "作者说‘然而玄学不任受也’，应建立反驳关系。",
+            "severity": "high"
+          }
+        ],
+        "normalization_issues": [
+          {
+            "surface_forms": [
+              "托氏"
+            ],
+            "suggested_canonical": "托尔斯泰",
+            "reason": "文本中托氏指托尔斯泰，应统一为全名。",
+            "severity": "medium"
+          },
+          {
+            "surface_forms": [
+              "在君"
+            ],
+            "suggested_canonical": "丁文江",
+            "reason": "在君是丁文江的字，应统一为全名。",
+            "severity": "medium"
+          },
+          {
+            "surface_forms": [
+              "玄学",
+              "玄学之名"
+            ],
+            "suggested_canonical": "玄学",
+            "reason": "同一概念，应统一。",
+            "severity": "low"
+          },
+          {
+            "surface_forms": [
+              "科学",
+              "他日之科学"
+            ],
+            "suggested_canonical": "科学",
+            "reason": "同一概念，应统一。",
+            "severity": "low"
+          }
+        ],
+        "relation_type_issues": [],
+        "polarity_issues": [],
+        "evidence_issues": [],
+        "rhetorical_device_issues": [
+          {
+            "item": "螳臂当车之勇",
+            "problem": "该比喻未被识别为修辞手法，literal_target为在君，论证功能为讽刺在君不自量力。",
+            "suggested_fix": "添加rhetorical_device节点，type为比喻，literal_target为在君，function为讽刺。",
+            "severity": "medium"
+          },
+          {
+            "item": "蟪蛄之不知春秋",
+            "problem": "该比喻未被识别为修辞手法，literal_target为在君，论证功能为批评在君见识短浅。",
+            "suggested_fix": "添加rhetorical_device节点，type为比喻，literal_target为在君，function为批评。",
+            "severity": "medium"
+          },
+          {
+            "item": "玄学不任受也",
+            "problem": "该句为拟人化表达，literal_target为玄学，论证功能为反驳归因。",
+            "suggested_fix": "添加rhetorical_device节点，type为拟人，literal_target为玄学，function为反驳。",
+            "severity": "low"
+          }
+        ]
+      }
+    },
+    {
+      "segment_id": "张君劢_002_c870d202_s0002",
+      "high": 10,
+      "medium": 8,
+      "low": 0,
+      "issues": {
+        "type_errors": [],
+        "attribution_errors": [],
+        "direction_errors": [],
+        "missing_nodes": [
+          {
+            "node": "科学",
+            "node_type": "概念",
+            "reason": "文本中反复讨论“科学”的定义、分类及国人对科学的迷信，应作为核心概念节点。",
+            "severity": "high"
+          },
+          {
+            "node": "物质科学",
+            "node_type": "概念",
+            "reason": "文本明确区分“物质科学”与“精神科学”，并作为分类讨论，应抽取。",
+            "severity": "high"
+          },
+          {
+            "node": "精神科学",
+            "node_type": "概念",
+            "reason": "同上，与物质科学并列，是分类的关键概念。",
+            "severity": "high"
+          },
+          {
+            "node": "科学之无所不能无所不知",
+            "node_type": "观点",
+            "reason": "文本指出“国人迷信科学，以科学为无所不能，无所不知”，这是一个被批评的观点，应作为观点节点。",
+            "severity": "high"
+          },
+          {
+            "node": "国人",
+            "node_type": "阵营/群体",
+            "reason": "文本多次提及“国人”的认知状态，是观点持有者。",
+            "severity": "medium"
+          },
+          {
+            "node": "在君",
+            "node_type": "人物",
+            "reason": "文本明确提到“在君”及其行为，是重要人物。",
+            "severity": "high"
+          },
+          {
+            "node": "星占学",
+            "node_type": "概念",
+            "reason": "在君增加的第十项，是具体例子。",
+            "severity": "medium"
+          },
+          {
+            "node": "天文学",
+            "node_type": "概念",
+            "reason": "在君增加的第十项，与星占学对比。",
+            "severity": "medium"
+          },
+          {
+            "node": "上帝造种",
+            "node_type": "概念",
+            "reason": "在君增加的第十一项，是具体例子。",
+            "severity": "medium"
+          },
+          {
+            "node": "天演论",
+            "node_type": "概念",
+            "reason": "在君增加的第十一项，与上帝造种对比。",
+            "severity": "medium"
+          },
+          {
+            "node": "科学之分类（物质科学与精神科学）",
+            "node_type": "问题",
+            "reason": "文本以“第一 物质科学精神科学之分类”为标题，并讨论二者异同，应作为问题节点。",
+            "severity": "high"
+          },
+          {
+            "node": "科学之结论与效力是否相等",
+            "node_type": "问题",
+            "reason": "文本质疑数学、物理学等以ics结尾的科学，以及生物学、心理学等以logy结尾的科学，其结论与效力是否相等，这是一个隐含的争论问题。",
+            "severity": "medium"
+          }
+        ],
+        "missing_links": [
+          {
+            "source": "国人",
+            "relation": "持有观点",
+            "target": "科学之无所不能无所不知",
+            "reason": "文本明确说“国人迷信科学，以科学为无所不能，无所不知”，应建立归属关系。",
+            "severity": "high"
+          },
+          {
+            "source": "作者",
+            "relation": "批评",
+            "target": "科学之无所不能无所不知",
+            "reason": "文本整体语境是批评国人对科学的迷信，作者持否定态度。",
+            "severity": "high"
+          },
+          {
+            "source": "物质科学",
+            "relation": "与……区分",
+            "target": "精神科学",
+            "reason": "文本讨论二者异同，应建立区分关系。",
+            "severity": "high"
+          },
+          {
+            "source": "在君",
+            "relation": "增加",
+            "target": "星占学",
+            "reason": "文本说在君“为之增加两项如下：（十）就我对于天象之观念——星占学，天文学”，应建立动作关系。",
+            "severity": "medium"
+          },
+          {
+            "source": "在君",
+            "relation": "增加",
+            "target": "上帝造种",
+            "reason": "同上，第十一项。",
+            "severity": "medium"
+          },
+          {
+            "source": "作者",
+            "relation": "批评",
+            "target": "在君",
+            "reason": "文本说在君“全不知晓，妄为人点窜，以自鸣得意”，是直接批评。",
+            "severity": "high"
+          }
+        ],
+        "normalization_issues": [],
+        "relation_type_issues": [],
+        "polarity_issues": [],
+        "evidence_issues": [],
+        "rhetorical_device_issues": []
+      }
+    },
+    {
+      "segment_id": "张君劢_002_c870d202_s0010",
+      "high": 7,
+      "medium": 17,
+      "low": 0,
+      "issues": {
+        "type_errors": [],
+        "attribution_errors": [],
+        "direction_errors": [],
+        "missing_nodes": [
+          {
+            "node": "生物学与物理学有根本上之不同",
+            "node_type": "观点",
+            "reason": "文本明确提出生物学与物理学有根本不同，且是后续论证的基础，应抽取为观点节点。",
+            "severity": "high"
+          },
+          {
+            "node": "生物学与心理学能否成为严正科学",
+            "node_type": "问题",
+            "reason": "文本提出'二者之能否成为严正科学，已为绝大疑问'，这是一个核心争论问题，应抽取为问题节点。",
+            "severity": "high"
+          },
+          {
+            "node": "物理学之所研究，限于死物质",
+            "node_type": "概念",
+            "reason": "文本对物理学研究对象进行了定义，应抽取为概念节点。",
+            "severity": "medium"
+          },
+          {
+            "node": "生物学之所研究，则为有生之物",
+            "node_type": "概念",
+            "reason": "文本对生物学研究对象进行了定义，应抽取为概念节点。",
+            "severity": "medium"
+          },
+          {
+            "node": "心理学之所研究，则为有生而又有心理现象者",
+            "node_type": "概念",
+            "reason": "文本对心理学研究对象进行了定义，应抽取为概念节点。",
+            "severity": "medium"
+          },
+          {
+            "node": "拉马克之自觉的努力说",
+            "node_type": "主义/学说/理论",
+            "reason": "文本提及拉马克的学说，与达尔文环境说相对立，应抽取为理论节点。",
+            "severity": "medium"
+          },
+          {
+            "node": "达尔文之环境说",
+            "node_type": "主义/学说/理论",
+            "reason": "文本提及达尔文的学说，与拉马克学说相对立，应抽取为理论节点。",
+            "severity": "medium"
+          },
+          {
+            "node": "进化论之根本概念之不易确定",
+            "node_type": "观点",
+            "reason": "文本指出进化论根本概念不易确定，是重要观点，应抽取。",
+            "severity": "medium"
+          },
+          {
+            "node": "心理学上根本概念之不易确定",
+            "node_type": "观点",
+            "reason": "文本指出心理学根本概念不易确定，是重要观点，应抽取。",
+            "severity": "medium"
+          },
+          {
+            "node": "物理学之所以为严正科学，不仅因果关系也，即其因果之分量亦可从而量度",
+            "node_type": "观点",
+            "reason": "文本对物理学作为严正科学的特征进行了阐述，应抽取为观点。",
+            "severity": "medium"
+          },
+          {
+            "node": "杜里舒氏发见细胞之协和平等可能系",
+            "node_type": "事件",
+            "reason": "文本提及杜里舒的发现，是重要例证，应抽取为事件节点。",
+            "severity": "medium"
+          },
+          {
+            "node": "隐德来希",
+            "node_type": "概念",
+            "reason": "文本对'隐德来希'进行了解释，应抽取为概念节点。",
+            "severity": "medium"
+          },
+          {
+            "node": "柏氏心理万变与真时间之说",
+            "node_type": "主义/学说/理论",
+            "reason": "文本提及柏格森的学说，是重要理论，应抽取。",
+            "severity": "medium"
+          },
+          {
+            "node": "真心理之必无因果",
+            "node_type": "观点",
+            "reason": "文本断言真心理必无因果，是重要结论，应抽取为观点。",
+            "severity": "high"
+          }
+        ],
+        "missing_links": [
+          {
+            "source": "生物学与物理学有根本上之不同",
+            "relation": "支持",
+            "target": "生物学与心理学能否成为严正科学",
+            "reason": "文本用根本不同来论证二者能否成为严正科学是疑问，应建立支持关系。",
+            "severity": "high"
+          },
+          {
+            "source": "物理学之所研究，限于死物质",
+            "relation": "定义",
+            "target": "物理学",
+            "reason": "文本对物理学进行了定义，应建立定义关系。",
+            "severity": "medium"
+          },
+          {
+            "source": "生物学之所研究，则为有生之物",
+            "relation": "定义",
+            "target": "生物学",
+            "reason": "文本对生物学进行了定义，应建立定义关系。",
+            "severity": "medium"
+          },
+          {
+            "source": "心理学之所研究，则为有生而又有心理现象者",
+            "relation": "定义",
+            "target": "心理学",
+            "reason": "文本对心理学进行了定义，应建立定义关系。",
+            "severity": "medium"
+          },
+          {
+            "source": "拉马克之自觉的努力说",
+            "relation": "反对",
+            "target": "达尔文之环境说",
+            "reason": "文本明确说二者'相反对'，应建立反对关系。",
+            "severity": "high"
+          },
+          {
+            "source": "拉马克之自觉的努力说",
+            "relation": "归因于",
+            "target": "进化论之根本概念之不易确定",
+            "reason": "文本指出这种反对表示进化论根本概念不易确定，应建立归因关系。",
+            "severity": "medium"
+          },
+          {
+            "source": "达尔文之环境说",
+            "relation": "归因于",
+            "target": "进化论之根本概念之不易确定",
+            "reason": "同上，反对双方共同指向根本概念不易确定。",
+            "severity": "medium"
+          },
+          {
+            "source": "杜里舒氏发见细胞之协和平等可能系",
+            "relation": "归因于",
+            "target": "隐德来希",
+            "reason": "文本说杜里舒归因于'隐德来希'，应建立归因关系。",
+            "severity": "high"
+          },
+          {
+            "source": "隐德来希",
+            "relation": "定义",
+            "target": "生命构成不可知之代名词",
+            "reason": "文本对隐德来希进行了解释，应建立定义关系。",
+            "severity": "medium"
+          },
+          {
+            "source": "柏氏心理万变与真时间之说",
+            "relation": "支持",
+            "target": "真心理之必无因果",
+            "reason": "文本用柏格森学说来支持真心理无因果的断言，应建立支持关系。",
+            "severity": "high"
+          }
+        ],
+        "normalization_issues": [],
+        "relation_type_issues": [],
+        "polarity_issues": [],
+        "evidence_issues": [],
+        "rhetorical_device_issues": []
+      }
+    },
+    {
+      "segment_id": "张君劢_002_c870d202_s0018",
+      "high": 14,
+      "medium": 3,
+      "low": 0,
+      "issues": {
+        "type_errors": [],
+        "attribution_errors": [],
+        "direction_errors": [],
+        "missing_nodes": [
+          {
+            "node": "欧氏（欧几里得？或指欧文？）",
+            "node_type": "人物",
+            "reason": "文本中提及'欧氏'，应作为人物节点抽取，但当前缺失。",
+            "severity": "high"
+          },
+          {
+            "node": "柏格森",
+            "node_type": "人物",
+            "reason": "文本中提及柏格森，应作为人物节点抽取，但当前缺失。",
+            "severity": "high"
+          },
+          {
+            "node": "张君劢",
+            "node_type": "人物",
+            "reason": "文本中提及张君劢，应作为人物节点抽取，但当前缺失。",
+            "severity": "high"
+          },
+          {
+            "node": "韦尔斯",
+            "node_type": "人物",
+            "reason": "文本中多次提及韦尔斯及其著作，应作为人物节点抽取，但当前缺失。",
+            "severity": "high"
+          },
+          {
+            "node": "《最初物与最终物》",
+            "node_type": "著作",
+            "reason": "文本中引用韦尔斯著作，应作为著作节点抽取，但当前缺失。",
+            "severity": "high"
+          },
+          {
+            "node": "论理学为静的，生活为动的",
+            "node_type": "观点",
+            "reason": "韦尔斯提出的核心观点，应作为观点节点抽取，但当前缺失。",
+            "severity": "high"
+          },
+          {
+            "node": "世界实在本为活的动的",
+            "node_type": "观点",
+            "reason": "文本中作者总结的世界观，应作为观点节点抽取，但当前缺失。",
+            "severity": "high"
+          },
+          {
+            "node": "个体之单一性乃客观的真理",
+            "node_type": "观点",
+            "reason": "韦尔斯引用的观点，应作为观点节点抽取，但当前缺失。",
+            "severity": "high"
+          },
+          {
+            "node": "玄学",
+            "node_type": "概念",
+            "reason": "文本中提及'玄学'，应作为概念节点抽取，但当前缺失。",
+            "severity": "medium"
+          },
+          {
+            "node": "论理学",
+            "node_type": "概念",
+            "reason": "文本中多次提及论理学，应作为概念节点抽取，但当前缺失。",
+            "severity": "medium"
+          },
+          {
+            "node": "数学之全部构造皆出于人之主观",
+            "node_type": "观点",
+            "reason": "韦尔斯引用的观点，应作为观点节点抽取，但当前缺失。",
+            "severity": "high"
+          }
+        ],
+        "missing_links": [
+          {
+            "source": "韦尔斯",
+            "relation": "主张",
+            "target": "论理学为静的，生活为动的",
+            "reason": "文本中韦尔斯提出此观点，应建立人物与观点的关系。",
+            "severity": "high"
+          },
+          {
+            "source": "韦尔斯",
+            "relation": "主张",
+            "target": "世界实在本为活的动的",
+            "reason": "文本中韦尔斯论述此观点，应建立人物与观点的关系。",
+            "severity": "high"
+          },
+          {
+            "source": "韦尔斯",
+            "relation": "引用",
+            "target": "个体之单一性乃客观的真理",
+            "reason": "文本中韦尔斯引用此观点，应建立人物与观点的关系。",
+            "severity": "high"
+          },
+          {
+            "source": "韦尔斯",
+            "relation": "引用",
+            "target": "数学之全部构造皆出于人之主观",
+            "reason": "文本中韦尔斯引用此观点，应建立人物与观点的关系。",
+            "severity": "high"
+          },
+          {
+            "source": "韦尔斯",
+            "relation": "著作",
+            "target": "《最初物与最终物》",
+            "reason": "文本中提及韦尔斯著作，应建立人物与著作的关系。",
+            "severity": "high"
+          },
+          {
+            "source": "欧氏",
+            "relation": "主张",
+            "target": "玄学",
+            "reason": "文本中暗示欧氏将柏格森、张君劢的观点归为玄学，应建立关系。",
+            "severity": "medium"
+          }
+        ],
+        "normalization_issues": [],
+        "relation_type_issues": [],
+        "polarity_issues": [],
+        "evidence_issues": [],
+        "rhetorical_device_issues": []
+      }
+    },
+    {
+      "segment_id": "张君劢_002_c870d202_s0026",
+      "high": 18,
+      "medium": 4,
+      "low": 0,
+      "issues": {
+        "type_errors": [],
+        "attribution_errors": [],
+        "direction_errors": [],
+        "missing_nodes": [
+          {
+            "node": "赫胥黎",
+            "node_type": "人物",
+            "reason": "文本中明确提及赫胥黎与宗教家对抗，要求加入自然科学，应作为人物节点抽取。",
+            "severity": "high"
+          },
+          {
+            "node": "宗教家",
+            "node_type": "阵营/群体",
+            "reason": "文本中作为赫胥黎的对抗方出现，应抽取为群体节点。",
+            "severity": "high"
+          },
+          {
+            "node": "科学的信仰",
+            "node_type": "概念",
+            "reason": "文本开头提及“科学的信仰，如日中天”，是重要背景概念。",
+            "severity": "medium"
+          },
+          {
+            "node": "教育方针之应改良",
+            "node_type": "观点",
+            "reason": "作者提出三条教育改良主张，应作为观点节点抽取。",
+            "severity": "high"
+          },
+          {
+            "node": "超官觉超自然之条目",
+            "node_type": "概念",
+            "reason": "作者主张在学科中增加此条目，是核心概念。",
+            "severity": "high"
+          },
+          {
+            "node": "艺术上之训练",
+            "node_type": "概念",
+            "reason": "作者主张增加艺术训练，是核心概念。",
+            "severity": "high"
+          },
+          {
+            "node": "人类自由意志之大义",
+            "node_type": "概念",
+            "reason": "作者主张发扬自由意志，是核心概念。",
+            "severity": "high"
+          },
+          {
+            "node": "玄学教育",
+            "node_type": "概念",
+            "reason": "作者自认其主张为玄学教育，是重要标签。",
+            "severity": "high"
+          },
+          {
+            "node": "形上界",
+            "node_type": "概念",
+            "reason": "文本中提及形上界在欧洲易与宗教相混，是重要概念。",
+            "severity": "medium"
+          },
+          {
+            "node": "大我性",
+            "node_type": "概念",
+            "reason": "作者主张发达大我性，是核心概念。",
+            "severity": "high"
+          },
+          {
+            "node": "社会革命党",
+            "node_type": "阵营/群体",
+            "reason": "文本提及社会革命党已实行自由意志教育并成功，应抽取为群体。",
+            "severity": "high"
+          },
+          {
+            "node": "德俄两帝国之推翻",
+            "node_type": "历史事件",
+            "reason": "作为社会革命党成功的例证出现。",
+            "severity": "medium"
+          }
+        ],
+        "missing_links": [
+          {
+            "source": "赫胥黎",
+            "relation": "对抗",
+            "target": "宗教家",
+            "reason": "文本明确说赫胥黎与宗教家抗。",
+            "severity": "high"
+          },
+          {
+            "source": "赫胥黎",
+            "relation": "主张",
+            "target": "以自然科学加入学校科目中",
+            "reason": "赫胥黎要求加入自然科学。",
+            "severity": "high"
+          },
+          {
+            "source": "作者",
+            "relation": "主张",
+            "target": "教育方针之应改良",
+            "reason": "作者提出三条改良主张。",
+            "severity": "high"
+          },
+          {
+            "source": "教育方针之应改良",
+            "relation": "包含",
+            "target": "超官觉超自然之条目",
+            "reason": "第一条改良主张。",
+            "severity": "high"
+          },
+          {
+            "source": "教育方针之应改良",
+            "relation": "包含",
+            "target": "艺术上之训练",
+            "reason": "第二条改良主张。",
+            "severity": "high"
+          },
+          {
+            "source": "教育方针之应改良",
+            "relation": "包含",
+            "target": "人类自由意志之大义",
+            "reason": "第三条改良主张。",
+            "severity": "high"
+          },
+          {
+            "source": "作者",
+            "relation": "自称",
+            "target": "玄学教育",
+            "reason": "作者直认不辞曰是玄学教育。",
+            "severity": "high"
+          },
+          {
+            "source": "社会革命党",
+            "relation": "实践",
+            "target": "人类自由意志之大义",
+            "reason": "文本说社会革命党已行之而大奏功。",
+            "severity": "high"
+          },
+          {
+            "source": "社会革命党",
+            "relation": "导致",
+            "target": "德俄两帝国之推翻",
+            "reason": "文本说德俄两帝国之推翻，皆此种教育为之。",
+            "severity": "high"
+          }
+        ],
+        "normalization_issues": [],
+        "relation_type_issues": [],
+        "polarity_issues": [],
+        "evidence_issues": [],
+        "rhetorical_device_issues": [
+          {
+            "item": "如日中天",
+            "problem": "比喻修辞未标注，literal_target为科学的信仰之兴盛。",
+            "suggested_fix": "添加rhetorical_device节点，type为比喻，literal_target为科学的信仰之兴盛。",
+            "severity": "medium"
+          }
+        ]
+      }
+    },
+    {
+      "segment_id": "张君劢_002_c870d202_s0034",
+      "high": 14,
+      "medium": 8,
+      "low": 0,
+      "issues": {
+        "type_errors": [],
+        "attribution_errors": [],
+        "direction_errors": [],
+        "missing_nodes": [
+          {
+            "node": "社会主义",
+            "node_type": "主义/学说/理论",
+            "reason": "文本明确提到'主张社会主义之实行'，应作为主义节点抽取。",
+            "severity": "high"
+          },
+          {
+            "node": "公道为根本",
+            "node_type": "观点",
+            "reason": "文本中'一国之生计组织，以公道为根本'是一个完整命题，应作为观点节点。",
+            "severity": "high"
+          },
+          {
+            "node": "宁可牺牲富强，不愿以人类作工厂之奴隶牛马",
+            "node_type": "观点",
+            "reason": "这是对'牺牲人类'的反对主张，应作为观点节点。",
+            "severity": "high"
+          },
+          {
+            "node": "十九世纪以来急切之功利论",
+            "node_type": "主义/学说/理论",
+            "reason": "文本中作为被批判的对象，应作为主义节点。",
+            "severity": "medium"
+          },
+          {
+            "node": "寡均贫安政策",
+            "node_type": "概念",
+            "reason": "文本多次提及，是核心概念之一。",
+            "severity": "high"
+          },
+          {
+            "node": "心性之学与考据之学",
+            "node_type": "概念",
+            "reason": "文本标题明确提及，应作为概念节点。",
+            "severity": "high"
+          },
+          {
+            "node": "现代欧洲文明之特征三：国家主义、工商政策、自然界之智识",
+            "node_type": "观点",
+            "reason": "这是一个完整命题，应作为观点节点。",
+            "severity": "high"
+          },
+          {
+            "node": "我国立国之方策...正相反对者也",
+            "node_type": "观点",
+            "reason": "文本中作为对比的命题，应作为观点节点。",
+            "severity": "high"
+          },
+          {
+            "node": "循欧洲之道而不变，必蹈欧洲败亡之覆辙",
+            "node_type": "观点",
+            "reason": "这是一个因果主张，应作为观点节点。",
+            "severity": "high"
+          },
+          {
+            "node": "苟明人生之意义，此种急功之念自可削除",
+            "node_type": "观点",
+            "reason": "这是一个条件主张，应作为观点节点。",
+            "severity": "high"
+          },
+          {
+            "node": "衣履外也，皮肉亦外也，脑神经亦外也",
+            "node_type": "观点",
+            "reason": "这是一个关于'外'的命题，应作为观点节点。",
+            "severity": "medium"
+          },
+          {
+            "node": "足乎己而无待于外者",
+            "node_type": "概念",
+            "reason": "文本中作为追问的对象，应作为概念节点。",
+            "severity": "medium"
+          },
+          {
+            "node": "孟子",
+            "node_type": "人物",
+            "reason": "文本引用孟子之言，应作为人物节点。",
+            "severity": "high"
+          }
+        ],
+        "missing_links": [
+          {
+            "source": "社会主义",
+            "relation": "主张",
+            "target": "公道为根本",
+            "reason": "文本中社会主义的主张包含'以公道为根本'。",
+            "severity": "high"
+          },
+          {
+            "source": "公道为根本",
+            "relation": "支持",
+            "target": "宁可牺牲富强，不愿以人类作工厂之奴隶牛马",
+            "reason": "文本中'以公道为根本'推导出'宁可牺牲富强'。",
+            "severity": "high"
+          },
+          {
+            "source": "十九世纪以来急切之功利论",
+            "relation": "被批判",
+            "target": "宁可牺牲富强，不愿以人类作工厂之奴隶牛马",
+            "reason": "文本中功利论被作为反面对象批判。",
+            "severity": "medium"
+          },
+          {
+            "source": "现代欧洲文明之特征三：国家主义、工商政策、自然界之智识",
+            "relation": "对立",
+            "target": "我国立国之方策...正相反对者也",
+            "reason": "文本明确说'正相反对者也'。",
+            "severity": "high"
+          },
+          {
+            "source": "循欧洲之道而不变，必蹈欧洲败亡之覆辙",
+            "relation": "因果",
+            "target": "现代欧洲文明之特征三：国家主义、工商政策、自然界之智识",
+            "reason": "文本中'循欧洲之道'指代欧洲文明特征。",
+            "severity": "high"
+          },
+          {
+            "source": "苟明人生之意义，此种急功之念自可削除",
+            "relation": "条件",
+            "target": "急功之念",
+            "reason": "文本中'苟明人生之意义'是条件。",
+            "severity": "medium"
+          },
+          {
+            "source": "衣履外也，皮肉亦外也，脑神经亦外也",
+            "relation": "例证",
+            "target": "足乎己而无待于外者",
+            "reason": "文本用这些例子来追问'足乎己而无待于外者'。",
+            "severity": "medium"
+          }
+        ],
+        "normalization_issues": [],
+        "relation_type_issues": [],
+        "polarity_issues": [],
+        "evidence_issues": [],
+        "rhetorical_device_issues": [
+          {
+            "item": "宁可牺牲富强，不愿以人类作工厂之奴隶牛马",
+            "problem": "这是一个比喻性表达，'工厂之奴隶牛马'是比喻，应标注为修辞手法。",
+            "suggested_fix": "添加 rhetorical_device 节点，type: '比喻', literal_target: '人类被工厂剥削', argument_function: '强调牺牲人类福祉的严重性'",
+            "severity": "medium"
+          },
+          {
+            "item": "必要者，创造之母也",
+            "problem": "这是一个比喻，'必要'被比作'创造之母'，应标注为修辞手法。",
+            "suggested_fix": "添加 rhetorical_device 节点，type: '比喻', literal_target: '必要性可以激发创造力', argument_function: '支持在寡均贫安状态下仍有他法可想'",
+            "severity": "medium"
+          }
+        ]
+      }
+    },
+    {
+      "segment_id": "张君劢_002_c870d202_s0042",
+      "high": 25,
+      "medium": 3,
+      "low": 3,
+      "issues": {
+        "type_errors": [],
+        "attribution_errors": [],
+        "direction_errors": [],
+        "missing_nodes": [
+          {
+            "node": "资发明者，此正东西人心之冥合，不必以地理之隔绝而摈弃之",
+            "node_type": "观点",
+            "reason": "这是一个完整的命题，表达了作者对东西方文明可融合的观点，应抽取为观点节点。",
+            "severity": "high"
+          },
+          {
+            "node": "在君亦有说曰，生计充裕，则人谁不乐于为善？故引管子“衣食足而后知礼节，仓廪实而后知荣辱”之言为证",
+            "node_type": "观点",
+            "reason": "这是转述丁在君的观点及其论据，应抽取为观点节点，并标注归属为丁在君。",
+            "severity": "high"
+          },
+          {
+            "node": "试以美国煤油大王之资财，畀之今之军阀与政府，则财政能整理乎？尽人而知其不能矣",
+            "node_type": "论据",
+            "reason": "这是一个归谬论证，用于反驳丁在君的观点，应抽取为论据节点。",
+            "severity": "high"
+          },
+          {
+            "node": "又试倾英伦、法兰西、日本三国家银行之资财以畀之今之军阀与政府，政治其清明乎？亦尽人而知其不能矣",
+            "node_type": "论据",
+            "reason": "这是另一个归谬论证，进一步反驳丁在君，应抽取为论据节点。",
+            "severity": "high"
+          },
+          {
+            "node": "知礼节而后衣食足，知荣辱而后仓廪实",
+            "node_type": "观点",
+            "reason": "这是作者提出的颠倒管子之言的新命题，是核心观点，应抽取。",
+            "severity": "high"
+          },
+          {
+            "node": "吾之所以欲提倡宋学者，其微意在此",
+            "node_type": "观点",
+            "reason": "这是作者表明提倡宋学的动机，应抽取为观点节点。",
+            "severity": "high"
+          },
+          {
+            "node": "用之则行，舍之则藏",
+            "node_type": "方法论原则",
+            "reason": "这是作者自述的治学与政治原则，应抽取为方法论原则节点。",
+            "severity": "high"
+          },
+          {
+            "node": "吾之治学与我之奔走政治同，有一贯之原则",
+            "node_type": "观点",
+            "reason": "这是作者对自身行为原则的陈述，应抽取为观点节点。",
+            "severity": "high"
+          },
+          {
+            "node": "若其视时俗之好恶，以为可速以成名，不独学问不成，即名亦不得而盗",
+            "node_type": "观点",
+            "reason": "这是作者对治学态度的反面论述，应抽取为观点节点。",
+            "severity": "high"
+          },
+          {
+            "node": "在君当记一九一九年寓巴黎之日，任公、百里、振飞激于国内思潮之变，乃访柏格森，乃研究文艺复兴史，而吾处之漠然",
+            "node_type": "例证",
+            "reason": "这是作者用具体事例说明自己的治学态度，应抽取为例证节点。",
+            "severity": "high"
+          },
+          {
+            "node": "及访倭伊铿，一见倾心，于是将吾国际政治学书束之高阁",
+            "node_type": "例证",
+            "reason": "这是另一个例证，说明作者治学凭内心冲动，应抽取。",
+            "severity": "high"
+          },
+          {
+            "node": "管子",
+            "node_type": "人物",
+            "reason": "文本中引用了管子的话，管子是历史人物，应抽取。",
+            "severity": "medium"
+          },
+          {
+            "node": "丁在君",
+            "node_type": "人物",
+            "reason": "文本中多次提到“在君”，即丁在君，是重要人物，应抽取。",
+            "severity": "high"
+          },
+          {
+            "node": "美国煤油大王",
+            "node_type": "人物",
+            "reason": "作为比喻中的角色，应抽取为人物节点。",
+            "severity": "low"
+          },
+          {
+            "node": "今之军阀与政府",
+            "node_type": "阵营/群体",
+            "reason": "文本中多次提及，是作者批评的对象，应抽取。",
+            "severity": "high"
+          },
+          {
+            "node": "宋学",
+            "node_type": "主义/学说/理论",
+            "reason": "作者提倡宋学，应抽取为学说节点。",
+            "severity": "high"
+          },
+          {
+            "node": "衣食足而后知礼节，仓廪实而后知荣辱",
+            "node_type": "观点",
+            "reason": "这是管子原话，被丁在君引用，应抽取为观点节点，并标注归属为管子。",
+            "severity": "high"
+          },
+          {
+            "node": "私人批评之答复",
+            "node_type": "文章",
+            "reason": "这是文本中的小标题，可视为文章的一部分，但若作为节点则需谨慎。",
+            "severity": "low"
+          }
+        ],
+        "missing_links": [
+          {
+            "source": "丁在君",
+            "relation": "主张",
+            "target": "生计充裕，则人谁不乐于为善",
+            "reason": "文本明确说“在君亦有说曰”，表明这是丁在君的观点。",
+            "severity": "high"
+          },
+          {
+            "source": "丁在君",
+            "relation": "引用",
+            "target": "管子",
+            "reason": "丁在君引用管子的话作为论据。",
+            "severity": "high"
+          },
+          {
+            "source": "作者",
+            "relation": "反驳",
+            "target": "丁在君",
+            "reason": "作者通过归谬论证反驳丁在君的观点。",
+            "severity": "high"
+          },
+          {
+            "source": "作者",
+            "relation": "提出",
+            "target": "知礼节而后衣食足，知荣辱而后仓廪实",
+            "reason": "作者提出这个颠倒的命题。",
+            "severity": "high"
+          },
+          {
+            "source": "作者",
+            "relation": "支持",
+            "target": "宋学",
+            "reason": "作者表明提倡宋学。",
+            "severity": "high"
+          },
+          {
+            "source": "作者",
+            "relation": "遵循",
+            "target": "用之则行，舍之则藏",
+            "reason": "作者自述治学与政治遵循此原则。",
+            "severity": "high"
+          },
+          {
+            "source": "作者",
+            "relation": "举例",
+            "target": "在君当记一九一九年寓巴黎之日...",
+            "reason": "作者用此例说明自己的治学态度。",
+            "severity": "high"
+          },
+          {
+            "source": "作者",
+            "relation": "举例",
+            "target": "及访倭伊铿，一见倾心...",
+            "reason": "另一个例证。",
+            "severity": "high"
+          }
+        ],
+        "normalization_issues": [
+          {
+            "surface_forms": [
+              "在君",
+              "丁在君"
+            ],
+            "suggested_canonical": "丁在君",
+            "reason": "文本中“在君”即丁在君，应统一。",
+            "severity": "medium"
+          },
+          {
+            "surface_forms": [
+              "管子",
+              "管仲"
+            ],
+            "suggested_canonical": "管仲",
+            "reason": "文本中“管子”即管仲，应统一。",
+            "severity": "low"
+          }
+        ],
+        "relation_type_issues": [],
+        "polarity_issues": [],
+        "evidence_issues": [],
+        "rhetorical_device_issues": [
+          {
+            "item": "试以美国煤油大王之资财，畀之今之军阀与政府，则财政能整理乎？尽人而知其不能矣",
+            "problem": "这是一个归谬修辞，用于反驳丁在君的观点，但未标注。",
+            "suggested_fix": "添加 rhetorical_device 节点，type 为“归谬”，literal_target 为“丁在君的观点”，argumentative_function 为“反驳”。",
+            "severity": "high"
+          },
+          {
+            "item": "又试倾英伦、法兰西、日本三国家银行之资财以畀之今之军阀与政府，政治其清明乎？亦尽人而知其不能矣",
+            "problem": "同上，另一个归谬。",
+            "suggested_fix": "添加 rhetorical_device 节点，type 为“归谬”，literal_target 为“丁在君的观点”，argumentative_function 为“反驳”。",
+            "severity": "high"
+          },
+          {
+            "item": "故管仲所言，乃就多数人言之也。若夫国事鼎沸纲纪凌夷之日，则治乱之真理，应将管子之言而颠倒之",
+            "problem": "作者使用了“颠倒”这一修辞手法，将管子的话反转，应标注。",
+            "suggested_fix": "添加 rhetorical_device 节点，type 为“反转”，literal_target 为“管子之言”，argumentative_function 为“提出新观点”。",
+            "severity": "medium"
+          }
+        ]
+      }
+    },
+    {
+      "segment_id": "张君劢_003_cd868ad5_s0005",
+      "high": 9,
+      "medium": 9,
+      "low": 2,
+      "issues": {
+        "type_errors": [],
+        "attribution_errors": [],
+        "direction_errors": [],
+        "missing_nodes": [
+          {
+            "node": "国际间之所求专在有限之物质",
+            "node_type": "观点",
+            "reason": "文本中明确提出了一个关于国际冲突根源的观点，应作为观点节点抽取。",
+            "severity": "high"
+          },
+          {
+            "node": "物质有限而人欲无穷，如此不可为国家久安计、为人类幸福计",
+            "node_type": "观点",
+            "reason": "这是作者对前述观点的评价和结论，应作为观点节点。",
+            "severity": "high"
+          },
+          {
+            "node": "国家主义、军阀主义、工商主义都成过去",
+            "node_type": "观点",
+            "reason": "作者明确主张这些主义已过时，应作为观点节点。",
+            "severity": "high"
+          },
+          {
+            "node": "专恃有益于实用之科学知识而忘却形上、精神、艺术方面，决非国家前途之福",
+            "node_type": "观点",
+            "reason": "作者对科学实用主义的批评，应作为观点节点。",
+            "severity": "high"
+          },
+          {
+            "node": "欧美先知先觉在精神方面提倡内生活，在政治方面提倡国际联盟",
+            "node_type": "观点",
+            "reason": "转述欧美知识界的动向，应作为观点节点。",
+            "severity": "medium"
+          },
+          {
+            "node": "中国、美国地大物博，适于提倡大同主义",
+            "node_type": "观点",
+            "reason": "作者提出的具体主张，应作为观点节点。",
+            "severity": "high"
+          },
+          {
+            "node": "教育方针",
+            "node_type": "概念",
+            "reason": "文本中明确讨论教育方针，应作为概念节点。",
+            "severity": "medium"
+          },
+          {
+            "node": "人生在世五方面：形上、审美、意志、理智、身体",
+            "node_type": "概念",
+            "reason": "作者对人生方面的分类，应作为概念节点。",
+            "severity": "high"
+          },
+          {
+            "node": "形上",
+            "node_type": "概念",
+            "reason": "作为人生五方面之一，且后续有具体阐述，应作为概念节点。",
+            "severity": "medium"
+          },
+          {
+            "node": "君子为己之学",
+            "node_type": "概念",
+            "reason": "与功名富贵之争对比，是作者推崇的价值观，应作为概念节点。",
+            "severity": "medium"
+          },
+          {
+            "node": "1914年大战之由来",
+            "node_type": "历史事件",
+            "reason": "文本中作为例证提及，应作为事件节点。",
+            "severity": "low"
+          },
+          {
+            "node": "大同主义",
+            "node_type": "主义/学说/理论",
+            "reason": "作者提倡的主义，应作为节点。",
+            "severity": "high"
+          },
+          {
+            "node": "国际联盟",
+            "node_type": "概念",
+            "reason": "作为政治方面的具体主张，应作为概念节点。",
+            "severity": "medium"
+          }
+        ],
+        "missing_links": [
+          {
+            "source": "国际间之所求专在有限之物质",
+            "relation": "导致",
+            "target": "1914年大战之由来",
+            "reason": "文本明确将国际冲突归因于物质争夺，应建立因果关系。",
+            "severity": "high"
+          },
+          {
+            "source": "物质有限而人欲无穷",
+            "relation": "支持",
+            "target": "国际间之所求专在有限之物质不可为国家久安计、为人类幸福计",
+            "reason": "这是作者论证其观点不可行的论据。",
+            "severity": "high"
+          },
+          {
+            "source": "国家主义、军阀主义、工商主义都成过去",
+            "relation": "对比",
+            "target": "大同主义",
+            "reason": "作者用过去主义对比未来方向。",
+            "severity": "medium"
+          },
+          {
+            "source": "专恃有益于实用之科学知识而忘却形上、精神、艺术方面，决非国家前途之福",
+            "relation": "支持",
+            "target": "教育方针",
+            "reason": "此批评为提出教育方针做铺垫。",
+            "severity": "medium"
+          },
+          {
+            "source": "人生在世五方面：形上、审美、意志、理智、身体",
+            "relation": "包含",
+            "target": "形上",
+            "reason": "形上是五方面之一。",
+            "severity": "medium"
+          },
+          {
+            "source": "形上",
+            "relation": "对比",
+            "target": "功名富贵之争",
+            "reason": "文本中形上追求与功名富贵形成对比。",
+            "severity": "medium"
+          },
+          {
+            "source": "形上",
+            "relation": "关联",
+            "target": "君子为己之学",
+            "reason": "形上方面与君子为己之学相关。",
+            "severity": "low"
+          }
+        ],
+        "normalization_issues": [],
+        "relation_type_issues": [],
+        "polarity_issues": [],
+        "evidence_issues": [],
+        "rhetorical_device_issues": []
+      }
+    }
+  ],
+  "total_high": 179
+}

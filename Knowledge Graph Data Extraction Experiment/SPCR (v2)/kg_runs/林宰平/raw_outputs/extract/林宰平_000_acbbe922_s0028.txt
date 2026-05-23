@@ -1,0 +1,631 @@
+{
+  "metadata": {
+    "schema_version": "lite_v3.0",
+    "article_id": "林宰平_000_acbbe922",
+    "article_title": "读丁在君先生的《玄学与科学》",
+    "source_author": "林宰平",
+    "section_title": "",
+    "section_author": "",
+    "segment_id": "林宰平_000_acbbe922_s0028",
+    "segment_index": 28,
+    "source_file": "E:\\1研究生\\岭南大学\\论文毕业\\capstone\\资料\\新的内容开始了\\local_upload\\input_林宰平\\林宰平.txt"
+  },
+  "entities": [
+    {
+      "id": "e1",
+      "name": "人生观",
+      "canonical_name": "人生观",
+      "type": "概念",
+      "evidence": "要找出一两个他的人生观完完全全相同的，似乎很不容易。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e2",
+      "name": "情感的活动",
+      "canonical_name": "情感的活动",
+      "type": "概念",
+      "evidence": "他最为古怪的，尤其在情感的活动，不但主观性非常之重，并且有时连甚么主观非主观都说不上，他是莫名其妙而发动的。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e3",
+      "name": "音乐或诗的天才",
+      "canonical_name": "音乐或诗的天才",
+      "type": "概念",
+      "evidence": "又如音乐或诗的天才，他的创造意，自己也不能预先安排，他是自然而然由不测之渊涌出来的，人的心他有无尽的源泉。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e4",
+      "name": "科学",
+      "canonical_name": "科学",
+      "type": "概念",
+      "evidence": "如果科学能够管理这个最古怪的东西，就是世界从此变成单调些，我们也只好愿意的，然而如此不能划一，无从分析，甚有超出感觉的种种心的作用，科学对于这种地方还有甚么权威?",
+      "confidence": 0.9
+    },
+    {
+      "id": "e5",
+      "name": "人格",
+      "canonical_name": "人格",
+      "type": "概念",
+      "evidence": "讲到人格上，在君先生也以为只有科学家是好的，欧洲十九世纪几个很有道德的都是大科学家。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e6",
+      "name": "东方文化的特色",
+      "canonical_name": "东方文化的特色",
+      "type": "概念",
+      "evidence": "我以为这种论调未免太把东方文化的特色抹杀了。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e7",
+      "name": "宽大长厚，从容自得",
+      "canonical_name": "宽大长厚，从容自得",
+      "type": "概念",
+      "evidence": "宽大长厚，从容自得，确是我们中国人一种很特别的国民性；",
+      "confidence": 0.9
+    },
+    {
+      "id": "e8",
+      "name": "国民性",
+      "canonical_name": "国民性",
+      "type": "概念",
+      "evidence": "宽大长厚，从容自得，确是我们中国人一种很特别的国民性；",
+      "confidence": 0.9
+    },
+    {
+      "id": "e9",
+      "name": "印度佛教思想",
+      "canonical_name": "印度佛教思想",
+      "type": "主义/学说/理论",
+      "evidence": "又如印度佛教思想那样的彻底解脱无碍无尽的境界，不能不说是人类一种极可宝贵的精神，岂能以“枯坐谈禅妄言玄理”就把人家打倒？",
+      "confidence": 0.9
+    },
+    {
+      "id": "e10",
+      "name": "彻底解脱无碍无尽的境界",
+      "canonical_name": "彻底解脱无碍无尽的境界",
+      "type": "概念",
+      "evidence": "又如印度佛教思想那样的彻底解脱无碍无尽的境界，不能不说是人类一种极可宝贵的精神，岂能以“枯坐谈禅妄言玄理”就把人家打倒？",
+      "confidence": 0.9
+    },
+    {
+      "id": "e11",
+      "name": "枯坐谈禅妄言玄理",
+      "canonical_name": "枯坐谈禅妄言玄理",
+      "type": "观点",
+      "evidence": "岂能以“枯坐谈禅妄言玄理”就把人家打倒？",
+      "confidence": 0.8
+    },
+    {
+      "id": "e12",
+      "name": "达尔文",
+      "canonical_name": "达尔文",
+      "type": "人物",
+      "evidence": "在君先生所举达尔文诸人，我们并不说他不是有修养的人，而且我们也希望科学家都是道德家，不过在君先生太看轻东方道德，以为惟有科学的教育，才够得上讲修养。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e13",
+      "name": "东方道德",
+      "canonical_name": "东方道德",
+      "type": "概念",
+      "evidence": "不过在君先生太看轻东方道德，以为惟有科学的教育，才够得上讲修养。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e14",
+      "name": "科学的教育",
+      "canonical_name": "科学的教育",
+      "type": "概念",
+      "evidence": "以为惟有科学的教育，才够得上讲修养。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e15",
+      "name": "修养",
+      "canonical_name": "修养",
+      "type": "概念",
+      "evidence": "以为惟有科学的教育，才够得上讲修养。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e16",
+      "name": "达尔敦（Dalton）",
+      "canonical_name": "达尔敦（Dalton）",
+      "type": "人物",
+      "evidence": "我们也不能不举出一个反证：如达尔敦（Dalton）、波赛里约（Berzelius）之固执，他是个有名的化学家；",
+      "confidence": 0.9
+    },
+    {
+      "id": "e17",
+      "name": "波赛里约（Berzelius）",
+      "canonical_name": "波赛里约（Berzelius）",
+      "type": "人物",
+      "evidence": "我们也不能不举出一个反证：如达尔敦（Dalton）、波赛里约（Berzelius）之固执，他是个有名的化学家；",
+      "confidence": 0.9
+    },
+    {
+      "id": "e18",
+      "name": "在君先生",
+      "canonical_name": "丁在君",
+      "type": "人物",
+      "evidence": "讲到人格上，在君先生也以为只有科学家是好的，欧洲十九世纪几个很有道德的都是大科学家。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e19",
+      "name": "科学家",
+      "canonical_name": "科学家",
+      "type": "阵营/群体",
+      "evidence": "讲到人格上，在君先生也以为只有科学家是好的，欧洲十九世纪几个很有道德的都是大科学家。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e20",
+      "name": "欧洲十九世纪几个很有道德的",
+      "canonical_name": "欧洲十九世纪几个很有道德的",
+      "type": "阵营/群体",
+      "evidence": "欧洲十九世纪几个很有道德的都是大科学家。",
+      "confidence": 0.8
+    },
+    {
+      "id": "e21",
+      "name": "中国人",
+      "canonical_name": "中国人",
+      "type": "阵营/群体",
+      "evidence": "宽大长厚，从容自得，确是我们中国人一种很特别的国民性；",
+      "confidence": 0.9
+    },
+    {
+      "id": "e22",
+      "name": "我们",
+      "canonical_name": "我们",
+      "type": "阵营/群体",
+      "evidence": "我们并不说他不是有修养的人，而且我们也希望科学家都是道德家，不过在君先生太看轻东方道德，以为惟有科学的教育，才够得上讲修养。",
+      "confidence": 0.8
+    },
+    {
+      "id": "e23",
+      "name": "道德家",
+      "canonical_name": "道德家",
+      "type": "阵营/群体",
+      "evidence": "而且我们也希望科学家都是道德家",
+      "confidence": 0.9
+    },
+    {
+      "id": "e24",
+      "name": "反证",
+      "canonical_name": "反证",
+      "type": "论据",
+      "evidence": "我们也不能不举出一个反证：如达尔敦（Dalton）、波赛里约（Berzelius）之固执，他是个有名的化学家；",
+      "confidence": 0.9
+    },
+    {
+      "id": "e25",
+      "name": "固执",
+      "canonical_name": "固执",
+      "type": "评价",
+      "evidence": "如达尔敦（Dalton）、波赛里约（Berzelius）之固执，他是个有名的化学家；",
+      "confidence": 0.9
+    }
+  ],
+  "claims": [
+    {
+      "id": "c1",
+      "speaker": "作者",
+      "claim": "要找出一两个他的人生观完完全全相同的，似乎很不容易。",
+      "target": "人生观",
+      "claim_type": "描述性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "要找出一两个他的人生观完完全全相同的，似乎很不容易。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c2",
+      "speaker": "作者",
+      "claim": "他最为古怪的，尤其在情感的活动，不但主观性非常之重，并且有时连甚么主观非主观都说不上，他是莫名其妙而发动的。",
+      "target": "情感的活动",
+      "claim_type": "描述性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "他最为古怪的，尤其在情感的活动，不但主观性非常之重，并且有时连甚么主观非主观都说不上，他是莫名其妙而发动的。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c3",
+      "speaker": "作者",
+      "claim": "音乐或诗的天才，他的创造意，自己也不能预先安排，他是自然而然由不测之渊涌出来的，人的心他有无尽的源泉。",
+      "target": "音乐或诗的天才",
+      "claim_type": "描述性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "又如音乐或诗的天才，他的创造意，自己也不能预先安排，他是自然而然由不测之渊涌出来的，人的心他有无尽的源泉。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c4",
+      "speaker": "作者",
+      "claim": "愈是有力量的人，他的生活愈矛盾，不用说别的，就是科学家，往往有非科学的理想，这岂不是矛盾已极么？",
+      "target": "有力量的人",
+      "claim_type": "描述性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "还有一层：愈是有力量的人，他的生活愈矛盾，不用说别的，就是科学家，往往有非科学的理想，这岂不是矛盾已极么？",
+      "confidence": 0.9
+    },
+    {
+      "id": "c5",
+      "speaker": "作者",
+      "claim": "一面人生五花八门形成现在这样热闹世界，也就靠这种无所不有的人生观。",
+      "target": "人生观",
+      "claim_type": "因果主张",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "而一面人生五花八门形成现在这样热闹世界，也就靠这种无所不有的人生观。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c6",
+      "speaker": "作者",
+      "claim": "如果科学能够管理这个最古怪的东西，就是世界从此变成单调些，我们也只好愿意的，然而如此不能划一，无从分析，甚有超出感觉的种种心的作用，科学对于这种地方还有甚么权威?",
+      "target": "科学",
+      "claim_type": "反驳性主张",
+      "claim_status": "作者推论",
+      "polarity": "negative",
+      "evidence": "如果科学能够管理这个最古怪的东西，就是世界从此变成单调些，我们也只好愿意的，然而如此不能划一，无从分析，甚有超出感觉的种种心的作用，科学对于这种地方还有甚么权威?",
+      "confidence": 0.9
+    },
+    {
+      "id": "c7",
+      "speaker": "在君先生",
+      "claim": "只有科学家是好的，欧洲十九世纪几个很有道德的都是大科学家。",
+      "target": "科学家",
+      "claim_type": "评价性主张",
+      "claim_status": "间接转述",
+      "polarity": "positive",
+      "evidence": "讲到人格上，在君先生也以为只有科学家是好的，欧洲十九世纪几个很有道德的都是大科学家。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c8",
+      "speaker": "作者",
+      "claim": "这种论调未免太把东方文化的特色抹杀了。",
+      "target": "在君先生",
+      "claim_type": "评价性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "我以为这种论调未免太把东方文化的特色抹杀了。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c9",
+      "speaker": "作者",
+      "claim": "宽大长厚，从容自得，确是我们中国人一种很特别的国民性；",
+      "target": "中国人",
+      "claim_type": "描述性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "宽大长厚，从容自得，确是我们中国人一种很特别的国民性；",
+      "confidence": 0.9
+    },
+    {
+      "id": "c10",
+      "speaker": "作者",
+      "claim": "印度佛教思想那样的彻底解脱无碍无尽的境界，不能不说是人类一种极可宝贵的精神，岂能以“枯坐谈禅妄言玄理”就把人家打倒？",
+      "target": "印度佛教思想",
+      "claim_type": "评价性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "又如印度佛教思想那样的彻底解脱无碍无尽的境界，不能不说是人类一种极可宝贵的精神，岂能以“枯坐谈禅妄言玄理”就把人家打倒？",
+      "confidence": 0.9
+    },
+    {
+      "id": "c11",
+      "speaker": "作者",
+      "claim": "在君先生所举达尔文诸人，我们并不说他不是有修养的人，而且我们也希望科学家都是道德家，不过在君先生太看轻东方道德，以为惟有科学的教育，才够得上讲修养。",
+      "target": "在君先生",
+      "claim_type": "评价性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "mixed",
+      "evidence": "在君先生所举达尔文诸人，我们并不说他不是有修养的人，而且我们也希望科学家都是道德家，不过在君先生太看轻东方道德，以为惟有科学的教育，才够得上讲修养。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c12",
+      "speaker": "在君先生",
+      "claim": "惟有科学的教育，才够得上讲修养。",
+      "target": "科学的教育",
+      "claim_type": "规范性主张",
+      "claim_status": "间接转述",
+      "polarity": "positive",
+      "evidence": "以为惟有科学的教育，才够得上讲修养。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c13",
+      "speaker": "作者",
+      "claim": "我们也不能不举出一个反证：如达尔敦（Dalton）、波赛里约（Berzelius）之固执，他是个有名的化学家；",
+      "target": "在君先生",
+      "claim_type": "反驳性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "我们也不能不举出一个反证：如达尔敦（Dalton）、波赛里约（Berzelius）之固执，他是个有名的化学家；",
+      "confidence": 0.9
+    }
+  ],
+  "relations": [
+    {
+      "id": "r1",
+      "head": "人生观",
+      "head_type": "概念",
+      "relation": "主张",
+      "relation_subtype": "不适用",
+      "tail": "要找出一两个他的人生观完完全全相同的，似乎很不容易。",
+      "tail_type": "观点",
+      "polarity": "neutral",
+      "stance_score": 0.0,
+      "intensity": 0.3,
+      "evidence": "要找出一两个他的人生观完完全全相同的，似乎很不容易。",
+      "confidence": 0.9
+    },
+    {
+      "id": "r2",
+      "head": "情感的活动",
+      "head_type": "概念",
+      "relation": "主张",
+      "relation_subtype": "不适用",
+      "tail": "他最为古怪的，尤其在情感的活动，不但主观性非常之重，并且有时连甚么主观非主观都说不上，他是莫名其妙而发动的。",
+      "tail_type": "观点",
+      "polarity": "neutral",
+      "stance_score": 0.0,
+      "intensity": 0.3,
+      "evidence": "他最为古怪的，尤其在情感的活动，不但主观性非常之重，并且有时连甚么主观非主观都说不上，他是莫名其妙而发动的。",
+      "confidence": 0.9
+    },
+    {
+      "id": "r3",
+      "head": "音乐或诗的天才",
+      "head_type": "概念",
+      "relation": "主张",
+      "relation_subtype": "不适用",
+      "tail": "音乐或诗的天才，他的创造意，自己也不能预先安排，他是自然而然由不测之渊涌出来的，人的心他有无尽的源泉。",
+      "tail_type": "观点",
+      "polarity": "neutral",
+      "stance_score": 0.0,
+      "intensity": 0.3,
+      "evidence": "又如音乐或诗的天才，他的创造意，自己也不能预先安排，他是自然而然由不测之渊涌出来的，人的心他有无尽的源泉。",
+      "confidence": 0.9
+    },
+    {
+      "id": "r4",
+      "head": "有力量的人",
+      "head_type": "概念",
+      "relation": "主张",
+      "relation_subtype": "不适用",
+      "tail": "愈是有力量的人，他的生活愈矛盾，不用说别的，就是科学家，往往有非科学的理想，这岂不是矛盾已极么？",
+      "tail_type": "观点",
+      "polarity": "neutral",
+      "stance_score": 0.0,
+      "intensity": 0.3,
+      "evidence": "还有一层：愈是有力量的人，他的生活愈矛盾，不用说别的，就是科学家，往往有非科学的理想，这岂不是矛盾已极么？",
+      "confidence": 0.9
+    },
+    {
+      "id": "r5",
+      "head": "人生观",
+      "head_type": "概念",
+      "relation": "导致",
+      "relation_subtype": "不适用",
+      "tail": "人生五花八门形成现在这样热闹世界",
+      "tail_type": "观点",
+      "polarity": "neutral",
+      "stance_score": 0.0,
+      "intensity": 0.3,
+      "evidence": "而一面人生五花八门形成现在这样热闹世界，也就靠这种无所不有的人生观。",
+      "confidence": 0.9
+    },
+    {
+      "id": "r6",
+      "head": "科学",
+      "head_type": "概念",
+      "relation": "质疑",
+      "relation_subtype": "事实质疑",
+      "tail": "科学对于这种地方还有甚么权威?",
+      "tail_type": "观点",
+      "polarity": "negative",
+      "stance_score": -0.8,
+      "intensity": 0.8,
+      "evidence": "如果科学能够管理这个最古怪的东西，就是世界从此变成单调些，我们也只好愿意的，然而如此不能划一，无从分析，甚有超出感觉的种种心的作用，科学对于这种地方还有甚么权威?",
+      "confidence": 0.9
+    },
+    {
+      "id": "r7",
+      "head": "在君先生",
+      "head_type": "人物",
+      "relation": "主张",
+      "relation_subtype": "不适用",
+      "tail": "只有科学家是好的，欧洲十九世纪几个很有道德的都是大科学家。",
+      "tail_type": "观点",
+      "polarity": "positive",
+      "stance_score": 1.0,
+      "intensity": 0.5,
+      "evidence": "讲到人格上，在君先生也以为只有科学家是好的，欧洲十九世纪几个很有道德的都是大科学家。",
+      "confidence": 0.9
+    },
+    {
+      "id": "r8",
+      "head": "作者",
+      "head_type": "人物",
+      "relation": "批评",
+      "relation_subtype": "概念混淆批评",
+      "tail": "在君先生",
+      "tail_type": "人物",
+      "polarity": "negative",
+      "stance_score": -0.8,
+      "intensity": 0.7,
+      "evidence": "我以为这种论调未免太把东方文化的特色抹杀了。",
+      "confidence": 0.9
+    },
+    {
+      "id": "r9",
+      "head": "作者",
+      "head_type": "人物",
+      "relation": "主张",
+      "relation_subtype": "不适用",
+      "tail": "宽大长厚，从容自得，确是我们中国人一种很特别的国民性；",
+      "tail_type": "观点",
+      "polarity": "positive",
+      "stance_score": 0.8,
+      "intensity": 0.6,
+      "evidence": "宽大长厚，从容自得，确是我们中国人一种很特别的国民性；",
+      "confidence": 0.9
+    },
+    {
+      "id": "r10",
+      "head": "作者",
+      "head_type": "人物",
+      "relation": "评价",
+      "relation_subtype": "部分肯定",
+      "tail": "印度佛教思想",
+      "tail_type": "主义/学说/理论",
+      "polarity": "positive",
+      "stance_score": 0.9,
+      "intensity": 0.8,
+      "evidence": "又如印度佛教思想那样的彻底解脱无碍无尽的境界，不能不说是人类一种极可宝贵的精神，岂能以“枯坐谈禅妄言玄理”就把人家打倒？",
+      "confidence": 0.9
+    },
+    {
+      "id": "r11",
+      "head": "作者",
+      "head_type": "人物",
+      "relation": "批评",
+      "relation_subtype": "一般批评",
+      "tail": "在君先生",
+      "tail_type": "人物",
+      "polarity": "negative",
+      "stance_score": -0.7,
+      "intensity": 0.6,
+      "evidence": "不过在君先生太看轻东方道德，以为惟有科学的教育，才够得上讲修养。",
+      "confidence": 0.9
+    },
+    {
+      "id": "r12",
+      "head": "在君先生",
+      "head_type": "人物",
+      "relation": "主张",
+      "relation_subtype": "不适用",
+      "tail": "惟有科学的教育，才够得上讲修养。",
+      "tail_type": "观点",
+      "polarity": "positive",
+      "stance_score": 1.0,
+      "intensity": 0.5,
+      "evidence": "以为惟有科学的教育，才够得上讲修养。",
+      "confidence": 0.9
+    },
+    {
+      "id": "r13",
+      "head": "作者",
+      "head_type": "人物",
+      "relation": "反驳",
+      "relation_subtype": "逻辑反驳",
+      "tail": "在君先生",
+      "tail_type": "人物",
+      "polarity": "negative",
+      "stance_score": -0.8,
+      "intensity": 0.7,
+      "evidence": "我们也不能不举出一个反证：如达尔敦（Dalton）、波赛里约（Berzelius）之固执，他是个有名的化学家；",
+      "confidence": 0.9
+    },
+    {
+      "id": "r14",
+      "head": "达尔敦（Dalton）",
+      "head_type": "人物",
+      "relation": "作为反例反驳",
+      "relation_subtype": "不适用",
+      "tail": "在君先生",
+      "tail_type": "人物",
+      "polarity": "negative",
+      "stance_score": -0.8,
+      "intensity": 0.7,
+      "evidence": "我们也不能不举出一个反证：如达尔敦（Dalton）、波赛里约（Berzelius）之固执，他是个有名的化学家；",
+      "confidence": 0.9
+    },
+    {
+      "id": "r15",
+      "head": "波赛里约（Berzelius）",
+      "head_type": "人物",
+      "relation": "作为反例反驳",
+      "relation_subtype": "不适用",
+      "tail": "在君先生",
+      "tail_type": "人物",
+      "polarity": "negative",
+      "stance_score": -0.8,
+      "intensity": 0.7,
+      "evidence": "我们也不能不举出一个反证：如达尔敦（Dalton）、波赛里约（Berzelius）之固执，他是个有名的化学家；",
+      "confidence": 0.9
+    }
+  ],
+  "definitions": [
+    {
+      "id": "def1",
+      "term": "宽大长厚，从容自得",
+      "definition": "中国人一种很特别的国民性",
+      "evidence": "宽大长厚，从容自得，确是我们中国人一种很特别的国民性；",
+      "confidence": 0.9
+    },
+    {
+      "id": "def2",
+      "term": "印度佛教思想",
+      "definition": "彻底解脱无碍无尽的境界，人类一种极可宝贵的精神",
+      "evidence": "又如印度佛教思想那样的彻底解脱无碍无尽的境界，不能不说是人类一种极可宝贵的精神，岂能以“枯坐谈禅妄言玄理”就把人家打倒？",
+      "confidence": 0.9
+    }
+  ],
+  "citations": [
+    {
+      "id": "cit1",
+      "citer": "在君先生",
+      "quoted_author": "",
+      "quoted_work": "",
+      "quoted_claim": "只有科学家是好的，欧洲十九世纪几个很有道德的都是大科学家。",
+      "function": "作为批评对象",
+      "evidence": "讲到人格上，在君先生也以为只有科学家是好的，欧洲十九世纪几个很有道德的都是大科学家。",
+      "confidence": 0.9
+    },
+    {
+      "id": "cit2",
+      "citer": "在君先生",
+      "quoted_author": "",
+      "quoted_work": "",
+      "quoted_claim": "惟有科学的教育，才够得上讲修养。",
+      "function": "作为批评对象",
+      "evidence": "以为惟有科学的教育，才够得上讲修养。",
+      "confidence": 0.9
+    }
+  ],
+  "rhetorical_devices": [
+    {
+      "id": "rh1",
+      "expression": "枯坐谈禅妄言玄理",
+      "device_type": "标签化",
+      "literal_target": "印度佛教思想",
+      "function": "作者引用对手的标签化表述并加以反驳",
+      "evidence": "岂能以“枯坐谈禅妄言玄理”就把人家打倒？",
+      "confidence": 0.9
+    }
+  ],
+  "uncertainties": [
+    {
+      "item": "文本中“他”指代不明，可能指代前文某个人物，但当前片段未明确说明。",
+      "reason": "当前文本片段中“他”出现多次，但未明确指代对象，无法确定具体人物。"
+    },
+    {
+      "item": "“达尔敦（Dalton）、波赛里约（Berzelius）之固执”中“固执”是作者对二人的评价，但未说明具体事例，可能需结合上下文理解。",
+      "reason": "当前文本片段仅提及“固执”，未提供具体事例，无法进一步分析。"
+    }
+  ]
+}

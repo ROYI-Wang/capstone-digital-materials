@@ -1,0 +1,510 @@
+{
+  "metadata": {
+    "schema_version": "lite_v3.0",
+    "article_id": "胡适_001_295ca4dc",
+    "article_title": "附注 答陈独秀先生",
+    "source_author": "胡适",
+    "section_title": "",
+    "section_author": "",
+    "segment_id": "胡适_001_295ca4dc_s0000",
+    "segment_index": 0,
+    "source_file": "E:\\1研究生\\岭南大学\\论文毕业\\capstone\\资料\\新的内容开始了\\local_upload\\input_胡适\\胡适.txt"
+  },
+  "entities": [
+    {
+      "id": "e1",
+      "name": "陈独秀",
+      "canonical_name": "陈独秀",
+      "type": "人物",
+      "evidence": "陈独秀先生在他的序文的结论里说",
+      "confidence": 1.0
+    },
+    {
+      "id": "e2",
+      "name": "唯物的历史观",
+      "canonical_name": "唯物的历史观",
+      "type": "概念",
+      "evidence": "我们相信只有客观的物质原因可以变动社会，可以解释历史，可以支配人生观，这便是‘唯物的历史观’",
+      "confidence": 1.0
+    },
+    {
+      "id": "e3",
+      "name": "丁在君",
+      "canonical_name": "丁在君",
+      "type": "人物",
+      "evidence": "我们现在要请问丁在君先生和胡适之先生",
+      "confidence": 1.0
+    },
+    {
+      "id": "e4",
+      "name": "胡适之",
+      "canonical_name": "胡适之",
+      "type": "人物",
+      "evidence": "我们现在要请问丁在君先生和胡适之先生",
+      "confidence": 1.0
+    },
+    {
+      "id": "e5",
+      "name": "张君劢",
+      "canonical_name": "张君劢",
+      "type": "人物",
+      "evidence": "相信唯物以外像张君劢等类人所主张的唯心观也能够超科学而存在",
+      "confidence": 1.0
+    },
+    {
+      "id": "e6",
+      "name": "唯心观",
+      "canonical_name": "唯心观",
+      "type": "概念",
+      "evidence": "相信唯物以外像张君劢等类人所主张的唯心观也能够超科学而存在",
+      "confidence": 1.0
+    },
+    {
+      "id": "e7",
+      "name": "人生观",
+      "canonical_name": "人生观",
+      "type": "概念",
+      "evidence": "人生观是一个人对于宇宙万物和人类的见解",
+      "confidence": 1.0
+    },
+    {
+      "id": "e8",
+      "name": "历史观",
+      "canonical_name": "历史观",
+      "type": "概念",
+      "evidence": "历史观是“解释历史”的一种见解，是一个人对于历史的见解",
+      "confidence": 1.0
+    },
+    {
+      "id": "e9",
+      "name": "唯物的人生观",
+      "canonical_name": "唯物的人生观",
+      "type": "概念",
+      "evidence": "唯物的人生观是用物质的观念来解释宇宙万物及心理现象",
+      "confidence": 1.0
+    },
+    {
+      "id": "e10",
+      "name": "唯物的历史观",
+      "canonical_name": "唯物的历史观",
+      "type": "概念",
+      "evidence": "唯物的历史观是用“客观的物质原因”来说明历史",
+      "confidence": 1.0
+    },
+    {
+      "id": "e11",
+      "name": "狭义的唯物史观",
+      "canonical_name": "狭义的唯物史观",
+      "type": "概念",
+      "evidence": "狭义的唯物史观则用经济的原因来说明历史",
+      "confidence": 1.0
+    },
+    {
+      "id": "e12",
+      "name": "客观的物质原因",
+      "canonical_name": "客观的物质原因",
+      "type": "概念",
+      "evidence": "我们信不信唯物史观，全靠“客观的物质原因”一个名词怎样解说",
+      "confidence": 1.0
+    },
+    {
+      "id": "e13",
+      "name": "秃头的历史观",
+      "canonical_name": "秃头的历史观",
+      "type": "概念",
+      "evidence": "这就是秃头的历史观，用不着戴什么有色彩的帽子了",
+      "confidence": 1.0
+    },
+    {
+      "id": "e14",
+      "name": "唯物论者",
+      "canonical_name": "唯物论者",
+      "type": "阵营/群体",
+      "evidence": "然而独秀终是一个不彻底的唯物论者",
+      "confidence": 1.0
+    }
+  ],
+  "claims": [
+    {
+      "id": "c1",
+      "speaker": "陈独秀",
+      "claim": "我们相信只有客观的物质原因可以变动社会，可以解释历史，可以支配人生观，这便是‘唯物的历史观’",
+      "target": "",
+      "claim_type": "描述性主张",
+      "claim_status": "直接引用",
+      "polarity": "positive",
+      "evidence": "我们相信只有客观的物质原因可以变动社会，可以解释历史，可以支配人生观，这便是‘唯物的历史观’",
+      "confidence": 1.0
+    },
+    {
+      "id": "c2",
+      "speaker": "陈独秀",
+      "claim": "我们现在要请问丁在君先生和胡适之先生：相信‘唯物的历史观’为完全真理呢，还是相信唯物以外像张君劢等类人所主张的唯心观也能够超科学而存在？",
+      "target": "丁在君, 胡适之",
+      "claim_type": "问题提出",
+      "claim_status": "直接引用",
+      "polarity": "neutral",
+      "evidence": "我们现在要请问丁在君先生和胡适之先生：相信‘唯物的历史观’为完全真理呢，还是相信唯物以外像张君劢等类人所主张的唯心观也能够超科学而存在？",
+      "confidence": 1.0
+    },
+    {
+      "id": "c3",
+      "speaker": "胡适",
+      "claim": "独秀说的是一种“历史观”，而我们讨论的是“人生观”",
+      "target": "陈独秀",
+      "claim_type": "对比性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "独秀说的是一种“历史观”，而我们讨论的是“人生观”",
+      "confidence": 1.0
+    },
+    {
+      "id": "c4",
+      "speaker": "胡适",
+      "claim": "历史观只是人生观的一部分",
+      "target": "",
+      "claim_type": "定义性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "历史观只是人生观的一部分",
+      "confidence": 1.0
+    },
+    {
+      "id": "c5",
+      "speaker": "胡适",
+      "claim": "我们信不信唯物史观，全靠“客观的物质原因”一个名词怎样解说",
+      "target": "",
+      "claim_type": "描述性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "我们信不信唯物史观，全靠“客观的物质原因”一个名词怎样解说",
+      "confidence": 1.0
+    },
+    {
+      "id": "c6",
+      "speaker": "胡适",
+      "claim": "独秀自己也不曾说的十分明白",
+      "target": "陈独秀",
+      "claim_type": "评价性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "我觉得独秀自己也不曾说的十分明白",
+      "confidence": 1.0
+    },
+    {
+      "id": "c7",
+      "speaker": "胡适",
+      "claim": "独秀在这篇序里曾说，“心即是物之一种表现”",
+      "target": "陈独秀",
+      "claim_type": "描述性主张",
+      "claim_status": "间接转述",
+      "polarity": "neutral",
+      "evidence": "独秀在这篇序里曾说，“心即是物之一种表现”（序页十）",
+      "confidence": 1.0
+    },
+    {
+      "id": "c8",
+      "speaker": "胡适",
+      "claim": "“客观的物质原因”似乎应该包括一切“心的”原因了，——即是智识、思想、言论、教育等事",
+      "target": "",
+      "claim_type": "定义性主张",
+      "claim_status": "作者推论",
+      "polarity": "neutral",
+      "evidence": "那么，“客观的物质原因”似乎应该包括一切“心的”原因了，——即是智识、思想、言论、教育等事",
+      "confidence": 1.0
+    },
+    {
+      "id": "c9",
+      "speaker": "胡适",
+      "claim": "这样解释起来，独秀的历史观就成了“只有客观的原因（包括经济组织、知识、思想等等）可以变动社会，可以解释历史，可以支配人生观”",
+      "target": "陈独秀",
+      "claim_type": "描述性主张",
+      "claim_status": "作者推论",
+      "polarity": "neutral",
+      "evidence": "这样解释起来，独秀的历史观就成了“只有客观的原因（包括经济组织、知识、思想等等）可以变动社会，可以解释历史，可以支配人生观”",
+      "confidence": 1.0
+    },
+    {
+      "id": "c10",
+      "speaker": "胡适",
+      "claim": "这就是秃头的历史观，用不着戴什么有色彩的帽子了",
+      "target": "陈独秀",
+      "claim_type": "评价性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "mixed",
+      "evidence": "这就是秃头的历史观，用不着戴什么有色彩的帽子了",
+      "confidence": 1.0
+    },
+    {
+      "id": "c11",
+      "speaker": "胡适",
+      "claim": "这种历史观，我和丁在君都可以赞成的",
+      "target": "",
+      "claim_type": "评价性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "这种历史观，我和丁在君都可以赞成的",
+      "confidence": 1.0
+    },
+    {
+      "id": "c12",
+      "speaker": "胡适",
+      "claim": "独秀终是一个不彻底的唯物论者",
+      "target": "陈独秀",
+      "claim_type": "评价性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "然而独秀终是一个不彻底的唯物论者",
+      "confidence": 1.0
+    }
+  ],
+  "relations": [
+    {
+      "id": "r1",
+      "head": "陈独秀",
+      "head_type": "人物",
+      "relation": "主张",
+      "relation_subtype": "不适用",
+      "tail": "我们相信只有客观的物质原因可以变动社会，可以解释历史，可以支配人生观，这便是‘唯物的历史观’",
+      "tail_type": "观点",
+      "polarity": "positive",
+      "stance_score": 1.0,
+      "intensity": 0.8,
+      "evidence": "陈独秀先生在他的序文的结论里说：> “我们相信只有客观的物质原因可以变动社会，可以解释历史，可以支配人生观，这便是‘唯物的历史观’",
+      "confidence": 1.0
+    },
+    {
+      "id": "r2",
+      "head": "陈独秀",
+      "head_type": "人物",
+      "relation": "质疑",
+      "relation_subtype": "事实质疑",
+      "tail": "丁在君",
+      "tail_type": "人物",
+      "polarity": "neutral",
+      "stance_score": 0.0,
+      "intensity": 0.5,
+      "evidence": "我们现在要请问丁在君先生和胡适之先生：相信‘唯物的历史观’为完全真理呢，还是相信唯物以外像张君劢等类人所主张的唯心观也能够超科学而存在？",
+      "confidence": 1.0
+    },
+    {
+      "id": "r3",
+      "head": "陈独秀",
+      "head_type": "人物",
+      "relation": "质疑",
+      "relation_subtype": "事实质疑",
+      "tail": "胡适之",
+      "tail_type": "人物",
+      "polarity": "neutral",
+      "stance_score": 0.0,
+      "intensity": 0.5,
+      "evidence": "我们现在要请问丁在君先生和胡适之先生：相信‘唯物的历史观’为完全真理呢，还是相信唯物以外像张君劢等类人所主张的唯心观也能够超科学而存在？",
+      "confidence": 1.0
+    },
+    {
+      "id": "r4",
+      "head": "胡适",
+      "head_type": "人物",
+      "relation": "回应",
+      "relation_subtype": "概念澄清",
+      "tail": "陈独秀",
+      "tail_type": "人物",
+      "polarity": "negative",
+      "stance_score": -0.5,
+      "intensity": 0.6,
+      "evidence": "独秀说的是一种“历史观”，而我们讨论的是“人生观”",
+      "confidence": 1.0
+    },
+    {
+      "id": "r5",
+      "head": "胡适",
+      "head_type": "人物",
+      "relation": "区分",
+      "relation_subtype": "概念澄清",
+      "tail": "历史观",
+      "tail_type": "概念",
+      "polarity": "neutral",
+      "stance_score": 0.0,
+      "intensity": 0.5,
+      "evidence": "独秀说的是一种“历史观”，而我们讨论的是“人生观”",
+      "confidence": 1.0
+    },
+    {
+      "id": "r6",
+      "head": "历史观",
+      "head_type": "概念",
+      "relation": "属于",
+      "relation_subtype": "不适用",
+      "tail": "人生观",
+      "tail_type": "概念",
+      "polarity": "neutral",
+      "stance_score": 0.0,
+      "intensity": 0.3,
+      "evidence": "历史观只是人生观的一部分",
+      "confidence": 1.0
+    },
+    {
+      "id": "r7",
+      "head": "胡适",
+      "head_type": "人物",
+      "relation": "批评",
+      "relation_subtype": "证据不足批评",
+      "tail": "陈独秀",
+      "tail_type": "人物",
+      "polarity": "negative",
+      "stance_score": -0.6,
+      "intensity": 0.5,
+      "evidence": "我觉得独秀自己也不曾说的十分明白",
+      "confidence": 1.0
+    },
+    {
+      "id": "r8",
+      "head": "胡适",
+      "head_type": "人物",
+      "relation": "引用",
+      "relation_subtype": "援引权威",
+      "tail": "陈独秀",
+      "tail_type": "人物",
+      "polarity": "neutral",
+      "stance_score": 0.0,
+      "intensity": 0.3,
+      "evidence": "独秀在这篇序里曾说，“心即是物之一种表现”（序页十）",
+      "confidence": 1.0
+    },
+    {
+      "id": "r9",
+      "head": "胡适",
+      "head_type": "人物",
+      "relation": "重新定义",
+      "relation_subtype": "概念澄清",
+      "tail": "客观的物质原因",
+      "tail_type": "概念",
+      "polarity": "neutral",
+      "stance_score": 0.0,
+      "intensity": 0.5,
+      "evidence": "那么，“客观的物质原因”似乎应该包括一切“心的”原因了，——即是智识、思想、言论、教育等事",
+      "confidence": 1.0
+    },
+    {
+      "id": "r10",
+      "head": "胡适",
+      "head_type": "人物",
+      "relation": "评价",
+      "relation_subtype": "部分肯定",
+      "tail": "陈独秀",
+      "tail_type": "人物",
+      "polarity": "mixed",
+      "stance_score": 0.3,
+      "intensity": 0.6,
+      "evidence": "这就是秃头的历史观，用不着戴什么有色彩的帽子了。这种历史观，我和丁在君都可以赞成的",
+      "confidence": 1.0
+    },
+    {
+      "id": "r11",
+      "head": "胡适",
+      "head_type": "人物",
+      "relation": "批评",
+      "relation_subtype": "一般批评",
+      "tail": "陈独秀",
+      "tail_type": "人物",
+      "polarity": "negative",
+      "stance_score": -0.7,
+      "intensity": 0.7,
+      "evidence": "然而独秀终是一个不彻底的唯物论者",
+      "confidence": 1.0
+    }
+  ],
+  "definitions": [
+    {
+      "id": "def1",
+      "term": "人生观",
+      "definition": "人生观是一个人对于宇宙万物和人类的见解",
+      "evidence": "人生观是一个人对于宇宙万物和人类的见解",
+      "confidence": 1.0
+    },
+    {
+      "id": "def2",
+      "term": "历史观",
+      "definition": "历史观是“解释历史”的一种见解，是一个人对于历史的见解",
+      "evidence": "历史观是“解释历史”的一种见解，是一个人对于历史的见解",
+      "confidence": 1.0
+    },
+    {
+      "id": "def3",
+      "term": "唯物的人生观",
+      "definition": "唯物的人生观是用物质的观念来解释宇宙万物及心理现象",
+      "evidence": "唯物的人生观是用物质的观念来解释宇宙万物及心理现象",
+      "confidence": 1.0
+    },
+    {
+      "id": "def4",
+      "term": "唯物的历史观",
+      "definition": "唯物的历史观是用“客观的物质原因”来说明历史",
+      "evidence": "唯物的历史观是用“客观的物质原因”来说明历史",
+      "confidence": 1.0
+    },
+    {
+      "id": "def5",
+      "term": "狭义的唯物史观",
+      "definition": "狭义的唯物史观则用经济的原因来说明历史",
+      "evidence": "狭义的唯物史观则用经济的原因来说明历史",
+      "confidence": 1.0
+    },
+    {
+      "id": "def6",
+      "term": "秃头的历史观",
+      "definition": "秃头的历史观是指将客观物质原因解释为包括经济组织、知识、思想等一切原因的历史观",
+      "evidence": "这就是秃头的历史观，用不着戴什么有色彩的帽子了",
+      "confidence": 0.8
+    }
+  ],
+  "citations": [
+    {
+      "id": "cit1",
+      "citer": "胡适",
+      "quoted_author": "陈独秀",
+      "quoted_work": "序",
+      "quoted_claim": "我们相信只有客观的物质原因可以变动社会，可以解释历史，可以支配人生观，这便是‘唯物的历史观’",
+      "function": "作为批评对象",
+      "evidence": "陈独秀先生在他的序文的结论里说：> “我们相信只有客观的物质原因可以变动社会，可以解释历史，可以支配人生观，这便是‘唯物的历史观’",
+      "confidence": 1.0
+    },
+    {
+      "id": "cit2",
+      "citer": "胡适",
+      "quoted_author": "陈独秀",
+      "quoted_work": "序",
+      "quoted_claim": "我们现在要请问丁在君先生和胡适之先生：相信‘唯物的历史观’为完全真理呢，还是相信唯物以外像张君劢等类人所主张的唯心观也能够超科学而存在？",
+      "function": "作为批评对象",
+      "evidence": "我们现在要请问丁在君先生和胡适之先生：相信‘唯物的历史观’为完全真理呢，还是相信唯物以外像张君劢等类人所主张的唯心观也能够超科学而存在？",
+      "confidence": 1.0
+    },
+    {
+      "id": "cit3",
+      "citer": "胡适",
+      "quoted_author": "陈独秀",
+      "quoted_work": "序",
+      "quoted_claim": "心即是物之一种表现",
+      "function": "援引权威支持",
+      "evidence": "独秀在这篇序里曾说，“心即是物之一种表现”（序页十）",
+      "confidence": 1.0
+    }
+  ],
+  "rhetorical_devices": [
+    {
+      "id": "rh1",
+      "expression": "秃头的历史观，用不着戴什么有色彩的帽子了",
+      "device_type": "比喻",
+      "literal_target": "陈独秀的唯物史观",
+      "function": "用比喻形象地说明这种历史观是中性、无特定色彩的，暗示其普遍性",
+      "evidence": "这就是秃头的历史观，用不着戴什么有色彩的帽子了",
+      "confidence": 1.0
+    }
+  ],
+  "uncertainties": [
+    {
+      "item": "“秃头的历史观”是否属于胡适对陈独秀观点的重新定义或讽刺性归纳",
+      "reason": "文本中胡适用比喻表达，但未明确说明是重新定义还是讽刺，需结合上下文判断"
+    }
+  ]
+}

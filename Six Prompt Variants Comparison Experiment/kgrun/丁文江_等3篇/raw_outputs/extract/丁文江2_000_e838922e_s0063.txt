@@ -1,0 +1,527 @@
+{
+  "metadata": {
+    "schema_version": "lite_v2.0",
+    "article_id": "丁文江2_000_e838922e",
+    "article_title": "玄学与科学——答张君劢",
+    "source_author": "丁文江",
+    "section_title": "",
+    "section_author": "",
+    "segment_id": "丁文江2_000_e838922e_s0063",
+    "segment_index": 63,
+    "source_file": "E:\\1研究生\\岭南大学\\论文毕业\\capstone\\资料\\新的内容开始了\\local_upload\\input_texts\\丁文江2.txt"
+  },
+  "entities": [
+    {
+      "id": "e1",
+      "name": "人生观",
+      "canonical_name": "人生观",
+      "type": "概念",
+      "evidence": "我始终没有给人生观下定义；我第一篇文章所讲的“人生观”是君劢清华讲演的九条，这一篇所讲的是照君劢答词里面的定义。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e2",
+      "name": "君劢",
+      "canonical_name": "张君劢",
+      "type": "人物",
+      "evidence": "君劢清华讲演的九条",
+      "confidence": 1.0
+    },
+    {
+      "id": "e3",
+      "name": "精神",
+      "canonical_name": "精神",
+      "type": "概念",
+      "evidence": "用精神与物质、内与外、我与非我来讲人生观",
+      "confidence": 1.0
+    },
+    {
+      "id": "e4",
+      "name": "物质",
+      "canonical_name": "物质",
+      "type": "概念",
+      "evidence": "用精神与物质、内与外、我与非我来讲人生观",
+      "confidence": 1.0
+    },
+    {
+      "id": "e5",
+      "name": "内",
+      "canonical_name": "内",
+      "type": "概念",
+      "evidence": "用精神与物质、内与外、我与非我来讲人生观",
+      "confidence": 1.0
+    },
+    {
+      "id": "e6",
+      "name": "外",
+      "canonical_name": "外",
+      "type": "概念",
+      "evidence": "用精神与物质、内与外、我与非我来讲人生观",
+      "confidence": 1.0
+    },
+    {
+      "id": "e7",
+      "name": "我",
+      "canonical_name": "我",
+      "type": "概念",
+      "evidence": "用精神与物质、内与外、我与非我来讲人生观",
+      "confidence": 1.0
+    },
+    {
+      "id": "e8",
+      "name": "非我",
+      "canonical_name": "非我",
+      "type": "概念",
+      "evidence": "用精神与物质、内与外、我与非我来讲人生观",
+      "confidence": 1.0
+    },
+    {
+      "id": "e9",
+      "name": "知识",
+      "canonical_name": "知识",
+      "type": "概念",
+      "evidence": "他的两种人生观都不是能离开知识的",
+      "confidence": 1.0
+    },
+    {
+      "id": "e10",
+      "name": "科学方法",
+      "canonical_name": "科学方法",
+      "type": "方法",
+      "evidence": "在知识界内科学方法万能。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e11",
+      "name": "情感",
+      "canonical_name": "情感",
+      "type": "概念",
+      "evidence": "知识界外还有情感。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e12",
+      "name": "美术",
+      "canonical_name": "美术",
+      "type": "概念",
+      "evidence": "情感界内的美术、宗教都是从人类天性来的",
+      "confidence": 1.0
+    },
+    {
+      "id": "e13",
+      "name": "宗教",
+      "canonical_name": "宗教",
+      "type": "概念",
+      "evidence": "情感界内的美术、宗教都是从人类天性来的",
+      "confidence": 1.0
+    },
+    {
+      "id": "e14",
+      "name": "人类天性",
+      "canonical_name": "人类天性",
+      "type": "概念",
+      "evidence": "情感界内的美术、宗教都是从人类天性来的",
+      "confidence": 1.0
+    },
+    {
+      "id": "e15",
+      "name": "演化生存",
+      "canonical_name": "演化生存",
+      "type": "概念",
+      "evidence": "都是演化生存的结果。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e16",
+      "name": "环境",
+      "canonical_name": "环境",
+      "type": "概念",
+      "evidence": "情感完全由于天赋，而发展全靠环境",
+      "confidence": 1.0
+    },
+    {
+      "id": "e17",
+      "name": "天赋",
+      "canonical_name": "天赋",
+      "type": "概念",
+      "evidence": "情感完全由于天赋，而发展全靠环境",
+      "confidence": 1.0
+    },
+    {
+      "id": "e18",
+      "name": "后天",
+      "canonical_name": "后天",
+      "type": "概念",
+      "evidence": "知识大半得之后天",
+      "confidence": 1.0
+    },
+    {
+      "id": "e19",
+      "name": "遗传",
+      "canonical_name": "遗传",
+      "type": "概念",
+      "evidence": "而原动仍在遗传",
+      "confidence": 1.0
+    }
+  ],
+  "claims": [
+    {
+      "id": "c1",
+      "speaker": "丁文江",
+      "claim": "我始终没有给人生观下定义",
+      "target": "",
+      "claim_type": "方法论主张",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "我始终没有给人生观下定义",
+      "confidence": 1.0
+    },
+    {
+      "id": "c2",
+      "speaker": "丁文江",
+      "claim": "君劢的定义是不能适用的",
+      "target": "张君劢",
+      "claim_type": "反驳性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "我已经证明君劢的定义是不能适用的",
+      "confidence": 1.0
+    },
+    {
+      "id": "c3",
+      "speaker": "丁文江",
+      "claim": "用精神与物质、内与外、我与非我来讲人生观，越讲越不明白",
+      "target": "张君劢",
+      "claim_type": "反驳性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "因为用精神与物质、内与外、我与非我来讲人生观，越讲越不明白",
+      "confidence": 1.0
+    },
+    {
+      "id": "c4",
+      "speaker": "丁文江",
+      "claim": "精神不能离物质而独立",
+      "target": "",
+      "claim_type": "本体论主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "因为精神不能离物质而独立",
+      "confidence": 1.0
+    },
+    {
+      "id": "c5",
+      "speaker": "丁文江",
+      "claim": "内不能同外分家",
+      "target": "",
+      "claim_type": "本体论主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "内不能同外分家",
+      "confidence": 1.0
+    },
+    {
+      "id": "c6",
+      "speaker": "丁文江",
+      "claim": "他所说的“我”是不是真有的还是一个疑问",
+      "target": "张君劢",
+      "claim_type": "反驳性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "他所说的“我”是不是真有的还是一个疑问",
+      "confidence": 1.0
+    },
+    {
+      "id": "c7",
+      "speaker": "丁文江",
+      "claim": "他的两种人生观都不是能离开知识的",
+      "target": "张君劢",
+      "claim_type": "反驳性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "他的两种人生观都不是能离开知识的",
+      "confidence": 1.0
+    },
+    {
+      "id": "c8",
+      "speaker": "丁文江",
+      "claim": "在知识界内科学方法万能",
+      "target": "",
+      "claim_type": "知识论主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "在知识界内科学方法万能。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c9",
+      "speaker": "丁文江",
+      "claim": "知识界外还有情感",
+      "target": "",
+      "claim_type": "知识论主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "知识界外还有情感。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c10",
+      "speaker": "丁文江",
+      "claim": "情感界内的美术、宗教都是从人类天性来的，都是演化生存的结果",
+      "target": "",
+      "claim_type": "本体论主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "情感界内的美术、宗教都是从人类天性来的，都是演化生存的结果。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c11",
+      "speaker": "丁文江",
+      "claim": "情感是知识的原动，知识是情感的向导；谁也不能放弃谁",
+      "target": "",
+      "claim_type": "知识论主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "情感是知识的原动，知识是情感的向导；谁也不能放弃谁。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c12",
+      "speaker": "丁文江",
+      "claim": "一个人的人生观是他的知识情感，同他对于知识情感的态度",
+      "target": "",
+      "claim_type": "定义性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "我现在斗胆给人生观下一个定义：“一个人的人生观是他的知识情感，同他对于知识情感的态度。”",
+      "confidence": 1.0
+    },
+    {
+      "id": "c13",
+      "speaker": "丁文江",
+      "claim": "情感完全由于天赋，而发展全靠环境",
+      "target": "",
+      "claim_type": "本体论主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "情感完全由于天赋，而发展全靠环境",
+      "confidence": 1.0
+    },
+    {
+      "id": "c14",
+      "speaker": "丁文江",
+      "claim": "知识大半得之后天，而原动仍在遗传",
+      "target": "",
+      "claim_type": "本体论主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "知识大半得之后天，而原动仍在遗传",
+      "confidence": 1.0
+    }
+  ],
+  "relations": [
+    {
+      "id": "r1",
+      "head": "丁文江",
+      "head_type": "人物",
+      "relation": "批评",
+      "relation_subtype": "概念混淆批评",
+      "tail": "张君劢",
+      "tail_type": "人物",
+      "polarity": "negative",
+      "evidence": "我已经证明君劢的定义是不能适用的，因为用精神与物质、内与外、我与非我来讲人生观，越讲越不明白",
+      "confidence": 1.0
+    },
+    {
+      "id": "r2",
+      "head": "精神",
+      "head_type": "概念",
+      "relation": "不能离开",
+      "relation_subtype": "不适用",
+      "tail": "物质",
+      "tail_type": "概念",
+      "polarity": "positive",
+      "evidence": "因为精神不能离物质而独立",
+      "confidence": 1.0
+    },
+    {
+      "id": "r3",
+      "head": "内",
+      "head_type": "概念",
+      "relation": "不能分家",
+      "relation_subtype": "不适用",
+      "tail": "外",
+      "tail_type": "概念",
+      "polarity": "positive",
+      "evidence": "内不能同外分家",
+      "confidence": 1.0
+    },
+    {
+      "id": "r4",
+      "head": "丁文江",
+      "head_type": "人物",
+      "relation": "质疑",
+      "relation_subtype": "事实质疑",
+      "tail": "张君劢",
+      "tail_type": "人物",
+      "polarity": "negative",
+      "evidence": "他所说的“我”是不是真有的还是一个疑问",
+      "confidence": 1.0
+    },
+    {
+      "id": "r5",
+      "head": "丁文江",
+      "head_type": "人物",
+      "relation": "批评",
+      "relation_subtype": "逻辑反驳",
+      "tail": "张君劢",
+      "tail_type": "人物",
+      "polarity": "negative",
+      "evidence": "他的两种人生观都不是能离开知识的",
+      "confidence": 1.0
+    },
+    {
+      "id": "r6",
+      "head": "科学方法",
+      "head_type": "方法",
+      "relation": "属于",
+      "relation_subtype": "不适用",
+      "tail": "知识界",
+      "tail_type": "概念",
+      "polarity": "positive",
+      "evidence": "在知识界内科学方法万能。",
+      "confidence": 1.0
+    },
+    {
+      "id": "r7",
+      "head": "情感",
+      "head_type": "概念",
+      "relation": "导致",
+      "relation_subtype": "不适用",
+      "tail": "知识",
+      "tail_type": "概念",
+      "polarity": "positive",
+      "evidence": "情感是知识的原动",
+      "confidence": 1.0
+    },
+    {
+      "id": "r8",
+      "head": "知识",
+      "head_type": "概念",
+      "relation": "导致",
+      "relation_subtype": "不适用",
+      "tail": "情感",
+      "tail_type": "概念",
+      "polarity": "positive",
+      "evidence": "知识是情感的向导",
+      "confidence": 1.0
+    },
+    {
+      "id": "r9",
+      "head": "情感",
+      "head_type": "概念",
+      "relation": "归因于",
+      "relation_subtype": "不适用",
+      "tail": "天赋",
+      "tail_type": "概念",
+      "polarity": "positive",
+      "evidence": "情感完全由于天赋",
+      "confidence": 1.0
+    },
+    {
+      "id": "r10",
+      "head": "情感",
+      "head_type": "概念",
+      "relation": "归因于",
+      "relation_subtype": "不适用",
+      "tail": "环境",
+      "tail_type": "概念",
+      "polarity": "positive",
+      "evidence": "而发展全靠环境",
+      "confidence": 1.0
+    },
+    {
+      "id": "r11",
+      "head": "知识",
+      "head_type": "概念",
+      "relation": "归因于",
+      "relation_subtype": "不适用",
+      "tail": "后天",
+      "tail_type": "概念",
+      "polarity": "positive",
+      "evidence": "知识大半得之后天",
+      "confidence": 1.0
+    },
+    {
+      "id": "r12",
+      "head": "知识",
+      "head_type": "概念",
+      "relation": "归因于",
+      "relation_subtype": "不适用",
+      "tail": "遗传",
+      "tail_type": "概念",
+      "polarity": "positive",
+      "evidence": "而原动仍在遗传",
+      "confidence": 1.0
+    }
+  ],
+  "definitions": [
+    {
+      "id": "def1",
+      "term": "人生观",
+      "definition": "一个人的人生观是他的知识情感，同他对于知识情感的态度",
+      "evidence": "我现在斗胆给人生观下一个定义：“一个人的人生观是他的知识情感，同他对于知识情感的态度。”",
+      "confidence": 1.0
+    }
+  ],
+  "citations": [
+    {
+      "id": "cit1",
+      "citer": "丁文江",
+      "quoted_author": "张君劢",
+      "quoted_work": "",
+      "quoted_claim": "用精神与物质、内与外、我与非我来讲人生观",
+      "function": "作为批评对象",
+      "evidence": "用精神与物质、内与外、我与非我来讲人生观",
+      "confidence": 1.0
+    },
+    {
+      "id": "cit2",
+      "citer": "丁文江",
+      "quoted_author": "张君劢",
+      "quoted_work": "",
+      "quoted_claim": "他所说的“我”",
+      "function": "作为批评对象",
+      "evidence": "他所说的“我”是不是真有的还是一个疑问",
+      "confidence": 1.0
+    },
+    {
+      "id": "cit3",
+      "citer": "丁文江",
+      "quoted_author": "张君劢",
+      "quoted_work": "",
+      "quoted_claim": "他的两种人生观",
+      "function": "作为批评对象",
+      "evidence": "他的两种人生观都不是能离开知识的",
+      "confidence": 1.0
+    }
+  ],
+  "rhetorical_devices": [
+    {
+      "id": "rh1",
+      "expression": "斗胆",
+      "device_type": "反语",
+      "literal_target": "丁文江自己",
+      "function": "以自谦反语强调下定义的勇气，增强说服力",
+      "evidence": "我现在斗胆给人生观下一个定义",
+      "confidence": 1.0
+    }
+  ],
+  "uncertainties": [
+    {
+      "item": "“善的技能！”这一句是否属于当前文本片段的一部分，以及其含义和功能",
+      "reason": "该句出现在文本开头，但上下文不完整，无法判断其与后续内容的关联"
+    }
+  ]
+}

@@ -1,0 +1,474 @@
+{
+  "metadata": {
+    "schema_version": "lite_v2.0",
+    "article_id": "陈独秀_001_d263aca8",
+    "article_title": "答适之",
+    "source_author": "陈独秀",
+    "section_title": "方今国中竟言新文化，而文化转移之枢纽，不外乎人生观。吾有吾之文化，西洋有西洋之文化。西洋之有益者如何采之，有害者如何革除之；凡此取舍之间，皆决之于观点。观点定，而后精神上之思潮、物质上之制度，乃可按",
+    "section_author": "方今国中竟言新文化，而文化转移之枢纽，不外乎人生观。吾有吾之文化，西洋有西洋之文化。西洋之有益者如何采之，有害者如何革除之；凡此取舍之间，皆决之于观点。观点定，而后精神上之思潮、物质上之制度，乃可",
+    "segment_id": "陈独秀_001_d263aca8_s0008",
+    "segment_index": 8,
+    "source_file": "E:\\1研究生\\岭南大学\\论文毕业\\capstone\\资料\\新的内容开始了\\local_upload\\input_w2\\陈独秀.txt"
+  },
+  "entities": [
+    {
+      "id": "e1",
+      "name": "科学",
+      "canonical_name": "科学",
+      "type": "概念",
+      "evidence": "然科学之中，亦分二项：曰精神科学，曰物质科学。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e2",
+      "name": "人生观",
+      "canonical_name": "人生观",
+      "type": "概念",
+      "evidence": "若夫人生观则反是：孔子之行健与老子之无为，其所见异焉；",
+      "confidence": 1.0
+    },
+    {
+      "id": "e3",
+      "name": "孔子",
+      "canonical_name": "孔子",
+      "type": "人物",
+      "evidence": "孔子之行健与老子之无为，其所见异焉；",
+      "confidence": 1.0
+    },
+    {
+      "id": "e4",
+      "name": "老子",
+      "canonical_name": "老子",
+      "type": "人物",
+      "evidence": "孔子之行健与老子之无为，其所见异焉；",
+      "confidence": 1.0
+    },
+    {
+      "id": "e5",
+      "name": "孟子",
+      "canonical_name": "孟子",
+      "type": "人物",
+      "evidence": "孟子之性善与荀子之性恶，其所见异焉；",
+      "confidence": 1.0
+    },
+    {
+      "id": "e6",
+      "name": "荀子",
+      "canonical_name": "荀子",
+      "type": "人物",
+      "evidence": "孟子之性善与荀子之性恶，其所见异焉；",
+      "confidence": 1.0
+    },
+    {
+      "id": "e7",
+      "name": "杨朱",
+      "canonical_name": "杨朱",
+      "type": "人物",
+      "evidence": "杨朱之为我与墨子之兼爱，其所见异焉；",
+      "confidence": 1.0
+    },
+    {
+      "id": "e8",
+      "name": "墨子",
+      "canonical_name": "墨子",
+      "type": "人物",
+      "evidence": "杨朱之为我与墨子之兼爱，其所见异焉；",
+      "confidence": 1.0
+    },
+    {
+      "id": "e9",
+      "name": "康德",
+      "canonical_name": "康德",
+      "type": "人物",
+      "evidence": "康德之义务观念与边沁之功利主义，其所见异焉；",
+      "confidence": 1.0
+    },
+    {
+      "id": "e10",
+      "name": "边沁",
+      "canonical_name": "边沁",
+      "type": "人物",
+      "evidence": "康德之义务观念与边沁之功利主义，其所见异焉；",
+      "confidence": 1.0
+    },
+    {
+      "id": "e11",
+      "name": "科学之方法",
+      "canonical_name": "科学方法",
+      "type": "方法",
+      "evidence": "科学之方法有二：一曰演绎的，一曰归纳的。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e12",
+      "name": "演绎的",
+      "canonical_name": "演绎法",
+      "type": "方法",
+      "evidence": "科学之方法有二：一曰演绎的，一曰归纳的。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e13",
+      "name": "归纳的",
+      "canonical_name": "归纳法",
+      "type": "方法",
+      "evidence": "科学之方法有二：一曰演绎的，一曰归纳的。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e14",
+      "name": "直觉",
+      "canonical_name": "直觉",
+      "type": "概念",
+      "evidence": "而人生观则起于直觉。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e15",
+      "name": "客观的",
+      "canonical_name": "客观性",
+      "type": "概念",
+      "evidence": "故不失为客观的也。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e16",
+      "name": "主观的",
+      "canonical_name": "主观性",
+      "type": "概念",
+      "evidence": "以其为主观的故也。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e17",
+      "name": "公例",
+      "canonical_name": "公例",
+      "type": "概念",
+      "evidence": "则亦未尝无公例可求，故不失为客观的也。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e18",
+      "name": "论理的方法",
+      "canonical_name": "逻辑方法",
+      "type": "方法",
+      "evidence": "科学为论理的方法所支配，而人生观则起于直觉。",
+      "confidence": 1.0
+    }
+  ],
+  "claims": [
+    {
+      "id": "c1",
+      "speaker": "陈独秀",
+      "claim": "科学之中，亦分二项：曰精神科学，曰物质科学。",
+      "target": "科学",
+      "claim_type": "定义性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "然科学之中，亦分二项：曰精神科学，曰物质科学。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c2",
+      "speaker": "陈独秀",
+      "claim": "物质科学之客观效力，最为圆满；至于精神科学次之。",
+      "target": "科学",
+      "claim_type": "知识论主张",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "物质科学之客观效力，最为圆满；至于精神科学次之。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c3",
+      "speaker": "陈独秀",
+      "claim": "即以精神科学论，就一般现象而求其平均数，则亦未尝无公例可求，故不失为客观的也。",
+      "target": "精神科学",
+      "claim_type": "知识论主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "然即以精神科学论，就一般现象而求其平均数，则亦未尝无公例可求，故不失为客观的也。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c4",
+      "speaker": "陈独秀",
+      "claim": "若夫人生观则反是：孔子之行健与老子之无为，其所见异焉；孟子之性善与荀子之性恶，其所见异焉；杨朱之为我与墨子之兼爱，其所见异焉；康德之义务观念与边沁之功利主义，其所见异焉；达尔文之生存竞争论与哥罗巴金之互助主义，其所见异焉。凡此诸家之言，是非各执，绝不能施以一种试验，以证甲之是与乙之非。何也？以其为人生观故也，以其为主观的故也。",
+      "target": "人生观",
+      "claim_type": "知识论主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "若夫人生观则反是：孔子之行健与老子之无为，其所见异焉；孟子之性善与荀子之性恶，其所见异焉；杨朱之为我与墨子之兼爱，其所见异焉；康德之义务观念与边沁之功利主义，其所见异焉；达尔文之生存竞争论与哥罗巴金之互助主义，其所见异焉。凡此诸家之言，是非各执，绝不能施以一种试验，以证甲之是与乙之非。何也？以其为人生观故也，以其为主观的故也。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c5",
+      "speaker": "陈独秀",
+      "claim": "科学为论理的方法所支配，而人生观则起于直觉。",
+      "target": "科学",
+      "claim_type": "知识论主张",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "第二，科学为论理的方法所支配，而人生观则起于直觉。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c6",
+      "speaker": "陈独秀",
+      "claim": "科学之方法有二：一曰演绎的，一曰归纳的。",
+      "target": "科学之方法",
+      "claim_type": "定义性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "科学之方法有二：一曰演绎的，一曰归纳的。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c7",
+      "speaker": "陈独秀",
+      "claim": "归纳的者，先聚若干种事例而求其公例也。",
+      "target": "归纳的",
+      "claim_type": "定义性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "归纳的者，先聚若干种事例而求其公例也。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c8",
+      "speaker": "陈独秀",
+      "claim": "至于几何学，则以自明之公理为基础，而后一切原则推演而出，所谓演绎的也。",
+      "target": "演绎的",
+      "claim_type": "定义性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "至于几何学，则以自明之公理为基础，而后一切原则推演而出，所谓演绎的也。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c9",
+      "speaker": "陈独秀",
+      "claim": "若夫既采君主大权说于先，则不能再采国民主权说于后。",
+      "target": "演绎的",
+      "claim_type": "方法论主张",
+      "claim_status": "作者推论",
+      "polarity": "neutral",
+      "evidence": "若夫既采君主大权说于先，则不能再采国民主权说于后；",
+      "confidence": 1.0
+    }
+  ],
+  "relations": [
+    {
+      "id": "r1",
+      "head": "科学",
+      "head_type": "概念",
+      "relation": "包含",
+      "tail": "精神科学",
+      "tail_type": "概念",
+      "polarity": "neutral",
+      "evidence": "然科学之中，亦分二项：曰精神科学，曰物质科学。",
+      "confidence": 1.0
+    },
+    {
+      "id": "r2",
+      "head": "科学",
+      "head_type": "概念",
+      "relation": "包含",
+      "tail": "物质科学",
+      "tail_type": "概念",
+      "polarity": "neutral",
+      "evidence": "然科学之中，亦分二项：曰精神科学，曰物质科学。",
+      "confidence": 1.0
+    },
+    {
+      "id": "r3",
+      "head": "科学",
+      "head_type": "概念",
+      "relation": "对比",
+      "tail": "人生观",
+      "tail_type": "概念",
+      "polarity": "neutral",
+      "evidence": "第二，科学为论理的方法所支配，而人生观则起于直觉。",
+      "confidence": 1.0
+    },
+    {
+      "id": "r4",
+      "head": "科学",
+      "head_type": "概念",
+      "relation": "解释",
+      "tail": "论理的方法",
+      "tail_type": "方法",
+      "polarity": "neutral",
+      "evidence": "科学为论理的方法所支配，而人生观则起于直觉。",
+      "confidence": 1.0
+    },
+    {
+      "id": "r5",
+      "head": "人生观",
+      "head_type": "概念",
+      "relation": "解释",
+      "tail": "直觉",
+      "tail_type": "概念",
+      "polarity": "neutral",
+      "evidence": "而人生观则起于直觉。",
+      "confidence": 1.0
+    },
+    {
+      "id": "r6",
+      "head": "科学之方法",
+      "head_type": "方法",
+      "relation": "包含",
+      "tail": "演绎的",
+      "tail_type": "方法",
+      "polarity": "neutral",
+      "evidence": "科学之方法有二：一曰演绎的，一曰归纳的。",
+      "confidence": 1.0
+    },
+    {
+      "id": "r7",
+      "head": "科学之方法",
+      "head_type": "方法",
+      "relation": "包含",
+      "tail": "归纳的",
+      "tail_type": "方法",
+      "polarity": "neutral",
+      "evidence": "科学之方法有二：一曰演绎的，一曰归纳的。",
+      "confidence": 1.0
+    }
+  ],
+  "definitions": [
+    {
+      "id": "def1",
+      "term": "精神科学",
+      "definition": "如政治学生计学心理学哲学之类。",
+      "evidence": "精神科学，如政治学生计学心理学哲学之类。",
+      "confidence": 1.0
+    },
+    {
+      "id": "def2",
+      "term": "归纳的",
+      "definition": "先聚若干种事例而求其公例。",
+      "evidence": "归纳的者，先聚若干种事例而求其公例也。",
+      "confidence": 1.0
+    },
+    {
+      "id": "def3",
+      "term": "演绎的",
+      "definition": "以自明之公理为基础，而后一切原则推演而出。",
+      "evidence": "至于几何学，则以自明之公理为基础，而后一切原则推演而出，所谓演绎的也。",
+      "confidence": 1.0
+    }
+  ],
+  "citations": [
+    {
+      "id": "cit1",
+      "citer": "陈独秀",
+      "quoted_author": "孔子",
+      "quoted_work": "",
+      "quoted_claim": "行健",
+      "function": "作为批评对象",
+      "evidence": "孔子之行健与老子之无为，其所见异焉；",
+      "confidence": 1.0
+    },
+    {
+      "id": "cit2",
+      "citer": "陈独秀",
+      "quoted_author": "老子",
+      "quoted_work": "",
+      "quoted_claim": "无为",
+      "function": "作为批评对象",
+      "evidence": "孔子之行健与老子之无为，其所见异焉；",
+      "confidence": 1.0
+    },
+    {
+      "id": "cit3",
+      "citer": "陈独秀",
+      "quoted_author": "孟子",
+      "quoted_work": "",
+      "quoted_claim": "性善",
+      "function": "作为批评对象",
+      "evidence": "孟子之性善与荀子之性恶，其所见异焉；",
+      "confidence": 1.0
+    },
+    {
+      "id": "cit4",
+      "citer": "陈独秀",
+      "quoted_author": "荀子",
+      "quoted_work": "",
+      "quoted_claim": "性恶",
+      "function": "作为批评对象",
+      "evidence": "孟子之性善与荀子之性恶，其所见异焉；",
+      "confidence": 1.0
+    },
+    {
+      "id": "cit5",
+      "citer": "陈独秀",
+      "quoted_author": "杨朱",
+      "quoted_work": "",
+      "quoted_claim": "为我",
+      "function": "作为批评对象",
+      "evidence": "杨朱之为我与墨子之兼爱，其所见异焉；",
+      "confidence": 1.0
+    },
+    {
+      "id": "cit6",
+      "citer": "陈独秀",
+      "quoted_author": "墨子",
+      "quoted_work": "",
+      "quoted_claim": "兼爱",
+      "function": "作为批评对象",
+      "evidence": "杨朱之为我与墨子之兼爱，其所见异焉；",
+      "confidence": 1.0
+    },
+    {
+      "id": "cit7",
+      "citer": "陈独秀",
+      "quoted_author": "康德",
+      "quoted_work": "",
+      "quoted_claim": "义务观念",
+      "function": "作为批评对象",
+      "evidence": "康德之义务观念与边沁之功利主义，其所见异焉；",
+      "confidence": 1.0
+    },
+    {
+      "id": "cit8",
+      "citer": "陈独秀",
+      "quoted_author": "边沁",
+      "quoted_work": "",
+      "quoted_claim": "功利主义",
+      "function": "作为批评对象",
+      "evidence": "康德之义务观念与边沁之功利主义，其所见异焉；",
+      "confidence": 1.0
+    }
+  ],
+  "rhetorical_devices": [],
+  "uncertainties": [
+    {
+      "item": "哥罗巴金",
+      "reason": "原文为'哥罗巴金'，可能为克鲁泡特金（Kropotkin）的音译，但原文未提供更多信息，无法完全确定。"
+    },
+    {
+      "item": "section_author",
+      "reason": "section_author字段内容与section_title相同，可能为复制错误，但根据元数据保留原值。"
+    }
+  ],
+  "_meta": {
+    "status": "success",
+    "stage": "extract",
+    "model": "deepseek-ai/DeepSeek-V4-Flash",
+    "base_url": "https://api.siliconflow.cn/v1",
+    "prompt_version": "extract_prompt_v2.0",
+    "schema_version": "lite_v2.0",
+    "segment_id": "陈独秀_001_d263aca8_s0008",
+    "article_id": "陈独秀_001_d263aca8",
+    "char_start": 3784,
+    "char_end": 4381,
+    "raw_path": "E:\\1研究生\\岭南大学\\论文毕业\\capstone\\资料\\新的内容开始了\\local_upload\\kg_runs\\陈独秀\\raw_outputs\\extract\\陈独秀_001_d263aca8_s0008.txt",
+    "parsed_at": "2026-05-20T02:24:24",
+    "started_at": "2026-05-20T02:15:56",
+    "elapsed_seconds": 507.578,
+    "strict_evidence_check": true,
+    "drop_unsupported_evidence": true,
+    "request_timeout_seconds": 180
+  }
+}

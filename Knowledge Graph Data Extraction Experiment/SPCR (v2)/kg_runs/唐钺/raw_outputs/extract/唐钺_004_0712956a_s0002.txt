@@ -1,0 +1,608 @@
+{
+  "metadata": {
+    "schema_version": "lite_v3.0",
+    "article_id": "唐钺_004_0712956a",
+    "article_title": "读了《评所谓“科学与玄学之争”》以后",
+    "source_author": "唐钺",
+    "section_title": "",
+    "section_author": "",
+    "segment_id": "唐钺_004_0712956a_s0002",
+    "segment_index": 2,
+    "source_file": "E:\\1研究生\\岭南大学\\论文毕业\\capstone\\资料\\新的内容开始了\\local_upload\\input_唐钺\\唐钺.txt"
+  },
+  "entities": [
+    {
+      "id": "e1",
+      "name": "人类的意志",
+      "canonical_name": "人类的意志",
+      "type": "概念",
+      "evidence": "人类的意志全受因果律（狭义）的支配",
+      "confidence": IE-06
+    },
+    {
+      "id": "e2",
+      "name": "因果律（狭义）",
+      "canonical_name": "因果律（狭义）",
+      "type": "概念",
+      "evidence": "人类的意志全受因果律（狭义）的支配",
+      "confidence": IE-06
+    },
+    {
+      "id": "e3",
+      "name": "自由",
+      "canonical_name": "自由",
+      "type": "概念",
+      "evidence": "他们否认自由和道德",
+      "confidence": IE-06
+    },
+    {
+      "id": "e4",
+      "name": "道德",
+      "canonical_name": "道德",
+      "type": "概念",
+      "evidence": "他们否认自由和道德",
+      "confidence": IE-06
+    },
+    {
+      "id": "e5",
+      "name": "人生观与科学的关系",
+      "canonical_name": "人生观与科学的关系",
+      "type": "问题",
+      "evidence": "这里我要说对于人生观与科学的关系",
+      "confidence": IE-06
+    },
+    {
+      "id": "e6",
+      "name": "范先生",
+      "canonical_name": "范先生",
+      "type": "人物",
+      "evidence": "范先生同我的意见实质上没有大差异",
+      "confidence": IE-06
+    },
+    {
+      "id": "e7",
+      "name": "我",
+      "canonical_name": "唐钺",
+      "type": "人物",
+      "evidence": "范先生同我的意见实质上没有大差异",
+      "confidence": IE-06
+    },
+    {
+      "id": "e8",
+      "name": "直接经验（所与）",
+      "canonical_name": "直接经验（所与）",
+      "type": "概念",
+      "evidence": "直接经验（所与）是科学的起点",
+      "confidence": IE-06
+    },
+    {
+      "id": "e9",
+      "name": "科学的起点",
+      "canonical_name": "科学的起点",
+      "type": "概念",
+      "evidence": "直接经验（所与）是科学的起点",
+      "confidence": IE-06
+    },
+    {
+      "id": "e10",
+      "name": "先天的形式",
+      "canonical_name": "先天的形式",
+      "type": "概念",
+      "evidence": "人生观的“先天的形式是由主观的直觉而得",
+      "confidence": IE-06
+    },
+    {
+      "id": "e11",
+      "name": "主观的直觉",
+      "canonical_name": "主观的直觉",
+      "type": "概念",
+      "evidence": "先天的形式是由主观的直觉而得",
+      "confidence": IE-06
+    },
+    {
+      "id": "e12",
+      "name": "义务意识",
+      "canonical_name": "义务意识",
+      "type": "概念",
+      "evidence": "范先生的“先天的形式”就是“义务意识”",
+      "confidence": IE-06
+    },
+    {
+      "id": "e13",
+      "name": "直觉",
+      "canonical_name": "直觉",
+      "type": "概念",
+      "evidence": "人生观虽然是包含有直觉的部分",
+      "confidence": IE-06
+    },
+    {
+      "id": "e14",
+      "name": "科学",
+      "canonical_name": "科学",
+      "type": "概念",
+      "evidence": "科学能够解决人生观的全部",
+      "confidence": IE-06
+    },
+    {
+      "id": "e15",
+      "name": "人生观",
+      "canonical_name": "人生观",
+      "type": "概念",
+      "evidence": "科学能够解决人生观的全部",
+      "confidence": IE-06
+    },
+    {
+      "id": "e16",
+      "name": "白色",
+      "canonical_name": "白色",
+      "type": "例证",
+      "evidence": "譬如我们能感白色",
+      "confidence": IE-06
+    },
+    {
+      "id": "e17",
+      "name": "《教育哲学体系》",
+      "canonical_name": "《教育哲学体系》",
+      "type": "著作",
+      "evidence": "范先生在所引他的《教育哲学体系》一段中",
+      "confidence": IE-06
+    },
+    {
+      "id": "e18",
+      "name": "伦理规范",
+      "canonical_name": "伦理规范",
+      "type": "概念",
+      "evidence": "分伦理规范为形式的内容的",
+      "confidence": IE-06
+    },
+    {
+      "id": "e19",
+      "name": "形式的规范",
+      "canonical_name": "形式的规范",
+      "type": "概念",
+      "evidence": "人生观只是内容的伦理规范的问题，而不是形式的规范的问题",
+      "confidence": IE-06
+    },
+    {
+      "id": "e20",
+      "name": "内容的伦理规范",
+      "canonical_name": "内容的伦理规范",
+      "type": "概念",
+      "evidence": "人生观只是内容的伦理规范的问题",
+      "confidence": IE-06
+    }
+  ],
+  "claims": [
+    {
+      "id": "c1",
+      "speaker": "他们",
+      "claim": "人类的意志全受因果律（狭义）的支配",
+      "target": "人类的意志",
+      "claim_type": "描述性主张",
+      "claim_status": "间接转述",
+      "polarity": "negative",
+      "evidence": "他们竟至承认人类的意志全受因果律（狭义）的支配",
+      "confidence": IE-06
+    },
+    {
+      "id": "c2",
+      "speaker": "他们",
+      "claim": "人类直同机械一般",
+      "target": "人类",
+      "claim_type": "描述性主张",
+      "claim_status": "间接转述",
+      "polarity": "negative",
+      "evidence": "他们看人类直同机械一般",
+      "confidence": IE-06
+    },
+    {
+      "id": "c3",
+      "speaker": "他们",
+      "claim": "否认自由和道德",
+      "target": "自由和道德",
+      "claim_type": "描述性主张",
+      "claim_status": "间接转述",
+      "polarity": "negative",
+      "evidence": "他们否认自由和道德",
+      "confidence": IE-06
+    },
+    {
+      "id": "c4",
+      "speaker": "唐钺",
+      "claim": "范先生同我的意见实质上没有大差异，不过言语上差别罢了",
+      "target": "范先生",
+      "claim_type": "评价性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "范先生同我的意见实质上没有大差异，不过言语上差别罢了",
+      "confidence": IE-06
+    },
+    {
+      "id": "c5",
+      "speaker": "唐钺",
+      "claim": "直接经验（所与）是科学的起点",
+      "target": "直接经验（所与）",
+      "claim_type": "定义性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "直接经验（所与）是科学的起点",
+      "confidence": IE-06
+    },
+    {
+      "id": "c6",
+      "speaker": "唐钺",
+      "claim": "所谓起点，就是说非科学所能转移的",
+      "target": "起点",
+      "claim_type": "定义性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "所谓起点，就是说非科学所能转移的",
+      "confidence": IE-06
+    },
+    {
+      "id": "c7",
+      "speaker": "范先生",
+      "claim": "人生观的“先天的形式是由主观的直觉而得，决不是科学所能干涉”",
+      "target": "人生观",
+      "claim_type": "描述性主张",
+      "claim_status": "直接引用",
+      "polarity": "neutral",
+      "evidence": "范先生说：人生观的“先天的形式是由主观的直觉而得，决不是科学所能干涉”",
+      "confidence": IE-06
+    },
+    {
+      "id": "c8",
+      "speaker": "唐钺",
+      "claim": "范先生的“先天的形式”就是“义务意识”",
+      "target": "先天的形式",
+      "claim_type": "定义性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "范先生的“先天的形式”就是“义务意识”",
+      "confidence": IE-06
+    },
+    {
+      "id": "c9",
+      "speaker": "唐钺",
+      "claim": "这“义务意识”若的确是由直觉而得（这事还没有定论，暂且假定的确如此），那末，就是我所谓直接经验之一种",
+      "target": "义务意识",
+      "claim_type": "描述性主张",
+      "claim_status": "作者推论",
+      "polarity": "neutral",
+      "evidence": "这“义务意识”若的确是由直觉而得（这事还没有定论，暂且假定的确如此），那末，就是我所谓直接经验之一种",
+      "confidence": IE-06
+    },
+    {
+      "id": "c10",
+      "speaker": "唐钺",
+      "claim": "人生观虽然是包含有直觉的部分，但是我们却可以说“科学能够解决人生观的全部”",
+      "target": "人生观",
+      "claim_type": "结论性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "人生观虽然是包含有直觉的部分，但是我们却可以说“科学能够解决人生观的全部”",
+      "confidence": IE-06
+    },
+    {
+      "id": "c11",
+      "speaker": "唐钺",
+      "claim": "纵使所谓“义务意识”是由直觉而来的，而人生观之所以为人生观，却是对何种现象而起“义务意识”的问题而不在于“义务意识”",
+      "target": "人生观",
+      "claim_type": "定义性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "纵使所谓“义务意识”是由直觉而来的，而人生观之所以为人生观，却是对何种现象而起“义务意识”的问题而不在于“义务意识”",
+      "confidence": IE-06
+    },
+    {
+      "id": "c12",
+      "speaker": "唐钺",
+      "claim": "一切科学都着含直觉的部分，这部分是不发生问题的，是无所用其解决的，也从来没有科学家要解决这部分的",
+      "target": "科学",
+      "claim_type": "描述性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "一切科学都着含直觉的部分，这部分是不发生问题的，是无所用其解决的，也从来没有科学家要解决这部分的",
+      "confidence": IE-06
+    },
+    {
+      "id": "c13",
+      "speaker": "唐钺",
+      "claim": "人生观只是内容的伦理规范的问题，而不是形式的规范的问题",
+      "target": "人生观",
+      "claim_type": "定义性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "我的意见以为人生观只是内容的伦理规范的问题，而不是形式的规范的问题",
+      "confidence": IE-06
+    },
+    {
+      "id": "c14",
+      "speaker": "唐钺",
+      "claim": "人生观不是由直觉而得，科学可以解决人生观的全部",
+      "target": "人生观",
+      "claim_type": "结论性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "所以我以为人生观不是由直觉而得，科学可以解决人生观的全部",
+      "confidence": IE-06
+    }
+  ],
+  "relations": [
+    {
+      "id": "r1",
+      "head": "他们",
+      "head_type": "阵营/群体",
+      "relation": "主张",
+      "relation_subtype": "不适用",
+      "tail": "人类的意志全受因果律（狭义）的支配",
+      "tail_type": "观点",
+      "polarity": "negative",
+      "stance_score": -0.5,
+      "intensity": 0.6,
+      "evidence": "他们竟至承认人类的意志全受因果律（狭义）的支配",
+      "confidence": IE-06
+    },
+    {
+      "id": "r2",
+      "head": "他们",
+      "head_type": "阵营/群体",
+      "relation": "主张",
+      "relation_subtype": "不适用",
+      "tail": "人类直同机械一般",
+      "tail_type": "观点",
+      "polarity": "negative",
+      "stance_score": -0.5,
+      "intensity": 0.6,
+      "evidence": "他们看人类直同机械一般",
+      "confidence": IE-06
+    },
+    {
+      "id": "r3",
+      "head": "他们",
+      "head_type": "阵营/群体",
+      "relation": "主张",
+      "relation_subtype": "不适用",
+      "tail": "否认自由和道德",
+      "tail_type": "观点",
+      "polarity": "negative",
+      "stance_score": -0.5,
+      "intensity": 0.6,
+      "evidence": "他们否认自由和道德",
+      "confidence": IE-06
+    },
+    {
+      "id": "r4",
+      "head": "唐钺",
+      "head_type": "人物",
+      "relation": "评价",
+      "relation_subtype": "部分肯定",
+      "tail": "范先生",
+      "tail_type": "人物",
+      "polarity": "positive",
+      "stance_score": 0.5,
+      "intensity": 0.4,
+      "evidence": "范先生同我的意见实质上没有大差异，不过言语上差别罢了",
+      "confidence": IE-06
+    },
+    {
+      "id": "r5",
+      "head": "唐钺",
+      "head_type": "人物",
+      "relation": "定义",
+      "relation_subtype": "概念澄清",
+      "tail": "直接经验（所与）",
+      "tail_type": "概念",
+      "polarity": "neutral",
+      "stance_score": 0.0,
+      "intensity": 0.0,
+      "evidence": "直接经验（所与）是科学的起点",
+      "confidence": IE-06
+    },
+    {
+      "id": "r6",
+      "head": "唐钺",
+      "head_type": "人物",
+      "relation": "定义",
+      "relation_subtype": "概念澄清",
+      "tail": "起点",
+      "tail_type": "概念",
+      "polarity": "neutral",
+      "stance_score": 0.0,
+      "intensity": 0.0,
+      "evidence": "所谓起点，就是说非科学所能转移的",
+      "confidence": IE-06
+    },
+    {
+      "id": "r7",
+      "head": "范先生",
+      "head_type": "人物",
+      "relation": "主张",
+      "relation_subtype": "不适用",
+      "tail": "人生观的“先天的形式是由主观的直觉而得，决不是科学所能干涉”",
+      "tail_type": "观点",
+      "polarity": "neutral",
+      "stance_score": 0.0,
+      "intensity": 0.0,
+      "evidence": "范先生说：人生观的“先天的形式是由主观的直觉而得，决不是科学所能干涉”",
+      "confidence": IE-06
+    },
+    {
+      "id": "r8",
+      "head": "唐钺",
+      "head_type": "人物",
+      "relation": "定义",
+      "relation_subtype": "概念澄清",
+      "tail": "先天的形式",
+      "tail_type": "概念",
+      "polarity": "neutral",
+      "stance_score": 0.0,
+      "intensity": 0.0,
+      "evidence": "范先生的“先天的形式”就是“义务意识”",
+      "confidence": IE-06
+    },
+    {
+      "id": "r9",
+      "head": "唐钺",
+      "head_type": "人物",
+      "relation": "主张",
+      "relation_subtype": "不适用",
+      "tail": "这“义务意识”若的确是由直觉而得（这事还没有定论，暂且假定的确如此），那末，就是我所谓直接经验之一种",
+      "tail_type": "观点",
+      "polarity": "neutral",
+      "stance_score": 0.0,
+      "intensity": 0.0,
+      "evidence": "这“义务意识”若的确是由直觉而得（这事还没有定论，暂且假定的确如此），那末，就是我所谓直接经验之一种",
+      "confidence": IE-06
+    },
+    {
+      "id": "r10",
+      "head": "唐钺",
+      "head_type": "人物",
+      "relation": "主张",
+      "relation_subtype": "不适用",
+      "tail": "人生观虽然是包含有直觉的部分，但是我们却可以说“科学能够解决人生观的全部”",
+      "tail_type": "观点",
+      "polarity": "positive",
+      "stance_score": 0.8,
+      "intensity": 0.7,
+      "evidence": "人生观虽然是包含有直觉的部分，但是我们却可以说“科学能够解决人生观的全部”",
+      "confidence": IE-06
+    },
+    {
+      "id": "r11",
+      "head": "唐钺",
+      "head_type": "人物",
+      "relation": "定义",
+      "relation_subtype": "概念澄清",
+      "tail": "人生观之所以为人生观",
+      "tail_type": "概念",
+      "polarity": "neutral",
+      "stance_score": 0.0,
+      "intensity": 0.0,
+      "evidence": "纵使所谓“义务意识”是由直觉而来的，而人生观之所以为人生观，却是对何种现象而起“义务意识”的问题而不在于“义务意识”",
+      "confidence": IE-06
+    },
+    {
+      "id": "r12",
+      "head": "唐钺",
+      "head_type": "人物",
+      "relation": "主张",
+      "relation_subtype": "不适用",
+      "tail": "一切科学都着含直觉的部分，这部分是不发生问题的，是无所用其解决的，也从来没有科学家要解决这部分的",
+      "tail_type": "观点",
+      "polarity": "neutral",
+      "stance_score": 0.0,
+      "intensity": 0.0,
+      "evidence": "一切科学都着含直觉的部分，这部分是不发生问题的，是无所用其解决的，也从来没有科学家要解决这部分的",
+      "confidence": IE-06
+    },
+    {
+      "id": "r13",
+      "head": "唐钺",
+      "head_type": "人物",
+      "relation": "定义",
+      "relation_subtype": "概念澄清",
+      "tail": "人生观",
+      "tail_type": "概念",
+      "polarity": "neutral",
+      "stance_score": 0.0,
+      "intensity": 0.0,
+      "evidence": "我的意见以为人生观只是内容的伦理规范的问题，而不是形式的规范的问题",
+      "confidence": IE-06
+    },
+    {
+      "id": "r14",
+      "head": "唐钺",
+      "head_type": "人物",
+      "relation": "主张",
+      "relation_subtype": "不适用",
+      "tail": "人生观不是由直觉而得，科学可以解决人生观的全部",
+      "tail_type": "观点",
+      "polarity": "positive",
+      "stance_score": 0.8,
+      "intensity": 0.7,
+      "evidence": "所以我以为人生观不是由直觉而得，科学可以解决人生观的全部",
+      "confidence": IE-06
+    },
+    {
+      "id": "r15",
+      "head": "范先生",
+      "head_type": "人物",
+      "relation": "引用",
+      "relation_subtype": "援引权威支持",
+      "tail": "《教育哲学体系》",
+      "tail_type": "著作",
+      "polarity": "neutral",
+      "stance_score": 0.0,
+      "intensity": 0.0,
+      "evidence": "范先生在所引他的《教育哲学体系》一段中分伦理规范为形式的内容的",
+      "confidence": IE-06
+    }
+  ],
+  "definitions": [
+    {
+      "id": "def1",
+      "term": "直接经验（所与）",
+      "definition": "科学的起点，非科学所能转移",
+      "evidence": "直接经验（所与）是科学的起点。所谓起点，就是说非科学所能转移的",
+      "confidence": IE-06
+    },
+    {
+      "id": "def2",
+      "term": "先天的形式",
+      "definition": "义务意识",
+      "evidence": "范先生的“先天的形式”就是“义务意识”",
+      "confidence": IE-06
+    },
+    {
+      "id": "def3",
+      "term": "人生观",
+      "definition": "对何种现象而起“义务意识”的问题，是内容的伦理规范的问题，而不是形式的规范的问题",
+      "evidence": "人生观之所以为人生观，却是对何种现象而起“义务意识”的问题而不在于“义务意识”",
+      "confidence": IE-06
+    }
+  ],
+  "citations": [
+    {
+      "id": "cit1",
+      "citer": "范先生",
+      "quoted_author": "范先生",
+      "quoted_work": "《教育哲学体系》",
+      "quoted_claim": "分伦理规范为形式的内容的",
+      "function": "援引权威支持",
+      "evidence": "范先生在所引他的《教育哲学体系》一段中分伦理规范为形式的内容的",
+      "confidence": IE-06
+    }
+  ],
+  "rhetorical_devices": [
+    {
+      "id": "rh1",
+      "expression": "他们看人类直同机械一般",
+      "device_type": "类比",
+      "literal_target": "人类",
+      "function": "批评对方将人类视为无自由意志的机械",
+      "evidence": "他们看人类直同机械一般",
+      "confidence": IE-06
+    },
+    {
+      "id": "rh2",
+      "expression": "譬如我们能感白色，这有什么可以解决的；要解决的是如何才感白色罢了",
+      "device_type": "类比",
+      "literal_target": "直觉部分",
+      "function": "用白色感觉的不可解决类比直觉部分的不需解决，支持科学可解决人生观全部",
+      "evidence": "譬如我们能感白色，这有什么可以解决的；要解决的是如何才感白色罢了",
+      "confidence": IE-06
+    }
+  ],
+  "uncertainties": [
+    {
+      "item": "“他们”具体指代谁",
+      "reason": "文本中未明确说明“他们”的身份，仅从上下文推测可能指代某种观点持有者"
+    },
+    {
+      "item": "“范先生”全名",
+      "reason": "文本中仅称“范先生”，未给出全名"
+    }
+  ]
+}

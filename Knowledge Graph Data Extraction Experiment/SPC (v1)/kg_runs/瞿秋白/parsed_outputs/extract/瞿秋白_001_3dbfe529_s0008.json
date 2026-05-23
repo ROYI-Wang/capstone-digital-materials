@@ -1,0 +1,164 @@
+{
+  "metadata": {
+    "schema_version": "lite_v2.0",
+    "article_id": "瞿秋白_001_3dbfe529",
+    "article_title": "实验主义与革命哲学",
+    "source_author": "瞿秋白",
+    "section_title": "",
+    "section_author": "",
+    "segment_id": "瞿秋白_001_3dbfe529_s0008",
+    "segment_index": 8,
+    "source_file": "E:\\1研究生\\岭南大学\\论文毕业\\capstone\\资料\\新的内容开始了\\local_upload\\input_w2\\瞿秋白.txt"
+  },
+  "entities": [
+    {
+      "id": "e1",
+      "name": "实验主义",
+      "canonical_name": "实验主义",
+      "type": "主义/学说/理论",
+      "evidence": "不能像实验主义那样，只能暂时有益于我们的算真理。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e2",
+      "name": "真理",
+      "canonical_name": "真理",
+      "type": "概念",
+      "evidence": "某种意见是真理，并不因为他对于我们有益；这种意见对于我们有益，却因为他是真理。",
+      "confidence": 1.0
+    }
+  ],
+  "claims": [
+    {
+      "id": "c1",
+      "speaker": "瞿秋白",
+      "claim": "我们不能要做什么便做什么：现实生活处处时时矫正我们的行动。",
+      "target": "客观现实",
+      "claim_type": "知识论主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "我们不能要做什么便做什么：现实生活处处时时矫正我们的行动。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c2",
+      "speaker": "瞿秋白",
+      "claim": "我们的观念反映客观的现实很正确的时候，我们的行动便不致于和现实相冲突，不致于“碰顶子”。",
+      "target": "观念与行动的关系",
+      "claim_type": "知识论主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "我们的观念反映客观的现实很正确的时候，我们的行动便不致于和现实相冲突，不致于“碰顶子”。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c3",
+      "speaker": "瞿秋白",
+      "claim": "某种意见是真理，并不因为他对于我们有益；这种意见对于我们有益，却因为他是真理。",
+      "target": "真理与有益的关系",
+      "claim_type": "知识论主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "某种意见是真理，并不因为他对于我们有益；这种意见对于我们有益，却因为他是真理。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c4",
+      "speaker": "瞿秋白",
+      "claim": "不能像实验主义那样，只能暂时有益于我们的算真理。",
+      "target": "实验主义",
+      "claim_type": "反驳性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "不能像实验主义那样，只能暂时有益于我们的算真理。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c5",
+      "speaker": "瞿秋白",
+      "claim": "我们得了科学的真理、客观世界的定律之后，才能彻底的改造社会，不能安于琐屑的应付。",
+      "target": "科学真理与改造社会",
+      "claim_type": "社会理论主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "我们得了科学的真理、客观世界的定律之后，才能彻底的改造社会，不能安于琐屑的应付。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c6",
+      "speaker": "瞿秋白",
+      "claim": "实验主义既然只承认有益的方是真理，他便能暗示社会意识以近视的浅见的妥协主义，他决不是革命的哲学。",
+      "target": "实验主义",
+      "claim_type": "价值评价",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "实验主义既然只承认有益的方是真理，他便能暗示社会意识以近视的浅见的妥协主义，他决不是革命的哲学。",
+      "confidence": 1.0
+    }
+  ],
+  "relations": [
+    {
+      "id": "r1",
+      "head": "瞿秋白",
+      "head_type": "人物",
+      "relation": "批评",
+      "tail": "实验主义",
+      "tail_type": "主义/学说/理论",
+      "polarity": "negative",
+      "evidence": "不能像实验主义那样，只能暂时有益于我们的算真理。",
+      "confidence": 1.0
+    },
+    {
+      "id": "r2",
+      "head": "瞿秋白",
+      "head_type": "人物",
+      "relation": "批评",
+      "tail": "实验主义",
+      "tail_type": "主义/学说/理论",
+      "polarity": "negative",
+      "evidence": "实验主义既然只承认有益的方是真理，他便能暗示社会意识以近视的浅见的妥协主义，他决不是革命的哲学。",
+      "confidence": 1.0
+    }
+  ],
+  "definitions": [
+    {
+      "id": "def1",
+      "term": "真理",
+      "definition": "真理是切合于客观的现实世界的意见，其真理性不依赖于对人是否有益。",
+      "evidence": "某种意见是真理，并不因为他对于我们有益；这种意见对于我们有益，却因为他是真理。换句话说，就是因为他切合于客观的现实世界。",
+      "confidence": 1.0
+    }
+  ],
+  "citations": [],
+  "rhetorical_devices": [
+    {
+      "id": "rh1",
+      "expression": "碰顶子",
+      "device_type": "比喻",
+      "literal_target": "行动与现实冲突",
+      "function": "形象化说明观念与现实冲突的后果",
+      "evidence": "我们的行动便不致于和现实相冲突，不致于“碰顶子”。",
+      "confidence": 1.0
+    }
+  ],
+  "uncertainties": [],
+  "_meta": {
+    "status": "success",
+    "stage": "extract",
+    "model": "deepseek-ai/DeepSeek-V4-Flash",
+    "base_url": "https://api.siliconflow.cn/v1",
+    "prompt_version": "extract_prompt_v2.0",
+    "schema_version": "lite_v2.0",
+    "segment_id": "瞿秋白_001_3dbfe529_s0008",
+    "article_id": "瞿秋白_001_3dbfe529",
+    "char_start": 4083,
+    "char_end": 4381,
+    "raw_path": "E:\\1研究生\\岭南大学\\论文毕业\\capstone\\资料\\新的内容开始了\\local_upload\\kg_runs\\瞿秋白\\raw_outputs\\extract\\瞿秋白_001_3dbfe529_s0008.txt",
+    "parsed_at": "2026-05-20T00:57:58",
+    "started_at": "2026-05-20T00:53:01",
+    "elapsed_seconds": 297.65,
+    "strict_evidence_check": true,
+    "drop_unsupported_evidence": true,
+    "request_timeout_seconds": 180
+  }
+}

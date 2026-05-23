@@ -1,0 +1,466 @@
+{
+  "metadata": {
+    "schema_version": "lite_v3.0",
+    "article_id": "张君劢_003_cd868ad5",
+    "article_title": "科学之评价",
+    "source_author": "张君劢",
+    "section_title": "",
+    "section_author": "",
+    "segment_id": "张君劢_003_cd868ad5_s0005",
+    "segment_index": 5,
+    "source_file": "E:\\1研究生\\岭南大学\\论文毕业\\capstone\\资料\\新的内容开始了\\local_upload\\input_张君劢\\张君劢.txt"
+  },
+  "entities": [
+    {
+      "id": "e1",
+      "name": "工商主义",
+      "canonical_name": "工商主义",
+      "type": "主义/学说/理论",
+      "evidence": "甲以工商主义侵乙",
+      "confidence": 0.9
+    },
+    {
+      "id": "e2",
+      "name": "国家主义",
+      "canonical_name": "国家主义",
+      "type": "主义/学说/理论",
+      "evidence": "什么国家主义，军阀主义，工商主义，都成过去",
+      "confidence": 0.9
+    },
+    {
+      "id": "e3",
+      "name": "军阀主义",
+      "canonical_name": "军阀主义",
+      "type": "主义/学说/理论",
+      "evidence": "什么国家主义，军阀主义，工商主义，都成过去",
+      "confidence": 0.9
+    },
+    {
+      "id": "e4",
+      "name": "科学知识",
+      "canonical_name": "科学知识",
+      "type": "概念",
+      "evidence": "若专恃有益于实用之科学知识",
+      "confidence": 0.9
+    },
+    {
+      "id": "e5",
+      "name": "形上方面",
+      "canonical_name": "形上方面",
+      "type": "概念",
+      "evidence": "忘却形上方面",
+      "confidence": 0.9
+    },
+    {
+      "id": "e6",
+      "name": "精神方面",
+      "canonical_name": "精神方面",
+      "type": "概念",
+      "evidence": "忘却精神方面",
+      "confidence": 0.9
+    },
+    {
+      "id": "e7",
+      "name": "艺术方面",
+      "canonical_name": "艺术方面",
+      "type": "概念",
+      "evidence": "忘却艺术方面",
+      "confidence": 0.9
+    },
+    {
+      "id": "e8",
+      "name": "内生活",
+      "canonical_name": "内生活",
+      "type": "概念",
+      "evidence": "在精神方面提倡内生活",
+      "confidence": 0.9
+    },
+    {
+      "id": "e9",
+      "name": "国际联盟",
+      "canonical_name": "国际联盟",
+      "type": "概念",
+      "evidence": "在政治方面提倡国际联盟",
+      "confidence": 0.9
+    },
+    {
+      "id": "e10",
+      "name": "大同主义",
+      "canonical_name": "大同主义",
+      "type": "主义/学说/理论",
+      "evidence": "适于提倡大同主义",
+      "confidence": 0.9
+    },
+    {
+      "id": "e11",
+      "name": "威尔逊",
+      "canonical_name": "威尔逊",
+      "type": "人物",
+      "evidence": "观之威尔逊之热心国际联盟",
+      "confidence": 0.9
+    },
+    {
+      "id": "e12",
+      "name": "欧美知识界之新学者",
+      "canonical_name": "欧美知识界之新学者",
+      "type": "阵营/群体",
+      "evidence": "欧美知识界之新学者，都已趋向我所说的新路上来了",
+      "confidence": 0.9
+    },
+    {
+      "id": "e13",
+      "name": "形上",
+      "canonical_name": "形上",
+      "type": "概念",
+      "evidence": "曰形上，曰审美，曰意志，曰理智，曰身体",
+      "confidence": 0.9
+    },
+    {
+      "id": "e14",
+      "name": "审美",
+      "canonical_name": "审美",
+      "type": "概念",
+      "evidence": "曰形上，曰审美，曰意志，曰理智，曰身体",
+      "confidence": 0.9
+    },
+    {
+      "id": "e15",
+      "name": "意志",
+      "canonical_name": "意志",
+      "type": "概念",
+      "evidence": "曰形上，曰审美，曰意志，曰理智，曰身体",
+      "confidence": 0.9
+    },
+    {
+      "id": "e16",
+      "name": "理智",
+      "canonical_name": "理智",
+      "type": "概念",
+      "evidence": "曰形上，曰审美，曰意志，曰理智，曰身体",
+      "confidence": 0.9
+    },
+    {
+      "id": "e17",
+      "name": "身体",
+      "canonical_name": "身体",
+      "type": "概念",
+      "evidence": "曰形上，曰审美，曰意志，曰理智，曰身体",
+      "confidence": 0.9
+    },
+    {
+      "id": "e18",
+      "name": "君子为己之学",
+      "canonical_name": "君子为己之学",
+      "type": "概念",
+      "evidence": "而忘君子为己之学",
+      "confidence": 0.9
+    },
+    {
+      "id": "e19",
+      "name": "一九一四年大战",
+      "canonical_name": "一九一四年大战",
+      "type": "历史事件",
+      "evidence": "此则一九一四年大战之由来",
+      "confidence": 0.9
+    },
+    {
+      "id": "e20",
+      "name": "中国",
+      "canonical_name": "中国",
+      "type": "阵营/群体",
+      "evidence": "而亚美两洲之中国、美国",
+      "confidence": 0.9
+    },
+    {
+      "id": "e21",
+      "name": "美国",
+      "canonical_name": "美国",
+      "type": "阵营/群体",
+      "evidence": "而亚美两洲之中国、美国",
+      "confidence": 0.9
+    },
+    {
+      "id": "e22",
+      "name": "功名富贵之争",
+      "canonical_name": "功名富贵之争",
+      "type": "概念",
+      "evidence": "好为功名富贵之争",
+      "confidence": 0.9
+    }
+  ],
+  "claims": [
+    {
+      "id": "c1",
+      "speaker": "张君劢",
+      "claim": "专恃有益于实用之科学知识，而忘却形上方面，忘却精神方面，忘却艺术方面，是决非国家前途之福",
+      "target": "科学知识",
+      "claim_type": "评价性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "若专恃有益于实用之科学知识，而忘却形上方面，忘却精神方面，忘却艺术方面，是决非国家前途之福",
+      "confidence": 0.9
+    },
+    {
+      "id": "c2",
+      "speaker": "张君劢",
+      "claim": "国际间之所求，专在有限之物质，则物质有限，而人欲无穷，谓如此而可为国家久安计，为人类幸福计，吾不信焉",
+      "target": "国际间之所求",
+      "claim_type": "因果主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "吾以为国际间之所求，专在有限之物质，则物质有限，而人欲无穷，谓如此而可为国家久安计，为人类幸福计，吾不信焉",
+      "confidence": 0.9
+    },
+    {
+      "id": "c3",
+      "speaker": "张君劢",
+      "claim": "什么国家主义，军阀主义，工商主义，都成过去",
+      "target": "国家主义、军阀主义、工商主义",
+      "claim_type": "描述性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "什么国家主义，军阀主义，工商主义，都成过去",
+      "confidence": 0.9
+    },
+    {
+      "id": "c4",
+      "speaker": "张君劢",
+      "claim": "欧美知识界之新学者，都已趋向我所说的新路上来了",
+      "target": "欧美知识界之新学者",
+      "claim_type": "描述性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "欧美知识界之新学者，都已趋向我所说的新路上来了",
+      "confidence": 0.9
+    },
+    {
+      "id": "c5",
+      "speaker": "张君劢",
+      "claim": "人生在世，计有五方面：曰形上，曰审美，曰意志，曰理智，曰身体",
+      "target": "人生",
+      "claim_type": "定义性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "人生在世，计有五方面：曰形上，曰审美，曰意志，曰理智，曰身体",
+      "confidence": 0.9
+    },
+    {
+      "id": "c6",
+      "speaker": "张君劢",
+      "claim": "人类在世，若但计官觉界所及之得失，而不计内界之心安理得；以言乎个人，则好为功名富贵之争，而忘君子为己之学",
+      "target": "人类",
+      "claim_type": "描述性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "人类在世，若但计官觉界所及之得失，而不计内界之心安理得；以言乎个人，则好为功名富贵之争，而忘君子为己之学",
+      "confidence": 0.9
+    }
+  ],
+  "relations": [
+    {
+      "id": "r1",
+      "head": "甲以工商主义侵乙",
+      "head_type": "观点",
+      "relation": "导致",
+      "relation_subtype": "不适用",
+      "tail": "乙必起而奖励工商，以求等于甲或凌驾而上之",
+      "tail_type": "观点",
+      "polarity": "neutral",
+      "stance_score": 0.0,
+      "intensity": 0.5,
+      "evidence": "甲以工商主义侵乙，则乙必起而奖励工商，以求等于甲或凌驾而上之",
+      "confidence": 0.9
+    },
+    {
+      "id": "r2",
+      "head": "甲乙之工商既相等，争投资于未开发之地",
+      "head_type": "观点",
+      "relation": "导致",
+      "relation_subtype": "不适用",
+      "tail": "甲乙必各争海陆军之强弱",
+      "tail_type": "观点",
+      "polarity": "neutral",
+      "stance_score": 0.0,
+      "intensity": 0.5,
+      "evidence": "甲乙之工商既相等，争投资于未开发之地，则甲乙必各争海陆军之强弱",
+      "confidence": 0.9
+    },
+    {
+      "id": "r3",
+      "head": "甲乙必各争海陆军之强弱；而其参谋部又持先发制人之计",
+      "head_type": "观点",
+      "relation": "导致",
+      "relation_subtype": "不适用",
+      "tail": "事端朝起，宣战之书夕至，此则一九一四年大战之由来",
+      "tail_type": "观点",
+      "polarity": "neutral",
+      "stance_score": 0.0,
+      "intensity": 0.5,
+      "evidence": "甲乙必各争海陆军之强弱；而其参谋部又持先发制人之计，于是事端朝起，宣战之书夕至，此则一九一四年大战之由来",
+      "confidence": 0.9
+    },
+    {
+      "id": "r4",
+      "head": "国际间之所求，专在有限之物质",
+      "head_type": "观点",
+      "relation": "导致",
+      "relation_subtype": "不适用",
+      "tail": "物质有限，而人欲无穷，谓如此而可为国家久安计，为人类幸福计，吾不信焉",
+      "tail_type": "观点",
+      "polarity": "negative",
+      "stance_score": -0.8,
+      "intensity": 0.8,
+      "evidence": "吾以为国际间之所求，专在有限之物质，则物质有限，而人欲无穷，谓如此而可为国家久安计，为人类幸福计，吾不信焉",
+      "confidence": 0.9
+    },
+    {
+      "id": "r5",
+      "head": "张君劢",
+      "head_type": "人物",
+      "relation": "主张",
+      "relation_subtype": "不适用",
+      "tail": "什么国家主义，军阀主义，工商主义，都成过去",
+      "tail_type": "观点",
+      "polarity": "negative",
+      "stance_score": -0.8,
+      "intensity": 0.7,
+      "evidence": "什么国家主义，军阀主义，工商主义，都成过去",
+      "confidence": 0.9
+    },
+    {
+      "id": "r6",
+      "head": "张君劢",
+      "head_type": "人物",
+      "relation": "主张",
+      "relation_subtype": "不适用",
+      "tail": "若专恃有益于实用之科学知识，而忘却形上方面，忘却精神方面，忘却艺术方面，是决非国家前途之福",
+      "tail_type": "观点",
+      "polarity": "negative",
+      "stance_score": -0.9,
+      "intensity": 0.9,
+      "evidence": "若专恃有益于实用之科学知识，而忘却形上方面，忘却精神方面，忘却艺术方面，是决非国家前途之福",
+      "confidence": 0.9
+    },
+    {
+      "id": "r7",
+      "head": "张君劢",
+      "head_type": "人物",
+      "relation": "主张",
+      "relation_subtype": "不适用",
+      "tail": "欧美知识界之新学者，都已趋向我所说的新路上来了",
+      "tail_type": "观点",
+      "polarity": "positive",
+      "stance_score": 0.8,
+      "intensity": 0.7,
+      "evidence": "欧美知识界之新学者，都已趋向我所说的新路上来了",
+      "confidence": 0.9
+    },
+    {
+      "id": "r8",
+      "head": "张君劢",
+      "head_type": "人物",
+      "relation": "主张",
+      "relation_subtype": "不适用",
+      "tail": "人生在世，计有五方面：曰形上，曰审美，曰意志，曰理智，曰身体",
+      "tail_type": "观点",
+      "polarity": "neutral",
+      "stance_score": 0.0,
+      "intensity": 0.5,
+      "evidence": "人生在世，计有五方面：曰形上，曰审美，曰意志，曰理智，曰身体",
+      "confidence": 0.9
+    },
+    {
+      "id": "r9",
+      "head": "张君劢",
+      "head_type": "人物",
+      "relation": "主张",
+      "relation_subtype": "不适用",
+      "tail": "人类在世，若但计官觉界所及之得失，而不计内界之心安理得；以言乎个人，则好为功名富贵之争，而忘君子为己之学",
+      "tail_type": "观点",
+      "polarity": "negative",
+      "stance_score": -0.7,
+      "intensity": 0.6,
+      "evidence": "人类在世，若但计官觉界所及之得失，而不计内界之心安理得；以言乎个人，则好为功名富贵之争，而忘君子为己之学",
+      "confidence": 0.9
+    },
+    {
+      "id": "r10",
+      "head": "威尔逊",
+      "head_type": "人物",
+      "relation": "支持",
+      "relation_subtype": "援引权威",
+      "tail": "国际联盟",
+      "tail_type": "概念",
+      "polarity": "positive",
+      "stance_score": 0.8,
+      "intensity": 0.6,
+      "evidence": "观之威尔逊之热心国际联盟",
+      "confidence": 0.9
+    },
+    {
+      "id": "r11",
+      "head": "中国",
+      "head_type": "阵营/群体",
+      "relation": "支持",
+      "relation_subtype": "不适用",
+      "tail": "大同主义",
+      "tail_type": "主义/学说/理论",
+      "polarity": "positive",
+      "stance_score": 0.7,
+      "intensity": 0.5,
+      "evidence": "与吾国大同思想之发达",
+      "confidence": 0.9
+    }
+  ],
+  "definitions": [
+    {
+      "id": "def1",
+      "term": "人生",
+      "definition": "人生在世，计有五方面：形上、审美、意志、理智、身体",
+      "evidence": "人生在世，计有五方面：曰形上，曰审美，曰意志，曰理智，曰身体",
+      "confidence": 0.9
+    }
+  ],
+  "citations": [
+    {
+      "id": "cit1",
+      "citer": "张君劢",
+      "quoted_author": "威尔逊",
+      "quoted_work": "",
+      "quoted_claim": "热心国际联盟",
+      "function": "援引权威支持",
+      "evidence": "观之威尔逊之热心国际联盟",
+      "confidence": 0.9
+    }
+  ],
+  "rhetorical_devices": [
+    {
+      "id": "rh1",
+      "expression": "什么国家主义，军阀主义，工商主义，都成过去",
+      "device_type": "讽刺",
+      "literal_target": "国家主义、军阀主义、工商主义",
+      "function": "贬低对手主张，表明其过时",
+      "evidence": "什么国家主义，军阀主义，工商主义，都成过去",
+      "confidence": 0.9
+    },
+    {
+      "id": "rh2",
+      "expression": "我所说的并非梦话",
+      "device_type": "讽刺",
+      "literal_target": "可能认为作者观点是梦话的人",
+      "function": "反驳潜在质疑，强调自己观点现实可行",
+      "evidence": "敢告诸君，我所说的并非梦话",
+      "confidence": 0.9
+    }
+  ],
+  "uncertainties": [
+    {
+      "item": "甲以工商主义侵乙中的甲、乙具体指代",
+      "reason": "文本未明确说明甲、乙的具体国家或实体"
+    },
+    {
+      "item": "欧美先知先觉具体指哪些人",
+      "reason": "文本未列出具体人名"
+    }
+  ]
+}

@@ -1,0 +1,278 @@
+{
+  "metadata": {
+    "schema_version": "lite_v3.0",
+    "article_id": "丁文江_000_3ba07a5e",
+    "article_title": "玄学与科学 ——评张君劢的《人生观》",
+    "source_author": "丁文江",
+    "section_title": "",
+    "section_author": "",
+    "segment_id": "丁文江_000_3ba07a5e_s0005",
+    "segment_index": 5,
+    "source_file": "E:\\1研究生\\岭南大学\\论文毕业\\capstone\\资料\\新的内容开始了\\local_upload\\input_丁文江\\丁文江.txt"
+  },
+  "entities": [
+    {
+      "id": "e1",
+      "name": "觉官感触",
+      "canonical_name": "觉官感触",
+      "type": "概念",
+      "evidence": "都是觉官感触的结果",
+      "confidence": 0.9
+    },
+    {
+      "id": "e2",
+      "name": "思想",
+      "canonical_name": "思想",
+      "type": "概念",
+      "evidence": "这种手续是思想",
+      "confidence": 0.9
+    },
+    {
+      "id": "e3",
+      "name": "自觉",
+      "canonical_name": "自觉",
+      "type": "概念",
+      "evidence": "这叫做自觉",
+      "confidence": 0.9
+    },
+    {
+      "id": "e4",
+      "name": "无意的举动",
+      "canonical_name": "无意的举动",
+      "type": "概念",
+      "evidence": "生理上所谓无意的举动",
+      "confidence": 0.9
+    },
+    {
+      "id": "e5",
+      "name": "有意的",
+      "canonical_name": "有意的",
+      "type": "概念",
+      "evidence": "结果的举动是有意的",
+      "confidence": 0.9
+    },
+    {
+      "id": "e6",
+      "name": "玄学家",
+      "canonical_name": "玄学家",
+      "type": "阵营/群体",
+      "evidence": "玄学家都说，自觉的研究是在科学范围之外",
+      "confidence": 0.9
+    },
+    {
+      "id": "e7",
+      "name": "科学",
+      "canonical_name": "科学",
+      "type": "概念",
+      "evidence": "自觉的研究是在科学范围之外",
+      "confidence": 0.9
+    },
+    {
+      "id": "e8",
+      "name": "原子",
+      "canonical_name": "原子",
+      "type": "概念",
+      "evidence": "理化学者说有原子",
+      "confidence": 0.9
+    },
+    {
+      "id": "e9",
+      "name": "理化学者",
+      "canonical_name": "理化学者",
+      "type": "阵营/群体",
+      "evidence": "理化学者说有原子",
+      "confidence": 0.9
+    }
+  ],
+  "claims": [
+    {
+      "id": "c1",
+      "speaker": "丁文江",
+      "claim": "无论思想如何复杂，总不外乎觉官的感触",
+      "target": "",
+      "claim_type": "描述性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "然则无论思想如何复杂，总不外乎觉官的感触",
+      "confidence": 0.9
+    },
+    {
+      "id": "c2",
+      "speaker": "丁文江",
+      "claim": "直接的是思想的动机，间接的是思想的原质",
+      "target": "",
+      "claim_type": "描述性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "直接的是思想的动机，间接的是思想的原质",
+      "confidence": 0.9
+    },
+    {
+      "id": "c3",
+      "speaker": "丁文江",
+      "claim": "受过训练的脑经，能从甲种的感触经验飞到乙种，分析他们，联想他们，从直接的知觉，走到间接的概念",
+      "target": "",
+      "claim_type": "描述性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "但是受过训练的脑经，能从甲种的感触经验飞到乙种，分析他们，联想他们，从直接的知觉，走到间接的概念",
+      "confidence": 0.9
+    },
+    {
+      "id": "c4",
+      "speaker": "丁文江",
+      "claim": "我不能直接感触他有，并且不能直接证明他有，我只能推论他有",
+      "target": "旁人有没有自觉",
+      "claim_type": "描述性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "我不能直接感触他有，并且不能直接证明他有，我只能推论他有",
+      "confidence": 0.9
+    },
+    {
+      "id": "c5",
+      "speaker": "玄学家",
+      "claim": "自觉的研究是在科学范围之外",
+      "target": "自觉",
+      "claim_type": "描述性主张",
+      "claim_status": "间接转述",
+      "polarity": "negative",
+      "evidence": "玄学家都说，自觉的研究是在科学范围之外",
+      "confidence": 0.9
+    },
+    {
+      "id": "c6",
+      "speaker": "丁文江",
+      "claim": "我从我的自觉现象推论起来，说旁人也有自觉，是与科学方法不违背的",
+      "target": "",
+      "claim_type": "结论性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "我从我的自觉现象推论起来，说旁人也有自觉，是与科学方法不违背的",
+      "confidence": 0.9
+    },
+    {
+      "id": "c7",
+      "speaker": "丁文江",
+      "claim": "理化学者说有原子，但是他们何尝能用觉官去感触原子",
+      "target": "原子",
+      "claim_type": "反驳性主张",
+      "claim_status": "作者推论",
+      "polarity": "negative",
+      "evidence": "科学中这样的推论甚多，譬如理化学者说有原子，但是他们何尝能用觉官去感触原子？",
+      "confidence": 0.9
+    }
+  ],
+  "relations": [
+    {
+      "id": "r1",
+      "head": "手指的感觉痛",
+      "head_type": "概念",
+      "relation": "属于",
+      "relation_subtype": "不适用",
+      "tail": "觉官感触",
+      "tail_type": "概念",
+      "polarity": "neutral",
+      "stance_score": 0.0,
+      "intensity": 0.0,
+      "evidence": "手指的感觉痛，同上刀创药，初看起来，是两种了，仔细研究起来，都是觉官感触的结果",
+      "confidence": 0.9
+    },
+    {
+      "id": "r2",
+      "head": "上刀创药",
+      "head_type": "概念",
+      "relation": "属于",
+      "relation_subtype": "不适用",
+      "tail": "觉官感触",
+      "tail_type": "概念",
+      "polarity": "neutral",
+      "stance_score": 0.0,
+      "intensity": 0.0,
+      "evidence": "手指的感觉痛，同上刀创药，初看起来，是两种了，仔细研究起来，都是觉官感触的结果",
+      "confidence": 0.9
+    },
+    {
+      "id": "r3",
+      "head": "直接",
+      "head_type": "概念",
+      "relation": "属于",
+      "relation_subtype": "不适用",
+      "tail": "觉官感触",
+      "tail_type": "概念",
+      "polarity": "neutral",
+      "stance_score": 0.0,
+      "intensity": 0.0,
+      "evidence": "前者是直接的，后者是间接的，是为以前的觉官感触所管束的",
+      "confidence": 0.9
+    },
+    {
+      "id": "r4",
+      "head": "间接",
+      "head_type": "概念",
+      "relation": "属于",
+      "relation_subtype": "不适用",
+      "tail": "觉官感触",
+      "tail_type": "概念",
+      "polarity": "neutral",
+      "stance_score": 0.0,
+      "intensity": 0.0,
+      "evidence": "前者是直接的，后者是间接的，是为以前的觉官感触所管束的",
+      "confidence": 0.9
+    }
+  ],
+  "definitions": [
+    {
+      "id": "def1",
+      "term": "无意的举动",
+      "definition": "一种紧急的命令，接到信立刻就发的，生理上的举动",
+      "evidence": "这是一种紧急的命令，接到信立刻就发的，生理上所谓无意的举动",
+      "confidence": 0.9
+    },
+    {
+      "id": "def2",
+      "term": "思想",
+      "definition": "经过很复杂的手续，结果是有意的举动",
+      "evidence": "这种手续是思想，结果的举动是有意的",
+      "confidence": 0.9
+    },
+    {
+      "id": "def3",
+      "term": "自觉",
+      "definition": "在思想的期间，觉得经过的许多手续",
+      "evidence": "在思想的期间，我觉得经过的许多手续，这叫做自觉",
+      "confidence": 0.9
+    }
+  ],
+  "citations": [],
+  "rhetorical_devices": [],
+  "uncertainties": [
+    {
+      "item": "玄学家",
+      "reason": "文本中仅出现'玄学家都说'，未具体指明是哪位玄学家，无法确定具体人物"
+    },
+    {
+      "item": "理化学者",
+      "reason": "文本中仅出现'理化学者说有原子'，未具体指明是哪位理化学者，无法确定具体人物"
+    }
+  ],
+  "_meta": {
+    "status": "success",
+    "stage": "extract",
+    "model": "deepseek-ai/DeepSeek-V4-Flash",
+    "base_url": "https://api.siliconflow.cn/v1",
+    "prompt_version": "v2.0",
+    "schema_version": "lite_v3.0",
+    "segment_id": "丁文江_000_3ba07a5e_s0005",
+    "article_id": "丁文江_000_3ba07a5e",
+    "char_start": 2543,
+    "char_end": 3142,
+    "raw_path": "E:\\1研究生\\岭南大学\\论文毕业\\capstone\\资料\\新的内容开始了\\local_upload\\kg_runs_v2\\丁文江_等3篇\\raw_outputs\\extract\\丁文江_000_3ba07a5e_s0005.txt",
+    "parsed_at": "2026-05-21T17:06:15",
+    "started_at": "2026-05-21T17:03:24",
+    "elapsed_seconds": 171.309,
+    "strict_evidence_check": true,
+    "drop_unsupported_evidence": true,
+    "request_timeout_seconds": 180
+  }
+}

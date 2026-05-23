@@ -1,0 +1,259 @@
+{
+  "metadata": {
+    "schema_version": "lite_v2.0",
+    "article_id": "王星拱_000_4d6fdc04",
+    "article_title": "科学与人生观",
+    "source_author": "王星拱",
+    "section_title": "",
+    "section_author": "",
+    "segment_id": "王星拱_000_4d6fdc04_s0014",
+    "segment_index": 14,
+    "source_file": "E:\\1研究生\\岭南大学\\论文毕业\\capstone\\资料\\新的内容开始了\\local_upload\\input_w3\\王星拱.txt"
+  },
+  "entities": [
+    {
+      "id": "e1",
+      "name": "王星拱",
+      "canonical_name": "王星拱",
+      "type": "人物",
+      "evidence": "（元数据中 source_author 为“王星拱”，且正文第一人称“我们”可归属作者）",
+      "confidence": 1.0
+    },
+    {
+      "id": "e2",
+      "name": "北京城",
+      "canonical_name": "北京城",
+      "type": "概念",
+      "evidence": "个首善的北京城",
+      "confidence": 1.0
+    },
+    {
+      "id": "e3",
+      "name": "消费场",
+      "canonical_name": "消费场",
+      "type": "概念",
+      "evidence": "连一个消费场都没有",
+      "confidence": 1.0
+    },
+    {
+      "id": "e4",
+      "name": "粪车",
+      "canonical_name": "粪车",
+      "type": "概念",
+      "evidence": "还有许多粪车在街上横行",
+      "confidence": 1.0
+    },
+    {
+      "id": "e5",
+      "name": "贫民窟",
+      "canonical_name": "贫民窟",
+      "type": "概念",
+      "evidence": "贫民窟的贫民",
+      "confidence": 1.0
+    },
+    {
+      "id": "e6",
+      "name": "贫民",
+      "canonical_name": "贫民",
+      "type": "阵营/群体",
+      "evidence": "贫民窟的贫民",
+      "confidence": 1.0
+    },
+    {
+      "id": "e7",
+      "name": "物品",
+      "canonical_name": "物品",
+      "type": "概念",
+      "evidence": "我们天天所用的物品",
+      "confidence": 1.0
+    },
+    {
+      "id": "e8",
+      "name": "外国",
+      "canonical_name": "外国",
+      "type": "概念",
+      "evidence": "从外国输入的",
+      "confidence": 1.0
+    },
+    {
+      "id": "e9",
+      "name": "思想先进之责者",
+      "canonical_name": "思想先进之责者",
+      "type": "阵营/群体",
+      "evidence": "负思想先进之责者",
+      "confidence": 1.0
+    },
+    {
+      "id": "e10",
+      "name": "明物致用的科学",
+      "canonical_name": "明物致用的科学",
+      "type": "概念",
+      "evidence": "还要压迫明物致用的科学",
+      "confidence": 1.0
+    },
+    {
+      "id": "e11",
+      "name": "维持生活改良生活的无上利器",
+      "canonical_name": "维持生活改良生活的无上利器",
+      "type": "概念",
+      "evidence": "还要摧残维持生活改良生活的无上利器的智慧",
+      "confidence": 1.0
+    },
+    {
+      "id": "e12",
+      "name": "智慧",
+      "canonical_name": "智慧",
+      "type": "概念",
+      "evidence": "维持生活改良生活的无上利器的智慧",
+      "confidence": 1.0
+    },
+    {
+      "id": "e13",
+      "name": "《努力周报》",
+      "canonical_name": "《努力周报》",
+      "type": "著作",
+      "evidence": "转录《努力周报》",
+      "confidence": 1.0
+    }
+  ],
+  "claims": [
+    {
+      "id": "c1",
+      "speaker": "王星拱",
+      "claim": "北京城连一个消费场都没有",
+      "target": "北京城",
+      "claim_type": "社会理论主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "个首善的北京城，连一个消费场都没有",
+      "confidence": 1.0
+    },
+    {
+      "id": "c2",
+      "speaker": "王星拱",
+      "claim": "暑热的天气还有许多粪车在街上横行",
+      "target": "北京城",
+      "claim_type": "社会理论主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "到了暑热的天气，还有许多粪车在街上横行",
+      "confidence": 1.0
+    },
+    {
+      "id": "c3",
+      "speaker": "王星拱",
+      "claim": "贫民窟的贫民都穷到不成人样子",
+      "target": "贫民",
+      "claim_type": "社会理论主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "贫民窟的贫民，都穷到不成人样子",
+      "confidence": 1.0
+    },
+    {
+      "id": "c4",
+      "speaker": "王星拱",
+      "claim": "我们天天所用的物品都是直接或间接从外国输入的",
+      "target": "物品",
+      "claim_type": "社会理论主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "我们天天所用的物品，都是直接底或间接底从外国输入的",
+      "confidence": 1.0
+    },
+    {
+      "id": "c5",
+      "speaker": "王星拱",
+      "claim": "负思想先进之责者还要压迫明物致用的科学，还要摧残维持生活改良生活的无上利器的智慧",
+      "target": "思想先进之责者",
+      "claim_type": "文明批评",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "而负思想先进之责者，还要压迫明物致用的科学，还要摧残维持生活改良生活的无上利器的智慧",
+      "confidence": 1.0
+    },
+    {
+      "id": "c6",
+      "speaker": "王星拱",
+      "claim": "这种状况不应该继续下去",
+      "target": "思想先进之责者",
+      "claim_type": "价值评价",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "呜呼，是亦不可以已乎",
+      "confidence": 1.0
+    }
+  ],
+  "relations": [
+    {
+      "id": "r1",
+      "head": "思想先进之责者",
+      "head_type": "阵营/群体",
+      "relation": "批评",
+      "relation_subtype": "道德指责",
+      "tail": "明物致用的科学",
+      "tail_type": "概念",
+      "polarity": "negative",
+      "evidence": "还要压迫明物致用的科学",
+      "confidence": 1.0
+    },
+    {
+      "id": "r2",
+      "head": "思想先进之责者",
+      "head_type": "阵营/群体",
+      "relation": "批评",
+      "relation_subtype": "道德指责",
+      "tail": "智慧",
+      "tail_type": "概念",
+      "polarity": "negative",
+      "evidence": "还要摧残维持生活改良生活的无上利器的智慧",
+      "confidence": 1.0
+    },
+    {
+      "id": "r3",
+      "head": "王星拱",
+      "head_type": "人物",
+      "relation": "引用",
+      "relation_subtype": "援引权威",
+      "tail": "《努力周报》",
+      "tail_type": "著作",
+      "polarity": "neutral",
+      "evidence": "转录《努力周报》",
+      "confidence": 1.0
+    }
+  ],
+  "definitions": [],
+  "citations": [
+    {
+      "id": "cit1",
+      "citer": "王星拱",
+      "quoted_author": "",
+      "quoted_work": "《努力周报》",
+      "quoted_claim": "（转录的整段文字）",
+      "function": "中性提及",
+      "evidence": "转录《努力周报》",
+      "confidence": 1.0
+    }
+  ],
+  "rhetorical_devices": [
+    {
+      "id": "rh1",
+      "expression": "呜呼，是亦不可以已乎",
+      "device_type": "讽刺",
+      "literal_target": "思想先进之责者压迫科学和智慧的行为",
+      "function": "表达对现状的强烈不满和讽刺",
+      "evidence": "呜呼，是亦不可以已乎",
+      "confidence": 1.0
+    }
+  ],
+  "uncertainties": [
+    {
+      "item": "“套一句老文章”具体指哪篇文章",
+      "reason": "文本未指明具体出处"
+    },
+    {
+      "item": "“负思想先进之责者”具体指代哪些人",
+      "reason": "文本未明确具体人物或群体名称"
+    }
+  ]
+}

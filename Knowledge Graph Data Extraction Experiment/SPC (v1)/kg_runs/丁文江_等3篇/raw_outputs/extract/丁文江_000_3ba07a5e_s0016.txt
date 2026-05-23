@@ -1,0 +1,383 @@
+{
+  "metadata": {
+    "schema_version": "lite_v2.0",
+    "article_id": "丁文江_000_3ba07a5e",
+    "article_title": "玄学与科学 ——评张君劢的《人生观》",
+    "source_author": "丁文江",
+    "section_title": "",
+    "section_author": "",
+    "segment_id": "丁文江_000_3ba07a5e_s0016",
+    "segment_index": 16,
+    "source_file": "E:\\1研究生\\岭南大学\\论文毕业\\capstone\\资料\\新的内容开始了\\local_upload\\input_texts\\丁文江.txt"
+  },
+  "entities": [
+    {
+      "id": "e1",
+      "name": "戒文士",
+      "canonical_name": "戒文士",
+      "type": "人物",
+      "evidence": "戒文士的《科学原则》讲得最详细。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e2",
+      "name": "《科学原则》",
+      "canonical_name": "《科学原则》",
+      "type": "著作",
+      "evidence": "戒文士的《科学原则》讲得最详细。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e3",
+      "name": "证据责任问题",
+      "canonical_name": "证据责任问题",
+      "type": "概念",
+      "evidence": "就是所谓证据责任问题。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e4",
+      "name": "假设的事实",
+      "canonical_name": "假设的事实",
+      "type": "概念",
+      "evidence": "许多假设的事实，不能证明他有，也不能证明他无，但是我们决不因为不能反证他，就承认是真的。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e5",
+      "name": "鬼",
+      "canonical_name": "鬼",
+      "type": "概念",
+      "evidence": "譬如有一个人说他白日能看见鬼——这是他的自觉，我们不能证明他看不见鬼，然而证明的责任是在他，不在我们。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e6",
+      "name": "自觉",
+      "canonical_name": "自觉",
+      "type": "概念",
+      "evidence": "譬如有一个人说他白日能看见鬼——这是他的自觉，我们不能证明他看不见鬼，然而证明的责任是在他，不在我们。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e7",
+      "name": "科学知识论",
+      "canonical_name": "科学知识论",
+      "type": "概念",
+      "evidence": "以上所讲的是一种浅近的科学知识论。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e8",
+      "name": "存疑的唯心论",
+      "canonical_name": "存疑的唯心论",
+      "type": "主义/学说/理论",
+      "evidence": "用哲学的名词讲起来，可以说是存疑的唯心论。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e9",
+      "name": "赫胥黎",
+      "canonical_name": "赫胥黎",
+      "type": "人物",
+      "evidence": "凡研究过哲学问题的科学家如赫胥黎、达尔文、斯宾塞、詹姆士、皮尔逊、杜威，以及德国马哈派的哲学，细节虽有不同，大体无不如此。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e10",
+      "name": "达尔文",
+      "canonical_name": "达尔文",
+      "type": "人物",
+      "evidence": "凡研究过哲学问题的科学家如赫胥黎、达尔文、斯宾塞、詹姆士、皮尔逊、杜威，以及德国马哈派的哲学，细节虽有不同，大体无不如此。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e11",
+      "name": "斯宾塞",
+      "canonical_name": "斯宾塞",
+      "type": "人物",
+      "evidence": "凡研究过哲学问题的科学家如赫胥黎、达尔文、斯宾塞、詹姆士、皮尔逊、杜威，以及德国马哈派的哲学，细节虽有不同，大体无不如此。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e12",
+      "name": "詹姆士",
+      "canonical_name": "詹姆士",
+      "type": "人物",
+      "evidence": "凡研究过哲学问题的科学家如赫胥黎、达尔文、斯宾塞、詹姆士、皮尔逊、杜威，以及德国马哈派的哲学，细节虽有不同，大体无不如此。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e13",
+      "name": "皮尔逊",
+      "canonical_name": "皮尔逊",
+      "type": "人物",
+      "evidence": "凡研究过哲学问题的科学家如赫胥黎、达尔文、斯宾塞、詹姆士、皮尔逊、杜威，以及德国马哈派的哲学，细节虽有不同，大体无不如此。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e14",
+      "name": "杜威",
+      "canonical_name": "杜威",
+      "type": "人物",
+      "evidence": "凡研究过哲学问题的科学家如赫胥黎、达尔文、斯宾塞、詹姆士、皮尔逊、杜威，以及德国马哈派的哲学，细节虽有不同，大体无不如此。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e15",
+      "name": "德国马哈派",
+      "canonical_name": "德国马哈派",
+      "type": "阵营/群体",
+      "evidence": "以及德国马哈派的哲学，细节虽有不同，大体无不如此。",
+      "confidence": 0.9
+    }
+  ],
+  "claims": [
+    {
+      "id": "c1",
+      "speaker": "丁文江",
+      "claim": "许多假设的事实，不能证明他有，也不能证明他无，但是我们决不因为不能反证他，就承认是真的。",
+      "target": "证据责任问题",
+      "claim_type": "方法论主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "许多假设的事实，不能证明他有，也不能证明他无，但是我们决不因为不能反证他，就承认是真的。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c2",
+      "speaker": "丁文江",
+      "claim": "提出这种事实来的人，有证明他有的义务。他不能证明，他的官司就输了。",
+      "target": "证据责任问题",
+      "claim_type": "方法论主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "因为提出这种事实来的人，有证明他有的义务。他不能证明，他的官司就输了。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c3",
+      "speaker": "丁文江",
+      "claim": "譬如有一个人说他白日能看见鬼——这是他的自觉，我们不能证明他看不见鬼，然而证明的责任是在他，不在我们。",
+      "target": "证据责任问题",
+      "claim_type": "方法论主张",
+      "claim_status": "作者推论",
+      "polarity": "positive",
+      "evidence": "譬如有一个人说他白日能看见鬼——这是他的自觉，我们不能证明他看不见鬼，然而证明的责任是在他，不在我们。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c4",
+      "speaker": "丁文江",
+      "claim": "常人都看不见鬼的，所以我们说他不是说谎，就是有神经病。",
+      "target": "鬼",
+      "claim_type": "结论性主张",
+      "claim_status": "作者推论",
+      "polarity": "positive",
+      "evidence": "况且常人都看不见鬼的，所以我们说他不是说谎，就是有神经病。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c5",
+      "speaker": "丁文江",
+      "claim": "以上所讲的是一种浅近的科学知识论。用哲学的名词讲起来，可以说是存疑的唯心论。",
+      "target": "科学知识论",
+      "claim_type": "定义性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "以上所讲的是一种浅近的科学知识论。用哲学的名词讲起来，可以说是存疑的唯心论。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c6",
+      "speaker": "丁文江",
+      "claim": "凡研究过哲学问题的科学家如赫胥黎、达尔文、斯宾塞、詹姆士、皮尔逊、杜威，以及德国马哈派的哲学，细节虽有不同，大体无不如此。",
+      "target": "存疑的唯心论",
+      "claim_type": "知识论主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "凡研究过哲学问题的科学家如赫胥黎、达尔文、斯宾塞、詹姆士、皮尔逊、杜威，以及德国马哈派的哲学，细节虽有不同，大体无不如此。",
+      "confidence": 0.9
+    }
+  ],
+  "relations": [
+    {
+      "id": "r1",
+      "head": "丁文江",
+      "head_type": "人物",
+      "relation": "引用",
+      "relation_subtype": "援引权威",
+      "tail": "戒文士",
+      "tail_type": "人物",
+      "polarity": "positive",
+      "evidence": "戒文士的《科学原则》讲得最详细。",
+      "confidence": 0.9
+    },
+    {
+      "id": "r2",
+      "head": "丁文江",
+      "head_type": "人物",
+      "relation": "引用",
+      "relation_subtype": "援引权威",
+      "tail": "赫胥黎",
+      "tail_type": "人物",
+      "polarity": "positive",
+      "evidence": "凡研究过哲学问题的科学家如赫胥黎、达尔文、斯宾塞、詹姆士、皮尔逊、杜威，以及德国马哈派的哲学，细节虽有不同，大体无不如此。",
+      "confidence": 0.9
+    },
+    {
+      "id": "r3",
+      "head": "丁文江",
+      "head_type": "人物",
+      "relation": "引用",
+      "relation_subtype": "援引权威",
+      "tail": "达尔文",
+      "tail_type": "人物",
+      "polarity": "positive",
+      "evidence": "凡研究过哲学问题的科学家如赫胥黎、达尔文、斯宾塞、詹姆士、皮尔逊、杜威，以及德国马哈派的哲学，细节虽有不同，大体无不如此。",
+      "confidence": 0.9
+    },
+    {
+      "id": "r4",
+      "head": "丁文江",
+      "head_type": "人物",
+      "relation": "引用",
+      "relation_subtype": "援引权威",
+      "tail": "斯宾塞",
+      "tail_type": "人物",
+      "polarity": "positive",
+      "evidence": "凡研究过哲学问题的科学家如赫胥黎、达尔文、斯宾塞、詹姆士、皮尔逊、杜威，以及德国马哈派的哲学，细节虽有不同，大体无不如此。",
+      "confidence": 0.9
+    },
+    {
+      "id": "r5",
+      "head": "丁文江",
+      "head_type": "人物",
+      "relation": "引用",
+      "relation_subtype": "援引权威",
+      "tail": "詹姆士",
+      "tail_type": "人物",
+      "polarity": "positive",
+      "evidence": "凡研究过哲学问题的科学家如赫胥黎、达尔文、斯宾塞、詹姆士、皮尔逊、杜威，以及德国马哈派的哲学，细节虽有不同，大体无不如此。",
+      "confidence": 0.9
+    },
+    {
+      "id": "r6",
+      "head": "丁文江",
+      "head_type": "人物",
+      "relation": "引用",
+      "relation_subtype": "援引权威",
+      "tail": "皮尔逊",
+      "tail_type": "人物",
+      "polarity": "positive",
+      "evidence": "凡研究过哲学问题的科学家如赫胥黎、达尔文、斯宾塞、詹姆士、皮尔逊、杜威，以及德国马哈派的哲学，细节虽有不同，大体无不如此。",
+      "confidence": 0.9
+    },
+    {
+      "id": "r7",
+      "head": "丁文江",
+      "head_type": "人物",
+      "relation": "引用",
+      "relation_subtype": "援引权威",
+      "tail": "杜威",
+      "tail_type": "人物",
+      "polarity": "positive",
+      "evidence": "凡研究过哲学问题的科学家如赫胥黎、达尔文、斯宾塞、詹姆士、皮尔逊、杜威，以及德国马哈派的哲学，细节虽有不同，大体无不如此。",
+      "confidence": 0.9
+    },
+    {
+      "id": "r8",
+      "head": "丁文江",
+      "head_type": "人物",
+      "relation": "引用",
+      "relation_subtype": "援引权威",
+      "tail": "德国马哈派",
+      "tail_type": "阵营/群体",
+      "polarity": "positive",
+      "evidence": "以及德国马哈派的哲学，细节虽有不同，大体无不如此。",
+      "confidence": 0.9
+    },
+    {
+      "id": "r9",
+      "head": "证据责任问题",
+      "head_type": "概念",
+      "relation": "属于",
+      "relation_subtype": "不适用",
+      "tail": "科学知识论",
+      "tail_type": "概念",
+      "polarity": "positive",
+      "evidence": "以上所讲的是一种浅近的科学知识论。",
+      "confidence": 0.9
+    },
+    {
+      "id": "r10",
+      "head": "科学知识论",
+      "head_type": "概念",
+      "relation": "定义",
+      "relation_subtype": "概念澄清",
+      "tail": "存疑的唯心论",
+      "tail_type": "主义/学说/理论",
+      "polarity": "positive",
+      "evidence": "用哲学的名词讲起来，可以说是存疑的唯心论。",
+      "confidence": 0.9
+    }
+  ],
+  "definitions": [
+    {
+      "id": "def1",
+      "term": "证据责任问题",
+      "definition": "提出假设事实的人有证明其存在的义务，不能反证就承认是真的。",
+      "evidence": "就是所谓证据责任问题。许多假设的事实，不能证明他有，也不能证明他无，但是我们决不因为不能反证他，就承认是真的。因为提出这种事实来的人，有证明他有的义务。他不能证明，他的官司就输了。",
+      "confidence": 0.9
+    },
+    {
+      "id": "def2",
+      "term": "存疑的唯心论",
+      "definition": "一种浅近的科学知识论，为赫胥黎、达尔文、斯宾塞、詹姆士、皮尔逊、杜威以及德国马哈派等科学家所大体认同。",
+      "evidence": "以上所讲的是一种浅近的科学知识论。用哲学的名词讲起来，可以说是存疑的唯心论。凡研究过哲学问题的科学家如赫胥黎、达尔文、斯宾塞、詹姆士、皮尔逊、杜威，以及德国马哈派的哲学，细节虽有不同，大体无不如此。",
+      "confidence": 0.9
+    }
+  ],
+  "citations": [
+    {
+      "id": "cit1",
+      "citer": "丁文江",
+      "quoted_author": "戒文士",
+      "quoted_work": "《科学原则》",
+      "quoted_claim": "戒文士的《科学原则》讲得最详细。",
+      "function": "援引权威支持",
+      "evidence": "戒文士的《科学原则》讲得最详细。",
+      "confidence": 0.9
+    }
+  ],
+  "rhetorical_devices": [
+    {
+      "id": "rh1",
+      "expression": "他的官司就输了",
+      "device_type": "比喻",
+      "literal_target": "提出假设事实的人无法证明其事实",
+      "function": "用打官司的比喻形象说明证据责任原则，增强说服力。",
+      "evidence": "他不能证明，他的官司就输了。",
+      "confidence": 0.9
+    },
+    {
+      "id": "rh2",
+      "expression": "不是说谎，就是有神经病",
+      "device_type": "归谬",
+      "literal_target": "声称看见鬼的人",
+      "function": "通过归谬，将对方观点推向荒谬结论，强化证据责任原则的合理性。",
+      "evidence": "所以我们说他不是说谎，就是有神经病。",
+      "confidence": 0.9
+    }
+  ],
+  "uncertainties": [
+    {
+      "item": "戒文士",
+      "reason": "文本中仅出现一次，未提供全名或背景信息，无法确认其身份。"
+    },
+    {
+      "item": "德国马哈派",
+      "reason": "文本中仅提及，未具体说明其哲学内容，无法进一步抽取。"
+    }
+  ]
+}

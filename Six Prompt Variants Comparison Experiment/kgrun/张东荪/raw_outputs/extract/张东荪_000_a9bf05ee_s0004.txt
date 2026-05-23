@@ -1,0 +1,474 @@
+{
+  "metadata": {
+    "schema_version": "lite_v2.0",
+    "article_id": "张东荪_000_a9bf05ee",
+    "article_title": "劳而无功 —— 评丁在君先生口中的科学",
+    "source_author": "张东荪",
+    "section_title": "如外国人不必参加我们的朱陆异同一样。哲学一天发达一天，玄学的意味早已变迁了。丁先生还要俯拾当时攻击玄学（其实当时的玄学只是神学）的话来说，未免近于无的放矢。丁先生崇拜詹姆士，我请拿詹氏的话来告诉丁先生。詹氏在他的《哲学之几问题》一书第一讲上就说玄学在最初的意思是与科学相反，其实我们应得变更原有的意思。（按",
+    "section_author": "如外国人不必参加我们的朱陆异同一样。哲学一天发达一天，玄学的意味早已变迁了。丁先生还要俯拾当时攻击玄学（其实当时的玄学只是神学）的话来说，未免近于无的放矢。丁先生崇拜詹姆士，我请拿詹氏的话来告诉丁先生。詹氏在他的《哲学之几问题》一书第一讲上就说玄学在最初的意思是与科学相反，其实我们应得变更原有的意思。（",
+    "segment_id": "张东荪_000_a9bf05ee_s0004",
+    "segment_index": 4,
+    "source_file": "E:\\1研究生\\岭南大学\\论文毕业\\capstone\\资料\\新的内容开始了\\local_upload\\input_w0\\张东荪.txt"
+  },
+  "entities": [
+    {
+      "id": "e1",
+      "name": "张东荪",
+      "canonical_name": "张东荪",
+      "type": "人物",
+      "evidence": "我请拿詹氏的话来告诉丁先生",
+      "confidence": 1.0
+    },
+    {
+      "id": "e2",
+      "name": "丁先生",
+      "canonical_name": "丁文江",
+      "type": "人物",
+      "evidence": "丁先生若不推崇詹姆士",
+      "confidence":  permalink1.0
+    },
+    {
+      "id": "e3",
+      "name": "詹姆士",
+      "canonical_name": "威廉·詹姆斯",
+      "type": "人物",
+      "evidence": "詹姆士在他的《哲学之几问题》一书第一讲上就说",
+      "confidence": 1.0
+    },
+    {
+      "id": "e4",
+      "name": "柏格森",
+      "canonical_name": "亨利·柏格森",
+      "type": "人物",
+      "evidence": "丁先生说柏格森说心的绵延如雪的堆积完全是比喻",
+      "confidence": 1.0
+    },
+    {
+      "id": "e5",
+      "name": "马赫",
+      "canonical_name": "恩斯特·马赫",
+      "type": "人物",
+      "evidence": "马赫的经验论却被发明量子的濮朗克所讥笑",
+      "confidence": 1.0
+    },
+    {
+      "id": "e6",
+      "name": "濮朗克",
+      "canonical_name": "马克斯·普朗克",
+      "type": "人物",
+      "evidence": "马赫的经验论却被发明量子的濮朗克所讥笑",
+      "confidence": 1.0
+    },
+    {
+      "id": "e7",
+      "name": "牛顿",
+      "canonical_name": "艾萨克·牛顿",
+      "type": "人物",
+      "evidence": "牛顿的绝对运动论在当时何尝不是科学",
+      "confidence": 1.0
+    },
+    {
+      "id": "e8",
+      "name": "张先生",
+      "canonical_name": "张君劢",
+      "type": "人物",
+      "evidence": "张先生拉了兰克司德",
+      "confidence": 1.0
+    },
+    {
+      "id": "e9",
+      "name": "兰克司德",
+      "canonical_name": "兰克司德",
+      "type": "人物",
+      "evidence": "张先生拉了兰克司德",
+      "confidence": 1.0
+    },
+    {
+      "id": "e10",
+      "name": "玄学",
+      "canonical_name": "玄学",
+      "type": "概念",
+      "evidence": "玄学在最初的意思是与科学相反",
+      "confidence": 1.0
+    },
+    {
+      "id": "e11",
+      "name": "科学",
+      "canonical_name": "科学",
+      "type": "概念",
+      "evidence": "玄学在最初的意思是与科学相反",
+      "confidence": 1.0
+    },
+    {
+      "id": "e12",
+      "name": "哲学",
+      "canonical_name": "哲学",
+      "type": "概念",
+      "evidence": "哲学与科学的界限是难分的",
+      "confidence": 1.0
+    },
+    {
+      "id": "e13",
+      "name": "《哲学之几问题》",
+      "canonical_name": "《哲学之几问题》",
+      "type": "著作",
+      "evidence": "詹姆士在他的《哲学之几问题》一书第一讲上就说",
+      "confidence": 1.0
+    },
+    {
+      "id": "e14",
+      "name": "比喻",
+      "canonical_name": "比喻",
+      "type": "概念",
+      "evidence": "丁先生说柏格森说心的绵延如雪的堆积完全是比喻",
+      "confidence": 1.0
+    },
+    {
+      "id": "e15",
+      "name": "心的绵延如雪的堆积",
+      "canonical_name": "心的绵延如雪的堆积",
+      "type": "比喻/类比",
+      "evidence": "丁先生说柏格森说心的绵延如雪的堆积完全是比喻",
+      "confidence": 1.0
+    },
+    {
+      "id": "e16",
+      "name": "思想和天响雷一样",
+      "canonical_name": "思想和天响雷一样",
+      "type": "比喻/类比",
+      "evidence": "马赫所说思想和天响雷一样",
+      "confidence": 1.0
+    },
+    {
+      "id": "e17",
+      "name": "绝对运动论",
+      "canonical_name": "绝对运动论",
+      "type": "概念",
+      "evidence": "牛顿的绝对运动论在当时何尝不是科学",
+      "confidence": 1.0
+    },
+    {
+      "id": "e18",
+      "name": "经验论",
+      "canonical_name": "经验论",
+      "type": "主义/学说/理论",
+      "evidence": "马赫的经验论却被发明量子的濮朗克所讥笑",
+      "confidence": 1.0
+    },
+    {
+      "id": "e19",
+      "name": "量子",
+      "canonical_name": "量子",
+      "type": "概念",
+      "evidence": "发明量子的濮朗克",
+      "confidence": 1.0
+    }
+  ],
+  "claims": [
+    {
+      "id": "c1",
+      "speaker": "詹姆士",
+      "claim": "玄学在最初的意思是与科学相反，其实我们应得变更原有的意思",
+      "target": "玄学",
+      "claim_type": "定义性主张",
+      "claim_status": "直接引用",
+      "polarity": "neutral",
+      "evidence": "詹姆士在他的《哲学之几问题》一书第一讲上就说玄学在最初的意思是与科学相反，其实我们应得变更原有的意思",
+      "confidence": 1.0
+    },
+    {
+      "id": "c2",
+      "speaker": "詹姆士",
+      "claim": "哲学对于人生非常重要，不能反对",
+      "target": "哲学",
+      "claim_type": "价值评价",
+      "claim_status": "直接引用",
+      "polarity": "positive",
+      "evidence": "他并且说哲学对于人生非常重要，不能反对",
+      "confidence": 1.0
+    },
+    {
+      "id": "c3",
+      "speaker": "张东荪",
+      "claim": "丁先生好像是个詹姆士的知己，知道他称赞柏格森是一种虚让，不是由衷之言",
+      "target": "丁先生",
+      "claim_type": "论战策略批评",
+      "claim_status": "作者讽刺性归纳",
+      "polarity": "negative",
+      "evidence": "丁先生若不推崇詹姆士，我原不敢拿他来做挡箭牌。只因为丁先生好像是个詹姆士的知己，知道他称赞柏格森是一种虚让，不是由衷之言",
+      "confidence": 1.0
+    },
+    {
+      "id": "c4",
+      "speaker": "张东荪",
+      "claim": "詹姆士的话如上述的，我却不敢包是违心之论",
+      "target": "詹姆士",
+      "claim_type": "价值评价",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "但詹姆士的话如上述的，我却不敢包是违心之论",
+      "confidence": 1.0
+    },
+    {
+      "id": "c5",
+      "speaker": "张东荪",
+      "claim": "张先生拉了兰克司德，而偏偏丁先生不争气亦拉了一个詹姆士，真是无独有偶",
+      "target": "丁先生",
+      "claim_type": "论战策略批评",
+      "claim_status": "作者讽刺性归纳",
+      "polarity": "negative",
+      "evidence": "就是张先生拉了兰克司德，而偏偏丁先生不争气亦拉了一个詹姆士，真是无独有偶了",
+      "confidence": 1.0
+    },
+    {
+      "id": "c6",
+      "speaker": "张东荪",
+      "claim": "哲学与科学的界限是难分的",
+      "target": "哲学与科学",
+      "claim_type": "知识论主张",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "我本来亦晓得哲学与科学的界限是难分的",
+      "confidence": 1.0
+    },
+    {
+      "id": "c7",
+      "speaker": "张东荪",
+      "claim": "牛顿的绝对运动论在当时何尝不是科学，然而马赫便说是哲学而不是科学",
+      "target": "牛顿的绝对运动论",
+      "claim_type": "历史解释",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "牛顿的绝对运动论在当时何尝不是科学，然而马赫便说是哲学而不是科学",
+      "confidence": 1.0
+    },
+    {
+      "id": "c8",
+      "speaker": "张东荪",
+      "claim": "马赫的经验论却被发明量子的濮朗克所讥笑：以为仍是哲学而不是科学",
+      "target": "马赫的经验论",
+      "claim_type": "历史解释",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "马赫的经验论却被发明量子的濮朗克所讥笑：以为仍是哲学而不是科学",
+      "confidence": 1.0
+    },
+    {
+      "id": "c9",
+      "speaker": "张东荪",
+      "claim": "这种争论实是无谓",
+      "target": "哲学与科学界限的争论",
+      "claim_type": "价值评价",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "所以这种争论实是无谓",
+      "confidence": 1.0
+    },
+    {
+      "id": "c10",
+      "speaker": "张东荪",
+      "claim": "我们东方人学西方思想却不必并此无谓的东西亦学了来",
+      "target": "东方人",
+      "claim_type": "文明批评",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "我以为我们东方人学西方思想却不必并此无谓的东西亦学了来",
+      "confidence": 1.0
+    },
+    {
+      "id": "c11",
+      "speaker": "丁先生",
+      "claim": "柏格森说心的绵延如雪的堆积完全是比喻，不能算数",
+      "target": "柏格森",
+      "claim_type": "方法论主张",
+      "claim_status": "间接转述",
+      "polarity": "negative",
+      "evidence": "丁先生说柏格森说心的绵延如雪的堆积完全是比喻，不能算数",
+      "confidence": 1.0
+    },
+    {
+      "id": "c12",
+      "speaker": "张东荪",
+      "claim": "丁先生为何对于马赫所说思想和天响雷一样即不认为比喻呢？难道不是同一比喻么？何以对于一个比喻存而疑之，对于另一个比喻则存而不疑？",
+      "target": "丁先生",
+      "claim_type": "反驳性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "但请问丁先生为何对于马赫所说思想和天响雷一样（按原文为We should say \"it thinks\" just as we say \"it lightens\",今照丁先生译文),即不认为比喻呢？难道不是同一比喻么？何以对于一个比喻存而疑之，对于另一个比喻则存而不疑？",
+      "confidence": 1.0
+    }
+  ],
+  "relations": [
+    {
+      "id": "r1",
+      "head": "张东荪",
+      "head_type": "人物",
+      "relation": "引用",
+      "relation_subtype": "援引权威支持",
+      "tail": "詹姆士",
+      "tail_type": "人物",
+      "polarity": "positive",
+      "evidence": "我请拿詹氏的话来告诉丁先生。詹氏在他的《哲学之几问题》一书第一讲上就说玄学在最初的意思是与科学相反，其实我们应得变更原有的意思",
+      "confidence": 1.0
+    },
+    {
+      "id": "r2",
+      "head": "张东荪",
+      "head_type": "人物",
+      "relation": "批评",
+      "relation_subtype": "讽刺",
+      "tail": "丁先生",
+      "tail_type": "人物",
+      "polarity": "negative",
+      "evidence": "只因为丁先生好像是个詹姆士的知己，知道他称赞柏格森是一种虚让，不是由衷之言",
+      "confidence": 1.0
+    },
+    {
+      "id": "r3",
+      "head": "张东荪",
+      "head_type": "人物",
+      "relation": "批评",
+      "relation_subtype": "讽刺",
+      "tail": "丁先生",
+      "tail_type": "人物",
+      "polarity": "negative",
+      "evidence": "就是张先生拉了兰克司德，而偏偏丁先生不争气亦拉了一个詹姆士，真是无独有偶了",
+      "confidence": 1.0
+    },
+    {
+      "id": "r4",
+      "head": "张东荪",
+      "head_type": "人物",
+      "relation": "反驳",
+      "relation_subtype": "逻辑反驳",
+      "tail": "丁先生",
+      "tail_type": "人物",
+      "polarity": "negative",
+      "evidence": "但请问丁先生为何对于马赫所说思想和天响雷一样即不认为比喻呢？难道不是同一比喻么？何以对于一个比喻存而疑之，对于另一个比喻则存而不疑？",
+      "confidence": 1.0
+    },
+    {
+      "id": "r5",
+      "head": "马赫",
+      "head_type": "人物",
+      "relation": "批评",
+      "relation_subtype": "概念混淆批评",
+      "tail": "牛顿",
+      "tail_type": "人物",
+      "polarity": "negative",
+      "evidence": "牛顿的绝对运动论在当时何尝不是科学，然而马赫便说是哲学而不是科学",
+      "confidence": 1.0
+    },
+    {
+      "id": "r6",
+      "head": "濮朗克",
+      "head_type": "人物",
+      "relation": "批评",
+      "relation_subtype": "概念混淆批评",
+      "tail": "马赫",
+      "tail_type": "人物",
+      "polarity": "negative",
+      "evidence": "马赫的经验论却被发明量子的濮朗克所讥笑：以为仍是哲学而不是科学",
+      "confidence": 1.0
+    }
+  ],
+  "definitions": [
+    {
+      "id": "def1",
+      "term": "玄学",
+      "definition": "玄学在最初的意思是与科学相反，但应变更原有意思",
+      "evidence": "玄学在最初的意思是与科学相反，其实我们应得变更原有的意思",
+      "confidence": 1.0
+    }
+  ],
+  "citations": [
+    {
+      "id": "cit1",
+      "citer": "张东荪",
+      "quoted_author": "詹姆士",
+      "quoted_work": "《哲学之几问题》",
+      "quoted_claim": "玄学在最初的意思是与科学相反，其实我们应得变更原有的意思",
+      "function": "援引权威支持",
+      "evidence": "詹姆士在他的《哲学之几问题》一书第一讲上就说玄学在最初的意思是与科学相反，其实我们应得变更原有的意思",
+      "confidence": 1.0
+    },
+    {
+      "id": "cit2",
+      "citer": "张东荪",
+      "quoted_author": "詹姆士",
+      "quoted_work": "",
+      "quoted_claim": "哲学对于人生非常重要，不能反对",
+      "function": "援引权威支持",
+      "evidence": "他并且说哲学对于人生非常重要，不能反对",
+      "confidence": 1.0
+    },
+    {
+      "id": "cit3",
+      "citer": "丁先生",
+      "quoted_author": "柏格森",
+      "quoted_work": "",
+      "quoted_claim": "心的绵延如雪的堆积完全是比喻，不能算数",
+      "function": "作为批评对象",
+      "evidence": "丁先生说柏格森说心的绵延如雪的堆积完全是比喻，不能算数",
+      "confidence": 1.0
+    },
+    {
+      "id": "cit4",
+      "citer": "丁先生",
+      "quoted_author": "马赫",
+      "quoted_work": "",
+      "quoted_claim": "思想和天响雷一样",
+      "function": "中性提及",
+      "evidence": "马赫所说思想和天响雷一样（按原文为We should say \"it thinks\" just as we say \"it lightens\",今照丁先生译文)",
+      "confidence": 1.0
+    }
+  ],
+  "rhetorical_devices": [
+    {
+      "id": "rh1",
+      "expression": "挡箭牌",
+      "device_type": "比喻",
+      "literal_target": "詹姆士的话被用作辩护工具",
+      "function": "讽刺丁先生利用詹姆士的权威",
+      "evidence": "我原不敢拿他来做挡箭牌",
+      "confidence": 1.0
+    },
+    {
+      "id": "rh2",
+      "expression": "无独有偶",
+      "device_type": "讽刺",
+      "literal_target": "张先生和丁先生都拉外国权威",
+      "function": "讽刺丁先生与张君劢同样依赖权威",
+      "evidence": "真是无独有偶了",
+      "confidence": 1.0
+    },
+    {
+      "id": "rh3",
+      "expression": "心的绵延如雪的堆积",
+      "device_type": "比喻",
+      "literal_target": "柏格森对心的绵延的描述",
+      "function": "被丁先生批评为不能算数的比喻",
+      "evidence": "丁先生说柏格森说心的绵延如雪的堆积完全是比喻",
+      "confidence": 1.0
+    },
+    {
+      "id": "rh4",
+      "expression": "思想和天响雷一样",
+      "device_type": "比喻",
+      "literal_target": "马赫对思想的描述",
+      "function": "被张东荪用来质疑丁先生对比喻的双重标准",
+      "evidence": "马赫所说思想和天响雷一样",
+      "confidence": 1.0
+    }
+  ],
+  "uncertainties": [
+    {
+      "item": "张先生",
+      "reason": "文本中未明确给出全名，根据上下文推测为张君劢，但证据不足"
+    },
+    {
+      "item": "兰克司德",
+      "reason": "文本中未提供全名或背景信息，无法确认具体人物"
+    }
+  ]
+}

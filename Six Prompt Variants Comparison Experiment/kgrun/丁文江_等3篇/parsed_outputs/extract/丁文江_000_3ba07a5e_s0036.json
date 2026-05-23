@@ -1,0 +1,317 @@
+{
+  "metadata": {
+    "schema_version": "lite_v2.0",
+    "article_id": "丁文江_000_3ba07a5e",
+    "article_title": "玄学与科学 ——评张君劢的《人生观》",
+    "source_author": "丁文江",
+    "section_title": "",
+    "section_author": "",
+    "segment_id": "丁文江_000_3ba07a5e_s0036",
+    "segment_index": 36,
+    "source_file": "E:\\1研究生\\岭南大学\\论文毕业\\capstone\\资料\\新的内容开始了\\local_upload\\input_texts\\丁文江.txt"
+  },
+  "entities": [
+    {
+      "id": "e1",
+      "name": "格兰斯顿",
+      "canonical_name": "格兰斯顿",
+      "type": "Person",
+      "evidence": "格兰斯顿的攻击达尔文，我已经提过了。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e2",
+      "name": "达尔文",
+      "canonical_name": "达尔文",
+      "type": "Person",
+      "evidence": "格兰斯顿的攻击达尔文，我已经提过了。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e3",
+      "name": "巴尔福",
+      "canonical_name": "巴尔福",
+      "type": "Person",
+      "evidence": "近来做过首相外相的巴尔福很可以做这一派人的代表。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e4",
+      "name": "《信仰的根本》",
+      "canonical_name": "《信仰的根本》",
+      "type": "Book",
+      "evidence": "他著的一部书叫《信仰的根本》，依然是反对科学的。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e5",
+      "name": "科学",
+      "canonical_name": "科学",
+      "type": "Concept",
+      "evidence": "真正科学的精神，他依然没有了解",
+      "confidence": 0.9
+    },
+    {
+      "id": "e6",
+      "name": "基督教",
+      "canonical_name": "基督教",
+      "type": "Theory",
+      "evidence": "处世立身，还是变相的基督教。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e7",
+      "name": "玄学家",
+      "canonical_name": "玄学家",
+      "type": "Faction",
+      "evidence": "在德法两国都有新派的玄学家出来宣传他们的非科学主义，间接给神学做辩护人。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e8",
+      "name": "非科学主义",
+      "canonical_name": "非科学主义",
+      "type": "Theory",
+      "evidence": "在德法两国都有新派的玄学家出来宣传他们的非科学主义，间接给神学做辩护人。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e9",
+      "name": "神学",
+      "canonical_name": "神学",
+      "type": "Concept",
+      "evidence": "间接给神学做辩护人。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e10",
+      "name": "海格尔",
+      "canonical_name": "海格尔",
+      "type": "Person",
+      "evidence": "德国浪漫派的海格尔的嫡派，变成功忠君卫道的守旧党。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e11",
+      "name": "柏格森",
+      "canonical_name": "柏格森",
+      "type": "Person",
+      "evidence": "法国的柏格森拿直觉来抵制知识。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e12",
+      "name": "直觉",
+      "canonical_name": "直觉",
+      "type": "Concept",
+      "evidence": "法国的柏格森拿直觉来抵制知识。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e13",
+      "name": "知识",
+      "canonical_name": "知识",
+      "type": "Concept",
+      "evidence": "法国的柏格森拿直觉来抵制知识。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e14",
+      "name": "反对科学的人",
+      "canonical_name": "反对科学的人",
+      "type": "Faction",
+      "evidence": "都是间接直接反对科学的人。",
+      "confidence": 0.9
+    }
+  ],
+  "claims": [
+    {
+      "id": "c1",
+      "speaker": "丁文江",
+      "claim": "格兰斯顿的攻击达尔文，我已经提过了。",
+      "target": "格兰斯顿",
+      "claim_type": "历史解释",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "格兰斯顿的攻击达尔文，我已经提过了。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c2",
+      "speaker": "丁文江",
+      "claim": "巴尔福的《信仰的根本》依然是反对科学的。",
+      "target": "巴尔福",
+      "claim_type": "价值评价",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "他著的一部书叫《信仰的根本》，依然是反对科学的。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c3",
+      "speaker": "丁文江",
+      "claim": "社会上的人对于直接有用的科学或可供工业界利用的科目还肯提倡花钱，但真正科学的精神依然没有了解。",
+      "target": "社会上的人",
+      "claim_type": "文明批评",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "社会上的人，对于直接有用的科学，或是可以供工业界利用的科目，还肯提倡，还肯花钱；真正科学的精神，他依然没有了解",
+      "confidence": 0.9
+    },
+    {
+      "id": "c4",
+      "speaker": "丁文江",
+      "claim": "社会上的人处世立身还是变相的基督教。",
+      "target": "社会上的人",
+      "claim_type": "文明批评",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "处世立身，还是变相的基督教。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c5",
+      "speaker": "丁文江",
+      "claim": "在德法两国都有新派的玄学家出来宣传他们的非科学主义，间接给神学做辩护人。",
+      "target": "玄学家",
+      "claim_type": "历史解释",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "在德法两国都有新派的玄学家出来宣传他们的非科学主义，间接给神学做辩护人。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c6",
+      "speaker": "丁文江",
+      "claim": "德国浪漫派的海格尔的嫡派变成功忠君卫道的守旧党。",
+      "target": "海格尔的嫡派",
+      "claim_type": "历史解释",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "德国浪漫派的海格尔的嫡派，变成功忠君卫道的守旧党。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c7",
+      "speaker": "丁文江",
+      "claim": "法国的柏格森拿直觉来抵制知识。",
+      "target": "柏格森",
+      "claim_type": "历史解释",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "法国的柏格森拿直觉来抵制知识。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c8",
+      "speaker": "丁文江",
+      "claim": "格兰斯顿、巴尔福、德法玄学家、海格尔嫡派、柏格森都是间接直接反对科学的人。",
+      "target": "反对科学的人",
+      "claim_type": "结论性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "都是间接直接反对科学的人。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c9",
+      "speaker": "丁文江",
+      "claim": "反对科学的人对于握政治教育大权的人很有伟大的势力。",
+      "target": "反对科学的人",
+      "claim_type": "社会理论主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "他们对于普通人的影响虽然比较小，对于握政治教育大权的人，却很有伟大的势力。",
+      "confidence": 0.9
+    }
+  ],
+  "relations": [
+    {
+      "id": "r1",
+      "head": "格兰斯顿",
+      "head_type": "Person",
+      "relation": "OPPOSES",
+      "tail": "达尔文",
+      "tail_type": "Person",
+      "polarity": "negative",
+      "evidence": "格兰斯顿的攻击达尔文，我已经提过了。",
+      "confidence": 0.9
+    },
+    {
+      "id": "r2",
+      "head": "玄学家",
+      "head_type": "Faction",
+      "relation": "SUPPORTS",
+      "tail": "非科学主义",
+      "tail_type": "Theory",
+      "polarity": "positive",
+      "evidence": "在德法两国都有新派的玄学家出来宣传他们的非科学主义，间接给神学做辩护人。",
+      "confidence": 0.9
+    },
+    {
+      "id": "r3",
+      "head": "柏格森",
+      "head_type": "Person",
+      "relation": "OPPOSES",
+      "tail": "知识",
+      "tail_type": "Concept",
+      "polarity": "negative",
+      "evidence": "法国的柏格森拿直觉来抵制知识。",
+      "confidence": 0.9
+    },
+    {
+      "id": "r4",
+      "head": "柏格森",
+      "head_type": "Person",
+      "relation": "SUPPORTS",
+      "tail": "直觉",
+      "tail_type": "Concept",
+      "polarity": "positive",
+      "evidence": "法国的柏格森拿直觉来抵制知识。",
+      "confidence": 0.9
+    }
+  ],
+  "definitions": [],
+  "citations": [
+    {
+      "id": "cit1",
+      "citer": "丁文江",
+      "quoted_author": "巴尔福",
+      "quoted_work": "《信仰的根本》",
+      "quoted_claim": "反对科学",
+      "function": "作为批评对象",
+      "evidence": "他著的一部书叫《信仰的根本》，依然是反对科学的。",
+      "confidence": 0.9
+    }
+  ],
+  "rhetorical_devices": [],
+  "uncertainties": [
+    {
+      "item": "格兰斯顿攻击达尔文的具体内容未在文本中说明",
+      "reason": "文本仅提及'格兰斯顿的攻击达尔文'，未展开具体攻击内容。"
+    },
+    {
+      "item": "海格尔的嫡派与忠君卫道的守旧党之间的具体关联未明确",
+      "reason": "文本仅说'变成功忠君卫道的守旧党'，未解释如何转变。"
+    }
+  ],
+  "_meta": {
+    "status": "success",
+    "stage": "extract",
+    "model": "deepseek-ai/DeepSeek-V4-Flash",
+    "base_url": "https://api.siliconflow.cn/v1",
+    "prompt_version": "extract_prompt_v2.0",
+    "schema_version": "lite_v2.0",
+    "segment_id": "丁文江_000_3ba07a5e_s0036",
+    "article_id": "丁文江_000_3ba07a5e",
+    "char_start": 9185,
+    "char_end": 9521,
+    "raw_path": "E:\\1研究生\\岭南大学\\论文毕业\\capstone\\资料\\新的内容开始了\\local_upload\\kg_runs\\丁文江_等3篇\\raw_outputs\\extract\\丁文江_000_3ba07a5e_s0036.txt",
+    "parsed_at": "2026-05-19T03:22:41",
+    "started_at": "2026-05-19T03:20:08",
+    "elapsed_seconds": 153.637,
+    "strict_evidence_check": true,
+    "drop_unsupported_evidence": true,
+    "request_timeout_seconds": 180
+  }
+}

@@ -1,0 +1,577 @@
+{
+  "metadata": {
+    "schema_version": "lite_v3.0",
+    "article_id": "菊农_000_b90d5dfb",
+    "article_title": "人格与教育",
+    "source_author": "菊农",
+    "section_title": "",
+    "section_author": "",
+    "segment_id": "菊农_000_b90d5dfb_s0008",
+    "segment_index": 8,
+    "source_file": "E:\\1研究生\\岭南大学\\论文毕业\\capstone\\资料\\新的内容开始了\\local_upload\\input_v2_w1\\菊农.txt"
+  },
+  "entities": [
+    {
+      "id": "e1",
+      "name": "自然界一切事物",
+      "canonical_name": "自然界一切事物",
+      "type": "概念",
+      "evidence": "自然界一切事物，对于我都有精神的意义。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e2",
+      "name": "小己人格",
+      "canonical_name": "小己人格",
+      "type": "概念",
+      "evidence": "小己人格充分实现时，便与宇宙融合无间了。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e3",
+      "name": "宇宙",
+      "canonical_name": "宇宙",
+      "type": "概念",
+      "evidence": "小己人格充分实现时，便与宇宙融合无间了。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e4",
+      "name": "我们的理想",
+      "canonical_name": "我们的理想",
+      "type": "观点",
+      "evidence": "这正是我们的理想。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e5",
+      "name": "教育的真意义",
+      "canonical_name": "教育的真意义",
+      "type": "概念",
+      "evidence": "教育的真意义，便是求这种理想的实现。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e6",
+      "name": "人格的实现",
+      "canonical_name": "人格的实现",
+      "type": "概念",
+      "evidence": "人无教育，便不免为物所蔽，便不能得人格的实现。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e7",
+      "name": "现代教育",
+      "canonical_name": "现代教育",
+      "type": "概念",
+      "evidence": "现代教育却只见得下层，不曾见到上层，所以将自然与个人对峙起来，社会与个人对峙起来；一部教育史，只有偏重个人或偏重社会的许多次反动。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e8",
+      "name": "自然与个人对峙",
+      "canonical_name": "自然与个人对峙",
+      "type": "观点",
+      "evidence": "现代教育却只见得下层，不曾见到上层，所以将自然与个人对峙起来，社会与个人对峙起来；",
+      "confidence": 0.9
+    },
+    {
+      "id": "e9",
+      "name": "社会与个人对峙",
+      "canonical_name": "社会与个人对峙",
+      "type": "观点",
+      "evidence": "现代教育却只见得下层，不曾见到上层，所以将自然与个人对峙起来，社会与个人对峙起来；",
+      "confidence": 0.9
+    },
+    {
+      "id": "e10",
+      "name": "我们的教育理想",
+      "canonical_name": "我们的教育理想",
+      "type": "观点",
+      "evidence": "所以我们的教育理想，似乎始终不曾实现过。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e11",
+      "name": "个人主义机械主义下的教育",
+      "canonical_name": "个人主义机械主义下的教育",
+      "type": "概念",
+      "evidence": "现代的教育——在个人主义机械主义下的教育——完全是削足适履的教育，将个人的人格磨灭净了。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e12",
+      "name": "削足适履的教育",
+      "canonical_name": "削足适履的教育",
+      "type": "评价",
+      "evidence": "现代的教育——在个人主义机械主义下的教育——完全是削足适履的教育，将个人的人格磨灭净了。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e13",
+      "name": "印糕板",
+      "canonical_name": "印糕板",
+      "type": "比喻/类比",
+      "evidence": "好像南边人做糕点的有花样的印糕板一样，和好了灰面，只是在印糕板上一拍，便成了一块糕。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e14",
+      "name": "现代教育的大病",
+      "canonical_name": "现代教育的大病",
+      "type": "评价",
+      "evidence": "现在教育的大病，在太偏重知识，而忽略人生的别方面；即使知识方面的教育登峰造极，也只是畸形的发展。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e15",
+      "name": "科学",
+      "canonical_name": "科学",
+      "type": "概念",
+      "evidence": "现代教育之一大特色自然是科学。科学对于人类的贡献，我们不能否认，科学方法为求真之一种准备的方法，亦无疑义。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e16",
+      "name": "科学方法",
+      "canonical_name": "科学方法",
+      "type": "方法",
+      "evidence": "科学方法为求真之一种准备的方法，亦无疑义。",
+      "confidence": 0.9
+    }
+  ],
+  "claims": [
+    {
+      "id": "c1",
+      "speaker": "菊农",
+      "claim": "自然界一切事物，对于我都有精神的意义。",
+      "target": "自然界一切事物",
+      "claim_type": "描述性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "自然界一切事物，对于我都有精神的意义。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c2",
+      "speaker": "菊农",
+      "claim": "个人不是要克制自然乃是要与自然和洽。",
+      "target": "个人与自然的关系",
+      "claim_type": "规范性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "个人不是要克制自然乃是要与自然和洽。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c3",
+      "speaker": "菊农",
+      "claim": "小己人格充分实现时，便与宇宙融合无间了。",
+      "target": "小己人格与宇宙的关系",
+      "claim_type": "因果主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "小己人格充分实现时，便与宇宙融合无间了。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c4",
+      "speaker": "菊农",
+      "claim": "这正是我们的理想。",
+      "target": "小己人格与宇宙融合无间",
+      "claim_type": "评价性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "这正是我们的理想。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c5",
+      "speaker": "菊农",
+      "claim": "教育的真意义，便是求这种理想的实现。",
+      "target": "教育的真意义",
+      "claim_type": "定义性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "教育的真意义，便是求这种理想的实现。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c6",
+      "speaker": "菊农",
+      "claim": "人无教育，便不免为物所蔽，便不能得人格的实现。",
+      "target": "教育与人格实现的关系",
+      "claim_type": "因果主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "人无教育，便不免为物所蔽，便不能得人格的实现。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c7",
+      "speaker": "菊农",
+      "claim": "现代教育却只见得下层，不曾见到上层，所以将自然与个人对峙起来，社会与个人对峙起来。",
+      "target": "现代教育",
+      "claim_type": "评价性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "现代教育却只见得下层，不曾见到上层，所以将自然与个人对峙起来，社会与个人对峙起来；",
+      "confidence": 0.9
+    },
+    {
+      "id": "c8",
+      "speaker": "菊农",
+      "claim": "一部教育史，只有偏重个人或偏重社会的许多次反动。",
+      "target": "教育史",
+      "claim_type": "描述性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "一部教育史，只有偏重个人或偏重社会的许多次反动。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c9",
+      "speaker": "菊农",
+      "claim": "始终不能超过一层，从精神生活出发来做教育事业。",
+      "target": "教育史",
+      "claim_type": "评价性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "始终不能超过一层，从精神生活出发来做教育事业。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c10",
+      "speaker": "菊农",
+      "claim": "我们的教育理想，似乎始终不曾实现过。",
+      "target": "我们的教育理想",
+      "claim_type": "描述性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "所以我们的教育理想，似乎始终不曾实现过。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c11",
+      "speaker": "菊农",
+      "claim": "现代的教育——在个人主义机械主义下的教育——完全是削足适履的教育，将个人的人格磨灭净了。",
+      "target": "现代的教育",
+      "claim_type": "评价性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "现代的教育——在个人主义机械主义下的教育——完全是削足适履的教育，将个人的人格磨灭净了。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c12",
+      "speaker": "菊农",
+      "claim": "现代教育也是这般。定一格式，务使受教育的都变成与这格式合式的，千人万人都一律，他们以为能事尽了。",
+      "target": "现代教育",
+      "claim_type": "评价性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "现代教育也是这般。定一格式，务使受教育的都变成与这格式合式的，千人万人都一律，他们以为能事尽了。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c13",
+      "speaker": "菊农",
+      "claim": "只可惜个人各有个性，各有人格，万不能强同，这一层他们却不问。",
+      "target": "现代教育",
+      "claim_type": "评价性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "只可惜个人各有个性，各有人格，万不能强同，这一层他们却不问。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c14",
+      "speaker": "菊农",
+      "claim": "只求形式，办的是教育制度，何尝是培养个性，扩大人格。",
+      "target": "现代教育",
+      "claim_type": "评价性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "只求形式，办的是教育制度，何尝是培养个性，扩大人格。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c15",
+      "speaker": "菊农",
+      "claim": "现在教育的大病，在太偏重知识，而忽略人生的别方面；即使知识方面的教育登峰造极，也只是畸形的发展。",
+      "target": "现在教育",
+      "claim_type": "评价性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "现在教育的大病，在太偏重知识，而忽略人生的别方面；即使知识方面的教育登峰造极，也只是畸形的发展。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c16",
+      "speaker": "菊农",
+      "claim": "科学对于人类的贡献，我们不能否认。",
+      "target": "科学",
+      "claim_type": "评价性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "科学对于人类的贡献，我们不能否认，科学方法为求真之一种准备的方法，亦无疑义。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c17",
+      "speaker": "菊农",
+      "claim": "科学方法为求真之一种准备的方法，亦无疑义。",
+      "target": "科学方法",
+      "claim_type": "定义性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "科学方法为求真之一种准备的方法，亦无疑义。",
+      "confidence": 0.9
+    }
+  ],
+  "relations": [
+    {
+      "id": "r1",
+      "head": "自然界一切事物",
+      "head_type": "概念",
+      "relation": "解释",
+      "relation_subtype": "不适用",
+      "tail": "精神的意义",
+      "tail_type": "概念",
+      "polarity": "positive",
+      "stance_score": 1.0,
+      "intensity": 0.5,
+      "evidence": "自然界一切事物，对于我都有精神的意义。",
+      "confidence": 0.9
+    },
+    {
+      "id": "r2",
+      "head": "个人",
+      "head_type": "概念",
+      "relation": "主张",
+      "relation_subtype": "不适用",
+      "tail": "与自然和洽",
+      "tail_type": "概念",
+      "polarity": "positive",
+      "stance_score": 1.0,
+      "intensity": 0.6,
+      "evidence": "个人不是要克制自然乃是要与自然和洽。",
+      "confidence": 0.9
+    },
+    {
+      "id": "r3",
+      "head": "小己人格充分实现",
+      "head_type": "概念",
+      "relation": "导致",
+      "relation_subtype": "不适用",
+      "tail": "与宇宙融合无间",
+      "tail_type": "概念",
+      "polarity": "positive",
+      "stance_score": 1.0,
+      "intensity": 0.7,
+      "evidence": "小己人格充分实现时，便与宇宙融合无间了。",
+      "confidence": 0.9
+    },
+    {
+      "id": "r4",
+      "head": "教育的真意义",
+      "head_type": "概念",
+      "relation": "定义",
+      "relation_subtype": "概念澄清",
+      "tail": "求这种理想的实现",
+      "tail_type": "概念",
+      "polarity": "positive",
+      "stance_score": 1.0,
+      "intensity": 0.6,
+      "evidence": "教育的真意义，便是求这种理想的实现。",
+      "confidence": 0.9
+    },
+    {
+      "id": "r5",
+      "head": "人无教育",
+      "head_type": "概念",
+      "relation": "导致",
+      "relation_subtype": "不适用",
+      "tail": "为物所蔽，不能得人格的实现",
+      "tail_type": "概念",
+      "polarity": "negative",
+      "stance_score": -0.8,
+      "intensity": 0.7,
+      "evidence": "人无教育，便不免为物所蔽，便不能得人格的实现。",
+      "confidence": 0.9
+    },
+    {
+      "id": "r6",
+      "head": "现代教育",
+      "head_type": "概念",
+      "relation": "批评",
+      "relation_subtype": "一般批评",
+      "tail": "将自然与个人对峙起来，社会与个人对峙起来",
+      "tail_type": "观点",
+      "polarity": "negative",
+      "stance_score": -0.9,
+      "intensity": 0.8,
+      "evidence": "现代教育却只见得下层，不曾见到上层，所以将自然与个人对峙起来，社会与个人对峙起来；",
+      "confidence": 0.9
+    },
+    {
+      "id": "r7",
+      "head": "教育史",
+      "head_type": "概念",
+      "relation": "批评",
+      "relation_subtype": "一般批评",
+      "tail": "只有偏重个人或偏重社会的许多次反动",
+      "tail_type": "评价",
+      "polarity": "negative",
+      "stance_score": -0.8,
+      "intensity": 0.7,
+      "evidence": "一部教育史，只有偏重个人或偏重社会的许多次反动。",
+      "confidence": 0.9
+    },
+    {
+      "id": "r8",
+      "head": "教育史",
+      "head_type": "概念",
+      "relation": "批评",
+      "relation_subtype": "一般批评",
+      "tail": "始终不能超过一层，从精神生活出发来做教育事业",
+      "tail_type": "评价",
+      "polarity": "negative",
+      "stance_score": -0.9,
+      "intensity": 0.8,
+      "evidence": "始终不能超过一层，从精神生活出发来做教育事业。",
+      "confidence": 0.9
+    },
+    {
+      "id": "r9",
+      "head": "现代的教育",
+      "head_type": "概念",
+      "relation": "批评",
+      "relation_subtype": "一般批评",
+      "tail": "削足适履的教育，将个人的人格磨灭净了",
+      "tail_type": "评价",
+      "polarity": "negative",
+      "stance_score": -1.0,
+      "intensity": 0.9,
+      "evidence": "现代的教育——在个人主义机械主义下的教育——完全是削足适履的教育，将个人的人格磨灭净了。",
+      "confidence": 0.9
+    },
+    {
+      "id": "r10",
+      "head": "现代教育",
+      "head_type": "概念",
+      "relation": "类比",
+      "relation_subtype": "不适用",
+      "tail": "印糕板",
+      "tail_type": "比喻/类比",
+      "polarity": "negative",
+      "stance_score": -0.9,
+      "intensity": 0.8,
+      "evidence": "现代教育也是这般。定一格式，务使受教育的都变成与这格式合式的，千人万人都一律，他们以为能事尽了。",
+      "confidence": 0.9
+    },
+    {
+      "id": "r11",
+      "head": "现代教育",
+      "head_type": "概念",
+      "relation": "批评",
+      "relation_subtype": "一般批评",
+      "tail": "只求形式，办的是教育制度，何尝是培养个性，扩大人格",
+      "tail_type": "评价",
+      "polarity": "negative",
+      "stance_score": -1.0,
+      "intensity": 0.9,
+      "evidence": "只求形式，办的是教育制度，何尝是培养个性，扩大人格。",
+      "confidence": 0.9
+    },
+    {
+      "id": "r12",
+      "head": "现在教育",
+      "head_type": "概念",
+      "relation": "批评",
+      "relation_subtype": "一般批评",
+      "tail": "太偏重知识，而忽略人生的别方面；即使知识方面的教育登峰造极，也只是畸形的发展",
+      "tail_type": "评价",
+      "polarity": "negative",
+      "stance_score": -0.9,
+      "intensity": 0.8,
+      "evidence": "现在教育的大病，在太偏重知识，而忽略人生的别方面；即使知识方面的教育登峰造极，也只是畸形的发展。",
+      "confidence": 0.9
+    },
+    {
+      "id": "r13",
+      "head": "科学",
+      "head_type": "概念",
+      "relation": "评价",
+      "relation_subtype": "部分肯定",
+      "tail": "对于人类的贡献",
+      "tail_type": "概念",
+      "polarity": "positive",
+      "stance_score": 0.8,
+      "intensity": 0.5,
+      "evidence": "科学对于人类的贡献，我们不能否认，科学方法为求真之一种准备的方法，亦无疑义。",
+      "confidence": 0.9
+    },
+    {
+      "id": "r14",
+      "head": "科学方法",
+      "head_type": "方法",
+      "relation": "定义",
+      "relation_subtype": "概念澄清",
+      "tail": "求真之一种准备的方法",
+      "tail_type": "概念",
+      "polarity": "positive",
+      "stance_score": 0.8,
+      "intensity": 0.5,
+      "evidence": "科学方法为求真之一种准备的方法，亦无疑义。",
+      "confidence": 0.9
+    }
+  ],
+  "definitions": [
+    {
+      "id": "def1",
+      "term": "教育的真意义",
+      "definition": "教育的真意义是求小己人格与宇宙融合无间这一理想的实现。",
+      "evidence": "教育的真意义，便是求这种理想的实现。",
+      "confidence": 0.9
+    },
+    {
+      "id": "def2",
+      "term": "科学方法",
+      "definition": "科学方法为求真之一种准备的方法。",
+      "evidence": "科学方法为求真之一种准备的方法，亦无疑义。",
+      "confidence": 0.9
+    }
+  ],
+  "citations": [],
+  "rhetorical_devices": [
+    {
+      "id": "rh1",
+      "expression": "好像南边人做糕点的有花样的印糕板一样，和好了灰面，只是在印糕板上一拍，便成了一块糕。",
+      "device_type": "类比",
+      "literal_target": "现代教育定一格式，使受教育者千篇一律",
+      "function": "通过类比印糕板制作糕饼，形象地批评现代教育抹杀个性、强求一律。",
+      "evidence": "好像南边人做糕点的有花样的印糕板一样，和好了灰面，只是在印糕板上一拍，便成了一块糕。",
+      "confidence": 0.9
+    },
+    {
+      "id": "rh2",
+      "expression": "削足适履的教育",
+      "device_type": "比喻",
+      "literal_target": "现代教育强制个体适应固定格式，磨灭人格",
+      "function": "用削足适履的比喻批评现代教育对个性的摧残。",
+      "evidence": "现代的教育——在个人主义机械主义下的教育——完全是削足适履的教育，将个人的人格磨灭净了。",
+      "confidence": 0.9
+    }
+  ],
+  "uncertainties": [
+    {
+      "item": "文本中“我们的理想”中的“我们”具体指代哪些群体或阵营，文本未明确说明。",
+      "reason": "“我们”在第一人称叙述中可能指作者及其所属群体，但未具体指明。"
+    },
+    {
+      "item": "文本中“现代教育”与“现在教育”是否指同一概念，文本未明确区分。",
+      "reason": "两词在相邻段落中出现，可能同义，但未明确说明。"
+    }
+  ]
+}

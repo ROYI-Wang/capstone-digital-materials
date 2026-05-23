@@ -1,0 +1,322 @@
+{
+  "metadata": {
+    "schema_version": "lite_v3.0",
+    "article_id": "唐钺_004_0712956a",
+    "article_title": "读了《评所谓“科学与玄学之争”》以后",
+    "source_author": "唐钺",
+    "section_title": "",
+    "section_author": "",
+    "segment_id": "唐钺_004_0712956a_s0005",
+    "segment_index": 5,
+    "source_file": "E:\\1研究生\\岭南大学\\论文毕业\\capstone\\资料\\新的内容开始了\\local_upload\\input_唐钺\\唐钺.txt"
+  },
+  "entities": [
+    {
+      "id": "e1",
+      "name": "森",
+      "canonical_name": "森",
+      "type": "人物",
+      "evidence": "森在他的《伦理体系》第二卷第九章中把他分称心理的及玄学的。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e2",
+      "name": "《伦理体系》",
+      "canonical_name": "《伦理体系》",
+      "type": "著作",
+      "evidence": "森在他的《伦理体系》第二卷第九章中把他分称心理的及玄学的。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e3",
+      "name": "心理的自由",
+      "canonical_name": "心理的自由",
+      "type": "概念",
+      "evidence": "前者是指以自己的意志起决心及行为的能力（抉择的自由）",
+      "confidence": 0.9
+    },
+    {
+      "id": "e4",
+      "name": "玄学的自由",
+      "canonical_name": "玄学的自由",
+      "type": "概念",
+      "evidence": "后者是说意志或各特殊决心的自身没有原因。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e5",
+      "name": "意志的玄学的自由",
+      "canonical_name": "意志的玄学的自由",
+      "type": "概念",
+      "evidence": "我在《心理现象与因果律》里所否认的只是意志的玄学的自由（即意志无因）",
+      "confidence": 0.9
+    },
+    {
+      "id": "e6",
+      "name": "《心理现象与因果律》",
+      "canonical_name": "《心理现象与因果律》",
+      "type": "著作",
+      "evidence": "我在《心理现象与因果律》里所否认的只是意志的玄学的自由（即意志无因）",
+      "confidence": 0.9
+    },
+    {
+      "id": "e7",
+      "name": "道德上责任",
+      "canonical_name": "道德上责任",
+      "type": "概念",
+      "evidence": "怎么可以说我否认道德上责任呢？",
+      "confidence": 0.9
+    },
+    {
+      "id": "e8",
+      "name": "负责原理",
+      "canonical_name": "负责原理",
+      "type": "概念",
+      "evidence": "以上所说，或者有人以为只能说明意志有因不悖于负责原理",
+      "confidence": 0.8
+    },
+    {
+      "id": "e9",
+      "name": "因果的必然关系",
+      "canonical_name": "因果的必然关系",
+      "type": "概念",
+      "evidence": "若说作恶既然是全由因果的必然关系，何以要对治。",
+      "confidence": 0.9
+    }
+  ],
+  "claims": [
+    {
+      "id": "c1",
+      "speaker": "森",
+      "claim": "前者是指以自己的意志起决心及行为的能力（抉择的自由），后者是说意志或各特殊决心的自身没有原因。",
+      "target": "心理的自由和玄学的自由",
+      "claim_type": "定义性主张",
+      "claim_status": "直接引用",
+      "polarity": "neutral",
+      "evidence": "前者是指以自己的意志起决心及行为的能力（抉择的自由），后者是说意志或各特殊决心的自身没有原因。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c2",
+      "speaker": "森",
+      "claim": "道德上的负责及法律上的负责不过根据于心理的自由。",
+      "target": "道德上的负责及法律上的负责",
+      "claim_type": "描述性主张",
+      "claim_status": "直接引用",
+      "polarity": "neutral",
+      "evidence": "道德上的负责及法律上的负责不过根据于心理的自由。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c3",
+      "speaker": "唐钺",
+      "claim": "我在《心理现象与因果律》里所否认的只是意志的玄学的自由（即意志无因），并没有否认心理上的自由。",
+      "target": "意志的玄学的自由",
+      "claim_type": "描述性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "我在《心理现象与因果律》里所否认的只是意志的玄学的自由（即意志无因），并没有否认心理上的自由。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c4",
+      "speaker": "唐钺",
+      "claim": "怎么可以说我否认道德上责任呢？",
+      "target": "否认道德上责任",
+      "claim_type": "问题提出",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "怎么可以说我否认道德上责任呢？",
+      "confidence": 0.9
+    },
+    {
+      "id": "c5",
+      "speaker": "唐钺",
+      "claim": "我们所谓要一个人负责，不过说我们可以因他的行为的恶果而加以相当的科罚。",
+      "target": "负责",
+      "claim_type": "定义性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "我们所谓要一个人负责，不过说我们可以因他的行为的恶果而加以相当的科罚。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c6",
+      "speaker": "唐钺",
+      "claim": "这科罚的目的，正是要对治那些原因。",
+      "target": "科罚的目的",
+      "claim_type": "描述性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "这科罚的目的，正是要对治那些原因。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c7",
+      "speaker": "唐钺",
+      "claim": "社会的对治，也是因果的必然关系。",
+      "target": "社会的对治",
+      "claim_type": "描述性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "社会的对治，也是因果的必然关系。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c8",
+      "speaker": "唐钺",
+      "claim": "以上所说，或者有人以为只能说明意志有因不悖于负责原理，而不能免去把人生弄成毫无意味的结局。",
+      "target": "意志有因不悖于负责原理",
+      "claim_type": "回应性主张",
+      "claim_status": "间接转述",
+      "polarity": "negative",
+      "evidence": "以上所说，或者有人以为只能说明意志有因不悖于负责原理，而不能免去把人生弄成毫无意味的结局。",
+      "confidence": 0.8
+    }
+  ],
+  "relations": [
+    {
+      "id": "r1",
+      "head": "森",
+      "head_type": "人物",
+      "relation": "引用",
+      "relation_subtype": "援引权威",
+      "tail": "心理的自由",
+      "tail_type": "概念",
+      "polarity": "neutral",
+      "stance_score": 0.0,
+      "intensity": 0.0,
+      "evidence": "森在他的《伦理体系》第二卷第九章中把他分称心理的及玄学的。",
+      "confidence": 0.9
+    },
+    {
+      "id": "r2",
+      "head": "森",
+      "head_type": "人物",
+      "relation": "引用",
+      "relation_subtype": "援引权威",
+      "tail": "玄学的自由",
+      "tail_type": "概念",
+      "polarity": "neutral",
+      "stance_score": 0.0,
+      "intensity": 0.0,
+      "evidence": "后者是说意志或各特殊决心的自身没有原因。",
+      "confidence": 0.9
+    },
+    {
+      "id": "r3",
+      "head": "唐钺",
+      "head_type": "人物",
+      "relation": "反驳",
+      "relation_subtype": "概念澄清",
+      "tail": "否认道德上责任",
+      "tail_type": "观点",
+      "polarity": "negative",
+      "stance_score": -1.0,
+      "intensity": 0.8,
+      "evidence": "我在《心理现象与因果律》里所否认的只是意志的玄学的自由（即意志无因），并没有否认心理上的自由。怎么可以说我否认道德上责任呢？",
+      "confidence": 0.9
+    },
+    {
+      "id": "r4",
+      "head": "科罚的目的",
+      "head_type": "概念",
+      "relation": "解释",
+      "relation_subtype": "不适用",
+      "tail": "对治那些原因",
+      "tail_type": "概念",
+      "polarity": "neutral",
+      "stance_score": 0.0,
+      "intensity": 0.0,
+      "evidence": "这科罚的目的，正是要对治那些原因。",
+      "confidence": 0.9
+    },
+    {
+      "id": "r5",
+      "head": "意志有因不悖于负责原理",
+      "head_type": "观点",
+      "relation": "回应",
+      "relation_subtype": "一般批评",
+      "tail": "把人生弄成毫无意味的结局",
+      "tail_type": "观点",
+      "polarity": "negative",
+      "stance_score": -0.5,
+      "intensity": 0.5,
+      "evidence": "以上所说，或者有人以为只能说明意志有因不悖于负责原理，而不能免去把人生弄成毫无意味的结局。",
+      "confidence": 0.8
+    }
+  ],
+  "definitions": [
+    {
+      "id": "def1",
+      "term": "心理的自由",
+      "definition": "以自己的意志起决心及行为的能力（抉择的自由）",
+      "evidence": "前者是指以自己的意志起决心及行为的能力（抉择的自由）",
+      "confidence": 0.9
+    },
+    {
+      "id": "def2",
+      "term": "玄学的自由",
+      "definition": "意志或各特殊决心的自身没有原因",
+      "evidence": "后者是说意志或各特殊决心的自身没有原因。",
+      "confidence": 0.9
+    },
+    {
+      "id": "def3",
+      "term": "意志的玄学的自由",
+      "definition": "意志无因",
+      "evidence": "我在《心理现象与因果律》里所否认的只是意志的玄学的自由（即意志无因）",
+      "confidence": 0.9
+    },
+    {
+      "id": "def4",
+      "term": "负责",
+      "definition": "因他的行为的恶果而加以相当的科罚",
+      "evidence": "我们所谓要一个人负责，不过说我们可以因他的行为的恶果而加以相当的科罚。",
+      "confidence": 0.9
+    }
+  ],
+  "citations": [
+    {
+      "id": "cit1",
+      "citer": "唐钺",
+      "quoted_author": "森",
+      "quoted_work": "《伦理体系》",
+      "quoted_claim": "前者是指以自己的意志起决心及行为的能力（抉择的自由），后者是说意志或各特殊决心的自身没有原因。",
+      "function": "援引权威支持",
+      "evidence": "森在他的《伦理体系》第二卷第九章中把他分称心理的及玄学的。他说：“前者是指以自己的意志起决心及行为的能力（抉择的自由），后者是说意志或各特殊决心的自身没有原因。”",
+      "confidence": 0.9
+    },
+    {
+      "id": "cit2",
+      "citer": "唐钺",
+      "quoted_author": "森",
+      "quoted_work": "《伦理体系》",
+      "quoted_claim": "道德上的负责及法律上的负责不过根据于心理的自由。",
+      "function": "援引权威支持",
+      "evidence": "他在同章又说：“道德上的负责及法律上的负责不过根据于心理的自由。”",
+      "confidence": 0.9
+    }
+  ],
+  "rhetorical_devices": [
+    {
+      "id": "rh1",
+      "expression": "怎么可以说我否认道德上责任呢？",
+      "device_type": "反问",
+      "literal_target": "否认道德上责任",
+      "function": "反驳对方观点",
+      "evidence": "怎么可以说我否认道德上责任呢？",
+      "confidence": 0.9
+    }
+  ],
+  "uncertainties": [
+    {
+      "item": "森的全名",
+      "reason": "文本中只出现'森'，未提供全名，无法确定具体人物。"
+    },
+    {
+      "item": "《伦理体系》的完整书名和作者",
+      "reason": "文本中引用为F. Paulsen, A System of Ethics，但中文名称为《伦理体系》，可能存在翻译差异。"
+    }
+  ]
+}

@@ -1,0 +1,489 @@
+{
+  "metadata": {
+    "schema_version": "lite_v2.0",
+    "article_id": "吴稚晖_000_7d60d047",
+    "article_title": "箴洋八股化之理学",
+    "source_author": "吴稚晖",
+    "section_title": "（按",
+    "section_author": "（",
+    "segment_id": "吴稚晖_000_7d60d047_s0006",
+    "segment_index": 6,
+    "source_file": "E:\\1研究生\\岭南大学\\论文毕业\\capstone\\资料\\新的内容开始了\\local_upload\\input_w0\\吴稚晖.txt"
+  },
+  "entities": [
+    {
+      "id": "e1",
+      "name": "吴稚晖",
+      "canonical_name": "吴稚晖",
+      "type": "人物",
+      "evidence": "我的思想，上了大当",
+      "confidence": 1.0
+    },
+    {
+      "id": "e2",
+      "name": "章太炎",
+      "canonical_name": "章太炎",
+      "type": "人物",
+      "evidence": "要请章太炎去里昂讲经",
+      "confidence": 1.0
+    },
+    {
+      "id": "e3",
+      "name": "梁先生",
+      "canonical_name": "梁先生",
+      "type": "人物",
+      "evidence": "梁先生还要开一笔古董账",
+      "confidence": 0.9
+    },
+    {
+      "id": "e4",
+      "name": "胡适之",
+      "canonical_name": "胡适之",
+      "type": "人物",
+      "evidence": "胡适之是拿六经三史做了招牌",
+      "confidence": 1.0
+    },
+    {
+      "id": "e5",
+      "name": "国故",
+      "canonical_name": "国故",
+      "type": "概念",
+      "evidence": "这国故的臭东西",
+      "confidence": 1.0
+    },
+    {
+      "id": "e6",
+      "name": "物质文明",
+      "canonical_name": "物质文明",
+      "type": "概念",
+      "evidence": "鼓吹成一个干燥无味的物质文明",
+      "confidence": 1.0
+    },
+    {
+      "id": "e7",
+      "name": "国学",
+      "canonical_name": "国学",
+      "type": "概念",
+      "evidence": "国学大盛，政治无不腐败",
+      "confidence": 1.0
+    },
+    {
+      "id": "e8",
+      "name": "孔、孟、老、墨",
+      "canonical_name": "孔孟老墨",
+      "type": "人物",
+      "evidence": "孔、孟、老、墨便是春秋战国乱世的产物",
+      "confidence": 1.0
+    },
+    {
+      "id": "e9",
+      "name": "《时务报》",
+      "canonical_name": "时务报",
+      "type": "著作",
+      "evidence": "缩回到《时务报》出世以前",
+      "confidence": 1.0
+    },
+    {
+      "id": "e10",
+      "name": "《七侠五义》",
+      "canonical_name": "七侠五义",
+      "type": "著作",
+      "evidence": "骗他们读《七侠五义》",
+      "confidence": 1.0
+    },
+    {
+      "id": "e11",
+      "name": "亚里士多德",
+      "canonical_name": "亚里士多德",
+      "type": "人物",
+      "evidence": "亚里士多德之古籍，经流血而掷诸校门以外",
+      "confidence": 1.0
+    },
+    {
+      "id": "e12",
+      "name": "埃及巴比仑的文字",
+      "canonical_name": "埃及巴比仑文字",
+      "type": "概念",
+      "evidence": "埃及巴比仑的文字，希腊罗马的学术，因明唯识的佛经，周秦汉魏的汉学",
+      "confidence": 1.0
+    },
+    {
+      "id": "e13",
+      "name": "希腊罗马的学术",
+      "canonical_name": "希腊罗马学术",
+      "type": "概念",
+      "evidence": "埃及巴比仑的文字，希腊罗马的学术，因明唯识的佛经，周秦汉魏的汉学",
+      "confidence": 1.0
+    },
+    {
+      "id": "e14",
+      "name": "因明唯识的佛经",
+      "canonical_name": "因明唯识佛经",
+      "type": "概念",
+      "evidence": "埃及巴比仑的文字，希腊罗马的学术，因明唯识的佛经，周秦汉魏的汉学",
+      "confidence": 1.0
+    },
+    {
+      "id": "e15",
+      "name": "周秦汉魏的汉学",
+      "canonical_name": "周秦汉魏汉学",
+      "type": "概念",
+      "evidence": "埃及巴比仑的文字，希腊罗马的学术，因明唯识的佛经，周秦汉魏的汉学",
+      "confidence": 1.0
+    },
+    {
+      "id": "e16",
+      "name": "复古",
+      "canonical_name": "复古",
+      "type": "概念",
+      "evidence": "直是复古",
+      "confidence": 1.0
+    },
+    {
+      "id": "e17",
+      "name": "古学",
+      "canonical_name": "古学",
+      "type": "概念",
+      "evidence": "古学有整理之必要",
+      "confidence": 1.0
+    }
+  ],
+  "claims": [
+    {
+      "id": "c1",
+      "speaker": "吴稚晖",
+      "claim": "时机到了，古学有整理之必要",
+      "target": "古学",
+      "claim_type": "方法论主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "我想时机到了，古学有整理之必要",
+      "confidence":  Scalar(0.9)
+    },
+    {
+      "id": "c2",
+      "speaker": "吴稚晖",
+      "claim": "我的思想，上了大当，觉得妖雾腾空，竟缩回到《时务报》出世以前",
+      "target": "国内外的空气",
+      "claim_type": "价值评价",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "去年将国内外的空气细细一检验，我的思想，上了大当，觉得妖雾腾空，竟缩回到《时务报》出世以前",
+      "confidence": 0.9
+    },
+    {
+      "id": "c3",
+      "speaker": "吴稚晖",
+      "claim": "影响在政界，把什么最热烈的革命党，都化为最腐臭的官僚，简单归罪，可以说是四六电报打出来的",
+      "target": "复古风气",
+      "claim_type": "社会理论主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "影响在政界，把什么最热烈的革命党，都化为最腐臭的官僚，简单归罪，可以说是四六电报打出来的",
+      "confidence": 0.8
+    },
+    {
+      "id": "c4",
+      "speaker": "吴稚晖",
+      "claim": "国故的臭东西，他本同小老婆吸鸦片相依为命。小老婆吸鸦片，又同升官发财相依为命",
+      "target": "国故",
+      "claim_type": "价值评价",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "这国故的臭东西，他本同小老婆吸鸦片相依为命。小老婆吸鸦片，又同升官发财相依为命",
+      "confidence": 0.9
+    },
+    {
+      "id": "c5",
+      "speaker": "吴稚晖",
+      "claim": "国学大盛，政治无不腐败",
+      "target": "国学",
+      "claim_type": "社会理论主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "国学大盛，政治无不腐败",
+      "confidence": 0.9
+    },
+    {
+      "id": "c6",
+      "speaker": "吴稚晖",
+      "claim": "孔、孟、老、墨便是春秋战国乱世的产物",
+      "target": "孔、孟、老、墨",
+      "claim_type": "历史解释",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "因为孔、孟、老、墨便是春秋战国乱世的产物",
+      "confidence": 0.9
+    },
+    {
+      "id": "c7",
+      "speaker": "吴稚晖",
+      "claim": "非再把他丢在毛厕里三十年，现今鼓吹成一个干燥无味的物质文明，人家用机关枪打来，我也用机关枪对打，把中国站住了，再整理什么国故，毫不嫌迟",
+      "target": "国故",
+      "claim_type": "方法论主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "非再把他丢在毛厕里三十年，现今鼓吹成一个干燥无味的物质文明，人家用机关枪打来，我也用机关枪对打，把中国站住了，再整理什么国故，毫不嫌迟",
+      "confidence": 0.9
+    },
+    {
+      "id": "c8",
+      "speaker": "吴稚晖",
+      "claim": "国故不过是世界一种古董，应保存的罢了",
+      "target": "国故",
+      "claim_type": "定义性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "他不过是世界一种古董，应保存的罢了",
+      "confidence": 0.9
+    },
+    {
+      "id": "c9",
+      "speaker": "吴稚晖",
+      "claim": "埃及巴比仑的文字，希腊罗马的学术，因明唯识的佛经，周秦汉魏的汉学，是世界上人公共有维护之责的东西，是各国最高学院应该抽几个古董高等学者出来作不断的整理",
+      "target": "古董学问",
+      "claim_type": "方法论主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "埃及巴比仑的文字，希腊罗马的学术，因明唯识的佛经，周秦汉魏的汉学，是世界上人公共有维护之责的东西，是各国最高学院应该抽几个古董高等学者出来作不断的整理",
+      "confidence": 0.9
+    },
+    {
+      "id": "c10",
+      "speaker": "吴稚晖",
+      "claim": "这如何还可以化青年脑力，作为现世界的教育品呢",
+      "target": "国故",
+      "claim_type": "教育主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "这如何还可以化青年脑力，作为现世界的教育品呢",
+      "confidence": 0.9
+    },
+    {
+      "id": "c11",
+      "speaker": "吴稚晖",
+      "claim": "亚里士多德之古籍，经流血而掷诸校门以外。希腊拉丁之文，至今逐渐强迫最古董之学院废除。此种彰明皎著的大改革，是世界共认为天经地义的了",
+      "target": "古籍教育",
+      "claim_type": "历史解释",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "亚里士多德之古籍，经流血而掷诸校门以外。希腊拉丁之文，至今逐渐强迫最古董之学院废除。此种彰明皎著的大改革，是世界共认为天经地义的了",
+      "confidence": 0.9
+    },
+    {
+      "id": "c12",
+      "speaker": "吴稚晖",
+      "claim": "梁先生还要开一笔古董账，使中学毕业的学生，挟之而渡重洋，岂非大逆不道",
+      "target": "梁先生",
+      "claim_type": "论战策略批评",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "梁先生还要开一笔古董账，使中学毕业的学生，挟之而渡重洋，岂非大逆不道",
+      "confidence": 0.9
+    },
+    {
+      "id": "c13",
+      "speaker": "吴稚晖",
+      "claim": "胡适之是拿六经三史做了招牌，实在是要骗他们读《七侠五义》",
+      "target": "胡适之",
+      "claim_type": "论战策略批评",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "胡适之是拿六经三史做了招牌，实在是要骗他们读《七侠五义》",
+      "confidence": 0.9
+    },
+    {
+      "id": "c14",
+      "speaker": "吴稚晖",
+      "claim": "梁先生上了他的当，竟老实的傻气出来，把青年堆在灰字篦里，梁先生自己睡了想想，也算得上一个笨伯罢",
+      "target": "梁先生",
+      "claim_type": "论战策略批评",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "梁先生上了他的当，竟老实的傻气出来，把青年堆在灰字篦里，梁先生自己睡了想想，也算得上一个笨伯罢",
+      "confidence": 0.9
+    }
+  ],
+  "relations": [
+    {
+      "id": "r1",
+      "head": "复古",
+      "head_type": "概念",
+      "relation": "导致",
+      "relation_subtype": "不适用",
+      "tail": "革命党化为腐臭官僚",
+      "tail_type": "观点",
+      "polarity": "negative",
+      "evidence": "影响在政界，把什么最热烈的革命党，都化为最腐臭的官僚",
+      "confidence": 0.8
+    },
+    {
+      "id": "r2",
+      "head": "国故",
+      "head_type": "概念",
+      "relation": "导致",
+      "relation_subtype": "不适用",
+      "tail": "政治腐败",
+      "tail_type": "观点",
+      "polarity": "negative",
+      "evidence": "国学大盛，政治无不腐败",
+      "confidence": 0.9
+    },
+    {
+      "id": "r3",
+      "head": "孔、孟、老、墨",
+      "head_type": "人物",
+      "relation": "归因于",
+      "relation_subtype": "不适用",
+      "tail": "春秋战国乱世",
+      "tail_type": "概念",
+      "polarity": "negative",
+      "evidence": "因为孔、孟、老、墨便是春秋战国乱世的产物",
+      "confidence": 0.9
+    },
+    {
+      "id": "r4",
+      "head": "吴稚晖",
+      "head_type": "人物",
+      "relation": "批评",
+      "relation_subtype": "讽刺",
+      "tail": "梁先生",
+      "tail_type": "人物",
+      "polarity": "negative",
+      "evidence": "梁先生还要开一笔古董账，使中学毕业的学生，挟之而渡重洋，岂非大逆不道",
+      "confidence": 0.9
+    },
+    {
+      "id": "r5",
+      "head": "吴稚晖",
+      "head_type": "人物",
+      "relation": "批评",
+      "relation_subtype": "讽刺",
+      "tail": "胡适之",
+      "tail_type": "人物",
+      "polarity": "negative",
+      "evidence": "胡适之是拿六经三史做了招牌，实在是要骗他们读《七侠五义》",
+      "confidence": 0.9
+    },
+    {
+      "id": "r6",
+      "head": "吴稚晖",
+      "head_type": "人物",
+      "relation": "批评",
+      "relation_subtype": "讽刺",
+      "tail": "梁先生",
+      "tail_type": "人物",
+      "polarity": "negative",
+      "evidence": "梁先生上了他的当，竟老实的傻气出来，把青年堆在灰字篦里，梁先生自己睡了想想，也算得上一个笨伯罢",
+      "confidence": 0.9
+    },
+    {
+      "id": "r7",
+      "head": "胡适之",
+      "head_type": "人物",
+      "relation": "影响",
+      "relation_subtype": "不适用",
+      "tail": "梁先生",
+      "tail_type": "人物",
+      "polarity": "negative",
+      "evidence": "梁先生上了他的当",
+      "confidence": 0.8
+    }
+  ],
+  "definitions": [
+    {
+      "id": "def1",
+      "term": "国故",
+      "definition": "世界一种古董，应保存的罢了",
+      "evidence": "他不过是世界一种古董，应保存的罢了",
+      "confidence": 0.9
+    }
+  ],
+  "citations": [
+    {
+      "id": "cit1",
+      "citer": "吴稚晖",
+      "quoted_author": "亚里士多德",
+      "quoted_work": "亚里士多德之古籍",
+      "quoted_claim": "亚里士多德之古籍，经流血而掷诸校门以外",
+      "function": "作为历史证据",
+      "evidence": "亚里士多德之古籍，经流血而掷诸校门以外",
+      "confidence": 0.9
+    }
+  ],
+  "rhetorical_devices": [
+    {
+      "id": "rh1",
+      "expression": "妖雾腾空",
+      "device_type": "比喻",
+      "literal_target": "复古风气弥漫",
+      "function": "表达对复古风气的强烈负面评价",
+      "evidence": "觉得妖雾腾空",
+      "confidence": 0.9
+    },
+    {
+      "id": "rh2",
+      "expression": "国故的臭东西",
+      "device_type": "标签化",
+      "literal_target": "国故",
+      "function": "贬低国故，表达强烈厌恶",
+      "evidence": "这国故的臭东西",
+      "confidence": 0.9
+    },
+    {
+      "id": "rh3",
+      "expression": "同小老婆吸鸦片相依为命",
+      "device_type": "比喻",
+      "literal_target": "国故与腐败现象的关系",
+      "function": "通过比喻贬低国故，暗示其与堕落腐败的关联",
+      "evidence": "他本同小老婆吸鸦片相依为命",
+      "confidence": 0.9
+    },
+    {
+      "id": "rh4",
+      "expression": "丢在毛厕里三十年",
+      "device_type": "比喻",
+      "literal_target": "彻底抛弃国故",
+      "function": "表达对国故的极端排斥态度",
+      "evidence": "非再把他丢在毛厕里三十年",
+      "confidence": 0.9
+    },
+    {
+      "id": "rh5",
+      "expression": "干燥无味的物质文明",
+      "device_type": "标签化",
+      "literal_target": "物质文明",
+      "function": "以自嘲或反讽方式强调物质文明的实用性和非浪漫性",
+      "evidence": "鼓吹成一个干燥无味的物质文明",
+      "confidence": 0.8
+    },
+    {
+      "id": "rh6",
+      "expression": "大逆不道",
+      "device_type": "夸张",
+      "literal_target": "梁先生的做法",
+      "function": "强烈批评梁先生的主张",
+      "evidence": "岂非大逆不道",
+      "confidence": 0.9
+    },
+    {
+      "id": "rh7",
+      "expression": "笨伯",
+      "device_type": "标签化",
+      "literal_target": "梁先生",
+      "function": "讽刺梁先生愚蠢",
+      "evidence": "也算得上一个笨伯罢",
+      "confidence": 0.9
+    }
+  ],
+  "uncertainties": [
+    {
+      "item": "梁先生的具体身份",
+      "reason": "文本中仅称'梁先生'，未给出全名，无法确定具体指谁"
+    },
+    {
+      "item": "四六电报的具体含义",
+      "reason": "文本中'四六电报'含义不明确，可能指某种文体或现象"
+    }
+  ]
+}

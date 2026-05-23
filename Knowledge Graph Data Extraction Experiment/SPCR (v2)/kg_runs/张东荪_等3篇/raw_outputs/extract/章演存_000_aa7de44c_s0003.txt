@@ -1,0 +1,556 @@
+{
+  "metadata": {
+    "schema_version": "lite_v3.0",
+    "article_id": "章演存_000_aa7de44c",
+    "article_title": "张君劢主张的人生观对科学的五个异点",
+    "source_author": "章演存",
+    "section_title": "",
+    "section_author": "",
+    "segment_id": "章演存_000_aa7de44c_s0003",
+    "segment_index": 3,
+    "source_file": "E:\\1研究生\\岭南大学\\论文毕业\\capstone\\资料\\新的内容开始了\\local_upload\\input_v2_w2\\章演存.txt"
+  },
+  "entities": [
+    {
+      "id": "e1",
+      "name": "张君",
+      "canonical_name": "张君",
+      "type": "人物",
+      "evidence": "这是张君告诉我们“人生观也一样可以分析出动机和理由来的，不过分析出来还是无用的”",
+      "confidence": 1.0
+    },
+    {
+      "id": "e2",
+      "name": "人生观",
+      "canonical_name": "人生观",
+      "type": "概念",
+      "evidence": "这是张君告诉我们“人生观也一样可以分析出动机和理由来的，不过分析出来还是无用的”",
+      "confidence": 1.0
+    },
+    {
+      "id": "e3",
+      "name": "动机",
+      "canonical_name": "动机",
+      "type": "概念",
+      "evidence": "这是张君告诉我们“人生观也一样可以分析出动机和理由来的，不过分析出来还是无用的”",
+      "confidence": 1.0
+    },
+    {
+      "id": "e4",
+      "name": "理由",
+      "canonical_name": "理由",
+      "type": "概念",
+      "evidence": "这是张君告诉我们“人生观也一样可以分析出动机和理由来的，不过分析出来还是无用的”",
+      "confidence": 1.0
+    },
+    {
+      "id": "e5",
+      "name": "玄学",
+      "canonical_name": "玄学",
+      "type": "概念",
+      "evidence": "我们也只得说玄学原来是怕泄漏玄机的，也许玄学和科学不同的地方就在这一点罢?",
+      "confidence": 1.0
+    },
+    {
+      "id": "e6",
+      "name": "科学",
+      "canonical_name": "科学",
+      "type": "概念",
+      "evidence": "也许玄学和科学不同的地方就在这一点罢?",
+      "confidence": 1.0
+    },
+    {
+      "id": "e7",
+      "name": "第四 个异点",
+      "canonical_name": "第四 个异点",
+      "type": "观点",
+      "evidence": "第四 个异点:科学为因果律所支配，而人生观则为自由意志的。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e8",
+      "name": "因果律",
+      "canonical_name": "因果律",
+      "type": "概念",
+      "evidence": "科学为因果律所支配，而人生观则为自由意志的。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e9",
+      "name": "自由意志",
+      "canonical_name": "自由意志",
+      "type": "概念",
+      "evidence": "科学为因果律所支配，而人生观则为自由意志的。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e10",
+      "name": "释迦",
+      "canonical_name": "释迦",
+      "type": "人物",
+      "evidence": "张君已经把释迦的人生观和叔本华的人生观分析出一种动机和理由来了",
+      "confidence": 1.0
+    },
+    {
+      "id": "e11",
+      "name": "叔本华",
+      "canonical_name": "叔本华",
+      "type": "人物",
+      "evidence": "张君已经把释迦的人生观和叔本华的人生观分析出一种动机和理由来了",
+      "confidence": 1.0
+    },
+    {
+      "id": "e12",
+      "name": "孔",
+      "canonical_name": "孔",
+      "type": "人物",
+      "evidence": "推到孔、墨、耶稣，也何尝没有动机，没有理由？",
+      "confidence": 1.0
+    },
+    {
+      "id": "e13",
+      "name": "墨",
+      "canonical_name": "墨",
+      "type": "人物",
+      "evidence": "推到孔、墨、耶稣，也何尝没有动机，没有理由？",
+      "confidence": 1.0
+    },
+    {
+      "id": "e14",
+      "name": "耶稣",
+      "canonical_name": "耶稣",
+      "type": "人物",
+      "evidence": "推到孔、墨、耶稣，也何尝没有动机，没有理由？",
+      "confidence": 1.0
+    },
+    {
+      "id": "e15",
+      "name": "因",
+      "canonical_name": "因",
+      "type": "概念",
+      "evidence": "动机和理由就是因，他们的人生观就是果",
+      "confidence": 1.0
+    },
+    {
+      "id": "e16",
+      "name": "果",
+      "canonical_name": "果",
+      "type": "概念",
+      "evidence": "动机和理由就是因，他们的人生观就是果",
+      "confidence": 1.0
+    },
+    {
+      "id": "e17",
+      "name": "良心之自动",
+      "canonical_name": "良心之自动",
+      "type": "概念",
+      "evidence": "凡此者皆于良心之自动，而非有使之然者也。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e18",
+      "name": "悔",
+      "canonical_name": "悔",
+      "type": "概念",
+      "evidence": "所谓悔也，改过自新也，责任心也，亦非因果律所能解释",
+      "confidence": 1.0
+    },
+    {
+      "id": "e19",
+      "name": "改过自新",
+      "canonical_name": "改过自新",
+      "type": "概念",
+      "evidence": "所谓悔也，改过自新也，责任心也，亦非因果律所能解释",
+      "confidence": 1.0
+    },
+    {
+      "id": "e20",
+      "name": "责任心",
+      "canonical_name": "责任心",
+      "type": "概念",
+      "evidence": "所谓悔也，改过自新也，责任心也，亦非因果律所能解释",
+      "confidence": 1.0
+    },
+    {
+      "id": "e21",
+      "name": "自身",
+      "canonical_name": "自身",
+      "type": "概念",
+      "evidence": "而为之主体者，则在自身而已。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e22",
+      "name": "论理学",
+      "canonical_name": "论理学",
+      "type": "概念",
+      "evidence": "或者玄学本来不受论理学的支配，可以说“矛盾是一件事，人生观又是一件事”吗？",
+      "confidence": 1.0
+    },
+    {
+      "id": "e23",
+      "name": "矛盾",
+      "canonical_name": "矛盾",
+      "type": "概念",
+      "evidence": "或者玄学本来不受论理学的支配，可以说“矛盾是一件事，人生观又是一件事”吗？",
+      "confidence": 1.0
+    },
+    {
+      "id": "e24",
+      "name": "倭伊铿",
+      "canonical_name": "倭伊铿",
+      "type": "人物",
+      "evidence": "及访倭伊铿，一见倾心，于是将吾国际政治学束之高阁。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e25",
+      "name": "国际政治学",
+      "canonical_name": "国际政治学",
+      "type": "概念",
+      "evidence": "于是将吾国际政治学束之高阁。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e26",
+      "name": "西方学术之源流",
+      "canonical_name": "西方学术之源流",
+      "type": "概念",
+      "evidence": "潜心于西方学术之源流。",
+      "confidence": 1.0
+    }
+  ],
+  "claims": [
+    {
+      "id": "c1",
+      "speaker": "张君",
+      "claim": "人生观也一样可以分析出动机和理由来的，不过分析出来还是无用的",
+      "target": "人生观",
+      "claim_type": "描述性主张",
+      "claim_status": "间接转述",
+      "polarity": "negative",
+      "evidence": "这是张君告诉我们“人生观也一样可以分析出动机和理由来的，不过分析出来还是无用的”",
+      "confidence": 1.0
+    },
+    {
+      "id": "c2",
+      "speaker": "张君",
+      "claim": "人生观是全体的——不能分割",
+      "target": "人生观",
+      "claim_type": "描述性主张",
+      "claim_status": "作者概括",
+      "polarity": "negative",
+      "evidence": "但张君没有告诉我们人生观是全体的——不能分割的理由。",
+      "confidence": 0.8
+    },
+    {
+      "id": "c3",
+      "speaker": "作者",
+      "claim": "玄学原来是怕泄漏玄机的",
+      "target": "玄学",
+      "claim_type": "评价性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "我们也只得说玄学原来是怕泄漏玄机的，也许玄学和科学不同的地方就在这一点罢?",
+      "confidence": 0.9
+    },
+    {
+      "id": "c4",
+      "speaker": "张君",
+      "claim": "科学为因果律所支配，而人生观则为自由意志的",
+      "target": "第四 个异点",
+      "claim_type": "对比性主张",
+      "claim_status": "间接转述",
+      "polarity": "negative",
+      "evidence": "第四 个异点:科学为因果律所支配，而人生观则为自由意志的。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c5",
+      "speaker": "作者",
+      "claim": "动机和理由就是因，他们的人生观就是果",
+      "target": "人生观",
+      "claim_type": "因果主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "动机和理由就是因，他们的人生观就是果，这好像张君已经承认过人生观也是“为因果律所支配”的，不是自由意志的了。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c6",
+      "speaker": "张君",
+      "claim": "孔席何以不暇暖，墨突何以不得黔，耶稣何以死于十字架，释迦何以苦身修行：凡此者皆于良心之自动，而非有使之然者也。乃至就一人言之，所谓悔也，改过自新也，责任心也，亦非因果律所能解释，而为之主体者，则在自身而已。",
+      "target": "人生观",
+      "claim_type": "反驳性主张",
+      "claim_status": "直接引用",
+      "polarity": "negative",
+      "evidence": "但他偏又说“孔席何以不暇暖，墨突何以不得黔，耶稣何以死于十字架，释迦何以苦身修行：凡此者皆于良心之自动，而非有使之然者也。乃至就一人言之，所谓悔也，改过自新也，责任心也，亦非因果律所能解释，而为之主体者，则在自身而已。”",
+      "confidence": 1.0
+    },
+    {
+      "id": "c7",
+      "speaker": "作者",
+      "claim": "张君竟不怕前后自相矛盾吗？",
+      "target": "张君",
+      "claim_type": "问题提出",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "张君竟不怕前后自相矛盾吗？",
+      "confidence": 1.0
+    },
+    {
+      "id": "c8",
+      "speaker": "作者",
+      "claim": "玄学本来不受论理学的支配，可以说“矛盾是一件事，人生观又是一件事”",
+      "target": "玄学",
+      "claim_type": "假设情境",
+      "claim_status": "归谬构造",
+      "polarity": "negative",
+      "evidence": "或者玄学本来不受论理学的支配，可以说“矛盾是一件事，人生观又是一件事”吗？",
+      "confidence":  permalink1.0
+    },
+    {
+      "id": "c9",
+      "speaker": "张君",
+      "claim": "见倭伊铿，一见倾心，于是将吾国际政治学束之高阁。何也？胸中有所触，不发舒不快矣。自是以来，方潜心于西方学术之源流。",
+      "target": "张君",
+      "claim_type": "描述性主张",
+      "claim_status": "直接引用",
+      "polarity": "neutral",
+      "evidence": "张君答在君说：“及访倭伊铿，一见倾心，于是将吾国际政治学束之高阁。何也？胸中有所触，不发舒不快矣。自是以来，方潜心于西方学术之源流。”",
+      "confidence": 1.0
+    },
+    {
+      "id": "c10",
+      "speaker": "作者",
+      "claim": "张君自承“见倭伊铿”“胸中有所触”是因：“将国际政治学束之高阁”。“潜心于西方学术之源流”是果。",
+      "target": "张君",
+      "claim_type": "因果主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "张君自承“见倭伊铿”“胸中有所触”是因：“将国际政治学束之高阁”。“潜心于西方学术之源流”是果。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c11",
+      "speaker": "作者",
+      "claim": "张君的人生观已经受了因果律的支配",
+      "target": "张君",
+      "claim_type": "结论性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "这不是张君的人生观已经受了因果律的支配吗？",
+      "confidence": 1.0
+    }
+  ],
+  "relations": [
+    {
+      "id": "r1",
+      "head": "张君",
+      "head_type": "人物",
+      "relation": "主张",
+      "relation_subtype": "不适用",
+      "tail": "人生观也一样可以分析出动机和理由来的，不过分析出来还是无用的",
+      "tail_type": "观点",
+      "polarity": "negative",
+      "stance_score": -0.5,
+      "intensity": 0.5,
+      "evidence": "这是张君告诉我们“人生观也一样可以分析出动机和理由来的，不过分析出来还是无用的”",
+      "confidence": 1.0
+    },
+    {
+      "id": "r2",
+      "head": "作者",
+      "head_type": "人物",
+      "relation": "批评",
+      "relation_subtype": "证据不足批评",
+      "tail": "张君",
+      "tail_type": "人物",
+      "polarity": "negative",
+      "stance_score": -0.8,
+      "intensity": 0.7,
+      "evidence": "但张君没有告诉我们人生观是全体的——不能分割的理由。",
+      "confidence": 1.0
+    },
+    {
+      "id": "r3",
+      "head": "作者",
+      "head_type": "人物",
+      "relation": "评价",
+      "relation_subtype": "讽刺",
+      "tail": "玄学",
+      "tail_type": "概念",
+      "polarity": "negative",
+      "stance_score": -0.9,
+      "intensity": 0.8,
+      "evidence": "我们也只得说玄学原来是怕泄漏玄机的，也许玄学和科学不同的地方就在这一点罢?",
+      "confidence": 1.0
+    },
+    {
+      "id": "r4",
+      "head": "张君",
+      "head_type": "人物",
+      "relation": "主张",
+      "relation_subtype": "不适用",
+      "tail": "科学为因果律所支配，而人生观则为自由意志的",
+      "tail_type": "观点",
+      "polarity": "negative",
+      "stance_score": -0.5,
+      "intensity": 0.5,
+      "evidence": "第四 个异点:科学为因果律所支配，而人生观则为自由意志的。",
+      "confidence": 1.0
+    },
+    {
+      "id": "r5",
+      "head": "作者",
+      "head_type": "人物",
+      "relation": "反驳",
+      "relation_subtype": "逻辑反驳",
+      "tail": "张君",
+      "tail_type": "人物",
+      "polarity": "negative",
+      "stance_score": -0.9,
+      "intensity": 0.9,
+      "evidence": "动机和理由就是因，他们的人生观就是果，这好像张君已经承认过人生观也是“为因果律所支配”的，不是自由意志的了。",
+      "confidence": 1.0
+    },
+    {
+      "id": "r6",
+      "head": "张君",
+      "head_type": "人物",
+      "relation": "主张",
+      "relation_subtype": "不适用",
+      "tail": "孔席何以不暇暖，墨突何以不得黔，耶稣何以死于十字架，释迦何以苦身修行：凡此者皆于良心之自动，而非有使之然者也。乃至就一人言之，所谓悔也，改过自新也，责任心也，亦非因果律所能解释，而为之主体者，则在自身而已。",
+      "tail_type": "观点",
+      "polarity": "negative",
+      "stance_score": -0.5,
+      "intensity": 0.5,
+      "evidence": "但他偏又说“孔席何以不暇暖，墨突何以不得黔，耶稣何以死于十字架，释迦何以苦身修行：凡此者皆于良心之自动，而非有使之然者也。乃至就一人言之，所谓悔也，改过自新也，责任心也，亦非因果律所能解释，而为之主体者，则在自身而已。”",
+      "confidence": 1.0
+    },
+    {
+      "id": "r7",
+      "head": "作者",
+      "head_type": "人物",
+      "relation": "批评",
+      "relation_subtype": "自相矛盾",
+      "tail": "张君",
+      "tail_type": "人物",
+      "polarity": "negative",
+      "stance_score": -1.0,
+      "intensity": 1.0,
+      "evidence": "张君竟不怕前后自相矛盾吗？",
+      "confidence": 1.0
+    },
+    {
+      "id": "r8",
+      "head": "作者",
+      "head_type": "人物",
+      "relation": "归谬",
+      "relation_subtype": "归谬",
+      "tail": "玄学",
+      "tail_type": "概念",
+      "polarity": "negative",
+      "stance_score": -0.9,
+      "intensity": 0.8,
+      "evidence": "或者玄学本来不受论理学的支配，可以说“矛盾是一件事，人生观又是一件事”吗？",
+      "confidence": 1.0
+    },
+    {
+      "id": "r9",
+      "head": "张君",
+      "head_type": "人物",
+      "relation": "主张",
+      "relation_subtype": "不适用",
+      "tail": "见倭伊铿，一见倾心，于是将吾国际政治学束之高阁。何也？胸中有所触，不发舒不快矣。自是以来，方潜心于西方学术之源流。",
+      "tail_type": "观点",
+      "polarity": "neutral",
+      "stance_score": 0.0,
+      "intensity": 0.0,
+      "evidence": "张君答在君说：“及访倭伊铿，一见倾心，于是将吾国际政治学束之高阁。何也？胸中有所触，不发舒不快矣。自是以来，方潜心于西方学术之源流。”",
+      "confidence": 1.0
+    },
+    {
+      "id": "r10",
+      "head": "作者",
+      "head_type": "人物",
+      "relation": "反驳",
+      "relation_subtype": "逻辑反驳",
+      "tail": "张君",
+      "tail_type": "人物",
+      "polarity": "negative",
+      "stance_score": -0.9,
+      "intensity": 0.9,
+      "evidence": "张君自承“见倭伊铿”“胸中有所触”是因：“将国际政治学束之高阁”。“潜心于西方学术之源流”是果。这不是张君的人生观已经受了因果律的支配吗？",
+      "confidence": 1.0
+    }
+  ],
+  "definitions": [],
+  "citations": [
+    {
+      "id": "cit1",
+      "citer": "作者",
+      "quoted_author": "张君",
+      "quoted_work": "",
+      "quoted_claim": "人生观也一样可以分析出动机和理由来的，不过分析出来还是无用的",
+      "function": "作为批评对象",
+      "evidence": "这是张君告诉我们“人生观也一样可以分析出动机和理由来的，不过分析出来还是无用的”",
+      "confidence": 1.0
+    },
+    {
+      "id": "cit2",
+      "citer": "作者",
+      "quoted_author": "张君",
+      "quoted_work": "",
+      "quoted_claim": "孔席何以不暇暖，墨突何以不得黔，耶稣何以死于十字架，释迦何以苦身修行：凡此者皆于良心之自动，而非有使之然者也。乃至就一人言之，所谓悔也，改过自新也，责任心也，亦非因果律所能解释，而为之主体者，则在自身而已。",
+      "function": "作为批评对象",
+      "evidence": "但他偏又说“孔席何以不暇暖，墨突何以不得黔，耶稣何以死于十字架，释迦何以苦身修行：凡此者皆于良心之自动，而非有使之然者也。乃至就一人言之，所谓悔也，改过自新也，责任心也，亦非因果律所能解释，而为之主体者，则在自身而已。”",
+      "confidence": 1.0
+    },
+    {
+      "id": "cit3",
+      "citer": "作者",
+      "quoted_author": "张君",
+      "quoted_work": "",
+      "quoted_claim": "及访倭伊铿，一见倾心，于是将吾国际政治学束之高阁。何也？胸中有所触，不发舒不快矣。自是以来，方潜心于西方学术之源流。",
+      "function": "作为批评对象",
+      "evidence": "张君答在君说：“及访倭伊铿，一见倾心，于是将吾国际政治学束之高阁。何也？胸中有所触，不发舒不快矣。自是以来，方潜心于西方学术之源流。”",
+      "confidence": 1.0
+    }
+  ],
+  "rhetorical_devices": [
+    {
+      "id": "rh1",
+      "expression": "玄学原来是怕泄漏玄机的",
+      "device_type": "讽刺",
+      "literal_target": "玄学",
+      "function": "讽刺玄学不愿公开理由",
+      "evidence": "我们也只得说玄学原来是怕泄漏玄机的，也许玄学和科学不同的地方就在这一点罢?",
+      "confidence": 1.0
+    },
+    {
+      "id": "rh2",
+      "expression": "矛盾是一件事，人生观又是一件事",
+      "device_type": "归谬",
+      "literal_target": "玄学",
+      "function": "归谬玄学不受论理学支配的荒谬",
+      "evidence": "或者玄学本来不受论理学的支配，可以说“矛盾是一件事，人生观又是一件事”吗？",
+      "confidence": 1.0
+    },
+    {
+      "id": "rh3",
+      "expression": "因果律是一件事，人生观又是一件事",
+      "device_type": "归谬",
+      "literal_target": "张君",
+      "function": "归谬张君否认因果律支配人生观的荒谬",
+      "evidence": "但是我想张君一定要说“因果律是一件事，人生观又是一件事”。",
+      "confidence": 1.0
+    }
+  ],
+  "uncertainties": [
+    {
+      "item": "张君是否明确主张“人生观是全体的——不能分割”",
+      "reason": "文本说“张君没有告诉我们”，可能只是作者推断，并非直接引用张君观点。"
+    }
+  ]
+}

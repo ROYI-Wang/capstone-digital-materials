@@ -1,0 +1,529 @@
+{
+  "metadata": {
+    "schema_version": "lite_v3.0",
+    "article_id": "林宰平_000_acbbe922",
+    "article_title": "读丁在君先生的《玄学与科学》",
+    "source_author": "林宰平",
+    "section_title": "",
+    "section_author": "",
+    "segment_id": "林宰平_000_acbbe922_s0008",
+    "segment_index": 8,
+    "source_file": "E:\\1研究生\\岭南大学\\论文毕业\\capstone\\资料\\新的内容开始了\\local_upload\\input_林宰平\\林宰平.txt"
+  },
+  "entities": [
+    {
+      "id": "e1",
+      "name": "钵德定律",
+      "canonical_name": "钵德定律",
+      "type": "概念",
+      "evidence": "德（Bode）定律，在太阳系中九个行星虽说都和这定律相合",
+      "confidence": 0.9
+    },
+    {
+      "id": "e2",
+      "name": "海王星",
+      "canonical_name": "海王星",
+      "type": "概念",
+      "evidence": "其实海王星这个大魔王他无法无天的已经要宣告独立，不大服从钵德定律",
+      "confidence": 0.9
+    },
+    {
+      "id": "e3",
+      "name": "海王以外的行星",
+      "canonical_name": "海王以外的行星",
+      "type": "概念",
+      "evidence": "海王以外的行星，更无从驾驶他了",
+      "confidence": 0.8
+    },
+    {
+      "id": "e4",
+      "name": "推论",
+      "canonical_name": "推论",
+      "type": "概念",
+      "evidence": "讲到推论呢，他的价值自然比定律更不如",
+      "confidence": 0.9
+    },
+    {
+      "id": "e5",
+      "name": "假定",
+      "canonical_name": "假定",
+      "type": "概念",
+      "evidence": "凡属推论，必须先有一个假定",
+      "confidence": 0.9
+    },
+    {
+      "id": "e6",
+      "name": "地球年龄的问题",
+      "canonical_name": "地球年龄的问题",
+      "type": "问题",
+      "evidence": "譬如关于地球年龄的问题",
+      "confidence": 0.9
+    },
+    {
+      "id": "e7",
+      "name": "物理学家",
+      "canonical_name": "物理学家",
+      "type": "阵营/群体",
+      "evidence": "据物理学家所推算的，约为四十兆年",
+      "confidence": 0.9
+    },
+    {
+      "id": "e8",
+      "name": "生物学家",
+      "canonical_name": "生物学家",
+      "type": "阵营/群体",
+      "evidence": "而据生物学家的推算，则竟达数百兆年以上",
+      "confidence": 0.9
+    },
+    {
+      "id": "e9",
+      "name": "天文家",
+      "canonical_name": "天文家",
+      "type": "阵营/群体",
+      "evidence": "即如天文家所推算的数目",
+      "confidence": 0.9
+    },
+    {
+      "id": "e10",
+      "name": "地质家",
+      "canonical_name": "地质家",
+      "type": "阵营/群体",
+      "evidence": "和地质家推算的数目",
+      "confidence": 0.9
+    },
+    {
+      "id": "e11",
+      "name": "经验",
+      "canonical_name": "经验",
+      "type": "概念",
+      "evidence": "无非靠着我们经验上所认为已知的",
+      "confidence": 0.9
+    },
+    {
+      "id": "e12",
+      "name": "已知",
+      "canonical_name": "已知",
+      "type": "概念",
+      "evidence": "用以推测所未知的",
+      "confidence": 0.8
+    },
+    {
+      "id": "e13",
+      "name": "未知",
+      "canonical_name": "未知",
+      "type": "概念",
+      "evidence": "用以推测所未知的",
+      "confidence": 0.8
+    },
+    {
+      "id": "e14",
+      "name": "甲",
+      "canonical_name": "甲",
+      "type": "概念",
+      "evidence": "以为甲是如此，乙也是如此",
+      "confidence": 0.8
+    },
+    {
+      "id": "e15",
+      "name": "乙",
+      "canonical_name": "乙",
+      "type": "概念",
+      "evidence": "以为甲是如此，乙也是如此",
+      "confidence": 0.8
+    },
+    {
+      "id": "e16",
+      "name": "榆叶梅",
+      "canonical_name": "榆叶梅",
+      "type": "概念",
+      "evidence": "这几天榆叶梅才谢",
+      "confidence": 0.9
+    },
+    {
+      "id": "e17",
+      "name": "丁香",
+      "canonical_name": "丁香",
+      "type": "概念",
+      "evidence": "又开满了一堆一堆雪白的丁香",
+      "confidence": 0.9
+    }
+  ],
+  "claims": [
+    {
+      "id": "c1",
+      "speaker": "作者",
+      "claim": "海王星不大服从钵德定律",
+      "target": "钵德定律",
+      "claim_type": "描述性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "其实海王星这个大魔王他无法无天的已经要宣告独立，不大服从钵德定律",
+      "confidence": 0.9
+    },
+    {
+      "id": "c2",
+      "speaker": "作者",
+      "claim": "推论的价值比定律更不如",
+      "target": "推论",
+      "claim_type": "评价性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "讲到推论呢，他的价值自然比定律更不如",
+      "confidence": 0.9
+    },
+    {
+      "id": "c3",
+      "speaker": "作者",
+      "claim": "凡属推论，必须先有一个假定",
+      "target": "推论",
+      "claim_type": "定义性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "凡属推论，必须先有一个假定",
+      "confidence": 0.9
+    },
+    {
+      "id": "c4",
+      "speaker": "作者",
+      "claim": "假定所推出来的结果往往都是或然的，不一定能作准",
+      "target": "假定",
+      "claim_type": "评价性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "这种假定所推出来的结果，往往都是或然的，不一定能作准",
+      "confidence": 0.9
+    },
+    {
+      "id": "c5",
+      "speaker": "作者",
+      "claim": "物理学家推算地球年龄约为四十兆年，生物学家推算达数百兆年以上，二者相差悬殊",
+      "target": "地球年龄的问题",
+      "claim_type": "描述性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "据物理学家所推算的，约为四十兆年，而据生物学家的推算，则竟达数百兆年以上，二者相差得太悬远的了",
+      "confidence": 0.9
+    },
+    {
+      "id": "c6",
+      "speaker": "作者",
+      "claim": "天文家推算的数目和地质家推算的数目相差至少也有六万年",
+      "target": "地球年龄的问题",
+      "claim_type": "描述性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "即如天文家所推算的数目，和地质家推算的数目，相差至少也有六万年",
+      "confidence": 0.9
+    },
+    {
+      "id": "c7",
+      "speaker": "作者",
+      "claim": "这种结果不能叫我们相信",
+      "target": "地球年龄的问题",
+      "claim_type": "评价性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "这种结果能够叫我们相信么?",
+      "confidence": 0.8
+    },
+    {
+      "id": "c8",
+      "speaker": "作者",
+      "claim": "我们何以能够推论？无非靠着我们经验上所认为已知的，用以推测所未知的",
+      "target": "推论",
+      "claim_type": "描述性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "我们何以能够推论？无非靠着我们经验上所认为已知的，用以推测所未知的",
+      "confidence": 0.9
+    },
+    {
+      "id": "c9",
+      "speaker": "作者",
+      "claim": "由已知推未知，我们不能不冒险的立他一个假定",
+      "target": "推论",
+      "claim_type": "描述性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "由已知推未知，我们不能不冒险的立他一个假定",
+      "confidence": 0.9
+    },
+    {
+      "id": "c10",
+      "speaker": "作者",
+      "claim": "我所已知之甲的现象如此，所以推定和甲相像之乙的现象也是如此",
+      "target": "推论",
+      "claim_type": "描述性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "我所已知之甲的现象如此，所以推定和甲相像之乙的现象也是如此",
+      "confidence": 0.9
+    },
+    {
+      "id": "c11",
+      "speaker": "作者",
+      "claim": "若乙的现象与甲不是完完全全相同，那么未知的事实与已知的经验就许相去很远",
+      "target": "推论",
+      "claim_type": "因果主张",
+      "claim_status": "作者推论",
+      "polarity": "negative",
+      "evidence": "若其不是完完全全相同，那么未知的事实，与已知的经验，就许相去很远",
+      "confidence": 0.9
+    },
+    {
+      "id": "c12",
+      "speaker": "作者",
+      "claim": "榆叶梅和丁香数年以来都是后先挨著开的，没有一回失约",
+      "target": "榆叶梅",
+      "claim_type": "描述性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "数年以来，他都是这样后先挨著开的，没有一回失约",
+      "confidence": 0.9
+    }
+  ],
+  "relations": [
+    {
+      "id": "r1",
+      "head": "海王星",
+      "head_type": "概念",
+      "relation": "反对",
+      "relation_subtype": "不适用",
+      "tail": "钵德定律",
+      "tail_type": "概念",
+      "polarity": "negative",
+      "stance_score": -0.8,
+      "intensity": 0.7,
+      "evidence": "其实海王星这个大魔王他无法无天的已经要宣告独立，不大服从钵德定律",
+      "confidence": 0.9
+    },
+    {
+      "id": "r2",
+      "head": "作者",
+      "head_type": "人物",
+      "relation": "评价",
+      "relation_subtype": "一般批评",
+      "tail": "推论",
+      "tail_type": "概念",
+      "polarity": "negative",
+      "stance_score": -0.6,
+      "intensity": 0.5,
+      "evidence": "讲到推论呢，他的价值自然比定律更不如",
+      "confidence": 0.9
+    },
+    {
+      "id": "r3",
+      "head": "推论",
+      "head_type": "概念",
+      "relation": "包含",
+      "relation_subtype": "不适用",
+      "tail": "假定",
+      "tail_type": "概念",
+      "polarity": "neutral",
+      "stance_score": 0.0,
+      "intensity": 0.0,
+      "evidence": "凡属推论，必须先有一个假定",
+      "confidence": 0.9
+    },
+    {
+      "id": "r4",
+      "head": "假定",
+      "head_type": "概念",
+      "relation": "导致",
+      "relation_subtype": "不适用",
+      "tail": "或然的结果",
+      "tail_type": "概念",
+      "polarity": "negative",
+      "stance_score": -0.5,
+      "intensity": 0.4,
+      "evidence": "这种假定所推出来的结果，往往都是或然的，不一定能作准",
+      "confidence": 0.9
+    },
+    {
+      "id": "r5",
+      "head": "物理学家",
+      "head_type": "阵营/群体",
+      "relation": "主张",
+      "relation_subtype": "不适用",
+      "tail": "地球年龄约为四十兆年",
+      "tail_type": "观点",
+      "polarity": "neutral",
+      "stance_score": 0.0,
+      "intensity": 0.0,
+      "evidence": "据物理学家所推算的，约为四十兆年",
+      "confidence": 0.9
+    },
+    {
+      "id": "r6",
+      "head": "生物学家",
+      "head_type": "阵营/群体",
+      "relation": "主张",
+      "relation_subtype": "不适用",
+      "tail": "地球年龄达数百兆年以上",
+      "tail_type": "观点",
+      "polarity": "neutral",
+      "stance_score": 0.0,
+      "intensity": 0.0,
+      "evidence": "而据生物学家的推算，则竟达数百兆年以上",
+      "confidence": 0.9
+    },
+    {
+      "id": "r7",
+      "head": "天文家",
+      "head_type": "阵营/群体",
+      "relation": "主张",
+      "relation_subtype": "不适用",
+      "tail": "地球年龄的某个数目",
+      "tail_type": "观点",
+      "polarity": "neutral",
+      "stance_score": 0.0,
+      "intensity": 0.0,
+      "evidence": "即如天文家所推算的数目",
+      "confidence": 0.8
+    },
+    {
+      "id": "r8",
+      "head": "地质家",
+      "head_type": "阵营/群体",
+      "relation": "主张",
+      "relation_subtype": "不适用",
+      "tail": "地球年龄的另一个数目",
+      "tail_type": "观点",
+      "polarity": "neutral",
+      "stance_score": 0.0,
+      "intensity": 0.0,
+      "evidence": "和地质家推算的数目",
+      "confidence": 0.8
+    },
+    {
+      "id": "r9",
+      "head": "作者",
+      "head_type": "人物",
+      "relation": "质疑",
+      "relation_subtype": "事实质疑",
+      "tail": "地球年龄的推算结果",
+      "tail_type": "观点",
+      "polarity": "negative",
+      "stance_score": -0.7,
+      "intensity": 0.6,
+      "evidence": "这种结果能够叫我们相信么?",
+      "confidence": 0.8
+    },
+    {
+      "id": "r10",
+      "head": "推论",
+      "head_type": "概念",
+      "relation": "归因于",
+      "relation_subtype": "不适用",
+      "tail": "经验",
+      "tail_type": "概念",
+      "polarity": "neutral",
+      "stance_score": 0.0,
+      "intensity": 0.0,
+      "evidence": "我们何以能够推论？无非靠着我们经验上所认为已知的，用以推测所未知的",
+      "confidence": 0.9
+    },
+    {
+      "id": "r11",
+      "head": "已知",
+      "head_type": "概念",
+      "relation": "导致",
+      "relation_subtype": "不适用",
+      "tail": "未知",
+      "tail_type": "概念",
+      "polarity": "neutral",
+      "stance_score": 0.0,
+      "intensity": 0.0,
+      "evidence": "由已知推未知",
+      "confidence": 0.8
+    },
+    {
+      "id": "r12",
+      "head": "甲",
+      "head_type": "概念",
+      "relation": "导致",
+      "relation_subtype": "不适用",
+      "tail": "乙",
+      "tail_type": "概念",
+      "polarity": "neutral",
+      "stance_score": 0.0,
+      "intensity": 0.0,
+      "evidence": "我所已知之甲的现象如此，所以推定和甲相像之乙的现象也是如此",
+      "confidence": 0.9
+    },
+    {
+      "id": "r13",
+      "head": "乙的现象与甲不是完完全全相同",
+      "head_type": "观点",
+      "relation": "导致",
+      "relation_subtype": "不适用",
+      "tail": "未知的事实与已知的经验相去很远",
+      "tail_type": "观点",
+      "polarity": "negative",
+      "stance_score": -0.5,
+      "intensity": 0.4,
+      "evidence": "若其不是完完全全相同，那么未知的事实，与已知的经验，就许相去很远",
+      "confidence": 0.9
+    }
+  ],
+  "definitions": [
+    {
+      "id": "def1",
+      "term": "推论",
+      "definition": "推论必须先有一个假定，靠经验上已知的推测未知的",
+      "evidence": "凡属推论，必须先有一个假定；我们何以能够推论？无非靠着我们经验上所认为已知的，用以推测所未知的",
+      "confidence": 0.9
+    },
+    {
+      "id": "def2",
+      "term": "假定",
+      "definition": "假定是推论的前提，其推出来的结果往往是或然的",
+      "evidence": "凡属推论，必须先有一个假定，这种假定所推出来的结果，往往都是或然的",
+      "confidence": 0.9
+    }
+  ],
+  "citations": [],
+  "rhetorical_devices": [
+    {
+      "id": "rh1",
+      "expression": "海王星这个大魔王他无法无天的已经要宣告独立",
+      "device_type": "比喻",
+      "literal_target": "海王星不服从钵德定律",
+      "function": "形象化地说明海王星偏离定律的现象",
+      "evidence": "其实海王星这个大魔王他无法无天的已经要宣告独立，不大服从钵德定律",
+      "confidence": 0.9
+    },
+    {
+      "id": "rh2",
+      "expression": "无从驾驶他了",
+      "device_type": "比喻",
+      "literal_target": "海王以外的行星更难用钵德定律描述",
+      "function": "形象化地说明定律对更远行星的失效",
+      "evidence": "海王以外的行星，更无从驾驶他了",
+      "confidence": 0.9
+    },
+    {
+      "id": "rh3",
+      "expression": "这种结果能够叫我们相信么?",
+      "device_type": "反语",
+      "literal_target": "这种结果不能叫我们相信",
+      "function": "以反问形式表达对推算结果的不信任",
+      "evidence": "这种结果能够叫我们相信么?",
+      "confidence": 0.8
+    }
+  ],
+  "uncertainties": [
+    {
+      "item": "c7的claim_status",
+      "reason": "反问句'这种结果能够叫我们相信么?'可能被视为作者直接主张或修辞性反问，但证据明确表达否定态度"
+    },
+    {
+      "item": "r5和r6中tail的具体内容",
+      "reason": "原文未给出物理学家和生物学家推算的具体数值，仅描述为'约为四十兆年'和'达数百兆年以上'"
+    },
+    {
+      "item": "r7和r8中tail的具体内容",
+      "reason": "原文未给出天文家和地质家推算的具体数目，仅提及'数目'"
+    }
+  ]
+}

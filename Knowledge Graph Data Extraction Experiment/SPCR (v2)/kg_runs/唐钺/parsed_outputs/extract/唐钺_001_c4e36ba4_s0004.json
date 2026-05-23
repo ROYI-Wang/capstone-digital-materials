@@ -1,0 +1,403 @@
+{
+  "metadata": {
+    "schema_version": "lite_v3.0",
+    "article_id": "唐钺_001_c4e36ba4",
+    "article_title": "“玄学与科学”论争的所给的暗示",
+    "source_author": "唐钺",
+    "section_title": "",
+    "section_author": "",
+    "segment_id": "唐钺_001_c4e36ba4_s0004",
+    "segment_index": 4,
+    "source_file": "E:\\1研究生\\岭南大学\\论文毕业\\capstone\\资料\\新的内容开始了\\local_upload\\input_唐钺\\唐钺.txt"
+  },
+  "entities": [
+    {
+      "id": "e1",
+      "name": "哲学者",
+      "canonical_name": "哲学者",
+      "type": "阵营/群体",
+      "evidence": "哲学者不能绝对不谈科学",
+      "confidence": 0.9
+    },
+    {
+      "id": "e2",
+      "name": "科学",
+      "canonical_name": "科学",
+      "type": "概念",
+      "evidence": "哲学不能不顾及科学的事实",
+      "confidence": 0.9
+    },
+    {
+      "id": "e3",
+      "name": "柏格森",
+      "canonical_name": "柏格森",
+      "type": "人物",
+      "evidence": "就是柏格森主张直觉是科学惟一方法",
+      "confidence": 0.9
+    },
+    {
+      "id": "e4",
+      "name": "直觉",
+      "canonical_name": "直觉",
+      "type": "概念",
+      "evidence": "柏格森主张直觉是科学惟一方法",
+      "confidence": 0.9
+    },
+    {
+      "id": "e5",
+      "name": "科学方法",
+      "canonical_name": "科学方法",
+      "type": "方法",
+      "evidence": "他若不懂科学方法，何以知科学方法之不适用于哲学呢",
+      "confidence": 0.9
+    },
+    {
+      "id": "e6",
+      "name": "哲学",
+      "canonical_name": "哲学",
+      "type": "概念",
+      "evidence": "科学方法之不适用于哲学",
+      "confidence": 0.9
+    },
+    {
+      "id": "e7",
+      "name": "君劢",
+      "canonical_name": "君劢",
+      "type": "人物",
+      "evidence": "君劢和在君虽然是中国学术界中的“命妇”",
+      "confidence": 0.9
+    },
+    {
+      "id": "e8",
+      "name": "在君",
+      "canonical_name": "在君",
+      "type": "人物",
+      "evidence": "君劢和在君虽然是中国学术界中的“命妇”",
+      "confidence": 0.9
+    },
+    {
+      "id": "e9",
+      "name": "东荪先生",
+      "canonical_name": "东荪先生",
+      "type": "人物",
+      "evidence": "至于东荪先生的“如蒙赐教，恕不答复”的态度",
+      "confidence": 0.9
+    },
+    {
+      "id": "e10",
+      "name": "“如蒙赐教，恕不答复”",
+      "canonical_name": "如蒙赐教，恕不答复",
+      "type": "观点",
+      "evidence": "东荪先生的“如蒙赐教，恕不答复”的态度",
+      "confidence": 0.9
+    },
+    {
+      "id": "e11",
+      "name": "真理",
+      "canonical_name": "真理",
+      "type": "概念",
+      "evidence": "使真理早些发见呢",
+      "confidence": 0.9
+    },
+    {
+      "id": "e12",
+      "name": "日报周刊",
+      "canonical_name": "日报周刊",
+      "type": "阵营/群体",
+      "evidence": "所以日报周刊，起而兼担这种责任",
+      "confidence": 0.9
+    }
+  ],
+  "claims": [
+    {
+      "id": "c1",
+      "speaker": "唐钺",
+      "claim": "遇着学哲学者“无风起浪”来同科学寻事时，却不能不自卫",
+      "target": "学哲学者",
+      "claim_type": "规范性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "遇着学哲学者“无风起浪”来同科学寻事时，却不能不自卫（我是指卫真理，不指卫个人）",
+      "confidence": 0.9
+    },
+    {
+      "id": "c2",
+      "speaker": "唐钺",
+      "claim": "否则科学的地位，必受社会的误会，于社会一定无益而有损",
+      "target": "科学",
+      "claim_type": "因果主张",
+      "claim_status": "作者推论",
+      "polarity": "negative",
+      "evidence": "否则科学的地位，必受社会的误会，于社会一定无益而有损",
+      "confidence": 0.9
+    },
+    {
+      "id": "c3",
+      "speaker": "唐钺",
+      "claim": "哲学者不能绝对不谈科学，因为哲学不能不顾及科学的事实",
+      "target": "哲学者",
+      "claim_type": "规范性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "哲学者不能绝对不谈科学，因为哲学不能不顾及科学的事实",
+      "confidence": 0.9
+    },
+    {
+      "id": "c4",
+      "speaker": "柏格森",
+      "claim": "直觉是科学惟一方法",
+      "target": "直觉",
+      "claim_type": "描述性主张",
+      "claim_status": "间接转述",
+      "polarity": "neutral",
+      "evidence": "就是柏格森主张直觉是科学惟一方法",
+      "confidence": 0.9
+    },
+    {
+      "id": "c5",
+      "speaker": "唐钺",
+      "claim": "他若不懂科学方法，何以知科学方法之不适用于哲学呢",
+      "target": "柏格森",
+      "claim_type": "反驳性主张",
+      "claim_status": "作者推论",
+      "polarity": "negative",
+      "evidence": "他若不懂科学方法，何以知科学方法之不适用于哲学呢",
+      "confidence": 0.9
+    },
+    {
+      "id": "c6",
+      "speaker": "唐钺",
+      "claim": "学哲学者既然不能不牵涉及科学，则与其从哲学书本中学得关于科学的知识，何如从研究科学者得到这种知识呢",
+      "target": "学哲学者",
+      "claim_type": "规范性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "学哲学者既然不能不牵涉及科学，则与其从哲学书本中学得关于科学的知识，何如从研究科学者得到这种知识呢",
+      "confidence": 0.9
+    },
+    {
+      "id": "c7",
+      "speaker": "唐钺",
+      "claim": "或者有人相信哲学书本中的科学比科学者的科学靠的住些，那末，我就不敢多话了",
+      "target": "有人",
+      "claim_type": "回应性主张",
+      "claim_status": "假设情境",
+      "polarity": "negative",
+      "evidence": "或者有人相信哲学书本中的科学比科学者的科学靠的住些，那末，我就不敢多话了",
+      "confidence": 0.9
+    },
+    {
+      "id": "c8",
+      "speaker": "唐钺",
+      "claim": "就是两方有时说错话，我想也不至于给社会以恶影响",
+      "target": "两方",
+      "claim_type": "评价性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "就是两方有时说错话，我想也不至于给社会以恶影响",
+      "confidence": 0.9
+    },
+    {
+      "id": "c9",
+      "speaker": "唐钺",
+      "claim": "君劢和在君虽然是中国学术界中的“命妇”，但是，我想他们也不至期望国中读者对于他们的话一味随声附和",
+      "target": "君劢和在君",
+      "claim_type": "评价性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "mixed",
+      "evidence": "君劢和在君虽然是中国学术界中的“命妇”，但是，我想他们也不至期望国中读者对于他们的话一味随声附和",
+      "confidence": 0.9
+    },
+    {
+      "id": "c10",
+      "speaker": "唐钺",
+      "claim": "他们一两句错话，都有人出来驳正他，何至于给人家当做“金科玉律”呢",
+      "target": "君劢和在君",
+      "claim_type": "反驳性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "即如这回，他们一两句错话，都有人出来驳正他，何至于给人家当做“金科玉律”呢",
+      "confidence": 0.9
+    },
+    {
+      "id": "c11",
+      "speaker": "唐钺",
+      "claim": "东荪先生的“如蒙赐教，恕不答复”的态度，我的浅见以为不是顶正当的",
+      "target": "东荪先生",
+      "claim_type": "评价性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "至于东荪先生的“如蒙赐教，恕不答复”的态度，我的浅见以为不是顶正当的",
+      "confidence": 0.9
+    },
+    {
+      "id": "c12",
+      "speaker": "唐钺",
+      "claim": "人家驳我，我若以为实无答复的价值，尽可以不答复。但是预先声明不答复，可以不必",
+      "target": "东荪先生",
+      "claim_type": "规范性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "人家驳我，我若以为实无答复的价值，尽可以不答复。但是预先声明不答复，可以不必",
+      "confidence": 0.9
+    },
+    {
+      "id": "c13",
+      "speaker": "唐钺",
+      "claim": "我国还没有适当机关，可以发表玄学同学中一般的问题的言论的",
+      "target": "发表辩论的机关",
+      "claim_type": "描述性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "我国还没有适当机关，可以发表玄学同学中一般的问题的言论的",
+      "confidence": 0.9
+    },
+    {
+      "id": "c14",
+      "speaker": "唐钺",
+      "claim": "一般读者却真是求知若渴，所以日报周刊，起而兼担这种责任",
+      "target": "日报周刊",
+      "claim_type": "因果主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "一般读者却真是求知若渴，所以日报周刊，起而兼担这种责任",
+      "confidence": 0.9
+    },
+    {
+      "id": "c15",
+      "speaker": "唐钺",
+      "claim": "这固然是很好，但是，也不免有坏处",
+      "target": "日报周刊兼担责任",
+      "claim_type": "评价性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "mixed",
+      "evidence": "这固然是很好，但是，也不免有坏处",
+      "confidence": 0.9
+    }
+  ],
+  "relations": [
+    {
+      "id": "r1",
+      "head": "学哲学者",
+      "head_type": "阵营/群体",
+      "relation": "批评",
+      "relation_subtype": "概念混淆批评",
+      "tail": "科学",
+      "tail_type": "概念",
+      "polarity": "negative",
+      "stance_score": -0.5,
+      "intensity": 0.5,
+      "evidence": "遇着学哲学者“无风起浪”来同科学寻事时",
+      "confidence": 0.9
+    },
+    {
+      "id": "r2",
+      "head": "唐钺",
+      "head_type": "人物",
+      "relation": "相关",
+      "relation_subtype": "部分肯定",
+      "tail": "君劢和在君",
+      "tail_type": "人物",
+      "polarity": "mixed",
+      "stance_score": 0.0,
+      "intensity": 0.4,
+      "evidence": "君劢和在君虽然是中国学术界中的“命妇”，但是，我想他们也不至期望国中读者对于他们的话一味随声附和",
+      "confidence": 0.9
+    },
+    {
+      "id": "r3",
+      "head": "唐钺",
+      "head_type": "人物",
+      "relation": "批评",
+      "relation_subtype": "一般批评",
+      "tail": "东荪先生",
+      "tail_type": "人物",
+      "polarity": "negative",
+      "stance_score": -0.7,
+      "intensity": 0.6,
+      "evidence": "至于东荪先生的“如蒙赐教，恕不答复”的态度，我的浅见以为不是顶正当的",
+      "confidence": 0.9
+    }
+  ],
+  "definitions": [],
+  "citations": [
+    {
+      "id": "cit1",
+      "citer": "唐钺",
+      "quoted_author": "柏格森",
+      "quoted_work": "",
+      "quoted_claim": "直觉是科学惟一方法",
+      "function": "作为批评对象",
+      "evidence": "就是柏格森主张直觉是科学惟一方法",
+      "confidence": 0.9
+    },
+    {
+      "id": "cit2",
+      "citer": "唐钺",
+      "quoted_author": "东荪先生",
+      "quoted_work": "",
+      "quoted_claim": "如蒙赐教，恕不答复",
+      "function": "作为批评对象",
+      "evidence": "至于东荪先生的“如蒙赐教，恕不答复”的态度",
+      "confidence": 0.9
+    }
+  ],
+  "rhetorical_devices": [
+    {
+      "id": "rh1",
+      "expression": "“无风起浪”",
+      "device_type": "比喻",
+      "literal_target": "学哲学者主动挑起与科学的争端",
+      "function": "贬低对手，暗示其行为无根据",
+      "evidence": "遇着学哲学者“无风起浪”来同科学寻事时",
+      "confidence": 0.9
+    },
+    {
+      "id": "rh2",
+      "expression": "“命妇”",
+      "device_type": "比喻",
+      "literal_target": "君劢和在君在中国学术界的地位",
+      "function": "讽刺性比喻，暗示其权威地位但可能被盲目尊崇",
+      "evidence": "君劢和在君虽然是中国学术界中的“命妇”",
+      "confidence": 0.9
+    },
+    {
+      "id": "rh3",
+      "expression": "“金科玉律”",
+      "device_type": "比喻",
+      "literal_target": "君劢和在君的话被当作绝对真理",
+      "function": "讽刺读者可能盲目信从",
+      "evidence": "何至于给人家当做“金科玉律”呢",
+      "confidence": 0.9
+    }
+  ],
+  "uncertainties": [
+    {
+      "item": "“命妇”的具体含义",
+      "reason": "原文未明确解释，可能为特定比喻，需结合上下文"
+    },
+    {
+      "item": "“玄学同学中一般的问题”中的“同学”是否指特定群体",
+      "reason": "原文未明确说明，可能指玄学与科学论争中的参与者"
+    }
+  ],
+  "_meta": {
+    "status": "success",
+    "stage": "extract",
+    "model": "deepseek-ai/DeepSeek-V4-Flash",
+    "base_url": "https://api.siliconflow.cn/v1",
+    "prompt_version": "v2.0",
+    "schema_version": "lite_v3.0",
+    "segment_id": "唐钺_001_c4e36ba4_s0004",
+    "article_id": "唐钺_001_c4e36ba4",
+    "char_start": 2060,
+    "char_end": 2655,
+    "raw_path": "E:\\1研究生\\岭南大学\\论文毕业\\capstone\\资料\\新的内容开始了\\local_upload\\kg_runs_v2\\唐钺\\raw_outputs\\extract\\唐钺_001_c4e36ba4_s0004.txt",
+    "parsed_at": "2026-05-21T18:52:45",
+    "started_at": "2026-05-21T18:49:19",
+    "elapsed_seconds": 206.765,
+    "strict_evidence_check": true,
+    "drop_unsupported_evidence": true,
+    "request_timeout_seconds": 180
+  }
+}

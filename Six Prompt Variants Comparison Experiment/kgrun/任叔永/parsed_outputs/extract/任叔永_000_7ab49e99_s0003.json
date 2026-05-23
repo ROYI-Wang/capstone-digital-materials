@@ -1,0 +1,515 @@
+{
+  "metadata": {
+    "schema_version": "lite_v2.0",
+    "article_id": "任叔永_000_7ab49e99",
+    "article_title": "人生观的科学或科学的人生观",
+    "source_author": "任叔永",
+    "section_title": "",
+    "section_author": "",
+    "segment_id": "任叔永_000_7ab49e99_s0003",
+    "segment_index": 3,
+    "source_file": "E:\\1研究生\\岭南大学\\论文毕业\\capstone\\资料\\新的内容开始了\\local_upload\\input_w1\\任叔永.txt"
+  },
+  "entities": [
+    {
+      "id": "e1",
+      "name": "达尔文",
+      "canonical_name": "达尔文",
+      "type": "人物",
+      "evidence": "达尔文的学说，是张君所不认为完全成立的。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e2",
+      "name": "张君",
+      "canonical_name": "张君劢",
+      "type": "人物",
+      "evidence": "张君并且引杜里舒的话来证明达尔文学说的不成立。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e3",
+      "name": "杜里舒",
+      "canonical_name": "杜里舒",
+      "type": "人物",
+      "evidence": "张君并且引杜里舒的话来证明达尔文学说的不成立。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e4",
+      "name": "进化论",
+      "canonical_name": "进化论",
+      "type": "概念",
+      "evidence": "生物学上的进化论。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e5",
+      "name": "达尔文的学说",
+      "canonical_name": "达尔文学说",
+      "type": "主义/学说/理论",
+      "evidence": "达尔文的学说，是张君所不认为完全成立的。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e6",
+      "name": "进化论的原理",
+      "canonical_name": "进化论原理",
+      "type": "概念",
+      "evidence": "进化论的原理，却是无人能反对的。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e7",
+      "name": "人生观",
+      "canonical_name": "人生观",
+      "type": "概念",
+      "evidence": "进化论发明之后，所生的人生观的影响，至少有下列几件",
+      "confidence": 1.0
+    },
+    {
+      "id": "e8",
+      "name": "人类在自然界的位置",
+      "canonical_name": "人类在自然界的位置",
+      "type": "概念",
+      "evidence": "第一是表明人类在自然界的位置",
+      "confidence": 1.0
+    },
+    {
+      "id": "e9",
+      "name": "创造说",
+      "canonical_name": "创造说",
+      "type": "概念",
+      "evidence": "打破宗教上的创造说和玄学上的前定论",
+      "confidence": 1.0
+    },
+    {
+      "id": "e10",
+      "name": "前定论",
+      "canonical_name": "前定论",
+      "type": "概念",
+      "evidence": "打破宗教上的创造说和玄学上的前定论",
+      "confidence": 1.0
+    },
+    {
+      "id": "e11",
+      "name": "生存竞争论",
+      "canonical_name": "生存竞争论",
+      "type": "概念",
+      "evidence": "第三是张君所举的生存竞争论。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e12",
+      "name": "物质文明",
+      "canonical_name": "物质文明",
+      "type": "概念",
+      "evidence": "我们无论如何说物质文明与精神文明没有关系",
+      "confidence": 1.0
+    },
+    {
+      "id": "e13",
+      "name": "精神文明",
+      "canonical_name": "精神文明",
+      "type": "概念",
+      "evidence": "我们无论如何说物质文明与精神文明没有关系",
+      "confidence": 1.0
+    },
+    {
+      "id": "e14",
+      "name": "近世的人生观",
+      "canonical_name": "近世人生观",
+      "type": "概念",
+      "evidence": "总不能不承认近世的人生观，比中古时代的固定的消极的人生观进步多了。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e15",
+      "name": "中古时代的固定的消极的人生观",
+      "canonical_name": "中古时代固定消极人生观",
+      "type": "概念",
+      "evidence": "总不能不承认近世的人生观，比中古时代的固定的消极的人生观进步多了。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e16",
+      "name": "科学",
+      "canonical_name": "科学",
+      "type": "概念",
+      "evidence": "科学与人生观的关系，不但是因物质科学的进步，间接的把人生观改变，直接的 科学自己还可以造出一种人生观来。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e17",
+      "name": "物质科学",
+      "canonical_name": "物质科学",
+      "type": "概念",
+      "evidence": "不但是因物质科学的进步，间接的把人生观改变",
+      "confidence": 1.0
+    },
+    {
+      "id": "e18",
+      "name": "以科学为客观的，机械的，物质的的人",
+      "canonical_name": "以科学为客观机械物质者",
+      "type": "阵营/群体",
+      "evidence": "这一层在以科学为客观的，机械的，物质的的人，未免有些不信。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e19",
+      "name": "研究科学的人",
+      "canonical_name": "研究科学的人",
+      "type": "阵营/群体",
+      "evidence": "人人都晓得研究科学的人，大半是不信宗教的",
+      "confidence": 1.0
+    },
+    {
+      "id": "e20",
+      "name": "宗教",
+      "canonical_name": "宗教",
+      "type": "概念",
+      "evidence": "人人都晓得研究科学的人，大半是不信宗教的",
+      "confidence": 1.0
+    },
+    {
+      "id": "e21",
+      "name": "科学家",
+      "canonical_name": "科学家",
+      "type": "阵营/群体",
+      "evidence": "但大多数的科学家，都是道德完备，人格高尚的人。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e22",
+      "name": "社会伦理",
+      "canonical_name": "社会伦理",
+      "type": "概念",
+      "evidence": "要是人生观就是对于社会伦理、人生目的有一定见解的意思",
+      "confidence": 1.0
+    },
+    {
+      "id": "e23",
+      "name": "人生目的",
+      "canonical_name": "人生目的",
+      "type": "概念",
+      "evidence": "要是人生观就是对于社会伦理、人生目的有一定见解的意思",
+      "confidence": 1.0
+    },
+    {
+      "id": "e24",
+      "name": "科学的目的",
+      "canonical_name": "科学目的",
+      "type": "概念",
+      "evidence": "第一，科学的目的在求真理，而真理是无穷无边的",
+      "confidence": 1.0
+    },
+    {
+      "id": "e25",
+      "name": "真理",
+      "canonical_name": "真理",
+      "type": "概念",
+      "evidence": "科学的目的在求真理，而真理是无穷无边的",
+      "confidence": 1.0
+    },
+    {
+      "id": "e26",
+      "name": "猛勇前进，尽弃于真理的启迪，不知老之将至的人生观",
+      "canonical_name": "猛勇前进尽弃于真理的人生观",
+      "type": "概念",
+      "evidence": "研究科学的人，都具一种 猛勇前进，尽弃于真理的启迪，不知老之将至的人生观。",
+      "confidence": 1.0
+    }
+  ],
+  "claims": [
+    {
+      "id": "c1",
+      "speaker": "张君",
+      "claim": "达尔文的学说，不认为完全成立",
+      "target": "达尔文的学说",
+      "claim_type": "知识论主张",
+      "claim_status": "间接转述",
+      "polarity": "negative",
+      "evidence": "达尔文的学说，是张君所不认为完全成立的。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c2",
+      "speaker": "张君",
+      "claim": "引杜里舒的话来证明达尔文学说的不成立",
+      "target": "达尔文的学说",
+      "claim_type": "论战策略批评",
+      "claim_status": "间接转述",
+      "polarity": "negative",
+      "evidence": "张君并且引杜里舒的话来证明达尔文学说的不成立。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c3",
+      "speaker": "任叔永",
+      "claim": "达尔文的学说成立与否为一事，进化论的成立与否又为一事",
+      "target": "进化论",
+      "claim_type": "知识论主张",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "但达尔文的学说成立与否为一事，进化论的成立与否又为一事。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c4",
+      "speaker": "任叔永",
+      "claim": "进化论的原理，却是无人能反对的",
+      "target": "进化论的原理",
+      "claim_type": "知识论主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "进化论的原理，却是无人能反对的。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c5",
+      "speaker": "任叔永",
+      "claim": "进化论发明之后，所生的人生观的影响，至少有下列几件：第一是表明人类在自然界的位置，第二是打破宗教上的创造说和玄学上的前定论，第三是张君所举的生存竞争论",
+      "target": "进化论",
+      "claim_type": "历史解释",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "进化论发明之后，所生的人生观的影响，至少有下列几件：第一是表明人类在自然界的位置，第二是打破宗教上的创造说和玄学上的前定论，第三是张君所举的生存竞争论。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c6",
+      "speaker": "任叔永",
+      "claim": "近世的人生观，比中古时代的固定的消极的人生观进步多了",
+      "target": "近世的人生观",
+      "claim_type": "价值评价",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "总不能不承认近世的人生观，比中古时代的固定的消极的人生观进步多了。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c7",
+      "speaker": "任叔永",
+      "claim": "这一点人生观的进步，还是从那“未经解决”的进化论得来的",
+      "target": "进化论",
+      "claim_type": "历史解释",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "但是这一点人生观的进步，还是从那“未经解决”的进化论得来的呵!",
+      "confidence": 1.0
+    },
+    {
+      "id": "c8",
+      "speaker": "任叔永",
+      "claim": "科学与人生观的关系，不但是因物质科学的进步，间接的把人生观改变，直接的 科学自己还可以造出一种人生观来",
+      "target": "科学",
+      "claim_type": "知识论主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "科学与人生观的关系，不但是因物质科学的进步，间接的把人生观改变，直接的 科学自己还可以造出一种人生观来。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c9",
+      "speaker": "以科学为客观的，机械的，物质的的人",
+      "claim": "科学自己还可以造出一种人生观来，这一层未免有些不信",
+      "target": "科学",
+      "claim_type": "知识论主张",
+      "claim_status": "间接转述",
+      "polarity": "negative",
+      "evidence": "这一层在以科学为客观的，机械的，物质的的人，未免有些不信。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c10",
+      "speaker": "任叔永",
+      "claim": "研究科学的人，大半是不信宗教的",
+      "target": "研究科学的人",
+      "claim_type": "社会理论主张",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "人人都晓得研究科学的人，大半是不信宗教的",
+      "confidence": 1.0
+    },
+    {
+      "id": "c11",
+      "speaker": "任叔永",
+      "claim": "大多数的科学家，都是道德完备，人格高尚的人",
+      "target": "科学家",
+      "claim_type": "价值评价",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "但大多数的科学家，都是道德完备，人格高尚的人。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c12",
+      "speaker": "任叔永",
+      "claim": "要是人生观就是对于社会伦理、人生目的有一定见解的意思，我们不能说这一般人没有人生观",
+      "target": "人生观",
+      "claim_type": "定义性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "要是人生观就是对于社会伦理、人生目的有一定见解的意思，我们不能说这一般人没有人生观。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c13",
+      "speaker": "任叔永",
+      "claim": "他们的人生观是从那里得来的？原来他们的人生观，就在他们的科学研究里面",
+      "target": "科学家",
+      "claim_type": "知识论主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "他们的人生观是从那里得来的？原来他们的人生观，就在他们的科学研究里面。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c14",
+      "speaker": "任叔永",
+      "claim": "科学的目的在求真理，而真理是无穷无边的",
+      "target": "科学的目的",
+      "claim_type": "定义性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "第一，科学的目的在求真理，而真理是无穷无边的",
+      "confidence": 1.0
+    },
+    {
+      "id": "c15",
+      "speaker": "任叔永",
+      "claim": "研究科学的人，都具一种 猛勇前进，尽弃于真理的启迪，不知老之将至的人生观",
+      "target": "研究科学的人",
+      "claim_type": "社会理论主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "研究科学的人，都具一种 猛勇前进，尽弃于真理的启迪，不知老之将至的人生观。",
+      "confidence": 1.0
+    }
+  ],
+  "relations": [
+    {
+      "id": "r1",
+      "head": "张君",
+      "head_type": "人物",
+      "relation": "相关",
+      "tail": "杜里舒",
+      "tail_type": "人物",
+      "polarity": "neutral",
+      "evidence": "张君并且引杜里舒的话来证明达尔文学说的不成立。",
+      "confidence": 1.0
+    },
+    {
+      "id": "r2",
+      "head": "张君",
+      "head_type": "人物",
+      "relation": "反对",
+      "tail": "达尔文的学说",
+      "tail_type": "主义/学说/理论",
+      "polarity": "negative",
+      "evidence": "达尔文的学说，是张君所不认为完全成立的。",
+      "confidence": 1.0
+    },
+    {
+      "id": "r3",
+      "head": "进化论",
+      "head_type": "概念",
+      "relation": "导致",
+      "tail": "人生观",
+      "tail_type": "概念",
+      "polarity": "positive",
+      "evidence": "进化论发明之后，所生的人生观的影响，至少有下列几件",
+      "confidence": 1.0
+    },
+    {
+      "id": "r4",
+      "head": "科学",
+      "head_type": "概念",
+      "relation": "导致",
+      "tail": "人生观",
+      "tail_type": "概念",
+      "polarity": "positive",
+      "evidence": "直接的 科学自己还可以造出一种人生观来。",
+      "confidence": 1.0
+    },
+    {
+      "id": "r5",
+      "head": "任叔永",
+      "head_type": "人物",
+      "relation": "反驳",
+      "tail": "以科学为客观的，机械的，物质的的人",
+      "tail_type": "阵营/群体",
+      "polarity": "negative",
+      "evidence": "这一层在以科学为客观的，机械的，物质的的人，未免有些不信。唯其如此，我们对于此点不能不特别加以说明。",
+      "confidence": 1.0
+    },
+    {
+      "id": "r6",
+      "head": "科学的目的",
+      "head_type": "概念",
+      "relation": "解释",
+      "tail": "猛勇前进，尽弃于真理的启迪，不知老之将至的人生观",
+      "tail_type": "概念",
+      "polarity": "positive",
+      "evidence": "第一，科学的目的在求真理，而真理是无穷无边的，所以研究科学的人，都具一种 猛勇前进，尽弃于真理的启迪，不知老之将至的人生观。",
+      "confidence": 1.0
+    }
+  ],
+  "definitions": [
+    {
+      "id": "def1",
+      "term": "人生观",
+      "definition": "对于社会伦理、人生目的有一定见解的意思",
+      "evidence": "要是人生观就是对于社会伦理、人生目的有一定见解的意思",
+      "confidence": 1.0
+    },
+    {
+      "id": "def2",
+      "term": "科学的目的",
+      "definition": "在求真理，而真理是无穷无边的",
+      "evidence": "第一，科学的目的在求真理，而真理是无穷无边的",
+      "confidence": 1.0
+    }
+  ],
+  "citations": [],
+  "rhetorical_devices": [
+    {
+      "id": "rh1",
+      "expression": "未经解决",
+      "device_type": "讽刺",
+      "literal_target": "进化论",
+      "function": "讽刺张君认为进化论未解决的观点，同时强调进化论仍带来进步",
+      "evidence": "但是这一点人生观的进步，还是从那“未经解决”的进化论得来的呵!",
+      "confidence": 0.8
+    }
+  ],
+  "uncertainties": [
+    {
+      "item": "entity e27 任叔永",
+      "reason": "正文中未直接出现'任叔永'名字，仅通过'我们'指代，但根据元数据 source_author 可推断，confidence 设为 0.9"
+    },
+    {
+      "item": "relation r8 科学家属于研究科学的人",
+      "reason": "文本中'科学家'与'研究科学的人'关系未明确说明，但上下文暗示包含关系，confidence 设为 0.8"
+    }
+  ],
+  "_meta": {
+    "status": "success",
+    "stage": "extract",
+    "model": "deepseek-ai/DeepSeek-V4-Flash",
+    "base_url": "https://api.siliconflow.cn/v1",
+    "prompt_version": "extract_prompt_v2.0",
+    "schema_version": "lite_v2.0",
+    "segment_id": "任叔永_000_7ab49e99_s0003",
+    "article_id": "任叔永_000_7ab49e99",
+    "char_start": 1507,
+    "char_end": 2103,
+    "raw_path": "E:\\1研究生\\岭南大学\\论文毕业\\capstone\\资料\\新的内容开始了\\local_upload\\kg_runs\\任叔永\\raw_outputs\\extract\\任叔永_000_7ab49e99_s0003.txt",
+    "parsed_at": "2026-05-19T20:58:52",
+    "started_at": "2026-05-19T20:54:07",
+    "elapsed_seconds": 285.436,
+    "strict_evidence_check": true,
+    "drop_unsupported_evidence": true,
+    "request_timeout_seconds": 180
+  }
+}

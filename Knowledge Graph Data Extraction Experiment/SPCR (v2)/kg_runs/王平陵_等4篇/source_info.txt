@@ -1,0 +1,16 @@
+源文件：
+  E:\1研究生\岭南大学\论文毕业\capstone\资料\新的内容开始了\local_upload\input_v2_w0\王平陵.txt
+  E:\1研究生\岭南大学\论文毕业\capstone\资料\新的内容开始了\local_upload\input_v2_w0\王星拱.txt
+  E:\1研究生\岭南大学\论文毕业\capstone\资料\新的内容开始了\local_upload\input_v2_w0\穆.txt
+  E:\1研究生\岭南大学\论文毕业\capstone\资料\新的内容开始了\local_upload\input_v2_w0\范寿康.txt
+作者：
+  王平陵
+  王星拱
+  穆
+  范寿康
+
+文章清单：
+  1. “科哲之战”的尾声  (作者=王平陵, 文件=E:\1研究生\岭南大学\论文毕业\capstone\资料\新的内容开始了\local_upload\input_v2_w0\王平陵.txt)
+  2. 科学与人生观  (作者=王星拱, 文件=E:\1研究生\岭南大学\论文毕业\capstone\资料\新的内容开始了\local_upload\input_v2_w0\王星拱.txt)
+  3. 旁观者言  (作者=穆, 文件=E:\1研究生\岭南大学\论文毕业\capstone\资料\新的内容开始了\local_upload\input_v2_w0\穆.txt)
+  4. 评所谓“科学与玄学之争”  (作者=范寿康, 文件=E:\1研究生\岭南大学\论文毕业\capstone\资料\新的内容开始了\local_upload\input_v2_w0\范寿康.txt)

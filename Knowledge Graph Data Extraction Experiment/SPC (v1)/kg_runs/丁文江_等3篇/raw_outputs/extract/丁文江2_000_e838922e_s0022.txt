@@ -1,0 +1,304 @@
+{
+  "metadata": {
+    "schema_version": "lite_v2.0",
+    "article_id": "丁文江2_000_e838922e",
+    "article_title": "玄学与科学——答张君劢",
+    "source_author": "丁文江",
+    "section_title": "",
+    "section_author": "",
+    "segment_id": "丁文江2_000_e838922e_s0022",
+    "segment_index": 22,
+    "source_file": "E:\\1研究生\\岭南大学\\论文毕业\\capstone\\资料\\新的内容开始了\\local_upload\\input_texts\\丁文江2.txt"
+  },
+  "entities": [
+    {
+      "id": "e1",
+      "name": "生物心理学",
+      "canonical_name": "生物心理学",
+      "type": "概念",
+      "evidence": "是生物心理学公例所做得到的",
+      "confidence": 0.9
+    },
+    {
+      "id": "e2",
+      "name": "推算未来",
+      "canonical_name": "推算未来",
+      "type": "概念",
+      "evidence": "他没有给“推算未来”下一个定义",
+      "confidence": 0.9
+    },
+    {
+      "id": "e3",
+      "name": "物体上左右各加一力，则其所行之路为平行方形之对角线",
+      "canonical_name": "物体上左右各加一力，则其所行之路为平行方形之对角线",
+      "type": "例证",
+      "evidence": "他只举了一个例说，“物体上左右各加一力，则其所行之路为平行方形之对角线。”",
+      "confidence": 0.9
+    },
+    {
+      "id": "e4",
+      "name": "天文家",
+      "canonical_name": "天文家",
+      "type": "阵营/群体",
+      "evidence": "他又说天文家可以预算天象",
+      "confidence": 0.9
+    },
+    {
+      "id": "e5",
+      "name": "预算天象",
+      "canonical_name": "预算天象",
+      "type": "概念",
+      "evidence": "预算天象的把戏，我们三千年前的野蛮祖宗已经会做",
+      "confidence": 0.9
+    },
+    {
+      "id": "e6",
+      "name": "君劢",
+      "canonical_name": "张君劢",
+      "type": "人物",
+      "evidence": "我不知道君劢信不信医学是应用生物学",
+      "confidence": 0.9
+    },
+    {
+      "id": "e7",
+      "name": "医学",
+      "canonical_name": "医学",
+      "type": "概念",
+      "evidence": "我不知道君劢信不信医学是应用生物学",
+      "confidence": 0.9
+    },
+    {
+      "id": "e8",
+      "name": "应用生物学",
+      "canonical_name": "应用生物学",
+      "type": "概念",
+      "evidence": "我不知道君劢信不信医学是应用生物学",
+      "confidence": 0.9
+    },
+    {
+      "id": "e9",
+      "name": "肠气夫斯",
+      "canonical_name": "肠气夫斯",
+      "type": "概念",
+      "evidence": "若是有人得了肠气夫斯或是疟疾，连我都可以预算他的温度",
+      "confidence": 0.9
+    },
+    {
+      "id": "e10",
+      "name": "疟疾",
+      "canonical_name": "疟疾",
+      "type": "概念",
+      "evidence": "若是有人得了肠气夫斯或是疟疾，连我都可以预算他的温度",
+      "confidence": 0.9
+    },
+    {
+      "id": "e11",
+      "name": "德夫利士",
+      "canonical_name": "德夫利士",
+      "type": "人物",
+      "evidence": "自从德夫利士重新发现曼德尔公例之后",
+      "confidence": 0.9
+    },
+    {
+      "id": "e12",
+      "name": "曼德尔公例",
+      "canonical_name": "曼德尔公例",
+      "type": "概念",
+      "evidence": "自从德夫利士重新发现曼德尔公例之后",
+      "confidence": 0.9
+    },
+    {
+      "id": "e13",
+      "name": "黄皮的玉蜀黍",
+      "canonical_name": "黄皮的玉蜀黍",
+      "type": "例证",
+      "evidence": "若是我们拿一种黄皮的玉蜀黍来和白皮的杂种，新生出来的玉蜀黍上面有几粒是黄皮的，几粒是白皮的，都可以预先算得出来",
+      "confidence": 0.9
+    },
+    {
+      "id": "e14",
+      "name": "白皮的玉蜀黍",
+      "canonical_name": "白皮的玉蜀黍",
+      "type": "例证",
+      "evidence": "若是我们拿一种黄皮的玉蜀黍来和白皮的杂种",
+      "confidence": 0.9
+    },
+    {
+      "id": "e15",
+      "name": "遗传性",
+      "canonical_name": "遗传性",
+      "type": "概念",
+      "evidence": "近年来这种遗传性上大发明",
+      "confidence": 0.9
+    },
+    {
+      "id": "e16",
+      "name": "爱因斯坦的相对论",
+      "canonical_name": "爱因斯坦的相对论",
+      "type": "概念",
+      "evidence": "其重要不亚于爱因斯坦的相对论",
+      "confidence": 0.9
+    }
+  ],
+  "claims": [
+    {
+      "id": "c1",
+      "speaker": "丁文江",
+      "claim": "他没有给“推算未来”下一个定义",
+      "target": "张君劢",
+      "claim_type": "论战策略批评",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "他没有给“推算未来”下一个定义",
+      "confidence": 0.9
+    },
+    {
+      "id": "c2",
+      "speaker": "张君劢",
+      "claim": "物体上左右各加一力，则其所行之路为平行方形之对角线",
+      "target": "",
+      "claim_type": "例证",
+      "claim_status": "间接转述",
+      "polarity": "neutral",
+      "evidence": "他只举了一个例说，“物体上左右各加一力，则其所行之路为平行方形之对角线。”",
+      "confidence": 0.9
+    },
+    {
+      "id": "c3",
+      "speaker": "张君劢",
+      "claim": "天文家可以预算天象",
+      "target": "",
+      "claim_type": "知识论主张",
+      "claim_status": "间接转述",
+      "polarity": "neutral",
+      "evidence": "他又说天文家可以预算天象",
+      "confidence": 0.9
+    },
+    {
+      "id": "c4",
+      "speaker": "丁文江",
+      "claim": "预算天象的把戏，我们三千年前的野蛮祖宗已经会做，不算什么希奇",
+      "target": "张君劢",
+      "claim_type": "反驳性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "预算天象的把戏，我们三千年前的野蛮祖宗已经会做，不算什么希奇",
+      "confidence": 0.9
+    },
+    {
+      "id": "c5",
+      "speaker": "丁文江",
+      "claim": "若是有人得了肠气夫斯或是疟疾，连我都可以预算他的温度",
+      "target": "张君劢",
+      "claim_type": "反驳性主张",
+      "claim_status": "作者推论",
+      "polarity": "negative",
+      "evidence": "若是有人得了肠气夫斯或是疟疾，连我都可以预算他的温度",
+      "confidence": 0.9
+    },
+    {
+      "id": "c6",
+      "speaker": "丁文江",
+      "claim": "自从德夫利士重新发现曼德尔公例之后，若是我们拿一种黄皮的玉蜀黍来和白皮的杂种，新生出来的玉蜀黍上面有几粒是黄皮的，几粒是白皮的，都可以预先算得出来",
+      "target": "张君劢",
+      "claim_type": "反驳性主张",
+      "claim_status": "作者推论",
+      "polarity": "negative",
+      "evidence": "自从德夫利士重新发现曼德尔公例之后，若是我们拿一种黄皮的玉蜀黍来和白皮的杂种，新生出来的玉蜀黍上面有几粒是黄皮的，几粒是白皮的，都可以预先算得出来",
+      "confidence": 0.9
+    },
+    {
+      "id": "c7",
+      "speaker": "丁文江",
+      "claim": "近年来这种遗传性上大发明，在我个人眼光看起来其重要不亚于爱因斯坦的相对论",
+      "target": "",
+      "claim_type": "价值评价",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "近年来这种遗传性上大发明，在我个人眼光看起来其重要不亚于爱因斯坦的相对论",
+      "confidence": 0.9
+    }
+  ],
+  "relations": [
+    {
+      "id": "r1",
+      "head": "丁文江",
+      "head_type": "人物",
+      "relation": "批评",
+      "relation_subtype": "概念混淆批评",
+      "tail": "张君劢",
+      "tail_type": "人物",
+      "polarity": "negative",
+      "evidence": "他没有给“推算未来”下一个定义",
+      "confidence": 0.9
+    },
+    {
+      "id": "r2",
+      "head": "丁文江",
+      "head_type": "人物",
+      "relation": "反驳",
+      "relation_subtype": "事实质疑",
+      "tail": "张君劢",
+      "tail_type": "人物",
+      "polarity": "negative",
+      "evidence": "预算天象的把戏，我们三千年前的野蛮祖宗已经会做，不算什么希奇",
+      "confidence": 0.9
+    },
+    {
+      "id": "r3",
+      "head": "丁文江",
+      "head_type": "人物",
+      "relation": "反驳",
+      "relation_subtype": "逻辑反驳",
+      "tail": "张君劢",
+      "tail_type": "人物",
+      "polarity": "negative",
+      "evidence": "若是有人得了肠气夫斯或是疟疾，连我都可以预算他的温度",
+      "confidence": 0.9
+    },
+    {
+      "id": "r4",
+      "head": "丁文江",
+      "head_type": "人物",
+      "relation": "反驳",
+      "relation_subtype": "逻辑反驳",
+      "tail": "张君劢",
+      "tail_type": "人物",
+      "polarity": "negative",
+      "evidence": "自从德夫利士重新发现曼德尔公例之后，若是我们拿一种黄皮的玉蜀黍来和白皮的杂种，新生出来的玉蜀黍上面有几粒是黄皮的，几粒是白皮的，都可以预先算得出来",
+      "confidence": 0.9
+    }
+  ],
+  "definitions": [],
+  "citations": [],
+  "rhetorical_devices": [
+    {
+      "id": "rh1",
+      "expression": "预算天象的把戏",
+      "device_type": "讽刺",
+      "literal_target": "张君劢所举的天文家预算天象的例子",
+      "function": "贬低对方所举例子，暗示其不值一提",
+      "evidence": "预算天象的把戏，我们三千年前的野蛮祖宗已经会做，不算什么希奇",
+      "confidence": 0.9
+    },
+    {
+      "id": "rh2",
+      "expression": "三千年前的野蛮祖宗已经会做",
+      "device_type": "讽刺",
+      "literal_target": "张君劢所举的天文家预算天象的例子",
+      "function": "通过对比强调对方例子的原始和过时，削弱其说服力",
+      "evidence": "预算天象的把戏，我们三千年前的野蛮祖宗已经会做，不算什么希奇",
+      "confidence": 0.9
+    }
+  ],
+  "uncertainties": [
+    {
+      "item": "“他没有给‘推算未来’下一个定义”中的“他”是否确指张君劢",
+      "reason": "文本中未出现张君劢全名，仅出现“君劢”，但根据上下文和元数据，可推断为张君劢，但严格来说证据不足"
+    },
+    {
+      "item": "“德夫利士”是否为人名，以及“曼德尔公例”是否指孟德尔遗传定律",
+      "reason": "文本中未提供更多背景信息，仅凭当前片段无法确认"
+    }
+  ]
+}

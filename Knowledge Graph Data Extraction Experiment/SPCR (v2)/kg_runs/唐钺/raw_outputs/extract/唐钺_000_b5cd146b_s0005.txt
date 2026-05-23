@@ -1,0 +1,514 @@
+{
+  "metadata": {
+    "schema_version": "lite_v3.0",
+    "article_id": "唐钺_000_b5cd146b",
+    "article_title": "心理现象与因果律",
+    "source_author": "唐钺",
+    "section_title": "",
+    "section_author": "",
+    "segment_id": "唐钺_000_b5cd146b_s0005",
+    "segment_index": 5,
+    "source_file": "E:\\1研究生\\岭南大学\\论文毕业\\capstone\\资料\\新的内容开始了\\local_upload\\input_唐钺\\唐钺.txt"
+  },
+  "entities": [
+    {
+      "id": "e1",
+      "name": "杜氏",
+      "canonical_name": "杜氏",
+      "type": "人物",
+      "evidence": "杜氏在别地方与柏氏同意的很多，他的话当然不是门户之见。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e2",
+      "name": "柏氏",
+      "canonical_name": "柏氏",
+      "type": "人物",
+      "evidence": "杜氏在别地方与柏氏同意的很多，他的话当然不是门户之见。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e3",
+      "name": "意识之流",
+      "canonical_name": "意识之流",
+      "type": "概念",
+      "evidence": "所以他不容纳“意识之流”的用语。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e4",
+      "name": "心理现象",
+      "canonical_name": "心理现象",
+      "type": "概念",
+      "evidence": "据我的经验，心理现象是断续无常的。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e5",
+      "name": "纯粹绵延",
+      "canonical_name": "纯粹绵延",
+      "type": "概念",
+      "evidence": "柏氏所谓纯粹绵延，或者是柏氏所见的“道”，断断不是我们凡夫所经验的心理现象了。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e6",
+      "name": "道",
+      "canonical_name": "道",
+      "type": "概念",
+      "evidence": "柏氏所谓纯粹绵延，或者是柏氏所见的“道”，断断不是我们凡夫所经验的心理现象了。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e7",
+      "name": "凡夫",
+      "canonical_name": "凡夫",
+      "type": "阵营/群体",
+      "evidence": "断断不是我们凡夫所经验的心理现象了。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e8",
+      "name": "因果律",
+      "canonical_name": "因果律",
+      "type": "主义/学说/理论",
+      "evidence": "因果律说，同一个的因生同一个的果。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e9",
+      "name": "罗素",
+      "canonical_name": "罗素",
+      "type": "人物",
+      "evidence": "这话罗素在《哲学中之科学的方法》的《因的观念》章中已经驳过了。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e10",
+      "name": "《哲学中之科学的方法》",
+      "canonical_name": "《哲学中之科学的方法》",
+      "type": "著作",
+      "evidence": "这话罗素在《哲学中之科学的方法》的《因的观念》章中已经驳过了。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e11",
+      "name": "《因的观念》",
+      "canonical_name": "《因的观念》",
+      "type": "文章",
+      "evidence": "这话罗素在《哲学中之科学的方法》的《因的观念》章中已经驳过了。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e12",
+      "name": "消极余像",
+      "canonical_name": "消极余像",
+      "type": "概念",
+      "evidence": "就看见白纸现蓝色（即所谓消极余像）。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e13",
+      "name": "无因论者",
+      "canonical_name": "无因论者",
+      "type": "阵营/群体",
+      "evidence": "无因论者又说，心理现象许多是有个性的，不能用某某原因来解释他。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e14",
+      "name": "人格",
+      "canonical_name": "人格",
+      "type": "概念",
+      "evidence": "例如人格，文艺作品等。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e15",
+      "name": "文艺作品",
+      "canonical_name": "文艺作品",
+      "type": "概念",
+      "evidence": "例如人格，文艺作品等。",
+      "confidence": 0.9
+    }
+  ],
+  "claims": [
+    {
+      "id": "c1",
+      "speaker": "杜氏",
+      "claim": "不容纳“意识之流”的用语",
+      "target": "意识之流",
+      "claim_type": "描述性主张",
+      "claim_status": "间接转述",
+      "polarity": "negative",
+      "evidence": "所以他不容纳“意识之流”的用语。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c2",
+      "speaker": "作者",
+      "claim": "杜氏的话不是门户之见",
+      "target": "杜氏",
+      "claim_type": "评价性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "杜氏在别地方与柏氏同意的很多，他的话当然不是门户之见。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c3",
+      "speaker": "作者",
+      "claim": "心理现象是断续无常的",
+      "target": "心理现象",
+      "claim_type": "描述性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "据我的经验，心理现象是断续无常的。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c4",
+      "speaker": "作者",
+      "claim": "柏氏所谓纯粹绵延，或者是柏氏所见的“道”，断断不是我们凡夫所经验的心理现象了",
+      "target": "纯粹绵延",
+      "claim_type": "评价性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "柏氏所谓纯粹绵延，或者是柏氏所见的“道”，断断不是我们凡夫所经验的心理现象了。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c5",
+      "speaker": "柏格森",
+      "claim": "心理现象，无一不包含着一切过去的，是与所有前此与此后的任一现象不相同的",
+      "target": "心理现象",
+      "claim_type": "描述性主张",
+      "claim_status": "间接转述",
+      "polarity": "neutral",
+      "evidence": "柏格森说，心理现象，无一不包含着一切过去的，是与所有前此与此后的任一现象不相同的。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c6",
+      "speaker": "柏格森",
+      "claim": "心理现象既然没有同一的，自然没有因果可言",
+      "target": "心理现象",
+      "claim_type": "因果主张",
+      "claim_status": "间接转述",
+      "polarity": "negative",
+      "evidence": "心理现象既然没有同一的，自然没有因果可言。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c7",
+      "speaker": "作者",
+      "claim": "柏格森的话是不对题的",
+      "target": "柏格森",
+      "claim_type": "评价性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "姑简单地举一种心理现象来作例证，就知道柏格森的话是不对题的。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c8",
+      "speaker": "作者",
+      "claim": "同一类心理的因得同一类心理的果",
+      "target": "因果律",
+      "claim_type": "定义性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "我们不是说，同一个心理的因生同一个心理的果，乃是说，同一类心理的因得同一类心理的果罢了。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c9",
+      "speaker": "作者",
+      "claim": "柏氏的话，不能拿来驳有因论",
+      "target": "柏格森",
+      "claim_type": "反驳性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "所以柏氏的话，不能拿来驳有因论。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c10",
+      "speaker": "无因论者",
+      "claim": "心理现象许多是有个性的，不能用某某原因来解释他",
+      "target": "心理现象",
+      "claim_type": "描述性主张",
+      "claim_status": "间接转述",
+      "polarity": "negative",
+      "evidence": "无因论者又说，心理现象许多是有个性的，不能用某某原因来解释他。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c11",
+      "speaker": "作者",
+      "claim": "这话全与事实不合",
+      "target": "无因论者",
+      "claim_type": "评价性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "这话全与事实不合。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c12",
+      "speaker": "作者",
+      "claim": "人格固然是有个性，然而有他的成因",
+      "target": "人格",
+      "claim_type": "描述性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "人格固然是有个性，然而有他的成因，这是心理学者和一般人所知道的。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c13",
+      "speaker": "作者",
+      "claim": "人格也是集合而成的",
+      "target": "人格",
+      "claim_type": "描述性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "并且人格也是集合而成的，观于人格有时分裂就知道了。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c14",
+      "speaker": "作者",
+      "claim": "文艺作品，也是可以分析出来他的成因的",
+      "target": "文艺作品",
+      "claim_type": "描述性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "文艺作品，也是可以分析出来他的成因的。",
+      "confidence": 0.9
+    }
+  ],
+  "relations": [
+    {
+      "id": "r1",
+      "head": "杜氏",
+      "head_type": "人物",
+      "relation": "反对",
+      "relation_subtype": "概念澄清",
+      "tail": "意识之流",
+      "tail_type": "概念",
+      "polarity": "negative",
+      "stance_score": -0.5,
+      "intensity": 0.5,
+      "evidence": "所以他不容纳“意识之流”的用语。",
+      "confidence": 0.9
+    },
+    {
+      "id": "r2",
+      "head": "作者",
+      "head_type": "人物",
+      "relation": "评价",
+      "relation_subtype": "部分肯定",
+      "tail": "杜氏",
+      "tail_type": "人物",
+      "polarity": "positive",
+      "stance_score": 0.8,
+      "intensity": 0.6,
+      "evidence": "杜氏在别地方与柏氏同意的很多，他的话当然不是门户之见。",
+      "confidence": 0.9
+    },
+    {
+      "id": "r3",
+      "head": "作者",
+      "head_type": "人物",
+      "relation": "反驳",
+      "relation_subtype": "概念混淆批评",
+      "tail": "柏氏",
+      "tail_type": "人物",
+      "polarity": "negative",
+      "stance_score": -0.8,
+      "intensity": 0.8,
+      "evidence": "柏氏所谓纯粹绵延，或者是柏氏所见的“道”，断断不是我们凡夫所经验的心理现象了。",
+      "confidence": 0.9
+    },
+    {
+      "id": "r4",
+      "head": "柏格森",
+      "head_type": "人物",
+      "relation": "主张",
+      "relation_subtype": "不适用",
+      "tail": "心理现象，无一不包含着一切过去的，是与所有前此与此后的任一现象不相同的",
+      "tail_type": "观点",
+      "polarity": "neutral",
+      "stance_score": 0.0,
+      "intensity": 0.5,
+      "evidence": "柏格森说，心理现象，无一不包含着一切过去的，是与所有前此与此后的任一现象不相同的。",
+      "confidence": 0.9
+    },
+    {
+      "id": "r5",
+      "head": "柏格森",
+      "head_type": "人物",
+      "relation": "主张",
+      "relation_subtype": "不适用",
+      "tail": "心理现象既然没有同一的，自然没有因果可言",
+      "tail_type": "观点",
+      "polarity": "negative",
+      "stance_score": -0.5,
+      "intensity": 0.5,
+      "evidence": "心理现象既然没有同一的，自然没有因果可言。",
+      "confidence": 0.9
+    },
+    {
+      "id": "r6",
+      "head": "罗素",
+      "head_type": "人物",
+      "relation": "反驳",
+      "relation_subtype": "逻辑反驳",
+      "tail": "柏格森",
+      "tail_type": "人物",
+      "polarity": "negative",
+      "stance_score": -0.8,
+      "intensity": 0.7,
+      "evidence": "这话罗素在《哲学中之科学的方法》的《因的观念》章中已经驳过了。",
+      "confidence": 0.9
+    },
+    {
+      "id": "r7",
+      "head": "作者",
+      "head_type": "人物",
+      "relation": "反驳",
+      "relation_subtype": "作为反例反驳",
+      "tail": "柏格森",
+      "tail_type": "人物",
+      "polarity": "negative",
+      "stance_score": -0.9,
+      "intensity": 0.8,
+      "evidence": "姑简单地举一种心理现象来作例证，就知道柏格森的话是不对题的。",
+      "confidence": 0.9
+    },
+    {
+      "id": "r8",
+      "head": "作者",
+      "head_type": "人物",
+      "relation": "反驳",
+      "relation_subtype": "逻辑反驳",
+      "tail": "柏格森",
+      "tail_type": "人物",
+      "polarity": "negative",
+      "stance_score": -0.9,
+      "intensity": 0.8,
+      "evidence": "所以柏氏的话，不能拿来驳有因论。",
+      "confidence": 0.9
+    },
+    {
+      "id": "r9",
+      "head": "作者",
+      "head_type": "人物",
+      "relation": "反驳",
+      "relation_subtype": "事实质疑",
+      "tail": "无因论者",
+      "tail_type": "阵营/群体",
+      "polarity": "negative",
+      "stance_score": -0.9,
+      "intensity": 0.9,
+      "evidence": "这话全与事实不合。",
+      "confidence": 0.9
+    },
+    {
+      "id": "r10",
+      "head": "作者",
+      "head_type": "人物",
+      "relation": "反驳",
+      "relation_subtype": "作为反例反驳",
+      "tail": "无因论者",
+      "tail_type": "阵营/群体",
+      "polarity": "negative",
+      "stance_score": -0.8,
+      "intensity": 0.7,
+      "evidence": "人格固然是有个性，然而有他的成因，这是心理学者和一般人所知道的。",
+      "confidence": 0.9
+    },
+    {
+      "id": "r11",
+      "head": "作者",
+      "head_type": "人物",
+      "relation": "反驳",
+      "relation_subtype": "作为反例反驳",
+      "tail": "无因论者",
+      "tail_type": "阵营/群体",
+      "polarity": "negative",
+      "stance_score": -0.8,
+      "intensity": 0.7,
+      "evidence": "并且人格也是集合而成的，观于人格有时分裂就知道了。",
+      "confidence": 0.9
+    },
+    {
+      "id": "r12",
+      "head": "作者",
+      "head_type": "人物",
+      "relation": "反驳",
+      "relation_subtype": "作为反例反驳",
+      "tail": "无因论者",
+      "tail_type": "阵营/群体",
+      "polarity": "negative",
+      "stance_score": -0.8,
+      "intensity": 0.7,
+      "evidence": "文艺作品，也是可以分析出来他的成因的。",
+      "confidence": 0.9
+    }
+  ],
+  "definitions": [
+    {
+      "id": "def1",
+      "term": "因果律",
+      "definition": "同一个的因生同一个的果",
+      "evidence": "因果律说，同一个的因生同一个的果。",
+      "confidence": 0.9
+    },
+    {
+      "id": "def2",
+      "term": "消极余像",
+      "definition": "凝视黄色二十秒钟以后，忽转眼看白纸，就看见白纸现蓝色",
+      "evidence": "就看见白纸现蓝色（即所谓消极余像）。",
+      "confidence": 0.9
+    }
+  ],
+  "citations": [
+    {
+      "id": "cit1",
+      "citer": "作者",
+      "quoted_author": "罗素",
+      "quoted_work": "《哲学中之科学的方法》的《因的观念》章",
+      "quoted_claim": "已经驳过了",
+      "function": "援引权威支持",
+      "evidence": "这话罗素在《哲学中之科学的方法》的《因的观念》章中已经驳过了。",
+      "confidence": 0.9
+    }
+  ],
+  "rhetorical_devices": [
+    {
+      "id": "rh1",
+      "expression": "断断不是我们凡夫所经验的心理现象了",
+      "device_type": "讽刺",
+      "literal_target": "柏氏所谓纯粹绵延",
+      "function": "通过贬低对手概念与普通经验的距离来反驳",
+      "evidence": "柏氏所谓纯粹绵延，或者是柏氏所见的“道”，断断不是我们凡夫所经验的心理现象了。",
+      "confidence": 0.9
+    }
+  ],
+  "uncertainties": [
+    {
+      "item": "杜氏具体指谁",
+      "reason": "文本中仅出现“杜氏”，未提供全名，无法确定具体人物。"
+    },
+    {
+      "item": "柏氏与柏格森是否为同一人",
+      "reason": "文本中“柏氏”和“柏格森”交替出现，根据上下文推测为同一人，但未明确说明。"
+    },
+    {
+      "item": "“演录》《近世心理问题》第四期第二十一页”是否属于引用来源",
+      "reason": "该句出现在文本开头，但未明确说明引用关系，且与后文衔接不清晰。"
+    }
+  ]
+}

@@ -1,0 +1,305 @@
+{
+  "metadata": {
+    "schema_version": "lite_v2.0",
+    "article_id": "穆_000_d6755881",
+    "article_title": "旁观者言",
+    "source_author": "穆",
+    "section_title": "往往有一种直率的口吻，说这是自然有的，或是说道是不应该有的；但是在科学家的口里，他们决不如此说。事实的出现，定有他出现的原因，不能说他自然有；既有他出现的原因，便也不应说他不应该有。科学家只叫人知道，在如何条件之下，某事实便会有，在如何条件之下，某事实便会无。这种态度，应用人生观上，当正可有绝大之影响。譬如论到家庭问题，说他是天然的罢，便懒了人们改革的心愿；现在晓得家庭的组织，并不是天生便如此了，并不是理所当然了，鼓动起人们改革的希望和勇气。但是家庭之间充满了厌恶咒咀和冲突，儿子觉得父亲是可厌恶的，丈夫觉得妻室是可咒咀的，人们的集合，便是罪恶苦痛，感情之流露便是冲突，这不是现在中国家庭新旧交代的现状吗？一般人怪他是物质生活之流弊，是科学教育之传主母，我想科学那肯承受呢？科学家对于这种问题，一定能根据事实，描出他的来因去果，求一个圆满解决的方法。只因他因果的观念深了，所以不看得事实的善恶（都是条件下的产儿),不见得吾心之好恶（都要在条件下去解决),低着头承认他，平着气含容他，细着心查察他，按",
+    "section_author": "往往有一种直率的口吻，说这是自然有的，或是说道是不应该有的；但是在科学家的口里，他们决不如此说。事实的出现，定有他出现的原因，不能说他自然有；既有他出现的原因，便也不应说他不应该有。科学家只叫人知道，在如何条件之下，某事实便会有，在如何条件之下，某事实便会无。这种态度，应用人生观上，当正可有绝大之影响。譬如论到家庭问题，说他是天然的罢，便懒了人们改革的心愿；现在晓得家庭的组织，并不是天生便如此了，并不是理所当然了，鼓动起人们改革的希望和勇气。但是家庭之间充满了厌恶咒咀和冲突，儿子觉得父亲是可厌恶的，丈夫觉得妻室是可咒咀的，人们的集合，便是罪恶苦痛，感情之流露便是冲突，这不是现在中国家庭新旧交代的现状吗？一般人怪他是物质生活之流弊，是科学教育之传主母，我想科学那肯承受呢？科学家对于这种问题，一定能根据事实，描出他的来因去果，求一个圆满解决的方法。只因他因果的观念深了，所以不看得事实的善恶（都是条件下的产儿),不见得吾心之好恶（都要在条件下去解决),低着头承认他，平着气含容他，细着心查察他，",
+    "segment_id": "穆_000_d6755881_s0000",
+    "segment_index": 0,
+    "source_file": "E:\\1研究生\\岭南大学\\论文毕业\\capstone\\资料\\新的内容开始了\\local_upload\\input_w0\\穆.txt"
+  },
+  "entities": [
+    {
+      "id": "e1",
+      "name": "丁",
+      "canonical_name": "丁文江",
+      "type": "人物",
+      "evidence": "丁、张两先生的辩论",
+      "confidence": 0.9
+    },
+    {
+      "id": "e2",
+      "name": "张",
+      "canonical_name": "张君劢",
+      "type": "人物",
+      "evidence": "丁、张两先生的辩论",
+      "confidence": 0.9
+    },
+    {
+      "id": "e3",
+      "name": "张先生",
+      "canonical_name": "张君劢",
+      "type": "人物",
+      "evidence": "张先生说：科学是给人类利用的",
+      "confidence": 0.9
+    },
+    {
+      "id": "e4",
+      "name": "科学家",
+      "canonical_name": "科学家",
+      "type": "阵营/群体",
+      "evidence": "科学家最重要的精神，是承认事实而尊重事实",
+      "confidence": 0.9
+    },
+    {
+      "id": "e5",
+      "name": "科学",
+      "canonical_name": "科学",
+      "type": "概念",
+      "evidence": "科学是给人类利用的",
+      "confidence": 0.9
+    },
+    {
+      "id": "e6",
+      "name": "人生观",
+      "canonical_name": "人生观",
+      "type": "概念",
+      "evidence": "各人有各人的人生观",
+      "confidence": 0.9
+    },
+    {
+      "id": "e7",
+      "name": "科学家的人生观",
+      "canonical_name": "科学家的人生观",
+      "type": "概念",
+      "evidence": "现在便从科学家的人生观一面逐次引申说下",
+      "confidence": 0.9
+    },
+    {
+      "id": "e8",
+      "name": "尊重事实",
+      "canonical_name": "尊重事实",
+      "type": "方法论原则",
+      "evidence": "科学家最重要的精神，是承认事实而尊重事实",
+      "confidence": 0.9
+    },
+    {
+      "id": "e9",
+      "name": "人类",
+      "canonical_name": "人类",
+      "type": "概念",
+      "evidence": "人类和下等生物本来是同祖的一原的",
+      "confidence": 0.9
+    },
+    {
+      "id": "e10",
+      "name": "下等生物",
+      "canonical_name": "下等生物",
+      "type": "概念",
+      "evidence": "人类和下等生物本来是同祖的一原的",
+      "confidence": 0.9
+    }
+  ],
+  "claims": [
+    {
+      "id": "c1",
+      "speaker": "张先生",
+      "claim": "科学是给人类利用的，不是用人类的东西",
+      "target": "科学",
+      "claim_type": "定义性主张",
+      "claim_status": "间接转述",
+      "polarity": "neutral",
+      "evidence": "张先生说：科学是给人类利用的，不是用人类的东西",
+      "confidence": 0.9
+    },
+    {
+      "id": "c2",
+      "speaker": "张先生",
+      "claim": "人类既然要用到科学，当然不得不俯就科学的尺度",
+      "target": "科学",
+      "claim_type": "方法论主张",
+      "claim_status": "间接转述",
+      "polarity": "neutral",
+      "evidence": "人类既然要用到科学，当然不得不俯就科学的尺度",
+      "confidence": 0.9
+    },
+    {
+      "id": "c3",
+      "speaker": "张先生",
+      "claim": "各人有各人的人生观，彼此无从统一",
+      "target": "人生观",
+      "claim_type": "定义性主张",
+      "claim_status": "间接转述",
+      "polarity": "neutral",
+      "evidence": "张先生又说：各人有各人的人生观，彼此无从统一",
+      "confidence": 0.9
+    },
+    {
+      "id": "c4",
+      "speaker": "穆",
+      "claim": "科学家最重要的精神，是承认事实而尊重事实",
+      "target": "科学家",
+      "claim_type": "方法论主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "科学家最重要的精神，是承认事实而尊重事实",
+      "confidence": 0.9
+    },
+    {
+      "id": "c5",
+      "speaker": "穆",
+      "claim": "科学家应用到他们的人生观上，自然应该是一种尊重事实的人生观",
+      "target": "科学家的人生观",
+      "claim_type": "方法论主张",
+      "claim_status": "作者推论",
+      "polarity": "positive",
+      "evidence": "他们应用到他们的人生观上，自然应该是一种尊重事实的人生观",
+      "confidence": 0.9
+    },
+    {
+      "id": "c6",
+      "speaker": "穆",
+      "claim": "大凡神秘的感情的伦理的各派人的人生观都带有几分轻视事实和超脱事实的倾向",
+      "target": "人生观",
+      "claim_type": "社会理论主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "大凡神秘的感情的伦理的各派人的人生观都带有几分轻视事实和超脱事实的倾向",
+      "confidence": 0.9
+    },
+    {
+      "id": "c7",
+      "speaker": "穆",
+      "claim": "科学家把许多事实列举出来，告诉我们说，人类和下等生物本来是同祖的一原的",
+      "target": "人类",
+      "claim_type": "知识论主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "科学家把许多事实列举出来，告诉我们说，人类和下等生物本来是同祖的一原的",
+      "confidence": 0.9
+    }
+  ],
+  "relations": [
+    {
+      "id": "r1",
+      "head": "丁",
+      "head_type": "人物",
+      "relation": "相关",
+      "tail": "辩论",
+      "tail_type": "历史事件",
+      "polarity": "neutral",
+      "evidence": "丁、张两先生的辩论",
+      "confidence": 0.9
+    },
+    {
+      "id": "r2",
+      "head": "张",
+      "head_type": "人物",
+      "relation": "相关",
+      "tail": "辩论",
+      "tail_type": "历史事件",
+      "polarity": "neutral",
+      "evidence": "丁、张两先生的辩论",
+      "confidence": 0.9
+    },
+    {
+      "id": "r3",
+      "head": "张先生",
+      "head_type": "人物",
+      "relation": "主张",
+      "tail": "科学是给人类利用的，不是用人类的东西",
+      "tail_type": "观点",
+      "polarity": "neutral",
+      "evidence": "张先生说：科学是给人类利用的，不是用人类的东西",
+      "confidence": 0.9
+    },
+    {
+      "id": "r4",
+      "head": "张先生",
+      "head_type": "人物",
+      "relation": "主张",
+      "tail": "各人有各人的人生观，彼此无从统一",
+      "tail_type": "观点",
+      "polarity": "neutral",
+      "evidence": "张先生又说：各人有各人的人生观，彼此无从统一",
+      "confidence": 0.9
+    },
+    {
+      "id": "r5",
+      "head": "科学家",
+      "head_type": "阵营/群体",
+      "relation": "主张",
+      "tail": "尊重事实",
+      "tail_type": "方法论原则",
+      "polarity": "positive",
+      "evidence": "科学家最重要的精神，是承认事实而尊重事实",
+      "confidence": 0.9
+    },
+    {
+      "id": "r6",
+      "head": "科学家",
+      "head_type": "阵营/群体",
+      "relation": "解释",
+      "tail": "人类和下等生物本来是同祖的一原的",
+      "tail_type": "观点",
+      "polarity": "positive",
+      "evidence": "科学家把许多事实列举出来，告诉我们说，人类和下等生物本来是同祖的一原的",
+      "confidence": 0.9
+    }
+  ],
+  "definitions": [],
+  "citations": [
+    {
+      "id": "cit1",
+      "citer": "穆",
+      "quoted_author": "张先生",
+      "quoted_work": "",
+      "quoted_claim": "科学是给人类利用的，不是用人类的东西",
+      "function": "作为批评对象",
+      "evidence": "张先生说：科学是给人类利用的，不是用人类的东西",
+      "confidence": 0.9
+    },
+    {
+      "id": "cit2",
+      "citer": "穆",
+      "quoted_author": "张先生",
+      "quoted_work": "",
+      "quoted_claim": "各人有各人的人生观，彼此无从统一",
+      "function": "作为批评对象",
+      "evidence": "张先生又说：各人有各人的人生观，彼此无从统一",
+      "confidence": 0.9
+    }
+  ],
+  "rhetorical_devices": [
+    {
+      "id": "rh1",
+      "expression": "譬如你要坐船，便不得不适应船上的生活",
+      "device_type": "类比",
+      "literal_target": "人类使用科学必须适应科学的尺度",
+      "function": "用坐船适应船生活的类比，说明人类不得不俯就科学的尺度",
+      "evidence": "譬如你要坐船，便不得不适应船上的生活",
+      "confidence": 0.9
+    }
+  ],
+  "uncertainties": [
+    {
+      "item": "张先生是否明确说过“譬如你要坐船，便不得不适应船上的生活”这句话，还是作者穆的概括或引申",
+      "reason": "文本中“譬如你要坐船，便不得不适应船上的生活”紧接在“张先生说：科学是给人类利用的，不是用人类的东西，但人类既然要用到科学，当然不得不俯就科学的尺度”之后，但未明确标注是张先生原话还是作者自己的类比"
+    },
+    {
+      "item": "“神秘的感情的伦理的各派人”具体指哪些群体或人物",
+      "reason": "文本未具体说明，仅作为与科学家对比的一方"
+    }
+  ],
+  "_meta": {
+    "status": "success",
+    "stage": "extract",
+    "model": "deepseek-ai/DeepSeek-V4-Flash",
+    "base_url": "https://api.siliconflow.cn/v1",
+    "prompt_version": "extract_prompt_v2.0",
+    "schema_version": "lite_v2.0",
+    "segment_id": "穆_000_d6755881_s0000",
+    "article_id": "穆_000_d6755881",
+    "char_start": 0,
+    "char_end": 584,
+    "raw_path": "E:\\1研究生\\岭南大学\\论文毕业\\capstone\\资料\\新的内容开始了\\local_upload\\kg_runs\\穆\\raw_outputs\\extract\\穆_000_d6755881_s0000.txt",
+    "parsed_at": "2026-05-19T14:57:53",
+    "started_at": "2026-05-19T14:52:02",
+    "elapsed_seconds": 350.822,
+    "strict_evidence_check": true,
+    "drop_unsupported_evidence": true,
+    "request_timeout_seconds": 180
+  }
+}

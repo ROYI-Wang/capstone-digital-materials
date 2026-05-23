@@ -1,0 +1,353 @@
+{
+  "metadata": {
+    "schema_version": "lite_v2.0",
+    "article_id": "张君劢_001_688ab8ae",
+    "article_title": "人生观（中篇）",
+    "source_author": "张君劢",
+    "section_title": "",
+    "section_author": "",
+    "segment_id": "张君劢_001_688ab8ae_s0011",
+    "segment_index": 11,
+    "source_file": "E:\\1研究生\\岭南大学\\论文毕业\\capstone\\资料\\新的内容开始了\\local_upload\\input_w3\\张君劢.txt"
+  },
+  "entities": [
+    {
+      "id": "e1",
+      "name": "皮氏",
+      "canonical_name": "皮尔士",
+      "type": "人物",
+      "evidence": "皮氏曰惟有感觉。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e2",
+      "name": "在君",
+      "canonical_name": "丁文江",
+      "type": "人物",
+      "evidence": "在君既以皮氏感觉之说为出发点",
+      "confidence": 0.9
+    },
+    {
+      "id": "e3",
+      "name": "科学",
+      "canonical_name": "科学",
+      "type": "概念",
+      "evidence": "科学方法所得之“真”",
+      "confidence": 1.0
+    },
+    {
+      "id": "e4",
+      "name": "感觉",
+      "canonical_name": "感觉",
+      "type": "概念",
+      "evidence": "皮氏曰惟有感觉。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e5",
+      "name": "思想",
+      "canonical_name": "思想",
+      "type": "概念",
+      "evidence": "苟无辨别真伪之思想，则并感觉之彼此而亦不辨。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e6",
+      "name": "论理的意义",
+      "canonical_name": "论理的意义",
+      "type": "概念",
+      "evidence": "必认思想，或曰论理的意义",
+      "confidence": 0.9
+    },
+    {
+      "id": "e7",
+      "name": "真",
+      "canonical_name": "真",
+      "type": "概念",
+      "evidence": "所谓“真”者，除感觉外必认思想",
+      "confidence": 1.0
+    },
+    {
+      "id": "e8",
+      "name": "知识",
+      "canonical_name": "知识",
+      "type": "概念",
+      "evidence": "定知识非知识之限界",
+      "confidence": 1.0
+    },
+    {
+      "id": "e9",
+      "name": "玄学",
+      "canonical_name": "玄学",
+      "type": "概念",
+      "evidence": "如玄学之类",
+      "confidence": 1.0
+    },
+    {
+      "id": "e10",
+      "name": "科学方法",
+      "canonical_name": "科学方法",
+      "type": "方法",
+      "evidence": "凡为科学方法之所适用者，名之为知识",
+      "confidence": 1.0
+    },
+    {
+      "id": "e11",
+      "name": "曾子",
+      "canonical_name": "曾参",
+      "type": "人物",
+      "evidence": "曾子曰：“吾日三省吾身，为人谋而不忠乎？与朋友交而不信乎？传不习乎？”",
+      "confidence": 1.0
+    },
+    {
+      "id": "e12",
+      "name": "忠不忠信不信之辨",
+      "canonical_name": "忠信之辨",
+      "type": "概念",
+      "evidence": "忠不忠信不信之辨，惟已知之最深",
+      "confidence": 0.9
+    }
+  ],
+  "claims": [
+    {
+      "id": "c1",
+      "speaker": "张君劢",
+      "claim": "苟无辨别真伪之思想，则并感觉之彼此而亦不辨。",
+      "target": "真",
+      "claim_type": "知识论主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "我以为苟无辨别真伪之思想，则并感觉之彼此而亦不辨。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c2",
+      "speaker": "张君劢",
+      "claim": "所谓“真”者，除感觉外必认思想，或曰论理的意义，此乃学术上之天经地义，不容动摇者也。",
+      "target": "真",
+      "claim_type": "定义性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "故所谓“真”者，除感觉外必认思想，或曰论理的意义，此乃学术上之天经地义，不容动摇者也。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c3",
+      "speaker": "丁文江",
+      "claim": "除科学方法所得之“真”外，概不认为“真”。",
+      "target": "真",
+      "claim_type": "知识论主张",
+      "claim_status": "间接转述",
+      "polarity": "negative",
+      "evidence": "在君既以皮氏感觉之说为出发点，于是除科学方法所得之“真”外，概不认为“真”。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c4",
+      "speaker": "丁文江",
+      "claim": "凡概念推论若是自相矛盾，科学概不承认他是真的。",
+      "target": "科学",
+      "claim_type": "方法论主张",
+      "claim_status": "直接引用",
+      "polarity": "neutral",
+      "evidence": "第一，凡概念推论若是自相矛盾，科学概不承认他是真的。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c5",
+      "speaker": "丁文江",
+      "claim": "凡概念不能从不反常的人的知觉推断出来的，科学不能承认他是真的。",
+      "target": "科学",
+      "claim_type": "方法论主张",
+      "claim_status": "直接引用",
+      "polarity": "neutral",
+      "evidence": "第二，凡概念不能从不反常的人的知觉推断出来的，科学不能承认他是真的。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c6",
+      "speaker": "丁文江",
+      "claim": "凡推论不能使寻常有论理训练的人，依了所根据的概念，也能得同样的推论，科学不承认他是真的。",
+      "target": "科学",
+      "claim_type": "方法论主张",
+      "claim_status": "直接引用",
+      "polarity": "neutral",
+      "evidence": "第三，凡推论不能使寻常有论理训练的人，依了所根据的概念，也能得同样的推论，科学不承认他是真的。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c7",
+      "speaker": "皮尔士",
+      "claim": "苟有说者，谓某某区域内，如玄学之类，科学既遭摈除，其方法又不适用云云，是无异谓方法的观察之原则论理的思想之公例，皆不适用于此区域内之事实耳。",
+      "target": "玄学",
+      "claim_type": "知识论主张",
+      "claim_status": "直接引用",
+      "polarity": "negative",
+      "evidence": "“苟有说者，谓某某区域内，如玄学之类，科学既遭摈除，其方法又不适用云云，是无异谓方法的观察之原则论理的思想之公例，皆不适用于此区域内之事实耳。”",
+      "confidence": 1.0
+    },
+    {
+      "id": "c8",
+      "speaker": "皮尔士",
+      "claim": "苟诚有此类区域，吾人惟有答曰，此区域必在知识一名之正当的界说以外。",
+      "target": "知识",
+      "claim_type": "定义性主张",
+      "claim_status": "直接引用",
+      "polarity": "negative",
+      "evidence": "“苟诚有此类区域，吾人惟有答曰，此区域必在知识一名之正当的界说以外。”",
+      "confidence": 1.0
+    },
+    {
+      "id": "c9",
+      "speaker": "张君劢",
+      "claim": "皮氏此类界说绝对不能成立者也。",
+      "target": "皮尔士",
+      "claim_type": "反驳性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "吾人可简单答曰：皮氏此类界说绝对不能成立者也。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c10",
+      "speaker": "张君劢",
+      "claim": "诚如皮氏言，则人事之大部分，皆不得以知识名之。",
+      "target": "皮尔士",
+      "claim_type": "反驳性主张",
+      "claim_status": "作者推论",
+      "polarity": "negative",
+      "evidence": "何也？诚如皮氏言，则人事之大部分，皆不得以知识名之。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c11",
+      "speaker": "张君劢",
+      "claim": "忠不忠信不信之辨，惟已知之最深，而与在君所举之三标准无涉焉。",
+      "target": "丁文江",
+      "claim_type": "反驳性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "忠不忠信不信之辨，惟已知之最深，而与在君所举之三标准无涉焉。",
+      "confidence": 1.0
+    }
+  ],
+  "relations": [],
+  "definitions": [
+    {
+      "id": "def1",
+      "term": "真",
+      "definition": "真除感觉外必认思想或论理的意义。",
+      "evidence": "故所谓“真”者，除感觉外必认思想，或曰论理的意义",
+      "confidence": 1.0
+    },
+    {
+      "id": "def2",
+      "term": "知识",
+      "definition": "凡为科学方法所适用者名为知识，反是者不名为知识。",
+      "evidence": "皮氏毅然决然画一条界线，凡为科学方法之所适用者，名之为知识，反是者不名之曰知识。",
+      "confidence": 0.9
+    }
+  ],
+  "citations": [
+    {
+      "id": "cit1",
+      "citer": "丁文江",
+      "quoted_author": "皮尔士",
+      "quoted_work": "",
+      "quoted_claim": "凡概念推论若是自相矛盾，科学概不承认他是真的。",
+      "function": "援引权威支持",
+      "evidence": "第一，凡概念推论若是自相矛盾，科学概不承认他是真的。",
+      "confidence": 0.9
+    },
+    {
+      "id": "cit2",
+      "citer": "丁文江",
+      "quoted_author": "皮尔士",
+      "quoted_work": "",
+      "quoted_claim": "凡概念不能从不反常的人的知觉推断出来的，科学不能承认他是真的。",
+      "function": "援引权威支持",
+      "evidence": "第二，凡概念不能从不反常的人的知觉推断出来的，科学不能承认他是真的。",
+      "confidence": 0.9
+    },
+    {
+      "id": "cit3",
+      "citer": "丁文江",
+      "quoted_author": "皮尔士",
+      "quoted_work": "",
+      "quoted_claim": "凡推论不能使寻常有论理训练的人，依了所根据的概念，也能得同样的推论，科学不承认他是真的。",
+      "function": "援引权威支持",
+      "evidence": "第三，凡推论不能使寻常有论理训练的人，依了所根据的概念，也能得同样的推论，科学不承认他是真的。",
+      "confidence": 0.9
+    },
+    {
+      "id": "cit4",
+      "citer": "张君劢",
+      "quoted_author": "皮尔士",
+      "quoted_work": "",
+      "quoted_claim": "苟有说者，谓某某区域内，如玄学之类，科学既遭摈除，其方法又不适用云云，是无异谓方法的观察之原则论理的思想之公例，皆不适用于此区域内之事实耳。",
+      "function": "作为批评对象",
+      "evidence": "“苟有说者，谓某某区域内，如玄学之类，科学既遭摈除，其方法又不适用云云，是无异谓方法的观察之原则论理的思想之公例，皆不适用于此区域内之事实耳。”",
+      "confidence": 1.0
+    },
+    {
+      "id": "cit5",
+      "citer": "张君劢",
+      "quoted_author": "皮尔士",
+      "quoted_work": "",
+      "quoted_claim": "苟诚有此类区域，吾人惟有答曰，此区域必在知识一名之正当的界说以外。",
+      "function": "作为批评对象",
+      "evidence": "“苟诚有此类区域，吾人惟有答曰，此区域必在知识一名之正当的界说以外。”",
+      "confidence": 1.0
+    },
+    {
+      "id": "cit6",
+      "citer": "张君劢",
+      "quoted_author": "曾参",
+      "quoted_work": "",
+      "quoted_claim": "吾日三省吾身，为人谋而不忠乎？与朋友交而不信乎？传不习乎？",
+      "function": "作为论据支持",
+      "evidence": "曾子曰：“吾日三省吾身，为人谋而不忠乎？与朋友交而不信乎？传不习乎？”",
+      "confidence": 1.0
+    }
+  ],
+  "rhetorical_devices": [
+    {
+      "id": "rh1",
+      "expression": "天经地义",
+      "device_type": "夸张",
+      "literal_target": "思想或论理的意义是构成真的必要条件",
+      "function": "强调作者主张的不可动摇性",
+      "evidence": "此乃学术上之天经地义，不容动摇者也。",
+      "confidence": 0.9
+    }
+  ],
+  "uncertainties": [
+    {
+      "item": "皮氏的具体身份",
+      "reason": "文本中仅称“皮氏”，未给出全名，根据上下文推断可能为皮尔士，但需确认。"
+    },
+    {
+      "item": "丁文江所引三条标准是否直接来自皮尔士",
+      "reason": "文本中丁文江的三条标准以直接引语形式出现，但未明确标注引自皮尔士，仅由张君劢转述。"
+    }
+  ],
+  "_meta": {
+    "status": "success",
+    "stage": "extract",
+    "model": "deepseek-ai/DeepSeek-V4-Flash",
+    "base_url": "https://api.siliconflow.cn/v1",
+    "prompt_version": "extract_prompt_v2.0",
+    "schema_version": "lite_v2.0",
+    "segment_id": "张君劢_001_688ab8ae_s0011",
+    "article_id": "张君劢_001_688ab8ae",
+    "char_start": 5560,
+    "char_end": 6158,
+    "raw_path": "E:\\1研究生\\岭南大学\\论文毕业\\capstone\\资料\\新的内容开始了\\local_upload\\kg_runs\\张君劢\\raw_outputs\\extract\\张君劢_001_688ab8ae_s0011.txt",
+    "parsed_at": "2026-05-20T02:43:48",
+    "started_at": "2026-05-20T02:42:14",
+    "elapsed_seconds": 94.052,
+    "strict_evidence_check": true,
+    "drop_unsupported_evidence": true,
+    "request_timeout_seconds": 180
+  }
+}

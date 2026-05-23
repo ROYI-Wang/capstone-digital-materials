@@ -1,0 +1,352 @@
+{
+  "metadata": {
+    "schema_version": "lite_v2.0",
+    "article_id": "吴稚晖_001_b4c0e810",
+    "article_title": "一个新信仰的宇宙观及人生观",
+    "source_author": "吴稚晖",
+    "section_title": "讲到这里，第一层可先用不值钱的玄学理想，近乎游戏的，说道毛厕里的石头亦有感觉。苍蝇的感觉，非即人的感觉，他们感觉的状况，颇极差等。玫瑰树的感觉，非即苍蝇的感觉，他们的感觉，又极差等。如是焉能禁我来瞎说，毛厕里石头的感觉，非即玫瑰树的感觉，他们感觉的状况，也极差等。若欲强分高下，则石头有其寂然不动的感觉，真所谓无私心而合天理，所以贞固永寿。一块毛厕里的石头，可以阅几十代人而依然如故，见数百兆苍蝇存灭，看千万棵玫瑰树忽而芬芳，忽而萎枯。彼如曰毛厕里的石头为万物之灵，理由亦未尝不充足。彼另有彼之可感与彼之可觉，人与苍蝇及玫瑰树之感觉，皆非彼所需，故亦非彼所有，如是而已。然这种蹈空的掉枪花，我们中国古代的玄学鬼常用“孰为正色，孰为正味”等的论调，闹得甚嚣尘上。自然受过科学洗礼的玄学鬼，不肯就把这种空言，来作惟一的搪塞。所以说到第二层，他就要戴上科学面具，正正经经，板起了面孔，来断定毛厕里的石头亦有感觉。他不是说能够",
+    "section_author": "讲到这里，第一层可先用不值钱的玄学理想，近乎游戏的，说道毛厕里的石头亦有感觉。苍蝇的感觉，非即人的感觉，他们感觉的状况，颇极差等。玫瑰树的感觉，非即苍蝇的感觉，他们的感觉，又极差等。如是焉能禁我来瞎说，毛厕里石头的感觉，非即玫瑰树的感觉，他们感觉的状况，也极差等。若欲强分高下，则石头有其寂然不动的感觉，真所谓无私心而合天理，所以贞固永寿。一块毛厕里的石头，可以阅几十代人而依然如故，见数百兆苍蝇存灭，看千万棵玫瑰树忽而芬芳，忽而萎枯。彼如曰毛厕里的石头为万物之灵，理由亦未尝不充足。彼另有彼之可感与彼之可觉，人与苍蝇及玫瑰树之感觉，皆非彼所需，故亦非彼所有，如是而已。然这种蹈空的掉枪花，我们中国古代的玄学鬼常用“孰为正色，孰为正味”等的论调，闹得甚嚣尘上。自然受过科学洗礼的玄学鬼，不肯就把这种空言，来作惟一的搪塞。所以说到第二层，他就要戴上科学面具，正正经经，板起了面孔，来断定毛厕里的石头亦有感觉。他不是说能够",
+    "segment_id": "吴稚晖_001_b4c0e810_s0021",
+    "segment_index": 21,
+    "source_file": "E:\\1研究生\\岭南大学\\论文毕业\\capstone\\资料\\新的内容开始了\\local_upload\\input_w0\\吴稚晖.txt"
+  },
+  "entities": [
+    {
+      "id": "e1",
+      "name": "张先生",
+      "canonical_name": "张君劢",
+      "type": "人物",
+      "evidence": "张先生引欧氏之语曰",
+      "confidence": 0.9
+    },
+    {
+      "id": "e2",
+      "name": "欧氏",
+      "canonical_name": "欧肯",
+      "type": "人物",
+      "evidence": "张先生引欧氏之语曰",
+      "confidence": 0.9
+    },
+    {
+      "id": "e3",
+      "name": "丁先生",
+      "canonical_name": "丁文江",
+      "type": "人物",
+      "evidence": "这正用得着丁先生所谓无赖玄学鬼的鬼攀谈",
+      "confidence": 0.9
+    },
+    {
+      "id": "e4",
+      "name": "无赖玄学鬼",
+      "canonical_name": "无赖玄学鬼",
+      "type": "阵营/群体",
+      "evidence": "这正用得着丁先生所谓无赖玄学鬼的鬼攀谈",
+      "confidence": 0.9
+    },
+    {
+      "id": "e5",
+      "name": "欧先生",
+      "canonical_name": "欧肯",
+      "type": "人物",
+      "evidence": "欧先生难道便是天人",
+      "confidence": 0.9
+    },
+    {
+      "id": "e6",
+      "name": "精神元素",
+      "canonical_name": "精神元素",
+      "type": "概念",
+      "evidence": "把“精神元素”一个名词写了出来",
+      "confidence": 0.9
+    },
+    {
+      "id": "e7",
+      "name": "上帝",
+      "canonical_name": "上帝",
+      "type": "概念",
+      "evidence": "不信上帝，无异在我们社会里不信有天",
+      "confidence": 0.9
+    },
+    {
+      "id": "e8",
+      "name": "灵魂",
+      "canonical_name": "灵魂",
+      "type": "概念",
+      "evidence": "认有灵魂，更不能不说“人为万物之灵”",
+      "confidence": 0.9
+    },
+    {
+      "id": "e9",
+      "name": "人为万物之灵",
+      "canonical_name": "人为万物之灵",
+      "type": "观点",
+      "evidence": "认有灵魂，更不能不说“人为万物之灵”",
+      "confidence": 0.9
+    },
+    {
+      "id": "e10",
+      "name": "张先生等",
+      "canonical_name": "张君劢等",
+      "type": "阵营/群体",
+      "evidence": "而张先生等的人生观，一若含无穷悲悯",
+      "confidence": 0.9
+    },
+    {
+      "id": "e11",
+      "name": "精神元素作用",
+      "canonical_name": "精神元素作用",
+      "type": "概念",
+      "evidence": "本着欧先生的精神元素作用，起而救世",
+      "confidence": 0.9
+    },
+    {
+      "id": "e12",
+      "name": "吴稚晖",
+      "canonical_name": "吴稚晖",
+      "type": "人物",
+      "evidence": "我辈固是常人",
+      "confidence": 0.9
+    },
+    {
+      "id": "e13",
+      "name": "陶渊明",
+      "canonical_name": "陶渊明",
+      "type": "人物",
+      "evidence": "这正可以如陶渊明所谓“不求甚解”的呀",
+      "confidence": 0.9
+    }
+  ],
+  "claims": [
+    {
+      "id": "c1",
+      "speaker": "欧氏",
+      "claim": "第三曰精神元素之作用，此为一种深远能力，非常人所能察知",
+      "target": "精神元素",
+      "claim_type": "本体论主张",
+      "claim_status": "直接引用",
+      "polarity": "neutral",
+      "evidence": "张先生引欧氏之语曰：“第三曰精神元素之作用，此为一种深远能力，非常人所能察知。”",
+      "confidence": 0.9
+    },
+    {
+      "id": "c2",
+      "speaker": "吴稚晖",
+      "claim": "欧先生所谓“深远能力非常人所能察知”的语气，何异南池子口头文王八卦摊上的话",
+      "target": "欧氏",
+      "claim_type": "价值评价",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "否则什么“深远能力非常人所能察知”的语气，何异南池子口头文王八卦摊上的话",
+      "confidence": 0.9
+    },
+    {
+      "id": "c3",
+      "speaker": "吴稚晖",
+      "claim": "欧先生既不曾察知，如何老了面皮，把“精神元素”一个名词写了出来",
+      "target": "欧氏",
+      "claim_type": "论战策略批评",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "既不曾察知，如何老了面皮，竟“大摇大摆”把“精神元素”一个名词写了出来",
+      "confidence": 0.9
+    },
+    {
+      "id": "c4",
+      "speaker": "吴稚晖",
+      "claim": "欧先生是一个绅士，在欧洲社会里不信上帝，无异在我们社会里不信有天",
+      "target": "欧氏",
+      "claim_type": "社会理论主张",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "他是一个绅士。在欧洲社会里不信上帝，无异在我们社会里不信有天",
+      "confidence": 0.9
+    },
+    {
+      "id": "c5",
+      "speaker": "吴稚晖",
+      "claim": "认有上帝，就不能不连带认有灵魂。认有灵魂，更不能不说“人为万物之灵”",
+      "target": "上帝",
+      "claim_type": "社会理论主张",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "因为认有上帝，就不能不连带认有灵魂。认有灵魂，更不能不说“人为万物之灵”",
+      "confidence": 0.9
+    },
+    {
+      "id": "c6",
+      "speaker": "吴稚晖",
+      "claim": "张先生等的人生观，一若含无穷悲悯，本着欧先生的精神元素作用，起而救世；果适类于抱薪救火乎",
+      "target": "张先生等",
+      "claim_type": "价值评价",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "而张先生等的人生观，一若含无穷悲悯，本着欧先生的精神元素作用，起而救世；果适类于抱薪救火乎，张先生等未计其责任也",
+      "confidence": 0.9
+    },
+    {
+      "id": "c7",
+      "speaker": "吴稚晖",
+      "claim": "精神元素自身的没有着落，止是一种绅士应酬上帝，有麻醉性的谰言",
+      "target": "精神元素",
+      "claim_type": "价值评价",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "其实精神元素自身的没有着落，止是一种绅士应酬上帝，有麻醉性的谰言",
+      "confidence": 0.9
+    }
+  ],
+  "relations": [
+    {
+      "id": "r1",
+      "head": "张先生",
+      "head_type": "人物",
+      "relation": "引用",
+      "relation_subtype": "援引权威支持",
+      "tail": "欧氏",
+      "tail_type": "人物",
+      "polarity": "neutral",
+      "evidence": "张先生引欧氏之语曰",
+      "confidence": 0.9
+    },
+    {
+      "id": "r2",
+      "head": "吴稚晖",
+      "head_type": "人物",
+      "relation": "批评",
+      "relation_subtype": "讽刺",
+      "tail": "欧氏",
+      "tail_type": "人物",
+      "polarity": "negative",
+      "evidence": "否则什么“深远能力非常人所能察知”的语气，何异南池子口头文王八卦摊上的话",
+      "confidence": 0.9
+    },
+    {
+      "id": "r3",
+      "head": "吴稚晖",
+      "head_type": "人物",
+      "relation": "批评",
+      "relation_subtype": "逻辑反驳",
+      "tail": "欧氏",
+      "tail_type": "人物",
+      "polarity": "negative",
+      "evidence": "既不曾察知，如何老了面皮，竟“大摇大摆”把“精神元素”一个名词写了出来",
+      "confidence": 0.9
+    },
+    {
+      "id": "r4",
+      "head": "吴稚晖",
+      "head_type": "人物",
+      "relation": "批评",
+      "relation_subtype": "归谬",
+      "tail": "张先生等",
+      "tail_type": "阵营/群体",
+      "polarity": "negative",
+      "evidence": "而张先生等的人生观，一若含无穷悲悯，本着欧先生的精神元素作用，起而救世；果适类于抱薪救火乎",
+      "confidence": 0.9
+    },
+    {
+      "id": "r5",
+      "head": "吴稚晖",
+      "head_type": "人物",
+      "relation": "批评",
+      "relation_subtype": "概念混淆批评",
+      "tail": "精神元素",
+      "tail_type": "概念",
+      "polarity": "negative",
+      "evidence": "其实精神元素自身的没有着落，止是一种绅士应酬上帝，有麻醉性的谰言",
+      "confidence": 0.9
+    },
+    {
+      "id": "r6",
+      "head": "吴稚晖",
+      "head_type": "人物",
+      "relation": "引用",
+      "relation_subtype": "援引权威支持",
+      "tail": "陶渊明",
+      "tail_type": "人物",
+      "polarity": "neutral",
+      "evidence": "这正可以如陶渊明所谓“不求甚解”的呀",
+      "confidence": 0.9
+    }
+  ],
+  "definitions": [],
+  "citations": [
+    {
+      "id": "cit1",
+      "citer": "张先生",
+      "quoted_author": "欧氏",
+      "quoted_work": "",
+      "quoted_claim": "第三曰精神元素之作用，此为一种深远能力，非常人所能察知",
+      "function": "援引权威支持",
+      "evidence": "张先生引欧氏之语曰：“第三曰精神元素之作用，此为一种深远能力，非常人所能察知。”",
+      "confidence": 0.9
+    },
+    {
+      "id": "cit2",
+      "citer": "吴稚晖",
+      "quoted_author": "陶渊明",
+      "quoted_work": "",
+      "quoted_claim": "不求甚解",
+      "function": "援引权威支持",
+      "evidence": "这正可以如陶渊明所谓“不求甚解”的呀",
+      "confidence": 0.9
+    }
+  ],
+  "rhetorical_devices": [
+    {
+      "id": "rh1",
+      "expression": "无赖玄学鬼的鬼攀谈",
+      "device_type": "标签化",
+      "literal_target": "丁文江对玄学家的批评",
+      "function": "借用丁文江的标签来讽刺欧氏和张君劢",
+      "evidence": "这正用得着丁先生所谓无赖玄学鬼的鬼攀谈",
+      "confidence": 0.9
+    },
+    {
+      "id": "rh2",
+      "expression": "何异南池子口头文王八卦摊上的话",
+      "device_type": "类比",
+      "literal_target": "欧氏关于精神元素的言论",
+      "function": "将欧氏言论比作街头算命摊的胡言，贬低其科学性",
+      "evidence": "否则什么“深远能力非常人所能察知”的语气，何异南池子口头文王八卦摊上的话",
+      "confidence": 0.9
+    },
+    {
+      "id": "rh3",
+      "expression": "老了面皮，竟“大摇大摆”",
+      "device_type": "讽刺",
+      "literal_target": "欧氏提出精神元素概念的行为",
+      "function": "讽刺欧氏在缺乏证据的情况下自信地提出概念",
+      "evidence": "既不曾察知，如何老了面皮，竟“大摇大摆”把“精神元素”一个名词写了出来",
+      "confidence": 0.9
+    },
+    {
+      "id": "rh4",
+      "expression": "抱薪救火",
+      "device_type": "比喻",
+      "literal_target": "张先生等以精神元素作用救世的行为",
+      "function": "比喻张君劢等人的救世方式反而加剧问题",
+      "evidence": "果适类于抱薪救火乎",
+      "confidence": 0.9
+    },
+    {
+      "id": "rh5",
+      "expression": "绅士应酬上帝，有麻醉性的谰言",
+      "device_type": "比喻",
+      "literal_target": "精神元素概念",
+      "function": "将精神元素概念比作绅士为迎合社会信仰而说的麻醉性谎言",
+      "evidence": "止是一种绅士应酬上帝，有麻醉性的谰言",
+      "confidence": 0.9
+    }
+  ],
+  "uncertainties": [
+    {
+      "item": "欧氏具体指哪位哲学家",
+      "reason": "文本中只称欧氏，未给出全名，根据历史背景可能是欧肯，但当前文本未明确"
+    },
+    {
+      "item": "丁先生具体指谁",
+      "reason": "文本中只称丁先生，未给出全名，根据历史背景可能是丁文江，但当前文本未明确"
+    }
+  ]
+}

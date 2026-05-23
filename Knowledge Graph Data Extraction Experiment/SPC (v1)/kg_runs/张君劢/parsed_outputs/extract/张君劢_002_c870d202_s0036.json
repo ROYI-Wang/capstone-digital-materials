@@ -1,0 +1,721 @@
+{
+  "metadata": {
+    "schema_version": "lite_v2.0",
+    "article_id": "张君劢_002_c870d202",
+    "article_title": "再论人生观与科学并答丁在君",
+    "source_author": "张君劢",
+    "section_title": "",
+    "section_author": "",
+    "segment_id": "张君劢_002_c870d202_s0036",
+    "segment_index": 36,
+    "source_file": "E:\\1研究生\\岭南大学\\论文毕业\\capstone\\资料\\新的内容开始了\\local_upload\\input_w3\\张君劢.txt"
+  },
+  "entities": [
+    {
+      "id": "e1",
+      "name": "甲",
+      "canonical_name": "甲",
+      "type": "阵营/群体",
+      "evidence": "甲曰卫道，乙亦曰卫道；甲曰吾之学为圣学，乙亦曰吾之学为圣学；甲曰经学即理学，乙曰天下无心外之理，亦无心外之物。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e2",
+      "name": "乙",
+      "canonical_name": "乙",
+      "type": "阵营/群体",
+      "evidence": "甲曰卫道，乙亦曰卫道；甲曰吾之学为圣学，乙亦曰吾之学为圣学；甲曰经学即理学，乙曰天下无心外之理，亦无心外之物。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e3",
+      "name": "尧",
+      "canonical_name": "尧",
+      "type": "人物",
+      "evidence": "两家各认其研究之对象为尧、舜、禹、汤、文、武、周、公、孔子之道",
+      "confidence": 0.9
+    },
+    {
+      "id": "e4",
+      "name": "舜",
+      "canonical_name": "舜",
+      "type": "人物",
+      "evidence": "两家各认其研究之对象为尧、舜、禹、汤、文、武、周、公、孔子之道",
+      "confidence": 0.9
+    },
+    {
+      "id": "e5",
+      "name": "禹",
+      "canonical_name": "禹",
+      "type": "人物",
+      "evidence": "两家各认其研究之对象为尧、舜、禹、汤、文、武、周、公、孔子之道",
+      "confidence": 0.9
+    },
+    {
+      "id": "e6",
+      "name": "汤",
+      "canonical_name": "汤",
+      "type": "人物",
+      "evidence": "两家各认其研究之对象为尧、舜、禹、汤、文、武、周、公、孔子之道",
+      "confidence": 0.9
+    },
+    {
+      "id": "e7",
+      "name": "文",
+      "canonical_name": "文",
+      "type": "人物",
+      "evidence": "两家各认其研究之对象为尧、舜、禹、汤、文、武、周、公、孔子之道",
+      "confidence": 0.9
+    },
+    {
+      "id": "e8",
+      "name": "武",
+      "canonical_name": "武",
+      "type": "人物",
+      "evidence": "两家各认其研究之对象为尧、舜、禹、汤、文、武、周、公、孔子之道",
+      "confidence": 0.9
+    },
+    {
+      "id": "e9",
+      "name": "周",
+      "canonical_name": "周",
+      "type": "人物",
+      "evidence": "两家各认其研究之对象为尧、舜、禹、汤、文、武、周、公、孔子之道",
+      "confidence": 0.9
+    },
+    {
+      "id": "e10",
+      "name": "公",
+      "canonical_name": "公",
+      "type": "人物",
+      "evidence": "两家各认其研究之对象为尧、舜、禹、汤、文、武、周、公、孔子之道",
+      "confidence": 0.9
+    },
+    {
+      "id": "e11",
+      "name": "孔子",
+      "canonical_name": "孔子",
+      "type": "人物",
+      "evidence": "两家各认其研究之对象为尧、舜、禹、汤、文、武、周、公、孔子之道",
+      "confidence": 0.9
+    },
+    {
+      "id": "e12",
+      "name": "汉儒",
+      "canonical_name": "汉儒",
+      "type": "阵营/群体",
+      "evidence": "甲尊汉儒，乙宗宋明理学",
+      "confidence": 0.9
+    },
+    {
+      "id": "e13",
+      "name": "宋明理学",
+      "canonical_name": "宋明理学",
+      "type": "主义/学说/理论",
+      "evidence": "甲尊汉儒，乙宗宋明理学",
+      "confidence": 0.9
+    },
+    {
+      "id": "e14",
+      "name": "朱子",
+      "canonical_name": "朱熹",
+      "type": "人物",
+      "evidence": "同为理学之中，而又有朱子、陆、王子分",
+      "confidence": 0.9
+    },
+    {
+      "id": "e15",
+      "name": "陆",
+      "canonical_name": "陆九渊",
+      "type": "人物",
+      "evidence": "同为理学之中，而又有朱子、陆、王子分",
+      "confidence": 0.9
+    },
+    {
+      "id": "e16",
+      "name": "王子",
+      "canonical_name": "王守仁",
+      "type": "人物",
+      "evidence": "同为理学之中，而又有朱子、陆、王子分",
+      "confidence": 0.9
+    },
+    {
+      "id": "e17",
+      "name": "经验派",
+      "canonical_name": "经验派",
+      "type": "阵营/群体",
+      "evidence": "欧洲哲学史上经验派理性派，或曰唯心派唯物派之争",
+      "confidence": 0.9
+    },
+    {
+      "id": "e18",
+      "name": "理性派",
+      "canonical_name": "理性派",
+      "type": "阵营/群体",
+      "evidence": "欧洲哲学史上经验派理性派，或曰唯心派唯物派之争",
+      "confidence": 0.9
+    },
+    {
+      "id": "e19",
+      "name": "唯心派",
+      "canonical_name": "唯心派",
+      "type": "阵营/群体",
+      "evidence": "欧洲哲学史上经验派理性派，或曰唯心派唯物派之争",
+      "confidence": 0.9
+    },
+    {
+      "id": "e20",
+      "name": "唯物派",
+      "canonical_name": "唯物派",
+      "type": "阵营/群体",
+      "evidence": "欧洲哲学史上经验派理性派，或曰唯心派唯物派之争",
+      "confidence": 0.9
+    },
+    {
+      "id": "e21",
+      "name": "梁任公",
+      "canonical_name": "梁启超",
+      "type": "人物",
+      "evidence": "然惕乎梁任公先生所云摭古书以傅会今义之流弊",
+      "confidence": 0.9
+    },
+    {
+      "id": "e22",
+      "name": "汉宋之争",
+      "canonical_name": "汉宋之争",
+      "type": "历史事件",
+      "evidence": "若夫汉宋之争，与唯心唯物之争，则人类思想上两大潮流之表现",
+      "confidence": 0.9
+    },
+    {
+      "id": "e23",
+      "name": "唯心唯物之争",
+      "canonical_name": "唯心唯物之争",
+      "type": "历史事件",
+      "evidence": "若夫汉宋之争，与唯心唯物之争，则人类思想上两大潮流之表现",
+      "confidence": 0.9
+    },
+    {
+      "id": "e24",
+      "name": "倍根",
+      "canonical_name": "培根",
+      "type": "人物",
+      "evidence": "倍根云：事实之搜集。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e25",
+      "name": "洛克",
+      "canonical_name": "洛克",
+      "type": "人物",
+      "evidence": "洛克云：一切意象由经验而入。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e26",
+      "name": "惟用主义者",
+      "canonical_name": "实用主义者",
+      "type": "阵营/群体",
+      "evidence": "惟用主义者云：意象之有益于人生者为真。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e27",
+      "name": "边沁",
+      "canonical_name": "边沁",
+      "type": "人物",
+      "evidence": "边沁云：宇宙之两主宰：曰苦，曰乐，乐为善，苦为恶。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e28",
+      "name": "英美学者",
+      "canonical_name": "英美学者",
+      "type": "阵营/群体",
+      "evidence": "英美学者，好用沿革的方法。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e29",
+      "name": "休谟氏",
+      "canonical_name": "休谟",
+      "type": "人物",
+      "evidence": "休谟氏云：经验之往复不已，于是有习惯上之信仰。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e30",
+      "name": "王引之",
+      "canonical_name": "王引之",
+      "type": "人物",
+      "evidence": "王引之云，遍为搜讨。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e31",
+      "name": "顾亭林",
+      "canonical_name": "顾炎武",
+      "type": "人物",
+      "evidence": "顾亭林云，多学而识。",
+      "confidence": 0.9
+    }
+  ],
+  "claims": [
+    {
+      "id": "c1",
+      "speaker": "甲",
+      "claim": "卫道",
+      "target": "",
+      "claim_type": "不明",
+      "claim_status": "作者概括",
+      "polarity": "neutral",
+      "evidence": "甲曰卫道，乙亦曰卫道",
+      "confidence": 0.8
+    },
+    {
+      "id": "c2",
+      "speaker": "甲",
+      "claim": "吾之学为圣学",
+      "target": "",
+      "claim_type": "不明",
+      "claim_status": "作者概括",
+      "polarity": "neutral",
+      "evidence": "甲曰吾之学为圣学，乙亦曰吾之学为圣学",
+      "confidence": 0.8
+    },
+    {
+      "id": "c3",
+      "speaker": "甲",
+      "claim": "经学即理学",
+      "target": "",
+      "claim_type": "定义性主张",
+      "claim_status": "作者概括",
+      "polarity": "neutral",
+      "evidence": "甲曰经学即理学，乙曰天下无心外之理，亦无心外之物。",
+      "confidence": 0.8
+    },
+    {
+      "id": "c4",
+      "speaker": "乙",
+      "claim": "天下无心外之理，亦无心外之物",
+      "target": "",
+      "claim_type": "本体论主张",
+      "claim_status": "作者概括",
+      "polarity": "neutral",
+      "evidence": "甲曰经学即理学，乙曰天下无心外之理，亦无心外之物。",
+      "confidence": 0.8
+    },
+    {
+      "id": "c5",
+      "speaker": "甲",
+      "claim": "穷理即在读书中",
+      "target": "",
+      "claim_type": "方法论主张",
+      "claim_status": "作者概括",
+      "polarity": "neutral",
+      "evidence": "甲曰穷理即在读书中，乙曰读书不过穷理之辅佐",
+      "confidence": 0.8
+    },
+    {
+      "id": "c6",
+      "speaker": "乙",
+      "claim": "读书不过穷理之辅佐",
+      "target": "",
+      "claim_type": "方法论主张",
+      "claim_status": "作者概括",
+      "polarity": "neutral",
+      "evidence": "甲曰穷理即在读书中，乙曰读书不过穷理之辅佐",
+      "confidence": 0.8
+    },
+    {
+      "id": "c7",
+      "speaker": "乙",
+      "claim": "六经皆吾注脚",
+      "target": "",
+      "claim_type": "方法论主张",
+      "claim_status": "作者概括",
+      "polarity": "neutral",
+      "evidence": "其甚者则曰六经皆吾注脚",
+      "confidence": 0.8
+    },
+    {
+      "id": "c8",
+      "speaker": "张君劢",
+      "claim": "汉宋之争，与唯心唯物之争，则人类思想上两大潮流之表现",
+      "target": "汉宋之争",
+      "claim_type": "历史解释",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "若夫汉宋之争，与唯心唯物之争，则人类思想上两大潮流之表现",
+      "confidence": 0.9
+    },
+    {
+      "id": "c9",
+      "speaker": "张君劢",
+      "claim": "此两潮流之对抗，出于心同理同之原则，而不得以牵合傅会目之也",
+      "target": "汉宋之争",
+      "claim_type": "历史解释",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "吾确信此两潮流之对抗，出于心同理同之原则，而不得以牵合傅会目之也",
+      "confidence": 0.9
+    },
+    {
+      "id": "c10",
+      "speaker": "倍根",
+      "claim": "事实之搜集",
+      "target": "",
+      "claim_type": "方法论主张",
+      "claim_status": "直接引用",
+      "polarity": "neutral",
+      "evidence": "倍根云：事实之搜集。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c11",
+      "speaker": "洛克",
+      "claim": "一切意象由经验而入",
+      "target": "",
+      "claim_type": "知识论主张",
+      "claim_status": "直接引用",
+      "polarity": "neutral",
+      "evidence": "洛克云：一切意象由经验而入。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c12",
+      "speaker": "惟用主义者",
+      "claim": "意象之有益于人生者为真",
+      "target": "",
+      "claim_type": "知识论主张",
+      "claim_status": "直接引用",
+      "polarity": "neutral",
+      "evidence": "惟用主义者云：意象之有益于人生者为真。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c13",
+      "speaker": "边沁",
+      "claim": "宇宙之两主宰：曰苦，曰乐，乐为善，苦为恶",
+      "target": "",
+      "claim_type": "本体论主张",
+      "claim_status": "直接引用",
+      "polarity": "neutral",
+      "evidence": "边沁云：宇宙之两主宰：曰苦，曰乐，乐为善，苦为恶。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c14",
+      "speaker": "休谟氏",
+      "claim": "经验之往复不已，于是有习惯上之信仰",
+      "target": "",
+      "claim_type": "知识论主张",
+      "claim_status": "直接引用",
+      "polarity": "neutral",
+      "evidence": "休谟氏云：经验之往复不已，于是有习惯上之信仰。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c15",
+      "speaker": "王引之",
+      "claim": "遍为搜讨",
+      "target": "",
+      "claim_type": "方法论主张",
+      "claim_status": "直接引用",
+      "polarity": "neutral",
+      "evidence": "王引之云，遍为搜讨。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c16",
+      "speaker": "顾亭林",
+      "claim": "多学而识",
+      "target": "",
+      "claim_type": "方法论主张",
+      "claim_status": "直接引用",
+      "polarity": "neutral",
+      "evidence": "顾亭林云，多学而识。",
+      "confidence": 0.9
+    }
+  ],
+  "relations": [
+    {
+      "id": "r1",
+      "head": "甲",
+      "head_type": "阵营/群体",
+      "relation": "主张",
+      "tail": "经学即理学",
+      "tail_type": "观点",
+      "polarity": "neutral",
+      "evidence": "甲曰经学即理学",
+      "confidence": 0.8
+    },
+    {
+      "id": "r2",
+      "head": "乙",
+      "head_type": "阵营/群体",
+      "relation": "主张",
+      "tail": "天下无心外之理，亦无心外之物",
+      "tail_type": "观点",
+      "polarity": "neutral",
+      "evidence": "乙曰天下无心外之理，亦无心外之物",
+      "confidence": 0.8
+    },
+    {
+      "id": "r3",
+      "head": "甲",
+      "head_type": "阵营/群体",
+      "relation": "主张",
+      "tail": "穷理即在读书中",
+      "tail_type": "观点",
+      "polarity": "neutral",
+      "evidence": "甲曰穷理即在读书中",
+      "confidence": 0.8
+    },
+    {
+      "id": "r4",
+      "head": "乙",
+      "head_type": "阵营/群体",
+      "relation": "主张",
+      "tail": "读书不过穷理之辅佐",
+      "tail_type": "观点",
+      "polarity": "neutral",
+      "evidence": "乙曰读书不过穷理之辅佐",
+      "confidence": 0.8
+    },
+    {
+      "id": "r5",
+      "head": "甲",
+      "head_type": "阵营/群体",
+      "relation": "相关",
+      "tail": "汉儒",
+      "tail_type": "阵营/群体",
+      "polarity": "positive",
+      "evidence": "甲尊汉儒，乙宗宋明理学",
+      "confidence": 0.9
+    },
+    {
+      "id": "r6",
+      "head": "乙",
+      "head_type": "阵营/群体",
+      "relation": "相关",
+      "tail": "宋明理学",
+      "tail_type": "主义/学说/理论",
+      "polarity": "positive",
+      "evidence": "甲尊汉儒，乙宗宋明理学",
+      "confidence": 0.9
+    },
+    {
+      "id": "r7",
+      "head": "张君劢",
+      "head_type": "人物",
+      "relation": "相关",
+      "tail": "梁任公",
+      "tail_type": "人物",
+      "polarity": "neutral",
+      "evidence": "然惕乎梁任公先生所云摭古书以傅会今义之流弊",
+      "confidence": 0.9
+    },
+    {
+      "id": "r8",
+      "head": "汉宋之争",
+      "head_type": "历史事件",
+      "relation": "类比",
+      "tail": "唯心唯物之争",
+      "tail_type": "历史事件",
+      "polarity": "neutral",
+      "evidence": "若夫汉宋之争，与唯心唯物之争，则人类思想上两大潮流之表现",
+      "confidence": 0.9
+    },
+    {
+      "id": "r9",
+      "head": "倍根",
+      "head_type": "人物",
+      "relation": "主张",
+      "tail": "事实之搜集",
+      "tail_type": "观点",
+      "polarity": "neutral",
+      "evidence": "倍根云：事实之搜集。",
+      "confidence": 0.9
+    },
+    {
+      "id": "r10",
+      "head": "洛克",
+      "head_type": "人物",
+      "relation": "主张",
+      "tail": "一切意象由经验而入",
+      "tail_type": "观点",
+      "polarity": "neutral",
+      "evidence": "洛克云：一切意象由经验而入。",
+      "confidence": 0.9
+    },
+    {
+      "id": "r11",
+      "head": "惟用主义者",
+      "head_type": "阵营/群体",
+      "relation": "主张",
+      "tail": "意象之有益于人生者为真",
+      "tail_type": "观点",
+      "polarity": "neutral",
+      "evidence": "惟用主义者云：意象之有益于人生者为真。",
+      "confidence": 0.9
+    },
+    {
+      "id": "r12",
+      "head": "边沁",
+      "head_type": "人物",
+      "relation": "主张",
+      "tail": "宇宙之两主宰：曰苦，曰乐，乐为善，苦为恶",
+      "tail_type": "观点",
+      "polarity": "neutral",
+      "evidence": "边沁云：宇宙之两主宰：曰苦，曰乐，乐为善，苦为恶。",
+      "confidence": 0.9
+    },
+    {
+      "id": "r13",
+      "head": "休谟氏",
+      "head_type": "人物",
+      "relation": "主张",
+      "tail": "经验之往复不已，于是有习惯上之信仰",
+      "tail_type": "观点",
+      "polarity": "neutral",
+      "evidence": "休谟氏云：经验之往复不已，于是有习惯上之信仰。",
+      "confidence": 0.9
+    },
+    {
+      "id": "r14",
+      "head": "王引之",
+      "head_type": "人物",
+      "relation": "主张",
+      "tail": "遍为搜讨",
+      "tail_type": "观点",
+      "polarity": "neutral",
+      "evidence": "王引之云，遍为搜讨。",
+      "confidence": 0.9
+    },
+    {
+      "id": "r15",
+      "head": "顾亭林",
+      "head_type": "人物",
+      "relation": "主张",
+      "tail": "多学而识",
+      "tail_type": "观点",
+      "polarity": "neutral",
+      "evidence": "顾亭林云，多学而识。",
+      "confidence": 0.9
+    }
+  ],
+  "definitions": [],
+  "citations": [
+    {
+      "id": "cit1",
+      "citer": "张君劢",
+      "quoted_author": "梁任公",
+      "quoted_work": "",
+      "quoted_claim": "摭古书以傅会今义之流弊",
+      "function": "援引权威支持",
+      "evidence": "然惕乎梁任公先生所云摭古书以傅会今义之流弊",
+      "confidence": 0.9
+    },
+    {
+      "id": "cit2",
+      "citer": "张君劢",
+      "quoted_author": "倍根",
+      "quoted_work": "",
+      "quoted_claim": "事实之搜集",
+      "function": "作为思想来源",
+      "evidence": "倍根云：事实之搜集。",
+      "confidence": 0.9
+    },
+    {
+      "id": "cit3",
+      "citer": "张君劢",
+      "quoted_author": "洛克",
+      "quoted_work": "",
+      "quoted_claim": "一切意象由经验而入",
+      "function": "作为思想来源",
+      "evidence": "洛克云：一切意象由经验而入。",
+      "confidence": 0.9
+    },
+    {
+      "id": "cit4",
+      "citer": "张君劢",
+      "quoted_author": "惟用主义者",
+      "quoted_work": "",
+      "quoted_claim": "意象之有益于人生者为真",
+      "function": "作为思想来源",
+      "evidence": "惟用主义者云：意象之有益于人生者为真。",
+      "confidence": 0.9
+    },
+    {
+      "id": "cit5",
+      "citer": "张君劢",
+      "quoted_author": "边沁",
+      "quoted_work": "",
+      "quoted_claim": "宇宙之两主宰：曰苦，曰乐，乐为善，苦为恶",
+      "function": "作为思想来源",
+      "evidence": "边沁云：宇宙之两主宰：曰苦，曰乐，乐为善，苦为恶。",
+      "confidence": 0.9
+    },
+    {
+      "id": "cit6",
+      "citer": "张君劢",
+      "quoted_author": "休谟氏",
+      "quoted_work": "",
+      "quoted_claim": "经验之往复不已，于是有习惯上之信仰",
+      "function": "作为思想来源",
+      "evidence": "休谟氏云：经验之往复不已，于是有习惯上之信仰。",
+      "confidence": 0.9
+    },
+    {
+      "id": "cit7",
+      "citer": "张君劢",
+      "quoted_author": "王引之",
+      "quoted_work": "",
+      "quoted_claim": "遍为搜讨",
+      "function": "作为思想来源",
+      "evidence": "王引之云，遍为搜讨。",
+      "confidence": 0.9
+    },
+    {
+      "id": "cit8",
+      "citer": "张君劢",
+      "quoted_author": "顾亭林",
+      "quoted_work": "",
+      "quoted_claim": "多学而识",
+      "function": "作为思想来源",
+      "evidence": "顾亭林云，多学而识。",
+      "confidence": 0.9
+    }
+  ],
+  "rhetorical_devices": [],
+  "uncertainties": [
+    {
+      "item": "文本中“周、公”可能指“周公”，但原文写作“周、公”，故按原文拆分为两个实体。",
+      "reason": "原文标点将“周”与“公”分开，但通常“周公”为一人，此处按原文处理。"
+    },
+    {
+      "item": "“惟用主义者”是否指“实用主义者”，原文如此，按原文抽取。",
+      "reason": "原文用词为“惟用主义者”，与常见“实用主义者”不同，但按原文处理。"
+    }
+  ],
+  "_meta": {
+    "status": "success",
+    "stage": "extract",
+    "model": "deepseek-ai/DeepSeek-V4-Flash",
+    "base_url": "https://api.siliconflow.cn/v1",
+    "prompt_version": "extract_prompt_v2.0",
+    "schema_version": "lite_v2.0",
+    "segment_id": "张君劢_002_c870d202_s0036",
+    "article_id": "张君劢_002_c870d202",
+    "char_start": 18077,
+    "char_end": 18677,
+    "raw_path": "E:\\1研究生\\岭南大学\\论文毕业\\capstone\\资料\\新的内容开始了\\local_upload\\kg_runs\\张君劢\\raw_outputs\\extract\\张君劢_002_c870d202_s0036.txt",
+    "parsed_at": "2026-05-20T04:17:49",
+    "started_at": "2026-05-20T04:15:18",
+    "elapsed_seconds": 150.88,
+    "strict_evidence_check": true,
+    "drop_unsupported_evidence": true,
+    "request_timeout_seconds": 180
+  }
+}

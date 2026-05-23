@@ -1,0 +1,508 @@
+{
+  "metadata": {
+    "schema_version": "lite_v3.0",
+    "article_id": "张东荪_000_a9bf05ee",
+    "article_title": "劳而无功 —— 评丁在君先生口中的科学",
+    "source_author": "张东荪",
+    "section_title": "丁在君先生为反对张君劢先生的“人生观”，于是拿了“科学”来打“玄学”。迄至昨日止，我已拜读了他的洋洋大文两篇了。我读了他的第一篇文章时候，就觉得有许多话非说不可，但我仍是暂时忍着。后来看见林宰平先生一篇文章，我真跳起来。凡我所蓄于肚里，所要说的话差不多都被林先生说出来了。我十分佩服林先生，却又十分感激林先生，因为这一下我既可不闷得难受，又可不必写得手酸。我肚里的意思虽经林先生发泄了十分之九，然尚有一分，似乎亦应得吐出，方能痛快。所以我看见林先生的文章后即加了一些按",
+    "section_author": "丁在君先生为反对张君劢先生的“人生观”，于是拿了“科学”来打“玄学”。迄至昨日止，我已拜读了他的洋洋大文两篇了。我读了他的第一篇文章时候，就觉得有许多话非说不可，但我仍是暂时忍着。后来看见林宰平先生一篇文章，我真跳起来。凡我所蓄于肚里，所要说的话差不多都被林先生说出来了。我十分佩服林先生，却又十分感激林先生，因为这一下我既可不闷得难受，又可不必写得手酸。我肚里的意思虽经林先生发泄了十分之九，然尚有一分，似乎亦应得吐出，方能痛快。所以我看见林先生的文章后即加了一些",
+    "segment_id": "张东荪_000_a9bf05ee_s0002",
+    "segment_index": 2,
+    "source_file": "E:\\1研究生\\岭南大学\\论文毕业\\capstone\\资料\\新的内容开始了\\local_upload\\input_v2_w2\\张东荪.txt"
+  },
+  "entities": [
+    {
+      "id": "e1",
+      "name": "玄学",
+      "canonical_name": "玄学",
+      "type": "概念",
+      "evidence": "对于玄学与哲学的关系亦始终无一字提及",
+      "confidence": 1.0
+    },
+    {
+      "id": "e2",
+      "name": "哲学",
+      "canonical_name": "哲学",
+      "type": "概念",
+      "evidence": "哲学向来分三部：即认识论、本体论、宇宙论便是",
+      "confidence": 1.0
+    },
+    {
+      "id": "e3",
+      "name": "认识论",
+      "canonical_name": "认识论",
+      "type": "概念",
+      "evidence": "哲学向来分三部：即认识论、本体论、宇宙论便是",
+      "confidence": 1.0
+    },
+    {
+      "id": "e4",
+      "name": "本体论",
+      "canonical_name": "本体论",
+      "type": "概念",
+      "evidence": "哲学向来分三部：即认识论、本体论、宇宙论便是",
+      "confidence": 1.0
+    },
+    {
+      "id": "e5",
+      "name": "宇宙论",
+      "canonical_name": "宇宙论",
+      "type": "概念",
+      "evidence": "哲学向来分三部：即认识论、本体论、宇宙论便是",
+      "confidence": 1.0
+    },
+    {
+      "id": "e6",
+      "name": "丁先生",
+      "canonical_name": "丁在君",
+      "type": "人物",
+      "evidence": "我真佩服丁先生的勇敢",
+      "confidence": 1.0
+    },
+    {
+      "id": "e7",
+      "name": "胡适之先生",
+      "canonical_name": "胡适之",
+      "type": "人物",
+      "evidence": "丁先生最喜欢听胡适之先生的话",
+      "confidence": 1.0
+    },
+    {
+      "id": "e8",
+      "name": "胡先生",
+      "canonical_name": "胡适之",
+      "type": "人物",
+      "evidence": "胡先生凡事都取历史的观察态度",
+      "confidence": 1.0
+    },
+    {
+      "id": "e9",
+      "name": "詹姆士",
+      "canonical_name": "詹姆士",
+      "type": "人物",
+      "evidence": "丁先生崇拜詹姆士",
+      "confidence": 1.0
+    },
+    {
+      "id": "e10",
+      "name": "《哲学之几问题》",
+      "canonical_name": "《哲学之几问题》",
+      "type": "著作",
+      "evidence": "詹氏在他的《哲学之几问题》一书第一讲上就说玄学在最初的意思是与科学相反",
+      "confidence": 1.0
+    },
+    {
+      "id": "e11",
+      "name": "科学",
+      "canonical_name": "科学",
+      "type": "概念",
+      "evidence": "玄学在最初的意思是与科学相反",
+      "confidence": 1.0
+    },
+    {
+      "id": "e12",
+      "name": "神学",
+      "canonical_name": "神学",
+      "type": "概念",
+      "evidence": "其实当时的玄学只是神学",
+      "confidence": 1.0
+    },
+    {
+      "id": "e13",
+      "name": "朱陆异同",
+      "canonical_name": "朱陆异同",
+      "type": "概念",
+      "evidence": "如外国人不必参加我们的朱陆异同一样",
+      "confidence": 1.0
+    },
+    {
+      "id": "e14",
+      "name": "两派",
+      "canonical_name": "两派",
+      "type": "阵营/群体",
+      "evidence": "哲学中本来有两派：一派始终没有深入本体论的野心；一派有这种野心",
+      "confidence": 1.0
+    }
+  ],
+  "claims": [
+    {
+      "id": "c1",
+      "speaker": "作者",
+      "claim": "丁先生对于玄学终不下一个明切的定义",
+      "target": "丁先生",
+      "claim_type": "评价性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "终不下一个明切的定义",
+      "confidence": 1.0
+    },
+    {
+      "id": "c2",
+      "speaker": "作者",
+      "claim": "丁先生对于玄学与哲学的关系亦始终无一字提及",
+      "target": "丁先生",
+      "claim_type": "评价性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "对于玄学与哲学的关系亦始终无一字提及",
+      "confidence": 1.0
+    },
+    {
+      "id": "c3",
+      "speaker": "作者",
+      "claim": "敌人尚未认清，就先开炮",
+      "target": "丁先生",
+      "claim_type": "评价性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "敌人尚未认清，就先开炮",
+      "confidence": 1.0
+    },
+    {
+      "id": "c4",
+      "speaker": "作者",
+      "claim": "玄学就是哲学，不过范围较狭而已",
+      "target": "玄学",
+      "claim_type": "定义性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "可见玄学就是哲学，不过范围较狭而已",
+      "confidence": 1.0
+    },
+    {
+      "id": "c5",
+      "speaker": "作者",
+      "claim": "哲学向来分三部：即认识论、本体论、宇宙论便是",
+      "target": "哲学",
+      "claim_type": "描述性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "哲学向来分三部：即认识论、本体论、宇宙论便是",
+      "confidence": 1.0
+    },
+    {
+      "id": "c6",
+      "speaker": "作者",
+      "claim": "哲学中本来有两派：一派始终没有深入本体论的野心；一派有这种野心",
+      "target": "哲学",
+      "claim_type": "描述性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "哲学中本来有两派：一派始终没有深入本体论的野心；一派有这种野心",
+      "confidence": 1.0
+    },
+    {
+      "id": "c7",
+      "speaker": "作者",
+      "claim": "丁先生最喜欢听胡适之先生的话",
+      "target": "丁先生",
+      "claim_type": "描述性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "丁先生最喜欢听胡适之先生的话",
+      "confidence": 1.0
+    },
+    {
+      "id": "c8",
+      "speaker": "作者",
+      "claim": "胡先生凡事都取历史的观察态度",
+      "target": "胡先生",
+      "claim_type": "描述性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "胡先生凡事都取历史的观察态度",
+      "confidence": 1.0
+    },
+    {
+      "id": "c9",
+      "speaker": "作者",
+      "claim": "我希望丁先生亦学一学胡先生，把自从希腊以来的思想史一看，便是这两派的由来了",
+      "target": "丁先生",
+      "claim_type": "规范性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "我希望丁先生亦学一学胡先生，把自从希腊以来的思想史一看，便是这两派的由来了",
+      "confidence": 1.0
+    },
+    {
+      "id": "c10",
+      "speaker": "作者",
+      "claim": "哲学一天发达一天，玄学的意味早已变迁了",
+      "target": "玄学",
+      "claim_type": "描述性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "哲学一天发达一天，玄学的意味早已变迁了",
+      "confidence": 1.0
+    },
+    {
+      "id": "c11",
+      "speaker": "作者",
+      "claim": "丁先生还要俯拾当时攻击玄学（其实当时的玄学只是神学）的话来说，未免近于无的放矢",
+      "target": "丁先生",
+      "claim_type": "评价性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "丁先生还要俯拾当时攻击玄学（其实当时的玄学只是神学）的话来说，未免近于无的放矢",
+      "confidence": 1.0
+    },
+    {
+      "id": "c12",
+      "speaker": "作者",
+      "claim": "丁先生崇拜詹姆士",
+      "target": "丁先生",
+      "claim_type": "描述性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "丁先生崇拜詹姆士",
+      "confidence": 1.0
+    },
+    {
+      "id": "c13",
+      "speaker": "詹姆士",
+      "claim": "玄学在最初的意思是与科学相反",
+      "target": "玄学",
+      "claim_type": "描述性主张",
+      "claim_status": "直接引用",
+      "polarity": "neutral",
+      "evidence": "詹氏在他的《哲学之几问题》一书第一讲上就说玄学在最初的意思是与科学相反",
+      "confidence": 1.0
+    },
+    {
+      "id": "c14",
+      "speaker": "作者",
+      "claim": "其实我们应得变更原有的意思",
+      "target": "玄学",
+      "claim_type": "规范性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "其实我们应得变更原有的意思",
+      "confidence": 1.0
+    }
+  ],
+  "relations": [
+    {
+      "id": "r1",
+      "head": "丁先生",
+      "head_type": "人物",
+      "relation": "批评",
+      "relation_subtype": "概念混淆批评",
+      "tail": "玄学",
+      "tail_type": "概念",
+      "polarity": "negative",
+      "stance_score": -0.8,
+      "intensity": 0.7,
+      "evidence": "终不下一个明切的定义；对于玄学与哲学的关系亦始终无一字提及",
+      "confidence": 1.0
+    },
+    {
+      "id": "r2",
+      "head": "作者",
+      "head_type": "人物",
+      "relation": "批评",
+      "relation_subtype": "一般批评",
+      "tail": "丁先生",
+      "tail_type": "人物",
+      "polarity": "negative",
+      "stance_score": -0.9,
+      "intensity": 0.8,
+      "evidence": "敌人尚未认清，就先开炮，我真佩服丁先生的勇敢",
+      "confidence": 1.0
+    },
+    {
+      "id": "r3",
+      "head": "玄学",
+      "head_type": "概念",
+      "relation": "定义",
+      "relation_subtype": "概念澄清",
+      "tail": "哲学",
+      "tail_type": "概念",
+      "polarity": "neutral",
+      "stance_score": 0.0,
+      "intensity": 0.5,
+      "evidence": "可见玄学就是哲学，不过范围较狭而已",
+      "confidence": 1.0
+    },
+    {
+      "id": "r4",
+      "head": "哲学",
+      "head_type": "概念",
+      "relation": "包含",
+      "relation_subtype": "不适用",
+      "tail": "认识论",
+      "tail_type": "概念",
+      "polarity": "neutral",
+      "stance_score": 0.0,
+      "intensity": 0.0,
+      "evidence": "哲学向来分三部：即认识论、本体论、宇宙论便是",
+      "confidence": 1.0
+    },
+    {
+      "id": "r5",
+      "head": "哲学",
+      "head_type": "概念",
+      "relation": "包含",
+      "relation_subtype": "不适用",
+      "tail": "本体论",
+      "tail_type": "概念",
+      "polarity": "neutral",
+      "stance_score": 0.0,
+      "intensity": 0.0,
+      "evidence": "哲学向来分三部：即认识论、本体论、宇宙论便是",
+      "confidence": 1.0
+    },
+    {
+      "id": "r6",
+      "head": "哲学",
+      "head_type": "概念",
+      "relation": "包含",
+      "relation_subtype": "不适用",
+      "tail": "宇宙论",
+      "tail_type": "概念",
+      "polarity": "neutral",
+      "stance_score": 0.0,
+      "intensity": 0.0,
+      "evidence": "哲学向来分三部：即认识论、本体论、宇宙论便是",
+      "confidence": 1.0
+    },
+    {
+      "id": "r7",
+      "head": "丁先生",
+      "head_type": "人物",
+      "relation": "批评",
+      "relation_subtype": "概念混淆批评",
+      "tail": "玄学",
+      "tail_type": "概念",
+      "polarity": "negative",
+      "stance_score": -0.8,
+      "intensity": 0.7,
+      "evidence": "丁先生还要俯拾当时攻击玄学（其实当时的玄学只是神学）的话来说，未免近于无的放矢",
+      "confidence": 1.0
+    },
+    {
+      "id": "r8",
+      "head": "作者",
+      "head_type": "人物",
+      "relation": "引用",
+      "relation_subtype": "援引权威支持",
+      "tail": "詹姆士",
+      "tail_type": "人物",
+      "polarity": "positive",
+      "stance_score": 0.8,
+      "intensity": 0.6,
+      "evidence": "丁先生崇拜詹姆士，我请拿詹氏的话来告诉丁先生",
+      "confidence": 1.0
+    },
+    {
+      "id": "r9",
+      "head": "作者",
+      "head_type": "人物",
+      "relation": "引用",
+      "relation_subtype": "援引权威支持",
+      "tail": "《哲学之几问题》",
+      "tail_type": "著作",
+      "polarity": "positive",
+      "stance_score": 0.8,
+      "intensity": 0.6,
+      "evidence": "詹氏在他的《哲学之几问题》一书第一讲上就说玄学在最初的意思是与科学相反",
+      "confidence": 1.0
+    },
+    {
+      "id": "r10",
+      "head": "作者",
+      "head_type": "人物",
+      "relation": "回应",
+      "relation_subtype": "一般批评",
+      "tail": "丁先生",
+      "tail_type": "人物",
+      "polarity": "negative",
+      "stance_score": -0.7,
+      "intensity": 0.6,
+      "evidence": "丁先生还要俯拾当时攻击玄学（其实当时的玄学只是神学）的话来说，未免近于无的放矢",
+      "confidence": 1.0
+    }
+  ],
+  "definitions": [
+    {
+      "id": "def1",
+      "term": "玄学",
+      "definition": "玄学就是哲学，不过范围较狭而已",
+      "evidence": "可见玄学就是哲学，不过范围较狭而已",
+      "confidence": 1.0
+    },
+    {
+      "id": "def2",
+      "term": "哲学",
+      "definition": "哲学向来分三部：即认识论、本体论、宇宙论便是",
+      "evidence": "哲学向来分三部：即认识论、本体论、宇宙论便是",
+      "confidence": 1.0
+    },
+    {
+      "id": "def3",
+      "term": "玄学",
+      "definition": "玄学在最初的意思是与科学相反",
+      "evidence": "玄学在最初的意思是与科学相反",
+      "confidence": 1.0
+    }
+  ],
+  "citations": [
+    {
+      "id": "cit1",
+      "citer": "作者",
+      "quoted_author": "詹姆士",
+      "quoted_work": "《哲学之几问题》",
+      "quoted_claim": "玄学在最初的意思是与科学相反",
+      "function": "援引权威支持",
+      "evidence": "詹氏在他的《哲学之几问题》一书第一讲上就说玄学在最初的意思是与科学相反",
+      "confidence": 1.0
+    }
+  ],
+  "rhetorical_devices": [
+    {
+      "id": "rh1",
+      "expression": "敌人尚未认清，就先开炮",
+      "device_type": "比喻",
+      "literal_target": "丁先生对玄学的攻击",
+      "function": "讽刺丁先生在没有明确目标的情况下盲目批评",
+      "evidence": "敌人尚未认清，就先开炮",
+      "confidence": 1.0
+    },
+    {
+      "id": "rh2",
+      "expression": "我真佩服丁先生的勇敢",
+      "device_type": "反语",
+      "literal_target": "丁先生的勇敢",
+      "function": "讽刺丁先生鲁莽行事",
+      "evidence": "我真佩服丁先生的勇敢",
+      "confidence": 1.0
+    },
+    {
+      "id": "rh3",
+      "expression": "如外国人不必参加我们的朱陆异同一样",
+      "device_type": "类比",
+      "literal_target": "丁先生对玄学的批评",
+      "function": "类比说明丁先生不应介入玄学讨论",
+      "evidence": "如外国人不必参加我们的朱陆异同一样",
+      "confidence": 1.0
+    },
+    {
+      "id": "rh4",
+      "expression": "无的放矢",
+      "device_type": "比喻",
+      "literal_target": "丁先生的攻击",
+      "function": "批评丁先生的批评没有针对性",
+      "evidence": "未免近于无的放矢",
+      "confidence": 1.0
+    }
+  ],
+  "uncertainties": [
+    {
+      "item": "丁先生崇拜詹姆士，我请拿詹氏的话来告诉丁先生",
+      "reason": "作者引用詹姆士的话，但未明确说明是否完全赞同詹姆士的观点，还是仅作为反驳丁先生的论据"
+    },
+    {
+      "item": "其实我们应得变更原有的意思",
+      "reason": "未明确说明‘变更原有的意思’具体指什么，以及如何变更"
+    }
+  ]
+}

@@ -1,0 +1,226 @@
+{
+  "metadata": {
+    "schema_version": "lite_v2.0",
+    "article_id": "张东荪_000_a9bf05ee",
+    "article_title": "劳而无功 —— 评丁在君先生口中的科学",
+    "source_author": "张东荪",
+    "section_title": "更举一个好例，这个例就是丁先生的话。丁先生说柏格森说心的绵延如雪的堆积完全是比喻，不能算数。诚然，但请问丁先生为何对于马赫所说思想和天响雷一样（按",
+    "section_author": "更举一个好例，这个例就是丁先生的话。丁先生说柏格森说心的绵延如雪的堆积完全是比喻，不能算数。诚然，但请问丁先生为何对于马赫所说思想和天响雷一样（",
+    "segment_id": "张东荪_000_a9bf05ee_s0016",
+    "segment_index": 16,
+    "source_file": "E:\\1研究生\\岭南大学\\论文毕业\\capstone\\资料\\新的内容开始了\\local_upload\\input_w0\\张东荪.txt"
+  },
+  "entities": [
+    {
+      "id": "e1",
+      "name": "张先生",
+      "canonical_name": "张先生",
+      "type": "人物",
+      "evidence": "张先生、丁先生在今天的中国学术界中已不是黄毛丫头",
+      "confidence": 0.9
+    },
+    {
+      "id": "e2",
+      "name": "丁先生",
+      "canonical_name": "丁先生",
+      "type": "人物",
+      "evidence": "张先生、丁先生在今天的中国学术界中已不是黄毛丫头",
+      "confidence": 0.9
+    },
+    {
+      "id": "e3",
+      "name": "黄毛丫头",
+      "canonical_name": "黄毛丫头",
+      "type": "比喻/类比",
+      "evidence": "张先生、丁先生在今天的中国学术界中已不是黄毛丫头",
+      "confidence": 0.9
+    },
+    {
+      "id": "e4",
+      "name": "命妇",
+      "canonical_name": "命妇",
+      "type": "比喻/类比",
+      "evidence": "而已跻于命妇的地位",
+      "confidence": 0.9
+    },
+    {
+      "id": "e5",
+      "name": "杜里舒",
+      "canonical_name": "杜里舒",
+      "type": "人物",
+      "evidence": "丁先生说杜里舒不配反对达尔文",
+      "confidence": 0.9
+    },
+    {
+      "id": "e6",
+      "name": "达尔文",
+      "canonical_name": "达尔文",
+      "type": "人物",
+      "evidence": "丁先生说杜里舒不配反对达尔文",
+      "confidence": 0.9
+    },
+    {
+      "id": "e7",
+      "name": "《进化论》",
+      "canonical_name": "《进化论》",
+      "type": "著作",
+      "evidence": "反对达尔文与反对《进化论》是两件事",
+      "confidence": 0.9
+    }
+  ],
+  "claims": [
+    {
+      "id": "c1",
+      "speaker": "张东荪",
+      "claim": "张先生、丁先生在今天的中国学术界中已不是黄毛丫头，而已跻于命妇的地位",
+      "target": "张先生、丁先生",
+      "claim_type": "价值评价",
+      "claim_status": "作者直接主张",
+      "polarity": "mixed",
+      "evidence": "张先生、丁先生在今天的中国学术界中已不是黄毛丫头，而已跻于命妇的地位",
+      "confidence": 0.9
+    },
+    {
+      "id": "c2",
+      "speaker": "张东荪",
+      "claim": "大家何必定要强不知以为知，使社会稍受影响呢",
+      "target": "张先生、丁先生",
+      "claim_type": "论战策略批评",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "似乎大家何必定要强不知以为知，使社会稍受影响呢？",
+      "confidence": 0.9
+    },
+    {
+      "id": "c3",
+      "speaker": "张东荪",
+      "claim": "反对达尔文与反对《进化论》是两件事，决不能说反对达尔文即是否认《进化论》",
+      "target": "反对达尔文与反对《进化论》的关系",
+      "claim_type": "定义性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "反对达尔文与反对《进化论》是两件事，决不能说反对达尔文即是否认《进化论》",
+      "confidence": 0.9
+    },
+    {
+      "id": "c4",
+      "speaker": "丁先生",
+      "claim": "杜里舒不配反对达尔文",
+      "target": "杜里舒",
+      "claim_type": "价值评价",
+      "claim_status": "间接转述",
+      "polarity": "negative",
+      "evidence": "丁先生说杜里舒不配反对达尔文",
+      "confidence": 0.9
+    },
+    {
+      "id": "c5",
+      "speaker": "张东荪",
+      "claim": "以研究生物学数十年的人不配反对达尔文，而研究地质学的人却反而配赞成达尔文，则我们研究哲学的人当然亦配谈科学了",
+      "target": "丁先生的逻辑",
+      "claim_type": "论战策略批评",
+      "claim_status": "作者推论",
+      "polarity": "negative",
+      "evidence": "以研究生物学数十年的人不配反对达尔文，而研究地质学的人却反而配赞成达尔文，则我们研究哲学的人当然亦配谈科学了",
+      "confidence": 0.9
+    },
+    {
+      "id": "c6",
+      "speaker": "张东荪",
+      "claim": "仍是以“下不为例”为佳",
+      "target": "自己参与论战",
+      "claim_type": "论战策略批评",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "我后来再想一想，仍是以“下不为例”为佳",
+      "confidence": 0.9
+    }
+  ],
+  "relations": [
+    {
+      "id": "r1",
+      "head": "丁先生",
+      "head_type": "人物",
+      "relation": "主张",
+      "tail": "杜里舒不配反对达尔文",
+      "tail_type": "观点",
+      "polarity": "negative",
+      "evidence": "丁先生说杜里舒不配反对达尔文",
+      "confidence": 0.9
+    }
+  ],
+  "definitions": [
+    {
+      "id": "def1",
+      "term": "反对达尔文与反对《进化论》",
+      "definition": "反对达尔文与反对《进化论》是两件事，不能等同",
+      "evidence": "反对达尔文与反对《进化论》是两件事，决不能说反对达尔文即是否认《进化论》",
+      "confidence": 0.9
+    }
+  ],
+  "citations": [
+    {
+      "id": "cit1",
+      "citer": "丁先生",
+      "quoted_author": "杜里舒",
+      "quoted_work": "",
+      "quoted_claim": "杜里舒不配反对达尔文",
+      "function": "作为批评对象",
+      "evidence": "丁先生说杜里舒不配反对达尔文",
+      "confidence": 0.9
+    }
+  ],
+  "rhetorical_devices": [
+    {
+      "id": "rh1",
+      "expression": "黄毛丫头",
+      "device_type": "比喻",
+      "literal_target": "学术地位低、不成熟的人",
+      "function": "讽刺张先生、丁先生过去地位低",
+      "evidence": "张先生、丁先生在今天的中国学术界中已不是黄毛丫头",
+      "confidence": 0.9
+    },
+    {
+      "id": "rh2",
+      "expression": "命妇",
+      "device_type": "比喻",
+      "literal_target": "有地位、有权威的人",
+      "function": "讽刺张先生、丁先生自居权威",
+      "evidence": "而已跻于命妇的地位",
+      "confidence": 0.9
+    }
+  ],
+  "uncertainties": [
+    {
+      "item": "张先生的具体身份",
+      "reason": "文本中只出现'张先生'，未明确指代何人，可能指张君劢或其他张姓人物"
+    },
+    {
+      "item": "丁先生的具体身份",
+      "reason": "文本中只出现'丁先生'，未明确指代何人，可能指丁文江"
+    },
+    {
+      "item": "马赫所说思想和天响雷一样的完整内容",
+      "reason": "文本中仅提及'马赫所说思想和天响雷一样'，但未完整呈现该说法"
+    }
+  ],
+  "_meta": {
+    "status": "success",
+    "stage": "extract",
+    "model": "deepseek-ai/DeepSeek-V4-Flash",
+    "base_url": "https://api.siliconflow.cn/v1",
+    "prompt_version": "extract_prompt_v2.0",
+    "schema_version": "lite_v2.0",
+    "segment_id": "张东荪_000_a9bf05ee_s0016",
+    "article_id": "张东荪_000_a9bf05ee",
+    "char_start": 7850,
+    "char_end": 8134,
+    "raw_path": "E:\\1研究生\\岭南大学\\论文毕业\\capstone\\资料\\新的内容开始了\\local_upload\\kg_runs\\张东荪\\raw_outputs\\extract\\张东荪_000_a9bf05ee_s0016.txt",
+    "parsed_at": "2026-05-20T00:21:09",
+    "started_at": "2026-05-20T00:18:31",
+    "elapsed_seconds": 158.49,
+    "strict_evidence_check": true,
+    "drop_unsupported_evidence": true,
+    "request_timeout_seconds": 180
+  }
+}

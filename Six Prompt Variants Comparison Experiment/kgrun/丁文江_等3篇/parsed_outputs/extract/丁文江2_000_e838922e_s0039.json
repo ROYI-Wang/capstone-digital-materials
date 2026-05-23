@@ -1,0 +1,247 @@
+{
+  "metadata": {
+    "schema_version": "lite_v2.0",
+    "article_id": "丁文江2_000_e838922e",
+    "article_title": "玄学与科学——答张君劢",
+    "source_author": "丁文江",
+    "section_title": "",
+    "section_author": "",
+    "segment_id": "丁文江2_000_e838922e_s0039",
+    "segment_index": 39,
+    "source_file": "E:\\1研究生\\岭南大学\\论文毕业\\capstone\\资料\\新的内容开始了\\local_upload\\input_texts\\丁文江2.txt"
+  },
+  "entities": [
+    {
+      "id": "e1",
+      "name": "长人",
+      "canonical_name": "长人",
+      "type": "Concept",
+      "evidence": "六寸以上的是长人",
+      "confidence": 0.9
+    },
+    {
+      "id": "e2",
+      "name": "矮子",
+      "canonical_name": "矮子",
+      "type": "Concept",
+      "evidence": "矮子同长子的标准完全是随意的",
+      "confidence": 0.9
+    },
+    {
+      "id": "e3",
+      "name": "常人",
+      "canonical_name": "常人",
+      "type": "Concept",
+      "evidence": "把他们和常人联合在一块",
+      "confidence": 0.9
+    },
+    {
+      "id": "e4",
+      "name": "智慧测量",
+      "canonical_name": "智慧测量",
+      "type": "Concept",
+      "evidence": "智慧测量的结果同高度是一样",
+      "confidence": 0.9
+    },
+    {
+      "id": "e5",
+      "name": "痴子",
+      "canonical_name": "痴子",
+      "type": "Concept",
+      "evidence": "痴子的智慧是零",
+      "confidence": 0.9
+    },
+    {
+      "id": "e6",
+      "name": "天才",
+      "canonical_name": "天才",
+      "type": "Concept",
+      "evidence": "天才的是一百",
+      "confidence": 0.9
+    },
+    {
+      "id": "e7",
+      "name": "怪人",
+      "canonical_name": "怪人",
+      "type": "Concept",
+      "evidence": "他就是一个怪人",
+      "confidence": 0.9
+    },
+    {
+      "id": "e8",
+      "name": "疯子",
+      "canonical_name": "疯子",
+      "type": "Concept",
+      "evidence": "同心理上的疯子一样",
+      "confidence": 0.9
+    },
+    {
+      "id": "e9",
+      "name": "疯人心理",
+      "canonical_name": "疯人心理",
+      "type": "Concept",
+      "evidence": "研究疯人心理的学者",
+      "confidence": 0.9
+    },
+    {
+      "id": "e10",
+      "name": "心理的平衡",
+      "canonical_name": "心理的平衡",
+      "type": "Concept",
+      "evidence": "失去了心理的平衡",
+      "confidence": 0.9
+    },
+    {
+      "id": "e11",
+      "name": "生活的常态",
+      "canonical_name": "生活的常态",
+      "type": "Concept",
+      "evidence": "能保存生活的常态",
+      "confidence": 0.9
+    },
+    {
+      "id": "e12",
+      "name": "程度问题",
+      "canonical_name": "程度问题",
+      "type": "Concept",
+      "evidence": "长人矮子同常人是程度问题不是种类问题",
+      "confidence": 0.9
+    },
+    {
+      "id": "e13",
+      "name": "种类问题",
+      "canonical_name": "种类问题",
+      "type": "Concept",
+      "evidence": "长人矮子同常人是程度问题不是种类问题",
+      "confidence": 0.9
+    }
+  ],
+  "claims": [
+    {
+      "id": "c1",
+      "speaker": "丁文江",
+      "claim": "矮子同长子的标准完全是随意的",
+      "target": "矮子与长子的标准",
+      "claim_type": "知识论主张",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "但是矮子同长子的标准完全是随意的",
+      "confidence": 0.9
+    },
+    {
+      "id": "c2",
+      "speaker": "丁文江",
+      "claim": "智慧测量的结果同高度是一样",
+      "target": "智慧测量与高度",
+      "claim_type": "知识论主张",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "智慧测量的结果同高度是一样",
+      "confidence": 0.9
+    },
+    {
+      "id": "c3",
+      "speaker": "丁文江",
+      "claim": "长人矮子同常人是程度问题不是种类问题",
+      "target": "长人、矮子与常人的关系",
+      "claim_type": "知识论主张",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "长人矮子同常人是程度问题不是种类问题",
+      "confidence": 0.9
+    },
+    {
+      "id": "c4",
+      "speaker": "丁文江",
+      "claim": "天才痴子，同常人的分别，也是比较的，不是绝对的",
+      "target": "天才、痴子与常人的分别",
+      "claim_type": "知识论主张",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "天才痴子，同常人的分别，也是比较的，不是绝对的",
+      "confidence": 0.9
+    }
+  ],
+  "relations": [
+    {
+      "id": "r1",
+      "head": "智慧测量",
+      "head_type": "Concept",
+      "relation": "ANALOGY",
+      "tail": "高度",
+      "tail_type": "Concept",
+      "polarity": "neutral",
+      "evidence": "智慧测量的结果同高度是一样",
+      "confidence": 0.9
+    }
+  ],
+  "definitions": [
+    {
+      "id": "def1",
+      "term": "怪人",
+      "definition": "头异常的长，身异常的短，或四肢绝对不能相称的人",
+      "evidence": "若是一个人头异常的长，身异常的短，或是四肢绝对不能相称，他就是一个怪人",
+      "confidence": 0.9
+    },
+    {
+      "id": "def2",
+      "term": "疯子",
+      "definition": "心理上失去平衡，部分发展过度的人",
+      "evidence": "疯子的一部分发展过度，失去了心理的平衡",
+      "confidence": 0.9
+    },
+    {
+      "id": "def3",
+      "term": "天才",
+      "definition": "各部分发展相称，能保存生活常态的人",
+      "evidence": "天才的各部分发展相称，能保存生活的常态",
+      "confidence": 0.9
+    }
+  ],
+  "citations": [],
+  "rhetorical_devices": [
+    {
+      "id": "rh1",
+      "expression": "智慧测量的结果同高度是一样",
+      "device_type": "类比",
+      "literal_target": "智慧测量与高度测量",
+      "function": "用身高分类的连续性类比智慧分类的连续性，论证差异是程度问题而非种类问题",
+      "evidence": "智慧测量的结果同高度是一样",
+      "confidence": 0.9
+    },
+    {
+      "id": "rh2",
+      "expression": "长人矮子同常人是程度问题不是种类问题，天才痴子，同常人的分别，也是比较的，不是绝对的",
+      "device_type": "类比",
+      "literal_target": "身高分类与智慧分类",
+      "function": "通过身高分类的连续性类比，论证天才、痴子与常人的差异也是程度问题而非种类问题",
+      "evidence": "长人矮子同常人是程度问题不是种类问题，天才痴子，同常人的分别，也是比较的，不是绝对的",
+      "confidence": 0.9
+    }
+  ],
+  "uncertainties": [
+    {
+      "item": "本段中“长人”“矮子”“常人”等概念是否直接对应论战中的特定对象（如科学家、玄学家等）",
+      "reason": "文本未明确说明这些概念在论战中的指代，仅作为类比使用"
+    }
+  ],
+  "_meta": {
+    "status": "success",
+    "stage": "extract",
+    "model": "deepseek-ai/DeepSeek-V4-Flash",
+    "base_url": "https://api.siliconflow.cn/v1",
+    "prompt_version": "extract_prompt_v2.0",
+    "schema_version": "lite_v2.0",
+    "segment_id": "丁文江2_000_e838922e_s0039",
+    "article_id": "丁文江2_000_e838922e",
+    "char_start": 9799,
+    "char_end": 10131,
+    "raw_path": "E:\\1研究生\\岭南大学\\论文毕业\\capstone\\资料\\新的内容开始了\\local_upload\\kg_runs\\丁文江_等3篇\\raw_outputs\\extract\\丁文江2_000_e838922e_s0039.txt",
+    "parsed_at": "2026-05-19T04:26:30",
+    "started_at": "2026-05-19T04:26:14",
+    "elapsed_seconds": 15.912,
+    "strict_evidence_check": true,
+    "drop_unsupported_evidence": true,
+    "request_timeout_seconds": 180
+  }
+}

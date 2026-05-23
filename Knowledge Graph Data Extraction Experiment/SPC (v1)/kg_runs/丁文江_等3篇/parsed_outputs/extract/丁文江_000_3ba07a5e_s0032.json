@@ -1,0 +1,440 @@
+{
+  "metadata": {
+    "schema_version": "lite_v2.0",
+    "article_id": "丁文江_000_3ba07a5e",
+    "article_title": "玄学与科学 ——评张君劢的《人生观》",
+    "source_author": "丁文江",
+    "section_title": "",
+    "section_author": "",
+    "segment_id": "丁文江_000_3ba07a5e_s0032",
+    "segment_index": 32,
+    "source_file": "E:\\1研究生\\岭南大学\\论文毕业\\capstone\\资料\\新的内容开始了\\local_upload\\input_texts\\丁文江.txt"
+  },
+  "entities": [
+    {
+      "id": "e1",
+      "name": "胡适之",
+      "canonical_name": "胡适",
+      "type": "Person",
+      "evidence": "看四月份《读书》杂志胡适之批评梁漱溟《东西文化》那篇文章。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e2",
+      "name": "梁漱溟",
+      "canonical_name": "梁漱溟",
+      "type": "Person",
+      "evidence": "看四月份《读书》杂志胡适之批评梁漱溟《东西文化》那篇文章。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e3",
+      "name": "《读书》杂志",
+      "canonical_name": "《读书》杂志",
+      "type": "Book",
+      "evidence": "看四月份《读书》杂志胡适之批评梁漱溟《东西文化》那篇文章。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e4",
+      "name": "《东西文化》",
+      "canonical_name": "《东西文化》",
+      "type": "Book",
+      "evidence": "看四月份《读书》杂志胡适之批评梁漱溟《东西文化》那篇文章。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e5",
+      "name": "欧洲文化",
+      "canonical_name": "欧洲文化",
+      "type": "Concept",
+      "evidence": "我所不得不说的是欧洲文化纵然是破产（目前并无此事），科学绝对不负这种责任，因为破产的大原因是国际战争。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e6",
+      "name": "科学",
+      "canonical_name": "科学",
+      "type": "Concept",
+      "evidence": "科学绝对不负这种责任，因为破产的大原因是国际战争。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e7",
+      "name": "国际战争",
+      "canonical_name": "国际战争",
+      "type": "Concept",
+      "evidence": "因为破产的大原因是国际战争。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e8",
+      "name": "政治家",
+      "canonical_name": "政治家",
+      "type": "Faction",
+      "evidence": "对于战争最应该负责的人是政治家同教育家，这两种人多数仍然是不科学的。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e9",
+      "name": "教育家",
+      "canonical_name": "教育家",
+      "type": "Faction",
+      "evidence": "对于战争最应该负责的人是政治家同教育家，这两种人多数仍然是不科学的。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e10",
+      "name": "欧洲",
+      "canonical_name": "欧洲",
+      "type": "Concept",
+      "evidence": "欧洲原来是基督教的天下。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e11",
+      "name": "基督教",
+      "canonical_name": "基督教",
+      "type": "Concept",
+      "evidence": "欧洲原来是基督教的天下。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e12",
+      "name": "中世纪时代",
+      "canonical_name": "中世纪时代",
+      "type": "Phase",
+      "evidence": "中世纪时代，神学万能。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e13",
+      "name": "神学",
+      "canonical_name": "神学",
+      "type": "Concept",
+      "evidence": "中世纪时代，神学万能。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e14",
+      "name": "文艺复兴",
+      "canonical_name": "文艺复兴",
+      "type": "Event",
+      "evidence": "文艺复兴以后又加入许多希腊的哲学同神学相混合。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e15",
+      "name": "希腊的哲学",
+      "canonical_name": "希腊哲学",
+      "type": "Concept",
+      "evidence": "文艺复兴以后又加入许多希腊的哲学同神学相混合。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e16",
+      "name": "十七十八两世纪的科学发明",
+      "canonical_name": "十七十八世纪科学发明",
+      "type": "Concept",
+      "evidence": "十七十八两世纪的科学发明，都经神学派的人极端反对。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e17",
+      "name": "神学派",
+      "canonical_name": "神学派",
+      "type": "Faction",
+      "evidence": "十七十八两世纪的科学发明，都经神学派的人极端反对。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e18",
+      "name": "伽利略",
+      "canonical_name": "伽利略",
+      "type": "Person",
+      "evidence": "伽利略的受辱，笛卡儿的受惊，都是最显明的事实。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e19",
+      "name": "笛卡儿",
+      "canonical_name": "笛卡儿",
+      "type": "Person",
+      "evidence": "伽利略的受辱，笛卡儿的受惊，都是最显明的事实。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e20",
+      "name": "伽利略的天文学说",
+      "canonical_name": "伽利略天文学说",
+      "type": "Concept",
+      "evidence": "伽利略的天文学说，为罗马教所严禁，一直到了十九世纪之初方才解放。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e21",
+      "name": "罗马教",
+      "canonical_name": "罗马教",
+      "type": "Faction",
+      "evidence": "伽利略的天文学说，为罗马教所严禁，一直到了十九世纪之初方才解放。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e22",
+      "name": "十九世纪之初",
+      "canonical_name": "十九世纪之初",
+      "type": "Phase",
+      "evidence": "一直到了十九世纪之初方才解放。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e23",
+      "name": "高等学校",
+      "canonical_name": "高等学校",
+      "type": "Concept",
+      "evidence": "就是十九世纪之初高等学校的教，依然在神学家手里；",
+      "confidence": 0.9
+    },
+    {
+      "id": "e24",
+      "name": "神学家",
+      "canonical_name": "神学家",
+      "type": "Faction",
+      "evidence": "就是十九世纪之初高等学校的教，依然在神学家手里；",
+      "confidence": 0.9
+    },
+    {
+      "id": "e25",
+      "name": "科学教育",
+      "canonical_name": "科学教育",
+      "type": "Concept",
+      "evidence": "其所谓科学教育，除了算学同所谓自然哲学（物理）以外，可算一无所有。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e26",
+      "name": "算学",
+      "canonical_name": "算学",
+      "type": "Concept",
+      "evidence": "其所谓科学教育，除了算学同所谓自然哲学（物理）以外，可算一无所有。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e27",
+      "name": "自然哲学（物理）",
+      "canonical_name": "自然哲学（物理）",
+      "type": "Concept",
+      "evidence": "其所谓科学教育，除了算学同所谓自然哲学（物理）以外，可算一无所有。",
+      "confidence": 0.9
+    },
+    {
+      "id": "e28",
+      "name": "英国",
+      "canonical_name": "英国",
+      "type": "Concept",
+      "evidence": "在英国要学科学的人，不是自修，就是学医。",
+      "confidence": 0.9
+    }
+  ],
+  "claims": [
+    {
+      "id": "c1",
+      "speaker": "丁文江",
+      "claim": "欧洲文化纵然是破产（目前并无此事），科学绝对不负这种责任，因为破产的大原因是国际战争。",
+      "target": "欧洲文化破产",
+      "claim_type": "反驳性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "我所不得不说的是欧洲文化纵然是破产（目前并无此事），科学绝对不负这种责任，因为破产的大原因是国际战争。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c2",
+      "speaker": "丁文江",
+      "claim": "对于战争最应该负责的人是政治家同教育家，这两种人多数仍然是不科学的。",
+      "target": "战争责任",
+      "claim_type": "社会理论主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "对于战争最应该负责的人是政治家同教育家，这两种人多数仍然是不科学的。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c3",
+      "speaker": "丁文江",
+      "claim": "这一段历史，中国人了解的极少，我们不能不详细的说明一番。",
+      "target": "欧洲科学受神学压迫的历史",
+      "claim_type": "价值评价",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "这一段历史，中国人了解的极少，我们不能不详细的说明一番。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c4",
+      "speaker": "丁文江",
+      "claim": "中世纪时代，神学万能。",
+      "target": "中世纪时代",
+      "claim_type": "历史解释",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "中世纪时代，神学万能。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c5",
+      "speaker": "丁文江",
+      "claim": "十七十八两世纪的科学发明，都经神学派的人极端反对。",
+      "target": "十七十八两世纪的科学发明",
+      "claim_type": "历史解释",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "十七十八两世纪的科学发明，都经神学派的人极端反对。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c6",
+      "speaker": "丁文江",
+      "claim": "伽利略的受辱，笛卡儿的受惊，都是最显明的事实。",
+      "target": "伽利略、笛卡儿",
+      "claim_type": "历史解释",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "伽利略的受辱，笛卡儿的受惊，都是最显明的事实。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c7",
+      "speaker": "丁文江",
+      "claim": "伽利略的天文学说，为罗马教所严禁，一直到了十九世纪之初方才解放。",
+      "target": "伽利略的天文学说",
+      "claim_type": "历史解释",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "伽利略的天文学说，为罗马教所严禁，一直到了十九世纪之初方才解放。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c8",
+      "speaker": "丁文江",
+      "claim": "就是十九世纪之初高等学校的教，依然在神学家手里；其所谓科学教育，除了算学同所谓自然哲学（物理）以外，可算一无所有。",
+      "target": "十九世纪之初高等学校",
+      "claim_type": "历史解释",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "就是十九世纪之初高等学校的教，依然在神学家手里；其所谓科学教育，除了算学同所谓自然哲学（物理）以外，可算一无所有。",
+      "confidence": 0.9
+    },
+    {
+      "id": "c9",
+      "speaker": "丁文江",
+      "claim": "在英国要学科学的人，不是自修，就是学医。",
+      "target": "英国学科学的人",
+      "claim_type": "历史解释",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "在英国要学科学的人，不是自修，就是学医。",
+      "confidence": 0.9
+    }
+  ],
+  "relations": [
+    {
+      "id": "r1",
+      "head": "丁文江",
+      "head_type": "Person",
+      "relation": "CITES",
+      "tail": "胡适之",
+      "tail_type": "Person",
+      "polarity": "neutral",
+      "evidence": "看四月份《读书》杂志胡适之批评梁漱溟《东西文化》那篇文章。",
+      "confidence": 0.9
+    },
+    {
+      "id": "r2",
+      "head": "胡适之",
+      "head_type": "Person",
+      "relation": "CRITICIZES",
+      "tail": "梁漱溟",
+      "tail_type": "Person",
+      "polarity": "negative",
+      "evidence": "看四月份《读书》杂志胡适之批评梁漱溟《东西文化》那篇文章。",
+      "confidence": 0.9
+    },
+    {
+      "id": "r3",
+      "head": "神学派",
+      "head_type": "Faction",
+      "relation": "OPPOSES",
+      "tail": "十七十八两世纪的科学发明",
+      "tail_type": "Concept",
+      "polarity": "negative",
+      "evidence": "十七十八两世纪的科学发明，都经神学派的人极端反对。",
+      "confidence": 0.9
+    },
+    {
+      "id": "r4",
+      "head": "罗马教",
+      "head_type": "Faction",
+      "relation": "OPPOSES",
+      "tail": "伽利略的天文学说",
+      "tail_type": "Concept",
+      "polarity": "negative",
+      "evidence": "伽利略的天文学说，为罗马教所严禁，一直到了十九世纪之初方才解放。",
+      "confidence": 0.9
+    },
+    {
+      "id": "r5",
+      "head": "神学家",
+      "head_type": "Faction",
+      "relation": "控制",
+      "tail": "高等学校",
+      "tail_type": "Concept",
+      "polarity": "negative",
+      "evidence": "就是十九世纪之初高等学校的教，依然在神学家手里；",
+      "confidence": 0.9
+    }
+  ],
+  "definitions": [],
+  "citations": [
+    {
+      "id": "cit1",
+      "citer": "丁文江",
+      "quoted_author": "胡适之",
+      "quoted_work": "《读书》杂志",
+      "quoted_claim": "批评梁漱溟《东西文化》那篇文章",
+      "function": "中性提及",
+      "evidence": "看四月份《读书》杂志胡适之批评梁漱溟《东西文化》那篇文章。",
+      "confidence": 0.9
+    }
+  ],
+  "rhetorical_devices": [],
+  "uncertainties": [
+    {
+      "item": "胡适之批评梁漱溟《东西文化》那篇文章的具体内容",
+      "reason": "文本仅提及胡适之批评梁漱溟，未说明批评的具体观点或内容。"
+    },
+    {
+      "item": "“欧洲文化纵然是破产（目前并无此事）”中“目前并无此事”是否暗示丁文江认为欧洲文化并未破产",
+      "reason": "文本中括号内“目前并无此事”可理解为丁文江对“欧洲文化破产”这一说法的否定，但未明确说明是谁主张“欧洲文化破产”。"
+    }
+  ],
+  "_meta": {
+    "status": "success",
+    "stage": "extract",
+    "model": "deepseek-ai/DeepSeek-V4-Flash",
+    "base_url": "https://api.siliconflow.cn/v1",
+    "prompt_version": "extract_prompt_v2.0",
+    "schema_version": "lite_v2.0",
+    "segment_id": "丁文江_000_3ba07a5e_s0032",
+    "article_id": "丁文江_000_3ba07a5e",
+    "char_start": 8152,
+    "char_end": 8499,
+    "raw_path": "E:\\1研究生\\岭南大学\\论文毕业\\capstone\\资料\\新的内容开始了\\local_upload\\kg_runs\\丁文江_等3篇\\raw_outputs\\extract\\丁文江_000_3ba07a5e_s0032.txt",
+    "parsed_at": "2026-05-19T03:10:54",
+    "started_at": "2026-05-19T03:10:19",
+    "elapsed_seconds": 35.062,
+    "strict_evidence_check": true,
+    "drop_unsupported_evidence": true,
+    "request_timeout_seconds": 180
+  }
+}

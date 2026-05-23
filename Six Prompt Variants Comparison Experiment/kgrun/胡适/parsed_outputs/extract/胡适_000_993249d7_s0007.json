@@ -1,0 +1,397 @@
+{
+  "metadata": {
+    "schema_version": "lite_v2.0",
+    "article_id": "胡适_000_993249d7",
+    "article_title": "序二",
+    "source_author": "胡适",
+    "section_title": "",
+    "section_author": "",
+    "segment_id": "胡适_000_993249d7_s0007",
+    "segment_index": 7,
+    "source_file": "E:\\1研究生\\岭南大学\\论文毕业\\capstone\\资料\\新的内容开始了\\local_upload\\input_w3\\胡适.txt"
+  },
+  "entities": [
+    {
+      "id": "e1",
+      "name": "丁在君",
+      "canonical_name": "丁文江",
+      "type": "人物",
+      "evidence": "例如丁在君的《玄学与科学》的主要部分只是要证明",
+      "confidence": 1.0
+    },
+    {
+      "id": "e2",
+      "name": "《玄学与科学》",
+      "canonical_name": "玄学与科学",
+      "type": "著作",
+      "evidence": "例如丁在君的《玄学与科学》的主要部分只是要证明",
+      "confidence": 1.0
+    },
+    {
+      "id": "e3",
+      "name": "科学",
+      "canonical_name": "科学",
+      "type": "概念",
+      "evidence": "凡是心理的内容，真的概念推论，无一不是科学的材料",
+      "confidence": 1.0
+    },
+    {
+      "id": "e4",
+      "name": "科学的人生观",
+      "canonical_name": "科学的人生观",
+      "type": "概念",
+      "evidence": "然而他却始终没有说出什么是“科学的人生观”",
+      "confidence": 1.0
+    },
+    {
+      "id": "e5",
+      "name": "张君劢",
+      "canonical_name": "张君劢",
+      "type": "人物",
+      "evidence": "如张君劢《再论人生观与科学》只主张",
+      "confidence": 1.0
+    },
+    {
+      "id": "e6",
+      "name": "《再论人生观与科学》",
+      "canonical_name": "再论人生观与科学",
+      "type": "著作",
+      "evidence": "如张君劢《再论人生观与科学》只主张",
+      "confidence": 1.0
+    },
+    {
+      "id": "e7",
+      "name": "人生观",
+      "canonical_name": "人生观",
+      "type": "概念",
+      "evidence": "人生观超于科学以上",
+      "confidence": 1.0
+    },
+    {
+      "id": "e8",
+      "name": "梁任公",
+      "canonical_name": "梁启超",
+      "type": "人物",
+      "evidence": "如梁任公的《人生观与科学》只说",
+      "confidence": 1.0
+    },
+    {
+      "id": "e9",
+      "name": "《人生观与科学》",
+      "canonical_name": "人生观与科学",
+      "type": "著作",
+      "evidence": "如梁任公的《人生观与科学》只说",
+      "confidence": 1.0
+    },
+    {
+      "id": "e10",
+      "name": "科学方法",
+      "canonical_name": "科学方法",
+      "type": "方法",
+      "evidence": "人生关涉理智方面的事项，绝对要用科学方法来解决",
+      "confidence": 1.0
+    },
+    {
+      "id": "e11",
+      "name": "情感",
+      "canonical_name": "情感",
+      "type": "概念",
+      "evidence": "关于情感方面的事项，绝对的超科学",
+      "confidence": 1.0
+    },
+    {
+      "id": "e12",
+      "name": "林宰平",
+      "canonical_name": "林宰平",
+      "type": "人物",
+      "evidence": "如林宰平的《读丁在君先生的玄学与科学》只是一面承认",
+      "confidence": 1.0
+    },
+    {
+      "id": "e13",
+      "name": "《读丁在君先生的玄学与科学》",
+      "canonical_name": "读丁在君先生的玄学与科学",
+      "type": "著作",
+      "evidence": "如林宰平的《读丁在君先生的玄学与科学》只是一面承认",
+      "confidence": 1.0
+    },
+    {
+      "id": "e14",
+      "name": "人类",
+      "canonical_name": "人类",
+      "type": "概念",
+      "evidence": "反对科学包办或管理“这个最古怪的东西”——人类",
+      "confidence": 1.0
+    },
+    {
+      "id": "e15",
+      "name": "丁在君答张君劢",
+      "canonical_name": "丁在君答张君劢",
+      "type": "著作",
+      "evidence": "如丁在君答张君劢也只是说明",
+      "confidence": 1.0
+    },
+    {
+      "id": "e16",
+      "name": "知识",
+      "canonical_name": "知识",
+      "type": "概念",
+      "evidence": "所以我们对于知识的信用，比对于没有方法的情感要好",
+      "confidence": 1.0
+    },
+    {
+      "id": "e17",
+      "name": "唐钺",
+      "canonical_name": "唐钺",
+      "type": "人物",
+      "evidence": "如唐钺《心理现象与因果律》只证明",
+      "confidence": 1.0
+    },
+    {
+      "id": "e18",
+      "name": "《心理现象与因果律》",
+      "canonical_name": "心理现象与因果律",
+      "type": "著作",
+      "evidence": "如唐钺《心理现象与因果律》只证明",
+      "confidence": 1.0
+    },
+    {
+      "id": "e19",
+      "name": "心理现象",
+      "canonical_name": "心理现象",
+      "type": "概念",
+      "evidence": "一切心理现象都是有因的",
+      "confidence": 1.0
+    },
+    {
+      "id": "e20",
+      "name": "《一个痴人的说梦》",
+      "canonical_name": "一个痴人的说梦",
+      "type": "著作",
+      "evidence": "他的《一个痴人的说梦》只证明",
+      "confidence": 1.0
+    },
+    {
+      "id": "e21",
+      "name": "王抚五",
+      "canonical_name": "王星拱",
+      "type": "人物",
+      "evidence": "王抚五的《科学与人生观》也只是说",
+      "confidence": 1.0
+    },
+    {
+      "id": "e22",
+      "name": "《科学与人生观》",
+      "canonical_name": "科学与人生观",
+      "type": "著作",
+      "evidence": "王抚五的《科学与人生观》也只是说",
+      "confidence": 1.0
+    },
+    {
+      "id": "e23",
+      "name": "因果",
+      "canonical_name": "因果",
+      "type": "概念",
+      "evidence": "科学是凭藉‘因果’和‘齐一’两个原理而构造起来的",
+      "confidence": 1.0
+    },
+    {
+      "id": "e24",
+      "name": "齐一",
+      "canonical_name": "齐一",
+      "type": "概念",
+      "evidence": "科学是凭藉‘因果’和‘齐一’两个原理而构造起来的",
+      "confidence": 1.0
+    },
+    {
+      "id": "e25",
+      "name": "人生问题",
+      "canonical_name": "人生问题",
+      "type": "概念",
+      "evidence": "人生问题无论为生命之观念，或生活之态度，都不能逃出这两个原理的金刚圈，所以科学可以解决人生问题",
+      "confidence": 1.0
+    }
+  ],
+  "claims": [
+    {
+      "id": "c1",
+      "speaker": "丁在君",
+      "claim": "凡是心理的内容，真的概念推论，无一不是科学的材料",
+      "target": "科学",
+      "claim_type": "知识论主张",
+      "claim_status": "直接引用",
+      "polarity": "positive",
+      "evidence": "凡是心理的内容，真的概念推论，无一不是科学的材料",
+      "confidence": 1.0
+    },
+    {
+      "id": "c2",
+      "speaker": "胡适",
+      "claim": "丁在君始终没有说出什么是“科学的人生观”",
+      "target": "丁在君",
+      "claim_type": "论战策略批评",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "然而他却始终没有说出什么是“科学的人生观”",
+      "confidence": 1.0
+    },
+    {
+      "id": "c3",
+      "speaker": "张君劢",
+      "claim": "人生观超于科学以上",
+      "target": "人生观",
+      "claim_type": "知识论主张",
+      "claim_status": "直接引用",
+      "polarity": "positive",
+      "evidence": "人生观超于科学以上",
+      "confidence": 1.0
+    },
+    {
+      "id": "c4",
+      "speaker": "张君劢",
+      "claim": "科学决不能支配人生",
+      "target": "科学",
+      "claim_type": "知识论主张",
+      "claim_status": "直接引用",
+      "polarity": "negative",
+      "evidence": "科学决不能支配人生",
+      "confidence": 1.0
+    },
+    {
+      "id": "c5",
+      "speaker": "梁任公",
+      "claim": "人生关涉理智方面的事项，绝对要用科学方法来解决，关于情感方面的事项，绝对的超科学",
+      "target": "科学方法",
+      "claim_type": "知识论主张",
+      "claim_status": "直接引用",
+      "polarity": "mixed",
+      "evidence": "人生关涉理智方面的事项，绝对要用科学方法来解决，关于情感方面的事项，绝对的超科学",
+      "confidence": 1.0
+    },
+    {
+      "id": "c6",
+      "speaker": "林宰平",
+      "claim": "科学的方法有益于人生观",
+      "target": "科学方法",
+      "claim_type": "知识论主张",
+      "claim_status": "直接引用",
+      "polarity": "positive",
+      "evidence": "科学的方法有益于人生观",
+      "confidence": 1.0
+    },
+    {
+      "id": "c7",
+      "speaker": "林宰平",
+      "claim": "反对科学包办或管理“这个最古怪的东西”——人类",
+      "target": "科学",
+      "claim_type": "知识论主张",
+      "claim_status": "直接引用",
+      "polarity": "negative",
+      "evidence": "反对科学包办或管理“这个最古怪的东西”——人类",
+      "confidence": 1.0
+    },
+    {
+      "id": "c8",
+      "speaker": "丁在君",
+      "claim": "这种（科学）方法，无论用在知识界的那一部分，都有相当的成绩，所以我们对于知识的信用，比对于没有方法的情感要好；凡有情感的冲动都要想用知识来指导他，使他发展的程度提高，发展的方向得当",
+      "target": "科学方法",
+      "claim_type": "方法论主张",
+      "claim_status": "直接引用",
+      "polarity": "positive",
+      "evidence": "这种（科学）方法，无论用在知识界的那一部分，都有相当的成绩，所以我们对于知识的信用，比对于没有方法的情感要好；凡有情感的冲动都要想用知识来指导他，使他发展的程度提高，发展的方向得当",
+      "confidence": 1.0
+    },
+    {
+      "id": "c9",
+      "speaker": "唐钺",
+      "claim": "一切心理现象都是有因的",
+      "target": "心理现象",
+      "claim_type": "知识论主张",
+      "claim_status": "直接引用",
+      "polarity": "positive",
+      "evidence": "一切心理现象都是有因的",
+      "confidence": 1.0
+    },
+    {
+      "id": "c10",
+      "speaker": "唐钺",
+      "claim": "关于情感的事项，要就我们的知识所及，尽量用科学方法来解决的",
+      "target": "情感",
+      "claim_type": "方法论主张",
+      "claim_status": "直接引用",
+      "polarity": "positive",
+      "evidence": "关于情感的事项，要就我们的知识所及，尽量用科学方法来解决的",
+      "confidence": 1.0
+    },
+    {
+      "id": "c11",
+      "speaker": "王抚五",
+      "claim": "科学是凭藉‘因果’和‘齐一’两个原理而构造起来的；人生问题无论为生命之观念，或生活之态度，都不能逃出这两个原理的金刚圈，所以科学可以解决人生问题",
+      "target": "科学",
+      "claim_type": "知识论主张",
+      "claim_status": "直接引用",
+      "polarity": "positive",
+      "evidence": "科学是凭藉‘因果’和‘齐一’两个原理而构造起来的；人生问题无论为生命之观念，或生活之态度，都不能逃出这两个原理的金刚圈，所以科学可以解决人生问题",
+      "confidence": 1.0
+    }
+  ],
+  "relations": [
+    {
+      "id": "r1",
+      "head": "林宰平",
+      "head_type": "人物",
+      "relation": "主张",
+      "tail": "科学的方法有益于人生观",
+      "tail_type": "观点",
+      "polarity": "positive",
+      "evidence": "如林宰平的《读丁在君先生的玄学与科学》只是一面承认“科学的方法有益于人生观”",
+      "confidence": 1.0
+    }
+  ],
+  "definitions": [
+    {
+      "id": "def1",
+      "term": "科学",
+      "definition": "科学是凭藉‘因果’和‘齐一’两个原理而构造起来的",
+      "evidence": "科学是凭藉‘因果’和‘齐一’两个原理而构造起来的",
+      "confidence": 1.0
+    }
+  ],
+  "citations": [],
+  "rhetorical_devices": [
+    {
+      "id": "rh1",
+      "expression": "金刚圈",
+      "device_type": "比喻",
+      "literal_target": "因果和齐一两个原理的约束范围",
+      "function": "强调科学原理的不可逃脱性",
+      "evidence": "人生问题无论为生命之观念，或生活之态度，都不能逃出这两个原理的金刚圈",
+      "confidence": 1.0
+    }
+  ],
+  "uncertainties": [
+    {
+      "item": "胡适对各位论者观点的态度",
+      "reason": "文本中胡适仅以“只证明”“只主张”“只说”“只是一面承认……一面又反对”“也只是说明”“也只是说”等表述转述他人观点，未明确表达自己的赞同或批评，难以判断其具体态度。"
+    }
+  ],
+  "_meta": {
+    "status": "success",
+    "stage": "extract",
+    "model": "deepseek-ai/DeepSeek-V4-Flash",
+    "base_url": "https://api.siliconflow.cn/v1",
+    "prompt_version": "extract_prompt_v2.0",
+    "schema_version": "lite_v2.0",
+    "segment_id": "胡适_000_993249d7_s0007",
+    "article_id": "胡适_000_993249d7",
+    "char_start": 3504,
+    "char_end": 4103,
+    "raw_path": "E:\\1研究生\\岭南大学\\论文毕业\\capstone\\资料\\新的内容开始了\\local_upload\\kg_runs\\胡适\\raw_outputs\\extract\\胡适_000_993249d7_s0007.txt",
+    "parsed_at": "2026-05-19T23:58:34",
+    "started_at": "2026-05-19T23:55:42",
+    "elapsed_seconds": 172.295,
+    "strict_evidence_check": true,
+    "drop_unsupported_evidence": true,
+    "request_timeout_seconds": 180
+  }
+}

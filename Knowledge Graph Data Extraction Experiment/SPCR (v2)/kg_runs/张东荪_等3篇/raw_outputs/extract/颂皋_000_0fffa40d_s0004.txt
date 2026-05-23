@@ -1,0 +1,351 @@
+{
+  "metadata": {
+    "schema_version": "lite_v3.0",
+    "article_id": "颂皋_000_0fffa40d",
+    "article_title": "玄学上之问题",
+    "source_author": "颂皋",
+    "section_title": "",
+    "section_author": "",
+    "segment_id": "颂皋_000_0fffa40d_s0004",
+    "segment_index": 4,
+    "source_file": "E:\\1研究生\\岭南大学\\论文毕业\\capstone\\资料\\新的内容开始了\\local_upload\\input_v2_w2\\颂皋.txt"
+  },
+  "entities": [
+    {
+      "id": "e1",
+      "name": "斯氏",
+      "canonical_name": "斯氏",
+      "type": "人物",
+      "evidence": "即使吾人随斯氏而断定无一起源之形态为可以思议",
+      "confidence": 0.9
+    },
+    {
+      "id": "e2",
+      "name": "无一起源之形态",
+      "canonical_name": "无一起源之形态",
+      "type": "概念",
+      "evidence": "无一起源之形态为可以思议",
+      "confidence": 0.8
+    },
+    {
+      "id": "e3",
+      "name": "全部问题",
+      "canonical_name": "全部问题",
+      "type": "问题",
+      "evidence": "断定全部问题为非真实",
+      "confidence": 0.7
+    },
+    {
+      "id": "e4",
+      "name": "玄学家",
+      "canonical_name": "玄学家",
+      "type": "阵营/群体",
+      "evidence": "吾人亦不失为玄学家矣",
+      "confidence": 0.9
+    },
+    {
+      "id": "e5",
+      "name": "连续的综合，所永不能完成者，是谓无限性",
+      "canonical_name": "无限性",
+      "type": "概念",
+      "evidence": "例如“连续的综合，所永不能完成者，是谓无限性”（Infinity),即一明证",
+      "confidence": 0.9
+    },
+    {
+      "id": "e6",
+      "name": "无限性",
+      "canonical_name": "无限性",
+      "type": "概念",
+      "evidence": "所谓无限性，乃指无限的而言",
+      "confidence": 0.9
+    },
+    {
+      "id": "e7",
+      "name": "无限的",
+      "canonical_name": "无限的",
+      "type": "概念",
+      "evidence": "所谓无限性，乃指无限的而言",
+      "confidence": 0.8
+    },
+    {
+      "id": "e8",
+      "name": "各项假设",
+      "canonical_name": "各项假设",
+      "type": "概念",
+      "evidence": "分析各项假设，与分析各项问题，均为吾人所应重视",
+      "confidence": 0.8
+    },
+    {
+      "id": "e9",
+      "name": "各项问题",
+      "canonical_name": "各项问题",
+      "type": "问题",
+      "evidence": "分析各项假设，与分析各项问题，均为吾人所应重视",
+      "confidence": 0.8
+    },
+    {
+      "id": "e10",
+      "name": "玄学之研究",
+      "canonical_name": "玄学之研究",
+      "type": "概念",
+      "evidence": "均于玄学之研究，为不可缺少者",
+      "confidence": 0.8
+    },
+    {
+      "id": "e11",
+      "name": "上述各问题",
+      "canonical_name": "上述各问题",
+      "type": "问题",
+      "evidence": "将上述各问题，加以详密的讨论矣",
+      "confidence": 0.7
+    }
+  ],
+  "claims": [
+    {
+      "id": "c1",
+      "speaker": "作者",
+      "claim": "吾人不啻已深入玄学之重围，无以解脱",
+      "target": "",
+      "claim_type": "描述性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "吾人不啻已深入玄学之重围，无以解脱",
+      "confidence": 0.9
+    },
+    {
+      "id": "c2",
+      "speaker": "斯氏",
+      "claim": "无一起源之形态为可以思议",
+      "target": "",
+      "claim_type": "描述性主张",
+      "claim_status": "间接转述",
+      "polarity": "neutral",
+      "evidence": "即使吾人随斯氏而断定无一起源之形态为可以思议",
+      "confidence": 0.8
+    },
+    {
+      "id": "c3",
+      "speaker": "斯氏",
+      "claim": "全部问题为非真实",
+      "target": "全部问题",
+      "claim_type": "评价性主张",
+      "claim_status": "间接转述",
+      "polarity": "negative",
+      "evidence": "断定全部问题为非真实",
+      "confidence": 0.8
+    },
+    {
+      "id": "c4",
+      "speaker": "作者",
+      "claim": "吾人亦不失为玄学家矣",
+      "target": "",
+      "claim_type": "结论性主张",
+      "claim_status": "作者推论",
+      "polarity": "neutral",
+      "evidence": "吾人亦不失为玄学家矣",
+      "confidence": 0.9
+    },
+    {
+      "id": "c5",
+      "speaker": "作者",
+      "claim": "所谓无限性，乃指无限的而言",
+      "target": "无限性",
+      "claim_type": "定义性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "所谓无限性，乃指无限的而言",
+      "confidence": 0.9
+    },
+    {
+      "id": "c6",
+      "speaker": "作者",
+      "claim": "谓为由连续的综合而完成之，岂非一绝大之矛盾而何",
+      "target": "无限性",
+      "claim_type": "反驳性主张",
+      "claim_status": "作者推论",
+      "polarity": "negative",
+      "evidence": "既云无限的矣，则谓为由连续的综合而完成之，岂非一绝大之矛盾而何",
+      "confidence": 0.9
+    },
+    {
+      "id": "c7",
+      "speaker": "作者",
+      "claim": "分析各项假设，与分析各项问题，均为吾人所应重视，均于玄学之研究，为不可缺少者",
+      "target": "",
+      "claim_type": "规范性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "分析各项假设，与分析各项问题，均为吾人所应重视，均于玄学之研究，为不可缺少者",
+      "confidence": 0.9
+    },
+    {
+      "id": "c8",
+      "speaker": "作者",
+      "claim": "吾人可以自为玄学家，而将上述各问题，加以详密的讨论矣",
+      "target": "",
+      "claim_type": "结论性主张",
+      "claim_status": "作者推论",
+      "polarity": "positive",
+      "evidence": "明乎此理，吾人可以自为玄学家，而将上述各问题，加以详密的讨论矣",
+      "confidence": 0.9
+    }
+  ],
+  "relations": [
+    {
+      "id": "r1",
+      "head": "吾人",
+      "head_type": "阵营/群体",
+      "relation": "归因于",
+      "relation_subtype": "不适用",
+      "tail": "深入玄学之重围",
+      "tail_type": "概念",
+      "polarity": "negative",
+      "stance_score": -0.5,
+      "intensity": 0.6,
+      "evidence": "吾人不啻已深入玄学之重围，无以解脱",
+      "confidence": 0.8
+    },
+    {
+      "id": "r2",
+      "head": "作者",
+      "head_type": "人物",
+      "relation": "回应",
+      "relation_subtype": "一般批评",
+      "tail": "斯氏",
+      "tail_type": "人物",
+      "polarity": "negative",
+      "stance_score": -0.5,
+      "intensity": 0.5,
+      "evidence": "即使吾人随斯氏而断定无一起源之形态为可以思议，而断定全部问题为非真实，吾人亦不失为玄学家矣",
+      "confidence": 0.7
+    },
+    {
+      "id": "r3",
+      "head": "连续的综合，所永不能完成者，是谓无限性",
+      "head_type": "概念",
+      "relation": "作为论据支持",
+      "relation_subtype": "不适用",
+      "tail": "有数种假设，以其自相矛盾之故，令人视之，似为荒谬绝伦",
+      "tail_type": "观点",
+      "polarity": "positive",
+      "stance_score": 1.0,
+      "intensity": 0.8,
+      "evidence": "有数种假设，以其自相矛盾之故，令人视之，似为荒谬绝伦。例如“连续的综合，所永不能完成者，是谓无限性”（Infinity),即一明证",
+      "confidence": 0.9
+    },
+    {
+      "id": "r4",
+      "head": "作者",
+      "head_type": "人物",
+      "relation": "反驳",
+      "relation_subtype": "逻辑反驳",
+      "tail": "无限性",
+      "tail_type": "概念",
+      "polarity": "negative",
+      "stance_score": -1.0,
+      "intensity": 0.9,
+      "evidence": "既云无限的矣，则谓为由连续的综合而完成之，岂非一绝大之矛盾而何",
+      "confidence": 0.9
+    },
+    {
+      "id": "r5",
+      "head": "分析各项假设",
+      "head_type": "方法",
+      "relation": "作为论据支持",
+      "relation_subtype": "不适用",
+      "tail": "玄学之研究",
+      "tail_type": "概念",
+      "polarity": "positive",
+      "stance_score": 1.0,
+      "intensity": 0.8,
+      "evidence": "分析各项假设，与分析各项问题，均为吾人所应重视，均于玄学之研究，为不可缺少者",
+      "confidence": 0.9
+    },
+    {
+      "id": "r6",
+      "head": "分析各项问题",
+      "head_type": "方法",
+      "relation": "作为论据支持",
+      "relation_subtype": "不适用",
+      "tail": "玄学之研究",
+      "tail_type": "概念",
+      "polarity": "positive",
+      "stance_score": 1.0,
+      "intensity": 0.8,
+      "evidence": "分析各项假设，与分析各项问题，均为吾人所应重视，均于玄学之研究，为不可缺少者",
+      "confidence": 0.9
+    },
+    {
+      "id": "r7",
+      "head": "明乎此理",
+      "head_type": "观点",
+      "relation": "导致",
+      "relation_subtype": "不适用",
+      "tail": "吾人可以自为玄学家，而将上述各问题，加以详密的讨论矣",
+      "tail_type": "观点",
+      "polarity": "positive",
+      "stance_score": 1.0,
+      "intensity": 0.7,
+      "evidence": "明乎此理，吾人可以自为玄学家，而将上述各问题，加以详密的讨论矣",
+      "confidence": 0.8
+    }
+  ],
+  "definitions": [
+    {
+      "id": "def1",
+      "term": "无限性",
+      "definition": "连续的综合，所永不能完成者",
+      "evidence": "例如“连续的综合，所永不能完成者，是谓无限性”（Infinity),即一明证",
+      "confidence": 0.9
+    },
+    {
+      "id": "def2",
+      "term": "无限性",
+      "definition": "乃指无限的而言",
+      "evidence": "所谓无限性，乃指无限的而言",
+      "confidence": 0.9
+    }
+  ],
+  "citations": [
+    {
+      "id": "cit1",
+      "citer": "作者",
+      "quoted_author": "斯氏",
+      "quoted_work": "",
+      "quoted_claim": "无一起源之形态为可以思议；全部问题为非真实",
+      "function": "作为批评对象",
+      "evidence": "即使吾人随斯氏而断定无一起源之形态为可以思议，而断定全部问题为非真实",
+      "confidence": 0.8
+    }
+  ],
+  "rhetorical_devices": [
+    {
+      "id": "rh1",
+      "expression": "深入玄学之重围，无以解脱",
+      "device_type": "比喻",
+      "literal_target": "陷入玄学问题难以摆脱",
+      "function": "形象化描述困境",
+      "evidence": "吾人不啻已深入玄学之重围，无以解脱",
+      "confidence": 0.9
+    },
+    {
+      "id": "rh2",
+      "expression": "岂非一绝大之矛盾而何",
+      "device_type": "反语",
+      "literal_target": "这是极大的矛盾",
+      "function": "强调矛盾之荒谬",
+      "evidence": "既云无限的矣，则谓为由连续的综合而完成之，岂非一绝大之矛盾而何",
+      "confidence": 0.8
+    }
+  ],
+  "uncertainties": [
+    {
+      "item": "斯氏具体指代何人",
+      "reason": "文本中仅出现'斯氏'，未提供全名或更多背景信息"
+    },
+    {
+      "item": "“连续的综合，所永不能完成者，是谓无限性”是否为斯氏观点",
+      "reason": "文本未明确说明该定义出自斯氏，仅作为例子出现"
+    }
+  ]
+}

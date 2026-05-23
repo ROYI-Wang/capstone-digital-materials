@@ -1,0 +1,509 @@
+{
+  "metadata": {
+    "schema_version": "lite_v3.0",
+    "article_id": "任叔永_000_7ab49e99",
+    "article_title": "人生观的科学或科学的人生观",
+    "source_author": "任叔永",
+    "section_title": "",
+    "section_author": "",
+    "segment_id": "任叔永_000_7ab49e99_s0001",
+    "segment_index": 1,
+    "source_file": "E:\\1研究生\\岭南大学\\论文毕业\\capstone\\资料\\新的内容开始了\\local_upload\\input_v2_w1\\任叔永.txt"
+  },
+  "entities": [
+    {
+      "id": "e1",
+      "name": "丁君",
+      "canonical_name": "丁君",
+      "type": "人物",
+      "evidence": "丁君已有极详细的驳论",
+      "confidence": 1.0
+    },
+    {
+      "id": "e2",
+      "name": "张君",
+      "canonical_name": "张君",
+      "type": "人物",
+      "evidence": "张君要说",
+      "confidence": 1.0
+    },
+    {
+      "id": "e3",
+      "name": "科学智识论",
+      "canonical_name": "科学智识论",
+      "type": "主义/学说/理论",
+      "evidence": "丁君的科学智识论",
+      "confidence": 1.0
+    },
+    {
+      "id": "e4",
+      "name": "心理的内容",
+      "canonical_name": "心理的内容",
+      "type": "概念",
+      "evidence": "凡是心理的内容，真的概念推论，无一不是科学的材料",
+      "confidence": 1.0
+    },
+    {
+      "id": "e5",
+      "name": "真的概念推论",
+      "canonical_name": "真的概念推论",
+      "type": "概念",
+      "evidence": "凡是心理的内容，真的概念推论，无一不是科学的材料",
+      "confidence": 1.0
+    },
+    {
+      "id": "e6",
+      "name": "科学的材料",
+      "canonical_name": "科学的材料",
+      "type": "概念",
+      "evidence": "凡是心理的内容，真的概念推论，无一不是科学的材料",
+      "confidence": 1.0
+    },
+    {
+      "id": "e7",
+      "name": "人生观",
+      "canonical_name": "人生观",
+      "type": "概念",
+      "evidence": "人生观要是不外乎心理推论的作用，也当然要受科学的支配",
+      "confidence": 1.0
+    },
+    {
+      "id": "e8",
+      "name": "心理推论",
+      "canonical_name": "心理推论",
+      "type": "概念",
+      "evidence": "人生观要是不外乎心理推论的作用",
+      "confidence": 1.0
+    },
+    {
+      "id": "e9",
+      "name": "科学的支配",
+      "canonical_name": "科学的支配",
+      "type": "概念",
+      "evidence": "也当然要受科学的支配",
+      "confidence": 1.0
+    },
+    {
+      "id": "e10",
+      "name": "自身良心",
+      "canonical_name": "自身良心",
+      "type": "概念",
+      "evidence": "我的人生观是由主观的自身良心所主张",
+      "confidence": 1.0
+    },
+    {
+      "id": "e11",
+      "name": "主观的自身良心",
+      "canonical_name": "主观的自身良心",
+      "type": "概念",
+      "evidence": "我的人生观是由主观的自身良心所主张",
+      "confidence": 1.0
+    },
+    {
+      "id": "e12",
+      "name": "孔子的行键",
+      "canonical_name": "孔子的行键",
+      "type": "概念",
+      "evidence": "孔子的行键，老子的无为，孟子的性善，荀子的性恶，……康德的义务观念，边沁的功利主义，达尔文的生存竞争论，哥罗巴金的互助主义，……叔本华、哈德们的悲观主义，兰勃尼慈、黑智儿的乐观主义，孔子的修身齐家主义，释迦的出世主义",
+      "confidence": 1.0
+    },
+    {
+      "id": "e13",
+      "name": "老子的无为",
+      "canonical_name": "老子的无为",
+      "type": "概念",
+      "evidence": "孔子的行键，老子的无为，孟子的性善，荀子的性恶，……康德的义务观念，边沁的功利主义，达尔文的生存竞争论，哥罗巴金的互助主义，……叔本华、哈德们的悲观主义，兰勃尼慈、黑智儿的乐观主义，孔子的修身齐家主义，释迦的出世主义",
+      "confidence": 1.0
+    },
+    {
+      "id": "e14",
+      "name": "孟子的性善",
+      "canonical_name": "孟子的性善",
+      "type": "概念",
+      "evidence": "孔子的行键，老子的无为，孟子的性善，荀子的性恶，……康德的义务观念，边沁的功利主义，达尔文的生存竞争论，哥罗巴金的互助主义，……叔本华、哈德们的悲观主义，兰勃尼慈、黑智儿的乐观主义，孔子的修身齐家主义，释迦的出世主义",
+      "confidence": 1.0
+    },
+    {
+      "id": "e15",
+      "name": "荀子的性恶",
+      "canonical_name": "荀子的性恶",
+      "type": "概念",
+      "evidence": "孔子的行键，老子的无为，孟子的性善，荀子的性恶，……康德的义务观念，边沁的功利主义，达尔文的生存竞争论，哥罗巴金的互助主义，……叔本华、哈德们的悲观主义，兰勃尼慈、黑智儿的乐观主义，孔子的修身齐家主义，释迦的出世主义",
+      "confidence": 1.0
+    },
+    {
+      "id": "e16",
+      "name": "康德的义务观念",
+      "canonical_name": "康德的义务观念",
+      "type": "概念",
+      "evidence": "孔子的行键，老子的无为，孟子的性善，荀子的性恶，……康德的义务观念，边沁的功利主义，达尔文的生存竞争论，哥罗巴金的互助主义，……叔本华、哈德们的悲观主义，兰勃尼慈、黑智儿的乐观主义，孔子的修身齐家主义，释迦的出世主义",
+      "confidence": 1.0
+    },
+    {
+      "id": "e17",
+      "name": "边沁的功利主义",
+      "canonical_name": "边沁的功利主义",
+      "type": "概念",
+      "evidence": "孔子的行键，老子的无为，孟子的性善，荀子的性恶，……康德的义务观念，边沁的功利主义，达尔文的生存竞争论，哥罗巴金的互助主义，……叔本华、哈德们的悲观主义，兰勃尼慈、黑智儿的乐观主义，孔子的修身齐家主义，释迦的出世主义",
+      "confidence": 1.0
+    },
+    {
+      "id": "e18",
+      "name": "达尔文的生存竞争论",
+      "canonical_name": "达尔文的生存竞争论",
+      "type": "概念",
+      "evidence": "孔子的行键，老子的无为，孟子的性善，荀子的性恶，……康德的义务观念，边沁的功利主义，达尔文的生存竞争论，哥罗巴金的互助主义，……叔本华、哈德们的悲观主义，兰勃尼慈、黑智儿的乐观主义，孔子的修身齐家主义，释迦的出世主义",
+      "confidence": 1.0
+    },
+    {
+      "id": "e19",
+      "name": "哥罗巴金的互助主义",
+      "canonical_name": "哥罗巴金的互助主义",
+      "type": "概念",
+      "evidence": "孔子的行键，老子的无为，孟子的性善，荀子的性恶，……康德的义务观念，边沁的功利主义，达尔文的生存竞争论，哥罗巴金的互助主义，……叔本华、哈德们的悲观主义，兰勃尼慈、黑智儿的乐观主义，孔子的修身齐家主义，释迦的出世主义",
+      "confidence": 1.0
+    },
+    {
+      "id": "e20",
+      "name": "叔本华、哈德们的悲观主义",
+      "canonical_name": "叔本华、哈德们的悲观主义",
+      "type": "概念",
+      "evidence": "孔子的行键，老子的无为，孟子的性善，荀子的性恶，……康德的义务观念，边沁的功利主义，达尔文的生存竞争论，哥罗巴金的互助主义，……叔本华、哈德们的悲观主义，兰勃尼慈、黑智儿的乐观主义，孔子的修身齐家主义，释迦的出世主义",
+      "confidence": 1.0
+    },
+    {
+      "id": "e21",
+      "name": "兰勃尼慈、黑智儿的乐观主义",
+      "canonical_name": "兰勃尼慈、黑智儿的乐观主义",
+      "type": "概念",
+      "evidence": "孔子的行键，老子的无为，孟子的性善，荀子的性恶，……康德的义务观念，边沁的功利主义，达尔文的生存竞争论，哥罗巴金的互助主义，……叔本华、哈德们的悲观主义，兰勃尼慈、黑智儿的乐观主义，孔子的修身齐家主义，释迦的出世主义",
+      "confidence": 1.0
+    },
+    {
+      "id": "e22",
+      "name": "孔子的修身齐家主义",
+      "canonical_name": "孔子的修身齐家主义",
+      "type": "概念",
+      "evidence": "孔子的行键，老子的无为，孟子的性善，荀子的性恶，……康德的义务观念，边沁的功利主义，达尔文的生存竞争论，哥罗巴金的互助主义，……叔本华、哈德们的悲观主义，兰勃尼慈、黑智儿的乐观主义，孔子的修身齐家主义，释迦的出世主义",
+      "confidence": 1.0
+    },
+    {
+      "id": "e23",
+      "name": "释迦的出世主义",
+      "canonical_name": "释迦的出世主义",
+      "type": "概念",
+      "evidence": "孔子的行键，老子的无为，孟子的性善，荀子的性恶，……康德的义务观念，边沁的功利主义，达尔文的生存竞争论，哥罗巴金的互助主义，……叔本华、哈德们的悲观主义，兰勃尼慈、黑智儿的乐观主义，孔子的修身齐家主义，释迦的出世主义",
+      "confidence": 1.0
+    },
+    {
+      "id": "e24",
+      "name": "社会伦理",
+      "canonical_name": "社会伦理",
+      "type": "概念",
+      "evidence": "这许多东西里面有的是讲的社会伦理，有的是说的行为动机，有的是指的人生究竟",
+      "confidence": 1.0
+    },
+    {
+      "id": "e25",
+      "name": "行为动机",
+      "canonical_name": "行为动机",
+      "type": "概念",
+      "evidence": "这许多东西里面有的是讲的社会伦理，有的是说的行为动机，有的是指的人生究竟",
+      "confidence": 1.0
+    },
+    {
+      "id": "e26",
+      "name": "人生究竟",
+      "canonical_name": "人生究竟",
+      "type": "概念",
+      "evidence": "这许多东西里面有的是讲的社会伦理，有的是说的行为动机，有的是指的人生究竟",
+      "confidence": 1.0
+    },
+    {
+      "id": "e27",
+      "name": "科学方法",
+      "canonical_name": "科学方法",
+      "type": "方法",
+      "evidence": "我们晓得科学的方法虽是无所不能（读者注意，我说的是科学方法，不是科学万能)",
+      "confidence": 1.0
+    },
+    {
+      "id": "e28",
+      "name": "科学万能",
+      "canonical_name": "科学万能",
+      "type": "概念",
+      "evidence": "（读者注意，我说的是科学方法，不是科学万能)",
+      "confidence": 1.0
+    },
+    {
+      "id": "e29",
+      "name": "限度",
+      "canonical_name": "限度",
+      "type": "概念",
+      "evidence": "但是他应用起来，却有一定的限度",
+      "confidence": 1.0
+    },
+    {
+      "id": "e30",
+      "name": "经过分析而确实清楚的事实",
+      "canonical_name": "经过分析而确实清楚的事实",
+      "type": "概念",
+      "evidence": "我们所说的限度，就是指那经过分析而确实清楚的事实",
+      "confidence": 1.0
+    },
+    {
+      "id": "e31",
+      "name": "浑沌囫囵的东西",
+      "canonical_name": "浑沌囫囵的东西",
+      "type": "概念",
+      "evidence": "张君所说的人生观，既然是一个浑沌囫囵的东西",
+      "confidence": 1.0
+    },
+    {
+      "id": "e32",
+      "name": "丁君",
+      "canonical_name": "丁君",
+      "type": "人物",
+      "evidence": "丁君乃研究地质的科学家",
+      "confidence": 1.0
+    },
+    {
+      "id": "e33",
+      "name": "地质",
+      "canonical_name": "地质",
+      "type": "概念",
+      "evidence": "丁君乃研究地质的科学家",
+      "confidence": 1.0
+    },
+    {
+      "id": "e34",
+      "name": "科学家",
+      "canonical_name": "科学家",
+      "type": "阵营/群体",
+      "evidence": "丁君乃研究地质的科学家",
+      "confidence": 1.0
+    },
+    {
+      "id": "e35",
+      "name": "牛头不对马嘴",
+      "canonical_name": "牛头不对马嘴",
+      "type": "比喻/类比",
+      "evidence": "真是“牛头不对马嘴”了",
+      "confidence": 1.0
+    }
+  ],
+  "claims": [
+    {
+      "id": "c1",
+      "speaker": "丁君",
+      "claim": "凡是心理的内容，真的概念推论，无一不是科学的材料",
+      "target": "",
+      "claim_type": "描述性主张",
+      "claim_status": "间接转述",
+      "polarity": "positive",
+      "evidence": "丁君的科学智识论，是要证明“凡是心理的内容，真的概念推论，无一不是科学的材料”。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c2",
+      "speaker": "丁君",
+      "claim": "人生观要是不外乎心理推论的作用，也当然要受科学的支配",
+      "target": "人生观",
+      "claim_type": "因果主张",
+      "claim_status": "作者推论",
+      "polarity": "positive",
+      "evidence": "人生观要是不外乎心理推论的作用，也当然要受科学的支配。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c3",
+      "speaker": "张君",
+      "claim": "我所说的人生观，决不是由概念推论所得来的。我的人生观是由主观的自身良心所主张",
+      "target": "人生观",
+      "claim_type": "反驳性主张",
+      "claim_status": "间接转述",
+      "polarity": "positive",
+      "evidence": "但是张君要说“我所说的人生观，决不是由概念推论所得来的。我的人生观是由主观的自身良心所主张”。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c4",
+      "speaker": "任叔永",
+      "claim": "张君所说的人生观，既然是一个浑沌囫囵的东西，科学方法自然用不上去",
+      "target": "张君的人生观",
+      "claim_type": "评价性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "张君所说的人生观，既然是一个浑沌囫囵的东西，科学方法自然用不上去。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c5",
+      "speaker": "任叔永",
+      "claim": "丁君乃研究地质的科学家，偏要拿科学来和张君的人生观捣乱，真是“牛头不对马嘴”了",
+      "target": "丁君",
+      "claim_type": "评价性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "丁君乃研究地质的科学家，偏要拿科学来和张君的人生观捣乱，真是“牛头不对马嘴”了。",
+      "confidence": 1.0
+    }
+  ],
+  "relations": [
+    {
+      "id": "r1",
+      "head": "丁君",
+      "head_type": "人物",
+      "relation": "主张",
+      "relation_subtype": "不适用",
+      "tail": "凡是心理的内容，真的概念推论，无一不是科学的材料",
+      "tail_type": "观点",
+      "polarity": "positive",
+      "stance_score": 1.0,
+      "intensity": 0.8,
+      "evidence": "丁君的科学智识论，是要证明“凡是心理的内容，真的概念推论，无一不是科学的材料”。",
+      "confidence": 1.0
+    },
+    {
+      "id": "r2",
+      "head": "张君",
+      "head_type": "人物",
+      "relation": "主张",
+      "relation_subtype": "不适用",
+      "tail": "我所说的人生观，决不是由概念推论所得来的。我的人生观是由主观的自身良心所主张",
+      "tail_type": "观点",
+      "polarity": "positive",
+      "stance_score": 1.0,
+      "intensity": 0.8,
+      "evidence": "但是张君要说“我所说的人生观，决不是由概念推论所得来的。我的人生观是由主观的自身良心所主张”。",
+      "confidence": 1.0
+    },
+    {
+      "id": "r3",
+      "head": "任叔永",
+      "head_type": "人物",
+      "relation": "批评",
+      "relation_subtype": "概念混淆批评",
+      "tail": "张君",
+      "tail_type": "人物",
+      "polarity": "negative",
+      "stance_score": -0.8,
+      "intensity": 0.7,
+      "evidence": "张君所说的人生观，既然是一个浑沌囫囵的东西，科学方法自然用不上去。",
+      "confidence": 1.0
+    },
+    {
+      "id": "r4",
+      "head": "任叔永",
+      "head_type": "人物",
+      "relation": "批评",
+      "relation_subtype": "讽刺",
+      "tail": "丁君",
+      "tail_type": "人物",
+      "polarity": "negative",
+      "stance_score": -0.9,
+      "intensity": 0.9,
+      "evidence": "丁君乃研究地质的科学家，偏要拿科学来和张君的人生观捣乱，真是“牛头不对马嘴”了。",
+      "confidence": 1.0
+    },
+    {
+      "id": "r5",
+      "head": "科学方法",
+      "head_type": "方法",
+      "relation": "区分",
+      "relation_subtype": "概念澄清",
+      "tail": "科学万能",
+      "tail_type": "概念",
+      "polarity": "neutral",
+      "stance_score": 0.0,
+      "intensity": 0.5,
+      "evidence": "（读者注意，我说的是科学方法，不是科学万能)",
+      "confidence": 1.0
+    },
+    {
+      "id": "r6",
+      "head": "限度",
+      "head_type": "概念",
+      "relation": "定义",
+      "relation_subtype": "概念澄清",
+      "tail": "经过分析而确实清楚的事实",
+      "tail_type": "概念",
+      "polarity": "neutral",
+      "stance_score": 0.0,
+      "intensity": 0.5,
+      "evidence": "我们所说的限度，就是指那经过分析而确实清楚的事实",
+      "confidence": 1.0
+    }
+  ],
+  "definitions": [
+    {
+      "id": "def1",
+      "term": "限度",
+      "definition": "指那经过分析而确实清楚的事实",
+      "evidence": "我们所说的限度，就是指那经过分析而确实清楚的事实",
+      "confidence": 1.0
+    }
+  ],
+  "citations": [
+    {
+      "id": "cit1",
+      "citer": "丁君",
+      "quoted_author": "",
+      "quoted_work": "",
+      "quoted_claim": "凡是心理的内容，真的概念推论，无一不是科学的材料",
+      "function": "作为批评对象",
+      "evidence": "丁君的科学智识论，是要证明“凡是心理的内容，真的概念推论，无一不是科学的材料”。",
+      "confidence": 1.0
+    },
+    {
+      "id": "cit2",
+      "citer": "张君",
+      "quoted_author": "",
+      "quoted_work": "",
+      "quoted_claim": "我所说的人生观，决不是由概念推论所得来的。我的人生观是由主观的自身良心所主张",
+      "function": "作为批评对象",
+      "evidence": "但是张君要说“我所说的人生观，决不是由概念推论所得来的。我的人生观是由主观的自身良心所主张”。",
+      "confidence": 1.0
+    }
+  ],
+  "rhetorical_devices": [
+    {
+      "id": "rh1",
+      "expression": "牛头不对马嘴",
+      "device_type": "比喻",
+      "literal_target": "丁君用科学讨论张君的人生观",
+      "function": "讽刺丁君的做法不恰当",
+      "evidence": "真是“牛头不对马嘴”了。",
+      "confidence": 1.0
+    }
+  ],
+  "uncertainties": [
+    {
+      "item": "丁君已有极详细的驳论",
+      "reason": "文本未提供驳论的具体内容，无法抽取详细观点"
+    },
+    {
+      "item": "张君解说人生观的时候，先立了一个为中心的“我”",
+      "reason": "文本未详细说明“我”的具体含义，无法进一步抽取"
+    }
+  ],
+  "_meta": {
+    "status": "success",
+    "stage": "extract",
+    "model": "deepseek-ai/DeepSeek-V4-Flash",
+    "base_url": "https://api.siliconflow.cn/v1",
+    "prompt_version": "v2.0",
+    "schema_version": "lite_v3.0",
+    "segment_id": "任叔永_000_7ab49e99_s0001",
+    "article_id": "任叔永_000_7ab49e99",
+    "char_start": 508,
+    "char_end": 1079,
+    "raw_path": "E:\\1研究生\\岭南大学\\论文毕业\\capstone\\资料\\新的内容开始了\\local_upload\\kg_runs_v2\\任叔永_等4篇\\raw_outputs\\extract\\任叔永_000_7ab49e99_s0001.txt",
+    "parsed_at": "2026-05-21T01:11:27",
+    "started_at": "2026-05-21T00:59:40",
+    "elapsed_seconds": 707.679,
+    "strict_evidence_check": true,
+    "drop_unsupported_evidence": true,
+    "request_timeout_seconds": 180
+  }
+}

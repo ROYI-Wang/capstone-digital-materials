@@ -1,0 +1,513 @@
+{
+  "metadata": {
+    "schema_version": "lite_v3.0",
+    "article_id": "张君劢_002_c870d202",
+    "article_title": "再论人生观与科学并答丁在君",
+    "source_author": "张君劢",
+    "section_title": "",
+    "section_author": "",
+    "segment_id": "张君劢_002_c870d202_s0029",
+    "segment_index": 29,
+    "source_file": "E:\\1研究生\\岭南大学\\论文毕业\\capstone\\资料\\新的内容开始了\\local_upload\\input_张君劢\\张君劢.txt"
+  },
+  "entities": [
+    {
+      "id": "e1",
+      "name": "物质文明",
+      "canonical_name": "物质文明",
+      "type": "概念",
+      "evidence": "物质文明与精神文明二名词之说明",
+      "confidence": 1.0
+    },
+    {
+      "id": "e2",
+      "name": "精神文明",
+      "canonical_name": "精神文明",
+      "type": "概念",
+      "evidence": "物质文明与精神文明二名词之说明",
+      "confidence": 1.0
+    },
+    {
+      "id": "e3",
+      "name": "物质",
+      "canonical_name": "物质",
+      "type": "概念",
+      "evidence": "问何者为物质，何者为精神，则能答者寡矣",
+      "confidence": 1.0
+    },
+    {
+      "id": "e4",
+      "name": "精神",
+      "canonical_name": "精神",
+      "type": "概念",
+      "evidence": "问何者为物质，何者为精神，则能答者寡矣",
+      "confidence": 1.0
+    },
+    {
+      "id": "e5",
+      "name": "衣冠",
+      "canonical_name": "衣冠",
+      "type": "例证",
+      "evidence": "衣冠，物质也",
+      "confidence": 1.0
+    },
+    {
+      "id": "e6",
+      "name": "皮肉筋骨",
+      "canonical_name": "皮肉筋骨",
+      "type": "例证",
+      "evidence": "皮肉筋骨，物质也",
+      "confidence": 1.0
+    },
+    {
+      "id": "e7",
+      "name": "脑神经",
+      "canonical_name": "脑神经",
+      "type": "例证",
+      "evidence": "更进而求之，则为脑神经亦物质也",
+      "confidence": 1.0
+    },
+    {
+      "id": "e8",
+      "name": "心思之运用",
+      "canonical_name": "心思之运用",
+      "type": "概念",
+      "evidence": "若夫心思之运用，则非手之所能触，目之所能见，故不谓为物质，而谓为精神",
+      "confidence": 1.0
+    },
+    {
+      "id": "e9",
+      "name": "告子",
+      "canonical_name": "告子",
+      "type": "人物",
+      "evidence": "告子有仁内义外之说",
+      "confidence": 1.0
+    },
+    {
+      "id": "e10",
+      "name": "仁内义外之说",
+      "canonical_name": "仁内义外之说",
+      "type": "观点",
+      "evidence": "告子有仁内义外之说",
+      "confidence": 1.0
+    },
+    {
+      "id": "e11",
+      "name": "宋学家",
+      "canonical_name": "宋学家",
+      "type": "阵营/群体",
+      "evidence": "宋学家有尊德性道学问之争",
+      "confidence": 1.0
+    },
+    {
+      "id": "e12",
+      "name": "尊德性道学问之争",
+      "canonical_name": "尊德性道学问之争",
+      "type": "观点",
+      "evidence": "宋学家有尊德性道学问之争",
+      "confidence": 1.0
+    },
+    {
+      "id": "e13",
+      "name": "东西文明之比较",
+      "canonical_name": "东西文明之比较",
+      "type": "概念",
+      "evidence": "若就东西文明之比较言之，则此二名词亦自有成立之理由",
+      "confidence": 1.0
+    },
+    {
+      "id": "e14",
+      "name": "西洋之轮船电车",
+      "canonical_name": "西洋之轮船电车",
+      "type": "例证",
+      "evidence": "谓西洋之轮船电车为物质文明，则中国之帆船，小车，安在其非物质文明耶？",
+      "confidence": 1.0
+    },
+    {
+      "id": "e15",
+      "name": "中国之帆船，小车",
+      "canonical_name": "中国之帆船，小车",
+      "type": "例证",
+      "evidence": "谓西洋之轮船电车为物质文明，则中国之帆船，小车，安在其非物质文明耶？",
+      "confidence": 1.0
+    },
+    {
+      "id": "e16",
+      "name": "西洋之高楼大厦",
+      "canonical_name": "西洋之高楼大厦",
+      "type": "例证",
+      "evidence": "谓西洋之高楼大厦为物质文明，则中国之茅屋蓬户，亦安在其非物质文明耶？",
+      "confidence": 1.0
+    },
+    {
+      "id": "e17",
+      "name": "中国之茅屋蓬户",
+      "canonical_name": "中国之茅屋蓬户",
+      "type": "例证",
+      "evidence": "谓西洋之高楼大厦为物质文明，则中国之茅屋蓬户，亦安在其非物质文明耶？",
+      "confidence": 1.0
+    },
+    {
+      "id": "e18",
+      "name": "西洋之纺织厂与机器耕种",
+      "canonical_name": "西洋之纺织厂与机器耕种",
+      "type": "例证",
+      "evidence": "谓西洋之纺织厂与机器耕种为物质文明，则中国之耒耜与纺车亦安在其非物质文明耶？",
+      "confidence": 1.0
+    },
+    {
+      "id": "e19",
+      "name": "中国之耒耜与纺车",
+      "canonical_name": "中国之耒耜与纺车",
+      "type": "例证",
+      "evidence": "谓西洋之纺织厂与机器耕种为物质文明，则中国之耒耜与纺车亦安在其非物质文明耶？",
+      "confidence": 1.0
+    },
+    {
+      "id": "e20",
+      "name": "物质的成分",
+      "canonical_name": "物质的成分",
+      "type": "概念",
+      "evidence": "世界既无不衣不食不住之民族，则其文化中孰能免于物质的成分？",
+      "confidence": 1.0
+    }
+  ],
+  "claims": [
+    {
+      "id": "c1",
+      "speaker": "张君劢",
+      "claim": "吾之原文本极明白，无待在君之辨别",
+      "target": "丁在君",
+      "claim_type": "评价性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "此中限界，吾之原文本极明白，无待在君之辨别",
+      "confidence": 1.0
+    },
+    {
+      "id": "c2",
+      "speaker": "张君劢",
+      "claim": "在君文中绝无一语为物质文明辩护",
+      "target": "丁在君",
+      "claim_type": "描述性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "吾所深喜者，则在君文中绝无一语为物质文明辩护是也",
+      "confidence": 1.0
+    },
+    {
+      "id": "c3",
+      "speaker": "张君劢",
+      "claim": "在君于我之根本精神全未明了",
+      "target": "丁在君",
+      "claim_type": "评价性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "惟其于我之根本精神全未明了，故不可不论之",
+      "confidence": 1.0
+    },
+    {
+      "id": "c4",
+      "speaker": "张君劢",
+      "claim": "手之所触，目之所见者，谓为物质",
+      "target": "",
+      "claim_type": "定义性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "手之所触，目之所见者，谓为物质",
+      "confidence": 1.0
+    },
+    {
+      "id": "c5",
+      "speaker": "张君劢",
+      "claim": "心思之运用，则非手之所能触，目之所能见，故不谓为物质，而谓为精神",
+      "target": "",
+      "claim_type": "定义性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "若夫心思之运用，则非手之所能触，目之所能见，故不谓为物质，而谓为精神",
+      "confidence": 1.0
+    },
+    {
+      "id": "c6",
+      "speaker": "张君劢",
+      "claim": "同为精神，又有先后轻重之别",
+      "target": "",
+      "claim_type": "描述性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "虽然，同为精神，又有先后轻重之别",
+      "confidence": 1.0
+    },
+    {
+      "id": "c7",
+      "speaker": "张君劢",
+      "claim": "若就东西文明之比较言之，则此二名词亦自有成立之理由",
+      "target": "",
+      "claim_type": "结论性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "若就东西文明之比较言之，则此二名词亦自有成立之理由",
+      "confidence": 1.0
+    },
+    {
+      "id": "c8",
+      "speaker": "张君劢",
+      "claim": "世界既无不衣不食不住之民族，则其文化中孰能免于物质的成分？",
+      "target": "",
+      "claim_type": "问题提出",
+      "claim_status": "作者推论",
+      "polarity": "neutral",
+      "evidence": "世界既无不衣不食不住之民族，则其文化中孰能免于物质的成分？",
+      "confidence": 1.0
+    }
+  ],
+  "relations": [
+    {
+      "id": "r1",
+      "head": "物质",
+      "head_type": "概念",
+      "relation": "定义",
+      "relation_subtype": "概念澄清",
+      "tail": "手之所触，目之所见者",
+      "tail_type": "概念",
+      "polarity": "neutral",
+      "stance_score": 0.0,
+      "intensity": 0.0,
+      "evidence": "手之所触，目之所见者，谓为物质",
+      "confidence": 1.0
+    },
+    {
+      "id": "r2",
+      "head": "精神",
+      "head_type": "概念",
+      "relation": "定义",
+      "relation_subtype": "概念澄清",
+      "tail": "心思之运用",
+      "tail_type": "概念",
+      "polarity": "neutral",
+      "stance_score": 0.0,
+      "intensity": 0.0,
+      "evidence": "若夫心思之运用，则非手之所能触，目之所能见，故不谓为物质，而谓为精神",
+      "confidence": 1.0
+    },
+    {
+      "id": "r3",
+      "head": "精神",
+      "head_type": "概念",
+      "relation": "区分",
+      "relation_subtype": "概念澄清",
+      "tail": "物质",
+      "tail_type": "概念",
+      "polarity": "neutral",
+      "stance_score": 0.0,
+      "intensity": 0.0,
+      "evidence": "若夫心思之运用，则非手之所能触，目之所能见，故不谓为物质，而谓为精神",
+      "confidence": 1.0
+    },
+    {
+      "id": "r4",
+      "head": "物质文明",
+      "head_type": "概念",
+      "relation": "包含",
+      "relation_subtype": "不适用",
+      "tail": "西洋之轮船电车",
+      "tail_type": "例证",
+      "polarity": "neutral",
+      "stance_score": 0.0,
+      "intensity": 0.0,
+      "evidence": "谓西洋之轮船电车为物质文明",
+      "confidence": 1.0
+    },
+    {
+      "id": "r5",
+      "head": "物质文明",
+      "head_type": "概念",
+      "relation": "包含",
+      "relation_subtype": "不适用",
+      "tail": "中国之帆船，小车",
+      "tail_type": "例证",
+      "polarity": "neutral",
+      "stance_score": 0.0,
+      "intensity": 0.0,
+      "evidence": "则中国之帆船，小车，安在其非物质文明耶？",
+      "confidence": 1.0
+    },
+    {
+      "id": "r6",
+      "head": "物质文明",
+      "head_type": "概念",
+      "relation": "包含",
+      "relation_subtype": "不适用",
+      "tail": "西洋之高楼大厦",
+      "tail_type": "例证",
+      "polarity": "neutral",
+      "stance_score": 0.0,
+      "intensity": 0.0,
+      "evidence": "谓西洋之高楼大厦为物质文明",
+      "confidence": 1.0
+    },
+    {
+      "id": "r7",
+      "head": "物质文明",
+      "head_type": "概念",
+      "relation": "包含",
+      "relation_subtype": "不适用",
+      "tail": "中国之茅屋蓬户",
+      "tail_type": "例证",
+      "polarity": "neutral",
+      "stance_score": 0.0,
+      "intensity": 0.0,
+      "evidence": "则中国之茅屋蓬户，亦安在其非物质文明耶？",
+      "confidence": 1.0
+    },
+    {
+      "id": "r8",
+      "head": "物质文明",
+      "head_type": "概念",
+      "relation": "包含",
+      "relation_subtype": "不适用",
+      "tail": "西洋之纺织厂与机器耕种",
+      "tail_type": "例证",
+      "polarity": "neutral",
+      "stance_score": 0.0,
+      "intensity": 0.0,
+      "evidence": "谓西洋之纺织厂与机器耕种为物质文明",
+      "confidence": 1.0
+    },
+    {
+      "id": "r9",
+      "head": "物质文明",
+      "head_type": "概念",
+      "relation": "包含",
+      "relation_subtype": "不适用",
+      "tail": "中国之耒耜与纺车",
+      "tail_type": "例证",
+      "polarity": "neutral",
+      "stance_score": 0.0,
+      "intensity": 0.0,
+      "evidence": "则中国之耒耜与纺车亦安在其非物质文明耶？",
+      "confidence": 1.0
+    },
+    {
+      "id": "r10",
+      "head": "世界既无不衣不食不住之民族",
+      "head_type": "观点",
+      "relation": "推出",
+      "relation_subtype": "不适用",
+      "tail": "其文化中孰能免于物质的成分？",
+      "tail_type": "问题",
+      "polarity": "neutral",
+      "stance_score": 0.0,
+      "intensity": 0.0,
+      "evidence": "世界既无不衣不食不住之民族，则其文化中孰能免于物质的成分？",
+      "confidence": 1.0
+    }
+  ],
+  "definitions": [
+    {
+      "id": "def1",
+      "term": "物质",
+      "definition": "手之所触，目之所见者",
+      "evidence": "手之所触，目之所见者，谓为物质",
+      "confidence": 1.0
+    },
+    {
+      "id": "def2",
+      "term": "精神",
+      "definition": "心思之运用，非手之所能触，目之所能见",
+      "evidence": "若夫心思之运用，则非手之所能触，目之所能见，故不谓为物质，而谓为精神",
+      "confidence": 1.0
+    }
+  ],
+  "citations": [
+    {
+      "id": "cit1",
+      "citer": "张君劢",
+      "quoted_author": "丁在君",
+      "quoted_work": "",
+      "quoted_claim": "试验室是求真理所在，工厂是发财的机关",
+      "function": "作为批评对象",
+      "evidence": "在君引吾批评物质文明之语，系之以说明曰：“试验室是求真理所在，工厂是发财的机关。”",
+      "confidence": 1.0
+    },
+    {
+      "id": "cit2",
+      "citer": "张君劢",
+      "quoted_author": "丁在君",
+      "quoted_work": "",
+      "quoted_claim": "使人类能利用自然界生财的是科学家，建筑工厂……的何尝是科学家？",
+      "function": "作为批评对象",
+      "evidence": "又曰：“使人类能利用自然界生财的是科学家，建筑工厂……的何尝是科学家？”",
+      "confidence": 1.0
+    },
+    {
+      "id": "cit3",
+      "citer": "张君劢",
+      "quoted_author": "告子",
+      "quoted_work": "",
+      "quoted_claim": "仁内义外之说",
+      "function": "中性提及",
+      "evidence": "告子有仁内义外之说",
+      "confidence": 1.0
+    }
+  ],
+  "rhetorical_devices": [
+    {
+      "id": "rh1",
+      "expression": "安在其非物质文明耶？",
+      "device_type": "反问",
+      "literal_target": "中国之帆船，小车",
+      "function": "通过反问强调中国也有物质文明，反驳将物质文明仅归于西洋的观点",
+      "evidence": "谓西洋之轮船电车为物质文明，则中国之帆船，小车，安在其非物质文明耶？",
+      "confidence": 1.0
+    },
+    {
+      "id": "rh2",
+      "expression": "亦安在其非物质文明耶？",
+      "device_type": "反问",
+      "literal_target": "中国之茅屋蓬户",
+      "function": "通过反问强调中国也有物质文明，反驳将物质文明仅归于西洋的观点",
+      "evidence": "谓西洋之高楼大厦为物质文明，则中国之茅屋蓬户，亦安在其非物质文明耶？",
+      "confidence": 1.0
+    },
+    {
+      "id": "rh3",
+      "expression": "亦安在其非物质文明耶？",
+      "device_type": "反问",
+      "literal_target": "中国之耒耜与纺车",
+      "function": "通过反问强调中国也有物质文明，反驳将物质文明仅归于西洋的观点",
+      "evidence": "谓西洋之纺织厂与机器耕种为物质文明，则中国之耒耜与纺车亦安在其非物质文明耶？",
+      "confidence": 1.0
+    }
+  ],
+  "uncertainties": [
+    {
+      "item": "告子有仁内义外之说",
+      "reason": "文本仅提及告子有仁内义外之说，未说明其具体内容或与当前论点的关系，无法进一步抽取"
+    },
+    {
+      "item": "宋学家有尊德性道学问之争",
+      "reason": "文本仅提及宋学家有尊德性道学问之争，未说明其具体内容或与当前论点的关系，无法进一步抽取"
+    }
+  ],
+  "_meta": {
+    "status": "success",
+    "stage": "extract",
+    "model": "deepseek-ai/DeepSeek-V4-Flash",
+    "base_url": "https://api.siliconflow.cn/v1",
+    "prompt_version": "v2.0",
+    "schema_version": "lite_v3.0",
+    "segment_id": "张君劢_002_c870d202_s0029",
+    "article_id": "张君劢_002_c870d202",
+    "char_start": 14529,
+    "char_end": 15125,
+    "raw_path": "E:\\1研究生\\岭南大学\\论文毕业\\capstone\\资料\\新的内容开始了\\local_upload\\kg_runs_v2\\张君劢\\raw_outputs\\extract\\张君劢_002_c870d202_s0029.txt",
+    "parsed_at": "2026-05-22T03:36:48",
+    "started_at": "2026-05-22T03:36:19",
+    "elapsed_seconds": 28.203,
+    "strict_evidence_check": true,
+    "drop_unsupported_evidence": true,
+    "request_timeout_seconds": 60
+  }
+}

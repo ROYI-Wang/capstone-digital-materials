@@ -1,0 +1,332 @@
+{
+  "metadata": {
+    "schema_version": "lite_v2.0",
+    "article_id": "丁文江_000_3ba07a5e",
+    "article_title": "玄学与科学 ——评张君劢的《人生观》",
+    "source_author": "丁文江",
+    "section_title": "",
+    "section_author": "",
+    "segment_id": "丁文江_000_3ba07a5e_s0015",
+    "segment_index": 15,
+    "source_file": "E:\\1研究生\\岭南大学\\论文毕业\\capstone\\资料\\新的内容开始了\\local_upload\\input_texts\\丁文江.txt"
+  },
+  "entities": [
+    {
+      "id": "e1",
+      "name": "天才",
+      "canonical_name": "天才",
+      "type": "概念",
+      "evidence": "因为我们能承认他们是天才，是豪杰，正是因为他们的知觉概念推论的方法完全与我们相同",
+      "confidence": 0.9
+    },
+    {
+      "id": "e2",
+      "name": "豪杰",
+      "canonical_name": "豪杰",
+      "type": "概念",
+      "evidence": "因为我们能承认他们是天才，是豪杰，正是因为他们的知觉概念推论的方法完全与我们相同",
+      "confidence": 0.9
+    },
+    {
+      "id": "e3",
+      "name": "概念推论",
+      "canonical_name": "概念推论",
+      "type": "概念",
+      "evidence": "根据这两条原则，我们来审查概念推论",
+      "confidence": 0.9
+    },
+    {
+      "id": "e4",
+      "name": "自相矛盾",
+      "canonical_name": "自相矛盾",
+      "type": "概念",
+      "evidence": "凡概念推论若是自相矛盾，科学不承认他是真的",
+      "confidence": 0.9
+    },
+    {
+      "id": "e5",
+      "name": "科学",
+      "canonical_name": "科学",
+      "type": "概念",
+      "evidence": "凡概念推论若是自相矛盾，科学不承认他是真的",
+      "confidence": 0.9
+    },
+    {
+      "id": "e6",
+      "name": "知觉",
+      "canonical_name": "知觉",
+      "type": "概念",
+      "evidence": "凡概念不能从不反常的人的知觉推断出来的，科学不承认他是真的",
+      "confidence": 0.9
+    },
+    {
+      "id": "e7",
+      "name": "推论",
+      "canonical_name": "推论",
+      "type": "概念",
+      "evidence": "凡推论不能使寻常有论理训练的人依了所根据的概念，也能得同样的推论，科学不承认他是真的",
+      "confidence": 0.9
+    },
+    {
+      "id": "e8",
+      "name": "论理训练",
+      "canonical_name": "论理训练",
+      "type": "概念",
+      "evidence": "我们审查推论，加了“有论理训练”几个字的资格，因为推论是最容易错误的",
+      "confidence": 0.9
+    },
+    {
+      "id": "e9",
+      "name": "戒文士",
+      "canonical_name": "戒文士",
+      "type": "人物",
+      "evidence": "戒文士的《科学原则》讲得最详细",
+      "confidence": 0.9
+    },
+    {
+      "id": "e10",
+      "name": "《科学原则》",
+      "canonical_name": "科学原则",
+      "type": "著作",
+      "evidence": "戒文士的《科学原则》讲得最详细",
+      "confidence": 0.9
+    },
+    {
+      "id": "e11",
+      "name": "证据责任问题",
+      "canonical_name": "证据责任问题",
+      "type": "概念",
+      "evidence": "我单举一件极普通的错误，请读者注意。就是所谓证据责任问题",
+      "confidence": 0.9
+    }
+  ],
+  "claims": [
+    {
+      "id": "c1",
+      "speaker": "丁文江",
+      "claim": "我们能承认他们是天才，是豪杰，正是因为他们的知觉概念推论的方法完全与我们相同",
+      "target": "天才、豪杰",
+      "claim_type": "知识论主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "因为我们能承认他们是天才，是豪杰，正是因为他们的知觉概念推论的方法完全与我们相同",
+      "confidence": 0.9
+    },
+    {
+      "id": "c2",
+      "speaker": "丁文江",
+      "claim": "不然，我们安晓得自命为天才豪杰的人，不是反常，不是疯子？",
+      "target": "天才、豪杰",
+      "claim_type": "知识论主张",
+      "claim_status": "作者推论",
+      "polarity": "negative",
+      "evidence": "不然，我们安晓得自命为天才豪杰的人，不是反常，不是疯子？",
+      "confidence": 0.9
+    },
+    {
+      "id": "c3",
+      "speaker": "丁文江",
+      "claim": "凡概念推论若是自相矛盾，科学不承认他是真的",
+      "target": "概念推论",
+      "claim_type": "方法论主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "凡概念推论若是自相矛盾，科学不承认他是真的",
+      "confidence": 0.9
+    },
+    {
+      "id": "c4",
+      "speaker": "丁文江",
+      "claim": "凡概念不能从不反常的人的知觉推断出来的，科学不承认他是真的",
+      "target": "概念",
+      "claim_type": "方法论主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "凡概念不能从不反常的人的知觉推断出来的，科学不承认他是真的",
+      "confidence": 0.9
+    },
+    {
+      "id": "c5",
+      "speaker": "丁文江",
+      "claim": "凡推论不能使寻常有论理训练的人依了所根据的概念，也能得同样的推论，科学不承认他是真的",
+      "target": "推论",
+      "claim_type": "方法论主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "凡推论不能使寻常有论理训练的人依了所根据的概念，也能得同样的推论，科学不承认他是真的",
+      "confidence": 0.9
+    },
+    {
+      "id": "c6",
+      "speaker": "丁文江",
+      "claim": "推论是最容易错误的",
+      "target": "推论",
+      "claim_type": "知识论主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "因为推论是最容易错误的",
+      "confidence": 0.9
+    },
+    {
+      "id": "c7",
+      "speaker": "丁文江",
+      "claim": "没有论理的训练，很容易以伪为真",
+      "target": "论理训练",
+      "claim_type": "知识论主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "没有论理的训练，很容易以伪为真",
+      "confidence": 0.9
+    },
+    {
+      "id": "c8",
+      "speaker": "丁文江",
+      "claim": "戒文士的《科学原则》讲得最详细",
+      "target": "戒文士的《科学原则》",
+      "claim_type": "价值评价",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "戒文士的《科学原则》讲得最详细",
+      "confidence": 0.9
+    },
+    {
+      "id": "c9",
+      "speaker": "丁文江",
+      "claim": "我单举一件极普通的错误，请读者注意。就是所谓证据责任问题",
+      "target": "证据责任问题",
+      "claim_type": "问题提出",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "我单举一件极普通的错误，请读者注意。就是所谓证据责任问题",
+      "confidence": 0.9
+    }
+  ],
+  "relations": [
+    {
+      "id": "r1",
+      "head": "天才、豪杰",
+      "head_type": "概念",
+      "relation": "解释",
+      "relation_subtype": "不适用",
+      "tail": "知觉概念推论的方法完全与我们相同",
+      "tail_type": "概念",
+      "polarity": "positive",
+      "evidence": "因为我们能承认他们是天才，是豪杰，正是因为他们的知觉概念推论的方法完全与我们相同",
+      "confidence": 0.9
+    },
+    {
+      "id": "r2",
+      "head": "自相矛盾",
+      "head_type": "概念",
+      "relation": "导致",
+      "relation_subtype": "不适用",
+      "tail": "科学不承认他是真的",
+      "tail_type": "概念",
+      "polarity": "negative",
+      "evidence": "凡概念推论若是自相矛盾，科学不承认他是真的",
+      "confidence": 0.9
+    },
+    {
+      "id": "r3",
+      "head": "概念不能从不反常的人的知觉推断出来",
+      "head_type": "概念",
+      "relation": "导致",
+      "relation_subtype": "不适用",
+      "tail": "科学不承认他是真的",
+      "tail_type": "概念",
+      "polarity": "negative",
+      "evidence": "凡概念不能从不反常的人的知觉推断出来的，科学不承认他是真的",
+      "confidence": 0.9
+    },
+    {
+      "id": "r4",
+      "head": "推论不能使寻常有论理训练的人依了所根据的概念也能得同样的推论",
+      "head_type": "概念",
+      "relation": "导致",
+      "relation_subtype": "不适用",
+      "tail": "科学不承认他是真的",
+      "tail_type": "概念",
+      "polarity": "negative",
+      "evidence": "凡推论不能使寻常有论理训练的人依了所根据的概念，也能得同样的推论，科学不承认他是真的",
+      "confidence": 0.9
+    },
+    {
+      "id": "r5",
+      "head": "推论",
+      "head_type": "概念",
+      "relation": "归因于",
+      "relation_subtype": "不适用",
+      "tail": "容易错误",
+      "tail_type": "概念",
+      "polarity": "negative",
+      "evidence": "因为推论是最容易错误的",
+      "confidence": 0.9
+    },
+    {
+      "id": "r6",
+      "head": "没有论理的训练",
+      "head_type": "概念",
+      "relation": "导致",
+      "relation_subtype": "不适用",
+      "tail": "以伪为真",
+      "tail_type": "概念",
+      "polarity": "negative",
+      "evidence": "没有论理的训练，很容易以伪为真",
+      "confidence": 0.9
+    },
+    {
+      "id": "r7",
+      "head": "丁文江",
+      "head_type": "人物",
+      "relation": "引用",
+      "relation_subtype": "援引权威",
+      "tail": "戒文士的《科学原则》",
+      "tail_type": "著作",
+      "polarity": "positive",
+      "evidence": "戒文士的《科学原则》讲得最详细",
+      "confidence": 0.9
+    }
+  ],
+  "definitions": [
+    {
+      "id": "def1",
+      "term": "天才、豪杰",
+      "definition": "天才和豪杰的知觉概念推论的方法与常人相同",
+      "evidence": "因为我们能承认他们是天才，是豪杰，正是因为他们的知觉概念推论的方法完全与我们相同",
+      "confidence": 0.9
+    }
+  ],
+  "citations": [
+    {
+      "id": "cit1",
+      "citer": "丁文江",
+      "quoted_author": "戒文士",
+      "quoted_work": "《科学原则》",
+      "quoted_claim": "（未具体引用内容）",
+      "function": "援引权威支持",
+      "evidence": "戒文士的《科学原则》讲得最详细。我为篇幅所限，不能详述，读者可以求之于原书",
+      "confidence": 0.9
+    }
+  ],
+  "rhetorical_devices": [
+    {
+      "id": "rh1",
+      "expression": "不是人力车同飞机",
+      "device_type": "类比",
+      "literal_target": "天才豪杰与常人的关系",
+      "function": "通过类比说明天才豪杰与常人在认知方法上相同，而非完全不同",
+      "evidence": "不是人力车同飞机",
+      "confidence": 0.9
+    }
+  ],
+  "uncertainties": [
+    {
+      "item": "“不是人力车同飞机”的具体含义",
+      "reason": "文本中仅出现此短语，未进一步解释其类比的具体所指，可能指代两种截然不同的事物，但缺乏上下文明确说明"
+    },
+    {
+      "item": "“戒文士”是否为“Jevons”的音译",
+      "reason": "文本中仅出现“戒文士”三字，未提供其他信息，无法确认其身份"
+    }
+  ]
+}

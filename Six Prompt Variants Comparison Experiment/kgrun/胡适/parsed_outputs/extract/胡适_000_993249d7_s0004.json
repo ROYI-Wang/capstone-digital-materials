@@ -1,0 +1,423 @@
+{
+  "metadata": {
+    "schema_version": "lite_v2.0",
+    "article_id": "胡适_000_993249d7",
+    "article_title": "序二",
+    "source_author": "胡适",
+    "section_title": "",
+    "section_author": "",
+    "segment_id": "胡适_000_993249d7_s0004",
+    "segment_index": 4,
+    "source_file": "E:\\1研究生\\岭南大学\\论文毕业\\capstone\\资料\\新的内容开始了\\local_upload\\input_w3\\胡适.txt"
+  },
+  "entities": [
+    {
+      "id": "e1",
+      "name": "科学",
+      "canonical_name": "科学",
+      "type": "概念",
+      "evidence": "我绝不承认科学破产，不过也不承认科学万能罢了",
+      "confidence": 1.0
+    },
+    {
+      "id": "e2",
+      "name": "《欧游心影录》",
+      "canonical_name": "欧游心影录",
+      "type": "著作",
+      "evidence": "自从《欧游心影录》发表之后，科学在中国的尊严就远不如前了",
+      "confidence": 1.0
+    },
+    {
+      "id": "e3",
+      "name": "梁任公",
+      "canonical_name": "梁启超",
+      "type": "人物",
+      "evidence": "梁任公这样说的",
+      "confidence": 1.0
+    },
+    {
+      "id": "e4",
+      "name": "同善社",
+      "canonical_name": "同善社",
+      "type": "阵营/群体",
+      "evidence": "同善社、悟善社的风行",
+      "confidence": 1.0
+    },
+    {
+      "id": "e5",
+      "name": "悟善社",
+      "canonical_name": "悟善社",
+      "type": "阵营/群体",
+      "evidence": "同善社、悟善社的风行",
+      "confidence": 1.0
+    },
+    {
+      "id": "e6",
+      "name": "张君劢",
+      "canonical_name": "张君劢",
+      "type": "人物",
+      "evidence": "张君劢先生一流人",
+      "confidence": 1.0
+    },
+    {
+      "id": "e7",
+      "name": "柏格森",
+      "canonical_name": "柏格森",
+      "type": "人物",
+      "evidence": "打着柏格森、倭伊铿、欧立克……的旗号",
+      "confidence": 1.0
+    },
+    {
+      "id": "e8",
+      "name": "倭伊铿",
+      "canonical_name": "倭伊铿",
+      "type": "人物",
+      "evidence": "打着柏格森、倭伊铿、欧立克……的旗号",
+      "confidence": 1.0
+    },
+    {
+      "id": "e9",
+      "name": "欧立克",
+      "canonical_name": "欧立克",
+      "type": "人物",
+      "evidence": "打着柏格森、倭伊铿、欧立克……的旗号",
+      "confidence": 1.0
+    },
+    {
+      "id": "e10",
+      "name": "玄学鬼",
+      "canonical_name": "玄学鬼",
+      "type": "比喻/类比",
+      "evidence": "不怕玄学鬼来攻击了",
+      "confidence": 1.0
+    },
+    {
+      "id": "e11",
+      "name": "科学万能",
+      "canonical_name": "科学万能",
+      "type": "观点",
+      "evidence": "不承认科学万能罢了",
+      "confidence": 1.0
+    },
+    {
+      "id": "e12",
+      "name": "科学破产",
+      "canonical_name": "科学破产",
+      "type": "观点",
+      "evidence": "我绝不承认科学破产",
+      "confidence": 1.0
+    },
+    {
+      "id": "e13",
+      "name": "欧洲科学破产",
+      "canonical_name": "欧洲科学破产",
+      "type": "观点",
+      "evidence": "欧洲科学破产了！梁任公这样说的",
+      "confidence": 1.0
+    },
+    {
+      "id": "e14",
+      "name": "反科学的势力",
+      "canonical_name": "反科学的势力",
+      "type": "阵营/群体",
+      "evidence": "替反科学的势力助长不少的威风",
+      "confidence": 1.0
+    },
+    {
+      "id": "e15",
+      "name": "反动的哲学家",
+      "canonical_name": "反动的哲学家",
+      "type": "阵营/群体",
+      "evidence": "几个反动的哲学家，平素饱餍了科学的滋味，偶尔对科学发几句牢骚话",
+      "confidence": 1.0
+    },
+    {
+      "id": "e16",
+      "name": "人生观",
+      "canonical_name": "人生观",
+      "type": "概念",
+      "evidence": "至于“人生观”，我们只有做官发财的人生观，只有靠天吃饭的人生观，只有求神问卜的人生观，只有《安士全书》的人生观，只有《太上感应篇》的人生观",
+      "confidence": 1.0
+    },
+    {
+      "id": "e17",
+      "name": "《安士全书》",
+      "canonical_name": "安士全书",
+      "type": "著作",
+      "evidence": "只有《安士全书》的人生观",
+      "confidence": 1.0
+    },
+    {
+      "id": "e18",
+      "name": "《太上感应篇》",
+      "canonical_name": "太上感应篇",
+      "type": "著作",
+      "evidence": "只有《太上感应篇》的人生观",
+      "confidence": 1.0
+    }
+  ],
+  "claims": [
+    {
+      "id": "c1",
+      "speaker": "胡适",
+      "claim": "我绝不承认科学破产，不过也不承认科学万能罢了",
+      "target": "科学",
+      "claim_type": "价值评价",
+      "claim_status": "作者直接主张",
+      "polarity": "mixed",
+      "evidence": "我绝不承认科学破产，不过也不承认科学万能罢了",
+      "confidence": 1.0
+    },
+    {
+      "id": "c2",
+      "speaker": "梁任公",
+      "claim": "欧洲科学破产了",
+      "target": "科学",
+      "claim_type": "价值评价",
+      "claim_status": "间接转述",
+      "polarity": "negative",
+      "evidence": "欧洲科学破产了！梁任公这样说的",
+      "confidence": 1.0
+    },
+    {
+      "id": "c3",
+      "speaker": "胡适",
+      "claim": "梁先生的话在国内确曾替反科学的势力助长不少的威风",
+      "target": "梁任公",
+      "claim_type": "社会理论主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "我们不能不说梁先生的话在国内确曾替反科学的势力助长不少的威风",
+      "confidence": 1.0
+    },
+    {
+      "id": "c4",
+      "speaker": "胡适",
+      "claim": "张君劢先生一流人，打着柏格森、倭伊铿、欧立克……的旗号，继续起来替梁先生推波助澜",
+      "target": "张君劢",
+      "claim_type": "论战策略批评",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "何况国中还有张君劢先生一流人，打着柏格森、倭伊铿、欧立克……的旗号，继续起来替梁先生推波助澜呢",
+      "confidence": 1.0
+    },
+    {
+      "id": "c5",
+      "speaker": "胡适",
+      "claim": "欧洲的科学已到了根深蒂固的地位，不怕玄学鬼来攻击了",
+      "target": "科学",
+      "claim_type": "社会理论主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "欧洲的科学已到了根深蒂固的地位，不怕玄学鬼来攻击了",
+      "confidence": 1.0
+    },
+    {
+      "id": "c6",
+      "speaker": "胡适",
+      "claim": "几个反动的哲学家，平素饱餍了科学的滋味，偶尔对科学发几句牢骚话，就像富贵人家吃厌了鱼肉，常想尝尝咸菜豆腐的风味，这种反动并没有什么大危险",
+      "target": "反动的哲学家",
+      "claim_type": "价值评价",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "几个反动的哲学家，平素饱餍了科学的滋味，偶尔对科学发几句牢骚话，就像富贵人家吃厌了鱼肉，常想尝尝咸菜豆腐的风味，这种反动并没有什么大危险",
+      "confidence": 1.0
+    },
+    {
+      "id": "c7",
+      "speaker": "胡适",
+      "claim": "那光焰万丈的科学，决不是这几个玄学鬼摇撼得动的",
+      "target": "科学",
+      "claim_type": "价值评价",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "那光焰万丈的科学，决不是这几个玄学鬼摇撼得动的",
+      "confidence": 1.0
+    },
+    {
+      "id": "c8",
+      "speaker": "胡适",
+      "claim": "中国此时还不曾享着科学的赐福，更谈不到科学带来的“灾难”",
+      "target": "科学",
+      "claim_type": "社会理论主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "中国此时还不曾享着科学的赐福，更谈不到科学带来的“灾难”",
+      "confidence": 1.0
+    },
+    {
+      "id": "c9",
+      "speaker": "胡适",
+      "claim": "我们那里配排斥科学",
+      "target": "科学",
+      "claim_type": "价值评价",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "我们那里配排斥科学",
+      "confidence": 1.0
+    },
+    {
+      "id": "c10",
+      "speaker": "胡适",
+      "claim": "中国人的人生观还不曾和科学行见面礼呢",
+      "target": "人生观",
+      "claim_type": "社会理论主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "中国人的人生观还不曾和科学行见面礼呢",
+      "confidence": 1.0
+    }
+  ],
+  "relations": [
+    {
+      "id": "r1",
+      "head": "《欧游心影录》",
+      "head_type": "著作",
+      "relation": "导致",
+      "tail": "科学在中国的尊严就远不如前了",
+      "tail_type": "观点",
+      "polarity": "negative",
+      "evidence": "自从《欧游心影录》发表之后，科学在中国的尊严就远不如前了",
+      "confidence": 1.0
+    },
+    {
+      "id": "r2",
+      "head": "反动的哲学家",
+      "head_type": "阵营/群体",
+      "relation": "批评",
+      "tail": "科学",
+      "tail_type": "概念",
+      "polarity": "negative",
+      "evidence": "几个反动的哲学家，平素饱餍了科学的滋味，偶尔对科学发几句牢骚话",
+      "confidence": 1.0
+    },
+    {
+      "id": "r3",
+      "head": "玄学鬼",
+      "head_type": "比喻/类比",
+      "relation": "批评",
+      "tail": "科学",
+      "tail_type": "概念",
+      "polarity": "negative",
+      "evidence": "那光焰万丈的科学，决不是这几个玄学鬼摇撼得动的",
+      "confidence": 1.0
+    },
+    {
+      "id": "r4",
+      "head": "胡适",
+      "head_type": "人物",
+      "relation": "批评",
+      "tail": "中国人的人生观还不曾和科学行见面礼呢",
+      "tail_type": "观点",
+      "polarity": "negative",
+      "evidence": "中国人的人生观还不曾和科学行见面礼呢",
+      "confidence": 1.0
+    }
+  ],
+  "definitions": [
+    {
+      "id": "def1",
+      "term": "人生观",
+      "definition": "中国人的人生观包括做官发财、靠天吃饭、求神问卜、安士全书、太上感应篇等类型",
+      "evidence": "至于“人生观”，我们只有做官发财的人生观，只有靠天吃饭的人生观，只有求神问卜的人生观，只有《安士全书》的人生观，只有《太上感应篇》的人生观",
+      "confidence": 1.0
+    }
+  ],
+  "citations": [
+    {
+      "id": "cit1",
+      "citer": "胡适",
+      "quoted_author": "梁任公",
+      "quoted_work": "《欧游心影录》",
+      "quoted_claim": "欧洲科学破产了",
+      "function": "作为批评对象",
+      "evidence": "自从《欧游心影录》发表之后，科学在中国的尊严就远不如前了。一般不曾出国门的老先生很高兴地喊着：“欧洲科学破产了！梁任公这样说的。”",
+      "confidence": 1.0
+    }
+  ],
+  "rhetorical_devices": [
+    {
+      "id": "rh1",
+      "expression": "谣言这件东西，就同野火一样，是易放而难收的",
+      "device_type": "比喻",
+      "literal_target": "谣言传播迅速且难以控制",
+      "function": "强调梁任公言论的负面影响难以消除",
+      "evidence": "谣言这件东西，就同野火一样，是易放而难收的",
+      "confidence": 1.0
+    },
+    {
+      "id": "rh2",
+      "expression": "打着柏格森、倭伊铿、欧立克……的旗号",
+      "device_type": "比喻",
+      "literal_target": "张君劢等人借用外国哲学家的名义来支持自己的观点",
+      "function": "讽刺张君劢等人缺乏独立主张，只是借用权威",
+      "evidence": "打着柏格森、倭伊铿、欧立克……的旗号",
+      "confidence": 1.0
+    },
+    {
+      "id": "rh3",
+      "expression": "玄学鬼",
+      "device_type": "标签化",
+      "literal_target": "反对科学、提倡玄学的人",
+      "function": "贬低和妖魔化对手，强化科学阵营的正当性",
+      "evidence": "不怕玄学鬼来攻击了",
+      "confidence": 1.0
+    },
+    {
+      "id": "rh4",
+      "expression": "就像富贵人家吃厌了鱼肉，常想尝尝咸菜豆腐的风味",
+      "device_type": "类比",
+      "literal_target": "反动的哲学家对科学的批评只是出于厌倦而非真正反对",
+      "function": "削弱对手批评的严肃性和威胁性",
+      "evidence": "就像富贵人家吃厌了鱼肉，常想尝尝咸菜豆腐的风味",
+      "confidence": 1.0
+    },
+    {
+      "id": "rh5",
+      "expression": "光焰万丈的科学",
+      "device_type": "比喻",
+      "literal_target": "科学具有强大的力量和光辉",
+      "function": "正面渲染科学的强大，增强说服力",
+      "evidence": "那光焰万丈的科学",
+      "confidence": 1.0
+    },
+    {
+      "id": "rh6",
+      "expression": "中国人的人生观还不曾和科学行见面礼呢",
+      "device_type": "拟人",
+      "literal_target": "中国人的人生观尚未受到科学的影响",
+      "function": "形象地说明中国缺乏科学启蒙的现状",
+      "evidence": "中国人的人生观还不曾和科学行见面礼呢",
+      "confidence": 1.0
+    }
+  ],
+  "uncertainties": [
+    {
+      "item": "梁先生是否指梁任公（梁启超）",
+      "reason": "文中先称'梁任公'，后称'梁先生'，但未明确说明'梁先生'就是梁任公，不过根据上下文高度可能指同一人"
+    },
+    {
+      "item": "欧立克是否为人名或笔误",
+      "reason": "欧立克在文本中作为被引用的哲学家出现，但未提供全名或背景，无法确认具体指谁"
+    }
+  ],
+  "_meta": {
+    "status": "success",
+    "stage": "extract",
+    "model": "deepseek-ai/DeepSeek-V4-Flash",
+    "base_url": "https://api.siliconflow.cn/v1",
+    "prompt_version": "extract_prompt_v2.0",
+    "schema_version": "lite_v2.0",
+    "segment_id": "胡适_000_993249d7_s0004",
+    "article_id": "胡适_000_993249d7",
+    "char_start": 1983,
+    "char_end": 2569,
+    "raw_path": "E:\\1研究生\\岭南大学\\论文毕业\\capstone\\资料\\新的内容开始了\\local_upload\\kg_runs\\胡适\\raw_outputs\\extract\\胡适_000_993249d7_s0004.txt",
+    "parsed_at": "2026-05-19T23:47:31",
+    "started_at": "2026-05-19T23:37:52",
+    "elapsed_seconds": 578.77,
+    "strict_evidence_check": true,
+    "drop_unsupported_evidence": true,
+    "request_timeout_seconds": 180
+  }
+}

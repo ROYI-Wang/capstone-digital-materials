@@ -1,0 +1,717 @@
+{
+  "metadata": {
+    "schema_version": "lite_v2.0",
+    "article_id": "胡适_000_993249d7",
+    "article_title": "序二",
+    "source_author": "胡适",
+    "section_title": "",
+    "section_author": "",
+    "segment_id": "胡适_000_993249d7_s0002",
+    "segment_index": 2,
+    "source_file": "E:\\1研究生\\岭南大学\\论文毕业\\capstone\\资料\\新的内容开始了\\local_upload\\input_w3\\胡适.txt"
+  },
+  "entities": [
+    {
+      "id": "e1",
+      "name": "科学",
+      "canonical_name": "科学",
+      "type": "概念",
+      "evidence": "宗教和旧哲学既已被科学打得个旗靡帜乱",
+      "confidence": 1.0
+    },
+    {
+      "id": "e2",
+      "name": "宗教",
+      "canonical_name": "宗教",
+      "type": "概念",
+      "evidence": "宗教和旧哲学既已被科学打得个旗靡帜乱",
+      "confidence": 1.0
+    },
+    {
+      "id": "e3",
+      "name": "旧哲学",
+      "canonical_name": "旧哲学",
+      "type": "概念",
+      "evidence": "宗教和旧哲学既已被科学打得个旗靡帜乱",
+      "confidence": 1.0
+    },
+    {
+      "id": "e4",
+      "name": "科学先生",
+      "canonical_name": "科学先生",
+      "type": "比喻/类比",
+      "evidence": "这位‘科学先生’便自当仁不让起来",
+      "confidence": 1.0
+    },
+    {
+      "id": "e5",
+      "name": "宇宙新大原理",
+      "canonical_name": "宇宙新大原理",
+      "type": "概念",
+      "evidence": "要凭他的试验发明个宇宙新大原理",
+      "confidence": 0.9
+    },
+    {
+      "id": "e6",
+      "name": "各科的小原理",
+      "canonical_name": "各科的小原理",
+      "type": "概念",
+      "evidence": "敢是各科的小原理也是日新月异",
+      "confidence": 0.9
+    },
+    {
+      "id": "e7",
+      "name": "真理",
+      "canonical_name": "真理",
+      "type": "概念",
+      "evidence": "今日认为真理，明日已成谬见",
+      "confidence": 1.0
+    },
+    {
+      "id": "e8",
+      "name": "谬见",
+      "canonical_name": "谬见",
+      "type": "概念",
+      "evidence": "今日认为真理，明日已成谬见",
+      "confidence": 1.0
+    },
+    {
+      "id": "e9",
+      "name": "新权威",
+      "canonical_name": "新权威",
+      "type": "概念",
+      "evidence": "新权威到底树立不来",
+      "confidence":  permalink0.9
+    },
+    {
+      "id": "e10",
+      "name": "旧权威",
+      "canonical_name": "旧权威",
+      "type": "概念",
+      "evidence": "旧权威却是不可恢复了",
+      "confidence": 0.9
+    },
+    {
+      "id": "e11",
+      "name": "乐利主义",
+      "canonical_name": "乐利主义",
+      "type": "主义/学说/理论",
+      "evidence": "所以那些什么乐利主义强权主义越发得势",
+      "confidence": 1.0
+    },
+    {
+      "id": "e12",
+      "name": "强权主义",
+      "canonical_name": "强权主义",
+      "type": "主义/学说/理论",
+      "evidence": "所以那些什么乐利主义强权主义越发得势",
+      "confidence": 1.0
+    },
+    {
+      "id": "e13",
+      "name": "天堂",
+      "canonical_name": "天堂",
+      "type": "概念",
+      "evidence": "死后既没有天堂",
+      "confidence": 1.0
+    },
+    {
+      "id": "e14",
+      "name": "欲望",
+      "canonical_name": "欲望",
+      "type": "概念",
+      "evidence": "只好尽这几十年尽情地快活",
+      "confidence": 0.8
+    },
+    {
+      "id": "e15",
+      "name": "善恶的责任",
+      "canonical_name": "善恶的责任",
+      "type": "概念",
+      "evidence": "善恶既没有责任",
+      "confidence": 1.0
+    },
+    {
+      "id": "e16",
+      "name": "自由竞争",
+      "canonical_name": "自由竞争",
+      "type": "概念",
+      "evidence": "只有凭自己的力量自由竞争起来",
+      "confidence": 1.0
+    },
+    {
+      "id": "e17",
+      "name": "弱肉强食",
+      "canonical_name": "弱肉强食",
+      "type": "概念",
+      "evidence": "质而言之，就是弱肉强食",
+      "confidence": 1.0
+    },
+    {
+      "id": "e18",
+      "name": "军阀",
+      "canonical_name": "军阀",
+      "type": "阵营/群体",
+      "evidence": "近年来什么军阀，什么财阀，都是从这条路产生出来",
+      "confidence": 1.0
+    },
+    {
+      "id": "e19",
+      "name": "财阀",
+      "canonical_name": "财阀",
+      "type": "阵营/群体",
+      "evidence": "近年来什么军阀，什么财阀，都是从这条路产生出来",
+      "confidence": 1.0
+    },
+    {
+      "id": "e20",
+      "name": "这回大战争",
+      "canonical_name": "欧战",
+      "type": "历史事件",
+      "evidence": "这回大战争，便是一个报应",
+      "confidence": Lock0.9
+    },
+    {
+      "id": "e21",
+      "name": "人生观",
+      "canonical_name": "人生观",
+      "type": "概念",
+      "evidence": "在这种人生观底下",
+      "confidence": 1.0
+    },
+    {
+      "id": "e22",
+      "name": "抢面包吃",
+      "canonical_name": "抢面包吃",
+      "type": "比喻/类比",
+      "evidence": "独一无二的目的就是抢面包吃",
+      "confidence": 1.0
+    },
+    {
+      "id": "e23",
+      "name": "宇宙间物质运动的大轮子",
+      "canonical_name": "宇宙间物质运动的大轮子",
+      "type": "比喻/类比",
+      "evidence": "不然就是怕那宇宙间物质运动的大轮子缺了发动力",
+      "confidence": 1.0
+    },
+    {
+      "id": "e24",
+      "name": "燃料",
+      "canonical_name": "燃料",
+      "type": "比喻/类比",
+      "evidence": "特自来供给他燃料",
+      "confidence": 1.0
+    },
+    {
+      "id": "e25",
+      "name": "科学万能",
+      "canonical_name": "科学万能",
+      "type": "观点",
+      "evidence": "当时讴歌科学万能的人",
+      "confidence": 1.0
+    },
+    {
+      "id": "e26",
+      "name": "黄金世界",
+      "canonical_name": "黄金世界",
+      "type": "比喻/类比",
+      "evidence": "满望着科学成功，黄金世界便指日出现",
+      "confidence": 1.0
+    },
+    {
+      "id": "e27",
+      "name": "物质的进步",
+      "canonical_name": "物质的进步",
+      "type": "概念",
+      "evidence": "一百年物质的进步，比从前三千年所得还加几倍",
+      "confidence": 1.0
+    },
+    {
+      "id": "e28",
+      "name": "幸福",
+      "canonical_name": "幸福",
+      "type": "概念",
+      "evidence": "我们人类不惟没有得着幸福，倒反带来许多灾难",
+      "confidence": 1.0
+    },
+    {
+      "id": "e29",
+      "name": "灾难",
+      "canonical_name": "灾难",
+      "type": "概念",
+      "evidence": "倒反带来许多灾难",
+      "confidence": 1.0
+    },
+    {
+      "id": "e30",
+      "name": "人类",
+      "canonical_name": "人类",
+      "type": "阵营/群体",
+      "evidence": "我们人类不惟没有得着幸福",
+      "confidence": 1.0
+    }
+  ],
+  "claims": [
+    {
+      "id": "c1",
+      "speaker": "作者",
+      "claim": "宗教和旧哲学既已被科学打得个旗靡帜乱",
+      "target": "科学",
+      "claim_type": "历史解释",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "宗教和旧哲学既已被科学打得个旗靡帜乱",
+      "confidence": 1.0
+    },
+    {
+      "id": "c2",
+      "speaker": "作者",
+      "claim": "科学先生要凭他的试验发明个宇宙新大原理",
+      "target": "科学先生",
+      "claim_type": "历史解释",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "这位‘科学先生’便自当仁不让起来，要凭他的试验发明个宇宙新大原理",
+      "confidence": 0.9
+    },
+    {
+      "id": "c3",
+      "speaker": "作者",
+      "claim": "各科的小原理也是日新月异，今日认为真理，明日已成谬见",
+      "target": "各科的小原理",
+      "claim_type": "知识论主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "敢是各科的小原理也是日新月异，今日认为真理，明日已成谬见",
+      "confidence": 1.0
+    },
+    {
+      "id": "c4",
+      "speaker": "作者",
+      "claim": "新权威到底树立不来，旧权威却是不可恢复了",
+      "target": "新权威",
+      "claim_type": "社会理论主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "新权威到底树立不来，旧权威却是不可恢复了",
+      "confidence": 1.0
+    },
+    {
+      "id": "c5",
+      "speaker": "作者",
+      "claim": "全社会人心都陷入怀疑沉闷畏惧之中",
+      "target": "全社会人心",
+      "claim_type": "社会理论主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "所以全社会人心，都陷入怀疑沉闷畏惧之中",
+      "confidence": 1.0
+    },
+    {
+      "id": "c6",
+      "speaker": "作者",
+      "claim": "乐利主义强权主义越发得势",
+      "target": "乐利主义",
+      "claim_type": "社会理论主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "所以那些什么乐利主义强权主义越发得势",
+      "confidence": 1.0
+    },
+    {
+      "id": "c7",
+      "speaker": "作者",
+      "claim": "死后既没有天堂，只好尽这几十年尽情地快活",
+      "target": "天堂",
+      "claim_type": "社会理论主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "死后既没有天堂，只好尽这几十年尽情地快活",
+      "confidence": 1.0
+    },
+    {
+      "id": "c8",
+      "speaker": "作者",
+      "claim": "善恶既没有责任，何妨尽我的手段来充满我个人欲望",
+      "target": "善恶的责任",
+      "claim_type": "社会理论主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "善恶既没有责任，何妨尽我的手段来充满我个人欲望",
+      "confidence": 1.0
+    },
+    {
+      "id": "c9",
+      "speaker": "作者",
+      "claim": "享用的物质增加速率，总不能和欲望的升腾同一比例",
+      "target": "欲望",
+      "claim_type": "社会理论主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "然而享用的物质增加速率，总不能和欲望的升腾同一比例",
+      "confidence": 1.0
+    },
+    {
+      "id": "c10",
+      "speaker": "作者",
+      "claim": "只有凭自己的力量自由竞争起来，质而言之，就是弱肉强食",
+      "target": "自由竞争",
+      "claim_type": "社会理论主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "只有凭自己的力量自由竞争起来，质而言之，就是弱肉强食",
+      "confidence": 1.0
+    },
+    {
+      "id": "c11",
+      "speaker": "作者",
+      "claim": "军阀、财阀都是从这条路产生出来",
+      "target": "军阀",
+      "claim_type": "社会理论主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "近年来什么军阀，什么财阀，都是从这条路产生出来",
+      "confidence": 1.0
+    },
+    {
+      "id": "c12",
+      "speaker": "作者",
+      "claim": "这回大战争，便是一个报应",
+      "target": "这回大战争",
+      "claim_type": "历史解释",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "这回大战争，便是一个报应",
+      "confidence": 1.0
+    },
+    {
+      "id": "c13",
+      "speaker": "作者",
+      "claim": "在这种人生观底下，千千万万人前脚接后脚的来这世界走一趟住几十年，独一无二的目的就是抢面包吃",
+      "target": "人生观",
+      "claim_type": "社会理论主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "在这种人生观底下，那么千千万万人前脚接后脚的来这世界走一趟住几十年，干什么呢？独一无二的目的就是抢面包吃",
+      "confidence": 1.0
+    },
+    {
+      "id": "c14",
+      "speaker": "作者",
+      "claim": "不然就是怕那宇宙间物质运动的大轮子缺了发动力，特自来供给他燃料",
+      "target": "宇宙间物质运动的大轮子",
+      "claim_type": "社会理论主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "不然就是怕那宇宙间物质运动的大轮子缺了发动力，特自来供给他燃料",
+      "confidence": 1.0
+    },
+    {
+      "id": "c15",
+      "speaker": "作者",
+      "claim": "人生还有一毫意味，人类还有一毫价值吗",
+      "target": "人生",
+      "claim_type": "价值评价",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "果真这样，人生还有一毫意味，人类还有一毫价值吗",
+      "confidence": 1.0
+    },
+    {
+      "id": "c16",
+      "speaker": "作者",
+      "claim": "当科学全盛时代，那主要的思潮，却是偏在这方面",
+      "target": "科学全盛时代",
+      "claim_type": "历史解释",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "无奈当科学全盛时代，那主要的思潮，却是偏在这方面",
+      "confidence": 0.9
+    },
+    {
+      "id": "c17",
+      "speaker": "作者",
+      "claim": "当时讴歌科学万能的人，满望着科学成功，黄金世界便指日出现",
+      "target": "科学万能",
+      "claim_type": "历史解释",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "当时讴歌科学万能的人，满望着科学成功，黄金世界便指日出现",
+      "confidence": 1.0
+    },
+    {
+      "id": "c18",
+      "speaker": "作者",
+      "claim": "一百年物质的进步，比从前三千年所得还加几倍",
+      "target": "物质的进步",
+      "claim_type": "历史解释",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "一百年物质的进步，比从前三千年所得还加几倍",
+      "confidence": 1.0
+    },
+    {
+      "id": "c19",
+      "speaker": "作者",
+      "claim": "我们人类不惟没有得着幸福，倒反带来许多灾难",
+      "target": "人类",
+      "claim_type": "价值评价",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "我们人类不惟没有得着幸福，倒反带来许多灾难",
+      "confidence": 1.0
+    }
+  ],
+  "relations": [
+    {
+      "id": "r1",
+      "head": "科学",
+      "head_type": "概念",
+      "relation": "导致",
+      "relation_subtype": "不适用",
+      "tail": "宗教",
+      "tail_type": "概念",
+      "polarity": "negative",
+      "evidence": "宗教和旧哲学既已被科学打得个旗靡帜乱",
+      "confidence": 1.0
+    },
+    {
+      "id": "r2",
+      "head": "科学",
+      "head_type": "概念",
+      "relation": "导致",
+      "relation_subtype": "不适用",
+      "tail": "旧哲学",
+      "tail_type": "概念",
+      "polarity": "negative",
+      "evidence": "宗教和旧哲学既已被科学打得个旗靡帜乱",
+      "confidence": 1.0
+    },
+    {
+      "id": "r3",
+      "head": "各科的小原理",
+      "head_type": "概念",
+      "relation": "导致",
+      "relation_subtype": "不适用",
+      "tail": "新权威",
+      "tail_type": "概念",
+      "polarity": "negative",
+      "evidence": "敢是各科的小原理也是日新月异，今日认为真理，明日已成谬见。新权威到底树立不来",
+      "confidence": 0.9
+    },
+    {
+      "id": "r4",
+      "head": "新权威",
+      "head_type": "概念",
+      "relation": "导致",
+      "relation_subtype": "不适用",
+      "tail": "全社会人心",
+      "tail_type": "阵营/群体",
+      "polarity": "negative",
+      "evidence": "新权威到底树立不来，旧权威却是不可恢复了。所以全社会人心，都陷入怀疑沉闷畏惧之中",
+      "confidence": 0.9
+    },
+    {
+      "id": "r5",
+      "head": "全社会人心",
+      "head_type": "阵营/群体",
+      "relation": "导致",
+      "relation_subtype": "不适用",
+      "tail": "乐利主义",
+      "tail_type": "主义/学说/理论",
+      "polarity": "negative",
+      "evidence": "所以全社会人心，都陷入怀疑沉闷畏惧之中，好像失了罗针的海船遇着风雾，不知前途怎生是好。既然如此，所以那些什么乐利主义强权主义越发得势",
+      "confidence": 0.9
+    },
+    {
+      "id": "r6",
+      "head": "全社会人心",
+      "head_type": "阵营/群体",
+      "relation": "导致",
+      "relation_subtype": "不适用",
+      "tail": "强权主义",
+      "tail_type": "主义/学说/理论",
+      "polarity": "negative",
+      "evidence": "所以全社会人心，都陷入怀疑沉闷畏惧之中，好像失了罗针的海船遇着风雾，不知前途怎生是好。既然如此，所以那些什么乐利主义强权主义越发得势",
+      "confidence": 0.9
+    },
+    {
+      "id": "r7",
+      "head": "乐利主义",
+      "head_type": "主义/学说/理论",
+      "relation": "导致",
+      "relation_subtype": "不适用",
+      "tail": "欲望",
+      "tail_type": "概念",
+      "polarity": "negative",
+      "evidence": "死后既没有天堂，只好尽这几十年尽情地快活。善恶既没有责任，何妨尽我的手段来充满我个人欲望",
+      "confidence": 0.9
+    },
+    {
+      "id": "r8",
+      "head": "欲望",
+      "head_type": "概念",
+      "relation": "导致",
+      "relation_subtype": "不适用",
+      "tail": "自由竞争",
+      "tail_type": "概念",
+      "polarity": "negative",
+      "evidence": "然而享用的物质增加速率，总不能和欲望的升腾同一比例，而且没有法子令他均衡。怎么好呢？只有凭自己的力量自由竞争起来",
+      "confidence": 0.9
+    },
+    {
+      "id": "r9",
+      "head": "自由竞争",
+      "head_type": "概念",
+      "relation": "导致",
+      "relation_subtype": "不适用",
+      "tail": "弱肉强食",
+      "tail_type": "概念",
+      "polarity": "negative",
+      "evidence": "只有凭自己的力量自由竞争起来，质而言之，就是弱肉强食",
+      "confidence": 1.0
+    },
+    {
+      "id": "r10",
+      "head": "弱肉强食",
+      "head_type": "概念",
+      "relation": "导致",
+      "relation_subtype": "不适用",
+      "tail": "军阀",
+      "tail_type": "阵营/群体",
+      "polarity": "negative",
+      "evidence": "近年来什么军阀，什么财阀，都是从这条路产生出来",
+      "confidence": 1.0
+    },
+    {
+      "id": "r11",
+      "head": "弱肉强食",
+      "head_type": "概念",
+      "relation": "导致",
+      "relation_subtype": "不适用",
+      "tail": "财阀",
+      "tail_type": "阵营/群体",
+      "polarity": "negative",
+      "evidence": "近年来什么军阀，什么财阀，都是从这条路产生出来",
+      "confidence": 1.0
+    },
+    {
+      "id": "r12",
+      "head": "弱肉强食",
+      "head_type": "概念",
+      "relation": "导致",
+      "relation_subtype": "不适用",
+      "tail": "这回大战争",
+      "tail_type": "历史事件",
+      "polarity": "negative",
+      "evidence": "近年来什么军阀，什么财阀，都是从这条路产生出来。这回大战争，便是一个报应",
+      "confidence": 0.9
+    },
+    {
+      "id": "r13",
+      "head": "科学万能",
+      "head_type": "观点",
+      "relation": "导致",
+      "relation_subtype": "不适用",
+      "tail": "物质的进步",
+      "tail_type": "概念",
+      "polarity": "neutral",
+      "evidence": "当时讴歌科学万能的人，满望着科学成功，黄金世界便指日出现。如今功总算成了，一百年物质的进步，比从前三千年所得还加几倍",
+      "confidence": 0.9
+    },
+    {
+      "id": "r14",
+      "head": "物质的进步",
+      "head_type": "概念",
+      "relation": "导致",
+      "relation_subtype": "不适用",
+      "tail": "灾难",
+      "tail_type": "概念",
+      "polarity": "negative",
+      "evidence": "我们人类不惟没有得着幸福，倒反带来许多灾难",
+      "confidence": ickle0.9
+    }
+  ],
+  "definitions": [],
+  "citations": [],
+  "rhetorical_devices": [
+    {
+      "id": "rh1",
+      "expression": "旗靡帜乱",
+      "device_type": "比喻",
+      "literal_target": "宗教和旧哲学被科学击败",
+      "function": "形象化描述科学对宗教和旧哲学的冲击",
+      "evidence": "宗教和旧哲学既已被科学打得个旗靡帜乱",
+      "confidence": 1.0
+    },
+    {
+      "id": "rh2",
+      "expression": "科学先生",
+      "device_type": "拟人",
+      "literal_target": "科学",
+      "function": "讽刺科学被赋予权威和人格化",
+      "evidence": "这位‘科学先生’便自当仁不让起来",
+      "confidence": 1.0
+    },
+    {
+      "id": "rh3",
+      "expression": "失了罗针的海船遇着风雾",
+      "device_type": "比喻",
+      "literal_target": "全社会人心陷入怀疑沉闷畏惧",
+      "function": "形象化描述社会心理状态",
+      "evidence": "好像失了罗针的海船遇着风雾，不知前途怎生是好",
+      "confidence": 1.0
+    },
+    {
+      "id": "rh4",
+      "expression": "抢面包吃",
+      "device_type": "比喻",
+      "literal_target": "人生目的仅为物质生存",
+      "function": "讽刺人生观的低俗和物质化",
+      "evidence": "独一无二的目的就是抢面包吃",
+      "confidence": 1.0
+    },
+    {
+      "id": "rh5",
+      "expression": "宇宙间物质运动的大轮子",
+      "device_type": "比喻",
+      "literal_target": "宇宙物质运动机制",
+      "function": "讽刺人类被工具化",
+      "evidence": "不然就是怕那宇宙间物质运动的大轮子缺了发动力，特自来供给他燃料",
+      "confidence": 1.0
+    },
+    {
+      "id": "rh6",
+      "expression": "燃料",
+      "device_type": "比喻",
+      "literal_target": "人类自身",
+      "function": "讽刺人类沦为宇宙机器的消耗品",
+      "evidence": "特自来供给他燃料",
+      "confidence": 1.0
+    },
+    {
+      "id": "rh7",
+      "expression": "黄金世界",
+      "device_type": "比喻",
+      "literal_target": "理想社会",
+      "function": "讽刺科学万能论者的空想",
+      "evidence": "满望着科学成功，黄金世界便指日出现",
+      "confidence": 1.0
+    }
+  ],
+  "uncertainties": [
+    {
+      "item": "文本中“现今思想界最大的危机就在这一点”的“这一点”具体指代什么",
+      "reason": "前文缺失，无法确定具体指代内容"
+    },
+    {
+      "item": "“这回大战争”是否确指第一次世界大战",
+      "reason": "文本未明确说明，但根据历史背景推测"
+    },
+    {
+      "item": "“当科学全盛时代，那主要的思潮，却是偏在这方面”中的“这方面”具体指代什么",
+      "reason": "前文缺失，无法确定具体指代"
+    }
+  ]
+}

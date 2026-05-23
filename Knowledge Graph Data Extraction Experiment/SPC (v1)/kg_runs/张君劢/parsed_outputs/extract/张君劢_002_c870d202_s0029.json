@@ -1,0 +1,304 @@
+{
+  "metadata": {
+    "schema_version": "lite_v2.0",
+    "article_id": "张君劢_002_c870d202",
+    "article_title": "再论人生观与科学并答丁在君",
+    "source_author": "张君劢",
+    "section_title": "",
+    "section_author": "",
+    "segment_id": "张君劢_002_c870d202_s0029",
+    "segment_index": 29,
+    "source_file": "E:\\1研究生\\岭南大学\\论文毕业\\capstone\\资料\\新的内容开始了\\local_upload\\input_w3\\张君劢.txt"
+  },
+  "entities": [
+    {
+      "id": "e1",
+      "name": "物质文明",
+      "canonical_name": "物质文明",
+      "type": "概念",
+      "evidence": "物质文明与精神文明二名词之说明",
+      "confidence": 1.0
+    },
+    {
+      "id": "e2",
+      "name": "精神文明",
+      "canonical_name": "精神文明",
+      "type": "概念",
+      "evidence": "物质文明与精神文明二名词之说明",
+      "confidence": 1.0
+    },
+    {
+      "id": "e3",
+      "name": "物质",
+      "canonical_name": "物质",
+      "type": "概念",
+      "evidence": "何者为物质，何者为精神",
+      "confidence": 1.0
+    },
+    {
+      "id": "e4",
+      "name": "精神",
+      "canonical_name": "精神",
+      "type": "概念",
+      "evidence": "何者为物质，何者为精神",
+      "confidence": 1.0
+    },
+    {
+      "id": "e5",
+      "name": "科学家",
+      "canonical_name": "科学家",
+      "type": "阵营/群体",
+      "evidence": "使人类能利用自然界生财的是科学家",
+      "confidence": 1.0
+    },
+    {
+      "id": "e6",
+      "name": "告子",
+      "canonical_name": "告子",
+      "type": "人物",
+      "evidence": "告子有仁内义外之说",
+      "confidence": 1.0
+    },
+    {
+      "id": "e7",
+      "name": "宋学家",
+      "canonical_name": "宋学家",
+      "type": "阵营/群体",
+      "evidence": "宋学家有尊德性道学问之争",
+      "confidence": 1.0
+    }
+  ],
+  "claims": [
+    {
+      "id": "c1",
+      "speaker": "丁在君",
+      "claim": "试验室是求真理所在，工厂是发财的机关",
+      "target": "物质文明",
+      "claim_type": "定义性主张",
+      "claim_status": "直接引用",
+      "polarity": "neutral",
+      "evidence": "在君引吾批评物质文明之语，系之以说明曰：“试验室是求真理所在，工厂是发财的机关。”",
+      "confidence": 1.0
+    },
+    {
+      "id": "c2",
+      "speaker": "丁在君",
+      "claim": "使人类能利用自然界生财的是科学家，建筑工厂……的何尝是科学家",
+      "target": "科学家",
+      "claim_type": "定义性主张",
+      "claim_status": "直接引用",
+      "polarity": "neutral",
+      "evidence": "又曰：“使人类能利用自然界生财的是科学家，建筑工厂……的何尝是科学家？”",
+      "confidence": 1.0
+    },
+    {
+      "id": "c3",
+      "speaker": "张君劢",
+      "claim": "此中限界，吾之原文本极明白，无待在君之辨别",
+      "target": "丁在君",
+      "claim_type": "论战策略批评",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "此中限界，吾之原文本极明白，无待在君之辨别。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c4",
+      "speaker": "张君劢",
+      "claim": "在君文中绝无一语为物质文明辩护",
+      "target": "丁在君",
+      "claim_type": "价值评价",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "吾所深喜者，则在君文中绝无一语为物质文明辩护是也。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c5",
+      "speaker": "张君劢",
+      "claim": "其于我之根本精神全未明了",
+      "target": "丁在君",
+      "claim_type": "论战策略批评",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "惟其于我之根本精神全未明了，故不可不论之。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c6",
+      "speaker": "张君劢",
+      "claim": "手之所触，目之所见者，谓为物质",
+      "target": "物质",
+      "claim_type": "定义性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "手之所触，目之所见者，谓为物质。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c7",
+      "speaker": "张君劢",
+      "claim": "心思之运用，则非手之所能触，目之所能见，故不谓为物质，而谓为精神",
+      "target": "精神",
+      "claim_type": "定义性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "若夫心思之运用，则非手之所能触，目之所能见，故不谓为物质，而谓为精神。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c8",
+      "speaker": "张君劢",
+      "claim": "同为精神，又有先后轻重之别",
+      "target": "精神",
+      "claim_type": "定义性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "虽然，同为精神，又有先后轻重之别。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c9",
+      "speaker": "张君劢",
+      "claim": "世界既无不衣不食不住之民族，则其文化中孰能免于物质的成分",
+      "target": "物质文明",
+      "claim_type": "结论性主张",
+      "claim_status": "作者推论",
+      "polarity": "neutral",
+      "evidence": "世界既无不衣不食不住之民族，则其文化中孰能免于物质的成分？",
+      "confidence": 1.0
+    }
+  ],
+  "relations": [
+    {
+      "id": "r1",
+      "head": "张君劢",
+      "head_type": "人物",
+      "relation": "定义",
+      "tail": "物质",
+      "tail_type": "概念",
+      "polarity": "neutral",
+      "evidence": "手之所触，目之所见者，谓为物质。",
+      "confidence": 1.0
+    },
+    {
+      "id": "r2",
+      "head": "张君劢",
+      "head_type": "人物",
+      "relation": "定义",
+      "tail": "精神",
+      "tail_type": "概念",
+      "polarity": "neutral",
+      "evidence": "若夫心思之运用，则非手之所能触，目之所能见，故不谓为物质，而谓为精神。",
+      "confidence": 1.0
+    },
+    {
+      "id": "r3",
+      "head": "张君劢",
+      "head_type": "人物",
+      "relation": "区分",
+      "tail": "物质文明",
+      "tail_type": "概念",
+      "polarity": "neutral",
+      "evidence": "物质文明与精神文明二名词之说明。",
+      "confidence": 1.0
+    },
+    {
+      "id": "r4",
+      "head": "张君劢",
+      "head_type": "人物",
+      "relation": "区分",
+      "tail": "精神文明",
+      "tail_type": "概念",
+      "polarity": "neutral",
+      "evidence": "物质文明与精神文明二名词之说明。",
+      "confidence": 1.0
+    },
+    {
+      "id": "r5",
+      "head": "张君劢",
+      "head_type": "人物",
+      "relation": "相关",
+      "tail": "告子",
+      "tail_type": "人物",
+      "polarity": "neutral",
+      "evidence": "告子有仁内义外之说",
+      "confidence": 1.0
+    },
+    {
+      "id": "r6",
+      "head": "张君劢",
+      "head_type": "人物",
+      "relation": "相关",
+      "tail": "宋学家",
+      "tail_type": "阵营/群体",
+      "polarity": "neutral",
+      "evidence": "宋学家有尊德性道学问之争",
+      "confidence": 1.0
+    }
+  ],
+  "definitions": [
+    {
+      "id": "def1",
+      "term": "物质",
+      "definition": "手之所触，目之所见者，谓为物质",
+      "evidence": "手之所触，目之所见者，谓为物质。",
+      "confidence": 1.0
+    },
+    {
+      "id": "def2",
+      "term": "精神",
+      "definition": "心思之运用，非手所能触、目所能见，故不谓为物质，而谓为精神",
+      "evidence": "若夫心思之运用，则非手之所能触，目之所能见，故不谓为物质，而谓为精神。",
+      "confidence": 1.0
+    }
+  ],
+  "citations": [
+    {
+      "id": "cit1",
+      "citer": "张君劢",
+      "quoted_author": "丁在君",
+      "quoted_work": "",
+      "quoted_claim": "试验室是求真理所在，工厂是发财的机关",
+      "function": "作为批评对象",
+      "evidence": "在君引吾批评物质文明之语，系之以说明曰：“试验室是求真理所在，工厂是发财的机关。”",
+      "confidence": 1.0
+    },
+    {
+      "id": "cit2",
+      "citer": "张君劢",
+      "quoted_author": "丁在君",
+      "quoted_work": "",
+      "quoted_claim": "使人类能利用自然界生财的是科学家，建筑工厂……的何尝是科学家",
+      "function": "作为批评对象",
+      "evidence": "又曰：“使人类能利用自然界生财的是科学家，建筑工厂……的何尝是科学家？”",
+      "confidence": 1.0
+    }
+  ],
+  "rhetorical_devices": [],
+  "uncertainties": [
+    {
+      "item": "告子“仁内义外之说”与宋学家“尊德性道学问之争”的具体内容未在文本中展开，仅作为例证提及",
+      "reason": "文本仅提及名称，未提供具体主张，无法进一步抽取"
+    }
+  ],
+  "_meta": {
+    "status": "success",
+    "stage": "extract",
+    "model": "deepseek-ai/DeepSeek-V4-Flash",
+    "base_url": "https://api.siliconflow.cn/v1",
+    "prompt_version": "extract_prompt_v2.0",
+    "schema_version": "lite_v2.0",
+    "segment_id": "张君劢_002_c870d202_s0029",
+    "article_id": "张君劢_002_c870d202",
+    "char_start": 14529,
+    "char_end": 15125,
+    "raw_path": "E:\\1研究生\\岭南大学\\论文毕业\\capstone\\资料\\新的内容开始了\\local_upload\\kg_runs\\张君劢\\raw_outputs\\extract\\张君劢_002_c870d202_s0029.txt",
+    "parsed_at": "2026-05-20T04:07:31",
+    "started_at": "2026-05-20T04:07:13",
+    "elapsed_seconds": 18.181,
+    "strict_evidence_check": true,
+    "drop_unsupported_evidence": true,
+    "request_timeout_seconds": 180
+  }
+}

@@ -1,0 +1,505 @@
+{
+  "metadata": {
+    "schema_version": "lite_v2.0",
+    "article_id": "胡适_000_993249d7",
+    "article_title": "序二",
+    "source_author": "胡适",
+    "section_title": "",
+    "section_author": "",
+    "segment_id": "胡适_000_993249d7_s0016",
+    "segment_index": 16,
+    "source_file": "E:\\1研究生\\岭南大学\\论文毕业\\capstone\\资料\\新的内容开始了\\local_upload\\input_w3\\胡适.txt"
+  },
+  "entities": [
+    {
+      "id": "e1",
+      "name": "柯白尼太阳居中说",
+      "canonical_name": "哥白尼日心说",
+      "type": "概念",
+      "evidence": "柯白尼太阳居中说",
+      "confidence": 0.9
+    },
+    {
+      "id": "e2",
+      "name": "达尔文的人猿同祖说",
+      "canonical_name": "达尔文进化论",
+      "type": "概念",
+      "evidence": "达尔文的人猿同祖说",
+      "confidence": 0.9
+    },
+    {
+      "id": "e3",
+      "name": "人生观",
+      "canonical_name": "人生观",
+      "type": "概念",
+      "evidence": "世界人类的人生观起绝大变动",
+      "confidence": 1.0
+    },
+    {
+      "id": "e4",
+      "name": "直觉的",
+      "canonical_name": "直觉",
+      "type": "概念",
+      "evidence": "若人生观是直觉的、无因的",
+      "confidence": 0.9
+    },
+    {
+      "id": "e5",
+      "name": "无因的",
+      "canonical_name": "无因",
+      "type": "概念",
+      "evidence": "若人生观是直觉的、无因的",
+      "confidence": 0.9
+    },
+    {
+      "id": "e6",
+      "name": "自然界的知识",
+      "canonical_name": "自然知识",
+      "type": "概念",
+      "evidence": "何以随自然界的知识而变更呢",
+      "confidence": 0.9
+    },
+    {
+      "id": "e7",
+      "name": "知识经验",
+      "canonical_name": "知识经验",
+      "type": "概念",
+      "evidence": "深信人生观是因知识经验而变换的",
+      "confidence": 0.9
+    },
+    {
+      "id": "e8",
+      "name": "宣传",
+      "canonical_name": "宣传",
+      "type": "概念",
+      "evidence": "深信宣传与教育的效果可以使人类的人生观得着一个最低限度的一致",
+      "confidence": 0.9
+    },
+    {
+      "id": "e9",
+      "name": "教育",
+      "canonical_name": "教育",
+      "type": "概念",
+      "evidence": "深信宣传与教育的效果可以使人类的人生观得着一个最低限度的一致",
+      "confidence": 0.9
+    },
+    {
+      "id": "e10",
+      "name": "科学的人生观",
+      "canonical_name": "科学人生观",
+      "type": "概念",
+      "evidence": "拿今日科学家平心静气地、破除成见地公同承认的“科学的人生观”来做人类人生观的最低限度的一致",
+      "confidence": 0.9
+    },
+    {
+      "id": "e11",
+      "name": "有神论",
+      "canonical_name": "有神论",
+      "type": "主义/学说/理论",
+      "evidence": "宗教的功效已曾使有神论和灵魂不灭论统一欧洲（其实何止欧洲？）的人生观至千余年之久",
+      "confidence": 0.9
+    },
+    {
+      "id": "e12",
+      "name": "灵魂不灭论",
+      "canonical_name": "灵魂不灭论",
+      "type": "主义/学说/理论",
+      "evidence": "宗教的功效已曾使有神论和灵魂不灭论统一欧洲（其实何止欧洲？）的人生观至千余年之久",
+      "confidence": 0.9
+    },
+    {
+      "id": "e13",
+      "name": "新人生观",
+      "canonical_name": "新人生观",
+      "type": "概念",
+      "evidence": "我们应该准备替这个新人生观作长期的奋斗",
+      "confidence": 0.9
+    },
+    {
+      "id": "e14",
+      "name": "新信仰",
+      "canonical_name": "新信仰",
+      "type": "概念",
+      "evidence": "宣传我们的“新信仰”",
+      "confidence": 0.9
+    },
+    {
+      "id": "e15",
+      "name": "旧信仰",
+      "canonical_name": "旧信仰",
+      "type": "概念",
+      "evidence": "新信仰总免不了和旧信仰冲突的事",
+      "confidence": 0.9
+    },
+    {
+      "id": "e16",
+      "name": "林宰平",
+      "canonical_name": "林宰平",
+      "type": "人物",
+      "evidence": "并不是像林宰平先生形容的“摩哈默得式”的武力统一",
+      "confidence": 0.9
+    },
+    {
+      "id": "e17",
+      "name": "胡适",
+      "canonical_name": "胡适",
+      "type": "人物",
+      "evidence": "我的答案是",
+      "confidence": 1.0
+    },
+    {
+      "id": "e18",
+      "name": "科学家",
+      "canonical_name": "科学家",
+      "type": "阵营/群体",
+      "evidence": "拿今日科学家平心静气地、破除成见地公同承认的“科学的人生观”",
+      "confidence": 0.9
+    },
+    {
+      "id": "e19",
+      "name": "宗教",
+      "canonical_name": "宗教",
+      "type": "概念",
+      "evidence": "宗教的功效已曾使有神论和灵魂不灭论统一欧洲",
+      "confidence": 0.9
+    },
+    {
+      "id": "e20",
+      "name": "欧洲",
+      "canonical_name": "欧洲",
+      "type": "概念",
+      "evidence": "统一欧洲（其实何止欧洲？）的人生观至千余年之久",
+      "confidence": 0.9
+    }
+  ],
+  "claims": [
+    {
+      "id": "c1",
+      "speaker": "胡适",
+      "claim": "柯白尼太阳居中说和达尔文的人猿同祖说发明以后，世界人类的人生观起绝大变动",
+      "target": "人生观",
+      "claim_type": "历史解释",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "柯白尼太阳居中说，同后来的达尔文的人猿同祖说发明以后，世界人类的人生观起绝大变动；这是无可疑的历史事实",
+      "confidence": 0.95
+    },
+    {
+      "id": "c2",
+      "speaker": "胡适",
+      "claim": "若人生观是直觉的、无因的，何以随自然界的知识而变更呢",
+      "target": "人生观",
+      "claim_type": "反驳性主张",
+      "claim_status": "作者推论",
+      "polarity": "negative",
+      "evidence": "若人生观是直觉的、无因的，何以随自然界的知识而变更呢",
+      "confidence": 0.9
+    },
+    {
+      "id": "c3",
+      "speaker": "胡适",
+      "claim": "人生观是因知识经验而变换的",
+      "target": "人生观",
+      "claim_type": "知识论主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "我们因为深信人生观是因知识经验而变换的",
+      "confidence": 0.95
+    },
+    {
+      "id": "c4",
+      "speaker": "胡适",
+      "claim": "宣传与教育的效果可以使人类的人生观得着一个最低限度的一致",
+      "target": "人生观",
+      "claim_type": "方法论主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "深信宣传与教育的效果可以使人类的人生观得着一个最低限度的一致",
+      "confidence": 0.9
+    },
+    {
+      "id": "c5",
+      "speaker": "胡适",
+      "claim": "拿今日科学家平心静气地、破除成见地公同承认的“科学的人生观”来做人类人生观的最低限度的一致",
+      "target": "科学的人生观",
+      "claim_type": "方法论主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "我的答案是：拿今日科学家平心静气地、破除成见地公同承认的“科学的人生观”来做人类人生观的最低限度的一致",
+      "confidence": 0.95
+    },
+    {
+      "id": "c6",
+      "speaker": "胡适",
+      "claim": "宗教的功效已曾使有神论和灵魂不灭论统一欧洲的人生观至千余年之久",
+      "target": "有神论",
+      "claim_type": "历史解释",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "宗教的功效已曾使有神论和灵魂不灭论统一欧洲（其实何止欧洲？）的人生观至千余年之久",
+      "confidence": 0.9
+    },
+    {
+      "id": "c7",
+      "speaker": "胡适",
+      "claim": "假使我们信仰的“科学的人生观”将来靠教育与宣传的功效，也能有“有神论”和“灵魂不灭论”在中世欧洲那样的风行，那样的普遍，那也可算是我所谓“大同小异的一致”了",
+      "target": "科学的人生观",
+      "claim_type": "结论性主张",
+      "claim_status": "假设情境",
+      "polarity": "positive",
+      "evidence": "假使我们信仰的“科学的人生观”将来靠教育与宣传的功效，也能有“有神论”和“灵魂不灭论”在中世欧洲那样的风行，那样的普遍，那也可算是我所谓“大同小异的一致”了",
+      "confidence": 0.9
+    },
+    {
+      "id": "c8",
+      "speaker": "胡适",
+      "claim": "我们应该准备替这个新人生观作长期的奋斗",
+      "target": "新人生观",
+      "claim_type": "方法论主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "我们若要希望人类的人生观逐渐做到大同小异的一致，我们应该准备替这个新人生观作长期的奋斗",
+      "confidence": 0.9
+    },
+    {
+      "id": "c9",
+      "speaker": "胡适",
+      "claim": "我们所谓“奋斗”，并不是像林宰平先生形容的“摩哈默得式”的武力统一",
+      "target": "林宰平",
+      "claim_type": "论战策略批评",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "我们所谓“奋斗”，并不是像林宰平先生形容的“摩哈默得式”的武力统一",
+      "confidence": 0.9
+    },
+    {
+      "id": "c10",
+      "speaker": "胡适",
+      "claim": "用光明磊落的态度，诚恳的言论，宣传我们的“新信仰”，继续不断的宣传，要使今日少数人的信仰逐渐变成将来大多数人的信仰",
+      "target": "新信仰",
+      "claim_type": "方法论主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "只是用光明磊落的态度，诚恳的言论，宣传我们的“新信仰”，继续不断的宣传，要使今日少数人的信仰逐渐变成将来大多数人的信仰",
+      "confidence": 0.9
+    },
+    {
+      "id": "c11",
+      "speaker": "胡适",
+      "claim": "新信仰总免不了和旧信仰冲突的事",
+      "target": "新信仰",
+      "claim_type": "社会理论主张",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "新信仰总免不了和旧信仰冲突的事",
+      "confidence": 0.9
+    }
+  ],
+  "relations": [
+    {
+      "id": "r1",
+      "head": "柯白尼太阳居中说",
+      "head_type": "概念",
+      "relation": "导致",
+      "relation_subtype": "不适用",
+      "tail": "人生观",
+      "tail_type": "概念",
+      "polarity": "positive",
+      "evidence": "柯白尼太阳居中说，同后来的达尔文的人猿同祖说发明以后，世界人类的人生观起绝大变动",
+      "confidence": 0.9
+    },
+    {
+      "id": "r2",
+      "head": "达尔文的人猿同祖说",
+      "head_type": "概念",
+      "relation": "导致",
+      "relation_subtype": "不适用",
+      "tail": "人生观",
+      "tail_type": "概念",
+      "polarity": "positive",
+      "evidence": "柯白尼太阳居中说，同后来的达尔文的人猿同祖说发明以后，世界人类的人生观起绝大变动",
+      "confidence": 0.9
+    },
+    {
+      "id": "r3",
+      "head": "自然界的知识",
+      "head_type": "概念",
+      "relation": "导致",
+      "relation_subtype": "不适用",
+      "tail": "人生观",
+      "tail_type": "概念",
+      "polarity": "positive",
+      "evidence": "何以随自然界的知识而变更呢",
+      "confidence": 0.8
+    },
+    {
+      "id": "r4",
+      "head": "知识经验",
+      "head_type": "概念",
+      "relation": "导致",
+      "relation_subtype": "不适用",
+      "tail": "人生观",
+      "tail_type": "概念",
+      "polarity": "positive",
+      "evidence": "深信人生观是因知识经验而变换的",
+      "confidence": 0.9
+    },
+    {
+      "id": "r5",
+      "head": "宣传",
+      "head_type": "概念",
+      "relation": "导致",
+      "relation_subtype": "不适用",
+      "tail": "人生观",
+      "tail_type": "概念",
+      "polarity": "positive",
+      "evidence": "深信宣传与教育的效果可以使人类的人生观得着一个最低限度的一致",
+      "confidence": 0.9
+    },
+    {
+      "id": "r6",
+      "head": "教育",
+      "head_type": "概念",
+      "relation": "导致",
+      "relation_subtype": "不适用",
+      "tail": "人生观",
+      "tail_type": "概念",
+      "polarity": "positive",
+      "evidence": "深信宣传与教育的效果可以使人类的人生观得着一个最低限度的一致",
+      "confidence": 0.9
+    },
+    {
+      "id": "r7",
+      "head": "科学的人生观",
+      "head_type": "概念",
+      "relation": "作为论据支持",
+      "relation_subtype": "不适用",
+      "tail": "人生观",
+      "tail_type": "概念",
+      "polarity": "positive",
+      "evidence": "拿今日科学家平心静气地、破除成见地公同承认的“科学的人生观”来做人类人生观的最低限度的一致",
+      "confidence": 0.9
+    },
+    {
+      "id": "r8",
+      "head": "宗教",
+      "head_type": "概念",
+      "relation": "导致",
+      "relation_subtype": "不适用",
+      "tail": "有神论",
+      "tail_type": "主义/学说/理论",
+      "polarity": "positive",
+      "evidence": "宗教的功效已曾使有神论和灵魂不灭论统一欧洲（其实何止欧洲？）的人生观至千余年之久",
+      "confidence": 0.9
+    },
+    {
+      "id": "r9",
+      "head": "宗教",
+      "head_type": "概念",
+      "relation": "导致",
+      "relation_subtype": "不适用",
+      "tail": "灵魂不灭论",
+      "tail_type": "主义/学说/理论",
+      "polarity": "positive",
+      "evidence": "宗教的功效已曾使有神论和灵魂不灭论统一欧洲（其实何止欧洲？）的人生观至千余年之久",
+      "confidence": 0.9
+    },
+    {
+      "id": "r10",
+      "head": "有神论",
+      "head_type": "主义/学说/理论",
+      "relation": "导致",
+      "relation_subtype": "不适用",
+      "tail": "人生观",
+      "tail_type": "概念",
+      "polarity": "positive",
+      "evidence": "宗教的功效已曾使有神论和灵魂不灭论统一欧洲（其实何止欧洲？）的人生观至千余年之久",
+      "confidence": 0.9
+    },
+    {
+      "id": "r11",
+      "head": "灵魂不灭论",
+      "head_type": "主义/学说/理论",
+      "relation": "导致",
+      "relation_subtype": "不适用",
+      "tail": "人生观",
+      "tail_type": "概念",
+      "polarity": "positive",
+      "evidence": "宗教的功效已曾使有神论和灵魂不灭论统一欧洲（其实何止欧洲？）的人生观至千余年之久",
+      "confidence": 0.9
+    },
+    {
+      "id": "r12",
+      "head": "新信仰",
+      "head_type": "概念",
+      "relation": "导致",
+      "relation_subtype": "不适用",
+      "tail": "旧信仰",
+      "tail_type": "概念",
+      "polarity": "negative",
+      "evidence": "新信仰总免不了和旧信仰冲突的事",
+      "confidence": 0.9
+    },
+    {
+      "id": "r13",
+      "head": "胡适",
+      "head_type": "人物",
+      "relation": "回应",
+      "relation_subtype": "概念澄清",
+      "tail": "林宰平",
+      "tail_type": "人物",
+      "polarity": "negative",
+      "evidence": "我们所谓“奋斗”，并不是像林宰平先生形容的“摩哈默得式”的武力统一",
+      "confidence": 0.9
+    }
+  ],
+  "definitions": [
+    {
+      "id": "def1",
+      "term": "科学的人生观",
+      "definition": "今日科学家平心静气地、破除成见地公同承认的人生观",
+      "evidence": "拿今日科学家平心静气地、破除成见地公同承认的“科学的人生观”来做人类人生观的最低限度的一致",
+      "confidence": 0.9
+    },
+    {
+      "id": "def2",
+      "term": "奋斗",
+      "definition": "用光明磊落的态度，诚恳的言论，宣传新信仰，继续不断的宣传，使少数人的信仰逐渐变成大多数人的信仰",
+      "evidence": "只是用光明磊落的态度，诚恳的言论，宣传我们的“新信仰”，继续不断的宣传，要使今日少数人的信仰逐渐变成将来大多数人的信仰",
+      "confidence": 0.9
+    }
+  ],
+  "citations": [
+    {
+      "id": "cit1",
+      "citer": "胡适",
+      "quoted_author": "林宰平",
+      "quoted_work": "",
+      "quoted_claim": "将胡适的奋斗形容为“摩哈默得式”的武力统一",
+      "function": "作为批评对象",
+      "evidence": "并不是像林宰平先生形容的“摩哈默得式”的武力统一",
+      "confidence": 0.9
+    }
+  ],
+  "rhetorical_devices": [
+    {
+      "id": "rh1",
+      "expression": "摩哈默得式",
+      "device_type": "比喻",
+      "literal_target": "武力统一的方式",
+      "function": "作为批评对象，胡适否认自己的奋斗是武力统一",
+      "evidence": "并不是像林宰平先生形容的“摩哈默得式”的武力统一",
+      "confidence": 0.9
+    }
+  ],
+  "uncertainties": [
+    {
+      "item": "柯白尼太阳居中说",
+      "reason": "原文拼写为'柯白尼'，可能为'哥白尼'的异译，但原文如此，保留原样"
+    },
+    {
+      "item": "林宰平先生形容的'摩哈默得式'的武力统一",
+      "reason": "林宰平的具体原文未提供，仅从胡适转述中得知其形容"
+    }
+  ]
+}

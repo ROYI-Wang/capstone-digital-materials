@@ -1,0 +1,434 @@
+{
+  "metadata": {
+    "schema_version": "lite_v2.0",
+    "article_id": "张君劢_002_c870d202",
+    "article_title": "再论人生观与科学并答丁在君",
+    "source_author": "张君劢",
+    "section_title": "",
+    "section_author": "",
+    "segment_id": "张君劢_002_c870d202_s0038",
+    "segment_index": 38,
+    "source_file": "E:\\1研究生\\岭南大学\\论文毕业\\capstone\\资料\\新的内容开始了\\local_upload\\input_w3\\张君劢.txt"
+  },
+  "entities": [
+    {
+      "id": "e1",
+      "name": "孟子",
+      "canonical_name": "孟子",
+      "type": "人物",
+      "evidence": "孟子曰，舜之居深山之中，……闻一善言，见一善行，若决江河，沛然莫之能御也。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e2",
+      "name": "孔子",
+      "canonical_name": "孔子",
+      "type": "人物",
+      "evidence": "孔子曰，为人由己，而由人乎哉？又曰：古之学者为己，今之学者为人。又曰，君子喻于义，小人喻于利。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e3",
+      "name": "汉学家",
+      "canonical_name": "汉学家",
+      "type": "阵营/群体",
+      "evidence": "关于自然界之研究与文字之考证，当然以汉学家或欧洲唯物派之言为长。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e4",
+      "name": "欧洲唯物派",
+      "canonical_name": "欧洲唯物派",
+      "type": "阵营/群体",
+      "evidence": "关于自然界之研究与文字之考证，当然以汉学家或欧洲唯物派之言为长。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e5",
+      "name": "唯心派",
+      "canonical_name": "唯心派",
+      "type": "阵营/群体",
+      "evidence": "其关于人生之解释与内心之修养，当然以唯心派之言为长。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e6",
+      "name": "梁任公",
+      "canonical_name": "梁启超",
+      "type": "人物",
+      "evidence": "而国中学者如梁任公，如胡适之，受清学之影响，大抵扬汉而抑宋。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e7",
+      "name": "胡适之",
+      "canonical_name": "胡适",
+      "type": "人物",
+      "evidence": "而国中学者如梁任公，如胡适之，受清学之影响，大抵扬汉而抑宋。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e8",
+      "name": "清学",
+      "canonical_name": "清学",
+      "type": "概念",
+      "evidence": "而国中学者如梁任公，如胡适之，受清学之影响，大抵扬汉而抑宋。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e9",
+      "name": "汉",
+      "canonical_name": "汉学",
+      "type": "概念",
+      "evidence": "而国中学者如梁任公，如胡适之，受清学之影响，大抵扬汉而抑宋。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e10",
+      "name": "宋",
+      "canonical_name": "宋学",
+      "type": "概念",
+      "evidence": "而国中学者如梁任公，如胡适之，受清学之影响，大抵扬汉而抑宋。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e11",
+      "name": "《德育鉴》",
+      "canonical_name": "德育鉴",
+      "type": "著作",
+      "evidence": "任公虽尝著《德育鉴》，又节抄《明儒学案》，然治学方法，自谓与清之正统派因缘较深，故于宋明理学家之严格生活，非其性之所近。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e12",
+      "name": "《明儒学案》",
+      "canonical_name": "明儒学案",
+      "type": "著作",
+      "evidence": "任公虽尝著《德育鉴》，又节抄《明儒学案》，然治学方法，自谓与清之正统派因缘较深，故于宋明理学家之严格生活，非其性之所近。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e13",
+      "name": "清之正统派",
+      "canonical_name": "清之正统派",
+      "type": "阵营/群体",
+      "evidence": "然治学方法，自谓与清之正统派因缘较深，故于宋明理学家之严格生活，非其性之所近。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e14",
+      "name": "宋明理学家",
+      "canonical_name": "宋明理学家",
+      "type": "阵营/群体",
+      "evidence": "故于宋明理学家之严格生活，非其性之所近。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e15",
+      "name": "适之",
+      "canonical_name": "胡适",
+      "type": "人物",
+      "evidence": "适之推崇清代经学大师尤至，称为合于西方科学方法。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e16",
+      "name": "清代经学大师",
+      "canonical_name": "清代经学大师",
+      "type": "阵营/群体",
+      "evidence": "适之推崇清代经学大师尤至，称为合于西方科学方法。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e17",
+      "name": "西方科学方法",
+      "canonical_name": "西方科学方法",
+      "type": "概念",
+      "evidence": "适之推崇清代经学大师尤至，称为合于西方科学方法。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e18",
+      "name": "在君",
+      "canonical_name": "丁文江",
+      "type": "人物",
+      "evidence": "而在君雷同附和之，亦引汉学家言以排宋学。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e19",
+      "name": "汉学家言",
+      "canonical_name": "汉学家言",
+      "type": "概念",
+      "evidence": "而在君雷同附和之，亦引汉学家言以排宋学。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e20",
+      "name": "宋学",
+      "canonical_name": "宋学",
+      "type": "概念",
+      "evidence": "而在君雷同附和之，亦引汉学家言以排宋学。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e21",
+      "name": "科学方法",
+      "canonical_name": "科学方法",
+      "type": "概念",
+      "evidence": "许多中国人，不知道科学方法和近三百年经学大师治学方法是一样的。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e22",
+      "name": "近三百年经学大师",
+      "canonical_name": "近三百年经学大师",
+      "type": "阵营/群体",
+      "evidence": "许多中国人，不知道科学方法和近三百年经学大师治学方法是一样的。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e23",
+      "name": "治学方法",
+      "canonical_name": "治学方法",
+      "type": "概念",
+      "evidence": "许多中国人，不知道科学方法和近三百年经学大师治学方法是一样的。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e24",
+      "name": "内功的理学家",
+      "canonical_name": "内功的理学家",
+      "type": "阵营/群体",
+      "evidence": "提倡内功的理学家，宋朝不止一个，最明显的是陆象山一派。",
+      "confidence": 1.0
+    },
+    {
+      "id": "e25",
+      "name": "陆象山",
+      "canonical_name": "陆九渊",
+      "type": "人物",
+      "evidence": "提倡内功的理学家，宋朝不止一个，最明显的是陆象山一派。",
+      "confidence": 1.0
+    }
+  ],
+  "claims": [
+    {
+      "id": "c1",
+      "speaker": "张君劢",
+      "claim": "关于自然界之研究与文字之考证，当然以汉学家或欧洲唯物派之言为长。",
+      "target": "汉学家",
+      "claim_type": "方法论主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "关于自然界之研究与文字之考证，当然以汉学家或欧洲唯物派之言为长。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c2",
+      "speaker": "张君劢",
+      "claim": "其关于人生之解释与内心之修养，当然以唯心派之言为长。",
+      "target": "唯心派",
+      "claim_type": "方法论主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "其关于人生之解释与内心之修养，当然以唯心派之言为长。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c3",
+      "speaker": "张君劢",
+      "claim": "吾之为此言，自谓极平允，无偏袒。",
+      "target": "张君劢",
+      "claim_type": "价值评价",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "吾之为此言，自谓极平允，无偏袒。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c4",
+      "speaker": "张君劢",
+      "claim": "而国中学者如梁任公，如胡适之，受清学之影响，大抵扬汉而抑宋。",
+      "target": "梁任公",
+      "claim_type": "历史解释",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "而国中学者如梁任公，如胡适之，受清学之影响，大抵扬汉而抑宋。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c5",
+      "speaker": "张君劢",
+      "claim": "任公虽尝著《德育鉴》，又节抄《明儒学案》，然治学方法，自谓与清之正统派因缘较深，故于宋明理学家之严格生活，非其性之所近。",
+      "target": "梁任公",
+      "claim_type": "历史解释",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "任公虽尝著《德育鉴》，又节抄《明儒学案》，然治学方法，自谓与清之正统派因缘较深，故于宋明理学家之严格生活，非其性之所近。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c6",
+      "speaker": "张君劢",
+      "claim": "适之推崇清代经学大师尤至，称为合于西方科学方法。",
+      "target": "胡适之",
+      "claim_type": "历史解释",
+      "claim_status": "作者直接主张",
+      "polarity": "neutral",
+      "evidence": "适之推崇清代经学大师尤至，称为合于西方科学方法。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c7",
+      "speaker": "张君劢",
+      "claim": "而在君雷同附和之，亦引汉学家言以排宋学。",
+      "target": "在君",
+      "claim_type": "论战策略批评",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "而在君雷同附和之，亦引汉学家言以排宋学。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c8",
+      "speaker": "在君",
+      "claim": "许多中国人，不知道科学方法和近三百年经学大师治学方法是一样的。",
+      "target": "许多中国人",
+      "claim_type": "知识论主张",
+      "claim_status": "直接引用",
+      "polarity": "negative",
+      "evidence": "其言曰：“许多中国人，不知道科学方法和近三百年经学大师治学方法是一样的。”",
+      "confidence": 1.0
+    },
+    {
+      "id": "c9",
+      "speaker": "在君",
+      "claim": "提倡内功的理学家，宋朝不止一个，最明显的是陆象山一派。",
+      "target": "内功的理学家",
+      "claim_type": "历史解释",
+      "claim_status": "直接引用",
+      "polarity": "neutral",
+      "evidence": "其痛诋宋学之言尤关紧要，录之如下：“提倡内功的理学家，宋朝不止一个，最明显的是陆象山一派。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c10",
+      "speaker": "在君",
+      "claim": "不过当时的学者还主张读书，还不是完全空疏。",
+      "target": "当时的学者",
+      "claim_type": "历史解释",
+      "claim_status": "直接引用",
+      "polarity": "neutral",
+      "evidence": "不过当时的学者还主张读书，还不是完全空疏。",
+      "confidence": 1.0
+    },
+    {
+      "id": "c11",
+      "speaker": "在君",
+      "claim": "然而我们看南渡时士大夫的没有能力，没有常识，已经令人骇怪。",
+      "target": "南渡时士大夫",
+      "claim_type": "价值评价",
+      "claim_status": "直接引用",
+      "polarity": "negative",
+      "evidence": "然而我们看南渡时士大夫的没有能力，没有常识，已经令人骇怪。",
+      "confidence": 1.0
+    }
+  ],
+  "relations": [
+    {
+      "id": "r1",
+      "head": "张君劢",
+      "head_type": "人物",
+      "relation": "主张",
+      "tail": "关于自然界之研究与文字之考证，当然以汉学家或欧洲唯物派之言为长。",
+      "tail_type": "观点",
+      "polarity": "positive",
+      "evidence": "关于自然界之研究与文字之考证，当然以汉学家或欧洲唯物派之言为长。",
+      "confidence": 1.0
+    },
+    {
+      "id": "r2",
+      "head": "张君劢",
+      "head_type": "人物",
+      "relation": "主张",
+      "tail": "其关于人生之解释与内心之修养，当然以唯心派之言为长。",
+      "tail_type": "观点",
+      "polarity": "positive",
+      "evidence": "其关于人生之解释与内心之修养，当然以唯心派之言为长。",
+      "confidence": 1.0
+    },
+    {
+      "id": "r3",
+      "head": "张君劢",
+      "head_type": "人物",
+      "relation": "批评",
+      "tail": "在君",
+      "tail_type": "人物",
+      "polarity": "negative",
+      "evidence": "而在君雷同附和之，亦引汉学家言以排宋学。",
+      "confidence": 1.0
+    },
+    {
+      "id": "r4",
+      "head": "在君",
+      "head_type": "人物",
+      "relation": "相关",
+      "tail": "汉学家言",
+      "tail_type": "概念",
+      "polarity": "positive",
+      "evidence": "而在君雷同附和之，亦引汉学家言以排宋学。",
+      "confidence": 1.0
+    },
+    {
+      "id": "r5",
+      "head": "在君",
+      "head_type": "人物",
+      "relation": "批评",
+      "tail": "宋学",
+      "tail_type": "概念",
+      "polarity": "negative",
+      "evidence": "而在君雷同附和之，亦引汉学家言以排宋学。",
+      "confidence": 1.0
+    }
+  ],
+  "definitions": [],
+  "citations": [
+    {
+      "id": "cit1",
+      "citer": "张君劢",
+      "quoted_author": "在君",
+      "quoted_work": "",
+      "quoted_claim": "许多中国人，不知道科学方法和近三百年经学大师治学方法是一样的。",
+      "function": "作为批评对象",
+      "evidence": "其言曰：“许多中国人，不知道科学方法和近三百年经学大师治学方法是一样的。”",
+      "confidence": 1.0
+    }
+  ],
+  "rhetorical_devices": [],
+  "uncertainties": [
+    {
+      "item": "文本开头有孤立的句号，可能与前文连接，但当前片段无法判断其含义。",
+      "reason": "当前文本以句号开头，无前文上下文。"
+    }
+  ],
+  "_meta": {
+    "status": "success",
+    "stage": "extract",
+    "model": "deepseek-ai/DeepSeek-V4-Flash",
+    "base_url": "https://api.siliconflow.cn/v1",
+    "prompt_version": "extract_prompt_v2.0",
+    "schema_version": "lite_v2.0",
+    "segment_id": "张君劢_002_c870d202_s0038",
+    "article_id": "张君劢_002_c870d202",
+    "char_start": 19114,
+    "char_end": 19711,
+    "raw_path": "E:\\1研究生\\岭南大学\\论文毕业\\capstone\\资料\\新的内容开始了\\local_upload\\kg_runs\\张君劢\\raw_outputs\\extract\\张君劢_002_c870d202_s0038.txt",
+    "parsed_at": "2026-05-20T04:24:37",
+    "started_at": "2026-05-20T04:21:53",
+    "elapsed_seconds": 163.681,
+    "strict_evidence_check": true,
+    "drop_unsupported_evidence": true,
+    "request_timeout_seconds": 180
+  }
+}

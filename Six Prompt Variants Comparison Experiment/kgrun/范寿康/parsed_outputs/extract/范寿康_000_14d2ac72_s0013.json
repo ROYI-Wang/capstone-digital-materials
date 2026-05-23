@@ -1,0 +1,406 @@
+{
+  "metadata": {
+    "schema_version": "lite_v2.0",
+    "article_id": "范寿康_000_14d2ac72",
+    "article_title": "评所谓“科学与玄学之争”",
+    "source_author": "范寿康",
+    "section_title": "",
+    "section_author": "",
+    "segment_id": "范寿康_000_14d2ac72_s0013",
+    "segment_index": 13,
+    "source_file": "E:\\1研究生\\岭南大学\\论文毕业\\capstone\\资料\\新的内容开始了\\local_upload\\input_w1\\范寿康.txt"
+  },
+  "entities": [
+    {
+      "id": "e1",
+      "name": "梁启超",
+      "canonical_name": "梁启超",
+      "type": "人物",
+      "evidence": "诸氏里面抱部分相关的主张最明显的要推梁启超氏",
+      "confidence": 1.0
+    },
+    {
+      "id": "e2",
+      "name": "唐钺",
+      "canonical_name": "唐钺",
+      "type": "人物",
+      "evidence": "梁氏这种结论难怪要引起唐钺氏的《痴人说梦》",
+      "confidence": 1.0
+    },
+    {
+      "id": "e3",
+      "name": "科学家",
+      "canonical_name": "科学家",
+      "type": "阵营/群体",
+      "evidence": "这种议论是科学家对于人生观所持有的偏见",
+      "confidence": 1.0
+    },
+    {
+      "id": "e4",
+      "name": "科学",
+      "canonical_name": "科学",
+      "type": "概念",
+      "evidence": "狭义的科学能够解决人生观的全部",
+      "confidence": 1.0
+    },
+    {
+      "id": "e5",
+      "name": "因果律",
+      "canonical_name": "因果律",
+      "type": "概念",
+      "evidence": "人类的意志全受因果律（狭义）的支配",
+      "confidence": 1.0
+    },
+    {
+      "id": "e6",
+      "name": "意志",
+      "canonical_name": "意志",
+      "type": "概念",
+      "evidence": "人类的意志全受因果律（狭义）的支配",
+      "confidence": 1.0
+    },
+    {
+      "id": "e7",
+      "name": "自由",
+      "canonical_name": "自由",
+      "type": "概念",
+      "evidence": "他们否认自由和道德",
+      "confidence": 1.0
+    },
+    {
+      "id": "e8",
+      "name": "道德",
+      "canonical_name": "道德",
+      "type": "概念",
+      "evidence": "他们否认自由和道德",
+      "confidence": 1.0
+    },
+    {
+      "id": "e9",
+      "name": "理智",
+      "canonical_name": "理智",
+      "type": "概念",
+      "evidence": "梁氏以理智与情感的分别为科学能否解决的界限",
+      "confidence": 1.0
+    },
+    {
+      "id": "e10",
+      "name": "情感",
+      "canonical_name": "情感",
+      "type": "概念",
+      "evidence": "梁氏以理智与情感的分别为科学能否解决的界限",
+      "confidence": 1.0
+    },
+    {
+      "id": "e11",
+      "name": "心理学",
+      "canonical_name": "心理学",
+      "type": "概念",
+      "evidence": "现今的心理学不是已经把情感研究到某种程度么",
+      "confidence": 1.0
+    },
+    {
+      "id": "e12",
+      "name": "义务意识",
+      "canonical_name": "义务意识",
+      "type": "概念",
+      "evidence": "站在道德现象的背后而为道德现象的资本的义务意识——是超科学的",
+      "confidence": 1.0
+    },
+    {
+      "id": "e13",
+      "name": "《痴人说梦》",
+      "canonical_name": "痴人说梦",
+      "type": "著作",
+      "evidence": "梁氏这种结论难怪要引起唐钺氏的《痴人说梦》",
+      "confidence": 1.0
+    },
+    {
+      "id": "e14",
+      "name": "《人生观与科学》",
+      "canonical_name": "人生观与科学",
+      "type": "著作",
+      "evidence": "梁氏在他的《人生观与科学》里面说",
+      "confidence": 1.0
+    },
+    {
+      "id": "e15",
+      "name": "部分相关",
+      "canonical_name": "部分相关",
+      "type": "观点",
+      "evidence": "完全无关和完全相关的两种见解既都难称妥适，那末，能够成立的自然不出部分相关的见解",
+      "confidence": 1.0
+    },
+    {
+      "id": "e16",
+      "name": "完全相关",
+      "canonical_name": "完全相关",
+      "type": "观点",
+      "evidence": "完全无关和完全相关的两种见解既都难称妥适",
+      "confidence": 1.0
+    },
+    {
+      "id": "e17",
+      "name": "完全无关",
+      "canonical_name": "完全无关",
+      "type": "观点",
+      "evidence": "完全无关和完全相关的两种见解既都难称妥适",
+      "confidence": 1.0
+    },
+    {
+      "id": "e18",
+      "name": "伦理的当为的先天形式",
+      "canonical_name": "伦理的当为的先天形式",
+      "type": "概念",
+      "evidence": "人类的伦理的当为的先天形式——就是人类最可宝贵的，站在道德现象的背后而为道德现象的资本的义务意识——是超科学的",
+      "confidence": 1.0
+    }
+  ],
+  "claims": [
+    {
+      "id": "c1",
+      "speaker": "科学家",
+      "claim": "生观的解决全赖狭义的科学，狭义的科学能够解决人生观的全部",
+      "target": "人生观",
+      "claim_type": "知识论主张",
+      "claim_status": "作者概括",
+      "polarity": "negative",
+      "evidence": "生观的解决全赖狭义的科学，狭义的科学能够解决人生观的全部",
+      "confidence": 1.0
+    },
+    {
+      "id": "c2",
+      "speaker": "科学家",
+      "claim": "人类的意志全受因果律（狭义）的支配，人类直同机械一样，否认自由和道德",
+      "target": "意志",
+      "claim_type": "知识论主张",
+      "claim_status": "作者概括",
+      "polarity": "negative",
+      "evidence": "他们竟至承认人类的意志全受因果律（狭义）的支配，他们看人类直同机械一样，他们否认自由和道德",
+      "confidence": 1.0
+    },
+    {
+      "id": "c3",
+      "speaker": "范寿康",
+      "claim": "科学家对于人生观所持有的这种议论是偏见",
+      "target": "科学家",
+      "claim_type": "价值评价",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "这种议论是科学家对于人生观所持有的偏见",
+      "confidence": 1.0
+    },
+    {
+      "id": "c4",
+      "speaker": "范寿康",
+      "claim": "对人生观与科学完全相关的见解不敢表示赞成",
+      "target": "完全相关",
+      "claim_type": "价值评价",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "我对于这一种人生观与科学完全相关的见解也不敢表示赞成",
+      "confidence": 1.0
+    },
+    {
+      "id": "c5",
+      "speaker": "范寿康",
+      "claim": "完全无关和完全相关的两种见解都难称妥适，能够成立的是部分相关的见解",
+      "target": "部分相关",
+      "claim_type": "结论性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "完全无关和完全相关的两种见解既都难称妥适，那末，能够成立的自然不出部分相关的见解",
+      "confidence": 1.0
+    },
+    {
+      "id": "c6",
+      "speaker": "梁启超",
+      "claim": "人生问题，有大部分是可以——而且必要用科学方法来解决的。却有一小部分——或者还是最重要的部分是超科学的",
+      "target": "人生观",
+      "claim_type": "知识论主张",
+      "claim_status": "直接引用",
+      "polarity": "positive",
+      "evidence": "人生问题，有大部分是可以——而且必要用科学方法来解决的。却有一小部分——或者还是最重要的部分是超科学的",
+      "confidence": 1.0
+    },
+    {
+      "id": "c7",
+      "speaker": "范寿康",
+      "claim": "对梁启超的判断全体赞成",
+      "target": "梁启超",
+      "claim_type": "价值评价",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "对于梁氏上面的判断，我是全体赞成的",
+      "confidence": 1.0
+    },
+    {
+      "id": "c8",
+      "speaker": "梁启超",
+      "claim": "人生关涉理智方面的事项，绝对要用科学方法来解决。关于情感方面的事项，绝对的超科学",
+      "target": "人生观",
+      "claim_type": "知识论主张",
+      "claim_status": "直接引用",
+      "polarity": "positive",
+      "evidence": "人生关涉理智方面的事项，绝对要用科学方法来解决。关于情感方面的事项，绝对的超科学",
+      "confidence": 1.0
+    },
+    {
+      "id": "c9",
+      "speaker": "范寿康",
+      "claim": "梁启超以理智与情感的分别为科学能否解决的界限，这是难算正当",
+      "target": "梁启超",
+      "claim_type": "反驳性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "我以为梁氏以理智与情感的分别为科学能否解决的界限，这是难算正当",
+      "confidence": 1.0
+    },
+    {
+      "id": "c10",
+      "speaker": "范寿康",
+      "claim": "现今的心理学已经把情感研究到某种程度，心理学是科学",
+      "target": "心理学",
+      "claim_type": "知识论主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "现今的心理学不是已经把情感研究到某种程度么？照梁氏看来，难道心理学不是科学么",
+      "confidence": 1.0
+    },
+    {
+      "id": "c11",
+      "speaker": "范寿康",
+      "claim": "人类的伦理的当为的先天形式——义务意识——是超科学的",
+      "target": "义务意识",
+      "claim_type": "定义性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "人类的伦理的当为的先天形式——就是人类最可宝贵的，站在道德现象的背后而为道德现象的资本的义务意识——是超科学的",
+      "confidence": 1.0
+    }
+  ],
+  "relations": [
+    {
+      "id": "r1",
+      "head": "范寿康",
+      "head_type": "人物",
+      "relation": "批评",
+      "tail": "科学家",
+      "tail_type": "阵营/群体",
+      "polarity": "negative",
+      "evidence": "这种议论是科学家对于人生观所持有的偏见",
+      "confidence": 1.0
+    },
+    {
+      "id": "r2",
+      "head": "范寿康",
+      "head_type": "人物",
+      "relation": "批评",
+      "tail": "完全相关",
+      "tail_type": "观点",
+      "polarity": "negative",
+      "evidence": "我对于这一种人生观与科学完全相关的见解也不敢表示赞成",
+      "confidence": 1.0
+    },
+    {
+      "id": "r3",
+      "head": "范寿康",
+      "head_type": "人物",
+      "relation": "作为论据支持",
+      "tail": "心理学",
+      "tail_type": "概念",
+      "polarity": "positive",
+      "evidence": "现今的心理学不是已经把情感研究到某种程度么？照梁氏看来，难道心理学不是科学么",
+      "confidence": 1.0
+    },
+    {
+      "id": "r4",
+      "head": "范寿康",
+      "head_type": "人物",
+      "relation": "相关",
+      "tail": "梁启超",
+      "tail_type": "人物",
+      "polarity": "positive",
+      "evidence": "诸氏里面抱部分相关的主张最明显的要推梁启超氏。梁氏在他的《人生观与科学》里面说",
+      "confidence": 1.0
+    },
+    {
+      "id": "r5",
+      "head": "范寿康",
+      "head_type": "人物",
+      "relation": "定义",
+      "tail": "义务意识",
+      "tail_type": "概念",
+      "polarity": "positive",
+      "evidence": "人类的伦理的当为的先天形式——就是人类最可宝贵的，站在道德现象的背后而为道德现象的资本的义务意识——是超科学的",
+      "confidence": 1.0
+    }
+  ],
+  "definitions": [
+    {
+      "id": "def1",
+      "term": "义务意识",
+      "definition": "人类的伦理的当为的先天形式，站在道德现象的背后而为道德现象的资本",
+      "evidence": "人类的伦理的当为的先天形式——就是人类最可宝贵的，站在道德现象的背后而为道德现象的资本的义务意识——是超科学的",
+      "confidence": 1.0
+    }
+  ],
+  "citations": [
+    {
+      "id": "cit1",
+      "citer": "范寿康",
+      "quoted_author": "梁启超",
+      "quoted_work": "《人生观与科学》",
+      "quoted_claim": "人生问题，有大部分是可以——而且必要用科学方法来解决的。却有一小部分——或者还是最重要的部分是超科学的",
+      "function": "援引权威支持",
+      "evidence": "梁氏在他的《人生观与科学》里面说: “人生问题，有大部分是可以——而且必要用科学方法来解决的。却有一小部分——或者还是最重要的部分是超科学的。”",
+      "confidence": 1.0
+    },
+    {
+      "id": "cit2",
+      "citer": "范寿康",
+      "quoted_author": "梁启超",
+      "quoted_work": "《人生观与科学》",
+      "quoted_claim": "人生关涉理智方面的事项，绝对要用科学方法来解决。关于情感方面的事项，绝对的超科学",
+      "function": "作为批评对象",
+      "evidence": "他说: “人生关涉理智方面的事项，绝对要用科学方法来解决。关于情感方面的事项，绝对的超科学。”",
+      "confidence": 1.0
+    }
+  ],
+  "rhetorical_devices": [
+    {
+      "id": "rh1",
+      "expression": "他们看人类直同机械一样",
+      "device_type": "比喻",
+      "literal_target": "科学家将人类视为机械",
+      "function": "批评科学家否认自由和道德的观点",
+      "evidence": "他们看人类直同机械一样",
+      "confidence": 1.0
+    }
+  ],
+  "uncertainties": [
+    {
+      "item": "“生观”是否为“人生观”的笔误",
+      "reason": "文本开头写“生观的解决”，可能为“人生观”的简写或笔误，但原文如此，无法确定"
+    }
+  ],
+  "_meta": {
+    "status": "success",
+    "stage": "extract",
+    "model": "deepseek-ai/DeepSeek-V4-Flash",
+    "base_url": "https://api.siliconflow.cn/v1",
+    "prompt_version": "extract_prompt_v2.0",
+    "schema_version": "lite_v2.0",
+    "segment_id": "范寿康_000_14d2ac72_s0013",
+    "article_id": "范寿康_000_14d2ac72",
+    "char_start": 6505,
+    "char_end": 7081,
+    "raw_path": "E:\\1研究生\\岭南大学\\论文毕业\\capstone\\资料\\新的内容开始了\\local_upload\\kg_runs\\范寿康\\raw_outputs\\extract\\范寿康_000_14d2ac72_s0013.txt",
+    "parsed_at": "2026-05-20T00:34:23",
+    "started_at": "2026-05-20T00:30:07",
+    "elapsed_seconds": 256.715,
+    "strict_evidence_check": true,
+    "drop_unsupported_evidence": true,
+    "request_timeout_seconds": 180
+  }
+}

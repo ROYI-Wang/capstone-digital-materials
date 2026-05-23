@@ -1,0 +1,293 @@
+{
+  "metadata": {
+    "schema_version": "lite_v2.0",
+    "article_id": "丁文江2_000_e838922e",
+    "article_title": "玄学与科学——答张君劢",
+    "source_author": "丁文江",
+    "section_title": "",
+    "section_author": "",
+    "segment_id": "丁文江2_000_e838922e_s0043",
+    "segment_index": 43,
+    "source_file": "E:\\1研究生\\岭南大学\\论文毕业\\capstone\\资料\\新的内容开始了\\local_upload\\input_texts\\丁文江2.txt"
+  },
+  "entities": [
+    {
+      "id": "e1",
+      "name": "拉马克",
+      "canonical_name": "拉马克",
+      "type": "人物",
+      "evidence": "拉马克同达尔文",
+      "confidence": 1.0
+    },
+    {
+      "id": "e2",
+      "name": "达尔文",
+      "canonical_name": "达尔文",
+      "type": "人物",
+      "evidence": "拉马克同达尔文",
+      "confidence": 1.0
+    },
+    {
+      "id": "e3",
+      "name": "牛顿",
+      "canonical_name": "牛顿",
+      "type": "人物",
+      "evidence": "牛顿死于七二七年",
+      "confidence": 1.0
+    },
+    {
+      "id": "e4",
+      "name": "爱因斯坦",
+      "canonical_name": "爱因斯坦",
+      "type": "人物",
+      "evidence": "爱因斯坦相对论",
+      "confidence": 1.0
+    },
+    {
+      "id": "e5",
+      "name": "柏格森",
+      "canonical_name": "柏格森",
+      "type": "人物",
+      "evidence": "柏格森先生的直觉",
+      "confidence": 1.0
+    },
+    {
+      "id": "e6",
+      "name": "张君劢",
+      "canonical_name": "张君劢",
+      "type": "人物",
+      "evidence": "君劢所“姑置勿论”",
+      "confidence": 1.0
+    },
+    {
+      "id": "e7",
+      "name": "拉氏",
+      "canonical_name": "拉马克",
+      "type": "人物",
+      "evidence": "拉氏已经死了三十九年",
+      "confidence": 0.9
+    },
+    {
+      "id": "e8",
+      "name": "疯子",
+      "canonical_name": "疯子",
+      "type": "概念",
+      "evidence": "与我所说的疯子又有什么关系",
+      "confidence": 0.9
+    },
+    {
+      "id": "e9",
+      "name": "觉官印象",
+      "canonical_name": "觉官印象",
+      "type": "概念",
+      "evidence": "一个人所知道的事实，本来就是他觉官的印象",
+      "confidence": 1.0
+    },
+    {
+      "id": "e10",
+      "name": "自觉组织",
+      "canonical_name": "自觉组织",
+      "type": "概念",
+      "evidence": "他们的“自觉组织不同？”",
+      "confidence": 0.9
+    },
+    {
+      "id": "e11",
+      "name": "科学毒",
+      "canonical_name": "科学毒",
+      "type": "概念",
+      "evidence": "一个“中了科学毒”",
+      "confidence": 0.9
+    },
+    {
+      "id": "e12",
+      "name": "玄学鬼",
+      "canonical_name": "玄学鬼",
+      "type": "概念",
+      "evidence": "一个“被玄学鬼附上身”",
+      "confidence": 0.9
+    },
+    {
+      "id": "e13",
+      "name": "官觉组织",
+      "canonical_name": "官觉组织",
+      "type": "概念",
+      "evidence": "他的官觉组织真正和我的是两样的",
+      "confidence": 0.9
+    },
+    {
+      "id": "e14",
+      "name": "相对论",
+      "canonical_name": "相对论",
+      "type": "概念",
+      "evidence": "爱因斯坦相对论",
+      "confidence": 1.0
+    },
+    {
+      "id": "e15",
+      "name": "直觉",
+      "canonical_name": "直觉",
+      "type": "概念",
+      "evidence": "柏格森先生的直觉",
+      "confidence": 1.0
+    }
+  ],
+  "claims": [
+    {
+      "id": "c1",
+      "speaker": "丁文江",
+      "claim": "拉马克同达尔文、牛顿同爱因斯坦的觉官印象不相同",
+      "target": "张君劢",
+      "claim_type": "反驳性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "他们觉官印象不相同",
+      "confidence": 1.0
+    },
+    {
+      "id": "c2",
+      "speaker": "丁文江",
+      "claim": "一个人所知道的事实，本来就是他觉官的印象",
+      "target": "",
+      "claim_type": "知识论主张",
+      "claim_status": "作者直接主张",
+      "polarity": "positive",
+      "evidence": "一个人所知道的事实，本来就是他觉官的印象",
+      "confidence": 1.0
+    },
+    {
+      "id": "c3",
+      "speaker": "丁文江",
+      "claim": "张君劢说拉马克同达尔文、牛顿同爱因斯坦有相同的觉官印象，这是不对的",
+      "target": "张君劢",
+      "claim_type": "反驳性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "如何可以说拉马克同达尔文，牛顿同爱因斯坦有相同的觉官印象？",
+      "confidence": 0.9
+    },
+    {
+      "id": "c4",
+      "speaker": "丁文江",
+      "claim": "张君劢把议论不相同说成是觉官组织不相同，没有事实根据",
+      "target": "张君劢",
+      "claim_type": "反驳性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "议论不相同，就是说觉官组织不相同，有什么事实的根据？",
+      "confidence": 1.0
+    },
+    {
+      "id": "c5",
+      "speaker": "丁文江",
+      "claim": "张君劢的“自觉组织不同”的说法与我所说的疯子没有关系",
+      "target": "张君劢",
+      "claim_type": "反驳性主张",
+      "claim_status": "作者直接主张",
+      "polarity": "negative",
+      "evidence": "如何能说他们的“自觉组织不同？”与我所说的疯子又有什么关系？",
+      "confidence": 0.9
+    },
+    {
+      "id": "c6",
+      "speaker": "丁文江",
+      "claim": "张君劢的人生观与丁文江不同，是因为一个中了科学毒、一个被玄学鬼附上身",
+      "target": "张君劢",
+      "claim_type": "反驳性主张",
+      "claim_status": "作者讽刺性归纳",
+      "polarity": "negative",
+      "evidence": "我们两个人的人生观不一样，是否因为是一个“中了科学毒”、一个“被玄学鬼附上身”",
+      "confidence": 0.9
+    }
+  ],
+  "relations": [
+    {
+      "id": "r1",
+      "head": "丁文江",
+      "head_type": "人物",
+      "relation": "反驳",
+      "relation_subtype": "事实质疑",
+      "tail": "张君劢",
+      "tail_type": "人物",
+      "polarity": "negative",
+      "evidence": "如何可以说拉马克同达尔文，牛顿同爱因斯坦有相同的觉官印象？",
+      "confidence": 1.0
+    },
+    {
+      "id": "r2",
+      "head": "丁文江",
+      "head_type": "人物",
+      "relation": "反驳",
+      "relation_subtype": "事实质疑",
+      "tail": "张君劢",
+      "tail_type": "人物",
+      "polarity": "negative",
+      "evidence": "议论不相同，就是说觉官组织不相同，有什么事实的根据？",
+      "confidence": 1.0
+    },
+    {
+      "id": "r3",
+      "head": "丁文江",
+      "head_type": "人物",
+      "relation": "反驳",
+      "relation_subtype": "逻辑反驳",
+      "tail": "张君劢",
+      "tail_type": "人物",
+      "polarity": "negative",
+      "evidence": "如何能说他们的“自觉组织不同？”与我所说的疯子又有什么关系？",
+      "confidence": 0.9
+    },
+    {
+      "id": "r4",
+      "head": "丁文江",
+      "head_type": "人物",
+      "relation": "归谬",
+      "relation_subtype": "归谬",
+      "tail": "张君劢",
+      "tail_type": "人物",
+      "polarity": "negative",
+      "evidence": "我们两个人的人生观不一样，是否因为是一个“中了科学毒”、一个“被玄学鬼附上身”，所以觉官的印象不相同",
+      "confidence": 0.9
+    }
+  ],
+  "definitions": [
+    {
+      "id": "def1",
+      "term": "觉官印象",
+      "definition": "一个人所知道的事实，就是他觉官的印象",
+      "evidence": "一个人所知道的事实，本来就是他觉官的印象",
+      "confidence": 1.0
+    }
+  ],
+  "citations": [],
+  "rhetorical_devices": [
+    {
+      "id": "rh1",
+      "expression": "中了科学毒",
+      "device_type": "标签化",
+      "literal_target": "丁文江自己（被张君劢标签）",
+      "function": "讽刺性归纳张君劢对丁文江的标签，用于反驳",
+      "evidence": "一个“中了科学毒”",
+      "confidence": 0.9
+    },
+    {
+      "id": "rh2",
+      "expression": "被玄学鬼附上身",
+      "device_type": "标签化",
+      "literal_target": "张君劢（被丁文江标签）",
+      "function": "讽刺性归纳丁文江对张君劢的标签，用于反驳",
+      "evidence": "一个“被玄学鬼附上身”",
+      "confidence": 0.9
+    }
+  ],
+  "uncertainties": [
+    {
+      "item": "拉氏是否确指拉马克",
+      "reason": "文本中“拉氏”未给出全名，但根据上下文“拉马克同达尔文”推断为拉马克，confidence 设为 0.9"
+    },
+    {
+      "item": "“疯子”的具体指代",
+      "reason": "文本中“与我所说的疯子又有什么关系”未说明“疯子”的具体含义，可能指前文中的某个比喻或概念"
+    }
+  ]
+}
