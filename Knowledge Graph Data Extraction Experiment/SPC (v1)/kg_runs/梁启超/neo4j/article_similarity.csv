@@ -1,2 +1,0 @@
-article_id_a,article_title_a,source_author_a,article_id_b,article_title_b,source_author_b,jaccard,shared_feature_count,union_feature_count
-梁启超_001_4a5e589a,人生观与科学,梁启超,梁启超_002_40d1afac,东荪按,张东荪,0.078818,16,203
